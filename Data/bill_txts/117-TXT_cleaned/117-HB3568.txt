@@ -1,0 +1,848 @@
+A BILL 
+To direct the Secretary of Energy to establish a program 
+to provide assistance for low-income solar projects, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Affordable Solar En-
+4
+ergy for Our Communities Act’’. 
+5
+SEC. 2. GRANT PROGRAM FOR SOLAR INSTALLATIONS LO-
+6
+CATED IN, OR THAT SERVE, LOW-INCOME 
+7
+AND UNDERSERVED AREAS. 
+8
+(a) DEFINITIONS.—In this section: 
+9
+05:42 Jun 22, 2021
+H3568
+2 
+•HR 3568 IH
+(1) BENEFICIARY.—The term ‘‘beneficiary’’ 
+1
+means a low-income household or a low-income 
+2
+household in an underserved area. 
+3
+(2) COMMUNITY
+SOLAR
+FACILITY.—The term 
+4
+‘‘community solar facility’’ means a solar generating 
+5
+facility that— 
+6
+(A) through a voluntary program, has mul-
+7
+tiple subscribers that receive financial benefits 
+8
+that are directly attributable to the facility; 
+9
+(B) has a nameplate rating of 5 megawatts 
+10
+AC or less; and 
+11
+(C) is located in the utility distribution 
+12
+service territory of subscribers. 
+13
+(3) COMMUNITY
+SOLAR
+SUBSCRIPTION.—The 
+14
+term ‘‘community solar subscription’’ means a share 
+15
+in the capacity, or a proportional interest in the elec-
+16
+tricity generation, of a community solar facility. 
+17
+(4) COVERED
+FACILITY.—The term ‘‘covered 
+18
+facility’’ means— 
+19
+(A) a community solar facility— 
+20
+(i) that is located in an underserved 
+21
+area; or 
+22
+(ii) at least 50 percent of the capacity 
+23
+of which is reserved for low-income house-
+24
+holds; 
+25
+05:42 Jun 22, 2021
+H3568
+3 
+•HR 3568 IH
+(B) a solar generating facility located at a 
+1
+residence of a low-income household; or 
+2
+(C) a solar generating facility located at a 
+3
+multi-family affordable housing complex. 
+4
+(5) COVERED
+STATE.—The term ‘‘covered 
+5
+State’’ means a State with processes in place to en-
+6
+sure that covered facilities deliver financial benefits 
+7
+to low-income households. 
+8
+(6) ELIGIBLE ENTITY.—The term ‘‘eligible enti-
+9
+ty’’ means— 
+10
+(A) a nonprofit organization that provides 
+11
+services to low-income households or multi-fam-
+12
+ily affordable housing complexes; 
+13
+(B) a developer, owner, or operator of a 
+14
+community solar facility that reserves a portion 
+15
+of the capacity of the facility for subscribers 
+16
+who are members of low-income households or 
+17
+for low-income households that otherwise finan-
+18
+cially benefit from the facility; 
+19
+(C) a covered State, or political subdivision 
+20
+thereof; 
+21
+(D) an Indian Tribe or a tribally owned 
+22
+electric utility; 
+23
+(E) a Native Hawaiian community-based 
+24
+organization; 
+25
+05:42 Jun 22, 2021
+H3568
+4 
+•HR 3568 IH
+(F) any other national or regional entity 
+1
+that has experience developing or installing 
+2
+solar generating facilities for low-income house-
+3
+holds that maximize financial benefits to those 
+4
+households; and 
+5
+(G) an electric cooperative or municipal 
+6
+electric utility (as such terms are defined in sec-
+7
+tion 3 of the Federal Power Act). 
+8
+(7) ELIGIBLE
+INSTALLATION
+PROJECT.—The 
+9
+term ‘‘eligible installation project’’ means a project 
+10
+to install a covered facility in a covered State. 
+11
+(8) ELIGIBLE PLANNING PROJECT.—The term 
+12
+‘‘eligible planning project’’ means a project to carry 
+13
+out pre-installation activities for the development of 
+14
+a covered facility in a covered State. 
+15
+(9) ELIGIBLE
+PROJECT.—The term ‘‘eligible 
+16
+project’’ means— 
+17
+(A) an eligible planning project; or 
+18
+(B) an eligible installation project. 
+19
+(10) FEASIBILITY
+STUDY.—The term ‘‘feasi-
+20
+bility study’’ means any activity to determine the 
+21
+feasibility of a specific solar generating facility, in-
+22
+cluding a customer interest assessment and a siting 
+23
+assessment, as determined by the Secretary. 
+24
+05:42 Jun 22, 2021
+H3568
+5 
+•HR 3568 IH
+(11) INDIAN TRIBE.—The term ‘‘Indian Tribe’’ 
+1
+means any Indian Tribe, band, nation, or other or-
+2
+ganized group or community, including any Alaska 
+3
+Native village, Regional Corporation, or Village Cor-
+4
+poration (as defined in, or established pursuant to, 
+5
+the Alaska Native Claims Settlement Act (43 U.S.C. 
+6
+1601 et seq.)), that is recognized as eligible for the 
+7
+special programs and services provided by the 
+8
+United States to Indians because of their status as 
+9
+Indians. 
+10
+(12) INTERCONNECTION
+SERVICE.—The term 
+11
+‘‘interconnection service’’ has the meaning given 
+12
+such term in section 111(d)(15) of the Public Utility 
+13
+Regulatory Policies Act of 1978 (16 U.S.C. 
+14
+2621(d)(15)). 
+15
+(13) LOW-INCOME
+HOUSEHOLD.—The term 
+16
+‘‘low-income household’’ means that income in rela-
+17
+tion to family size which— 
+18
+(A) is at or below 200 percent of the pov-
+19
+erty level determined in accordance with criteria 
+20
+established by the Director of the Office of 
+21
+Management and Budget, except that the Sec-
+22
+retary may establish a higher level if the Sec-
+23
+retary determines that such a higher level is 
+24
+05:42 Jun 22, 2021
+H3568
+6 
+•HR 3568 IH
+necessary to carry out the purposes of this sec-
+1
+tion; 
+2
+(B) is the basis on which cash assistance 
+3
+payments have been paid during the preceding 
+4
+12-month period under titles IV and XVI of the 
+5
+Social Security Act (42 U.S.C. 601 et seq., 
+6
+1381 et seq.) or applicable State or local law; 
+7
+or 
+8
+(C) if a State elects, is the basis for eligi-
+9
+bility for assistance under the Low-Income 
+10
+Home Energy Assistance Act of 1981 (42 
+11
+U.S.C. 8621 et seq.), provided that such basis 
+12
+is at least 200 percent of the poverty level de-
+13
+termined in accordance with criteria established 
+14
+by the Director of the Office of Management 
+15
+and Budget. 
+16
+(14) MULTI-FAMILY
+AFFORDABLE
+HOUSING 
+17
+COMPLEX.—The term ‘‘multi-family affordable hous-
+18
+ing complex’’ means any federally subsidized afford-
+19
+able housing complex in which at least 50 percent of 
+20
+the units are reserved for low-income households. 
+21
+(15) NATIVE HAWAIIAN COMMUNITY-BASED OR-
+22
+GANIZATION.—The term ‘‘Native Hawaiian commu-
+23
+nity-based organization’’ means any organization 
+24
+that is composed primarily of Native Hawaiians 
+25
+05:42 Jun 22, 2021
+H3568
+7 
+•HR 3568 IH
+from a specific community and that assists in the 
+1
+social, cultural, and educational development of Na-
+2
+tive Hawaiians in that community. 
+3
+(16) PROGRAM.—The term ‘‘program’’ means 
+4
+the program established under subsection (b). 
+5
+(17) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+6
+means the Secretary of Energy. 
+7
+(18) SOLAR GENERATING FACILITY.—The term 
+8
+‘‘solar generating facility’’ means— 
+9
+(A) a generator that creates electricity 
+10
+from light photons; and 
+11
+(B) the accompanying hardware enabling 
+12
+that electricity to flow— 
+13
+(i) onto the electric grid; 
+14
+(ii) into a facility or structure; or 
+15
+(iii) into an energy storage device. 
+16
+(19) STATE.—The term ‘‘State’’ means each of 
+17
+the 50 States, the District of Columbia, Guam, the 
+18
+Commonwealth of Puerto Rico, the Northern Mar-
+19
+iana Islands, the Virgin Islands, and American 
+20
+Samoa. 
+21
+(20) SUBSCRIBER.—The term ‘‘subscriber’’ 
+22
+means a person who— 
+23
+05:42 Jun 22, 2021
+H3568
+8 
+•HR 3568 IH
+(A) owns a community solar subscription, 
+1
+or an equivalent unit or share of the capacity 
+2
+or generation of a community solar facility; or 
+3
+(B) financially benefits from a community 
+4
+solar facility, even if the person does not own 
+5
+a community solar subscription for the facility. 
+6
+(21) UNDERSERVED AREA.—The term ‘‘under-
+7
+served area’’ means— 
+8
+(A) a geographical area with low or no 
+9
+photovoltaic solar deployment, as determined by 
+10
+the Secretary; 
+11
+(B) a geographical area that has low or no 
+12
+access to electricity, as determined by the Sec-
+13
+retary; 
+14
+(C) a geographical area with an average 
+15
+annual residential retail electricity price that 
+16
+exceeds the national average annual residential 
+17
+retail electricity price (as reported by the En-
+18
+ergy Information Agency) by 50 percent or 
+19
+more; or 
+20
+(D) trust land, as defined in section 3765 
+21
+of title 38, United States Code. 
+22
+(b) ESTABLISHMENT.—The Secretary shall establish 
+23
+a program to provide financial assistance to eligible enti-
+24
+ties— 
+25
+05:42 Jun 22, 2021
+H3568
+9 
+•HR 3568 IH
+(1) carry out planning projects that are nec-
+1
+essary to establish the feasibility, obtain required 
+2
+permits, identify beneficiaries, or secure subscribers 
+3
+to install a covered facility; or 
+4
+(2) install a covered facility for beneficiaries in 
+5
+accordance with this section. 
+6
+(c) APPLICATIONS.— 
+7
+(1) IN GENERAL.—To be eligible to receive as-
+8
+sistance under the program, an eligible entity shall 
+9
+submit to the Secretary an application at such time, 
+10
+in such manner, and containing such information as 
+11
+the Secretary may require. 
+12
+(2) INCLUSION
+FOR
+INSTALLATION
+ASSIST-
+13
+ANCE.— 
+14
+(A) REQUIREMENTS.—For an eligible enti-
+15
+ty to receive assistance for a project to install 
+16
+a covered facility, the Secretary shall require 
+17
+the eligible entity to include— 
+18
+(i) information in the application that 
+19
+is sufficient to demonstrate that the eligi-
+20
+ble entity has obtained, or has the capacity 
+21
+to obtain, necessary permits, subscribers, 
+22
+access to an installation site, and any other 
+23
+items or agreements necessary to comply 
+24
+with an agreement under subsection (g)(1) 
+25
+05:42 Jun 22, 2021
+H3568
+10 
+•HR 3568 IH
+and to complete the installation of the ap-
+1
+plicable covered facility; 
+2
+(ii) a description of the mechanism 
+3
+through which financial benefits will be 
+4
+distributed to beneficiaries or subscribers; 
+5
+and 
+6
+(iii) an estimate of the anticipated fi-
+7
+nancial benefit for beneficiaries or sub-
+8
+scribers. 
+9
+(B) 
+CONSIDERATION
+OF
+PLANNING 
+10
+PROJECTS.—The Secretary shall consider the 
+11
+successful completion of an eligible planning 
+12
+project pursuant to subsection (b)(1) by the eli-
+13
+gible entity to be sufficient to demonstrate the 
+14
+ability of the eligible entity to meet the require-
+15
+ments of subparagraph (A)(i). 
+16
+(d) SELECTION.— 
+17
+(1) IN GENERAL.—In selecting eligible projects 
+18
+to receive assistance under the program, the Sec-
+19
+retary shall— 
+20
+(A) prioritize— 
+21
+(i) eligible installation projects that 
+22
+will result in the most financial benefit for 
+23
+subscribers, as determined by the Sec-
+24
+retary; 
+25
+05:42 Jun 22, 2021
+H3568
+11 
+•HR 3568 IH
+(ii) eligible installation projects that 
+1
+will result in development of covered facili-
+2
+ties in underserved areas; and 
+3
+(iii) eligible projects that include ap-
+4
+prenticeship, job training, or community 
+5
+participation as part of their application; 
+6
+and 
+7
+(B) ensure that such assistance is provided 
+8
+in a manner that results in eligible projects 
+9
+being carried out on a geographically diverse 
+10
+basis within and among covered States. 
+11
+(2) DETERMINATION
+OF
+FINANCIAL
+BEN-
+12
+EFIT.—In determining the amount of financial ben-
+13
+efit for low-income households of an eligible installa-
+14
+tion project, the Secretary shall ensure that all cal-
+15
+culations for estimated household energy savings are 
+16
+based solely on electricity offsets from the applicable 
+17
+covered facility and use formulas established by the 
+18
+State or local government with jurisdiction over the 
+19
+applicable covered facility for verifiable household 
+20
+energy savings estimates that accrue to low-income 
+21
+households. 
+22
+(e) ASSISTANCE.— 
+23
+(1) FORM.—The Secretary may provide assist-
+24
+ance under the program in the form of a grant 
+25
+05:42 Jun 22, 2021
+H3568
+12 
+•HR 3568 IH
+(which may be in the form of a rebate) or a low-in-
+1
+terest loan. 
+2
+(2) MULTIPLE
+PROJECTS
+FOR
+SAME
+FACIL-
+3
+ITY.— 
+4
+(A) IN GENERAL.—An eligible entity may 
+5
+apply for assistance under the program for an 
+6
+eligible planning project and an eligible installa-
+7
+tion project for the same covered facility. 
+8
+(B) SEPARATE SELECTIONS.—Selection by 
+9
+the Secretary for assistance under the program 
+10
+of an eligible planning project does not require 
+11
+the Secretary to select for assistance under the 
+12
+program an eligible installation project for the 
+13
+same covered facility. 
+14
+(f) USE OF ASSISTANCE.— 
+15
+(1) ELIGIBLE PLANNING PROJECTS.—An eligi-
+16
+ble entity receiving assistance for an eligible plan-
+17
+ning project under the program may use such assist-
+18
+ance to pay the costs of pre-installation activities as-
+19
+sociated with an applicable covered facility, includ-
+20
+ing— 
+21
+(A) feasibility studies; 
+22
+(B) permitting; 
+23
+(C) site assessment; 
+24
+05:42 Jun 22, 2021
+H3568
+13 
+•HR 3568 IH
+(D) on-site job training, or other commu-
+1
+nity-based activities directly associated with the 
+2
+eligible planning project; or 
+3
+(E) such other costs determined by the 
+4
+Secretary to be appropriate. 
+5
+(2) ELIGIBLE
+INSTALLATION
+PROJECTS.—An 
+6
+eligible entity receiving assistance for an eligible in-
+7
+stallation project under the program may use such 
+8
+assistance to pay the costs of— 
+9
+(A) installation of a covered facility, in-
+10
+cluding costs associated with materials, permit-
+11
+ting, labor, or site preparation; 
+12
+(B) storage technology sited at a covered 
+13
+facility; 
+14
+(C) interconnection service expenses; 
+15
+(D) on-site job training, or other commu-
+16
+nity-based activities directly associated with the 
+17
+eligible installation project; 
+18
+(E) offsetting the cost of a subscription for 
+19
+a covered facility described in subparagraph (A) 
+20
+of subsection (a)(4) for subscribers that are 
+21
+members of a low-income household; or 
+22
+(F) such other costs determined by the 
+23
+Secretary to be appropriate. 
+24
+(g) ADMINISTRATION.— 
+25
+23:52 Jul 05, 2021
+H3568
+14 
+•HR 3568 IH
+(1) AGREEMENTS.— 
+1
+(A) IN GENERAL.—As a condition of re-
+2
+ceiving assistance under the program, an eligi-
+3
+ble entity shall enter into an agreement with 
+4
+the Secretary. 
+5
+(B) REQUIREMENTS.—An agreement en-
+6
+tered into under this paragraph— 
+7
+(i) shall require the eligible entity to 
+8
+maintain such records and adopt such ad-
+9
+ministrative practices as the Secretary may 
+10
+require to ensure compliance with the re-
+11
+quirements of this section and the agree-
+12
+ment; 
+13
+(ii) with respect to an eligible installa-
+14
+tion project shall require that any solar 
+15
+generating facility installed using assist-
+16
+ance provided pursuant to the agreement 
+17
+comply with local building and safety codes 
+18
+and standards; and 
+19
+(iii) shall contain such other terms as 
+20
+the Secretary may require to ensure com-
+21
+pliance with the requirements of this sec-
+22
+tion. 
+23
+(C) TERM.—An agreement under this 
+24
+paragraph shall be for a term that begins on 
+25
+05:42 Jun 22, 2021
+H3568
+15 
+•HR 3568 IH
+the date on which the agreement is entered into 
+1
+and ends on the date that is 2 years after the 
+2
+date on which the eligible entity receives assist-
+3
+ance pursuant to the agreement, which term 
+4
+may be extended once for a period of not more 
+5
+than 1 year if the eligible entity demonstrates 
+6
+to the satisfaction of the Secretary that such an 
+7
+extension is necessary to complete the activities 
+8
+required by the agreement. 
+9
+(2) USE OF FUNDS.—Of the funds made avail-
+10
+able to provide assistance to eligible installation 
+11
+projects under this section over the period of fiscal 
+12
+years 2022 through 2026, the Secretary shall use— 
+13
+(A) not less than 50 percent to provide as-
+14
+sistance for eligible installation projects with re-
+15
+spect to which low-income households make up 
+16
+at least 50 percent of the subscribers to the 
+17
+project; and 
+18
+(B) not more than 50 percent to provide 
+19
+assistance for eligible installation projects with 
+20
+respect to which low-income households make 
+21
+up at least 25 percent of the subscribers to the 
+22
+project. 
+23
+(3) REGULATIONS.—Not later than 120 days 
+24
+after the date of enactment of this Act, the Sec-
+25
+05:42 Jun 22, 2021
+H3568
+16 
+•HR 3568 IH
+retary shall publish in the Federal Register regula-
+1
+tions to carry out this section, which shall take ef-
+2
+fect on the date of publication. 
+3
+(h) AUTHORIZATION OF APPROPRIATIONS.— 
+4
+(1) IN GENERAL.—There is authorized to be 
+5
+appropriated to the Secretary to carry out this sec-
+6
+tion $200,000,000 for each of fiscal years 2022 
+7
+through 2026, to remain available until expended. 
+8
+(2) AMOUNTS FOR PLANNING PROJECTS.—Of 
+9
+the amounts appropriated pursuant to this section 
+10
+over the period of fiscal years 2022 through 2026, 
+11
+the Secretary shall use not more than 15 percent of 
+12
+funds to provide assistance to eligible planning 
+13
+projects. 
+14
+(i) RELATIONSHIP
+TO OTHER ASSISTANCE.—The 
+15
+Secretary shall, to the extent practicable, encourage eligi-
+16
+ble entities that receive assistance under this section to 
+17
+leverage such funds by seeking additional funding through 
+18
+federally or locally subsidized weatherization and energy 
+19
+efficiency programs. 
+20
+Æ 
+05:42 Jun 22, 2021
+H3568

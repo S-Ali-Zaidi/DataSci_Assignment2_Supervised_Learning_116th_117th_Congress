@@ -1,0 +1,852 @@
+A BILL 
+To amend chapter 3 of title 5, United States Code, to require 
+Federal agencies to maintain plans for responding to, 
+mitigating, and adapting to climate change, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Federal Agency Cli-
+4
+mate Planning, Resilience, and Enhanced Preparedness 
+5
+04:28 Oct 06, 2021
+H5477
+2 
+•HR 5477 IH
+Act of 2021’’ or the ‘‘Federal Agency Climate PREP 
+1
+Act’’. 
+2
+SEC. 2. CLIMATE ACTION PLANS. 
+3
+(a) AMENDMENT.—Chapter 3 of title 5, United 
+4
+States Code, is amended by adding at the end the fol-
+5
+lowing new subchapter: 
+6
+‘‘SUBCHAPTER III—GOVERNMENT-WIDE 
+7
+COORDINATION ON CLIMATE CHANGE 
+8
+‘‘§ 321. Definitions 
+9
+‘‘In this subchapter: 
+10
+‘‘(1) 
+ADAPTATION.—The 
+term 
+‘adaptation’ 
+11
+means adjustment to natural or human systems in 
+12
+response to actual or expected climate change, in-
+13
+cluding both sudden-onset and slow-onset climate 
+14
+change-related risks or events assessed through his-
+15
+torical data, recent climate conditions and risks, and 
+16
+climate change projections, to minimize negative im-
+17
+pacts on human health and safety, equity, eco-
+18
+systems, and the environment. 
+19
+‘‘(2) AGENCY.—The term ‘agency’ has the 
+20
+meaning given the term ‘Executive agency’ under 
+21
+section 105, but does not include the Government 
+22
+Accountability Office. 
+23
+‘‘(3) CLIMATE
+CHANGE.—The term ‘climate 
+24
+change’ means the long-term change in the average 
+25
+04:28 Oct 06, 2021
+H5477
+3 
+•HR 5477 IH
+weather patterns influencing local, regional, and 
+1
+global climates, that are primarily driven by human- 
+2
+produced greenhouse gas emissions, and observed 
+3
+through key indicators including global land and 
+4
+ocean temperature increases, rising sea levels, loss of 
+5
+polar and mountain glacier ice, cloud and vegetation 
+6
+cover changes, and increases in extreme weather 
+7
+such as hurricanes, heatwaves, wildfires, droughts, 
+8
+floods, and precipitation. 
+9
+‘‘(4) DIRECTOR.—The term ‘Director’ means 
+10
+the Director of the Office of Management and Budg-
+11
+et. 
+12
+‘‘(5) DISADVANTAGED COMMUNITY.—The term 
+13
+‘disadvantaged community’ means a community that 
+14
+is harmed by environmental, economic, or socio-
+15
+economic injustice, and includes a community that— 
+16
+‘‘(A) has a high concentration of low-in-
+17
+come and low-wealth households, including 
+18
+households comprised primarily of members of 
+19
+groups that have historically experienced dis-
+20
+crimination on the basis of race, gender, na-
+21
+tional origin, or ethnicity (including Black, In-
+22
+digenous, Latinx, Arab, Asian, and Pacific Is-
+23
+lander communities); 
+24
+04:28 Oct 06, 2021
+H5477
+4 
+•HR 5477 IH
+‘‘(B) faces economic transition, deindustri-
+1
+alization, historic underinvestment, or poverty; 
+2
+or 
+3
+‘‘(C) is an environmental justice commu-
+4
+nity. 
+5
+‘‘(6) ENVIRONMENTAL JUSTICE COMMUNITY.— 
+6
+The term ‘environmental justice community’ means 
+7
+a low-income or low-wealth community facing envi-
+8
+ronmental injustice, including any community that— 
+9
+‘‘(A) is located nearest to an existing area 
+10
+of grave environmental pollution or degradation; 
+11
+‘‘(B) bears a burden of negative public 
+12
+health effects of pollution; 
+13
+‘‘(C) includes one or more sites of— 
+14
+‘‘(i) a facility that is a part of a pol-
+15
+luting industry; 
+16
+‘‘(ii) a waste dump; or 
+17
+‘‘(iii) a facility for resource extraction; 
+18
+‘‘(D) experiences a high incidence of cli-
+19
+mate change impacts and disasters; 
+20
+‘‘(E) has been excluded or harmed by rac-
+21
+ist or discriminatory policies that have resulted 
+22
+in economic or health disparities; 
+23
+01:49 Oct 09, 2021
+H5477
+5 
+•HR 5477 IH
+‘‘(F) has a land-based or food subsistence 
+1
+culture that is experiencing ecosystem disrup-
+2
+tion and devastation; 
+3
+‘‘(G) faces relocation and resettlement re-
+4
+sulting from— 
+5
+‘‘(i) climate change; 
+6
+‘‘(ii) impacts to the environment and 
+7
+ecosystems; or 
+8
+‘‘(iii) impacts associated with eco-
+9
+nomic inequities; or 
+10
+‘‘(H) is an Indigenous community. 
+11
+‘‘(7) IMPACT.—The term ‘impact’ means con-
+12
+sequences, both realized and expected, for natural 
+13
+and human systems. 
+14
+‘‘(8) PREPAREDNESS.—The term ‘preparedness’ 
+15
+means actions taken to plan, organize, equip, train, 
+16
+and exercise to build, apply, and sustain the capa-
+17
+bilities necessary to prevent, protect against, amelio-
+18
+rate the effects of, respond to, and recover from cli-
+19
+mate change-related damages to life, health, prop-
+20
+erty, livelihoods, ecosystems, and national security. 
+21
+‘‘(9) RESILIENCE.—The term ‘resilience’ means 
+22
+the ability to anticipate, prepare for, and adapt to 
+23
+changing conditions and withstand, respond to, and 
+24
+04:28 Oct 06, 2021
+H5477
+6 
+•HR 5477 IH
+recover rapidly from disruptions while ensuring the 
+1
+sustainment of mission-critical operations. 
+2
+‘‘(10) RISK.—The term ‘risk’ means an assess-
+3
+ment based on formal analysis of the consequences, 
+4
+likelihoods, and responses to the impacts of climate 
+5
+change and how societal constraints shape adapta-
+6
+tion options. 
+7
+‘‘(11) STATE.—The term ‘State’ means each of 
+8
+the several States, the District of Columbia, each 
+9
+commonwealth, territory, or possession of the United 
+10
+States, and each federally recognized Indian Tribe. 
+11
+‘‘(12) VULNERABLE
+12
+‘vulnerable population’ means groups of individuals, 
+13
+including those with underlying health conditions, 
+14
+subject to greater climate change exposure, or ad-
+15
+versely impacted by social determinants of health, 
+16
+who experience heightened sensitivity to climate-re-
+17
+lated health and economic impacts. 
+18
+‘‘§ 322. Agency climate action plans required 
+19
+‘‘(a) AGENCY CLIMATE ACTION PLANS REQUIRED.— 
+20
+Not later than 1 year after the date of the enactment of 
+21
+this section, the head of each agency shall submit to the 
+22
+Director and the steering committee of the Council on 
+23
+Federal Agency Climate PREP an agency climate action 
+24
+plan. 
+25
+04:28 Oct 06, 2021
+H5477
+7 
+•HR 5477 IH
+‘‘(b) CONTENTS OF PLAN.—Each agency climate ac-
+1
+tion plan submitted pursuant to subsection (a) shall in-
+2
+clude the following: 
+3
+‘‘(1) An identification and assessment of cli-
+4
+mate change-related impacts on and risks to the 
+5
+ability of the agency to accomplish its missions, op-
+6
+erations, and programs. 
+7
+‘‘(2) A description of programs, policies, and 
+8
+plans the agency has in place and any additional ac-
+9
+tion the agency plans to take to mitigate and man-
+10
+age the impacts and risks identified in paragraph 
+11
+(1) and build resilience, both immediately and at 
+12
+milestones that are 2, 5, 10, and 20 years after the 
+13
+date of the enactment of this section. 
+14
+‘‘(3) A description of how any climate change- 
+15
+related impact and risk identified under paragraph 
+16
+(1) that is determined by the agency to be so signifi-
+17
+cant that it impairs the statutory mission or oper-
+18
+ation of the agency will be addressed. 
+19
+‘‘(4) An assessment of whether implementation 
+20
+of any of the programs, policies, or plans of the 
+21
+agency exacerbates climate change-related impacts 
+22
+and risks. 
+23
+04:28 Oct 06, 2021
+H5477
+8 
+•HR 5477 IH
+‘‘(5) A description of how the agency will con-
+1
+sider the need to improve climate change adaptation 
+2
+and resilience, including— 
+3
+‘‘(A) an assessment that monetizes the 
+4
+costs and benefits of such improvement, includ-
+5
+ing the value of climate change adaptation, re-
+6
+silience, and mitigation; and 
+7
+‘‘(B) with respect to agency suppliers, sup-
+8
+ply chains, real property investments, and cap-
+9
+ital equipment purchases such as updating 
+10
+agency policies for leasing, building upgrades, 
+11
+relocation of existing facilities and equipment, 
+12
+and construction of new facilities. 
+13
+‘‘(6) In the case of the implementation of a pro-
+14
+gram that uses cost-benefit analyses, a description of 
+15
+any additional methodologies used by the agency to 
+16
+incorporate climate change risks into the cost-benefit 
+17
+analyses, including the metrics and methodologies 
+18
+used. 
+19
+‘‘(7) An assessment of the efforts of the agency 
+20
+to reverse the disproportionate impacts of climate 
+21
+change on disadvantaged communities and vulner-
+22
+able populations, including— 
+23
+‘‘(A) a description of opportunities identi-
+24
+fied to reverse such impacts; 
+25
+04:28 Oct 06, 2021
+H5477
+9 
+•HR 5477 IH
+‘‘(B) a description of progress made in re-
+1
+versing such impacts; and 
+2
+‘‘(C) a description of the methodology used 
+3
+by the agency for actively and widely soliciting 
+4
+and receiving input and feedback directly from 
+5
+such communities and populations regarding 
+6
+such opportunities and progress. 
+7
+‘‘(8) A description of how the agency will pro-
+8
+mote the preparedness and resilience of the Federal 
+9
+workforce with respect to climate change. 
+10
+‘‘(9) A description of how the agency will con-
+11
+tribute to coordinated interagency efforts to support 
+12
+climate change mitigation preparedness, and resil-
+13
+ience at all levels of government, including collabo-
+14
+rative work across regional offices of agencies and 
+15
+through coordinated development of information, 
+16
+data, and tools. 
+17
+‘‘(c) PROGRESS REPORTS.—The head of each agency 
+18
+shall submit to the Director and the steering committee 
+19
+of the Council on Federal Agency Climate PREP an an-
+20
+nual progress report on the implementation of the plans 
+21
+required pursuant to subsection (a), including updated 
+22
+identification and assessments of climate change-related 
+23
+impacts and risks. 
+24
+04:28 Oct 06, 2021
+H5477
+10 
+•HR 5477 IH
+‘‘§ 323. Council on Federal Agency Climate PREP 
+1
+‘‘(a) ESTABLISHMENT.—There is established an 
+2
+interagency council, to be known as the Council on Fed-
+3
+eral Agency Climate Planning, Resilience, and Enhanced 
+4
+Preparedness, or the Council on Federal Agency Climate 
+5
+PREP (in this section referred to as the ‘Council’). 
+6
+‘‘(b) LEADERSHIP.—The Director shall serve as the 
+7
+Chair of the Council (in this section referred to as the 
+8
+‘Chair’) and shall be guided by a steering committee, 
+9
+which shall determine priorities and strategic direction for 
+10
+the Council in accordance with subsection (f), made up 
+11
+of the National Climate Advisor, the Chair of the Council 
+12
+on Environmental Quality, and the Director of the Office 
+13
+of Science and Technology Policy. 
+14
+‘‘(c) MEMBERS.—In addition to the Chair and steer-
+15
+ing committee, the Council shall be composed of the fol-
+16
+lowing members who are senior officials (Deputy Secretary 
+17
+or equivalent officer) from the following: 
+18
+‘‘(1) The Department of State. 
+19
+‘‘(2) The Department of the Treasury. 
+20
+‘‘(3) The Department of Defense. 
+21
+‘‘(4) The Department of Justice. 
+22
+‘‘(5) The Department of the Interior. 
+23
+‘‘(6) The Department of Agriculture. 
+24
+‘‘(7) The Department of Commerce. 
+25
+‘‘(8) The Department of Labor. 
+26
+04:28 Oct 06, 2021
+H5477
+11 
+•HR 5477 IH
+‘‘(9) The Department of Health and Human 
+1
+Services. 
+2
+‘‘(10) The Department of Housing and Urban 
+3
+Development. 
+4
+‘‘(11) The Department of Transportation. 
+5
+‘‘(12) The Department of Energy. 
+6
+‘‘(13) The Department of Education. 
+7
+‘‘(14) The Department of Veterans Affairs. 
+8
+‘‘(15) The Department of Homeland Security. 
+9
+‘‘(16) The United States Agency for Inter-
+10
+national Development. 
+11
+‘‘(17) The Army Corps of Engineers. 
+12
+‘‘(18) The Environmental Protection Agency. 
+13
+‘‘(19) The General Services Administration. 
+14
+‘‘(20) The Millennium Challenge Corporation. 
+15
+‘‘(21) The National Aeronautics and Space Ad-
+16
+ministration. 
+17
+‘‘(22) The U.S. Small Business Administration. 
+18
+‘‘(23) The Corporation for National and Com-
+19
+munity Service. 
+20
+‘‘(24) The Office of Personnel Management. 
+21
+‘‘(25) The Nuclear Regulatory Commission. 
+22
+‘‘(26) The Office of the Director of National In-
+23
+telligence. 
+24
+‘‘(27) The Council of Economic Advisers. 
+25
+04:28 Oct 06, 2021
+H5477
+12 
+•HR 5477 IH
+‘‘(28) The National Economic Council. 
+1
+‘‘(29) The Domestic Policy Council. 
+2
+‘‘(30) The Office of Management and Budget. 
+3
+‘‘(31) The White House Office of Public En-
+4
+gagement and Intergovernmental Affairs. 
+5
+‘‘(32) The United States Trade Representative. 
+6
+‘‘(33) Such agencies or offices as the President, 
+7
+Chair, or steering committee shall designate. 
+8
+‘‘(d) ADMINISTRATION.—The Director of the Office 
+9
+of Management and Budget shall provide administrative 
+10
+support and additional resources, as appropriate, to the 
+11
+Council. Agencies shall assist and provide information to 
+12
+the Council deemed necessary by the Chair or the steering 
+13
+committee to carry out its functions. Each such agency 
+14
+shall pay its own expenses related to participating as 
+15
+members of the Council. 
+16
+‘‘(e) COUNCIL STRUCTURE.—The Chair and steering 
+17
+committee may establish task forces and working groups 
+18
+as needed. 
+19
+‘‘(f) MISSION AND FUNCTION OF THE COUNCIL.— 
+20
+The Council shall coordinate across Federal agencies and 
+21
+offices, and in partnership with State and local govern-
+22
+ments, academic and research institutions, and the private 
+23
+and nonprofit sectors to do the following: 
+24
+04:28 Oct 06, 2021
+H5477
+13 
+•HR 5477 IH
+‘‘(1) Facilitate the organization and deployment 
+1
+of a government-wide approach to combat the cli-
+2
+mate crisis. 
+3
+‘‘(2) Develop, recommend, coordinate inter-
+4
+agency efforts on, and track implementation of Fed-
+5
+eral Government actions to— 
+6
+‘‘(A) reduce climate pollution; 
+7
+‘‘(B) increase resilience to the impacts of 
+8
+climate change; 
+9
+‘‘(C) protect public health; 
+10
+‘‘(D) conserve lands, waters, oceans, and 
+11
+biodiversity; 
+12
+‘‘(E) deliver environmental justice; and 
+13
+‘‘(F) spur well-paying union jobs and eco-
+14
+nomic growth. 
+15
+‘‘(3) Provide expertise to assist regional, State, 
+16
+Tribal, territorial, and local action to— 
+17
+‘‘(A) reduce climate pollution; 
+18
+‘‘(B) increase resilience to the impacts of 
+19
+climate change; 
+20
+‘‘(C) protect public health; 
+21
+‘‘(D) conserve lands, waters, oceans, and 
+22
+biodiversity; 
+23
+‘‘(E) deliver environmental justice; and 
+24
+04:28 Oct 06, 2021
+H5477
+14 
+•HR 5477 IH
+‘‘(F) spur well-paying union jobs and eco-
+1
+nomic growth. 
+2
+‘‘(4) Integrate climate change science in policies 
+3
+and planning, where appropriate, of agencies and 
+4
+the private sector, including by developing and de-
+5
+ploying of innovative, actionable, and accessible Fed-
+6
+eral climate change-related information, data, and 
+7
+tools. 
+8
+‘‘(5) To the extent permitted by law, prioritize 
+9
+action on climate change in their policy-making, 
+10
+budget processes, contracting and procurement, and 
+11
+engagement with governments, workers, commu-
+12
+nities, and the private sector. 
+13
+‘‘(6) Carry out such other functions as the Di-
+14
+rector may determine necessary.’’. 
+15
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+16
+The table of sections for chapter 3 of title 5, United States 
+17
+Code, is amended by adding at the end the following new 
+18
+items: 
+19
+‘‘SUBCHAPTER III—GOVERNMENT-WIDE COORDINATION ON CLIMATE CHANGE 
+‘‘321. Definitions. 
+‘‘322. Agency climate action plans required. 
+‘‘323. Council on Federal Agency Climate PREP.’’. 
+SEC. 3. WHITE HOUSE OFFICE OF DOMESTIC CLIMATE POL-
+20
+ICY. 
+21
+(a) ESTABLISHMENT.—There is established, within 
+22
+the Executive Office of the President, the Office of Domes-
+23
+04:28 Oct 06, 2021
+H5477
+15 
+•HR 5477 IH
+tic Climate Policy (in this section referred to as the ‘‘Of-
+1
+fice’’). 
+2
+(b) NATIONAL CLIMATE ADVISOR.— 
+3
+(1) IN GENERAL.—The Office shall be headed 
+4
+by the National Climate Advisor (in this section re-
+5
+ferred to as the ‘‘Advisor’’) who shall be appointed 
+6
+by the President. 
+7
+(2) POSITION.—The Advisor shall hold office at 
+8
+the pleasure of the President. 
+9
+(3) PAY AND ALLOWANCES.—The Advisor shall 
+10
+be entitled to receive the same pay and allowances 
+11
+as are provided for level II of the Executive Schedule 
+12
+under section 5313 of title 5, United States Code. 
+13
+(c) DUTIES OF THE NATIONAL CLIMATE ADVISOR.— 
+14
+Subject to the authority, direction, and control of the 
+15
+President, the Advisor shall— 
+16
+(1) coordinate the policymaking process with re-
+17
+spect to domestic climate policy issues; 
+18
+(2) coordinate domestic climate policy advice to 
+19
+the President; 
+20
+(3) ensure that domestic climate policy deci-
+21
+sions and programs are consistent with the stated 
+22
+goals of the President and that those goals are being 
+23
+effectively pursued; and 
+24
+04:28 Oct 06, 2021
+H5477
+16 
+•HR 5477 IH
+(4) monitor implementation of the domestic cli-
+1
+mate policy agenda of the President. 
+2
+(d) POWERS OF THE ADVISOR.—The Advisor may, 
+3
+for the purposes of carrying out the functions of the Advi-
+4
+sor under this section— 
+5
+(1) subject to the civil service and classification 
+6
+laws, select, appoint, employ, and fix the compensa-
+7
+tion of such officers and employees as are necessary 
+8
+and prescribe their duties; 
+9
+(2) employ experts and consultants in accord-
+10
+ance with section 3109 of title 5, United States, 
+11
+Code, and compensate individuals so employed for 
+12
+each day (including travel time) at rates not in ex-
+13
+cess of the maximum rate of basic pay for grade 
+14
+GS–15 as provided in section 5332 of such title, and 
+15
+while such experts and consultants are so serving 
+16
+away from their homes or regular place of business, 
+17
+to pay such employees travel expenses and per diem 
+18
+in lieu of subsistence at rates authorized by section 
+19
+5703 of such title 5 for persons in Federal Govern-
+20
+ment service employed intermittently; 
+21
+(3) promulgate such rules and regulations as 
+22
+may be necessary to carry out the functions, powers, 
+23
+and duties vested in the Advisor; 
+24
+04:28 Oct 06, 2021
+H5477
+17 
+•HR 5477 IH
+(4) utilize, with their consent, the services, per-
+1
+sonnel, and facilities of other Federal agencies; 
+2
+(5) enter into and perform such contracts, 
+3
+leases, cooperative agreements, or other transactions 
+4
+as may be necessary in the conduct of the work of 
+5
+the Office and on such terms as the Advisor may de-
+6
+termine appropriate, with any Federal agency, or 
+7
+with any public or private person or entity; 
+8
+(6) accept voluntary and uncompensated serv-
+9
+ices, notwithstanding the provisions of section 1342 
+10
+of title 31, United States Code; 
+11
+(7) adopt an official seal, which shall be judi-
+12
+cially noticed; and 
+13
+(8) provide, where authorized by law, copies of 
+14
+documents to persons at cost, except that any funds 
+15
+so received shall be credited to, and be available for 
+16
+use from, the account from which expenditures relat-
+17
+ing thereto were made. 
+18
+Æ 
+04:28 Oct 06, 2021
+H5477

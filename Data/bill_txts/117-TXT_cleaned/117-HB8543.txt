@@ -1,0 +1,796 @@
+A BILL 
+To require notice regarding the collection of ambient noise 
+by certain internet-connected devices, to limit the disclo-
+sure and retention of information collected through such 
+noise, and to require a mechanism by which such collec-
+tion may be deactivated and reactivated, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Earning Approval of 
+4
+Voice External Sound Databasing Retained on People 
+5
+Act’’ or the ‘‘EAVESDROP Act’’. 
+6
+03:58 Aug 09, 2022
+H8543
+2 
+•HR 8543 IH
+SEC. 2. NOTICES REQUIRED FOR COLLECTION OF AMBIENT 
+1
+NOISE BY COVERED DEVICE. 
+2
+(a) ONE-TIME NOTICE
+AT FIRST POWER-ON.—A 
+3
+manufacturer of a covered device shall provide to the user 
+4
+who powers on the device for the first time a notice that 
+5
+contains— 
+6
+(1) a description of how and under what cir-
+7
+cumstances covered information is collected by the 
+8
+manufacturer through the covered device; and 
+9
+(2) a description of the purposes for which the 
+10
+manufacturer processes such covered information, 
+11
+including— 
+12
+(A) a description of how long and the cir-
+13
+cumstances under which the manufacturer re-
+14
+tains such covered information; and 
+15
+(B) whether the manufacturer discloses 
+16
+such covered information to third parties or 
+17
+processes such covered information for targeted 
+18
+advertising. 
+19
+(b) NOTICE WHEN MATERIAL CHANGE TO OPER-
+20
+ATING SYSTEM OR FIRMWARE.—When there is a material 
+21
+change to the operating system or firmware of a covered 
+22
+device, the manufacturer of the covered device shall pro-
+23
+vide a notice that the covered device collects covered infor-
+24
+mation. Such notice shall include— 
+25
+03:58 Aug 09, 2022
+H8543
+3 
+•HR 8543 IH
+(1) a statement informing the user that the cov-
+1
+ered device is collecting covered information; 
+2
+(2) a description of— 
+3
+(A) the covered information collected by 
+4
+the manufacturer through the covered device; 
+5
+and 
+6
+(B) the covered information collected by 
+7
+the manufacturer through the covered device 
+8
+that the manufacturer processes; and 
+9
+(3) instructions on how an owner of the covered 
+10
+device can deactivate the collection of covered infor-
+11
+mation by the covered device using the mechanism 
+12
+required by section 3. 
+13
+(c) FORM.—The notices required by subsections (a) 
+14
+and (b)— 
+15
+(1) shall be provided electronically in— 
+16
+(A) audio format; and 
+17
+(B) text format, which may include pro-
+18
+viding a link to a website or other means for ac-
+19
+cessing the notices online; 
+20
+(2) shall be clear, easily understood, and pro-
+21
+vided in plain and concise language; and 
+22
+(3) when a covered device is powered on for the 
+23
+first time, may be provided to the user as a single, 
+24
+combined notice. 
+25
+03:58 Aug 09, 2022
+H8543
+4 
+•HR 8543 IH
+(d) SUBSEQUENT AVAILABILITY OF INFORMATION 
+1
+PROVIDED IN NOTICES.—The manufacturer of a covered 
+2
+device shall ensure that the notices required by subsections 
+3
+(a) and (b) are accessible at any time after being provided 
+4
+under such subsections. 
+5
+SEC. 3. DEACTIVATION AND REACTIVATION OF COLLEC-
+6
+TION OF AMBIENT NOISE. 
+7
+A manufacturer of a covered device shall provide a 
+8
+reasonable and easy mechanism by which an owner of the 
+9
+device may— 
+10
+(1) deactivate the ability of the device to collect 
+11
+covered information; and 
+12
+(2) if the ability of the device to collect covered 
+13
+information has been deactivated under paragraph 
+14
+(1), reactivate such ability. 
+15
+SEC. 4. AUTHORIZED DISCLOSURES OF COVERED INFOR-
+16
+MATION. 
+17
+(a) IN GENERAL.—A manufacturer of a covered de-
+18
+vice may disclose covered information to a third party only 
+19
+if the manufacturer is acting in good faith and only for 
+20
+the following purposes: 
+21
+(1) To respond to or comply with a valid sub-
+22
+poena, court order, or warrant (including a subpoena 
+23
+or court order obtained by a person that is not a 
+24
+03:58 Aug 09, 2022
+H8543
+5 
+•HR 8543 IH
+government entity), or to provide information as oth-
+1
+erwise required by law. 
+2
+(2) To respond to a circumstance that would 
+3
+cause a reasonable person to believe that disclosure 
+4
+of the covered information to the third party is nec-
+5
+essary to prevent physical harm to an individual. 
+6
+(b) NOTICE OF DISCLOSURE.— 
+7
+(1) REQUIREMENT.—Unless prohibited by law, 
+8
+a manufacturer of a covered device shall notify a 
+9
+user of such device whose covered information is dis-
+10
+closed to a third party by such manufacturer. 
+11
+(2) CONTENTS.—The notice required by para-
+12
+graph (1) shall include— 
+13
+(A) a description of the covered informa-
+14
+tion disclosed; 
+15
+(B) a justification for the necessity of the 
+16
+disclosure; and 
+17
+(C) the name of the third party to which 
+18
+the manufacturer disclosed the covered informa-
+19
+tion. 
+20
+(3) TIMING.—The notice required by paragraph 
+21
+(1) shall be provided to the user not later than 7 
+22
+days after such notice can be legally, safely, and 
+23
+practicably provided. 
+24
+03:58 Aug 09, 2022
+H8543
+6 
+•HR 8543 IH
+(4) FORM.—The notice required by paragraph 
+1
+(1) shall be provided to the user in a written form 
+2
+(such as by mail or e-mail), if the manufacturer has 
+3
+the necessary contact information for the user. If 
+4
+the manufacturer does not have such contact infor-
+5
+mation, the manufacturer shall provide such notice 
+6
+in a manner consistent with how a typical user inter-
+7
+acts with the covered device. 
+8
+(5) RULE OF CONSTRUCTION.—Nothing in this 
+9
+subsection shall be construed to require a manufac-
+10
+turer of a covered device to— 
+11
+(A) take an action that would convert in-
+12
+formation that is not covered information into 
+13
+covered information; 
+14
+(B) collect or retain information that the 
+15
+manufacturer would otherwise not collect or re-
+16
+tain; or 
+17
+(C) retain covered information longer than 
+18
+the manufacturer would otherwise retain such 
+19
+information. 
+20
+SEC. 5. RETENTION OF COVERED INFORMATION. 
+21
+A manufacturer of a covered device may not retain 
+22
+covered information for longer than is reasonably nec-
+23
+essary for the express purposes for which the covered in-
+24
+formation is collected. 
+25
+03:58 Aug 09, 2022
+H8543
+7 
+•HR 8543 IH
+SEC. 6. SAFE HARBOR. 
+1
+(a) DEEMED COMPLIANCE.—A manufacturer of a 
+2
+covered device shall be deemed to be in compliance with 
+3
+the requirements of this Act if such manufacturer com-
+4
+plies with a set of self-regulatory guidelines, issued by rep-
+5
+resentatives of the marketing or covered devices indus-
+6
+tries, or by other persons, that is approved under sub-
+7
+section (b). 
+8
+(b) APPROVAL OF GUIDELINES.— 
+9
+(1) IN
+GENERAL.—Not later than 180 days 
+10
+after receiving a request for approval of a set of self- 
+11
+regulatory guidelines described in subsection (a), 
+12
+after notice and comment, the Commission shall— 
+13
+(A) if the Commission determines that 
+14
+such set of guidelines meets the requirements of 
+15
+this Act, approve such set of guidelines; and 
+16
+(B) if the Commission determines that 
+17
+such set of guidelines does not meet the re-
+18
+quirements of this Act, deny approval of such 
+19
+set of guidelines. 
+20
+(2) WRITTEN CONCLUSIONS.—The Commission 
+21
+shall set forth in writing its conclusions relating to 
+22
+a determination under paragraph (1). 
+23
+(c) APPEALS.—Final action by the Commission on a 
+24
+request for approval of a set of self-regulatory guidelines 
+25
+described in subsection (a), or the failure of the Commis-
+26
+03:58 Aug 09, 2022
+H8543
+8 
+•HR 8543 IH
+sion to act on such a request by the time required by sub-
+1
+section (b)(1), may be appealed to a district court of the 
+2
+United States of appropriate jurisdiction as provided for 
+3
+in section 706 of title 5, United States Code. 
+4
+SEC. 7. ENFORCEMENT. 
+5
+(a) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+6
+SION.— 
+7
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+8
+TICES.—A violation of this Act shall be treated as 
+9
+a violation of a rule defining an unfair or deceptive 
+10
+act or practice prescribed under section 18(a)(1)(B) 
+11
+of the Federal Trade Commission Act (15 U.S.C. 
+12
+57a(a)(1)(B)). 
+13
+(2) ACTIONS BY THE COMMISSION.—The Com-
+14
+mission shall enforce this Act in the same manner, 
+15
+by the same means, and with the same jurisdiction, 
+16
+powers, and duties as though all applicable terms 
+17
+and provisions of the Federal Trade Commission Act 
+18
+(15 U.S.C. 41 et seq.) were incorporated into and 
+19
+made a part of this Act, and any person who violates 
+20
+this Act shall be subject to the penalties and entitled 
+21
+to the privileges and immunities provided in the 
+22
+Federal Trade Commission Act. 
+23
+(b) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+24
+ERAL.— 
+25
+03:58 Aug 09, 2022
+H8543
+9 
+•HR 8543 IH
+(1) IN GENERAL.—If the attorney general of a 
+1
+State has reason to believe that any person has com-
+2
+mitted or is committing a violation of this Act that 
+3
+affects one or more residents of such State, such at-
+4
+torney general may bring a civil action exclusively in 
+5
+an appropriate district court of the United States 
+6
+to— 
+7
+(A) enjoin further such violation by the de-
+8
+fendant; 
+9
+(B) enforce compliance with this Act; 
+10
+(C) obtain civil penalties in the amount 
+11
+provided for under subsection (a); 
+12
+(D) obtain other remedies permitted under 
+13
+State law; or 
+14
+(E) obtain damages, restitution, or other 
+15
+compensation on behalf of residents of such 
+16
+State. 
+17
+(2) RULE OF CONSTRUCTION.—For purposes of 
+18
+bringing a civil action under paragraph (1), nothing 
+19
+in this subsection may be construed to prevent the 
+20
+attorney general of a State from exercising the pow-
+21
+ers conferred on such attorney general by the laws 
+22
+of such State to conduct investigations, administer 
+23
+oaths or affirmations, or compel the attendance of 
+24
+03:58 Aug 09, 2022
+H8543
+10 
+•HR 8543 IH
+witnesses or the production of documentary and 
+1
+other evidence. 
+2
+(3) ACTIONS BY OTHER STATE OFFICIALS.— 
+3
+(A) IN GENERAL.—In addition to civil ac-
+4
+tions brought by attorneys general under para-
+5
+graph (1), any other officer of a State who is 
+6
+authorized by such State to do so, except for 
+7
+any private person on behalf of such State, may 
+8
+bring a civil action under paragraph (1), sub-
+9
+ject to the same requirements and limitations 
+10
+that apply under this subsection to civil actions 
+11
+brought by attorneys general. 
+12
+(B) SAVINGS PROVISION.—Nothing in this 
+13
+subsection may be construed to prohibit an au-
+14
+thorized official of a State from initiating or 
+15
+continuing any proceeding in a court of such 
+16
+State for a violation of any civil or criminal law 
+17
+of such State. 
+18
+SEC. 8. DEFINITIONS. 
+19
+In this Act: 
+20
+(1) AMBIENT
+NOISE.—The term ‘‘ambient 
+21
+noise’’ means human dialogue or any other sound 
+22
+that occurs in the range of the microphone of a cov-
+23
+ered device, other than during a period that— 
+24
+03:58 Aug 09, 2022
+H8543
+11 
+•HR 8543 IH
+(A) begins when a user of the device says 
+1
+a wake word or uses another mechanism (such 
+2
+as pressing a button on the device) to activate 
+3
+any electronic function of the device; and 
+4
+(B) ends— 
+5
+(i) when the performance of the task 
+6
+or assistance requested by the user has 
+7
+been completed; or 
+8
+(ii) if the user activates an electronic 
+9
+function of the device as described in sub-
+10
+paragraph (A) but does not request the 
+11
+performance of a task or assistance within 
+12
+a reasonable time thereafter, at the expira-
+13
+tion of such reasonable time. 
+14
+(2) COLLECT.—The term ‘‘collect’’ means, with 
+15
+respect to covered information, obtaining such infor-
+16
+mation in any manner, except when solely transmit-
+17
+ting, routing, providing intermediate storage for, or 
+18
+providing connections for such covered information 
+19
+through a system or network. 
+20
+(3) COMMISSION.—The term ‘‘Commission’’ 
+21
+means the Federal Trade Commission. 
+22
+(4) CONTENTS.—The term ‘‘contents’’, when 
+23
+used with respect to a communication, has the 
+24
+03:58 Aug 09, 2022
+H8543
+12 
+•HR 8543 IH
+meaning given such term in section 2510 of title 18, 
+1
+United States Code. 
+2
+(5) COVERED DEVICE.—The term ‘‘covered de-
+3
+vice’’— 
+4
+(A) means an internet-connected device— 
+5
+(i) a component of which is a micro-
+6
+phone; and 
+7
+(ii) that collects covered information; 
+8
+and 
+9
+(B) does not include any device that is 
+10
+solely marketed as a microphone. 
+11
+(6) COVERED INFORMATION.—The term ‘‘cov-
+12
+ered information’’ means any information (including 
+13
+contents of a communication, date of birth, sex, 
+14
+height, weight, and geolocation information) that— 
+15
+(A) is obtained through the collection of 
+16
+ambient noise by a covered device; and 
+17
+(B) is linked or reasonably linkable to an 
+18
+individual. 
+19
+(7) DATA BROKER.—The term ‘‘data broker’’ 
+20
+means a person whose principal source of revenue is 
+21
+derived from processing or transferring the covered 
+22
+information of individuals with whom the person 
+23
+does not have a direct relationship on behalf of third 
+24
+parties and for the use of third parties. 
+25
+03:58 Aug 09, 2022
+H8543
+13 
+•HR 8543 IH
+(8) DISCLOSE.—The term ‘‘disclose’’ means, 
+1
+with respect to covered information, to sell, release, 
+2
+transfer, share, disseminate, make available, or oth-
+3
+erwise communicate or cause to be communicated 
+4
+such information to a third party. 
+5
+(9) GOVERNMENT ENTITY.—The term ‘‘govern-
+6
+ment entity’’ means a Federal agency, State, local 
+7
+government, or other organization, as such terms 
+8
+are defined in section 3371 of title 5, United States 
+9
+Code. 
+10
+(10) MATERIAL.—The term ‘‘material’’ means, 
+11
+with respect to a change to the operating system or 
+12
+firmware of a covered device, that— 
+13
+(A) the change affects the treatment of 
+14
+covered information by the covered device or the 
+15
+manufacturer; and 
+16
+(B) knowledge of the change may affect 
+17
+the decision of an average consumer of whether 
+18
+or not to continue using the device. 
+19
+(11) OWNER.—The term ‘‘owner’’ means, with 
+20
+respect to a covered device, any individual who is in 
+21
+possession of the device. 
+22
+(12) PROCESS.—The term ‘‘process’’ means to 
+23
+perform or cause to be performed any operation or 
+24
+03:58 Aug 09, 2022
+H8543
+14 
+•HR 8543 IH
+set of operations on covered information, whether or 
+1
+not by automated means. 
+2
+(13) RETAIN.—The term ‘‘retain’’ means, with 
+3
+respect to covered information, to store, secure, or 
+4
+otherwise maintain or cause the maintenance of such 
+5
+information. 
+6
+(14) SERVICE PROVIDER.— 
+7
+(A) IN GENERAL.—The term ‘‘service pro-
+8
+vider’’ means a person who collects, uses, or 
+9
+discloses covered information for the sole pur-
+10
+pose of, and only to the extent that such person 
+11
+is, conducting business activities on behalf of, 
+12
+for the benefit of, under instruction of, and 
+13
+under contractual agreement with another per-
+14
+son. 
+15
+(B) LIMITATION OF APPLICATION.—A per-
+16
+son shall only be considered a service provider 
+17
+in the course of activities described in subpara-
+18
+graph (A). 
+19
+(C) EXCLUSION.—The term ‘‘service pro-
+20
+vider’’ does not include a data broker. 
+21
+(15) STATE.—The term ‘‘State’’ means each 
+22
+State of the United States, the District of Columbia, 
+23
+each commonwealth, territory, or possession of the 
+24
+03:58 Aug 09, 2022
+H8543
+15 
+•HR 8543 IH
+United States, and each federally recognized Indian 
+1
+Tribe. 
+2
+(16) THIRD PARTY.—The term ‘‘third party’’ 
+3
+means, with respect to a person, another person (in-
+4
+cluding a government entity) that— 
+5
+(A) does not (directly or indirectly) control, 
+6
+is not (directly or indirectly) controlled by, and 
+7
+is not (directly or indirectly) under common 
+8
+control with the first person; and 
+9
+(B) is not a service provider of the first 
+10
+person. 
+11
+(17) WAKE
+WORD.—The term ‘‘wake word’’ 
+12
+means a word or phrase used to initiate an elec-
+13
+tronic function of a covered device. 
+14
+SEC. 9. EFFECTIVE DATE. 
+15
+This Act (except for section 6) shall take effect— 
+16
+(1) if the Commission first approves a set of 
+17
+self-regulatory guidelines under section 6 before the 
+18
+date that is 1 year after the date of the enactment 
+19
+of this Act, on the date that is 1 year after the date 
+20
+of the enactment of this Act; 
+21
+(2) if the Commission first approves a set of 
+22
+self-regulatory guidelines under section 6 on or after 
+23
+the date that is 1 year after the date of the enact-
+24
+ment of this Act but before the date that is 2 years 
+25
+03:58 Aug 09, 2022
+H8543
+16 
+•HR 8543 IH
+after the date of the enactment of this Act, on the 
+1
+date on which the Commission approves such set of 
+2
+guidelines; or 
+3
+(3) if the Commission does not approve a set of 
+4
+self-regulatory guidelines under section 6 before the 
+5
+date that is 2 years after the date of the enactment 
+6
+of this Act, on the date that is 2 years after the date 
+7
+of the enactment of this Act. 
+8
+Æ 
+03:58 Aug 09, 2022
+H8543

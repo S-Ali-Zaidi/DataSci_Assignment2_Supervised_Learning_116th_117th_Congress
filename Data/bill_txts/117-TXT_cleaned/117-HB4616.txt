@@ -1,0 +1,842 @@
+A BILL 
+To deem certain references to LIBOR as referring to a 
+replacement benchmark rate upon the occurrence of cer-
+tain events affecting LIBOR, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Adjustable Interest 
+4
+Rate (LIBOR) Act of 2021’’. 
+5
+SEC. 2. FINDINGS AND PURPOSE. 
+6
+(a) FINDINGS.—The Congress finds that— 
+7
+00:44 Jul 27, 2021
+H4616
+2 
+•HR 4616 IH
+(1) LIBOR is used as a benchmark rate in 
+1
+more than $200 trillion of contracts worldwide; 
+2
+(2) a significant number of existing contracts 
+3
+that reference LIBOR do not provide for the use of 
+4
+a clearly defined or practicable replacement bench-
+5
+mark rate when LIBOR is discontinued; and 
+6
+(3) the cessation or non-representativeness of 
+7
+LIBOR could result in disruptive litigation related 
+8
+to existing contracts that do not provide for the use 
+9
+of a clearly defined or practicable replacement 
+10
+benchmark rate. 
+11
+(b) PURPOSE.—It is the purpose— 
+12
+(1) of this Act— 
+13
+(A) to establish a clear and uniform proc-
+14
+ess, on a nationwide basis, for replacing LIBOR 
+15
+in existing contracts the terms of which do not 
+16
+provide for the use of a clearly defined or prac-
+17
+ticable replacement benchmark rate, without af-
+18
+fecting the ability of parties to use any appro-
+19
+priate benchmark rate in new contracts; 
+20
+(B) to preclude litigation related to exist-
+21
+ing contracts the terms of which do not provide 
+22
+for the use of a clearly defined or practicable 
+23
+replacement benchmark rate; and 
+24
+00:44 Jul 27, 2021
+H4616
+3 
+•HR 4616 IH
+(C) to allow existing contracts that ref-
+1
+erence LIBOR but provide for the use of a 
+2
+clearly defined fallback and practicable replace-
+3
+ment rate, to operate according to their terms; 
+4
+and 
+5
+ø(2) of section 6 to provide that modifications 
+6
+of existing contracts pursuant to this chapter do not 
+7
+result in recognition of gain or loss for Federal in-
+8
+come tax purposes and to provide authority to the 
+9
+Secretary of the Treasury to provide clear guidance 
+10
+regarding the Federal income tax consequences of 
+11
+transitioning contracts that reference IBORs to re-
+12
+placement benchmark rates.¿ 
+13
+SEC. 3. DEFINITIONS. 
+14
+As used in this Act, the following terms shall have 
+15
+the following meanings: 
+16
+(1) ‘‘Benchmark’’ shall mean an index of inter-
+17
+est rates or dividend rates that is used, in whole or 
+18
+in part, as the basis of or as a reference for calcu-
+19
+lating or determining any valuation, payment or 
+20
+other measurement. 
+21
+(2) ‘‘Benchmark Administrator’’ means a per-
+22
+son that publishes a Benchmark for use by third 
+23
+parties. 
+24
+00:44 Jul 27, 2021
+H4616
+4 
+•HR 4616 IH
+(3) ‘‘Benchmark Replacement’’ shall mean a 
+1
+Benchmark, or an interest rate or dividend rate 
+2
+(which may or may not be based in whole or in part 
+3
+on a prior setting of LIBOR), to replace LIBOR or 
+4
+any interest rate or dividend rate in LIBOR, wheth-
+5
+er on a temporary, permanent, or indefinite basis, 
+6
+under or in respect of a LIBOR Contract. 
+7
+(4) 
+‘‘Benchmark 
+Replacement 
+Conforming 
+8
+Changes’’ shall mean, with respect to any LIBOR 
+9
+Contract, any documented technical, administrative, 
+10
+or operational changes, alterations, or modifications 
+11
+that, in the reasonable judgment of a Calculating 
+12
+Person, are necessary or appropriate to permit the 
+13
+administration and calculation of the Board-Selected 
+14
+Benchmark Replacement under or in respect of such 
+15
+LIBOR Contract in a manner consistent with rel-
+16
+evant market practice or recommendations for simi-
+17
+lar types of LIBOR Contracts and, to the extent 
+18
+practicable, the manner in which such LIBOR Con-
+19
+tract was administered immediately prior to the 
+20
+LIBOR Replacement Date. 
+21
+(5) ‘‘Board’’ means the Board of Governors of 
+22
+the Federal Reserve System. 
+23
+00:44 Jul 27, 2021
+H4616
+5 
+•HR 4616 IH
+(6)(A) ‘‘Board-Selected Benchmark Replace-
+1
+ment’’ shall mean a Benchmark Replacement identi-
+2
+fied by the Board that is based on SOFR. 
+3
+(B) The Board shall adjust the Board-Selected 
+4
+Benchmark Replacement for each category of 
+5
+LIBOR Contract that the Board may identify to— 
+6
+(i) apply to each LIBOR tenor; and 
+7
+(ii) incorporate the relevant Tenor Spread 
+8
+Adjustment. (C) For consumer loans, the 
+9
+Board-Selected Benchmark Replacement shall 
+10
+initially reflect the spread between the Board- 
+11
+Selected Benchmark Replacement and LIBOR 
+12
+immediately before the LIBOR Replacement 
+13
+Date and shall incorporate the relevant Tenor 
+14
+Spread Adjustment over a one-year transition 
+15
+period. 
+16
+(7) ‘‘Calculating Person’’ shall mean, with re-
+17
+spect to any LIBOR Contract, any person (which 
+18
+may be the Determining Person) responsible for cal-
+19
+culating or determining any valuation, payment, or 
+20
+other measurement based on a Benchmark. 
+21
+(8) ‘‘Determining Person’’ shall mean, with re-
+22
+spect to any LIBOR Contract, any person with the 
+23
+authority, right, or obligation, including on a tem-
+24
+porary basis, (as identified by the provisions of the 
+25
+00:44 Jul 27, 2021
+H4616
+6 
+•HR 4616 IH
+LIBOR Contract, or as identified by the governing 
+1
+law of the LIBOR Contract, as appropriate) to de-
+2
+termine a Benchmark Replacement. 
+3
+(9) ‘‘Fallback Provisions’’ shall mean terms in 
+4
+a LIBOR Contract for determining a Benchmark 
+5
+Replacement, including any terms relating to the 
+6
+date on which the Benchmark Replacement becomes 
+7
+effective. 
+8
+(10) ‘‘LIBOR’’ shall mean the overnight and 1- 
+9
+, 3-, 6-, and 12-month tenors of U.S. dollar LIBOR 
+10
+(formerly known as the London interbank offered 
+11
+rate) as administered by ICE Benchmark Adminis-
+12
+tration Limited (or any predecessor or successor 
+13
+thereof). LIBOR shall not include the 1-week or 2- 
+14
+month tenors of U.S. dollar LIBOR. 
+15
+(11) ‘‘LIBOR Contract’’ shall mean, without 
+16
+limitation, any contract, agreement, indenture, orga-
+17
+nizational documents, guarantee, mortgage, deed of 
+18
+trust, lease, Security (whether representing debt or 
+19
+equity, and including any interest in a corporation, 
+20
+a partnership, or a limited liability company), instru-
+21
+ment, or other obligation or asset that, by its terms, 
+22
+continues in any way to use LIBOR as a Bench-
+23
+mark as of the applicable LIBOR Replacement 
+24
+Date. 
+25
+00:44 Jul 27, 2021
+H4616
+7 
+•HR 4616 IH
+(12) ‘‘LIBOR Replacement Date’’ shall mean 
+1
+the first London banking day after June 30, 2023, 
+2
+unless the Board determines that any LIBOR tenor 
+3
+will cease to be published or cease to be representa-
+4
+tive on a different date. 
+5
+(13) ‘‘Security’’ shall have the meaning as-
+6
+signed to such term in section 2(a) of the Securities 
+7
+Act of 1933 (15 U.S.C. 77b(a)). 
+8
+(14) ‘‘SOFR’’ shall mean the Secured Over-
+9
+night Financing Rate published by the Federal Re-
+10
+serve Bank of New York (or a successor adminis-
+11
+trator). 
+12
+ø(15) 
+‘‘Tax-Relevant 
+IBOR’’ 
+shall 
+mean 
+13
+LIBOR, any tenor of non-U.S. dollar currency rates 
+14
+formerly known as the London interbank offered 
+15
+rate as administered by ICE Benchmark Adminis-
+16
+tration Limited (or any predecessor or successor ad-
+17
+ministrator thereof), and any other interbank offered 
+18
+rates that are expected to cease.¿ 
+19
+ø(16) ‘‘Tax-Relevant IBOR Contract’’ shall 
+20
+mean, without limitation, any contract, agreement, 
+21
+mortgage, deed of trust, lease, Security (whether 
+22
+representing debt or equity, and including any inter-
+23
+est in a corporation, a partnership, or a limited li-
+24
+00:44 Jul 27, 2021
+H4616
+8 
+•HR 4616 IH
+ability company), instrument or other obligation that 
+1
+uses an IBOR as a Benchmark.¿ 
+2
+(17) ‘‘Tenor Spread Adjustment’’ shall mean— 
+3
+(A) 0.00644 percent for overnight LIBOR; 
+4
+(B) 0.11448 percent for 1-month LIBOR; 
+5
+(C) 0.26161 percent for 3-month LIBOR; 
+6
+(D) 0.42826 percent for 6-month LIBOR; 
+7
+and 
+8
+(E) 0.71513 percent for 12-month LIBOR. 
+9
+SEC. 4. LIBOR CONTRACTS. 
+10
+(a) On the LIBOR Replacement Date, the Board-Se-
+11
+lected Benchmark Replacement shall, by operation of law, 
+12
+be the Benchmark Replacement for any LIBOR Contract 
+13
+that, after giving any effect to subsection (b), contains no 
+14
+Fallback Provisions. 
+15
+(b) On the LIBOR Replacement Date, any Fallback 
+16
+Provisions in a LIBOR Contract that provide for a Bench-
+17
+mark Replacement that is based in any way on any 
+18
+LIBOR value or require a person (other than a Bench-
+19
+mark Administrator) to conduct a poll, survey, or inquiries 
+20
+for quotes or information concerning interbank lending or 
+21
+deposit rates shall be disregarded as if not included in 
+22
+such LIBOR Contract and shall be deemed null and void 
+23
+and without any force or effect. 
+24
+00:44 Jul 27, 2021
+H4616
+9 
+•HR 4616 IH
+(c) Subject to subsection (g)(2), a Determining Per-
+1
+son shall have authority under this Act, but shall not be 
+2
+required, to select the Board-Selected Benchmark Re-
+3
+placement as the Benchmark Replacement. 
+4
+(d) Any selection by a Determining Person of the 
+5
+Board-Selected Benchmark Replacement pursuant to sub-
+6
+section (c) shall be— 
+7
+(1) irrevocable; 
+8
+(2) made by the earlier of the LIBOR Replace-
+9
+ment Date and the latest date for selecting a Bench-
+10
+mark Replacement according to the terms of such 
+11
+LIBOR Contract; and 
+12
+(3) used in any determinations of the Bench-
+13
+mark under or in respect of such LIBOR Contract 
+14
+occurring on and after the LIBOR Replacement 
+15
+Date. 
+16
+(e) If a Determining Person has authority to select 
+17
+the Board-Selected Benchmark Replacement under sub-
+18
+section (c) but does not select a Benchmark Replacement 
+19
+by the date specified in subsection (d)(2), then, on the 
+20
+LIBOR Replacement Date, the Board-Selected Bench-
+21
+mark Replacement shall, by operation of law, be the 
+22
+Benchmark Replacement for the LIBOR Contract. 
+23
+(f) If the Board-Selected Benchmark Replacement 
+24
+becomes the Benchmark Replacement for a LIBOR Con-
+25
+00:44 Jul 27, 2021
+H4616
+10 
+•HR 4616 IH
+tract pursuant to subsection (a), (c), or (e) then all Bench-
+1
+mark Replacement Conforming Changes shall become an 
+2
+integral part of such LIBOR Contract by operation of law. 
+3
+For the avoidance of doubt, a Calculating Person shall 
+4
+not, unless explicitly required under the terms of the 
+5
+LIBOR Contract, be required to obtain consent from, or 
+6
+give advance notice to, any other person prior to the adop-
+7
+tion of Benchmark Replacement Conforming Changes. 
+8
+(g) The provisions of this Act shall not alter or im-
+9
+pair— 
+10
+(1) any written agreement specifying that a 
+11
+LIBOR Contract shall not be subject to this Act; 
+12
+(2) any LIBOR Contract that contains Fall-
+13
+back Provisions that identify a Benchmark Replace-
+14
+ment that is not based in any way on any LIBOR 
+15
+value (including, but not limited to, the prime rate 
+16
+or the Effective Federal Funds Rate), except that 
+17
+such LIBOR Contract shall be subject to subsection 
+18
+(b); 
+19
+(3) any LIBOR Contract subject to subsection 
+20
+(c) as to which a Determining Person does not elect 
+21
+to use a Board-Selected Benchmark Replacement 
+22
+pursuant to subsection (c), except to the extent that 
+23
+such LIBOR Contract is subject to subsection (b) or 
+24
+(e); 
+25
+00:44 Jul 27, 2021
+H4616
+11 
+•HR 4616 IH
+(4) the application to a Board-Selected Bench-
+1
+mark Replacement of any cap, floor, modifier, or 
+2
+spread adjustment to which LIBOR had been sub-
+3
+ject pursuant to the terms of a LIBOR Contract; or 
+4
+(5) any provisions of Federal consumer finan-
+5
+cial law as defined in section 1002 of the Dodd- 
+6
+Frank Wall Street Reform and Consumer Protection 
+7
+Act (12 U.S.C. 5481), and any Benchmark Replace-
+8
+ment and the transition to it must be in accordance 
+9
+with such law. 
+10
+SEC. 5. CONTINUITY OF CONTRACT AND SAFE HARBOR. 
+11
+(a) A Board-Selected Benchmark Replacement and 
+12
+the selection or use of a Board-Selected Benchmark Re-
+13
+placement as a Benchmark Replacement under or in re-
+14
+spect of a LIBOR Contract, as well as any Benchmark 
+15
+Replacement Conforming Changes, by operation of section 
+16
+4 shall constitute— 
+17
+(1) a commercially reasonable replacement for 
+18
+and a commercially substantial equivalent to 
+19
+LIBOR; 
+20
+(2) a reasonable, comparable, or analogous rate, 
+21
+index, or term for LIBOR; 
+22
+(3) a replacement that is based on a method-
+23
+ology or information that is similar or comparable to 
+24
+LIBOR; 
+25
+00:44 Jul 27, 2021
+H4616
+12 
+•HR 4616 IH
+(4) substantial performance by any person of 
+1
+any right or obligation relating to or based on 
+2
+LIBOR; and 
+3
+(5) a replacement that has historical fluctua-
+4
+tions that are substantially similar to those of 
+5
+LIBOR for purposes of the Truth in Lending Act 
+6
+and its implementing regulations. 
+7
+(b) Neither of (1) the selection or use of a Board- 
+8
+Selected Benchmark Replacement as a Benchmark Re-
+9
+placement or (2) the determination, implementation, or 
+10
+performance of Benchmark Replacement Conforming 
+11
+Changes, in each case by operation of section 4, shall (A) 
+12
+be deemed to impair or affect the right of any person to 
+13
+receive a payment, or to affect the amount or timing of 
+14
+such payment, under any LIBOR Contract or (B) have 
+15
+the effect of (i) discharging or excusing performance under 
+16
+any LIBOR Contract for any reason, claim, or defense (in-
+17
+cluding, but not limited to, any force majeure or other pro-
+18
+vision in any LIBOR Contract), (ii) giving any person the 
+19
+right to unilaterally terminate or suspend performance 
+20
+under any LIBOR Contract, (iii) constituting a breach of 
+21
+any LIBOR Contract, or (iv) voiding or nullifying any 
+22
+LIBOR Contract. 
+23
+(c) No person shall be subject to any claim or cause 
+24
+of action in law or equity or request for equitable relief, 
+25
+00:44 Jul 27, 2021
+H4616
+13 
+•HR 4616 IH
+or have liability for damages, arising out of or related to 
+1
+the selection or use of a Board-Selected Benchmark Re-
+2
+placement or the determination, implementation, or per-
+3
+formance 
+of 
+Benchmark 
+Replacement 
+Conforming 
+4
+Changes, in each case by operation of section 4; provided, 
+5
+however, that any person (including a Calculating Person) 
+6
+shall remain subject to any existing ølegal, regulatory, or 
+7
+contractual¿ obligations to correct servicing or other min-
+8
+isterial errors under or in respect of a LIBOR Contract. 
+9
+(d) The selection or use of a Board-Selected Bench-
+10
+mark Replacement or the determination, implementation, 
+11
+or performance of Benchmark Replacement Conforming 
+12
+Changes, in each case by operation of section 4, shall not 
+13
+be deemed to— 
+14
+(1) be an amendment or modification of any 
+15
+LIBOR Contract; or 
+16
+(2) prejudice, impair, or affect any person’s 
+17
+rights, interests, or obligations under or in respect 
+18
+of any LIBOR Contract. 
+19
+(e) Except as provided in either subsections (a), (b), 
+20
+or (c) of section 4, the provisions of this Act shall not 
+21
+be interpreted as creating any negative inference or nega-
+22
+tive presumption regarding the validity or enforceability 
+23
+of— 
+24
+00:44 Jul 27, 2021
+H4616
+14 
+•HR 4616 IH
+(1) any Benchmark Replacement (including any 
+1
+method for calculating, determining, or imple-
+2
+menting an adjustment to the Benchmark Replace-
+3
+ment to account for any historical differences be-
+4
+tween LIBOR and the Benchmark Replacement) 
+5
+that is not a Board-Selected Benchmark Replace-
+6
+ment; or 
+7
+(2) any changes, alterations, or modifications to 
+8
+or in respect of a LIBOR Contract that are not 
+9
+Benchmark Replacement Conforming Changes. 
+10
+øSEC. 6. TAX TREATMENT AND TAX REGULATIONS FOR 
+11
+IBOR TRANSITION. 
+12
+ø(a) None of—¿ 
+13
+ø(1) the selection or use of a Board-Selected 
+14
+Benchmark Replacement as a Benchmark Replace-
+15
+ment,¿ 
+16
+ø(2) the determination, implementation or per-
+17
+formance of Benchmark Replacement Conforming 
+18
+Changes, or¿ 
+19
+ø(3) the application to any LIBOR Contract of, 
+20
+or the agreement by parties thereto to terms con-
+21
+sistent with, section 4,¿ 
+22
+shall be treated as a sale, exchange, or other disposition 
+23
+of property for purposes of section 1001 of the Internal 
+24
+Revenue Code of 1986. 
+25
+00:44 Jul 27, 2021
+H4616
+15 
+•HR 4616 IH
+ø(b) Not later than 180 days after the date of enact-
+1
+ment of this Act, the Secretary of the Treasury shall issue 
+2
+such regulations as may be necessary or appropriate to 
+3
+carry out subsection (a) and address the Federal income 
+4
+tax consequences of transitioning a Tax-Relevant IBOR 
+5
+Contract to a replacement benchmark rate. Such regula-
+6
+tions shall øprioritize a smooth transition from the use 
+7
+of a Tax-Relevant IBOR¿/øbalance the need for a smooth 
+8
+transition from the use of a Tax-Relevant IBOR with the 
+9
+prevention of inappropriate tax planning¿.¿ 
+10
+SEC. 7. PREEMPTION. 
+11
+(a) This Act and the regulations hereunder shall su-
+12
+persede any and all laws, statutes, rules, regulations, or 
+13
+standards of any State, the District of Columbia, or any 
+14
+territory or possession of the United States, insofar as 
+15
+they provide for the selection or use of a Benchmark Re-
+16
+placement or related conforming changes. 
+17
+(b) No provision of State or local law that expressly 
+18
+limits the manner of calculating interest, including the 
+19
+compounding of interest, shall apply to the selection or 
+20
+use of a Board-Selected Benchmark Replacement or 
+21
+Benchmark Replacement Conforming Changes. 
+22
+SEC. 8. TRUST INDENTURE ACT OF 1939. 
+23
+Section 316 of the Trust Indenture Act of 1939 (15 
+24
+U.S.C. 77ppp) is amended— 
+25
+00:44 Jul 27, 2021
+H4616
+16 
+•HR 4616 IH
+(1) by striking ‘‘and’’ after ‘‘of subsection (a),’’ 
+1
+in subsection (b); and 
+2
+(2) by inserting ‘‘, and except that the right of 
+3
+any holder of any indenture security to receive pay-
+4
+ment of the principal of and interest on such inden-
+5
+ture security shall not be deemed to be impaired or 
+6
+affected by any change occurring by the application 
+7
+of section 4 of the Adjustable Interest Rate 
+8
+(LIBOR) Act of 2021 to any indenture security’’ 
+9
+after ‘‘subject to such lien’’ in subsection (b). 
+10
+SEC. 9. SPECIAL ALLOWANCE PAYMENTS FOR LEGACY FED-
+11
+ERAL STUDENT LOANS. 
+12
+Section 438(b)(2)(I) of the Higher Education Act (20 
+13
+U.S.C. 1087–1(b)(2)(I)) is amended by striking ‘‘of the 
+14
+1-month London Inter Bank Offered Rate (LIBOR) for 
+15
+United States dollars in effect for each of the days in such 
+16
+quarter as compiled and released by the British Bankers 
+17
+Association’’ and inserting ‘‘of 1-month LIBOR for 
+18
+United States dollars in effect for each of the days in such 
+19
+quarter as administered by ICE Benchmark Administra-
+20
+tion Limited (or any successor) or (as determined by the 
+21
+Secretary) any replacement benchmark rate for contracts 
+22
+established by the Board of Governors of the Federal Re-
+23
+serve System under the Adjustable Interest Rate (LIBOR) 
+24
+Act of 2021.’’. 
+25
+01:56 Jul 27, 2021
+H4616
+17 
+•HR 4616 IH
+SEC. 10. RULEMAKING. 
+1
+Not later than 180 days after the date of enactment 
+2
+of this Act, the Board shall issue such regulations as may 
+3
+be necessary or appropriate to enable it to administer and 
+4
+carry out the purposes of this Act, other than section 6. 
+5
+Æ 
+00:44 Jul 27, 2021
+H4616

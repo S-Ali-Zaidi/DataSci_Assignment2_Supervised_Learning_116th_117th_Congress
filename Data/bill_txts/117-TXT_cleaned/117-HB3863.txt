@@ -1,0 +1,4728 @@
+A BILL 
+To establish the use of ranked choice voting in elections 
+for Senators and Representatives in Congress, to require 
+each State with more than one Representative to estab-
+lish multi-member congressional districts, to require 
+States to conduct congressional redistricting through 
+independent commissions, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+2 
+•HR 3863 IH
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+1
+(a) SHORT TITLE.—This Act may be cited as the 
+2
+‘‘Fair Representation Act’’. 
+3
+(b) TABLE OF CONTENTS.—The table of contents of 
+4
+this Act is as follows: 
+5
+Sec. 1. Short title; table of contents. 
+Sec. 2. Finding of constitutional authority. 
+TITLE I—RANKED CHOICE VOTING 
+Sec. 101. Requiring ranked choice voting for election of Senators and Rep-
+resentatives. 
+‘‘Subtitle C—Ranked Choice Voting 
+‘‘PART 1—REQUIRING RANKED CHOICE VOTING FOR ELECTION OF 
+SENATORS AND REPRESENTATIVES 
+‘‘Sec. 321. Requiring ranked choice voting for election of Senators and 
+Representatives. 
+‘‘Sec. 322. Application to District of Columbia and territories. 
+‘‘Sec. 323. Treatment of States not holding primary elections prior to date 
+of general election. 
+‘‘PART 2—TABULATION PROCESS 
+‘‘Sec. 331. Tabulation for single-seat congressional elections. 
+‘‘Sec. 332. Tabulation for multi-seat congressional elections. 
+‘‘Sec. 333. Exclusion of inactive ballots. 
+‘‘Sec. 334. Batch elimination. 
+‘‘Sec. 335. Treatment of ties between candidates. 
+‘‘Sec. 336. Continuing candidate defined. 
+‘‘PART 3—PAYMENTS TO STATES TO IMPLEMENT RANKED CHOICE VOTING 
+‘‘Sec. 341. Payments to States to implement ranked choice voting. 
+Sec. 102. Applicability of enforcement provisions of Help America Vote Act of 
+2002. 
+Sec. 103. Effective date. 
+TITLE II—MULTI-MEMBER DISTRICTS 
+Sec. 201. Requiring use of multi-member districts in certain States. 
+Sec. 202. Requiring certain States to elect all Representatives at large. 
+Sec. 203. Establishing minimum number of candidates in general election. 
+Sec. 204. Conforming amendments. 
+Sec. 205. Exception for States in which use of multi-member districts will re-
+sult in diminishment of voting rights. 
+Sec. 206. Effective date. 
+TITLE III—REQUIREMENTS FOR CONGRESSIONAL REDISTRICTING 
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+3 
+•HR 3863 IH
+Subtitle A—General Requirements 
+Sec. 301. Requiring congressional redistricting to be conducted through plan of 
+independent State commission. 
+Sec. 302. Limit on congressional redistricting after an apportionment. 
+Subtitle B—Independent Redistricting Commissions 
+Sec. 311. Independent redistricting commission. 
+Sec. 312. Establishment of selection pool of individuals eligible to serve as 
+members of commission. 
+Sec. 313. Criteria for redistricting plan by independent commission; public no-
+tice and input. 
+Sec. 314. Establishment of related entities. 
+Sec. 315. Report on diversity of memberships of independent redistricting com-
+missions. 
+Subtitle C—Role of Courts in Development of Redistricting Plans 
+Sec. 321. Enactment of plan developed by 3-judge court. 
+Sec. 322. Special rule for redistricting conducted under order of Federal court. 
+Subtitle D—Administrative and Miscellaneous Provisions 
+Sec. 331. Payments to States for carrying out redistricting. 
+Sec. 332. Civil enforcement. 
+Sec. 333. State apportionment notice defined. 
+Sec. 334. Special rules for redistricting pursuant to 2020 decennial census. 
+TITLE IV—GENERAL PROVISIONS 
+Sec. 401. No effect on elections for State and local office. 
+Sec. 402. Severability. 
+Sec. 403. Effective date. 
+SEC. 2. FINDING OF CONSTITUTIONAL AUTHORITY. 
+1
+Congress finds that it has the authority to establish 
+2
+the terms and conditions States must follow in carrying 
+3
+out congressional redistricting after an apportionment of 
+4
+Members of the House of Representatives and in admin-
+5
+istering elections for the Senate and House of Representa-
+6
+tives because— 
+7
+(1) the authority granted to Congress under ar-
+8
+ticle I, section 4 of the Constitution of the United 
+9
+States gives Congress the power to enact laws gov-
+10
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+4 
+•HR 3863 IH
+erning the time, place, and manner of elections for 
+1
+Senators and Members of the House of Representa-
+2
+tives; and 
+3
+(2) the authority granted to Congress under 
+4
+section 5 of the 14th Amendment to the Constitu-
+5
+tion gives Congress the power to enact laws to en-
+6
+force section 2 of such amendment, which requires 
+7
+Representatives to be apportioned among the several 
+8
+States according to their number. 
+9
+TITLE I—RANKED CHOICE 
+10
+VOTING 
+11
+SEC. 101. REQUIRING RANKED CHOICE VOTING FOR ELEC-
+12
+TION OF SENATORS AND REPRESENTATIVES. 
+13
+(a) IN GENERAL.—Title III of the Help America 
+14
+Vote Act of 2001 (52 U.S.C. 21081 et seq.) is amended 
+15
+by adding at the end the following new subtitle: 
+16
+‘‘Subtitle C—Ranked Choice Voting 
+17
+‘‘PART 1—REQUIRING RANKED CHOICE VOTING 
+18
+FOR ELECTION OF SENATORS AND REP-
+19
+RESENTATIVES 
+20
+‘‘SEC. 321. REQUIRING RANKED CHOICE VOTING FOR ELEC-
+21
+TION OF SENATORS AND REPRESENTATIVES. 
+22
+‘‘(a) RANKED CHOICE VOTING.—Each State shall 
+23
+carry out elections for the office of Senator and the office 
+24
+of Representative in Congress using a system of ranked 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+5 
+•HR 3863 IH
+choice voting under which each voter shall rank the can-
+1
+didates for the office in the order of the voter’s preference, 
+2
+in accordance with the following: 
+3
+‘‘(1) In any single-seat election and any election 
+4
+for the office of Senator, the State shall carry out 
+5
+the election using single-seat ranked choice voting as 
+6
+described in section 331. 
+7
+‘‘(2) In any multi-seat election, the State shall 
+8
+carry out the election using multi-seat ranked choice 
+9
+voting as described in section 332. 
+10
+‘‘(b) BALLOT DESIGN.—Each State shall ensure that 
+11
+the ballot used in an election carried out using a system 
+12
+of ranked choice voting under this title meets each of the 
+13
+following requirements: 
+14
+‘‘(1) The ballot shall be simple and easy to un-
+15
+derstand. 
+16
+‘‘(2) The ballot shall include all qualified can-
+17
+didates for the election and (to the extent permitted 
+18
+under State law) options for voters to select write- 
+19
+in candidates. If feasible, the ballot shall permit vot-
+20
+ers to rank every candidate in the election. If it is 
+21
+not feasible for the ballot to permit voters to rank 
+22
+every candidate, the State may limit the number of 
+23
+candidates who may be ranked on the ballot to not 
+24
+fewer than six. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+6 
+•HR 3863 IH
+‘‘(3) The ballot shall include such instructions 
+1
+as the State considers necessary to enable the voter 
+2
+to rank candidates and successfully cast the ballot 
+3
+under the system. 
+4
+‘‘(c) DEFINITION.—In this title— 
+5
+‘‘(1) the term ‘single-seat election’ means any 
+6
+primary election in which exactly one candidate in 
+7
+the primary election will advance to the general elec-
+8
+tion, any special election for exactly one seat, any 
+9
+general election for the office of Senator, and any 
+10
+general election in which only one Representative is 
+11
+elected at large; and 
+12
+‘‘(2) the term ‘multi-seat election’ means any 
+13
+primary election in which more than one candidate 
+14
+in the primary election will advance to the general 
+15
+election, any special election for more than one seat, 
+16
+and any general election in which more than one 
+17
+Representative is elected at large or in a multi-mem-
+18
+ber district. 
+19
+‘‘SEC. 322. APPLICATION TO DISTRICT OF COLUMBIA AND 
+20
+TERRITORIES. 
+21
+‘‘(a) ELECTION OF DELEGATES AND RESIDENT COM-
+22
+MISSIONER.—In this subtitle, the term ‘Representative’ in-
+23
+cludes a Delegate or Resident Commissioner to the Con-
+24
+gress. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+7 
+•HR 3863 IH
+‘‘(b) APPLICATION
+TO NORTHERN MARIANA IS-
+1
+LANDS.—This subtitle shall apply with respect to the 
+2
+Commonwealth of the Northern Mariana Islands in the 
+3
+same manner as this subtitle applies to a State. 
+4
+‘‘SEC. 323. TREATMENT OF STATES NOT HOLDING PRIMARY 
+5
+ELECTIONS PRIOR TO DATE OF GENERAL 
+6
+ELECTION. 
+7
+‘‘Nothing in this title shall be construed to require 
+8
+a State to hold a primary election for the office of Senator 
+9
+or Representative in Congress prior to the date established 
+10
+under section 25 of the Revised Statutes of the United 
+11
+States (2 U.S.C. 7) for the regularly scheduled general 
+12
+election for such office, so long as the determination of 
+13
+the candidates who are elected to such office is based sole-
+14
+ly on the votes cast with respect to the election held on 
+15
+such date, as determined in accordance with the system 
+16
+of ranked choice voting under this title. 
+17
+‘‘PART 2—TABULATION PROCESS 
+18
+‘‘SEC. 
+331. 
+TABULATION 
+FOR 
+SINGLE-SEAT 
+CONGRES-
+19
+SIONAL ELECTIONS. 
+20
+‘‘(a) IN GENERAL.— 
+21
+‘‘(1) DETERMINATION OF CANDIDATE’S NUM-
+22
+BER OF VOTES.—In the case of a single-seat elec-
+23
+tion, the number of votes received by a candidate in 
+24
+either the initial tabulation or in an additional round 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+8 
+•HR 3863 IH
+of tabulation shall be equal to the number of ballots 
+1
+on which that candidate is the highest ranked con-
+2
+tinuing candidate. 
+3
+‘‘(2) CRITERIA FOR ELECTION.—In the case of 
+4
+a single-seat election, a candidate shall be elected to 
+5
+the office of Senator or Representative in Congress 
+6
+(or, in the case of a primary election, shall advance 
+7
+to the general election for such office as provided 
+8
+under the law of the State involved) if— 
+9
+‘‘(A) in the initial tabulation of ballots, the 
+10
+candidate receives a number of votes greater 
+11
+than 50 percent of the number of ballots cast 
+12
+in the election; or 
+13
+‘‘(B) if the election official carries out an 
+14
+additional round of tabulation under subsection 
+15
+(b), the candidate receives the greatest number 
+16
+of votes of the 2 remaining continuing can-
+17
+didates (as described in such subsection). 
+18
+‘‘(b) PROCESS IN CASE NO CANDIDATE ELECTED 
+19
+UNDER INITIAL TABULATION.— 
+20
+‘‘(1) ADDITIONAL ROUNDS OF TABULATION.— 
+21
+If, under the initial tabulation of ballots, no can-
+22
+didate is elected to office (or, in the case of a pri-
+23
+mary election, no candidate advances to the general 
+24
+election for such office) under the criteria described 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+9 
+•HR 3863 IH
+in subsection (a)(2)(A), the election official shall 
+1
+carry out additional rounds of tabulation in accord-
+2
+ance with paragraph (2) until only two continuing 
+3
+candidates remain. 
+4
+‘‘(2) TREATMENT OF BALLOTS IN ADDITIONAL 
+5
+ROUNDS.—In each additional round of tabulation 
+6
+carried out under this subsection— 
+7
+‘‘(A) the candidate receiving the fewest 
+8
+number of votes among all candidates (or, in 
+9
+the case of a State which applies batch elimi-
+10
+nation under section 334, each candidate in the 
+11
+batch elimination group) shall be treated as a 
+12
+defeated candidate; 
+13
+‘‘(B) for each ballot cast for a defeated 
+14
+candidate, the election official shall determine 
+15
+the highest-ranked candidate on the ballot who 
+16
+is a continuing candidate; and 
+17
+‘‘(C) the vote cast on the ballot shall be 
+18
+transferred to, and added to the total number 
+19
+of votes received by, the highest-ranked con-
+20
+tinuing candidate determined under subpara-
+21
+graph (B). 
+22
+‘‘SEC. 332. TABULATION FOR MULTI-SEAT CONGRESSIONAL 
+23
+ELECTIONS. 
+24
+‘‘(a) IN GENERAL.— 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+10 
+•HR 3863 IH
+‘‘(1) VOTES COUNTED IN ROUNDS.—In the case 
+1
+of a multi-seat election, the votes shall be counted in 
+2
+a series of rounds of tabulation until the number of 
+3
+winning candidates equals the required number of 
+4
+winning candidates with respect to the election, as 
+5
+described in paragraph (4). 
+6
+‘‘(2) CRITERIA FOR ELECTION.—In the case of 
+7
+a multi-seat election, a candidate shall be considered 
+8
+a winning candidate and shall be elected to one of 
+9
+the offices of Representative in the congressional 
+10
+district (or, in the case of a primary election, shall 
+11
+advance to the general election for such offices as 
+12
+provided under the law of State involved) if— 
+13
+‘‘(A) in any round, the candidate has a 
+14
+vote total that exceeds the multi-seat election 
+15
+threshold, as determined under this section; or 
+16
+‘‘(B) the candidate is a continuing can-
+17
+didate and the number of remaining continuing 
+18
+candidates plus the number of candidates al-
+19
+ready designated as winning candidates is equal 
+20
+to or less than the required number of winning 
+21
+candidates with respect to the election. 
+22
+‘‘(3) DETERMINATION
+OF
+MULTI-SEAT
+ELEC-
+23
+TION THRESHOLD.—The multi-seat election thresh-
+24
+old with respect to an election shall be equal to the 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+11 
+•HR 3863 IH
+total number of valid votes cast in the election di-
+1
+vided by the sum of the number one and the re-
+2
+quired number of winning candidates with respect to 
+3
+the election, rounded up to four decimal places. 
+4
+‘‘(4) TABULATION PROCESS.—In the case of a 
+5
+multi-seat election, the votes shall be counted in a 
+6
+series of rounds, beginning with the initial round, 
+7
+under which each candidate has a number of votes 
+8
+equal to the number of votes cast in the election in 
+9
+which the candidate was the highest-ranked can-
+10
+didate, and proceeding as follows: 
+11
+‘‘(A) If, following any round of counting, 
+12
+the number of winning and continuing can-
+13
+didates combined is greater than the required 
+14
+number of winning candidates with respect to 
+15
+the election, and at least one candidate has a 
+16
+vote total that exceeds the multi-seat election 
+17
+threshold, as determined under this section, 
+18
+then the following round shall be a surplus tab-
+19
+ulation round. 
+20
+‘‘(B) If, following any round of counting, 
+21
+the number of winning and continuing can-
+22
+didates combined is greater than the required 
+23
+number of winning candidates with respect to 
+24
+the election, and no candidate has a vote total 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+12 
+•HR 3863 IH
+that exceeds the multi-seat election threshold, 
+1
+as determined under this section, then the fol-
+2
+lowing round shall be a candidate elimination 
+3
+round. 
+4
+‘‘(C) If, following any round of counting, 
+5
+the number of winning and continuing can-
+6
+didates combined is equal to or less than the re-
+7
+quired number of winning candidates with re-
+8
+spect to the election, then the remaining con-
+9
+tinuing candidates shall be designated as win-
+10
+ning candidates, and the tabulation is complete. 
+11
+‘‘(5) TABULATION ROUNDS DESCRIBED.— 
+12
+‘‘(A) SURPLUS
+TABULATION
+ROUND.—In 
+13
+this section, a ‘surplus tabulation round’ is a 
+14
+tabulation round under which each candidate 
+15
+with a vote total greater than the multi-seat 
+16
+election threshold is designated as a winning 
+17
+candidate and the surplus votes for such can-
+18
+didate are transferred to other candidates, as 
+19
+described in subsection (b)(2). 
+20
+‘‘(B) CANDIDATE ELIMINATION ROUND.— 
+21
+In this section, a ‘candidate elimination round’ 
+22
+is a tabulation round under which the candidate 
+23
+with the fewest votes is designated as defeated 
+24
+and votes for that candidate are transferred to 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+13 
+•HR 3863 IH
+other candidates, as described in subsection 
+1
+(b)(3). 
+2
+‘‘(b) PROCESS FOR TRANSFERRING VOTES.— 
+3
+‘‘(1) SURPLUS
+TABULATION
+ROUNDS.—In a 
+4
+surplus tabulation round, each candidate with a vote 
+5
+total that exceeds the multi-seat election threshold 
+6
+shall be designated as a winning candidate, and the 
+7
+election official shall transfer the surplus votes for 
+8
+each such candidate to other candidates as follows: 
+9
+‘‘(A) The official shall determine the sur-
+10
+plus fraction for each candidate designated as a 
+11
+winning candidate at the beginning of the 
+12
+round by taking the difference between the can-
+13
+didate’s vote total at the beginning of the round 
+14
+and the multi-seat election threshold, and divid-
+15
+ing that difference by the candidate’s vote total 
+16
+at the beginning of the round. 
+17
+‘‘(B) The official shall reweight each vote 
+18
+counting for each candidate designated as a 
+19
+winning candidate at the beginning of the 
+20
+round by multiplying the vote’s current weight 
+21
+(equal to one if the vote has not been re-
+22
+weighted in any prior surplus tabulation round) 
+23
+by the surplus fraction determined with respect 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+14 
+•HR 3863 IH
+to the candidate under subparagraph (A), 
+1
+rounding down to four decimal places. 
+2
+‘‘(C) The official shall transfer each vote 
+3
+counting for each candidate designated as a 
+4
+winning candidate at the beginning of the 
+5
+round to the highest ranked continuing can-
+6
+didate on the ballot on which the vote was cast, 
+7
+counting the vote as a fraction of a vote equal 
+8
+to its new weight as determined under subpara-
+9
+graph (B). 
+10
+‘‘(D) For all subsequent surplus tabulation 
+11
+rounds, the official shall set the vote total of 
+12
+each candidate designated as a winning can-
+13
+didate at the beginning of the round to be equal 
+14
+to the multi-seat election threshold. 
+15
+‘‘(2) CANDIDATE ELIMINATION ROUNDS.—In a 
+16
+candidate elimination round, the candidate with the 
+17
+fewest votes (or, in the case of a State which applies 
+18
+batch elimination under section 334, each candidate 
+19
+in the batch elimination group) shall be designated 
+20
+as defeated, and the election official shall transfer 
+21
+the votes for such candidate to other candidates as 
+22
+follows: 
+23
+‘‘(A) The official shall transfer each vote 
+24
+counting for the candidate designated as de-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+15 
+•HR 3863 IH
+feated at the beginning of the round to the 
+1
+highest ranked continuing candidate on the bal-
+2
+lot on which the vote was cast, except that if 
+3
+the vote was counted as a fraction of a vote due 
+4
+to being reweighted in a prior surplus transfer 
+5
+round, it shall continue to count as the same 
+6
+fraction of a vote in the subsequent candidate 
+7
+elimination round. 
+8
+‘‘(B) For all subsequent candidate elimi-
+9
+nation rounds, the official shall set the vote 
+10
+total of each candidate designated as defeated 
+11
+at the beginning of the round to zero votes. 
+12
+‘‘SEC. 333. EXCLUSION OF INACTIVE BALLOTS. 
+13
+‘‘(a) INITIAL TABULATION.—In the initial tabulation 
+14
+of ballots under section 331 or the initial round of tabula-
+15
+tion under section 332, if a vote is cast on an inactive 
+16
+ballot, no vote on the ballot shall be counted for any can-
+17
+didate. 
+18
+‘‘(b) ADDITIONAL ROUNDS OF TABULATION.— 
+19
+‘‘(1) SINGLE-SEAT ELECTIONS.—In any addi-
+20
+tional round of tabulation conducted with respect to 
+21
+a single-seat election under section 331(b), if a vote 
+22
+cast for a defeated candidate is cast on an inactive 
+23
+ballot, no vote on the ballot may be transferred to 
+24
+a continuing candidate under section 331(b). 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+16 
+•HR 3863 IH
+‘‘(2) MULTI-SEAT
+ELECTIONS.—In any addi-
+1
+tional round of tabulation conducted with respect to 
+2
+a multi-seat election under section 332(b)— 
+3
+‘‘(A) if a vote cast for the winning can-
+4
+didate is cast on an inactive ballot, no portion 
+5
+of the surplus vote on such ballot may be trans-
+6
+ferred to a continuing candidate under any sur-
+7
+plus vote tabulation round described in para-
+8
+graph (2) of section 332(b); and 
+9
+‘‘(B) if a vote cast for a defeated candidate 
+10
+is cast on an inactive ballot, the vote may not 
+11
+be transferred to any continuing candidate 
+12
+under any candidate elimination round de-
+13
+scribed in paragraph (3) of section 332(b). 
+14
+‘‘(c) INACTIVE BALLOT DEFINED.—In this sub-
+15
+section, the term ‘inactive ballot’ means— 
+16
+‘‘(1) a ballot on which the voter does not rank 
+17
+any of the continuing candidates in order of pref-
+18
+erence; 
+19
+‘‘(2) a ballot on which the voter ranked more 
+20
+than one continuing candidate at the highest order 
+21
+of preference; or 
+22
+‘‘(3) a ballot on which the voter skips two or 
+23
+more consecutive numerical rankings prior to the 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+17 
+•HR 3863 IH
+ranking for the continuing candidate at the highest 
+1
+order of preference. 
+2
+‘‘SEC. 334. BATCH ELIMINATION. 
+3
+‘‘At the option of the State, with respect to any can-
+4
+didate elimination round carried out under this subsection, 
+5
+a State may use batch elimination to treat multiple can-
+6
+didates as defeated candidates for purposes of section 
+7
+331(b)(2) and section 332(b)(2). A continuing candidate 
+8
+is in the elimination batch if the number of winning and 
+9
+continuing candidates with more votes than that candidate 
+10
+is greater than the number of winning candidates required 
+11
+with respect to the election, and it is mathematically im-
+12
+possible for that candidate to be a winning candidate in 
+13
+the election for any of the following reasons: 
+14
+‘‘(1) The candidate’s vote total in the initial 
+15
+tabulation of ballots plus all of the votes that could 
+16
+possibly be transferred to the candidate in the addi-
+17
+tional rounds of tabulation would not be enough to 
+18
+equal or surpass the continuing candidate with the 
+19
+next highest vote total in the initial tabulation of 
+20
+ballots. 
+21
+‘‘(2) The candidate has a lower current vote 
+22
+total than a continuing candidate who is described 
+23
+by paragraph (1). 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+18 
+•HR 3863 IH
+‘‘SEC. 335. TREATMENT OF TIES BETWEEN CANDIDATES. 
+1
+‘‘If a tie occurs between candidates with the greatest 
+2
+number of votes or the fewest number of votes at any point 
+3
+in the tabulation of ballots under this part and the tabula-
+4
+tion cannot proceed until the tie is resolved, the tie shall 
+5
+be resolved in accordance with State law. 
+6
+‘‘SEC. 336. CONTINUING CANDIDATE DEFINED. 
+7
+‘‘In this part, the term ‘continuing candidate’ means, 
+8
+with respect to any round of tabulation under this part, 
+9
+a candidate who is neither a winning candidate nor a can-
+10
+didate who is treated as a defeated candidate under such 
+11
+subsection during the tabulation of ballots under that 
+12
+round of tabulation. 
+13
+‘‘PART 3—PAYMENTS TO STATES TO IMPLEMENT 
+14
+RANKED CHOICE VOTING 
+15
+‘‘SEC. 341. PAYMENTS TO STATES TO IMPLEMENT RANKED 
+16
+CHOICE VOTING. 
+17
+‘‘(a) PAYMENTS.—Not later than June 1, 2021, the 
+18
+Commission shall make a payment to the State in an 
+19
+amount equal to— 
+20
+‘‘(1) in the case of the District of Columbia, the 
+21
+Commonwealth of Puerto Rico, American Samoa, 
+22
+Guam, the United States Virgin Islands, and the 
+23
+Commonwealth of the Northern Mariana Islands, 
+24
+$1,500,000; or 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+19 
+•HR 3863 IH
+‘‘(2) in the case of any other State, the sum of 
+1
+$1,000,000 and the product of— 
+2
+‘‘(A) the number of Representatives to 
+3
+which the State is entitled under the reappor-
+4
+tionment of Representatives resulting from the 
+5
+regular decennial census conducted during 
+6
+2020; and 
+7
+‘‘(B) $500,000. 
+8
+‘‘(b) USE OF FUNDS.—A State shall use the payment 
+9
+made under subsection (a) to implement ranked choice 
+10
+voting under this subtitle, including educating voters 
+11
+about ranked choice voting, and to otherwise carry out 
+12
+elections for Federal office in the State. 
+13
+‘‘(c) NO EFFECT ON REQUIREMENTS PAYMENTS.— 
+14
+The receipt or use of the payment made under this section 
+15
+shall not affect a State’s eligibility for or use of a require-
+16
+ments payment made under part 1 of subtitle D of title 
+17
+II. 
+18
+‘‘(d) AUTHORIZATION OF APPROPRIATIONS.—There 
+19
+are authorized to be appropriated such sums as may be 
+20
+necessary for payments under this section.’’. 
+21
+(b) CLERICAL AMENDMENT.—The table of contents 
+22
+of such Act is amended by adding at the end of the item 
+23
+relating to title III the following: 
+24
+‘‘Subtitle C—Ranked Choice Voting 
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+20 
+•HR 3863 IH
+‘‘PART 1—REQUIRING RANKED CHOICE VOTING FOR ELECTION OF 
+SENATORS AND REPRESENTATIVES 
+‘‘Sec. 321. Requiring ranked choice voting for election of Senators and 
+Representatives. 
+‘‘Sec. 322. Application to District of Columbia and territories. 
+‘‘Sec. 323. Treatment of States not holding primary elections prior to date 
+of general election. 
+‘‘PART 2—TABULATION PROCESS 
+‘‘Sec. 331. Tabulation for single-seat congressional elections. 
+‘‘Sec. 332. Tabulation for multi-seat congressional elections. 
+‘‘Sec. 333. Exclusion of inactive ballots. 
+‘‘Sec. 334. Batch elimination. 
+‘‘Sec. 335. Treatment of ties between candidates. 
+‘‘Sec. 336. Continuing candidate defined. 
+‘‘PART 3—PAYMENTS TO STATES TO IMPLEMENT RANKED CHOICE VOTING 
+‘‘Sec. 341. Payments to States to implement ranked choice voting. 
+SEC. 102. APPLICABILITY OF ENFORCEMENT PROVISIONS 
+1
+OF HELP AMERICA VOTE ACT OF 2002. 
+2
+Section 401 of the Help America Vote Act of 2002 
+3
+(52 U.S.C. 21111) is amended by striking ‘‘sections 301, 
+4
+302, and 303’’ and inserting ‘‘title III’’. 
+5
+SEC. 103. EFFECTIVE DATE. 
+6
+This title and the amendments made by this title 
+7
+shall apply with respect to— 
+8
+(1) elections for the office of Senator which are 
+9
+held during 2022 or any succeeding year; and 
+10
+(2) elections for the office of Representative 
+11
+which are held pursuant to the reapportionment of 
+12
+Representatives resulting from the regular decennial 
+13
+census conducted during 2020 and all subsequent 
+14
+elections. 
+15
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+21 
+•HR 3863 IH
+TITLE II—MULTI-MEMBER 
+1
+DISTRICTS 
+2
+SEC. 201. REQUIRING USE OF MULTI-MEMBER DISTRICTS 
+3
+IN CERTAIN STATES. 
+4
+(a) RULES FOR STATES WITH SIX OR MORE REP-
+5
+RESENTATIVES.—If a State is entitled to six or more Rep-
+6
+resentatives in Congress under an apportionment made 
+7
+under section 22(a) of the Act entitled ‘‘An Act to provide 
+8
+for the fifteenth and subsequent decennial censuses and 
+9
+to provide for an apportionment of Representatives in 
+10
+Congress’’, approved June 18, 1929 (2 U.S.C. 2a(a)), the 
+11
+State shall establish a number of districts for the election 
+12
+of Representatives in the State that is less than the num-
+13
+ber of Representatives to which the State is entitled, and 
+14
+Representatives shall be elected only from districts so es-
+15
+tablished. 
+16
+(b) CRITERIA FOR NUMBER OF DISTRICTS.—In es-
+17
+tablishing the number of districts for the State under sub-
+18
+section (a), the State shall follow the following criteria: 
+19
+(1) The State shall ensure that districts shall 
+20
+each have equal population per Representative as 
+21
+nearly as practicable, in accordance with the Con-
+22
+stitution of the United States. 
+23
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+22 
+•HR 3863 IH
+(2) The number of Representatives to be elected 
+1
+from any district may not be fewer than three or 
+2
+greater than five. 
+3
+SEC. 202. REQUIRING CERTAIN STATES TO ELECT ALL REP-
+4
+RESENTATIVES AT LARGE. 
+5
+If a State is entitled to five or fewer Representatives 
+6
+in Congress under an apportionment made under section 
+7
+22(a) of the Act entitled ‘‘An Act to provide for the fif-
+8
+teenth and subsequent decennial censuses and to provide 
+9
+for an apportionment of Representatives in Congress’’, ap-
+10
+proved June 18, 1929 (2 U.S.C. 2a(a)), the State shall 
+11
+elect all such Representatives at large. 
+12
+SEC. 203. ESTABLISHING MINIMUM NUMBER OF CAN-
+13
+DIDATES IN GENERAL ELECTION. 
+14
+(a) STATES WITH PARTISAN NOMINATING PRI-
+15
+MARIES.— 
+16
+(1) IN GENERAL.—If, in a primary election for 
+17
+the office of Representative, the candidates that ad-
+18
+vance to the general election do so by winning the 
+19
+nomination of a political party (without regard to 
+20
+whether or not the election is open or closed to vot-
+21
+ers on the basis of political party preference), the 
+22
+State shall ensure that the number of candidates to 
+23
+be nominated by each political party is equal to the 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+23 
+•HR 3863 IH
+number of Representatives who will be elected from 
+1
+the district involved. 
+2
+(2) AUTHORITY OF POLITICAL PARTIES TO DE-
+3
+TERMINE NUMBER OF CANDIDATES ADVANCING IN 
+4
+MULTI-SEAT
+ELECTIONS.—Notwithstanding para-
+5
+graph (1), in the case of a primary election de-
+6
+scribed in such paragraph which is a multi-seat pri-
+7
+mary election, a State may permit a political party 
+8
+to adopt a rule that provides for such number of 
+9
+nominees of that political party to advance to the 
+10
+general election as the party considers appropriate, 
+11
+so long as the number is not less than two. 
+12
+(3) 
+MULTI-SEAT
+PRIMARY
+ELECTION
+DE-
+13
+FINED.—In this subsection, the term ‘‘multi-seat 
+14
+primary election’’ means a primary election held to 
+15
+select the candidates for a general election in which 
+16
+more than one Representative shall be elected. 
+17
+(b) STATES WITH NONPARTISAN BLANKET PRI-
+18
+MARIES.— 
+19
+(1) NUMBER OF CANDIDATES.—If a State uses 
+20
+a nonpartisan blanket primary election to determine 
+21
+which candidates will advance to the general election 
+22
+for the office of Representative, the State shall en-
+23
+sure that the number of candidates who advance to 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+24 
+•HR 3863 IH
+the general election for the office is not less than the 
+1
+greater of— 
+2
+(A) five; 
+3
+(B) twice the number of Representatives 
+4
+who will be elected from the district involved; or 
+5
+(C) such greater number as the State may 
+6
+establish by law. 
+7
+(2) NONPARTISAN
+BLANKET
+PRIMARY
+ELEC-
+8
+TION DEFINED.—In this subsection, a ‘‘nonpartisan 
+9
+blanket primary election’’ is a primary election for 
+10
+the office of Representative conducted prior to the 
+11
+date established under section 25 of the Revised 
+12
+Statutes of the United States (2 U.S.C. 7) for the 
+13
+regularly scheduled general election for such office, 
+14
+under which— 
+15
+(A) each candidate for such office, regard-
+16
+less of the candidate’s political party preference 
+17
+or lack thereof, shall appear on a single ballot; 
+18
+(B) each voter in the State who is eligible 
+19
+to vote in elections for Federal office in the dis-
+20
+trict involved may cast a ballot in the election, 
+21
+regardless of the voter’s political party pref-
+22
+erence or lack thereof; and 
+23
+(C) the identification and number of can-
+24
+didates who advance to the general election for 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+25 
+•HR 3863 IH
+the office is determined without regard to the 
+1
+candidates’ political party preferences or lack 
+2
+thereof. 
+3
+(c) EXCEPTION FOR STATES NOT HOLDING PRIMARY 
+4
+ELECTIONS PRIOR TO DATE OF REGULARLY SCHEDULED 
+5
+GENERAL ELECTION.—In the case of a State that does 
+6
+not hold primary elections for the office of Representative 
+7
+prior to the date established under section 25 of the Re-
+8
+vised Statutes of the United States (2 U.S.C. 7) for the 
+9
+regularly scheduled general election for such offices, all 
+10
+seats shall be elected at the election taking place on such 
+11
+date. 
+12
+SEC. 204. CONFORMING AMENDMENTS. 
+13
+(a) ELECTION OF REPRESENTATIVES PRIOR TO RE-
+14
+APPORTIONMENT.—Section 22(c) of the Act entitled ‘‘An 
+15
+Act to provide for the fifteenth and subsequent decennial 
+16
+censuses and to provide for an apportionment of Rep-
+17
+resentatives in Congress’’, approved June 18, 1929 (2 
+18
+U.S.C. 2a(c)), is amended by striking ‘‘Until a State’’ and 
+19
+inserting ‘‘Except as provided in title II of the Fair Rep-
+20
+resentation Act, until a State’’. 
+21
+(b) NUMBER OF REPRESENTATIVES.—Section 22(b) 
+22
+of the Act entitled ‘‘An Act to provide for apportioning 
+23
+Representatives in Congress among the several States by 
+24
+the equal proportions method’’, approved November 15, 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+26 
+•HR 3863 IH
+1941 (2 U.S.C. 2b), is amended by striking ‘‘Each State’’ 
+1
+and inserting ‘‘Except as provided in title II of the Fair 
+2
+Representation Act, each State’’. 
+3
+(c) NUMBER
+OF REPRESENTATIVES FROM EACH 
+4
+DISTRICT.—The Act entitled ‘‘An Act for the relief of 
+5
+Doctor Ricardo Vallejo Samala and to provide for congres-
+6
+sional redistricting’’, approved December 14, 1967 (2 
+7
+U.S.C. 2c), is amended by striking ‘‘In each State’’ and 
+8
+inserting ‘‘Except as provided in title II of the Fair Rep-
+9
+resentation Act, in each State’’. 
+10
+(d) 
+NOMINATION
+FOR
+REPRESENTATIVES
+AT 
+11
+LARGE.—Section 5 of the Act entitled ‘‘An Act For the 
+12
+apportionment of Representatives in Congress among the 
+13
+several States under the Thirteenth Census’’, approved 
+14
+August 8, 1911 (2 U.S.C. 5), is amended by striking 
+15
+‘‘Candidates for Representative’’ and inserting ‘‘Except as 
+16
+provided in title II of the Fair Representation Act, can-
+17
+didates for Representative’’. 
+18
+SEC. 205. EXCEPTION FOR STATES IN WHICH USE OF 
+19
+MULTI-MEMBER DISTRICTS WILL RESULT IN 
+20
+DIMINISHMENT OF VOTING RIGHTS. 
+21
+(a) EXCEPTION.—If the written evaluation of any of 
+22
+the redistricting plans of the independent redistricting 
+23
+commission of a State under subtitle B of title III with 
+24
+respect to the apportionment of Representatives resulting 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+27 
+•HR 3863 IH
+from a decennial census, as developed and published under 
+1
+section 313(e), indicates that the redistricting plan will 
+2
+deny or abridge the right to vote by having the effect of 
+3
+diminishing the ability of any citizens of the United States 
+4
+on account of race or color, or in contravention of the 
+5
+guarantees set forth in section 4(f)(2) of the Voting 
+6
+Rights Act of 1965 (52 U.S.C. 10303(f)(2)), to elect their 
+7
+preferred candidates of choice— 
+8
+(1) this title shall not apply with respect to any 
+9
+election held in the State which is based on the ap-
+10
+portionment of Representatives to which such redis-
+11
+tricting plan would apply; and 
+12
+(2) the independent redistricting commission 
+13
+shall (in accordance with subtitle B of title III) de-
+14
+velop and publish a redistricting plan for the State 
+15
+for purposes of title III under which there are no 
+16
+multi-member districts in the State. 
+17
+(b) NO EFFECT ON OTHER REQUIREMENTS.—Noth-
+18
+ing in this section shall be construed to waive the applica-
+19
+tion of any of the other titles of this Act or the amend-
+20
+ments made by any of the other titles of this Act to a 
+21
+State for which there are no multi-member districts as a 
+22
+result of this section, including the requirement to use 
+23
+ranked choice voting as set forth in title I or the require-
+24
+ment to carry out congressional redistricting in the State 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+28 
+•HR 3863 IH
+through the use of independent redistricting commissions 
+1
+as set forth in title III. 
+2
+SEC. 206. EFFECTIVE DATE. 
+3
+This title and the amendments made by this title 
+4
+shall apply with respect to the One Hundred Eighteenth 
+5
+Congress and each subsequent Congress. 
+6
+TITLE III—REQUIREMENTS FOR 
+7
+CONGRESSIONAL 
+REDIS-
+8
+TRICTING 
+9
+Subtitle A—General Requirements 
+10
+SEC. 301. REQUIRING CONGRESSIONAL REDISTRICTING TO 
+11
+BE CONDUCTED THROUGH PLAN OF INDE-
+12
+PENDENT STATE COMMISSION. 
+13
+(a) USE OF PLAN REQUIRED.—Notwithstanding any 
+14
+other provision of law, and except as provided in sub-
+15
+section (c) and subsection (d), any congressional redis-
+16
+tricting conducted by a State shall be conducted in accord-
+17
+ance with— 
+18
+(1) the redistricting plan developed and enacted 
+19
+into law by the independent redistricting commission 
+20
+established in the State, in accordance with subtitle 
+21
+B; or 
+22
+(2) if a plan developed by such commission is 
+23
+not enacted into law, the redistricting plan developed 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+29 
+•HR 3863 IH
+and enacted into law by a 3-judge court, in accord-
+1
+ance with section 321. 
+2
+(b) CONFORMING AMENDMENT.—Section 22(c) of 
+3
+the Act entitled ‘‘An Act to provide for the fifteenth and 
+4
+subsequent decennial censuses and to provide for an ap-
+5
+portionment of Representatives in Congress’’, approved 
+6
+June 18, 1929 (2 U.S.C. 2a(c)), is amended by striking 
+7
+‘‘in the manner provided by the law thereof’’ and insert-
+8
+ing: ‘‘in the manner provided by title III of the Fair Rep-
+9
+resentation Act’’. 
+10
+(c) SPECIAL RULE FOR EXISTING COMMISSIONS.— 
+11
+Subsection (a) does not apply to any State in which, under 
+12
+law in effect continuously on and after the date of the 
+13
+enactment of this Act, congressional redistricting is car-
+14
+ried out in accordance with a plan developed and approved 
+15
+by an independent redistricting commission which is in 
+16
+compliance with each of the following requirements: 
+17
+(1) PUBLICLY AVAILABLE APPLICATION PROC-
+18
+ESS.—Membership on the commission is open to citi-
+19
+zens of the State through a publicly available appli-
+20
+cation process. 
+21
+(2) DISQUALIFICATIONS
+FOR
+GOVERNMENT 
+22
+SERVICE
+AND
+APPOINTMENT.—Individ-
+23
+uals who, for a covered period of time as established 
+24
+by the State, hold or have held public office, individ-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+30 
+•HR 3863 IH
+uals who are or have been candidates for elected 
+1
+public office, and individuals who serve or have 
+2
+served as an officer, employee, or paid consultant of 
+3
+a campaign committee of a candidate for public of-
+4
+fice are disqualified from serving on the commission. 
+5
+(3) SCREENING
+FOR
+CONFLICTS.—Individuals 
+6
+who apply to serve on the commission are screened 
+7
+through a process that excludes persons with con-
+8
+flicts of interest from the pool of potential commis-
+9
+sioners. 
+10
+(4) MULTI-PARTISAN COMPOSITION.—Member-
+11
+ship on the commission represents those who are af-
+12
+filiated with the two political parties whose can-
+13
+didates received the most votes in the most recent 
+14
+statewide election for Federal office held in the 
+15
+State, as well as those who are unaffiliated with any 
+16
+party or who are affiliated with political parties 
+17
+other than the two political parties whose candidates 
+18
+received the most votes in the most recent statewide 
+19
+election for Federal office held in the State. 
+20
+(5) CRITERIA FOR REDISTRICTING.—Members 
+21
+of the commission shall draw maps in accordance 
+22
+with the criteria set forth in section 313(a). 
+23
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+31 
+•HR 3863 IH
+(6) PUBLIC INPUT.—Public hearings are held 
+1
+and comments from the public are accepted before 
+2
+a final map is approved. 
+3
+(7) BROAD-BASED SUPPORT FOR APPROVAL OF 
+4
+FINAL PLAN.—The approval of the final redistricting 
+5
+plan requires a majority vote of the members of the 
+6
+commission, including the support of at least one 
+7
+member of each of the following: 
+8
+(A) Members who are affiliated with the 
+9
+political party whose candidate received the 
+10
+most votes in the most recent statewide election 
+11
+for Federal office held in the State. 
+12
+(B) Members who are affiliated with the 
+13
+political party whose candidate received the sec-
+14
+ond most votes in the most recent statewide 
+15
+election for Federal office held in the State. 
+16
+(C) Members who not affiliated with any 
+17
+political party or who are affiliated with polit-
+18
+ical parties other than the political parties de-
+19
+scribed in subparagraphs (A) and (B). 
+20
+SEC. 302. LIMIT ON CONGRESSIONAL REDISTRICTING 
+21
+AFTER AN APPORTIONMENT. 
+22
+A State which has been redistricted in the manner 
+23
+provided by law after an apportionment under section 
+24
+22(a) of the Act entitled ‘‘An Act to provide for the fif-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+32 
+•HR 3863 IH
+teenth and subsequent decennial censuses and to provide 
+1
+for an apportionment of Representatives in Congress’’, ap-
+2
+proved June 18, 1929 (2 U.S.C. 2a), may not be redis-
+3
+tricted again until after the next apportionment of Rep-
+4
+resentatives under such section, unless a court requires 
+5
+the State to conduct such subsequent redistricting to com-
+6
+ply with the Constitution, to enforce the Voting Rights 
+7
+Act of 1965 (52 U.S.C. 10301 et seq.), to comply with 
+8
+this Act, or to comply with any other applicable Federal 
+9
+law. 
+10
+Subtitle B—Independent 
+11
+Redistricting Commissions 
+12
+SEC. 311. INDEPENDENT REDISTRICTING COMMISSION. 
+13
+(a) APPOINTMENT OF MEMBERS.— 
+14
+(1) IN GENERAL.—The nonpartisan agency es-
+15
+tablished or designated by a State under section 
+16
+314(a) shall establish an independent redistricting 
+17
+commission for the State, which shall consist of 15 
+18
+members appointed by the agency as follows: 
+19
+(A) Not later than October 1 of a year 
+20
+ending in the numeral zero, the agency shall, at 
+21
+a public meeting held not earlier than 15 days 
+22
+after notice of the meeting has been given to 
+23
+the public, first appoint 6 members as follows: 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+33 
+•HR 3863 IH
+(i) The agency shall appoint 2 mem-
+1
+bers on a random basis from the majority 
+2
+category of the approved selection pool (as 
+3
+described in section 312(b)(1)(A)). 
+4
+(ii) The agency shall appoint 2 mem-
+5
+bers on a random basis from the minority 
+6
+category of the approved selection pool (as 
+7
+described in section 312(b)(1)(B)). 
+8
+(iii) The agency shall appoint 2 mem-
+9
+bers on a random basis from the inde-
+10
+pendent category of the approved selection 
+11
+pool (as described in section 312(b)(1)(C)). 
+12
+(B) Not later than November 15 of a year 
+13
+ending in the numeral zero, the members ap-
+14
+pointed by the agency under subparagraph (A) 
+15
+shall, at a public meeting held not earlier than 
+16
+15 days after notice of the meeting has been 
+17
+given to the public, then appoint 9 members as 
+18
+follows: 
+19
+(i) The members shall appoint 3 mem-
+20
+bers from the majority category of the ap-
+21
+proved selection pool (as described in sec-
+22
+tion 312(b)(1)(A)). 
+23
+(ii) The members shall appoint 3 
+24
+members from the minority category of the 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+34 
+•HR 3863 IH
+approved selection pool (as described in 
+1
+section 312(b)(1)(B)). 
+2
+(iii) The members shall appoint 3 
+3
+members from the independent category of 
+4
+the approved selection pool (as described in 
+5
+section 312(b)(1)(C)). 
+6
+(2) RULES
+FOR
+APPOINTMENT
+OF
+MEMBERS 
+7
+APPOINTED BY FIRST MEMBERS.— 
+8
+(A) AFFIRMATIVE VOTE OF AT LEAST 4 
+9
+MEMBERS.—The appointment of any of the 9 
+10
+members of the independent redistricting com-
+11
+mission who are appointed by the first members 
+12
+of the commission pursuant to subparagraph 
+13
+(B) of paragraph (1), as well as the designation 
+14
+of alternates for such members pursuant to 
+15
+subparagraph (B) of paragraph (3) and the ap-
+16
+pointment of alternates to fill vacancies pursu-
+17
+ant to subparagraph (B) of paragraph (4), shall 
+18
+require the affirmative vote of at least 4 of the 
+19
+members appointed by the nonpartisan agency 
+20
+under subparagraph (A) of paragraph (1), in-
+21
+cluding at least one member from each of the 
+22
+categories referred to in such subparagraph. 
+23
+(B) ENSURING DIVERSITY.—In appointing 
+24
+the 9 members pursuant to subparagraph (B) 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+35 
+•HR 3863 IH
+of paragraph (1), as well as in designating al-
+1
+ternates pursuant to subparagraph (B) of para-
+2
+graph (3) and in appointing alternates to fill 
+3
+vacancies pursuant to subparagraph (B) of 
+4
+paragraph (4), the first members of the inde-
+5
+pendent redistricting commission shall ensure 
+6
+that the membership is representative of the de-
+7
+mographic groups (including racial, ethnic, eco-
+8
+nomic, and gender) and geographic regions of 
+9
+the State, and provides racial, ethnic, and lan-
+10
+guage minorities protected under the Voting 
+11
+Rights Act of 1965 with a meaningful oppor-
+12
+tunity to participate in the development of the 
+13
+State’s redistricting plan. 
+14
+(3) DESIGNATION OF ALTERNATES TO SERVE 
+15
+IN CASE OF VACANCIES.— 
+16
+(A) MEMBERS APPOINTED BY AGENCY.— 
+17
+At the time the agency appoints the members 
+18
+of the independent redistricting commission 
+19
+under subparagraph (A) of paragraph (1) from 
+20
+each of the categories referred to in such sub-
+21
+paragraph, the agency shall, on a random basis, 
+22
+designate 2 other individuals from such cat-
+23
+egory to serve as alternate members who may 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+36 
+•HR 3863 IH
+be appointed to fill vacancies in the commission 
+1
+in accordance with paragraph (4). 
+2
+(B) MEMBERS APPOINTED BY FIRST MEM-
+3
+BERS.—At the time the members appointed by 
+4
+the agency appoint the other members of the 
+5
+independent redistricting commission under 
+6
+subparagraph (B) of paragraph (1) from each 
+7
+of the categories referred to in such subpara-
+8
+graph, the members shall, in accordance with 
+9
+the special rules described in paragraph (2), 
+10
+designate 2 other individuals from such cat-
+11
+egory to serve as alternate members who may 
+12
+be appointed to fill vacancies in the commission 
+13
+in accordance with paragraph (4). 
+14
+(4) APPOINTMENT OF ALTERNATES TO SERVE 
+15
+IN CASE OF VACANCIES.— 
+16
+(A) MEMBERS APPOINTED BY AGENCY.—If 
+17
+a vacancy occurs in the commission with respect 
+18
+to a member who was appointed by the non-
+19
+partisan agency under subparagraph (A) of 
+20
+paragraph (1) from one of the categories re-
+21
+ferred to in such subparagraph, the agency 
+22
+shall fill the vacancy by appointing, on a ran-
+23
+dom basis, one of the 2 alternates from such 
+24
+category who was designated under subpara-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+37 
+•HR 3863 IH
+graph (A) of paragraph (3). At the time the 
+1
+agency appoints an alternate to fill a vacancy 
+2
+under the previous sentence, the agency shall 
+3
+designate, on a random basis, another indi-
+4
+vidual from the same category to serve as an al-
+5
+ternate member, in accordance with subpara-
+6
+graph (A) of paragraph (3). 
+7
+(B) MEMBERS APPOINTED BY FIRST MEM-
+8
+BERS.—If a vacancy occurs in the commission 
+9
+with respect to a member who was appointed by 
+10
+the first members of the commission under sub-
+11
+paragraph (B) of paragraph (1) from one of the 
+12
+categories referred to in such subparagraph, the 
+13
+first members shall, in accordance with the spe-
+14
+cial rules described in paragraph (2), fill the va-
+15
+cancy by appointing one of the 2 alternates 
+16
+from such category who was designated under 
+17
+subparagraph (B) of paragraph (3). At the time 
+18
+the first members appoint an alternate to fill a 
+19
+vacancy under the previous sentence, the first 
+20
+members shall, in accordance with the special 
+21
+rules described in paragraph (2), designate an-
+22
+other individual from the same category to 
+23
+serve as an alternate member, in accordance 
+24
+with subparagraph (B) of paragraph (3). 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+38 
+•HR 3863 IH
+(5) REMOVAL.—A member of the independent 
+1
+redistricting commission may be removed by a ma-
+2
+jority vote of the remaining members of the commis-
+3
+sion if it is shown by a preponderance of the evi-
+4
+dence that the member is not eligible to serve on the 
+5
+commission under section 312(a). 
+6
+(b) PROCEDURES
+FOR CONDUCTING COMMISSION 
+7
+BUSINESS.— 
+8
+(1) CHAIR.—Members of an independent redis-
+9
+tricting commission established under this section 
+10
+shall select by majority vote one member who was 
+11
+appointed from the independent category of the ap-
+12
+proved 
+selection 
+pool 
+described 
+in 
+section 
+13
+312(b)(1)(C) to serve as chair of the commission. 
+14
+The commission may not take any action to develop 
+15
+a redistricting plan for the State under section 313 
+16
+until the appointment of the commission’s chair. 
+17
+(2) REQUIRING MAJORITY APPROVAL FOR AC-
+18
+TIONS.—The independent redistricting commission 
+19
+of a State may not publish and disseminate any 
+20
+draft or final redistricting plan, or take any other 
+21
+action, without the approval of at least— 
+22
+(A) a majority of the whole membership of 
+23
+the commission; and 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+39 
+•HR 3863 IH
+(B) at least one member of the commission 
+1
+appointed from each of the categories of the ap-
+2
+proved selection pool described in section 
+3
+312(b)(1). 
+4
+(3) QUORUM.—A majority of the members of 
+5
+the commission shall constitute a quorum. 
+6
+(c) STAFF; CONTRACTORS.— 
+7
+(1) STAFF.—Under a public application process 
+8
+in which all application materials are available for 
+9
+public inspection, the independent redistricting com-
+10
+mission of a State shall appoint and set the pay of 
+11
+technical experts, legal counsel, consultants, and 
+12
+such other staff as it considers appropriate, subject 
+13
+to State law. 
+14
+(2) CONTRACTORS.—The independent redis-
+15
+tricting commission of a State may enter into such 
+16
+contracts with vendors as it considers appropriate, 
+17
+subject to State law, except that any such contract 
+18
+shall be valid only if approved by the vote of a ma-
+19
+jority of the members of the commission, including 
+20
+at least one member appointed from each of the cat-
+21
+egories of the approved selection pool described in 
+22
+section 312(b)(1). 
+23
+(3) REPORTS ON EXPENDITURES FOR POLIT-
+24
+ICAL ACTIVITY.— 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+40 
+•HR 3863 IH
+(A) REPORT BY APPLICANTS.—Each indi-
+1
+vidual who applies for a position as an employee 
+2
+of the independent redistricting commission and 
+3
+each vendor who applies for a contract with the 
+4
+commission shall, at the time of applying, file 
+5
+with the commission a report summarizing— 
+6
+(i) any expenditure for political activ-
+7
+ity made by such individual or vendor dur-
+8
+ing the 10 most recent calendar years; and 
+9
+(ii) any income received by such indi-
+10
+vidual or vendor during the 10 most recent 
+11
+calendar years which is attributable to an 
+12
+expenditure for political activity. 
+13
+(B) ANNUAL
+REPORTS
+BY
+EMPLOYEES 
+14
+AND VENDORS.—Each person who is an em-
+15
+ployee or vendor of the independent redis-
+16
+tricting commission shall, not later than one 
+17
+year after the person is appointed as an em-
+18
+ployee or enters into a contract as a vendor (as 
+19
+the case may be) and annually thereafter for 
+20
+each year during which the person serves as an 
+21
+employee or a vendor, file with the commission 
+22
+a report summarizing the expenditures and in-
+23
+come described in subparagraph (A) during the 
+24
+10 most recent calendar years. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+41 
+•HR 3863 IH
+(C) EXPENDITURE FOR POLITICAL ACTIV-
+1
+ITY
+DEFINED.—In this paragraph, the term 
+2
+‘‘expenditure for political activity’’ means a dis-
+3
+bursement for any of the following: 
+4
+(i) An independent expenditure, as de-
+5
+fined in section 301(17) of the Federal 
+6
+Election Campaign Act of 1971 (52 U.S.C. 
+7
+30101(17)). 
+8
+(ii) An electioneering communication, 
+9
+as defined in section 304(f)(3) of such Act 
+10
+(52 U.S.C. 30104(f)(3)) or any other pub-
+11
+lic communication, as defined in section 
+12
+301(22) 
+of 
+such 
+Act 
+(52 
+U.S.C. 
+13
+30101(22)) that would be an electioneering 
+14
+communication if it were a broadcast, 
+15
+cable, or satellite communication. 
+16
+(iii) Any dues or other payments to 
+17
+trade associations or organizations de-
+18
+scribed in section 501(c) of the Internal 
+19
+Revenue Code of 1986 and exempt from 
+20
+tax under section 501(a) of such Code that 
+21
+are, or could reasonably be anticipated to 
+22
+be, used or transferred to another associa-
+23
+tion or organization for a use described in 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+42 
+•HR 3863 IH
+paragraph (1), (2), or (4) of section 501(c) 
+1
+of such Code. 
+2
+(4) GOAL OF IMPARTIALITY.—The commission 
+3
+shall take such steps as it considers appropriate to 
+4
+ensure that any staff appointed under this sub-
+5
+section, and any vendor with whom the commission 
+6
+enters into a contract under this subsection, will 
+7
+work in an impartial manner, and may require any 
+8
+person who applies for an appointment to a staff po-
+9
+sition or for a vendor’s contract with the commission 
+10
+to provide information on the person’s history of po-
+11
+litical activity beyond the information on the per-
+12
+son’s expenditures for political activity provided in 
+13
+the reports required under paragraph (3) (including 
+14
+donations to candidates, political committees, and 
+15
+political parties) as a condition of the appointment 
+16
+or the contract. 
+17
+(5) DISQUALIFICATION; WAIVER.— 
+18
+(A) IN GENERAL.—The independent redis-
+19
+tricting commission may not appoint an indi-
+20
+vidual as an employee, and may not enter into 
+21
+a contract with a vendor, if the individual or 
+22
+vendor meets any of the criteria for the dis-
+23
+qualification of an individual from serving as a 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+43 
+•HR 3863 IH
+member of the commission which are set forth 
+1
+in section 312(a)(2). 
+2
+(B) WAIVER.—The commission may by 
+3
+unanimous vote of its members waive the appli-
+4
+cation of subparagraph (A) to an individual or 
+5
+a vendor after receiving and reviewing the re-
+6
+port filed by the individual or vendor under 
+7
+paragraph (3). 
+8
+(d) TERMINATION.— 
+9
+(1) IN
+GENERAL.—The independent redis-
+10
+tricting commission of a State shall terminate on the 
+11
+earlier of— 
+12
+(A) June 14 of the next year ending in the 
+13
+numeral zero; or 
+14
+(B) the day on which the nonpartisan 
+15
+agency established or designated by a State 
+16
+under section 314(a) has, in accordance with 
+17
+section 312(b)(1), submitted a selection pool to 
+18
+the Select Committee on Redistricting for the 
+19
+State established under section 314(b). 
+20
+(2) PRESERVATION
+OF
+RECORDS.—The State 
+21
+shall ensure that the records of the independent re-
+22
+districting commission are retained in the appro-
+23
+priate State archive in such manner as may be nec-
+24
+essary to enable the State to respond to any civil ac-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+44 
+•HR 3863 IH
+tion brought with respect to congressional redis-
+1
+tricting in the State. 
+2
+SEC. 312. ESTABLISHMENT OF SELECTION POOL OF INDI-
+3
+VIDUALS ELIGIBLE TO SERVE AS MEMBERS 
+4
+OF COMMISSION. 
+5
+(a) CRITERIA FOR ELIGIBILITY.— 
+6
+(1) IN GENERAL.—An individual is eligible to 
+7
+serve as a member of an independent redistricting 
+8
+commission if the individual meets each of the fol-
+9
+lowing criteria: 
+10
+(A) As of the date of appointment, the in-
+11
+dividual is registered to vote in elections for 
+12
+Federal office held in the State. 
+13
+(B) During the 3-year period ending on 
+14
+the date of the individual’s appointment, the in-
+15
+dividual has been continuously registered to 
+16
+vote with the same political party, or has not 
+17
+been registered to vote with any political party. 
+18
+(C) The individual submits to the non-
+19
+partisan agency established or designated by a 
+20
+State under section 313, at such time and in 
+21
+such form as the agency may require, an appli-
+22
+cation for inclusion in the selection pool under 
+23
+this section, and includes with the application a 
+24
+written statement, with an attestation under 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+45 
+•HR 3863 IH
+penalty of perjury, containing the following in-
+1
+formation and assurances: 
+2
+(i) The full current name and any 
+3
+former names of, and the contact informa-
+4
+tion for, the individual, including an elec-
+5
+tronic mail address, the address of the in-
+6
+dividual’s residence, mailing address, and 
+7
+telephone numbers. 
+8
+(ii) The individual’s race, ethnicity, 
+9
+gender, age, date of birth, and household 
+10
+income for the most recent taxable year. 
+11
+(iii) The political party with which the 
+12
+individual is affiliated, if any. 
+13
+(iv) The reason or reasons the indi-
+14
+vidual desires to serve on the independent 
+15
+redistricting commission, the individual’s 
+16
+qualifications, and information relevant to 
+17
+the ability of the individual to be fair and 
+18
+impartial, including, but not limited to— 
+19
+(I) any involvement with, or fi-
+20
+nancial support of, professional, so-
+21
+cial, political, religious, or community 
+22
+organizations or causes; and 
+23
+(II) the individual’s employment 
+24
+and educational history. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+46 
+•HR 3863 IH
+(v) An assurance that the individual 
+1
+shall commit to carrying out the individ-
+2
+ual’s duties under this Act in an honest, 
+3
+independent, and impartial fashion, and to 
+4
+upholding public confidence in the integrity 
+5
+of the redistricting process. 
+6
+(vi) An assurance that, during the 
+7
+covered periods described in paragraph (3), 
+8
+the individual has not taken and will not 
+9
+take any action which would disqualify the 
+10
+individual from serving as a member of the 
+11
+commission under paragraph (2). 
+12
+(2) DISQUALIFICATIONS.—An individual is not 
+13
+eligible to serve as a member of the commission if 
+14
+any of the following applies during any of the cov-
+15
+ered periods described in paragraph (3): 
+16
+(A) The individual or (in the case of the 
+17
+covered periods described in subparagraphs (A) 
+18
+and (B) of paragraph (3)) an immediate family 
+19
+member of the individual holds public office or 
+20
+is a candidate for election for public office. 
+21
+(B) The individual or (in the case of the 
+22
+covered periods described in subparagraphs (A) 
+23
+and (B) of paragraph (3)) an immediate family 
+24
+member of the individual serves as an officer of 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+47 
+•HR 3863 IH
+a political party or as an officer, employee, or 
+1
+paid consultant of a campaign committee of a 
+2
+candidate for public office or of any political ac-
+3
+tion committee (as determined in accordance 
+4
+with the law of the State). 
+5
+(C) The individual or (in the case of the 
+6
+covered periods described in subparagraphs (A) 
+7
+and (B) of paragraph (3)) an immediate family 
+8
+member of the individual holds a position as a 
+9
+registered lobbyist under the Lobbying Disclo-
+10
+sure Act of 1995 (2 U.S.C. 1601 et seq.) or an 
+11
+equivalent State or local law. 
+12
+(D) The individual or (in the case of the 
+13
+covered periods described in subparagraphs (A) 
+14
+and (B) of paragraph (3)) an immediate family 
+15
+member of the individual is an employee of an 
+16
+elected public official, a contractor with the gov-
+17
+ernment of the State, or a donor to the cam-
+18
+paign of any candidate for public office or to 
+19
+any political action committee (other than a 
+20
+donor who, during any of such covered periods, 
+21
+gives an aggregate amount of $1,000 or less to 
+22
+the campaigns of all candidates for all public 
+23
+offices and to all political action committees). 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+48 
+•HR 3863 IH
+(E) The individual or (in the case of the 
+1
+covered periods described in subparagraphs (A) 
+2
+and (B) of paragraph (3)) an immediate family 
+3
+member of the individual paid a civil money 
+4
+penalty or criminal fine, or was sentenced to a 
+5
+term of imprisonment, for violating any provi-
+6
+sion of the Federal Election Campaign Act of 
+7
+1971 (52 U.S.C. 30101 et seq.). 
+8
+(F) The individual or (in the case of the 
+9
+covered periods described in subparagraphs (A) 
+10
+and (B) of paragraph (3)) an immediate family 
+11
+member of the individual is an agent of a for-
+12
+eign principal under the Foreign Agents Reg-
+13
+istration Act of 1938, as amended (22 U.S.C. 
+14
+611 et seq.). 
+15
+(3) COVERED
+PERIODS
+DESCRIBED.—In this 
+16
+subsection, the term ‘‘covered period’’ means, with 
+17
+respect to the appointment of an individual to the 
+18
+commission, any of the following: 
+19
+(A) The 10-year period ending on the date 
+20
+of the individual’s appointment. 
+21
+(B) The period beginning on the date of 
+22
+the individual’s appointment and ending on Au-
+23
+gust 14 of the next year ending in the numeral 
+24
+one. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+49 
+•HR 3863 IH
+(C) The 10-year period beginning on the 
+1
+day after the last day of the period described in 
+2
+subparagraph (B). 
+3
+(4) IMMEDIATE FAMILY MEMBER DEFINED.—In 
+4
+this subsection, the term ‘‘immediate family mem-
+5
+ber’’ means, with respect to an individual, a father, 
+6
+stepfather, mother, stepmother, son, stepson, daugh-
+7
+ter, stepdaughter, brother, stepbrother, sister, step-
+8
+sister, husband, wife, father-in-law, or mother-in- 
+9
+law. 
+10
+(b) DEVELOPMENT AND SUBMISSION OF SELECTION 
+11
+12
+(1) IN GENERAL.—Not later than June 15 of 
+13
+each year ending in the numeral zero, the non-
+14
+partisan agency established or designated by a State 
+15
+under section 314(a) shall develop and submit to the 
+16
+Select Committee on Redistricting for the State es-
+17
+tablished under section 314(b) a selection pool of 36 
+18
+individuals who are eligible to serve as members of 
+19
+the independent redistricting commission of the 
+20
+State under this Act, consisting of individuals in the 
+21
+following categories: 
+22
+(A) A majority category, consisting of 12 
+23
+individuals who are affiliated with the political 
+24
+party whose candidate received the most votes 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+50 
+•HR 3863 IH
+in the most recent statewide election for Fed-
+1
+eral office held in the State. 
+2
+(B) A minority category, consisting of 12 
+3
+individuals who are affiliated with the political 
+4
+party whose candidate received the second most 
+5
+votes in the most recent statewide election for 
+6
+Federal office held in the State. 
+7
+(C) An independent category, consisting of 
+8
+12 individuals who are not affiliated with either 
+9
+of the political parties described in subpara-
+10
+graph (A) or subparagraph (B). 
+11
+(2) FACTORS TAKEN INTO ACCOUNT IN DEVEL-
+12
+OPING POOL.—In selecting individuals for the selec-
+13
+tion pool under this subsection, the nonpartisan 
+14
+agency shall— 
+15
+(A) ensure that the pool is representative 
+16
+of the demographic groups (including racial, 
+17
+ethnic, economic, and gender) and geographic 
+18
+regions of the State, and includes applicants 
+19
+who would allow racial, ethnic, and language 
+20
+minorities protected under the Voting Rights 
+21
+Act of 1965 a meaningful opportunity to par-
+22
+ticipate in the development of the State’s redis-
+23
+tricting plan; and 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+51 
+•HR 3863 IH
+(B) take into consideration the analytical 
+1
+skills of the individuals selected in relevant 
+2
+fields (including mapping, data management, 
+3
+law, community outreach, demography, and the 
+4
+geography of the State) and their ability to 
+5
+work on an impartial basis. 
+6
+(3) INTERVIEWS
+OF
+APPLICANTS.—To assist 
+7
+the nonpartisan agency in developing the selection 
+8
+pool under this subsection, the nonpartisan agency 
+9
+shall conduct interviews of applicants under oath. If 
+10
+an individual is included in a selection pool devel-
+11
+oped under this section, all of the interviews of the 
+12
+individual shall be transcribed and the transcriptions 
+13
+made available on the nonpartisan agency’s website 
+14
+contemporaneously with release of the report under 
+15
+paragraph (6). 
+16
+(4) DETERMINATION OF POLITICAL PARTY AF-
+17
+FILIATION OF INDIVIDUALS IN SELECTION POOL.— 
+18
+For purposes of this section, an individual shall be 
+19
+considered to be affiliated with a political party only 
+20
+if the nonpartisan agency is able to verify (to the 
+21
+greatest extent possible) the information the indi-
+22
+vidual provides in the application submitted under 
+23
+subsection (a)(1)(D), including by considering addi-
+24
+tional information provided by other persons with 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+52 
+•HR 3863 IH
+knowledge of the individual’s history of political ac-
+1
+tivity. 
+2
+(5) ENCOURAGING RESIDENTS TO APPLY FOR 
+3
+INCLUSION IN POOL.—The nonpartisan agency shall 
+4
+take such steps as may be necessary to ensure that 
+5
+residents of the State across various geographic re-
+6
+gions and demographic groups are aware of the op-
+7
+portunity to serve on the independent redistricting 
+8
+commission, including publicizing the role of the 
+9
+panel and using newspapers, broadcast media, and 
+10
+online sources, including ethnic media, to encourage 
+11
+individuals to apply for inclusion in the selection 
+12
+pool developed under this subsection. 
+13
+(6) REPORT
+ON
+ESTABLISHMENT
+OF
+SELEC-
+14
+TION POOL.—At the time the nonpartisan agency 
+15
+submits the selection pool to the Select Committee 
+16
+on Redistricting under paragraph (1), it shall pub-
+17
+lish and post on the agency’s public website a report 
+18
+describing the process by which the pool was devel-
+19
+oped, and shall include in the report a description of 
+20
+how the individuals in the pool meet the eligibility 
+21
+criteria of subsection (a) and of how the pool reflects 
+22
+the factors the agency is required to take into con-
+23
+sideration under paragraph (2). 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+53 
+•HR 3863 IH
+(7) PUBLIC COMMENT ON SELECTION POOL.— 
+1
+During the 14-day period which begins on the date 
+2
+the nonpartisan agency publishes the report under 
+3
+paragraph (6), the agency shall accept comments 
+4
+from the public on the individuals included in the se-
+5
+lection pool. The agency shall post all such com-
+6
+ments contemporaneously on the nonpartisan agen-
+7
+cy’s website and shall transmit them to the Select 
+8
+Committee on Redistricting immediately upon the 
+9
+expiration of such period. 
+10
+(8) ACTION BY SELECT COMMITTEE.— 
+11
+(A) IN
+GENERAL.—Not earlier than 15 
+12
+days and not later than 21 days after receiving 
+13
+the selection pool from the nonpartisan agency 
+14
+under paragraph (1), the Select Committee on 
+15
+Redistricting shall— 
+16
+(i) approve the pool as submitted by 
+17
+the nonpartisan agency, in which case the 
+18
+pool shall be considered the approved selec-
+19
+tion pool for purposes of section 311(a)(1); 
+20
+or 
+21
+(ii) reject the pool, in which case the 
+22
+nonpartisan agency shall develop and sub-
+23
+mit a replacement selection pool in accord-
+24
+ance with subsection (c). 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+54 
+•HR 3863 IH
+(B) INACTION
+DEEMED
+REJECTION.—If 
+1
+the Select Committee on Redistricting fails to 
+2
+approve or reject the pool within the deadline 
+3
+set forth in subparagraph (A), the Select Com-
+4
+mittee shall be deemed to have rejected the pool 
+5
+for purposes of such subparagraph. 
+6
+(c) DEVELOPMENT
+OF REPLACEMENT SELECTION 
+7
+8
+(1) IN GENERAL.—If the Select Committee on 
+9
+Redistricting rejects the selection pool submitted by 
+10
+the nonpartisan agency under subsection (b), not 
+11
+later than 14 days after the rejection, the non-
+12
+partisan agency shall develop and submit to the Se-
+13
+lect Committee a replacement selection pool, under 
+14
+the same terms and conditions that applied to the 
+15
+development and submission of the selection pool 
+16
+under paragraphs (1) through (7) of subsection (b). 
+17
+The replacement pool submitted under this para-
+18
+graph may include individuals who were included in 
+19
+the rejected selection pool submitted under sub-
+20
+section (b), so long as at least one of the individuals 
+21
+in the replacement pool was not included in such re-
+22
+jected pool. 
+23
+(2) ACTION BY SELECT COMMITTEE.— 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+55 
+•HR 3863 IH
+(A) IN GENERAL.—Not later than 21 days 
+1
+after receiving the replacement selection pool 
+2
+from the nonpartisan agency under paragraph 
+3
+(1), the Select Committee on Redistricting 
+4
+shall— 
+5
+(i) approve the pool as submitted by 
+6
+the nonpartisan agency, in which case the 
+7
+pool shall be considered the approved selec-
+8
+tion pool for purposes of section 311(a)(1); 
+9
+or 
+10
+(ii) reject the pool, in which case the 
+11
+nonpartisan agency shall develop and sub-
+12
+mit a second replacement selection pool in 
+13
+accordance with subsection (d). 
+14
+(B) INACTION
+DEEMED
+REJECTION.—If 
+15
+the Select Committee on Redistricting fails to 
+16
+approve or reject the pool within the deadline 
+17
+set forth in subparagraph (A), the Select Com-
+18
+mittee shall be deemed to have rejected the pool 
+19
+for purposes of such subparagraph. 
+20
+(d) DEVELOPMENT OF SECOND REPLACEMENT SE-
+21
+LECTION POOL.— 
+22
+(1) IN GENERAL.—If the Select Committee on 
+23
+Redistricting rejects the replacement selection pool 
+24
+submitted by the nonpartisan agency under sub-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+56 
+•HR 3863 IH
+section (c), not later than 14 days after the rejec-
+1
+tion, the nonpartisan agency shall develop and sub-
+2
+mit to the Select Committee a second replacement 
+3
+selection pool, under the same terms and conditions 
+4
+that applied to the development and submission of 
+5
+the selection pool under paragraphs (1) through (7) 
+6
+of subsection (b). The second replacement selection 
+7
+pool submitted under this paragraph may include in-
+8
+dividuals who were included in the rejected selection 
+9
+pool submitted under subsection (b) or the rejected 
+10
+replacement selection pool submitted under sub-
+11
+section (c), so long as at least one of the individuals 
+12
+in the replacement pool was not included in either 
+13
+such rejected pool. 
+14
+(2) ACTION BY SELECT COMMITTEE.— 
+15
+(A) IN
+GENERAL.—Not earlier than 15 
+16
+days and not later than 14 days after receiving 
+17
+the second replacement selection pool from the 
+18
+nonpartisan agency under paragraph (1), the 
+19
+Select Committee on Redistricting shall— 
+20
+(i) approve the pool as submitted by 
+21
+the nonpartisan agency, in which case the 
+22
+pool shall be considered the approved selec-
+23
+tion pool for purposes of section 311(a)(1); 
+24
+or 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+57 
+•HR 3863 IH
+(ii) reject the pool. 
+1
+(B) INACTION
+DEEMED
+REJECTION.—If 
+2
+the Select Committee on Redistricting fails to 
+3
+approve or reject the pool within the deadline 
+4
+set forth in subparagraph (A), the Select Com-
+5
+mittee shall be deemed to have rejected the pool 
+6
+for purposes of such subparagraph. 
+7
+(C) EFFECT OF REJECTION.—If the Select 
+8
+Committee on Redistricting rejects the second 
+9
+replacement pool from the nonpartisan agency 
+10
+under paragraph (1), the redistricting plan for 
+11
+the State shall be developed and enacted in ac-
+12
+cordance with subtitle C. 
+13
+SEC. 313. CRITERIA FOR REDISTRICTING PLAN BY INDE-
+14
+PENDENT COMMISSION; PUBLIC NOTICE AND 
+15
+INPUT. 
+16
+(a) DEVELOPMENT OF REDISTRICTING PLAN.— 
+17
+(1) CRITERIA.—In addition to the criteria set 
+18
+forth in section 311(b), the independent redistricting 
+19
+commission of a State shall develop a redistricting 
+20
+plan for the State in accordance with the following 
+21
+criteria, prioritized according to the following order: 
+22
+(A) Districts shall comply with the United 
+23
+States Constitution, including the requirement 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+58 
+•HR 3863 IH
+that they equalize total population per Rep-
+1
+resentative elected. 
+2
+(B) Districts shall be established in a man-
+3
+ner consistent with the Voting Rights Act of 
+4
+1965 (52 U.S.C. 10301 et seq.) and all applica-
+5
+ble Federal laws. 
+6
+(C) Districts shall provide racial, ethnic, 
+7
+and language minorities with an equal oppor-
+8
+tunity to participate in the political process and 
+9
+to elect candidates of choice and shall not dilute 
+10
+or diminish their ability to elect candidates of 
+11
+choice whether alone or in coalition with others. 
+12
+(D) To the extent practicable, districts 
+13
+shall reflect the diversity of political opinion in 
+14
+the State such that no district in the State— 
+15
+(i) elects exactly 3 Representatives 
+16
+and the nominee of one political party for 
+17
+President received at least 75 percent of 
+18
+the votes cast in the geographic area cov-
+19
+ered by the district in 2 of the 3 most re-
+20
+cent Presidential elections; 
+21
+(ii) elects exactly 4 Representatives 
+22
+and the nominee of one political party for 
+23
+President received at least 80 percent of 
+24
+the votes cast in the geographic area cov-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+59 
+•HR 3863 IH
+ered by the district in 2 of the 3 most re-
+1
+cent Presidential elections; or 
+2
+(iii) elects exactly 5 Representatives 
+3
+and the nominee of one political party for 
+4
+President received at least 83 percent of 
+5
+the votes cast in the geographic area cov-
+6
+ered by the district in 2 of the 3 most re-
+7
+cent Presidential elections. 
+8
+(E) To the greatest extent practicable the 
+9
+State shall minimize the number of districts 
+10
+electing 4 Representatives. 
+11
+(F) To the greatest extent practicable the 
+12
+State shall maximize the number of districts 
+13
+electing 5 Representatives. 
+14
+(G) To the extent practicable, districts 
+15
+shall minimize the division of any community of 
+16
+interest, municipality, county, or neighborhood. 
+17
+In this subparagraph, the term ‘‘community of 
+18
+interest’’ means an area with recognized simi-
+19
+larities of interests, including but not limited to 
+20
+ethnic, economic, social, cultural, geographic, or 
+21
+historic identities. Such term may, in cir-
+22
+cumstances, include political subdivisions such 
+23
+as counties, municipalities, or school districts, 
+24
+but shall not include common relationships with 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+60 
+•HR 3863 IH
+political parties, officeholders, or political can-
+1
+didates. 
+2
+(2) NO FAVORING OR DISFAVORING OF POLIT-
+3
+ICAL PARTIES.—The redistricting plan developed by 
+4
+the independent redistricting commission shall not, 
+5
+when considered on a statewide basis, unduly favor 
+6
+or disfavor any political party. 
+7
+(3) PROHIBITING
+CONSIDERATION
+OF
+RESI-
+8
+DENCE OF MEMBER OR OTHER CANDIDATE.—In de-
+9
+veloping the redistricting plan for the State, the 
+10
+independent redistricting commission may not take 
+11
+into consideration the residence of any Member of 
+12
+the House of Representatives or candidate. 
+13
+(b) PUBLIC NOTICE AND INPUT.— 
+14
+(1) USE OF OPEN AND TRANSPARENT PROC-
+15
+ESS.—The independent redistricting commission of a 
+16
+State shall hold each of its meetings in public, shall 
+17
+solicit and take into consideration comments from 
+18
+the public, including proposed maps, throughout the 
+19
+process of developing the redistricting plan for the 
+20
+State, and shall carry out its duties in an open and 
+21
+transparent manner which provides for the widest 
+22
+public dissemination reasonably possible of its pro-
+23
+posed and final redistricting plans. 
+24
+(2) WEBSITE.— 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+61 
+•HR 3863 IH
+(A) FEATURES.—The commission shall 
+1
+maintain a public internet site which is not af-
+2
+filiated with or maintained by the office of any 
+3
+elected official and which includes the following 
+4
+features: 
+5
+(i) General information on the com-
+6
+mission, its role in the redistricting proc-
+7
+ess, and its members, including contact in-
+8
+formation. 
+9
+(ii) An updated schedule of commis-
+10
+sion hearings and activities, including 
+11
+deadlines for the submission of comments. 
+12
+(iii) All draft redistricting plans devel-
+13
+oped by the commission under subsection 
+14
+(c) and the final redistricting plan devel-
+15
+oped under subsection (d), including the 
+16
+accompanying written evaluation under 
+17
+subsection (e). 
+18
+(iv) All comments received from the 
+19
+public on the commission’s activities, in-
+20
+cluding any proposed maps submitted 
+21
+under paragraph (1). 
+22
+(v) Live streaming of commission 
+23
+hearings and an archive of previous meet-
+24
+ings, including any documents considered 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+62 
+•HR 3863 IH
+at any such meeting, which the commission 
+1
+shall post not later than 24 hours after the 
+2
+conclusion of the meeting. 
+3
+(vi) Access in an easily useable format 
+4
+to the demographic and other data used by 
+5
+the commission to develop and analyze the 
+6
+proposed redistricting plans, together with 
+7
+access to any software used to draw maps 
+8
+of proposed districts and to any reports 
+9
+analyzing and evaluating any such maps. 
+10
+(vii) A method by which members of 
+11
+the public may submit comments and pro-
+12
+posed maps directly to the commission. 
+13
+(viii) All records of the commission, 
+14
+including all communications to or from 
+15
+members, employees, and contractors re-
+16
+garding the work of the commission. 
+17
+(ix) A list of all contractors receiving 
+18
+payment from the commission, together 
+19
+with the annual disclosures submitted by 
+20
+the contractors under section 311(c)(3). 
+21
+(x) A list of the names of all individ-
+22
+uals who submitted applications to serve 
+23
+on the commission, together with the appli-
+24
+cations submitted by individuals included 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+63 
+•HR 3863 IH
+in any selection pool, except that the com-
+1
+mission may redact from such applications 
+2
+any financial or other personally sensitive 
+3
+information. 
+4
+(B) SEARCHABLE FORMAT.—The commis-
+5
+sion shall ensure that all information posted 
+6
+and maintained on the site under this para-
+7
+graph, including information and proposed 
+8
+maps submitted by the public, shall be main-
+9
+tained in an easily searchable format. 
+10
+(C) DEADLINE.—The commission shall en-
+11
+sure that the public internet site under this 
+12
+paragraph is operational (in at least a prelimi-
+13
+nary format) not later than January 1 of the 
+14
+year ending in the numeral one. 
+15
+(3) PUBLIC COMMENT PERIOD.—The commis-
+16
+sion shall solicit, accept, and consider comments 
+17
+from the public with respect to its duties, activities, 
+18
+and procedures at any time during the period— 
+19
+(A) which begins on January 1 of the year 
+20
+ending in the numeral one; and 
+21
+(B) which ends 7 days before the date of 
+22
+the meeting at which the commission shall vote 
+23
+on approving the final redistricting plan for en-
+24
+actment into law under subsection (d)(2). 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+64 
+•HR 3863 IH
+(4) MEETINGS AND HEARINGS IN VARIOUS GEO-
+1
+GRAPHIC LOCATIONS.—To the greatest extent prac-
+2
+ticable, the commission shall hold its meetings and 
+3
+hearings in various geographic regions and locations 
+4
+throughout the State. 
+5
+(5) MULTIPLE LANGUAGE REQUIREMENTS FOR 
+6
+ALL NOTICES.—The commission shall make each no-
+7
+tice which is required to be posted and published 
+8
+under this section available in any language in which 
+9
+the State (or any jurisdiction in the State) is re-
+10
+quired to provide election materials under section 
+11
+203 of the Voting Rights Act of 1965. 
+12
+(c) DEVELOPMENT AND PUBLICATION OF PRELIMI-
+13
+NARY REDISTRICTING PLAN.— 
+14
+(1) IN GENERAL.—Prior to developing and pub-
+15
+lishing a final redistricting plan under subsection 
+16
+(d), the independent redistricting commission of a 
+17
+State shall develop and publish a preliminary redis-
+18
+tricting plan. 
+19
+(2) MINIMUM PUBLIC HEARINGS AND OPPOR-
+20
+TUNITY FOR COMMENT PRIOR TO DEVELOPMENT.— 
+21
+(A) 3 HEARINGS REQUIRED.—Prior to de-
+22
+veloping a preliminary redistricting plan under 
+23
+this subsection, the commission shall hold not 
+24
+fewer than 3 public hearings at which members 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+65 
+•HR 3863 IH
+of the public may provide input and comments 
+1
+regarding the potential contents of redistricting 
+2
+plans for the State and the process by which 
+3
+the commission will develop the preliminary 
+4
+plan under this subsection. 
+5
+(B) MINIMUM PERIOD FOR NOTICE PRIOR 
+6
+TO HEARINGS.—Not fewer than 14 days prior 
+7
+to the date of each hearing held under this 
+8
+paragraph, the commission shall post notices of 
+9
+the hearing in on the website maintained under 
+10
+subsection (b)(2), and shall provide for the pub-
+11
+lication of such notices in newspapers of general 
+12
+circulation throughout the State. Each such no-
+13
+tice shall specify the date, time, and location of 
+14
+the hearing. 
+15
+(C) SUBMISSION OF PLANS AND MAPS BY 
+16
+MEMBERS
+OF
+THE
+PUBLIC.—Any member of 
+17
+the public may submit maps or portions of 
+18
+maps for consideration by the commission. As 
+19
+provided under subsection (b)(2)(A), any such 
+20
+map shall be made publicly available on the 
+21
+commission’s website and open to comment. 
+22
+(3) PUBLICATION OF PRELIMINARY PLAN.— 
+23
+(A) IN GENERAL.—The commission shall 
+24
+post the preliminary redistricting plan devel-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+66 
+•HR 3863 IH
+oped under this subsection, together with a re-
+1
+port that includes the commission’s responses 
+2
+to any public comments received under sub-
+3
+section (b)(3), on the website maintained under 
+4
+subsection (b)(2), and shall provide for the pub-
+5
+lication of each such plan in newspapers of gen-
+6
+eral circulation throughout the State. 
+7
+(B) MINIMUM PERIOD FOR NOTICE PRIOR 
+8
+TO
+PUBLICATION.—Not fewer than 14 days 
+9
+prior to the date on which the commission posts 
+10
+and publishes the preliminary plan under this 
+11
+paragraph, the commission shall notify the pub-
+12
+lic through the website maintained under sub-
+13
+section (b)(2), as well as through publication of 
+14
+notice in newspapers of general circulation 
+15
+throughout the State, of the pending publica-
+16
+tion of the plan. 
+17
+(4) MINIMUM POST-PUBLICATION PERIOD FOR 
+18
+PUBLIC
+COMMENT.—The commission shall accept 
+19
+and consider comments from the public (including 
+20
+through the website maintained under subsection 
+21
+(b)(2)) with respect to the preliminary redistricting 
+22
+plan published under paragraph (3), including pro-
+23
+posed revisions to maps, for not fewer than 30 days 
+24
+after the date on which the plan is published. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+67 
+•HR 3863 IH
+(5) POST-PUBLICATION HEARINGS.— 
+1
+(A) 3 HEARINGS REQUIRED.—After post-
+2
+ing and publishing the preliminary redistricting 
+3
+plan under paragraph (3), the commission shall 
+4
+hold not fewer than 3 public hearings in dif-
+5
+ferent geographic areas of the State at which 
+6
+members of the public may provide input and 
+7
+comments regarding the preliminary plan. 
+8
+(B) MINIMUM PERIOD FOR NOTICE PRIOR 
+9
+TO HEARINGS.—Not fewer than 14 days prior 
+10
+to the date of each hearing held under this 
+11
+paragraph, the commission shall post notices of 
+12
+the hearing in on the website maintained under 
+13
+subsection (b)(2), and shall provide for the pub-
+14
+lication of such notices in newspapers of general 
+15
+circulation throughout the State. Each such no-
+16
+tice shall specify the date, time, and location of 
+17
+the hearing. 
+18
+(6) 
+PERMITTING
+MULTIPLE
+PRELIMINARY 
+19
+PLANS.—At the option of the commission, after de-
+20
+veloping and publishing the preliminary redistricting 
+21
+plan under this subsection, the commission may de-
+22
+velop and publish subsequent preliminary redis-
+23
+tricting plans, so long as the process for the develop-
+24
+ment and publication of each such subsequent plan 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+68 
+•HR 3863 IH
+meets the requirements set forth in this subsection 
+1
+for the development and publication of the first pre-
+2
+liminary redistricting plan. 
+3
+(d) PROCESS FOR ENACTMENT OF FINAL REDIS-
+4
+TRICTING PLAN.— 
+5
+(1) IN GENERAL.—After taking into consider-
+6
+ation comments from the public on any preliminary 
+7
+redistricting plan developed and published under 
+8
+subsection (c), the independent redistricting commis-
+9
+sion of a State shall develop and publish a final re-
+10
+districting plan for the State. 
+11
+(2) MEETING; FINAL VOTE.—Not later than the 
+12
+deadline specified in subsection (h), the commission 
+13
+shall hold a public hearing at which the members of 
+14
+the commission shall vote on approving the final 
+15
+plan for enactment into law. 
+16
+(3) PUBLICATION OF PLAN AND ACCOMPANYING 
+17
+MATERIALS.—Not fewer than 14 days before the 
+18
+date of the meeting under paragraph (2), the com-
+19
+mission shall provide the following information to 
+20
+the public through the website maintained under 
+21
+subsection (b)(2), as well as through newspapers of 
+22
+general circulation throughout the State: 
+23
+(A) The final redistricting plan, including 
+24
+all relevant maps. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+69 
+•HR 3863 IH
+(B) A report by the commission to accom-
+1
+pany the plan which provides the background 
+2
+for the plan and the commission’s reasons for 
+3
+selecting the plan as the final redistricting plan, 
+4
+including responses to the public comments re-
+5
+ceived on any preliminary redistricting plan de-
+6
+veloped and published under subsection (c). 
+7
+(C) Any dissenting or additional views with 
+8
+respect to the plan of individual members of the 
+9
+commission. 
+10
+(4) ENACTMENT.—The final redistricting plan 
+11
+developed and published under this subsection shall 
+12
+be deemed to be enacted into law if— 
+13
+(A) the plan is approved by a majority of 
+14
+the whole membership of the commission; and 
+15
+(B) at least one member of the commission 
+16
+appointed from each of the categories of the ap-
+17
+proved selection pool described in section 
+18
+312(b)(1) approves the plan. 
+19
+(e) WRITTEN EVALUATION OF PLAN AGAINST EX-
+20
+TERNAL METRICS.—The independent redistricting com-
+21
+mission shall include with each redistricting plan devel-
+22
+oped and published under this section a written evaluation 
+23
+that measures each such plan against external metrics 
+24
+which cover the criteria set forth in paragraph (1) of sub-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+70 
+•HR 3863 IH
+section (a), including the impact of the plan on the ability 
+1
+of communities of color to elect candidates of choice, 
+2
+measures of partisan fairness using multiple accepted 
+3
+methodologies, and the degree to which the plan preserves 
+4
+or divides communities of interest. 
+5
+(f) TIMING.—The independent redistricting commis-
+6
+sion of a State may begin its work on the redistricting 
+7
+plan of the State upon receipt of relevant population infor-
+8
+mation from the Bureau of the Census, and shall approve 
+9
+a final redistricting plan for the State in each year ending 
+10
+in the numeral one not later than 8 months after the date 
+11
+on which the State receives the State apportionment notice 
+12
+or October 1, whichever occurs later. 
+13
+SEC. 314. ESTABLISHMENT OF RELATED ENTITIES. 
+14
+(a) ESTABLISHMENT
+OR DESIGNATION
+OF NON-
+15
+PARTISAN AGENCY OF STATE LEGISLATURE.— 
+16
+(1) IN GENERAL.—Each State shall establish a 
+17
+nonpartisan agency in the legislative branch of the 
+18
+State government to appoint the members of the 
+19
+independent redistricting commission for the State 
+20
+in accordance with section 311. 
+21
+(2) NONPARTISANSHIP DESCRIBED.—For pur-
+22
+poses of this subsection, an agency shall be consid-
+23
+ered to be nonpartisan if under law the agency— 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+71 
+•HR 3863 IH
+(A) is required to provide services on a 
+1
+nonpartisan basis; 
+2
+(B) is required to maintain impartiality; 
+3
+and 
+4
+(C) is prohibited from advocating for the 
+5
+adoption or rejection of any legislative proposal. 
+6
+(3) TRAINING
+OF
+MEMBERS
+APPOINTED
+TO 
+7
+COMMISSION.—Not later than January 15 of a year 
+8
+ending in the numeral one, the nonpartisan agency 
+9
+established or designated under this subsection shall 
+10
+provide the members of the independent redistricting 
+11
+commission with initial training on their obligations 
+12
+as members of the commission, including obligations 
+13
+under the Voting Rights Act of 1965 and other ap-
+14
+plicable laws. 
+15
+(4) REGULATIONS.—The nonpartisan agency 
+16
+established or designated under this subsection shall 
+17
+adopt and publish regulations, after notice and op-
+18
+portunity for comment, establishing the procedures 
+19
+that the agency will follow in fulfilling its duties 
+20
+under this Act, including the procedures to be used 
+21
+in vetting the qualifications and political affiliation 
+22
+of applicants and in creating the selection pools, the 
+23
+randomized process to be used in selecting the initial 
+24
+members of the independent redistricting commis-
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+72 
+•HR 3863 IH
+sion, and the rules that the agency will apply to en-
+1
+sure that the agency carries out its duties under this 
+2
+Act in a maximally transparent, publicly accessible, 
+3
+and impartial manner. 
+4
+(5) DESIGNATION
+OF
+EXISTING
+AGENCY.—At 
+5
+its option, a State may designate an existing agency 
+6
+in the legislative branch of its government to appoint 
+7
+the members of the independent redistricting com-
+8
+mission plan for the State under this Act, so long 
+9
+as the agency meets the requirements for non-
+10
+partisanship under this subsection. 
+11
+(6) TERMINATION
+OF
+AGENCY
+SPECIFICALLY 
+12
+ESTABLISHED FOR REDISTRICTING.—If a State does 
+13
+not designate an existing agency under paragraph 
+14
+(5) but instead establishes a new agency to serve as 
+15
+the nonpartisan agency under this section, the new 
+16
+agency shall terminate upon the enactment into law 
+17
+of the redistricting plan for the State. 
+18
+(7) PRESERVATION
+OF
+RECORDS.—The State 
+19
+shall ensure that the records of the nonpartisan 
+20
+agency are retained in the appropriate State archive 
+21
+in such manner as may be necessary to enable the 
+22
+State to respond to any civil action brought with re-
+23
+spect to congressional redistricting in the State. 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+73 
+•HR 3863 IH
+(8) DEADLINE.—The State shall meet the re-
+1
+quirements of this subsection not later than each 
+2
+October 15 of a year ending in the numeral nine. 
+3
+(b) ESTABLISHMENT OF SELECT COMMITTEE ON RE-
+4
+DISTRICTING.— 
+5
+(1) IN GENERAL.—Each State shall appoint a 
+6
+Select Committee on Redistricting to approve or dis-
+7
+approve a selection pool developed by the inde-
+8
+pendent redistricting commission for the State under 
+9
+section 312. 
+10
+(2) APPOINTMENT.—The Select Committee on 
+11
+Redistricting for a State under this subsection shall 
+12
+consist of the following members: 
+13
+(A) One member of the upper house of the 
+14
+State legislature, who shall be appointed by the 
+15
+leader of the party with the greatest number of 
+16
+seats in the upper house. 
+17
+(B) One member of the upper house of the 
+18
+State legislature, who shall be appointed by the 
+19
+leader of the party with the second greatest 
+20
+number of seats in the upper house. 
+21
+(C) One member of the lower house of the 
+22
+State legislature, who shall be appointed by the 
+23
+leader of the party with the greatest number of 
+24
+seats in the lower house. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+74 
+•HR 3863 IH
+(D) One member of the lower house of the 
+1
+State legislature, who shall be appointed by the 
+2
+leader of the party with the second greatest 
+3
+number of seats in the lower house. 
+4
+(3) SPECIAL RULE FOR STATES WITH UNICAM-
+5
+ERAL LEGISLATURE.—In the case of a State with a 
+6
+unicameral legislature, the Select Committee on Re-
+7
+districting for the State under this subsection shall 
+8
+consist of the following members: 
+9
+(A) Two members of the State legislature 
+10
+appointed by the chair of the political party of 
+11
+the State whose candidate received the highest 
+12
+percentage of votes in the most recent statewide 
+13
+election for Federal office held in the State. 
+14
+(B) Two members of the State legislature 
+15
+appointed by the chair of the political party 
+16
+whose candidate received the second highest 
+17
+percentage of votes in the most recent statewide 
+18
+election for Federal office held in the State. 
+19
+(4) DEADLINE.—The State shall meet the re-
+20
+quirements of this subsection not later than each 
+21
+January 15 of a year ending in the numeral zero. 
+22
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+75 
+•HR 3863 IH
+SEC. 315. REPORT ON DIVERSITY OF MEMBERSHIPS OF 
+1
+INDEPENDENT 
+REDISTRICTING 
+COMMIS-
+2
+SIONS. 
+3
+Not later than May 15 of a year ending in the nu-
+4
+meral one, the Comptroller General of the United States 
+5
+shall submit to Congress a report on the extent to which 
+6
+the memberships of independent redistricting commissions 
+7
+for States established under this subtitle with respect to 
+8
+the immediately preceding year ending in the numeral zero 
+9
+meet the diversity requirements as provided for in sections 
+10
+311(a)(2)(B) and 312(b)(2). 
+11
+Subtitle C—Role of Courts in 
+12
+Development of Redistricting Plans 
+13
+SEC. 321. ENACTMENT OF PLAN DEVELOPED BY 3-JUDGE 
+14
+COURT. 
+15
+(a) DEVELOPMENT OF PLAN.—If any of the trig-
+16
+gering events described in subsection (f) occur with re-
+17
+spect to a State— 
+18
+(1) not later than December 15 of the year in 
+19
+which the triggering event occurs, the United States 
+20
+district court for the applicable venue, acting 
+21
+through a 3-judge Court convened pursuant to sec-
+22
+tion 2284 of title 28, United States Code, shall de-
+23
+velop and publish the congressional redistricting 
+24
+plan for the State; and 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+76 
+•HR 3863 IH
+(2) the final plan developed and published by 
+1
+the Court under this section shall be deemed to be 
+2
+enacted on the date on which the Court publishes 
+3
+the final plan, as described in subsection (d). 
+4
+(b) APPLICABLE VENUE DESCRIBED.—For purposes 
+5
+of this section, the ‘‘applicable venue’’ with respect to a 
+6
+State is the District of Columbia or the judicial district 
+7
+in which the capital of the State is located, as selected 
+8
+by the first party to file with the court sufficient evidence 
+9
+of the occurrence of a triggering event described in sub-
+10
+section (f). 
+11
+(c) PROCEDURES FOR DEVELOPMENT OF PLAN.— 
+12
+(1) CRITERIA.—In developing a redistricting 
+13
+plan for a State under this section, the Court shall 
+14
+adhere to the same terms and conditions that ap-
+15
+plied (or that would have applied, as the case may 
+16
+be) to the development of a plan by the independent 
+17
+redistricting commission of the State under section 
+18
+313(a). 
+19
+(2) ACCESS TO INFORMATION AND RECORDS OF 
+20
+COMMISSION.—The Court shall have access to any 
+21
+information, data, software, or other records and 
+22
+material that was used (or that would have been 
+23
+used, as the case may be) by the independent redis-
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+77 
+•HR 3863 IH
+tricting commission of the State in carrying out its 
+1
+duties under this Act. 
+2
+(3) HEARING; PUBLIC PARTICIPATION.—In de-
+3
+veloping a redistricting plan for a State, the Court 
+4
+shall— 
+5
+(A) hold one or more evidentiary hearings 
+6
+at which interested members of the public may 
+7
+appear and be heard and present testimony, in-
+8
+cluding expert testimony, in accordance with 
+9
+the rules of the Court; and 
+10
+(B) consider other submissions and com-
+11
+ments by the public, including proposals for re-
+12
+districting plans to cover the entire State or 
+13
+any portion of the State. 
+14
+(4) USE OF SPECIAL MASTER.—To assist in the 
+15
+development and publication of a redistricting plan 
+16
+for a State under this section, the Court may ap-
+17
+point a special master to make recommendations to 
+18
+the Court on possible plans for the State. 
+19
+(d) PUBLICATION OF PLAN.— 
+20
+(1) PUBLIC AVAILABILITY OF INITIAL PLAN.— 
+21
+Upon completing the development of one or more 
+22
+initial redistricting plans, the Court shall make the 
+23
+plans available to the public at no cost, and shall 
+24
+also make available the underlying data used by the 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+78 
+•HR 3863 IH
+Court to develop the plans and a written evaluation 
+1
+of the plans against external metrics (as described in 
+2
+section 313(e)). 
+3
+(2) PUBLICATION
+OF
+FINAL
+PLAN.—At any 
+4
+time after the expiration of the 14-day period which 
+5
+begins on the date the Court makes the plans avail-
+6
+able to the public under paragraph (1), and taking 
+7
+into consideration any submissions and comments by 
+8
+the public which are received during such period, the 
+9
+Court shall develop and publish the final redis-
+10
+tricting plan for the State. 
+11
+(e) USE OF INTERIM PLAN.—In the event that the 
+12
+Court is not able to develop and publish a final redis-
+13
+tricting plan for the State with sufficient time for an up-
+14
+coming election to proceed, the Court may develop and 
+15
+publish an interim redistricting plan which shall serve as 
+16
+the redistricting plan for the State until the Court devel-
+17
+ops and publishes a final plan in accordance with this sec-
+18
+tion. Nothing in this subsection may be construed to limit 
+19
+or otherwise affect the authority or discretion of the Court 
+20
+to develop and publish the final redistricting plan, includ-
+21
+ing but not limited to the discretion to make any changes 
+22
+the Court deems necessary to an interim redistricting 
+23
+plan. 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+79 
+•HR 3863 IH
+(f) TRIGGERING EVENTS DESCRIBED.—The ‘‘trig-
+1
+gering events’’ described in this subsection are as follows: 
+2
+(1) The failure of the State to establish or des-
+3
+ignate a nonpartisan agency of the State legislature 
+4
+under section 314(a) prior to the expiration of the 
+5
+deadline set forth in section 314(a)(8). 
+6
+(2) The failure of the State to appoint a Select 
+7
+Committee on Redistricting under section 314(b) 
+8
+prior to the expiration of the deadline set forth in 
+9
+section 314(b)(4). 
+10
+(3) The failure of the Select Committee on Re-
+11
+districting to approve any selection pool under sec-
+12
+tion 312 prior to the expiration of the deadline set 
+13
+forth for the approval of the second replacement se-
+14
+lection pool in section 312(d)(2). 
+15
+(4) The failure of the independent redistricting 
+16
+commission of the State to approve a final redis-
+17
+tricting plan for the State prior to the expiration of 
+18
+the deadline set forth in section 313(f). 
+19
+SEC. 322. SPECIAL RULE FOR REDISTRICTING CONDUCTED 
+20
+UNDER ORDER OF FEDERAL COURT. 
+21
+If a Federal court requires a State to conduct redis-
+22
+tricting subsequent to an apportionment of Representa-
+23
+tives in the State in order to comply with the Constitution 
+24
+or to enforce the Voting Rights Act of 1965, section 313 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+80 
+•HR 3863 IH
+shall apply with respect to the redistricting, except that 
+1
+the court may revise any of the deadlines set forth in such 
+2
+section if the court determines that a revision is appro-
+3
+priate in order to provide for a timely enactment of a new 
+4
+redistricting plan for the State. 
+5
+Subtitle D—Administrative and 
+6
+Miscellaneous Provisions 
+7
+SEC. 331. PAYMENTS TO STATES FOR CARRYING OUT RE-
+8
+DISTRICTING. 
+9
+(a) AUTHORIZATION OF PAYMENTS.—Subject to sub-
+10
+sections (c) and (d), not later than 30 days after a State 
+11
+receives a State apportionment notice, the Election Assist-
+12
+ance Commission shall make a payment to the State in 
+13
+an amount equal to the product of— 
+14
+(1) the number of Representatives to which the 
+15
+State is entitled, as provided under the notice; and 
+16
+(2) $150,000. 
+17
+(b) USE OF FUNDS.—A State shall use the payment 
+18
+made under this section to establish and operate the 
+19
+State’s independent redistricting commission, to imple-
+20
+ment the State redistricting plan, and to otherwise carry 
+21
+out congressional redistricting in the State. 
+22
+(c) NO PAYMENT TO STATES ELECTING MEMBERS 
+23
+AT LARGE.—The Election Assistance Commission shall 
+24
+not make a payment under this section to any State which, 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+81 
+•HR 3863 IH
+under the apportionment notice, will elect all of its Rep-
+1
+resentatives at large. 
+2
+(d) REQUIRING SUBMISSION OF SELECTION POOL AS 
+3
+CONDITION OF PAYMENT.— 
+4
+(1) REQUIREMENT.—Except as provided in 
+5
+paragraph (2) and paragraph (3), the Election As-
+6
+sistance Commission may not make a payment to a 
+7
+State under this section until the State certifies to 
+8
+the Commission that the nonpartisan agency estab-
+9
+lished or designated by a State under section 314(a) 
+10
+has, in accordance with section 312(b)(1), submitted 
+11
+a selection pool to the Select Committee on Redis-
+12
+tricting for the State established under section 
+13
+314(b). 
+14
+(2) EXCEPTION
+FOR
+STATES
+WITH
+EXISTING 
+15
+COMMISSIONS.—In the case of a State which, pursu-
+16
+ant to section 301(c), is exempt from the require-
+17
+ments of section 301(a), the Commission may not 
+18
+make a payment to the State under this section until 
+19
+the State certifies to the Commission that its redis-
+20
+tricting commission meets the requirements of sec-
+21
+tion 301(c). 
+22
+(e) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+23
+are authorized to be appropriated such sums as may be 
+24
+necessary for payments under this section. 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+82 
+•HR 3863 IH
+SEC. 332. CIVIL ENFORCEMENT. 
+1
+(a) CIVIL ENFORCEMENT.— 
+2
+(1) ACTIONS BY ATTORNEY GENERAL.—The At-
+3
+torney General may bring a civil action in an appro-
+4
+priate district court for such relief as may be appro-
+5
+priate to carry out this Act. 
+6
+(2) AVAILABILITY OF PRIVATE RIGHT OF AC-
+7
+TION.—Any citizen of a State who is aggrieved by 
+8
+the failure of the State to meet the requirements of 
+9
+this Act may bring a civil action in the United 
+10
+States district court for the applicable venue for 
+11
+such relief as may be appropriate to remedy the fail-
+12
+ure. For purposes of this section, the ‘‘applicable 
+13
+venue’’ is the District of Columbia or the judicial 
+14
+district in which the capital of the State is located, 
+15
+as selected by the person who brings the civil action. 
+16
+(b) EXPEDITED CONSIDERATION.—In any action 
+17
+brought forth under this section, the following rules shall 
+18
+apply: 
+19
+(1) The action shall be filed in the district court 
+20
+of the United States for the District of Columbia or 
+21
+for the judicial district in which the capital of the 
+22
+State is located, as selected by the person bringing 
+23
+the action. 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+83 
+•HR 3863 IH
+(2) The action shall be heard by a 3-judge 
+1
+court convened pursuant to section 2284 of title 28, 
+2
+United States Code. 
+3
+(3) The 3-judge court shall consolidate actions 
+4
+brought for relief under subsection (b)(1) with re-
+5
+spect to the same State redistricting plan. 
+6
+(4) A copy of the complaint shall be delivered 
+7
+promptly to the Clerk of the House of Representa-
+8
+tives and the Secretary of the Senate. 
+9
+(5) A final decision in the action shall be re-
+10
+viewable only by appeal directly to the Supreme 
+11
+Court of the United States. Such appeal shall be 
+12
+taken by the filing of a notice of appeal within 10 
+13
+days, and the filing of a jurisdictional statement 
+14
+within 30 days, of the entry of the final decision. 
+15
+(6) It shall be the duty of the district court and 
+16
+the Supreme Court of the United States to advance 
+17
+on the docket and to expedite to the greatest pos-
+18
+sible extent the disposition of the action and appeal. 
+19
+(c) ATTORNEY’S FEES.—In a civil action under this 
+20
+section, the court may allow the prevailing party (other 
+21
+than the United States) reasonable attorney fees, includ-
+22
+ing litigation expenses, and costs. 
+23
+(d) RELATION TO OTHER LAWS.— 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+84 
+•HR 3863 IH
+(1) RIGHTS
+AND
+REMEDIES
+ADDITIONAL
+TO 
+1
+OTHER
+RIGHTS
+AND
+REMEDIES.—The rights and 
+2
+remedies established by this section are in addition 
+3
+to all other rights and remedies provided by law, and 
+4
+neither the rights and remedies established by this 
+5
+section nor any other provision of this Act shall su-
+6
+persede, restrict, or limit the application of the Vot-
+7
+ing Rights Act of 1965 (52 U.S.C. 10301 et seq.). 
+8
+(2) VOTING RIGHTS ACT OF 1965.—Nothing in 
+9
+this Act authorizes or requires conduct that is pro-
+10
+hibited by the Voting Rights Act of 1965 (52 U.S.C. 
+11
+10301 et seq.). 
+12
+SEC. 333. STATE APPORTIONMENT NOTICE DEFINED. 
+13
+In this title, the ‘‘State apportionment notice’’ means, 
+14
+with respect to a State, the notice sent to the State from 
+15
+the Clerk of the House of Representatives under section 
+16
+22(b) of the Act entitled ‘‘An Act to provide for the fif-
+17
+teenth and subsequent decennial censuses and to provide 
+18
+for an apportionment of Representatives in Congress’’, ap-
+19
+proved June 18, 1929 (2 U.S.C. 2a(b)), of the number 
+20
+of Representatives to which the State is entitled. 
+21
+SEC. 334. SPECIAL RULES FOR REDISTRICTING PURSUANT 
+22
+TO 2020 DECENNIAL CENSUS. 
+23
+Notwithstanding any other provision of this Act, in 
+24
+the case of congressional redistricting conducted by a 
+25
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+85 
+•HR 3863 IH
+State pursuant to the 2020 decennial census, the following 
+1
+shall apply: 
+2
+(1) The independent redistricting commission of 
+3
+the State shall enact the congressional redistricting 
+4
+plan for the State not later than January 15, 2022. 
+5
+(2) The State may waive or modify any of the 
+6
+deadlines described in subtitle B if the State deter-
+7
+mines that waiving or modifying the deadline is ap-
+8
+propriate to ensure that the State meets the dead-
+9
+line described in paragraph (1). 
+10
+(3) None of triggering events described in sub-
+11
+section (f) of section 321 (relating to the authority 
+12
+of a United States district court to develop and pub-
+13
+lish the plan) shall apply. 
+14
+(4) The failure of the State to enact the plan 
+15
+by the deadline described in paragraph (1) shall be 
+16
+treated as a triggering event under subsection (f) of 
+17
+section 321, and the United States district court for 
+18
+the applicable venue shall develop and publish the 
+19
+congressional redistricting plan for the State in ac-
+20
+cordance with such section. 
+21
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+86 
+•HR 3863 IH
+TITLE IV—GENERAL 
+1
+PROVISIONS 
+2
+SEC. 401. NO EFFECT ON ELECTIONS FOR STATE AND 
+3
+LOCAL OFFICE. 
+4
+Nothing in this Act or in any amendment made by 
+5
+this Act may be construed to affect the manner in which 
+6
+a State carries out elections for State or local office, in-
+7
+cluding the process by which a State establishes the dis-
+8
+tricts used in such elections. 
+9
+SEC. 402. SEVERABILITY. 
+10
+If any provision of this Act or any amendment made 
+11
+by this Act, or the application of a provision of this Act 
+12
+or an amendment made by this Act to any person or cir-
+13
+cumstance, is held to be unconstitutional, the remainder 
+14
+of this Act, and the application of the provisions to any 
+15
+person or circumstance, shall not be affected by the hold-
+16
+ing. 
+17
+SEC. 403. EFFECTIVE DATE. 
+18
+(a) REDISTRICTING.—Title III and the amendments 
+19
+made by such title shall apply with respect to redistricting 
+20
+carried out pursuant to the decennial census conducted 
+21
+during 2020 or any succeeding decennial census. 
+22
+(b) RANKED CHOICE VOTING; USE OF MULTI-MEM-
+23
+BER DISTRICTS.—Titles I and II and the amendments 
+24
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS
+87 
+•HR 3863 IH
+made by such titles shall apply with respect to elections 
+1
+for Federal office held in 2022 and each succeeding year. 
+2
+Æ 
+17:44 Jun 30, 2021
+H3863
+lotter on DSK11XQN23PROD with BILLS

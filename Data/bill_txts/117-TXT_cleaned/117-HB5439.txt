@@ -1,0 +1,1133 @@
+A BILL 
+To keep children safe and protect their interests on the 
+internet, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Kids Internet Design 
+4
+and Safety Act’’ or the ‘‘KIDS Act’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+(1) Children increasingly consume digital enter-
+8
+tainment on the internet and are uniquely suscep-
+9
+tible to manipulation online, given their lack of im-
+10
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+2 
+•HR 5439 IH
+portant neurological and psychological capabilities 
+1
+which are developed later in adulthood. 
+2
+(2) Today’s digital media environment, which is 
+3
+constantly evolving and now includes high-tech expe-
+4
+riences, such as augmented reality and virtual re-
+5
+ality, is largely designed in non-transparent ways to 
+6
+ensure children interact with content that reflect the 
+7
+interests and goals of content producers, online plat-
+8
+forms, and marketers. 
+9
+(3) Artificial intelligence, machine learning, and 
+10
+other complex systems are used to make continuous 
+11
+decisions about how online content for children can 
+12
+be personalized to increase engagement. 
+13
+(4) Online companies gather, analyze, and use 
+14
+data for behavioral marketing directed at children. 
+15
+(5) Companies employ sophisticated strategies, 
+16
+including neuromarketing, to affect consumer behav-
+17
+ior and manipulate online users’ decision making. 
+18
+(6) Branded content in various forms of multi-
+19
+media, including native advertising and influencer 
+20
+marketing, exposes children to marketing that is in-
+21
+herently manipulative or purposely disguised as en-
+22
+tertainment or other information. 
+23
+SEC. 3. DEFINITIONS. 
+24
+(a) IN GENERAL.—In this Act: 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+3 
+•HR 5439 IH
+(1) ALGORITHMIC PROCESS.—The term ‘‘algo-
+1
+rithmic process’’ means a computational process, in-
+2
+cluding one derived from machine learning or other 
+3
+artificial intelligence techniques, that processes per-
+4
+sonal information or other data for the purpose of 
+5
+determining the order or manner that a set of infor-
+6
+mation is provided to a user of an online platform, 
+7
+including the provision of commercial content, the 
+8
+display of social media posts, or any other method 
+9
+of automated decision making, content selection, 
+10
+content recommendation, or content amplification. 
+11
+(2) COMMISSION.—The term ‘‘Commission’’ 
+12
+means the Federal Trade Commission. 
+13
+(3) CONSTRUCTIVE KNOWLEDGE.— 
+14
+(A) IN GENERAL.—The term ‘‘constructive 
+15
+knowledge’’ means, for purposes of section 4, 
+16
+with respect to knowledge that a user of an on-
+17
+line platform is a covered user, knowledge that 
+18
+is imputed to the operator of the online plat-
+19
+form if— 
+20
+(i) the operator directly or indirectly 
+21
+collects, uses, profiles, buys, sells, classi-
+22
+fies, or analyzes (using an algorithmic 
+23
+process or other form of data analytics) 
+24
+data about the user to estimate, identify, 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+4 
+•HR 5439 IH
+or classify the age, age range, or proxy 
+1
+thereof; 
+2
+(ii) the operator has or receives data 
+3
+or reporting related to the age of the user 
+4
+on the online platform under the self-regu-
+5
+latory guidelines described in section 1304 
+6
+of the Children’s Online Privacy Protection 
+7
+Act of 1998 (15 U.S.C. 6503) that docu-
+8
+ments risks and controls, including the ex-
+9
+istence of operator-controlled data ana-
+10
+lytics and content analytics capabilities and 
+11
+functions or outputs; 
+12
+(iii) the operator has or receives com-
+13
+plaints from parents or other third parties 
+14
+about the age of the user, whether through 
+15
+the operator’s complaint mechanism, by 
+16
+email, or other means conveniently acces-
+17
+sible by such parents or third parties; 
+18
+(iv) the operator has or receives data 
+19
+or reporting or information from the oper-
+20
+ator’s internal communications, including 
+21
+documentation about its advertising prac-
+22
+tices, such as an advertisement insertion 
+23
+order, or other promotional material to 
+24
+marketers, that indicates that data is being 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+5 
+•HR 5439 IH
+collected from the user because the user is 
+1
+within a particular age range; or 
+2
+(v) the operator knows that— 
+3
+(I) a provider of content on the 
+4
+platform communicates to an adver-
+5
+tising network that the content is in-
+6
+tended for users of a particular age 
+7
+range or likely to appeal to users of a 
+8
+particular age range, whether directly 
+9
+or indirectly; and 
+10
+(II) the user is shown that con-
+11
+tent. 
+12
+(B) ADDITIONAL FACTORS.—The Commis-
+13
+sion may issue guidance or promulgate rules in 
+14
+accordance with section 553 of title 5, United 
+15
+States Code, that indicate factors, in addition 
+16
+to those described in subparagraph (A), that 
+17
+should be considered to be constructive knowl-
+18
+edge for purposes of this Act. 
+19
+(4) COVERED USER.—The term ‘‘covered user’’ 
+20
+means an individual under the age of 16. 
+21
+(5) DIRECTED TO CHILDREN.—The term ‘‘di-
+22
+rected to children’’ means the targeting of covered 
+23
+users by an online platform or portion of an online 
+24
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+6 
+•HR 5439 IH
+platform, as demonstrated by, with respect to such 
+1
+platform or portion of a platform— 
+2
+(A) its subject matter; 
+3
+(B) its visual content; 
+4
+(C) the use of animated characters or 
+5
+child-oriented activities for children and related 
+6
+incentives; 
+7
+(D) music or other audio content; 
+8
+(E) the age of models used; 
+9
+(F) the presence of— 
+10
+(i) child celebrities; or 
+11
+(ii) celebrities who appeal to covered 
+12
+users; 
+13
+(G) the language used; 
+14
+(H) advertising content used on, or used to 
+15
+advertise, such platform; or 
+16
+(I) reliable empirical evidence relating to— 
+17
+(i) the composition of the audience of 
+18
+such platform; and 
+19
+(ii) the intended audience of such 
+20
+platform. 
+21
+(6) HOST-SELLING.—The term ‘‘host-selling’’ 
+22
+refers to commercial video content that features the 
+23
+same characters or individuals as in the adjacent 
+24
+noncommercial content. 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+7 
+•HR 5439 IH
+(7) 
+INFLUENCER
+MARKETING.—The 
+term 
+1
+‘‘influencer marketing’’ means a tactic by which a 
+2
+company compensates individuals who are deemed to 
+3
+have the potential to review, promote, or sell a prod-
+4
+uct or service online to an intended target audience. 
+5
+(8) ONLINE
+PLATFORM.—The term ‘‘online 
+6
+platform’’ means any public-facing website, online 
+7
+service, online application, or mobile application 
+8
+which is operated for commercial purposes. 
+9
+(9) OPERATOR.—The term ‘‘operator’’ means 
+10
+any person who, for commercial purposes, in inter-
+11
+state or foreign commerce, operates or provides an 
+12
+online platform. 
+13
+(10) PERSON.—The term ‘‘person’’ means any 
+14
+individual, partnership, corporation, trust, estate, co-
+15
+operative, association, or other entity. 
+16
+SEC. 4. REGULATION OF ACTS AND PRACTICES ON CHILD- 
+17
+DIRECTED PLATFORMS. 
+18
+(a) PROHIBITION
+ON CERTAIN INTERFACE ELE-
+19
+MENTS.— 
+20
+(1) IN GENERAL.— 
+21
+(A) PROHIBITION.—It is unlawful for an 
+22
+operator to operate or provide— 
+23
+(i) an online platform or a portion of 
+24
+an online platform directed to children that 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+8 
+•HR 5439 IH
+incorporates an interface element described 
+1
+in subparagraph (B); and 
+2
+(ii) any online platform that employs 
+3
+an interface element described in subpara-
+4
+graph (B) with respect to a user if the op-
+5
+erator has actual or constructive knowledge 
+6
+that the user is a covered user. 
+7
+(B) INTERFACE ELEMENTS DESCRIBED.— 
+8
+The interface elements described in this sub-
+9
+paragraph are the following: 
+10
+(i) Any auto-play setting that, without 
+11
+input from the covered user, commences 
+12
+additional video content directly following 
+13
+the video content initially selected by the 
+14
+user. 
+15
+(ii) Messages or alerts that encourage 
+16
+a covered user who is not actively using 
+17
+the platform to engage with the platform. 
+18
+(iii) Displaying the quantity of posi-
+19
+tive engagement or feedback that a covered 
+20
+user has received from other users. 
+21
+(iv) Any interface element or setting 
+22
+that unfairly encourages a covered user, 
+23
+due to their age or inexperience, to share 
+24
+personal information, submit content, or 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+9 
+•HR 5439 IH
+spend more time engaging with the plat-
+1
+form. 
+2
+(v) Any interface element that pro-
+3
+vides a covered user with badges or other 
+4
+visual award symbols based on elevated 
+5
+levels of engagement with the platform. 
+6
+(vi) Any interface element that maxi-
+7
+mizes a covered user’s spending on the 
+8
+platform, unfairly encourages a covered 
+9
+user to spend money on the platform, fa-
+10
+cilitates a financial transaction by a cov-
+11
+ered user on the platform without notifica-
+12
+tion to the covered user’s parent, or facili-
+13
+tates a financial transaction by a covered 
+14
+user on the platform that is not in the in-
+15
+terest of the covered user. 
+16
+(2) RULEMAKING.—Not later than 1 year after 
+17
+the date of enactment of this Act and not less fre-
+18
+quently than every 5 years thereafter, the Commis-
+19
+sion shall promulgate regulations under section 553 
+20
+of title 5, United States Code, that establish any ad-
+21
+ditions or exceptions to the prohibitions under para-
+22
+graph (1). The Commission may only establish such 
+23
+an exception on the basis that the exception is nec-
+24
+essary to provide essential functionality for an online 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+10 
+•HR 5439 IH
+platform and is consistent with the best interests of 
+1
+covered users. 
+2
+(b) PROHIBITION ON AMPLIFICATION OF CERTAIN 
+3
+CONTENT; USER REPORTING MECHANISM.— 
+4
+(1) IN GENERAL.—It shall be unlawful for an 
+5
+operator to operate or provide— 
+6
+(A) an online platform or portion of an on-
+7
+line platform directed to children that employs 
+8
+an algorithmic process described in paragraph 
+9
+(2) on the platform; 
+10
+(B) any online platform that employs an 
+11
+algorithmic process described in paragraph (2) 
+12
+with respect to a user of the platform if the op-
+13
+erator of the platform has actual or construc-
+14
+tive knowledge that the user is a covered user; 
+15
+and 
+16
+(C) an online platform that does not in-
+17
+clude a mechanism for users or other third par-
+18
+ties to report suspected violations of any re-
+19
+quirement of this paragraph. 
+20
+(2) ALGORITHMIC
+PROCESS
+DESCRIBED.—An 
+21
+algorithmic process described in this paragraph is an 
+22
+algorithmic process that amplifies, promotes, or en-
+23
+courages covered users’ consumption of videos and 
+24
+other forms of content that— 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+11 
+•HR 5439 IH
+(A) are of a non-educational nature (as de-
+1
+termined by the Commission); and 
+2
+(B) involve— 
+3
+(i) sexual material; 
+4
+(ii) promotion of physical or emotional 
+5
+violence or activities that can reasonably be 
+6
+assumed to result in physical or emotional 
+7
+harm, including self-harm, use of weapons, 
+8
+and bullying; 
+9
+(iii) activities that are unlawful for 
+10
+covered users to engage in or the pro-
+11
+motion of such activities; or 
+12
+(iv) wholly commercial content that is 
+13
+not reasonably recognizable as such to a 
+14
+covered user. 
+15
+(c) PROHIBITION ON CERTAIN ADVERTISING METH-
+16
+ODS.— 
+17
+(1) IN GENERAL.—It shall be unlawful for an 
+18
+online operator to operate or provide— 
+19
+(A) an online platform or portion of an on-
+20
+line platform directed to children that employs 
+21
+an algorithmic process to present any of the 
+22
+content described in paragraph (2) to users of 
+23
+the platform; and 
+24
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+12 
+•HR 5439 IH
+(B) any online platform that employs an 
+1
+algorithmic process to present any of the con-
+2
+tent described in paragraph (2) to a covered 
+3
+user if the operator of the platform has actual 
+4
+or constructive knowledge that the user is a 
+5
+covered user. 
+6
+(2) CONTENT
+DESCRIBED.—The content de-
+7
+scribed in this paragraph is the following: 
+8
+(A) Content that includes host-selling. 
+9
+(B) Program-length advertisements. 
+10
+(C) Influencer marketing. 
+11
+(D) Online advertising or material with 
+12
+considerable commercial content involving alco-
+13
+hol, nicotine, or tobacco. 
+14
+(E) Online advertising or material with 
+15
+considerable commercial content with any 
+16
+imbedded interactive elements that take advan-
+17
+tage of covered users’ inexperience or credulity 
+18
+in noncommercial child-directed content. 
+19
+(F) Content that includes product place-
+20
+ment. 
+21
+(3) PROGRAM-LENGTH
+ADVERTISEMENT.—For 
+22
+purposes of this subsection, the term ‘‘program- 
+23
+length advertisement’’ shall be defined by the Com-
+24
+mission through regulation or other public guidance. 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+13 
+•HR 5439 IH
+(d) PROHIBITION ON USE OF PERSONAL INFORMA-
+1
+TION.—It shall be unlawful for an online platform to use 
+2
+age verification information collected from a covered user 
+3
+for any commercial purpose if— 
+4
+(1) the online platform is directed to children; 
+5
+or 
+6
+(2) the operator of the online platform has con-
+7
+structive knowledge that the user is a covered user. 
+8
+(e) REQUIREMENT TO DISTINGUISH COMMERCIAL 
+9
+CONTENT FROM NONCOMMERCIAL CONTENT.—The Com-
+10
+mission shall promulgate regulations in accordance with 
+11
+section 553 of title 5, United States Code, to require any 
+12
+online platform or portion of an online platform that is 
+13
+directed to children, or with respect to which the operator 
+14
+of the platform or portion of the platform has constructive 
+15
+knowledge that covered users use the platform or portion 
+16
+of the platform, to incorporate online visual elements or 
+17
+other indicators that distinguish commercial content from 
+18
+noncommercial content. 
+19
+(f) RULEMAKING.—The Commission shall promul-
+20
+gate, in accordance with section 553 of title 5, United 
+21
+States Code, such rules as may be necessary to carry out 
+22
+this section. 
+23
+(g) EFFECTIVE DATE.—The requirements of this 
+24
+section shall apply to online platforms beginning on the 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+14 
+•HR 5439 IH
+date that is 1 year after the date of enactment of this 
+1
+Act. 
+2
+SEC. 5. ONLINE CONTENT LABELING. 
+3
+(a) CONTENT LABELING SYSTEM REPORT.—Not 
+4
+later than the date that is 1 year after the date of enact-
+5
+ment of this Act, the Commission shall submit to Congress 
+6
+a report— 
+7
+(1) containing recommendations for a labeling 
+8
+system to allow covered users and parents to identify 
+9
+noncommercial, educational, and enriching content 
+10
+for covered users online; and 
+11
+(2) addressing considerations regarding how 
+12
+such labeling system should— 
+13
+(A) analyze content based on evidence- 
+14
+based criteria; 
+15
+(B) employ an easy-to-understand visual 
+16
+cue for parents to identify content described in 
+17
+paragraph (1); 
+18
+(C) receive regular review to determine its 
+19
+effectiveness; and 
+20
+(D) include a mechanism for users to re-
+21
+port to the Commission complaints of mis-
+22
+labeled content and for the Commission to rem-
+23
+edy such instances of mislabeled content. 
+24
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+15 
+•HR 5439 IH
+(b) CONSULTATION.—The report described in sub-
+1
+section (a) shall be developed by the Commission in con-
+2
+sultation with an advisory board, to be created and con-
+3
+vened by the Commission, which is comprised of experts 
+4
+in child development, child health, education, and media. 
+5
+SEC. 6. TRANSPARENCY AND AUDITING. 
+6
+(a) TRANSPARENCY.—The Commission shall promul-
+7
+gate regulations in accordance with section 553 of title 
+8
+5, United States Code, requiring an operator of an online 
+9
+platform which is directed to children to publish and main-
+10
+tain a publicly accessible digital record of the viewable or 
+11
+playable content of each such platform. Such regulations 
+12
+shall require the operator to ensure that such record does 
+13
+not include personal information (as defined in section 
+14
+1302 of the Children’s Online Privacy Protection Act of 
+15
+1998 (15 U.S.C. 6501)) or, as appropriate, user-generated 
+16
+content. 
+17
+(b) ANNUAL PLATFORM AUDITS.—The regulations 
+18
+promulgated pursuant to subsection (a) shall include the 
+19
+establishment of an annual audit process, to be conducted 
+20
+by the Commission during the 5-year period subsequent 
+21
+to the date of enactment of this Act, for each of the 25 
+22
+online platforms directed to children with the highest total 
+23
+number of covered users, to evaluate the level of compli-
+24
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+16 
+•HR 5439 IH
+ance by each such platform with the requirements under 
+1
+this Act. 
+2
+(c) REPORT.—The Commission shall submit annual 
+3
+reports to Congress based on the audits described in sub-
+4
+section (b) that— 
+5
+(1) describe the level of compliance by the plat-
+6
+forms described in such subsection with the require-
+7
+ments under this Act; and 
+8
+(2) provide recommendations for such legisla-
+9
+tion and administrative actions as the Commission 
+10
+determines appropriate based on the audit findings. 
+11
+SEC. 7. GRANT PROGRAM. 
+12
+(a) ESTABLISHMENT.— 
+13
+(1) IN GENERAL.—The Secretary of Commerce 
+14
+(in this section referred to as the ‘‘Secretary’’) shall 
+15
+make grants to eligible persons to foster the creation 
+16
+and promotion of advertisement-free and educational 
+17
+online content (such as videos and applications) for 
+18
+covered users. 
+19
+(2) ELIGIBLE PERSON.—For purposes of this 
+20
+section, the term ‘‘eligible person’’ means a person 
+21
+that has submitted an application, as approved by 
+22
+the Secretary pursuant to the eligibility require-
+23
+ments developed under subsection (b), for the cre-
+24
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+17 
+•HR 5439 IH
+ation and promotion of advertisement-free and edu-
+1
+cational online content for covered users. 
+2
+(b) ADVISORY COUNCIL.—The Secretary shall estab-
+3
+lish and convene an Advisory Council on Children’s Online 
+4
+Content, which shall be— 
+5
+(1) comprised of experts in education, child de-
+6
+velopment, psychology, online media, and other re-
+7
+lated disciplines; and 
+8
+(2) tasked with developing evidence-based cri-
+9
+teria for grant eligibility and grant distribution. 
+10
+(c) AUTHORIZATION OF APPROPRIATIONS.— 
+11
+(1) IN GENERAL.—To carry out this section, 
+12
+there is authorized to be appropriated— 
+13
+(A) for fiscal year 2021, $4,000,000; 
+14
+(B) for fiscal year 2022, $8,000,000; 
+15
+(C) for fiscal year 2023, $10,000,000; and 
+16
+(D) for fiscal year 2024, $12,000,000. 
+17
+(2) AVAILABILITY OF FUNDS.—Any amount ap-
+18
+propriated under this subsection for any fiscal year 
+19
+shall remain available for the purposes of carrying 
+20
+out any application approved during such fiscal year 
+21
+for an additional period of 1 year after the end of 
+22
+such fiscal year. 
+23
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+18 
+•HR 5439 IH
+SEC. 8. FEDERAL TRADE COMMISSION STUDY. 
+1
+Not later than 1 year after the date of enactment 
+2
+of this Act, the Commission shall conduct and publish a 
+3
+study, using any compulsory processes available to the 
+4
+Commission as necessary, relying on public data and infor-
+5
+mation if available and sufficient, and incorporating public 
+6
+comment, on harms resulting from interface elements and 
+7
+advertising methods on online platforms that are directed 
+8
+to children (and best practices for avoiding such harms), 
+9
+including the following: 
+10
+(1) The use of algorithmic processes and any 
+11
+other automated systems used for non-commercial 
+12
+content recommendation or amplification on plat-
+13
+forms that are directed to covered users. 
+14
+(2) The effect of algorithmic processes and any 
+15
+other automated systems used for non-commercial 
+16
+content recommendation or amplification on plat-
+17
+forms that are directed to covered users. 
+18
+SEC. 9. ADMINISTRATION AND ENFORCEMENT. 
+19
+(a) IN GENERAL.—This Act shall be enforced by the 
+20
+Commission under the Federal Trade Commission Act (15 
+21
+U.S.C. 41 et seq.). 
+22
+(b) ACTIONS BY COMMISSION.— 
+23
+(1) IN GENERAL.—The Commission shall pre-
+24
+vent any person from violating this Act or any regu-
+25
+lation promulgated by the Commission under this 
+26
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+19 
+•HR 5439 IH
+Act in the same manner, by the same means, and 
+1
+with the same jurisdiction, powers, and duties, as 
+2
+though all applicable terms and provisions of the 
+3
+Federal Trade Commission Act (15 U.S.C. 41 et 
+4
+seq.) were incorporated into and made a part of this 
+5
+Act. 
+6
+(2) PENALTIES AND PRIVILEGES.—Any person 
+7
+that violates this Act or any regulation promulgated 
+8
+under this Act shall be subject to the penalties and 
+9
+entitled to the privileges and immunities provided in 
+10
+the Federal Trade Commission Act in the same 
+11
+manner, by the same means, and with the same ju-
+12
+risdiction, power, and duties, as though all applica-
+13
+ble terms and provisions of the Federal Trade Com-
+14
+mission Act were incorporated into and made a part 
+15
+of this Act. 
+16
+(c) CIVIL PENALTY.—A violation of this Act, or a 
+17
+regulation promulgated under this Act, shall be treated 
+18
+as a violation of a rule defining an unfair or deceptive 
+19
+act or practice prescribed under section 18(a)(1)(B) of the 
+20
+Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+21
+(d) ENFORCEMENT BY STATES.— 
+22
+(1) IN GENERAL.—If the attorney general of a 
+23
+State has reason to believe that an interest of the 
+24
+residents of the State has been or is being threat-
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+20 
+•HR 5439 IH
+ened or adversely affected by a violation of this Act 
+1
+or a regulation promulgated under this Act, the at-
+2
+torney general of the State may, as parens patriae, 
+3
+bring a civil action on behalf of the residents of the 
+4
+State in an appropriate district court of the United 
+5
+States to obtain appropriate relief. 
+6
+(2) RIGHTS OF COMMISSION.— 
+7
+(A) NOTICE TO COMMISSION.— 
+8
+(i) IN GENERAL.—Except as provided 
+9
+in clause (iii), the attorney general of a 
+10
+State, before initiating a civil action under 
+11
+paragraph (1), shall provide written notifi-
+12
+cation to the Commission that the attorney 
+13
+general intends to bring such civil action. 
+14
+(ii) CONTENTS.—The notification re-
+15
+quired under clause (i) shall include a copy 
+16
+of the complaint to be filed to initiate the 
+17
+civil action. 
+18
+(iii) EXCEPTION.—If it is not feasible 
+19
+for the attorney general of a State to pro-
+20
+vide the notification required under clause 
+21
+(i) before initiating a civil action under 
+22
+paragraph (1), the attorney general shall 
+23
+notify the Commission immediately upon 
+24
+instituting the civil action. 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+21 
+•HR 5439 IH
+(B) INTERVENTION BY COMMISSION.—The 
+1
+Commission may— 
+2
+(i) intervene in any civil action 
+3
+brought by the attorney general of a State 
+4
+under paragraph (1); and 
+5
+(ii) upon intervening— 
+6
+(I) be heard on all matters aris-
+7
+ing in the civil action; and 
+8
+(II) file petitions for appeal of a 
+9
+decision in the civil action. 
+10
+(3) INVESTIGATORY POWERS.—Nothing in this 
+11
+subsection may be construed to prevent the attorney 
+12
+general of a State from exercising the powers con-
+13
+ferred on the attorney general by the laws of the 
+14
+State to conduct investigations, to administer oaths 
+15
+or affirmations, or to compel the attendance of wit-
+16
+nesses or the production of documentary or other 
+17
+evidence. 
+18
+(e) EFFECT ON OTHER LAWS.— 
+19
+(1) AUTHORITY OF THE COMMISSION.—Nothing 
+20
+contained in this Act shall be construed to limit the 
+21
+authority of the Commission under any other provi-
+22
+sions of law. 
+23
+(2) RELATION TO STATE LAW.—Nothing in this 
+24
+Act may be construed to preempt any provision of 
+25
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS
+22 
+•HR 5439 IH
+State law that provides greater protection to con-
+1
+sumers than is provided in this Act. 
+2
+Æ 
+00:31 Oct 06, 2021
+H5439
+sspencer on DSK126QN23PROD with BILLS

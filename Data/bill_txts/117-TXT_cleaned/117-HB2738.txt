@@ -1,0 +1,847 @@
+A BILL 
+To amend section 2702 of title 18, United States Code, 
+to prevent law enforcement and intelligence agencies 
+from obtaining subscriber or customer records in ex-
+change for anything of value, to address communications 
+and records in the possession of intermediary internet 
+service providers, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+02:28 Jun 04, 2021
+H2738
+2 
+•HR 2738 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Fourth Amendment 
+2
+Is Not For Sale Act’’. 
+3
+SEC. 2. PROTECTION OF RECORDS HELD BY DATA BRO-
+4
+KERS. 
+5
+Section 2702 of title 18, United States Code, is 
+6
+amended by adding at the end the following: 
+7
+‘‘(e) PROHIBITION ON OBTAINING IN EXCHANGE FOR 
+8
+ANYTHING OF VALUE CERTAIN RECORDS AND INFORMA-
+9
+TION BY LAW ENFORCEMENT AND INTELLIGENCE AGEN-
+10
+CIES.— 
+11
+‘‘(1) DEFINITIONS.—In this subsection— 
+12
+‘‘(A) the term ‘covered customer or sub-
+13
+scriber record’ means a covered record that is— 
+14
+‘‘(i) disclosed to a third party by— 
+15
+‘‘(I) a provider of an electronic 
+16
+communication service to the public or 
+17
+a provider of a remote computing 
+18
+service of which the covered person 
+19
+with respect to the covered record is a 
+20
+subscriber or customer; or 
+21
+‘‘(II) an intermediary service pro-
+22
+vider that delivers, stores, or proc-
+23
+esses communications of such covered 
+24
+person; 
+25
+02:28 Jun 04, 2021
+H2738
+3 
+•HR 2738 IH
+‘‘(ii) collected by a third party from 
+1
+an online account of a covered person; or 
+2
+‘‘(iii) collected by a third party from 
+3
+or about an electronic device of a covered 
+4
+person; 
+5
+‘‘(B) the term ‘covered person’ means— 
+6
+‘‘(i) a person who is located inside the 
+7
+United States; or 
+8
+‘‘(ii) a person— 
+9
+‘‘(I) who is located outside the 
+10
+United States or whose location can-
+11
+not be determined; and 
+12
+‘‘(II) who is a United States per-
+13
+son, as defined in section 101 of the 
+14
+Foreign Intelligence Surveillance Act 
+15
+of 1978 (50 U.S.C. 1801); 
+16
+‘‘(C) the term ‘covered record’ means a 
+17
+record or other information that— 
+18
+‘‘(i) pertains to a covered person; and 
+19
+‘‘(ii) is— 
+20
+‘‘(I) a record or other informa-
+21
+tion described in the matter preceding 
+22
+paragraph (1) of subsection (c); 
+23
+‘‘(II) the contents of a commu-
+24
+nication; or 
+25
+02:28 Jun 04, 2021
+H2738
+4 
+•HR 2738 IH
+‘‘(III) location information; 
+1
+‘‘(D) the term ‘electronic device’ has the 
+2
+meaning given the term ‘computer’ in section 
+3
+1030(e); 
+4
+‘‘(E) the term ‘illegitimately obtained in-
+5
+formation’ means a covered record that— 
+6
+‘‘(i) was obtained— 
+7
+‘‘(I) from a provider of an elec-
+8
+tronic communication service to the 
+9
+public or a provider of a remote com-
+10
+puting service in a manner that— 
+11
+‘‘(aa) violates the service 
+12
+agreement between the provider 
+13
+and customers or subscribers of 
+14
+the provider; or 
+15
+‘‘(bb) is inconsistent with 
+16
+the privacy policy of the provider; 
+17
+‘‘(II) by deceiving the covered 
+18
+person whose covered record was ob-
+19
+tained; or 
+20
+‘‘(III) through the unauthorized 
+21
+accessing of an electronic device or 
+22
+online account; or 
+23
+‘‘(ii) was— 
+24
+02:28 Jun 04, 2021
+H2738
+5 
+•HR 2738 IH
+‘‘(I) obtained from a provider of 
+1
+an electronic communication service to 
+2
+the public, a provider of a remote 
+3
+computing service, or an intermediary 
+4
+service provider; and 
+5
+‘‘(II) 
+collected, 
+processed, 
+or 
+6
+shared in violation of a contract relat-
+7
+ing to the covered record; 
+8
+‘‘(F) the term ‘intelligence community’ has 
+9
+the meaning given that term in section 3 of the 
+10
+National Security Act of 1947 (50 U.S.C. 
+11
+3003); 
+12
+‘‘(G) the term ‘location information’ means 
+13
+information derived or otherwise calculated 
+14
+from the transmission or reception of a radio 
+15
+signal that reveals the approximate or actual 
+16
+geographic location of a customer, subscriber, 
+17
+or device; 
+18
+‘‘(H) the term ‘obtain in exchange for any-
+19
+thing of value’ means to obtain by purchasing, 
+20
+to receive in connection with services being pro-
+21
+vided for consideration, or to otherwise obtain 
+22
+in exchange for consideration, including an ac-
+23
+cess fee, service fee, maintenance fee, or licens-
+24
+ing fee; 
+25
+02:28 Jun 04, 2021
+H2738
+6 
+•HR 2738 IH
+‘‘(I) the term ‘online account’ means an 
+1
+online account with an electronic communica-
+2
+tion service to the public or remote computing 
+3
+service; 
+4
+‘‘(J) the term ‘pertain’, with respect to a 
+5
+person, means— 
+6
+‘‘(i) information that is linked to the 
+7
+identity of a person; or 
+8
+‘‘(ii) information— 
+9
+‘‘(I) that has been anonymized to 
+10
+remove links to the identity of a per-
+11
+son; and 
+12
+‘‘(II) that, if combined with other 
+13
+information, could be used to identify 
+14
+a person; and 
+15
+‘‘(K) the term ‘third party’ means a person 
+16
+who— 
+17
+‘‘(i) is not a governmental entity; and 
+18
+‘‘(ii) in connection with the collection, 
+19
+disclosure, obtaining, processing, or shar-
+20
+ing of the covered record at issue, was not 
+21
+acting as— 
+22
+‘‘(I) a provider of an electronic 
+23
+communication service to the public; 
+24
+or 
+25
+02:28 Jun 04, 2021
+H2738
+7 
+•HR 2738 IH
+‘‘(II) a provider of a remote com-
+1
+puting service. 
+2
+‘‘(2) LIMITATION.— 
+3
+‘‘(A) IN
+GENERAL.—A law enforcement 
+4
+agency of a governmental entity and an element 
+5
+of the intelligence community may not obtain 
+6
+from a third party in exchange for anything of 
+7
+value a covered customer or subscriber record 
+8
+or any illegitimately obtained information. 
+9
+‘‘(B) INDIRECTLY
+ACQUIRED
+RECORDS 
+10
+AND INFORMATION.—The limitation under sub-
+11
+paragraph (A) shall apply without regard to 
+12
+whether the third party possessing the covered 
+13
+customer or subscriber record or illegitimately 
+14
+obtained information is the third party that ini-
+15
+tially obtained or collected, or is the third party 
+16
+that initially received the disclosure of, the cov-
+17
+ered customer or subscriber record or illegit-
+18
+imately obtained information. 
+19
+‘‘(3) LIMIT
+ON
+SHARING
+BETWEEN
+AGEN-
+20
+CIES.—An agency of a governmental entity that is 
+21
+not a law enforcement agency or an element of the 
+22
+intelligence community may not provide to a law en-
+23
+forcement agency of a governmental entity or an ele-
+24
+ment of the intelligence community a covered cus-
+25
+02:28 Jun 04, 2021
+H2738
+8 
+•HR 2738 IH
+tomer or subscriber record or illegitimately obtained 
+1
+information that was obtained from a third party in 
+2
+exchange for anything of value. 
+3
+‘‘(4) PROHIBITION ON USE AS EVIDENCE.—A 
+4
+covered customer or subscriber record or illegit-
+5
+imately obtained information obtained by or pro-
+6
+vided to a law enforcement agency of a governmental 
+7
+entity or an element of the intelligence community in 
+8
+violation of paragraph (2) or (3), and any evidence 
+9
+derived therefrom, may not be received in evidence 
+10
+in any trial, hearing, or other proceeding in or be-
+11
+fore any court, grand jury, department, officer, 
+12
+agency, regulatory body, legislative committee, or 
+13
+other authority of the United States, a State, or a 
+14
+political subdivision thereof. 
+15
+‘‘(5) MINIMIZATION PROCEDURES.— 
+16
+‘‘(A) IN GENERAL.—The Attorney General 
+17
+shall adopt specific procedures that are reason-
+18
+ably designed to minimize the acquisition and 
+19
+retention, and prohibit the dissemination, of in-
+20
+formation pertaining to a covered person that is 
+21
+acquired in violation of paragraph (2) or (3). 
+22
+‘‘(B) USE BY AGENCIES.—If a law enforce-
+23
+ment agency of a governmental entity or ele-
+24
+ment of the intelligence community acquires in-
+25
+02:28 Jun 04, 2021
+H2738
+9 
+•HR 2738 IH
+formation pertaining to a covered person in vio-
+1
+lation of paragraph (2) or (3), the law enforce-
+2
+ment agency of a governmental entity or ele-
+3
+ment of the intelligence community shall mini-
+4
+mize the acquisition and retention, and prohibit 
+5
+the dissemination, of the information in accord-
+6
+ance with the procedures adopted under sub-
+7
+paragraph (A).’’. 
+8
+SEC. 3. REQUIRED DISCLOSURE. 
+9
+Section 2703 of title 18, United States Code, is 
+10
+amended by adding at the end the following: 
+11
+‘‘(i) COVERED CUSTOMER OR SUBSCRIBER RECORDS 
+12
+AND ILLEGITIMATELY OBTAINED INFORMATION.— 
+13
+‘‘(1) DEFINITIONS.—In this subsection, the 
+14
+terms ‘covered customer or subscriber record’, ‘ille-
+15
+gitimately obtained information’, and ‘third party’ 
+16
+have the meanings given such terms in section 
+17
+2702(e). 
+18
+‘‘(2) LIMITATION.—Unless a governmental enti-
+19
+ty obtains an order in accordance with paragraph 
+20
+(3), the governmental entity may not require a third 
+21
+party to disclose a covered customer or subscriber 
+22
+record or any illegitimately obtained information if a 
+23
+court order would be required for the governmental 
+24
+entity to require a provider of remote computing 
+25
+02:28 Jun 04, 2021
+H2738
+10 
+•HR 2738 IH
+service or a provider of electronic communication 
+1
+service to the public to disclose such a covered cus-
+2
+tomer or subscriber record or illegitimately obtained 
+3
+information that is a record of a customer or sub-
+4
+scriber of the provider. 
+5
+‘‘(3) ORDERS.— 
+6
+‘‘(A) IN
+GENERAL.—A court may only 
+7
+issue an order requiring a third party to dis-
+8
+close a covered customer or subscriber record or 
+9
+any illegitimately obtained information on the 
+10
+same basis and subject to the same limitations 
+11
+as would apply to a court order to require dis-
+12
+closure by a provider of remote computing serv-
+13
+ice or a provider of electronic communication 
+14
+service to the public of a record of a customer 
+15
+or subscriber of the provider. 
+16
+‘‘(B) STANDARD.—For purposes of sub-
+17
+paragraph (A), a court shall apply the most 
+18
+stringent standard under Federal statute or the 
+19
+Constitution of the United States that would be 
+20
+applicable to a request for a court order to re-
+21
+quire a comparable disclosure by a provider of 
+22
+remote computing service or a provider of elec-
+23
+tronic communication service to the public of a 
+24
+02:28 Jun 04, 2021
+H2738
+11 
+•HR 2738 IH
+record of a customer or subscriber of the pro-
+1
+vider.’’. 
+2
+SEC. 4. INTERMEDIARY SERVICE PROVIDERS. 
+3
+(a) DEFINITION.—Section 2711 of title 18, United 
+4
+States Code, is amended— 
+5
+(1) in paragraph (3), by striking ‘‘and’’ at the 
+6
+end; 
+7
+(2) in paragraph (4), by striking the period at 
+8
+the end and inserting ‘‘; and’’; and 
+9
+(3) by adding at the end the following: 
+10
+‘‘(5) the term ‘intermediary service provider’ 
+11
+means an entity or facilities owner or operator that 
+12
+directly or indirectly delivers, stores, or processes 
+13
+communications for or on behalf of a provider of 
+14
+electronic communication service to the public or a 
+15
+provider of remote computing service.’’. 
+16
+(b) PROHIBITION.—Section 2702(a) of title 18, 
+17
+United States Code, is amended— 
+18
+(1) in paragraph (1), by striking ‘‘and’’ at the 
+19
+end; 
+20
+(2) in paragraph (2), by striking ‘‘and’’ at the 
+21
+end; 
+22
+(3) in paragraph (3), by striking the period at 
+23
+the end and inserting ‘‘; and’’; and 
+24
+(4) by adding at the end the following: 
+25
+02:28 Jun 04, 2021
+H2738
+12 
+•HR 2738 IH
+‘‘(4) an intermediary service provider shall not 
+1
+knowingly divulge— 
+2
+‘‘(A) to any person or entity the contents 
+3
+of a communication while in electronic storage 
+4
+by that provider; or 
+5
+‘‘(B) to any governmental entity a record 
+6
+or other information pertaining to a subscriber 
+7
+to or customer of, a recipient of a communica-
+8
+tion from a subscriber to or customer of, or the 
+9
+sender of a communication to a subscriber to or 
+10
+customer of, the provider of electronic commu-
+11
+nication service to the public or the provider of 
+12
+remote computing service for, or on behalf of, 
+13
+which the intermediary service provider directly 
+14
+or indirectly delivers, transmits, stores, or proc-
+15
+esses communications.’’. 
+16
+SEC. 5. LIMITS ON SURVEILLANCE CONDUCTED FOR FOR-
+17
+EIGN 
+INTELLIGENCE 
+PURPOSES 
+OTHER 
+18
+THAN UNDER THE FOREIGN INTELLIGENCE 
+19
+SURVEILLANCE ACT OF 1978. 
+20
+(a) IN GENERAL.—Section 2511(2)(f) of title 18, 
+21
+United States Code, is amended to read as follows: 
+22
+‘‘(f)(i)(A) Nothing contained in this chapter, chapter 
+23
+121 or 206 of this title, or section 705 of the Communica-
+24
+tions Act of 1934 (47 U.S.C. 151 et seq.) shall be deemed 
+25
+02:28 Jun 04, 2021
+H2738
+13 
+•HR 2738 IH
+to affect an acquisition or activity described in clause (B) 
+1
+that is carried out utilizing a means other than electronic 
+2
+surveillance, as defined in section 101 of the Foreign In-
+3
+telligence Surveillance Act of 1978 (50 U.S.C. 1801). 
+4
+‘‘(B) An acquisition or activity described in this 
+5
+clause is— 
+6
+‘‘(I) an acquisition by the United States Gov-
+7
+ernment of foreign intelligence information from 
+8
+international or foreign communications that— 
+9
+‘‘(aa) is acquired pursuant to express stat-
+10
+utory authority; or 
+11
+‘‘(bb) only includes information of persons 
+12
+who are not United States persons and are lo-
+13
+cated outside the United States; or 
+14
+‘‘(II) a foreign intelligence activity involving a 
+15
+foreign electronic communications system that— 
+16
+‘‘(aa) is conducted pursuant to express 
+17
+statutory authority; or 
+18
+‘‘(bb) only involves the acquisition by the 
+19
+United States Government of information of 
+20
+persons who are not United States persons and 
+21
+are located outside the United States. 
+22
+‘‘(ii) The procedures in this chapter, chapter 121, 
+23
+and the Foreign Intelligence Surveillance Act of 1978 (50 
+24
+U.S.C. 1801 et seq.) shall be the exclusive means by which 
+25
+02:28 Jun 04, 2021
+H2738
+14 
+•HR 2738 IH
+electronic surveillance, as defined in section 101 of such 
+1
+Act, and the interception of domestic wire, oral, and elec-
+2
+tronic communications may be conducted.’’. 
+3
+(b) EXCLUSIVE MEANS RELATED TO COMMUNICA-
+4
+TIONS RECORDS.—The Foreign Intelligence Surveillance 
+5
+Act of 1978 (50 U.S.C. 1801 et seq.) shall be the exclusive 
+6
+means by which electronic communications transactions 
+7
+records, call detail records, or other information from com-
+8
+munications of United States persons or persons inside the 
+9
+United States are acquired for foreign intelligence pur-
+10
+poses inside the United States or from a person or entity 
+11
+located in the United States that provides telecommuni-
+12
+cations, electronic communication, or remote computing 
+13
+services. 
+14
+(c) EXCLUSIVE MEANS RELATED TO LOCATION IN-
+15
+FORMATION, WEB BROWSING HISTORY, AND INTERNET 
+16
+SEARCH HISTORY.— 
+17
+(1) DEFINITION.—In this subsection, the term 
+18
+‘‘location information’’ has the meaning given that 
+19
+term in subsection (e) of section 2702 of title 18, 
+20
+United States Code, as added by section 2 of this 
+21
+Act. 
+22
+(2) EXCLUSIVE MEANS.—Title I and sections 
+23
+303, 304, 703, 704, and 705 of the Foreign Intel-
+24
+ligence Surveillance Act of 1978 (50 U.S.C. 1801 et 
+25
+02:28 Jun 04, 2021
+H2738
+15 
+•HR 2738 IH
+seq., 1823, 1824, 1881b, 1881c, 1881d) shall be the 
+1
+exclusive means by which location information, web 
+2
+browsing history, and internet search history of 
+3
+United States persons or persons inside the United 
+4
+States are acquired for foreign intelligence purposes 
+5
+inside the United States or from a person or entity 
+6
+located in the United States. 
+7
+(d) EXCLUSIVE
+MEANS
+RELATED
+TO
+FOURTH 
+8
+AMENDMENT-PROTECTED INFORMATION.—Title I and 
+9
+sections 303, 304, 703, 704, and 705 of the Foreign Intel-
+10
+ligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq., 
+11
+1823, 1824, 1881b, 1881c, 1881d) shall be the exclusive 
+12
+means by which any information, records, data, or tangible 
+13
+things are acquired for foreign intelligence purposes from 
+14
+a person or entity located in the United States if the com-
+15
+pelled production of such information, records, data, or 
+16
+tangible things would require a warrant for law enforce-
+17
+ment purposes. 
+18
+(e) DEFINITION.—In this section, the term ‘‘United 
+19
+States person’’ has the meaning given that term in section 
+20
+101 of the Foreign Intelligence Surveillance Act of 1978 
+21
+(50 U.S.C. 1801). 
+22
+02:28 Jun 04, 2021
+H2738
+16 
+•HR 2738 IH
+SEC. 6. LIMIT ON CIVIL IMMUNITY FOR PROVIDING INFOR-
+1
+MATION, FACILITIES, OR TECHNICAL ASSIST-
+2
+ANCE 
+TO 
+THE 
+GOVERNMENT 
+ABSENT 
+A 
+3
+COURT ORDER. 
+4
+Section 2511(2)(a) of title 18, United States Code, 
+5
+is amended— 
+6
+(1) in subparagraph (ii), by striking clause (B) 
+7
+and inserting the following: 
+8
+‘‘(B) a certification in writing— 
+9
+‘‘(I) by a person specified in section 
+10
+2518(7) or the Attorney General of the United 
+11
+States; 
+12
+‘‘(II) that the requirements for an emer-
+13
+gency authorization to intercept a wire, oral, or 
+14
+electronic communication under section 2518(7) 
+15
+have been met; and 
+16
+‘‘(III) that the specified assistance is re-
+17
+quired,’’; and 
+18
+(2) by striking subparagraph (iii) and inserting 
+19
+the following: 
+20
+‘‘(iii) For assistance provided pursuant to a certifi-
+21
+cation under subparagraph (ii)(B), the limitation on 
+22
+causes of action under the last sentence of the matter fol-
+23
+lowing subparagraph (ii)(B) shall only apply to the extent 
+24
+that the assistance ceased at the earliest of the time the 
+25
+application for a court order was denied, the time the com-
+26
+02:28 Jun 04, 2021
+H2738
+17 
+•HR 2738 IH
+munication sought was obtained, or 48 hours after the 
+1
+interception began.’’. 
+2
+Æ 
+02:28 Jun 04, 2021
+H2738

@@ -1,0 +1,579 @@
+A BILL 
+To amend the Internal Revenue Code of 1986 to provide 
+tax credits for microgrid property. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Making Imperiled 
+4
+Communities Resistant to Outages with Generation that 
+5
+is Resilient, Islandable, and Distributed Act’’ or as the 
+6
+‘‘MICROGRID Act’’. 
+7
+SEC. 2. TAX CREDITS FOR MICROGRID PROPERTY. 
+8
+(a) IN GENERAL.—Subpart E of part IV of sub-
+9
+chapter A of chapter 1 of the Internal Revenue Code of 
+10
+03:05 Jun 08, 2021
+H2482
+2 
+•HR 2482 IH
+1986 is amended by inserting after section 48C the fol-
+1
+lowing new section: 
+2
+‘‘SEC. 48D. MICROGRID PROPERTY. 
+3
+‘‘(a) IN GENERAL.—For purposes of section 46, the 
+4
+microgrid property credit for any taxable year is an 
+5
+amount equal to the applicable percentage of the basis of 
+6
+the qualified microgrid property placed in service by the 
+7
+taxpayer during such taxable year. 
+8
+‘‘(b) APPLICABLE PERCENTAGE.—For purposes of 
+9
+this section— 
+10
+‘‘(1) IN GENERAL.—The term ‘applicable per-
+11
+centage’ means, with respect to qualified microgrid 
+12
+property which is part of any qualified microgrid, 
+13
+the percentage determined in accordance with the 
+14
+following table determined with respect to the cal-
+15
+endar year in which construction of such qualified 
+16
+microgrid begins: 
+17
+‘‘In the case of calendar year: 
+The applicable 
+percentage is: 
+2025 or any prior calendar year ............................
+30 percent 
+2026 .......................................................................
+26 percent 
+2027 .......................................................................
+22 percent 
+2028 .......................................................................
+10 percent. 
+‘‘(2) TREATMENT
+OF
+CONVERSIONS.—In the 
+18
+case of any system which is converted into a quali-
+19
+fied microgrid, the construction of such microgrid 
+20
+shall be treated for purposes of this subsection as 
+21
+03:05 Jun 08, 2021
+H2482
+3 
+•HR 2482 IH
+beginning on the date on which such conversion be-
+1
+gins. 
+2
+‘‘(c) QUALIFIED MICROGRID PROPERTY.—For pur-
+3
+poses of this section— 
+4
+‘‘(1) 
+IN
+GENERAL.—The 
+term 
+‘qualified 
+5
+microgrid property’ means any qualified property— 
+6
+‘‘(A) which is part of a qualified microgrid, 
+7
+‘‘(B) either— 
+8
+‘‘(i) the construction, reconstruction, 
+9
+or erection of which is completed by the 
+10
+taxpayer, or 
+11
+‘‘(ii) which is acquired by the taxpayer 
+12
+if the original use of such property com-
+13
+mences with the taxpayer, 
+14
+‘‘(C) which is not part of a bulk-power sys-
+15
+tem (as defined in section 215 of the Federal 
+16
+Power Act (16 U.S.C. 824o)), and 
+17
+‘‘(D) with respect to which depreciation (or 
+18
+amortization in lieu of depreciation) is allow-
+19
+able. 
+20
+‘‘(2) QUALIFIED MICROGRID.—The term ‘quali-
+21
+fied microgrid’ means an electrical system which— 
+22
+‘‘(A) incorporates a microgrid controller, 
+23
+03:05 Jun 08, 2021
+H2482
+4 
+•HR 2482 IH
+‘‘(B) includes equipment which is capable 
+1
+of generating not less than 4 kilowatts and not 
+2
+greater than 50 megawatts of electricity, 
+3
+‘‘(C) is capable of operating in connection 
+4
+with the electrical grid and as a single control-
+5
+lable entity with respect to such grid, and 
+6
+‘‘(D) is capable of operating independently 
+7
+(and disconnected) from such grid. 
+8
+‘‘(3) QUALIFIED PROPERTY.— 
+9
+‘‘(A) IN
+GENERAL.—The term ‘qualified 
+10
+property’ means— 
+11
+‘‘(i) microgrid controllers, and 
+12
+‘‘(ii) 
+electric 
+distribution 
+and 
+13
+switchgear property. 
+14
+‘‘(B) 
+ADDITIONAL
+CONSIDERATIONS.— 
+15
+Upon consultation with the Secretary of En-
+16
+ergy, the Secretary may determine that a quali-
+17
+fied property under this section includes prop-
+18
+erty connected to the bulk power system (as de-
+19
+fined in section 215 of the Federal Power Act 
+20
+(16 U.S.C. 824o)). 
+21
+‘‘(4) 
+MICROGRID
+CONTROLLER.—The 
+term 
+22
+‘microgrid controller’ means, with respect to oper-
+23
+ation and islanding of a qualified microgrid, the 
+24
+equipment which is necessary to monitor and control 
+25
+03:05 Jun 08, 2021
+H2482
+5 
+•HR 2482 IH
+the energy resources and loads on such microgrid to 
+1
+maintain acceptable frequency, voltage, or economic 
+2
+dispatch. Such term includes any software and net-
+3
+working hardware necessary to the operation of such 
+4
+equipment. 
+5
+‘‘(5) 
+ELECTRIC
+DISTRIBUTION
+AND 
+6
+SWITCHGEAR
+PROPERTY.—The term ‘electric dis-
+7
+tribution and switchgear property’ means, with re-
+8
+spect to operation and islanding of a qualified 
+9
+microgrid, the equipment which is necessary to de-
+10
+liver electric power from energy resources on such 
+11
+microgrid to loads on the same such microgrid. Such 
+12
+term includes breakers, fuses, wires, switchgear cabi-
+13
+nets and bussing, paralleling switchgear, trans-
+14
+formers, power quality correction equipment, trans-
+15
+fer switches, disconnects, protective relays, metering 
+16
+equipment, and wired and wireless communications 
+17
+equipment necessary to the operation of such 
+18
+microgrid. 
+19
+‘‘(6) TREATMENT
+OF
+SPARE
+PARTS.—Any 
+20
+qualified property which is held by the taxpayer as 
+21
+a spare part for possible replacement of qualified 
+22
+property which is part of a qualified microgrid shall 
+23
+not fail to be treated as part of such microgrid for 
+24
+purposes of this section. 
+25
+03:05 Jun 08, 2021
+H2482
+6 
+•HR 2482 IH
+‘‘(d) SPECIAL RULES.— 
+1
+‘‘(1) CERTAIN PROGRESS EXPENDITURE RULES 
+2
+MADE APPLICABLE.—Rules similar to the rules of 
+3
+subsections (c)(4) and (d) of section 46 (as in effect 
+4
+on the day before the date of the enactment of the 
+5
+Revenue Reconciliation Act of 1990) shall apply for 
+6
+purposes of this section. 
+7
+‘‘(2) DENIAL OF DOUBLE BENEFIT.—No credit 
+8
+shall be determined under this section with respect 
+9
+to the basis of any property if a credit is determined 
+10
+under any other section of this title with respect to 
+11
+such basis. 
+12
+‘‘(e) ALLOWANCE OF PERSONAL CREDIT FOR RESI-
+13
+DENTIAL
+MICROGRIDS.—In the case of a qualified 
+14
+microgrid placed in service by any individual in the resi-
+15
+dence of such individual— 
+16
+‘‘(1) this section shall be applied without regard 
+17
+to subparagraph (C) of subsection (c)(1), and 
+18
+‘‘(2) the microgrid property credit determined 
+19
+under this section for any taxable year with respect 
+20
+to qualified microgrid property (determined after ap-
+21
+plication of paragraph (1)) which is part of such 
+22
+qualified microgrid shall be taken into account as an 
+23
+increase in the amount of the credit otherwise allow-
+24
+03:05 Jun 08, 2021
+H2482
+7 
+•HR 2482 IH
+able to the taxpayer under section 25D for such tax-
+1
+able year. 
+2
+‘‘(f) TERMINATION.—No credit shall be determined 
+3
+under this section with respect to any property placed in 
+4
+service after December 31, 2028.’’. 
+5
+(b) ELECTIVE PAYMENT OF CREDIT.—Subchapter B 
+6
+of chapter 65 of such Code is amended by adding at the 
+7
+end the following new section: 
+8
+‘‘SEC. 6431. ELECTIVE PAYMENT OF MICROGRID PROPERTY 
+9
+CREDIT. 
+10
+‘‘(a) ENERGY PROPERTY.—In the case of an eligible 
+11
+person making an election (at such time and in such man-
+12
+ner as the Secretary may provide) under this section with 
+13
+respect to any portion of the credit determined under sec-
+14
+tion 48D (determined without regard to subsection (d) of 
+15
+this section) or any portion of the credit allowed under 
+16
+section 25D by reason of section 48D(e) (as so deter-
+17
+mined), such eligible person shall be treated as making 
+18
+a payment against the tax imposed by subtitle A for the 
+19
+taxable year equal to the portion to which such election 
+20
+applies. 
+21
+‘‘(b) DEFINITIONS AND SPECIAL RULES.—For pur-
+22
+poses of this section— 
+23
+‘‘(1) ELIGIBLE
+PERSON.—The term ‘eligible 
+24
+person’ means— 
+25
+03:05 Jun 08, 2021
+H2482
+8 
+•HR 2482 IH
+‘‘(A) any organization exempt from tax 
+1
+under section 501(a), 
+2
+‘‘(B) any State or local government, or a 
+3
+political subdivision thereof, or any agency, au-
+4
+thority, or instrumentality of any one or more 
+5
+of the foregoing, or any corporation which is 
+6
+wholly owned, directly or indirectly, by any one 
+7
+or more of the foregoing, 
+8
+‘‘(C) any Indian tribal government, 
+9
+‘‘(D) any organization described in section 
+10
+1381(a)(2), and 
+11
+‘‘(E) any not-for-profit electric utility 
+12
+which had or has received a loan or loan guar-
+13
+antee under the Rural Electrification Act of 
+14
+1936. 
+15
+‘‘(2) INDIAN TRIBAL GOVERNMENT.—The term 
+16
+‘Indian tribal government’ shall have the meaning 
+17
+given such term by section 139E. 
+18
+‘‘(3) 
+DETERMINATION
+OF
+CREDITS.—The 
+19
+amount of any credit described in subsection (a) 
+20
+which is treated as allowed to any eligible person 
+21
+shall be determined for purposes of such subsection 
+22
+in the same manner as though such eligible person 
+23
+were subject to the tax imposed under chapter 1. 
+24
+03:05 Jun 08, 2021
+H2482
+9 
+•HR 2482 IH
+‘‘(4) TIMING.—The payment described in sub-
+1
+section (a) shall be treated as made on— 
+2
+‘‘(A) in the case of any government, or po-
+3
+litical subdivision, to which paragraph (1) ap-
+4
+plies and for which no return is required under 
+5
+section 6011 or 6033(a), the later of the date 
+6
+that a return would be due under section 
+7
+6033(a) if such government or subdivision were 
+8
+described in that section or the date on which 
+9
+such government or subdivision submits a claim 
+10
+for credit or refund (at such time and in such 
+11
+manner as the Secretary shall provide), and 
+12
+‘‘(B) in any other case, the later of the due 
+13
+date of the return of tax for the taxable year 
+14
+or the date on which such return is filed. 
+15
+‘‘(5) WAIVER OF SPECIAL RULES.—In the case 
+16
+of an election under this section, the determination 
+17
+of any applicable credit shall be without regard to 
+18
+paragraphs (3) and (4)(A)(i) of section 50(b). 
+19
+‘‘(6) GOVERNMENTAL
+ENTITIES
+TREATED
+AS 
+20
+TAXPAYERS.—In the case of an election under this 
+21
+section— 
+22
+‘‘(A) any State or local government, or a 
+23
+political subdivision thereof, or 
+24
+‘‘(B) any Indian tribal government, 
+25
+03:05 Jun 08, 2021
+H2482
+10 
+•HR 2482 IH
+shall, to the extent not a taxpayer as defined under 
+1
+section 7701(a)(14), be treated as a taxpayer for 
+2
+purposes of this section and determining any appli-
+3
+cable credit. 
+4
+‘‘(c) EXCLUSION FROM GROSS INCOME.—Gross in-
+5
+come of the taxpayer shall be determined without regard 
+6
+to this section. 
+7
+‘‘(d) DENIAL OF DOUBLE BENEFIT.—The credit oth-
+8
+erwise determined under section 45D (and the credit oth-
+9
+erwise allowed under section 25D by reason of section 
+10
+48D(e)), determined without regard to this subsection, 
+11
+shall be reduced by the amount of the portion of such 
+12
+credits with respect to which the taxpayer makes the elec-
+13
+tion under subsection (a).’’. 
+14
+(c) CONFORMING AMENDMENTS.— 
+15
+(1) Section 46 of such Code is amended by 
+16
+striking ‘‘and’’ at the end of paragraph (5), by strik-
+17
+ing the period at the end of paragraph (6) and in-
+18
+serting ‘‘, and’’, and by adding at the end the fol-
+19
+lowing new paragraph: 
+20
+‘‘(7) the microgrid property credit.’’. 
+21
+(2) Section 49(a)(1)(C) of such Code is amend-
+22
+ed by striking ‘‘and’’ at the end of clause (iv), by 
+23
+striking the period at the end of clause (v) and in-
+24
+03:05 Jun 08, 2021
+H2482
+11 
+•HR 2482 IH
+serting a comma, and by adding at the end the fol-
+1
+lowing new clause: 
+2
+‘‘(vi) the basis of any qualified 
+3
+microgrid property under section 48D.’’. 
+4
+(3) Section 50(a)(2)(E) of such Code is amend-
+5
+ed by striking ‘‘or 48C(b)(2)’’ and inserting 
+6
+‘‘48C(b)(2), or 48D(d)(1)’’. 
+7
+(4) The table of sections for subpart E of part 
+8
+IV of subchapter A of chapter 1 of such Code is 
+9
+amended by inserting after the item relating to sec-
+10
+tion 48C the following new item: 
+11
+‘‘Sec. 48D. Microgrid property.’’. 
+(5) The table of sections for subchapter B of 
+12
+chapter 65 of such Code is amended by adding at 
+13
+the end the following new item: 
+14
+‘‘Sec. 6431. Elective payment of microgrid property credit.’’. 
+(d) EFFECTIVE DATE.—The amendments made by 
+15
+this section shall apply to periods after December 31, 
+16
+2020, under rules similar to the rules of section 48(m) 
+17
+(as in effect on the day before the date of the enactment 
+18
+of the Revenue Reconciliation Act of 1990). 
+19
+Æ 
+03:05 Jun 08, 2021
+H2482

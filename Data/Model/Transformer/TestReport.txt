@@ -1,0 +1,27 @@
+                                   precision    recall  f1-score   support
+
+                   Administration       0.84      0.86      0.85        83
+                      Agriculture       0.84      0.90      0.87        69
+                   Appropriations       0.89      0.70      0.78        23
+                   Armed Services       0.91      0.90      0.91       113
+                           Budget       1.00      0.90      0.95        10
+              Education and Labor       0.96      0.89      0.92       288
+              Energy And Commerce       0.92      0.90      0.91       564
+                           Ethics       1.00      1.00      1.00         5
+               Financial Services       0.91      0.91      0.91       192
+                  Foreign Affairs       0.93      0.94      0.93       221
+                Homeland Security       0.84      0.84      0.84        50
+                     Intelligence       0.88      0.88      0.88         8
+                        Judiciary       0.89      0.93      0.91       407
+                Natural Resources       0.93      0.93      0.93       199
+             Oversight and Reform       0.87      0.84      0.85       231
+                            Rules       1.00      0.84      0.91        19
+   Science, Space, And Technology       0.75      0.80      0.78        50
+                   Small Business       0.87      0.94      0.90        48
+Transportation And Infrastructure       0.90      0.86      0.88       182
+                Veterans' Affairs       0.95      0.97      0.96       131
+                   Ways And Means       0.90      0.94      0.92       330
+
+                         accuracy                           0.90      3223
+                        macro avg       0.90      0.89      0.89      3223
+                     weighted avg       0.91      0.90      0.90      3223

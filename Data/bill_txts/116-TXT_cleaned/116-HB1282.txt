@@ -1,0 +1,1913 @@
+A BILL 
+To require certain entities who collect and maintain personal 
+information of individuals to secure such information 
+and to provide notice to such individuals in the case 
+of a breach of security involving such information, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Data Accountability 
+4
+and Trust Act’’. 
+5
+21:35 Mar 01, 2019
+H1282
+2 
+•HR 1282 IH
+SEC. 2. REQUIREMENTS FOR INFORMATION SECURITY. 
+1
+(a) GENERAL SECURITY POLICIES
+AND PROCE-
+2
+DURES.— 
+3
+(1) REGULATIONS.—Not later than 1 year after 
+4
+the date of enactment of this Act, the Commission 
+5
+shall promulgate regulations under section 553 of 
+6
+title 5, United States Code, that require each cov-
+7
+ered entity to establish and implement policies and 
+8
+procedures regarding information security practices 
+9
+for the treatment and protection of personal infor-
+10
+mation taking into consideration— 
+11
+(A) the size of and the nature, scope, and 
+12
+complexity of the activities engaged in by such 
+13
+covered entity; 
+14
+(B) the sensitivity of any personal informa-
+15
+tion at issue; 
+16
+(C) the current state of the art in adminis-
+17
+trative, technical, and physical safeguards for 
+18
+protecting such information; and 
+19
+(D) the cost of implementing such safe-
+20
+guards. 
+21
+(2) REQUIREMENTS.—The regulations required 
+22
+pursuant to paragraph (1) shall include a require-
+23
+ment that the policies and procedures include the 
+24
+following: 
+25
+21:35 Mar 01, 2019
+H1282
+3 
+•HR 1282 IH
+(A) A written security policy with respect 
+1
+to the collection, use, sale, other dissemination, 
+2
+and maintenance of the personal information. 
+3
+(B) The identification of an officer or 
+4
+other individual as the point of contact with re-
+5
+sponsibility for the management of information 
+6
+security. 
+7
+(C) A process for identifying and assessing 
+8
+any reasonably foreseeable vulnerability in any 
+9
+system maintained by the covered entity that 
+10
+contains such data, including regular moni-
+11
+toring for a breach of security of any such sys-
+12
+tem. 
+13
+(D) A process for— 
+14
+(i) taking preventive and corrective 
+15
+action to mitigate against any vulnerability 
+16
+identified in the process required by sub-
+17
+paragraph (C), which may include imple-
+18
+menting any changes to security practices 
+19
+and the architecture, installation, or imple-
+20
+mentation of network or operating soft-
+21
+ware; and 
+22
+(ii) regularly testing or otherwise 
+23
+monitoring the effectiveness of the key con-
+24
+21:35 Mar 01, 2019
+H1282
+4 
+•HR 1282 IH
+trols, systems, and procedures of the safe-
+1
+guards. 
+2
+(E) A process for disposing of data con-
+3
+taining personal information by shredding, per-
+4
+manently erasing, or otherwise modifying the 
+5
+personal information contained in such data to 
+6
+make such personal information permanently 
+7
+unreadable or undecipherable. 
+8
+(F) A process for overseeing persons to 
+9
+whom personal information is disclosed, or who 
+10
+have access to internet-connected devices, by— 
+11
+(i) taking reasonable steps to select 
+12
+and retain persons that are capable of 
+13
+maintaining appropriate safeguards for the 
+14
+personal information or internet-connected 
+15
+devices at issue; and 
+16
+(ii) requiring all such persons to im-
+17
+plement and maintain such safeguards. 
+18
+(3) TREATMENT OF ENTITIES GOVERNED BY 
+19
+OTHER FEDERAL LAW.—Any covered entity who is 
+20
+in compliance with any other Federal law that re-
+21
+quires the covered entity to maintain standards and 
+22
+safeguards for information security and protection of 
+23
+personal information that, taken as a whole and as 
+24
+the Commission shall determine in the rulemaking 
+25
+21:35 Mar 01, 2019
+H1282
+5 
+•HR 1282 IH
+required under this subsection, provide protections 
+1
+substantially similar to, or greater than, those re-
+2
+quired under this subsection, shall be deemed to be 
+3
+in compliance with this subsection. 
+4
+(b) SPECIAL REQUIREMENTS
+FOR INFORMATION 
+5
+BROKERS.— 
+6
+(1) SUBMISSION OF POLICIES TO THE FTC.— 
+7
+The regulations promulgated pursuant to subsection 
+8
+(a) shall include a requirement for an information 
+9
+broker to submit each security policy of the broker 
+10
+to the Commission in conjunction with a notification 
+11
+of a breach of security under section 3 or upon re-
+12
+quest of the Commission. 
+13
+(2) POST-BREACH AUDIT.—For any information 
+14
+broker required to provide notification under section 
+15
+3, the Commission may conduct audits of the infor-
+16
+mation security practices of such information broker, 
+17
+or require the information broker to conduct inde-
+18
+pendent audits of such practices (by an independent 
+19
+auditor who has not audited the information bro-
+20
+ker’s security practices during the preceding 5 
+21
+years). 
+22
+(3) ACCURACY OF AND INDIVIDUAL ACCESS TO 
+23
+PERSONAL INFORMATION.—The regulations promul-
+24
+21:35 Mar 01, 2019
+H1282
+6 
+•HR 1282 IH
+gated pursuant to subsection (a) shall include a re-
+1
+quirement for the following: 
+2
+(A) ACCURACY.— 
+3
+(i) IN
+GENERAL.—Each information 
+4
+broker to establish reasonable procedures 
+5
+to assure the maximum possible accuracy 
+6
+of the personal information the informa-
+7
+tion broker collects, assembles, or main-
+8
+tains, and any other information the infor-
+9
+mation broker collects, assembles, or main-
+10
+tains that specifically identifies an indi-
+11
+vidual, other than information which mere-
+12
+ly identifies an individual’s name or ad-
+13
+dress. 
+14
+(ii) LIMITED EXCEPTION FOR FRAUD 
+15
+DATABASES.—The requirement in clause 
+16
+(i) shall not prevent the collection or main-
+17
+tenance of information that may be inac-
+18
+curate with respect to a particular indi-
+19
+vidual when that information is being col-
+20
+lected or maintained solely— 
+21
+(I) for the purpose of indicating 
+22
+whether there may be a discrepancy 
+23
+or irregularity in the personal infor-
+24
+21:35 Mar 01, 2019
+H1282
+7 
+•HR 1282 IH
+mation that is associated with an indi-
+1
+vidual; and 
+2
+(II) to help identify, or authen-
+3
+ticate the identity of, an individual, or 
+4
+to protect against or investigate fraud 
+5
+or other unlawful conduct. 
+6
+(B) CONSUMER
+ACCESS
+TO
+INFORMA-
+7
+TION.—Each information broker to— 
+8
+(i) provide to each individual whose 
+9
+personal 
+information 
+the 
+information 
+10
+broker maintains (at the individual’s re-
+11
+quest at least once per year, at no cost to 
+12
+the individual, and after verifying the iden-
+13
+tity of the individual), a means for the in-
+14
+dividual to review any personal information 
+15
+regarding such individual maintained by 
+16
+the information broker and any other in-
+17
+formation maintained by the information 
+18
+broker that specifically identifies the indi-
+19
+vidual, other than information which mere-
+20
+ly identifies an individual’s name or ad-
+21
+dress; and 
+22
+(ii) place a conspicuous notice on the 
+23
+internet website of the information broker 
+24
+(if the information broker maintains such 
+25
+21:35 Mar 01, 2019
+H1282
+8 
+•HR 1282 IH
+a website) instructing individuals how to 
+1
+request access to the information required 
+2
+to be provided under clause (i), and, as ap-
+3
+plicable, how to express a preference with 
+4
+respect to the use of personal information 
+5
+for marketing purposes. 
+6
+(C) DISPUTED INFORMATION.— 
+7
+(i) IN GENERAL.—Whenever an indi-
+8
+vidual whose information the information 
+9
+broker maintains makes a written request 
+10
+disputing the accuracy of the information, 
+11
+the information broker, after verifying the 
+12
+identity of the individual making such re-
+13
+quest and unless there are reasonable 
+14
+grounds to believe such request is frivolous 
+15
+or irrelevant, to— 
+16
+(I) correct any inaccuracy; or 
+17
+(II) in the case of information 
+18
+that is— 
+19
+(aa) public record informa-
+20
+tion, inform the individual of the 
+21
+source of the information, and, if 
+22
+reasonably available, where a re-
+23
+quest for correction may be di-
+24
+rected and, if the individual pro-
+25
+21:35 Mar 01, 2019
+H1282
+9 
+•HR 1282 IH
+vides proof that the public record 
+1
+has been corrected or that the in-
+2
+formation broker was reporting 
+3
+the information incorrectly, cor-
+4
+rect the inaccuracy in the infor-
+5
+mation broker’s records; or 
+6
+(bb) nonpublic information, 
+7
+note the information that is dis-
+8
+puted, including the individual’s 
+9
+statement disputing such infor-
+10
+mation, 
+and 
+take 
+reasonable 
+11
+steps to independently verify such 
+12
+information under the procedures 
+13
+outlined in subparagraph (A) if 
+14
+such information can be inde-
+15
+pendently verified. 
+16
+(ii) STRUCTURE FOR DISPUTE PROC-
+17
+ESS.—A basic structure for the dispute 
+18
+process described in clause (i) which shall 
+19
+be in writing, require an online option for 
+20
+the submission of a dispute, and provide 
+21
+an electronic receipt acknowledging the 
+22
+submission. 
+23
+(D) LIMITATIONS.—A provision, including 
+24
+the scope of the application, that allows an in-
+25
+21:35 Mar 01, 2019
+H1282
+10 
+•HR 1282 IH
+formation broker to limit the access to informa-
+1
+tion required under subparagraph (B)(i) and is 
+2
+not required to provide notice to individuals as 
+3
+required under subparagraph (B)(ii) in the fol-
+4
+lowing circumstances: 
+5
+(i) If access of the individual to the 
+6
+information is limited by law or legally rec-
+7
+ognized privilege. 
+8
+(ii) If the information is used for a le-
+9
+gitimate governmental or fraud prevention 
+10
+purpose that would be compromised by 
+11
+such access. 
+12
+(iii) If the information consists of in-
+13
+formation already made available to the 
+14
+public, unless that record has been in-
+15
+cluded in a report about an individual 
+16
+shared with a third party. 
+17
+(iv) Any other circumstance in which 
+18
+an information broker may limit access to 
+19
+information that the Commission deter-
+20
+mines to be appropriate. 
+21
+(E) FCRA REGULATED PERSONS.—A pro-
+22
+vision that any information broker that is en-
+23
+gaged in activities subject to the Fair Credit 
+24
+Reporting Act and who is in compliance with 
+25
+21:35 Mar 01, 2019
+H1282
+11 
+•HR 1282 IH
+sections 609, 610, and 611 of such Act (15 
+1
+U.S.C. 1681g; 1681h; 1681i) with respect to in-
+2
+formation subject to such Act is deemed to be 
+3
+in compliance with this paragraph with respect 
+4
+to such information. 
+5
+(F) REQUIREMENT
+OF
+AUDIT
+LOG
+OF 
+6
+ACCESSED AND TRANSMITTED INFORMATION.— 
+7
+Each information broker to establish measures 
+8
+which facilitate the auditing or retracing of any 
+9
+internal or external access to, or transmissions 
+10
+of, any data containing personal information 
+11
+collected, assembled, or maintained by such in-
+12
+formation broker. 
+13
+(4) PROHIBITION ON PRETEXTING BY INFOR-
+14
+MATION
+BROKERS.—The regulations promulgated 
+15
+pursuant to subsection (a) shall include a prohibition 
+16
+on the following: 
+17
+(A) PROHIBITION
+ON
+OBTAINING
+PER-
+18
+SONAL INFORMATION BY FALSE PRETENSES.— 
+19
+An information broker to obtain, attempt to ob-
+20
+tain, cause to be disclosed, or attempt to cause 
+21
+to be disclosed to any person, personal informa-
+22
+tion or any other information relating to any 
+23
+person by— 
+24
+21:35 Mar 01, 2019
+H1282
+12 
+•HR 1282 IH
+(i) making a false, fictitious, or fraud-
+1
+ulent statement or representation to any 
+2
+person; or 
+3
+(ii) providing any document or other 
+4
+information to any person that the infor-
+5
+mation broker knows or should know— 
+6
+(I) to be forged, counterfeit, lost, 
+7
+stolen, or fraudulently obtained; or 
+8
+(II) to contain a false, fictitious, 
+9
+or fraudulent statement or representa-
+10
+tion. 
+11
+(B) PROHIBITION
+ON
+SOLICITATION
+TO 
+12
+OBTAIN PERSONAL INFORMATION UNDER FALSE 
+13
+PRETENSES.—An information broker to request 
+14
+a person to obtain personal information or any 
+15
+other information relating to any other person, 
+16
+if the information broker knew or should have 
+17
+known that the person to whom such a request 
+18
+is made will obtain or attempt to obtain such 
+19
+information in the manner described in sub-
+20
+paragraph (A). 
+21
+SEC. 
+3. 
+NOTIFICATION 
+OF 
+INFORMATION 
+SECURITY 
+22
+BREACH. 
+23
+(a) INDIVIDUAL NOTIFICATION.—Not later than 1 
+24
+year after the date of enactment of this Act, the Commis-
+25
+21:35 Mar 01, 2019
+H1282
+13 
+•HR 1282 IH
+sion shall promulgate regulations under section 553 of 
+1
+title 5, United States Code, that require the following: 
+2
+(1) IN GENERAL.—Each covered entity to, fol-
+3
+lowing the discovery of a breach of security, notify 
+4
+each individual who is a citizen or resident of the 
+5
+United States whose personal information was, or is 
+6
+reasonably believed to have been, acquired or 
+7
+accessed by an unauthorized person, or used for an 
+8
+unauthorized purpose. 
+9
+(2) TIMELINESS OF NOTIFICATION.— 
+10
+(A) IN
+GENERAL.—Unless subject to a 
+11
+delay authorized under subparagraph (B), a no-
+12
+tification required under paragraph (1) shall be 
+13
+made as expeditiously as practicable and with-
+14
+out unreasonable delay, but not later than 30 
+15
+days following the discovery of a breach of secu-
+16
+rity. 
+17
+(B) DELAY OF NOTIFICATION AUTHORIZED 
+18
+FOR LAW ENFORCEMENT OR NATIONAL SECU-
+19
+RITY PURPOSES.— 
+20
+(i) LAW
+ENFORCEMENT.—If a Fed-
+21
+eral or State law enforcement agency, in-
+22
+cluding an attorney general of a State, de-
+23
+termines that the notification required 
+24
+under this section would impede a civil or 
+25
+21:35 Mar 01, 2019
+H1282
+14 
+•HR 1282 IH
+criminal investigation, such notification 
+1
+shall be delayed upon the written request 
+2
+of the law enforcement agency for 30 days 
+3
+or such lesser period of time which the law 
+4
+enforcement agency determines is reason-
+5
+ably necessary and requests in writing. 
+6
+Such law enforcement agency may, by a 
+7
+subsequent written request, revoke such 
+8
+delay or extend the period of time set forth 
+9
+in the original request made under this 
+10
+clause if further delay is necessary. 
+11
+(ii) NATIONAL SECURITY.—If a Fed-
+12
+eral national security agency or homeland 
+13
+security agency determines that the notifi-
+14
+cation required under this section would 
+15
+threaten national or homeland security, 
+16
+such notification may be delayed for a pe-
+17
+riod of time which the national security 
+18
+agency or homeland security agency deter-
+19
+mines is reasonably necessary and requests 
+20
+in writing. A Federal national security 
+21
+agency or homeland security agency may 
+22
+revoke such delay or extend the period of 
+23
+time set forth in the original request made 
+24
+21:35 Mar 01, 2019
+H1282
+15 
+•HR 1282 IH
+under this clause by a subsequent written 
+1
+request if further delay is necessary. 
+2
+(3) COORDINATION
+OF
+NOTIFICATION
+WITH 
+3
+CREDIT REPORTING AGENCIES.—If a covered entity 
+4
+is required to provide notification to more than 
+5
+5,000 individuals under paragraph (1), the covered 
+6
+entity shall also notify the major consumer reporting 
+7
+agencies that compile and maintain files on con-
+8
+sumers on a nationwide basis, of the timing and dis-
+9
+tribution of the notifications. Such notification shall 
+10
+be given to the credit reporting agencies without un-
+11
+reasonable delay and, if such notification will not 
+12
+delay notification to the affected individuals, prior to 
+13
+the distribution of notifications to the affected indi-
+14
+viduals. 
+15
+(4) METHOD
+AND
+CONTENT
+OF
+NOTIFICA-
+16
+TION.— 
+17
+(A) GENERAL NOTIFICATION.—A covered 
+18
+entity required to provide notification to indi-
+19
+viduals under paragraph (1) shall be in compli-
+20
+ance with such requirement if the covered entity 
+21
+provides conspicuous and clearly identified noti-
+22
+fication by one of the following methods (pro-
+23
+vided the selected method can reasonably be ex-
+24
+pected to reach the intended individual): 
+25
+21:35 Mar 01, 2019
+H1282
+16 
+•HR 1282 IH
+(i) Written notification to the last 
+1
+known home mailing address of the indi-
+2
+vidual in the records of the covered entity. 
+3
+(ii) Notification by email or other 
+4
+electronic means, if— 
+5
+(I) the covered entity’s primary 
+6
+method of communication with the in-
+7
+dividual is by email or such other elec-
+8
+tronic means; or 
+9
+(II) the individual has consented 
+10
+to receive such notification and the 
+11
+notification is provided in a manner 
+12
+that is consistent with the provisions 
+13
+permitting electronic transmission of 
+14
+notifications under section 101 of the 
+15
+Electronic Signatures in Global Com-
+16
+merce Act (15 U.S.C. 7001). 
+17
+(B) WEBSITE
+NOTIFICATION.—The cov-
+18
+ered entity shall also provide conspicuous notifi-
+19
+cation on the internet website of the covered en-
+20
+tity (if such covered entity maintains such a 
+21
+website) for a period of not less than 90 days. 
+22
+(C) MEDIA NOTIFICATION.—If the number 
+23
+of residents of a State whose personal informa-
+24
+tion was, or is reasonably believed to have been 
+25
+21:35 Mar 01, 2019
+H1282
+17 
+•HR 1282 IH
+acquired or accessed by an unauthorized per-
+1
+son, or used for an unauthorized purpose ex-
+2
+ceeds 5,000, the covered entity shall also pro-
+3
+vide notification in print and to broadcast 
+4
+media, including major media in metropolitan 
+5
+and rural areas where the individuals whose 
+6
+personal information was, or is reasonably be-
+7
+lieved to have been, acquired or accessed by an 
+8
+unauthorized person, or used for an unauthor-
+9
+ized purpose, reside. 
+10
+(D) CONTENT OF NOTIFICATION.— 
+11
+(i) IN
+GENERAL.—Any notification 
+12
+provided under subparagraph (A), (B), or 
+13
+(C) shall include— 
+14
+(I) a description of the personal 
+15
+information that was, or is reasonably 
+16
+believed to have been, acquired or 
+17
+accessed by an unauthorized person, 
+18
+or used for an unauthorized purpose; 
+19
+(II) a telephone number that the 
+20
+individual may use, at no cost to such 
+21
+individual, to contact the covered enti-
+22
+ty, or agent of the covered entity, to 
+23
+inquire about the breach of security or 
+24
+21:35 Mar 01, 2019
+H1282
+18 
+•HR 1282 IH
+the information the covered entity 
+1
+maintained about that individual; 
+2
+(III) notification that the indi-
+3
+vidual is entitled to receive, at no cost 
+4
+to such individual, consumer credit re-
+5
+ports on a quarterly basis for a period 
+6
+of 10 years, or credit monitoring or 
+7
+other service that enables consumers 
+8
+to detect the misuse of their personal 
+9
+information for a period of 10 years, 
+10
+and instructions to the individual on 
+11
+requesting such reports or service 
+12
+from the covered entity; 
+13
+(IV) the toll-free contact tele-
+14
+phone numbers and addresses for the 
+15
+major credit reporting agencies; and 
+16
+(V) a toll-free telephone number 
+17
+and internet website address for the 
+18
+Commission whereby the individual 
+19
+may obtain information regarding 
+20
+identity theft. 
+21
+(ii) DIRECT
+BUSINESS
+RELATION-
+22
+SHIP.—Any notification provided under 
+23
+this subsection shall identify the covered 
+24
+21:35 Mar 01, 2019
+H1282
+19 
+•HR 1282 IH
+entity that has a direct business relation-
+1
+ship with the individual. 
+2
+(E) SUBSTITUTE NOTIFICATION.—Criteria 
+3
+for determining circumstances under which sub-
+4
+stitute notification may be provided in lieu of 
+5
+direct notification required by subparagraph 
+6
+(A), including criteria for determining if notifi-
+7
+cation under subparagraph (A) is not feasible 
+8
+due to excessive costs to the covered entity re-
+9
+quired to provide such notification relative to 
+10
+the resources of such covered entity and the 
+11
+form and content of substitute notification. 
+12
+(5) NOTIFICATION
+FOR
+LAW
+ENFORCEMENT 
+13
+AND OTHER PURPOSES.—A covered entity to, as ex-
+14
+peditiously as practicable and without unreasonable 
+15
+delay, but not later than 7 days following the dis-
+16
+covery of a breach of security, provide notification of 
+17
+the breach to— 
+18
+(A) the Commission; 
+19
+(B) the Federal Bureau of Investigation; 
+20
+(C) the Secret Service; 
+21
+(D) for common carriers, the Federal 
+22
+Communications Commission; 
+23
+(E) for entities that provide a consumer fi-
+24
+nancial product or service (as defined in section 
+25
+21:35 Mar 01, 2019
+H1282
+20 
+•HR 1282 IH
+1002 of the Consumer Financial Protection Act 
+1
+of 2010 (12 U.S.C. 5481)), the Consumer Fi-
+2
+nancial Protection Bureau; and 
+3
+(F) the attorney general of each State in 
+4
+which the personal information of a resident or 
+5
+residents of the State was, or is reasonably be-
+6
+lieved to have been, acquired or accessed by an 
+7
+unauthorized person, or used for an unauthor-
+8
+ized purpose. 
+9
+(6) 
+OTHER
+OBLIGATIONS
+FOLLOWING 
+10
+BREACH.— 
+11
+(A) IN
+GENERAL.—A covered entity re-
+12
+quired to provide notification under subsection 
+13
+(a) to, upon request of an individual whose per-
+14
+sonal information was included in the breach of 
+15
+security, provide or arrange for the provision of, 
+16
+to each such individual and at no cost to such 
+17
+individual— 
+18
+(i) consumer credit reports from the 
+19
+major credit reporting agencies beginning 
+20
+not later than 60 days following the indi-
+21
+vidual’s request and continuing on a quar-
+22
+terly basis for a period of 10 years there-
+23
+after; or 
+24
+21:35 Mar 01, 2019
+H1282
+21 
+•HR 1282 IH
+(ii) a credit monitoring or other serv-
+1
+ice that enables consumers to detect the 
+2
+misuse of their personal information, be-
+3
+ginning not later than 60 days following 
+4
+the individual’s request and continuing for 
+5
+a period of 10 years. 
+6
+(B) 
+RULEMAKING.—The 
+circumstances 
+7
+under which a covered entity required to pro-
+8
+vide notification under paragraph (1) shall pro-
+9
+vide or arrange for the provision of free con-
+10
+sumer credit reports or credit monitoring or 
+11
+other service to affected individuals. 
+12
+(b) WEBSITE NOTIFICATION.— 
+13
+(1) FEDERAL
+TRADE
+COMMISSION.—If the 
+14
+Commission, upon receiving notification of any 
+15
+breach of security that is reported to the Commis-
+16
+sion under subsection (a)(5)(A), finds that notifica-
+17
+tion of such a breach of security through the website 
+18
+of the Commission would be in the public interest or 
+19
+for the protection of consumers, the Commission 
+20
+shall place such a notification in a clear and con-
+21
+spicuous location on the website. 
+22
+(2) OTHER FEDERAL AGENCY.—If another Fed-
+23
+eral agency (such as the Federal Communications 
+24
+Commission, the Consumer Financial Protection Bu-
+25
+21:35 Mar 01, 2019
+H1282
+22 
+•HR 1282 IH
+reau, or the Department of Justice) receives notice 
+1
+of a breach of security from a covered entity and 
+2
+finds that notification of such a breach of security 
+3
+through the website of the Commission would be in 
+4
+the public interest or for the protection of con-
+5
+sumers, that Federal agency shall place such a noti-
+6
+fication in a clear and conspicuous location on the 
+7
+website of that agency. 
+8
+(c) WEBSITE NOTIFICATION OF STATE ATTORNEYS 
+9
+GENERAL.—If a State attorney general, upon receiving 
+10
+notification of any breach of security that is reported to 
+11
+the Commission under subsection (d)(5), finds that notifi-
+12
+cation of such a breach of security through the State at-
+13
+torney general’s internet website would be in the public 
+14
+interest or for the protection of consumers, the State at-
+15
+torney general shall place such a notification in a clear 
+16
+and conspicuous location on its internet website. 
+17
+(d) FTC STUDY ON NOTIFICATION IN LANGUAGES 
+18
+IN ADDITION TO ENGLISH.—Not later than 1 year after 
+19
+the date of enactment of this Act, the Commission shall 
+20
+conduct a study on the practicality and cost effectiveness 
+21
+of requiring the notification required by subsection (c)(1) 
+22
+to be provided in a language in addition to English to indi-
+23
+viduals known to speak only such other language. 
+24
+21:35 Mar 01, 2019
+H1282
+23 
+•HR 1282 IH
+(e) EDUCATION AND OUTREACH FOR SMALL BUSI-
+1
+NESSES.—The Commission shall conduct education and 
+2
+outreach for small business concerns on data security 
+3
+practices and how to prevent hacking and other unauthor-
+4
+ized access to, acquisition of, or use of data maintained 
+5
+by such small business concerns. 
+6
+(f) WEBSITE
+ON DATA SECURITY BEST PRAC-
+7
+TICES.—The Commission shall establish and maintain an 
+8
+internet website containing non-binding best practices for 
+9
+businesses regarding data security and how to prevent 
+10
+hacking and other unauthorized access to, acquisition of, 
+11
+or use of data maintained by such businesses. 
+12
+(g) GENERAL RULEMAKING AUTHORITY.— 
+13
+(1) IN GENERAL.—The Commission may pro-
+14
+mulgate regulations necessary under section 553 of 
+15
+title 5, United States Code, to effectively enforce the 
+16
+requirements of this section. 
+17
+(2) LIMITATION.—In promulgating rules under 
+18
+this Act, the Commission shall not require the de-
+19
+ployment or use of any specific product or tech-
+20
+nology, including any specific computer software or 
+21
+hardware. 
+22
+(h) TREATMENT OF PERSONS GOVERNED BY OTHER 
+23
+LAW.—A covered entity who is in compliance with any 
+24
+other Federal law that requires such covered entity to pro-
+25
+21:35 Mar 01, 2019
+H1282
+24 
+•HR 1282 IH
+vide notification to individuals following a breach of secu-
+1
+rity, shall be deemed to be in compliance with this section 
+2
+with respect to activities and information covered under 
+3
+such Federal law. 
+4
+SEC. 4. APPLICATION AND ENFORCEMENT. 
+5
+(a) ENFORCEMENT BY THE FEDERAL TRADE COM-
+6
+MISSION.— 
+7
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+8
+TICES.—A violation of a regulation promulgated 
+9
+under section 2 or 3 shall be treated as an unfair 
+10
+and deceptive act or practice in violation of a regula-
+11
+tion under section 18(a)(1)(B) of the Federal Trade 
+12
+Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding 
+13
+unfair or deceptive acts or practices and shall be 
+14
+subject to enforcement by the Commission under 
+15
+that Act with respect to any covered entity. All of 
+16
+the functions and powers of the Commission under 
+17
+the Federal Trade Commission Act are available to 
+18
+the Commission to enforce compliance by any person 
+19
+with the requirements imposed under this Act. 
+20
+(2) COORDINATION
+WITH
+FEDERAL
+COMMU-
+21
+NICATIONS
+COMMISSION.—In the case of enforce-
+22
+ment under this Act that relates to entities subject 
+23
+to the authority of the Federal Communications 
+24
+Commission, enforcement actions by the Commission 
+25
+21:35 Mar 01, 2019
+H1282
+25 
+•HR 1282 IH
+shall be coordinated with the Federal Communica-
+1
+tions Commission. 
+2
+(3) COORDINATION WITH CONSUMER FINANCIAL 
+3
+PROTECTION BUREAU.—In the case of enforcement 
+4
+under this Act that relates to entities that provide 
+5
+a consumer financial product or service (as defined 
+6
+in section 1002 of the Consumer Financial Protec-
+7
+tion Act of 2010 (12 U.S.C. 5481)), enforcement ac-
+8
+tions by the Commission shall be coordinated with 
+9
+the Consumer Financial Protection Bureau. 
+10
+(b) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+11
+ERAL.— 
+12
+(1) IN GENERAL.—If the chief law enforcement 
+13
+officer of a State, or an official or agency designated 
+14
+by a State, has reason to believe that any covered 
+15
+entity has violated or is violating section 2 or 3 of 
+16
+this Act, the attorney general, official, or agency of 
+17
+the State, in addition to any authority it may have 
+18
+to bring an action in State court under its consumer 
+19
+protection law, may bring a civil action in any ap-
+20
+propriate United States district court or in any 
+21
+other court of competent jurisdiction, including a 
+22
+State court, to— 
+23
+(A) enjoin further such violation by the de-
+24
+fendant; 
+25
+21:35 Mar 01, 2019
+H1282
+26 
+•HR 1282 IH
+(B) enforce compliance with section 2 or 3, 
+1
+as applicable; 
+2
+(C) obtain civil penalties in the amount de-
+3
+termined under paragraph (2); and 
+4
+(D) obtain damages, restitution, or other 
+5
+compensation on behalf of residents of the 
+6
+State. 
+7
+(2) CIVIL PENALTIES.— 
+8
+(A) CALCULATION.— 
+9
+(i) TREATMENT
+OF
+VIOLATIONS
+OF 
+10
+SECTION
+2.—For purposes of paragraph 
+11
+(1)(C) with regard to a violation of section 
+12
+2, the amount determined under this para-
+13
+graph is the amount calculated by multi-
+14
+plying the number of days that a covered 
+15
+entity is not in compliance with such sec-
+16
+tion by an amount to be determined by the 
+17
+Commission. Such amount determined by 
+18
+the Commission shall be adjusted as de-
+19
+scribed in the Federal Civil Penalties Infla-
+20
+tion Adjustment Act of 1990 (Public Law 
+21
+101–410; 28 U.S.C. 2461 note). 
+22
+(ii) TREATMENT
+OF
+VIOLATIONS
+OF 
+23
+SECTION
+3.—For purposes of paragraph 
+24
+(1)(C) with regard to a violation of section 
+25
+21:35 Mar 01, 2019
+H1282
+27 
+•HR 1282 IH
+3, the amount determined under this para-
+1
+graph is the amount calculated by multi-
+2
+plying the number of violations of such 
+3
+section by an amount to be determined by 
+4
+the Commission. Each failure to send noti-
+5
+fication as required under section 3 to a 
+6
+citizen or resident of the United States 
+7
+shall be treated as a separate violation. 
+8
+(B) ADJUSTMENT
+FOR
+INFLATION.—Be-
+9
+ginning on the date that the Consumer Price 
+10
+Index is first published by the Bureau of Labor 
+11
+Statistics that is after 1 year after the date of 
+12
+enactment of this Act, and each year thereafter, 
+13
+the amounts specified in clauses (i) and (ii) of 
+14
+subparagraph (A) shall be increased by the per-
+15
+centage increase in the Consumer Price Index 
+16
+published on that date from the Consumer 
+17
+Price Index published the previous year. 
+18
+(3) NOTICE
+AND
+INTERVENTION
+BY
+THE 
+19
+FTC.— 
+20
+(A) IN GENERAL.—The attorney general of 
+21
+a State shall provide prior written notice of any 
+22
+action under paragraph (1) to the Commission 
+23
+and provide the Commission with a copy of the 
+24
+complaint in the action, except in any case in 
+25
+21:35 Mar 01, 2019
+H1282
+28 
+•HR 1282 IH
+which such prior notice is not feasible, in which 
+1
+case the attorney general shall serve such notice 
+2
+immediately upon instituting such action. The 
+3
+Commission shall have the right— 
+4
+(i) to intervene in the action; 
+5
+(ii) upon so intervening, to be heard 
+6
+on all matters arising therein; and 
+7
+(iii) to file petitions for appeal. 
+8
+(B) LIMITATION ON STATE ACTION WHILE 
+9
+FEDERAL ACTION IS PENDING.—If the Commis-
+10
+sion has instituted a civil action for a violation 
+11
+of this Act, no State attorney general, or offi-
+12
+cial or agency of a State, may bring an action 
+13
+under this subsection during the pendency of 
+14
+that action against any defendant named in the 
+15
+complaint of the Commission for any violation 
+16
+of this Act alleged in the complaint. 
+17
+(4) RELATIONSHIP WITH STATE-LAW CLAIMS.— 
+18
+If the attorney general of a State has authority to 
+19
+bring an action under State law directed at acts or 
+20
+practices that also violate this Act, the attorney gen-
+21
+eral may assert the State-law claim and a claim 
+22
+under this Act in the same civil action. 
+23
+SEC. 5. DEFINITIONS. 
+24
+In this Act: 
+25
+21:35 Mar 01, 2019
+H1282
+29 
+•HR 1282 IH
+(1) BREACH OF SECURITY.—The term ‘‘breach 
+1
+of security’’ means unauthorized access to, acquisi-
+2
+tion of, sale of, release of, or use of data containing 
+3
+personal information. 
+4
+(2) COMMISSION.—The term ‘‘Commission’’ 
+5
+means the Federal Trade Commission. 
+6
+(3) COVERED ENTITY.—The term ‘‘covered en-
+7
+tity’’ means— 
+8
+(A) any person, partnership, or corporation 
+9
+over which the Commission has authority pur-
+10
+suant to section 5(a)(2) of the Federal Trade 
+11
+Commission Act (15 U.S.C. 45(a)(2)); 
+12
+(B) notwithstanding section 5(a)(2) of the 
+13
+Federal Trade Commission Act (15 U.S.C. 
+14
+45(a)(2)), common carriers subject to the Com-
+15
+munications Act of 1934 (47 U.S.C. 151 et 
+16
+seq.); and 
+17
+(C) notwithstanding sections 4 and 5(a)(2) 
+18
+of the Federal Trade Commission Act (15 
+19
+U.S.C. 44 and 45(a)(2)), any nonprofit organi-
+20
+zation. 
+21
+(4) NONPROFIT
+ORGANIZATION.—The term 
+22
+‘‘nonprofit organization’’ means an organization de-
+23
+scribed in section 501(c) of the Internal Revenue 
+24
+21:35 Mar 01, 2019
+H1282
+30 
+•HR 1282 IH
+Code of 1986 that is exempt from taxation under 
+1
+section 501(a) of such Code. 
+2
+(5) INFORMATION BROKER.—The term ‘‘infor-
+3
+mation broker’’ means any individual, person, part-
+4
+nership, or corporation that collects personal infor-
+5
+mation, sells personal information, or profits from 
+6
+personal information in any way. 
+7
+(6) PERSONAL INFORMATION.— 
+8
+(A) DEFINITION.—The term ‘‘personal in-
+9
+formation’’ means any information or compila-
+10
+tion of information that includes any of the fol-
+11
+lowing: 
+12
+(i) An individual’s first name or initial 
+13
+and last name in combination with any of 
+14
+the following data elements for that indi-
+15
+vidual: 
+16
+(I) Home address or telephone 
+17
+number. 
+18
+(II) Mother’s maiden name. 
+19
+(III) Month, day, and year of 
+20
+birth. 
+21
+(IV) User name or electronic 
+22
+mail address. 
+23
+(ii) Driver’s license number, passport 
+24
+number, military identification number, 
+25
+21:35 Mar 01, 2019
+H1282
+31 
+•HR 1282 IH
+alien registration number, or other similar 
+1
+number issued on a government document 
+2
+used to verify identity. 
+3
+(iii) Unique account identifier (includ-
+4
+ing a financial account number or credit or 
+5
+debit card number), electronic identifica-
+6
+tion number, user name, or routing code. 
+7
+(iv) Partial or complete Social Secu-
+8
+rity number. 
+9
+(v) Unique biometric or genetic data 
+10
+such as a fingerprint, voice print, retina or 
+11
+iris image, facial recognition data, or any 
+12
+other unique physical representation. 
+13
+(vi) Information that could be used to 
+14
+access an individual’s account, such as 
+15
+user name and password or e-mail address 
+16
+and password. 
+17
+(vii) Any security code, access code, 
+18
+password, or source code that could be 
+19
+used to generate such codes or passwords, 
+20
+in combination with either of the following 
+21
+data elements: 
+22
+(I) An individual’s first and last 
+23
+name or first initial and last name. 
+24
+21:35 Mar 01, 2019
+H1282
+32 
+•HR 1282 IH
+(II) A unique account identifier 
+1
+(including a financial account number 
+2
+or credit or debit card number), elec-
+3
+tronic identification number, user 
+4
+name, or routing code. 
+5
+(viii) Information generated or derived 
+6
+from the operation or use of an electronic 
+7
+communications device that is sufficient to 
+8
+identify the street name and name of the 
+9
+city or town in which the device is located. 
+10
+(ix) Any information regarding an in-
+11
+dividual’s medical history, mental or phys-
+12
+ical condition, medical treatment or diag-
+13
+nosis by a health care professional, or the 
+14
+provision of health care to the individual, 
+15
+including health information provided to a 
+16
+website or mobile application. 
+17
+(x) A health insurance policy number 
+18
+or subscriber identification number and 
+19
+any unique identifier used by a health in-
+20
+surer to identify the individual or any in-
+21
+formation in an individual’s health insur-
+22
+ance application and claims history, includ-
+23
+ing any appeals records. 
+24
+21:35 Mar 01, 2019
+H1282
+33 
+•HR 1282 IH
+(xi) Digitized or other electronic sig-
+1
+nature. 
+2
+(xii) Nonpublic communication such 
+3
+as a text, SMS, MMS, RCS, and other 
+4
+electronic message or other user-created 
+5
+content such as an email, photograph, or 
+6
+video. 
+7
+(xiii) Any record or information con-
+8
+cerning payroll, income, financial account, 
+9
+mortgage, loan, line of credit, utility bill, 
+10
+accumulated purchase, or any other infor-
+11
+mation regarding a financial asset, obliga-
+12
+tion, or spending habit. 
+13
+(xiv) Any additional element the Com-
+14
+mission defines as personal information in 
+15
+accordance with subparagraph (B). 
+16
+(B) MODIFIED
+DEFINITION
+BY
+RULE-
+17
+MAKING.—The Commission may, by rule pro-
+18
+mulgated under section 553 of title 5, United 
+19
+States Code, modify the definition of ‘‘personal 
+20
+information’’ under subparagraph (A). 
+21
+(7) SMALL
+BUSINESS
+CONCERN.—The term 
+22
+‘‘small business concern’’ has the meaning given 
+23
+that term in section 3 of the Small Business Act (15 
+24
+U.S.C. 632). 
+25
+21:35 Mar 01, 2019
+H1282
+34 
+•HR 1282 IH
+(8) STATE.—The term ‘‘State’’ means each of 
+1
+the several States, the District of Columbia, the 
+2
+Commonwealth of Puerto Rico, Guam, American 
+3
+Samoa, the United States Virgin Islands, the Com-
+4
+monwealth of the Northern Mariana Islands, any 
+5
+other territory or possession of the United States, 
+6
+and each federally recognized Indian Tribe. 
+7
+SEC. 6. EFFECT ON OTHER LAWS. 
+8
+(a) EFFECT
+ON
+STATE
+DATA
+SECURITY
+AND 
+9
+BREACH NOTIFICATION LAWS.—This Act supersedes any 
+10
+provision of a statute or regulation of a State or political 
+11
+subdivision of a State, with respect to a covered entity, 
+12
+that expressly— 
+13
+(1) requires information security practices for 
+14
+the treatment and protection of personal information 
+15
+similar to any of those required under section 2; or 
+16
+(2) requires notification to individuals of a 
+17
+breach of security of personal information. 
+18
+(b) EFFECT ON OTHER STATE LAWS.—Except as 
+19
+provided in subsection (a), nothing in this Act shall be 
+20
+construed to— 
+21
+(1) preempt or limit any provision of any law, 
+22
+rule, regulation, requirement, standard, or other pro-
+23
+vision having the force and effect of law of any 
+24
+State, including any State consumer protection law, 
+25
+21:35 Mar 01, 2019
+H1282
+35 
+•HR 1282 IH
+any State law relating to acts of fraud or deception, 
+1
+and any State trespass, contract, or tort law; 
+2
+(2) prevent or limit the attorney general of a 
+3
+State from exercising the powers conferred upon the 
+4
+attorney general by the laws of the State, including 
+5
+conducting investigations, administering oaths or af-
+6
+firmations, or compelling the attendance of witnesses 
+7
+or the production of documentary and other evi-
+8
+dence; or 
+9
+(3) preempt or limit any provision of any law, 
+10
+rule, regulation, requirement, standard, or other pro-
+11
+vision having the force and effect of law of any State 
+12
+with respect to any person that is not a covered enti-
+13
+ty. 
+14
+(c) PRESERVATION OF AUTHORITY.—Nothing in this 
+15
+Act may be construed in any way to limit or affect the 
+16
+authority of the Commission, the Federal Communication 
+17
+Commission, or the Consumer Financial Protection Bu-
+18
+reau under any other provision of law. 
+19
+SEC. 7. EFFECTIVE DATE. 
+20
+This Act shall take effect 90 days after the date of 
+21
+enactment of this Act. 
+22
+Æ 
+21:35 Mar 01, 2019
+H1282

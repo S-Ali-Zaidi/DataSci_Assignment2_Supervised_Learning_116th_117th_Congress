@@ -1,0 +1,405 @@
+A BILL 
+To amend title 41, United States Code, to require informa-
+tion technology contractors to maintain a vulnerability 
+disclosure policy and program, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improving Contractor 
+4
+Cybersecurity Act’’. 
+5
+05:36 Jun 24, 2021
+H3608
+2 
+•HR 3608 IH
+SEC. 2. VULNERABILITY DISCLOSURE POLICY AND PRO-
+1
+GRAM REQUIRED FOR INFORMATION TECH-
+2
+NOLOGY CONTRACTORS. 
+3
+(a) AMENDMENT.—Chapter 47 of division C of sub-
+4
+title I of title 41, United States Code, is amended by add-
+5
+ing at the end the following new section: 
+6
+‘‘§ 4715. Vulnerability disclosure policy and program 
+7
+required 
+8
+‘‘(a) REQUIREMENTS
+FOR
+INFORMATION
+TECH-
+9
+NOLOGY CONTRACTORS.—The head of an executive agen-
+10
+cy may not enter into a contract for information tech-
+11
+nology unless the contractor maintains or does the fol-
+12
+lowing: 
+13
+‘‘(1) A vulnerability disclosure policy for infor-
+14
+mation technology that— 
+15
+‘‘(A) includes— 
+16
+‘‘(i) a description of which systems 
+17
+are in scope; 
+18
+‘‘(ii) the type of information tech-
+19
+nology testing for each system that is al-
+20
+lowed (or specifically not authorized); 
+21
+‘‘(iii) if a contractor includes systems 
+22
+that host sensitive information in the vul-
+23
+nerability disclosure policy, the contractor 
+24
+shall determine whether to impose restric-
+25
+tions on accessing, copying, transferring, 
+26
+23:48 Jul 07, 2021
+H3608
+3 
+•HR 3608 IH
+storing, using, and retaining such informa-
+1
+tion, including by— 
+2
+‘‘(I) prohibiting sensitive infor-
+3
+mation from being saved, stored, 
+4
+transferred, or otherwise accessed 
+5
+after initial discovery; 
+6
+‘‘(II) directing that sensitive in-
+7
+formation be viewed only to the extent 
+8
+required to identify a vulnerability 
+9
+and that the information not be re-
+10
+tained; or 
+11
+‘‘(III) limiting use of information 
+12
+obtained from interacting with the 
+13
+systems or services to be explored by 
+14
+the researcher to activities directly re-
+15
+lated 
+to 
+reporting 
+security 
+16
+vulnerabilities; 
+17
+‘‘(iv) a description of how an indi-
+18
+vidual may submit a vulnerability report 
+19
+that includes— 
+20
+‘‘(I) the location of where to send 
+21
+the report, such as a web form or 
+22
+email address; 
+23
+‘‘(II) a description of the type of 
+24
+information necessary to find and 
+25
+23:48 Jul 07, 2021
+H3608
+4 
+•HR 3608 IH
+analyze the vulnerability (such as a 
+1
+description, the location, and potential 
+2
+impact of the vulnerability, the tech-
+3
+nical information needed to reproduce 
+4
+the vulnerability, and any proof of 
+5
+concept); and 
+6
+‘‘(III) a clear statement— 
+7
+‘‘(aa) that any individual 
+8
+that submits a vulnerability re-
+9
+port may do so anonymously; and 
+10
+‘‘(bb) on how and whether 
+11
+any incomplete submission is 
+12
+evaluated; 
+13
+‘‘(v) a commitment from the con-
+14
+tractor that the contractor will not pursue 
+15
+civil action for any accidental, good faith 
+16
+violation of the vulnerability disclosure pol-
+17
+icy; 
+18
+‘‘(vi) a commitment from the con-
+19
+tractor that if an individual acting in ac-
+20
+cordance with the vulnerability disclosure 
+21
+policy of the contractor is sued by a third 
+22
+party, the contractor will inform the public 
+23
+or the court that the individual was acting 
+24
+05:36 Jun 24, 2021
+H3608
+5 
+•HR 3608 IH
+in compliance with the vulnerability disclo-
+1
+sure policy; 
+2
+‘‘(vii) a statement that describes the 
+3
+time frame in which the individual that 
+4
+submits a report, if known, will receive a 
+5
+notification of receipt of the report and a 
+6
+description of what steps will be taken by 
+7
+the contractor during the remediation 
+8
+process; and 
+9
+‘‘(viii) a set of guidelines that estab-
+10
+lishes what type of activity by a researcher 
+11
+are acceptable and unacceptable; and 
+12
+‘‘(B) does not— 
+13
+‘‘(i) require the submission of person-
+14
+ally identifiable information of a re-
+15
+searcher; and 
+16
+‘‘(ii) limit testing solely to entities ap-
+17
+proved by the contractor but rather au-
+18
+thorizes the public to search for and report 
+19
+any vulnerability. 
+20
+‘‘(2) A description of additional procedures that 
+21
+describe how the contractor will communicate with 
+22
+the researcher, and how and when any communica-
+23
+tion occurs. 
+24
+23:48 Jul 07, 2021
+H3608
+6 
+•HR 3608 IH
+‘‘(3) A description of the target timelines for 
+1
+and tracking of the following: 
+2
+‘‘(A) Notification of receipt to the indi-
+3
+vidual that submits the report, if known. 
+4
+‘‘(B) An initial assessment, such as deter-
+5
+mining whether any disclosed vulnerability is 
+6
+valid. 
+7
+‘‘(C) Resolution of a vulnerability, includ-
+8
+ing notification of the outcome to the re-
+9
+searcher. 
+10
+‘‘(4) A page on the website of the contractor 
+11
+that— 
+12
+‘‘(A) 
+allows 
+for 
+the 
+submission 
+of 
+13
+vulnerabilities by anyone relating to the infor-
+14
+mation technology; 
+15
+‘‘(B) lists the contact information, such as 
+16
+a phone number or email address for an indi-
+17
+vidual or team responsible for reviewing any 
+18
+such submission under subparagraph (A); and 
+19
+‘‘(C) describes the process by which a re-
+20
+view is conducted, including how long it will 
+21
+take for the contractor to respond to researcher 
+22
+and whether or not monetary rewards will be 
+23
+paid to the reporter for identifying a vulner-
+24
+ability. 
+25
+05:36 Jun 24, 2021
+H3608
+7 
+•HR 3608 IH
+‘‘(5) In the case of a discovered vulnerability 
+1
+that the contractor is not responsible for patching, 
+2
+the contractor shall submit the vulnerability to the 
+3
+responsible party or direct the researcher to the ap-
+4
+propriate party. 
+5
+‘‘(b) REPORTING REQUIREMENTS AND METRICS.— 
+6
+Not later than 7 days after the date on which the vulner-
+7
+ability disclosure policy described in subsection (a) is pub-
+8
+lished, and on an ongoing basis as vulnerability reports 
+9
+are received, an information technology contractor shall 
+10
+report to the Cybersecurity and Infrastructure Security 
+11
+Agency of the Department of Homeland Security the fol-
+12
+lowing information: 
+13
+‘‘(1) Any valid or credible report of a not pre-
+14
+viously known public vulnerability (including any 
+15
+misconfiguration) on a system that uses commercial 
+16
+software or services that affect or are likely to affect 
+17
+other parties in government or industry once a patch 
+18
+or viable mitigation is available. 
+19
+‘‘(2) Any other situation where the contractor 
+20
+determines it would be helpful or necessary to in-
+21
+volve the Cybersecurity and Infrastructure Security 
+22
+Agency. 
+23
+‘‘(c) CISA SUBMISSION OF VULNERABILITIES.—The 
+24
+Cybersecurity and Infrastructure Security Agency shall 
+25
+05:36 Jun 24, 2021
+H3608
+8 
+•HR 3608 IH
+communicate 
+with 
+and 
+submit, 
+as 
+necessary, 
+1
+vulnerabilities to the MITRE Common Vulnerabilities and 
+2
+Exposures database and the National Institute of Stand-
+3
+ards and Technology National Vulnerability Database. 
+4
+‘‘(d) DEFINITIONS.—In this section: 
+5
+‘‘(1) EXECUTIVE AGENCY.—The term ‘executive 
+6
+agency’ has the meaning given that term in section 
+7
+133. 
+8
+‘‘(2) RESEARCHER.—The term ‘researcher’ 
+9
+means the individual who submits a vulnerability re-
+10
+port. 
+11
+‘‘(3) INFORMATION
+TECHNOLOGY.—The term 
+12
+‘information technology’ has the meaning given that 
+13
+term in section 11101 of title 40.’’. 
+14
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+15
+The table of sections for chapter 47 of division C of sub-
+16
+title I of title 41, United States Code, is amended by add-
+17
+ing at the end the following new item: 
+18
+‘‘4715. Vulnerability disclosure policy and program required.’’. 
+(c) APPLICABILITY.—The amendments made by this 
+19
+section shall take effect on the date of the enactment of 
+20
+this section and shall apply to any contract entered into 
+21
+on or after such effective date. 
+22
+Æ 
+05:36 Jun 24, 2021
+H3608

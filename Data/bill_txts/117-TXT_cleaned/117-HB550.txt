@@ -1,0 +1,562 @@
+A BILL 
+To amend the Public Health Service Act with respect to 
+immunization system data modernization and expansion, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Immunization Infra-
+4
+structure Modernization Act of 2021’’. 
+5
+SEC. 2. IMMUNIZATION INFORMATION SYSTEM DATA MOD-
+6
+ERNIZATION AND EXPANSION. 
+7
+Subtitle C of title XXVIII of the Public Health Serv-
+8
+ice Act (42 U.S.C. 300hh–31 et seq.) is amended by add-
+9
+ing at the end the following: 
+10
+02:36 Feb 19, 2021
+H550
+2 
+•HR 550 IH
+‘‘SEC. 2823. IMMUNIZATION INFORMATION SYSTEM DATA 
+1
+MODERNIZATION AND EXPANSION. 
+2
+‘‘(a) EXPANDING CDC AND PUBLIC HEALTH DE-
+3
+PARTMENT CAPABILITIES.— 
+4
+‘‘(1) IN GENERAL.—The Secretary shall— 
+5
+‘‘(A) conduct activities (including with re-
+6
+spect to interoperability, population reporting, 
+7
+and bidirectional reporting) to expand, enhance, 
+8
+and improve immunization information systems 
+9
+that are administered by health departments or 
+10
+other agencies of State, local, Tribal, and terri-
+11
+torial governments and used by health care pro-
+12
+viders; and 
+13
+‘‘(B) award grants or cooperative agree-
+14
+ments to the health departments, or such other 
+15
+governmental entities as administer immuniza-
+16
+tion information systems, of State, local, Tribal, 
+17
+and territorial governments, for the expansion, 
+18
+enhancement, and improvement of immuniza-
+19
+tion information systems to assist public health 
+20
+departments in— 
+21
+‘‘(i) assessing current data infrastruc-
+22
+ture capabilities and gaps among health 
+23
+care providers to improve and increase 
+24
+consistency in patient matching, data col-
+25
+lection, reporting, bidirectional exchange, 
+26
+02:36 Feb 19, 2021
+H550
+3 
+•HR 550 IH
+and analysis of immunization-related infor-
+1
+mation; 
+2
+‘‘(ii) providing for the efficient enroll-
+3
+ment and training of health care providers, 
+4
+including at pharmacies and other settings 
+5
+where immunizations are being provided, 
+6
+such as long-term care facilities, specialty 
+7
+health care providers, community health 
+8
+centers, Federally qualified health centers, 
+9
+rural health centers, organizations serving 
+10
+adults 65 and older, and organizations 
+11
+serving homeless and incarcerated popu-
+12
+lations; 
+13
+‘‘(iii) improving secure data collection, 
+14
+transmission, bidirectional exchange, main-
+15
+tenance, and analysis of immunization in-
+16
+formation; 
+17
+‘‘(iv) 
+improving 
+the 
+secure 
+18
+bidirectional exchange of immunization 
+19
+record data among Federal, State, local, 
+20
+Tribal, and territorial governmental enti-
+21
+ties and non-governmental entities, includ-
+22
+ing by— 
+23
+‘‘(I) improving such exchange 
+24
+among public health officials in mul-
+25
+02:36 Feb 19, 2021
+H550
+4 
+•HR 550 IH
+tiple jurisdictions within a State, as 
+1
+appropriate; and 
+2
+‘‘(II) by simplifying and sup-
+3
+porting electronic reporting by any 
+4
+health care provider; 
+5
+‘‘(v) supporting the standardization of 
+6
+immunization information systems to accel-
+7
+erate interoperability with health informa-
+8
+tion technology, including with health in-
+9
+formation technology certified under sec-
+10
+tion 3001(c)(5) or with health information 
+11
+networks; 
+12
+‘‘(vi) supporting adoption of the im-
+13
+munization information system functional 
+14
+standards of the Centers for Disease Con-
+15
+trol and Prevention and the maintenance 
+16
+of security standards to protect individ-
+17
+ually identifiable health information as de-
+18
+fined in section 160.103 of title 45, Code 
+19
+of Federal Regulations (or any successor 
+20
+regulations); 
+21
+‘‘(vii) supporting and training immu-
+22
+nization information system, data science, 
+23
+and informatics personnel; 
+24
+02:36 Feb 19, 2021
+H550
+5 
+•HR 550 IH
+‘‘(viii) supporting real-time immuniza-
+1
+tion record data exchange and reporting, 
+2
+to support rapid identification of immuni-
+3
+zation coverage gaps; 
+4
+‘‘(ix) improving completeness of data 
+5
+by facilitating the capability of immuniza-
+6
+tion information systems to exchange data, 
+7
+directly or indirectly, with immunization 
+8
+information systems in other jurisdictions; 
+9
+‘‘(x) enhancing the capabilities of im-
+10
+munization information systems to evalu-
+11
+ate, forecast, and operationalize clinical de-
+12
+cision support tools in alignment with the 
+13
+recommendations of the Advisory Com-
+14
+mittee on Immunization Practices as ap-
+15
+proved by the Director of the Centers for 
+16
+Disease Control and Prevention; 
+17
+‘‘(xi) supporting the development and 
+18
+implementation of policies that facilitate 
+19
+complete population-level capture, consoli-
+20
+dation, and access to accurate immuniza-
+21
+tion information; 
+22
+‘‘(xii) supporting the procurement and 
+23
+implementation of updated software, hard-
+24
+ware, and cloud storage to adequately 
+25
+02:36 Feb 19, 2021
+H550
+6 
+•HR 550 IH
+manage information volume and capabili-
+1
+ties; 
+2
+‘‘(xiii) supporting expansion of capa-
+3
+bilities within immunization information 
+4
+systems for outbreak response; 
+5
+‘‘(xiv) supporting activities within the 
+6
+applicable jurisdiction related to the man-
+7
+agement, distribution, and storage of vac-
+8
+cine doses and ancillary supplies; and 
+9
+‘‘(xv) developing information related 
+10
+to the use and importance of immunization 
+11
+record data and disseminating such infor-
+12
+mation to health care providers and other 
+13
+persons authorized under State law to ac-
+14
+cess such information, including payors 
+15
+and health care facilities. 
+16
+‘‘(2) DATA STANDARDS.—In carrying out para-
+17
+graph (1), the Secretary shall— 
+18
+‘‘(A) designate data and technology stand-
+19
+ards that must be followed by governmental en-
+20
+tities with respect to use of immunization infor-
+21
+mation systems as a condition of receiving an 
+22
+award under this section, with priority given to 
+23
+standards developed by— 
+24
+02:36 Feb 19, 2021
+H550
+7 
+•HR 550 IH
+‘‘(i) 
+consensus-based 
+organizations 
+1
+with input from the public; and 
+2
+‘‘(ii) voluntary consensus-based stand-
+3
+ards bodies; and 
+4
+‘‘(B) support a means of independent 
+5
+verification of the standards used in carrying 
+6
+out paragraph (1). 
+7
+‘‘(3) PUBLIC-PRIVATE PARTNERSHIPS.—In car-
+8
+rying out paragraph (1), the Secretary may develop 
+9
+and utilize contracts and cooperative agreements for 
+10
+technical assistance, training, and related implemen-
+11
+tation support. 
+12
+‘‘(b) REQUIREMENTS.— 
+13
+‘‘(1) 
+HEALTH
+INFORMATION
+TECHNOLOGY 
+14
+STANDARDS.—The Secretary may not award a grant 
+15
+or cooperative agreement under subsection (a)(1)(B) 
+16
+unless the applicant uses and agrees to use stand-
+17
+ards adopted by the Secretary under section 3004. 
+18
+‘‘(2) WAIVER.—The Secretary may waive the 
+19
+requirement under paragraph (1) with respect to an 
+20
+applicant if the Secretary determines that the activi-
+21
+ties under subsection (a)(1)(B) cannot otherwise be 
+22
+carried out within the applicable jurisdiction. 
+23
+‘‘(3) APPLICATION.—A State, local, Tribal, or 
+24
+territorial health department applying for a grant or 
+25
+02:36 Feb 19, 2021
+H550
+8 
+•HR 550 IH
+cooperative agreement under subsection (a)(1)(B) 
+1
+shall submit an application to the Secretary at such 
+2
+time and in such manner as the Secretary may re-
+3
+quire. Such application shall include information de-
+4
+scribing— 
+5
+‘‘(A) the activities that will be supported 
+6
+by the grant or cooperative agreement; and 
+7
+‘‘(B) how the modernization of the immu-
+8
+nization information systems involved will sup-
+9
+port or impact the public health infrastructure 
+10
+of the health department, including a descrip-
+11
+tion of remaining gaps, if any, and the actions 
+12
+needed to address such gaps. 
+13
+‘‘(c) STRATEGY AND IMPLEMENTATION PLAN.—Not 
+14
+later than 90 days after the date of enactment of this sec-
+15
+tion, the Secretary shall submit to the Committee on En-
+16
+ergy and Commerce of the House of Representatives and 
+17
+the Committee on Health, Education, Labor, and Pen-
+18
+sions of the Senate a coordinated strategy and an accom-
+19
+panying implementation plan that identifies and dem-
+20
+onstrates the measures the Secretary will utilize to— 
+21
+‘‘(1) update and improve immunization infor-
+22
+mation systems supported by the Centers for Dis-
+23
+ease Control and Prevention; and 
+24
+02:36 Feb 19, 2021
+H550
+9 
+•HR 550 IH
+‘‘(2) carry out the activities described in this 
+1
+section to support the expansion, enhancement, and 
+2
+improvement of State, local, Tribal, and territorial 
+3
+immunization information systems. 
+4
+‘‘(d) CONSULTATION; TECHNICAL ASSISTANCE.— 
+5
+‘‘(1) CONSULTATION.—In developing the strat-
+6
+egy and implementation plan under subsection (c), 
+7
+the Secretary shall consult with— 
+8
+‘‘(A) health departments, or such other 
+9
+governmental entities as administer immuniza-
+10
+tion information systems, of State, local, Tribal, 
+11
+and territorial governments; 
+12
+‘‘(B) professional medical, associations, 
+13
+public health associations, and associations rep-
+14
+resenting pharmacists and pharmacies; 
+15
+‘‘(C) community health centers, long-term 
+16
+care facilities, and other appropriate entities 
+17
+that provide immunizations; 
+18
+‘‘(D) health information technology ex-
+19
+perts; and 
+20
+‘‘(E) other public or private entities, as ap-
+21
+propriate. 
+22
+‘‘(2) TECHNICAL
+ASSISTANCE.—In connection 
+23
+with consultation under paragraph (1), the Secretary 
+24
+may— 
+25
+02:36 Feb 19, 2021
+H550
+10 
+•HR 550 IH
+‘‘(A) provide technical assistance, certifi-
+1
+cation, and training related to the exchange of 
+2
+information by immunization information sys-
+3
+tems used by health care and public health enti-
+4
+ties at the local, State, Federal, Tribal, and ter-
+5
+ritorial levels; and 
+6
+‘‘(B) develop and utilize public-private 
+7
+partnerships for implementation support appli-
+8
+cable to this section. 
+9
+‘‘(e) REPORT TO CONGRESS.—Not later than 1 year 
+10
+after the date of enactment of this section, the Secretary 
+11
+shall submit a report to the Committee on Health, Edu-
+12
+cation, Labor, and Pensions of the Senate and the Com-
+13
+mittee on Energy and Commerce of the House of Rep-
+14
+resentatives that includes— 
+15
+‘‘(1) a description of any barriers to— 
+16
+‘‘(A) public health authorities imple-
+17
+menting interoperable immunization informa-
+18
+tion systems; 
+19
+‘‘(B) the exchange of information pursuant 
+20
+to immunization records; or 
+21
+‘‘(C) reporting by any health care profes-
+22
+sional authorized under State law, using such 
+23
+immunization information systems, as appro-
+24
+priate, and pursuant to State law; or 
+25
+02:36 Feb 19, 2021
+H550
+11 
+•HR 550 IH
+‘‘(2) a description of barriers that hinder the 
+1
+effective establishment of a network to support im-
+2
+munization reporting and monitoring, including a 
+3
+list of recommendations to address such barriers; 
+4
+and 
+5
+‘‘(3) an assessment of immunization coverage 
+6
+and access to immunizations services and any dis-
+7
+parities and gaps in such coverage and access for 
+8
+medically underserved, rural, and frontier areas. 
+9
+‘‘(f) DEFINITION.—In this section, the term ‘immuni-
+10
+zation information system’ means a confidential, popu-
+11
+lation-based, computerized database that records immuni-
+12
+zation doses administered by any health care provider to 
+13
+persons within the geographic area covered by that data-
+14
+base. 
+15
+‘‘(g) AUTHORIZATION
+OF
+APPROPRIATIONS.—To 
+16
+carry out this section, there is authorized to be appro-
+17
+priated $400,000,000, to remain available until ex-
+18
+pended.’’. 
+19
+Æ 
+02:36 Feb 19, 2021
+H550

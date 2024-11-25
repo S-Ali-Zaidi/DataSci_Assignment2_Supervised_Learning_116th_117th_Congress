@@ -1,0 +1,409 @@
+A BILL 
+To direct the Board of Governors of the Federal Reserve 
+System to conduct a study on central bank digital cur-
+rencies, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Central Bank Digital 
+4
+Currency Study Act of 2021’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+(1) A January 2021 survey by the Bank for 
+8
+International Settlements found that 86 percent of 
+9
+central banks, representing countries with close to 
+10
+03:27 May 25, 2021
+H2211
+2 
+•HR 2211 IH
+72 percent of the world’s population and 91 percent 
+1
+of global economic output, are currently or will soon 
+2
+be engaged in work relating to CBDC, with almost 
+3
+three-quarters of such central banks having moved 
+4
+beyond the research of CBDC to experimentation, 
+5
+proof of concept, or testing activities. 
+6
+(2) Since December 2016, the European Cen-
+7
+tral Bank and the Bank of Japan have conducted a 
+8
+joint research project named ‘‘Project Stella’’, which 
+9
+aims to conduct experimental work and conceptual 
+10
+studies exploring the opportunities of digital ledger 
+11
+technologies and challenges for the future of finan-
+12
+cial market infrastructures, including CBDCs. 
+13
+(3) Since 2014, the People’s Bank of China has 
+14
+conducted research and development activities for a 
+15
+CBDC, and in October 2020, launched a digital 
+16
+yuan pilot program in Shenzhen. 
+17
+(4) In August 2020, the Federal Reserve Bank 
+18
+of Boston announced a collaboration with the Digital 
+19
+Currency Initiative at the Massachusetts Institute of 
+20
+Technology to perform technical research related to 
+21
+a central bank digital currency. 
+22
+(5) In October 2020, the Financial Stability 
+23
+Board, in coordination with the BIS’s Committee on 
+24
+Payments and Market Infrastructures, released a re-
+25
+03:27 May 25, 2021
+H2211
+3 
+•HR 2211 IH
+port to provide a roadmap for enhancing cross-bor-
+1
+der payments, including an exploration of new pay-
+2
+ment infrastructures presented by central bank dig-
+3
+ital currencies. 
+4
+(6) In January 2020, the Bank for Inter-
+5
+national Settlements announced that the Bank of 
+6
+England, the Bank of Canada, the Bank of Japan, 
+7
+the European Central Bank, the Sveriges Riksbank, 
+8
+the Swiss National Bank, and the Bank of Inter-
+9
+national Settlements had formed a group to share 
+10
+information on the potential uses of CBDC in the 
+11
+central banks’ jurisdictions, as well as information 
+12
+on potential economic, functional, and technical de-
+13
+sign choices. 
+14
+(7) According to data from the International 
+15
+Monetary Fund, as of the third quarter of 2019, the 
+16
+United States dollar share of global currency re-
+17
+serves totaled $6,750,000,000,000, or 61.78 percent 
+18
+of all allocated reserves, and the standing of the 
+19
+United States dollar as the world’s predominant re-
+20
+serve currency enables the United States to use eco-
+21
+nomic sanctions as a foreign policy tool. 
+22
+(8) According to a 2018 report by the Board of 
+23
+Governors of the Federal Reserve System, cash con-
+24
+tinues to be the most frequently used payment in-
+25
+03:27 May 25, 2021
+H2211
+4 
+•HR 2211 IH
+strument, representing 30 percent of all transactions 
+1
+and 55 percent of transactions under $10, with 77 
+2
+percent of those transactions made in-person. 
+3
+(9) The Federal Reserve System is responsible 
+4
+for, among other things, conducting United States 
+5
+monetary policy, promoting the stability of the fi-
+6
+nancial system, supervising financial institutions to 
+7
+ensure safety and soundness, ensuring the safety 
+8
+and efficiency of payment systems, and issuing and 
+9
+circulating Federal Reserve notes. 
+10
+SEC. 3. SENSE OF CONGRESS. 
+11
+It is the sense of Congress that— 
+12
+(1) the Board of Governors should continue to 
+13
+conduct research on, design, and develop, a CBDC 
+14
+that takes into account its impact on consumers, 
+15
+businesses, the United States financial system, and 
+16
+the United States economy, including the potential 
+17
+impact of a CBDC on monetary policy; and 
+18
+(2) the United States should strive to maintain 
+19
+its leadership in financial technology and ensure that 
+20
+the U.S. dollar remains the predominant reserve cur-
+21
+rency in the world economy. 
+22
+SEC. 4. STUDY AND REPORT. 
+23
+(a) STUDY.—The Board of Governors of the Federal 
+24
+Reserve System, in consultation with the Comptroller of 
+25
+03:27 May 25, 2021
+H2211
+5 
+•HR 2211 IH
+the Currency, the Federal Deposit Insurance Corporation, 
+1
+the Department of the Treasury, the Securities and Ex-
+2
+change Commission, and the Commodity Futures Trading 
+3
+Commission, shall conduct a study on the impact of the 
+4
+introduction of a CBDC on— 
+5
+(1) consumers and small businesses, including 
+6
+with respect to financial inclusion, accessibility, safe-
+7
+ty, privacy, convenience, speed, and price consider-
+8
+ations; 
+9
+(2) the conduct of monetary policy and inter-
+10
+action with existing monetary policy tools; 
+11
+(3) the effectiveness of United States economic 
+12
+sanctions programs and the status of the United 
+13
+States dollar as a reserve currency; 
+14
+(4) the United States financial system and 
+15
+banking sector, including liquidity, lending, and fi-
+16
+nancial stability mechanisms; 
+17
+(5) the United States payments and cross-bor-
+18
+der payments ecosystems, including the FedNow 
+19
+Service; 
+20
+(6) compliance with existing AML/BSA, illicit 
+21
+financing, and related laws and regulations, and 
+22
+electronic recordkeeping requirements; 
+23
+03:27 May 25, 2021
+H2211
+6 
+•HR 2211 IH
+(7) data privacy and security issues related to 
+1
+CBDC, including transaction record anonymity and 
+2
+digital identity authentication; 
+3
+(8) the international technical infrastructure 
+4
+and implementation of such a system, including with 
+5
+respect to interoperability, cybersecurity, resilience, 
+6
+offline transaction capability, and programmability; 
+7
+(9) the likely participants in a CBDC system, 
+8
+their functions, and the benefits and risks of having 
+9
+third parties perform value-added functions, such as 
+10
+fraud insurance and blocking suspicious trans-
+11
+actions; and 
+12
+(10) the operational functioning of a CBDC 
+13
+system, including— 
+14
+(A) how transactions would be initiated, 
+15
+validated, and processed; 
+16
+(B) how users would interact with the sys-
+17
+tem; and 
+18
+(C) the role of the private sector and pub-
+19
+lic-private partnerships. 
+20
+(b) REPORT.—Not later than one year after the date 
+21
+of the enactment of this Act, the Board of Governors shall 
+22
+submit to the Committee on Financial Services of the 
+23
+House of Representatives and the Committee on Banking, 
+24
+03:27 May 25, 2021
+H2211
+7 
+•HR 2211 IH
+Housing, and Urban Affairs of the Senate a report that 
+1
+provides the following: 
+2
+(1) The results of the study conducted under 
+3
+subsection (a). 
+4
+(2) Based on such study, one or more rec-
+5
+ommended feasible models for the development of a 
+6
+CBDC that includes a description of the salient de-
+7
+sign, policy, and technical considerations therein, in-
+8
+cluding a model which takes into account the fol-
+9
+lowing: 
+10
+(A) Financial access and inclusion for 
+11
+unbanked and underbanked consumers, with 
+12
+the ability to make real-time digital payments 
+13
+and transactions through digital wallets. 
+14
+(B) Strong cybersecurity controls capable 
+15
+of mitigating cyber-related risks including 
+16
+ransomware, malware, and fraud and theft. 
+17
+(C) A strong digital identity verification 
+18
+system to prevent identity fraud and allow for 
+19
+compliance with applicable requirements relat-
+20
+ing to anti-money laundering, illicit financing, 
+21
+and security and authentication standards. 
+22
+(D) Mechanisms to account for instances 
+23
+of mistake, unauthorized transfers, or fraud 
+24
+03:27 May 25, 2021
+H2211
+8 
+•HR 2211 IH
+which may require transaction modification or 
+1
+reversibility. 
+2
+(E) The capacity for third-party features 
+3
+such as custody and recoverability, account and 
+4
+transaction monitoring, and other services. 
+5
+(F) Third-party transaction anonymity 
+6
+which protects user privacy and only allows for 
+7
+traceability when otherwise required by law, in-
+8
+cluding through a court order. 
+9
+(G) Interoperability with other U.S. and 
+10
+international payments systems. 
+11
+(3) A timeline for CBDC development and de-
+12
+ployment of the recommended models in paragraph 
+13
+(2), that includes relevant interim milestones. 
+14
+(4) A description of any legal authorities, if 
+15
+any, the Board of Governors would require to imple-
+16
+ment the CBDC model set forth in paragraph (2), 
+17
+including any authority with respect to— 
+18
+(A) the issuance of digital currency; 
+19
+(B) licensing and supervision of digital 
+20
+currency transmission services and nonbank 
+21
+technology providers to the extent they provide 
+22
+CBDC-related services; and 
+23
+(C) international agreements which would 
+24
+be necessary to allow foreign nationals to utilize 
+25
+03:27 May 25, 2021
+H2211
+9 
+•HR 2211 IH
+CBDC’s while preserving appropriate privacy 
+1
+and legal traceability. 
+2
+(c) CBDC DEFINED.—In this Act, the term 
+3
+‘‘CBDC’’ means central bank digital currency. 
+4
+Æ 
+03:27 May 25, 2021
+H2211

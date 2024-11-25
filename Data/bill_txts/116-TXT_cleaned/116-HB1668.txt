@@ -1,0 +1,414 @@
+A BILL 
+To leverage Federal Government procurement power to en-
+courage increased cybersecurity for Internet of Things 
+devices, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Internet of Things Cy-
+4
+bersecurity Improvement Act of 2019’’ or the ‘‘IoT Cyber-
+5
+security Improvement Act of 2019’’. 
+6
+23:00 Mar 22, 2019
+H1668
+2 
+•HR 1668 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) AGENCY.—The term ‘‘agency’’ has the 
+3
+meaning given such term in section 3502 of title 44, 
+4
+United States Code. 
+5
+(2) COVERED DEVICE.— 
+6
+(A) IN GENERAL.—The term ‘‘covered de-
+7
+vice’’ means a physical object that— 
+8
+(i) is capable of connecting to and is 
+9
+in regular connection with the internet; 
+10
+(ii) has computer processing capabili-
+11
+ties that can collect, send, or receive data; 
+12
+and 
+13
+(iii) is not a general-purpose com-
+14
+puting device, including personal com-
+15
+puting systems, smart mobile communica-
+16
+tions devices, programmable logic controls, 
+17
+and mainframe computing systems. 
+18
+(B) MODIFICATION OF DEFINITION.—The 
+19
+Director of the Office of Management and 
+20
+Budget shall establish a process by which— 
+21
+(i) interested parties may petition for 
+22
+a device that is not described in subpara-
+23
+graph (A) to be considered a device that is 
+24
+not a covered device; and 
+25
+23:00 Mar 22, 2019
+H1668
+3 
+•HR 1668 IH
+(ii) the Director acts upon any peti-
+1
+tion submitted under clause (i) in a timely 
+2
+manner. 
+3
+(3) SECURITY VULNERABILITY.—The term ‘‘se-
+4
+curity vulnerability’’ means any attribute of hard-
+5
+ware, firmware, software, or combination of 2 or 
+6
+more of these factors that could enable the com-
+7
+promise of the confidentiality, integrity, or avail-
+8
+ability of an information system or its information 
+9
+or physical devices to which it is connected. 
+10
+SEC. 3. NATIONAL INSTITUTE OF STANDARDS AND TECH-
+11
+NOLOGY CONSIDERATIONS AND RECOMMEN-
+12
+DATIONS REGARDING MANAGING INTERNET 
+13
+OF THINGS CYBERSECURITY RISKS. 
+14
+(a) COMPLETION OF ONGOING EFFORTS RELATING 
+15
+TO
+CONSIDERATIONS
+FOR
+MANAGING
+INTERNET
+OF 
+16
+THINGS CYBERSECURITY RISKS.— 
+17
+(1) IN GENERAL.—The Director of the National 
+18
+Institute of Standards and Technology shall ensure 
+19
+that the efforts of the Institute in effect on the date 
+20
+of the enactment of this Act regarding consider-
+21
+ations for managing Internet of Things cybersecurity 
+22
+risks, especially regarding examples of possible cy-
+23
+bersecurity capabilities of Internet of Things devices, 
+24
+are completed no later than September 30, 2019. 
+25
+23:00 Mar 22, 2019
+H1668
+4 
+•HR 1668 IH
+(2) MATTERS ADDRESSED.—In ensuring efforts 
+1
+are completed under paragraph (1), the Director 
+2
+shall also ensure that such efforts address, at a min-
+3
+imum, the following considerations for covered de-
+4
+vices: 
+5
+(A) Secure Development. 
+6
+(B) Identity management. 
+7
+(C) Patching. 
+8
+(D) Configuration management. 
+9
+(b) DEVELOPMENT OF RECOMMENDED STANDARDS 
+10
+FOR USE OF INTERNET OF THINGS DEVICES BY FED-
+11
+ERAL GOVERNMENT.— 
+12
+(1) IN GENERAL.—Not later than March 31, 
+13
+2020, the Director of the Institute shall develop rec-
+14
+ommendations for the Federal Government on the 
+15
+appropriate use and management by the Federal 
+16
+Government of Internet of Things devices owned or 
+17
+controlled by the Federal Government, including 
+18
+minimum information security requirements for 
+19
+managing cybersecurity risks associated with such 
+20
+devices. 
+21
+(2) CONSISTENCY WITH ONGOING EFFORTS.— 
+22
+The Director of the Institute shall ensure that the 
+23
+recommendations and standards developed under 
+24
+paragraph (1) are consistent with the efforts re-
+25
+23:00 Mar 22, 2019
+H1668
+5 
+•HR 1668 IH
+ferred to in subsection (a), especially with respect to 
+1
+the examples of possible cybersecurity capabilities re-
+2
+ferred to in such subsection. 
+3
+(c) INSTITUTE REPORT ON CYBERSECURITY CONSID-
+4
+ERATIONS STEMMING FROM THE CONVERGENCE OF IN-
+5
+FORMATION TECHNOLOGY, INTERNET OF THINGS, AND 
+6
+OPERATIONAL TECHNOLOGY DEVICES, NETWORKS AND 
+7
+SYSTEMS.—Not later than 180 days following the enact-
+8
+ment of this Act, the Director of the Institute shall publish 
+9
+a draft report related to the increasing convergence of tra-
+10
+ditional Information Technology devices, networks, and 
+11
+systems with Internet of Things devices, networks and sys-
+12
+tems and Operational Technology devices, networks and 
+13
+systems, including considerations for managing cybersecu-
+14
+rity risks associated with such trends. 
+15
+SEC. 4. POLICIES FOR FEDERAL AGENCIES ON USE AND 
+16
+MANAGEMENT OF INTERNET OF THINGS DE-
+17
+VICES. 
+18
+(a) REVISIONS TO THE FEDERAL ACQUISITION REG-
+19
+ULATION.—Not later than 180 days after the date on 
+20
+which the Director of the National Institute of Standards 
+21
+and Technology completes the development of the rec-
+22
+ommendations required under section 3(b), the Director 
+23
+of the Office of Management and Budget shall issue guide-
+24
+23:00 Mar 22, 2019
+H1668
+6 
+•HR 1668 IH
+lines for each agency that are consistent with such rec-
+1
+ommendations. 
+2
+(b) REQUIREMENT.—In issuing the guidelines re-
+3
+quired under subsection (a), the Director of the Office of 
+4
+Management and Budget shall ensure that the guidelines 
+5
+are consistent with the information security requirements 
+6
+in subchapter II of chapter 35 of title 44, United States 
+7
+Code. 
+8
+(c) QUINQUENNIAL REVIEWS AND REVISIONS.—Not 
+9
+less frequently than once every 5 years— 
+10
+(1) the Director of the Office of Management 
+11
+and Budget and the Director of the National Insti-
+12
+tute of Standards and Technology shall review the 
+13
+policies issued under subsection (a); and 
+14
+(2) the Director of the Office of Management 
+15
+and Budget shall, in consultation with the Director 
+16
+of the National Institute of Standards and Tech-
+17
+nology, revise such policies. 
+18
+SEC. 5. NATIONAL INSTITUTE OF STANDARDS AND TECH-
+19
+NOLOGY GUIDANCE ON COORDINATED DIS-
+20
+CLOSURE OF SECURITY VULNERABILITIES 
+21
+RELATING TO INTERNET OF THINGS DE-
+22
+VICES. 
+23
+(a) IN GENERAL.—Not later than 180 days after the 
+24
+date of the enactment of this Act, the Director of the Na-
+25
+23:00 Mar 22, 2019
+H1668
+7 
+•HR 1668 IH
+tional Institute of Standards and Technology shall, in con-
+1
+sultation with such cybersecurity researchers and private- 
+2
+sector industry experts as the Director considers appro-
+3
+priate, publish guidance on policies and procedures for the 
+4
+reporting, coordinating, publishing, and receiving of infor-
+5
+mation about— 
+6
+(1) a security vulnerability relating to a covered 
+7
+device used by the Federal Government; and 
+8
+(2) the resolution of such security vulnerability. 
+9
+(b) ELEMENTS.—The guidance published under sub-
+10
+section (a) shall include the following: 
+11
+(1) Policies and procedures described in sub-
+12
+section (a) that, to the maximum extent practicable, 
+13
+are aligned with Standards 29147 and 30111 of the 
+14
+International Standards Organization, or any suc-
+15
+cessor standards. Such policies and procedures shall 
+16
+include policies and procedures for a contractor or 
+17
+vendor providing a covered device to the Federal 
+18
+Government on— 
+19
+(A) receiving information about a potential 
+20
+security vulnerability relating to the covered de-
+21
+vice; and 
+22
+(B) disseminating information about the 
+23
+resolution of a security vulnerability relating to 
+24
+the covered device. 
+25
+23:00 Mar 22, 2019
+H1668
+8 
+•HR 1668 IH
+(2) Guidance, including example content, on the 
+1
+information items that should be produced through 
+2
+the implementation of the security vulnerability dis-
+3
+closure process of the contractor. 
+4
+SEC. 6. GUIDELINES FOR FEDERAL AGENCIES ON COORDI-
+5
+NATED DISCLOSURE OF SECURITY VULNERA-
+6
+BILITIES RELATING TO INTERNET OF THINGS 
+7
+DEVICES. 
+8
+(a) AGENCY GUIDELINES REQUIRED.—Not later 
+9
+than 180 days after the date on which the guidance re-
+10
+quired under section 4 is published, the Director of the 
+11
+Office of Management and Budget shall, in consultation 
+12
+with the Administrator of the General Services Adminis-
+13
+tration, issue guidelines for each agency on reporting, co-
+14
+ordinating, publishing, and receiving information about— 
+15
+(1) a security vulnerability relating to a covered 
+16
+device used by the agency; and 
+17
+(2) the resolution of such security vulnerability. 
+18
+(b) CONTRACTOR AND VENDOR COMPLIANCE WITH 
+19
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY 
+20
+GUIDANCE.—The guidelines required by subsection (a) 
+21
+shall include a limitation that prohibits an agency from 
+22
+acquiring or using any covered device from a contractor 
+23
+or vendor if the contractor or vendor fails to comply with 
+24
+the guidance published under section 5(a). 
+25
+23:00 Mar 22, 2019
+H1668
+9 
+•HR 1668 IH
+(c) CONSISTENCY WITH GUIDANCE FROM NATIONAL 
+1
+INSTITUTE OF STANDARDS AND TECHNOLOGY.—The Di-
+2
+rector shall ensure that the guidelines issued under sub-
+3
+section (a) are consistent with the guidance published 
+4
+under section 5(a). 
+5
+Æ 
+23:00 Mar 22, 2019
+H1668

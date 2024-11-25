@@ -1,0 +1,709 @@
+A BILL 
+To keep children safe and protect their interests on the 
+internet, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Kids Internet Design 
+4
+and Safety Act’’ or the ‘‘KIDS Act’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+(1) Children increasingly consume digital enter-
+8
+tainment on the internet and are uniquely suscep-
+9
+tible to manipulation online, given their lack of im-
+10
+04:31 Oct 16, 2020
+H8372
+2 
+•HR 8372 IH
+portant neurological and psychological mechanisms 
+1
+which are developed later in adulthood. 
+2
+(2) Today’s digital media environment, which is 
+3
+constantly evolving and now includes high-tech expe-
+4
+riences, such as augmented reality and virtual re-
+5
+ality, is largely designed in non-transparent ways to 
+6
+ensure children interact with content that reflect the 
+7
+interests and goals of content creators, platforms, 
+8
+and marketers. 
+9
+(3) Artificial intelligence, machine learning, and 
+10
+other complex systems are used to make continuous 
+11
+decisions about how online content for children can 
+12
+be personalized to increase engagement. 
+13
+(4) Online companies gather, analyze, and use 
+14
+data for behavioral marketing directed at children. 
+15
+(5) Companies employ sophisticated strategies, 
+16
+including neuromarketing, to affect consumer behav-
+17
+ior and manipulate decision making. 
+18
+(6) Branded content in various forms of multi-
+19
+media, including native advertising and influencer 
+20
+marketing, exposes children to marketing that is in-
+21
+herently manipulative or purposely disguised as en-
+22
+tertainment or other information. 
+23
+SEC. 3. DEFINITIONS. 
+24
+(a) IN GENERAL.—In this Act: 
+25
+04:31 Oct 16, 2020
+H8372
+3 
+•HR 8372 IH
+(1) AUGMENTED
+REALITY.—The term ‘‘aug-
+1
+mented reality’’ means an application or web-based 
+2
+experience utilizing a camera to change or enhance 
+3
+the user’s view of the real world. 
+4
+(2) BRANDED CONTENT.—The term ‘‘branded 
+5
+content’’ means commercial content created for, and 
+6
+distributed on, a platform in such a way that the 
+7
+line between entertainment and advertising becomes 
+8
+unclear in order to generate a positive view of the 
+9
+brand. 
+10
+(3) COMMISSION.—The term ‘‘Commission’’ 
+11
+means the Federal Trade Commission. 
+12
+(4) COVERED USER.—The term ‘‘covered user’’ 
+13
+means an individual under the age of 16. 
+14
+(5) DIRECTED TO CHILDREN.—The term ‘‘di-
+15
+rected to children’’ means the targeting of covered 
+16
+users by a platform, as demonstrated by, with re-
+17
+spect to such platform— 
+18
+(A) its subject matter; 
+19
+(B) its visual content; 
+20
+(C) the use of animated characters or 
+21
+child-oriented activities for children and related 
+22
+incentives; 
+23
+(D) music or other audio content; 
+24
+(E) the age of models used; 
+25
+04:31 Oct 16, 2020
+H8372
+4 
+•HR 8372 IH
+(F) the presence of— 
+1
+(i) child celebrities; or 
+2
+(ii) celebrities who appeal to covered 
+3
+users; 
+4
+(G) the language used; 
+5
+(H) advertising content used on, or used to 
+6
+advertise, such platform; or 
+7
+(I) reliable empirical evidence relating to— 
+8
+(i) the composition of the audience of 
+9
+such platform; and 
+10
+(ii) the intended audience of such 
+11
+platform. 
+12
+(6) HOST-SELLING.—The term ‘‘host-selling’’ 
+13
+refers to commercial video content that features the 
+14
+same characters or individuals as in the adjacent 
+15
+noncommercial content. 
+16
+(7) 
+INFLUENCER
+MARKETING.—The 
+term 
+17
+‘‘influencer marketing’’ means a tactic by which a 
+18
+brand or agency or publisher works with individuals 
+19
+who are deemed to have the potential to create en-
+20
+gagement, drive conversation, or sell products or 
+21
+services with the intended target audience, in order 
+22
+to drive brand messages. 
+23
+(8) MANIPULATION.—The term ‘‘manipulation’’ 
+24
+means design strategies, product settings, and prod-
+25
+04:31 Oct 16, 2020
+H8372
+5 
+•HR 8372 IH
+uct architecture targeted to cognitive vulnerabilities 
+1
+with the intention or effect of pushing the user to 
+2
+make choices to their detriment and the operator’s 
+3
+benefit. 
+4
+(9) NATIVE ADVERTISING.—The term ‘‘native 
+5
+advertising’’ means a form of paid media where the 
+6
+advertising experience follows the natural form and 
+7
+function of the user experience in which it is placed. 
+8
+(10) NEUROMARKETING.—The term ‘‘neuro-
+9
+marketing’’ means a subfield of marketing that at-
+10
+tempts to predict and potentially manipulate con-
+11
+sumer behavior and decision making based on anal-
+12
+ysis of brain patterns. 
+13
+(11) OPERATOR.— 
+14
+(A) IN
+GENERAL.—The term ‘‘operator’’ 
+15
+means any person who operates a platform, in-
+16
+cluding any person offering products or services 
+17
+for sale through that platform, involving com-
+18
+merce— 
+19
+(i) among the several States or with 
+20
+one or more foreign nations; 
+21
+(ii) in any territory of the United 
+22
+States or in the District of Columbia, or 
+23
+between any such territory and— 
+24
+(I) another such territory; or 
+25
+04:31 Oct 16, 2020
+H8372
+6 
+•HR 8372 IH
+(II) any State or foreign nation; 
+1
+or 
+2
+(iii) between the District of Columbia 
+3
+and any State, territory, or foreign nation. 
+4
+(B) EXCEPTION.—The term ‘‘operator’’ 
+5
+does not include any nonprofit entity that would 
+6
+otherwise be exempt from coverage under sec-
+7
+tion 5 of the Federal Trade Commission Act 
+8
+(15 U.S.C. 45). 
+9
+(12) PERSON.—The term ‘‘person’’ means any 
+10
+individual, partnership, corporation, trust, estate, co-
+11
+operative, association, or other entity. 
+12
+(13) PLATFORM.—The term ‘‘platform’’ means 
+13
+a website, online service, online application, or mo-
+14
+bile application which is operated for commercial 
+15
+purposes. 
+16
+(14) VIRTUAL REALITY.—The term ‘‘virtual re-
+17
+ality’’ means an application or web-based experience 
+18
+utilizing a camera to create an immersive environ-
+19
+ment that mimics the real world, usually via a head-
+20
+set. 
+21
+04:31 Oct 16, 2020
+H8372
+7 
+•HR 8372 IH
+SEC. 4. REGULATION OF ACTS AND PRACTICES ON CHILD- 
+1
+DIRECTED PLATFORMS. 
+2
+(a) PROHIBITION ON CERTAIN FEATURES.—It is un-
+3
+lawful for an operator of a platform directed to children 
+4
+to incorporate any of the following features: 
+5
+(1) Any auto-play setting that, without input 
+6
+from the covered user, commences additional video 
+7
+content directly following the video content initially 
+8
+selected by the user. 
+9
+(2) Push alerts that urge a covered user to 
+10
+spend more time engaged with the platform when 
+11
+they are not actively using it. 
+12
+(3) Displaying the quantity of positive engage-
+13
+ment or feedback that a covered user has received 
+14
+from other users. 
+15
+(4) Any design feature or setting that unfairly 
+16
+encourages a covered user, due to their age or inex-
+17
+perience, to make purchases, submit content, or 
+18
+spend more time engaging with the platform. 
+19
+(5) Any feature that provides a covered user 
+20
+with badges or other visual award symbols based on 
+21
+elevated levels of engagement with the platform. 
+22
+(b) PROHIBITION ON AMPLIFICATION OF CERTAIN 
+23
+CONTENT; USER REPORTING MECHANISM.—It shall be 
+24
+unlawful for an operator of a platform directed to children, 
+25
+04:31 Oct 16, 2020
+H8372
+8 
+•HR 8372 IH
+or a platform for which the operator has constructive 
+1
+knowledge that covered users use its platform, to— 
+2
+(1) amplify, promote, or encourage covered 
+3
+users’ consumption of videos and other forms of con-
+4
+tent that involve— 
+5
+(A) sexual material; 
+6
+(B) physical or emotional violence, includ-
+7
+ing bullying; 
+8
+(C) adult activities, including gambling; or 
+9
+(D) other dangerous, abusive, exploitative, 
+10
+or wholly commercial content; or 
+11
+(2) fail to implement a mechanism for users to 
+12
+report suspected violations of any requirement under 
+13
+paragraph (1). 
+14
+(c) PROHIBITION ON CERTAIN ADVERTISING METH-
+15
+ODS.— 
+16
+(1) IN GENERAL.—It shall be unlawful for an 
+17
+operator of a platform directed to children to— 
+18
+(A) direct content that includes host-selling 
+19
+to covered users; 
+20
+(B) expose covered users to program- 
+21
+length advertisements; 
+22
+(C) direct branded content or native adver-
+23
+tising to covered users; 
+24
+04:31 Oct 16, 2020
+H8372
+9 
+•HR 8372 IH
+(D) direct online advertising or material 
+1
+with considerable commercial content involving 
+2
+alcohol, nicotine, or tobacco to covered users; 
+3
+(E) expose covered users to online adver-
+4
+tising or material with considerable commercial 
+5
+content with any imbedded interactive elements 
+6
+that take advantage of covered users’ inexperi-
+7
+ence or credulity in noncommercial child-di-
+8
+rected content; or 
+9
+(F) direct content that includes product 
+10
+placement to covered users. 
+11
+(2) PROGRAM-LENGTH ADVERTISEMENT.—The 
+12
+term ‘‘program-length advertisement’’ shall be de-
+13
+fined by the Commission through regulation or other 
+14
+public guidance. 
+15
+(d) PROHIBITION ON USE OF PERSONAL INFORMA-
+16
+TION.—It shall be unlawful for an operator of a platform 
+17
+directed to children to use age verification information col-
+18
+lected from covered users for any commercial purpose. 
+19
+(e) REGULATIONS.—The Commission shall promul-
+20
+gate regulations in accordance with section 553 of title 
+21
+5, United States Code, to require any operator of a plat-
+22
+form directed to children to incorporate online visual ele-
+23
+ments or other indicators that distinguish commercial con-
+24
+tent from noncommercial content. 
+25
+04:31 Oct 16, 2020
+H8372
+10 
+•HR 8372 IH
+SEC. 5. MARKETING AND COMMERCIALIZATION. 
+1
+(a) CONTENT LABELING SYSTEM REPORT.—Not 
+2
+later than the date that is 1 year after the date of enact-
+3
+ment of this Act, the Commission shall submit to Congress 
+4
+a report— 
+5
+(1) containing recommendations for a labeling 
+6
+system to allow parents to identify noncommercial, 
+7
+educational, and enriching content for covered users 
+8
+online; and 
+9
+(2) address considerations regarding how such 
+10
+labeling system should— 
+11
+(A) analyze content based on evidence- 
+12
+based criteria; 
+13
+(B) employ an easy-to-understand visual 
+14
+cue for parents to identify content described in 
+15
+paragraph (1); 
+16
+(C) receive regular review to determine its 
+17
+effectiveness; and 
+18
+(D) develop a mechanism for users to re-
+19
+port to the Commission complaints of mis-
+20
+labeled content and for the Commission to rem-
+21
+edy such instances of mislabeled content. 
+22
+(b) CONSULTATION.—The report described in sub-
+23
+section (a) shall be developed by the Commission in con-
+24
+sultation with an advisory board, to be created and con-
+25
+04:31 Oct 16, 2020
+H8372
+11 
+•HR 8372 IH
+vened by the Commission, which is comprised of experts 
+1
+in child development, child health, education, and media. 
+2
+SEC. 6. TRANSPARENCY AND AUDITING. 
+3
+(a) TRANSPARENCY.—The Commission shall promul-
+4
+gate regulations in accordance with section 553 of title 
+5
+5, United States Code, requiring an operator of a platform 
+6
+which is directed to children to publish and maintain a 
+7
+publicly accessible digital record of the viewable or play-
+8
+able content of each such platform. 
+9
+(b) ANNUAL PLATFORM AUDITS.—The regulations 
+10
+promulgated pursuant to subsection (a) shall include the 
+11
+establishment of an annual audit process, to be conducted 
+12
+during the 5-year period subsequent to the date of enact-
+13
+ment of this Act, for each of the 25 platforms directed 
+14
+to children with the highest total number of child users, 
+15
+to evaluate the level of compliance by each such platform 
+16
+with respect to the requirements under this Act. 
+17
+(c) REPORT.—The Commission shall issue annual re-
+18
+ports to Congress based on the audits described in sub-
+19
+section (b) that— 
+20
+(1) describe the level of compliance by the plat-
+21
+forms described in such subsection with respect to 
+22
+the requirements under this Act; and 
+23
+04:31 Oct 16, 2020
+H8372
+12 
+•HR 8372 IH
+(2) provide recommendations for such legisla-
+1
+tion and administrative actions as the Commission 
+2
+determines appropriate based on the audit findings. 
+3
+SEC. 7. GRANT PROGRAM. 
+4
+(a) ESTABLISHMENT.— 
+5
+(1) IN GENERAL.—The Secretary of Commerce 
+6
+shall provide grants to eligible persons to foster the 
+7
+creation and promotion of advertisement-free and 
+8
+educational online content for covered users, such as 
+9
+videos and applications. 
+10
+(2) ELIGIBLE PERSON.—For purposes of this 
+11
+section, the term ‘‘eligible person’’ means a person 
+12
+that has submitted an application, as approved by 
+13
+the Secretary of Commerce pursuant to the eligi-
+14
+bility requirements developed under subsection (b), 
+15
+for the creation and promotion of advertisement-free 
+16
+and educational online content for covered users. 
+17
+(b) ADVISORY COUNCIL.—The Secretary shall estab-
+18
+lish and convene an Advisory Council on Children’s Online 
+19
+Content, which shall be— 
+20
+(1) comprised of experts in education, child de-
+21
+velopment, psychology, online media, and other re-
+22
+lated disciplines; and 
+23
+(2) tasked with developing evidence-based cri-
+24
+teria for grant eligibility and grant distribution. 
+25
+04:31 Oct 16, 2020
+H8372
+13 
+•HR 8372 IH
+(c) AUTHORIZATION OF APPROPRIATIONS.— 
+1
+(1) IN GENERAL.—To carry out this section, 
+2
+there is authorized to be appropriated— 
+3
+(A) for fiscal year 2021, $4,000,000; 
+4
+(B) for fiscal year 2022, $8,000,000; 
+5
+(C) for fiscal year 2023, $10,000,000; and 
+6
+(D) for fiscal year 2024, $12,000,000. 
+7
+(2) AVAILABILITY OF FUNDS.—Any amount ap-
+8
+propriated under this subsection for any fiscal year 
+9
+shall remain available for the purposes of carrying 
+10
+out any application approved during such fiscal year 
+11
+for an additional period of 1 year after the end of 
+12
+such fiscal year. 
+13
+SEC. 8. ADMINISTRATION AND ENFORCEMENT. 
+14
+(a) IN GENERAL.—This Act shall be enforced by the 
+15
+Commission under the Federal Trade Commission Act (15 
+16
+U.S.C. 41 et seq.). 
+17
+(b) ACTIONS BY COMMISSION.— 
+18
+(1) IN GENERAL.—The Commission shall pre-
+19
+vent any person from violating this Act or any regu-
+20
+lation promulgated by the Commission under this 
+21
+Act in the same manner, by the same means, and 
+22
+with the same jurisdiction, powers, and duties, as 
+23
+though all applicable terms and provisions of the 
+24
+Federal Trade Commission Act (15 U.S.C. 41 et 
+25
+04:31 Oct 16, 2020
+H8372
+14 
+•HR 8372 IH
+seq.) were incorporated into and made a part of this 
+1
+Act. 
+2
+(2) PENALTIES AND PRIVILEGES.—Any person 
+3
+that violates this Act or any regulation promulgated 
+4
+under the Act shall be subject to the penalties and 
+5
+entitled to the privileges and immunities provided in 
+6
+the Federal Trade Commission Act in the same 
+7
+manner, by the same means, and with the same ju-
+8
+risdiction, power, and duties, as though all applica-
+9
+ble terms and provisions of the Federal Trade Com-
+10
+mission Act were incorporated into and made a part 
+11
+of this Act. 
+12
+(c) CIVIL PENALTY.—A violation of the Act, or a rule 
+13
+promulgated under the Act, shall be treated as a violation 
+14
+of a rule defining an unfair or deceptive act or practice 
+15
+prescribed under section 18(a)(1)(B) of the Federal Trade 
+16
+Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+17
+(d) EFFECT ON OTHER LAWS.—Nothing contained 
+18
+in this Act shall be construed to limit the authority of the 
+19
+Commission under any other provisions of law. 
+20
+Æ 
+04:31 Oct 16, 2020
+H8372

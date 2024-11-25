@@ -1,0 +1,317 @@
+A BILL 
+To amend the Homeland Security Act of 2002 to authorize 
+the Secretary of Homeland Security to establish a contin-
+uous diagnostics and mitigation program in the Cyberse-
+curity and Infrastructure Security Agency of the Depart-
+ment of Homeland Security, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Advancing Cybersecu-
+4
+rity Diagnostics and Mitigation Act’’. 
+5
+21:07 Sep 06, 2019
+H4237
+2 
+•HR 4237 IH
+SEC. 2. ESTABLISHMENT OF CONTINUOUS DIAGNOSTICS 
+1
+AND MITIGATION PROGRAM IN THE CYBER-
+2
+SECURITY AND INFRASTRUCTURE SECURITY 
+3
+AGENCY. 
+4
+(a) IN GENERAL.—Section 2213 of the Homeland 
+5
+Security Act of 2002 (6 U.S.C. 663) is amended by adding 
+6
+at the end the following: 
+7
+‘‘(g) CONTINUOUS DIAGNOSTICS AND MITIGATION.— 
+8
+‘‘(1) PROGRAM.— 
+9
+‘‘(A) IN GENERAL.—The Secretary, acting 
+10
+through the Director of Cybersecurity and In-
+11
+frastructure Security, shall deploy, operate, and 
+12
+maintain a continuous diagnostics and mitiga-
+13
+tion program for agencies. Under such pro-
+14
+gram, the Secretary shall— 
+15
+‘‘(i) assist agencies to continuously di-
+16
+agnose and mitigate cyber threats and 
+17
+vulnerabilities; 
+18
+‘‘(ii) develop and provide the capa-
+19
+bility to collect, analyze, and visualize in-
+20
+formation relating to security data and cy-
+21
+bersecurity risks at agencies; 
+22
+‘‘(iii) make program capabilities avail-
+23
+able for use, with or without reimburse-
+24
+ment, to civilian agencies and State, local, 
+25
+Tribal, and territorial governments; 
+26
+21:07 Sep 06, 2019
+H4237
+3 
+•HR 4237 IH
+‘‘(iv) employ shared services, collective 
+1
+purchasing, blanket purchase agreements, 
+2
+and any other economic or procurement 
+3
+models the Secretary determines appro-
+4
+priate to maximize the costs savings asso-
+5
+ciated with implementing an information 
+6
+system; 
+7
+‘‘(v) assist entities in setting informa-
+8
+tion security priorities and assessing and 
+9
+managing cybersecurity risks; and 
+10
+‘‘(vi) develop policies and procedures 
+11
+for reporting systemic cybersecurity risks 
+12
+and potential incidents based upon data 
+13
+collected under such program. 
+14
+‘‘(B) REGULAR IMPROVEMENT.—The Sec-
+15
+retary shall regularly deploy new technologies 
+16
+and modify existing technologies to the contin-
+17
+uous diagnostics and mitigation program re-
+18
+quired under subparagraph (A), as appropriate, 
+19
+to improve the program. 
+20
+‘‘(2) 
+AGENCY
+RESPONSIBILITIES.—Notwith-
+21
+standing any other provision of law, each agency 
+22
+that uses the continuous diagnostics and mitigation 
+23
+program under paragraph (1) shall, continuously 
+24
+and in real time, provide to the Secretary all infor-
+25
+21:07 Sep 06, 2019
+H4237
+4 
+•HR 4237 IH
+mation, assessments, analyses, and raw data col-
+1
+lected by the program, in a manner specified by the 
+2
+Secretary. 
+3
+‘‘(3) RESPONSIBILITIES OF THE SECRETARY.— 
+4
+In carrying out the continuous diagnostics and miti-
+5
+gation program under paragraph (1), the Secretary 
+6
+shall, as appropriate— 
+7
+‘‘(A) share with agencies relevant analysis 
+8
+and products developed under such program; 
+9
+‘‘(B) provide regular reports on cybersecu-
+10
+rity risks to agencies; and 
+11
+‘‘(C) provide comparative assessments of 
+12
+cybersecurity risks for agencies.’’. 
+13
+(b) CONTINUOUS DIAGNOSTICS
+AND MITIGATION 
+14
+STRATEGY.— 
+15
+(1) IN
+GENERAL.—Not later than 180 days 
+16
+after the date of the enactment of this Act, the Sec-
+17
+retary of Homeland Security shall develop a com-
+18
+prehensive continuous diagnostics and mitigation 
+19
+strategy to carry out the continuous diagnostics and 
+20
+mitigation program required under subsection (g) of 
+21
+section 2213 of the Homeland Security Act of 2002 
+22
+(6 U.S.C. 663), as added by subsection (a). 
+23
+(2) SCOPE.—The strategy required under para-
+24
+graph (1) shall include the following: 
+25
+21:07 Sep 06, 2019
+H4237
+5 
+•HR 4237 IH
+(A) A description of the continuous 
+1
+diagnostics and mitigation program, including 
+2
+efforts by the Secretary of Homeland Security 
+3
+to assist with the deployment of program tools, 
+4
+capabilities, and services, from the inception of 
+5
+the program referred to in paragraph (1) to the 
+6
+date of enactment of this Act. 
+7
+(B) A description of the coordination and 
+8
+funding required to deploy, install, and main-
+9
+tain the tools, capabilities, and services that the 
+10
+Secretary of Homeland Security determines to 
+11
+be necessary to satisfy the requirements of such 
+12
+program. 
+13
+(C) A description of any obstacles facing 
+14
+the deployment, installation, and maintenance 
+15
+of tools, capabilities, and services under such 
+16
+program. 
+17
+(D) Recommendations and guidelines to 
+18
+help maintain and continuously upgrade tools, 
+19
+capabilities, and services provided under such 
+20
+program. 
+21
+(E) Recommendations for using the data 
+22
+collected by such program for creating a com-
+23
+mon framework for data analytics, visualization 
+24
+of enterprise-wide risks, and real-time report-
+25
+21:07 Sep 06, 2019
+H4237
+6 
+•HR 4237 IH
+ing, and comparative assessments for cyberse-
+1
+curity risks. 
+2
+(F) Recommendations for future efforts 
+3
+and activities, including for the rollout of new 
+4
+and emerging tools, capabilities and services, 
+5
+proposed timelines for delivery, and whether to 
+6
+continue the use of phased rollout plans, related 
+7
+to securing networks, devices, data, and infor-
+8
+mation 
+and 
+operational 
+technology 
+assets 
+9
+through the use of such program. 
+10
+(3) FORM.—The strategy required under para-
+11
+graph (1) shall be submitted in an unclassified form, 
+12
+but may contain a classified annex. 
+13
+(c) REPORT.—Not later than 180 days after the de-
+14
+velopment of the strategy required under subsection (b), 
+15
+the Secretary of Homeland Security shall submit to the 
+16
+Committee on Homeland Security and Governmental Af-
+17
+fairs of the Senate and the Committee on Homeland Secu-
+18
+rity of the House of Representative a report on cybersecu-
+19
+rity risk posture based on the data collected through the 
+20
+continuous diagnostics and mitigation program under sub-
+21
+section (g) of section 2213 of the Homeland Security Act 
+22
+of 2002 (6 U.S.C. 663), as added by subsection (a). 
+23
+(d) GAO REPORT.—Not later than 1 year after the 
+24
+date of enactment of this Act, the Comptroller General 
+25
+21:07 Sep 06, 2019
+H4237
+7 
+•HR 4237 IH
+of the United States shall submit a report to Congress 
+1
+on the potential impacts and benefits of replacing the re-
+2
+porting requirements under chapter 35 of title 44, United 
+3
+States Code, with periodical real-time data provided by the 
+4
+continuous diagnostics and mitigation program under sub-
+5
+section (g) of section 2213 of the Homeland Security Act 
+6
+of 2002 (6 U.S.C. 663), as added by subsection (a). 
+7
+Æ 
+21:07 Sep 06, 2019
+H4237

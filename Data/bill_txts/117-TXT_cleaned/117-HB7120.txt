@@ -1,0 +1,526 @@
+A BILL 
+To require the Securities and Exchange Commission to pro-
+mulgate regulations relating to the disclosure of certain 
+commercial data, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Designing Accounting 
+4
+Safeguards to Help Broaden Oversight And Regulations 
+5
+on Data Act of 2022’’ or the ‘‘DASHBOARD Act of 
+6
+2022’’. 
+7
+17:26 Mar 22, 2022
+H7120
+2 
+•HR 7120 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) COMMISSION.—The term ‘‘Commission’’ 
+3
+means the Securities and Exchange Commission. 
+4
+(2) ISSUER.—The term ‘‘issuer’’ has the mean-
+5
+ing given the term in section 3(a) of the Securities 
+6
+and Exchange Act of 1934 (15 U.S.C. 78c(a)). 
+7
+(3) OTHER
+DEFINITIONS.—The terms ‘‘com-
+8
+mercial data operator’’, ‘‘user’’, and ‘‘user data’’ 
+9
+have the meaning given those terms, respectively, 
+10
+under section 13(s)(1) of the Securities Exchange 
+11
+Act of 1934. 
+12
+SEC. 3. COMMERCIAL DATA OPERATORS. 
+13
+(a) REQUIREMENTS.— 
+14
+(1) IN GENERAL.—A commercial data operator 
+15
+shall— 
+16
+(A) on a routine basis, and not less fre-
+17
+quently than once every 90 days— 
+18
+(i) provide each user of the commer-
+19
+cial data operator with an assessment of 
+20
+the economic value that the commercial 
+21
+data operator places on the data of that 
+22
+user; and 
+23
+(ii) in a clear and conspicuous man-
+24
+ner, in accordance with paragraph (3), 
+25
+17:26 Mar 22, 2022
+H7120
+3 
+•HR 7120 IH
+identify to each user of the commercial 
+1
+data operator— 
+2
+(I) the types of data collected 
+3
+from users of the commercial data op-
+4
+erator, whether by the commercial 
+5
+data operator or another person pur-
+6
+suant to an agreement with the com-
+7
+mercial data operator; and 
+8
+(II) the ways that the data of a 
+9
+user of the commercial data operator 
+10
+are used if the use is not directly or 
+11
+exclusively related to the online serv-
+12
+ice that the commercial data operator 
+13
+provides to the user; and 
+14
+(B) except as provided in paragraph (2), 
+15
+provide a user of the commercial data operator 
+16
+with the ability to delete all data, in the aggre-
+17
+gate and for an individual field, that the com-
+18
+mercial data operator possesses, or maintains 
+19
+control or access to with respect to the user, 
+20
+through— 
+21
+(i) a single setting; or 
+22
+(ii) another clear and conspicuous 
+23
+mechanism by which the user may make 
+24
+such a deletion. 
+25
+17:26 Mar 22, 2022
+H7120
+4 
+•HR 7120 IH
+(2) DELETION EXCEPTIONS.— 
+1
+(A) IN GENERAL.—A commercial data op-
+2
+erator shall comply with a user directive to de-
+3
+lete, in whole or in part, the data of the user 
+4
+except— 
+5
+(i) in cases where there is a legal obli-
+6
+gation of the commercial data operator to 
+7
+maintain the data; 
+8
+(ii) for the establishment, exercise, or 
+9
+defense of legal claims; or 
+10
+(iii) if the data is necessary to detect 
+11
+security incidents, protect against mali-
+12
+cious, deceptive, fraudulent, or illegal activ-
+13
+ity, or assist in the prosecution of those re-
+14
+sponsible for such activity. 
+15
+(B) RETENTION.—A commercial data op-
+16
+erator may not retain any more user data than 
+17
+is necessary to carry out an activity described 
+18
+in clauses (i) through (iii) of subparagraph (A). 
+19
+(3) AVAILABILITY.—A commercial data oper-
+20
+ator shall ensure that all disclosures required under 
+21
+paragraph (1) are available to a user of the commer-
+22
+cial data operator— 
+23
+17:26 Mar 22, 2022
+H7120
+5 
+•HR 7120 IH
+(A) on and after the date on which the 
+1
+commercial data operator makes the identifica-
+2
+tion; and 
+3
+(B) through any normal mechanism by 
+4
+which a user may interact with the online serv-
+5
+ice provided by the commercial data operator. 
+6
+(4) UNFAIR AND DECEPTIVE ACTS OR PRAC-
+7
+TICES.— 
+8
+(A) UNFAIR OR DECEPTIVE ACTS OR PRAC-
+9
+TICES.—A violation of this subsection shall be 
+10
+treated as a violation of a rule defining an un-
+11
+fair or deceptive act or practice prescribed 
+12
+under section 18(a)(1)(B) of the Federal Trade 
+13
+Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+14
+(B) POWERS OF FEDERAL TRADE COMMIS-
+15
+SION.— 
+16
+(i) IN GENERAL.—The Federal Trade 
+17
+Commission shall enforce this subsection in 
+18
+the same manner, by the same means, and 
+19
+with the same jurisdiction, powers, and du-
+20
+ties as though all applicable terms and pro-
+21
+visions of the Federal Trade Commission 
+22
+Act (15 U.S.C. 41 et seq.) were incor-
+23
+porated into and made a part of this sub-
+24
+section. 
+25
+17:26 Mar 22, 2022
+H7120
+6 
+•HR 7120 IH
+(ii) PRIVILEGES AND IMMUNITIES.— 
+1
+Any person who violates this subsection 
+2
+shall be subject to the penalties and enti-
+3
+tled to the privileges and immunities pro-
+4
+vided in the Federal Trade Commission 
+5
+Act (15 U.S.C. 41 et seq.). 
+6
+(b) REGULATIONS.—Not later than 1 year after the 
+7
+date of enactment of this Act, the Federal Trade Commis-
+8
+sion shall promulgate regulations carrying out subsection 
+9
+(a). 
+10
+SEC. 4. SEC DISCLOSURES. 
+11
+(a) IN GENERAL.—Section 13 of the Securities Ex-
+12
+change Act of 1934 (15 U.S.C. 78m) is amended by add-
+13
+ing at the end the following: 
+14
+‘‘(s) DISCLOSURE RELATING TO AGGREGATE VALUE 
+15
+OF USER DATA HELD BY COMMERCIAL DATA OPERA-
+16
+TORS.— 
+17
+‘‘(1) DEFINITIONS.—In this subsection: 
+18
+‘‘(A) COMMERCIAL DATA OPERATOR.—The 
+19
+term ‘commercial data operator’ means an enti-
+20
+ty acting in its capacity as a consumer online 
+21
+services provider or data broker that— 
+22
+‘‘(i) generates a material amount of 
+23
+revenue directly from the use, collection, 
+24
+17:26 Mar 22, 2022
+H7120
+7 
+•HR 7120 IH
+processing, sale, or sharing of the user 
+1
+data; and 
+2
+‘‘(ii) has more than 100,000,000 
+3
+unique monthly visitors or users in the 
+4
+United States for a majority of months 
+5
+during the previous 1-year period. 
+6
+‘‘(B) USER.—The term ‘user’ means an in-
+7
+dividual consumer who uses an online service 
+8
+designed for consumer use by a commercial 
+9
+data operator. 
+10
+‘‘(C) USER DATA.—The term ‘user data’ 
+11
+means any information that identifies, relates 
+12
+to, describes, is capable of being associated 
+13
+with, or could reasonably be linked with an in-
+14
+dividual user, whether directly submitted to the 
+15
+commercial data operator by the user or derived 
+16
+from the observed activity of the user by the 
+17
+commercial data operator. 
+18
+‘‘(2) DISCLOSURE.—Each issuer that is, or is a 
+19
+consolidated subsidiary of, a commercial data oper-
+20
+ator and is required to file an annual or quarterly 
+21
+report under subsection (a) shall disclose in that re-
+22
+port the aggregate value, if material, of— 
+23
+‘‘(A) user data that the commercial data 
+24
+operator holds; 
+25
+17:26 Mar 22, 2022
+H7120
+8 
+•HR 7120 IH
+‘‘(B) contracts with third parties for the 
+1
+collection of user data through the online serv-
+2
+ice provided by the commercial data operator; 
+3
+and 
+4
+‘‘(C) any other item that the Commission 
+5
+determines, by rule, is necessary or useful for 
+6
+the protection of investors and in the public in-
+7
+terest. 
+8
+‘‘(3) VALUATION METHODOLOGY.— 
+9
+‘‘(A) IN GENERAL.—The Commission, in 
+10
+consultation with appropriate standards setting 
+11
+organizations, shall develop a method or meth-
+12
+ods for calculating the value of user data re-
+13
+quired to be disclosed under paragraph (2). 
+14
+‘‘(B) CONSIDERATIONS.—In developing the 
+15
+method under subparagraph (A), the Commis-
+16
+sion shall promote comparability in calculating 
+17
+the value of data across commercial data opera-
+18
+tors that utilize user data in a similar manner 
+19
+while taking into account the potential need to 
+20
+develop distinct methods for calculating the 
+21
+value of data for different uses, sectors, and 
+22
+business models.’’. 
+23
+(b) QUALITATIVE DISCLOSURE.—Not later than 1 
+24
+year after the date of enactment of this subsection, the 
+25
+17:26 Mar 22, 2022
+H7120
+9 
+•HR 7120 IH
+Commission shall amend section 229.306 of title 17, Code 
+1
+of Federal Regulations, to require a commercial data oper-
+2
+ator that is an issuer subject to section 13 or 15(d) of 
+3
+the Securities Exchange Act of 1934 (15 U.S.C. 78m, 
+4
+78o(d)) to provide quantitative and qualitative disclosures 
+5
+about the value of user data held, including— 
+6
+(1) technical and legal measures in place to 
+7
+protect user data held by the commercial data oper-
+8
+ator; 
+9
+(2) an assessment of financial and legal risks 
+10
+associated with storing the type and quantity of user 
+11
+data held by the commercial data operator; 
+12
+(3) each source of user data held by the com-
+13
+mercial data operator, whether by sale, a direct con-
+14
+sumer relationship, an indirect consumer relation-
+15
+ship, or other means; 
+16
+(4) each discrete revenue generating operation 
+17
+of the commercial data operator and any subsidiary 
+18
+or affiliate that relies on user data; 
+19
+(5) the entry into any contract valued at more 
+20
+than $10,000,000 with a third party for the collec-
+21
+tion, licensing, or sharing by the third party pursu-
+22
+ant to an agreement with the commercial data oper-
+23
+ator; 
+24
+17:26 Mar 22, 2022
+H7120
+10 
+•HR 7120 IH
+(6) the amount of revenue derived from obtain-
+1
+ing, collecting, processing, selling, using or sharing 
+2
+user data during the reporting period; 
+3
+(7) how changes in the measurement of aggre-
+4
+gate fair value of user data affect the reported per-
+5
+formance and cash flows of the issuer; and 
+6
+(8) any acquisition of user data in the pre-
+7
+ceding reporting period valued at more than 
+8
+$100,000,000. 
+9
+(c) REPORT.— 
+10
+(1) IN GENERAL.—Not later than 3 years after 
+11
+the date of enactment of this Act, the Commission 
+12
+shall submit to the Committee on Banking, Housing, 
+13
+and Urban Affairs of the Senate and the Committee 
+14
+on Financial Services of the House of Representa-
+15
+tives a report on— 
+16
+(A) the nature, timing, and extent of the 
+17
+disclosure practices of commercial data opera-
+18
+tors; 
+19
+(B) an assessment of the valuation meth-
+20
+odologies and practices employed by commercial 
+21
+data operators in developing and submitting 
+22
+disclosures to the public; 
+23
+(C) an evaluation of the methods of deliv-
+24
+ery and presentation of the disclosures required 
+25
+17:26 Mar 22, 2022
+H7120
+11 
+•HR 7120 IH
+by this Act, and the amendments made by this 
+1
+Act; and 
+2
+(D) recommendations for the improvement 
+3
+of the methods described in subparagraph (C), 
+4
+including developing standards to enhance com-
+5
+parability and utility for investors. 
+6
+(2) RULEMAKING.—Not later than 180 days 
+7
+after the date on which the report required under 
+8
+paragraph (1) is submitted, the Commission shall 
+9
+promulgate a proposed regulation implementing the 
+10
+recommendations described in paragraph (1)(D). 
+11
+Æ 
+17:26 Mar 22, 2022
+H7120

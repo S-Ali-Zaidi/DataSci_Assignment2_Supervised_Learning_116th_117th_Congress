@@ -1,0 +1,2167 @@
+A BILL 
+To promote the use of smart technologies and systems in 
+communities, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Smart Cities and Communities Act of 2019’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Purpose. 
+Sec. 3. Definitions. 
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+2 
+•HR 2636 IH
+TITLE I—ENHANCING FEDERAL COORDINATION AND 
+INVESTMENT IN SMART CITY OR COMMUNITY PROGRAMS 
+Sec. 101. Coordination of activities among Federal agencies. 
+Sec. 102. Smart city and community resource guide. 
+TITLE II—PROVIDING ASSISTANCE TO CITIES AND COMMUNITIES 
+Sec. 201. Technology demonstration grant program. 
+Sec. 202. Cybersecurity Working Group. 
+Sec. 203. TechHire Workforce Training and Development Program. 
+Sec. 204. GAO study on innovative financing. 
+Sec. 205. Technical assistance, voucher pilot program, and technologist in resi-
+dence pilot program. 
+TITLE III—IMPROVING PERFORMANCE AND INTEROPERABILITY 
+Sec. 301. Standards and interoperability framework. 
+TITLE IV—INTERNATIONAL COOPERATION AND BEST PRACTICES 
+Sec. 401. Development of global smart city or community best practices. 
+Sec. 402. Trade program. 
+SEC. 2. PURPOSE. 
+1
+The purpose of this Act is to promote smart tech-
+2
+nologies and systems to improve community livability, 
+3
+services, communication, safety, mobility, energy produc-
+4
+tivity, and resilience to natural and manmade disasters, 
+5
+to reduce costs, traffic congestion, and air pollution, and 
+6
+to promote economic growth and opportunities for commu-
+7
+nities of all sizes by— 
+8
+(1) improving Federal Government coordination 
+9
+and outreach with respect to smart city or commu-
+10
+nity technologies; 
+11
+(2) promoting the quality and performance of 
+12
+smart city or community technologies while pro-
+13
+tecting— 
+14
+(A) the security of data and systems; and 
+15
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+3 
+•HR 2636 IH
+(B) privacy; 
+1
+(3) demonstrating the value and utility of 
+2
+smart, local government-owned and -operated serv-
+3
+ices through the development and implementation of 
+4
+performance standards; 
+5
+(4) providing assistance to local governments 
+6
+interested in implementing smart city or community 
+7
+technologies; 
+8
+(5) developing a workforce skilled in smart city 
+9
+or community technologies; and 
+10
+(6) expanding international cooperation and 
+11
+trade in smart city or community technologies. 
+12
+SEC. 3. DEFINITIONS. 
+13
+In this Act: 
+14
+(1) COUNCIL.—The term ‘‘Council’’ means the 
+15
+Interagency Council on Smart Cities established 
+16
+under section 101(a)(1)(A)(i). 
+17
+(2) DATA.—The term ‘‘data’’ includes informa-
+18
+tion and images. 
+19
+(3) LOCAL WORKFORCE DEVELOPMENT BOARD; 
+20
+STATE
+WORKFORCE
+DEVELOPMENT
+BOARD.—The 
+21
+terms ‘‘local workforce development board’’ and 
+22
+‘‘State workforce development board’’ have the 
+23
+meanings given the terms ‘‘local board’’ and ‘‘State 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+4 
+•HR 2636 IH
+board’’, respectively, in section 3 of the Workforce 
+1
+Innovation and Opportunity Act (29 U.S.C. 3102). 
+2
+(4) SECRETARIES.—The term ‘‘Secretaries’’ 
+3
+means the Secretary, acting in coordination with— 
+4
+(A) the Secretary of Energy; 
+5
+(B) the Secretary of Housing and Urban 
+6
+Development; 
+7
+(C) the Secretary of Transportation; 
+8
+(D) the Director of the National Science 
+9
+Foundation; and 
+10
+(E) as the Secretary determines to be ap-
+11
+propriate— 
+12
+(i) the Secretary of Health and 
+13
+Human Services; 
+14
+(ii) the Secretary of Homeland Secu-
+15
+rity; 
+16
+(iii) the Secretary of Labor; and 
+17
+(iv) the Secretary of State. 
+18
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+19
+the Secretary of Commerce. 
+20
+(6) SMART CITY OR COMMUNITY.— 
+21
+(A) IN GENERAL.—The term ‘‘smart city 
+22
+or community’’ means a community in which 
+23
+innovative, advanced, and trustworthy informa-
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+5 
+•HR 2636 IH
+tion, communication, and energy technologies 
+1
+and related mechanisms are applied— 
+2
+(i) to improve the health and quality 
+3
+of life of residents; 
+4
+(ii) to increase the efficiency and cost 
+5
+effectiveness of civic operations and serv-
+6
+ices; 
+7
+(iii) to promote economic growth; and 
+8
+(iv) to create a community that is 
+9
+safer and more secure, sustainable, resil-
+10
+ient, livable, and workable. 
+11
+(B) INCLUSIONS.—The term ‘‘smart city 
+12
+or community’’ includes a local jurisdiction 
+13
+that— 
+14
+(i) gathers and incorporates data from 
+15
+systems, devices, and sensors embedded in 
+16
+civic systems and infrastructure to improve 
+17
+the effectiveness and efficiency of civic op-
+18
+erations and services; 
+19
+(ii) aggregates and analyzes gathered 
+20
+data; 
+21
+(iii) communicates the analysis and 
+22
+data in a variety of formats; 
+23
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+6 
+•HR 2636 IH
+(iv) makes corresponding improve-
+1
+ments to civic systems and services based 
+2
+on gathered data; 
+3
+(v) coordinates with relevant public 
+4
+and private sector entities (including enti-
+5
+ties providing electric, water, telecommuni-
+6
+cations, energy, and transportation serv-
+7
+ices) to leverage the activities carried out 
+8
+by those entities; 
+9
+(vi) integrates measures— 
+10
+(I) to ensure the resilience of 
+11
+civic systems against cybersecurity 
+12
+threats and physical vulnerabilities 
+13
+and breaches; 
+14
+(II) to protect the private data of 
+15
+residents; and 
+16
+(III) to measure the impact of 
+17
+smart city or community technologies 
+18
+on the effectiveness and efficiency of 
+19
+civic operations and services; and 
+20
+(vii) promotes regional coordination of 
+21
+the activities described in clauses (i) 
+22
+through (vi). 
+23
+(7) STATE.—The term ‘‘State’’ means— 
+24
+(A) a State; 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+7 
+•HR 2636 IH
+(B) the District of Columbia; 
+1
+(C) the Commonwealth of Puerto Rico; 
+2
+and 
+3
+(D) any other territory or possession of the 
+4
+United States. 
+5
+(8) WORKING
+GROUP.—The term ‘‘Working 
+6
+Group’’ means the Cybersecurity Working Group es-
+7
+tablished under section 202(b)(1). 
+8
+TITLE I—ENHANCING FEDERAL 
+9
+COORDINATION AND INVEST-
+10
+MENT IN SMART CITY OR 
+11
+COMMUNITY PROGRAMS 
+12
+SEC. 101. COORDINATION OF ACTIVITIES AMONG FEDERAL 
+13
+AGENCIES. 
+14
+(a) COORDINATION.— 
+15
+(1) COORDINATION OF ACTIVITIES.— 
+16
+(A) FEDERAL COUNCIL.— 
+17
+(i) 
+ESTABLISHMENT.—The 
+Secre-
+18
+taries shall establish a council of Federal 
+19
+agencies, to be known as the ‘‘Interagency 
+20
+Council on Smart Cities’’, to promote the 
+21
+coordination of the activities and funding 
+22
+from Federal agencies relating to smart 
+23
+cities or communities. 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+8 
+•HR 2636 IH
+(ii) 
+MEMBERSHIP.—The 
+Council 
+1
+shall— 
+2
+(I) be led by the Secretary; and 
+3
+(II) include— 
+4
+(aa) the Secretary of En-
+5
+ergy; 
+6
+(bb) the Secretary of Hous-
+7
+ing and Urban Development; 
+8
+(cc) the Secretary of Trans-
+9
+portation; 
+10
+(dd) the Director of the Na-
+11
+tional Science Foundation; 
+12
+(ee) the heads of such other 
+13
+departments and agencies as the 
+14
+Secretary determines to be ap-
+15
+propriate, including— 
+16
+(AA) the Secretary of 
+17
+Homeland Security; 
+18
+(BB) the Secretary of 
+19
+Labor; and 
+20
+(CC) the Secretary of 
+21
+State; and 
+22
+(ff) such representatives of 
+23
+industry expert organizations and 
+24
+local government entities as the 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+9 
+•HR 2636 IH
+Secretary determines to be ap-
+1
+propriate. 
+2
+(B) PRIORITIZATION.—For purposes of co-
+3
+ordinating Federal activities under subpara-
+4
+graph (A), the Secretaries shall prioritize the 
+5
+conduct of Federal activities that would— 
+6
+(i) demonstrate smart city or commu-
+7
+nity technologies in repeatable ways that 
+8
+can rapidly be scaled; 
+9
+(ii) encourage public, private, re-
+10
+gional, national, and international sharing 
+11
+of data and best practices; 
+12
+(iii) encourage private sector innova-
+13
+tion by promoting industry-driven tech-
+14
+nology standards, open platforms, tech-
+15
+nology-neutral requirements, and inter-
+16
+operability; 
+17
+(iv) promote— 
+18
+(I) a skilled workforce; 
+19
+(II) an open and competitive 
+20
+global market for smart city or com-
+21
+munity technologies; 
+22
+(III) inclusion of all citizens, in-
+23
+cluding minority or disadvantaged 
+24
+groups; and 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+10 
+•HR 2636 IH
+(IV) protocols and standards that 
+1
+allow for the measurement and valida-
+2
+tion of the cost savings and perform-
+3
+ance improvements associated with 
+4
+the installation and use of smart city 
+5
+or community technologies and prac-
+6
+tices; 
+7
+(v) foster the growth of the smart city 
+8
+or community technology industry and 
+9
+workforce in the United States; 
+10
+(vi) encourage the adoption of smart 
+11
+city or community technologies by commu-
+12
+nities; 
+13
+(vii) safeguard cybersecurity, includ-
+14
+ing by promoting industry practices re-
+15
+garding cybersecurity; and 
+16
+(viii) safeguard privacy and, in con-
+17
+sultation with cities, communities, and in-
+18
+dustry entities, establish parameters and 
+19
+best practices for the full life cycle man-
+20
+agement of all types of smart city or com-
+21
+munity data, including collection, storage, 
+22
+ownership, and sharing of data. 
+23
+(C) CONSIDERATIONS.—The Secretaries 
+24
+shall— 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+11 
+•HR 2636 IH
+(i) ensure that the Federal activities 
+1
+described in subparagraph (B) related to 
+2
+safeguarding cybersecurity take into ac-
+3
+count existing Federal, State, and local 
+4
+frameworks, guidelines, and best practices 
+5
+when considering their application to smart 
+6
+city technologies; 
+7
+(ii) ensure that the Federal activities 
+8
+described in subparagraph (B) take into 
+9
+consideration software quality, especially 
+10
+as that quality impacts reproducibility, 
+11
+maintainability, reliability, and security, 
+12
+especially of high-confidence systems; 
+13
+(iii) conduct privacy impact assess-
+14
+ments for Federal activities that could neg-
+15
+atively affect privacy; and 
+16
+(iv) ensure the privacy of individuals 
+17
+through the use of technologies with inher-
+18
+ent privacy and security considerations. 
+19
+(2) STRATEGY.— 
+20
+(A) IN GENERAL.—The Secretaries, acting 
+21
+through the Council, in consultation with indus-
+22
+try entities, cities, and communities, shall de-
+23
+velop a multiyear strategy for— 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+12 
+•HR 2636 IH
+(i) the coordination of activities and 
+1
+funding under paragraph (1)(A); 
+2
+(ii) the development of partnerships 
+3
+with the private sector relating to smart 
+4
+cities or communities; and 
+5
+(iii) the promotion of international co-
+6
+operation with respect to smart city or 
+7
+community technologies and standards. 
+8
+(B) REQUIREMENT.—The Secretaries shall 
+9
+coordinate with the heads of any applicable 
+10
+Federal agencies to leverage private sector and 
+11
+non-Federal public investment in smart city or 
+12
+community technologies consistent with the 
+13
+strategy developed under subparagraph (A). 
+14
+(3) ASSESSMENT.— 
+15
+(A) IN
+GENERAL.—Not later than 180 
+16
+days after the date of enactment of this Act, 
+17
+the Secretary of Labor, in consultation with the 
+18
+heads of other applicable Federal agencies, shall 
+19
+coordinate with such private and public organi-
+20
+zations and units of local government as the 
+21
+Secretary of Labor determines to be appro-
+22
+priate regarding the preparation of a smart city 
+23
+or community technology workforce needs as-
+24
+sessment. 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+13 
+•HR 2636 IH
+(B) SUBMISSION.—On completion of the 
+1
+assessment prepared under subparagraph (A), 
+2
+the Secretary of Labor shall submit to the ap-
+3
+propriate committees of Congress and the 
+4
+Council the completed assessment. 
+5
+(4) COORDINATION OF FUNDS.—In promoting 
+6
+the coordination of Federal funding relating to 
+7
+smart city or community activities under paragraph 
+8
+(1)(A) and in accordance with the strategy developed 
+9
+under paragraph (2)(A), each of the Secretaries 
+10
+shall— 
+11
+(A) track, with respect to the appropriate 
+12
+agency, the expenditures and planned expendi-
+13
+tures of Federal funds for smart city- or com-
+14
+munity-related activities, together with lever-
+15
+aged non-Federal matching funds; and 
+16
+(B) coordinate with the head of any other 
+17
+applicable Federal agency that allocates funds 
+18
+for smart city or community activities— 
+19
+(i) to achieve greater benefits from ac-
+20
+tivities using Federal funds; 
+21
+(ii) to produce integrated projects re-
+22
+lating to those activities; and 
+23
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+14 
+•HR 2636 IH
+(iii) to leverage complementary invest-
+1
+ments of other Federal agencies in those 
+2
+activities. 
+3
+(b) SUBMISSION OF INFORMATION AND BIENNIAL 
+4
+REPORT.—During the 6-year period beginning on the date 
+5
+of enactment of this Act— 
+6
+(1) the head of each applicable Federal agency 
+7
+shall submit to the Secretary information for inclu-
+8
+sion in the report submitted under paragraph (2); 
+9
+and 
+10
+(2) not less frequently than once every 2 years, 
+11
+the Secretary shall submit to the Committees on 
+12
+Commerce, Science, and Transportation and Energy 
+13
+and Natural Resources of the Senate and the Com-
+14
+mittees on Energy and Commerce and Transpor-
+15
+tation and Infrastructure of the House of Represent-
+16
+atives a report, based on the information under 
+17
+paragraph (1), that includes— 
+18
+(A) an update of the status of relevant 
+19
+smart city or community technology develop-
+20
+ments and applications, including broadband in-
+21
+frastructure; 
+22
+(B) a description of any related program 
+23
+or activity that is funded by the Federal agency 
+24
+during the period covered by the report; 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+15 
+•HR 2636 IH
+(C) the budget of the agency for sup-
+1
+porting smart city or community activities, as 
+2
+described in subsection (a)(4)(A); 
+3
+(D) any non-Federal cost-share contrib-
+4
+uted for activities for which Federal assistance 
+5
+is provided under this section; 
+6
+(E) a description of the applicable strategy 
+7
+under subsection (a)(2)(A), including a descrip-
+8
+tion of how the relevant programs are pro-
+9
+gressing under that strategy; 
+10
+(F) a description of outreach activities con-
+11
+ducted under section 102(d), including the 
+12
+amount and type of assistance required by cities 
+13
+and communities to overcome barriers to imple-
+14
+menting smart city or community technologies, 
+15
+and any Federal actions that are needed to 
+16
+meet those needs; 
+17
+(G) a description of projects funded under 
+18
+section 201, including a description of— 
+19
+(i) project outcomes and performance; 
+20
+and 
+21
+(ii) the use of leveraged non-Federal 
+22
+funds; and 
+23
+(H) such other information as the Sec-
+24
+retary determines to be necessary. 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+16 
+•HR 2636 IH
+SEC. 102. SMART CITY AND COMMUNITY RESOURCE GUIDE. 
+1
+(a) PUBLICATION.— 
+2
+(1) IN GENERAL.—The Secretaries, in coordina-
+3
+tion with the heads of any other applicable Federal 
+4
+agencies, shall create, publish, and maintain, for a 
+5
+period of at least 6 years beginning on the date that 
+6
+is 1 year after the date of enactment of this Act, a 
+7
+resource guide designed to assist States and United 
+8
+States communities and cities in developing and im-
+9
+plementing smart city or community programs. 
+10
+(2) INFORMATION INCLUDED.—The Secretaries, 
+11
+in coordination with cities, communities, and indus-
+12
+try entities, shall determine which information shall 
+13
+be included in the guide under paragraph (1). 
+14
+(b) REQUIREMENTS.—The guide published under 
+15
+subsection (a)— 
+16
+(1) shall be maintained electronically on a 
+17
+website; 
+18
+(2) shall be provided as an electronic reference 
+19
+guide available to the public free of charge; and 
+20
+(3) may include— 
+21
+(A) a compilation of existing related pro-
+22
+grams of the Federal Government available to 
+23
+communities, including technical assistance, 
+24
+education, training, research and development, 
+25
+analysis, and funding; 
+26
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+17 
+•HR 2636 IH
+(B) available examples of local govern-
+1
+ments engaging private sector entities in order 
+2
+to implement smart city or community solu-
+3
+tions, including public-private partnership mod-
+4
+els, such as the use of energy savings perform-
+5
+ance contracts and utility energy service con-
+6
+tracts or other innovative models, that could be 
+7
+used to leverage private sector funding to in-
+8
+crease energy productivity and reduce water, 
+9
+transportation, and other costs to cities and 
+10
+communities, including the results of the study 
+11
+under section 204; 
+12
+(C) available examples of proven methods 
+13
+for local governments and utilities to facilitate 
+14
+integration of smart technologies with new and 
+15
+existing infrastructure and systems; 
+16
+(D) best practices and lessons learned 
+17
+from technology demonstrations, including re-
+18
+turn on investment and performance informa-
+19
+tion to help cities decide how to initiate integra-
+20
+tion of smart technologies; 
+21
+(E) Federal, State, and local best practices 
+22
+for safeguarding cybersecurity and ensuring ap-
+23
+propriate data management and data privacy; 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+18 
+•HR 2636 IH
+(F) technical specifications for wireless or 
+1
+wired broadband infrastructure to support 
+2
+smart city technologies; and 
+3
+(G) such other topics as are requested by 
+4
+industry entities or local governments or deter-
+5
+mined to be necessary by the Secretaries. 
+6
+(c) EXISTING GUIDES.—In creating, publishing, and 
+7
+maintaining the guide under subsection (a), the Secre-
+8
+taries shall consider Federal, State, and local guides pub-
+9
+lished before, on, or after the date of enactment of this 
+10
+Act relating to smart city or community goals, activities, 
+11
+and best practices— 
+12
+(1) to prevent duplication of efforts by the Fed-
+13
+eral Government; and 
+14
+(2) to leverage existing complementary efforts. 
+15
+(d) OUTREACH.—The Secretaries, in coordination 
+16
+with the heads of any applicable Federal agencies and in 
+17
+consultation with applicable private sector entities, shall 
+18
+conduct outreach to States, cities, and communities— 
+19
+(1) to provide interested States and cities with 
+20
+the guide published under subsection (a); 
+21
+(2) to promote the consideration of smart city 
+22
+or community technologies and encourage States 
+23
+and local governments to contribute smart city or 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+19 
+•HR 2636 IH
+community program and activity data to the guide 
+1
+published under subsection (a); 
+2
+(3) to identify— 
+3
+(A) barriers to smart city or community 
+4
+technology adoption; 
+5
+(B) any research, development, and assist-
+6
+ance that is needed, including in Tribal, rural, 
+7
+and underserved communities; and 
+8
+(C) local government programs that could 
+9
+be included in the guide under subsection (a); 
+10
+(4) to respond to requests for assistance, ad-
+11
+vice, or consultation from cities; and 
+12
+(5) for other purposes, as identified by the Sec-
+13
+retaries. 
+14
+TITLE 
+II—PROVIDING 
+ASSIST-
+15
+ANCE TO CITIES AND COMMU-
+16
+NITIES 
+17
+SEC. 201. TECHNOLOGY DEMONSTRATION GRANT PRO-
+18
+GRAM. 
+19
+(a) IN GENERAL.—The Secretary shall establish a 
+20
+smart city or community regional demonstration grant 
+21
+program under which the Secretary shall conduct dem-
+22
+onstration projects focused on advanced smart city or 
+23
+community technologies and systems in a variety of com-
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+20 
+•HR 2636 IH
+munities, including small- and medium-sized cities and 
+1
+rural and Tribal communities. 
+2
+(b) GOALS.—The goals of the program established 
+3
+under subsection (a) are— 
+4
+(1) to demonstrate— 
+5
+(A) potential benefits of concentrated in-
+6
+vestments in smart city or community tech-
+7
+nologies that are repeatable and scalable across 
+8
+cities of different sizes; and 
+9
+(B) the efficiency, reliability, and resilience 
+10
+of civic infrastructure and services; 
+11
+(2) to facilitate the adoption of advanced smart 
+12
+city or community technologies and collaboration be-
+13
+tween small- and medium- to large-sized cities; and 
+14
+(3) to demonstrate protocols and standards that 
+15
+allow for the measurement and validation of the cost 
+16
+savings and performance improvements associated 
+17
+with the installation and use of smart city or com-
+18
+munity technologies and practices. 
+19
+(c) DEMONSTRATION PROJECTS.— 
+20
+(1) ELIGIBILITY.—Subject to paragraph (2), a 
+21
+unit of local government shall be eligible to receive 
+22
+a grant for a demonstration project under this sec-
+23
+tion. 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+21 
+•HR 2636 IH
+(2) APPLICATION; COOPERATION.—To qualify 
+1
+for a demonstration project under this section, a 
+2
+unit of local government shall— 
+3
+(A) submit to the Secretary an application 
+4
+for a grant for a demonstration project at such 
+5
+time and containing such information as the 
+6
+Secretary may require; and 
+7
+(B) agree to follow applicable best prac-
+8
+tices identified by the Secretaries, in consulta-
+9
+tion with industry entities and institutions of 
+10
+higher education, to evaluate the effectiveness 
+11
+of the implemented smart city or community 
+12
+technologies to ensure that— 
+13
+(i) technologies and interoperability 
+14
+can be assessed; 
+15
+(ii) best practices can be shared; and 
+16
+(iii) data can be shared in a public, 
+17
+interoperable, and transparent format. 
+18
+(3) FEDERAL SHARE OF COST OF TECHNOLOGY 
+19
+INVESTMENTS.—The Secretary— 
+20
+(A) subject to subparagraph (B), shall pro-
+21
+vide to a unit of local government selected 
+22
+under this section for the conduct of a dem-
+23
+onstration project a grant in an amount equal 
+24
+to not more than 50 percent of the total cost 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+22 
+•HR 2636 IH
+of technology investments to incorporate and 
+1
+assess qualifying smart city or community tech-
+2
+nologies in the applicable jurisdiction; but 
+3
+(B) may waive the cost-share requirement 
+4
+of subparagraph (A) as the Secretary deter-
+5
+mines to be appropriate. 
+6
+(d) REQUIREMENT.—In conducting demonstration 
+7
+projects under this section, the Secretary shall— 
+8
+(1) develop competitive, technology-neutral re-
+9
+quirements; 
+10
+(2) seek to leverage ongoing or existing civic in-
+11
+frastructure investments; and 
+12
+(3) take into consideration the non-Federal cost 
+13
+share as a competitive criterion in applicant selec-
+14
+tion in order to leverage non-Federal investment. 
+15
+(e) PUBLIC
+AVAILABILITY
+OF
+DATA
+AND
+RE-
+16
+17
+data sets, schematics, diagrams, and other works created 
+18
+using a grant provided under this section are— 
+19
+(1) available on a royalty-free, non-exclusive 
+20
+basis; and 
+21
+(2) open to the public to reproduce, publish, or 
+22
+otherwise use, without cost. 
+23
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+23 
+•HR 2636 IH
+(f) AUTHORIZATION OF APPROPRIATIONS.—There is 
+1
+authorized to be appropriated to carry out subsection (c) 
+2
+$100,000,000 for each of fiscal years 2020 through 2024. 
+3
+SEC. 202. CYBERSECURITY WORKING GROUP. 
+4
+(a) SENSE OF CONGRESS.—It is the sense of Con-
+5
+gress that— 
+6
+(1) the work conducted by the Internet Policy 
+7
+Task Force and the Digital Economy Leadership 
+8
+Team of the Department of Commerce to foster an 
+9
+enabling environment for Internet of Things tech-
+10
+nology to grow and thrive, allow the private sector 
+11
+to lead, and promote technology-neutral standards 
+12
+and consensus-based multistakeholder approaches to 
+13
+policymaking at local, Tribal, State, Federal, and 
+14
+international levels on issues ranging from the secu-
+15
+rity to the competitiveness of the United States is 
+16
+valuable and should be continued; and 
+17
+(2) the work conducted by the Department of 
+18
+Commerce and the National Telecommunications 
+19
+and Information Administration to create resources 
+20
+for communities seeking to adopt smart cities or 
+21
+communities technology is valuable and should be 
+22
+continued. 
+23
+(b) ESTABLISHMENT.— 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+24 
+•HR 2636 IH
+(1) IN GENERAL.—The Secretary, in consulta-
+1
+tion with the Council, shall convene a multistake-
+2
+holder working group, to be known as the ‘‘Cyberse-
+3
+curity Working Group’’, to develop tools for commu-
+4
+nities to use to evaluate the cybersecurity of smart 
+5
+city or community technologies. 
+6
+(2) MEMBERSHIP.— 
+7
+(A) IN GENERAL.—In appointing members 
+8
+to the Working Group, the Secretary shall con-
+9
+sider appointing— 
+10
+(i) 
+representatives 
+of 
+consumer 
+11
+groups; 
+12
+(ii) representatives of small units of 
+13
+local government, as determined by the 
+14
+Secretary; 
+15
+(iii) representatives of large units of 
+16
+local government, as determined by the 
+17
+Secretary; 
+18
+(iv) manufacturers of smart city or 
+19
+community devices, equipment, and soft-
+20
+ware; 
+21
+(v) individuals with expertise in com-
+22
+munications networks; 
+23
+(vi) Federal, State, and local law en-
+24
+forcement officials; 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+25 
+•HR 2636 IH
+(vii) individuals with other expertise 
+1
+necessary to carry out the duties of the 
+2
+Working Group; and 
+3
+(viii) such representatives of the 
+4
+Council as the Secretary determines to be 
+5
+appropriate. 
+6
+(B) 
+REPRESENTATION.—In 
+appointing 
+7
+members to the Working Group, the Secretary 
+8
+shall ensure that the Working Group includes a 
+9
+multidisciplinary cross section of smart city or 
+10
+community stakeholders. 
+11
+(3) DUTIES.—The Working Group shall— 
+12
+(A) leverage and build on previous activi-
+13
+ties carried out by the Department of Com-
+14
+merce relating to Internet of Things technology; 
+15
+(B) develop tools for communities to evalu-
+16
+ate the cybersecurity of smart city or commu-
+17
+nity technology being considered by the commu-
+18
+nities for adoption in those communities; 
+19
+(C) develop tools for communities to pro-
+20
+tect against cybersecurity threats relevant to 
+21
+the technology the community has chosen to 
+22
+adopt; 
+23
+(D)(i) assess— 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+26 
+•HR 2636 IH
+(I) whether Internet of Things cyber-
+1
+security standards should exist; and 
+2
+(II) whether the standards described 
+3
+in subclause (I) should be voluntary or 
+4
+mandatory; and 
+5
+(ii) identify which entity is appropriate to 
+6
+devise the standards described in clause (i)(I); 
+7
+and 
+8
+(E) submit to the Council a report that de-
+9
+scribes the findings of the Working Group. 
+10
+SEC. 203. TECHHIRE WORKFORCE TRAINING AND DEVEL-
+11
+OPMENT PROGRAM. 
+12
+(a) IN GENERAL.—Not later than 18 months after 
+13
+the date of enactment of this Act, based on findings from 
+14
+the needs assessment conducted under section 101(a)(3), 
+15
+the Secretary of Labor, in consultation with the Secretary, 
+16
+shall establish a pilot program, to be known as the 
+17
+‘‘TechHire Workforce Training and Development Pilot 
+18
+Program’’, under which the Secretary of Labor, during the 
+19
+5-year period beginning on the date of enactment of this 
+20
+Act, shall provide to eligible entities, on a competitive 
+21
+basis, grants for technology-based job training and edu-
+22
+cation programs that provide industry-recognized creden-
+23
+tials. 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+27 
+•HR 2636 IH
+(b) REQUIREMENTS.—A job training and education 
+1
+program that is awarded a grant under this section 
+2
+shall— 
+3
+(1) provide technology-based training across 
+4
+two or more sectors; 
+5
+(2) focus on smart city or community tech-
+6
+nologies, systems, and infrastructure across all sec-
+7
+tors of the economy; 
+8
+(3) address privacy and cybersecurity consider-
+9
+ations; and 
+10
+(4) address smart city or community workforce 
+11
+needs identified by the Secretary of Labor, after 
+12
+consultation with other applicable Federal agencies. 
+13
+(c) ELIGIBLE ENTITIES.—To be eligible to receive a 
+14
+grant under this section, an entity shall be a public organi-
+15
+zation or an organization described in section 501(c) of 
+16
+the Internal Revenue Code of 1986 and exempt from tax-
+17
+ation under section 501(a) of that Code that— 
+18
+(1) includes an advisory board, which may be— 
+19
+(A)(i) a local workforce development board; 
+20
+(ii) a State workforce development board; 
+21
+or 
+22
+(iii) an appropriate subgroup of a local 
+23
+workforce development board or a State work-
+24
+force development board; or 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+28 
+•HR 2636 IH
+(B) a board of proportional participation, 
+1
+as determined by the Secretary of Labor, of rel-
+2
+evant organizations, including— 
+3
+(i) relevant industry organizations, in-
+4
+cluding public and private employers; 
+5
+(ii) labor organizations; 
+6
+(iii) one or more units of local govern-
+7
+ment that are actively pursuing smart city 
+8
+or community programs; and 
+9
+(iv) postsecondary education organiza-
+10
+tions; 
+11
+(2) demonstrates experience in implementing 
+12
+and operating job training and education programs; 
+13
+(3) demonstrates the ability to recruit and sup-
+14
+port individuals who plan to work in a relevant sec-
+15
+tor on the successful completion of relevant job 
+16
+training and education programs; 
+17
+(4)(A) provides students who complete the 
+18
+training and education program with an industry- 
+19
+recognized credential; or 
+20
+(B) uses a curriculum that has received exten-
+21
+sive feedback from employers; and 
+22
+(5) demonstrates successful outcomes con-
+23
+necting graduates of job training and education pro-
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+29 
+•HR 2636 IH
+grams to quality jobs relevant to the job training 
+1
+and education programs. 
+2
+(d) APPLICATIONS.—An eligible entity seeking a 
+3
+grant under this section shall submit to the Secretary of 
+4
+Labor an application at such time, in such manner, and 
+5
+containing such information as the Secretary of Labor 
+6
+may require. 
+7
+(e) PRIORITY.—In selecting eligible entities to receive 
+8
+grants under this section, the Secretary of Labor shall 
+9
+prioritize applicants that— 
+10
+(1)(A) are a local workforce development board 
+11
+or State workforce development board; or 
+12
+(B) demonstrate a strong partnership with a 
+13
+local workforce development board or State work-
+14
+force development board; 
+15
+(2) house the job training and education pro-
+16
+gram in— 
+17
+(A) a community college or institution of 
+18
+higher education that includes basic science, 
+19
+technology, and math education in the cur-
+20
+riculum of the community college or institution 
+21
+of higher education; or 
+22
+(B) an apprenticeship program registered 
+23
+with the Department of Labor or a State; 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+30 
+•HR 2636 IH
+(3) work with the Secretary of Defense or vet-
+1
+erans organizations to transition members of the 
+2
+Armed Forces and veterans to careers in a relevant 
+3
+sector; 
+4
+(4) include in the application an entity that re-
+5
+ceives State funding or is operated by a State agen-
+6
+cy; 
+7
+(5) include an apprenticeship program reg-
+8
+istered with the Department of Labor or a State as 
+9
+part of the job training and education program; 
+10
+(6) provide support services and career coach-
+11
+ing; 
+12
+(7) provide entry-level technology workforce 
+13
+training aimed at matching workers with well-paying 
+14
+jobs; or 
+15
+(8) propose to serve— 
+16
+(A) young adults between the ages of 16 
+17
+and 24; or 
+18
+(B) individuals with barriers to employ-
+19
+ment (as defined in section 3 of the Workforce 
+20
+Innovation and Opportunity Act (29 U.S.C. 
+21
+3102)). 
+22
+(f) ADDITIONAL CONSIDERATION.—In making grants 
+23
+under this section, the Secretary of Labor shall consider 
+24
+regional diversity. 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+31 
+•HR 2636 IH
+(g) LIMITATION ON APPLICATIONS.—An eligible enti-
+1
+ty may not submit, either individually or as part of a joint 
+2
+application, more than 1 application for a grant under this 
+3
+section during any 1 fiscal year. 
+4
+(h) LIMITATIONS
+ON AMOUNT
+OF GRANT.—The 
+5
+amount of a single grant provided under this section for 
+6
+any 1 year shall not exceed $5,000,000. 
+7
+(i) NON-FEDERAL SHARE.—The non-Federal share 
+8
+of the cost of a job training and education program carried 
+9
+out using a grant under this section shall be not less than 
+10
+25 percent of the total cost. 
+11
+(j) REDUCTION OF DUPLICATION.—Before submit-
+12
+ting an application for a grant under this section, each 
+13
+applicant shall— 
+14
+(1) consult with the heads of appropriate Fed-
+15
+eral agencies; and 
+16
+(2) coordinate the proposed activities of the ap-
+17
+plicant with existing State and local programs. 
+18
+(k) TECHNICAL
+ASSISTANCE.—The Secretary of 
+19
+Labor, in consultation with the Secretary, may provide 
+20
+technical assistance to eligible entities under subsection 
+21
+(c) to leverage the existing job training and education pro-
+22
+grams of the Department of Labor and other relevant pro-
+23
+grams at appropriate Federal agencies. 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+32 
+•HR 2636 IH
+(l) REPORT.—Not less frequently than once every 2 
+1
+years, the Secretary of Labor shall submit to Congress, 
+2
+and make publicly available on the website of the Depart-
+3
+ment of Labor, a report on the program established under 
+4
+this section, including a description of— 
+5
+(1) any entity that receives a grant under this 
+6
+section; 
+7
+(2) any activity carried out using the grants 
+8
+under this section; 
+9
+(3) best practices used to leverage the invest-
+10
+ment of the Federal Government under this section; 
+11
+and 
+12
+(4) an assessment of the results achieved by the 
+13
+program established under this section, including the 
+14
+rate of employment for participants after completing 
+15
+a job training and education program carried out 
+16
+using a grant under this section. 
+17
+(m) AUTHORIZATION OF APPROPRIATIONS.—There is 
+18
+authorized to be appropriated to carry out this section 
+19
+$100,000,000 for each of fiscal years 2020 through 2024. 
+20
+SEC. 204. GAO STUDY ON INNOVATIVE FINANCING. 
+21
+Not later than 1 year after the date of enactment 
+22
+of this Act, the Comptroller General of the United States 
+23
+shall conduct a study to identify— 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+33 
+•HR 2636 IH
+(1) financial and procurement mechanisms cur-
+1
+rently available to public and private entities to fund 
+2
+smart city or community activities and associated 
+3
+demonstration projects, including ‘‘pay for perform-
+4
+ance’’ financing that could deliver measurable and 
+5
+verifiable market and non-market values to smart 
+6
+cities or communities; 
+7
+(2) new, innovative financial and procurement 
+8
+mechanisms under development or used experi-
+9
+mentally that may be available, in the near term, to 
+10
+public and private entities to fund smart city or 
+11
+community activities and associated demonstration 
+12
+projects; 
+13
+(3) barriers to creative financing solutions for 
+14
+those activities and projects, including procurement 
+15
+barriers faced by State and local governments; and 
+16
+(4) ways to leverage private sector investments 
+17
+in smart cities and communities. 
+18
+SEC. 205. TECHNICAL ASSISTANCE, VOUCHER PILOT PRO-
+19
+GRAM, AND TECHNOLOGIST IN RESIDENCE 
+20
+PILOT PROGRAM. 
+21
+(a) TECHNICAL ASSISTANCE PROGRAM.—The Sec-
+22
+retary of Energy shall establish a program to provide tech-
+23
+nical assistance to cities seeking to incorporate smart city 
+24
+technologies. 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+34 
+•HR 2636 IH
+(b) SMART CITY VOUCHER PILOT PROGRAM.— 
+1
+(1) IN
+GENERAL.—The Secretary of Energy 
+2
+shall develop and implement a pilot program to im-
+3
+prove the access of cities to the expertise, com-
+4
+petencies, and infrastructure of National Labora-
+5
+tories for the purposes of promoting smart city tech-
+6
+nologies. 
+7
+(2) PARTNERSHIPS.—In carrying out the pro-
+8
+gram under this subsection, the Secretary of Energy 
+9
+shall provide to a city that has partnered with a 
+10
+small business concern access to the expertise of Na-
+11
+tional Laboratories. 
+12
+(c) TECHNOLOGIST
+IN
+RESIDENCE
+PILOT
+PRO-
+13
+GRAM.— 
+14
+(1) IN
+GENERAL.—The Secretary of Energy 
+15
+shall expand the Technologist in Residence pilot pro-
+16
+gram of the Department of Energy to include part-
+17
+nerships between National Laboratories and cities 
+18
+with respect to research and development relating to 
+19
+smart cities. 
+20
+(2) REQUIREMENTS.—For purposes of the part-
+21
+nerships entered into under paragraph (1), tech-
+22
+nologists in residence shall work with an assigned 
+23
+city to develop an assessment of smart city tech-
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+35 
+•HR 2636 IH
+nologies available and appropriate to meet the smart 
+1
+city objectives of the city. 
+2
+(d) GUIDANCE.—The Secretary of Energy, in con-
+3
+sultation with the Secretary, shall issue guidance with re-
+4
+spect to— 
+5
+(1) the scope of the programs established under 
+6
+subsections (a) through (c); and 
+7
+(2) requests for proposals from cities interested 
+8
+in participating in those programs. 
+9
+(e) CONSIDERATIONS.—In establishing the programs 
+10
+under subsections (a) through (c), the Secretary of Energy 
+11
+shall seek to address the needs of small- and medium-sized 
+12
+cities. 
+13
+(f) AUTHORIZATION OF APPROPRIATIONS.—There is 
+14
+authorized to be appropriated to carry out this section 
+15
+$20,000,000 for each of fiscal years 2020 through 2024. 
+16
+TITLE 
+III—IMPROVING 
+PER-
+17
+FORMANCE AND INTEROPER-
+18
+ABILITY 
+19
+SEC. 301. STANDARDS AND INTEROPERABILITY FRAME-
+20
+WORK. 
+21
+(a) PARTICIPATION.—To strengthen the public-pri-
+22
+vate partnership approach to smart city-related or commu-
+23
+nity-related standards development and interoperability, 
+24
+the Secretary, acting through the Director of the National 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+36 
+•HR 2636 IH
+Institute of Standards and Technology, shall strongly en-
+1
+courage and support participation by Federal Government 
+2
+experts in private sector-led, standards-related activities 
+3
+that convene smart city or community stakeholders, in-
+4
+cluding representatives of applicable Federal agencies. 
+5
+(b) ACTIVITIES.—To promote innovation and eco-
+6
+nomic competitiveness and to achieve interoperability of 
+7
+smart city or community devices and systems, while 
+8
+strengthening the United States approach to private sec-
+9
+tor-led standardization activities and the participation of 
+10
+Federal representatives under subsection (a), the Sec-
+11
+retary, in consultation with private and public sector 
+12
+stakeholders, shall— 
+13
+(1) survey and review domestic and inter-
+14
+national smart city or community performance 
+15
+standards, existing architectures, applications, and 
+16
+deployments, and interoperability standards; 
+17
+(2) make consensus-based recommendations— 
+18
+(A) to identify gaps in the smart city or 
+19
+community performance standards and inter-
+20
+operability standards under paragraph (1); 
+21
+(B) to harmonize existing standards and 
+22
+deployment efforts and enable greater inter-
+23
+operability across smart city or community 
+24
+technologies; 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+37 
+•HR 2636 IH
+(C) to coordinate domestic and inter-
+1
+national performance standards and interoper-
+2
+ability standards to promote uniform perform-
+3
+ance standards and interoperability standards 
+4
+worldwide, including with respect to the need 
+5
+for testing and demonstration; and 
+6
+(D) for guidelines to enable interoperability 
+7
+in the collection, storage, ownership, and shar-
+8
+ing of data; 
+9
+(3) based on the recommendations under para-
+10
+graph (2), develop a consensus-based framework 
+11
+that includes protocols and model standards for the 
+12
+management and exchange of information, including 
+13
+existing guidelines, best practices, and industry con-
+14
+sensus standards; 
+15
+(4) ensure that cybersecurity and privacy are 
+16
+core elements of the recommended performance 
+17
+standards and interoperability standards; and 
+18
+(5) lead international coordination efforts to de-
+19
+velop industry-led, technology-neutral, voluntary, 
+20
+consensus-based global smart city or community per-
+21
+formance standards and interoperability standards. 
+22
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+38 
+•HR 2636 IH
+TITLE IV—INTERNATIONAL CO-
+1
+OPERATION AND BEST PRAC-
+2
+TICES 
+3
+SEC. 401. DEVELOPMENT OF GLOBAL SMART CITY OR COM-
+4
+MUNITY BEST PRACTICES. 
+5
+(a) IN GENERAL.—The Secretaries may carry out ac-
+6
+tivities— 
+7
+(1) to enable cities and communities in the 
+8
+United States and other countries to work together 
+9
+toward shared smart city- or community-related 
+10
+goals; 
+11
+(2) to promote smart city or community solu-
+12
+tions that provide measurable benefits to local gov-
+13
+ernments and residents; 
+14
+(3) to enable an open, global marketplace for 
+15
+smart city or community technologies based on vol-
+16
+untary, consensus-based, and technology-neutral 
+17
+standards; and 
+18
+(4) to connect innovators from industry and 
+19
+academia to local governments to catalyze the emer-
+20
+gence of open and advanced technologies that— 
+21
+(A) meet community needs; and 
+22
+(B) advance innovation and open competi-
+23
+tion. 
+24
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+39 
+•HR 2636 IH
+(b) ELIGIBLE ACTIVITIES.—The activities referred to 
+1
+in subsection (a) may include grants, contracts, chal-
+2
+lenges, prize competitions, public-private partnerships, 
+3
+and other innovative mechanisms. 
+4
+(c) AUTHORIZATION OF APPROPRIATIONS.— 
+5
+(1) IN GENERAL.—There is authorized to be 
+6
+appropriated to the Secretaries to carry out this sec-
+7
+tion $20,000,000 for each of fiscal years 2020 
+8
+through 2024. 
+9
+(2) LIMITATION
+ON
+USE
+OF
+FUNDS.—Funds 
+10
+made available under paragraph (1) may not be used 
+11
+to provide assistance to— 
+12
+(A) a foreign country; or 
+13
+(B) a foreign company (excluding any 
+14
+United States subsidiary of a foreign holding 
+15
+company). 
+16
+SEC. 402. TRADE PROGRAM. 
+17
+The Secretary, in consultation with the Secretary of 
+18
+State, such other members of the Council as the Secretary 
+19
+determines to be appropriate, and private stakeholders, 
+20
+shall establish a strategic international smart cities and 
+21
+communities trade program, which shall include trade mis-
+22
+sions— 
+23
+(1) to promote the export of United States 
+24
+smart cities or communities technologies; 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+40 
+•HR 2636 IH
+(2) to stimulate job growth in the United 
+1
+States; 
+2
+(3) to identify potential partners and strategies 
+3
+for United States companies in target foreign mar-
+4
+ket sectors; 
+5
+(4) to organize events with local governments, 
+6
+businesses, associations, academia, and other stake-
+7
+holders to promote smart city or community partner-
+8
+ships; 
+9
+(5) to assist in the development of competitive 
+10
+strategies and foreign market access for United 
+11
+States smart city or community technology business 
+12
+interests; 
+13
+(6) to assist in developing appropriate United 
+14
+States policy regarding United States business and 
+15
+international smart cities or communities business 
+16
+interests; 
+17
+(7) to assist in achieving United Nations 
+18
+Framework Convention on Climate Change commit-
+19
+ments; 
+20
+(8) to assist in lowering the cost to consumers 
+21
+of smart cities or communities technologies; 
+22
+(9) to leverage expertise in infrastructure to de-
+23
+liver solutions that can help make communities more 
+24
+efficient, livable, and sustainable; and 
+25
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS
+41 
+•HR 2636 IH
+(10) to work with the United States Agency for 
+1
+International Development, the Overseas Private In-
+2
+vestment Corporation, and the Export-Import Bank 
+3
+of the United States to identify opportunities to fi-
+4
+nance international investment in United States 
+5
+smart cities or communities technology companies. 
+6
+Æ 
+22:10 May 22, 2019
+H2636
+tkelley on DSKBCP9HB2PROD with BILLS

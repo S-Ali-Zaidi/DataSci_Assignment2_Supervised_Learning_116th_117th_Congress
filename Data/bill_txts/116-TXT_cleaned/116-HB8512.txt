@@ -1,0 +1,524 @@
+A BILL 
+To require the Securities and Exchange Commission to pro-
+mulgate regulations relating to the disclosure of certain 
+commercial data, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Designing Accounting 
+4
+Safeguards To Help Broaden Oversight and Regulations 
+5
+on Data’’. 
+6
+SEC. 2. DEFINITIONS. 
+7
+In this Act: 
+8
+04:19 Oct 29, 2020
+H8512
+2 
+•HR 8512 IH
+(1) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Securities and Exchange Commission. 
+2
+(2) ISSUER.—The term ‘‘issuer’’ has the mean-
+3
+ing given the term in section 3(a) of the Securities 
+4
+and Exchange Act of 1934 (15 U.S.C. 78c(a)). 
+5
+(3) OTHER
+DEFINITIONS.—The terms ‘‘com-
+6
+mercial data operator’’, ‘‘user’’, and ‘‘user data’’ 
+7
+have the meaning given those terms, respectively, 
+8
+under section 13(s)(1) of the Securities Exchange 
+9
+Act of 1934. 
+10
+SEC. 3. COMMERCIAL DATA OPERATORS. 
+11
+(a) REQUIREMENTS.— 
+12
+(1) IN GENERAL.—A commercial data operator 
+13
+shall— 
+14
+(A) on a routine basis, and not less fre-
+15
+quently than once every 90 days— 
+16
+(i) provide each user of the commer-
+17
+cial data operator with an assessment of 
+18
+the economic value that the commercial 
+19
+data operator places on the data of that 
+20
+user; and 
+21
+(ii) in a clear and conspicuous man-
+22
+ner, in accordance with paragraph (3), 
+23
+identify to each user of the commercial 
+24
+data operator— 
+25
+04:19 Oct 29, 2020
+H8512
+3 
+•HR 8512 IH
+(I) the types of data collected 
+1
+from users of the commercial data op-
+2
+erator, whether by the commercial 
+3
+data operator or another person pur-
+4
+suant to an agreement with the com-
+5
+mercial data operator; and 
+6
+(II) the ways that the data of a 
+7
+user of the commercial data operator 
+8
+is used if the use is not directly or ex-
+9
+clusively related to the online service 
+10
+that the commercial data operator 
+11
+provides to the user; and 
+12
+(B) except as provided in paragraph (2), 
+13
+provide a user of the commercial data operator 
+14
+with the ability to delete all data, in the aggre-
+15
+gate and for an individual field, that the com-
+16
+mercial data operator possesses, or maintains 
+17
+control or access to with respect to the user, 
+18
+through— 
+19
+(i) a single setting; or 
+20
+(ii) another clear and conspicuous 
+21
+mechanism by which the user may make 
+22
+such a deletion. 
+23
+(2) DELETION EXCEPTIONS.— 
+24
+04:19 Oct 29, 2020
+H8512
+4 
+•HR 8512 IH
+(A) IN GENERAL.—A commercial data op-
+1
+erator shall comply with a user directive to de-
+2
+lete, in whole or in part, the data of the user 
+3
+except— 
+4
+(i) in cases where there is a legal obli-
+5
+gation of the commercial data operator to 
+6
+maintain the data; 
+7
+(ii) for the establishment, exercise, or 
+8
+defense of legal claims; or 
+9
+(iii) if the data is necessary to detect 
+10
+security incidents, protect against mali-
+11
+cious, deceptive, fraudulent, or illegal activ-
+12
+ity, or assist in the prosecution of those re-
+13
+sponsible for such activity. 
+14
+(B) RETENTION.—A commercial data op-
+15
+erator may not retain any more user data than 
+16
+is necessary to carry out an activity described 
+17
+in clauses (i) through (iii) of subparagraph (A). 
+18
+(3) AVAILABILITY.—A commercial data oper-
+19
+ator shall ensure that all disclosures required under 
+20
+paragraph (1) are available to a user of the commer-
+21
+cial data operator— 
+22
+(A) on and after the date on which the 
+23
+commercial data operator makes the identifica-
+24
+tion; and 
+25
+04:19 Oct 29, 2020
+H8512
+5 
+•HR 8512 IH
+(B) through any normal mechanism by 
+1
+which a user may interact with the online serv-
+2
+ice provided by the commercial data operator. 
+3
+(4) UNFAIR AND DECEPTIVE ACTS OR PRAC-
+4
+TICES.— 
+5
+(A) UNFAIR OR DECEPTIVE ACTS OR PRAC-
+6
+TICES.—A violation of this subsection shall be 
+7
+treated as a violation of a rule defining an un-
+8
+fair or deceptive act or practice prescribed 
+9
+under section 18(a)(1)(B) of the Federal Trade 
+10
+Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+11
+(B) POWERS OF FEDERAL TRADE COMMIS-
+12
+SION.— 
+13
+(i) IN GENERAL.—The Federal Trade 
+14
+Commission shall enforce this subsection in 
+15
+the same manner, by the same means, and 
+16
+with the same jurisdiction, powers, and du-
+17
+ties as though all applicable terms and pro-
+18
+visions of the Federal Trade Commission 
+19
+Act (15 U.S.C. 41 et seq.) were incor-
+20
+porated into and made a part of this sub-
+21
+section. 
+22
+(ii) PRIVILEGES AND IMMUNITIES.— 
+23
+Any person who violates this subsection 
+24
+shall be subject to the penalties and enti-
+25
+04:19 Oct 29, 2020
+H8512
+6 
+•HR 8512 IH
+tled to the privileges and immunities pro-
+1
+vided in the Federal Trade Commission 
+2
+Act (15 U.S.C. 41 et seq.). 
+3
+(b) REGULATIONS.—Not later than 1 year after the 
+4
+date of enactment of this Act, the Federal Trade Commis-
+5
+sion shall promulgate regulations carrying out subsection 
+6
+(a). 
+7
+SEC. 4. SEC DISCLOSURES. 
+8
+(a) IN GENERAL.—Section 13 of the Securities Ex-
+9
+change Act of 1934 (15 U.S.C. 78m) is amended by add-
+10
+ing at the end the following: 
+11
+‘‘(s) DISCLOSURE RELATING TO AGGREGATE VALUE 
+12
+OF USER DATA HELD BY COMMERCIAL DATA OPERA-
+13
+TORS.— 
+14
+‘‘(1) DEFINITIONS.—In this subsection: 
+15
+‘‘(A) COMMERCIAL DATA OPERATOR.—The 
+16
+term ‘commercial data operator’ means an enti-
+17
+ty acting in its capacity as a consumer online 
+18
+services provider or data broker that— 
+19
+‘‘(i) generates a material amount of 
+20
+revenue directly from the use, collection, 
+21
+processing, sale, or sharing of the user 
+22
+data; and 
+23
+‘‘(ii) has more than 100,000,000 
+24
+unique monthly visitors or users in the 
+25
+04:19 Oct 29, 2020
+H8512
+7 
+•HR 8512 IH
+United States for a majority of months 
+1
+during the previous 1-year period; 
+2
+‘‘(B) USER.—The term ‘user’ means an in-
+3
+dividual consumer who uses an online service 
+4
+designed for consumer use by a commercial 
+5
+data operator. 
+6
+‘‘(C) USER DATA.—The term ‘user data’ 
+7
+means any information that identifies, relates 
+8
+to, describes, is capable of being associated 
+9
+with, or could reasonably be linked with an in-
+10
+dividual user, whether directly submitted to the 
+11
+commercial data operator by the user or derived 
+12
+from the observed activity of the user by the 
+13
+commercial data operator. 
+14
+‘‘(2) DISCLOSURE.—Each issuer that is, or is a 
+15
+consolidated subsidiary of, a commercial data oper-
+16
+ator and is required to file an annual or quarterly 
+17
+report under subsection (a) shall disclose in that re-
+18
+port the aggregate value, if material, of— 
+19
+‘‘(A) user data that the commercial data 
+20
+operator holds; 
+21
+‘‘(B) contracts with third parties for the 
+22
+collection of user data through the online serv-
+23
+ice provided by the commercial data operator; 
+24
+and 
+25
+04:19 Oct 29, 2020
+H8512
+8 
+•HR 8512 IH
+‘‘(C) any other item that the Commission 
+1
+determines, by rule, is necessary or useful for 
+2
+the protection of investors and in the public in-
+3
+terest. 
+4
+‘‘(3) VALUATION METHODOLOGY.— 
+5
+‘‘(A) IN GENERAL.—The Commission, in 
+6
+consultation with appropriate standards set-
+7
+tings organizations, shall develop a method or 
+8
+methods for calculating the value of user data 
+9
+required to be disclosed under paragraph (2). 
+10
+‘‘(B) CONSIDERATIONS.—In developing the 
+11
+method under subparagraph (A), the Commis-
+12
+sion shall promote comparability in calculating 
+13
+the value of data across commercial data opera-
+14
+tors that utilize user data in a similar manner 
+15
+while taking into account the potential need to 
+16
+develop distinct methods for calculating the 
+17
+value of data for different uses, sectors, and 
+18
+business models.’’. 
+19
+(b) QUALITATIVE DISCLOSURE.—Not later than 1 
+20
+year after the date of enactment of this subsection, the 
+21
+Commission shall amend section 229.306 of title 17, Code 
+22
+of Federal Regulations, to require a commercial data oper-
+23
+ator that is an issuer subject to section 13 or 15(d) of 
+24
+the Securities Exchange Act of 1934 (15 U.S.C. 78m, 
+25
+04:19 Oct 29, 2020
+H8512
+9 
+•HR 8512 IH
+78o(d)) to provide quantitative and qualitative disclosures 
+1
+about the value of user data held, including— 
+2
+(1) technical and legal measures in place to 
+3
+protect user data held by the commercial data oper-
+4
+ator; 
+5
+(2) an assessment of financial and legal risks 
+6
+associated with storing the type and quantity of user 
+7
+data held by the commercial data operator; 
+8
+(3) each source of user data held by the com-
+9
+mercial data operator, whether by sale, a direct con-
+10
+sumer relationship, an indirect consumer relation-
+11
+ship, or other means; 
+12
+(4) each discrete revenue generating operation 
+13
+of the commercial data operator and any subsidiary 
+14
+or affiliate that relies on user data; 
+15
+(5) the entry into any contract valued at more 
+16
+than $10,000,000 with a third party for the collec-
+17
+tion, licensing, or sharing by the third party pursu-
+18
+ant to an agreement with the commercial data oper-
+19
+ator; 
+20
+(6) the amount of revenue derived from obtain-
+21
+ing, collecting, processing, selling, using or sharing 
+22
+user data during the reporting period; 
+23
+04:19 Oct 29, 2020
+H8512
+10 
+•HR 8512 IH
+(7) how changes in the measurement of aggre-
+1
+gate fair value of user data affect the reported per-
+2
+formance and cash flows of the issuer; and 
+3
+(8) any acquisition of user data in the pre-
+4
+ceding reporting period valued at more than 
+5
+$100,000,000. 
+6
+(c) REPORT.— 
+7
+(1) IN GENERAL.—Not later than 3 years after 
+8
+the date of enactment of this Act, the Commission 
+9
+shall submit to the Committee on Banking, Housing, 
+10
+and Urban Affairs of the Senate and the Committee 
+11
+on Financial Services of the House of Representa-
+12
+tives a report on— 
+13
+(A) the nature, timing, and extent of the 
+14
+disclosure practices of commercial data opera-
+15
+tors; 
+16
+(B) an assessment of the valuation meth-
+17
+odologies and practices employed by commercial 
+18
+data operators in developing and submitting 
+19
+disclosures to the public; 
+20
+(C) an evaluation of the methods of deliv-
+21
+ery and presentation of the disclosures required 
+22
+by this Act, and the amendments made by this 
+23
+Act; and 
+24
+04:19 Oct 29, 2020
+H8512
+11 
+•HR 8512 IH
+(D) recommendations for the improvement 
+1
+of the methods described in subparagraph (C), 
+2
+including developing standards to enhance com-
+3
+parability and utility for investors. 
+4
+(2) RULEMAKING.—Not later than 180 days 
+5
+after the date on which the report required under 
+6
+paragraph (1) is submitted, the Commission shall 
+7
+promulgate a proposed regulation implementing the 
+8
+recommendations described in paragraph (1)(D). 
+9
+Æ 
+04:19 Oct 29, 2020
+H8512

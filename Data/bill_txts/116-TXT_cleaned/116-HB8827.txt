@@ -1,0 +1,958 @@
+A BILL 
+To amend the Federal Deposit Insurance Act to provide 
+for the classification and regulation of stablecoins, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Stablecoin Classifica-
+4
+tion and Regulation Act of 2020’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+(1) Article I, Section 8, Clause 5 of the United 
+8
+States Constitution provides that Congress shall 
+9
+have the power ‘‘to coin money, regulate the value 
+10
+00:33 Dec 04, 2020
+H8827
+2 
+•HR 8827 IH
+thereof, and of foreign coin, and fix the standard of 
+1
+weights and measures’’. 
+2
+(2) Section 2A of the Federal Reserve Act (12 
+3
+U.S.C. 225a) provides that the mandate of the 
+4
+Board of Governors of the Federal Reserve System 
+5
+is to ‘‘promote effectively the goals of maximum em-
+6
+ployment, stable prices, and moderate long-term in-
+7
+terest rates’’. 
+8
+(3) Section 21(a) of the Banking Act of 1933 
+9
+(12 U.S.C. 378(a)) provides in part that: 
+10
+‘‘(a) After the expiration of one year after [June 16, 
+11
+1933] it shall be unlawful . . . 
+12
+‘‘(2) For any person, firm, corporation, associa-
+13
+tion, business trust, or other similar organization to 
+14
+engage, to any extent whatever with others than his 
+15
+or its officers, agents or employees, in the business 
+16
+of receiving deposits subject to check or to repay-
+17
+ment upon presentation of a pass book, certificate of 
+18
+deposit, or other evidence of debt, or upon request 
+19
+of the depositor, unless such person, firm, corpora-
+20
+tion, association, business trust, or other similar or-
+21
+ganization (A) shall be incorporated under, and au-
+22
+thorized to engage in such business by, the laws of 
+23
+the United States or of any State, Territory, or Dis-
+24
+trict, and subjected, by the laws of the United 
+25
+00:33 Dec 04, 2020
+H8827
+3 
+•HR 8827 IH
+States, or of the State, Territory, or District where-
+1
+in located, to examination and regulation, or (B) 
+2
+shall be permitted by the United States, any State, 
+3
+territory, or district to engage in such business and 
+4
+shall be subjected by the laws of the United States, 
+5
+or such State, territory, or district to examination 
+6
+and regulations or, (C) shall submit to periodic ex-
+7
+amination by the banking authority of the State 
+8
+Territory, or District where such business is carried 
+9
+on and shall make and publish periodic reports of its 
+10
+condition, exhibiting in detail its resources and li-
+11
+abilities, such examination and reports to be made 
+12
+and published at the same times and in the same 
+13
+manner and under the same conditions as required 
+14
+by the law of such State, Territory, District in the 
+15
+case of incorporated banking institutions engaged in 
+16
+such business in the same locality.’’. 
+17
+(4) Section 3(l) of the Federal Deposit Insur-
+18
+ance Act (12 U.S.C. 1813(l)) provides that under 
+19
+the Federal Deposit Insurance Act, the term ‘‘de-
+20
+posit’’ means: 
+21
+‘‘(1) the unpaid balance of money or its equiva-
+22
+lent received or held by a bank or savings associa-
+23
+tion in the usual course of business and for which 
+24
+it has given or is obligated to give credit, either con-
+25
+00:33 Dec 04, 2020
+H8827
+4 
+•HR 8827 IH
+ditionally or unconditionally, to a commercial, check-
+1
+ing, savings, time, or thrift account, or which is evi-
+2
+denced by its certificate of deposit, thrift certificate, 
+3
+investment certificate, certificate of indebtedness, or 
+4
+other similar name, or a check or draft drawn 
+5
+against a deposit account and certified by the bank 
+6
+or savings association, or a letter of credit or a trav-
+7
+eler’s check on which the bank or savings association 
+8
+is primarily liable: Provided, That, without limiting 
+9
+the generality of the term money or its equivalent, 
+10
+any such account or instrument must be regarded as 
+11
+evidencing the receipt of the equivalent of money 
+12
+when credited or issued in exchange for checks or 
+13
+drafts or for a promissory note upon which the per-
+14
+son obtaining any such credit or instrument is pri-
+15
+marily or secondarily liable, or for a charge against 
+16
+a deposit account, or in settlement of checks, drafts, 
+17
+or other instruments forwarded to such bank or sav-
+18
+ings association for collection, 
+19
+‘‘(2) trust funds as defined in this Act received 
+20
+or held by such bank or savings association, whether 
+21
+held in the trust department or held or deposited in 
+22
+any other department of such bank or savings asso-
+23
+ciation, 
+24
+00:33 Dec 04, 2020
+H8827
+5 
+•HR 8827 IH
+‘‘(3) money received or held by a bank or sav-
+1
+ings association, or the credit given for money or its 
+2
+equivalent received or held by a bank or savings as-
+3
+sociation, in the usual course of business for a spe-
+4
+cial or specific purpose, regardless of the legal rela-
+5
+tionship thereby established, including without being 
+6
+limited to, escrow funds, funds held as security for 
+7
+an obligation due to the bank or savings association 
+8
+or others (including funds held as dealers reserves) 
+9
+or for securities loaned by the bank or savings asso-
+10
+ciation, funds deposited by a debtor to meet matur-
+11
+ing obligations, funds deposited as advance payment 
+12
+on subscriptions to United States Government secu-
+13
+rities, funds held for distribution or purchase of se-
+14
+curities, funds held to meet its acceptances or letters 
+15
+of credit, and withheld taxes: Provided, That there 
+16
+shall not be included funds which are received by the 
+17
+bank or savings association for immediate applica-
+18
+tion to the reduction of an indebtedness to the re-
+19
+ceiving bank or savings association, or under condi-
+20
+tion that the receipt thereof immediately reduces or 
+21
+extinguishes such an indebtedness, 
+22
+‘‘(4) outstanding draft (including advice or au-
+23
+thorization to charge a bank’s or a savings associa-
+24
+tion’s balance in another bank or savings associa-
+25
+00:33 Dec 04, 2020
+H8827
+6 
+•HR 8827 IH
+tion), cashier’s check, money order, or other officer’s 
+1
+check issued in the usual course of business for any 
+2
+purpose, including without being limited to those 
+3
+issued in payment for services, dividends, or pur-
+4
+chases, and 
+5
+‘‘(5) such other obligations of a bank or savings 
+6
+association as the Board of Directors, after consulta-
+7
+tion with the Comptroller of the Currency, and the 
+8
+Board of Governors of the Federal Reserve System, 
+9
+shall find and prescribe by regulation to be deposit 
+10
+liabilities by general usage, except that the following 
+11
+shall not be a deposit for any of the purposes of this 
+12
+Act or be included as part of the total deposits or 
+13
+of an insured deposit: 
+14
+‘‘(A) any obligation of a depository institu-
+15
+tion which is carried on the books and records 
+16
+of an office of such bank or savings association 
+17
+located outside of any State, unless— 
+18
+‘‘(i) such obligation would be a deposit 
+19
+if it were carried on the books and records 
+20
+of the depository institution, and would be 
+21
+payable at, an office located in any State; 
+22
+and 
+23
+‘‘(ii) the contract evidencing the obli-
+24
+gation provides by express terms, and not 
+25
+00:33 Dec 04, 2020
+H8827
+7 
+•HR 8827 IH
+by implication, for payment at an office of 
+1
+the depository institution located in any 
+2
+State; 
+3
+‘‘(B) any international banking facility de-
+4
+posit, including an international banking facility 
+5
+time deposit, as such term is from time to time 
+6
+defined by the Board of Governors of the Fed-
+7
+eral Reserve System in regulation D or any suc-
+8
+cessor regulation issued by the Board of Gov-
+9
+ernors of the Federal Reserve System; and 
+10
+‘‘(C) any liability of an insured depository 
+11
+institution that arises under an annuity con-
+12
+tract, the income of which is tax deferred under 
+13
+section 72 of the Internal Revenue Code of 
+14
+1986.’’. 
+15
+(5) Section 1(a) of the Federal Deposit Insur-
+16
+ance Act (12 U.S.C. 1811(a)) provides that the Fed-
+17
+eral Deposit Insurance Corporation was established 
+18
+for the purpose of ‘‘insur[ing] . . . the deposits of 
+19
+all banks . . . which are entitled to the benefits of 
+20
+insurance’’ under the Federal Deposit Insurance 
+21
+Act. 
+22
+SEC. 3. REGULATION OF STABLECOINS. 
+23
+(a) DEFINITIONS.—Section 3 of the Federal Deposit 
+24
+Insurance Act (12 U.S.C. 1813) is amended— 
+25
+00:33 Dec 04, 2020
+H8827
+8 
+•HR 8827 IH
+(1) in subsection (l)— 
+1
+(A) in paragraph (4), by striking ‘‘and’’ at 
+2
+the end; 
+3
+(B) by redesignating paragraph (5) as 
+4
+paragraph (6); and 
+5
+(C) by inserting after paragraph (4) the 
+6
+following: 
+7
+‘‘(5) stablecoins issued by such bank or savings 
+8
+association; and’’; 
+9
+(2) by adding at the end the following: 
+10
+‘‘(aa) DEFINITIONS RELATED TO STABLECOINS.— 
+11
+‘‘(1) 
+STABLECOIN.—The 
+term 
+‘stablecoin’ 
+12
+means any cryptocurrency or other privately-issued 
+13
+digital financial instrument that— 
+14
+‘‘(A) is directly or indirectly distributed to 
+15
+investors, financial institutions, or the general 
+16
+public; 
+17
+‘‘(B) is— 
+18
+‘‘(i) denominated in United States 
+19
+dollars or pegged to the United States dol-
+20
+lar; or 
+21
+‘‘(ii) denominated in or pegged to an-
+22
+other national or state currency; and 
+23
+‘‘(C) is issued— 
+24
+00:33 Dec 04, 2020
+H8827
+9 
+•HR 8827 IH
+‘‘(i) with a fixed nominal redemption 
+1
+value; 
+2
+‘‘(ii) with the intent of establishing a 
+3
+reasonable expectation or belief among the 
+4
+general public that the instrument will re-
+5
+tain a nominal redemption value that is so 
+6
+stable as to render the nominal redemption 
+7
+value effectively fixed; or 
+8
+‘‘(iii) in such a manner that, regard-
+9
+less of intent, has the effect of creating a 
+10
+reasonable expectation or belief among the 
+11
+general public that the instrument will re-
+12
+tain a nominal redemption value that is so 
+13
+stable as to render the nominal redemption 
+14
+value effectively fixed. 
+15
+‘‘(2) NOMINAL REDEMPTION VALUE.— 
+16
+‘‘(A) IN
+GENERAL.—With respect to a 
+17
+stablecoin, the term‘ nominal redemption value’ 
+18
+means the value at which the stablecoin can 
+19
+readily be converted into United States dollars, 
+20
+or any other national or state currency, or a 
+21
+functional monetary equivalent, on demand, at 
+22
+the time of issuance, or otherwise accepted in 
+23
+payment or to satisfy debts denominated in 
+24
+00:33 Dec 04, 2020
+H8827
+10 
+•HR 8827 IH
+United States dollars or any other national or 
+1
+state currency. 
+2
+‘‘(B) 
+TREATMENT
+OF
+INSTRUMENTS 
+3
+PEGGED TO THE UNITED STATES DOLLAR.— 
+4
+For purposes of subparagraph (A), the value at 
+5
+which a stablecoin that is pegged to the United 
+6
+States dollar or a functional monetary equiva-
+7
+lent can readily be converted into United States 
+8
+dollars, on demand, at the time of issuance 
+9
+shall be calculated using the express or implied 
+10
+pegged rate for such conversion at the time of 
+11
+issuance. 
+12
+‘‘(C) TREATMENT
+OF
+INSTRUMENTS
+DE-
+13
+NOMINATED IN OR PEGGED TO ANOTHER NA-
+14
+TIONAL OR STATE CURRENCY.—For purposes of 
+15
+subparagraph (A), the value at which a 
+16
+stablecoin that is denominated in or pegged to 
+17
+another national or state currency or a func-
+18
+tional monetary equivalent can readily be con-
+19
+verted into United States dollars, on demand, 
+20
+at the time of issuance shall be calculated using 
+21
+the express or implied exchange rate for such 
+22
+conversion at the time of issuance. 
+23
+‘‘(D) FUNCTIONAL
+MONETARY
+EQUIVA-
+24
+LENT DEFINED.—For purposes of this Act and 
+25
+00:33 Dec 04, 2020
+H8827
+11 
+•HR 8827 IH
+any Act enacted after the date of enactment of 
+1
+this subsection, the term ‘functional monetary 
+2
+equivalent’ means— 
+3
+‘‘(i) deposits, as defined under section 
+4
+3 of the Federal Deposit Insurance Act; 
+5
+‘‘(ii) e-money and money transmitter 
+6
+balances; 
+7
+‘‘(iii) other stablecoins; and 
+8
+‘‘(iv) any other financial instrument 
+9
+issued for the purpose of circulating as 
+10
+money, making payments, or satisfying 
+11
+debts denominated in United States dollars 
+12
+or any other national or state currency.’’. 
+13
+(b) REGULATIONS.—The Federal Deposit Insurance 
+14
+Act (12 U.S.C. 1811 et seq.) is amended by adding at 
+15
+the end the following: 
+16
+‘‘SEC. 52. STABLECOINS. 
+17
+‘‘(a) ISSUING STABLECOINS.— 
+18
+‘‘(1) 
+LIMITATION
+ON
+WHO
+MAY
+ISSUE 
+19
+STABLECOINS.—It shall be unlawful for any person 
+20
+to issue a stablecoin other than an insured deposi-
+21
+tory institution that is a member of the Federal Re-
+22
+serve System. 
+23
+‘‘(2) LIMITATION
+ON
+STABLECOIN-RELATED 
+24
+COMMERCIAL ACTIVITIES.—It shall be unlawful for 
+25
+00:33 Dec 04, 2020
+H8827
+12 
+•HR 8827 IH
+any person to issue a stablecoin or stablecoin-related 
+1
+product, to provide any stablecoin-related service, or 
+2
+otherwise engage in any stablecoin-related commer-
+3
+cial activity, including activity involving stablecoins 
+4
+issued by other persons, without obtaining written 
+5
+approval in advance, and on an ongoing basis, from 
+6
+the appropriate Federal banking agency, the Cor-
+7
+poration, and the Board of Governors of the Federal 
+8
+Reserve System. 
+9
+‘‘(3) NOTICE AND APPROVAL REQUIREMENTS.— 
+10
+Any person issuing a stablecoin shall— 
+11
+‘‘(A) notify the appropriate Federal bank-
+12
+ing agency, the Corporation, and the Board of 
+13
+Governors of the Federal Reserve System of the 
+14
+person’s intent to issue the stablecoin at least 
+15
+6 months prior to the date of issuance; 
+16
+‘‘(B) obtain written approval from the ap-
+17
+propriate Federal banking agency, the Corpora-
+18
+tion, and the Board of Governors of the Federal 
+19
+Reserve System prior to issuing any stablecoin 
+20
+or stablecoin-related product, providing any 
+21
+stablecoin-related services, or otherwise engag-
+22
+ing in any stablecoin-related commercial activ-
+23
+ity, including activity involving stablecoins 
+24
+issued by other persons; and 
+25
+00:33 Dec 04, 2020
+H8827
+13 
+•HR 8827 IH
+‘‘(C) provide ongoing analysis to the Board 
+1
+of Governors of the Federal Reserve System, 
+2
+the Financial Stability Oversight Council, and 
+3
+the Office of Finance Research on any potential 
+4
+systemic impacts or monetary policy implica-
+5
+tions of the stablecoin. 
+6
+‘‘(4) MASTER ACCOUNT ACCESS.—With respect 
+7
+to an insured depository institution that is a mem-
+8
+ber of the Federal Reserve System and that has ob-
+9
+tained written approval described under paragraph 
+10
+(3)(B)— 
+11
+‘‘(A) the Board of Governors of the Fed-
+12
+eral Reserve System shall provide the institu-
+13
+tion with a master account at the Federal Re-
+14
+serve System; and 
+15
+‘‘(B) the institution shall be eligible to re-
+16
+ceive all benefits and access to services associ-
+17
+ated with such account. 
+18
+‘‘(b) REQUIREMENT TO MAINTAIN FIXED VALUE.— 
+19
+Any issuer of a stablecoin shall take all possible actions 
+20
+to ensure that, at no point over the life of the stablecoin, 
+21
+the redemption value of the stablecoin does not drop below 
+22
+the nominal redemption value of the stablecoin. 
+23
+‘‘(c) ABILITY TO REDEEM STABLECOINS.— 
+24
+00:33 Dec 04, 2020
+H8827
+14 
+•HR 8827 IH
+‘‘(1) IN GENERAL.—Any issuer of stablecoins 
+1
+shall maintain the ability to immediately redeem all 
+2
+outstanding stablecoins at their nominal redemption 
+3
+value, upon demand, in United States dollars. 
+4
+‘‘(2) REQUIREMENT TO MAINTAIN COLLATERAL 
+5
+FOR UNINSURED STABLECOIN AMOUNTS.— 
+6
+‘‘(A) 
+IN
+GENERAL.—Any 
+issuer 
+of 
+7
+stablecoins shall deposit reserves with the appli-
+8
+cable Federal reserve bank in a segregated ac-
+9
+count in an amount equal to the nominal re-
+10
+demption value of all outstanding stablecoins 
+11
+issued by the issuer, and such reserves shall 
+12
+serve as collateral for such stablecoins. 
+13
+‘‘(B) EXCEPTION
+FOR
+INSURED
+DEPOS-
+14
+ITS.—Subparagraph (A) shall not apply with 
+15
+respect to the value of any outstanding 
+16
+stablecoins that the issuer of the stablecoins 
+17
+knows are insured deposits. 
+18
+‘‘(3) PENALTIES.—If the issuer of a stablecoin 
+19
+fails 
+to 
+immediately 
+redeem 
+an 
+outstanding 
+20
+stablecoin, upon demand, in United States dollars 
+21
+(or if the appropriate Federal banking agency deter-
+22
+mines that the issuer does not have the ability to im-
+23
+mediately redeem all outstanding stablecoins, upon 
+24
+demand, in United States dollars) the appropriate 
+25
+00:33 Dec 04, 2020
+H8827
+15 
+•HR 8827 IH
+Federal banking agency shall penalize the issuer, 
+1
+which may include— 
+2
+‘‘(A) the revocation of deposit insurance 
+3
+provided under this Act; 
+4
+‘‘(B) the revocation of the issuer’s mem-
+5
+bership in the Federal Reserve System; 
+6
+‘‘(C) the revocation of the issuer’s Federal 
+7
+charter; and 
+8
+‘‘(D) such lesser penalty as the agency de-
+9
+termines appropriate. 
+10
+‘‘(d) PRODUCTS
+AND
+SERVICES
+RELATED
+TO 
+11
+STABLECOINS.— 
+12
+‘‘(1) DISCLOSURES.—Any person offering or 
+13
+providing a product or service with respect to a 
+14
+stablecoin, regardless of whether such person is the 
+15
+issuer of the stablecoin, shall clearly disclosure— 
+16
+‘‘(A) whether the person is the original 
+17
+issuer of the stablecoin; and 
+18
+‘‘(B) if the person is the original issuer of 
+19
+the stablecoin, whether— 
+20
+‘‘(i) the stablecoin is being held as an 
+21
+insured deposit; or 
+22
+‘‘(ii) 
+the 
+stablecoin 
+is 
+fully 
+23
+collateralized by reserves maintained at a 
+24
+Federal reserve bank. 
+25
+00:33 Dec 04, 2020
+H8827
+16 
+•HR 8827 IH
+‘‘(2) USE OF THE TERM ‘DOLLAR’.—A person 
+1
+offering or providing a product or service with re-
+2
+spect to a stablecoin may not use the term ‘dollar’ 
+3
+or ‘dollars’ to refer to stablecoin balances unless 
+4
+such reference is pre-approved by either the Comp-
+5
+troller of the Currency or the Board of Governors of 
+6
+the Federal Reserve System. 
+7
+‘‘(e) PRIORITIZATION
+UNDER
+DEPOSIT
+INSUR-
+8
+ANCE.—With respect to a depositor, for purposes of deter-
+9
+mining whether a deposit is an insured deposit, the Cor-
+10
+poration shall first include deposits that are not 
+11
+stablecoins. 
+12
+‘‘(f) OVERSIGHT
+BY
+FEDERAL
+BANKING
+AGEN-
+13
+CIES.— 
+14
+‘‘(1) IN
+GENERAL.—The appropriate Federal 
+15
+banking agency shall have general regulatory author-
+16
+ity over an insured depository institution’s business 
+17
+activities related to stablecoins, including all existing 
+18
+regulatory powers that the agency has with respect 
+19
+to the institution’s business activities related to 
+20
+other deposits 
+21
+‘‘(2) CAPITAL ADEQUACY RULES.—The Federal 
+22
+banking agencies shall promulgate rules and stand-
+23
+ards regarding the capital adequacy, leverage, liquid-
+24
+ity, and permitted activities of stablecoin issuers and 
+25
+00:33 Dec 04, 2020
+H8827
+17 
+•HR 8827 IH
+other persons engaged in stablecoin-related activi-
+1
+ties. 
+2
+‘‘(3) EFFECT ON OTHER RULES.—To the extent 
+3
+a person is subject to capital adequacy, liquidity, 
+4
+and other rules issued under this section, the appro-
+5
+priate Federal banking agency may provide excep-
+6
+tions or exemptions from similar rules issued pursu-
+7
+ant to other provisions of law, if the agency deter-
+8
+mines such exceptions or exemptions are appro-
+9
+priate, taking into account the activities of such per-
+10
+son. 
+11
+‘‘(g) RULE OF CONSTRUCTION.—Nothing in this sec-
+12
+tion may be construed as removing any jurisdictional or 
+13
+regulatory authority of any Federal agency.’’. 
+14
+(c) BANKING ACT OF 1933.—Section 21 of the Bank-
+15
+ing Act of 1933 (12 U.S.C. 378) is amended— 
+16
+(1) in subsection (a)— 
+17
+(A) in paragraph (1), by inserting after 
+18
+‘‘to any extent whatever in the business of’’ the 
+19
+following: ‘‘issuing stablecoins or’’; and 
+20
+(B) in paragraph (2), by inserting after 
+21
+‘‘officers, agents or employees, in the business 
+22
+of’’ the following: ‘‘issuing stablecoins or’’; 
+23
+(2) by redesignating subsection (b) as sub-
+24
+section (c); and 
+25
+00:33 Dec 04, 2020
+H8827
+18 
+•HR 8827 IH
+(3) by inserting after subsection (a) the fol-
+1
+lowing: 
+2
+‘‘(b) For the purposes of subsection (a), the term 
+3
+‘stablecoin’ has the meaning given that term under section 
+4
+3 of the Federal Deposit Insurance Act (12 U.S.C. 
+5
+1813).’’. 
+6
+(d) RULEMAKING.—Not later than the end of the 3- 
+7
+month period beginning on the date of enactment of this 
+8
+Act, the Board of Governors of the Federal Reserve Sys-
+9
+tem, the Comptroller of the Currency, and the Federal De-
+10
+posit Insurance Corporation shall issue rules to carry out 
+11
+this Act and the amendments made by this Act. 
+12
+Æ 
+21:15 Dec 09, 2020
+H8827

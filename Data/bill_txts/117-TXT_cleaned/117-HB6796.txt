@@ -1,0 +1,4822 @@
+A BILL 
+To provide for the establishment of the Bureau of Digital 
+Services Oversight and Safety within the Federal Trade 
+Commission, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Digital Services Oversight and Safety Act of 2022’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+20:39 Feb 28, 2022
+H6796
+2 
+•HR 6796 IH
+Sec. 2. Definitions. 
+Sec. 3. Bureau of Digital Services Oversight and Safety. 
+Sec. 4. Studies and investigations. 
+Sec. 5. Internal complaint-handling systems. 
+Sec. 6. Transparency regarding content moderation and related matters. 
+Sec. 7. Risk assessment and risk mitigation reporting. 
+Sec. 8. Guidance on best practices. 
+Sec. 9. Recommender systems. 
+Sec. 10. Independent research facilitation. 
+Sec. 11. Research fellowship program. 
+Sec. 12. Report and disclosure integrity. 
+Sec. 13. Enforcement by Federal Trade Commission. 
+Sec. 14. Authorization of appropriations. 
+Sec. 15. Rule of construction. 
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) ADVERTISEMENT.—The term ‘‘advertise-
+3
+ment’’ means information that is— 
+4
+(A) designed to promote the message of a 
+5
+person, irrespective of whether to achieve com-
+6
+mercial or non-commercial purposes; and 
+7
+(B) displayed by a provider of a covered 
+8
+platform on the online interface of the platform 
+9
+for remuneration specifically for promoting such 
+10
+information. 
+11
+(2) 
+ADVERTISER.—The 
+term 
+‘‘advertiser’’ 
+12
+means a person who purchases advertising services. 
+13
+(3) ADVERTISING SERVICES.—The term ‘‘adver-
+14
+tising services’’ means tools, services, and interfaces 
+15
+provided by a provider of a covered platform to place 
+16
+advertisements. 
+17
+(4) BIOMETRIC INFORMATION.— 
+18
+20:39 Feb 28, 2022
+H6796
+3 
+•HR 6796 IH
+(A) IN
+GENERAL.—The term ‘‘biometric 
+1
+information’’ means any personal information 
+2
+generated from the measurement or specific 
+3
+technological processing of an individual’s 
+4
+unique biological, physical, or physiological 
+5
+characteristics. 
+6
+(B) INCLUSIONS.—The term ‘‘biometric in-
+7
+formation’’ includes measurements of finger-
+8
+prints, voice prints, iris scans, facial character-
+9
+istics, identifying DNA (deoxyribonucleic acid) 
+10
+information, or other unique biological charac-
+11
+teristics, including any mathematical code or al-
+12
+gorithmic model generated or extracted from 
+13
+measurements of such characteristics. 
+14
+(C) EXCLUSIONS.—The term ‘‘biometric 
+15
+information’’ does not include writing samples, 
+16
+written signatures, photographs, demographic 
+17
+data, or physical descriptions such as height, 
+18
+weight, hair color, or eye color. 
+19
+(5) BUREAU.—The term ‘‘Bureau’’ means the 
+20
+Bureau of Digital Services Oversight and Safety es-
+21
+tablished under section 3(a). 
+22
+(6) CERTIFIED RESEARCHER.—The term ‘‘cer-
+23
+tified researcher’’ means an individual certified 
+24
+under section 10(b). 
+25
+20:39 Feb 28, 2022
+H6796
+4 
+•HR 6796 IH
+(7) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Federal Trade Commission. 
+2
+(8) COMMUNITY STANDARDS.—The term ‘‘com-
+3
+munity standards’’ means a policy adopted by a pro-
+4
+vider of a hosting service that specifies, at a min-
+5
+imum, the user behavior and activities that are per-
+6
+mitted on the service and the user behavior and ac-
+7
+tivities that may subject a user or an item of content 
+8
+to a content moderation action. 
+9
+(9) 
+CONSTITUTIONAL
+LAWYER.—The 
+term 
+10
+‘‘constitutional lawyer’’ means a lawyer with exper-
+11
+tise regarding the interpretation, implementation, 
+12
+and amendment of, and how to protect rights guar-
+13
+anteed by, the Constitution of the United States and 
+14
+State constitutions. 
+15
+(10) CONTENT MODERATION.—The term ‘‘con-
+16
+tent moderation’’ means the activities undertaken by 
+17
+a provider of a hosting service aimed at detecting, 
+18
+identifying, and addressing content provided by 
+19
+users of such service that is illegal content or con-
+20
+tent that is incompatible with the terms and condi-
+21
+tions or community standards of such provider, in-
+22
+cluding measures taken that affect— 
+23
+(A) the availability, visibility, and accessi-
+24
+bility of such content, such as demotion of, dis-
+25
+20:39 Feb 28, 2022
+H6796
+5 
+•HR 6796 IH
+abling of access to, or removal of such content; 
+1
+or 
+2
+(B) the users’ ability to provide such con-
+3
+tent, such as the termination or suspension of 
+4
+a user’s account. 
+5
+(11) COVERED PLATFORM.— 
+6
+(A) IN
+GENERAL.—The term ‘‘covered 
+7
+platform’’ means a hosting service— 
+8
+(i) that disseminates to the public in-
+9
+formation; and 
+10
+(ii) to which a designation by the 
+11
+Commission under subparagraph (B) ap-
+12
+plies. 
+13
+(B) DESIGNATION.— 
+14
+(i) IN
+GENERAL.—The Commission 
+15
+shall verify, at least every 2 years, whether 
+16
+the number of average monthly active 
+17
+users in the United States of each hosting 
+18
+service provided by a provider described in 
+19
+paragraph (22) is equal to or greater than 
+20
+the number described in subparagraph 
+21
+(D). On the basis of the verification, the 
+22
+Commission shall adopt a decision desig-
+23
+nating the service as a covered platform 
+24
+for the purposes of this Act (if the number 
+25
+20:39 Feb 28, 2022
+H6796
+6 
+•HR 6796 IH
+of average monthly active users of the 
+1
+service in the United States is equal to or 
+2
+greater than the number described in sub-
+3
+paragraph (D)), or terminating such des-
+4
+ignation (if the number of average monthly 
+5
+active users of the service in the United 
+6
+States is less than the number described in 
+7
+subparagraph (D) and a previous designa-
+8
+tion under this subparagraph applies to 
+9
+the service), and communicate such deci-
+10
+sion, without undue delay, to the provider. 
+11
+(ii) APPLICABILITY.—A designation 
+12
+under this subparagraph shall apply, or 
+13
+cease to apply, beginning on the date that 
+14
+is 4 months after the publication of the 
+15
+designation on, or the removal of the des-
+16
+ignation from, the list under subparagraph 
+17
+(C). 
+18
+(C) PUBLICATION OF LIST OF DESIGNATED 
+19
+COVERED PLATFORMS.—The Commission shall 
+20
+ensure that the list of covered platforms des-
+21
+ignated under subparagraph (B) is published on 
+22
+the website of the Commission and keep such 
+23
+list updated. 
+24
+20:39 Feb 28, 2022
+H6796
+7 
+•HR 6796 IH
+(D) NUMBER OF AVERAGE MONTHLY AC-
+1
+TIVE USERS DESCRIBED.—The number of aver-
+2
+age monthly active users described in this sub-
+3
+paragraph is 10,000,000. 
+4
+(E) ADJUSTMENT.—When the population 
+5
+of the United States increases or decreases 
+6
+since the last adjustment under this subpara-
+7
+graph (or, before the first adjustment under 
+8
+this subparagraph is made, since the date of 
+9
+the enactment of this Act) by 5 percent or 
+10
+more, the Commission shall adjust the number 
+11
+described in subparagraph (D) so that such 
+12
+number is equal to 3 percent of the United 
+13
+States population at the time of the adjust-
+14
+ment, rounded up or down to the nearest mil-
+15
+lion. 
+16
+(F) METHODOLOGY.—Not later than 6 
+17
+months after the date of the enactment of this 
+18
+Act, the Commission shall issue regulations 
+19
+under section 553 of title 5, United States 
+20
+Code, to create a methodology for calculating 
+21
+the number of average monthly active users of 
+22
+a hosting service in the United States for pur-
+23
+poses of this paragraph and paragraph (18). 
+24
+The methodology shall specify, in particular, 
+25
+20:39 Feb 28, 2022
+H6796
+8 
+•HR 6796 IH
+how to determine the United States population 
+1
+and criteria to determine the number of average 
+2
+monthly active users of a hosting service in the 
+3
+United States, taking into account different ac-
+4
+cessibility features and business relationships. 
+5
+(G) EXCEPTION.—The term ‘‘covered plat-
+6
+form’’ does not include a hosting service with 
+7
+respect to which the dissemination to the public 
+8
+of information is merely a minor and purely an-
+9
+cillary feature of another service, if such feature 
+10
+cannot, for objective technical reasons, be used 
+11
+without such other, principal service, and the 
+12
+integration of such feature is not a means to 
+13
+circumvent the applicability of this Act and the 
+14
+regulations issued under this Act. Such an an-
+15
+cillary feature may include a feature such as 
+16
+the comments section in an online newspaper, 
+17
+where it is clear that it is ancillary to the main 
+18
+service represented by the publication of news 
+19
+under the editorial responsibility of the pub-
+20
+lisher. 
+21
+(12) DEIDENTIFY.—The term ‘‘deidentify’’ 
+22
+means, with respect to information, to take an ac-
+23
+tion so that the information cannot reasonably be 
+24
+used to infer information about, or otherwise be 
+25
+20:39 Feb 28, 2022
+H6796
+9 
+•HR 6796 IH
+linked to, an individual, a household, or a device 
+1
+used by an individual or a household. 
+2
+(13) DISSEMINATE TO THE PUBLIC.—The term 
+3
+‘‘disseminate to the public’’ means, with respect to 
+4
+information provided by a user of a covered plat-
+5
+form, to make the information available, at the re-
+6
+quest of the user, to a potentially unlimited number 
+7
+of third parties. 
+8
+(14) HOSTING
+SERVICE.—The term ‘‘hosting 
+9
+service’’ means an interactive computer service 
+10
+that— 
+11
+(A) stores information provided by, and at 
+12
+the request of, a user of the service; and 
+13
+(B) at any point during the preceding 2 
+14
+calendar years, was owned or controlled by an 
+15
+entity with net annual sales or a market cap-
+16
+italization greater than $2,500,000, adjusted 
+17
+annually for inflation on the basis of the Con-
+18
+sumer Price Index. 
+19
+(15) ILLEGAL
+CONTENT.—The term ‘‘illegal 
+20
+content’’ means any information, which, in itself or 
+21
+by its reference to an activity, including the sale of 
+22
+products or provision of services, is not in compli-
+23
+ance with Federal law. 
+24
+20:39 Feb 28, 2022
+H6796
+10 
+•HR 6796 IH
+(16) INFLUENCER
+MARKETING.—The term 
+1
+‘‘influencer marketing’’ means a practice by which a 
+2
+company compensates an individual who is consid-
+3
+ered by the company to have the potential to review, 
+4
+promote, or sell a product or service online to an in-
+5
+tended target audience. 
+6
+(17) INTERACTIVE
+COMPUTER
+SERVICE.—The 
+7
+term ‘‘interactive computer service’’ has the meaning 
+8
+given such term in section 230(f) of the Communica-
+9
+tions Act of 1934 (47 U.S.C. 230(f)). 
+10
+(18) LARGE COVERED PLATFORM.— 
+11
+(A) IN GENERAL.—The term ‘‘large cov-
+12
+ered platform’’ means a hosting service— 
+13
+(i) that disseminates to the public in-
+14
+formation; and 
+15
+(ii) to which a designation by the 
+16
+Commission under subparagraph (B) ap-
+17
+plies. 
+18
+(B) DESIGNATION.— 
+19
+(i) IN
+GENERAL.—The Commission 
+20
+shall verify, at least every 2 years, whether 
+21
+the number of average monthly active 
+22
+users in the United States of each hosting 
+23
+service provided by a provider described in 
+24
+paragraph (22) is equal to or greater than 
+25
+20:39 Feb 28, 2022
+H6796
+11 
+•HR 6796 IH
+the number described in subparagraph 
+1
+(D). On the basis of the verification, the 
+2
+Commission shall adopt a decision desig-
+3
+nating the service as a large covered plat-
+4
+form for the purposes of this Act (if the 
+5
+number of average monthly active users of 
+6
+the service in the United States is equal to 
+7
+or greater than the number described in 
+8
+subparagraph (D)), or terminating such 
+9
+designation (if the number of average 
+10
+monthly active users of the service in the 
+11
+United States is less than the number de-
+12
+scribed in subparagraph (D) and a pre-
+13
+vious designation under this subparagraph 
+14
+applies to the service), and communicate 
+15
+such decision, without undue delay, to the 
+16
+provider. 
+17
+(ii) APPLICABILITY.—A designation 
+18
+under this subparagraph shall apply, or 
+19
+cease to apply, beginning on the date that 
+20
+is 4 months after the publication of the 
+21
+designation on, or the removal of the des-
+22
+ignation from, the list under subparagraph 
+23
+(C). 
+24
+20:39 Feb 28, 2022
+H6796
+12 
+•HR 6796 IH
+(C) PUBLICATION OF LIST OF DESIGNATED 
+1
+LARGE
+COVERED
+PLATFORMS.—The Commis-
+2
+sion shall ensure that the list of large covered 
+3
+platforms designated under subparagraph (B) 
+4
+is published on the website of the Commission 
+5
+and keep such list updated. 
+6
+(D) NUMBER OF AVERAGE MONTHLY AC-
+7
+TIVE USERS DESCRIBED.—The number of aver-
+8
+age monthly active users described in this sub-
+9
+paragraph is 66,000,000. 
+10
+(E) ADJUSTMENT.—When the population 
+11
+of the United States increases or decreases 
+12
+since the last adjustment under this subpara-
+13
+graph (or, before the first adjustment under 
+14
+this subparagraph is made, since the date of 
+15
+the enactment of this Act) by 5 percent or 
+16
+more, the Commission shall adjust the number 
+17
+described in subparagraph (D) so that such 
+18
+number is equal to 20 percent of the United 
+19
+States population at the time of the adjust-
+20
+ment, rounded up or down to the nearest mil-
+21
+lion. 
+22
+(F) EXCEPTION.—The term ‘‘large covered 
+23
+platform’’ does not include a hosting service 
+24
+with respect to which the dissemination to the 
+25
+20:39 Feb 28, 2022
+H6796
+13 
+•HR 6796 IH
+public of information is merely a minor and 
+1
+purely ancillary feature of another service, if 
+2
+such feature cannot, for objective technical rea-
+3
+sons, be used without such other, principal serv-
+4
+ice, and the integration of such feature is not 
+5
+a means to circumvent the applicability of this 
+6
+Act and the regulations issued under this Act. 
+7
+Such an ancillary feature may include a feature 
+8
+such as the comments section in an online 
+9
+newspaper, where it is clear that it is ancillary 
+10
+to the main service represented by the publica-
+11
+tion of news under the editorial responsibility of 
+12
+the publisher. 
+13
+(19) OFFICE.—The term ‘‘Office’’ means the 
+14
+Office of Independent Research Facilitation estab-
+15
+lished under section 10(a). 
+16
+(20) PERSONAL HEALTH INFORMATION.—The 
+17
+term ‘‘personal health information’’ includes per-
+18
+sonal information that— 
+19
+(A) relates to the physical or mental health 
+20
+or condition of an individual or the provision of 
+21
+health care to an individual; 
+22
+(B) is processed for the purpose or in the 
+23
+course of providing health or wellness services; 
+24
+or 
+25
+20:39 Feb 28, 2022
+H6796
+14 
+•HR 6796 IH
+(C) is derived from the testing or examina-
+1
+tion of a body part or bodily substance, includ-
+2
+ing from genetic data and biological samples. 
+3
+(21) PRECISE GEOSPATIAL INFORMATION.— 
+4
+(A) IN
+GENERAL.—The term ‘‘precise 
+5
+geospatial information’’ means information de-
+6
+rived from a consumer device through any tech-
+7
+nology that is capable of determining with spec-
+8
+ificity the spatial location of a person or device, 
+9
+such as latitude-longitude coordinates with an 
+10
+accuracy level of below 1,750 feet provided by 
+11
+GPS, triangulated location provided by network 
+12
+radios or beacons such as Wi-Fi, or other tech-
+13
+nologies and inferences. 
+14
+(B) 
+EXCLUSION.—The 
+term 
+‘‘precise 
+15
+geospatial information’’ does not include infor-
+16
+mation that is or will be altered prior to subse-
+17
+quent processing such that the physical location 
+18
+of an individual or device cannot be determined 
+19
+with specificity. 
+20
+(22) PROVIDER.—The term ‘‘provider’’ means, 
+21
+with respect to a hosting service, covered platform, 
+22
+or large covered platform, a person, partnership, or 
+23
+corporation over which the Commission has author-
+24
+ity pursuant to section 6(a) of the Federal Trade 
+25
+20:39 Feb 28, 2022
+H6796
+15 
+•HR 6796 IH
+Commission Act (15 U.S.C. 46(a)) that provides 
+1
+such service or platform. 
+2
+(23) PUBLIC CONTENT.—The term ‘‘public con-
+3
+tent’’ means information on a covered platform that 
+4
+is available to a potentially unlimited number of 
+5
+third parties. Such term does not exclude informa-
+6
+tion merely because an individual must log into an 
+7
+account in order to see the information. 
+8
+(24) RECOGNIZED PLACE.—The term ‘‘recog-
+9
+nized place’’ means any of the following: 
+10
+(A) Each of the 50 States, the District of 
+11
+Columbia, the Commonwealth of Puerto Rico, 
+12
+Guam, American Samoa, the Commonwealth of 
+13
+the Northern Mariana Islands, and the Virgin 
+14
+Islands of the United States. 
+15
+(B) Each noncontiguous area of Indian 
+16
+country (as defined in section 1151 of title 18, 
+17
+United States Code). 
+18
+(C) A county, municipality, city, town, 
+19
+township, village, borough, or similar unit of 
+20
+general government that is— 
+21
+(i) incorporated pursuant to a State 
+22
+law; or 
+23
+20:39 Feb 28, 2022
+H6796
+16 
+•HR 6796 IH
+(ii) an incorporated place (as such 
+1
+term is defined in the most recent glossary 
+2
+of the Bureau of the Census). 
+3
+(D) A census designated place (as such 
+4
+term is defined in the most recent glossary of 
+5
+the Bureau of the Census). 
+6
+(E) A congressional district. 
+7
+(F) A country. 
+8
+(25) RECOMMENDER SYSTEM.—The term ‘‘rec-
+9
+ommender system’’ means a fully or partially auto-
+10
+mated system used on a covered platform to suggest 
+11
+in the online interface of the platform specific infor-
+12
+mation to users of the platform, including as a re-
+13
+sult of a search initiated by a user or otherwise de-
+14
+termining the relative order or prominence of infor-
+15
+mation displayed. 
+16
+(26) SOCIOTECHNICAL
+EXPERT.—The term 
+17
+‘‘sociotechnical 
+expert’’ 
+means 
+an 
+information 
+18
+science researcher, privacy or human rights advo-
+19
+cate, international data governance expert, sociolo-
+20
+gist, psychologist, ethicist, language scholar, statisti-
+21
+cian, user interface designer, child development 
+22
+scholar, or an individual with expertise in another 
+23
+related field or application. 
+24
+20:39 Feb 28, 2022
+H6796
+17 
+•HR 6796 IH
+(27) STATE.—The term ‘‘State’’ means each 
+1
+State of the United States, the District of Columbia, 
+2
+each commonwealth, territory, or possession of the 
+3
+United States, and each federally recognized Indian 
+4
+Tribe. 
+5
+(28) TECHNOLOGIST.—The term ‘‘technologist’’ 
+6
+means an individual with training and expertise re-
+7
+garding the state of the art in information tech-
+8
+nology, information security, network security, soft-
+9
+ware development, computer science, computer engi-
+10
+neering, or another related field or application. 
+11
+(29) TERMS
+AND
+CONDITIONS.—The term 
+12
+‘‘terms and conditions’’ means all terms and condi-
+13
+tions or specifications, irrespective of their name or 
+14
+form, which govern the contractual relationship be-
+15
+tween the provider of a hosting service and users of 
+16
+the service. 
+17
+SEC. 3. BUREAU OF DIGITAL SERVICES OVERSIGHT AND 
+18
+SAFETY. 
+19
+(a) ESTABLISHMENT.—Not later than 6 months after 
+20
+the date of the enactment of this Act, the Commission 
+21
+shall establish an administrative unit in the Commission 
+22
+to be known as the ‘‘Bureau of Digital Services Oversight 
+23
+and Safety’’, which shall carry out such duties of the Com-
+24
+20:39 Feb 28, 2022
+H6796
+18 
+•HR 6796 IH
+mission under this Act, and such other duties relating to 
+1
+hosting services, as the Commission considers appropriate. 
+2
+(b) APPOINTMENTS.— 
+3
+(1) DIRECTOR.—The Bureau shall be headed 
+4
+by a Director, who shall be appointed by the Com-
+5
+mission. 
+6
+(2) PERSONNEL.— 
+7
+(A) IN
+GENERAL.—The Director of the 
+8
+Bureau shall, without regard to the civil service 
+9
+laws (including regulations), establish at least 
+10
+500 positions in the Bureau and appoint cer-
+11
+tified professionals to such positions to carry 
+12
+out the duties of the Bureau. The Director may 
+13
+fix the rate of basic pay for such positions at 
+14
+any rate up to the annual rate of basic pay for 
+15
+Level I of the Executive Schedule under section 
+16
+5312 of title 5, United States Code. 
+17
+(B) TECHNOLOGISTS.—In appointing cer-
+18
+tified professionals under subparagraph (A), the 
+19
+Director shall appoint at least 80 technologists. 
+20
+(C) SOCIOTECHNICAL
+EXPERTS.—In ap-
+21
+pointing certified professionals under subpara-
+22
+graph (A), the Director shall appoint at least 
+23
+80 sociotechnical experts. 
+24
+20:39 Feb 28, 2022
+H6796
+19 
+•HR 6796 IH
+(D) CONSTITUTIONAL
+LAWYERS.—In ap-
+1
+pointing certified professionals under subpara-
+2
+graph (A), the Director shall appoint at least 
+3
+15 constitutional lawyers. 
+4
+SEC. 4. STUDIES AND INVESTIGATIONS. 
+5
+(a) SENSE OF CONGRESS REGARDING USE OF SEC-
+6
+TION 6(b) AUTHORITY.—It is the sense of Congress that 
+7
+the Commission should do the following: 
+8
+(1) Use the authority of the Commission under 
+9
+section 6(b) of the Federal Trade Commission Act 
+10
+(15 U.S.C. 46(b)), on an ongoing basis, to conduct 
+11
+investigative studies of providers of hosting services. 
+12
+(2) Provide the Bureau with adequate authority 
+13
+and resources to conduct such investigative studies. 
+14
+(3) Conduct such investigative studies to gain a 
+15
+better understanding of the following systemic risks: 
+16
+(A) The dissemination of illegal content or 
+17
+illegal goods, or the facilitation of illegal activ-
+18
+ity, through a hosting service. 
+19
+(B) Discrimination against individuals 
+20
+based on race, color, religion or creed, national 
+21
+origin or ancestry, sex (including gender, preg-
+22
+nancy status, sexual orientation, or gender 
+23
+identity), age, physical or mental disability, vet-
+24
+eran status, genetic information, or citizenship 
+25
+20:39 Feb 28, 2022
+H6796
+20 
+•HR 6796 IH
+by, or resulting from the activities of, a pro-
+1
+vider of a hosting service. 
+2
+(C) Any malfunctioning or intentional ma-
+3
+nipulation of a hosting service, including by 
+4
+means of inauthentic use or coordinated, auto-
+5
+mated, or other exploitation of the service or 
+6
+risks inherent to the intended operation of the 
+7
+service, including the amplification of illegal 
+8
+content, and of content that is in breach of the 
+9
+community standards of the provider of the 
+10
+service and has an actual or foreseeable nega-
+11
+tive effect on the protection of public health, 
+12
+minors, civic discourse, electoral processes, pub-
+13
+lic security, or the safety of vulnerable and 
+14
+marginalized communities. 
+15
+(b) WHISTLEBLOWER PROTECTIONS.— 
+16
+(1) DEFINITIONS.—In this subsection: 
+17
+(A) COVERED
+PERSON.—The term ‘‘cov-
+18
+ered person’’ means a person who is— 
+19
+(i) a provider of a hosting service; 
+20
+(ii) an officer, employee, contractor, 
+21
+subcontractor, or agent of a provider of a 
+22
+hosting service; or 
+23
+20:39 Feb 28, 2022
+H6796
+21 
+•HR 6796 IH
+(iii) an officer, employee, or agent of 
+1
+a contractor or subcontractor of a provider 
+2
+of a hosting service. 
+3
+(B) PROTECTED
+INDIVIDUAL.—The term 
+4
+‘‘protected individual’’ means an individual who 
+5
+is— 
+6
+(i) an officer, employee, contractor, 
+7
+subcontractor, or agent of a provider of a 
+8
+hosting service; 
+9
+(ii) an officer, employee, or agent of a 
+10
+contractor or subcontractor of a provider 
+11
+of a hosting service; or 
+12
+(iii) a certified researcher. 
+13
+(2) WHISTLEBLOWER PROTECTION.— 
+14
+(A) IN GENERAL.—A covered person may 
+15
+not discharge, demote, suspend, threaten, har-
+16
+ass, or in any other manner discriminate 
+17
+against (in the terms and conditions of employ-
+18
+ment or otherwise) a protected individual if 
+19
+such discrimination is due, in whole or in part, 
+20
+to the protected individual’s lawful, good faith 
+21
+act done, or perceived by the covered person to 
+22
+have been done or about to be done, because 
+23
+the protected individual— 
+24
+20:39 Feb 28, 2022
+H6796
+22 
+•HR 6796 IH
+(i) provides information, causes infor-
+1
+mation to be provided, or otherwise assists 
+2
+in an investigation regarding any conduct 
+3
+which the protected individual reasonably 
+4
+believes constitutes a violation of this Act 
+5
+or the regulations issued by the Commis-
+6
+sion under this Act when the information 
+7
+or assistance is provided to or the inves-
+8
+tigation is conducted by— 
+9
+(I) a Federal regulatory or law 
+10
+enforcement agency; 
+11
+(II) any Member of Congress or 
+12
+any committee of Congress; or 
+13
+(III) in the case of a protected 
+14
+individual who is an employee of a 
+15
+provider of a hosting service or of a 
+16
+contractor or subcontractor of such a 
+17
+provider, a person with supervisory 
+18
+authority over the employee (or such 
+19
+other person working for the provider, 
+20
+contractor, or subcontractor who has 
+21
+the authority to investigate, discover, 
+22
+or terminate misconduct); or 
+23
+(ii) files, causes to be filed, testifies 
+24
+in, participates in, or otherwise assists in 
+25
+20:39 Feb 28, 2022
+H6796
+23 
+•HR 6796 IH
+a proceeding filed or about to be filed re-
+1
+lating to an alleged violation of this Act or 
+2
+the regulations issued by the Commission 
+3
+under this Act. 
+4
+(B) PROHIBITION ON SERVICE DISCRIMI-
+5
+NATION.—In addition to the discrimination pro-
+6
+hibited by subparagraph (A), a provider of a 
+7
+hosting service may not condition, degrade, or 
+8
+otherwise discriminate in the provision of a 
+9
+service or product to a protected individual be-
+10
+cause the protected individual engaged in any 
+11
+action described in clause (i) or (ii) of such sub-
+12
+paragraph. 
+13
+(3) ENFORCEMENT ACTION.— 
+14
+(A) IN GENERAL.—A protected individual 
+15
+who alleges discharge or other discrimination by 
+16
+any covered person in violation of paragraph 
+17
+(2) may seek relief under paragraph (4) by— 
+18
+(i) filing a complaint with the Sec-
+19
+retary of Labor; or 
+20
+(ii) if the Secretary has not issued a 
+21
+final decision within 180 days after the fil-
+22
+ing of the complaint under clause (i) and 
+23
+there is no showing that such delay is due 
+24
+to the bad faith of the protected individual, 
+25
+20:39 Feb 28, 2022
+H6796
+24 
+•HR 6796 IH
+bringing an action at law or equity for de 
+1
+novo review in the appropriate district 
+2
+court of the United States, which shall 
+3
+have jurisdiction over such an action with-
+4
+out regard to the amount in controversy. 
+5
+(B) PROCEDURE.— 
+6
+(i) IN
+GENERAL.—Any proceeding 
+7
+with respect to a complaint under subpara-
+8
+graph (A)(i) shall be governed under the 
+9
+rules and procedures set forth in section 
+10
+42121(b) of title 49, United States Code. 
+11
+(ii) EXCEPTION.—Notification made 
+12
+under section 42121(b)(1) of title 49, 
+13
+United States Code, shall be made to the 
+14
+covered person named in the complaint 
+15
+and, in the case of a complaint filed by a 
+16
+protected individual who is an employee of 
+17
+a provider of a hosting service or of a con-
+18
+tractor or subcontractor of such a provider, 
+19
+to the provider, contractor, or subcon-
+20
+tractor. 
+21
+(iii) BURDENS OF PROOF.—An action 
+22
+brought under subparagraph (A)(ii) shall 
+23
+be governed by the legal burdens of proof 
+24
+20:39 Feb 28, 2022
+H6796
+25 
+•HR 6796 IH
+set forth in section 42121(b) of title 49, 
+1
+United States Code. 
+2
+(iv) STATUTE
+OF
+LIMITATIONS.—A 
+3
+complaint under subparagraph (A)(i) shall 
+4
+be filed not later than 180 days after the 
+5
+later of— 
+6
+(I) the date on which the viola-
+7
+tion occurs; or 
+8
+(II) the date on which the pro-
+9
+tected individual becomes aware of the 
+10
+violation. 
+11
+(v) JURY TRIAL.—A party to an ac-
+12
+tion brought under subparagraph (A)(ii) 
+13
+shall be entitled to trial by jury. 
+14
+(4) RELIEF.— 
+15
+(A) IN GENERAL.—A protected individual 
+16
+prevailing in any proceeding or action under 
+17
+paragraph (3)(A) shall be entitled to all relief 
+18
+necessary to make the protected individual 
+19
+whole, including compensation for any special 
+20
+damages sustained as a result of the discrimi-
+21
+nation, including litigation costs, expert witness 
+22
+fees, and reasonable attorney fees. 
+23
+(B) FOR EMPLOYEES.—In the case of a 
+24
+protected individual who is an employee of a 
+25
+20:39 Feb 28, 2022
+H6796
+26 
+•HR 6796 IH
+provider of a hosting service or of a contractor 
+1
+or subcontractor of such a provider, if the em-
+2
+ployee prevails in any proceeding or action 
+3
+under paragraph (3)(A) against the provider, 
+4
+contractor, or subcontractor, relief under sub-
+5
+paragraph (A) of this paragraph may include— 
+6
+(i) reinstatement with the same se-
+7
+niority status that the employee would 
+8
+have had, but for the discrimination; and 
+9
+(ii) the amount of back pay, with in-
+10
+terest. 
+11
+(5) RIGHTS
+RETAINED
+BY
+PROTECTED
+INDI-
+12
+VIDUAL.—Nothing in this subsection shall be con-
+13
+strued to diminish the rights, privileges, or remedies 
+14
+of any protected individual under any Federal or 
+15
+State law, or under any collective bargaining agree-
+16
+ment. 
+17
+(6) NONENFORCEABILITY OF CERTAIN PROVI-
+18
+SIONS WAIVING RIGHTS AND REMEDIES OR REQUIR-
+19
+ING ARBITRATION OF DISPUTES.— 
+20
+(A) WAIVER OF RIGHTS AND REMEDIES.— 
+21
+The rights and remedies provided for in this 
+22
+subsection may not be waived, including by a 
+23
+predispute arbitration agreement. 
+24
+20:39 Feb 28, 2022
+H6796
+27 
+•HR 6796 IH
+(B) PREDISPUTE
+ARBITRATION
+AGREE-
+1
+MENTS.—No predispute arbitration agreement 
+2
+shall be valid or enforceable, if the agreement 
+3
+requires arbitration of a dispute arising under 
+4
+this subsection. 
+5
+(7) NO CONDITIONAL SERVICE.—A provider of 
+6
+a hosting service may not condition, degrade, or oth-
+7
+erwise discriminate in the provision of a service or 
+8
+product to a protected individual based on the pro-
+9
+tected individual’s waiver of or refusal to waive any 
+10
+right or remedy provided for in this subsection. 
+11
+(8) PROHIBITION ON DISCLOSURE OF IDENTITY 
+12
+OF PROTECTED INDIVIDUAL.— 
+13
+(A) BY FEDERAL AGENCIES.—Except with 
+14
+the written consent of the protected individual, 
+15
+an agency (as defined in section 552(f) of title 
+16
+5, United States Code) may not disclose any in-
+17
+formation that may be used to identify a pro-
+18
+tected individual who has provided information 
+19
+about an alleged violation of this Act or the 
+20
+regulations issued by the Commission under 
+21
+this Act, except in accordance with the provi-
+22
+sions of section 552a of title 5, United States 
+23
+Code, unless and until required to be disclosed 
+24
+to a defendant or respondent in connection with 
+25
+20:39 Feb 28, 2022
+H6796
+28 
+•HR 6796 IH
+a public proceeding instituted by the agency. 
+1
+Any information that may be used to identify a 
+2
+protected individual shall be exempt from dis-
+3
+closure under section 552(b)(3)(B) of title 5, 
+4
+United States Code. 
+5
+(B) BY COVERED PERSONS.—Except with 
+6
+the written consent of the protected individual, 
+7
+a covered person may not disclose any informa-
+8
+tion that may be used to identify a protected in-
+9
+dividual who has provided information about an 
+10
+alleged violation of this Act or the regulations 
+11
+issued by the Commission under this Act, un-
+12
+less and until required to be disclosed by law 
+13
+(including pursuant to an order issued by a 
+14
+court of competent jurisdiction). 
+15
+(c) INTERAGENCY REPORTS.— 
+16
+(1) IN GENERAL.—Upon request by an agency 
+17
+described in paragraph (2), the Commission may, at 
+18
+the discretion of the Commission— 
+19
+(A) investigate conduct by a provider of a 
+20
+hosting service that may be unlawful under a 
+21
+provision of law enforced by or a regulation 
+22
+issued by such agency; and 
+23
+(B) issue a report to such agency on the 
+24
+results of the investigation. 
+25
+20:39 Feb 28, 2022
+H6796
+29 
+•HR 6796 IH
+(2) AGENCIES DESCRIBED.—The agencies de-
+1
+scribed in this paragraph are the following: 
+2
+(A) The Department of Education. 
+3
+(B) The Department of Labor. 
+4
+(C) The Department of Housing and 
+5
+Urban Development. 
+6
+(D) The Department of Commerce. 
+7
+(E) The Department of Health and 
+8
+Human Services. 
+9
+(F) The Department of Veterans Affairs. 
+10
+(G) The Equal Employment Opportunity 
+11
+Commission. 
+12
+(H) The Bureau of Consumer Financial 
+13
+Protection. 
+14
+(I) The Federal Communications Commis-
+15
+sion. 
+16
+(J) The Federal Election Commission. 
+17
+(K) The Department of State. 
+18
+(3) PUBLIC AVAILABILITY OF REPORTS.—A re-
+19
+port issued by the Commission under paragraph (1) 
+20
+shall be made publicly available by the Commission 
+21
+consistent with section 552 of title 5, United States 
+22
+Code (commonly known as the ‘‘Freedom of Infor-
+23
+mation Act’’). 
+24
+20:39 Feb 28, 2022
+H6796
+30 
+•HR 6796 IH
+SEC. 5. INTERNAL COMPLAINT-HANDLING SYSTEMS. 
+1
+(a) IN GENERAL.—Not later than 1 year after the 
+2
+date of the enactment of this Act, the Commission shall 
+3
+issue regulations under section 553 of title 5, United 
+4
+States Code, that require a provider of a covered platform 
+5
+to provide a user of the platform, for a period of at least 
+6
+6 months after a content moderation action described in 
+7
+subsection (b) with respect to information provided by the 
+8
+user, with access to an internal complaint-handling system 
+9
+that allows the user to appeal the content moderation ac-
+10
+tion. 
+11
+(b) COVERED CONTENT MODERATION ACTIONS.— 
+12
+The content moderation actions described in this sub-
+13
+section are the following: 
+14
+(1) A decision to remove or disable access to 
+15
+the information. 
+16
+(2) A decision to suspend or terminate the pro-
+17
+vision of the service, in whole or in part, to the user. 
+18
+(3) A decision to suspend or terminate the 
+19
+user’s account. 
+20
+(c) REQUIREMENTS.—In issuing regulations under 
+21
+subsection (a), the Commission shall require a provider 
+22
+of a covered platform to do the following: 
+23
+(1) To ensure that the internal complaint-han-
+24
+dling system is easy to access (including for individ-
+25
+uals with disabilities), is user-friendly, and enables 
+26
+20:39 Feb 28, 2022
+H6796
+31 
+•HR 6796 IH
+and facilitates the submission of sufficiently precise 
+1
+and adequately substantiated complaints. 
+2
+(2) To ensure that the internal complaint-han-
+3
+dling system is available in each language in which 
+4
+the covered platform operates. 
+5
+(3) To handle complaints submitted through 
+6
+the internal complaint-handling system in a timely, 
+7
+diligent, and objective manner. 
+8
+(4) To inform a complainant without undue 
+9
+delay of the decision the provider has taken regard-
+10
+ing the complaint and the reasoning for the decision. 
+11
+(5) To ensure that a decision regarding a com-
+12
+plaint is not taken solely on the basis of automated 
+13
+means, subject to exceptions specified by the Com-
+14
+mission for circumstances such as frivolous com-
+15
+plaints submitted by automated means, repetitive 
+16
+complaints, or coordinated abuse of the complaint- 
+17
+handling system. 
+18
+(d) EXCEPTIONS.—In issuing regulations under sub-
+19
+section (a), the Commission shall consider exceptions to 
+20
+when a provider of a covered platform is required to re-
+21
+spond to a complaint submitted through the internal com-
+22
+plaint-handling system, such as if providing a response 
+23
+would risk imminent harm to any person or impede law 
+24
+enforcement activities. 
+25
+20:39 Feb 28, 2022
+H6796
+32 
+•HR 6796 IH
+(e) VARIATION BASED
+ON SIZE
+AND SCOPE.—In 
+1
+issuing regulations under subsection (a), the Commission 
+2
+shall vary the requirements based on the size and scope 
+3
+of a covered platform, including by having different re-
+4
+quirements for different services such as social media serv-
+5
+ices, online marketplaces, augmented reality and virtual 
+6
+reality services, and digital advertising placement services. 
+7
+SEC. 6. TRANSPARENCY REGARDING CONTENT MODERA-
+8
+TION AND RELATED MATTERS. 
+9
+(a) COMMUNITY STANDARDS.— 
+10
+(1) IN GENERAL.—Not later than 1 year after 
+11
+the date of the enactment of this Act, the Commis-
+12
+sion shall issue regulations under section 553 of title 
+13
+5, United States Code, that require a provider of a 
+14
+hosting service to include in the community stand-
+15
+ards of the provider the following information: 
+16
+(A) Information on any restrictions that 
+17
+the provider imposes with respect to informa-
+18
+tion provided by users of the service, including 
+19
+information on any policies, procedures, meas-
+20
+ures, or tools used for the purpose of content 
+21
+moderation, including algorithmic decision mak-
+22
+ing and human review. 
+23
+(B) Historical versions of the community 
+24
+standards and change logs. 
+25
+20:39 Feb 28, 2022
+H6796
+33 
+•HR 6796 IH
+(C) Anything else determined to be nec-
+1
+essary by the Commission. 
+2
+(2) FORMAT.—The information required by 
+3
+paragraph (1) shall be provided in clear and unam-
+4
+biguous language and shall be publicly available in 
+5
+an electronic format in which pieces of information 
+6
+are identified using an interactive data standard, 
+7
+such as eXtensible Markup Language (XML), that 
+8
+is a standardized list of electronic tags that mark 
+9
+the information required by paragraph (1) within 
+10
+the community standards of a provider of a hosting 
+11
+service. 
+12
+(b) TRANSPARENCY REPORTS.— 
+13
+(1) IN GENERAL.—Not later than 1 year after 
+14
+the date of the enactment of this Act, the Commis-
+15
+sion shall issue regulations under section 553 of title 
+16
+5, United States Code, that require a provider of a 
+17
+hosting service to issue publicly available trans-
+18
+parency reports relating to content moderation by 
+19
+the provider with respect to the service. 
+20
+(2) INFORMATION TO BE INCLUDED.—The reg-
+21
+ulations issued under paragraph (1) shall require the 
+22
+transparency reports to include information (both 
+23
+quantitative and qualitative) on the following, as ap-
+24
+plicable: 
+25
+20:39 Feb 28, 2022
+H6796
+34 
+•HR 6796 IH
+(A) A description of the content modera-
+1
+tion practices of the provider, including statis-
+2
+tics regarding the amount and type of content 
+3
+moderation actions taken that affect the avail-
+4
+ability, visibility, and accessibility of informa-
+5
+tion provided by users and the ability of users 
+6
+to provide information, categorized by the type 
+7
+of action and reason for taking the action. 
+8
+(B) Statistics regarding the method of de-
+9
+tection of information with respect to which a 
+10
+content moderation enforcement action was 
+11
+taken, such as employees or contractors of the 
+12
+provider, artificial intelligence software, trusted 
+13
+organizations, users, or shared databases. 
+14
+(C) Statistics regarding the number of le-
+15
+gally enforceable government requirements, 
+16
+non-legally enforceable government referrals 
+17
+(specifying the portion that came from internet 
+18
+referral units alleging violations of the commu-
+19
+nity standards of the providers), and requests 
+20
+from other entities or private third parties, to— 
+21
+(i) provide content or personal infor-
+22
+mation of users; or 
+23
+(ii) restrict access to or block content. 
+24
+20:39 Feb 28, 2022
+H6796
+35 
+•HR 6796 IH
+(D) Statistics regarding the number of 
+1
+complaints received through the internal com-
+2
+plaint-handling system required by section 5, 
+3
+the basis for such complaints, decisions taken 
+4
+with respect to such complaints, the time need-
+5
+ed for taking such decisions, and the number of 
+6
+instances in which such decisions were reversed. 
+7
+(E) Statistics regarding user exposure to 
+8
+illegal content or content that violates the com-
+9
+munity standards of the provider, including the 
+10
+type of content the user was exposed to, where 
+11
+and how the content was surfaced to the user 
+12
+(including whether the content was promoted 
+13
+through a creator or account the user follows 
+14
+and whether the content was algorithmically 
+15
+recommended or otherwise amplified by the 
+16
+service) and whether the content was public 
+17
+content. 
+18
+(F) Aggregate reporting on the language 
+19
+fluency of the employees, contractors, and sub-
+20
+contractors of the provider involved in content 
+21
+moderation, broken down by type of employ-
+22
+ment and regional assignment. 
+23
+(G) Significant changes during the period 
+24
+covered by the report from the previous report 
+25
+20:39 Feb 28, 2022
+H6796
+36 
+•HR 6796 IH
+under this subsection issued by the provider 
+1
+with respect to the service. 
+2
+(H) Any other information the Commission 
+3
+considers appropriate. 
+4
+(3) CONSIDERATIONS.—In issuing regulations 
+5
+under paragraph (1), the Commission shall ensure 
+6
+that the reporting requirements— 
+7
+(A) take into consideration the rights and 
+8
+interests of providers and users of hosting serv-
+9
+ices, including the protection of personal infor-
+10
+mation, the protection of confidential informa-
+11
+tion, and maintaining the security of such serv-
+12
+ices; 
+13
+(B) specify how providers of hosting serv-
+14
+ices should count and communicate their meth-
+15
+ods for counting content moderation actions, in-
+16
+cluding in the case that content spans multiple 
+17
+reasons for removal or repeated notifications re-
+18
+lated to the same user or content; 
+19
+(C) specify when and how posts moderated 
+20
+by volunteer moderators in a hosted community 
+21
+should be reported; 
+22
+(D) take into consideration relevant stand-
+23
+ards issued by international standards-setting 
+24
+organizations; and 
+25
+20:39 Feb 28, 2022
+H6796
+37 
+•HR 6796 IH
+(E) require the reports to be machine-read-
+1
+able and formatted to allow access by users 
+2
+with disabilities. 
+3
+(4) FREQUENCY.—In issuing regulations under 
+4
+paragraph (1), the Commission shall specify the fre-
+5
+quency with which a provider of a hosting service is 
+6
+required to issue the transparency reports required 
+7
+by such regulations and may vary such frequency 
+8
+under subsection (e) based on the size and scope of 
+9
+the service or the provider. The Commission shall re-
+10
+quire such reports to be issued at least annually for 
+11
+hosting services and at least quarterly for large cov-
+12
+ered platforms. 
+13
+(c) LEVEL
+OF
+DETAIL
+OF
+REQUIRED
+DISCLO-
+14
+SURES.—In issuing regulations under this section, the 
+15
+Commission shall consider the level of detail needed to in-
+16
+form users of hosting services while not impeding the abil-
+17
+ity of hosting services to mitigate systemic risks, including 
+18
+the systemic risks described in section 4(a)(3). 
+19
+(d) LANGUAGE
+OF REQUIRED DISCLOSURES.—In 
+20
+issuing regulations under this section, the Commission 
+21
+shall require a provider of a hosting service to make avail-
+22
+able the information required to be included in the com-
+23
+munity standards of the provider under subsection (a) and 
+24
+20:39 Feb 28, 2022
+H6796
+38 
+•HR 6796 IH
+the transparency reports issued under subsection (b) in 
+1
+each language in which the hosting service operates. 
+2
+(e) VARIATION BASED
+ON SIZE
+AND SCOPE.—In 
+3
+issuing regulations under this section, the Commission 
+4
+shall vary the requirements based on the size and scope 
+5
+of the hosting service, including by having different re-
+6
+quirements for different services such as social media serv-
+7
+ices, online marketplaces, augmented reality and virtual 
+8
+reality services, digital advertising placement services, and 
+9
+cloud and web hosting services. 
+10
+(f) RULE OF CONSTRUCTION.—Nothing in this sec-
+11
+tion may be construed to require a provider of a hosting 
+12
+service to collect personal information that the provider 
+13
+would not otherwise collect. 
+14
+SEC. 7. RISK ASSESSMENT AND RISK MITIGATION REPORT-
+15
+ING. 
+16
+(a) RISK ASSESSMENT AND RISK MITIGATION RE-
+17
+18
+(1) IN GENERAL.—Not later than 18 months 
+19
+after the date of the enactment of this Act, the 
+20
+Commission shall issue regulations under section 
+21
+553 of title 5, United States Code, that require a 
+22
+provider of a large covered platform to— 
+23
+(A) conduct risk assessments with respect 
+24
+to the platform; and 
+25
+20:39 Feb 28, 2022
+H6796
+39 
+•HR 6796 IH
+(B) based on the risk assessments con-
+1
+ducted under subparagraph (A), submit to the 
+2
+Commission risk assessment and risk mitigation 
+3
+reports with respect to the platform. 
+4
+(2) RISK ASSESSMENT.— 
+5
+(A) IDENTIFICATION, ANALYSIS, AND AS-
+6
+SESSMENT
+OF
+SYSTEMIC
+RISKS.—The regula-
+7
+tions issued under paragraph (1) shall require 
+8
+a provider of a large covered platform, in con-
+9
+ducting a risk assessment and preparing a re-
+10
+port required by such regulations, to identify, 
+11
+analyze, and assess, in a manner specific to the 
+12
+large covered platform, any significant systemic 
+13
+risks arising from the functioning and use of 
+14
+the platform, including the systemic risks de-
+15
+scribed in section 4(a)(3). 
+16
+(B) INFLUENCE
+OF
+CONTENT
+MODERA-
+17
+TION AND OTHER SYSTEMS.—The regulations 
+18
+issued under paragraph (1) shall require a pro-
+19
+vider of a large covered platform, in conducting 
+20
+a risk assessment and preparing a report re-
+21
+quired by such regulations, to take into account 
+22
+how its content moderation systems, terms and 
+23
+conditions, community standards, algorithmic 
+24
+systems, recommender systems, and systems for 
+25
+20:39 Feb 28, 2022
+H6796
+40 
+•HR 6796 IH
+selecting and displaying advertisements, as well 
+1
+as the underlying data collection, processing, 
+2
+and profiling, influence any of the systemic 
+3
+risks identified under subparagraph (A), includ-
+4
+ing the potentially rapid and wide dissemination 
+5
+of illegal content and of information that is in-
+6
+compatible with its community standards. 
+7
+(3) RISK MITIGATION DOCUMENTATION.—The 
+8
+regulations issued under paragraph (1) shall require 
+9
+a provider of a large covered platform, in preparing 
+10
+a report required by such regulations, to document 
+11
+with particularity the measures used to mitigate any 
+12
+systemic risk identified by the provider under para-
+13
+graph (2)(A). Such measures may include, where ap-
+14
+plicable, the following: 
+15
+(A) Integrating threat modeling and red- 
+16
+teaming processes to guard against systemic 
+17
+risks identified under paragraph (2)(A) in the 
+18
+early stages of product design, and to test po-
+19
+tential mitigations prior to the release of a 
+20
+product. 
+21
+(B) Adapting the content moderation or 
+22
+recommender systems (including policies and 
+23
+enforcement) of the provider, the decision-mak-
+24
+ing processes of the provider, the features or 
+25
+20:39 Feb 28, 2022
+H6796
+41 
+•HR 6796 IH
+functioning of the platform, or the terms and 
+1
+conditions or community standards of the pro-
+2
+vider. 
+3
+(C) Targeted measures aimed at limiting 
+4
+the display of advertisements in association 
+5
+with the platform or the alternative placement 
+6
+and display of public service advertisements or 
+7
+other related factual (as determined by the pro-
+8
+vider) information. 
+9
+(D) Reinforcing the internal processes or 
+10
+supervision of any of the activities of the pro-
+11
+vider, particularly regarding the detection of 
+12
+systemic risks identified under paragraph 
+13
+(2)(A). 
+14
+(E) User-friendly notification and action 
+15
+mechanisms that allow any person to notify the 
+16
+provider of the presence on the platform of any 
+17
+content the person believes to be— 
+18
+(i) illegal content; or 
+19
+(ii) in violation of the terms and con-
+20
+ditions or community standards of the pro-
+21
+vider. 
+22
+(F) Crisis protocols, including a descrip-
+23
+tion of what constitutes the specific extraor-
+24
+dinary circumstance the crisis protocol seeks to 
+25
+20:39 Feb 28, 2022
+H6796
+42 
+•HR 6796 IH
+address and the objectives the crisis protocol 
+1
+pursues. 
+2
+(G) Testing for effectiveness and discrimi-
+3
+natory bias within any algorithms used in the 
+4
+content moderation process. 
+5
+(H) Hiring and training of human content 
+6
+moderators, trust and safety personnel, engi-
+7
+neers focused on detecting and reducing sys-
+8
+temic risks identified under paragraph (2)(A), 
+9
+and others with appropriate subject-matter ex-
+10
+pertise and cultural competence. 
+11
+(I) Protections for the health and well- 
+12
+being of human content moderators. 
+13
+(J) Deliberative approaches to platform 
+14
+governance, including creating citizen panels, 
+15
+assemblies, or independent oversight bodies, or 
+16
+using crowdsourcing mechanisms, to make or 
+17
+inform content moderation decisions or policies. 
+18
+(K) Age-appropriate design that adjusts 
+19
+features on the platform based on what is in 
+20
+the best interest of children and adolescents, 
+21
+given variations in brain development. 
+22
+(L) Other risk-mitigation techniques con-
+23
+sidered relevant by the Commission. 
+24
+20:39 Feb 28, 2022
+H6796
+43 
+•HR 6796 IH
+(4) VARIATION BASED ON SIZE AND SCOPE.— 
+1
+In issuing regulations under paragraph (1), the 
+2
+Commission shall vary the requirements based on 
+3
+the size and scope of a large covered platform, in-
+4
+cluding by having different requirements for dif-
+5
+ferent services such as social media services, online 
+6
+marketplaces, augmented reality and virtual reality 
+7
+services, and digital advertising placement services. 
+8
+(5) FREQUENCY.—In issuing regulations under 
+9
+paragraph (1), the Commission shall specify the fre-
+10
+quency with which a provider of a large covered plat-
+11
+form is required to conduct the risk assessments and 
+12
+submit to the Commission the reports required by 
+13
+such regulations and may vary such frequency under 
+14
+paragraph (4) based on the size and scope of the 
+15
+platform or the provider. The Commission shall re-
+16
+quire such risk assessments to be conducted and 
+17
+such reports to be submitted at least annually. 
+18
+(6) FOIA EXEMPTION.—The reports required 
+19
+by the regulations issued under paragraph (1) shall 
+20
+be 
+exempt 
+from 
+disclosure 
+under 
+section 
+21
+552(b)(3)(B) of title 5, United States Code. 
+22
+(b) ANNUAL REPORTS BY COMMISSION ON SYSTEMIC 
+23
+RISKS POSED BY LARGE COVERED PLATFORMS.—The 
+24
+Commission shall publish an annual report on systemic 
+25
+20:39 Feb 28, 2022
+H6796
+44 
+•HR 6796 IH
+risks posed by large covered platforms that includes the 
+1
+following: 
+2
+(1) Identification and assessment of the most 
+3
+prominent and recurrent systemic risks posed by 
+4
+large covered platforms, based on the reports sub-
+5
+mitted by providers of such platforms under sub-
+6
+section (a), information obtained by the Commission 
+7
+under section 6(b) of the Federal Trade Commission 
+8
+Act (15 U.S.C. 46(b)), or other information avail-
+9
+able to the Commission. 
+10
+(2) Assessment of the effectiveness of providers 
+11
+of large covered platforms at reducing systemic 
+12
+risks, including successful approaches that have 
+13
+worked across platforms. 
+14
+(c) INDEPENDENT AUDITS
+FOR LARGE COVERED 
+15
+PLATFORMS.— 
+16
+(1) IN GENERAL.—Not later than 1 year after 
+17
+the date of the enactment of this Act, the Commis-
+18
+sion shall issue regulations under section 553 of title 
+19
+5, United States Code, that require a provider of a 
+20
+large covered platform to obtain an annual audit of 
+21
+the risk assessment and risk mitigation measures 
+22
+documented by the provider in the most recent re-
+23
+port submitted under subsection (a) with respect to 
+24
+the platform, the accuracy of the most recent trans-
+25
+20:39 Feb 28, 2022
+H6796
+45 
+•HR 6796 IH
+parency report submitted under section 6(b) with re-
+1
+spect to the platform, and the compliance by the 
+2
+provider with respect to the platform with the regu-
+3
+lations issued under section 10, by an organization 
+4
+that— 
+5
+(A) is independent from the provider; 
+6
+(B) has proven expertise in the area of risk 
+7
+management; 
+8
+(C) has the technical competence and tech-
+9
+nical capabilities necessary to perform the 
+10
+audit; 
+11
+(D) has proven objectivity and professional 
+12
+ethics, based on adherence to codes of practice 
+13
+or other appropriate standards; and 
+14
+(E) meets any other requirements consid-
+15
+ered necessary by the Commission. 
+16
+(2) REPORT.—The regulations issued under 
+17
+paragraph (1) shall require an organization that per-
+18
+forms an audit under such paragraph to prepare a 
+19
+written report on the audit, which shall include the 
+20
+following: 
+21
+(A) The name, address, and point of con-
+22
+tact of the provider of the large covered plat-
+23
+form. 
+24
+20:39 Feb 28, 2022
+H6796
+46 
+•HR 6796 IH
+(B) The name, address, and point of con-
+1
+tact of the organization performing the audit. 
+2
+(C) The period covered by the audit. 
+3
+(D) A description of the specific elements 
+4
+audited, and the methodology applied. 
+5
+(E) A description of the main findings 
+6
+drawn from the audit. 
+7
+(F) An audit opinion on whether the pro-
+8
+vider of the platform accurately, fully, and 
+9
+meaningfully described all of the systemic risks 
+10
+known to the provider which were required to 
+11
+be included in the report submitted under sub-
+12
+section (a) to which the audit relates. 
+13
+(G) An audit opinion on the adequacy of 
+14
+the processes and procedures of the provider of 
+15
+the platform for identifying, assessing, and re-
+16
+porting systemic risks as required under sub-
+17
+section (a). 
+18
+(H) An audit opinion on whether the pro-
+19
+vider implemented the risk mitigation measures 
+20
+documented in the report submitted under sub-
+21
+section (a) to which the audit relates. 
+22
+(I) An audit opinion on the accuracy of 
+23
+and thoroughness of the transparency report 
+24
+20:39 Feb 28, 2022
+H6796
+47 
+•HR 6796 IH
+submitted under section 6(b) to which the audit 
+1
+relates. 
+2
+(J) An audit opinion on the compliance by 
+3
+the provider with respect to the platform with 
+4
+the regulations issued under section 10. 
+5
+(K) Recommendations for changes the pro-
+6
+vider could make to better address systemic 
+7
+risks. 
+8
+(L) Any additional information considered 
+9
+necessary by the Commission. 
+10
+(3) SUBMISSION OF REPORT.—The regulations 
+11
+issued under paragraph (1) shall require a provider 
+12
+of a large covered platform to submit to the Com-
+13
+mission the report prepared under paragraph (2). 
+14
+(4) INFORMATION TO BE DISCLOSED TO AUDIT 
+15
+ORGANIZATION.—The regulations issued under para-
+16
+graph (1) shall— 
+17
+(A) specify what information a provider of 
+18
+a large covered platform and the contractors of 
+19
+the provider are required to disclose to an orga-
+20
+nization performing an audit under such para-
+21
+graph; and 
+22
+(B) require the organization to comply 
+23
+with privacy measures similar to those for cer-
+24
+tified researchers under section 10 and any 
+25
+20:39 Feb 28, 2022
+H6796
+48 
+•HR 6796 IH
+other measures determined appropriate by the 
+1
+Commission to protect the privacy of users of 
+2
+large covered platforms and employees and con-
+3
+tractors of providers of large covered platforms. 
+4
+SEC. 8. GUIDANCE ON BEST PRACTICES. 
+5
+(a) IN GENERAL.—The Commission shall, on an on-
+6
+going basis, issue a series of evidence-based nonbinding 
+7
+guidance on best practices for providers of large covered 
+8
+platforms to address the systemic risks described in sec-
+9
+tion 4(a)(3). The guidance shall focus on product design 
+10
+features and content moderation processes that aim to be 
+11
+content neutral. 
+12
+(b) REGISTRY.—The Commission shall maintain, and 
+13
+make publicly available on the website of the Commission, 
+14
+a registry of all large covered platforms with a list of the 
+15
+guidance issued under this section that each platform fol-
+16
+lows, according to the independent audits conducted under 
+17
+section 7(c) or other information provided to the Commis-
+18
+sion under this Act. 
+19
+(c) ADVISORY COMMITTEES.—The Commission may 
+20
+create advisory committees (as defined in section 3 of the 
+21
+Federal Advisory Committee Act (5 U.S.C. App.)) to so-
+22
+licit views regarding the guidance under this section from 
+23
+stakeholders, including communities most impacted by the 
+24
+systemic risks described in section 4(a)(3) and content 
+25
+20:39 Feb 28, 2022
+H6796
+49 
+•HR 6796 IH
+moderators and employees (current or former) at covered 
+1
+platforms focused on mitigating such risks. 
+2
+SEC. 9. RECOMMENDER SYSTEMS. 
+3
+(a) IN GENERAL.—Not later than 2 years after the 
+4
+date of the enactment of this Act, the Commission shall 
+5
+issue regulations under section 553 of title 5, United 
+6
+States Code, that require a provider of a large covered 
+7
+platform that uses a recommender system to do the fol-
+8
+lowing: 
+9
+(1) To specify in the terms and conditions of 
+10
+the provider, in a clear, accessible, and easily com-
+11
+prehensible manner— 
+12
+(A) the most salient features, inputs, or 
+13
+parameters used by the recommender system; 
+14
+(B) how any personal information used by 
+15
+the recommender system is collected or inferred 
+16
+about a user of the platform, and the categories 
+17
+of such information (including demographic, be-
+18
+havioral, and any other categories defined by 
+19
+the Commission); and 
+20
+(C) any options that the provider makes 
+21
+available for a user of the platform to modify 
+22
+the profile of the user or to influence the fea-
+23
+tures, inputs, or parameters used by the rec-
+24
+ommender system. 
+25
+20:39 Feb 28, 2022
+H6796
+50 
+•HR 6796 IH
+(2) To provide an option that does not rely on 
+1
+any of the user’s personal information (either col-
+2
+lected or inferred) to determine the order of infor-
+3
+mation presented to the user. The Commission may 
+4
+determine reasonable exceptions to ensure product 
+5
+functionality, such as the user’s language preference 
+6
+or recognized place. Such option shall be set as a de-
+7
+fault or presented prominently within the main 
+8
+interface containing the results of the recommender 
+9
+system. The provider shall present the options in 
+10
+good faith, and avoid misleading or harassing con-
+11
+sumers into making different choices, failing to 
+12
+maintain parity of unrelated features, or other meas-
+13
+ures as determined by the Commission. 
+14
+(b) OPT-IN
+FOR CERTAIN PERSONAL INFORMA-
+15
+TION.—In issuing regulations under subsection (a), the 
+16
+Commission may determine that certain personal informa-
+17
+tion may not be used to customize a recommender system 
+18
+without specific opt-in consent from users. In the case of 
+19
+such a determination, a provider of a large covered plat-
+20
+form shall independently obtain opt-in consent for sepa-
+21
+rate categories of personal information (as categorized and 
+22
+according to standards set by the Commission) rather 
+23
+than obtaining a global opt-in consent for all personal in-
+24
+20:39 Feb 28, 2022
+H6796
+51 
+•HR 6796 IH
+formation or multiple categories of personal information 
+1
+simultaneously. 
+2
+(c) CONSIDERATIONS FOR RULEMAKING.—In issuing 
+3
+regulations under subsection (a), the Commission shall 
+4
+consider— 
+5
+(1) the ways recommender systems may be used 
+6
+to help providers of large covered platforms mitigate 
+7
+systemic risks described in section 4(a)(3); 
+8
+(2) the frequency with which recommendation 
+9
+algorithms are trained; and 
+10
+(3) the technical feasibility of disabling or modi-
+11
+fying use of features, inputs, or parameters for each 
+12
+user. 
+13
+(d) VARIATION BASED ON SIZE AND SCOPE OF PLAT-
+14
+FORM AND TYPE OF RECOMMENDER SYSTEM.—In issuing 
+15
+regulations under subsection (a), the Commission shall 
+16
+vary the requirements based on the size and scope of the 
+17
+large covered platform, including by having different re-
+18
+quirements and for different types of recommender sys-
+19
+tems. 
+20
+SEC. 10. INDEPENDENT RESEARCH FACILITATION. 
+21
+(a) OFFICE OF INDEPENDENT RESEARCH FACILITA-
+22
+TION.—In establishing the Bureau under section 3(a), the 
+23
+Commission shall establish within the Bureau an office to 
+24
+be known as the ‘‘Office of Independent Research Facilita-
+25
+20:39 Feb 28, 2022
+H6796
+52 
+•HR 6796 IH
+tion’’, which shall carry out such duties of the Commission 
+1
+under this section, and such other duties relating to facili-
+2
+tation of independent research on covered platforms, as 
+3
+the Commission considers appropriate. 
+4
+(b) RESEARCHER CERTIFICATION PROCESS.— 
+5
+(1) IN GENERAL.—Not later than 18 months 
+6
+after the date of the enactment of this Act, the 
+7
+Commission shall issue regulations under section 
+8
+553 of title 5, United States Code, to establish a 
+9
+process by which— 
+10
+(A) an organization may, upon application 
+11
+to the Commission, be qualified as a host orga-
+12
+nization; and 
+13
+(B) an individual who is affiliated with a 
+14
+host organization may, upon application to the 
+15
+Commission, be certified in order to obtain ac-
+16
+cess to information under this section for the 
+17
+purposes described in paragraph (2). 
+18
+(2) PURPOSES OF ACCESS TO INFORMATION.— 
+19
+The purposes described in this paragraph are to 
+20
+gain understanding and measure the impacts of the 
+21
+content moderation, product design decisions, and 
+22
+algorithms of covered platforms on society, politics, 
+23
+the spread of hate, harassment, and extremism, se-
+24
+curity, privacy, and physical and mental health. 
+25
+20:39 Feb 28, 2022
+H6796
+53 
+•HR 6796 IH
+(3) REQUIREMENTS AND COMMITMENTS TO BE 
+1
+QUALIFIED AS HOST ORGANIZATION.— 
+2
+(A) IN GENERAL.—In order to be qualified 
+3
+as a host organization under paragraph (1)(A), 
+4
+an organization shall— 
+5
+(i) meet the requirements described in 
+6
+subparagraph (B); and 
+7
+(ii) make the commitments described 
+8
+in subparagraph (C). 
+9
+(B) REQUIREMENTS.—The requirements 
+10
+described in this subparagraph for an organiza-
+11
+tion are the following: 
+12
+(i) The organization— 
+13
+(I) 
+is 
+described 
+in 
+section 
+14
+501(c)(3) of the Internal Revenue 
+15
+Code of 1986 and is exempt from tax-
+16
+ation under section 501(a) of such 
+17
+Code; or 
+18
+(II) is an institution of higher 
+19
+education 
+(as 
+defined 
+in 
+section 
+20
+101(a) of the Higher Education Act 
+21
+of 1965 (20 U.S.C. 1001(a))). 
+22
+(ii) The mission of the organization 
+23
+includes developing a deeper understanding 
+24
+20:39 Feb 28, 2022
+H6796
+54 
+•HR 6796 IH
+of the impacts of covered platforms de-
+1
+scribed in paragraph (2). 
+2
+(iii) The organization has the capacity 
+3
+to— 
+4
+(I) comply with the rules issued 
+5
+under subsection (c) relating to infor-
+6
+mation security; and 
+7
+(II) analyze information to which 
+8
+access is provided under this section 
+9
+using data science and best practices 
+10
+for investigative and qualitative re-
+11
+search. 
+12
+(iv) Any additional requirements es-
+13
+tablished by the Commission in the regula-
+14
+tions issued under paragraph (1). 
+15
+(C) 
+COMMITMENTS.—The 
+commitments 
+16
+described in this subparagraph for an organiza-
+17
+tion are the following: 
+18
+(i) To provide training to certified re-
+19
+searchers affiliated with the organization 
+20
+to ensure that the researchers abide by the 
+21
+commitments 
+described 
+in 
+paragraph 
+22
+(4)(C). 
+23
+(ii) With respect to a project or study 
+24
+being carried out by a certified researcher 
+25
+20:39 Feb 28, 2022
+H6796
+55 
+•HR 6796 IH
+affiliated with the organization using infor-
+1
+mation to which access is obtained under 
+2
+this section, to conduct a review of the 
+3
+project or study to ensure that— 
+4
+(I) the project or study is con-
+5
+sistent with the purposes of access de-
+6
+scribed in paragraph (2); and 
+7
+(II) the researcher has sought 
+8
+the approval of an institutional review 
+9
+board for the project or study, if ap-
+10
+plicable. 
+11
+(iii) Any additional commitments es-
+12
+tablished by the Commission in the regula-
+13
+tions issued under paragraph (1). 
+14
+(4) REQUIREMENTS AND COMMITMENTS TO BE 
+15
+CERTIFIED AS A CERTIFIED RESEARCHER.— 
+16
+(A) IN GENERAL.—In order to be certified 
+17
+as a certified researcher under paragraph 
+18
+(1)(B), an individual shall— 
+19
+(i) meet the requirements described in 
+20
+subparagraph (B); and 
+21
+(ii) make the commitments described 
+22
+in subparagraph (C). 
+23
+20:39 Feb 28, 2022
+H6796
+56 
+•HR 6796 IH
+(B) REQUIREMENTS.—The requirements 
+1
+described in this subparagraph for an individual 
+2
+are the following: 
+3
+(i) The individual is affiliated with an 
+4
+organization that is qualified as a host or-
+5
+ganization under this subsection. 
+6
+(ii) The individual is not under review 
+7
+by the host organization for research mis-
+8
+conduct. 
+9
+(iii) Any additional requirements es-
+10
+tablished by the Commission in the regula-
+11
+tions issued under paragraph (1). 
+12
+(C) 
+COMMITMENTS.—The 
+commitments 
+13
+described in this subparagraph for an individual 
+14
+are the following: 
+15
+(i) To have the capacity to comply 
+16
+with, and to comply with, any information 
+17
+security or confidentiality requirements the 
+18
+Commission considers appropriate with re-
+19
+spect to information accessed under this 
+20
+section. 
+21
+(ii) Not to reidentify, or to attempt to 
+22
+reidentify, the individual to whom informa-
+23
+tion accessed under this section relates. 
+24
+20:39 Feb 28, 2022
+H6796
+57 
+•HR 6796 IH
+(iii) Not to publish personal informa-
+1
+tion derived from information accessed 
+2
+under this section. 
+3
+(iv) To comply with applicable Fed-
+4
+eral, State, and local information sharing 
+5
+and privacy laws and regulations. 
+6
+(v) To complete Responsible Conduct 
+7
+of Research training provided by the Office 
+8
+of Research Integrity of the Department of 
+9
+Health and Human Services. 
+10
+(vi) To disseminate the results of the 
+11
+research 
+conducted 
+using 
+information 
+12
+accessed under this section to the public. 
+13
+(vii) To comply with limits on com-
+14
+mercial use of information accessed under 
+15
+this section or research conducted using 
+16
+such information, as specified by the Com-
+17
+mission in regulations issued under this 
+18
+section. 
+19
+(viii) To seek a certificate of confiden-
+20
+tiality issued by the Secretary of Health 
+21
+and Human Services under section 301(d) 
+22
+of the Public Health Service Act (42 
+23
+U.S.C. 241(d)), if applicable. 
+24
+20:39 Feb 28, 2022
+H6796
+58 
+•HR 6796 IH
+(ix) Any additional commitments es-
+1
+tablished by the Commission in the regula-
+2
+tions issued under paragraph (1). 
+3
+(5) REQUALIFICATION
+AND
+RECERTIFICATION 
+4
+REQUIRED.— 
+5
+(A) REQUALIFICATION.—In issuing regula-
+6
+tions under paragraph (1), the Commission 
+7
+shall provide for the qualification of an organi-
+8
+zation as a host organization to expire at the 
+9
+end of a 3-year period and for the organization, 
+10
+upon application to the Commission, to be 
+11
+qualified as a host organization for a 3-year pe-
+12
+riod in addition to the initial or any subsequent 
+13
+such period, if the organization— 
+14
+(i) continues to meet the requirements 
+15
+described in paragraph (3)(B); 
+16
+(ii) abided by the commitments de-
+17
+scribed in paragraph (3)(C) that the orga-
+18
+nization made with respect to the previous 
+19
+such period; and 
+20
+(iii) makes the commitments described 
+21
+in paragraph (3)(C) for the next such pe-
+22
+riod. 
+23
+(B) RECERTIFICATION.—In issuing regula-
+24
+tions under paragraph (1), the Commission 
+25
+20:39 Feb 28, 2022
+H6796
+59 
+•HR 6796 IH
+shall provide for the certification of an indi-
+1
+vidual as a certified researcher to expire at the 
+2
+end of a 1-year period and for the individual, 
+3
+upon application to the Commission, to be cer-
+4
+tified as a certified researcher for a 1-year pe-
+5
+riod in addition to the initial or any subsequent 
+6
+such period, if the individual— 
+7
+(i) continues to meet the requirements 
+8
+described in paragraph (4)(B); 
+9
+(ii) abided by the commitments de-
+10
+scribed in paragraph (4)(C) that the indi-
+11
+vidual made with respect to the previous 
+12
+such period; and 
+13
+(iii) makes the commitments described 
+14
+in paragraph (4)(C) for the next such pe-
+15
+riod. 
+16
+(6) REVOCATION OF QUALIFICATION OR CER-
+17
+TIFICATION.— 
+18
+(A) QUALIFICATION.—In issuing regula-
+19
+tions under paragraph (1), the Commission 
+20
+shall provide for the revocation of the qualifica-
+21
+tion of an organization as a host organization 
+22
+if the Commission determines that the organi-
+23
+zation— 
+24
+20:39 Feb 28, 2022
+H6796
+60 
+•HR 6796 IH
+(i) no longer meets the requirements 
+1
+described in paragraph (3)(B); or 
+2
+(ii) is not abiding by the commitments 
+3
+described in paragraph (3)(C) that the or-
+4
+ganization made with respect to the appli-
+5
+cable qualification period. 
+6
+(B) CERTIFICATION.—In issuing regula-
+7
+tions under paragraph (1), the Commission 
+8
+shall provide for the revocation of the certifi-
+9
+cation of an individual as a certified researcher 
+10
+if the Commission determines that the indi-
+11
+vidual— 
+12
+(i) no longer meets the requirements 
+13
+described in paragraph (4)(B); or 
+14
+(ii) is not abiding by the commitments 
+15
+described in paragraph (4)(C) that the in-
+16
+dividual made with respect to the applica-
+17
+ble certification period. 
+18
+(7) 
+NONDISCRIMINATION.—No 
+person 
+on 
+19
+grounds of race, color, age, sex, national origin, po-
+20
+litical affiliation, or disability shall be excluded from 
+21
+participation in, be denied the benefits of, or be sub-
+22
+jected to discrimination under the researcher certifi-
+23
+cation process established under this subsection. 
+24
+20:39 Feb 28, 2022
+H6796
+61 
+•HR 6796 IH
+(8) CONSULTATION.—In issuing regulations 
+1
+under paragraph (1), the Commission shall consult 
+2
+with the Director of the National Science Founda-
+3
+tion, the Secretary of Health and Human Services, 
+4
+and the Federal Statistical Research Data Centers 
+5
+of the Bureau of the Census. 
+6
+(9) GAO AUDIT AND REPORT.— 
+7
+(A) AUDIT.—Not later than 3 years after 
+8
+the date on which the Commission issues the 
+9
+regulations required by paragraph (1), the 
+10
+Comptroller General of the United States shall 
+11
+complete an audit of the process established by 
+12
+such regulations. 
+13
+(B) REPORT.— 
+14
+(i) IN GENERAL.—Not later than 90 
+15
+days after the date on which the audit re-
+16
+quired by subparagraph (A) is completed, 
+17
+the Comptroller General— 
+18
+(I) shall submit to Congress a re-
+19
+port on the audit; and 
+20
+(II) shall make the report re-
+21
+quired by subclause (I) available to 
+22
+the Speaker of the House of Rep-
+23
+resentatives, the majority and minor-
+24
+ity leaders of the House of Represent-
+25
+20:39 Feb 28, 2022
+H6796
+62 
+•HR 6796 IH
+atives, the majority and minority lead-
+1
+ers of the Senate, the Chairman and 
+2
+Ranking Member of the committee 
+3
+and each subcommittee of jurisdiction 
+4
+in the House of Representatives and 
+5
+the Senate, and any other Member of 
+6
+Congress who requests the report. 
+7
+(ii) CONTENTS.—The report required 
+8
+by clause (i)(I) shall include— 
+9
+(I) an assessment of the process, 
+10
+including whether the Office is effec-
+11
+tively balancing information security 
+12
+with the need for rigorous inde-
+13
+pendent research, done in a timely 
+14
+manner, for the purposes described in 
+15
+paragraph (2); 
+16
+(II) any signs of discrimination 
+17
+in the process of certifying research-
+18
+ers; and 
+19
+(III) recommendations for im-
+20
+provements to the process. 
+21
+(c) SECURE RESEARCH ACCESS.— 
+22
+(1) IN GENERAL.—Not later than 2 years after 
+23
+the date of the enactment of this Act, the Commis-
+24
+20:39 Feb 28, 2022
+H6796
+63 
+•HR 6796 IH
+sion shall issue regulations under section 553 of title 
+1
+5, United States Code, to specify— 
+2
+(A) the types of information that should be 
+3
+made available to certified researchers by pro-
+4
+viders of covered platforms; 
+5
+(B) the manner in which such information 
+6
+is accessed; and 
+7
+(C) under what circumstances the provi-
+8
+sion of access to such information to certified 
+9
+researchers by providers of covered platforms is 
+10
+required or optional. 
+11
+(2) TIERED
+ACCESS.—In issuing the regula-
+12
+tions required by paragraph (1), the Commission 
+13
+shall create a system of tiered access in which infor-
+14
+mation about users of covered platforms that the 
+15
+Commission considers more sensitive has more safe-
+16
+guards in place and is accessed by fewer certified re-
+17
+searchers than information that the Commission 
+18
+considers less sensitive. 
+19
+(3) TYPES OF INFORMATION TO BE CONSID-
+20
+ERED.—The types of information to be considered 
+21
+by the Commission in issuing the regulations re-
+22
+quired by paragraph (1) shall include the following: 
+23
+(A) Information related to how covered 
+24
+platforms conduct internal studies, including 
+25
+20:39 Feb 28, 2022
+H6796
+64 
+•HR 6796 IH
+the metrics used to evaluate the platform’s suc-
+1
+cess and quality of content. 
+2
+(B) Information related to content modera-
+3
+tion decisions (including choices related to the 
+4
+ranking, ordering, promotion, or recommenda-
+5
+tion of content and requests for removal of con-
+6
+tent), the setting of policies for content modera-
+7
+tion, and the demographics of individuals set-
+8
+ting such policies. 
+9
+(C) The demographics, cultural com-
+10
+petency, and content category-specific expertise 
+11
+of individuals setting content moderation poli-
+12
+cies and making content moderation decisions. 
+13
+(D) Requests to a provider of a covered 
+14
+platform from a third party to act on a user, 
+15
+account, or content (such as user-flagged con-
+16
+tent, content removal requests, account suspen-
+17
+sion requests, and network shutdowns). 
+18
+(E) Information related to engagement 
+19
+(such as sharing and likes) with content (such 
+20
+as news articles and video clips), including the 
+21
+demographic breakdown of users that interact 
+22
+with content (to the extent such breakdown is 
+23
+known or inferred) and the source of engage-
+24
+20:39 Feb 28, 2022
+H6796
+65 
+•HR 6796 IH
+ment (such as organic search or recommenda-
+1
+tion). 
+2
+(F) Information related to exposure (such 
+3
+as viewership or impressions) to content (such 
+4
+as news articles and video clips), including the 
+5
+demographic breakdown of users that interact 
+6
+with content (to the extent such breakdown is 
+7
+known or inferred) and the source of exposure 
+8
+(such as organic search or recommendation). 
+9
+(G) Classification of information sources, 
+10
+such as opinion, sports, entertainment, and pol-
+11
+itics. 
+12
+(H) Archives of removed content. 
+13
+(I) Archives of accounts that have been re-
+14
+moved by a provider of a covered platform, in-
+15
+cluding— 
+16
+(i) any special treatment of accounts 
+17
+that previously belonged to high-profile in-
+18
+dividuals; 
+19
+(ii) archives of fake or bot accounts 
+20
+that have been removed; and 
+21
+(iii) archives of coordinated influence 
+22
+operation accounts that have been re-
+23
+moved. 
+24
+20:39 Feb 28, 2022
+H6796
+66 
+•HR 6796 IH
+(J) Advertisements and influencer mar-
+1
+keting content, in addition to the information 
+2
+described in subsection (f). 
+3
+(K) Materials used to train content mod-
+4
+erators. 
+5
+(L) Detailed information related to the al-
+6
+gorithms of a covered platform, including fea-
+7
+ture importance, optimization objectives (such 
+8
+as predictions of user behavior or engagement), 
+9
+descriptions of datasets used in model develop-
+10
+ment including its composition, collection proc-
+11
+ess, and any preprocessing (including cleaning 
+12
+or labeling) done on the data. 
+13
+(M) Any other information the Commission 
+14
+considers necessary. 
+15
+(4) CONSIDERATIONS RELATING TO MANNER OF 
+16
+ACCESS.—In issuing the regulations required by 
+17
+paragraph (1), the Commission shall consider the 
+18
+following: 
+19
+(A) Size and sampling techniques used to 
+20
+create the data sets containing the information 
+21
+described in paragraph (3) to which access is 
+22
+provided under this subsection. 
+23
+20:39 Feb 28, 2022
+H6796
+67 
+•HR 6796 IH
+(B) Limits on time and amount of infor-
+1
+mation stored, broken down by the type of in-
+2
+formation. 
+3
+(C) Under what circumstances privacy pre-
+4
+serving techniques such as differential privacy 
+5
+and statistical noise should be used. 
+6
+(D) Information security standards, such 
+7
+as those included in the National Institute of 
+8
+Standards and Technology portfolio. 
+9
+(E) When aggregation of demographic in-
+10
+formation is required and the required level of 
+11
+aggregation. 
+12
+(F) When standardized variable names 
+13
+should be used across covered platforms and for 
+14
+what types of information. 
+15
+(G) Under what circumstances secure ap-
+16
+plication computer interfaces are required and 
+17
+the specific level of security. 
+18
+(H) Designation of secure facilities and 
+19
+computers to analyze information through a 
+20
+Federally Funded Research and Development 
+21
+Center described in paragraph (7) or as other-
+22
+wise determined by the Commission. 
+23
+(I) Under what circumstances to limit ac-
+24
+cess to information to a subset of certified re-
+25
+20:39 Feb 28, 2022
+H6796
+68 
+•HR 6796 IH
+searchers based on the nature of the study or 
+1
+when to require preliminary results prior to 
+2
+more restricted access. 
+3
+(J) The technical feasibility for a provider 
+4
+of a covered platform to provide access to infor-
+5
+mation. 
+6
+(5) CONSIDERATION OF WHEN COMMISSION RE-
+7
+VIEW
+PRIOR
+TO
+PUBLICATION
+IS
+REQUIRED.—In 
+8
+issuing the regulations required by paragraph (1), 
+9
+the Commission shall consider under what cir-
+10
+cumstances the Commission will review a publication 
+11
+based on information accessed under this section 
+12
+prior to publication to determine whether the publi-
+13
+cation violates the privacy of a user of the covered 
+14
+platform or would reveal trade secrets of the pro-
+15
+vider of the covered platform. 
+16
+(6) USER PRIVACY.— 
+17
+(A) PROTECTION OF REASONABLE EXPEC-
+18
+TATIONS OF PERSONAL PRIVACY.— 
+19
+(i) IN GENERAL.—In issuing the regu-
+20
+lations required by paragraph (1), the 
+21
+Commission shall ensure that the provision 
+22
+of access to information under this section 
+23
+does not infringe upon reasonable expecta-
+24
+tions of personal privacy of users of cov-
+25
+20:39 Feb 28, 2022
+H6796
+69 
+•HR 6796 IH
+ered platforms or of other individuals, in-
+1
+cluding by requiring a provider of a cov-
+2
+ered platform— 
+3
+(I) to deidentify any information 
+4
+described in clause (ii) before pro-
+5
+viding certified researchers with ac-
+6
+cess to such information; and 
+7
+(II) in the case of location infor-
+8
+mation to which certified researchers 
+9
+are provided access, to ensure that 
+10
+such access— 
+11
+(aa) is provided at a level 
+12
+that is not more specific than a 
+13
+recognized place; and 
+14
+(bb) does not include access 
+15
+to precise geospatial information. 
+16
+(ii) INFORMATION
+DESCRIBED.—The 
+17
+information described in this clause is the 
+18
+following: 
+19
+(I) Information that is not (or 
+20
+was not before removal from the cov-
+21
+ered platform) public content. 
+22
+(II) Personal health information. 
+23
+(III) Biometric information. 
+24
+02:01 Mar 02, 2022
+H6796
+70 
+•HR 6796 IH
+(IV) Information relating to an 
+1
+individual under 13 years of age. 
+2
+(B) NOTICE
+TO
+PLATFORM
+USERS.—In 
+3
+issuing the regulations required by paragraph 
+4
+(1), the Commission shall require a provider of 
+5
+a covered platform, through the posting of no-
+6
+tices or other appropriate means, to keep users 
+7
+informed of the types of information to which 
+8
+the provider is required or permitted to provide 
+9
+access to certified researchers under this section 
+10
+and the privacy protections applicable to such 
+11
+access. 
+12
+(C) USER OPT-OUT.—In issuing the regu-
+13
+lations required by paragraph (1), the Commis-
+14
+sion shall require a provider of a covered plat-
+15
+form to make available to a user whose profile 
+16
+does not host public content an opportunity to 
+17
+opt out of having access to the information of 
+18
+such user provided to a certified researcher 
+19
+under this section. 
+20
+(D) PROHIBITION
+AGAINST
+COMPELLED 
+21
+DISCLOSURE TO GOVERNMENTAL ENTITIES.—A 
+22
+certified researcher, or an organization that is 
+23
+qualified as a host organization under this sec-
+24
+tion, may not be required (by a subpoena, court 
+25
+20:39 Feb 28, 2022
+H6796
+71 
+•HR 6796 IH
+order, or otherwise) to divulge to a govern-
+1
+mental entity (as defined in section 2711 of 
+2
+title 18, United States Code) any information 
+3
+obtained from a provider of a covered platform 
+4
+under this section. 
+5
+(E) RELATIONSHIP TO OTHER LAW.—Sec-
+6
+tion 2702(b) of title 18, United States Code, is 
+7
+amended— 
+8
+(i) in paragraph (8), by striking ‘‘; 
+9
+or’’ and inserting a semicolon; 
+10
+(ii) in paragraph (9), by striking the 
+11
+period at the end and inserting ‘‘; or’’; and 
+12
+(iii) by adding at the end the fol-
+13
+lowing: 
+14
+‘‘(10) to a certified researcher under section 10 
+15
+of the Digital Services Oversight and Safety Act of 
+16
+2022 in accordance with such section and the regu-
+17
+lations issued by the Federal Trade Commission 
+18
+under such section.’’. 
+19
+(7) FEDERALLY FUNDED RESEARCH AND DE-
+20
+VELOPMENT CENTER.— 
+21
+(A) IN GENERAL.—The Commission may 
+22
+sponsor a Federally Funded Research and De-
+23
+velopment Center as described in section 35.017 
+24
+of title 48, Code of Federal Regulations (or any 
+25
+20:39 Feb 28, 2022
+H6796
+72 
+•HR 6796 IH
+successor regulation), to facilitate information 
+1
+sharing between covered platforms and certified 
+2
+researchers. 
+3
+(B) CONSORTIUM REQUIRED.—A Federally 
+4
+Funded Research and Development Center 
+5
+sponsored by the Commission under subpara-
+6
+graph (A) shall be comprised of at least 3 orga-
+7
+nizations that are qualified as host organiza-
+8
+tions under subsection (b). 
+9
+(C) MISSION.—The mission of a Federally 
+10
+Funded Research and Development Center 
+11
+sponsored by the Commission under subpara-
+12
+graph (A) may include the following: 
+13
+(i) Enabling certified researchers to 
+14
+perform studies requiring information from 
+15
+multiple covered platforms. 
+16
+(ii) Serving as a means to provide cer-
+17
+tified researchers access to information as 
+18
+described in paragraph (4)(H). 
+19
+(iii) Upon request of the Director of 
+20
+the Bureau, supporting and assisting in 
+21
+the development of guidance under section 
+22
+8. 
+23
+20:39 Feb 28, 2022
+H6796
+73 
+•HR 6796 IH
+(iv) Collaborating with international 
+1
+research organizations with a similar mis-
+2
+sion. 
+3
+(8) VARIATION BASED ON SIZE AND SCOPE.— 
+4
+In issuing the regulations required by paragraph (1), 
+5
+the Commission shall vary the specifications based 
+6
+on the size and scope of a covered platform, includ-
+7
+ing by having different specifications for different 
+8
+services such as social media services, online market-
+9
+places, augmented reality and virtual reality services, 
+10
+and digital advertising placement services. In the 
+11
+case of a large covered platform, the regulations 
+12
+issued under paragraph (1) shall apply in addition 
+13
+to the regulations issued under subsections (f) and 
+14
+(g), and the Commission shall also vary the require-
+15
+ments of the regulations issued under such sub-
+16
+sections based on the size and scope of a large cov-
+17
+ered platform. 
+18
+(9) SAFE HARBOR FOR PROVIDERS.—If a pro-
+19
+vider of a covered platform provides a certified re-
+20
+searcher with access to information in accordance 
+21
+with the regulations required by paragraph (1) (re-
+22
+gardless of whether such access is optional or re-
+23
+quired), the Commission may not bring an enforce-
+24
+ment action against the provider based solely on the 
+25
+20:39 Feb 28, 2022
+H6796
+74 
+•HR 6796 IH
+act of disclosing such information to the certified re-
+1
+searcher. 
+2
+(10) SAFE
+HARBOR
+FOR
+RESEARCHER
+AC-
+3
+COUNTS AND DATA DONATIONS.— 
+4
+(A) IMMUNITY
+FROM
+LIABILITY.—A cer-
+5
+tified researcher shall not be liable under any 
+6
+Federal, State, or local law, or for a violation 
+7
+of the terms and conditions of a covered plat-
+8
+form, for any of the following: 
+9
+(i) The creation and use of an account 
+10
+or accounts on a covered platform that are 
+11
+created for and used solely for a research 
+12
+project carried out for the purposes de-
+13
+scribed in subsection (b)(2), if— 
+14
+(I) the certified researcher takes 
+15
+reasonable measures to avoid mis-
+16
+leading users of the covered platform 
+17
+in the creation and use of the account 
+18
+or accounts; and 
+19
+(II) the creation and use of the 
+20
+account or accounts does not materi-
+21
+ally burden the technical operation of 
+22
+the covered platform. 
+23
+(ii) The collection of information pro-
+24
+vided for research purposes by a user of a 
+25
+20:39 Feb 28, 2022
+H6796
+75 
+•HR 6796 IH
+covered platform, including through a 
+1
+browser extension or plug-in, if the cer-
+2
+tified researcher obtains informed consent 
+3
+for such collection in accordance with sec-
+4
+tion 46.116 of title 45, Code of Federal 
+5
+Regulations (or any successor regulation). 
+6
+(B) PROHIBITION ON SERVICE DISCRIMI-
+7
+NATION.—A provider of a covered platform may 
+8
+not condition, degrade, or otherwise discrimi-
+9
+nate in the provision of a service or product to 
+10
+a certified researcher because the certified re-
+11
+searcher takes an action described in clause (i) 
+12
+or (ii) of subparagraph (A). 
+13
+(d) SUBMISSION OF DATA DICTIONARIES.—Not later 
+14
+than 18 months after the date of the enactment of this 
+15
+Act, the Commission shall issue regulations under section 
+16
+553 of title 5, United States Code, to— 
+17
+(1) require a provider of a covered platform, 
+18
+not later than 6 months after the date on which 
+19
+such regulations are issued, and every 12 months 
+20
+thereafter, to submit to the Commission a data dic-
+21
+tionary created by the provider during the period 
+22
+covered by the submission, which shall include a de-
+23
+scription of the information collected by the provider 
+24
+that may be meaningful to a certified researcher, in-
+25
+20:39 Feb 28, 2022
+H6796
+76 
+•HR 6796 IH
+cluding the meaning, relationship to other informa-
+1
+tion, origin, and format of the information; and 
+2
+(2) establish a process by which the Commis-
+3
+sion will consult a data dictionary submitted under 
+4
+paragraph (1) in offering advice to a certified re-
+5
+searcher under subsection (e)(1). 
+6
+(e) CONSULTATION.— 
+7
+(1) RESEARCHER CONSULTATION.—The Com-
+8
+mission shall offer a certified researcher attempting 
+9
+to formulate studies using information to which ac-
+10
+cess is provided under this section, or to negotiate 
+11
+a memorandum of understanding with a provider of 
+12
+a covered platform to conduct research, advice re-
+13
+lated to— 
+14
+(A) the types of information to which the 
+15
+researcher could obtain access; and 
+16
+(B) ways to protect the security of such in-
+17
+formation in accordance with this section and 
+18
+the regulations issued under this section. 
+19
+(2) COVERED PLATFORM CONSULTATION.—The 
+20
+Commission shall offer a provider of a covered plat-
+21
+form support and assistance in complying with this 
+22
+section and the regulations issued under this section 
+23
+in the provision of access to information to certified 
+24
+researchers, regardless of whether the provision of 
+25
+20:39 Feb 28, 2022
+H6796
+77 
+•HR 6796 IH
+such access is required or optional under this sec-
+1
+tion. 
+2
+(f) ADVERTISEMENT LIBRARIES.— 
+3
+(1) IN GENERAL.—Not later than 18 months 
+4
+after the date of the enactment of this Act, the 
+5
+Commission shall issue regulations under section 
+6
+553 of title 5, United States Code, that require the 
+7
+following: 
+8
+(A) A provider of a large covered platform 
+9
+that sells advertising services to maintain and 
+10
+grant certified researchers and the Commission 
+11
+access to an advertisement library that contains 
+12
+in a searchable, machine-readable format the 
+13
+following information (which may be updated by 
+14
+the Commission as the Commission determines 
+15
+to be necessary) related to any advertiser that 
+16
+purchases $500 or more of advertising services 
+17
+from the provider in a calendar year: 
+18
+(i) The legal name and unique identi-
+19
+fication number for each advertiser. 
+20
+(ii) The full content contained within 
+21
+the advertisement, including machine-read-
+22
+able text and textual descriptions of any 
+23
+images. 
+24
+20:39 Feb 28, 2022
+H6796
+78 
+•HR 6796 IH
+(iii) The method used, as selected ei-
+1
+ther by the advertiser or by the provider, 
+2
+to target an advertisement to users of the 
+3
+large covered platform, including uploaded 
+4
+lists of users, pre-set categories of users, 
+5
+key words, and contextual information. 
+6
+(iv) The optimization objective chosen 
+7
+by the advertiser (such as awareness, 
+8
+reach, traffic, and engagement). 
+9
+(v) A description of the targeted audi-
+10
+ence for each advertisement, including in-
+11
+formation (that may have been collected 
+12
+from the profile of a user or based on an 
+13
+algorithm) on the demographics of the au-
+14
+dience (including age, gender, geographic 
+15
+location, race, ethnicity, language, and po-
+16
+litical affiliation), interests of the audience, 
+17
+and any other description of the targeted 
+18
+audience determined to be reasonable by 
+19
+the Commission. 
+20
+(vi) A description of the delivery audi-
+21
+ence of the advertisement determined by a 
+22
+count of users who viewed the advertise-
+23
+ment, including information (that may 
+24
+have been collected from the profile of a 
+25
+20:39 Feb 28, 2022
+H6796
+79 
+•HR 6796 IH
+user or based on an algorithm) on the de-
+1
+mographics of the audience (including age, 
+2
+gender, geographic location, race, ethnicity, 
+3
+language, and political affiliation), inter-
+4
+ests of the audience, and any other de-
+5
+scription of the delivery audience deter-
+6
+mined to be reasonable by the Commission. 
+7
+(vii) The number of times the adver-
+8
+tisement was viewed by users. 
+9
+(viii) Advertisement conversion (in-
+10
+cluding how often an advertisement was 
+11
+shared, liked, or clicked-through) and over 
+12
+what timeframe. 
+13
+(ix) The date and time that the adver-
+14
+tisement was first displayed and last dis-
+15
+played. 
+16
+(x) The amount the advertiser budg-
+17
+eted for advertising services with respect to 
+18
+the advertisement on the large covered 
+19
+platform and the amount paid for such ad-
+20
+vertising services. 
+21
+(xi) The category of the advertisement 
+22
+as defined by the provider (such as politics, 
+23
+employment opportunity, housing oppor-
+24
+tunity, or apparel). 
+25
+20:39 Feb 28, 2022
+H6796
+80 
+•HR 6796 IH
+(xii) Each language contained within 
+1
+the advertisement. 
+2
+(xiii) Any advertising services policy 
+3
+of the provider that is made available to 
+4
+advertisers. 
+5
+(xiv) Whether the advertisement was 
+6
+determined to violate any policy described 
+7
+in clause (xiii). 
+8
+(xv) Any other information the Com-
+9
+mission considers necessary. 
+10
+(B) The methodology used by the large 
+11
+covered platform to calculate the demographics 
+12
+of the targeted audience described in subpara-
+13
+graph (A)(v) to be the same as the methodology 
+14
+used to calculate the demographics of the deliv-
+15
+ery audience described in subparagraph (A)(vi). 
+16
+(C) In the case of advertisements that are 
+17
+deleted by an advertiser or blocked by the ad-
+18
+vertising services policy of a provider of a large 
+19
+covered platform, the provider to treat such ad-
+20
+vertisements (with respect to whether or how 
+21
+such advertisements are made available in the 
+22
+advertisement library) as specified in such regu-
+23
+lations. 
+24
+20:39 Feb 28, 2022
+H6796
+81 
+•HR 6796 IH
+(D) A provider of a large covered platform 
+1
+to make an advertisement available in the ad-
+2
+vertisement library within an amount of time 
+3
+specified in such regulations after the advertise-
+4
+ment is posted on the platform. 
+5
+(E) A provider of a large covered platform 
+6
+to make an advertisement available in the ad-
+7
+vertisement library for an amount of time speci-
+8
+fied in such regulations. 
+9
+(F) A provider of a large covered platform 
+10
+to ensure that the advertisement library cannot 
+11
+be used to identify an individual targeted by an 
+12
+advertisement. 
+13
+(2) NO ADDITIONAL INFORMATION COLLECTION 
+14
+REQUIRED.—The regulations issued under para-
+15
+graph (1) shall specify that a provider of a large 
+16
+covered platform is not required to collect any infor-
+17
+mation for the advertisement library that the pro-
+18
+vider does not collect in the ordinary course of busi-
+19
+ness. 
+20
+(3) PUBLIC
+AVAILABILITY.—The regulations 
+21
+issued under paragraph (1) shall require a provider 
+22
+of a large covered platform to make available to the 
+23
+public a version of the advertisement library main-
+24
+tained under such regulations. Such regulations may 
+25
+20:39 Feb 28, 2022
+H6796
+82 
+•HR 6796 IH
+specify that such public version is not required to 
+1
+contain certain information required to be included 
+2
+in the version to which the Commission and certified 
+3
+researchers are granted access. 
+4
+(g) HIGH-REACH PUBLIC CONTENT STREAM.— 
+5
+(1) IN GENERAL.—Not later than 18 months 
+6
+after the date of the enactment of this Act, the 
+7
+Commission shall issue regulations under section 
+8
+553 of title 5, United States Code, that require a 
+9
+provider of a large covered platform to maintain, 
+10
+and grant certified researchers and the Commission 
+11
+access to, a high-reach public content stream that 
+12
+contains in a searchable, machine-readable format 
+13
+the following information (which may be updated by 
+14
+the Commission as the Commission determines to be 
+15
+necessary): 
+16
+(A) The pieces of high-reach and high-en-
+17
+gagement public content, such as user-gen-
+18
+erated posts, texts, hyperlinks, images, and vid-
+19
+eos, made available on the large covered plat-
+20
+form. 
+21
+(B) The frequency with which such pieces 
+22
+of content are shared over a period of time 
+23
+within a recognized place. 
+24
+20:39 Feb 28, 2022
+H6796
+83 
+•HR 6796 IH
+(C) Engagement (such as sharing and 
+1
+likes) with such pieces of content, including the 
+2
+demographic breakdown of users that interact 
+3
+with the content (to the extent such breakdown 
+4
+is known or inferred). 
+5
+(D) Exposure (such as viewership or im-
+6
+pressions) to such pieces of content, including 
+7
+the demographic breakdown of users exposed to 
+8
+the content (to the extent such breakdown is 
+9
+known or inferred). 
+10
+(E) Public high-profile accounts involved in 
+11
+the spread of such pieces of content. 
+12
+(F) Any other information relating to such 
+13
+pieces of content that the Commission considers 
+14
+appropriate. 
+15
+(2) CONSIDERATIONS.—In issuing regulations 
+16
+under paragraph (1), the Commission shall consider 
+17
+the following: 
+18
+(A) What constitutes high-reach and high- 
+19
+engagement public content for purposes of such 
+20
+regulations. 
+21
+(B) The time by which a piece of content 
+22
+is required to become available, and the period 
+23
+of time for which the piece of content is re-
+24
+quired to remain available, in the high-reach 
+25
+20:39 Feb 28, 2022
+H6796
+84 
+•HR 6796 IH
+public content stream, with the goal of pro-
+1
+viding a near real-time understanding of high- 
+2
+reach and high-engagement public content on 
+3
+the platform. 
+4
+(C) What constitutes a public high-profile 
+5
+account, considering not only that the profile is 
+6
+set to public but that the number of followers 
+7
+is greater than 25,000 users. 
+8
+(D) Any other matters the Commission 
+9
+considers appropriate. 
+10
+(3) NO ADDITIONAL INFORMATION COLLECTION 
+11
+REQUIRED.—The regulations issued under para-
+12
+graph (1) shall specify that a provider of a large 
+13
+covered platform is not required to collect any infor-
+14
+mation about users for the high-reach public content 
+15
+stream that the provider does not collect in the ordi-
+16
+nary course of business. 
+17
+(4) PUBLIC
+AVAILABILITY.—The regulations 
+18
+issued under paragraph (1) may require a provider 
+19
+of a large covered platform to make available to the 
+20
+public a version of the high-reach public content 
+21
+stream maintained under such regulations. Such 
+22
+regulations may specify that such public version is 
+23
+not required to contain certain information required 
+24
+to be included in the version to which the Commis-
+25
+20:39 Feb 28, 2022
+H6796
+85 
+•HR 6796 IH
+sion and certified researchers are granted access be-
+1
+cause of national security or privacy concerns. 
+2
+SEC. 11. RESEARCH FELLOWSHIP PROGRAM. 
+3
+(a) ESTABLISHMENT.—Not later than 1 year after 
+4
+the date of the enactment of this Act, the Commission 
+5
+shall issue regulations under section 553 of title 5, United 
+6
+States Code, to establish within the Bureau a fellowship 
+7
+program (in this section referred to as the ‘‘program’’) 
+8
+in accordance with this section that offers individuals ap-
+9
+pointments as fellows to conduct— 
+10
+(1) research relating to understanding of and 
+11
+mitigating systemic risks described in section 
+12
+4(a)(3), with a focus on research that requires infor-
+13
+mation that is difficult or impossible for a certified 
+14
+researcher to obtain under section 10; and 
+15
+(2) research projects with a focus on domestic 
+16
+and global information ecosystem studies that re-
+17
+quire information from or about multiple hosting 
+18
+services and longer time horizons. 
+19
+(b) APPLICATIONS.—The Commission shall prescribe 
+20
+the process for an individual to apply for appointment as 
+21
+a fellow under the program. 
+22
+(c) ELIGIBILITY.— 
+23
+20:39 Feb 28, 2022
+H6796
+86 
+•HR 6796 IH
+(1) IN GENERAL.—To be eligible for appoint-
+1
+ment as a fellow under the program, an individual 
+2
+shall meet the following requirements: 
+3
+(A) The individual shall be a national of 
+4
+the United States or lawfully admitted to the 
+5
+United States for permanent residence. 
+6
+(B) The individual may not be a current 
+7
+Commission employee as of the time when the 
+8
+individual is appointed as a fellow. 
+9
+(C) The individual may not have a conflict 
+10
+of interest (as determined by the Commission). 
+11
+(2) NO
+CONSECUTIVE
+TERMS.—An individual 
+12
+may not serve consecutive terms as a fellow under 
+13
+the program. 
+14
+(d) NUMBER.—The Commission shall maintain at 
+15
+least 15 fellows under the program at any time. 
+16
+(e) TERM.—A fellow appointed under the program 
+17
+shall serve a term of not less than 1 year and not more 
+18
+than 3 years. 
+19
+(f) PAY.—The Commission shall establish annual 
+20
+rates of pay, benefits, and standards for fellows under the 
+21
+program. 
+22
+(g) FELLOWSHIP AGREEMENT.—The Commission 
+23
+and a fellow appointed under the program shall enter into 
+24
+a fellowship agreement, which shall state the amount of 
+25
+20:39 Feb 28, 2022
+H6796
+87 
+•HR 6796 IH
+compensation to be received by the fellow and the terms 
+1
+and conditions governing the fellowship. 
+2
+(h) COMPLIANCE WITH INFORMATION SECURITY 
+3
+PRACTICES.—A fellow appointed under the program shall 
+4
+comply with information security practices established by 
+5
+the Commission. 
+6
+(i) ACCESS TO INFORMATION.—A fellow appointed 
+7
+under the program shall have access to— 
+8
+(1) the same information as a certified re-
+9
+searcher; and 
+10
+(2) information relating to hosting services and 
+11
+providers of hosting services obtained under section 
+12
+6(b) of the Federal Trade Commission Act (15 
+13
+U.S.C. 46(b)). 
+14
+(j) PROHIBITION ON CARRYING OUT ENFORCEMENT 
+15
+DUTIES.—A fellow appointed under the program may not 
+16
+perform work for purposes of an enforcement action by 
+17
+the Commission. 
+18
+(k) INAPPLICABILITY OF CERTAIN RULES.—Any rule 
+19
+of the Commission that restricts an individual formerly 
+20
+employed by the Commission from accepting other employ-
+21
+ment shall not apply to an individual by reason of the serv-
+22
+ice of the individual as a fellow under the program. 
+23
+20:39 Feb 28, 2022
+H6796
+88 
+•HR 6796 IH
+SEC. 12. REPORT AND DISCLOSURE INTEGRITY. 
+1
+In the case of any report or other disclosure required 
+2
+to be made by a provider of a hosting service under this 
+3
+Act, it shall be a violation of this Act for such report or 
+4
+other disclosure to include any untrue statement of a ma-
+5
+terial fact or to omit to state any material fact required 
+6
+to be stated therein or necessary to make the statements 
+7
+therein, in the light of the circumstances under which the 
+8
+report or other disclosure is made, not misleading. 
+9
+SEC. 13. ENFORCEMENT BY FEDERAL TRADE COMMISSION. 
+10
+(a) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.— 
+11
+A violation of this Act or a regulation issued under this 
+12
+Act shall be treated as a violation of a regulation under 
+13
+section 18(a)(1)(B) of the Federal Trade Commission Act 
+14
+(15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive 
+15
+acts or practices. 
+16
+(b) POWERS
+OF COMMISSION.—The Commission 
+17
+shall enforce this Act and the regulations issued under this 
+18
+Act in the same manner, by the same means, and with 
+19
+the same jurisdiction, powers, and duties as though all ap-
+20
+plicable terms and provisions of the Federal Trade Com-
+21
+mission Act (15 U.S.C. 41 et seq.) were incorporated into 
+22
+and made a part of this Act, and any person who violates 
+23
+this Act or a regulation issued under this Act shall be sub-
+24
+ject to the penalties and entitled to the privileges and im-
+25
+munities provided in the Federal Trade Commission Act. 
+26
+20:39 Feb 28, 2022
+H6796
+89 
+•HR 6796 IH
+(c) COMMISSION LITIGATION AUTHORITY.—Section 
+1
+16(a)(2) of the Federal Trade Commission Act (15 U.S.C. 
+2
+56(a)(2)) is amended— 
+3
+(1) in subparagraph (D), by striking ‘‘or’’ after 
+4
+the semicolon; 
+5
+(2) in subparagraph (E)— 
+6
+(A) by moving the margins 2 ems to the 
+7
+left; and 
+8
+(B) by inserting ‘‘or’’ after the semicolon; 
+9
+and 
+10
+(3) by inserting after subparagraph (E) the fol-
+11
+lowing: 
+12
+‘‘(F) under subsection (l) or (m) of section 5 of 
+13
+this Act that arises from a violation of the Digital 
+14
+Services Oversight and Safety Act of 2022 or a reg-
+15
+ulation issued under such Act;’’. 
+16
+(d) REGULATIONS.—The Commission may issue reg-
+17
+ulations under section 553 of title 5, United States Code, 
+18
+to implement this Act. 
+19
+SEC. 14. AUTHORIZATION OF APPROPRIATIONS. 
+20
+There is authorized to be appropriated to the Com-
+21
+mission to carry out this Act, and to remain available until 
+22
+expended, $500,000,000 for each fiscal year beginning 
+23
+with fiscal year 2022. 
+24
+02:17 Mar 02, 2022
+H6796
+90 
+•HR 6796 IH
+SEC. 15. RULE OF CONSTRUCTION. 
+1
+Nothing in section 230 of the Communications Act 
+2
+of 1934 (47 U.S.C. 230) may be construed to limit the 
+3
+application of, or to impair or limit the enforcement of— 
+4
+(1) this Act or a regulation issued under this 
+5
+Act; or 
+6
+(2) section 6(b) of the Federal Trade Commis-
+7
+sion Act (15 U.S.C. 46(b)). 
+8
+Æ 
+02:17 Mar 02, 2022
+H6796

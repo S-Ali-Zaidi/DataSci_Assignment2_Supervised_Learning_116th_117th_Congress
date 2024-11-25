@@ -1,0 +1,4974 @@
+A BILL 
+To amend the Fair Credit Reporting Act to fix the consumer 
+report dispute process, to ban misleading and unfair 
+consumer reporting practices, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Improving Credit Reporting for All Consumers Act’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Findings. 
+Sec. 3. Effective date. 
+Sec. 4. Consumer Bureau rulemaking. 
+22:32 Jul 22, 2021
+H4113
+2 
+•HR 4113 IH
+TITLE I—IMPROVEMENTS TO THE DISPUTE PROCESS 
+Sec. 101. Dispute procedures and disclosures relating to reinvestigations. 
+Sec. 102. Consumer awareness of dispute rights. 
+Sec. 103. Maintenance of records by furnishers. 
+Sec. 104. Duties of furnishers relating to dispute procedures, notices, and dis-
+closures. 
+Sec. 105. Right to appeal disputes relating to reinvestigations and investiga-
+tions. 
+Sec. 106. Revised consumer reports. 
+Sec. 107. Indication of dispute by consumers and use of disputed information. 
+Sec. 108. Accuracy and completeness report duties for consumer reporting 
+agencies and furnishers. 
+Sec. 109. Inclusion of public record data sources in consumer reports. 
+Sec. 110. Injunctive relief for victims. 
+TITLE II—PROHIBITION ON MISLEADING AND UNFAIR 
+CONSUMER REPORTING PRACTICES 
+Sec. 201. Prohibition on automatic renewals for promotional consumer report-
+ing and credit scoring products and services. 
+Sec. 202. Prohibition on misleading and deceptive marketing related to the pro-
+vision of consumer reporting and credit scoring products and 
+services. 
+Sec. 203. Prohibition on excessive direct-to-consumer sales. 
+Sec. 204. Fair access to consumer reporting and credit scoring disclosures for 
+nonnative English speakers and the visually and hearing im-
+paired. 
+Sec. 205. Comparison shopping for loans without harm to credit standing. 
+Sec. 206. Nationwide consumer reporting agencies registry. 
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) GENERAL FINDINGS.— 
+3
+(A) 
+Consumer 
+reporting 
+agencies 
+4
+(‘‘CRAs’’) are companies that collect, compile, 
+5
+and provide information about consumers in the 
+6
+form of consumer reports for certain permis-
+7
+sible statutory purposes under the Fair Credit 
+8
+Reporting Act (15 U.S.C. 1681 et seq.) 
+9
+(‘‘FCRA’’). The three largest CRAs in this 
+10
+country 
+are 
+Equifax, 
+TransUnion, 
+and 
+11
+Experian. These CRAs are referred to as na-
+12
+22:32 Jul 22, 2021
+H4113
+3 
+•HR 4113 IH
+tionwide CRAs and the reports that they pre-
+1
+pare are commonly referred to as credit reports. 
+2
+Furnishers, such as creditors, lenders, and debt 
+3
+collection agencies, voluntarily submit informa-
+4
+tion to CRAs about their accounts such as the 
+5
+total amount for each loan or credit limit for 
+6
+each credit card and the consumer’s payment 
+7
+history on these products. Reports also include 
+8
+identifying information about a consumer, such 
+9
+as their birthdate, previous mailing addresses, 
+10
+and current and previous employers. 
+11
+(B) In a December 2012 paper, ‘‘Key Di-
+12
+mensions and Processes in the U.S. Credit Re-
+13
+porting System: A review for how the nation’s 
+14
+largest credit bureaus manage consumer data’’, 
+15
+the Bureau of Consumer Financial Protection 
+16
+(‘‘Consumer Bureau’’) noted that the three na-
+17
+tionwide CRAs maintain credit files on approxi-
+18
+mately 200 million adults and receive informa-
+19
+tion from about 10,000 furnishers. On a 
+20
+monthly basis, these furnishers provide infor-
+21
+mation on over 1.3 billion consumer credit ac-
+22
+counts or other trade lines. 
+23
+(C) The 10 largest institutions furnishing 
+24
+credit information to each of the nationwide 
+25
+22:32 Jul 22, 2021
+H4113
+4 
+•HR 4113 IH
+CRAs account for more than half of all ac-
+1
+counts reflected in consumers’ credit files. 
+2
+(D) Consumer reports play an increasingly 
+3
+important role in the lives of American con-
+4
+sumers. Most creditors, for example, review 
+5
+these reports to make decisions about whether 
+6
+to extend credit to consumers and what terms 
+7
+and conditions to offer them. As such, informa-
+8
+tion contained in these reports affects whether 
+9
+a person is able to get a private education loan 
+10
+to pay for college costs, to secure a mortgage 
+11
+loan to buy a home, or to obtain a credit card, 
+12
+as well as the terms and conditions under which 
+13
+consumer credit products or services are offered 
+14
+to them. 
+15
+(E) Credit reports are also increasingly 
+16
+used for many noncredit decisions, including by 
+17
+landlords to determine whether to rent an 
+18
+apartment to a prospective tenant and by em-
+19
+ployers to decide whether to hire potential job 
+20
+applicants or to offer a promotion to existing 
+21
+employees. 
+22
+(F) CRAs have a statutory obligation to 
+23
+verify independently the accuracy and complete-
+24
+22:32 Jul 22, 2021
+H4113
+5 
+•HR 4113 IH
+ness of information included on the reports that 
+1
+they provide. 
+2
+(G) The nationwide CRAs have failed to 
+3
+establish and follow reasonable procedures, as 
+4
+required by existing law, to establish the max-
+5
+imum level of accuracy of information contained 
+6
+on consumer reports. Given the repeated fail-
+7
+ures of these CRAs to comply with accuracy re-
+8
+quirements on their own, legislation is intended 
+9
+to provide them with detailed guidance improv-
+10
+ing the accuracy and completeness of informa-
+11
+tion contained in consumer reports, including 
+12
+procedures, policies, and practices that these 
+13
+CRAs should already be following to ensure full 
+14
+compliance with their existing obligations. 
+15
+(H) The presence of inaccurate or incom-
+16
+plete information on these reports can result in 
+17
+substantial financial and emotional harm to 
+18
+consumers. Credit reporting errors can lead to 
+19
+the loss of a new employment opportunity or a 
+20
+denial of a promotion in an existing job, stop 
+21
+someone from being able to access credit on fa-
+22
+vorable terms, prevent a person from obtaining 
+23
+rental housing, or even trigger mental distress. 
+24
+22:32 Jul 22, 2021
+H4113
+6 
+•HR 4113 IH
+(I) Current industry practices impose an 
+1
+unfair burden of proof on consumers trying to 
+2
+fix errors on their reports. 
+3
+(J) Consumer reports containing inac-
+4
+curate or incomplete credit information also un-
+5
+dermine the ability of creditors and lenders to 
+6
+effectively and accurately underwrite and price 
+7
+credit. 
+8
+(K) Recognizing that credit reporting af-
+9
+fects the lives of almost all consumers in this 
+10
+country and that the consequences of errors on 
+11
+a consumer report can be catastrophic for a 
+12
+consumer, the Consumer Bureau began accept-
+13
+ing consumer complaints about credit reporting 
+14
+in October 2012. 
+15
+(L) As of February 2017, the Consumer 
+16
+Bureau has handled approximately 185,717 
+17
+credit reporting complaints, making credit re-
+18
+porting consistently the third most-complained- 
+19
+about subject matter on which the Consumer 
+20
+Bureau accepts consumer complaints. 
+21
+(M) In the ‘‘Monthly Complaint Report 
+22
+Volume 20’’, released in February 2017, the 
+23
+Consumer Bureau noted that 76 percent of 
+24
+credit reporting complaints involved incorrect 
+25
+22:32 Jul 22, 2021
+H4113
+7 
+•HR 4113 IH
+information on reports, with consumers fre-
+1
+quently expressing their frustrations about the 
+2
+burdensome and time-consuming process to dis-
+3
+puting items. 
+4
+(N) Other common types of credit report-
+5
+ing complaints submitted to the Consumer Bu-
+6
+reau related to the improper use of a report, 
+7
+trouble obtaining a report or credit score, 
+8
+CRAs’ investigations, and credit monitoring or 
+9
+identity protection. 
+10
+(O) In the summer 2015 ‘‘Supervisory 
+11
+Highlights’’, the Consumer Bureau noted that 
+12
+one or more of the largest CRAs failed to ade-
+13
+quately oversee furnishers to ensure that they 
+14
+were adhering to the CRA’s vetting policies and 
+15
+to establish proper procedures to verify public 
+16
+record information. 
+17
+(P) According to the fall 2016 ‘‘Super-
+18
+visory Highlights’’, Consumer Bureau exam-
+19
+iners determined that one or more debt collec-
+20
+tors never investigated indirect disputes that 
+21
+lacked detail or were not accompanied by at-
+22
+tachments with relevant information from the 
+23
+consumer. Examiners also found that notifica-
+24
+tions sent to consumers about disputes consid-
+25
+22:32 Jul 22, 2021
+H4113
+8 
+•HR 4113 IH
+ered frivolous failed to identify for the con-
+1
+sumers the type of material that they could pro-
+2
+vide in order for the debt collector to complete 
+3
+the investigation of the disputed item. 
+4
+(Q) A February 2014 Consumer Bureau 
+5
+report titled ‘‘Credit Reporting Complaint 
+6
+Snapshot’’ found that consumers are confused 
+7
+about the extent to which the nationwide CRAs 
+8
+are required to provide them with validation 
+9
+and documentation of a debt that appears on 
+10
+their credit report. 
+11
+(R) As evidence that the current system 
+12
+lacks sufficient market incentives for CRAs to 
+13
+develop more robust procedures to increase the 
+14
+accuracy and completeness of information on 
+15
+credit reports, litigation discovery documented 
+16
+by 
+the 
+National 
+Consumer 
+Law 
+Center 
+17
+(‘‘NCLC’’), as part of a January 2009 report 
+18
+titled, ‘‘Automated Injustice: How a Mecha-
+19
+nized Dispute System Frustrates Consumers 
+20
+Seeking to Fix Errors in Their Credit Re-
+21
+ports’’, showed that at least two of the three 
+22
+largest CRAs use quota systems to force em-
+23
+ployees to process disputes hastily and without 
+24
+the opportunity for conducting meaningful in-
+25
+22:32 Jul 22, 2021
+H4113
+9 
+•HR 4113 IH
+vestigations. At least one nationwide CRA only 
+1
+allowed dispute resolution staff five minutes to 
+2
+handle a consumer’s call. Furthermore, these 
+3
+CRAs were found to have awarded bonuses for 
+4
+meeting quotas and punished those who didn’t 
+5
+meet production numbers with probation. 
+6
+(S) Unlike most other business relation-
+7
+ships, where consumers can register their satis-
+8
+faction or unhappiness with a particular credit 
+9
+product or service simply by taking their busi-
+10
+ness elsewhere, consumers have no say in 
+11
+whether their information is included in the 
+12
+CRAs databases and limited legal remedies to 
+13
+hold the CRAs accountable for inaccuracies or 
+14
+poor service. 
+15
+(T) Accordingly, despite the existing statu-
+16
+tory mandate for CRAs to follow reasonable 
+17
+procedures to assure the maximum possible ac-
+18
+curacy of the information whenever they pre-
+19
+pare consumer reports, numerous studies, the 
+20
+high volume of consumer complaints submitted 
+21
+to the Consumer Bureau about incorrect infor-
+22
+mation on consumer reports, and supervisory 
+23
+activities by the Consumer Bureau demonstrate 
+24
+22:32 Jul 22, 2021
+H4113
+10 
+•HR 4113 IH
+that CRAs continue to skirt their obligations 
+1
+under the law. 
+2
+(2) INCORRECT
+INFORMATION
+ON
+CONSUMER 
+3
+REPORTS.— 
+4
+(A) Consumers are entitled to dispute er-
+5
+rors on their consumer reports with either the 
+6
+CRA, who issued the report, or directly with 
+7
+furnishers, who supplied the account informa-
+8
+tion to the CRA, and request that mistakes be 
+9
+deleted or removed. Consumers, who believe an 
+10
+investigation has not correctly resolved their 
+11
+dispute, however, have few options, other than 
+12
+requesting that a statement about the dispute 
+13
+be included with their future reports. 
+14
+(B) CRAs have a statutory obligation 
+15
+under the FCRA to perform a reasonable inves-
+16
+tigation by conducting a substantive and 
+17
+searching inquiry when a consumer disputes an 
+18
+item on their report. In doing so, CRAs must 
+19
+conduct an independent review about the accu-
+20
+racy of any disputed item and cannot merely 
+21
+rely 
+on 
+a 
+furnisher’s 
+‘‘rubber-stamp’’ 
+22
+verification of the integrity of the information 
+23
+they have provided to CRAs. 
+24
+22:32 Jul 22, 2021
+H4113
+11 
+•HR 4113 IH
+(C) 
+The 
+Federal 
+Trade 
+Commission 
+1
+(‘‘FTC’’), in a ‘‘Report to Congress Under Sec-
+2
+tion 319 of the Fair and Accurate Credit 
+3
+Transactions Act of 2003’’ released in Decem-
+4
+ber 2012, found that 26 percent of survey par-
+5
+ticipants identified at least one potentially ma-
+6
+terial error on their consumer reports, and 13 
+7
+percent experienced a change in their credit 
+8
+score once the error was fixed. 
+9
+(D) Consumer Bureau examiners have 
+10
+identified repeated deficiencies with the nation-
+11
+wide CRAs’ information collection. In the sum-
+12
+mer 2015 ‘‘Supervisory Highlights’’ released in 
+13
+June 2015, the Consumer Bureau noted contin-
+14
+ued weaknesses with CRAs’ methods and proc-
+15
+esses for assuring maximum possible accuracy 
+16
+in their reports. Examiners also found, with 
+17
+certain exceptions, no quality control policies 
+18
+and procedures in place to test consumer re-
+19
+ports for accuracy. 
+20
+(E) In its ‘‘Credit Reporting Complaint 
+21
+Snapshot’’ released in February 2014, the Con-
+22
+sumer Bureau found that consumers were un-
+23
+certain about the depth and validity of the in-
+24
+vestigations performed about a disputed item. 
+25
+22:32 Jul 22, 2021
+H4113
+12 
+•HR 4113 IH
+Consumers also expressed frustration that, even 
+1
+though they provided supporting materials that 
+2
+they believed demonstrated the inaccuracy of 
+3
+the information provided by furnishers, errors 
+4
+continued to remain on their reports. 
+5
+(F) In the winter 2015 ‘‘Supervisory High-
+6
+lights’’ released in March 2015, the Consumer 
+7
+Bureau reported that one or more nationwide 
+8
+CRAs failed to adequately fulfill their dispute- 
+9
+handling obligations, including by not for-
+10
+warding to furnishers all relevant information 
+11
+found in letters and supporting documents sup-
+12
+plied by consumers when they submitted dis-
+13
+putes failing to notify consumers that they had 
+14
+completed investigations, and not providing con-
+15
+sumers with the results of the CRAs’ reviews 
+16
+about their disputes. 
+17
+(G) Consumer Bureau examiners also 
+18
+noted in the fall 2016 ‘‘Supervisory Highlights’’ 
+19
+released in October 2016 that one or more enti-
+20
+ties failed to provide adequate guidance and 
+21
+training to staff about how to differentiate 
+22
+FCRA disputes from general customer inquir-
+23
+ies, complaints, or debt validation requests. 
+24
+Consumer Bureau supervisors also directed one 
+25
+22:32 Jul 22, 2021
+H4113
+13 
+•HR 4113 IH
+or more entities to develop and implement rea-
+1
+sonable procedures to ensure that direct and in-
+2
+direct disputes are appropriately logged, cat-
+3
+egorized, and resolved. 
+4
+(H) Consumers’ increasing frustration 
+5
+about the difficulties of trying to fix credit re-
+6
+porting errors, evidenced through the volume of 
+7
+consumer complaints related to errors sub-
+8
+mitted to the Consumer Bureau, are also 
+9
+echoed in another FTC study issued in January 
+10
+2015. In the ‘‘Report to Congress under Sec-
+11
+tion 319 for the Fair and Accurate Credit 
+12
+Transactions Act of 2003’’, the FTC found that 
+13
+nearly 70 percent (84 people) of participants 
+14
+from a previous survey that had filed disputes 
+15
+with CRAs continued to believe that at least 
+16
+some of the disputed information remained in-
+17
+accurate at the time of the follow-up survey. 
+18
+Despite these views, 50 percent (42 people) of 
+19
+the survey participants decided to just give up 
+20
+trying to fix the errors, with only 45 percent 
+21
+(38 people) of them planning to continue to try 
+22
+to resolve their disputes. 
+23
+(I) The consistently high volume of con-
+24
+sumer complaints submitted to the Consumer 
+25
+22:32 Jul 22, 2021
+H4113
+14 
+•HR 4113 IH
+Bureau about credit reporting errors, coupled 
+1
+with the largest CRAs’ repeated quality control 
+2
+weaknesses found by Consumer Bureau exam-
+3
+iners, show that the nationwide CRAs have 
+4
+failed to establish and follow reasonable proce-
+5
+dures to assure maximum accuracy of informa-
+6
+tion and to conduct independent investigations 
+7
+of consumers’ disputes. These ongoing problems 
+8
+demonstrate the need for legislation to— 
+9
+(i) enhance obligations on furnishers 
+10
+to substantiate information and require 
+11
+furnishers to keep records for the same 
+12
+amount of time that adverse information 
+13
+about these accounts may appear on a per-
+14
+son’s consumer report; 
+15
+(ii) eliminate CRAs’ discretion to de-
+16
+termine the relevancy of materials provided 
+17
+by consumers to support their dispute 
+18
+claims by instead requiring them to pass 
+19
+all material onto furnishers and elimi-
+20
+nating CRA’s discretion to deem some dis-
+21
+putes frivolous or irrelevant when a con-
+22
+sumer resubmits a claim that they believe 
+23
+has been inadequately resolved; 
+24
+22:32 Jul 22, 2021
+H4113
+15 
+•HR 4113 IH
+(iii) enhance educational content on 
+1
+CRAs’ websites to improve consumers’ un-
+2
+derstanding of the dispute process and to 
+3
+make it easier for all consumers to initiate 
+4
+claims, including by providing these disclo-
+5
+sures in other languages besides English; 
+6
+and 
+7
+(iv) create a new consumer right to 
+8
+appeal reviews by CRAs and furnishers of 
+9
+the initial disputes. 
+10
+(3) INJUNCTIVE RELIEF.— 
+11
+(A) Despite the fact that the FCRA cur-
+12
+rently provides implicit authority for injunctive 
+13
+relief, consumers have been prevented from ex-
+14
+ercising this right. Legislation explicitly clari-
+15
+fying this right is intended to underscore con-
+16
+gressional intent that injunctive relief should be 
+17
+viewed as a remedy available to consumers. 
+18
+(B) Myriad findings by the courts, regu-
+19
+lators, consumers, and consumer advocates 
+20
+make clear that CRAs have failed to establish 
+21
+adequate standards for the accuracy and com-
+22
+pleteness of consumer reports, yet the nation-
+23
+wide CRAs have demonstrated little willingness 
+24
+22:32 Jul 22, 2021
+H4113
+16 
+•HR 4113 IH
+to voluntarily retool their policies and proce-
+1
+dures to fix the problems. 
+2
+(C) Providing courts with explicit authority 
+3
+to issue injunctive relief, by telling the CRAs to 
+4
+remedy unlawful practices and procedures, 
+5
+would further CRAs’ mandate under the FCRA 
+6
+to assure the maximum possible accuracy and 
+7
+completeness of information contained on credit 
+8
+reports. 
+9
+(D) Absent explicit authority to issue in-
+10
+junctions, history suggests that the nationwide 
+11
+CRAs are likely to continue conducting business 
+12
+as usual in treating any monetary settlements 
+13
+with individual consumers and fines imposed by 
+14
+State attorneys general and Federal regulators, 
+15
+simply as the ‘‘cost of doing business’’. 
+16
+(4) DECEPTIVE AND MISLEADING MARKETING 
+17
+PRACTICES.— 
+18
+(A) The Consumer Bureau’s February 
+19
+2015 report titled ‘‘Consumer Voices on Credit 
+20
+Reports and Scores’’ found that some con-
+21
+sumers did not obtain a copy of their consumer 
+22
+report due to concerns about security or of 
+23
+being trapped into purchasing unwanted prod-
+24
+22:32 Jul 22, 2021
+H4113
+17 
+•HR 4113 IH
+ucts like an additional report or a credit moni-
+1
+toring service. 
+2
+(B) In January 2017, the Consumer Bu-
+3
+reau fined TransUnion and Equifax for decep-
+4
+tively marketing credit scores for purchase by 
+5
+consumers as the same credit scores typically 
+6
+used by lenders to determine creditworthiness 
+7
+and for luring consumers into costly subscrip-
+8
+tion services that were advertised as ‘‘free’’ or 
+9
+‘‘$1’’ that automatically charged recurring fees 
+10
+unless cancelled by consumers. The Consumer 
+11
+Bureau also found that Equifax was illegally 
+12
+advertising its products on webpages that con-
+13
+sumers 
+accessed 
+through 
+14
+AnnualCreditReport.com before consumers ob-
+15
+tained their free disclosures. Because of these 
+16
+troubling practices, TransUnion was ordered to 
+17
+pay $13.9 million in restitution to harmed con-
+18
+sumers and a civil penalty of $3 million to the 
+19
+Consumer Bureau. Equifax was ordered to pay 
+20
+more than $3.7 million to affected consumers 
+21
+as well as a civil money penalty of $2.5 million 
+22
+to the Consumer Bureau. As part of the con-
+23
+sent orders, the CRAs are also supposed to 
+24
+change the way that they sell their products to 
+25
+22:32 Jul 22, 2021
+H4113
+18 
+•HR 4113 IH
+consumers. The CRAs must also obtain con-
+1
+sumers’ express consent before enrolling them 
+2
+into subscription services as well as make it 
+3
+easer for consumers to cancel these programs. 
+4
+(C) The Consumer Bureau fined the other 
+5
+nationwide CRA—Experian—in March 2017 
+6
+for deceiving consumers about the use of credit 
+7
+scores that it marketed and sold to consumers 
+8
+as credit scores that were used by lenders and 
+9
+for illegally advertising its products on web 
+10
+pages 
+that 
+consumers 
+accessed 
+through 
+11
+AnnualCreditReport.com before they obtained 
+12
+their free annual disclosures. Experian was or-
+13
+dered to pay more than $3.7 million in restitu-
+14
+tion to harmed consumers and a civil monetary 
+15
+penalty of $2.5 million to the Consumer Bu-
+16
+reau. 
+17
+(D) The Consumer Bureau’s January and 
+18
+March 2017 consent orders with the three na-
+19
+tionwide CRAs show that these CRAs have en-
+20
+ticed consumers into purchasing products and 
+21
+services that they may not want or need, in 
+22
+some instances by advertising products or serv-
+23
+ices ‘‘free’’ that automatically converted into an 
+24
+ongoing subscription service at the regular price 
+25
+22:32 Jul 22, 2021
+H4113
+19 
+•HR 4113 IH
+unless cancelled by the consumer. Although 
+1
+these CRAs must now change their deceptive 
+2
+marketing practices, codifying these duties is an 
+3
+appropriate way to ensure that these companies 
+4
+never revert back to such misleading tactics. 
+5
+(E) Given the ubiquitous use of consumer 
+6
+reports in consumers’ lives and the fact that 
+7
+consumers’ participation in the credit reporting 
+8
+system is involuntary, CRAs should also 
+9
+prioritize providing consumers with the effective 
+10
+means to safeguard their personal and financial 
+11
+information and improve their credit standing, 
+12
+rather than seeking to exploit consumers’ con-
+13
+cerns and confusion about credit reporting and 
+14
+scoring, to boost their companies’ profits. 
+15
+(F) Vulnerable consumers, who have legiti-
+16
+mate concerns about the security of their per-
+17
+sonal and financial information, deserve clear, 
+18
+accurate, and transparent information about 
+19
+the credit reporting tools that may be available 
+20
+to them, such as fraud alerts and freezes. 
+21
+SEC. 3. EFFECTIVE DATE. 
+22
+The amendments made by this Act shall take effect 
+23
+2 years after the date of the enactment of this Act. 
+24
+22:32 Jul 22, 2021
+H4113
+20 
+•HR 4113 IH
+SEC. 4. CONSUMER BUREAU RULEMAKING. 
+1
+Except as otherwise provided, not later than the end 
+2
+of the 2-year period beginning on the date of the enact-
+3
+ment of this Act, the Bureau of Consumer Financial Pro-
+4
+tection shall issue final rules to implement the amend-
+5
+ments made by this Act. 
+6
+TITLE I—IMPROVEMENTS TO 
+7
+THE DISPUTE PROCESS 
+8
+SEC. 101. DISPUTE PROCEDURES AND DISCLOSURES RE-
+9
+LATING TO REINVESTIGATIONS. 
+10
+(a) IN GENERAL.—Section 611(a) of the Fair Credit 
+11
+Reporting Act (15 U.S.C. 1681i(a)) is amended to read 
+12
+as follows: 
+13
+‘‘(a) REINVESTIGATIONS
+OF DISPUTED INFORMA-
+14
+TION BY A CONSUMER REPORTING AGENCY.— 
+15
+‘‘(1) REINVESTIGATIONS REQUIRED.— 
+16
+‘‘(A) IN GENERAL.—Subject to subsection 
+17
+(f), if the completeness or accuracy of any item 
+18
+of information contained in a consumer’s file at 
+19
+a consumer reporting agency is disputed by the 
+20
+consumer and the consumer notifies the agency 
+21
+(either directly or indirectly through a reseller 
+22
+or an authorized third party) of such dispute, 
+23
+the agency shall, free of charge— 
+24
+‘‘(i) conduct a reasonable reinvestiga-
+25
+tion using the process described in para-
+26
+22:32 Jul 22, 2021
+H4113
+21 
+•HR 4113 IH
+graph (3) to determine whether the dis-
+1
+puted information is inaccurate, incom-
+2
+plete, or cannot be verified; 
+3
+‘‘(ii) notify the consumer that a nota-
+4
+tion described in section 605(e) will be 
+5
+added to the consumer’s file until the re-
+6
+investigation has been completed and that 
+7
+such notation can be removed at the re-
+8
+quest of the consumer; and 
+9
+‘‘(iii) before the end of the 30-day pe-
+10
+riod beginning on the date on which the 
+11
+consumer reporting agency receives the no-
+12
+tice of the dispute from the consumer or 
+13
+the reseller— 
+14
+‘‘(I) record the current status of 
+15
+the disputed information; or 
+16
+‘‘(II) delete or modify the item in 
+17
+accordance with paragraph (3)(D). 
+18
+‘‘(B) EXTENSION OF PERIOD TO REINVES-
+19
+TIGATE.—Except as provided in subparagraph 
+20
+(C), the 30-day period described in subpara-
+21
+graph (A) may be extended for period not to ex-
+22
+ceed 15 days if the consumer reporting agency 
+23
+receives additional information from the con-
+24
+sumer or the reseller regarding the dispute 
+25
+22:32 Jul 22, 2021
+H4113
+22 
+•HR 4113 IH
+after the date on which the consumer reporting 
+1
+agency notified any person who provided any 
+2
+item of information in dispute under paragraph 
+3
+(2)(A). 
+4
+‘‘(C) LIMITATIONS ON EXTENSION OF PE-
+5
+RIOD TO REINVESTIGATE.—Subparagraph (B) 
+6
+shall not apply to any reinvestigation in which, 
+7
+during the 30-day period described in subpara-
+8
+graph (A), the disputed information is found to 
+9
+be inaccurate or incomplete, or the consumer 
+10
+reporting agency determines that the disputed 
+11
+information cannot be verified. 
+12
+‘‘(2) PROMPT
+NOTICE
+OF
+DISPUTE
+TO
+FUR-
+13
+NISHER OF INFORMATION; PROVISION OF INFORMA-
+14
+TION REGARDING DISPUTE PROVIDED BY THE CON-
+15
+SUMER OR RESELLER.— 
+16
+‘‘(A) IN GENERAL.—Before the end of the 
+17
+period of 5 business days beginning on the date 
+18
+on which a consumer reporting agency receives 
+19
+notice of a dispute from any consumer or re-
+20
+seller under paragraph (1)(A), the consumer re-
+21
+porting agency shall provide notification of the 
+22
+dispute to any person who provided any item of 
+23
+information in dispute, at the address and in 
+24
+the manner established with such person. The 
+25
+22:32 Jul 22, 2021
+H4113
+23 
+•HR 4113 IH
+notice shall include all information, including 
+1
+substantiating documents, regarding the dispute 
+2
+that was submitted to the consumer reporting 
+3
+agency. 
+4
+‘‘(B) PROVISION OF ADDITIONAL INFORMA-
+5
+TION
+REGARDING
+DISPUTE
+AFTER
+NOTIFICA-
+6
+TION TO THE FURNISHER OF INFORMATION.— 
+7
+If a consumer reporting agency receives addi-
+8
+tional information regarding the dispute from 
+9
+the consumer or reseller after the agency pro-
+10
+vides the notification described under subpara-
+11
+graph (A) and before the end of the 30-day pe-
+12
+riod described in paragraph (1)(A), the con-
+13
+sumer reporting agency shall, not later than 3 
+14
+business days after receiving such information, 
+15
+provide such information to the person who pro-
+16
+vided the information in dispute. 
+17
+‘‘(3) REASONABLE STANDARDS FOR CONSUMER 
+18
+REPORTING AGENCIES FOR CONDUCTING REINVES-
+19
+TIGATIONS AND RESOLVING DISPUTES SUBMITTED 
+20
+BY CONSUMERS.— 
+21
+‘‘(A) IN GENERAL.—In conducting a re-
+22
+investigation of disputed information, a con-
+23
+sumer reporting agency shall, at a minimum— 
+24
+22:32 Jul 22, 2021
+H4113
+24 
+•HR 4113 IH
+‘‘(i) maintain sufficient resources and 
+1
+trained staff, commensurate with the vol-
+2
+ume and complexity of disputes received or 
+3
+reasonably anticipated to be received, to 
+4
+determine whether the disputed informa-
+5
+tion is accurate, complete, or can be 
+6
+verified by the person who provided the in-
+7
+formation; 
+8
+‘‘(ii) ensure that all staff involved at 
+9
+any level of the reinvestigation process, in-
+10
+cluding any individual with ultimate au-
+11
+thority over determining whether the dis-
+12
+puted information is inaccurate, incom-
+13
+plete, or cannot be verified, are located 
+14
+within the United States; 
+15
+‘‘(iii) verify that the personally identi-
+16
+fiable information of the consumer submit-
+17
+ting the dispute matches the personally 
+18
+identifiable information contained in the 
+19
+consumer’s file, and that such information 
+20
+is accurate and complete; 
+21
+‘‘(iv) verify that the consumer report-
+22
+ing agency has a record of the information 
+23
+being disputed; and 
+24
+22:32 Jul 22, 2021
+H4113
+25 
+•HR 4113 IH
+‘‘(v) conduct a reasonable review that 
+1
+considers all information, including sub-
+2
+stantiating documents, provided by the 
+3
+consumer or reseller. 
+4
+‘‘(B) CONSUMER
+REPORTING.—The con-
+5
+sumer reporting agency shall not impose any 
+6
+limitation or otherwise impede the ability of a 
+7
+consumer to submit information about the dis-
+8
+puted item. 
+9
+‘‘(C) INDEPENDENT
+ANALYSIS.—The re-
+10
+investigation conducted under subparagraph 
+11
+(A) shall be an independent analysis, separate 
+12
+from any investigation by a reseller or a person 
+13
+who provided the disputed information. 
+14
+‘‘(D) DELETION OR MODIFICATION OF IN-
+15
+FORMATION
+CONTAINED
+IN
+A
+CONSUMER 
+16
+FILE.—If the disputed information is found to 
+17
+be inaccurate, incomplete, or cannot be verified, 
+18
+the dispute resolution staff of the consumer re-
+19
+porting agency shall have the direct authority to 
+20
+delete or modify such information in the con-
+21
+sumer’s file, as appropriate, during the 30-day 
+22
+period described in paragraph (1)(A), shall 
+23
+promptly notify the consumer of the results of 
+24
+the reinvestigation as described in paragraph 
+25
+22:32 Jul 22, 2021
+H4113
+26 
+•HR 4113 IH
+(4), and shall promptly notify any person who 
+1
+provided such information to the consumer re-
+2
+porting agency of the modification or deletion 
+3
+made to the consumer’s file. 
+4
+‘‘(4) NOTICE TO CONSUMER OF RESULTS OF 
+5
+REINVESTIGATION.— 
+6
+‘‘(A) IN GENERAL.—Not later than 5 busi-
+7
+ness days after the conclusion of a reinvestiga-
+8
+tion conducted under this subsection, the con-
+9
+sumer reporting agency shall provide written 
+10
+notice to the consumer of the results of the re-
+11
+investigation by postal mail or, if authorized by 
+12
+the consumer for that purpose, by other means 
+13
+available to the agency. 
+14
+‘‘(B) CONTENTS OF NOTICE TO CONSUMER 
+15
+OF RESULTS OF REINVESTIGATION.—The notice 
+16
+described in subparagraph (A) shall include— 
+17
+‘‘(i) a statement that the reinvestiga-
+18
+tion of the disputed information has been 
+19
+completed; 
+20
+‘‘(ii) a statement informing the con-
+21
+sumer as to whether the disputed informa-
+22
+tion was determined to be inaccurate, in-
+23
+complete, or unverifiable, including a state-
+24
+22:32 Jul 22, 2021
+H4113
+27 
+•HR 4113 IH
+ment of the specific reasons supporting the 
+1
+determination; 
+2
+‘‘(iii) if information in the consumer’s 
+3
+file has been deleted or modified as a re-
+4
+sult of the reinvestigation— 
+5
+‘‘(I) a copy of the consumer re-
+6
+port and credit score or educational 
+7
+score (if applicable) that is based 
+8
+upon the consumer’s revised file; 
+9
+‘‘(II) a statement identifying the 
+10
+specific information from the con-
+11
+sumer’s file that was deleted or modi-
+12
+fied because such information was de-
+13
+termined to be inaccurate, incomplete, 
+14
+or unverifiable by the consumer re-
+15
+porting agency; 
+16
+‘‘(III) a statement that the con-
+17
+sumer has the right, free of charge, to 
+18
+obtain an additional consumer report 
+19
+and credit score or educational credit 
+20
+score (if applicable) within the 12- 
+21
+month period following the date of the 
+22
+conclusion of the reinvestigation, re-
+23
+gardless of whether the consumer ob-
+24
+tained or will obtain a free annual 
+25
+22:32 Jul 22, 2021
+H4113
+28 
+•HR 4113 IH
+consumer report and credit score or 
+1
+educational score (if applicable) under 
+2
+section 612; and 
+3
+‘‘(IV) a statement that the con-
+4
+sumer has the right, free of charge, to 
+5
+request under subsection (d) that the 
+6
+consumer reporting agency furnish 
+7
+notifications of the consumer’s revised 
+8
+report; 
+9
+‘‘(iv) a description of the procedure 
+10
+used by the dispute resolution staff of the 
+11
+consumer reporting agency to determine 
+12
+the accuracy or completeness of the infor-
+13
+mation, including the business name, mail-
+14
+ing address, telephone number, and Inter-
+15
+net website address (if available) of any 
+16
+person who provided information who was 
+17
+contacted by the staff in connection with 
+18
+the determination; 
+19
+‘‘(v) a statement that the consumer 
+20
+has the right, free of charge, to add a nar-
+21
+rative statement to the consumer’s file dis-
+22
+puting the accuracy or completeness of the 
+23
+information, regardless of the results of 
+24
+the reinvestigation by the agency, and the 
+25
+22:32 Jul 22, 2021
+H4113
+29 
+•HR 4113 IH
+process for submitting such a narrative 
+1
+pursuant to subsection (b); 
+2
+‘‘(vi) a copy of all information relating 
+3
+to the consumer that was used by the con-
+4
+sumer reporting agency in carrying out the 
+5
+reinvestigation and relied upon as the basis 
+6
+for the determination about the accuracy 
+7
+and completeness of the disputed informa-
+8
+tion; 
+9
+‘‘(vii) a statement that a consumer 
+10
+may, free of charge, challenge the results 
+11
+of the reinvestigation by appeal within 120 
+12
+days after the date the notice of the results 
+13
+of the reinvestigation was provided to the 
+14
+consumer and the process for submitting 
+15
+an appeal; 
+16
+‘‘(viii) a statement informing the con-
+17
+sumer that a notation described in section 
+18
+605(e) will be added to the file of the con-
+19
+sumer during the period in which the con-
+20
+sumer appeals the results of a reinvestiga-
+21
+tion and that such notation can be re-
+22
+moved at the request of the consumer; and 
+23
+‘‘(ix) any other information, as deter-
+24
+mined by the Bureau. 
+25
+22:32 Jul 22, 2021
+H4113
+30 
+•HR 4113 IH
+‘‘(5) REQUIREMENTS RELATING TO REINSER-
+1
+TION OF PREVIOUSLY DELETED OR MODIFIED MATE-
+2
+RIAL.— 
+3
+‘‘(A) CERTIFICATION OF NEW DETERMINA-
+4
+TION
+THAT
+ITEM
+IS
+ACCURATE
+OR
+COM-
+5
+PLETE.—A consumer reporting agency may not 
+6
+reinsert into a consumer’s file any information 
+7
+that was previously deleted or modified pursu-
+8
+ant to paragraph (3)(D), unless the person who 
+9
+provided the information— 
+10
+‘‘(i) requests that the consumer re-
+11
+porting agency reinsert such information; 
+12
+‘‘(ii) submits a written certification 
+13
+that the information is accurate and com-
+14
+plete; and 
+15
+‘‘(iii) provides a statement describing 
+16
+the specific reasons why the information 
+17
+should be inserted. 
+18
+‘‘(B) NOTICE TO CONSUMER BEFORE RE-
+19
+INSERTION CAN OCCUR.—Upon receipt of a re-
+20
+quest for reinsertion of disputed information 
+21
+under subparagraph (A), the consumer report-
+22
+ing agency shall, not later than 5 business days 
+23
+before the consumer reporting agency reinserts 
+24
+the information into the consumer’s file, notify 
+25
+22:32 Jul 22, 2021
+H4113
+31 
+•HR 4113 IH
+the consumer in writing of such request for re-
+1
+insertion. Such notice shall include— 
+2
+‘‘(i) the business name, mailing ad-
+3
+dress, telephone number, and Internet 
+4
+website address (if available) of any person 
+5
+who provided information to or contacted 
+6
+the consumer reporting agency in connec-
+7
+tion with the reinsertion; 
+8
+‘‘(ii) a copy of the information relat-
+9
+ing to the consumer, the certification that 
+10
+the information is accurate or complete, 
+11
+and the statement of the reasons sup-
+12
+porting reinsertion provided by the person 
+13
+who provided the information to the con-
+14
+sumer reporting agency under subpara-
+15
+graph (A); 
+16
+‘‘(iii) a statement that the consumer 
+17
+may obtain, free of charge and within the 
+18
+12-month period following the date the no-
+19
+tice under this subparagraph was issued, a 
+20
+consumer report and credit score or edu-
+21
+cational score (if applicable) from the con-
+22
+sumer reporting agency that includes the 
+23
+reinserted 
+information, 
+regardless 
+of 
+24
+whether the consumer obtained or will ob-
+25
+22:32 Jul 22, 2021
+H4113
+32 
+•HR 4113 IH
+tain a free annual consumer report and 
+1
+credit score or educational credit score (if 
+2
+applicable) under section 612; 
+3
+‘‘(iv) a statement that the consumer 
+4
+may appeal the determination that the pre-
+5
+viously deleted or modified information is 
+6
+accurate or complete and a description of 
+7
+the procedure for the consumer to make 
+8
+such an appeal pursuant to subsection (h); 
+9
+and 
+10
+‘‘(v) a statement that the consumer 
+11
+has the right to add a narrative statement, 
+12
+free of charge, to the consumer’s file dis-
+13
+puting the accuracy or completeness of the 
+14
+disputed information and a description of 
+15
+the process to add such a narrative state-
+16
+ment pursuant to subsection (b). 
+17
+‘‘(6) EXPEDITED DISPUTE RESOLUTION.—If a 
+18
+consumer reporting agency determines that the in-
+19
+formation provided by the consumer is sufficient to 
+20
+substantiate that the item of information is inac-
+21
+curate, incomplete, or cannot be verified by the per-
+22
+son who furnished such information, and the con-
+23
+sumer reporting agency deletes or modifies such in-
+24
+formation within 3 business days of receiving notice 
+25
+22:32 Jul 22, 2021
+H4113
+33 
+•HR 4113 IH
+of the dispute, the consumer reporting agency shall 
+1
+be exempt from the requirements of paragraph (4), 
+2
+if the consumer reporting agency provides to the 
+3
+consumer— 
+4
+‘‘(A) prompt notice confirming the deletion 
+5
+or modification of the information from the con-
+6
+sumer’s file in writing or by other means, if 
+7
+agreed to by the consumer when the informa-
+8
+tion is disputed; 
+9
+‘‘(B) a statement of the consumer’s right 
+10
+to request that the consumer reporting agency 
+11
+furnish notifications of a revised consumer re-
+12
+port pursuant to subsection (d); 
+13
+‘‘(C) not later than 5 business days after 
+14
+deleting or modifying the information, a copy of 
+15
+the consumer report and credit score or edu-
+16
+cational score (if applicable) that is based upon 
+17
+the consumer’s revised file; and 
+18
+‘‘(D) a statement that the consumer may 
+19
+obtain, free of charge and within the 12-month 
+20
+period following the date the notice under this 
+21
+paragraph was sent to the consumer, a con-
+22
+sumer report and credit score or educational 
+23
+score (if applicable) from the consumer report-
+24
+ing agency, regardless of whether the consumer 
+25
+22:32 Jul 22, 2021
+H4113
+34 
+•HR 4113 IH
+obtained or will obtain their free annual con-
+1
+sumer report and credit score or educational 
+2
+score (if applicable) under section 612. 
+3
+‘‘(7) NO EXCUSE FOR FAILURE TO CONDUCT 
+4
+REINVESTIGATION.—A consumer reporting agency 
+5
+may not refuse to conduct a reinvestigation under 
+6
+this subsection because the agency determines that 
+7
+the dispute was submitted by an authorized third 
+8
+party, unless the agency has clear and convincing 
+9
+evidence that the third party is not authorized to 
+10
+submit the dispute on the consumer’s behalf. If the 
+11
+consumer reporting agency refuses to reinvestigate a 
+12
+dispute for these reasons, it shall provide a clear and 
+13
+conspicuous notice to the consumer explaining the 
+14
+reasons for the refusal and describing the specific in-
+15
+formation the consumer is required to provide for 
+16
+the agency to conduct the reinvestigation.’’. 
+17
+(b) ENSURING CONSUMER REPORTING AGENCIES 
+18
+FURNISH CERTAIN NOTIFICATIONS WITHOUT CHARGE.— 
+19
+Section 611(d) of the Fair Credit Reporting Act (15 
+20
+U.S.C. 1681i(d)) is amended by inserting ‘‘and without 
+21
+charge’’ after ‘‘request of the consumer’’. 
+22
+(c) INCLUDING SPECIALTY CONSUMER REPORTING 
+23
+AGENCIES IN REPORTS.— 
+24
+22:32 Jul 22, 2021
+H4113
+35 
+•HR 4113 IH
+(1) IN GENERAL.—Section 611(e) of the Fair 
+1
+Credit Reporting Act (15 U.S.C. 1681i(e)) is 
+2
+amended by inserting ‘‘or 603(x)’’ after ‘‘section 
+3
+603(p)’’ each place such term appears. 
+4
+(2) TECHNICAL AMENDMENT.—Paragraph (1) 
+5
+of such section (15 U.S.C. 1681i(e)(1)) is amended 
+6
+by striking ‘‘The Commission’’ and inserting ‘‘The 
+7
+Bureau’’. 
+8
+(d) CONFORMING AMENDMENTS.—Such Act is fur-
+9
+ther amended— 
+10
+(1) in section 605B(c)(2), by striking ‘‘section 
+11
+611(a)(5)(B)’’ and inserting ‘‘section 611(a)(5)’’; 
+12
+(2) in section 611— 
+13
+(A) in subsection (c), by striking ‘‘unless 
+14
+there is reasonable grounds to believe that it is 
+15
+frivolous or irrevelant,’’; and 
+16
+(B) in subsection (f)(3)— 
+17
+(i) in subparagraph (A), by striking 
+18
+‘‘paragraph (6), (7), or (8) of subsection 
+19
+(a)’’ and inserting ‘‘paragraph (4) or (5) of 
+20
+subsection (a)’’; and 
+21
+(ii) in subparagraph (B), by striking 
+22
+‘‘in the manner required under paragraph 
+23
+(8)(A)’’; and 
+24
+22:32 Jul 22, 2021
+H4113
+36 
+•HR 4113 IH
+(3) in section 623(b)(1)(B), by striking ‘‘rel-
+1
+evant’’ before ‘‘information’’. 
+2
+(e) GLOBAL TECHNICAL CORRECTIONS
+TO REF-
+3
+ERENCES TO NATIONWIDE SPECIALTY CONSUMER RE-
+4
+5
+(1) by striking ‘‘section 603(w)’’ and inserting 
+6
+‘‘section 603(x)’’ each place such term appears; and 
+7
+(2) in section 612(a)(1)(A), by striking ‘‘(w)’’ 
+8
+and inserting ‘‘(x)’’. 
+9
+SEC. 102. CONSUMER AWARENESS OF DISPUTE RIGHTS. 
+10
+Section 611 of the Fair Credit Reporting Act (15 
+11
+U.S.C. 1681i) is amended by adding at the end the fol-
+12
+lowing new subsection: 
+13
+‘‘(i) INCREASED CONSUMER AWARENESS
+OF DIS-
+14
+PUTE RIGHTS.— 
+15
+‘‘(1) IN GENERAL.—Not later than 180 days 
+16
+after the date of enactment of this subsection, each 
+17
+consumer reporting agency described under sub-
+18
+section (p) or (x) of section 603 shall— 
+19
+‘‘(A) establish an Internet website acces-
+20
+sible to consumers; and 
+21
+‘‘(B) post on the home page of such 
+22
+website a hyperlink to a separate webpage es-
+23
+tablished and maintained solely for the purpose 
+24
+of providing information to a consumer about 
+25
+22:32 Jul 22, 2021
+H4113
+37 
+•HR 4113 IH
+how to dispute an item of information in the 
+1
+consumer report of the consumer. 
+2
+‘‘(2) DISPUTE WEBPAGE REQUIREMENTS.—For 
+3
+a consumer reporting agency described under sub-
+4
+section (p) or (x) of section 603, the separate dis-
+5
+pute webpage described in paragraph (1)(B)— 
+6
+‘‘(A) may not include any type or form of 
+7
+marketing, advertising, information, or material 
+8
+associated with any products or services offered 
+9
+or sold to consumers; 
+10
+‘‘(B) shall clearly and conspicuously dis-
+11
+close a concise statement regarding how to file 
+12
+a dispute through the agency, free of charge, in 
+13
+the manner and format prescribed by the Bu-
+14
+reau; 
+15
+‘‘(C) shall describe the types of documents 
+16
+that will be used by the agency in resolving the 
+17
+dispute, including the business name and mail-
+18
+ing address to which a consumer may send such 
+19
+documents; 
+20
+‘‘(D) shall include a clear and concise ex-
+21
+planation of and the process for using electronic 
+22
+or other means to submit such documents, free 
+23
+of charge, and without any character or data 
+24
+limitation imposed by the agency; 
+25
+22:32 Jul 22, 2021
+H4113
+38 
+•HR 4113 IH
+‘‘(E) shall include a statement that the 
+1
+consumer may submit information, free of 
+2
+charge, that the consumer believes will assist 
+3
+the consumer reporting agency in determining 
+4
+the results of the reinvestigation of the dispute; 
+5
+‘‘(F) shall clearly and conspicuously dis-
+6
+close a statement describing the procedure like-
+7
+ly to be used by the consumer reporting agency 
+8
+in carrying out a reinvestigation to determine 
+9
+the accuracy or completeness of the disputed 
+10
+item of information, including the time period 
+11
+in which the consumer will be notified of the re-
+12
+sults of the reinvestigation, and a statement 
+13
+that the agency may extend the reinvestigation 
+14
+period by an additional 15 days if the consumer 
+15
+submits additional information after a certain 
+16
+date; and 
+17
+‘‘(G) shall provide translations of all infor-
+18
+mation on the webpage in each of the 10 most 
+19
+commonly 
+spoken 
+languages, 
+other 
+than 
+20
+English, in the United States, as determined by 
+21
+the Bureau of the Census on an ongoing basis, 
+22
+and in formats accessible to individuals with 
+23
+hearing or vision impairments.’’. 
+24
+22:32 Jul 22, 2021
+H4113
+39 
+•HR 4113 IH
+SEC. 103. MAINTENANCE OF RECORDS BY FURNISHERS. 
+1
+Section 623 of the Fair Credit Reporting Act (15 
+2
+U.S.C. 1681s–2) is amended by adding at the end the fol-
+3
+lowing new subsection: 
+4
+‘‘(f) DUTY OF FURNISHERS TO MAINTAIN RECORDS 
+5
+OF CONSUMERS.— 
+6
+‘‘(1) IN GENERAL.—A person who furnishes in-
+7
+formation to a consumer reporting agency relating 
+8
+to a consumer who has an account with that person 
+9
+shall maintain all information necessary to substan-
+10
+tiate the accuracy and completeness of the informa-
+11
+tion furnished, including any records establishing the 
+12
+liability and terms and conditions under which credit 
+13
+was extended to a consumer and any payment his-
+14
+tory with respect to such credit. 
+15
+‘‘(2) RETENTION
+PERIOD.—Records described 
+16
+under paragraph (1) shall be maintained until the 
+17
+information with respect to which the records relate 
+18
+may no longer be included in a consumer report pur-
+19
+suant to section 605. 
+20
+‘‘(3) TRANSFER OF OWNERSHIP.—If a person 
+21
+providing information to a consumer reporting agen-
+22
+cy is acquired by another person, or if another per-
+23
+son acquires the right to repayment connected to 
+24
+such information, the acquiring person shall be sub-
+25
+ject to the requirements of this subsection with re-
+26
+22:32 Jul 22, 2021
+H4113
+40 
+•HR 4113 IH
+spect to such information to the same extent as the 
+1
+person who initially provided such information to the 
+2
+consumer reporting agency. The person selling or 
+3
+transferring the right to repayment shall provide the 
+4
+information described in paragraph (1) to the trans-
+5
+feree or the acquirer.’’. 
+6
+SEC. 104. DUTIES OF FURNISHERS RELATING TO DISPUTE 
+7
+PROCEDURES, NOTICES, AND DISCLOSURES. 
+8
+(a) DUTY TO PROVIDE ACCURATE AND COMPLETE 
+9
+INFORMATION.—Section 623(a) of the Fair Credit Re-
+10
+porting Act (15 U.S.C. 1681s–2(a)) is amended— 
+11
+(1) in the subsection heading, by inserting 
+12
+‘‘AND COMPLETE’’ after ‘‘ACCURATE’’; 
+13
+(2) in paragraph (1)— 
+14
+(A) by inserting ‘‘or incomplete’’ after ‘‘in-
+15
+accurate’’ each place that term appears; and 
+16
+(B) in subparagraph (D), by inserting ‘‘or 
+17
+completeness’’ after ‘‘accuracy’’; and 
+18
+(3) in paragraph (8)— 
+19
+(A) in subparagraph (A), by inserting 
+20
+‘‘and completeness’’ after ‘‘accuracy’’; and 
+21
+(B) in subparagraph (D), by inserting ‘‘or 
+22
+completeness’’ after ‘‘accuracy’’. 
+23
+22:32 Jul 22, 2021
+H4113
+41 
+•HR 4113 IH
+(b) NEGATIVE INFORMATION NOTICES
+TO CON-
+1
+SUMERS.—Section 623(a)(7) (15 U.S.C. 1681s–2(a)(7)) 
+2
+of such Act is amended to read as follows: 
+3
+‘‘(7) DUTY OF FURNISHERS TO INFORM CON-
+4
+SUMERS
+ABOUT
+REPORTING
+NEGATIVE
+INFORMA-
+5
+TION.— 
+6
+‘‘(A) GENERAL
+NEGATIVE
+INFORMATION 
+7
+WARNING NOTICE TO ALL CONSUMERS PRIOR 
+8
+TO FURNISHING SUCH INFORMATION.— 
+9
+‘‘(i) IN GENERAL.—Any person that 
+10
+regularly furnishes negative information to 
+11
+a consumer reporting agency described in 
+12
+subsection (p) or (x) of section 603 about 
+13
+activity on any accounts of a consumer 
+14
+held by such person or transactions associ-
+15
+ated with credit extended to a consumer by 
+16
+such person shall provide a written general 
+17
+negative information warning notice to 
+18
+each such consumer before such person 
+19
+may furnish any negative information re-
+20
+lating to such a consumer. 
+21
+‘‘(ii) CONTENT.—Such notice shall— 
+22
+‘‘(I) be clear and conspicuous; 
+23
+22:32 Jul 22, 2021
+H4113
+42 
+•HR 4113 IH
+‘‘(II) describe the types of activi-
+1
+ties that constitute negative informa-
+2
+tion; 
+3
+‘‘(III) inform the consumer that 
+4
+the person may report negative infor-
+5
+mation relating to any such accounts 
+6
+or transactions to a consumer report-
+7
+ing agency described in subsection (p) 
+8
+or (x) of section 603; 
+9
+‘‘(IV) state that the negative in-
+10
+formation may appear on a consumer 
+11
+report of the consumer for the periods 
+12
+described in section 605 and that dur-
+13
+ing such periods, the negative infor-
+14
+mation may adversely impact the con-
+15
+sumer’s credit score; 
+16
+‘‘(V) state that in some limited 
+17
+circumstances, the negative informa-
+18
+tion may result in other adverse ac-
+19
+tions, including a denial of a new job 
+20
+or a promotion from existing employ-
+21
+ment; and 
+22
+‘‘(VI) state that the consumer 
+23
+has right to— 
+24
+22:32 Jul 22, 2021
+H4113
+43 
+•HR 4113 IH
+‘‘(aa) obtain a copy of their 
+1
+consumer report and credit score 
+2
+or educational score (if applica-
+3
+ble), which in some instances can 
+4
+be obtained free of charge, from 
+5
+any consumer reporting agency 
+6
+to which negative information 
+7
+may be been sent; and 
+8
+‘‘(bb) 
+dispute, 
+free 
+of 
+9
+charge, any errors on a consumer 
+10
+report relating to the consumer. 
+11
+‘‘(iii) TIMING OF NOTICE.—Such per-
+12
+son shall provide such notice to a consumer 
+13
+not later than 90 days before the date on 
+14
+which the person furnishes negative infor-
+15
+mation relating to such consumer. 
+16
+‘‘(B) SPECIFIC
+NEGATIVE
+INFORMATION 
+17
+NOTICE TO A CONSUMER.— 
+18
+‘‘(i) IN
+GENERAL.—Any person de-
+19
+scribed in subparagraph (A) that has fur-
+20
+nished negative information relating to ac-
+21
+tivity on any accounts of a consumer held 
+22
+by such person or transactions associated 
+23
+with credit extended to a consumer by such 
+24
+person to a consumer reporting agency de-
+25
+22:32 Jul 22, 2021
+H4113
+44 
+•HR 4113 IH
+scribed in subsection (p) or (x) of section 
+1
+603 shall send a written notice to each 
+2
+such consumer. 
+3
+‘‘(ii) CONTENT.—Such notice shall— 
+4
+‘‘(I) be clear and conspicuous; 
+5
+‘‘(II) inform the consumer that 
+6
+the person has furnished negative in-
+7
+formation relating to such accounts or 
+8
+transactions to a consumer reporting 
+9
+agency described in subsection (p) or 
+10
+(x) of section 603; 
+11
+‘‘(III) identify any consumer re-
+12
+porting agency to which the negative 
+13
+information was furnished, including 
+14
+the name of the agency, mailing ad-
+15
+dress, Internet website address, and 
+16
+toll-free telephone number; and 
+17
+‘‘(IV) include the statements de-
+18
+scribed in subclauses (IV), (V), and 
+19
+(VI) of subparagraph (A)(ii). 
+20
+‘‘(iii) TIME OF NOTICE.—Such person 
+21
+shall provide such notice to a consumer not 
+22
+later than 5 business days after the date 
+23
+on which the person furnished negative in-
+24
+formation relating to such consumer. 
+25
+22:32 Jul 22, 2021
+H4113
+45 
+•HR 4113 IH
+‘‘(C) NOTICE
+EFFECTIVE
+FOR
+SUBSE-
+1
+QUENT SUBMISSIONS.—After providing the no-
+2
+tice described in subparagraph (B), the person 
+3
+may submit additional negative information to 
+4
+a consumer reporting agency described in sub-
+5
+section (p) or (x) of section 603 without pro-
+6
+viding additional notice to the consumer, unless 
+7
+another person acquires the right to repayment 
+8
+connected to the additional negative informa-
+9
+tion. The acquiring person shall be subject to 
+10
+the requirements of this paragraph and shall be 
+11
+required to send consumers the written notices 
+12
+described in this paragraph, if applicable. 
+13
+‘‘(D) 
+NON-TRADITIONAL
+DATA
+FUR-
+14
+NISHERS.—Any person that furnishes negative 
+15
+information to a consumer reporting agency de-
+16
+scribed in subsection (p) or (x) of section 603 
+17
+relating to any accounts of, or transactions as-
+18
+sociated with, a consumer by such person in-
+19
+volving non-traditional data shall be subject to 
+20
+the requirements described in subparagraphs 
+21
+(A), (B), and (C). 
+22
+‘‘(E) MODEL NOTICES.— 
+23
+‘‘(i) DUTY
+OF
+BUREAU.—Not later 
+24
+than 6 months after date of the enactment 
+25
+22:32 Jul 22, 2021
+H4113
+46 
+•HR 4113 IH
+of this paragraph, the Bureau shall issue 
+1
+model forms for the notices described in 
+2
+subparagraphs (A) and (B) that a person 
+3
+may use to comply with the requirements 
+4
+of this paragraph. 
+5
+‘‘(ii) USE OF MODEL NOTICE NOT RE-
+6
+QUIRED.—No provision of this paragraph 
+7
+may be construed to require a person to 
+8
+use the model notices prescribed by the 
+9
+Bureau. 
+10
+‘‘(iii) COMPLIANCE USING MODEL NO-
+11
+TICES.—A person shall be deemed to be in 
+12
+compliance with the requirements of sub-
+13
+paragraph (A)(ii) or (B)(ii) (as applicable) 
+14
+if the person uses the model notice pre-
+15
+scribed by the Bureau. 
+16
+‘‘(F) ISSUANCE
+OF
+GENERAL
+NEGATIVE 
+17
+WARNING NOTICE WITHOUT SUBMITTING NEGA-
+18
+TIVE INFORMATION.—No provision of this para-
+19
+graph may be construed to require a person de-
+20
+scribed in subparagraph (A) or (D) to furnish 
+21
+negative information about a consumer to a 
+22
+consumer reporting agency described in sub-
+23
+section (p) or (x) of section 603. 
+24
+22:32 Jul 22, 2021
+H4113
+47 
+•HR 4113 IH
+‘‘(G) SAFE HARBOR.—A person shall not 
+1
+be liable for failure to perform the duties re-
+2
+quired by this paragraph if the person reason-
+3
+ably believes that the person is prohibited, by 
+4
+law, from contacting the consumer. 
+5
+‘‘(H) EFFECTIVE
+DATE.—The require-
+6
+ments of subparagraphs (A), (B), (C), and (D) 
+7
+shall not take effect until the date that is 6 
+8
+months after the date of the issuance of model 
+9
+forms for notices under subparagraph (E). 
+10
+‘‘(I) DEFINITIONS.—In this paragraph, the 
+11
+following definitions shall apply: 
+12
+‘‘(i) NEGATIVE
+INFORMATION.—The 
+13
+term ‘negative information’ means infor-
+14
+mation concerning a consumer’s delin-
+15
+quencies, late payments, insolvency, or any 
+16
+form of default. 
+17
+‘‘(ii) NON-TRADITIONAL
+DATA.—The 
+18
+term ‘non-traditional data’ relates to tele-
+19
+communications payments, utility pay-
+20
+ments, rent payments, remittances, wire 
+21
+transfers, and such other items as deter-
+22
+mined by the Bureau.’’. 
+23
+(c) DUTIES OF FURNISHERS AFTER RECEIVING NO-
+24
+TICE
+OF
+DISPUTE
+FROM
+A
+CONSUMER.—Section 
+25
+22:32 Jul 22, 2021
+H4113
+48 
+•HR 4113 IH
+623(a)(8)(E) of the Fair Credit Reporting Act (15 U.S.C. 
+1
+1681s–2(a)(8)(E)) is amended to read as follows: 
+2
+‘‘(E) DUTIES OF FURNISHERS AFTER RE-
+3
+CEIVING
+NOTICE
+OF
+DISPUTE
+FROM
+A
+CON-
+4
+SUMER.—After receiving a notice of dispute 
+5
+from a consumer pursuant to subparagraph 
+6
+(D), the person that provided the information 
+7
+in dispute to a consumer reporting agency 
+8
+shall— 
+9
+‘‘(i) promptly provide to each con-
+10
+sumer reporting agency to which the per-
+11
+son furnished the disputed information the 
+12
+notice of dispute; 
+13
+‘‘(ii) review all information, including 
+14
+any substantiating documents, provided by 
+15
+the consumer about the disputed informa-
+16
+tion and conduct an investigation, separate 
+17
+from any reinvestigation by a consumer re-
+18
+porting agency or a reseller conducted with 
+19
+respect to the disputed information; 
+20
+‘‘(iii) before the expiration of the pe-
+21
+riod under section 611(a)(1) within which 
+22
+a consumer reporting agency would be re-
+23
+quired to complete its action if the con-
+24
+sumer had elected to dispute the informa-
+25
+22:32 Jul 22, 2021
+H4113
+49 
+•HR 4113 IH
+tion under that section, complete an inves-
+1
+tigation of the disputed information pursu-
+2
+ant to the standards described in subpara-
+3
+graph (G); 
+4
+‘‘(iv) notify the consumer, in writing, 
+5
+of the receipt of the dispute that in-
+6
+cludes— 
+7
+‘‘(I) a statement about any infor-
+8
+mation additional to the information 
+9
+that the person is required to main-
+10
+tain under subsection (f) that would 
+11
+support the person’s ability to carry 
+12
+out an investigation to resolve the 
+13
+consumer’s dispute; and 
+14
+‘‘(II) a statement that the con-
+15
+sumer reporting agency to which the 
+16
+disputed information was provided will 
+17
+include a notation described in section 
+18
+605(e) in the consumer’s file until the 
+19
+investigation has been completed, and 
+20
+information about how a consumer 
+21
+may request that such notation is re-
+22
+moved by the agency; 
+23
+‘‘(v) if the investigation determines 
+24
+the disputed information is inaccurate, in-
+25
+22:32 Jul 22, 2021
+H4113
+50 
+•HR 4113 IH
+complete, or unverifiable, promptly notify 
+1
+each consumer reporting agency to which 
+2
+the person furnished such information in 
+3
+accordance with paragraph (2); and 
+4
+‘‘(vi) notify the consumer of the re-
+5
+sults of the investigation, in writing, in ac-
+6
+cordance with subparagraph (H).’’. 
+7
+(d) ELIMINATING FURNISHERS’ AUTHORITY TO DIS-
+8
+MISS DISPUTES AS FRIVOLOUS OR IRRELEVANT.—Section 
+9
+623(a)(8) of such Act (15 U.S.C. 1681s–2(a)(8)) is 
+10
+amended by striking subparagraph (F) and redesignating 
+11
+subparagraph (G) as subparagraph (F). 
+12
+(e) ADDITIONAL DUTIES.—Section 623(a)(8) of such 
+13
+Act (15 U.S.C. 1681s–2(a)(8)) is further amended by add-
+14
+ing at the end the following new subparagraphs: 
+15
+‘‘(G) REASONABLE STANDARDS FOR FUR-
+16
+NISHERS
+FOR
+CONDUCTING
+INVESTIGATIONS 
+17
+AND RESOLVING DISPUTES SUBMITTED BY CON-
+18
+SUMERS.—In any investigation conducted by a 
+19
+person who furnishes information to a con-
+20
+sumer reporting agency of an item of informa-
+21
+tion being disputed by a consumer, the person, 
+22
+at a minimum— 
+23
+‘‘(i) shall maintain sufficient resources 
+24
+and trained staff, commensurate with the 
+25
+22:32 Jul 22, 2021
+H4113
+51 
+•HR 4113 IH
+volume and complexity of disputes received 
+1
+or reasonably anticipated to be received, to 
+2
+conduct investigations; 
+3
+‘‘(ii) shall verify that the person has a 
+4
+record of the particular information being 
+5
+disputed, consistent with the requirements 
+6
+of subsection (f); 
+7
+‘‘(iii) shall verify that the personally 
+8
+identifiable information of the consumer 
+9
+submitting the dispute matches the person-
+10
+ally identifiable information contained on 
+11
+such records; 
+12
+‘‘(iv) shall conduct a reasonable re-
+13
+view to determine whether the disputed in-
+14
+formation is accurate, complete, and can 
+15
+be verified that considers all the informa-
+16
+tion, including any substantiating docu-
+17
+ments, provided by the consumer about the 
+18
+disputed information; 
+19
+‘‘(v) shall ensure that the investiga-
+20
+tion is an independent analysis that is sep-
+21
+arate from any reinvestigation by a con-
+22
+sumer reporting agency or a reseller con-
+23
+ducted with respect to the disputed infor-
+24
+mation; and 
+25
+22:32 Jul 22, 2021
+H4113
+52 
+•HR 4113 IH
+‘‘(vi) may not impose any limitations 
+1
+or otherwise impede the ability of a con-
+2
+sumer to submit information, including 
+3
+any substantiating documents, about the 
+4
+disputed information. 
+5
+‘‘(H) CONTENTS OF THE NOTICE TO THE 
+6
+CONSUMER ABOUT THE RESULTS OF THE IN-
+7
+VESTIGATION BY THE FURNISHER.—The notice 
+8
+of the results of the investigation described in 
+9
+subparagraph (E) shall include— 
+10
+‘‘(i) a statement informing the con-
+11
+sumer as to whether the disputed informa-
+12
+tion was determined to be inaccurate, in-
+13
+complete, or unverifiable; 
+14
+‘‘(ii) a statement of the specific rea-
+15
+sons supporting the results of the inves-
+16
+tigation; 
+17
+‘‘(iii) a description of the procedure 
+18
+used by the dispute resolution staff of the 
+19
+person who furnishes information to a con-
+20
+sumer reporting agency to determine the 
+21
+accuracy or completeness of the informa-
+22
+tion, including the business name, mailing 
+23
+address, telephone number, and Internet 
+24
+website address (if available) of any person 
+25
+22:32 Jul 22, 2021
+H4113
+53 
+•HR 4113 IH
+who was contacted by the staff in connec-
+1
+tion with the determination; 
+2
+‘‘(iv) a copy of all information relating 
+3
+to the consumer that was used in carrying 
+4
+out the investigation and was the basis for 
+5
+any determination about the accuracy or 
+6
+completeness of the disputed information; 
+7
+‘‘(v) a statement that consumer will 
+8
+receive, free of charge, a copy of their con-
+9
+sumer report and credit score or edu-
+10
+cational credit score (if applicable), from 
+11
+any consumer reporting agency to which 
+12
+the disputed information had been pro-
+13
+vided, regardless of whether the consumer 
+14
+obtained or will obtain a free consumer re-
+15
+port and credit score or educational credit 
+16
+score (if applicable) in the 12-month period 
+17
+preceding receipt of the notice described in 
+18
+this subparagraph pursuant to section 
+19
+612(a)(1); 
+20
+‘‘(vi) if the disputed information was 
+21
+found to be inaccurate, incomplete, or un-
+22
+verifiable, a statement that the consumer 
+23
+report of the consumer shall be revised to 
+24
+22:32 Jul 22, 2021
+H4113
+54 
+•HR 4113 IH
+reflect the change to the consumer’s file as 
+1
+a result of the investigation; 
+2
+‘‘(vii) a statement that the consumer 
+3
+has the right to appeal the results of the 
+4
+investigation under paragraph (10), free of 
+5
+charge, within 120 days after the date of 
+6
+the notice of the results of the investiga-
+7
+tion was provided to the consumer and the 
+8
+process for submitting an appeal; 
+9
+‘‘(viii) a statement that the consumer 
+10
+may add a narrative statement, free of 
+11
+charge, to the consumer’s file held by the 
+12
+consumer reporting agency to which the in-
+13
+formation has been furnished disputing the 
+14
+accuracy or completeness of the informa-
+15
+tion, regardless of the results of the inves-
+16
+tigation by the person, and the process for 
+17
+contacting any agency that received the 
+18
+consumer’s information from the person to 
+19
+submit a narrative statement; 
+20
+‘‘(ix) a statement informing the con-
+21
+sumer that a notation described in section 
+22
+605(e) will be added to the consumer’s file 
+23
+during the period in which the consumer 
+24
+appeals the results of an investigation and 
+25
+22:32 Jul 22, 2021
+H4113
+55 
+•HR 4113 IH
+that such notation can be removed at the 
+1
+request of the consumer; and 
+2
+‘‘(x) a statement that the consumer 
+3
+has the right to request a copy of their 
+4
+consumer report and credit score or edu-
+5
+cational credit score (if applicable), free of 
+6
+charge, within the 12-month period fol-
+7
+lowing the date of the conclusion of the in-
+8
+vestigation from any consumer reporting 
+9
+agency in which the disputed information 
+10
+had been provided, regardless of whether 
+11
+the consumer obtained or will obtain a free 
+12
+annual consumer report and credit score or 
+13
+educational credit score (if applicable) 
+14
+under 
+this 
+subparagraph 
+or 
+section 
+15
+612(a)(1).’’. 
+16
+(f) 
+CONFORMING
+AMENDMENT.—Section 
+17
+615(a)(4)(B) is amended— 
+18
+(1) by striking ‘‘, under section 611, with a 
+19
+consumer reporting agency’’; and 
+20
+(2) by striking ‘‘furnished by the agency’’ and 
+21
+inserting ‘‘to a consumer reporting agency under 
+22
+section 611 or to a person who furnished informa-
+23
+tion to an agency under section 623’’. 
+24
+22:32 Jul 22, 2021
+H4113
+56 
+•HR 4113 IH
+SEC. 105. RIGHT TO APPEAL DISPUTES RELATING TO RE-
+1
+INVESTIGATIONS AND INVESTIGATIONS. 
+2
+(a) APPEALS OF REINVESTIGATIONS CONDUCTED BY 
+3
+A CONSUMER REPORTING AGENCY.—Section 611 of the 
+4
+Fair Credit Reporting Act (15 U.S.C. 1681i) is amend-
+5
+ed— 
+6
+(1) in subsection (b), by inserting ‘‘or if the 
+7
+consumer is unsatisfied with the results of an appeal 
+8
+conducted under subsection (h),’’ after ‘‘resolve the 
+9
+dispute,’’; and 
+10
+(2) by inserting after subsection (h) (as added 
+11
+by section 102) the following new subsection: 
+12
+‘‘(i) CONSUMER RIGHT TO APPEAL RESULTS OF A 
+13
+CONSUMER REPORTING AGENCY REINVESTIGATION.— 
+14
+‘‘(1) IN GENERAL.—Within 120 days after the 
+15
+date of receipt of the results of a reinvestigation 
+16
+conducted under subsection (a), a consumer (or au-
+17
+thorized third party) may, free of charge, appeal the 
+18
+results of such reinvestigation by submitting a notice 
+19
+of appeal to the consumer reporting agency. 
+20
+‘‘(2) NOTICE OF APPEAL.— 
+21
+‘‘(A) REQUIREMENTS.—A notice of appeal 
+22
+described in paragraph (1) may be submitted in 
+23
+writing, or through a toll-free telephone number 
+24
+or other electronic means established by the 
+25
+consumer reporting agency (including on the 
+26
+22:32 Jul 22, 2021
+H4113
+57 
+•HR 4113 IH
+Internet website described in subsection (g)), 
+1
+and— 
+2
+‘‘(i) shall identify the information con-
+3
+tained in the consumer’s file that is the 
+4
+subject of the appeal; 
+5
+‘‘(ii) shall describe the specific reasons 
+6
+for submitting the notice of appeal; and 
+7
+‘‘(iii) may provide any information the 
+8
+consumer believes is relevant to substan-
+9
+tiate the validity of the dispute. 
+10
+‘‘(B) CONSUMER REPORTING AGENCY NO-
+11
+TICE TO CONSUMER.—Upon receipt of such no-
+12
+tice of appeal, the consumer reporting agency 
+13
+shall promptly provide to the consumer a state-
+14
+ment confirming the receipt of the consumer’s 
+15
+notice of appeal that shall include— 
+16
+‘‘(i) an approximate date on which the 
+17
+consumer’s appeal review will be com-
+18
+pleted; 
+19
+‘‘(ii) the process and procedures by 
+20
+which such review will be conducted; and 
+21
+‘‘(iii) an employee reference number 
+22
+or other employee identifier for each of the 
+23
+specific individuals designated by the con-
+24
+sumer reporting agency who, upon the re-
+25
+22:32 Jul 22, 2021
+H4113
+58 
+•HR 4113 IH
+quest of the consumer, may discuss the 
+1
+substance and status of the appeal. 
+2
+‘‘(3) CONSUMER REPORTING AGENCY REQUIRE-
+3
+MENTS UPON RECEIPT OF NOTICE OF APPEAL.— 
+4
+‘‘(A) IN
+GENERAL.—Not later than 20 
+5
+days after receiving a notice of appeal, the con-
+6
+sumer reporting agency shall review the appeal. 
+7
+If the consumer reporting agency determines 
+8
+the information is inaccurate, incomplete, or 
+9
+cannot be verified, the consumer reporting 
+10
+agency shall delete or modify the item of infor-
+11
+mation being disputed by the consumer from 
+12
+the file of the consumer before the end of the 
+13
+20-day period beginning on the date on which 
+14
+the consumer reporting agency receives a notice 
+15
+of an appeal from the consumer. 
+16
+‘‘(B) NOTICE OF APPEAL TO FURNISHER; 
+17
+INFORMATION REGARDING DISPUTE PROVIDED 
+18
+BY THE CONSUMER.— 
+19
+‘‘(i) IN GENERAL.—Before the end of 
+20
+the period of 3 business days beginning on 
+21
+the date on which a consumer reporting 
+22
+agency receives a notice of appeal, the con-
+23
+sumer reporting agency shall provide no-
+24
+tice of the appeal, including all information 
+25
+22:32 Jul 22, 2021
+H4113
+59 
+•HR 4113 IH
+relating to the specific appeal that the con-
+1
+sumer reporting agency has received from 
+2
+the consumer, to any person who provided 
+3
+any information in dispute. 
+4
+‘‘(ii) PROVISION OF ADDITIONAL IN-
+5
+FORMATION REGARDING THE DISPUTE.—If 
+6
+the consumer reporting agency receives ad-
+7
+ditional information from the consumer 
+8
+after the agency provides the notice re-
+9
+quired under clause (i) and before the end 
+10
+of the 20-day period described in subpara-
+11
+graph (A), the consumer reporting agency 
+12
+shall, not later than 3 business days after 
+13
+receiving such information, provide such 
+14
+information to any person who provided 
+15
+the information in dispute and shall have 
+16
+an additional 10 business days to complete 
+17
+the appeal review. 
+18
+‘‘(C) MINIMUM STANDARDS FOR APPEALS 
+19
+EMPLOYEES.— 
+20
+‘‘(i) DESIGNATION.—Upon receipt of 
+21
+a notice of appeal under paragraph (1), a 
+22
+consumer reporting agency shall designate 
+23
+one or more specific employees who— 
+24
+22:32 Jul 22, 2021
+H4113
+60 
+•HR 4113 IH
+‘‘(I) shall be assigned an em-
+1
+ployee reference number or other em-
+2
+ployee identifier that can be used by 
+3
+the consumer to discuss the appeal 
+4
+with the specific individuals handling 
+5
+the appeal; 
+6
+‘‘(II) shall have direct authority 
+7
+to resolve the dispute that is the sub-
+8
+ject of the notice of appeal from the 
+9
+review stage to its completion; 
+10
+‘‘(III) shall meet minimum train-
+11
+ing and ongoing certification require-
+12
+ments at regular intervals, as estab-
+13
+lished by the Bureau; 
+14
+‘‘(IV) shall be located within the 
+15
+United States; 
+16
+‘‘(V) may not have been involved 
+17
+in the reinvestigation conducted or 
+18
+terminated pursuant to subsection (a); 
+19
+and 
+20
+‘‘(VI) may not be subject to any 
+21
+requirements linking incentives, in-
+22
+cluding promotion, to the number of 
+23
+appeals processed within a certain 
+24
+time period. 
+25
+22:32 Jul 22, 2021
+H4113
+61 
+•HR 4113 IH
+‘‘(ii) REQUIREMENTS.—Such employ-
+1
+ees shall conduct a robust review of the ap-
+2
+peal and make a determination regarding 
+3
+the accuracy and completeness of the dis-
+4
+puted information by— 
+5
+‘‘(I) conducting an independent 
+6
+analysis, separate from any investiga-
+7
+tion by a reseller or person who pro-
+8
+vided the disputed information, and 
+9
+separate from any prior reinvestiga-
+10
+tion conducted by the consumer re-
+11
+porting agency of the disputed infor-
+12
+mation; 
+13
+‘‘(II) verifying that the personally 
+14
+identifiable information of the con-
+15
+sumer submitting the dispute matches 
+16
+the personally identifiable information 
+17
+contained on the consumer’s file; 
+18
+‘‘(III) analyzing the notice of ap-
+19
+peal and all information, including 
+20
+any substantiating documents, pro-
+21
+vided by the consumer with the notice 
+22
+of appeal; 
+23
+‘‘(IV) evaluating the validity of 
+24
+any information submitted by any 
+25
+22:32 Jul 22, 2021
+H4113
+62 
+•HR 4113 IH
+person that was used by the consumer 
+1
+reporting agency in the reinvestigation 
+2
+of the initial dispute; 
+3
+‘‘(V) verifying that the consumer 
+4
+reporting agency has a record of the 
+5
+information being disputed; and 
+6
+‘‘(VI) applying any additional 
+7
+factors or investigative processes, as 
+8
+specified by the Bureau. 
+9
+‘‘(D) NOTICE OF APPEAL RESULTS.—Not 
+10
+later than 5 days after the end of the 20-day 
+11
+period described under subparagraph (A) (or 
+12
+the 10-day extension period, as applicable) the 
+13
+consumer reporting agency shall provide the 
+14
+consumer with written notice of the results of 
+15
+the appeal by postal mail or, if requested by the 
+16
+consumer, by other means. The contents of 
+17
+such notice shall include— 
+18
+‘‘(i) a statement that the appeal is 
+19
+completed and the date on which it was 
+20
+completed, the results of the appeal, and 
+21
+the specific reasons supporting the results 
+22
+of the appeal; 
+23
+22:32 Jul 22, 2021
+H4113
+63 
+•HR 4113 IH
+‘‘(ii) a copy of all information relating 
+1
+to the consumer that was used as a basis 
+2
+for deciding the results of the appeal; 
+3
+‘‘(iii) a consumer report that is based 
+4
+upon the consumer’s file as that file may 
+5
+have been revised as a result of the appeal; 
+6
+‘‘(iv) a description of the procedure 
+7
+used to determine the accuracy and com-
+8
+pleteness of the information, including the 
+9
+business name, telephone number, mailing 
+10
+address, and Internet website address (if 
+11
+applicable) of any person who provided in-
+12
+formation that was contacted in connection 
+13
+with such information, if reasonably avail-
+14
+able; 
+15
+‘‘(v) information describing that the 
+16
+consumer may submit a statement, without 
+17
+charge, disputing the accuracy or com-
+18
+pleteness of information in the consumer’s 
+19
+file that was the subject of an appeal 
+20
+under this subsection by submitting a 
+21
+statement directly to each consumer re-
+22
+porting agency that received the informa-
+23
+tion; 
+24
+22:32 Jul 22, 2021
+H4113
+64 
+•HR 4113 IH
+‘‘(vi) a description of the consumer’s 
+1
+rights pursuant to subsection (d) (relating 
+2
+to furnishing notifications to certain users 
+3
+of consumer reports); and 
+4
+‘‘(vii) any other information, as deter-
+5
+mined by the Bureau. 
+6
+‘‘(E) NO EXCUSE FOR FAILURE TO CON-
+7
+DUCT APPEAL.—A consumer reporting agency 
+8
+may not refuse to conduct a review of an appeal 
+9
+under this subsection because the agency deter-
+10
+mines that the notice of appeal was submitted 
+11
+by an authorized third party, unless the agency 
+12
+has clear and convincing evidence that the third 
+13
+party is not authorized to submit the notice of 
+14
+appeal on the consumer’s behalf. If the con-
+15
+sumer reporting agency refuses to conduct a re-
+16
+view of the appeal for these reasons, it shall 
+17
+provide a clear and conspicuous written notice 
+18
+to the consumer explaining the reasons for the 
+19
+refusal and describing any information the con-
+20
+sumer is required to provide for the agency to 
+21
+conduct a review of the appeal.’’. 
+22
+(b) APPEALS OF INVESTIGATIONS CONDUCTED BY 
+23
+FURNISHERS OF INFORMATION.—Section 623(a) of the 
+24
+Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)) is 
+25
+22:32 Jul 22, 2021
+H4113
+65 
+•HR 4113 IH
+amended by adding at the end the following new para-
+1
+graph: 
+2
+‘‘(10) DUTY OF FURNISHERS OF INFORMATION 
+3
+UPON NOTICE OF APPEAL OF INVESTIGATION.— 
+4
+‘‘(A) IN GENERAL.—Within 120 days of 
+5
+the date of receipt of the results of an inves-
+6
+tigation conducted under paragraph (8)(E), a 
+7
+consumer may, free of charge, appeal such re-
+8
+sults by submitting a notice of appeal to the 
+9
+person who provided the information in the dis-
+10
+pute to a consumer reporting agency (hereafter 
+11
+in this paragraph referred to as the ‘furnisher’). 
+12
+‘‘(B) NOTICE OF APPEAL.—A notice of ap-
+13
+peal described in subparagraph (A) may be sub-
+14
+mitted in writing, through a toll-free telephone 
+15
+number, or by other electronic means estab-
+16
+lished by the furnisher, and— 
+17
+‘‘(i) shall identify the information con-
+18
+tained in the consumer’s file that is the 
+19
+subject of the appeal; 
+20
+‘‘(ii) shall describe the specific reasons 
+21
+for submitting the notice of appeal; and 
+22
+‘‘(iii) may include any information, in-
+23
+cluding substantiating documents, the con-
+24
+sumer believes is relevant to the appeal. 
+25
+22:32 Jul 22, 2021
+H4113
+66 
+•HR 4113 IH
+‘‘(C) FURNISHER ACTIONS.—Upon receipt 
+1
+of such notice of appeal, the furnisher shall— 
+2
+‘‘(i) before the end of the period of 3 
+3
+business days beginning on the date on 
+4
+which the furnisher receives the notice of 
+5
+appeal, notify each consumer reporting 
+6
+agency to which the person furnished such 
+7
+information a statement identifying the 
+8
+items of information that a consumer is 
+9
+appealing; and 
+10
+‘‘(ii) notify the consumer confirming 
+11
+the receipt of the consumer’s notice of ap-
+12
+peal, including an approximate date when 
+13
+the consumer’s appeal will be completed, 
+14
+the process and procedures by which a re-
+15
+view of the appeal will be conducted, and 
+16
+the specific individual designated by the 
+17
+consumer reporting agency who, upon the 
+18
+request of the consumer, may discuss the 
+19
+substance and status of the appeal. 
+20
+‘‘(D) FURNISHER
+REQUIREMENTS
+UPON 
+21
+RECEIPT
+OF
+NOTICE
+OF
+APPEAL.—Not later 
+22
+than 20 days after receiving a notice of appeal, 
+23
+the furnisher shall determine whether the item 
+24
+of information being disputed by the consumer 
+25
+22:32 Jul 22, 2021
+H4113
+67 
+•HR 4113 IH
+is inaccurate, incomplete, or cannot be verified, 
+1
+and shall notify the consumer reporting agency 
+2
+of the determination. If the furnisher cannot 
+3
+verify the accuracy or completeness of the dis-
+4
+puted information, the furnisher shall, before 
+5
+the end of the 20-day period beginning on the 
+6
+date on which the furnisher receives notice of 
+7
+an appeal from the consumer, submit instruc-
+8
+tions to the consumer reporting agency that the 
+9
+item of information being disputed by the con-
+10
+sumer should be deleted from the file of the 
+11
+consumer. 
+12
+‘‘(E) MINIMUM STANDARDS FOR APPEALS 
+13
+EMPLOYEES.—Upon receipt of a notice of ap-
+14
+peal under subparagraph (A), a furnisher shall 
+15
+designate one or more specific employees who— 
+16
+‘‘(i) shall be assigned an employee ref-
+17
+erence number or other employee identifier 
+18
+that can be used by the consumer to dis-
+19
+cuss the appeal with the specific individ-
+20
+uals handling the appeal; 
+21
+‘‘(ii) shall have direct authority to re-
+22
+solve the dispute that is the subject of the 
+23
+notice of appeal on behalf of the furnisher 
+24
+from the review stage to its completion; 
+25
+22:32 Jul 22, 2021
+H4113
+68 
+•HR 4113 IH
+‘‘(iii) shall meet minimum training 
+1
+and ongoing certification requirements at 
+2
+regular intervals, as established by the Bu-
+3
+reau; 
+4
+‘‘(iv) may not have been involved in 
+5
+an investigation conducted pursuant to 
+6
+paragraph (8); and 
+7
+‘‘(v) may not be subject to any re-
+8
+quirements linking incentives, including 
+9
+promotion, to the number of appeals proc-
+10
+essed within a certain time period. 
+11
+‘‘(F) REQUIREMENTS FOR APPEALS PROC-
+12
+ESS.—Such employees shall conduct a robust 
+13
+review of the appeal and make a determination 
+14
+regarding the accuracy and completeness of the 
+15
+disputed information by— 
+16
+‘‘(i) conducting an independent anal-
+17
+ysis, separate from any reinvestigation by 
+18
+a reseller or consumer reporting agency, of 
+19
+the disputed information; 
+20
+‘‘(ii) verifying that the personally 
+21
+identifiable information related to the dis-
+22
+pute is accurate and complete; 
+23
+‘‘(iii) analyzing the notice of appeal 
+24
+and all information, including substan-
+25
+22:32 Jul 22, 2021
+H4113
+69 
+•HR 4113 IH
+tiating documents, provided by the con-
+1
+sumer with the notice of appeal; 
+2
+‘‘(iv) evaluating the validity of any in-
+3
+formation submitted by any person that 
+4
+was used by the furnisher in the initial in-
+5
+vestigation into the dispute; 
+6
+‘‘(v) verifying that the information 
+7
+being disputed relates to the consumer in 
+8
+whose file the information is located; 
+9
+‘‘(vi) verifying that the furnisher has 
+10
+a record of the information being disputed; 
+11
+and 
+12
+‘‘(vii) applying any additional factors 
+13
+or investigative processes, as specified by 
+14
+the Bureau. 
+15
+‘‘(G) EXTENSION OF REVIEW PERIOD.—If 
+16
+a consumer submits additional information re-
+17
+lated to the appeal after the period of 3 busi-
+18
+ness days described in subparagraph (C)(i) and 
+19
+before the end of the 20-day period described in 
+20
+subparagraph (D), the furnisher shall have an 
+21
+additional 10 business days to complete the re-
+22
+view of the appeal. 
+23
+‘‘(H) NOTICE OF APPEAL RESULTS.—Not 
+24
+later than 5 days after the end of the 20-day 
+25
+22:32 Jul 22, 2021
+H4113
+70 
+•HR 4113 IH
+period described in subparagraph (D) (or the 
+1
+10 business day extension described under sub-
+2
+paragraph (G), as applicable) the furnisher 
+3
+shall provide the consumer with written notice 
+4
+of the results of the appeal by mail or, if re-
+5
+quested by the consumer, by other means. The 
+6
+contents of such notice shall include— 
+7
+‘‘(i) a statement that the appeal is 
+8
+completed and the date on which it was 
+9
+completed, the results of the appeal, and 
+10
+the specific reasons supporting the results 
+11
+of the appeal; 
+12
+‘‘(ii) a copy of all information relating 
+13
+to the consumer that was used as a basis 
+14
+for deciding the results of the appeal; 
+15
+‘‘(iii) if the appeal results in any 
+16
+change to the consumer report, a notifica-
+17
+tion that the consumer shall receive a copy, 
+18
+free of charge, of a revised consumer re-
+19
+port (based upon the consumer’s file as 
+20
+that file was changed as a result of the ap-
+21
+peal) and a credit score or educational 
+22
+credit score (if applicable) from each con-
+23
+sumer reporting agency that had been fur-
+24
+nished incorrect information; 
+25
+22:32 Jul 22, 2021
+H4113
+71 
+•HR 4113 IH
+‘‘(iv) a description of the procedure 
+1
+used to determine the accuracy and com-
+2
+pleteness of the information, including the 
+3
+business name, telephone number, mailing 
+4
+address, and Internet website address (if 
+5
+applicable), of any person who provided in-
+6
+formation that was contacted in connection 
+7
+with such information, if reasonably avail-
+8
+able; 
+9
+‘‘(v) information describing that the 
+10
+consumer may submit a statement, without 
+11
+charge, disputing the accuracy or com-
+12
+pleteness of information in the consumer’s 
+13
+file that was the subject of an appeal 
+14
+under this paragraph by submitting a 
+15
+statement directly to each consumer re-
+16
+porting agency that received the informa-
+17
+tion; and 
+18
+‘‘(vi) a notification that the consumer 
+19
+may request the furnisher to submit to 
+20
+each consumer reporting agency the con-
+21
+sumer’s request to furnish notifications 
+22
+pursuant to section 611(d) (relating to fur-
+23
+nishing notifications to certain users of 
+24
+consumer reports).’’. 
+25
+22:32 Jul 22, 2021
+H4113
+72 
+•HR 4113 IH
+(c) TECHNICAL AMENDMENT.—Section 623(a)(8)(A) 
+1
+of the Fair Credit Reporting Act (15 U.S.C. 1681s– 
+2
+2(a)(8)(A)) is amended by striking ‘‘reinvestigate’’ and in-
+3
+serting ‘‘investigate’’. 
+4
+(d) CONFORMING AMENDMENTS.—Section 609 of the 
+5
+Fair Credit Reporting Act (15 U.S.C. 1681g) is amend-
+6
+ed— 
+7
+(1) in subsection (c)— 
+8
+(A) by striking ‘‘Commission’’ and insert-
+9
+ing ‘‘Bureau’’ each place that term appears; 
+10
+(B) in the subsection heading, by striking 
+11
+‘‘RIGHTS TO OBTAIN AND DISPUTE INFORMA-
+12
+TION IN CONSUMER REPORTS AND TO OBTAIN 
+13
+CREDIT SCORES’’ and inserting ‘‘KEY CON-
+14
+SUMER REPORTING RIGHTS’’; and 
+15
+(C) in paragraph (1)— 
+16
+(i) in the heading, by striking ‘‘COM-
+17
+MISSION’’ and inserting ‘‘BUREAU’’; 
+18
+(ii) in subparagraph (B)— 
+19
+(I) in clause (ii), by striking ‘‘a 
+20
+consumer report without charge under 
+21
+section 612’’ and inserting ‘‘consumer 
+22
+reports and credit scores or edu-
+23
+cational credit scores (as applicable) 
+24
+22:32 Jul 22, 2021
+H4113
+73 
+•HR 4113 IH
+without charge under subsections (f), 
+1
+(g), (i), or (j) or section 612’’; 
+2
+(II) in clause (iii), by inserting 
+3
+‘‘or section 623’’ after ‘‘section 611’’; 
+4
+(III) by striking clauses (iv) and 
+5
+(vi); 
+6
+(IV) by inserting after clause (iii) 
+7
+the following new clause: 
+8
+‘‘(iv) the right of a consumer to ap-
+9
+peal a determination of a reinvestigation 
+10
+conducted by a consumer reporting agency 
+11
+under section 611(h) or an investigation 
+12
+conducted by a furnisher of information 
+13
+under section 623(a)(10);’’; and 
+14
+(V) by adding at the end the fol-
+15
+lowing new clause: 
+16
+‘‘(vi) the method and circumstances 
+17
+under which consumers can obtain a 1- 
+18
+year fraud alert, 7-year fraud alert, active 
+19
+duty alert, or security freeze as described 
+20
+in section 605A through a consumer re-
+21
+porting agency described under section 
+22
+603(p).’’; 
+23
+22:32 Jul 22, 2021
+H4113
+74 
+•HR 4113 IH
+(iii) in subparagraph (C) (as amended 
+1
+by subparagraph (A)) by inserting ‘‘and 
+2
+the Commission’’ after ‘‘Bureau’’; and 
+3
+(iv) by adding at the end the following 
+4
+new subparagraph: 
+5
+‘‘(D) 
+PUBLICATION
+OF
+SUMMARY 
+6
+RIGHTS.—A consumer reporting agency de-
+7
+scribed under subsection (p) or (x) of section 
+8
+603 shall display in a clear and conspicuous 
+9
+manner, including on the Internet website of 
+10
+the consumer reporting agency, the summary of 
+11
+rights prepared by the Bureau under this para-
+12
+graph.’’; and 
+13
+(2) in subsection (d), by inserting ‘‘Bureau and 
+14
+the’’ before ‘‘Commission’’. 
+15
+SEC. 106. REVISED CONSUMER REPORTS. 
+16
+Section 611 of the Fair Credit Reporting Act (15 
+17
+U.S.C. 1681i), as amended by section 105(a)(2), is further 
+18
+amended by adding at the end the following new sub-
+19
+section: 
+20
+‘‘(j) REQUIREMENT TO SEND REVISED CONSUMER 
+21
+REPORT TO CONSUMER.—Upon receiving a notice de-
+22
+scribed in section 623(a)(8)(E)(iv), each consumer report-
+23
+ing agency shall send to the consumer a revised consumer 
+24
+report and credit score or education credit score (if appli-
+25
+22:32 Jul 22, 2021
+H4113
+75 
+•HR 4113 IH
+cable) based upon the consumer’s file as that file was 
+1
+changed as a result of the investigation.’’. 
+2
+SEC. 107. INDICATION OF DISPUTE BY CONSUMERS AND 
+3
+USE OF DISPUTED INFORMATION. 
+4
+Section 605(f) of the Fair Credit Reporting Act (15 
+5
+U.S.C. 1681c(f)) is amended to read as follows: 
+6
+‘‘(f) INDICATION OF DISPUTE.— 
+7
+‘‘(1) IN
+GENERAL.—A consumer reporting 
+8
+agency shall include in any consumer report based 
+9
+on the consumer’s file a notation identifying any 
+10
+item of information that is currently in dispute by 
+11
+the consumer if— 
+12
+‘‘(A) a consumer disputes the completeness 
+13
+or accuracy of any item of information con-
+14
+tained in a consumer’s file pursuant to section 
+15
+611(a)(1); 
+16
+‘‘(B) a consumer files with a consumer re-
+17
+porting agency an appeal of a reinvestigation 
+18
+pursuant to section 611(i); or 
+19
+‘‘(C) the consumer reporting agency is no-
+20
+tified by a person that furnished any items of 
+21
+information that are currently in dispute by the 
+22
+consumer that— 
+23
+‘‘(i) a consumer disputes the com-
+24
+pleteness or accuracy of any information 
+25
+22:32 Jul 22, 2021
+H4113
+76 
+•HR 4113 IH
+furnished by a person to any consumer re-
+1
+porting agency pursuant to paragraph (3) 
+2
+or (8) of section 623(a); or 
+3
+‘‘(ii) a consumer submits a notice of 
+4
+appeal under section 623(a)(10). 
+5
+‘‘(2) OPT OUT.—A consumer may submit a re-
+6
+quest to a consumer reporting agency or a person 
+7
+who furnished the information in dispute, as applica-
+8
+ble, to have the notation described in paragraph (1) 
+9
+omitted from the consumer report. Upon receipt of 
+10
+such a request— 
+11
+‘‘(A) by a consumer reporting agency, such 
+12
+agency shall remove the notation within 1 busi-
+13
+ness day; and 
+14
+‘‘(B) by a person who furnished the infor-
+15
+mation in dispute, such person shall submit 
+16
+such request to each consumer reporting agency 
+17
+to which the person furnished such information 
+18
+within 1 business day and such agency shall re-
+19
+move the notation within 1 business day of re-
+20
+ceipt of such request.’’. 
+21
+22:32 Jul 22, 2021
+H4113
+77 
+•HR 4113 IH
+SEC. 108. ACCURACY AND COMPLETENESS REPORT DUTIES 
+1
+FOR CONSUMER REPORTING AGENCIES AND 
+2
+FURNISHERS. 
+3
+Section 607(b) of the Fair Credit Reporting Act (15 
+4
+U.S.C. 1681e) is amended to read as follows: 
+5
+‘‘(b) ACCURACY AND COMPLETENESS OF REPORT.— 
+6
+‘‘(1) IN GENERAL.—In preparing a consumer 
+7
+report, a consumer reporting agency shall maintain 
+8
+reasonable procedures to ensure maximum possible 
+9
+accuracy and completeness of the information con-
+10
+cerning the individual to whom the consumer report 
+11
+relates. 
+12
+‘‘(2) BUREAU RULE TO ASSURE MAXIMUM POS-
+13
+SIBLE ACCURACY AND COMPLETENESS WITH CREDIT 
+14
+REPORTING PRACTICES.— 
+15
+‘‘(A) RULE.—Not later than 18 months 
+16
+after the date of enactment of this subsection, 
+17
+the Bureau shall issue a final rule establishing 
+18
+the procedures described in paragraph (1). 
+19
+‘‘(B) REQUIREMENTS.—In formulating the 
+20
+rule required under subparagraph (A), the Bu-
+21
+reau shall— 
+22
+‘‘(i) develop standards for matching 
+23
+the personally identifiable information in-
+24
+cluded in the consumer’s file with the per-
+25
+sonally identifiable information furnished 
+26
+22:32 Jul 22, 2021
+H4113
+78 
+•HR 4113 IH
+by the person who provided the informa-
+1
+tion to the consumer reporting agency 
+2
+(hereafter in this subsection referred to as 
+3
+the ‘furnisher’), including the full name of 
+4
+a consumer, the date of birth of a con-
+5
+sumer, the full social security number of a 
+6
+consumer, and any other information that 
+7
+the Bureau determines would aid in assur-
+8
+ing maximum possible accuracy and com-
+9
+pleteness of such consumer reports; 
+10
+‘‘(ii) establish processes for a con-
+11
+sumer reporting agency to monitor the in-
+12
+tegrity of the data provided by furnishers 
+13
+and the compliance of furnishers with the 
+14
+requirements of this title; 
+15
+‘‘(iii) establish processes for a con-
+16
+sumer reporting agency to regularly rec-
+17
+oncile data relating to accounts in collec-
+18
+tion, including those that have not been 
+19
+paid in full, by specifying the cir-
+20
+cumstances under which the consumer re-
+21
+porting agency shall remove or suppress 
+22
+negative or adverse information from a 
+23
+consumer’s file that has not been updated 
+24
+by a furnisher who is also a debt collector 
+25
+22:32 Jul 22, 2021
+H4113
+79 
+•HR 4113 IH
+(as defined in section 803 of the Fair Debt 
+1
+Collection Practices Act) within the time 
+2
+period established by the Bureau; 
+3
+‘‘(iv) establish procedures to require 
+4
+each consumer reporting agency to review 
+5
+and monitor the quality of information re-
+6
+ceived from any source, including informa-
+7
+tion from public records, by regularly and 
+8
+on an ongoing basis comparing the infor-
+9
+mation received to the information avail-
+10
+able from the original source and ensuring 
+11
+that the information received is the most 
+12
+current information; 
+13
+‘‘(v) develop standards and procedures 
+14
+for consumer reporting agencies to identify 
+15
+furnishers that repeatedly fail to provide 
+16
+accurate and complete information, to take 
+17
+corrective action against such furnishers, 
+18
+and to reject information submitted by 
+19
+such furnishers; 
+20
+‘‘(vi) develop standards and proce-
+21
+dures for consumer reporting agencies to 
+22
+adopt regarding collection of public record 
+23
+data, including standards and procedures 
+24
+to consider the ultimate data source, how 
+25
+22:32 Jul 22, 2021
+H4113
+80 
+•HR 4113 IH
+the public record information is filed and 
+1
+its availability and accessibility, and wheth-
+2
+er information relating to the satisfaction 
+3
+of judgments or other updates to the pub-
+4
+lic record are available on a reasonably 
+5
+timely basis from a particular source; and 
+6
+‘‘(vii) establish any other factors, pro-
+7
+cedures, or processes determined by the 
+8
+Bureau to be necessary to assist consumer 
+9
+reporting agencies in achieving maximum 
+10
+possible accuracy and completeness of the 
+11
+information in consumer reports. 
+12
+‘‘(3) CORRECTIVE
+ACTION
+FOR
+FURNISHERS 
+13
+THAT
+REPEATEDLY
+FURNISH
+INACCURATE
+OR
+IN-
+14
+COMPLETE INFORMATION.—Upon identifying a fur-
+15
+nisher that repeatedly fails to furnish accurate, com-
+16
+plete, or verifiable information to consumer report-
+17
+ing agencies, the Bureau shall— 
+18
+‘‘(A) ensure the prompt removal of any ad-
+19
+verse information relating to a consumer’s ac-
+20
+counts submitted by such furnisher; and 
+21
+‘‘(B) take corrective action, which may in-
+22
+clude— 
+23
+‘‘(i) mandatory revised training and 
+24
+training materials for the staff of the fur-
+25
+22:32 Jul 22, 2021
+H4113
+81 
+•HR 4113 IH
+nisher regarding the furnishing of accurate 
+1
+and complete information; 
+2
+‘‘(ii) sharing industry best practices 
+3
+and procedures regarding accuracy and 
+4
+completeness; or 
+5
+‘‘(iii) temporarily prohibiting a fur-
+6
+nisher from providing information to a 
+7
+consumer reporting agency.’’. 
+8
+SEC. 109. INCLUSION OF PUBLIC RECORD DATA SOURCES 
+9
+IN CONSUMER REPORTS. 
+10
+Section 605(d) of the Fair Credit Reporting Act (15 
+11
+U.S.C. 1681c(d)) is amended by adding at the end the 
+12
+following: 
+13
+‘‘(3) PUBLIC RECORD DATA SOURCE.—Any con-
+14
+sumer reporting agency that furnishes a consumer 
+15
+report that contains public record data shall also in-
+16
+clude in such report the source from which that data 
+17
+was obtained, including the particular court, if any, 
+18
+and the date that the data was initially reported or 
+19
+publicized.’’. 
+20
+SEC. 110. INJUNCTIVE RELIEF FOR VICTIMS. 
+21
+(a) IN GENERAL.—The Fair Credit Reporting Act 
+22
+(15 U.S.C. 1681 et seq.) is amended— 
+23
+(1) in section 616— 
+24
+22:32 Jul 22, 2021
+H4113
+82 
+•HR 4113 IH
+(A) in subsection (a), by amending the 
+1
+subsection heading to read as follows: ‘‘DAM-
+2
+AGES’’; 
+3
+(B) by redesignating subsections (c) and 
+4
+(d) as subsections (d) and (e), respectively; and 
+5
+(C) by inserting after subsection (b) the 
+6
+following new subsection: 
+7
+‘‘(c) INJUNCTIVE RELIEF.—In addition to any other 
+8
+remedy set forth in this section, a court may award injunc-
+9
+tive relief to require compliance with the requirements im-
+10
+posed under this title with respect to any consumer. In 
+11
+the event of any successful action for injunctive relief 
+12
+under this subsection, the court may award to the pre-
+13
+vailing party costs and reasonable attorney fees (as deter-
+14
+mined by the court) incurred during the action by such 
+15
+party.’’; and 
+16
+(2) in section 617— 
+17
+(A) in subsection (a), by amending the 
+18
+subsection heading to read as follows: ‘‘DAM-
+19
+AGES’’; 
+20
+(B) by redesignating subsection (b) as sub-
+21
+section (c); and 
+22
+(C) by inserting after subsection (a) the 
+23
+following new subsection: 
+24
+22:32 Jul 22, 2021
+H4113
+83 
+•HR 4113 IH
+‘‘(b) INJUNCTIVE RELIEF.—In addition to any other 
+1
+remedy set forth in this section, a court may award injunc-
+2
+tive relief to require compliance with the requirements im-
+3
+posed under this title with respect to any consumer. In 
+4
+the event of any successful action for injunctive relief 
+5
+under this subsection, the court may award to the pre-
+6
+vailing party costs and reasonable attorney fees (as deter-
+7
+mined by the court) incurred during the action by such 
+8
+party.’’. 
+9
+(b) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+10
+SION.—Section 621(a)(2)(A) of the Fair Credit Reporting 
+11
+Act (15 U.S.C. 1681s(a)(2)(A)) is amended— 
+12
+(1) by amending the subparagraph heading to 
+13
+read as follows: ‘‘NEGLIGENT, WILLFUL, OR KNOW-
+14
+ING VIOLATIONS’’; and 
+15
+(2) by inserting ‘‘negligent, willful, or’’ before 
+16
+‘‘knowing’’. 
+17
+22:32 Jul 22, 2021
+H4113
+84 
+•HR 4113 IH
+TITLE II—PROHIBITION ON MIS-
+1
+LEADING AND UNFAIR CON-
+2
+SUMER 
+REPORTING 
+PRAC-
+3
+TICES 
+4
+SEC. 201. PROHIBITION ON AUTOMATIC RENEWALS FOR 
+5
+PROMOTIONAL CONSUMER REPORTING AND 
+6
+CREDIT SCORING PRODUCTS AND SERVICES. 
+7
+The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+8
+seq.) is amended— 
+9
+(1) by adding at the end the following new sec-
+10
+tion: 
+11
+‘‘§ 630. Promotional periods 
+12
+‘‘(a) TERMINATION NOTICE.—With respect to any 
+13
+product or service related to a consumer report or a credit 
+14
+score that is provided to a consumer under promotional 
+15
+terms, the seller or provider of such product or service 
+16
+shall provide clear and conspicuous notice to the consumer 
+17
+within a reasonable period of time before the promotional 
+18
+period ends. 
+19
+‘‘(b) OPT-IN.—With respect to any such product or 
+20
+service, the seller or provider may not continue to sell or 
+21
+provide such product or service to the consumer after the 
+22
+end of the promotional period unless the consumer specifi-
+23
+cally agrees at the end of the promotional period to con-
+24
+tinue receiving the product or service.’’; and 
+25
+22:32 Jul 22, 2021
+H4113
+85 
+•HR 4113 IH
+(2) in the table of contents for such Act, by in-
+1
+serting after the item relating to section 629 the fol-
+2
+lowing new item: 
+3
+‘‘630. Promotional periods.’’. 
+SEC. 202. PROHIBITION ON MISLEADING AND DECEPTIVE 
+4
+MARKETING RELATED TO THE PROVISION OF 
+5
+CONSUMER REPORTING AND CREDIT SCOR-
+6
+ING PRODUCTS AND SERVICES. 
+7
+Section 609 of the Fair Credit Reporting Act (15 
+8
+U.S.C. 1681g) is amended— 
+9
+(1) in subsection (a)— 
+10
+(A) in paragraph (1)— 
+11
+(i) by striking ‘‘request, except’’ and 
+12
+all that follows through ‘‘consumer to 
+13
+whom’’ and inserting ‘‘request, unless the 
+14
+consumer to whom’’; 
+15
+(ii) by striking ‘‘disclosure; and’’ and 
+16
+inserting ‘‘disclosure.’’; and 
+17
+(iii) by striking subparagraph (B); 
+18
+and 
+19
+(B) in paragraph (6), by inserting ‘‘or edu-
+20
+cational credit score (if applicable) under sub-
+21
+section (f) or section 612’’ before the period at 
+22
+the end; and 
+23
+(2) by adding at the end the following new sub-
+24
+section: 
+25
+22:32 Jul 22, 2021
+H4113
+86 
+•HR 4113 IH
+‘‘(h) DISCLOSURES ON PRODUCTS AND SERVICES.— 
+1
+The Bureau, in consultation with the Federal Trade Com-
+2
+mission, shall issue regulations within 18 months of the 
+3
+date of the enactment of this subsection requiring each 
+4
+consumer reporting agency and reseller to clearly and con-
+5
+spicuously disclose all material terms and conditions, in-
+6
+cluding any fee and pricing information associated with 
+7
+any products or services offered, advertised, marketed, or 
+8
+sold to consumers by the agency or reseller. Such disclo-
+9
+sures shall be made in all forms of communication to con-
+10
+sumers and displayed prominently on the agency or re-
+11
+seller’s website and all other locations where products or 
+12
+services are offered, advertised, marketed, or sold to con-
+13
+sumers.’’. 
+14
+SEC. 203. PROHIBITION ON EXCESSIVE DIRECT-TO-CON-
+15
+SUMER SALES. 
+16
+The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+17
+seq.), as amended by section 201, is further amended— 
+18
+(1) by adding at the end the following new sec-
+19
+tion: 
+20
+‘‘§ 631. Fair and reasonable fees for products and 
+21
+services 
+22
+‘‘The Bureau may, with respect to any product or 
+23
+service offered by a consumer reporting agency to a con-
+24
+sumer, set a fair and reasonable maximum fee that may 
+25
+22:32 Jul 22, 2021
+H4113
+87 
+•HR 4113 IH
+be charged for such product or service, except where such 
+1
+maximum fee is otherwise provided under this title.’’; and 
+2
+(2) in the table of contents for such Act, as 
+3
+amended by section 201, by adding at the end the 
+4
+following new item: 
+5
+‘‘631. Fair and reasonable fees for products and services.’’. 
+SEC. 204. FAIR ACCESS TO CONSUMER REPORTING AND 
+6
+CREDIT SCORING DISCLOSURES FOR NON-
+7
+NATIVE ENGLISH SPEAKERS AND THE VIS-
+8
+UALLY AND HEARING IMPAIRED. 
+9
+The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+10
+seq.), as amended by section 203, is further amended— 
+11
+(1) by adding at the end the following new sec-
+12
+tion: 
+13
+‘‘§ 632. Fair access to information for nonnative 
+14
+English speakers and the visually and 
+15
+hearing impaired 
+16
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+17
+the date of the enactment of this section, the Bureau shall 
+18
+issue a rule to require consumer reporting agencies and 
+19
+persons who furnish information to consumer reporting 
+20
+agencies under this title, to the maximum extent reason-
+21
+ably practicable— 
+22
+‘‘(1) to provide any information, disclosures, or 
+23
+other communication with consumers— 
+24
+22:32 Jul 22, 2021
+H4113
+88 
+•HR 4113 IH
+‘‘(A) in each of the 10 most commonly spo-
+1
+ken languages, other than English, in the 
+2
+United States, as determined by the Bureau of 
+3
+the Census on an ongoing basis; and 
+4
+‘‘(B) in formats accessible to individuals 
+5
+with hearing or vision impairments; and 
+6
+‘‘(2) to ensure that— 
+7
+‘‘(A) customer service representatives, in-
+8
+cluding employees assigned to handle disputes 
+9
+or appeals under sections 611 and 623, who are 
+10
+available to assist consumers are highly familiar 
+11
+with the requirements of this title; 
+12
+‘‘(B) such representatives are available 
+13
+during regular business hours and outside of 
+14
+regular business hours, including evenings and 
+15
+weekends; and 
+16
+‘‘(C) at least one among such representa-
+17
+tives is fluent in each of the 10 most commonly 
+18
+spoken languages, other than English, in the 
+19
+United States, as determined by the Bureau of 
+20
+the Census on an ongoing basis. 
+21
+‘‘(b) BUREAU CONSULTATION.—The Bureau shall 
+22
+consult with advocates for civil rights, consumer groups, 
+23
+community groups, and organizations that serve tradition-
+24
+22:32 Jul 22, 2021
+H4113
+89 
+•HR 4113 IH
+ally underserved communities and populations in issuing 
+1
+the rule described in subsection (a).’’; and 
+2
+(2) in the table of contents for such Act, as 
+3
+amended by section 203, by adding at the end the 
+4
+following new item: 
+5
+‘‘632. Fair access to information for nonnative English speakers and the visually 
+and hearing impaired.’’. 
+SEC. 205. COMPARISON SHOPPING FOR LOANS WITHOUT 
+6
+HARM TO CREDIT STANDING. 
+7
+Section 605 of the Fair Credit Reporting Act (15 
+8
+U.S.C. 1681c) is amended by adding at the end the fol-
+9
+lowing new subsection: 
+10
+‘‘(i) ENCOURAGING CONSUMERS TO COMPARISON 
+11
+SHOP FOR LOANS BY TREATING GROUPED ENQUIRIES OF 
+12
+THE SAME TYPE WITHIN A REASONABLE PERIOD AS A 
+13
+SINGLE ENQUIRY.— 
+14
+‘‘(1) IN GENERAL.—With respect to multiple 
+15
+enquiries of the same type made to a consumer re-
+16
+porting agency for a consumer report or credit score 
+17
+with respect to a consumer, any credit scoring model 
+18
+shall treat such enquiries as a single enquiry if the 
+19
+enquiries are made within a 120-day period. 
+20
+‘‘(2) DEFINITION OF ENQUIRIES OF THE SAME 
+21
+TYPE.—With respect to multiple enquiries made to 
+22
+a consumer reporting agency for a consumer report 
+23
+or credit score with respect to a consumer, such 
+24
+22:32 Jul 22, 2021
+H4113
+90 
+•HR 4113 IH
+enquiries are ‘of the same type’ if the consumer re-
+1
+porting agency has reason to believe that the 
+2
+enquiries are all made for the purpose of deter-
+3
+mining the consumer’s creditworthiness for an exten-
+4
+sion of credit described in one of the following: 
+5
+‘‘(A) Any loan primarily for personal, fam-
+6
+ily, or household use that is secured by a mort-
+7
+gage, deed of trust, or other equivalent consen-
+8
+sual security interest on a dwelling (as defined 
+9
+in section 103(w) of the Truth in Lending Act), 
+10
+including a loan in which the proceeds will be 
+11
+used for— 
+12
+‘‘(i) a manufactured home (as defined 
+13
+in section 603 of the Housing and Commu-
+14
+nity Development Act of 1974 (42 U.S.C. 
+15
+5402)); 
+16
+‘‘(ii) any installment sales contract, 
+17
+land contract, or contract for deed on a 
+18
+residential property; or 
+19
+‘‘(iii) a reverse mortgage transaction 
+20
+(as defined in section 103 of the Truth in 
+21
+Lending Act). 
+22
+‘‘(B) A motor vehicle loan or lease (as de-
+23
+scribed in section 609(j)). 
+24
+‘‘(C) A private education loan. 
+25
+22:32 Jul 22, 2021
+H4113
+91 
+•HR 4113 IH
+‘‘(D) Any other consumer financial product 
+1
+or service, as determined by the Bureau.’’. 
+2
+SEC. 206. NATIONWIDE CONSUMER REPORTING AGENCIES 
+3
+REGISTRY. 
+4
+The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+5
+seq.), as amended by section 204, is further amended— 
+6
+(1) by adding at the end the following new sec-
+7
+tion: 
+8
+‘‘§ 633. Nationwide consumer reporting agencies reg-
+9
+istry 
+10
+‘‘(a) IN GENERAL.—Not later than 1 year after the 
+11
+date of enactment of this section, the Bureau shall estab-
+12
+lish and maintain a publicly accessible registry of con-
+13
+sumer reporting agencies described in subsection (p) or 
+14
+(x) of section 603 (and any other agencies the Bureau de-
+15
+termines provide similar services to such consumer report-
+16
+ing agencies) that includes current contact information of 
+17
+each such agency, including the Internet website address 
+18
+of the Internet website described under section 611(h), 
+19
+and information on how consumers can obtain their con-
+20
+sumer report, credit scores, or educational credit scores 
+21
+(as applicable) by toll-free telephone, postal mail, or elec-
+22
+tronic means. 
+23
+‘‘(b) REGISTRY REQUIREMENTS.—The registry de-
+24
+scribed in subsection (a) shall— 
+25
+22:32 Jul 22, 2021
+H4113
+92 
+•HR 4113 IH
+‘‘(1) identify the largest agencies and the mar-
+1
+kets and demographics covered by such agencies; 
+2
+and 
+3
+‘‘(2) disclose, with respect to each agency, 
+4
+whether the agency is subject to the supervisory au-
+5
+thority of the Bureau under this title. 
+6
+‘‘(c) INFORMATION
+UPDATES.—Each agency de-
+7
+scribed under subsection (a) shall submit to the Bureau 
+8
+contact information for the registry, including any updates 
+9
+to such information. The Bureau shall— 
+10
+‘‘(1) independently verify information submitted 
+11
+by each agency; and 
+12
+‘‘(2) update the registry not less frequently 
+13
+than annually.’’; and 
+14
+(2) in the table of contents for such Act, as 
+15
+amended by section 204, by adding at the end the 
+16
+following new item: 
+17
+‘‘633. Nationwide consumer reporting agencies registry.’’. 
+Æ 
+22:32 Jul 22, 2021
+H4113

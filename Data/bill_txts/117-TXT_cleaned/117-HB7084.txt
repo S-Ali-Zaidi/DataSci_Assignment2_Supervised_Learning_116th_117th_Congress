@@ -1,0 +1,214 @@
+A BILL 
+To amend the Federal Food, Drug, and Cosmetic Act to 
+require, for purposes of ensuring cybersecurity, the inclu-
+sion in any premarket submission for a cyber device 
+of information to demonstrate a reasonable assurance 
+of safety and effectiveness throughout the lifecycle of 
+the cyber device, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Protecting and Trans-
+4
+forming Cyber Health Care Act of 2022’’ or the ‘‘PATCH 
+5
+Act of 2022’’. 
+6
+22:11 Mar 16, 2022
+H7084
+2 
+•HR 7084 IH
+SEC. 2. ENSURING CYBERSECURITY OF MEDICAL DEVICES. 
+1
+(a) IN GENERAL.—Subchapter A of chapter V of the 
+2
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 
+3
+et seq.) is amended by adding at the end the following: 
+4
+‘‘SEC. 524B. ENSURING CYBERSECURITY OF DEVICES. 
+5
+‘‘(a) IN GENERAL.—For purposes of ensuring cyber-
+6
+security throughout the lifecycle of a cyber device, any per-
+7
+son who submits a premarket submission for the cyber de-
+8
+vice shall include such information as the Secretary may 
+9
+require to ensure that the cyber device meets such cyberse-
+10
+curity requirements as the Secretary determines to be ap-
+11
+propriate to demonstrate a reasonable assurance of safety 
+12
+and effectiveness, including at a minimum the cybersecu-
+13
+rity requirements under subsection (b). The Secretary may 
+14
+establish exemptions to the requirements under this sub-
+15
+section. 
+16
+‘‘(b) CYBERSECURITY REQUIREMENTS.—At a min-
+17
+imum, the manufacturer of a cyber device shall meet the 
+18
+following cybersecurity requirements: 
+19
+‘‘(1) The manufacturer shall have a plan to ap-
+20
+propriately monitor, identify, and address in a rea-
+21
+sonable time postmarket cybersecurity vulnerabilities 
+22
+and exploits. 
+23
+‘‘(2) The manufacturer shall— 
+24
+‘‘(A) have a plan and procedures for a Co-
+25
+ordinated Vulnerability Disclosure to be part of 
+26
+22:11 Mar 16, 2022
+H7084
+3 
+•HR 7084 IH
+submissions to the Food and Drug Administra-
+1
+tion; and 
+2
+‘‘(B) collect and maintain such other infor-
+3
+mation as the Secretary may (by order pub-
+4
+lished in the Federal Register or by other proc-
+5
+ess) require to demonstrate a reasonable assur-
+6
+ance of the safety and effectiveness of the cyber 
+7
+device. 
+8
+‘‘(3) The manufacturer shall design, develop, 
+9
+and maintain processes and procedures to make 
+10
+available updates and patches to the cyber device 
+11
+and related systems throughout the lifecycle of the 
+12
+cyber device to address— 
+13
+‘‘(A) on a reasonably justified regular 
+14
+cycle, known unacceptable vulnerabilities; and 
+15
+‘‘(B) as soon as possible out of cycle, crit-
+16
+ical vulnerabilities that could cause uncontrolled 
+17
+risks. 
+18
+‘‘(4) The manufacturer shall furnish to the Sec-
+19
+retary a software bill of materials, including com-
+20
+mercial, open-sourced, and off-the-shelf software 
+21
+components that will be provided to users. 
+22
+‘‘(c) SUBSTANTIAL EQUIVALENCE.—In making a de-
+23
+termination of substantial equivalence under section 
+24
+513(i) for a cyber device, the Secretary may— 
+25
+22:11 Mar 16, 2022
+H7084
+4 
+•HR 7084 IH
+‘‘(1) find that cybersecurity information for the 
+1
+cyber device described in the relevant premarket 
+2
+submission in the cyber device’s use environment is 
+3
+inadequate; and 
+4
+‘‘(2) issue a nonsubstantial equivalence deter-
+5
+mination based on this finding. 
+6
+‘‘(d) DEFINITION.—In this section: 
+7
+‘‘(1) The term ‘cyber device’ means a device 
+8
+that— 
+9
+‘‘(A) includes software; or 
+10
+‘‘(B) is intended to connect to the internet. 
+11
+‘‘(2) The term ‘lifecycle of the cyber device’ in-
+12
+cludes the postmarket lifecycle of the cyber device. 
+13
+‘‘(3) The term ‘premarket submission’ means 
+14
+any submission under section 510(k), 513, 515(c), 
+15
+515(f), or 520(m).’’. 
+16
+(b) PROHIBITED ACT.—Section 301(q) of the Fed-
+17
+eral Food, Drug, and Cosmetic Act (21 U.S.C. 331(q)) 
+18
+is amended by adding at the end the following: 
+19
+‘‘(3) The failure to comply with any requirement 
+20
+under section 524B (relating to ensuring the cybersecu-
+21
+rity).’’. 
+22
+(c) ADULTERATION.—Section 501 of the Federal 
+23
+Food, Drug, and Cosmetic Act (21 U.S.C. 351) is amend-
+24
+ed by inserting after paragraph (j) the following: 
+25
+22:11 Mar 16, 2022
+H7084
+5 
+•HR 7084 IH
+‘‘(k) If it is a device with respect to which the sponsor 
+1
+is in violation of section 524B (relating to ensuring cyber-
+2
+security).’’. 
+3
+(d) MISBRANDING.—Section 502(t) of the Federal 
+4
+Food, Drug, and Cosmetic Act (21 U.S.C. 352(t)) is 
+5
+amended— 
+6
+(1) by striking ‘‘or (3)’’ and inserting ‘‘(3)’’; 
+7
+and 
+8
+(2) by inserting before the period at the end the 
+9
+following: ‘‘, or (4) to furnish a software bill of ma-
+10
+terials as required under section 524B (relating to 
+11
+ensuring the cybersecurity)’’. 
+12
+Æ 
+22:11 Mar 16, 2022
+H7084

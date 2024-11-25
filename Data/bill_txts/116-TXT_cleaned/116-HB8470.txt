@@ -1,0 +1,1809 @@
+A BILL 
+To establish procedures related to the coronavirus disease 
+2019 (COVID–19) in correctional facilities. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Federal Correctional 
+4
+Facilities COVID–19 Response Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) CORRECTIONAL FACILITY.—The term ‘‘cor-
+8
+rectional facility’’ includes— 
+9
+03:49 Oct 30, 2020
+H8470
+2 
+•HR 8470 IH
+(A) Federal prisons, including all prison, 
+1
+correctional, and detention facilities run by the 
+2
+Bureau of Prisons; and 
+3
+(B) privately owned or privately operated 
+4
+prison, correctional, and detention facilities con-
+5
+tracted by Federal entities, including the Bu-
+6
+reau of Prisons, to house Federal incarcerated 
+7
+persons. 
+8
+(2) CORRECTIONAL FACILITY EMPLOYEE.—The 
+9
+term ‘‘correctional facility employee’’ means any in-
+10
+dividual employed at a correctional facility housing 
+11
+Federal incarcerated persons, including— 
+12
+(A) a Federal employee; 
+13
+(B) an employee of a privately owned or 
+14
+privately operated prison, correctional, or deten-
+15
+tion facility contracted by a Federal entity to 
+16
+house Federal incarcerated persons; and 
+17
+(C) an employee of a private company con-
+18
+tracted to provide goods and services at a cor-
+19
+rectional facility. 
+20
+(3) COVID–19 DIAGNOSTIC
+TEST.—The term 
+21
+‘‘COVID–19 diagnostic test’’ means a test— 
+22
+(A) that is an in vitro diagnostic product 
+23
+(as defined in section 809.3 of title 21, Code of 
+24
+Federal Regulations, or any successor thereto) 
+25
+03:49 Oct 30, 2020
+H8470
+3 
+•HR 8470 IH
+for the detection of SARS–CoV–2 or the diag-
+1
+nosis of the virus that causes COVID–19; and 
+2
+(B) the administration of which— 
+3
+(i) is approved, cleared, or authorized 
+4
+under section 510(k), 513, 515, or 564 of 
+5
+the Federal Food, Drug, and Cosmetic Act 
+6
+(21 U.S.C. 360(k), 360c, 360e, 360bbb–3); 
+7
+(ii) the developer has requested, or in-
+8
+tends to request, emergency use authoriza-
+9
+tion under section 564 of the Federal 
+10
+Food, Drug, and Cosmetic Act (21 U.S.C. 
+11
+360bbb–3), unless and until the emergency 
+12
+use authorization request under such sec-
+13
+tion 564 has been denied or the developer 
+14
+of such test does not submit a request 
+15
+under such section within a reasonable 
+16
+timeframe; 
+17
+(iii) is developed in and authorized by 
+18
+a State that has notified the Secretary of 
+19
+Health and Human Services of its inten-
+20
+tion to review tests intended to diagnose 
+21
+COVID–19; or 
+22
+(iv) is another test that the Secretary 
+23
+determines appropriate in guidance. 
+24
+03:49 Oct 30, 2020
+H8470
+4 
+•HR 8470 IH
+(4) COVID–19 PANDEMIC.—The term ‘‘COVID– 
+1
+19 pandemic’’ means the period beginning on the 
+2
+date of enactment of this Act and ending on the 
+3
+date that is 1 year after the date on which the pub-
+4
+lic health emergency declaration under section 319 
+5
+of the Public Health Service Act (42 U.S.C. 247d) 
+6
+with respect to COVID–19 terminates. 
+7
+(5) HIGH-RISK INCARCERATED PERSON.—The 
+8
+term ‘‘high-risk incarcerated person’’ means an indi-
+9
+vidual who meets the definition of ‘‘incarcerated per-
+10
+son’’ under this section who— 
+11
+(A) is 50 years old or older; 
+12
+(B) has chronic kidney disease; 
+13
+(C) has chronic obstructive pulmonary dis-
+14
+ease; 
+15
+(D) is immunocompromised; 
+16
+(E) has obesity; 
+17
+(F) has a heart condition, such as coro-
+18
+nary artery disease or cardiomyopathy; 
+19
+(G) has sickle cell disease; 
+20
+(H) has type 1 or type 2 diabetes mellitus; 
+21
+(I) has moderate to severe asthma; 
+22
+(J) has cerebrovascular disease; 
+23
+(K) has cystic fibrosis; 
+24
+03:49 Oct 30, 2020
+H8470
+5 
+•HR 8470 IH
+(L) has hypertension or high blood pres-
+1
+sure; 
+2
+(M) has a neurological condition such as 
+3
+dementia or Parkinson’s Disease; 
+4
+(N) has liver disease; 
+5
+(O) is pregnant; 
+6
+(P) has pulmonary fibrosis; 
+7
+(Q) has thalassemia; 
+8
+(R) is a smoker; 
+9
+(S) has a disability; or 
+10
+(T) meets any other characteristic identi-
+11
+fied by the Centers for Disease Control and 
+12
+Prevention as putting individuals at increased 
+13
+risk of developing severe illness from COVID– 
+14
+19. 
+15
+(6) INCARCERATED PERSON.—The term ‘‘incar-
+16
+cerated person’’ means an individual involuntarily 
+17
+confined or detained in a correctional facility. 
+18
+(7) SIGNS AND SYMPTOMS OF COVID–19.—The 
+19
+term ‘‘signs and symptoms of COVID–19’’ means 
+20
+fever or chills, cough, shortness of breath or dif-
+21
+ficulty breathing, fatigue, muscle or body aches, 
+22
+headache, new loss of taste or smell, sore throat, 
+23
+congestion or runny nose, nausea or vomiting, diar-
+24
+rhea, and any other medical condition or reaction 
+25
+03:49 Oct 30, 2020
+H8470
+6 
+•HR 8470 IH
+identified by the Centers for Disease Control and 
+1
+Prevention as being a physical reaction to the con-
+2
+traction of the severe acute respiratory syndrome 
+3
+coronavirus 2 (SARS–CoV–2). 
+4
+SEC. 3. MANDATED COVID–19 TESTING AT CORRECTIONAL 
+5
+FACILITIES. 
+6
+(a) TESTING OF INCARCERATED PERSONS.— 
+7
+(1) IN
+GENERAL.—Each correctional facility 
+8
+shall— 
+9
+(A) not later than 15 days after the date 
+10
+of enactment of this Act— 
+11
+(i) provide each incarcerated person in 
+12
+the facility with the option to take a 
+13
+COVID–19 diagnostic test, regardless of 
+14
+whether the incarcerated person exhibits 
+15
+symptoms of COVID–19, at no cost to the 
+16
+incarcerated person; 
+17
+(ii) provide each incarcerated person 
+18
+with the results of the diagnostic test, re-
+19
+gardless of the results, including an inter-
+20
+pretation of what the test results mean in 
+21
+the incarcerated person’s preferred lan-
+22
+guage; 
+23
+(iii) provide each incarcerated person 
+24
+who tests positive for COVID–19 with nec-
+25
+03:49 Oct 30, 2020
+H8470
+7 
+•HR 8470 IH
+essary medical care (as outlined in the Na-
+1
+tional Institutes of Health COVID–19 
+2
+Treatment Guidelines), including COVID– 
+3
+19 tests to monitor recovery if indicated by 
+4
+the Centers for Disease Control and Pre-
+5
+vention, and housing in a medical isolation 
+6
+unit under the care of medical profes-
+7
+sionals, at no cost to the incarcerated per-
+8
+son; 
+9
+(iv) place each asymptomatic incarcer-
+10
+ated person who is exposed to a positive 
+11
+case in quarantine until testing is com-
+12
+pleted consistent with Centers for Disease 
+13
+Control and Prevention guidance; and 
+14
+(v) place each symptomatic incarcer-
+15
+ated person into medical isolation while 
+16
+awaiting test results; and 
+17
+(B) during the period beginning not later 
+18
+than 45 days after the date of enactment of 
+19
+this Act and ending on the last day of the 
+20
+COVID–19 pandemic— 
+21
+(i) conduct weekly COVID–19 diag-
+22
+nostic testing of incarcerated persons in 
+23
+the facility in accordance with the guide-
+24
+lines developed under section 6, regardless 
+25
+03:49 Oct 30, 2020
+H8470
+8 
+•HR 8470 IH
+of whether such incarcerated persons ex-
+1
+hibit symptoms of COVID–19, at no cost 
+2
+to incarcerated persons; 
+3
+(ii) conduct COVID–19 diagnostic 
+4
+testing for any incarcerated person with 
+5
+COVID–19 symptoms, or for any incarcer-
+6
+ated person who is a close contact of a 
+7
+known COVID–19 case, in accordance with 
+8
+the guidelines developed under section 6; 
+9
+(iii) provide each incarcerated person 
+10
+with the results of the diagnostic tests, re-
+11
+gardless of the results, including an inter-
+12
+pretation of what the test results mean in 
+13
+the incarcerated person’s preferred lan-
+14
+guage; 
+15
+(iv) provide each incarcerated person 
+16
+who tests positive for COVID–19 with nec-
+17
+essary medical care (as outlined in the Na-
+18
+tional Institutes of Health COVID–19 
+19
+Treatment Guidelines), including COVID– 
+20
+19 tests to monitor recovery if indicated by 
+21
+the Centers for Disease Control and Pre-
+22
+vention, and housing in a medical isolation 
+23
+unit under the care of medical profes-
+24
+sionals, at no cost to the incarcerated per-
+25
+03:49 Oct 30, 2020
+H8470
+9 
+•HR 8470 IH
+son, in accordance with the guidelines de-
+1
+veloped under section 6; 
+2
+(v) quarantine each incarcerated per-
+3
+son exposed to a positive COVID–19 case 
+4
+in accordance with the guidelines developed 
+5
+under section 6; and 
+6
+(vi) establish a procedure through 
+7
+which incarcerated people can opt out of 
+8
+COVID–19 testing, in accordance with the 
+9
+guidelines developed under section 6. 
+10
+(2) NEW ENTRANTS.—During the period begin-
+11
+ning not later than 45 days after the date of enact-
+12
+ment of this Act and ending on the last day of the 
+13
+COVID–19 pandemic, each correctional facility 
+14
+shall— 
+15
+(A) provide each incarcerated person newly 
+16
+admitted or transferred to the facility with an 
+17
+optional COVID–19 diagnostic test within 24 
+18
+hours of entering the facility, regardless of 
+19
+whether the incarcerated person exhibits symp-
+20
+toms of COVID–19, at no cost to the incarcer-
+21
+ated person; and 
+22
+(B) immediately quarantine each incarcer-
+23
+ated person newly admitted or transferred to 
+24
+the facility within 24 hours of entering the fa-
+25
+03:49 Oct 30, 2020
+H8470
+10 
+•HR 8470 IH
+cility, consistent with Centers for Disease Con-
+1
+trol and Prevention guidance, until the incar-
+2
+cerated person has been confirmed to be nega-
+3
+tive for COVID–19, in accordance with the 
+4
+guidelines developed under section 6. 
+5
+(b) TESTING OF CORRECTIONAL FACILITY EMPLOY-
+6
+EES.— 
+7
+(1) IN
+GENERAL.—Each correctional facility 
+8
+shall— 
+9
+(A) not later than 15 days after the date 
+10
+of enactment of this Act— 
+11
+(i) provide each correctional facility 
+12
+employee with a required COVID–19 diag-
+13
+nostic test, regardless of whether the em-
+14
+ployee exhibits symptoms of COVID–19, at 
+15
+no cost to the employee; and 
+16
+(ii) provide each correctional facility 
+17
+employee who tests positive for COVID–19 
+18
+with unlimited paid administrative leave 
+19
+for 
+the 
+purpose 
+of 
+recovering 
+from 
+20
+COVID–19, and no cost COVID–19 diag-
+21
+nostic testing for the purpose of moni-
+22
+toring recovery if indicated by the Centers 
+23
+for Disease Control and Prevention, until 
+24
+03:49 Oct 30, 2020
+H8470
+11 
+•HR 8470 IH
+the employee tests negative for COVID–19; 
+1
+and 
+2
+(B) during the period beginning not later 
+3
+than 45 days after the date of enactment of 
+4
+this Act and ending on the last day of the 
+5
+COVID–19 pandemic— 
+6
+(i) conduct required weekly COVID– 
+7
+19 diagnostic testing of each correctional 
+8
+facility employee in the facility, in accord-
+9
+ance with the guidelines developed under 
+10
+section 6, regardless of whether the em-
+11
+ployee exhibits symptoms of COVID–19, at 
+12
+no cost to the employee; 
+13
+(ii) provide each correctional facility 
+14
+employee who tests positive for COVID–19 
+15
+with unlimited paid leave for the purpose 
+16
+of recovering from COVID–19, and no cost 
+17
+COVID–19 diagnostic testing for the pur-
+18
+pose of monitoring recovery if indicated by 
+19
+the Centers for Disease Control and Pre-
+20
+vention, until the employee tests negative 
+21
+for COVID–19; and 
+22
+(iii) provide each correctional facility 
+23
+employee who is exposed to a positive 
+24
+COVID–19 case with guaranteed paid 
+25
+03:49 Oct 30, 2020
+H8470
+12 
+•HR 8470 IH
+leave to quarantine, consistent with Cen-
+1
+ters for Disease Control and Prevention 
+2
+guidance, or until the employee has been 
+3
+confirmed to be negative for COVID–19. 
+4
+(c) PRIVACY.—Any data collected, stored, received, or 
+5
+published under this section shall— 
+6
+(1) be so collected, stored, received, or pub-
+7
+lished in a manner that protects the privacy of indi-
+8
+viduals whose information is included in the data; 
+9
+(2) be deidentified or anonymized in a manner 
+10
+that protects the identity of all individuals whose in-
+11
+formation is included in the data; 
+12
+(3) comply with privacy protections provided 
+13
+under the regulations promulgated under section 
+14
+264(c) of the Health Insurance Portability and Ac-
+15
+countability Act of 1996 (42 U.S.C. 1320d–2 note); 
+16
+and 
+17
+(4) be limited in use for the purpose of public 
+18
+health and be protected from all other internal use 
+19
+by any entity that collects, stores, or receives the 
+20
+data, including use of the data in determinations of 
+21
+eligibility (or continued eligibility) in health plans, 
+22
+and from any other inappropriate uses. 
+23
+(d) AUTHORIZATION OF APPROPRIATIONS.—There is 
+24
+authorized to be appropriated to relevant medical and pub-
+25
+03:49 Oct 30, 2020
+H8470
+13 
+•HR 8470 IH
+lic officials such sums as are necessary to procure and ad-
+1
+minister the COVID–19 diagnostic tests and provide the 
+2
+medical care required in this section. 
+3
+SEC. 4. COVID–19 DATA COLLECTION AT CORRECTIONAL 
+4
+FACILITIES. 
+5
+(a) DATA COLLECTION.—During the period begin-
+6
+ning not later than 45 days after the date of enactment 
+7
+of this Act and ending on the last day of the COVID– 
+8
+19 pandemic, each correctional facility shall submit weekly 
+9
+reports to the Department of Justice and the Centers for 
+10
+Disease Control and Prevention, and the public health au-
+11
+thority of the State in which the facility is located on the 
+12
+following: 
+13
+(1) TESTING NUMBERS.—COVID–19 diagnostic 
+14
+testing, including cumulative and new (since the pre-
+15
+vious report) counts of— 
+16
+(A) the number of incarcerated persons 
+17
+tested for COVID–19, disaggregated by routine 
+18
+weekly testing, symptomatic testing, close con-
+19
+tact testing, recovery monitoring testing, and 
+20
+new entrant testing; 
+21
+(B) the number of correctional facility em-
+22
+ployees tested for COVID–19, disaggregated by 
+23
+routine weekly testing, symptomatic testing, 
+24
+03:49 Oct 30, 2020
+H8470
+14 
+•HR 8470 IH
+close contact testing, and recovery monitoring 
+1
+testing; and 
+2
+(C) the COVID–19 diagnostic test devel-
+3
+oper, test name, and type of test (molecular, 
+4
+antigen, or other) for each COVID–19 diag-
+5
+nostic test conducted. 
+6
+(2) TEST
+RESULTS.—COVID–19 diagnostic 
+7
+testing outcomes, including cumulative and new 
+8
+(since the previous report) counts of— 
+9
+(A) the number of confirmed active cases 
+10
+of COVID–19 among incarcerated persons, 
+11
+disaggregated by routine weekly testing, symp-
+12
+tomatic testing, close contact testing, recovery 
+13
+monitoring testing, and new entrant testing; 
+14
+(B) the number of confirmed negative 
+15
+cases of COVID–19 among incarcerated per-
+16
+sons, disaggregated by routine weekly testing, 
+17
+symptomatic testing, close contact testing, re-
+18
+covery monitoring testing, and new entrant 
+19
+testing; 
+20
+(C) the number of confirmed active cases 
+21
+of COVID–19 among correctional facility em-
+22
+ployees, disaggregated by routine weekly test-
+23
+ing, symptomatic testing, close contact testing, 
+24
+and recovery monitoring testing; 
+25
+03:49 Oct 30, 2020
+H8470
+15 
+•HR 8470 IH
+(D) the number of confirmed negative 
+1
+cases of COVID–19 among correctional facility 
+2
+employees, disaggregated by routine weekly 
+3
+testing, symptomatic testing, close contact test-
+4
+ing, and recovery monitoring testing; 
+5
+(E) the number of tests pending results, 
+6
+disaggregated by incarcerated persons and cor-
+7
+rectional facility employees; 
+8
+(F) the average time between testing an 
+9
+incarcerated person for COVID–19 and receiv-
+10
+ing the results of the test; and 
+11
+(G) the average time between testing a 
+12
+correctional facility employee for COVID–19 
+13
+and receiving the results of the test. 
+14
+(3) CASE
+OUTCOMES.—COVID–19 case out-
+15
+comes, including cumulative and new (since the pre-
+16
+vious report) counts of— 
+17
+(A) the number of incarcerated persons 
+18
+hospitalized for a case of COVID–19; 
+19
+(B) the number of incarcerated persons 
+20
+who have recovered from COVID–19; 
+21
+(C) the number of incarcerated persons 
+22
+currently in quarantine or medical isolation for 
+23
+COVID–19, respectively; 
+24
+03:49 Oct 30, 2020
+H8470
+16 
+•HR 8470 IH
+(D) the number of incarcerated persons 
+1
+who have completed quarantine or been released 
+2
+from medical isolation, respectively; 
+3
+(E) the number of incarcerated persons 
+4
+who have died from a confirmed or suspected 
+5
+case of COVID–19; 
+6
+(F) the number of correctional facility em-
+7
+ployees hospitalized for a case of COVID–19; 
+8
+(G) the number of correctional facility em-
+9
+ployees who have recovered from COVID–19; 
+10
+and 
+11
+(H) the number of correctional facility em-
+12
+ployees who have died from a case of COVID– 
+13
+19. 
+14
+(4) RELEASE
+OF
+INCARCERATED
+PERSONS.— 
+15
+Data related to the release of incarcerated persons, 
+16
+including individuals released to home confinement 
+17
+and pursuant to compassionate release, as a result 
+18
+of the COVID–19 public health emergency. 
+19
+(5) DAILY POPULATION.—Average daily popu-
+20
+lation, disaggregated by incarcerated persons and 
+21
+correctional facility employees. 
+22
+(b) DISAGGREGATION OF DATA.—The data described 
+23
+in this section shall be disaggregated by sex, sexual ori-
+24
+03:49 Oct 30, 2020
+H8470
+17 
+•HR 8470 IH
+entation, gender identity, age, race, ethnicity, disability, 
+1
+and geography (including county and State). 
+2
+(c) PUBLIC REPORTING.—The Secretary of Health 
+3
+and Human Services, acting through the Director of the 
+4
+Centers for Disease Control and Prevention, shall make 
+5
+publicly available on the internet the most recent and his-
+6
+toric information reported weekly under subsection (a) in 
+7
+a machine-readable format. 
+8
+(d) COVID–19 SYMPTOM TRACKING AND MEDICAL 
+9
+RECORD RETENTION.—During the period beginning not 
+10
+later than 45 days after the date of enactment of this Act 
+11
+and ending on the last day of the COVID–19 pandemic, 
+12
+each correctional facility shall systemically track and 
+13
+record of the signs and symptoms of COVID–19 among 
+14
+incarcerated persons and correctional center employees. 
+15
+As part of the tracking system, correctional facilities 
+16
+shall— 
+17
+(1) document and retain a record of each re-
+18
+quest from incarcerated persons for medical care, in-
+19
+cluding medical care for the signs and symptoms of 
+20
+COVID–19; 
+21
+(2) conduct weekly screenings, in conjunction 
+22
+with the testing requirements described in section 3, 
+23
+of incarcerated persons for signs and symptoms of 
+24
+03:49 Oct 30, 2020
+H8470
+18 
+•HR 8470 IH
+COVID–19 and maintain records of the results of 
+1
+such screenings for each incarcerated person; and 
+2
+(3) present for review, as requested at any time 
+3
+by the Secretary of Health and Human Services or 
+4
+the Attorney General, records collected under para-
+5
+graphs (1) and (2). 
+6
+(e) INCARCERATED PERSONS DATA.—The data de-
+7
+scribed in this section with respect to incarcerated persons 
+8
+who are serving a term of imprisonment and who are in-
+9
+fected with COVID–19 shall include, to the extent prac-
+10
+ticable, the term of imprisonment imposed on the incarcer-
+11
+ated persons, the time served, and the release date. 
+12
+(f) PRIVACY.—Any data collected, stored, received, or 
+13
+published under this section shall— 
+14
+(1) be so collected, stored, received, or pub-
+15
+lished in a manner that protects the privacy of indi-
+16
+viduals whose information is included in the data; 
+17
+(2) be de-identified or anonymized in a manner 
+18
+that protects the identity of all individuals whose in-
+19
+formation is included in the data; 
+20
+(3) comply with privacy protections provided 
+21
+under the regulations promulgated under section 
+22
+264(c) of the Health Insurance Portability and Ac-
+23
+countability Act of 1996 (42 U.S.C. 1320d–2 note); 
+24
+and 
+25
+03:49 Oct 30, 2020
+H8470
+19 
+•HR 8470 IH
+(4) be limited in use for the purpose of public 
+1
+health and be protected from all other internal use 
+2
+by any entity that collects, stores, or receives the 
+3
+data, including use of such data in determinations of 
+4
+eligibility (or continued eligibility) in health plans, 
+5
+and from any other inappropriate uses. 
+6
+(g) AUTHORIZATION OF APPROPRIATIONS.—There is 
+7
+authorized to be appropriated to the Centers for Disease 
+8
+Control and Prevention such sums as are necessary to 
+9
+publicize the data as described in this section. 
+10
+SEC. 5. CENTERS FOR DISEASE CONTROL AND INVESTIGA-
+11
+TION DEPLOYMENT. 
+12
+(a) IN GENERAL.—Correctional facilities shall report 
+13
+to the Centers for Disease Control and Prevention in-
+14
+stances when 3 or more incarcerated persons or correc-
+15
+tional facility employees present new COVID–19 cases 
+16
+within 72 hours of each other, within 24 hours of identi-
+17
+fying the third case. 
+18
+(b) DEPLOYMENT OF STAFF.—In such instances, the 
+19
+Centers for Disease Control and Prevention shall deploy 
+20
+staff with experience in preventing the spread of infectious 
+21
+diseases in congregate settings to the facility for the pur-
+22
+pose of mitigating and preventing the spread of COVID– 
+23
+19 at the facility. 
+24
+03:49 Oct 30, 2020
+H8470
+20 
+•HR 8470 IH
+SEC. 6. UPDATED BUREAU OF PRISONS GUIDELINES ON 
+1
+HANDLING COVID–19 IN CORRECTIONAL FA-
+2
+CILITIES. 
+3
+(a) UPDATED COVID–19 GUIDELINES.—Not later 
+4
+than 30 days after the date of enactment of this Act, the 
+5
+Department of Justice, acting through the Bureau of Pris-
+6
+ons and in consultation with the Centers for Disease Con-
+7
+trol and Prevention, shall release updated guidelines on 
+8
+the management of COVID–19 in correctional facilities. 
+9
+(b) EXPERT CONSULTATION.— 
+10
+(1) IN GENERAL.—In developing the guidelines 
+11
+described in subsection (a), the Department of Jus-
+12
+tice shall consult with no fewer than 10 experts in 
+13
+public health and correctional facility management, 
+14
+which shall include— 
+15
+(A) academics with medical and public 
+16
+health expertise; 
+17
+(B) advocates for imprisoned populations; 
+18
+(C) public health officials; 
+19
+(D) tribal leaders or their representatives; 
+20
+and 
+21
+(E) labor representatives of correctional fa-
+22
+cility employees. 
+23
+(2) PUBLICLY
+AVAILABLE.—Recommendations 
+24
+from and correspondence with individuals described 
+25
+in paragraph (1) shall be made publicly available. 
+26
+03:49 Oct 30, 2020
+H8470
+21 
+•HR 8470 IH
+(c) CONTENTS.—The guidelines described in sub-
+1
+section (a) shall, at a minimum, include— 
+2
+(1) requirements that correctional facilities con-
+3
+duct voluntary COVID–19 diagnostic tests on, and 
+4
+quarantine consistent with Centers for Disease Con-
+5
+trol and Prevention guidance all new incarcerated 
+6
+persons who enter the facility during the COVID–19 
+7
+pandemic, including incarcerated persons being held 
+8
+at the facility while in transit between other facili-
+9
+ties; 
+10
+(2) guidance on how facilities should conduct 
+11
+weekly testing of incarcerated persons and correc-
+12
+tional facility employees, including guidance on how 
+13
+to conduct pooled sample testing in lieu of individual 
+14
+testing, if appropriate, and guidance on how to iden-
+15
+tify the appropriate type of diagnostic test to use, 
+16
+consistent with the most up-to-date public health in-
+17
+formation and guidance on preventing the spread of 
+18
+COVID–19; 
+19
+(3) guidance on how correctional facilities 
+20
+should handle incarcerated persons who refuse to re-
+21
+ceive COVID–19 tests, such as through imple-
+22
+menting time-based or symptom-based isolation and 
+23
+quarantine strategies; 
+24
+03:49 Oct 30, 2020
+H8470
+22 
+•HR 8470 IH
+(4) requirements that correctional facilities, 
+1
+once a single case of COVID–19 is detected within 
+2
+the facility, screen every incarcerated person and 
+3
+correctional facility employee for signs and symp-
+4
+toms of COVID–19 within 24 hours; 
+5
+(5) guidance for correctional facilities on max-
+6
+imum occupational capacity, social distancing best 
+7
+practices, and how to reduce the incarcerated person 
+8
+population within the facility, including updated 
+9
+guidance on the proactive release of incarcerated 
+10
+persons, with special consideration given to high-risk 
+11
+incarcerated persons; 
+12
+(6) guidance for correctional facilities on how to 
+13
+establish and implement cohorting strategies to min-
+14
+imize the spread of COVID–19 in facilities, with 
+15
+special consideration given to the cohorting of high- 
+16
+risk incarcerated persons; 
+17
+(7) guidance for correctional facilities on how to 
+18
+establish and implement contact tracing efforts to 
+19
+identify, track, and prevent the spread of COVID– 
+20
+19 among the contacts of incarcerated persons and 
+21
+correctional facility employees who test positive for 
+22
+COVID–19; 
+23
+(8) guidance for correctional facilities on how 
+24
+to— 
+25
+03:49 Oct 30, 2020
+H8470
+23 
+•HR 8470 IH
+(A) humanely and effectively quarantine 
+1
+incarcerated persons exposed to COVID–19 and 
+2
+humanely and effectively medically isolate and 
+3
+provide medical care to incarcerated persons 
+4
+who contract COVID–19, including a prohibi-
+5
+tion on the use of punitive solitary confinement 
+6
+and other punitive measures as a means of 
+7
+treating and medically isolating incarcerated 
+8
+persons, with special consideration given to the 
+9
+quarantining and medical isolation and treat-
+10
+ment of high-risk incarcerated persons; 
+11
+(B) authorize the provision of materials, 
+12
+such as books, television shows, magazines, and 
+13
+movies to, increase recreation hours for, and ex-
+14
+pand programming and phone and email com-
+15
+munication privileges for incarcerated persons 
+16
+in medical isolation to minimize the similarity 
+17
+of punitive solitary confinement and other puni-
+18
+tive measures with medical quarantine; and 
+19
+(C) confirm that incarcerated persons and 
+20
+correctional facility employees who have con-
+21
+tracted COVID–19 have recovered for the pur-
+22
+pose of releasing them from medical isolation; 
+23
+03:49 Oct 30, 2020
+H8470
+24 
+•HR 8470 IH
+(9) guidance for correctional facilities on the 
+1
+proper cleaning and disinfecting of the facility to 
+2
+prevent the spread of COVID–19; 
+3
+(10) guidance for correctional facilities on prop-
+4
+er ventilation and air filtration strategies to prevent 
+5
+the spread of COVID–19; 
+6
+(11) guidance on the proper daily, weekly, and 
+7
+monthly allowance for incarcerated persons of per-
+8
+sonal protective equipment and face coverings, hand 
+9
+sanitizer, soap, cleaning items, and other materials 
+10
+that could reduce the spread of COVID–19 in facili-
+11
+ties, which shall be provided to incarcerated persons 
+12
+at no cost, including information on how to update 
+13
+existing guidelines within facilities on the limitation 
+14
+of incarcerated persons’ access to such materials; 
+15
+(12) guidance for correctional facilities on how 
+16
+to educate incarcerated persons, and the medical fa-
+17
+cilities treating those incarcerated persons for 
+18
+COVID–19, on the healthcare rights of the incarcer-
+19
+ated persons under Federal and State law and the 
+20
+minimum ethical standards of care, including the 
+21
+use of medical isolation that does not include soli-
+22
+tary confinement; 
+23
+(13) recommendations for correctional facilities 
+24
+on how to increase communication between incarcer-
+25
+03:49 Oct 30, 2020
+H8470
+25 
+•HR 8470 IH
+ated persons and friends and family outside of the 
+1
+facility during the COVID–19 pandemic, including 
+2
+guidance on how to suspend fees for phone calls and 
+3
+electronic communications and expand visitation (in-
+4
+cluding virtual visitation) options; 
+5
+(14) requirements that correctional facilities 
+6
+communicate, not less frequently than biweekly, and 
+7
+in such a manner that permits for feedback from in-
+8
+carcerated persons, to incarcerated persons the steps 
+9
+being taken to address the COVID–19 pandemic in 
+10
+the facility; and 
+11
+(15) guidance for correctional facilities on how 
+12
+to connect incarcerated persons released from con-
+13
+finement as a result of the COVID–19 pandemic 
+14
+with post-release resources, such as health insur-
+15
+ance, primary care providers, other health profes-
+16
+sionals, and quarantine facilities, with sensitivity to 
+17
+the immigration status of incarcerated persons. 
+18
+SEC. 7. REPORT TO CONGRESS. 
+19
+Not later than 60 days after the date of enactment 
+20
+of this Act, the Attorney General shall submit to Congress 
+21
+a report on prevention, mitigation, and control activities 
+22
+relating to the spread of COVID–19 in prisons conducted 
+23
+by the Department of Justice and the Bureau of Prisons, 
+24
+03:49 Oct 30, 2020
+H8470
+26 
+•HR 8470 IH
+disaggregated by facility when applicable, that includes in-
+1
+formation on— 
+2
+(1) efforts of correctional facilities to comply 
+3
+with the Interim Guidance on Management of 
+4
+Coronavirus Disease 2019 (COVID–19) in Correc-
+5
+tional and Detention Facilities issued by the Centers 
+6
+for Disease Control and Prevention (referred to in 
+7
+this section as the ‘‘Interim Guidelines’’), includ-
+8
+ing— 
+9
+(A) information on steps that have been 
+10
+and continue to be taken with respect to oper-
+11
+ational preparedness, including— 
+12
+(i) with respect to communication and 
+13
+coordination— 
+14
+(I) developing information shar-
+15
+ing systems with partners; 
+16
+(II) reviewing and revising for 
+17
+COVID–19 existing influenza, all-haz-
+18
+ards, and disaster plans; 
+19
+(III) coordinating with local law 
+20
+enforcement and court officials as 
+21
+necessary; and 
+22
+(IV) encouraging all persons in 
+23
+the facility, including through posting 
+24
+03:49 Oct 30, 2020
+H8470
+27 
+•HR 8470 IH
+signs, to take action to protect them-
+1
+selves from COVID–19; 
+2
+(ii) with respect to personnel prac-
+3
+tices— 
+4
+(I) reviewing sick leave policies of 
+5
+each employer that operates within 
+6
+the facility; 
+7
+(II) identifying duties that can be 
+8
+performed remotely; 
+9
+(III) planning for staff absences; 
+10
+(IV) offering revised duties to 
+11
+staff at increased risk for severe ill-
+12
+ness from COVID–19; 
+13
+(V) making plans to change staff 
+14
+duty assignments to prevent unneces-
+15
+sary movement between housing units 
+16
+during a COVID–19 outbreak; and 
+17
+(VI) offering the seasonal influ-
+18
+enza vaccines to all incarcerated per-
+19
+sons and correctional facility staff; 
+20
+and 
+21
+(iii) with respect to operations, sup-
+22
+plies, and personal protective equipment 
+23
+(referred to in this clause as ‘‘PPE’’) prep-
+24
+arations— 
+25
+03:49 Oct 30, 2020
+H8470
+28 
+•HR 8470 IH
+(I) ensuring that sufficient stocks 
+1
+of hygiene supplies, cleaning supplies, 
+2
+PPE, and medical supplies (consistent 
+3
+with the healthcare capabilities of the 
+4
+facility) are on hand and available, 
+5
+and having a plan in place to restock 
+6
+as needed; 
+7
+(II) making contingency plans for 
+8
+possible PPE shortages during the 
+9
+COVID–19 pandemic; 
+10
+(III) relaxing restrictions on al-
+11
+lowing alcohol-based hand sanitizer; 
+12
+(IV) providing a no-cost supply 
+13
+of soap to incarcerated persons suffi-
+14
+cient to allow frequent hand washing; 
+15
+(V) establishing a respiratory 
+16
+protection program, if not already in 
+17
+place; 
+18
+(VI) ensuring that correctional 
+19
+facility staff and incarcerated persons 
+20
+are trained to correctly don, doff, and 
+21
+dispose of PPE that they will need to 
+22
+use within the scope of their respon-
+23
+sibilities; and 
+24
+03:49 Oct 30, 2020
+H8470
+29 
+•HR 8470 IH
+(VII) setting up designated PPE 
+1
+donning and doffing areas outside all 
+2
+spaces where PPE will be used; 
+3
+(B) information on steps that have been 
+4
+and continue to be taken with respect to pre-
+5
+vention, including— 
+6
+(i) to prevent COVID–19 cases among 
+7
+incarcerated persons— 
+8
+(I) 
+implementing 
+social 
+9
+distancing strategies to increase the 
+10
+physical space between incarcerated 
+11
+persons, which, to the extent prac-
+12
+ticable, shall be 6 feet between all in-
+13
+dividuals, regardless of symptoms; 
+14
+(II) minimizing the mixing of in-
+15
+dividuals from different housing units; 
+16
+and 
+17
+(III) providing up-to-date infor-
+18
+mation about COVID–19 to incarcer-
+19
+ated persons; 
+20
+(ii) to prevent COVID–19 cases 
+21
+among correctional facility staff— 
+22
+(I) reminding staff to stay at 
+23
+home if they are sick; 
+24
+03:49 Oct 30, 2020
+H8470
+30 
+•HR 8470 IH
+(II) performing verbal screening 
+1
+and temperature checks for all staff 
+2
+daily upon entry; and 
+3
+(III) providing up-to-date infor-
+4
+mation about COVID–19 to staff, in-
+5
+cluding information about sick leave 
+6
+policies; and 
+7
+(iii) to prevent COVID–19 cases 
+8
+among visitors— 
+9
+(I) communicating with potential 
+10
+visitors to discourage contact visits; 
+11
+(II) conducting verbal screenings 
+12
+and temperature checks for visitors, 
+13
+and requiring face coverings; and 
+14
+(III) promoting non-contact visits 
+15
+and providing access to free virtual 
+16
+visitation options; 
+17
+(C) information on steps that have been 
+18
+and continue to be taken with respect to 
+19
+COVID–19 case management, including— 
+20
+(i) with respect to infection control, 
+21
+ensuring proper infection control protocols 
+22
+are in place; 
+23
+(ii) with respect to medical isolation— 
+24
+03:49 Oct 30, 2020
+H8470
+31 
+•HR 8470 IH
+(I) placing incarcerated individ-
+1
+uals with confirmed or suspected 
+2
+cases of COVID–19 in medical isola-
+3
+tion; 
+4
+(II) ensuring that medical isola-
+5
+tion for COVID–19 is distinct from 
+6
+punitive solitary confinement; 
+7
+(III) keeping to an absolute min-
+8
+imum the movement outside the med-
+9
+ical isolation space of incarcerated in-
+10
+dividuals with confirmed or suspected 
+11
+cases of COVID–19; and 
+12
+(IV) safely cohorting, if nec-
+13
+essary, COVID–19-infected incarcer-
+14
+ated individuals; and 
+15
+(iii) with respect to provision of 
+16
+care— 
+17
+(I) ensuring that incarcerated 
+18
+persons receive medical evaluation and 
+19
+treatment at the first signs of 
+20
+COVID–19 symptoms, including in 
+21
+cases where a facility is not able to 
+22
+provide such evaluation and treatment 
+23
+onsite; 
+24
+03:49 Oct 30, 2020
+H8470
+32 
+•HR 8470 IH
+(II) providing incarcerated indi-
+1
+viduals with onsite healthcare; and 
+2
+(III) providing incarcerated indi-
+3
+viduals with healthcare services in the 
+4
+community, as necessary; and 
+5
+(D) all other aspects of the Interim Guid-
+6
+ance; 
+7
+(2) the process for determining which incarcer-
+8
+ated persons qualify for home confinement, including 
+9
+listing every factor that is taken into consideration, 
+10
+and how the factors are weighed to determine quali-
+11
+fication, including— 
+12
+(A) how many incarcerated persons have 
+13
+been reviewed for home confinement; 
+14
+(B) how many incarcerated persons have 
+15
+qualified for and have been moved into home 
+16
+confinement, and the average length of time be-
+17
+tween review, approval, and transfer; 
+18
+(C) how the prior convictions of an incar-
+19
+cerated person are used to determine who quali-
+20
+fies for home confinement, including whether 
+21
+certain convictions are weighed more heavily 
+22
+than others, and whether a prior conviction re-
+23
+gardless of severity automatically bars an incar-
+24
+03:49 Oct 30, 2020
+H8470
+33 
+•HR 8470 IH
+cerated person from qualifying for home con-
+1
+finement; and 
+2
+(D) demographic data of the incarcerated 
+3
+persons who are considered for home confine-
+4
+ment and of the incarcerated persons who are 
+5
+ultimately 
+chosen 
+for 
+home 
+confinement, 
+6
+disaggregated by age, race, gender, ethnicity, 
+7
+level of offense, how much time remains on 
+8
+their sentence, and whether the individual is 
+9
+high risk for COVID–19; 
+10
+(3) the process for determining which incarcer-
+11
+ated persons qualify for compassionate release, in-
+12
+cluding listing every factor that is taken into consid-
+13
+eration, and how the factors are weighed to deter-
+14
+mine qualification, including— 
+15
+(A) how many incarcerated persons have 
+16
+been reviewed for compassionate release; 
+17
+(B) how many incarcerated persons have 
+18
+qualified 
+for 
+compassionate 
+release, 
+19
+disaggregated by compassionate releases ap-
+20
+proved by the Bureau of Prisons and compas-
+21
+sionate releases granted by courts, and the av-
+22
+erage length of time between review, approval, 
+23
+and release; 
+24
+03:49 Oct 30, 2020
+H8470
+34 
+•HR 8470 IH
+(C) how the prior convictions of an incar-
+1
+cerated person are used to determine who quali-
+2
+fies for compassionate release, including wheth-
+3
+er certain convictions are weighed more heavily 
+4
+than others, and whether a prior conviction re-
+5
+gardless of severity automatically bars an incar-
+6
+cerated person from qualifying for compas-
+7
+sionate release; and 
+8
+(D) demographic data of the incarcerated 
+9
+persons who are considered for compassionate 
+10
+release and of the incarcerated persons who are 
+11
+ultimately chosen for compassionate release, 
+12
+disaggregated by age, race, gender, ethnicity, 
+13
+level of offense, and how much time remains on 
+14
+their sentence; 
+15
+(4) the process of providing information to fam-
+16
+ilies and emergency contacts of incarcerated persons 
+17
+who have tested positive for COVID–19, including 
+18
+how long it takes on average for families and emer-
+19
+gency contacts to be notified after initial diagnosis, 
+20
+and how often facilities follow up with families and 
+21
+emergency contacts to update them on the health 
+22
+condition of the incarcerated person; 
+23
+(5) resource limitations, if any, that have inhib-
+24
+ited the ability of the Department of Justice and 
+25
+03:49 Oct 30, 2020
+H8470
+35 
+•HR 8470 IH
+Bureau of Prisons to fully implement the Centers 
+1
+for Disease Control and Prevention’s Interim Guide-
+2
+lines; and 
+3
+(6) what actions are being taken to modernize 
+4
+the electronic health records systems of the Bureau 
+5
+of Prisons. 
+6
+Æ 
+03:49 Oct 30, 2020
+H8470

@@ -1,0 +1,749 @@
+A BILL 
+To establish a governmentwide approach to improving digital 
+identity, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improving Digital 
+4
+Identity Act of 2020’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+01:02 Sep 15, 2020
+H8215
+2 
+•HR 8215 IH
+(1) The lack of an easy, affordable, and reliable 
+1
+way for organizations, businesses, and government 
+2
+agencies to identify whether an individual is who 
+3
+they claim to be online creates an attack vector that 
+4
+is widely exploited by adversaries in cyberspace, and 
+5
+precludes many high-value transactions from being 
+6
+available online. 
+7
+(2) Incidents of identity theft and identity 
+8
+fraud continue to rise in the United States, where 
+9
+more than 164,000,000 consumer records containing 
+10
+personally identifiable information were breached in 
+11
+2019, increasing the total number of data breaches 
+12
+by 17 percent from the previous year. 
+13
+(3) In 2019, losses resulting from identity 
+14
+fraud amounted to $16,900,000,000. 
+15
+(4) In 2019, the Director of the Treasury De-
+16
+partment Financial Crimes Enforcement Network 
+17
+stated, ‘‘The abuse of personally identifiable infor-
+18
+mation, and other building blocks of identity, is a 
+19
+key enabler behind much of the fraud and cyber-
+20
+crime affecting our nation today.’’ 
+21
+(5) Trustworthy digital identity solutions can 
+22
+help under-banked and unbanked individuals better 
+23
+access to digital financial services through innovative 
+24
+delivery channels that promote financial inclusion. 
+25
+01:02 Sep 15, 2020
+H8215
+3 
+•HR 8215 IH
+(6) The inadequacy of current digital identity 
+1
+solutions degrades security and privacy for all Amer-
+2
+icans, and next generation solutions are needed that 
+3
+improve both security and privacy. 
+4
+(7) 
+Government 
+entities, 
+as 
+authoritative 
+5
+issuers of identity in the United States, are uniquely 
+6
+positioned to deliver critical components that ad-
+7
+dress deficiencies in our digital identity infrastruc-
+8
+ture and augment private sector digital identity and 
+9
+authentication solutions. 
+10
+(8) State governments are particularly well 
+11
+suited to play a role in enhancing digital identity so-
+12
+lutions used by both the public and private sectors, 
+13
+given the role of State governments as the issuers of 
+14
+driver’s licenses and other identity documents com-
+15
+monly used today. 
+16
+(9) The private sector drives much of the inno-
+17
+vation around digital identity in the United States 
+18
+and has an important role to play in delivering dig-
+19
+ital identity solutions. 
+20
+(10) The 2016 bipartisan Commission on En-
+21
+hancing National Cybersecurity called for the Fed-
+22
+eral government to ‘‘create an interagency task force 
+23
+directed to find secure, user-friendly, privacy-centric 
+24
+ways in which agencies can serve as one authori-
+25
+01:02 Sep 15, 2020
+H8215
+4 
+•HR 8215 IH
+tative source to validate identity attributes in the 
+1
+broader identity market. This action would enable 
+2
+government agencies and the private sector to drive 
+3
+significant risk out of new account openings and 
+4
+other high-risk, high-value online services, and it 
+5
+would help all citizens more easily and securely en-
+6
+gage in transactions online.’’ 
+7
+(11) The public and private sectors should col-
+8
+laborate to deliver solutions that promote confidence, 
+9
+privacy, choice, and innovation. 
+10
+(12) It should be the policy of the Government 
+11
+to use the authorities and capabilities of the Govern-
+12
+ment to enhance the security, reliability, privacy, 
+13
+and convenience of digital identity solutions that 
+14
+support and protect transactions between individ-
+15
+uals, government entities, and businesses, and that 
+16
+enable Americans to prove who they are online. 
+17
+SEC. 3. IMPROVING DIGITAL IDENTITY TASK FORCE. 
+18
+(a) ESTABLISHMENT.—There is established in the 
+19
+Executive Office of the President a task force to be known 
+20
+as the ‘‘Improving Digital Identity Task Force’’ (in this 
+21
+section referred to as the ‘‘Task Force’’). 
+22
+(b) PURPOSE.—The purpose of the Task Force is to 
+23
+establish a governmentwide effort to develop secure meth-
+24
+ods for Federal, State, and local agencies to validate iden-
+25
+01:02 Sep 15, 2020
+H8215
+5 
+•HR 8215 IH
+tity attributes to protect the privacy and security of indi-
+1
+viduals and support reliable, interoperable digital identity 
+2
+verification in the public and private sectors. 
+3
+(c) DIRECTOR.—The Task Force shall have a Direc-
+4
+tor who shall be appointed by the President. 
+5
+(d) MEMBERSHIP.—The Task Force shall include the 
+6
+following individuals or the designees of such individuals: 
+7
+(1) FEDERAL GOVERNMENT MEMBERSHIP.— 
+8
+(A) The Secretary of the Treasury. 
+9
+(B) The Secretary of Homeland Security. 
+10
+(C) The Secretary of State. 
+11
+(D) The Secretary of Education. 
+12
+(E) The Director of the Office of Manage-
+13
+ment and Budget. 
+14
+(F) The Commissioner of the Social Secu-
+15
+rity Administration. 
+16
+(G) The Director of the National Institute 
+17
+of Standards and Technology. 
+18
+(H) The Administrator of General Serv-
+19
+ices. 
+20
+(I) The heads of other Federal agencies 
+21
+and offices who the President may designate or 
+22
+invite. 
+23
+(2) STATE
+GOVERNMENT
+MEMBERSHIP.—The 
+24
+Task Force shall include 5 State government offi-
+25
+01:02 Sep 15, 2020
+H8215
+6 
+•HR 8215 IH
+cials who represent State agencies that issue identity 
+1
+credentials and who have knowledge of the systems 
+2
+used to provide such credentials. Such officials shall 
+3
+include the following: 
+4
+(A) A member appointed by the Speaker of 
+5
+the House of Representatives, in consultation 
+6
+with the Chairman of the Committee on Over-
+7
+sight and Reform and the Chairman of the 
+8
+Committee on Homeland Security of the House 
+9
+of Representatives. 
+10
+(B) A member appointed by the minority 
+11
+leader of the House of Representatives, in con-
+12
+sultation with the Ranking Member of the Com-
+13
+mittee on Oversight and Reform and the Rank-
+14
+ing Member of the Committee on Homeland Se-
+15
+curity of the House of Representatives. 
+16
+(C) A member appointed by the majority 
+17
+leader of the Senate, in consultation with the 
+18
+Chairman of the Committee on Homeland Secu-
+19
+rity and Governmental Affairs of the Senate. 
+20
+(D) A member appointed by the minority 
+21
+leader of the Senate, in consultation with the 
+22
+Ranking Member of the Committee on Home-
+23
+land Security and Governmental Affairs of the 
+24
+Senate. 
+25
+01:02 Sep 15, 2020
+H8215
+7 
+•HR 8215 IH
+(E) A member appointed by the President. 
+1
+(3) LOCAL
+GOVERNMENT
+MEMBERSHIP.—The 
+2
+Task Force shall include 5 local government officials 
+3
+who represent local agencies that issue identity cre-
+4
+dentials and who have knowledge of the systems 
+5
+used to provide such credentials. Such officials shall 
+6
+include the following: 
+7
+(A) A member appointed by the Speaker of 
+8
+the House of Representatives, in consultation 
+9
+with the Chairman of the Committee on Over-
+10
+sight and Reform and Chairman of the Com-
+11
+mittee on Homeland Security of the House of 
+12
+Representatives. 
+13
+(B) A member appointed by the minority 
+14
+leader of the House of Representatives, in con-
+15
+sultation with the Chairman of the Committee 
+16
+on Oversight and Reform and the Chairman of 
+17
+the Committee on Homeland Security of the 
+18
+House of Representatives. 
+19
+(C) A member appointed by the majority 
+20
+leader of the Senate, in consultation with the 
+21
+Chairman of the Committee on Homeland Secu-
+22
+rity and Governmental Affairs of the Senate. 
+23
+(D) A member appointed by the minority 
+24
+leader of the Senate, in consultation with the 
+25
+01:02 Sep 15, 2020
+H8215
+8 
+•HR 8215 IH
+Ranking Member of the Committee on Home-
+1
+land Security and Governmental Affairs of the 
+2
+Senate. 
+3
+(E) A member appointed by the President. 
+4
+(e) MEETINGS.—The Task Force shall convene at the 
+5
+call of the Director. 
+6
+(f) DUTIES.—The Task Force shall— 
+7
+(1) identify Federal, State, and local agencies 
+8
+that issue identity information or hold information 
+9
+related to identifying an individual; 
+10
+(2) assess restrictions with respect to the abili-
+11
+ties of such agencies to verify identity information 
+12
+for other agencies and for nongovernmental organi-
+13
+zations; 
+14
+(3) assess any necessary changes in statute, 
+15
+regulation, or policy to address any restrictions de-
+16
+termined under paragraph (2); 
+17
+(4) recommend a standards-based architecture 
+18
+to enable agencies to provide services related to dig-
+19
+ital identity verification in a way that is secure, pro-
+20
+tects privacy, and is rooted in consumer consent; 
+21
+(5) identify funding or resources needed to sup-
+22
+port such agencies that provide digital identity 
+23
+verification, including a recommendation with re-
+24
+01:02 Sep 15, 2020
+H8215
+9 
+•HR 8215 IH
+spect to additional funding required for the grant 
+1
+program under section 5; 
+2
+(6) determine whether it would be practicable 
+3
+for such agencies to use a fee-based model to provide 
+4
+digital identity verification to private sector entities; 
+5
+(7) determine if any additional steps are nec-
+6
+essary with respect to Federal, State, and local 
+7
+agencies to improve digital identity verification and 
+8
+management processes for the purpose of enhancing 
+9
+the security, reliability, privacy, and convenience of 
+10
+digital identity solutions that support and protect 
+11
+transactions between individuals, government enti-
+12
+ties, and businesses; 
+13
+(8) assess risks related to potential criminal ex-
+14
+ploitation of digital identity verification services; and 
+15
+(9) to the extent practicable, seek input from 
+16
+and collaborate with interested parties in the private 
+17
+sector to carry out the purpose under subsection (b). 
+18
+(g) RECOMMENDATIONS.—Not later than 180 days 
+19
+after the date of the enactment of this Act, the Task Force 
+20
+shall publish a report on the activities of the Task force, 
+21
+including recommendations on— 
+22
+(1) priorities for research and development in 
+23
+the systems that enable digital identity verification, 
+24
+including how such priorities can be executed; and 
+25
+01:02 Sep 15, 2020
+H8215
+10 
+•HR 8215 IH
+(2) the standards-based architecture developed 
+1
+pursuant to subsection (f)(4). 
+2
+SEC. 4. DIGITAL IDENTITY STANDARDS. 
+3
+(a) ESTABLISHMENT
+OF
+A STANDARDS FRAME-
+4
+WORK.—The Director of the National Institute of Stand-
+5
+ards and Technology (in this section referred to as the 
+6
+‘‘Director’’) shall develop a framework of standards, meth-
+7
+odologies, procedures, and processes (in this section re-
+8
+ferred to as the ‘‘Framework’’) as a guide for Federal, 
+9
+State, and local governments to follow when providing 
+10
+services related to digital identity verification. 
+11
+(b) CONSIDERATION.—In developing the Framework, 
+12
+the Director shall consider— 
+13
+(1) methods to protect the privacy of individ-
+14
+uals; 
+15
+(2) security needs; and 
+16
+(3) the needs of potential end-users and individ-
+17
+uals that will use services related to digital identity 
+18
+verification. 
+19
+(c) CONSULTATION.—In carrying out subsection (a), 
+20
+the Director shall consult with— 
+21
+(1) the Improving Digital Identity Task Force 
+22
+established under section 3; 
+23
+01:02 Sep 15, 2020
+H8215
+11 
+•HR 8215 IH
+(2) potential end-users and individuals that will 
+1
+use services related to digital identity verification; 
+2
+and 
+3
+(3) experts with relevant experience in the sys-
+4
+tems that enable digital identity verification, as de-
+5
+termined by the Director. 
+6
+(d) INTERIM PUBLICATION.—Not later than 240 
+7
+days after the date of the enactment of this Act, the Direc-
+8
+tor shall publish an interim version of the Framework. 
+9
+(e) FINAL PUBLICATION.—Not later than 1 year 
+10
+after the date of the enactment of this Act, the Director 
+11
+shall publish a final version of the Framework. 
+12
+(f) UPDATES TO THE FRAMEWORK.—The Director 
+13
+shall, from time to time, update the Framework, with con-
+14
+sideration given to— 
+15
+(1) feedback from Federal, State, and local 
+16
+agencies that provide services related to digital iden-
+17
+tity verification; and 
+18
+(2) any technological changes to the systems 
+19
+that enable digital identity verification. 
+20
+SEC. 5. DIGITAL IDENTITY INNOVATION GRANTS. 
+21
+(a) ESTABLISHMENT.—Not later than 18 months 
+22
+after the date of the enactment of this Act, the Secretary 
+23
+of Homeland Security (in this section referred to as the 
+24
+‘‘Secretary’’) shall award grants to States to upgrade sys-
+25
+01:02 Sep 15, 2020
+H8215
+12 
+•HR 8215 IH
+tems that provide drivers’ licenses or other types of iden-
+1
+tity credentials to support the development of highly se-
+2
+cure, interoperable State systems that enable digital iden-
+3
+tity verification. 
+4
+(b) USE OF FUNDS.—A State that receives a grant 
+5
+under this section shall use— 
+6
+(1) grant funds for services related to digital 
+7
+identity verification using the Framework developed 
+8
+pursuant to section 4; and 
+9
+(2) not less than 10 percent of grant funds to 
+10
+provide services that assist individuals with obtain-
+11
+ing identity credentials or identity verification serv-
+12
+ices needed to obtain a driver’s license or State iden-
+13
+tity card. 
+14
+(c) AUTHORIZATION OF APPROPRIATIONS.—There is 
+15
+authorized to be appropriated to the Secretary such sums 
+16
+as may be necessary to carry out this section. 
+17
+SEC. 6. REPORT AND RECOMMENDATION ON THE USE OF 
+18
+SOCIAL 
+SECURITY 
+NUMBERS 
+BY 
+NON-
+19
+GOVERNMENTAL ORGANIZATIONS. 
+20
+Not later than 1 year after the date of the enactment 
+21
+of this Act, the Comptroller General of the United States 
+22
+shall submit to the Committees on Ways and Means and 
+23
+Financial Services of the House of Representatives and 
+24
+01:02 Sep 15, 2020
+H8215
+13 
+•HR 8215 IH
+the Committee on Finance of the Senate a report that in-
+1
+cludes the following: 
+2
+(1) An analysis of legal and regulatory require-
+3
+ments with respect to the collection and retention of 
+4
+Social Security numbers by nongovernmental organi-
+5
+zations. 
+6
+(2) A recommendation on the necessity and ef-
+7
+fectiveness of any legal and regulatory requirement 
+8
+analyzed pursuant to paragraph (1) and the use of 
+9
+a form of identification other than a Social Security 
+10
+number. 
+11
+SEC. 7. SECURITY ENHANCEMENTS TO FEDERAL SYSTEMS. 
+12
+(a) DIRECTIVES
+FOR FEDERAL AGENCIES.—Not 
+13
+later than 6 months after the date of the enactment of 
+14
+this Act, the Secretary of Homeland Security shall issue 
+15
+binding operational directives to Federal agencies for pur-
+16
+pose of implementing— 
+17
+(1) the guidelines published by the National In-
+18
+stitute of Standards and Technology in ‘‘Special 
+19
+Publication 800–63’’ (commonly referred to as the 
+20
+‘‘Digital Identity Guidelines’’); and 
+21
+(2) the memorandum of the Office of Manage-
+22
+ment and Budget issued on May 21, 2019, which in-
+23
+cludes the subject ‘‘Enabling Mission Delivery 
+24
+01:02 Sep 15, 2020
+H8215
+14 
+•HR 8215 IH
+through Improved Identity, Credential, and Access 
+1
+Management’’. 
+2
+(b) REPORTS.— 
+3
+(1) FEDERAL
+AGENCY
+REPORTS.—Not later 
+4
+than 1 year after the date of the enactment of this 
+5
+Act, the head of each Federal agency shall submit 
+6
+to the Secretary of Homeland Security a report on 
+7
+the efforts of each such Federal agency to imple-
+8
+ment the directives issued pursuant to subsection 
+9
+(a). 
+10
+(2) REPORT TO CONGRESS.— Not later than 2 
+11
+years after the date of the enactment of this Act, the 
+12
+Secretary of Homeland Security shall submit a re-
+13
+port summarizing the efforts from the reports sub-
+14
+mitted pursuant to paragraph (1) to the following: 
+15
+(A) The Committee on Homeland Security 
+16
+of the House of Representatives. 
+17
+(B) The Committee on Oversight and Re-
+18
+form of the House of Representatives. 
+19
+(C) The Committee on Homeland Security 
+20
+and Governmental Affairs of the Senate. 
+21
+SEC. 8. DEFINITIONS. 
+22
+For purposes of this Act: 
+23
+(1) DIGITAL
+IDENTITY
+VERIFICATION.—The 
+24
+term ‘‘digital identity verification’’ means a process 
+25
+01:02 Sep 15, 2020
+H8215
+15 
+•HR 8215 IH
+to verify the identity of an individual accessing a 
+1
+service online or through another electronic means. 
+2
+(2) IDENTITY CREDENTIAL.—The term ‘‘iden-
+3
+tity credential’’ means a document or other evidence 
+4
+of the identity of an individual issued by a govern-
+5
+ment agency that conveys the identity of the indi-
+6
+vidual, including a driver’s license or passport. 
+7
+Æ 
+01:02 Sep 15, 2020
+H8215

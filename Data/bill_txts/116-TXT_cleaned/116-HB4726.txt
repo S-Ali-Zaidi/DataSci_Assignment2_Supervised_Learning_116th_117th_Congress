@@ -1,0 +1,681 @@
+A BILL 
+To help end-users better utilize derivatives markets by refin-
+ing the definition of financial entity, clarifying how affili-
+ates can utilize the end-user exception, and harmonizing 
+clearing and margin exemptions. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Certainty for End- 
+4
+Users Act’’. 
+5
+SEC. 2. CLARIFYING THE FINANCIAL ENTITY DEFINITION. 
+6
+(a) IN GENERAL.—Section 2(h) of the Commodity 
+7
+Exchange Act (7 U.S.C. 2(h)) is amended— 
+8
+21:41 Oct 27, 2019
+H4726
+2 
+•HR 4726 IH
+(1) by striking paragraph (1)(A) and inserting 
+1
+the following: 
+2
+‘‘(A) STANDARD FOR CLEARING.—It shall 
+3
+be unlawful for a financial entity to engage in 
+4
+a swap with another financial entity, unless the 
+5
+swap is submitted for clearing to a derivatives 
+6
+clearing organization registered under this Act 
+7
+or a derivatives clearing organization exempt 
+8
+from registration under this Act if the swap is 
+9
+required to be cleared.’’; and 
+10
+(2) in paragraph (7)— 
+11
+(A) in the paragraph heading, by striking 
+12
+‘‘EXCEPTIONS’’ and inserting ‘‘APPLICATION OF 
+13
+CLEARING REQUIREMENT’’; 
+14
+(B) by striking subparagraphs (A) and (B) 
+15
+and redesignating subparagraph (C) as sub-
+16
+paragraph (A); 
+17
+(C) in subparagraph (A) (as so redesig-
+18
+nated)— 
+19
+(i) by striking clause (i) and inserting 
+20
+the following: 
+21
+‘‘(i) IN GENERAL.—In this subsection, 
+22
+the term ‘financial entity’ means the fol-
+23
+lowing: 
+24
+21:41 Oct 27, 2019
+H4726
+3 
+•HR 4726 IH
+‘‘(I) INSTITUTIONS
+NOT
+STATU-
+1
+TORILY EXEMPTED.— 
+2
+‘‘(aa) A financial institution. 
+3
+‘‘(bb) A swap dealer. 
+4
+‘‘(cc) A security-based swap 
+5
+dealer. 
+6
+‘‘(dd) A major swap partici-
+7
+pant. 
+8
+‘‘(ee) A major security-based 
+9
+swap participant. 
+10
+‘‘(ff) A commodity pool that 
+11
+is required to be operated by a 
+12
+commodity pool operator reg-
+13
+istered with the Commission, or a 
+14
+foreign person that would be 
+15
+such a commodity pool if the for-
+16
+eign person were organized under 
+17
+the laws of the United States or 
+18
+any State. 
+19
+‘‘(gg) An investment com-
+20
+pany (as defined in section 3 of 
+21
+the Investment Company Act of 
+22
+1940 (15 U.S.C. 80a–3)), or a 
+23
+foreign person that would be 
+24
+such an investment company if 
+25
+21:41 Oct 27, 2019
+H4726
+4 
+•HR 4726 IH
+the foreign person were organized 
+1
+under the laws of the United 
+2
+States or any State. 
+3
+‘‘(II) PRIVATE
+FUNDS.—A pri-
+4
+vate fund as defined in section 202(a) 
+5
+of the Investment Advisers Act of 
+6
+1940 (15 U.S.C. 80–b–2(a)), or a for-
+7
+eign person that would be such a pri-
+8
+vate fund if the foreign person were 
+9
+organized under the laws of the 
+10
+United States or any State. 
+11
+‘‘(III) OTHER
+PERSONS.—Such 
+12
+other persons the Commission deter-
+13
+mines by rule to be predominantly en-
+14
+gaged in activities that are financial 
+15
+in nature. In making such a deter-
+16
+mination, the Commission may con-
+17
+sider section 4(k) of the Bank Hold-
+18
+ing Company Act of 1956. The Com-
+19
+mission shall promulgate regulations 
+20
+to carry out this subclause.’’; 
+21
+(ii) in clause (iii), by striking ‘‘Such 
+22
+definition’’ and inserting ‘‘The term’’; and 
+23
+(iii) by adding at the end the fol-
+24
+lowing: 
+25
+21:41 Oct 27, 2019
+H4726
+5 
+•HR 4726 IH
+‘‘(iv) DE MINIMIS EXCLUSION.— 
+1
+‘‘(I) AMOUNTS.—A person de-
+2
+scribed in subclause (III), and not 
+3
+subclause (I) or (II), of clause (i) 
+4
+shall not be considered a financial en-
+5
+tity for purposes of this subsection if 
+6
+the total swaps activity of the person, 
+7
+when calculated with those of all other 
+8
+affiliated persons who are so de-
+9
+scribed, amount to less than— 
+10
+‘‘(aa) 
+$1,000,000,000 
+in 
+11
+gross notional swaps transactions 
+12
+calculated on the basis of a roll-
+13
+ing 12-month period; or 
+14
+‘‘(bb) an alternative de mini-
+15
+mis amount of swaps activity, ex-
+16
+posure, transactions, or other 
+17
+measurement, as determined by 
+18
+the Commission. At least every 5 
+19
+years, the Commission shall con-
+20
+sider modifying the alternative de 
+21
+minimis amount due to inflation 
+22
+or other market factors. 
+23
+21:41 Oct 27, 2019
+H4726
+6 
+•HR 4726 IH
+‘‘(II) CALCULATION.—The cal-
+1
+culation under subclause (I) shall not 
+2
+include— 
+3
+‘‘(aa) swaps used to hedge 
+4
+or mitigate risk associated with 
+5
+an asset owned or liability in-
+6
+curred or reasonably likely to be 
+7
+owned or incurred by an entity in 
+8
+the conduct of such entity’s busi-
+9
+ness; or 
+10
+‘‘(bb) swaps used by an in-
+11
+surance company for asset rep-
+12
+lication if they are expressly per-
+13
+mitted by State insurance regu-
+14
+lators to be entered into in con-
+15
+junction with other investments 
+16
+in order to replicate the invest-
+17
+ment characteristics of otherwise 
+18
+permissible investments. 
+19
+‘‘(III) REQUIREMENTS OF ENTI-
+20
+TIES
+RELYING
+ON
+THE
+DE
+MINIMIS 
+21
+EXCLUSION.—An entity that relies on 
+22
+the de minimis exception in this 
+23
+clause to avoid clearing swaps trans-
+24
+actions that the Commission requires 
+25
+21:41 Oct 27, 2019
+H4726
+7 
+•HR 4726 IH
+a financial entity to clear pursuant to 
+1
+paragraph (1)(A) and Commission 
+2
+regulations shall, with respect to the 
+3
+swaps, report or cause to be reported, 
+4
+to a registered swap data repository 
+5
+the reliance of the entity on the de 
+6
+minimis exclusion.’’; and 
+7
+(D) by inserting after subparagraph (A) 
+8
+(as amended by the preceding provisions of this 
+9
+paragraph) the following: 
+10
+‘‘(B) ADDITIONAL DEFINITIONS.—In this 
+11
+subsection: 
+12
+‘‘(i) AFFILIATE
+STATUS.—2 entities 
+13
+are affiliated if— 
+14
+‘‘(I) 1 of the entities, directly or 
+15
+indirectly, holds a majority ownership 
+16
+interest in the other entity; or 
+17
+‘‘(II) a third party, directly or in-
+18
+directly, holds a majority ownership 
+19
+interest in both entities. 
+20
+‘‘(ii) NON-FINANCIAL
+ENTITY.—The 
+21
+term ‘non-financial entity’ means— 
+22
+‘‘(I) a person not described in 
+23
+subparagraph (A)(i); or 
+24
+21:41 Oct 27, 2019
+H4726
+8 
+•HR 4726 IH
+‘‘(II) a person described in clause 
+1
+(ii), (iii), or (iv) of subparagraph (A). 
+2
+‘‘(C) REQUIREMENTS
+OF
+NON-FINANCIAL 
+3
+ENTITIES.—A non-financial entity that engages 
+4
+in swaps transactions that the Commission re-
+5
+quires a financial entity to clear pursuant to 
+6
+paragraph (1)(A) and Commission regulations 
+7
+shall, with respect to the swaps, report or cause 
+8
+to be reported, to a registered swap data reposi-
+9
+tory their status as a non-financial entity.’’. 
+10
+SEC. 3. SIMPLIFYING THE END-USER AFFILIATE PROCESS. 
+11
+Section 2(h)(7) of the Commodity Exchange Act (7 
+12
+U.S.C. 2(h)(7)), as amended by section 2 of this Act, is 
+13
+amended— 
+14
+(1) by striking subparagraph (D) and inserting 
+15
+the following: 
+16
+‘‘(D) RISK
+MANAGEMENT
+THROUGH
+AF-
+17
+FILIATES.— 
+18
+‘‘(i) EXCEPTION.—The requirements 
+19
+of paragraph (1)(A) shall not apply to a 
+20
+swap entered into by a risk management 
+21
+entity if the swap is— 
+22
+‘‘(I) used to hedge or mitigate el-
+23
+igible risk originating from one or 
+24
+21:41 Oct 27, 2019
+H4726
+9 
+•HR 4726 IH
+more affiliated non-financial entities; 
+1
+and 
+2
+‘‘(II) not netted, combined, or 
+3
+consolidated with any other swap to 
+4
+which the requirements of paragraph 
+5
+(1)(A) apply. 
+6
+‘‘(ii) RISK MANAGEMENT ENTITY DE-
+7
+FINED.—In this subparagraph, the term 
+8
+‘risk management entity’ means— 
+9
+‘‘(I) an entity described in sub-
+10
+clause (II), and not subclause (I), of 
+11
+subparagraph (A)(i), that enters only 
+12
+into transactions related to the man-
+13
+agement of eligible risk; 
+14
+‘‘(II) an entity described in only 
+15
+subclause 
+(III) 
+of 
+subparagraph 
+16
+(A)(i); or 
+17
+‘‘(III) a non-financial entity. 
+18
+‘‘(iii) ELIGIBLE
+RISK
+DEFINED.—In 
+19
+this subparagraph, the term ‘eligible risk’ 
+20
+means risk that— 
+21
+‘‘(I) originates from a non-finan-
+22
+cial entity; 
+23
+‘‘(II) is associated with an asset 
+24
+owned or liability incurred or reason-
+25
+21:41 Oct 27, 2019
+H4726
+10 
+•HR 4726 IH
+ably likely to be owned or incurred by 
+1
+the non-financial entity in the conduct 
+2
+of the business of the non-financial 
+3
+entity; 
+4
+‘‘(III) is not netted, combined, or 
+5
+consolidated 
+with 
+risk 
+originating 
+6
+from any affiliated financial entity; 
+7
+and 
+8
+‘‘(IV) if transferred, is trans-
+9
+ferred only to or through one or more 
+10
+affiliated risk management entities. 
+11
+‘‘(iv) REQUIREMENTS OF RISK MAN-
+12
+AGEMENT ENTITIES.—A risk management 
+13
+entity that engages in swaps which utilize 
+14
+the exception in this subparagraph shall— 
+15
+‘‘(I) notify the Commission, in a 
+16
+manner prescribed by the Commis-
+17
+sion, how the risk management entity 
+18
+generally meets the financial obliga-
+19
+tions of the risk management entity 
+20
+associated with entering into non- 
+21
+cleared swaps; 
+22
+‘‘(II) identify those swaps used to 
+23
+hedge or mitigate eligible risk origi-
+24
+21:41 Oct 27, 2019
+H4726
+11 
+•HR 4726 IH
+nating from one or more affiliated 
+1
+non-financial entities; and 
+2
+‘‘(III) 
+maintain 
+books 
+and 
+3
+records of the swaps which utilize the 
+4
+exception in this subparagraph and 
+5
+the related eligible risk in such form 
+6
+and manner and for such period as 
+7
+may be required by the Commission. 
+8
+‘‘(v) NO EFFECT ON NON-FINANCIAL 
+9
+ENTITIES.—Nothing in this subparagraph 
+10
+shall be interpreted to limit the ability of 
+11
+any non-financial entity to engage in a 
+12
+swap to which the requirements of para-
+13
+graph (1)(A) do not apply.’’; and 
+14
+(2) by striking subparagraph (F) and inserting 
+15
+the following: 
+16
+‘‘(F) ABUSE OF EXCEPTION.—The Com-
+17
+mission may prescribe such rules or issue such 
+18
+interpretations of the rules as the Commission 
+19
+determines to be necessary to prevent abuse of 
+20
+the exceptions described in this paragraph. The 
+21
+Commission may request information from a 
+22
+person claiming to be a non-financial entity as 
+23
+necessary to prevent evasion of the rules or 
+24
+21:41 Oct 27, 2019
+H4726
+12 
+•HR 4726 IH
+abuse of the exceptions described in this para-
+1
+graph.’’. 
+2
+SEC. 4. ALIGNMENT OF MARGIN REQUIREMENTS. 
+3
+Section 4s(e)(4) of the Commodity Exchange Act (7 
+4
+U.S.C. 6s(e)(4)) is amended to read as follows: 
+5
+‘‘(4) 
+EXCEPTIONS
+TO
+MARGIN
+REQUIRE-
+6
+MENTS.— 
+7
+‘‘(A) IN GENERAL.—Paragraphs (2)(A)(ii) 
+8
+and (2)(B)(ii), including the initial and vari-
+9
+ation margin requirements imposed under such 
+10
+paragraphs, shall not apply to a swap— 
+11
+‘‘(i) in which a counterparty is a non- 
+12
+financial entity (as defined in section 
+13
+2(h)(7)(B)(ii)), regardless of whether the 
+14
+swap is required to be cleared; 
+15
+‘‘(ii) that qualifies for the exception 
+16
+provided in subparagraph (D) of section 
+17
+2(h)(7), or that would so qualify if the 
+18
+swap were required to be cleared; or 
+19
+‘‘(iii) that qualifies for an exception or 
+20
+exemption from the requirements of section 
+21
+2(h)(1)(A) pursuant to any Commission 
+22
+rule, regulation, or order. 
+23
+‘‘(B) PRESERVATION OF VARIATION MAR-
+24
+GIN EXCHANGE REQUIREMENT APPLICABLE TO 
+25
+21:41 Oct 27, 2019
+H4726
+13 
+•HR 4726 IH
+CERTAIN
+INSURANCE
+COMPANIES.—Notwith-
+1
+standing subparagraph (A) of this paragraph, if 
+2
+an insurance company would be a financial en-
+3
+tity for purposes of section 2(h) if the swaps 
+4
+described in section 2(h)(7)(A)(iv)(II)(bb) of 
+5
+the insurance company were not excluded from 
+6
+the de minimis calculation under section 
+7
+2(h)(7)(A)(iv), then all swaps of the insurance 
+8
+company shall be subject to the variation mar-
+9
+gin requirements of paragraphs (2)(A)(ii) and 
+10
+(2)(B)(ii) of this subsection.’’. 
+11
+SEC. 5. MODIFICATION OF DEFINITION OF MAJOR SWAP 
+12
+PARTICIPANT. 
+13
+Section 1a(33)(A)(iii)(I) of the Commodity Exchange 
+14
+Act (7 U.S.C. 1a(33)(A)(iii)(I)) is amended by inserting 
+15
+‘‘, or a non-financial entity that would be considered to 
+16
+be a financial entity for purposes of section 2(h) but for 
+17
+the application of the de minimis exclusion provided for 
+18
+in section 2(h)(7)(A)(iv),’’ before ‘‘that is highly’’. 
+19
+Æ 
+21:41 Oct 27, 2019
+H4726

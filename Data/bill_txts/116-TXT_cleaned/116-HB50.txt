@@ -1,0 +1,591 @@
+A BILL 
+To modernize Federal grant reporting, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Grant Reporting Effi-
+4
+ciency and Agreements Transparency Act of 2019’’ or the 
+5
+‘‘GREAT Act’’. 
+6
+SEC. 2. PURPOSES. 
+7
+The purposes of this Act are to— 
+8
+(1) modernize reporting by recipients of Federal 
+9
+grants and cooperative agreements by creating and 
+10
+imposing data standards for the information that 
+11
+23:20 Jan 08, 2019
+H50
+2 
+•HR 50 IH
+grants and cooperative agreement recipients must 
+1
+report to the Federal Government; 
+2
+(2) implement the recommendation by the Di-
+3
+rector of the Office of Management and Budget, 
+4
+under section 5(b)(6) of the Federal Funding Ac-
+5
+countability and Transparency Act of 2006 (31 
+6
+U.S.C. 6101 note), which includes the development 
+7
+of a ‘‘comprehensive taxonomy of standard defini-
+8
+tions for core data elements required for managing 
+9
+Federal financial assistance awards’’; 
+10
+(3) reduce burden and compliance costs of re-
+11
+cipients of Federal grants and cooperative agree-
+12
+ments by enabling technology solutions, existing or 
+13
+yet to be developed, by both the public and private 
+14
+sectors, to better manage data recipients already 
+15
+provide to the Federal Government; and 
+16
+(4) to strengthen oversight and management of 
+17
+Federal grants and cooperative agreements by agen-
+18
+cies through consolidated collection and display of 
+19
+and access to open data that has been standardized, 
+20
+and where appropriate, transparency to the public. 
+21
+SEC. 3. DATA STANDARDS FOR GRANT REPORTING. 
+22
+(a) AMENDMENT.—Subtitle V of title 31, United 
+23
+States Code, is amended by inserting after chapter 63 the 
+24
+following new chapter: 
+25
+23:20 Jan 08, 2019
+H50
+3 
+•HR 50 IH
+‘‘CHAPTER 64—DATA STANDARDS FOR 
+1
+GRANT REPORTING 
+2
+‘‘SEC. 6401. DEFINITIONS. 
+3
+‘‘In this chapter: 
+4
+‘‘(1) AGENCY.—The term ‘agency’ has the 
+5
+meaning given that term in section 552(f) of title 5. 
+6
+‘‘(2) CORE DATA ELEMENTS.—The term ‘core 
+7
+data elements’ means data elements that are not 
+8
+program-specific in nature and are required by agen-
+9
+cies for all or the vast majority of Federal grant and 
+10
+cooperative assistance recipients for purposes of re-
+11
+porting. 
+12
+‘‘(3) DIRECTOR.—The term ‘Director’ means 
+13
+the Director of the Office of Management and Budg-
+14
+et. 
+15
+‘‘(4) FEDERAL
+AWARD.—The term ‘Federal 
+16
+award’— 
+17
+‘‘(A) means the transfer of anything of 
+18
+value for a public purpose of support or stimu-
+19
+lation authorized by a law of the United States, 
+20
+including financial assistance and Government 
+21
+facilities, services, and property; 
+22
+‘‘(B) includes grants, subgrants, awards, 
+23
+and cooperative agreements; and 
+24
+‘‘(C) does not include— 
+25
+23:20 Jan 08, 2019
+H50
+4 
+•HR 50 IH
+‘‘(i) conventional public information 
+1
+services or procurement of property or 
+2
+services for the direct benefit or use of the 
+3
+Government; or 
+4
+‘‘(ii) an agreement that provides 
+5
+only— 
+6
+‘‘(I) direct Government cash as-
+7
+sistance to an individual; 
+8
+‘‘(II) a subsidy; 
+9
+‘‘(III) a loan; 
+10
+‘‘(IV) a loan guarantee; or 
+11
+‘‘(V) insurance. 
+12
+‘‘(5) SECRETARY.—The term ‘Secretary’ means 
+13
+the head of the standard-setting agency. 
+14
+‘‘(6) STANDARD-SETTING AGENCY.—The term 
+15
+‘standard-setting agency’ means the Executive de-
+16
+partment designated under section 6402(a)(1). 
+17
+‘‘(7) STATE.—The term ‘State’ means each 
+18
+State of the United States, the District of Columbia, 
+19
+each commonwealth, territory or possession of the 
+20
+United States, and each federally recognized Indian 
+21
+Tribe. 
+22
+‘‘SEC. 6402. DATA STANDARDS FOR GRANT REPORTING. 
+23
+‘‘(a) IN GENERAL.— 
+24
+23:20 Jan 08, 2019
+H50
+5 
+•HR 50 IH
+‘‘(1) DESIGNATION
+OF
+STANDARD-SETTING 
+1
+AGENCY.—The Director shall designate the Execu-
+2
+tive department (as defined in section 101 of title 5) 
+3
+that issues the most Federal awards in a calendar 
+4
+year as the standard-setting agency. 
+5
+‘‘(2) ESTABLISHMENT
+OF
+STANDARDS.—Not 
+6
+later than 1 year after the date of the enactment of 
+7
+this chapter, the Secretary and the Director shall es-
+8
+tablish Governmentwide data standards for informa-
+9
+tion reported by recipients of Federal awards. 
+10
+‘‘(3) DATA
+ELEMENTS.—The data standards 
+11
+established under paragraph (2) shall include, at a 
+12
+minimum— 
+13
+‘‘(A) standard definitions for data elements 
+14
+required for managing Federal awards; and 
+15
+‘‘(B) unique identifiers for Federal awards 
+16
+and entities receiving Federal awards that can 
+17
+be consistently applied Governmentwide. 
+18
+‘‘(b) SCOPE.—The data standards established under 
+19
+subsection (a) shall include core data elements and may 
+20
+cover any information required to be reported to any agen-
+21
+cy by recipients of Federal awards, including audit-related 
+22
+information reported under chapter 75 of this title. 
+23
+23:20 Jan 08, 2019
+H50
+6 
+•HR 50 IH
+‘‘(c) REQUIREMENTS.—The data standards required 
+1
+to be established under subsection (a) shall, to the extent 
+2
+reasonable and practicable— 
+3
+‘‘(1) render information reported by recipients 
+4
+of Federal grant and cooperative agreement awards 
+5
+fully searchable and machine-readable; 
+6
+‘‘(2) be nonproprietary; 
+7
+‘‘(3) incorporate standards developed and main-
+8
+tained by voluntary consensus standards bodies; 
+9
+‘‘(4) be consistent with and implement applica-
+10
+ble accounting and reporting principles; and 
+11
+‘‘(5) incorporate the data standards established 
+12
+under the Federal Funding Accountability and 
+13
+Transparency Act of 2006 (31 U.S.C. 6101 note). 
+14
+‘‘(d) CONSULTATION.—In establishing the data 
+15
+standards under subsection (a), the Secretary and the Di-
+16
+rector shall consult with, as appropriate— 
+17
+‘‘(1) the Secretary of the Treasury, to ensure 
+18
+that the data standards incorporate the data stand-
+19
+ards created under the Federal Funding Account-
+20
+ability and Transparency Act of 2006 (31 U.S.C. 
+21
+6101 note); 
+22
+‘‘(2) the head of each agency that issues Fed-
+23
+eral awards; 
+24
+23:20 Jan 08, 2019
+H50
+7 
+•HR 50 IH
+‘‘(3) recipients of Federal awards and organiza-
+1
+tions representing recipients of Federal awards; 
+2
+‘‘(4) private sector experts; 
+3
+‘‘(5) members of the public, including privacy 
+4
+experts, privacy advocates, and industry stake-
+5
+holders; and 
+6
+‘‘(6) State and local governments. 
+7
+‘‘SEC. 6403. GUIDANCE APPLYING DATA STANDARDS FOR 
+8
+GRANT REPORTING. 
+9
+‘‘(a) IN GENERAL.—Not later than 2 years after the 
+10
+date of the enactment of this chapter— 
+11
+‘‘(1) the Secretary and the Director shall issue 
+12
+guidance to all agencies directing the agencies to 
+13
+apply the data standards established under section 
+14
+6402 to all applicable reporting by recipients of Fed-
+15
+eral grant and cooperative agreement awards; and 
+16
+‘‘(2) the Director shall prescribe guidance ap-
+17
+plying the data standards to audit-related informa-
+18
+tion reported under chapter 75. 
+19
+‘‘(b) GUIDANCE.—The guidance issued under this 
+20
+section shall— 
+21
+‘‘(1) to the extent reasonable and practicable— 
+22
+‘‘(A) minimize the disruption to existing 
+23
+reporting practices for agencies and for recipi-
+24
+23:20 Jan 08, 2019
+H50
+8 
+•HR 50 IH
+ents of Federal grant and cooperative agree-
+1
+ment awards; and 
+2
+‘‘(B) explore opportunities to implement 
+3
+modern technologies within Federal award re-
+4
+porting; 
+5
+‘‘(2) allow the Director to permit exceptions for 
+6
+categories of grants if the Director publishes a list 
+7
+of such exceptions, including exceptions for Indian 
+8
+Tribes and Tribal organizations consistent with the 
+9
+Indian Self-Determination and Education Assistance 
+10
+Act; and 
+11
+‘‘(3) take into consideration the consultation re-
+12
+quired under section 6402(d). 
+13
+‘‘SEC. 6404. AGENCY REQUIREMENTS. 
+14
+‘‘Not later than 3 years after the date of the enact-
+15
+ment of this chapter, the head of each agency shall ensure 
+16
+that all of the agency’s grants and cooperative agreements 
+17
+use data standards for all future information collection re-
+18
+quests and amend existing information collection requests 
+19
+covered by chapter 35 of title 44 (commonly referred to 
+20
+as the Paperwork Reduction Act) to comply with the data 
+21
+standards established under section 6402, consistent with 
+22
+the guidance issued by the Secretary and the Director 
+23
+under section 6403.’’. 
+24
+23:20 Jan 08, 2019
+H50
+9 
+•HR 50 IH
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+1
+The table of chapters for subtitle V of title 31, United 
+2
+States Code, is amended by inserting after the item relat-
+3
+ing to chapter 63 the following new item: 
+4
+‘‘64. Data Standards for Grant Reporting 6401’’. 
+SEC. 4. SINGLE AUDIT ACT. 
+5
+(a) AMENDMENTS.— 
+6
+(1) Section 7502(h) of title 31, United States 
+7
+Code, is amended by inserting before ‘‘to a Federal 
+8
+clearinghouse’’ the following ‘‘in an electronic form 
+9
+consistent with the data standards established under 
+10
+chapter 64,’’. 
+11
+(2) Section 7505 of title 31, United States 
+12
+Code, is amended by adding at the end the following 
+13
+new subsection: 
+14
+‘‘(d) Such guidance shall require audit-related infor-
+15
+mation reported under this chapter to be reported in an 
+16
+electronic form consistent with the data standards estab-
+17
+lished under chapter 64.’’. 
+18
+(b) GUIDANCE.—Not later than 2 years after the 
+19
+date of the enactment of this Act, the Director shall issue 
+20
+guidance requiring audit-related information reported 
+21
+under chapter 75 of title 31, United States Code, to be 
+22
+reported in an electronic form consistent with the data 
+23
+standards established under chapter 64 of title 31, United 
+24
+States Code, as added by section 3. 
+25
+23:20 Jan 08, 2019
+H50
+10 
+•HR 50 IH
+SEC. 5. CONSOLIDATION OF ASSISTANCE-RELATED INFOR-
+1
+MATION; PUBLICATION OF PUBLIC INFORMA-
+2
+TION AS OPEN DATA. 
+3
+(a) COLLECTION OF INFORMATION.—Not later than 
+4
+4 years after the date of the enactment of this Act, the 
+5
+Secretary and the Director shall enable the collection, pub-
+6
+lic display, and maintenance of Federal award information 
+7
+as a Governmentwide data set, using the data standards 
+8
+established under chapter 64 of title 31, United States 
+9
+Code, as added by section 3, subject to reasonable restric-
+10
+tions established by the Director to ensure protection of 
+11
+personally identifiable and otherwise sensitive information. 
+12
+(b) PUBLICATION OF INFORMATION.—The Secretary 
+13
+and the Director shall require the publication of recipient- 
+14
+reported data collected from all agencies on a single public 
+15
+portal. Information may be published on an existing Gov-
+16
+ernmentwide website as determined appropriate by the Di-
+17
+rector. 
+18
+(c) FOIA.—Nothing in this section shall require the 
+19
+disclosure to the public of information that would be ex-
+20
+empt from disclosure under section 552 of title 5, United 
+21
+States Code (commonly known as the ‘‘Freedom of Infor-
+22
+mation Act’’). 
+23
+SEC. 6. EVALUATION OF NONPROPRIETARY IDENTIFIERS. 
+24
+(a) DETERMINATION REQUIRED.—The Director and 
+25
+the Secretary shall determine whether to use nonpropri-
+26
+23:20 Jan 08, 2019
+H50
+11 
+•HR 50 IH
+etary identifiers under section 6402(a)(3)(B) of title 31, 
+1
+United States Code, as added by section 3(a). 
+2
+(b) FACTORS TO BE CONSIDERED.—In making the 
+3
+determination required pursuant to subsection (a), the Di-
+4
+rector and the Secretary shall consider factors such as ac-
+5
+cessibility and cost to recipients of Federal awards, agen-
+6
+cies that issue Federal awards, private-sector experts, and 
+7
+members of the public, including privacy experts and pri-
+8
+vacy advocates. 
+9
+(c) PUBLICATION
+AND REPORT
+ON DETERMINA-
+10
+TION.—Not later than the earlier of 1 year after the date 
+11
+of the enactment of this Act or the date on which the Sec-
+12
+retary and Director establish data standards pursuant to 
+13
+section 6402(a)(2) of title 31, United States Code, as 
+14
+added by section 3(a), the Secretary and the Director shall 
+15
+publish and submit to the Committees on Oversight and 
+16
+Government Reform of the House of Representatives and 
+17
+Homeland Security and Governmental Affairs of the Sen-
+18
+ate a report explaining the reasoning for the determination 
+19
+made pursuant to subsection (a). 
+20
+SEC. 7. DEFINITIONS. 
+21
+In this Act, the terms ‘‘agency’’, ‘‘Director’’, ‘‘Fed-
+22
+eral award’’, and ‘‘Secretary’’ have the meaning given 
+23
+those terms in section 6401 of title 31, United States 
+24
+Code, as added by section 3(a). 
+25
+20:43 Jan 09, 2019
+H50
+12 
+•HR 50 IH
+SEC. 8. RULE OF CONSTRUCTION. 
+1
+Nothing in this Act, or the amendments made by this 
+2
+Act, shall be construed to require the collection of data 
+3
+that is not otherwise required pursuant to any Federal 
+4
+law, rule, or regulation. 
+5
+SEC. 9. NO ADDITIONAL FUNDS AUTHORIZED. 
+6
+No additional funds are authorized to carry out the 
+7
+requirements of this Act and the amendments made by 
+8
+this Act. Such requirements shall be carried out using 
+9
+amounts otherwise authorized. 
+10
+Æ 
+23:20 Jan 08, 2019
+H50

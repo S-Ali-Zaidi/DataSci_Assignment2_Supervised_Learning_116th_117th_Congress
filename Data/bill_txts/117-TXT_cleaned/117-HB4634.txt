@@ -1,0 +1,413 @@
+A BILL 
+To provide that certain orders of the Federal Communica-
+tions Commission shall have no force or effect until 
+certain conditions are satisfied, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Recognizing and En-
+4
+suring Taxpayer Access to Infrastructure Necessary for 
+5
+GPS and Satellite Communications Act of 2021’’ or the 
+6
+‘‘RETAIN GPS and Satellite Communications Act of 
+7
+2021’’. 
+8
+01:01 Aug 05, 2021
+H4634
+2 
+•HR 4634 IH
+SEC. 2. CONDITIONS ON COMMERCIAL TERRESTRIAL OPER-
+1
+ATIONS. 
+2
+(a) DEFINITIONS.—In this section: 
+3
+(1) COMMISSION.—The term ‘‘Commission’’ 
+4
+means the Federal Communications Commission. 
+5
+(2) COVERED GPS DEVICE.—The term ‘‘covered 
+6
+GPS device’’ means a device— 
+7
+(A) operating to provide, using, or having 
+8
+embedded operations requiring access to the 
+9
+Global Positioning System satellite constella-
+10
+tion; and 
+11
+(B) that is used by the Federal Govern-
+12
+ment, a non-Federal entity, a private sector en-
+13
+tity, or any other person. 
+14
+(3) COVERED
+ORDER.—The term ‘‘covered 
+15
+order’’ means the order and authorization of the 
+16
+Commission relating to the LightSquared Technical 
+17
+Working Group Report and other matters, adopted 
+18
+on April 19, 2020 (FCC 20–48; IB Docket Nos. 11– 
+19
+109 and 12–340). 
+20
+(4) INTEGRATED PLATFORM.—The term ‘‘inte-
+21
+grated platform’’ means a device or system that in-
+22
+tegrates Global Positioning System capability or sat-
+23
+ellite communications capability into the operation of 
+24
+the device or system, as applicable, in such a man-
+25
+ner that the Global Positioning System or satellite 
+26
+01:01 Aug 05, 2021
+H4634
+3 
+•HR 4634 IH
+communications capability cannot be effectively ret-
+1
+rofitted without replacing the device or system. 
+2
+(5) SATELLITE
+COMMUNICATIONS
+DEVICE.— 
+3
+The term ‘‘satellite communications device’’ means a 
+4
+device— 
+5
+(A) operating to provide, using, or having 
+6
+embedded operations requiring access to sat-
+7
+ellite communications; and 
+8
+(B) that is used by the Federal Govern-
+9
+ment, a non-Federal entity, a private sector en-
+10
+tity, or any other person. 
+11
+(6) TERRESTRIAL
+OPERATIONS
+ORDER.—The 
+12
+term ‘‘terrestrial operations order’’— 
+13
+(A) means an order of the Commission au-
+14
+thorizing an entity to deploy commercial terres-
+15
+trial operations in the 1525–1559 megahertz 
+16
+band or the 1626.5–1660.5 megahertz band; 
+17
+and 
+18
+(B) includes the covered order. 
+19
+(b) RESTRICTION.—Notwithstanding any terrestrial 
+20
+operations order adopted by the Commission before, on, 
+21
+or after the date of enactment of this Act, no entity may 
+22
+deploy commercial terrestrial operations in the 1525–1559 
+23
+megahertz band or the 1626.5–1660.5 megahertz band 
+24
+until the date that is 90 days after the date on which the 
+25
+01:01 Aug 05, 2021
+H4634
+4 
+•HR 4634 IH
+Commission determines that the entity has satisfied, or 
+1
+has agreed to satisfy, all of the requirements of this sec-
+2
+tion, as applicable. 
+3
+(c) REQUIRED UPGRADES AND REPAIRS.— 
+4
+(1) IN GENERAL.—In order to obtain authoriza-
+5
+tion to deploy commercial terrestrial operations in 
+6
+the 1525–1559 megahertz band or the 1626.5– 
+7
+1660.5 megahertz band, a licensee shall upgrade, re-
+8
+pair, or replace covered GPS devices and satellite 
+9
+communications devices potentially impacted by 
+10
+those operations, including by bearing the costs of 
+11
+any modification, repair, or replacement of equip-
+12
+ment, spares, associated ancillary equipment, soft-
+13
+ware, facilities, operating manuals, training, or com-
+14
+pliance with regulations, including with regard to— 
+15
+(A) the underlying platform or system in 
+16
+which a Global Positioning System capability is 
+17
+embedded; and 
+18
+(B) satellite communications systems and 
+19
+equipment. 
+20
+(2) REIMBURSABLE
+COSTS
+FOR
+AGENCIES.— 
+21
+Any costs incurred by a Federal agency due to inter-
+22
+ference with operations, as determined and certified 
+23
+in writing to the Commission by the Federal agency 
+24
+experiencing interference with operations, as a result 
+25
+01:01 Aug 05, 2021
+H4634
+5 
+•HR 4634 IH
+of the operations carried out under a terrestrial op-
+1
+erations order, shall be reimbursed by the licensee, 
+2
+including the full costs of— 
+3
+(A) any engineering, equipment, software, 
+4
+site acquisition, systems design, or construction; 
+5
+(B) any legitimate and prudent transaction 
+6
+expense, including the hiring of any necessary 
+7
+additional staff, including term-limited Federal 
+8
+civil servants and contractor staff; 
+9
+(C) research, engineering, and other re-
+10
+lated studies; 
+11
+(D) replacing any device or integrated 
+12
+platform that suffers interference as a result of 
+13
+the conduct of commercial terrestrial operations 
+14
+in the 1525–1559 megahertz band or the 
+15
+1626.5–1660.5 megahertz band with a device or 
+16
+integrated platform that can provide the same 
+17
+operational capability, including the currently 
+18
+available version of the device or integrated 
+19
+platform (or a reasonable equivalent); 
+20
+(E) in the case of costs incurred by the 
+21
+Department of Defense, the labor cost of De-
+22
+partment of Defense personnel or external per-
+23
+sonnel in engineering, validating, and verifying 
+24
+any required remediation in order to provide 
+25
+01:01 Aug 05, 2021
+H4634
+6 
+•HR 4634 IH
+the Department of Defense with the same oper-
+1
+ational capability for the affected system before 
+2
+terrestrial operation in the 1525–1559 mega-
+3
+hertz band or the 1626.5–1660.5 megahertz 
+4
+band; 
+5
+(F) in the case of costs incurred by any 
+6
+Federal agency that is a member of the Inter-
+7
+department Radio Advisory Committee, the 
+8
+labor costs of those Federal agency personnel or 
+9
+external personnel in engineering, validating, 
+10
+and verifying any required remediation in order 
+11
+to provide any Federal agency that is a member 
+12
+of the Interdepartment Radio Advisory Com-
+13
+mittee with the same operational capability for 
+14
+the affected system before terrestrial operation 
+15
+in the 1525–1559 megahertz band or the 
+16
+1626.5–1660.5 megahertz band; and 
+17
+(G) other related expenses reasonably in-
+18
+curred. 
+19
+(3) REIMBURSABLE
+COSTS
+FOR
+OTHER
+PER-
+20
+SONS.—Any costs incurred by a person, including a 
+21
+non-Federal or private sector entity, due to inter-
+22
+ference with operations, as determined and certified 
+23
+in writing to the Commission by the person experi-
+24
+encing interference with operations, as a result of 
+25
+01:01 Aug 05, 2021
+H4634
+7 
+•HR 4634 IH
+the operations carried out under a terrestrial oper-
+1
+ations order, shall be reimbursed by the licensee, in-
+2
+cluding the full costs of— 
+3
+(A) any engineering, equipment, software, 
+4
+site acquisition, systems design, or construction; 
+5
+(B) replacement of satellites; 
+6
+(C) any legitimate and prudent transaction 
+7
+expense, including the hiring of any necessary 
+8
+term-limited civil servants and contractor staff; 
+9
+(D) research, engineering, and other re-
+10
+lated studies; 
+11
+(E) replacing any device or integrated plat-
+12
+form that suffers interference as a result of the 
+13
+conduct of commercial terrestrial operations in 
+14
+the 1525–1559 megahertz band or the 1626.5– 
+15
+1660.5 megahertz band with a device or inte-
+16
+grated platform that can provide the same oper-
+17
+ational capability, including the currently avail-
+18
+able version of the device or integrated platform 
+19
+(or a reasonable equivalent); 
+20
+(F) the labor costs of personnel in engi-
+21
+neering, validating, and verifying any required 
+22
+remediation in order to provide the person, 
+23
+company, or other private sector entity with the 
+24
+same operational capability for the affected sys-
+25
+01:01 Aug 05, 2021
+H4634
+8 
+•HR 4634 IH
+tem before terrestrial operation in the 1525– 
+1
+1559 megahertz band or the 1626.5–1660.5 
+2
+megahertz band; and 
+3
+(G) other related expenses reasonably in-
+4
+curred. 
+5
+(4) TRANSFERABILITY OF REIMBURSABLE EX-
+6
+PENSES TO THE FEDERAL GOVERNMENT FROM FED-
+7
+ERAL
+COMMUNICATIONS
+COMMISSION
+ORDER
+20– 
+8
+48.—All reimbursable expenses owed to a Federal 
+9
+agency, person, or other private sector entity that 
+10
+are causally attributable to implementing a terres-
+11
+trial operations order shall transfer to and be borne 
+12
+by any assignee, successor, or purchaser of any li-
+13
+cense that authorizes terrestrial operations in ac-
+14
+cordance with that order. 
+15
+(5) CERTAIN
+PAYMENTS
+PERMITTED.—Not-
+16
+withstanding section 1341, subchapter II of chapter 
+17
+15, or section 3302 of title 31, United States Code, 
+18
+a Federal agency may collect or receive any money 
+19
+or other thing of value from a private entity as pay-
+20
+ment or reimbursement under this section. 
+21
+Æ 
+01:01 Aug 05, 2021
+H4634

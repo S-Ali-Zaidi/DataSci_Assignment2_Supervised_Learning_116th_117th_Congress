@@ -1,0 +1,341 @@
+A BILL 
+To require the Federal Communications Commission to study 
+the current and projected demands on rural broadband 
+networks associated with services offered by edge pro-
+viders, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. DEFINITIONS. 
+3
+In this Act: 
+4
+(1) COMMISSION.—The term ‘‘Commission’’ 
+5
+means the Federal Communications Commission. 
+6
+02:59 May 01, 2021
+H1650
+2 
+•HR 1650 IH
+(2) EDGE
+PROVIDER.—The term ‘‘edge pro-
+1
+vider’’— 
+2
+(A) 
+means 
+an 
+entity 
+that 
+provides 
+3
+(through, but as a separate product from, the 
+4
+broadband internet service of a user) a service 
+5
+or content— 
+6
+(i) for which the entity requires the 
+7
+user to subscribe or establish an account in 
+8
+order to use the service; 
+9
+(ii) through which the user purchases, 
+10
+downloads, or accesses content, applica-
+11
+tions, or services from the entity without a 
+12
+subscription or account; 
+13
+(iii) by which a program searches for 
+14
+and identifies items in a database that cor-
+15
+respond to keywords or characters speci-
+16
+fied by the user, used especially for finding 
+17
+particular sites on the World Wide Web; or 
+18
+(iv) by which the user divulges sen-
+19
+sitive information of the user; 
+20
+(B) includes an entity that provides a serv-
+21
+ice described in subparagraph (A) through a 
+22
+software program, including a mobile applica-
+23
+tion; and 
+24
+02:59 May 01, 2021
+H1650
+3 
+•HR 1650 IH
+(C) does not include an entity that solely 
+1
+provides broadband internet service. 
+2
+(3) EDGE PROVIDER DATA.—The term ‘‘edge 
+3
+provider data’’ means data associated with services 
+4
+or content offered by edge providers. 
+5
+(4) HIGH-COST RURAL AREA.—The term ‘‘high- 
+6
+cost rural area’’ means an area of the United States 
+7
+that— 
+8
+(A) is not contained within an incorporated 
+9
+city or town; and 
+10
+(B) has a population of fewer than 20,000 
+11
+inhabitants. 
+12
+(5) QUALIFYING
+BROADBAND
+SERVICE.—The 
+13
+term ‘‘qualifying broadband service’’ means broad-
+14
+band internet service with measurable speeds of not 
+15
+less than the speeds required for the Commission to 
+16
+determine the service is advanced telecommuni-
+17
+cations capability, as that term is defined in section 
+18
+706(d) of the Telecommunications Act of 1996 (47 
+19
+U.S.C. 1302(d)). 
+20
+(6) RURAL BROADBAND NETWORK.—The term 
+21
+‘‘rural broadband network’’ means the plant, equip-
+22
+ment, components, facilities, hardware, and software 
+23
+used by a rural broadband provider to provide quali-
+24
+fying broadband service in a high-cost rural area. 
+25
+02:59 May 01, 2021
+H1650
+4 
+•HR 1650 IH
+(7) RURAL BROADBAND PROVIDER.—The term 
+1
+‘‘rural broadband provider’’ means an entity that— 
+2
+(A) provides qualifying broadband service 
+3
+in a high-cost rural area using any technology, 
+4
+including a fixed or mobile wireless or wireline 
+5
+network; and 
+6
+(B) provides qualifying broadband service 
+7
+to fewer than 250,000 customers. 
+8
+SEC. 2. RURAL BROADBAND NETWORK ADVANCEMENT 
+9
+STUDY. 
+10
+(a) PROCEEDING BY FCC.— 
+11
+(1) IN GENERAL.— 
+12
+(A) INITIATION.—Not later than 1 year 
+13
+after the date of the enactment of this Act, the 
+14
+Commission shall initiate a proceeding to ana-
+15
+lyze the demands that have been or will be 
+16
+placed on rural broadband networks during the 
+17
+covered period that are associated with edge 
+18
+provider data transmitted over such networks, 
+19
+including internet browsing data and data asso-
+20
+ciated with video streaming services. 
+21
+(B) CONCLUSION.—Not later than 1 year 
+22
+after initiating the proceeding under subpara-
+23
+graph (A), the Commission shall conclude the 
+24
+proceeding. 
+25
+02:59 May 01, 2021
+H1650
+5 
+•HR 1650 IH
+(2) MATTERS
+FOR
+ANALYSIS.—The analysis 
+1
+conducted under paragraph (1) shall include the fol-
+2
+lowing: 
+3
+(A) ESTIMATION
+OF
+EDGE
+PROVIDER 
+4
+DATA.—An estimation of the quantity of edge 
+5
+provider data that has been or will be trans-
+6
+mitted over rural broadband networks during 
+7
+the covered period. 
+8
+(B) CALCULATION OF COSTS.—A calcula-
+9
+tion of the costs to rural broadband providers 
+10
+during the covered period associated with trans-
+11
+mission by such providers of edge provider data 
+12
+over the rural broadband network that are not 
+13
+already recovered through— 
+14
+(i) user rates that are reasonably com-
+15
+parable to user rates in urban areas; or 
+16
+(ii) Federal programs aimed at pro-
+17
+moting rural broadband deployment or sus-
+18
+taining rural broadband networks, includ-
+19
+ing Federal universal service support pro-
+20
+grams established under section 254 of the 
+21
+Communications Act of 1934 (47 U.S.C. 
+22
+254). 
+23
+02:59 May 01, 2021
+H1650
+6 
+•HR 1650 IH
+(3) COSTS DESCRIBED.—The categories of costs 
+1
+to be calculated under paragraph (2)(B) shall in-
+2
+clude costs associated with— 
+3
+(A) the initial deployment of rural broad-
+4
+band networks; 
+5
+(B) the operation and maintenance of 
+6
+rural broadband networks; and 
+7
+(C) the delivery of services to users over 
+8
+rural broadband networks, including the trans-
+9
+mission of data between high-cost rural areas 
+10
+and urban or suburban interconnection points. 
+11
+(4) PROVISION OF INFORMATION.— 
+12
+(A) USE OF DATA.—To analyze the de-
+13
+mands described under paragraph (1), the 
+14
+Commission shall— 
+15
+(i) use any existing commercial or 
+16
+government data or estimate concerning 
+17
+the covered time period; and 
+18
+(ii) collect data concerning the covered 
+19
+time period from edge providers or rural 
+20
+broadband providers. 
+21
+(B) REQUIREMENT TO SUBMIT INFORMA-
+22
+TION.—In any case in which the Commission 
+23
+determines that it is necessary to collect data 
+24
+under subparagraph (A)(ii) from an edge pro-
+25
+02:59 May 01, 2021
+H1650
+7 
+•HR 1650 IH
+vider or a rural broadband provider, such edge 
+1
+provider or rural broadband provider shall pro-
+2
+vide any information necessary for the Commis-
+3
+sion to complete the proceeding under para-
+4
+graph (1). 
+5
+(5) COVERED PERIOD DEFINED.—In this sub-
+6
+section, the term ‘‘covered period’’ means the 6-year 
+7
+period that— 
+8
+(A) begins on the date that is 3 years be-
+9
+fore the date on which the proceeding under 
+10
+paragraph (1) is initiated; and 
+11
+(B) ends on the date that is 3 years after 
+12
+the date on which the proceeding is initiated. 
+13
+(b) REPORT TO CONGRESS.—Not later than 120 days 
+14
+after concluding the proceeding under subsection (a)(1), 
+15
+the Commission shall publish on its website and submit 
+16
+to the Committee on Commerce, Science, and Transpor-
+17
+tation of the Senate and the Committee on Energy and 
+18
+Commerce of the House of Representatives a report on 
+19
+the findings of the proceeding. 
+20
+Æ 
+02:59 May 01, 2021
+H1650

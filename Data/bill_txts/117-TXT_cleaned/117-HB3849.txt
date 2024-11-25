@@ -1,0 +1,1230 @@
+A BILL 
+To promote competition, lower entry barriers, and reduce 
+switching costs for consumers and businesses online. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Augmenting Compat-
+4
+ibility and Competition by Enabling Service Switching Act 
+5
+of 2021’’ or the ‘‘ACCESS Act of 2021’’. 
+6
+SEC. 2. UNFAIR METHOD OF COMPETITION. 
+7
+A violation of this Act, or standards issued pursuant 
+8
+to this Act, by a person, partnership, or corporation oper-
+9
+ating a covered platform, in or affecting commerce, shall 
+10
+01:10 Jun 12, 2021
+H3849
+2 
+•HR 3849 IH
+be an unfair method of competition in violation of section 
+1
+5(a)(1) of the Federal Trade Commission Act (15 U.S.C. 
+2
+45). 
+3
+SEC. 3. PORTABILITY. 
+4
+(a) IN GENERAL.—A covered platform shall maintain 
+5
+a set of transparent, third-party-accessible interfaces (in-
+6
+cluding application programming interfaces) to enable the 
+7
+secure transfer of data to a user, or with the affirmative 
+8
+consent of a user, to a business user at the direction of 
+9
+a user, in a structured, commonly used, and machine-read-
+10
+able format that complies with the standards issued pursu-
+11
+ant to section 6(c). 
+12
+(b) DATA SECURITY.— 
+13
+(1) IN GENERAL.—A competing business or a 
+14
+potential competing business that receives ported 
+15
+user data from a covered platform shall reasonably 
+16
+secure any user data it acquires, and shall take rea-
+17
+sonable steps to avoid introducing security risks to 
+18
+data or the covered platform’s information systems. 
+19
+(2) VIOLATION.—A failure to comply with this 
+20
+section is a violation of this Act and subject to the 
+21
+enforcement under sections 9 and 10 of this Act. 
+22
+(3) TERMINATION OF ACCESS.—The Commis-
+23
+sion may require the covered platform to cease the 
+24
+transfer of data to a competing or potentially com-
+25
+01:10 Jun 12, 2021
+H3849
+3 
+•HR 3849 IH
+peting business that the Commission finds has vio-
+1
+lated this section or standards adopted by the Com-
+2
+mission under section 6(c) of this Act. 
+3
+(c) PORTABILITY OBLIGATIONS.—In order to achieve 
+4
+portability under subsection (a), a covered platform shall 
+5
+comply with the standards issued under section 6(c) by 
+6
+the Commission. 
+7
+SEC. 4. INTEROPERABILITY. 
+8
+(a) IN GENERAL.—A covered platform shall maintain 
+9
+a set of transparent, third-party-accessible interfaces (in-
+10
+cluding application programming interfaces) to facilitate 
+11
+and maintain interoperability with a competing business 
+12
+or a potential competing business that complies with the 
+13
+standards issued pursuant to section 6(c). 
+14
+(b) DATA SECURITY.— 
+15
+(1) IN GENERAL.—A competing business or a 
+16
+potential competing business that accesses an inter-
+17
+operability interface of a covered platform shall rea-
+18
+sonably secure any user data it acquires, processes, 
+19
+or transmits, and shall take reasonable steps to 
+20
+avoid introducing security risks to user data or the 
+21
+covered platform’s information systems. 
+22
+(2) VIOLATION.—A failure to comply with this 
+23
+section is a violation of this Act and subject to the 
+24
+enforcement under sections 9 and 10 of this Act. 
+25
+01:10 Jun 12, 2021
+H3849
+4 
+•HR 3849 IH
+(3) TERMINATION OF ACCESS.—The Commis-
+1
+sion may require the covered platform to cease inter-
+2
+operating with a competing or potentially competing 
+3
+business that the Commission finds has violated this 
+4
+section or standards adopted by the Commission 
+5
+under section 6(c) of this Act. 
+6
+(c) INTEROPERABILITY OBLIGATIONS.—In order to 
+7
+achieve interoperability under subsection (a), a covered 
+8
+platform shall comply with the standards issued under sec-
+9
+tion 6(c) by the Commission. 
+10
+(d) SECURITY
+AND PRIVACY STANDARDS.—Con-
+11
+sistent with standards issued by the Commission under 
+12
+section 6(c) of this Act, a covered platform shall set pri-
+13
+vacy and security standards for access by competing busi-
+14
+nesses or potential competing businesses to the extent rea-
+15
+sonably necessary to address a threat to the covered plat-
+16
+form or user data, and shall report any suspected viola-
+17
+tions of those standards to the Commission. 
+18
+(e) PROHIBITED CHANGES TO INTERFACES.— 
+19
+(1) COMMISSION APPROVAL.—A covered plat-
+20
+form may make a change that may affect its inter-
+21
+operability interface by petitioning the Commission 
+22
+to approve a proposed change. The Commission shall 
+23
+allow the change if, after consulting with the rel-
+24
+evant technical committee the Commission concludes 
+25
+01:10 Jun 12, 2021
+H3849
+5 
+•HR 3849 IH
+that the change is not being made with the purpose 
+1
+or effect of unreasonably denying access or under-
+2
+mining interoperability for competing businesses or 
+3
+potential competing businesses. 
+4
+(2) EXCEPTION.—A covered platform may 
+5
+make a change affecting its interoperability inter-
+6
+faces without receiving approval from the Commis-
+7
+sion if that change is necessary to address a security 
+8
+vulnerability or other exigent circumstance that cre-
+9
+ates an imminent risk to user privacy or security if 
+10
+the change is narrowly tailored to the vulnerability 
+11
+and does not have the purpose or effect of unreason-
+12
+ably denying access or undermining interoperability 
+13
+for competing businesses or potential competing 
+14
+businesses. 
+15
+(3) INTERFACE INFORMATION.— 
+16
+(A) IN
+GENERAL.—Not later than 120 
+17
+days after the adoption of a rule by the Com-
+18
+mission under section 6(c) of this Act, a cov-
+19
+ered platform shall provide to competing busi-
+20
+nesses or potential competing businesses com-
+21
+plete and accurate documentation describing ac-
+22
+cess to the interoperability interface required 
+23
+under this section. 
+24
+01:10 Jun 12, 2021
+H3849
+6 
+•HR 3849 IH
+(B) CONTENTS.—The documentation re-
+1
+quired under subparagraph (A) is limited to 
+2
+interface documentation necessary to achieve 
+3
+development and operation of interoperable 
+4
+products and services. 
+5
+(4) NOTICE OF CHANGES.—A covered platform 
+6
+shall provide reasonable advance notice to a com-
+7
+peting business or a potential competing business, 
+8
+which may be provided through public notice, of any 
+9
+change to an interoperability interface maintained by 
+10
+the covered platform that will affect the interoper-
+11
+ability of a competing business or a potential com-
+12
+peting business. 
+13
+(f) DATA MINIMIZATION.— 
+14
+(1) NON-COMMERCIALIZATION BY A COVERED 
+15
+PLATFORM.—A covered platform shall not collect, 
+16
+use, or share user data obtained from a business 
+17
+user through the interoperability interface except for 
+18
+the purposes of safeguarding the privacy and secu-
+19
+rity of such information or maintaining interoper-
+20
+ability of services. 
+21
+(2) NON-COMMERCIALIZATION OF DATA ON A 
+22
+COVERED PLATFORM.—A business user shall not col-
+23
+lect, use, or share the data of a user on a covered 
+24
+platform except for the purposes of safeguarding 
+25
+01:10 Jun 12, 2021
+H3849
+7 
+•HR 3849 IH
+and security of such data or maintaining interoper-
+1
+ability of services. 
+2
+SEC. 5. DEFINITIONS. 
+3
+In this Act: 
+4
+(1) PERSON.—The term ‘‘person’’ has the 
+5
+meaning given the term in subsection (a) of section 
+6
+1 of the Clayton Act (15 U.S.C. 12). 
+7
+(2) AFFIRMATIVE
+EXPRESS
+CONSENT.—The 
+8
+term ‘‘affirmative express consent’’ means an affirm-
+9
+ative action of the consumer to make a choice fol-
+10
+lowing a clear and conspicuous disclosure to the con-
+11
+sumer, separate and apart from any ‘‘privacy pol-
+12
+icy’’, ‘‘terms of service’’, ‘‘terms of service’’, ‘‘con-
+13
+sent for research’’, or other similar document, of— 
+14
+(A) the types of Personal Information that 
+15
+Respondent will disclose to third parties; 
+16
+(B) the reason for such disclosures; 
+17
+(C) the identity of all such third parties; 
+18
+(D) any opportunities consumers have to 
+19
+decline or rescind consent for such disclosures; 
+20
+and 
+21
+(E) how consumers may exercise any such 
+22
+opportunities. 
+23
+An affirmative action does not include obtaining a 
+24
+consumer’s approval for a preselected default option. 
+25
+01:10 Jun 12, 2021
+H3849
+8 
+•HR 3849 IH
+(3) CLEAR AND CONSPICUOUS DISCLOSURE.— 
+1
+The term ‘‘clear and conspicuous disclosure’’ means 
+2
+that a required disclosure is difficult to miss such 
+3
+that it is easily noticeable and easily understandable 
+4
+by ordinary consumers, including in all of the fol-
+5
+lowing ways: 
+6
+(A) In any communication that is solely 
+7
+visual or solely audible, the disclosure must be 
+8
+made through the same means through which 
+9
+the communication is presented. In any commu-
+10
+nication made through both visual and audible 
+11
+means, such as a television advertisement, the 
+12
+disclosure must be presented simultaneously in 
+13
+both the visual and audible portions of the com-
+14
+munication even if the representation requiring 
+15
+the disclosure (‘‘triggering representation’’) is 
+16
+made through only one means. 
+17
+(B) A visual disclosure, by its size, con-
+18
+trast, location, the length of time it appears, 
+19
+and other characteristics, must stand out from 
+20
+any accompanying text or other visual elements 
+21
+so that it is easily noticed, read, and under-
+22
+stood. 
+23
+(C) An audible disclosure, including by 
+24
+telephone or streaming video, must be delivered 
+25
+01:10 Jun 12, 2021
+H3849
+9 
+•HR 3849 IH
+in a volume, speed, and cadence sufficient for 
+1
+ordinary consumers to easily hear and under-
+2
+stand it. 
+3
+(D) In any communication using an inter-
+4
+active electronic medium, such as the Internet 
+5
+or software, the disclosure must be unavoidable. 
+6
+(E) The disclosure must use diction and 
+7
+syntax understandable to ordinary consumers 
+8
+and must appear in each language in which the 
+9
+triggering representation appears. 
+10
+(F) The disclosure must comply with these 
+11
+requirements in each medium through which it 
+12
+is received, including all electronic devices and 
+13
+face-to-face communications. 
+14
+(G) The disclosure must not be contra-
+15
+dicted or mitigated by, or inconsistent with, 
+16
+anything else in the communication. 
+17
+(H) When the representation or sales prac-
+18
+tice targets a specific audience, such as chil-
+19
+dren, the elderly, or the terminally ill, ‘‘ordinary 
+20
+consumers’’ includes reasonable members of 
+21
+that group. 
+22
+(4) COMMISSION.—The term ‘‘Commission’’ 
+23
+means the Federal Trade Commission. 
+24
+01:10 Jun 12, 2021
+H3849
+10 
+•HR 3849 IH
+(5) CONTROL.—The term ‘‘control’’ with re-
+1
+spect to a person means— 
+2
+(A) holding 25 percent or more of the 
+3
+stock of the person; 
+4
+(B) having the right to 25 percent or more 
+5
+of the profits of the person; 
+6
+(C) having the right to 25 percent or more 
+7
+of the assets of the person, in the event of the 
+8
+person’s dissolution; 
+9
+(D) if the person is a corporation, having 
+10
+the power to designate 25 percent or more of 
+11
+the directors of the person; 
+12
+(E) if the person is a trust, having the 
+13
+power to designate 25 percent or more of the 
+14
+trustees; or 
+15
+(F) otherwise exercises substantial control 
+16
+over the person. 
+17
+(6) COVERED PLATFORM.—The term ‘‘covered 
+18
+platform’’ means an online platform— 
+19
+(A) that has been designated as a ‘‘covered 
+20
+platform’’ under section 6(a); or 
+21
+(B) that— 
+22
+(i) at the time of the Commission’s or 
+23
+the Department of Justice’s designation 
+24
+under section 2(d), or any of the twelve 
+25
+01:10 Jun 12, 2021
+H3849
+11 
+•HR 3849 IH
+months preceding that time, or in any of 
+1
+the 12 months preceding the filing of a 
+2
+complaint for an alleged violation of this 
+3
+Act— 
+4
+(I) has at least 50,000,000 
+5
+United States-based monthly active 
+6
+users on the online platform; or 
+7
+(II) has at least 100,000 United 
+8
+States-based monthly active business 
+9
+users on the platform; 
+10
+(ii) is owned or controlled by a person 
+11
+with net annual sales, or a market capital-
+12
+ization greater than $600,000,000,000, ad-
+13
+justed for inflation on the basis of the 
+14
+Consumer Price Index, at the time of the 
+15
+Commission’s or the Department of Jus-
+16
+tice’s designation under section 6(a) or any 
+17
+of the two years preceding that time, or at 
+18
+any time in the 2 years preceding the filing 
+19
+of a complaint for an alleged violation of 
+20
+this Act; and 
+21
+(iii) is a critical trading partner for 
+22
+the sale or provision of any product or 
+23
+service offered on or directly related to the 
+24
+online platform. 
+25
+01:10 Jun 12, 2021
+H3849
+12 
+•HR 3849 IH
+(7) 
+COVERED
+PLATFORM
+OPERATOR.—The 
+1
+term ‘‘covered platform operator’’ means a person 
+2
+that, directly or indirectly, owns or controls a cov-
+3
+ered platform. 
+4
+(8) CRITICAL
+TRADING
+PARTNER.—The term 
+5
+‘‘critical trading partner’’ means a trading partner 
+6
+that has the ability to restrict or impede— 
+7
+(A) the access of a business user to its 
+8
+users or customers; or 
+9
+(B) the access of a business user to a tool 
+10
+or service that it needs to effectively serve its 
+11
+users or customers. 
+12
+(9) DATA.— 
+13
+(A) IN
+GENERAL.—Not later than 6 
+14
+months after the date of enactment of this Act, 
+15
+the Commission shall adopt rules in accordance 
+16
+with section 553 of title 5, United States Code, 
+17
+to define the term ‘‘data’’ for the purpose of 
+18
+implementing and enforcing this Act. 
+19
+(B) DATA.—The term ‘‘data’’ shall include 
+20
+information that is collected by or provided to 
+21
+a covered platform or competing business or a 
+22
+potential competing business that is linked, or 
+23
+reasonably linkable, to a specific user, user de-
+24
+vice, or customer of the covered platform or a 
+25
+01:10 Jun 12, 2021
+H3849
+13 
+•HR 3849 IH
+competing business or a potential competing 
+1
+business. 
+2
+(C) EXCLUSION.—The term ‘‘data’’ shall 
+3
+not include proprietary data that does not per-
+4
+tain to the user or a user device of the covered 
+5
+platform. The Commission shall narrowly con-
+6
+strue the term ‘‘proprietary data’’ for the pur-
+7
+poses of this Act. 
+8
+(10) BUSINESS
+USER.—The term ‘‘business 
+9
+user’’ means a person that utilizes or plans to utilize 
+10
+the covered platform for the sale or provision of 
+11
+products or services. 
+12
+(11) 
+INTEROPERABILITY
+INTERFACE.—The 
+13
+term ‘‘interoperability interface’’ means an electronic 
+14
+interface maintained by a covered platform for pur-
+15
+poses of achieving interoperability. 
+16
+(12) ONLINE
+PLATFORM.—The term ‘‘online 
+17
+platform’’ means a website, online or mobile applica-
+18
+tion, operating system, digital assistant, or online 
+19
+service that— 
+20
+(A) enables a user to generate content that 
+21
+can be viewed by other users on the platform or 
+22
+to interact with other content on the platform; 
+23
+(B) facilitates the offering, sale, purchase, 
+24
+payment, or shipping of goods or services, in-
+25
+01:10 Jun 12, 2021
+H3849
+14 
+•HR 3849 IH
+cluding software applications, between and 
+1
+among consumers or businesses not controlled 
+2
+by the platform; or 
+3
+(C) enables user searches or queries that 
+4
+access or display a large volume of information. 
+5
+SEC. 6. IMPLEMENTATION. 
+6
+(a) COVERED PLATFORM DESIGNATION.—The Fed-
+7
+eral Trade Commission or Department of Justice may des-
+8
+ignate a covered platform for the purpose of implementing 
+9
+and enforcing this Act. Such designation shall— 
+10
+(1) be based on a finding that the criteria set 
+11
+forth in paragraph (6) of section 5 are met; 
+12
+(2) be issued in writing and published in the 
+13
+Federal Register; and 
+14
+(3) will apply for 10 years from its issuance re-
+15
+gardless of whether there is a change in control or 
+16
+ownership over the covered platform unless the Fed-
+17
+eral Trade Commission or the Department of Jus-
+18
+tice removes the designation pursuant to subsection 
+19
+(b). 
+20
+(b) REMOVAL OF COVERED PLATFORM DESIGNA-
+21
+TION.—The Commission or the Department of Justice 
+22
+shall— 
+23
+(1) consider whether its designation of a cov-
+24
+ered platform pursuant to subsection (a) should be 
+25
+01:10 Jun 12, 2021
+H3849
+15 
+•HR 3849 IH
+removed prior to the expiration of the 10-year period 
+1
+if the covered platform operator files a request with 
+2
+the Commission or the Department of Justice, which 
+3
+shows that the online platform is no longer a critical 
+4
+trading partner; and 
+5
+(2) determine whether to grant a request sub-
+6
+mitted under paragraph (1) not later than 120 days 
+7
+after the date of the filing of such request. 
+8
+(c) RULEMAKING AND TECHNICAL STANDARDS.— 
+9
+(1) After designating an online platform as a 
+10
+covered platform, the Commission shall issue stand-
+11
+ards of interoperability specific to the covered plat-
+12
+form. These standards shall implement the require-
+13
+ments of sections 3 and 4 of this Act. In adopting 
+14
+the standards implementing the requirements of sec-
+15
+tions 3 and 4, the Commission shall seek to encour-
+16
+age entry by reducing or eliminating the network ef-
+17
+fects that limit competition with the covered plat-
+18
+form, ensure that competing businesses or a poten-
+19
+tial competing business interconnects with the cov-
+20
+ered platform on fair and nondiscriminatory terms, 
+21
+and protect data security and privacy. 
+22
+(2) The Commission shall— 
+23
+(A) establish a technical committee, as de-
+24
+scribed in section 7 of this Act, to develop pro-
+25
+01:10 Jun 12, 2021
+H3849
+16 
+•HR 3849 IH
+posed standards implementing the requirements 
+1
+of section 3 as they apply to a specific covered 
+2
+platform; 
+3
+(B) issue such standards in accordance 
+4
+with section 553 of title 5, United States Code; 
+5
+and 
+6
+(C) reject standards that have the purpose 
+7
+or effect of unreasonably denying access, under-
+8
+mine interoperability, or are unduly disruptive 
+9
+to interoperability. 
+10
+(d) COMPLIANCE ASSESSMENT.—The Commission 
+11
+shall regularly assess compliance by covered platforms 
+12
+with the provisions of this Act and may— 
+13
+(1) undertake such investigation as appropriate 
+14
+to render this assessment; 
+15
+(2) issue subpoenas and civil investigative de-
+16
+mands for relevant information, including any infor-
+17
+mation that is necessary to effectuate the goals of 
+18
+sections 3 and 4 this Act, and consult with other 
+19
+agencies as appropriate; and 
+20
+(3) prescribe such other rules in accordance 
+21
+with section 553 of title 5, United States Code as 
+22
+may be necessary and appropriate to carry out sec-
+23
+tions 3 and 4 of this Act. 
+24
+01:10 Jun 12, 2021
+H3849
+17 
+•HR 3849 IH
+(e) AGENCY COMPLAINTS.—The Commission shall 
+1
+establish procedures under which a user, covered platform, 
+2
+or a business user may file a complaint alleging a violation 
+3
+of this Act. 
+4
+(f) RECIPROCITY.—A business user shall not be 
+5
+under any obligation to adopt or comply with the require-
+6
+ments of this Act or the rules adopted by the Commission 
+7
+under this Act unless it chooses to— 
+8
+(1) initiate the secure transfer of data from a 
+9
+covered platform under section 3 of this Act; or 
+10
+(2) access an interoperability interface of a cov-
+11
+ered platform under section 4 of this Act. 
+12
+SEC. 7. TECHNICAL COMMITTEE. 
+13
+(a) ESTABLISHMENT.— 
+14
+(1) Not later than 180 days following the enact-
+15
+ment of this Act, the Commission shall establish a 
+16
+technical committee to assist the Commission with 
+17
+considerations relating to implementation and tech-
+18
+nical aspects of the requirements under sections 3 
+19
+and 4 of this Act. 
+20
+(2) The size of the committee and its member-
+21
+ship is within the sole discretion of the Commission 
+22
+except as specified in subsection 7(b). 
+23
+(b) COMPOSITION.—Each technical committee shall 
+24
+include— 
+25
+01:10 Jun 12, 2021
+H3849
+18 
+•HR 3849 IH
+(1) representatives of businesses that, in the 
+1
+judgement of the Commission, utilize or compete 
+2
+with the platform; 
+3
+(2) representatives of competition or privacy ad-
+4
+vocacy organizations, and independent academics 
+5
+that possess technical, legal, economic, financial, or 
+6
+other knowledge that the Commission may deem 
+7
+useful; 
+8
+(3) a representative from the National Institute 
+9
+of Standards and Technology; and 
+10
+(4) representatives of a covered platform, 
+11
+which, if required by Commission, shall provide a 
+12
+nonvoting advisory member to provide consultation 
+13
+and other aid to the technical committee. A failure 
+14
+by the covered platform to participate in good faith 
+15
+in the development of standards by the Technical 
+16
+Committee shall be a violation of this statute. 
+17
+(c) GENERAL RESPONSIBILITIES.—Each technical 
+18
+committee established under this section shall meet regu-
+19
+larly to provide information, analysis, and recommenda-
+20
+tions to the Commission on the standards of portability 
+21
+and interoperability and any changes to those standards. 
+22
+These standards should— 
+23
+(1) seek to reduce or eliminate network effects 
+24
+that limit competition with the covered platform; 
+25
+01:10 Jun 12, 2021
+H3849
+19 
+•HR 3849 IH
+(2) establish data security and privacy protec-
+1
+tions for data portability and interoperability; 
+2
+(3) prevent fraudulent, malicious, or abusive ac-
+3
+tivity by a competing business or a potential com-
+4
+peting business; and 
+5
+(4) establish reasonable thresholds related to 
+6
+the frequency, nature, and volume of requests by a 
+7
+competing business or a potential competing busi-
+8
+ness to access resources maintained by the covered 
+9
+platform, beyond which the covered platform may 
+10
+assess a reasonable fee for such access that shall be 
+11
+reasonably proportional to the cost, complexity, and 
+12
+risk to the covered platform of providing such ac-
+13
+cess, and do not limit the ability or deter the incen-
+14
+tive of a competing business or a potentially com-
+15
+peting business to interoperate with the covered 
+16
+platform. 
+17
+(d) ROLE.—The role of technical committees is advi-
+18
+sory in nature, and such committees shall have no imple-
+19
+mentation or enforcement authority. However, the Com-
+20
+mission shall give strong consideration to the rec-
+21
+ommendations of such committees in implementing this 
+22
+Act. 
+23
+(e) NONAPPLICABILITY OF THE FEDERAL ADVISORY 
+24
+COMMITTEE ACT.—The Federal Advisory Committee Act 
+25
+01:10 Jun 12, 2021
+H3849
+20 
+•HR 3849 IH
+(5 U.S.C. App.) shall not apply with respect to the tech-
+1
+nical committees. 
+2
+SEC. 8. JUDICIAL REVIEW. 
+3
+(a) IN GENERAL.—Any party that is subject to a cov-
+4
+ered platform designation pursuant to section 6(a) of this 
+5
+Act, a final order issued in any district court, or a final 
+6
+order of the Commission issued in an administrative adju-
+7
+dicative proceeding may within 30 days of the issuance 
+8
+of such order, petition for review of such order in the 
+9
+United States Court of Appeals for the District of Colum-
+10
+bia Circuit. 
+11
+(b) TREATMENT OF FINDINGS.—In a proceeding for 
+12
+judicial review of a covered platform designation pursuant 
+13
+to section 6(a) of this Act or a final order of the Commis-
+14
+sion, the findings of the Commission as to the facts, if 
+15
+supported by evidence, shall be conclusive. 
+16
+SEC. 9. ENFORCEMENT. 
+17
+(a) COMMISSION LITIGATION AUTHORITY.—If the 
+18
+Commission has reason to believe that a covered platform 
+19
+violated this Act, the Commission may commence a civil 
+20
+action, in its own name by any of its attorneys designated 
+21
+by it for such purpose, to recover a civil penalty under 
+22
+this Act and seek other appropriate relief in a district 
+23
+court of the United States against the covered platform 
+24
+operator. 
+25
+01:10 Jun 12, 2021
+H3849
+21 
+•HR 3849 IH
+(b) EMERGENCY RELIEF.— 
+1
+(1) The Commission may seek a temporary in-
+2
+junction requiring the covered platform operator to 
+3
+take or stop taking any action for not more than 
+4
+120 days and the court shall grant such relief if the 
+5
+Commission proves— 
+6
+(A) there is a plausible claim that a cov-
+7
+ered platform operator took an action that 
+8
+could violate this Act; and 
+9
+(B) that action impairs the ability of at 
+10
+least one company to compete with the covered 
+11
+platform. 
+12
+(2) The emergency relief shall not last more 
+13
+than 120 days from the filing of the complaint. 
+14
+(3) The court shall terminate the emergency re-
+15
+lief at any time that the covered platform operator 
+16
+proves that the Commission has not taken reason-
+17
+able steps to investigate whether a violation has oc-
+18
+curred. 
+19
+(4) Nothing in this subsection prevents or limits 
+20
+the Commission from seeking other equitable relief 
+21
+as provided in section 10 of this Act. 
+22
+(c) STATUTE OF LIMITATIONS.—A proceeding for a 
+23
+violation of this Act may be commenced not later than 
+24
+6 years after such violation occurs. 
+25
+01:10 Jun 12, 2021
+H3849
+22 
+•HR 3849 IH
+SEC. 10. REMEDIES. 
+1
+(a) CIVIL PENALTY.—The Commission may recover 
+2
+a civil penalty for a violation of this Act, which shall ac-
+3
+crue to the United States, in an amount not more than 
+4
+the greater of— 
+5
+(1) 15 percent of the total United States rev-
+6
+enue of the person, partnership, or corporation for 
+7
+the previous calendar year; or 
+8
+(2) 30 percent of the United States revenue of 
+9
+the person, partnership, or corporation in any line of 
+10
+business affected or targeted by the unlawful con-
+11
+duct during the period of the unlawful conduct. 
+12
+(b) REMEDIES IN ADDITION.—Remedies provided in 
+13
+this subsection are in addition to, and not in lieu of, any 
+14
+other remedy available to the Commission under Federal 
+15
+law. 
+16
+(1) RESTITUTION; CONTRACT RESCISSION AND 
+17
+REFORMATION; REFUNDS; RETURN OF PROPERTY.— 
+18
+The Commission may seek, and a court may order, 
+19
+with respect to the violation that gives rise to the 
+20
+suit, restitution for losses, rescission or reformation 
+21
+of contracts, refund of money, or return of property. 
+22
+(2) DISGORGEMENT.—The Commission may 
+23
+seek, and a court may order, disgorgement of any 
+24
+unjust enrichment that a covered platform obtained 
+25
+as a result of the violation that gives rise to the suit. 
+26
+01:10 Jun 12, 2021
+H3849
+23 
+•HR 3849 IH
+(3) INJUNCTION.—The Commission may seek, 
+1
+and the court may order, relief in equity as nec-
+2
+essary to prevent, restrain, or prohibit violations of 
+3
+this Act. 
+4
+(c) REPEAT OFFENDERS.—If the fact finder deter-
+5
+mines that a covered platform has shown a pattern or 
+6
+practice of violating this Act, the court shall consider re-
+7
+quiring that the Chief Executive Officer forfeit to the 
+8
+United States Treasury any compensation received by that 
+9
+person during the 12 months preceding or following the 
+10
+filing of a complaint alleging a violation of this Act. 
+11
+SEC. 11. RULE OF CONSTRUCTION. 
+12
+Nothing in this Act shall be construed to limit any 
+13
+authority of the Attorney General or the Federal Trade 
+14
+Commission under the antitrust laws, section 5 of the 
+15
+Federal Trade Commission Act (15 U.S.C. 45), or any 
+16
+other provision of law or to limit the application of any 
+17
+law. 
+18
+SEC. 12. SEVERABILITY. 
+19
+If any provision of this Act, an amendment made by 
+20
+this Act, or the application of such provision or amend-
+21
+ment to any person or circumstance is held to be unconsti-
+22
+tutional, the remainder of this Act and of the amendments 
+23
+made by this Act, and the application of the remaining 
+24
+01:10 Jun 12, 2021
+H3849
+24 
+•HR 3849 IH
+provisions of this Act and amendments to any person or 
+1
+circumstance shall not be affected. 
+2
+Æ 
+01:10 Jun 12, 2021
+H3849

@@ -1,0 +1,327 @@
+A BILL 
+To amend title XVIII of the Social Security Act and title 
+XXVII of the Public Health Service Act to address incor-
+rect billing by off-campus hospital locations, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Transparency of Hos-
+4
+pital Billing Act’’. 
+5
+04:03 Jun 28, 2022
+H8133
+2 
+•HR 8133 IH
+SEC. 2. ADDRESSING INCORRECT BILLING BY OFF-CAMPUS 
+1
+HOSPITAL LOCATIONS. 
+2
+(a) PROMOTING MEDICARE SITE-NEUTRAL PAY-
+3
+MENTS.— 
+4
+(1) REMOVING CERTAIN EXCEPTIONS TO THE 
+5
+DEFINITION OF AN OFF-CAMPUS OUTPATIENT DE-
+6
+PARTMENT OF A PROVIDER.— 
+7
+(A) IN GENERAL.—Section 1833(t)(21)(B) 
+8
+of 
+the 
+Social 
+Security 
+Act 
+(42 
+U.S.C. 
+9
+1395l(t)(21)(B)) is amended to read as follows: 
+10
+‘‘(B) OFF-CAMPUS
+OUTPATIENT
+DEPART-
+11
+MENT OF A PROVIDER.—For purposes of para-
+12
+graph (1)(B)(v) and this paragraph, the term 
+13
+‘off-campus outpatient department of a pro-
+14
+vider’ means a department of a provider (as de-
+15
+fined in section 413.65(a)(2) of title 42 of the 
+16
+Code of Federal Regulations, as in effect as of 
+17
+the date of the enactment of the Bipartisan 
+18
+Budget Act of 2015) that is not located— 
+19
+‘‘(i) on the campus (as defined in such 
+20
+section 413.65(a)(2)) of such provider; or 
+21
+‘‘(ii) within the distance (described in 
+22
+such definition of campus) from a remote 
+23
+location of a hospital facility (as defined in 
+24
+such section 413.65(a)(2)).’’. 
+25
+04:03 Jun 28, 2022
+H8133
+3 
+•HR 8133 IH
+(B) EFFECTIVE
+DATE.—The amendment 
+1
+made by subparagraph (A) shall apply with re-
+2
+spect to items and services furnished on or 
+3
+after January 1, 2023. 
+4
+(2) REMOVING SITE-NEUTRAL EXCEPTION FOR 
+5
+OFF-CAMPUS
+EMERGENCY
+DEPARTMENTS.—Section 
+6
+1833(t)(21)(A) of the Social Security Act (42 
+7
+U.S.C. 1395l(t)(21)(A)) is amended by inserting 
+8
+‘‘before January 1, 2023’’ after ‘‘furnished’’. 
+9
+(3) CLARIFYING SECRETARIAL AUTHORITY TO 
+10
+PROMOTE
+SITE-NEUTRAL
+PAYMENTS.—Section 
+11
+1833(t)(2)(F) of the Social Security Act (42 U.S.C. 
+12
+1395l(t)(2)(F)) is amended by adding at the end the 
+13
+following new sentence: ‘‘Such method may include 
+14
+actions determined appropriate by the Secretary to 
+15
+promote site-neutral payment policies to reduce ex-
+16
+penditures attributable to items and services fur-
+17
+nished under this part, such as actions to prevent 
+18
+hospitals from billing for items and services fur-
+19
+nished at an off-campus outpatient department of a 
+20
+provider as if such items and services were furnished 
+21
+at such hospital.’’. 
+22
+(b) ENSURING SEPARATE NPIS FOR OFF-CAMPUS 
+23
+OUTPATIENT DEPARTMENTS OF A PROVIDER.— 
+24
+04:03 Jun 28, 2022
+H8133
+4 
+•HR 8133 IH
+(1) IN GENERAL.—Section 1173(b) of the So-
+1
+cial Security Act (42 U.S.C. 1320d–2(b)) is amend-
+2
+ed by adding at the end the following new para-
+3
+graph: 
+4
+‘‘(3) ENSURING SEPARATE NPIS FOR OFF-CAM-
+5
+PUS OUTPATIENT DEPARTMENTS OF A PROVIDER.— 
+6
+The standards specified under paragraph (1) shall 
+7
+ensure that, not later than January 1, 2023, each 
+8
+off-campus outpatient department of a provider (as 
+9
+defined in section 1833(t)(21)(B)) is assigned a sep-
+10
+arate unique health identifier from such provider.’’. 
+11
+(2) TREATMENT OF CERTAIN DEPARTMENTS AS 
+12
+SUBPARTS OF A HOSPITAL.—Not later than January 
+13
+1, 2023, the Secretary of Health and Human Serv-
+14
+ices shall revise sections 162.408 and 162.410 of 
+15
+title 45, Code of Federal Regulations, to ensure that 
+16
+each off-campus outpatient department of a provider 
+17
+(as defined in section 1833(t)(21)(B) of the Social 
+18
+Security Act (42 U.S.C. 1395l(t)(21)(B))) is treated 
+19
+as a subpart (as described in such sections) of such 
+20
+provider and assigned a unique health identifier pur-
+21
+suant to section 1173(b)(3) of such Act (as added 
+22
+by paragraph (1)). 
+23
+(c) OFF-CAMPUS DEPARTMENTS
+OF
+A PROVIDER 
+24
+BILLING REQUIREMENTS.— 
+25
+04:03 Jun 28, 2022
+H8133
+5 
+•HR 8133 IH
+(1) MEDICARE.—Section 1866(a)(1) of the So-
+1
+cial Security Act (42 U.S.C. 1395cc(a)(1)) is 
+2
+amended— 
+3
+(A) in subparagraph (X), by striking 
+4
+‘‘and’’ at the end; 
+5
+(B) in subparagraph (Y)(ii)(V), by striking 
+6
+the period and inserting ‘‘, and’’; and 
+7
+(C) by inserting after subparagraph (Y) 
+8
+the following new subparagraph: 
+9
+‘‘(Z) in the case of a hospital with an off-cam-
+10
+pus outpatient department of a provider (as defined 
+11
+in section 1833(t)(21)(B)), with respect to items 
+12
+and services furnished at such department of a pro-
+13
+vider on or after January 1, 2023, to bill under this 
+14
+title (including under part C of this title) for such 
+15
+items and services using the unique health identifier 
+16
+established for such department of a provider pursu-
+17
+ant to section 1173(b)(3) on a HIPAA X12 837P 
+18
+transaction or CMS 1500 form (or a successor 
+19
+transaction or form).’’. 
+20
+(2) OTHER PROVIDERS.—Part E of title XXVII 
+21
+of the Public Health Service Act (42 U.S.C. 300gg– 
+22
+131 et seq.) is amended by adding at the end the 
+23
+following new section: 
+24
+04:03 Jun 28, 2022
+H8133
+6 
+•HR 8133 IH
+‘‘SEC. 2799B–10. BILLING REQUIREMENTS FOR OFF-CAMPUS 
+1
+DEPARTMENTS OF A PROVIDER. 
+2
+‘‘A health care provider may not, with respect to 
+3
+items and services furnished to an individual at an off- 
+4
+campus outpatient department of a provider (as defined 
+5
+in section 1833(t)(21)(B) of the Social Security Act), sub-
+6
+mit a claim for such items and services to a group health 
+7
+plan or health insurance issuer, and may not hold such 
+8
+individual liable for such items and services, unless such 
+9
+items and services are billed— 
+10
+‘‘(1) using the separate unique health identifier 
+11
+established for such department pursuant to section 
+12
+1173(b)(3) of such Act; and 
+13
+‘‘(2) on a HIPAA X12 837P transaction or 
+14
+CMS 1500 form (or a successor transaction or 
+15
+form).’’. 
+16
+(3) EFFECTIVE DATE.—The amendment made 
+17
+by paragraph (1) shall apply with respect to claims 
+18
+submitted for items and services furnished on or 
+19
+after January 1, 2023. 
+20
+(d) NAIC MODEL ACT OR REGULATION.—The Sec-
+21
+retary of Health and Human Services shall request that, 
+22
+not later than 6 months after the date of the enactment 
+23
+of this Act, the National Association of Insurance Com-
+24
+missioners establish a model Act or regulation designed 
+25
+to address the issue of hospitals inappropriately billing for 
+26
+04:03 Jun 28, 2022
+H8133
+7 
+•HR 8133 IH
+items and services furnished at off-campus outpatient de-
+1
+partments of a provider (as defined in section 
+2
+1833(t)(21)(B) of the Social Security Act (42 U.S.C. 
+3
+1935l(t)(21)(B))) by allowing health insurance issuers and 
+4
+group health plans (as such terms are defined in section 
+5
+2791 of the Public Health Service Act (42 U.S.C. 300gg– 
+6
+91)) to reject such claims unless such department of a 
+7
+provider bills in accordance with the provisions of section 
+8
+2799B–10 of such Act. The Secretary shall request that 
+9
+such model Act or regulation include requirements similar 
+10
+to those found in Colorado House Bill 18–1282. 
+11
+Æ 
+04:03 Jun 28, 2022
+H8133

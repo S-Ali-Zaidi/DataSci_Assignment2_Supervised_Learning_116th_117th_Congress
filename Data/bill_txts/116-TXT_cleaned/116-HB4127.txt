@@ -1,0 +1,2128 @@
+A BILL 
+To establish a broadband infrastructure finance and innova-
+tion program to make available loans, loan guarantees, 
+and lines of credit for the construction and deployment 
+of broadband infrastructure, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+04:43 Aug 06, 2019
+H4127
+2 
+•HR 4127 IH
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+1
+(a) SHORT TITLE.—This Act may be cited as the 
+2
+‘‘Broadband Infrastructure Finance and Innovation Act of 
+3
+2019’’. 
+4
+(b) TABLE OF CONTENTS.—The table of contents for 
+5
+this Act is as follows: 
+6
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+Sec. 3. Determination of eligibility and project selection. 
+Sec. 4. Secured loans. 
+Sec. 5. Lines of credit. 
+Sec. 6. Alternative prudential lending standards for small projects. 
+Sec. 7. Program administration. 
+Sec. 8. State and local permits. 
+Sec. 9. Regulations. 
+Sec. 10. Funding. 
+Sec. 11. Reports to Congress. 
+SEC. 2. DEFINITIONS. 
+7
+In this Act: 
+8
+(1) ASSISTANT SECRETARY.—The term ‘‘Assist-
+9
+ant Secretary’’ means the Assistant Secretary of 
+10
+Commerce for Communications and Information. 
+11
+(2) BIFIA PROGRAM.—The term ‘‘BIFIA pro-
+12
+gram’’ means the broadband infrastructure finance 
+13
+and innovation program established under this Act. 
+14
+(3) BROADBAND SERVICE.—The term ‘‘broad-
+15
+band service’’— 
+16
+(A) means broadband internet access serv-
+17
+ice that is a mass-market retail service, or a 
+18
+service provided to an entity described in para-
+19
+graph (12)(B)(ii), by wire or radio that pro-
+20
+04:43 Aug 06, 2019
+H4127
+3 
+•HR 4127 IH
+vides the capability to transmit data to and re-
+1
+ceive data from all or substantially all internet 
+2
+endpoints, including any capabilities that are 
+3
+incidental to and enable the operation of the 
+4
+communications service; 
+5
+(B) includes any service that is a func-
+6
+tional equivalent of the service described in sub-
+7
+paragraph (A); and 
+8
+(C) does not include dial-up internet access 
+9
+service. 
+10
+(4) ELIGIBLE PROJECT COSTS.—The term ‘‘eli-
+11
+gible project costs’’ means amounts substantially all 
+12
+of which are paid by, or for the account of, an obli-
+13
+gor in connection with a project, including the cost 
+14
+of— 
+15
+(A) development phase activities, including 
+16
+planning, feasibility analysis, revenue fore-
+17
+casting, environmental review, historic preserva-
+18
+tion review, permitting, preliminary engineering 
+19
+and design work, and other preconstruction ac-
+20
+tivities; 
+21
+(B) construction and deployment phase ac-
+22
+tivities, including— 
+23
+(i) construction, reconstruction, reha-
+24
+bilitation, replacement, and acquisition of 
+25
+04:43 Aug 06, 2019
+H4127
+4 
+•HR 4127 IH
+real property (including land relating to 
+1
+the project and improvements to land), 
+2
+equipment, instrumentation, networking 
+3
+capability, hardware and software, and dig-
+4
+ital network technology; 
+5
+(ii) environmental mitigation; and 
+6
+(iii) construction contingencies; and 
+7
+(C) capitalized interest necessary to meet 
+8
+market requirements, reasonably required re-
+9
+serve funds, capital issuance expenses, and 
+10
+other carrying costs during construction and 
+11
+deployment. 
+12
+(5) FEDERAL CREDIT INSTRUMENT.—The term 
+13
+‘‘Federal credit instrument’’ means a secured loan, 
+14
+loan guarantee, or line of credit authorized to be 
+15
+made available under the BIFIA program with re-
+16
+spect to a project. 
+17
+(6) INVESTMENT-GRADE
+RATING.—The term 
+18
+‘‘investment-grade rating’’ means a rating of BBB 
+19
+minus, Baa3, bbb minus, BBB (low), or higher as-
+20
+signed by a rating agency to project obligations. 
+21
+(7) LENDER.—The term ‘‘lender’’ means any 
+22
+non-Federal qualified institutional buyer (as defined 
+23
+in section 230.144A(a) of title 17, Code of Federal 
+24
+Regulations (or any successor regulation), known as 
+25
+04:43 Aug 06, 2019
+H4127
+5 
+•HR 4127 IH
+Rule 144A(a) of the Securities and Exchange Com-
+1
+mission and issued under the Securities Act of 1933 
+2
+(15 U.S.C. 77a et seq.)), including— 
+3
+(A) a qualified retirement plan (as defined 
+4
+in section 4974(c) of the Internal Revenue Code 
+5
+of 1986) that is a qualified institutional buyer; 
+6
+and 
+7
+(B) a governmental plan (as defined in 
+8
+section 414(d) of the Internal Revenue Code of 
+9
+1986) that is a qualified institutional buyer. 
+10
+(8) LETTER OF INTEREST.—The term ‘‘letter 
+11
+of interest’’ means a letter submitted by a potential 
+12
+applicant prior to an application for credit assistance 
+13
+in a format prescribed by the Assistant Secretary on 
+14
+the website of the BIFIA program that— 
+15
+(A) describes the project and the location, 
+16
+purpose, and cost of the project; 
+17
+(B) outlines the proposed financial plan, 
+18
+including the requested credit assistance and 
+19
+the proposed obligor; 
+20
+(C) provides a status of environmental re-
+21
+view; and 
+22
+(D) provides information regarding satis-
+23
+faction of other eligibility requirements of the 
+24
+BIFIA program. 
+25
+04:43 Aug 06, 2019
+H4127
+6 
+•HR 4127 IH
+(9) LINE OF CREDIT.—The term ‘‘line of cred-
+1
+it’’ means an agreement entered into by the Assist-
+2
+ant Secretary with an obligor under section 5 to pro-
+3
+vide a direct loan at a future date upon the occur-
+4
+rence of certain events. 
+5
+(10) LOAN GUARANTEE.—The term ‘‘loan guar-
+6
+antee’’ means any guarantee or other pledge by the 
+7
+Assistant Secretary to pay all or part of the prin-
+8
+cipal of and interest on a loan or other debt obliga-
+9
+tion issued by an obligor and funded by a lender. 
+10
+(11) OBLIGOR.—The term ‘‘obligor’’ means a 
+11
+party that— 
+12
+(A) is primarily liable for payment of the 
+13
+principal of or interest on a Federal credit in-
+14
+strument; and 
+15
+(B) may be a corporation, company, part-
+16
+nership, joint venture, trust, or governmental 
+17
+entity, agency, or instrumentality. 
+18
+(12) PROJECT.—The term ‘‘project’’ means a 
+19
+project— 
+20
+(A) to construct and deploy infrastructure 
+21
+for the provision of broadband service; and 
+22
+(B) that the Assistant Secretary deter-
+23
+mines will— 
+24
+04:43 Aug 06, 2019
+H4127
+7 
+•HR 4127 IH
+(i) provide access or improved access 
+1
+to broadband service to consumers residing 
+2
+in areas of the United States that have no 
+3
+access to broadband service or do not have 
+4
+access to broadband service offered— 
+5
+(I) with a download speed of at 
+6
+least 25 megabits per second; 
+7
+(II) with an upload speed of at 
+8
+least 3 megabits per second; and 
+9
+(III) with latency that is suffi-
+10
+ciently low to allow real-time, inter-
+11
+active applications; or 
+12
+(ii) provide access or improved access 
+13
+to broadband service to— 
+14
+(I) schools, libraries, medical and 
+15
+healthcare providers, community col-
+16
+leges and other institutions of higher 
+17
+education, and other community sup-
+18
+port organizations and entities to fa-
+19
+cilitate greater use of broadband serv-
+20
+ice by or through such organizations; 
+21
+(II) organizations and agencies 
+22
+that provide outreach, access, equip-
+23
+ment, and support services to facili-
+24
+tate greater use of broadband service 
+25
+04:43 Aug 06, 2019
+H4127
+8 
+•HR 4127 IH
+by low-income, unemployed, aged, and 
+1
+otherwise vulnerable populations; 
+2
+(III) job-creating strategic facili-
+3
+ties located within a State-designated 
+4
+economic zone, Economic Develop-
+5
+ment District designated by the De-
+6
+partment 
+of 
+Commerce, 
+Renewal 
+7
+Community or Empowerment Zone 
+8
+designated by the Department of 
+9
+Housing and Urban Development, or 
+10
+Enterprise Community designated by 
+11
+the Department of Agriculture; or 
+12
+(IV) public safety agencies. 
+13
+(13) 
+PROJECT
+OBLIGATION.—The 
+term 
+14
+‘‘project obligation’’ means any note, bond, deben-
+15
+ture, or other debt obligation issued by an obligor in 
+16
+connection with the financing of a project, other 
+17
+than a Federal credit instrument. 
+18
+(14) PUBLIC
+AUTHORITY.—The term ‘‘public 
+19
+authority’’ means a Federal, State, county, town, or 
+20
+township, Indian Tribe, municipal or other local gov-
+21
+ernment or instrumentality with authority to fi-
+22
+nance, build, operate, or maintain infrastructure for 
+23
+the provision of broadband service. 
+24
+04:43 Aug 06, 2019
+H4127
+9 
+•HR 4127 IH
+(15) RATING AGENCY.—The term ‘‘rating agen-
+1
+cy’’ means a credit rating agency registered with the 
+2
+Securities and Exchange Commission as a nationally 
+3
+recognized statistical rating organization (as defined 
+4
+in section 3(a) of the Securities Exchange Act of 
+5
+1934 (15 U.S.C. 78c(a))). 
+6
+(16) SECURED
+LOAN.—The term ‘‘secured 
+7
+loan’’ means a direct loan or other debt obligation 
+8
+issued by an obligor and funded by the Assistant 
+9
+Secretary in connection with the financing of a 
+10
+project under section 4. 
+11
+(17) 
+SMALL
+PROJECT.—The 
+term 
+‘‘small 
+12
+project’’ means a project having eligible project costs 
+13
+that are reasonably anticipated not to equal or ex-
+14
+ceed $20,000,000. 
+15
+(18) STATE.—The term ‘‘State’’ has the mean-
+16
+ing given such term in section 3 of the Communica-
+17
+tions Act of 1934 (47 U.S.C. 153). 
+18
+(19) SUBSIDY
+AMOUNT.—The term ‘‘subsidy 
+19
+amount’’ means the amount of budget authority suf-
+20
+ficient to cover the estimated long-term cost to the 
+21
+Federal Government of a Federal credit instru-
+22
+ment— 
+23
+(A) calculated on a net present value basis; 
+24
+and 
+25
+04:43 Aug 06, 2019
+H4127
+10 
+•HR 4127 IH
+(B) excluding administrative costs and any 
+1
+incidental effects on governmental receipts or 
+2
+outlays in accordance with the Federal Credit 
+3
+Reform Act of 1990 (2 U.S.C. 661 et seq.). 
+4
+(20) SUBSTANTIAL
+COMPLETION.—The term 
+5
+‘‘substantial completion’’ means, with respect to a 
+6
+project receiving credit assistance under the BIFIA 
+7
+program— 
+8
+(A) the commencement of the provision of 
+9
+broadband service using the infrastructure 
+10
+being financed; or 
+11
+(B) a comparable event, as determined by 
+12
+the Assistant Secretary and specified in the 
+13
+credit agreement. 
+14
+SEC. 3. DETERMINATION OF ELIGIBILITY AND PROJECT SE-
+15
+LECTION. 
+16
+(a) ELIGIBILITY.— 
+17
+(1) IN GENERAL.—A project shall be eligible to 
+18
+receive credit assistance under the BIFIA program 
+19
+if— 
+20
+(A) the entity proposing to carry out the 
+21
+project submits a letter of interest prior to sub-
+22
+mission of a formal application for the project; 
+23
+and 
+24
+04:43 Aug 06, 2019
+H4127
+11 
+•HR 4127 IH
+(B) the project meets the criteria described 
+1
+in this subsection. 
+2
+(2) CREDITWORTHINESS.— 
+3
+(A) IN GENERAL.—Except as provided in 
+4
+subparagraph (B), to be eligible for assistance 
+5
+under the BIFIA program, a project shall sat-
+6
+isfy 
+applicable 
+creditworthiness 
+standards, 
+7
+which, at a minimum, shall include— 
+8
+(i) adequate coverage requirements to 
+9
+ensure repayment; 
+10
+(ii) an investment-grade rating from 
+11
+at least 2 rating agencies on debt senior to 
+12
+the Federal credit instrument; and 
+13
+(iii) a rating from at least 2 rating 
+14
+agencies on the Federal credit instrument. 
+15
+(B) SMALL
+PROJECTS.—In order for a 
+16
+small project to be eligible for assistance under 
+17
+the BIFIA program, such project shall satisfy 
+18
+alternative creditworthiness standards that shall 
+19
+be established by the Assistant Secretary under 
+20
+section 6 for purposes of this paragraph. 
+21
+(3) APPLICATION.—A State, local government, 
+22
+agency or instrumentality of a State or local govern-
+23
+ment, public authority, public-private partnership, or 
+24
+any other legal entity undertaking the project and 
+25
+04:43 Aug 06, 2019
+H4127
+12 
+•HR 4127 IH
+authorized by the Assistant Secretary shall submit a 
+1
+project application that is acceptable to the Assist-
+2
+ant Secretary. 
+3
+(4) ELIGIBLE PROJECT COST PARAMETERS FOR 
+4
+INFRASTRUCTURE PROJECTS.—Eligible project costs 
+5
+shall be reasonably anticipated to equal or exceed 
+6
+$2,000,000 in the case of a project or program of 
+7
+projects— 
+8
+(A) in which the applicant is a local gov-
+9
+ernment, instrumentality of local government, 
+10
+or public authority (other than a public author-
+11
+ity that is a Federal or State government or in-
+12
+strumentality); 
+13
+(B) located on a facility owned by a local 
+14
+government; or 
+15
+(C) for which the Assistant Secretary de-
+16
+termines that a local government is substan-
+17
+tially involved in the development of the project. 
+18
+(5) DEDICATED REVENUE SOURCES.—The ap-
+19
+plicable Federal credit instrument shall be repayable, 
+20
+in whole or in part, from— 
+21
+(A) amounts charged to— 
+22
+(i) subscribers of broadband service 
+23
+for such service; or 
+24
+04:43 Aug 06, 2019
+H4127
+13 
+•HR 4127 IH
+(ii) subscribers of any related service 
+1
+provided over the same infrastructure for 
+2
+such related service; 
+3
+(B) user fees; 
+4
+(C) payments owing to the obligor under a 
+5
+public-private partnership; or 
+6
+(D) other dedicated revenue sources that 
+7
+also secure or fund the project obligations. 
+8
+(6) APPLICATIONS WHERE OBLIGOR WILL BE 
+9
+IDENTIFIED
+LATER.—A State, local government, 
+10
+agency or instrumentality of a State or local govern-
+11
+ment, or public authority may submit to the Assist-
+12
+ant Secretary an application under paragraph (3), 
+13
+under which a private party to a public-private part-
+14
+nership will be— 
+15
+(A) the obligor; and 
+16
+(B) identified later through completion of 
+17
+a procurement and selection of the private 
+18
+party. 
+19
+(7) BENEFICIAL EFFECTS.—The Assistant Sec-
+20
+retary shall determine that financial assistance for 
+21
+the project under the BIFIA program will— 
+22
+(A) foster, if appropriate, partnerships 
+23
+that attract public and private investment for 
+24
+the project; 
+25
+04:43 Aug 06, 2019
+H4127
+14 
+•HR 4127 IH
+(B) enable the project to proceed at an 
+1
+earlier date than the project would otherwise be 
+2
+able to proceed or reduce the lifecycle costs (in-
+3
+cluding debt service costs) of the project; and 
+4
+(C) reduce the contribution of Federal 
+5
+grant assistance for the project. 
+6
+(8) PROJECT READINESS.—To be eligible for 
+7
+assistance under the BIFIA program, the applicant 
+8
+shall demonstrate a reasonable expectation that the 
+9
+contracting process for the construction and deploy-
+10
+ment of infrastructure for the provision of broad-
+11
+band service through the project can commence by 
+12
+no later than 90 days after the date on which a Fed-
+13
+eral credit instrument is obligated for the project 
+14
+under the BIFIA program. 
+15
+(b) SELECTION AMONG ELIGIBLE PROJECTS.— 
+16
+(1) ESTABLISHMENT
+OF
+APPLICATION
+PROC-
+17
+ESS.—The Assistant Secretary shall establish a roll-
+18
+ing application process under which projects that are 
+19
+eligible to receive credit assistance under subsection 
+20
+(a) shall receive credit assistance on terms accept-
+21
+able to the Assistant Secretary, if adequate funds 
+22
+are available to cover the subsidy costs associated 
+23
+with the Federal credit instrument. 
+24
+04:43 Aug 06, 2019
+H4127
+15 
+•HR 4127 IH
+(2) PRELIMINARY RATING OPINION LETTER.— 
+1
+The Assistant Secretary shall require each project 
+2
+applicant to provide— 
+3
+(A) a preliminary rating opinion letter 
+4
+from at least 1 rating agency— 
+5
+(i) indicating that the senior obliga-
+6
+tions of the project, which may be the Fed-
+7
+eral credit instrument, have the potential 
+8
+to achieve an investment-grade rating; and 
+9
+(ii) including a preliminary rating 
+10
+opinion on the Federal credit instrument; 
+11
+or 
+12
+(B) in the case of a small project, alter-
+13
+native documentation that the Assistant Sec-
+14
+retary shall require in the standards established 
+15
+under section 6 for purposes of this paragraph. 
+16
+(3) TECHNOLOGY NEUTRALITY REQUIRED.—In 
+17
+selecting projects to receive credit assistance under 
+18
+the BIFIA program, the Assistant Secretary may 
+19
+not favor a project using any particular technology. 
+20
+(c) FEDERAL REQUIREMENTS.— 
+21
+(1) IN GENERAL.—The following provisions of 
+22
+law shall apply to funds made available under the 
+23
+BIFIA program and projects assisted with those 
+24
+funds: 
+25
+04:43 Aug 06, 2019
+H4127
+16 
+•HR 4127 IH
+(A) Title VI of the Civil Rights Act of 
+1
+1964 (42 U.S.C. 2000d et seq.). 
+2
+(B) The National Environmental Policy 
+3
+Act of 1969 (42 U.S.C. 4321 et seq.). 
+4
+(C) 54 U.S.C. 300101 et seq. (commonly 
+5
+referred to as the ‘‘National Historic Preserva-
+6
+tion Act’’). 
+7
+(D) The Uniform Relocation Assistance 
+8
+and Real Property Acquisition Policies Act of 
+9
+1970 (42 U.S.C. 4601 et seq.). 
+10
+(2) NEPA.—No funding shall be obligated for 
+11
+a project that has not received an environmental cat-
+12
+egorical exclusion, a finding of no significant impact, 
+13
+or a record of decision under the National Environ-
+14
+mental Policy Act of 1969 (42 U.S.C. 4321 et seq.). 
+15
+(3) TITLE VI OF THE CIVIL RIGHTS ACT OF 
+16
+1964.—For purposes of title VI of the Civil Rights 
+17
+Act of 1964 (42 U.S.C. 2000d et seq.), any project 
+18
+that receives credit assistance under the BIFIA pro-
+19
+gram shall be considered a program or activity with-
+20
+in the meaning of section 606 of such title (42 
+21
+U.S.C. 2000d–4a). 
+22
+(d) APPLICATION PROCESSING PROCEDURES.— 
+23
+(1) NOTICE OF COMPLETE APPLICATION.—Not 
+24
+later than 30 days after the date of receipt of an ap-
+25
+04:43 Aug 06, 2019
+H4127
+17 
+•HR 4127 IH
+plication under this section, the Assistant Secretary 
+1
+shall provide to the applicant a written notice to in-
+2
+form the applicant whether— 
+3
+(A) the application is complete; or 
+4
+(B) additional information or materials are 
+5
+needed to complete the application. 
+6
+(2) APPROVAL OR DENIAL OF APPLICATION.— 
+7
+Not later than 60 days after the date of issuance of 
+8
+the written notice under paragraph (1), the Assist-
+9
+ant Secretary shall provide to the applicant a writ-
+10
+ten notice informing the applicant whether the As-
+11
+sistant Secretary has approved or disapproved the 
+12
+application. 
+13
+(3) APPROVAL BEFORE NEPA REVIEW.—Subject 
+14
+to subsection (c)(2), an application for a project may 
+15
+be approved before the project receives an environ-
+16
+mental categorical exclusion, a finding of no signifi-
+17
+cant impact, or a record of decision under the Na-
+18
+tional Environmental Policy Act of 1969 (42 U.S.C. 
+19
+4321 et seq.). 
+20
+(e) DEVELOPMENT PHASE ACTIVITIES.—Any credit 
+21
+instrument secured under the BIFIA program may be 
+22
+used to finance up to 100 percent of the cost of develop-
+23
+ment phase activities as described in section 2(4)(A). 
+24
+04:43 Aug 06, 2019
+H4127
+18 
+•HR 4127 IH
+SEC. 4. SECURED LOANS. 
+1
+(a) IN GENERAL.— 
+2
+(1) AGREEMENTS.—Subject to paragraphs (2) 
+3
+and (3), the Assistant Secretary may enter into 
+4
+agreements with one or more obligors to make se-
+5
+cured loans, the proceeds of which shall be used— 
+6
+(A) to finance eligible project costs of any 
+7
+project selected under section 3; 
+8
+(B) to refinance interim construction fi-
+9
+nancing of eligible project costs of any project 
+10
+selected under section 3; or 
+11
+(C) to refinance long-term project obliga-
+12
+tions or Federal credit instruments, if the refi-
+13
+nancing provides additional funding capacity for 
+14
+the completion, enhancement, or expansion of 
+15
+any project that— 
+16
+(i) is selected under section 3; or 
+17
+(ii) otherwise meets the requirements 
+18
+of section 3. 
+19
+(2) LIMITATION ON REFINANCING OF INTERIM 
+20
+CONSTRUCTION
+FINANCING.—A loan under para-
+21
+graph (1) shall not refinance interim construction fi-
+22
+nancing under paragraph (1)(B)— 
+23
+(A) if the maturity of such interim con-
+24
+struction financing is later than 1 year after 
+25
+the substantial completion of the project; and 
+26
+04:43 Aug 06, 2019
+H4127
+19 
+•HR 4127 IH
+(B) later than 1 year after the date of sub-
+1
+stantial completion of the project. 
+2
+(3) RISK
+ASSESSMENT.—Before entering into 
+3
+an agreement under this subsection, the Assistant 
+4
+Secretary, in consultation with the Director of the 
+5
+Office of Management and Budget, shall determine 
+6
+an appropriate capital reserve subsidy amount for 
+7
+each secured loan, taking into account each rating 
+8
+letter provided by a rating agency under section 
+9
+3(b)(2)(A)(ii) or, in the case of a small project, the 
+10
+alternative documentation provided under section 
+11
+3(b)(2)(B). 
+12
+(b) TERMS AND LIMITATIONS.— 
+13
+(1) IN GENERAL.—A secured loan under this 
+14
+section with respect to a project shall be on such 
+15
+terms and conditions and contain such covenants, 
+16
+representations, warranties, and requirements (in-
+17
+cluding requirements for audits) as the Assistant 
+18
+Secretary determines to be appropriate. 
+19
+(2) MAXIMUM AMOUNT.—The amount of a se-
+20
+cured loan under this section shall not exceed the 
+21
+lesser of 49 percent of the reasonably anticipated eli-
+22
+gible project costs or, if the secured loan is not for 
+23
+a small project and does not receive an investment- 
+24
+04:43 Aug 06, 2019
+H4127
+20 
+•HR 4127 IH
+grade rating, the amount of the senior project obli-
+1
+gations. 
+2
+(3) PAYMENT.—A secured loan under this sec-
+3
+tion— 
+4
+(A) shall— 
+5
+(i) be payable, in whole or in part, 
+6
+from— 
+7
+(I) amounts charged to— 
+8
+(aa) subscribers of broad-
+9
+band service for such service; or 
+10
+(bb) subscribers of any re-
+11
+lated service provided over the 
+12
+same infrastructure for such re-
+13
+lated service; 
+14
+(II) user fees; 
+15
+(III) payments owing to the obli-
+16
+gor under a public-private partner-
+17
+ship; or 
+18
+(IV) other dedicated revenue 
+19
+sources that also secure the senior 
+20
+project obligations; and 
+21
+(ii) include a coverage requirement or 
+22
+similar security feature supporting the 
+23
+project obligations; and 
+24
+04:43 Aug 06, 2019
+H4127
+21 
+•HR 4127 IH
+(B) may have a lien on revenues described 
+1
+in subparagraph (A), subject to any lien secur-
+2
+ing project obligations. 
+3
+(4) INTEREST RATE.—The interest rate on a 
+4
+secured loan under this section shall be not less than 
+5
+the yield on United States Treasury securities of a 
+6
+similar maturity to the maturity of the secured loan 
+7
+on the date of execution of the loan agreement. 
+8
+(5) MATURITY DATE.—The final maturity date 
+9
+of the secured loan shall be the lesser of— 
+10
+(A) 35 years after the date of substantial 
+11
+completion of the project; and 
+12
+(B) if the useful life of the infrastructure 
+13
+for the provision of broadband service being fi-
+14
+nanced is of a lesser period, the useful life of 
+15
+the infrastructure. 
+16
+(6) NONSUBORDINATION.— 
+17
+(A) IN GENERAL.—Except as provided in 
+18
+subparagraph (B), the secured loan shall not be 
+19
+subordinated to the claims of any holder of 
+20
+project obligations in the event of bankruptcy, 
+21
+insolvency, or liquidation of the obligor. 
+22
+(B) PREEXISTING INDENTURE.— 
+23
+(i) IN GENERAL.—The Assistant Sec-
+24
+retary shall waive the requirement under 
+25
+04:43 Aug 06, 2019
+H4127
+22 
+•HR 4127 IH
+subparagraph (A) for a public agency bor-
+1
+rower that is financing ongoing capital 
+2
+programs and has outstanding senior 
+3
+bonds under a preexisting indenture, if— 
+4
+(I) the secured loan— 
+5
+(aa) is rated in the A cat-
+6
+egory or higher; or 
+7
+(bb) in the case of a small 
+8
+project, 
+meets 
+an 
+alternative 
+9
+standard that the Assistant Sec-
+10
+retary shall establish under sec-
+11
+tion 6 for purposes of this sub-
+12
+clause; 
+13
+(II) the secured loan is secured 
+14
+and payable from pledged revenues 
+15
+not affected by project performance, 
+16
+such as a tax-backed revenue pledge 
+17
+or a system-backed pledge of project 
+18
+revenues; and 
+19
+(III) the BIFIA program share 
+20
+of eligible project costs is 33 percent 
+21
+or less. 
+22
+(ii) LIMITATION.—If the Assistant 
+23
+Secretary waives the nonsubordination re-
+24
+quirement under this subparagraph— 
+25
+04:43 Aug 06, 2019
+H4127
+23 
+•HR 4127 IH
+(I) the maximum credit subsidy 
+1
+to be paid by the Federal Government 
+2
+shall be not more than 10 percent of 
+3
+the principal amount of the secured 
+4
+loan; and 
+5
+(II) the obligor shall be respon-
+6
+sible for paying the remainder of the 
+7
+subsidy cost, if any. 
+8
+(7) FEES.—The Assistant Secretary may estab-
+9
+lish fees at a level sufficient to cover all or a portion 
+10
+of the costs to the Federal Government of making 
+11
+a secured loan under this section. 
+12
+(8) NON-FEDERAL SHARE.—The proceeds of a 
+13
+secured loan under the BIFIA program, if the loan 
+14
+is repayable from non-Federal funds— 
+15
+(A) may be used for any non-Federal share 
+16
+of project costs required under this Act; and 
+17
+(B) shall not count toward the total Fed-
+18
+eral assistance provided for a project for pur-
+19
+poses of paragraph (9). 
+20
+(9) MAXIMUM
+FEDERAL
+INVOLVEMENT.—The 
+21
+total Federal assistance provided for a project re-
+22
+ceiving a loan under the BIFIA program shall not 
+23
+exceed 80 percent of the total project cost. 
+24
+(c) REPAYMENT.— 
+25
+04:43 Aug 06, 2019
+H4127
+24 
+•HR 4127 IH
+(1) SCHEDULE.—The Assistant Secretary shall 
+1
+establish a repayment schedule for each secured loan 
+2
+under this section based on— 
+3
+(A) the projected cash flow from project 
+4
+revenues and other repayment sources; and 
+5
+(B) the useful life of the infrastructure for 
+6
+the provision of broadband service being fi-
+7
+nanced. 
+8
+(2) COMMENCEMENT.—Scheduled loan repay-
+9
+ments of principal or interest on a secured loan 
+10
+under this section shall commence not later than 5 
+11
+years after the date of substantial completion of the 
+12
+project. 
+13
+(3) DEFERRED PAYMENTS.— 
+14
+(A) IN GENERAL.—If, at any time after 
+15
+the date of substantial completion of the 
+16
+project, the project is unable to generate suffi-
+17
+cient revenues to pay the scheduled loan repay-
+18
+ments of principal and interest on the secured 
+19
+loan, the Assistant Secretary may, subject to 
+20
+subparagraph (C), allow the obligor to add un-
+21
+paid principal and interest to the outstanding 
+22
+balance of the secured loan. 
+23
+(B) INTEREST.—Any payment deferred 
+24
+under subparagraph (A) shall— 
+25
+04:43 Aug 06, 2019
+H4127
+25 
+•HR 4127 IH
+(i) continue to accrue interest in ac-
+1
+cordance with subsection (b)(4) until fully 
+2
+repaid; and 
+3
+(ii) be scheduled to be amortized over 
+4
+the remaining term of the loan. 
+5
+(C) CRITERIA.— 
+6
+(i) IN GENERAL.—Any payment defer-
+7
+ral under subparagraph (A) shall be con-
+8
+tingent on the project meeting criteria es-
+9
+tablished by the Assistant Secretary. 
+10
+(ii) REPAYMENT
+STANDARDS.—The 
+11
+criteria established pursuant to clause (i) 
+12
+shall include standards for reasonable as-
+13
+surance of repayment. 
+14
+(4) PREPAYMENT.— 
+15
+(A) USE OF EXCESS REVENUES.—Any ex-
+16
+cess revenues that remain after satisfying 
+17
+scheduled debt service requirements on the 
+18
+project obligations and secured loan and all de-
+19
+posit requirements under the terms of any trust 
+20
+agreement, bond resolution, or similar agree-
+21
+ment securing project obligations may be ap-
+22
+plied annually to prepay the secured loan with-
+23
+out penalty. 
+24
+04:43 Aug 06, 2019
+H4127
+26 
+•HR 4127 IH
+(B) 
+USE
+OF
+PROCEEDS
+OF
+REFI-
+1
+NANCING.—The secured loan may be prepaid at 
+2
+any time without penalty from the proceeds of 
+3
+refinancing from non-Federal funding sources. 
+4
+(d) SALE OF SECURED LOANS.— 
+5
+(1) IN GENERAL.—Subject to paragraph (2), as 
+6
+soon as practicable after substantial completion of a 
+7
+project and after notifying the obligor, the Assistant 
+8
+Secretary may sell to another entity or reoffer into 
+9
+the capital markets a secured loan for the project if 
+10
+the Assistant Secretary determines that the sale or 
+11
+reoffering can be made on favorable terms. 
+12
+(2) CONSENT OF OBLIGOR.—In making a sale 
+13
+or reoffering under paragraph (1), the Assistant 
+14
+Secretary may not change the original terms and 
+15
+conditions of the secured loan without the written 
+16
+consent of the obligor. 
+17
+(e) LOAN GUARANTEES.— 
+18
+(1) IN
+GENERAL.—The Assistant Secretary 
+19
+may provide a loan guarantee to a lender in lieu of 
+20
+making a secured loan under this section if the As-
+21
+sistant Secretary determines that the budgetary cost 
+22
+of the loan guarantee is substantially the same as 
+23
+that of a secured loan. 
+24
+04:43 Aug 06, 2019
+H4127
+27 
+•HR 4127 IH
+(2) TERMS.—The terms of a loan guarantee 
+1
+under paragraph (1) shall be consistent with the 
+2
+terms required under this section for a secured loan, 
+3
+except that the rate on the guaranteed loan and any 
+4
+prepayment features shall be negotiated between the 
+5
+obligor and the lender, with the consent of the As-
+6
+sistant Secretary. 
+7
+(f) STREAMLINED APPLICATION PROCESS.— 
+8
+(1) IN
+GENERAL.—The Assistant Secretary 
+9
+shall develop one or more expedited application proc-
+10
+esses, available at the request of entities seeking se-
+11
+cured loans under the BIFIA program, that use a 
+12
+set or sets of conventional terms established pursu-
+13
+ant to this section. 
+14
+(2) TERMS.—In establishing the streamlined 
+15
+application process required by this subsection, the 
+16
+Assistant Secretary may allow for an expedited ap-
+17
+plication period and include terms such as those that 
+18
+require— 
+19
+(A) that the project be a small project; 
+20
+(B) the secured loan to be secured and 
+21
+payable from pledged revenues not affected by 
+22
+project performance, such as a tax-backed rev-
+23
+enue pledge, tax increment financing, or a sys-
+24
+tem-backed pledge of project revenues; and 
+25
+04:43 Aug 06, 2019
+H4127
+28 
+•HR 4127 IH
+(C) repayment of the loan to commence 
+1
+not later than 5 years after disbursement. 
+2
+SEC. 5. LINES OF CREDIT. 
+3
+(a) IN GENERAL.— 
+4
+(1) AGREEMENTS.—Subject to paragraphs (2) 
+5
+through (4), the Assistant Secretary may enter into 
+6
+agreements to make available to one or more obli-
+7
+gors lines of credit in the form of direct loans to be 
+8
+made by the Assistant Secretary at future dates on 
+9
+the occurrence of certain events for any project se-
+10
+lected under section 3. 
+11
+(2) USE OF PROCEEDS.—The proceeds of a line 
+12
+of credit made available under this section shall be 
+13
+available to pay debt service on project obligations 
+14
+issued to finance eligible project costs, extraordinary 
+15
+repair and replacement costs, operation and mainte-
+16
+nance expenses, and costs associated with unex-
+17
+pected Federal or State environmental restrictions. 
+18
+(3) RISK ASSESSMENT.— 
+19
+(A) IN GENERAL.—Except as provided in 
+20
+subparagraph (B), before entering into an 
+21
+agreement under this subsection, the Assistant 
+22
+Secretary, in consultation with the Director of 
+23
+the Office of Management and Budget and each 
+24
+rating agency providing a preliminary rating 
+25
+04:43 Aug 06, 2019
+H4127
+29 
+•HR 4127 IH
+opinion letter under section 3(b)(2)(A), shall 
+1
+determine an appropriate capital reserve sub-
+2
+sidy amount for each line of credit, taking into 
+3
+account the rating opinion letter. 
+4
+(B) SMALL
+PROJECTS.—Before entering 
+5
+into an agreement under this subsection to 
+6
+make available a line of credit for a small 
+7
+project, the Assistant Secretary, in consultation 
+8
+with the Director of the Office of Management 
+9
+and Budget, shall determine an appropriate 
+10
+capital reserve subsidy amount for each such 
+11
+line of credit, taking into account the alter-
+12
+native documentation provided under section 
+13
+3(b)(2)(B) instead of preliminary rating opinion 
+14
+letters provided under section 3(b)(2)(A). 
+15
+(4) 
+INVESTMENT-GRADE
+RATING
+REQUIRE-
+16
+MENT.—The funding of a line of credit under this 
+17
+section shall be contingent on— 
+18
+(A) the senior obligations of the project re-
+19
+ceiving an investment-grade rating from 2 rat-
+20
+ing agencies; or 
+21
+(B) in the case of a small project, the 
+22
+project meeting an alternative standard that the 
+23
+Assistant Secretary shall establish under section 
+24
+6 for purposes of this paragraph. 
+25
+04:43 Aug 06, 2019
+H4127
+30 
+•HR 4127 IH
+(b) TERMS AND LIMITATIONS.— 
+1
+(1) IN GENERAL.—A line of credit under this 
+2
+section with respect to a project shall be on such 
+3
+terms and conditions and contain such covenants, 
+4
+representations, warranties, and requirements (in-
+5
+cluding requirements for audits) as the Assistant 
+6
+Secretary determines to be appropriate. 
+7
+(2) MAXIMUM AMOUNTS.—The total amount of 
+8
+a line of credit under this section shall not exceed 
+9
+33 percent of the reasonably anticipated eligible 
+10
+project costs. 
+11
+(3) DRAWS.—Any draw on a line of credit 
+12
+under this section shall— 
+13
+(A) represent a direct loan; and 
+14
+(B) be made only if net revenues from the 
+15
+project (including capitalized interest, but not 
+16
+including reasonably required financing re-
+17
+serves) are insufficient to pay the costs speci-
+18
+fied in subsection (a)(2). 
+19
+(4) INTEREST RATE.—The interest rate on a 
+20
+direct loan resulting from a draw on the line of cred-
+21
+it shall be not less than the yield on 30-year United 
+22
+States Treasury securities, as of the date of execu-
+23
+tion of the line of credit agreement. 
+24
+04:43 Aug 06, 2019
+H4127
+31 
+•HR 4127 IH
+(5) SECURITY.—A line of credit issued under 
+1
+this section— 
+2
+(A) shall— 
+3
+(i) be payable, in whole or in part, 
+4
+from— 
+5
+(I) amounts charged to— 
+6
+(aa) subscribers of broad-
+7
+band service for such service; or 
+8
+(bb) subscribers of any re-
+9
+lated service provided over the 
+10
+same infrastructure for such re-
+11
+lated service; 
+12
+(II) user fees; 
+13
+(III) payments owing to the obli-
+14
+gor under a public-private partner-
+15
+ship; or 
+16
+(IV) other dedicated revenue 
+17
+sources that also secure the senior 
+18
+project obligations; and 
+19
+(ii) include a coverage requirement or 
+20
+similar security feature supporting the 
+21
+project obligations; and 
+22
+(B) may have a lien on revenues described 
+23
+in subparagraph (A), subject to any lien secur-
+24
+ing project obligations. 
+25
+04:43 Aug 06, 2019
+H4127
+32 
+•HR 4127 IH
+(6) 
+PERIOD
+OF
+AVAILABILITY.—The 
+full 
+1
+amount of a line of credit under this section, to the 
+2
+extent not drawn upon, shall be available during the 
+3
+10-year period beginning on the date of substantial 
+4
+completion of the project. 
+5
+(7) RIGHTS OF THIRD-PARTY CREDITORS.— 
+6
+(A) AGAINST FEDERAL GOVERNMENT.—A 
+7
+third-party creditor of the obligor shall not have 
+8
+any right against the Federal Government with 
+9
+respect to any draw on a line of credit under 
+10
+this section. 
+11
+(B) ASSIGNMENT.—An obligor may assign 
+12
+a line of credit under this section to— 
+13
+(i) one or more lenders; or 
+14
+(ii) a trustee on the behalf of such a 
+15
+lender. 
+16
+(8) NONSUBORDINATION.— 
+17
+(A) IN GENERAL.—Except as provided in 
+18
+subparagraph (B), a direct loan under this sec-
+19
+tion shall not be subordinated to the claims of 
+20
+any holder of project obligations in the event of 
+21
+bankruptcy, insolvency, or liquidation of the ob-
+22
+ligor. 
+23
+(B) PRE-EXISTING INDENTURE.— 
+24
+04:43 Aug 06, 2019
+H4127
+33 
+•HR 4127 IH
+(i) IN GENERAL.—The Assistant Sec-
+1
+retary shall waive the requirement of sub-
+2
+paragraph (A) for a public agency bor-
+3
+rower that is financing ongoing capital 
+4
+programs and has outstanding senior 
+5
+bonds under a preexisting indenture, if— 
+6
+(I) the line of credit— 
+7
+(aa) is rated in the A cat-
+8
+egory or higher; or 
+9
+(bb) in the case of a small 
+10
+project, 
+meets 
+an 
+alternative 
+11
+standard that the Assistant Sec-
+12
+retary shall establish under sec-
+13
+tion 6 for purposes of this sub-
+14
+clause; 
+15
+(II) the BIFIA program loan re-
+16
+sulting from a draw on the line of 
+17
+credit is payable from pledged reve-
+18
+nues not affected by project perform-
+19
+ance, such as a tax-backed revenue 
+20
+pledge or a system-backed pledge of 
+21
+project revenues; and 
+22
+(III) the BIFIA program share 
+23
+of eligible project costs is 33 percent 
+24
+or less. 
+25
+04:43 Aug 06, 2019
+H4127
+34 
+•HR 4127 IH
+(ii) LIMITATION.—If the Assistant 
+1
+Secretary waives the nonsubordination re-
+2
+quirement under this subparagraph— 
+3
+(I) the maximum credit subsidy 
+4
+to be paid by the Federal Government 
+5
+shall be not more than 10 percent of 
+6
+the principal amount of the secured 
+7
+loan; and 
+8
+(II) the obligor shall be respon-
+9
+sible for paying the remainder of the 
+10
+subsidy cost. 
+11
+(9) FEES.—The Assistant Secretary may estab-
+12
+lish fees at a level sufficient to cover all or a portion 
+13
+of the costs to the Federal Government of providing 
+14
+a line of credit under this section. 
+15
+(10) RELATIONSHIP TO OTHER CREDIT INSTRU-
+16
+MENTS.—A project that receives a line of credit 
+17
+under this section also shall not receive a secured 
+18
+loan or loan guarantee under section 4 in an amount 
+19
+that, combined with the amount of the line of credit, 
+20
+exceeds 49 percent of eligible project costs. 
+21
+(c) REPAYMENT.— 
+22
+(1) TERMS AND CONDITIONS.—The Assistant 
+23
+Secretary shall establish repayment terms and condi-
+24
+04:43 Aug 06, 2019
+H4127
+35 
+•HR 4127 IH
+tions for each direct loan under this section based 
+1
+on— 
+2
+(A) the projected cash flow from project 
+3
+revenues and other repayment sources; and 
+4
+(B) the useful life of the infrastructure for 
+5
+the provision of broadband service being fi-
+6
+nanced. 
+7
+(2) TIMING.—All repayments of principal or in-
+8
+terest on a direct loan under this section shall be 
+9
+scheduled— 
+10
+(A) to commence not later than 5 years 
+11
+after the end of the period of availability speci-
+12
+fied in subsection (b)(6); and 
+13
+(B) to conclude, with full repayment of 
+14
+principal and interest, by the date that is 25 
+15
+years after the end of the period of availability 
+16
+specified in subsection (b)(6). 
+17
+SEC. 6. ALTERNATIVE PRUDENTIAL LENDING STANDARDS 
+18
+FOR SMALL PROJECTS. 
+19
+Not later than 180 days after the date of the enact-
+20
+ment of this Act, the Assistant Secretary shall establish 
+21
+alternative, streamlined prudential lending standards for 
+22
+small projects receiving credit assistance under the BIFIA 
+23
+program to ensure that such projects pose no additional 
+24
+04:43 Aug 06, 2019
+H4127
+36 
+•HR 4127 IH
+risk to the Federal Government, as compared with 
+1
+projects that are not small projects. 
+2
+SEC. 7. PROGRAM ADMINISTRATION. 
+3
+(a) REQUIREMENT.—The Assistant Secretary shall 
+4
+establish a uniform system to service the Federal credit 
+5
+instruments made available under the BIFIA program. 
+6
+(b) FEES.—The Assistant Secretary may collect and 
+7
+spend fees, contingent on authority being provided in ap-
+8
+propriations Acts, at a level that is sufficient to cover— 
+9
+(1) the costs of services of expert firms retained 
+10
+pursuant to subsection (d); and 
+11
+(2) all or a portion of the costs to the Federal 
+12
+Government of servicing the Federal credit instru-
+13
+ments. 
+14
+(c) SERVICER.— 
+15
+(1) IN
+GENERAL.—The Assistant Secretary 
+16
+may appoint a financial entity to assist the Assistant 
+17
+Secretary in servicing the Federal credit instru-
+18
+ments. 
+19
+(2) DUTIES.—A servicer appointed under para-
+20
+graph (1) shall act as the agent for the Assistant 
+21
+Secretary. 
+22
+(3) FEE.—A servicer appointed under para-
+23
+graph (1) shall receive a servicing fee, subject to ap-
+24
+proval by the Assistant Secretary. 
+25
+04:43 Aug 06, 2019
+H4127
+37 
+•HR 4127 IH
+(d) ASSISTANCE FROM EXPERT FIRMS.—The Assist-
+1
+ant Secretary may retain the services of expert firms, in-
+2
+cluding counsel, in the field of municipal and project fi-
+3
+nance to assist in the underwriting and servicing of Fed-
+4
+eral credit instruments. 
+5
+(e) EXPEDITED PROCESSING.—The Assistant Sec-
+6
+retary shall implement procedures and measures to econo-
+7
+mize the time and cost involved in obtaining approval and 
+8
+the issuance of credit assistance under the BIFIA pro-
+9
+gram. 
+10
+(f) ASSISTANCE
+TO
+SMALL
+PROJECTS.—Of the 
+11
+amount appropriated under section 10(a), and after the 
+12
+set-aside for administrative expenses under section 10(b), 
+13
+not less than 20 percent shall be made available for the 
+14
+Assistant Secretary to use in lieu of fees collected under 
+15
+subsection (b) for small projects. 
+16
+SEC. 8. STATE AND LOCAL PERMITS. 
+17
+The provision of credit assistance under the BIFIA 
+18
+program with respect to a project shall not— 
+19
+(1) relieve any recipient of the assistance of any 
+20
+obligation to obtain any required State or local per-
+21
+mit or approval with respect to the project; 
+22
+(2) limit the right of any unit of State or local 
+23
+government to approve or regulate any rate of re-
+24
+turn on private equity invested in the project; or 
+25
+04:43 Aug 06, 2019
+H4127
+38 
+•HR 4127 IH
+(3) otherwise supersede any State or local law 
+1
+(including any regulation) applicable to the construc-
+2
+tion or operation of the project. 
+3
+SEC. 9. REGULATIONS. 
+4
+The Assistant Secretary may promulgate such regula-
+5
+tions as the Assistant Secretary determines to be appro-
+6
+priate to carry out the BIFIA program. 
+7
+SEC. 10. FUNDING. 
+8
+(a) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+9
+are authorized to be appropriated to the Assistant Sec-
+10
+retary to carry out this Act $5,000,000,000 for fiscal year 
+11
+2020, to remain available until expended. 
+12
+(b) ADMINISTRATIVE EXPENSES.—Of the amount 
+13
+appropriated under subsection (a), the Assistant Secretary 
+14
+may use not more than 5 percent for the administration 
+15
+of the BIFIA program. 
+16
+SEC. 11. REPORTS TO CONGRESS. 
+17
+(a) IN GENERAL.—Not later than 1 year after the 
+18
+date of the enactment of this Act, and every 2 years there-
+19
+after, the Assistant Secretary shall submit to Congress a 
+20
+report summarizing the financial performance of the 
+21
+projects that are receiving, or have received, assistance 
+22
+under the BIFIA program, including a recommendation 
+23
+as to whether the objectives of the BIFIA program are 
+24
+best served by— 
+25
+04:43 Aug 06, 2019
+H4127
+39 
+•HR 4127 IH
+(1) continuing the program under the authority 
+1
+of the Assistant Secretary; or 
+2
+(2) establishing a Federal corporation or feder-
+3
+ally sponsored enterprise to administer the program. 
+4
+(b) APPLICATION PROCESS REPORT.— 
+5
+(1) IN GENERAL.—Not later than 1 year after 
+6
+the date of the enactment of this Act, and annually 
+7
+thereafter, the Assistant Secretary shall submit to 
+8
+the Committee on Energy and Commerce of the 
+9
+House of Representatives and the Committee on 
+10
+Commerce, Science, and Transportation of the Sen-
+11
+ate a report that includes a list of all of the letters 
+12
+of interest and applications received for assistance 
+13
+under the BIFIA program during the preceding fis-
+14
+cal year. 
+15
+(2) INCLUSIONS.— 
+16
+(A) IN
+GENERAL.—Each report under 
+17
+paragraph (1) shall include, at a minimum, a 
+18
+description of, with respect to each letter of in-
+19
+terest and application included in the report— 
+20
+(i) the date on which the letter of in-
+21
+terest or application was received; 
+22
+(ii) the date on which a notification 
+23
+was provided to the applicant regarding 
+24
+04:43 Aug 06, 2019
+H4127
+40 
+•HR 4127 IH
+whether the application was complete or 
+1
+incomplete; 
+2
+(iii) the date on which a revised and 
+3
+completed application was submitted (if 
+4
+applicable); 
+5
+(iv) the date on which a notification 
+6
+was provided to the applicant regarding 
+7
+whether the project was approved or dis-
+8
+approved; and 
+9
+(v) if the project was not approved, 
+10
+the reason for the disapproval. 
+11
+(B) 
+CORRESPONDENCE.—Each 
+report 
+12
+under paragraph (1) shall include copies of any 
+13
+correspondence provided to the applicant in ac-
+14
+cordance with section 3(d). 
+15
+Æ 
+04:43 Aug 06, 2019
+H4127

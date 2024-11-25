@@ -1,0 +1,373 @@
+A BILL 
+To enhance the cybersecurity of the Healthcare and Public 
+Health Sector. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Healthcare Cybersecu-
+4
+rity Act of 2022’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act— 
+7
+(1) the term ‘‘Agency’’ means the Cybersecurity 
+8
+and Infrastructure Security Agency; 
+9
+(2) the term ‘‘Cybersecurity State Coordinator’’ 
+10
+means a Cybersecurity State Coordinator appointed 
+11
+02:50 Sep 16, 2022
+H8806
+2 
+•HR 8806 IH
+under section 2217(a) of the Homeland Security Act 
+1
+of 2002 (6 U.S.C. 665c(a)); 
+2
+(3) the term ‘‘Department’’ means the Depart-
+3
+ment of Health and Human Services; 
+4
+(4) the term ‘‘Director’’ means the Director of 
+5
+the Agency; 
+6
+(5) the term ‘‘Healthcare and Public Health 
+7
+Sector’’ means the Healthcare and Public Health 
+8
+sector, as identified in Presidential Policy Directive 
+9
+21 (February 12, 2013; relating to critical infra-
+10
+structure security and resilience); 
+11
+(6) the term ‘‘Information Sharing and Anal-
+12
+ysis Organizations’’ has the meaning given that term 
+13
+in section 2222 of the Homeland Security Act of 
+14
+2002 (6 U.S.C. 671); and 
+15
+(7) the term ‘‘Secretary’’ means the Secretary 
+16
+of Health and Human Services. 
+17
+SEC. 3. FINDINGS. 
+18
+Congress finds the following: 
+19
+(1) Healthcare and Public Health Sector assets 
+20
+are 
+increasingly 
+the 
+targets 
+of 
+malicious 
+21
+cyberattacks, which result not only in data breaches, 
+22
+but also increased healthcare delivery costs, and can 
+23
+ultimately affect patient health outcomes. 
+24
+02:50 Sep 16, 2022
+H8806
+3 
+•HR 8806 IH
+(2) Data reported to the Department shows 
+1
+that almost every month in 2020, more than 
+2
+1,000,000 people were affected by data breaches at 
+3
+healthcare organizations. Cyberattacks on healthcare 
+4
+facilities rose 55 percent in 2020, and these attacks 
+5
+also resulted in a 16 percent increase in the average 
+6
+cost of recovering a patient record in 2020, as com-
+7
+pared to 2019. 
+8
+(3) According to data from the Office for Civil 
+9
+Rights of the Department, health information 
+10
+breaches have increased since 2016, and in 2020 
+11
+alone, the Department reported 663 breaches on 
+12
+covered entities, as defined under the Health Insur-
+13
+ance Portability and Accountability Act of 1996 
+14
+(Public Law 104–191), affecting more than 500 peo-
+15
+ple, with over 33,000,000 total people affected by 
+16
+health information breaches. 
+17
+SEC. 4. AGENCY COLLABORATION WITH THE DEPARTMENT. 
+18
+(a) IN GENERAL.—The Agency shall collaborate with 
+19
+the Department, including by entering into an agreement, 
+20
+as appropriate, to improve cybersecurity in the Healthcare 
+21
+and Public Health Sector. 
+22
+(b) ASSISTANCE.— 
+23
+(1) IN GENERAL.—The Agency shall coordinate 
+24
+with and make resources available to Information 
+25
+02:50 Sep 16, 2022
+H8806
+4 
+•HR 8806 IH
+Sharing and Analysis Organizations, information 
+1
+sharing and analysis centers, and non-Federal enti-
+2
+ties that are receiving information shared through 
+3
+programs managed by the Department. 
+4
+(2) SCOPE.—The coordination under paragraph 
+5
+(1) shall include— 
+6
+(A) developing products specific to the 
+7
+needs of Healthcare and Public Health Sector 
+8
+entities; and 
+9
+(B) sharing information relating to cyber 
+10
+threat indicators and appropriate defensive 
+11
+measures. 
+12
+SEC. 5. TRAINING FOR HEALTHCARE EXPERTS. 
+13
+The Cyber Security Advisors and Cybersecurity State 
+14
+Coordinators of the Agency shall, in coordination, as ap-
+15
+propriate, with private sector healthcare experts, provide 
+16
+training to Healthcare and Public Health Sector asset 
+17
+owners and operators on— 
+18
+(1) cybersecurity risks to the Healthcare and 
+19
+Public Health Sector and assets within the sector; 
+20
+and 
+21
+(2) ways to mitigate the risks to information 
+22
+systems in the Healthcare and Public Health Sector. 
+23
+02:50 Sep 16, 2022
+H8806
+5 
+•HR 8806 IH
+SEC. 6. SECTOR-SPECIFIC STUDY AND REPORT. 
+1
+(a) IN GENERAL.—Not later than 1 year after the 
+2
+date of enactment of this Act, the Director, in consultation 
+3
+with the Secretary, shall conduct a study and issue a re-
+4
+port, which shall include the following elements: 
+5
+(1) An analysis of how identified cybersecurity 
+6
+risks specifically impact Healthcare and Public 
+7
+Health Sector assets, including the impact on rural 
+8
+and small and medium-sized Healthcare and Public 
+9
+Health Sector assets. 
+10
+(2) An evaluation of the challenges Healthcare 
+11
+and Public Health Sector assets face in— 
+12
+(A) securing— 
+13
+(i) 
+updated 
+information 
+systems 
+14
+owned, 
+leased, 
+or 
+relied 
+upon 
+by 
+15
+Healthcare and Public Health Sector as-
+16
+sets; 
+17
+(ii) medical devices or equipment 
+18
+owned, 
+leased, 
+or 
+relied 
+upon 
+by 
+19
+Healthcare and Public Health Sector as-
+20
+sets, which shall include an analysis of the 
+21
+threat 
+landscape 
+and 
+cybersecurity 
+22
+vulnerabilities of such medical devices or 
+23
+equipment; and 
+24
+(iii) sensitive patient health informa-
+25
+tion and electronic health records; 
+26
+02:50 Sep 16, 2022
+H8806
+6 
+•HR 8806 IH
+(B) implementing cybersecurity protocols; 
+1
+and 
+2
+(C) responding to data breaches or cyber-
+3
+security attacks, including the impact on pa-
+4
+tient access to care, quality of patient care, 
+5
+timeliness of health care delivery, and health 
+6
+outcomes. 
+7
+(3) An evaluation of best practices for the de-
+8
+ployment of trained Cyber Security Advisors and Cy-
+9
+bersecurity State Coordinators of the Agency into 
+10
+Healthcare and Public Health Sector assets before, 
+11
+during, and after data breaches or cybersecurity at-
+12
+tacks. 
+13
+(4) An assessment of relevant Healthcare and 
+14
+Public Health Sector cybersecurity workforce short-
+15
+ages, including— 
+16
+(A) training, recruitment, and retention 
+17
+issues; and 
+18
+(B) recommendations for how to address 
+19
+these shortages and issues, particularly at rural 
+20
+and small and medium-sized Healthcare and 
+21
+Public Health Sector assets. 
+22
+(5) An identification of cybersecurity challenges 
+23
+related to or brought on by the public health emer-
+24
+gency declared by the Secretary under section 319 
+25
+02:50 Sep 16, 2022
+H8806
+7 
+•HR 8806 IH
+of the Public Health Service Act (42 U.S.C. 247d) 
+1
+on January 27, 2020, with respect to COVID–19. 
+2
+(6) An evaluation of the most accessible and 
+3
+timely ways for the Agency and the Department to 
+4
+communicate and deploy cybersecurity recommenda-
+5
+tions and tools to Healthcare and Public Health Sec-
+6
+tor assets. 
+7
+(b) REPORT TRANSMITTAL.—Not later than 60 days 
+8
+after completing the study and report required under sub-
+9
+section (a), the Director shall present the completed report 
+10
+to the Secretary, which the Secretary may, in consultation 
+11
+with the Director, consult when updating the Healthcare 
+12
+and Public Health Sector Specific Plan of the Secretary. 
+13
+(c) CONGRESSIONAL BRIEFING.—Not later than 120 
+14
+days after the date of enactment of this Act, the Director, 
+15
+in consultation with the Secretary, as appropriate, shall 
+16
+provide a briefing on the status of the study and report 
+17
+required under subsection (a) to— 
+18
+(1) the Committee on Health, Education, 
+19
+Labor, and Pensions and the Committee on Home-
+20
+land Security and Governmental Affairs of the Sen-
+21
+ate; and 
+22
+02:50 Sep 16, 2022
+H8806
+8 
+•HR 8806 IH
+(2) the Committee on Energy and Commerce 
+1
+and the Committee on Homeland Security of the 
+2
+House of Representatives. 
+3
+Æ 
+02:50 Sep 16, 2022
+H8806

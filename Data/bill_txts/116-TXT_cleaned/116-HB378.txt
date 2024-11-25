@@ -1,0 +1,1764 @@
+A BILL 
+To amend the Help America Vote Act of 2002 to require 
+voting systems used in elections for Federal office to 
+produce a voter-verified, auditable paper record of the 
+votes cast in such elections, to require State election 
+officials to audit the results of such elections prior to 
+certifying the results, to provide grants to States to 
+improve voting system security, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+18:05 Jan 19, 2019
+H378
+2 
+•HR 378 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Safeguarding Election 
+2
+Infrastructure Act of 2019’’. 
+3
+SEC. 2. REQUIRING USE OF VOTING SYSTEMS CAPABLE OF 
+4
+PRODUCING 
+VOTER-VERIFIED, 
+AUDITABLE 
+5
+PAPER RECORD IN ELECTIONS FOR FEDERAL 
+6
+OFFICE. 
+7
+(a) MORATORIUM ON ACQUISITION OF CERTAIN DI-
+8
+RECT RECORDING ELECTRONIC VOTING SYSTEMS AND 
+9
+CERTAIN OTHER VOTING SYSTEMS.—Section 301 of the 
+10
+Help America Vote Act of 2002 (52 U.S.C. 21081) is 
+11
+amended— 
+12
+(1) by redesignating subsections (c) and (d) as 
+13
+subsections (d) and (e); and 
+14
+(2) by inserting after subsection (b) the fol-
+15
+lowing new subsection: 
+16
+‘‘(c) MORATORIUM ON ACQUISITION OF CERTAIN DI-
+17
+RECT RECORDING ELECTRONIC VOTING SYSTEMS AND 
+18
+CERTAIN OTHER VOTING SYSTEMS.—Beginning on the 
+19
+date of the enactment of the Safeguarding Election Infra-
+20
+structure Act of 2019, no State or jurisdiction may pur-
+21
+chase or otherwise acquire for use in an election for Fed-
+22
+eral office a direct recording electronic voting system or 
+23
+other electronic voting system that does not produce a 
+24
+voter-verified paper record as required by section 
+25
+301(a)(2) (as amended by such Act).’’. 
+26
+18:05 Jan 19, 2019
+H378
+3 
+•HR 378 IH
+(b) PAPER BALLOT AND MANUAL COUNTING RE-
+1
+QUIREMENTS.— 
+2
+(1) IN GENERAL.—Section 301(a)(2) of such 
+3
+Act (52 U.S.C. 21081(a)(2)) is amended to read as 
+4
+follows: 
+5
+‘‘(2) PAPER BALLOT REQUIREMENT.— 
+6
+‘‘(A) VOTER-VERIFIED PAPER BALLOTS.— 
+7
+‘‘(i) PAPER BALLOT REQUIREMENT.— 
+8
+(I) The voting system shall require the use 
+9
+of an individual, durable, voter-verified, 
+10
+paper ballot of the voter’s vote that shall 
+11
+be marked and made available for inspec-
+12
+tion and verification by the voter before 
+13
+the voter’s vote is cast and counted, and 
+14
+which shall be counted by hand or read by 
+15
+an optical character recognition device or 
+16
+other counting device. For purposes of this 
+17
+subclause, the term ‘individual, durable, 
+18
+voter-verified, paper ballot’ means a paper 
+19
+ballot marked by the voter by hand or a 
+20
+paper ballot marked through the use of a 
+21
+nontabulating ballot marking device or sys-
+22
+tem, so long as the voter shall have the op-
+23
+tion to mark his or her ballot by hand (or, 
+24
+in the case of an individual with a dis-
+25
+18:05 Jan 19, 2019
+H378
+4 
+•HR 378 IH
+ability, by such alternative method as the 
+1
+election official shall establish that pro-
+2
+vides an equivalent opportunity, including 
+3
+with privacy and independence, as for 
+4
+other voters). 
+5
+‘‘(II) The voting system shall provide 
+6
+the voter with an opportunity to correct 
+7
+any error on the paper ballot before the 
+8
+permanent voter-verified paper ballot is 
+9
+preserved in accordance with clause (ii). 
+10
+‘‘(III) The voting system shall not 
+11
+preserve the voter-verified paper ballots in 
+12
+any manner that makes it possible, at any 
+13
+time after the ballot has been cast, to asso-
+14
+ciate a voter with the record of the voter’s 
+15
+vote without the voter’s consent. 
+16
+‘‘(ii) PRESERVATION
+AS
+OFFICIAL 
+17
+RECORD.—The individual, durable, voter- 
+18
+verified, paper ballot used in accordance 
+19
+with clause (i) shall constitute the official 
+20
+ballot and shall be preserved and used as 
+21
+the official ballot for purposes of any re-
+22
+count or audit conducted with respect to 
+23
+any election for Federal office in which the 
+24
+voting system is used. 
+25
+18:05 Jan 19, 2019
+H378
+5 
+•HR 378 IH
+‘‘(iii) MANUAL
+COUNTING
+REQUIRE-
+1
+MENTS FOR RECOUNTS AND AUDITS.—(I) 
+2
+Each paper ballot used pursuant to clause 
+3
+(i) shall be suitable for a manual audit, 
+4
+and shall be counted by hand in any re-
+5
+count or audit conducted with respect to 
+6
+any election for Federal office. 
+7
+‘‘(II) In the event of any inconsist-
+8
+encies or irregularities between any elec-
+9
+tronic vote tallies and the vote tallies de-
+10
+termined by counting by hand the indi-
+11
+vidual, durable, voter-verified, paper ballots 
+12
+used pursuant to clause (i), and subject to 
+13
+subparagraph (B), the individual, durable, 
+14
+voter-verified, paper ballots shall be the 
+15
+true and correct record of the votes cast. 
+16
+‘‘(iv) APPLICATION
+TO
+ALL
+BAL-
+17
+LOTS.—The requirements of this subpara-
+18
+graph shall apply to all ballots cast in elec-
+19
+tions for Federal office, including ballots 
+20
+cast by absent uniformed services voters 
+21
+and overseas voters under the Uniformed 
+22
+and Overseas Citizens Absentee Voting Act 
+23
+and other absentee voters. 
+24
+18:05 Jan 19, 2019
+H378
+6 
+•HR 378 IH
+‘‘(B) SPECIAL RULE FOR TREATMENT OF 
+1
+DISPUTES WHEN PAPER BALLOTS HAVE BEEN 
+2
+SHOWN TO BE COMPROMISED.— 
+3
+‘‘(i) IN
+GENERAL.—In the event 
+4
+that— 
+5
+‘‘(I) there is any inconsistency 
+6
+between any electronic vote tallies and 
+7
+the vote tallies determined by count-
+8
+ing by hand the individual, durable, 
+9
+voter-verified, paper ballots used pur-
+10
+suant to subparagraph (A)(i) with re-
+11
+spect to any election for Federal of-
+12
+fice; and 
+13
+‘‘(II) it is demonstrated by clear 
+14
+and convincing evidence (as deter-
+15
+mined in accordance with the applica-
+16
+ble standards in the jurisdiction in-
+17
+volved) in any recount, audit, or con-
+18
+test of the result of the election that 
+19
+the paper ballots have been com-
+20
+promised (by damage or mischief or 
+21
+otherwise) and that a sufficient num-
+22
+ber of the ballots have been so com-
+23
+promised that the result of the elec-
+24
+tion could be changed, 
+25
+18:05 Jan 19, 2019
+H378
+7 
+•HR 378 IH
+the determination of the appropriate rem-
+1
+edy with respect to the election shall be 
+2
+made in accordance with applicable State 
+3
+law, except that the electronic tally shall 
+4
+not be used as the exclusive basis for de-
+5
+termining the official certified result. 
+6
+‘‘(ii) RULE FOR CONSIDERATION OF 
+7
+BALLOTS ASSOCIATED WITH EACH VOTING 
+8
+MACHINE.—For purposes of clause (i), 
+9
+only the paper ballots deemed com-
+10
+promised, if any, shall be considered in the 
+11
+calculation of whether or not the result of 
+12
+the election could be changed due to the 
+13
+compromised paper ballots.’’. 
+14
+(2) CONFORMING AMENDMENT CLARIFYING AP-
+15
+PLICABILITY OF ALTERNATIVE LANGUAGE ACCESSI-
+16
+BILITY.—Section 301(a)(4) of such Act (52 U.S.C. 
+17
+21081(a)(4)) is amended by inserting ‘‘(including 
+18
+the paper ballots required to be used under para-
+19
+graph (2))’’ after ‘‘voting system’’. 
+20
+(3) OTHER CONFORMING AMENDMENTS.—Sec-
+21
+tion 301(a)(1) of such Act (52 U.S.C. 21081(a)(1)) 
+22
+is amended— 
+23
+18:05 Jan 19, 2019
+H378
+8 
+•HR 378 IH
+(A) in subparagraph (A)(i), by striking 
+1
+‘‘counted’’ and inserting ‘‘counted, in accord-
+2
+ance with paragraphs (2) and (3)’’; 
+3
+(B) in subparagraph (A)(ii), by striking 
+4
+‘‘counted’’ and inserting ‘‘counted, in accord-
+5
+ance with paragraphs (2) and (3)’’; 
+6
+(C) in subparagraph (A)(iii), by striking 
+7
+‘‘counted’’ each place it appears and inserting 
+8
+‘‘counted, in accordance with paragraphs (2) 
+9
+and (3)’’; and 
+10
+(D) in subparagraph (B)(ii), by striking 
+11
+‘‘counted’’ and inserting ‘‘counted, in accord-
+12
+ance with paragraphs (2) and (3)’’. 
+13
+(c) EFFECTIVE DATE.—Section 301(d) of such Act 
+14
+(52 U.S.C. 21081(d)) is amended by striking the period 
+15
+at the end and inserting the following: ‘‘, or, in the case 
+16
+of the requirements of this section which are first imposed 
+17
+on a State or jurisdiction pursuant to the amendments 
+18
+made by section 2 of the Safeguarding Election Infra-
+19
+structure Act of 2019, with respect to voting systems used 
+20
+for elections held on or after the expiration of the 1-year 
+21
+period which begins on the date of the enactment of such 
+22
+Act’’. 
+23
+18:05 Jan 19, 2019
+H378
+9 
+•HR 378 IH
+SEC. 3. MANDATORY MANUAL AUDITS OF RESULTS OF FED-
+1
+ERAL ELECTIONS. 
+2
+(a) REQUIRING AUDITS OF RESULTS.—Title III of 
+3
+the Help America Vote Act of 2002 (52 U.S.C. 21081 et 
+4
+seq.) is amended by adding at the end the following new 
+5
+subtitle: 
+6
+‘‘Subtitle C—Mandatory Manual 
+7
+Audits 
+8
+‘‘SEC. 321. REQUIRING AUDITS OF RESULTS OF ELECTIONS. 
+9
+‘‘(a) REQUIRING AUDITS.— 
+10
+‘‘(1) IN
+GENERAL.—In accordance with this 
+11
+subtitle, each State shall administer, without ad-
+12
+vance notice to the precincts or alternative audit 
+13
+units selected, audits of the results of all elections 
+14
+for Federal office held in the State (and, at the op-
+15
+tion of the State or jurisdiction involved, of elections 
+16
+for State and local office held at the same time as 
+17
+such election) consisting of random hand counts of 
+18
+the voter-verified paper ballots required to be used 
+19
+and preserved pursuant to section 301(a)(2). 
+20
+‘‘(2) EXCEPTION FOR CERTAIN ELECTIONS.—A 
+21
+State shall not be required to administer an audit of 
+22
+the results of an election for Federal office under 
+23
+this subtitle if the winning candidate in the elec-
+24
+tion— 
+25
+‘‘(A) had no opposition on the ballot; or 
+26
+18:05 Jan 19, 2019
+H378
+10 
+•HR 378 IH
+‘‘(B) received 59 percent or more of the 
+1
+total number of votes cast in the election, as de-
+2
+termined on the basis of the final unofficial vote 
+3
+count. 
+4
+‘‘(b) DETERMINATION OF ENTITY CONDUCTING AU-
+5
+DITS; APPLICATION
+OF GAO INDEPENDENCE STAND-
+6
+ARDS.—The State shall administer audits under this sub-
+7
+title through an entity selected for such purpose by the 
+8
+State in accordance with such criteria as the State con-
+9
+siders appropriate consistent with the requirements of this 
+10
+subtitle, except that the entity must meet the general 
+11
+standards established by the Comptroller General and as 
+12
+set forth in the Comptroller General’s Government Audit-
+13
+ing Standards to ensure the independence (including, ex-
+14
+cept as provided under section 323(b), the organizational 
+15
+independence) of entities performing financial audits, at-
+16
+testation engagements, and performance audits. 
+17
+‘‘(c) REFERENCES TO ELECTION AUDITOR.—In this 
+18
+subtitle, the term ‘Election Auditor’ means, with respect 
+19
+to a State, the entity selected by the State under sub-
+20
+section (b). 
+21
+‘‘SEC. 322. NUMBER OF BALLOTS COUNTED UNDER AUDIT. 
+22
+‘‘(a) IN GENERAL.—Except as provided in subsection 
+23
+(b), the number of voter-verified paper ballots which will 
+24
+be subject to a hand count administered by the Election 
+25
+18:05 Jan 19, 2019
+H378
+11 
+•HR 378 IH
+Auditor of a State under this subtitle with respect to an 
+1
+election shall be determined as follows: 
+2
+‘‘(1) In the event that the unofficial count as 
+3
+described in section 323(a)(1) reveals that the mar-
+4
+gin of victory between the two candidates receiving 
+5
+the largest number of votes in the election is less 
+6
+than 1 percent of the total votes cast in that elec-
+7
+tion, the hand counts of the voter-verified paper bal-
+8
+lots shall occur in at least 10 percent of all precincts 
+9
+or equivalent locations (or alternative audit units 
+10
+used in accordance with the method provided for 
+11
+under subsection (b)) in the congressional district 
+12
+involved (in the case of an election for the House of 
+13
+Representatives) or the State (in the case of any 
+14
+other election for Federal office). 
+15
+‘‘(2) In the event that the unofficial count as 
+16
+described in section 323(a)(1) reveals that the mar-
+17
+gin of victory between the two candidates receiving 
+18
+the largest number of votes in the election is greater 
+19
+than or equal to 1 percent but less than 2 percent 
+20
+of the total votes cast in that election, the hand 
+21
+counts of the voter-verified paper ballots shall occur 
+22
+in at least 5 percent of all precincts or equivalent lo-
+23
+cations (or alternative audit units used in accord-
+24
+ance with the method provided for under subsection 
+25
+18:05 Jan 19, 2019
+H378
+12 
+•HR 378 IH
+(b)) in the congressional district involved (in the 
+1
+case of an election for the House of Representatives) 
+2
+or the State (in the case of any other election for 
+3
+Federal office). 
+4
+‘‘(3) In the event that the unofficial count as 
+5
+described in section 323(a)(1) reveals that the mar-
+6
+gin of victory between the two candidates receiving 
+7
+the largest number of votes in the election is equal 
+8
+to or greater than 2 percent of the total votes cast 
+9
+in that election, the hand counts of the voter-verified 
+10
+paper ballots shall occur in at least 3 percent of all 
+11
+precincts or equivalent locations (or alternative audit 
+12
+units used in accordance with the method provided 
+13
+for under subsection (b)) in the congressional dis-
+14
+trict involved (in the case of an election for the 
+15
+House of Representatives) or the State (in the case 
+16
+of any other election for Federal office). 
+17
+‘‘(b) USE OF ALTERNATIVE MECHANISM.— 
+18
+‘‘(1) PERMITTING USE OF ALTERNATIVE MECH-
+19
+ANISM.—Notwithstanding subsection (a), a State 
+20
+may adopt and apply an alternative mechanism to 
+21
+determine the number of voter-verified paper ballots 
+22
+which will be subject to the hand counts required 
+23
+under this subtitle with respect to an election, so 
+24
+long as the alternative mechanism uses the voter- 
+25
+18:05 Jan 19, 2019
+H378
+13 
+•HR 378 IH
+verified paper ballots to conduct the audit and the 
+1
+National Institute of Standards and Technology de-
+2
+termines that the alternative mechanism is in ac-
+3
+cordance with the principles set forth in paragraph 
+4
+(2). 
+5
+‘‘(2) PRINCIPLES FOR APPROVAL.—In approv-
+6
+ing an alternative mechanism under paragraph (1), 
+7
+the National Institute of Standards and Technology 
+8
+shall ensure that the audit procedure will have the 
+9
+property that for each election— 
+10
+‘‘(A) the alternative mechanism will be at 
+11
+least as statistically effective in ensuring the ac-
+12
+curacy of the election results as the procedures 
+13
+under this subtitle; or 
+14
+‘‘(B) 
+the 
+alternative 
+mechanism 
+will 
+15
+achieve at least a 95 percent confidence interval 
+16
+(as determined in accordance with criteria set 
+17
+forth by the National Institute of Standards 
+18
+and Technology) with respect to the outcome of 
+19
+the election. 
+20
+‘‘(3) DEADLINE FOR RESPONSE; REASONS FOR 
+21
+DENIAL.—The Director of the National Institute of 
+22
+Standards and Technology shall make a determina-
+23
+tion regarding a State’s request to approve an alter-
+24
+native mechanism under paragraph (1) not later 
+25
+18:05 Jan 19, 2019
+H378
+14 
+•HR 378 IH
+than 30 days after receiving the State’s request. If 
+1
+the Director rejects such a request, the Director 
+2
+shall provide the State with the reasons for the re-
+3
+jection in writing. 
+4
+‘‘SEC. 323. PROCESS FOR ADMINISTERING AUDITS. 
+5
+‘‘(a) IN GENERAL.—The Election Auditor of a State 
+6
+shall administer an audit under this section of the results 
+7
+of an election in accordance with the following procedures: 
+8
+‘‘(1) Within 24 hours after the State announces 
+9
+the final unofficial vote count (as defined by the 
+10
+State) in each precinct in the State, the Election 
+11
+Auditor shall— 
+12
+‘‘(A) determine and then announce publicly 
+13
+the precincts or equivalent locations (or alter-
+14
+native audit units used in accordance with the 
+15
+method provided under section 322(b)) in the 
+16
+State in which it will administer the audits; and 
+17
+‘‘(B) with respect to votes cast at the pre-
+18
+cinct or equivalent location on or before the 
+19
+date of the election (other than provisional bal-
+20
+lots described in paragraph (2)), begin to ad-
+21
+minister the hand count of the votes on the 
+22
+voter-verified paper ballots required to be used 
+23
+and preserved under section 301(a)(2)(A) and 
+24
+the comparison of the count of the votes on 
+25
+18:05 Jan 19, 2019
+H378
+15 
+•HR 378 IH
+those ballots with the final unofficial count of 
+1
+such votes as announced by the State. 
+2
+‘‘(2) With respect to votes cast other than at 
+3
+the precinct on the date of the election (other than 
+4
+votes cast by provisional ballot on the date of the 
+5
+election which are certified and counted by the State 
+6
+on or after the date of the election), including votes 
+7
+cast by absent uniformed services voters and over-
+8
+seas voters under the Uniformed and Overseas Citi-
+9
+zens Absentee Voting Act, the Election Auditor shall 
+10
+administer the hand count of the votes on the appli-
+11
+cable voter-verified paper ballots required to be pro-
+12
+duced and preserved under section 301(a)(2)(A) and 
+13
+the comparison of the count of the votes on those 
+14
+ballots with the final unofficial count of such votes 
+15
+as announced by the State. 
+16
+‘‘(b) USE OF PERSONNEL.—In administering the au-
+17
+dits, the Election Auditor may utilize the services of the 
+18
+personnel of the State or jurisdiction, including election 
+19
+administration personnel and poll workers, without regard 
+20
+to whether or not the personnel have professional auditing 
+21
+experience. 
+22
+‘‘(c) LOCATION.—The Election Auditor shall admin-
+23
+ister an audit of an election— 
+24
+18:05 Jan 19, 2019
+H378
+16 
+•HR 378 IH
+‘‘(1) at the location where the ballots cast in 
+1
+the election are stored and counted after the date of 
+2
+the election or such other appropriate and secure lo-
+3
+cation agreed upon by the Election Auditor and the 
+4
+individual that is responsible under State law for the 
+5
+custody of the ballots; and 
+6
+‘‘(2) in the presence of the personnel who under 
+7
+State law are responsible for the custody of the bal-
+8
+lots. 
+9
+‘‘(d) SPECIAL RULE IN CASE OF DELAY IN REPORT-
+10
+ING ABSENTEE VOTE COUNT.—In the case of a State in 
+11
+which the final count of absentee and provisional votes is 
+12
+not announced until after the date of the election, the 
+13
+Election Auditor shall initiate the process described in 
+14
+subsection (a) for administering the audit not later than 
+15
+24 hours after the State announces the final unofficial 
+16
+vote count for the votes cast at the precinct or equivalent 
+17
+location on or before the date of the election, and shall 
+18
+initiate the administration of the audit of the absentee and 
+19
+provisional votes pursuant to subsection (a)(2) not later 
+20
+than 24 hours after the State announces the final unoffi-
+21
+cial count of such votes. 
+22
+‘‘(e) ADDITIONAL AUDITS IF CAUSE SHOWN.— 
+23
+‘‘(1) IN
+GENERAL.—If the Election Auditor 
+24
+finds that any of the hand counts administered 
+25
+18:05 Jan 19, 2019
+H378
+17 
+•HR 378 IH
+under this section do not match the final unofficial 
+1
+tally of the results of an election, the Election Audi-
+2
+tor shall administer hand counts under this section 
+3
+of such additional precincts (or alternative audit 
+4
+units) as the Election Auditor considers appropriate 
+5
+to resolve any concerns resulting from the audit and 
+6
+ensure the accuracy of the election results. 
+7
+‘‘(2) ESTABLISHMENT
+AND
+PUBLICATION
+OF 
+8
+PROCEDURES
+GOVERNING
+ADDITIONAL
+AUDITS.— 
+9
+Not later than June 1, 2022, each State shall estab-
+10
+lish and publish procedures for carrying out the ad-
+11
+ditional audits under this subsection, including the 
+12
+means by which the State shall resolve any concerns 
+13
+resulting from the audit with finality and ensure the 
+14
+accuracy of the election results. 
+15
+‘‘(f) PUBLIC OBSERVATION OF AUDITS.—Each audit 
+16
+conducted under this section shall be conducted in a man-
+17
+ner that allows public observation of the entire process. 
+18
+‘‘SEC. 324. SELECTION OF PRECINCTS. 
+19
+‘‘(a) IN GENERAL.—Except as provided in subsection 
+20
+(c), the selection of the precincts or alternative audit units 
+21
+in the State in which the Election Auditor of the State 
+22
+shall administer the hand counts under this subtitle shall 
+23
+be made by the Election Auditor on a random basis, in 
+24
+accordance with procedures adopted by the National Insti-
+25
+18:05 Jan 19, 2019
+H378
+18 
+•HR 378 IH
+tute of Standards and Technology, except that at least one 
+1
+precinct shall be selected at random in each county, with 
+2
+additional precincts selected by the Election Auditor at the 
+3
+Auditor’s discretion. 
+4
+‘‘(b) PUBLIC SELECTION.—The random selection of 
+5
+precincts under subsection (a) shall be conducted in pub-
+6
+lic, at a time and place announced in advance. 
+7
+‘‘(c) MANDATORY SELECTION OF PRECINCTS ESTAB-
+8
+LISHED SPECIFICALLY FOR ABSENTEE BALLOTS.—If a 
+9
+State does not sort absentee ballots by precinct and in-
+10
+clude those ballots in the hand count with respect to that 
+11
+precinct, the State shall create absentee ballot precincts 
+12
+or audit units which are of similar size to the average pre-
+13
+cinct or audit unit in the jurisdiction being audited, and 
+14
+shall include those absentee precincts or audit units 
+15
+among the precincts in the State in which the Election 
+16
+Auditor shall administer the hand counts under this sub-
+17
+title. 
+18
+‘‘(d) DEADLINE FOR ADOPTION OF PROCEDURES BY 
+19
+COMMISSION.—The National Institute of Standards and 
+20
+Technology shall adopt the procedures described in sub-
+21
+section (a) not later than October 1, 2021, and shall pub-
+22
+lish them in the Federal Register upon adoption. 
+23
+18:05 Jan 19, 2019
+H378
+19 
+•HR 378 IH
+‘‘SEC. 325. PUBLICATION OF RESULTS. 
+1
+‘‘(a) SUBMISSION TO COMMISSION.—As soon as prac-
+2
+ticable after the completion of an audit under this subtitle, 
+3
+the Election Auditor of a State shall submit to the Com-
+4
+mission the results of the audit, and shall include in the 
+5
+submission a comparison of the results of the election in 
+6
+the precinct as determined by the Election Auditor under 
+7
+the audit and the final unofficial vote count in the precinct 
+8
+as announced by the State and all undervotes, overvotes, 
+9
+blank ballots, and spoiled, voided, or cancelled ballots, as 
+10
+well as a list of any discrepancies discovered between the 
+11
+initial, subsequent, and final hand counts administered by 
+12
+the Election Auditor and such final unofficial vote count 
+13
+and any explanation for such discrepancies, broken down 
+14
+by the categories of votes described in paragraphs (1)(B) 
+15
+and (2) of section 323(a). 
+16
+‘‘(b) PUBLICATION
+BY COMMISSION.—Immediately 
+17
+after receiving the submission of the results of an audit 
+18
+from the Election Auditor of a State under subsection (a), 
+19
+the Commission shall publicly announce and publish the 
+20
+information contained in the submission. 
+21
+‘‘(c) DELAY
+IN CERTIFICATION
+OF RESULTS
+BY 
+22
+STATE.— 
+23
+‘‘(1) PROHIBITING CERTIFICATION UNTIL COM-
+24
+PLETION OF AUDITS.—No State may certify the re-
+25
+18:05 Jan 19, 2019
+H378
+20 
+•HR 378 IH
+sults of any election which is subject to an audit 
+1
+under this subtitle prior to— 
+2
+‘‘(A) the completion of the audit (and, if 
+3
+required, any additional audit conducted under 
+4
+section 323(e)(1)) and the announcement and 
+5
+submission of the results of each such audit to 
+6
+the Commission for publication of the informa-
+7
+tion required under this section; and 
+8
+‘‘(B) the completion of any procedure es-
+9
+tablished by the State pursuant to section 
+10
+323(e)(2) to resolve discrepancies and ensure 
+11
+the accuracy of results. 
+12
+‘‘(2) DEADLINE FOR COMPLETION OF AUDITS 
+13
+OF PRESIDENTIAL ELECTIONS.—In the case of an 
+14
+election for electors for President and Vice President 
+15
+which is subject to an audit under this subtitle, the 
+16
+State shall complete the audits and announce and 
+17
+submit the results to the Commission for publication 
+18
+of the information required under this section in 
+19
+time for the State to certify the results of the elec-
+20
+tion and provide for the final determination of any 
+21
+controversy or contest concerning the appointment 
+22
+of such electors prior to the deadline described in 
+23
+section 6 of title 3, United States Code. 
+24
+18:05 Jan 19, 2019
+H378
+21 
+•HR 378 IH
+‘‘SEC. 326. PAYMENTS TO STATES. 
+1
+‘‘(a) PAYMENTS FOR COSTS OF CONDUCTING AU-
+2
+DITS.—In accordance with the requirements and proce-
+3
+dures of this section, the Commission shall make a pay-
+4
+ment to a State to cover the costs incurred by the State 
+5
+in carrying out this subtitle with respect to the elections 
+6
+that are the subject of the audits conducted under this 
+7
+subtitle. 
+8
+‘‘(b) CERTIFICATION OF COMPLIANCE AND ANTICI-
+9
+PATED COSTS.— 
+10
+‘‘(1) CERTIFICATION REQUIRED.—In order to 
+11
+receive a payment under this section, a State shall 
+12
+submit to the Commission, in such form as the Com-
+13
+mission may require, a statement containing— 
+14
+‘‘(A) a certification that the State will con-
+15
+duct the audits required under this subtitle in 
+16
+accordance with all of the requirements of this 
+17
+subtitle; 
+18
+‘‘(B) a notice of the reasonable costs in-
+19
+curred or the reasonable costs anticipated to be 
+20
+incurred by the State in carrying out this sub-
+21
+title with respect to the elections involved; and 
+22
+‘‘(C) such other information and assur-
+23
+ances as the Commission may require. 
+24
+‘‘(2) AMOUNT OF PAYMENT.—The amount of a 
+25
+payment made to a State under this section shall be 
+26
+18:05 Jan 19, 2019
+H378
+22 
+•HR 378 IH
+equal to the reasonable costs incurred or the reason-
+1
+able costs anticipated to be incurred by the State in 
+2
+carrying out this subtitle with respect to the elec-
+3
+tions involved, as set forth in the statement sub-
+4
+mitted under paragraph (1). 
+5
+‘‘(3) TIMING OF NOTICE.—The State may not 
+6
+submit a notice under paragraph (1) until can-
+7
+didates have been selected to appear on the ballot 
+8
+for all of the elections for Federal office which will 
+9
+be the subject of the audits involved. 
+10
+‘‘(c) TIMING OF PAYMENTS.—The Commission shall 
+11
+make the payment required under this section to a State 
+12
+not later than 30 days after receiving the notice submitted 
+13
+by the State under subsection (b). 
+14
+‘‘(d) RECOUPMENT OF OVERPAYMENTS.—No pay-
+15
+ment may be made to a State under this section unless 
+16
+the State agrees to repay to the Commission (for deposit 
+17
+in the general fund of the Treasury) the excess (if any) 
+18
+of— 
+19
+‘‘(1) the amount of the payment received by the 
+20
+State under this section with respect to the elections 
+21
+involved; over 
+22
+‘‘(2) the actual costs incurred by the State in 
+23
+carrying out this subtitle with respect to the elec-
+24
+tions involved. 
+25
+18:05 Jan 19, 2019
+H378
+23 
+•HR 378 IH
+‘‘(e) AUTHORIZATION OF APPROPRIATIONS.— 
+1
+‘‘(1) IN GENERAL.—There is authorized to be 
+2
+appropriated to the Commission for fiscal year 2022 
+3
+and each succeeding fiscal year $45,000,000 for pay-
+4
+ments under this section. 
+5
+‘‘(2) CONTINUING AVAILABILITY OF AMOUNTS 
+6
+APPROPRIATED.—Any amount appropriated for a 
+7
+fiscal year pursuant to the authorization under para-
+8
+graph (1) shall remain available until expended. 
+9
+‘‘SEC. 327. EXCEPTION FOR ELECTIONS SUBJECT TO RE-
+10
+COUNT UNDER STATE LAW PRIOR TO CER-
+11
+TIFICATION. 
+12
+‘‘(a) EXCEPTION.—This subtitle does not apply to 
+13
+any election for which a recount under State law will com-
+14
+mence prior to the certification of the results of the elec-
+15
+tion, including but not limited to a recount required auto-
+16
+matically because of the margin of victory between the 2 
+17
+candidates receiving the largest number of votes in the 
+18
+election, but only if each of the following applies to the 
+19
+recount: 
+20
+‘‘(1) The recount commences prior to the deter-
+21
+mination and announcement by the Election Auditor 
+22
+under section 323(a)(1) of the precincts in the State 
+23
+in which it will administer the audits under this sub-
+24
+title. 
+25
+18:05 Jan 19, 2019
+H378
+24 
+•HR 378 IH
+‘‘(2) If the recount would apply to fewer than 
+1
+100 percent of the ballots cast in the election— 
+2
+‘‘(A) the number of ballots counted will be 
+3
+at least as many as would be counted if an 
+4
+audit were conducted with respect to the elec-
+5
+tion in accordance with this subtitle; and 
+6
+‘‘(B) the selection of the precincts in which 
+7
+the recount will be conducted will be made in 
+8
+accordance with the random selection proce-
+9
+dures applicable under section 324. 
+10
+‘‘(3) The recount for the election meets the re-
+11
+quirements of section 323(f) (relating to public ob-
+12
+servation). 
+13
+‘‘(4) The State meets the requirements of sec-
+14
+tion 325 (relating to the publication of results and 
+15
+the delay in the certification of results) with respect 
+16
+to the recount. 
+17
+‘‘(b) CLARIFICATION OF EFFECT ON OTHER RE-
+18
+QUIREMENTS.—Nothing in this section may be construed 
+19
+to waive the application of any other provision of this Act 
+20
+to any election (including the requirement set forth in sec-
+21
+tion 301(a)(2) that the voter-verified paper ballots serve 
+22
+as the vote of record and shall be counted by hand in all 
+23
+audits and recounts, including audits and recounts de-
+24
+scribed in this subtitle). 
+25
+18:05 Jan 19, 2019
+H378
+25 
+•HR 378 IH
+‘‘SEC. 328. EFFECTIVE DATE. 
+1
+‘‘This subtitle shall apply with respect to the regu-
+2
+larly scheduled general elections for Federal office held in 
+3
+November 2022 and each succeeding election for Federal 
+4
+office.’’. 
+5
+(b) AVAILABILITY OF ENFORCEMENT UNDER HELP 
+6
+AMERICA VOTE ACT OF 2002.—Section 401 of such Act 
+7
+(52 U.S.C. 21111) is amended by striking ‘‘sections 301, 
+8
+302, and 303’’ and inserting ‘‘title III’’. 
+9
+(c) CLERICAL AMENDMENT.—The table of contents 
+10
+of such Act is amended by adding at the end of the items 
+11
+relating to title III the following: 
+12
+‘‘Subtitle C—Mandatory Manual Audits 
+‘‘Sec. 321. Requiring audits of results of elections. 
+‘‘Sec. 322. Number of ballots counted under audit. 
+‘‘Sec. 323. Process for administering audits. 
+‘‘Sec. 324. Selection of precincts. 
+‘‘Sec. 325. Publication of results. 
+‘‘Sec. 326. Payments to States. 
+‘‘Sec. 327. Exception for elections subject to recount under State law prior to 
+certification. 
+‘‘Sec. 328. Effective date.’’. 
+SEC. 4. INCENTIVES TO STATES TO IMPROVE VOTING SYS-
+13
+TEM SECURITY. 
+14
+(a) GRANTS FROM ELECTION ASSISTANCE COMMIS-
+15
+SION.—Subtitle D of title II of the Help America Vote 
+16
+Act of 2002 (52 U.S.C. 21001 et seq.) is amended by add-
+17
+ing at the end the following new part: 
+18
+18:05 Jan 19, 2019
+H378
+26 
+•HR 378 IH
+‘‘PART 7—PAYMENTS FOR IMPROVING VOTING 
+1
+SYSTEM SECURITY 
+2
+‘‘SEC. 297. INCENTIVES FOR STATES TO IMPROVE VOTING 
+3
+SYSTEM SECURITY. 
+4
+‘‘(a) GRANTS AUTHORIZED.— 
+5
+‘‘(1) IN GENERAL.—From the amounts made 
+6
+available under section 297E for a fiscal year and 
+7
+not reserved under section (b) of such section, the 
+8
+Commission shall award grants on a competitive 
+9
+basis to States in accordance with section 297B. 
+10
+‘‘(2) NUMBER OF GRANTS.—A State may not 
+11
+receive more than 1 grant under this part for a fis-
+12
+cal year. 
+13
+‘‘(b) USE OF FUNDS.—Each State that receives a 
+14
+grant under this part shall use the funds provided by the 
+15
+grant to carry out the State’s grant implementation plan 
+16
+described in section 297A(b). 
+17
+‘‘SEC. 297A. CRITERIA FOR AWARDING GRANTS. 
+18
+‘‘(a) APPLICATIONS.—Each State that desires to re-
+19
+ceive a grant under this part shall submit an application 
+20
+to the Commission at such time, in such manner, and con-
+21
+taining such information as the Commission may reason-
+22
+ably require. At a minimum, each such application shall 
+23
+include each of the following: 
+24
+‘‘(1) The grant implementation plan described 
+25
+in subsection (b). 
+26
+18:05 Jan 19, 2019
+H378
+27 
+•HR 378 IH
+‘‘(2) Evidence of established conditions of inno-
+1
+vation and reform in providing voting system secu-
+2
+rity and the State’s proposed plan for implementing 
+3
+additional conditions. 
+4
+‘‘(3) Evidence of collaboration between relevant 
+5
+stakeholders in developing the grant implementation 
+6
+plan described in subsection (b). 
+7
+‘‘(4) Annual performance measures and targets 
+8
+for the activities carried out with the grant. 
+9
+‘‘(5) A description of the State’s plan to con-
+10
+duct a rigorous evaluation of the effectiveness of the 
+11
+activities carried out with the grant. 
+12
+‘‘(b) GRANT IMPLEMENTATION PLAN.—The grant 
+13
+implementation plan described in this subsection is a plan 
+14
+developed by the State for using funds provided by the 
+15
+grant to carry out some or all of the following, and to 
+16
+otherwise meet the requirements of section 301 which are 
+17
+first imposed on a State or jurisdiction pursuant to the 
+18
+amendments made by section 2 of the Safeguarding Elec-
+19
+tion Infrastructure Act of 2019, during the grant imple-
+20
+mentation period: 
+21
+‘‘(1) Providing voting machines that are less 
+22
+than 10 years old as of the date on which the State 
+23
+submits its application for the grant under sub-
+24
+section (a). 
+25
+18:05 Jan 19, 2019
+H378
+28 
+•HR 378 IH
+‘‘(2) Updating voting equipment to provide a 
+1
+verifiable paper trail at polling stations. 
+2
+‘‘(3) Implementing strong chain of custody pro-
+3
+cedures for the physical security of voting equipment 
+4
+and paper records at all stages of the process. 
+5
+‘‘(4) Conducting pre-election testing on every 
+6
+voting machine and ensuring paper ballots are avail-
+7
+able wherever electronic machines are used. 
+8
+‘‘(5) Keeping offline backups of voter registra-
+9
+tion lists. 
+10
+‘‘(6) Providing a secure voter registration data-
+11
+base that logs requests submitted to the database. 
+12
+‘‘(7) Publishing and enforcing a policy detailing 
+13
+use limitations and security safeguards to protect 
+14
+voters’ personal information in the voter registration 
+15
+process. 
+16
+‘‘(8) Providing secure processes and procedures 
+17
+for reporting vote tallies. 
+18
+‘‘(9) Providing a secure platform for dissemi-
+19
+nating vote totals. 
+20
+‘‘(c) GRANT IMPLEMENTATION PERIOD DEFINED.— 
+21
+In this part, the ‘grant implementation period’ with re-
+22
+spect to a grant is the 4-year period which begins on the 
+23
+first day of the fiscal year for which the grant is awarded. 
+24
+18:05 Jan 19, 2019
+H378
+29 
+•HR 378 IH
+‘‘SEC. 297B. CRITERIA FOR EVALUATING APPLICATIONS. 
+1
+‘‘(a) AWARD BASIS.—The Commission shall award 
+2
+grants to States under this part on a competitive basis, 
+3
+based on the quality of the State’s application submitted 
+4
+under section 297A, including— 
+5
+‘‘(1) the quality and likelihood of success of the 
+6
+State’s grant implementation plan described in sec-
+7
+tion 297A(b), including the State’s capacity to im-
+8
+plement the plan and evidence of collaboration as de-
+9
+scribed in paragraph (3) of section 297A(a); 
+10
+‘‘(2) the State’s record of, and commitment to, 
+11
+establishing conditions for innovation and reform, as 
+12
+described in paragraph (2) of section 297A(a); and 
+13
+‘‘(3) the State’s evaluation plan as described in 
+14
+paragraph (5) of section 297A(a). 
+15
+‘‘(b) SPECIAL
+RULE
+FOR
+STATES
+RECEIVING 
+16
+GRANTS IN PREVIOUS FISCAL YEARS.—In the case of a 
+17
+State that received a grant under this part in a previous 
+18
+fiscal year, the Commission may not award a grant under 
+19
+this part to the State for any subsequent fiscal year unless 
+20
+the State demonstrates to the satisfaction of the Commis-
+21
+sion that— 
+22
+‘‘(1) the State made sufficient progress in car-
+23
+rying out the grant implementation plan for that 
+24
+previous fiscal year at a rate that will enable the 
+25
+18:05 Jan 19, 2019
+H378
+30 
+•HR 378 IH
+State to fully implement the plan prior to the end 
+1
+of the grant implementation period for that plan; or 
+2
+‘‘(2) the State made sufficient progress in meet-
+3
+ing the performance measures and targets for the 
+4
+programs and activities funded by the grant (as es-
+5
+tablished by the State under section 297C) to enable 
+6
+the State to fully meet such measures and targets 
+7
+prior to the end of the grant implementation period 
+8
+for that plan. 
+9
+‘‘(c) EXPLANATION.—The Commission shall publish 
+10
+an explanation of how the application review process under 
+11
+this subsection will ensure an equitable and objective eval-
+12
+uation based on the criteria described in subsection (a) 
+13
+and the special rule described in subsection (b). 
+14
+‘‘SEC. 297C. ESTABLISHMENT OF PERFORMANCE MEAS-
+15
+URES AND TARGETS. 
+16
+‘‘Each State receiving a grant under this part shall 
+17
+establish performance measures and targets approved by 
+18
+the Commission for the programs and activities carried 
+19
+out with the funds provided by the grant. 
+20
+‘‘SEC. 297D. REPORTING REQUIREMENTS. 
+21
+‘‘Each State receiving a grant under this part shall 
+22
+submit to the Commission, at such time and in such man-
+23
+ner as the Commission may require, an annual report in-
+24
+cluding— 
+25
+18:05 Jan 19, 2019
+H378
+31 
+•HR 378 IH
+‘‘(1) data on the State’s progress in achieving 
+1
+the targets for the performance measures established 
+2
+under section 297C; 
+3
+‘‘(2) a description of the challenges the State 
+4
+has faced in implementing the programs and activi-
+5
+ties funded by the grant and how it has addressed 
+6
+or plans to address those challenges; and 
+7
+‘‘(3) findings from the evaluation plan for the 
+8
+grant. 
+9
+‘‘SEC. 297E. AUTHORIZATION OF APPROPRIATIONS. 
+10
+‘‘(a) AUTHORIZATION.— 
+11
+‘‘(1) IN GENERAL.—There are authorized to be 
+12
+appropriated such sums as may be necessary for fis-
+13
+cal year 2020 and each succeeding fiscal year to 
+14
+carry out this part. 
+15
+‘‘(2) 
+NO
+CONTINUING
+AVAILABILITY
+OF 
+16
+FUNDS.—Any amount appropriated for a fiscal year 
+17
+pursuant to the authorization under paragraph (1) 
+18
+shall not remain available for any subsequent fiscal 
+19
+year. 
+20
+‘‘(b) RESERVATION OF FUNDS.—From the amount 
+21
+made available to carry out this part for a fiscal year, the 
+22
+Commission may reserve not more than 10 percent of such 
+23
+amount to carry out activities related to— 
+24
+‘‘(1) technical assistance; and 
+25
+18:05 Jan 19, 2019
+H378
+32 
+•HR 378 IH
+‘‘(2) outreach and dissemination.’’. 
+1
+(b) CLERICAL AMENDMENT.—The table of contents 
+2
+of such Act is amended by adding at the end of the items 
+3
+relating to subtitle D of title II the following: 
+4
+‘‘PART 7—PAYMENTS FOR IMPROVING VOTING SYSTEM SECURITY 
+‘‘Sec. 297. Incentives for States to improve voting system security. 
+‘‘Sec. 297A. Criteria for awarding grants. 
+‘‘Sec. 297B. Criteria for evaluating applications. 
+‘‘Sec. 297C. Establishment of performance measures and targets. 
+‘‘Sec. 297D. Reporting requirements. 
+‘‘Sec. 297E. Authorization of appropriations.’’. 
+SEC. 5. DUTIES OF SECRETARY OF HOMELAND SECURITY. 
+5
+(a) NOTIFICATION OF BREACHES OF VOTING SYS-
+6
+TEM SECURITY OR RELATED INVESTIGATIONS.— 
+7
+(1) REQUIRING
+NOTIFICATION
+TO
+CONGRESS 
+8
+AND STATE ELECTION OFFICIALS.—If the Secretary 
+9
+of Homeland Security makes a determination that 
+10
+the security of any voting system or any voter reg-
+11
+istration database that has been used or will be used 
+12
+in an election for Federal office has been breached, 
+13
+or if the Secretary is conducting an investigation re-
+14
+garding whether or not the security of such a system 
+15
+or database has been breached, the Secretary shall 
+16
+submit a report on the determination or investiga-
+17
+tion to the Committee on Homeland Security of the 
+18
+House of Representatives, the Committee on Home-
+19
+land Security and Governmental Affairs of the Sen-
+20
+ate, and the chief State election official of the State 
+21
+in which the system is used or will be used. 
+22
+18:05 Jan 19, 2019
+H378
+33 
+•HR 378 IH
+(2) DEADLINE.—The Secretary shall submit 
+1
+the report required under paragraph (1) not later 
+2
+than 30 days after making the determination in-
+3
+volved or initiating the investigation involved (as the 
+4
+case may be). 
+5
+(b) SHARING INFORMATION WITH STATE ELECTION 
+6
+OFFICIALS.—At the request of a State, the Secretary of 
+7
+Homeland Security shall collaborate with the chief State 
+8
+election official of the State to help prevent and respond 
+9
+to threats to the security of the voting systems and data-
+10
+bases described in subsection (a), including assisting such 
+11
+official with obtaining the appropriate level of security 
+12
+clearance necessary to receive information regarding such 
+13
+threats. 
+14
+(c) DEFINITIONS.—In this subsection— 
+15
+(1) the ‘‘chief State election official’’ of a State 
+16
+is the individual designated by the State under sec-
+17
+tion 10 of the National Voter Registration Act of 
+18
+1993 (52 U.S.C. 20509) to be responsible for coordi-
+19
+nation of the State’s responsibilities under such Act; 
+20
+and 
+21
+(2) the term ‘‘voting system’’ has the meaning 
+22
+given such term under section 301(b) of the Help 
+23
+America Vote Act of 2002 (52 U.S.C. 21081(b)). 
+24
+Æ 
+18:05 Jan 19, 2019
+H378

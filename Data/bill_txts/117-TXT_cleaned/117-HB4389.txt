@@ -1,0 +1,496 @@
+A BILL 
+To increase cybersecurity education and job growth, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘New Collar Jobs Act of 2021’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Findings. 
+Sec. 3. Employee cybersecurity education. 
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+2 
+•HR 4389 IH
+Sec. 4. Student loan repayment for certain cybersecurity employees. 
+Sec. 5. CyberCorps scholarship-for-service program. 
+Sec. 6. Increased funding for Advanced Technology Education program. 
+Sec. 7. Cybersecurity training incentive for Government contracts. 
+SEC. 2. FINDINGS. 
+1
+Congress find the following: 
+2
+(1) Domestic factory output has increased by 
+3
+21 percent since June 2009, but manufacturing em-
+4
+ployment has only increased 5 percent during that 
+5
+time, and has been flat since late 2014. 
+6
+(2) As manufacturers leverage new technologies 
+7
+from robotics to distributed control systems to create 
+8
+modern factories and industrial plants, different em-
+9
+ployment requirements have emerged including the 
+10
+need for cybersecurity talent. 
+11
+(3) Leading cybersecurity experts have reported 
+12
+spike of 250 percent in industrial automation and 
+13
+control system cyber-incidents occurring during the 
+14
+period between 2011 and 2015 and as a result are 
+15
+seeking personnel with knowledge of their industry 
+16
+coupled with knowledge of security technology to 
+17
+prevent their organization from becoming victims of 
+18
+cyber-attacks. 
+19
+SEC. 3. EMPLOYEE CYBERSECURITY EDUCATION. 
+20
+(a) IN GENERAL.—Subpart D of part IV of sub-
+21
+chapter A of chapter 1 of the Internal Revenue Code of 
+22
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+3 
+•HR 4389 IH
+1986 is amended by adding at the end the following new 
+1
+section: 
+2
+‘‘SEC. 45U. EMPLOYEE CYBERSECURITY EDUCATION. 
+3
+‘‘(a) IN GENERAL.—For purposes of section 38, the 
+4
+employee cybersecurity education credit determined under 
+5
+this section for the taxable year is an amount equal to 
+6
+50 percent of the aggregate qualified employee cybersecu-
+7
+rity education expenses paid or incurred by the employer 
+8
+during such taxable year. 
+9
+‘‘(b) LIMITATION.—The amount allowed as a credit 
+10
+under subsection (a) for the taxable year with respect to 
+11
+an employee shall not exceed $5,000. 
+12
+‘‘(c) QUALIFIED EMPLOYEE CYBERSECURITY EDU-
+13
+CATION EXPENSES.—For purposes of this section, the 
+14
+term ‘qualified employee cybersecurity education expenses’ 
+15
+means amounts paid or incurred for each employee who 
+16
+earns a certificate or degree at the undergraduate or grad-
+17
+uate level or industry-recognized certification relating to 
+18
+those specialty areas and work roles that are listed in 
+19
+NCWF Work Roles in the document entitled, ‘NICE Cy-
+20
+bersecurity Workforce Framework (NCWF)’, published by 
+21
+the National Initiative for Cybersecurity Education 
+22
+(NICE) of the National Institute of Standards and Tech-
+23
+nology. 
+24
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+4 
+•HR 4389 IH
+‘‘(d) CERTAIN RULES TO APPLY.—Rules similar to 
+1
+the rules of subsections (i)(1) and (k) of section 51 shall 
+2
+apply for purposes of this section.’’. 
+3
+(b) CREDIT MADE PART OF GENERAL BUSINESS 
+4
+CREDIT.—Subsection (b) of section 38 of such Code is 
+5
+amended by striking ‘‘plus’’ at the end of paragraph (32), 
+6
+by striking the period at the end of paragraph (33) and 
+7
+inserting ‘‘, plus’’, and by adding at the end the following 
+8
+new paragraph: 
+9
+‘‘(34) the employee cybersecurity education 
+10
+credit determined under section 45U(a).’’. 
+11
+(c) DENIAL OF DOUBLE BENEFIT.—Subsection (a) 
+12
+of section 280C of such Code is amended by inserting 
+13
+‘‘45U(a),’’ after ‘‘45S(a),’’. 
+14
+(d) CLERICAL AMENDMENT.—The table of sections 
+15
+for subpart D of part IV of subchapter A of chapter 1 
+16
+of such Code is amended by adding at the end the fol-
+17
+lowing new item: 
+18
+‘‘Sec. 45U. Employee cybersecurity education.’’. 
+(e) EFFECTIVE DATE.—The amendments made by 
+19
+this section shall apply to individuals commencing appren-
+20
+ticeship programs after the date of the enactment of this 
+21
+Act. 
+22
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+5 
+•HR 4389 IH
+SEC. 4. STUDENT LOAN REPAYMENT FOR CERTAIN CYBER-
+1
+SECURITY EMPLOYEES. 
+2
+Section 455 of the Higher Education Act of 1965 (20 
+3
+U.S.C. 1087e) is amended by adding at the end the fol-
+4
+lowing: 
+5
+‘‘(r) LOAN REPAYMENT FOR CYBERSECURITY WORK-
+6
+ERS IN ECONOMICALLY DISTRESSED AREA.— 
+7
+‘‘(1) IN GENERAL.—The Secretary shall cancel 
+8
+the amount described in paragraph (2) of the bal-
+9
+ance of interest and principal due, in accordance 
+10
+with such paragraph, on any eligible Federal Direct 
+11
+Loan not in default for a borrower who— 
+12
+‘‘(A) makes 36 consecutive monthly pay-
+13
+ments on the eligible Federal Direct Loan after 
+14
+the date of the enactment of this section pursu-
+15
+ant to any one or a combination of the fol-
+16
+lowing— 
+17
+‘‘(i) payments under an income-based 
+18
+repayment plan under section 493C; 
+19
+‘‘(ii) payments under a standard re-
+20
+payment plan under subsection (d)(1)(A), 
+21
+based on a 10-year repayment period; 
+22
+‘‘(iii) monthly payments under a re-
+23
+payment plan under subsection (d)(1) or 
+24
+(g) of not less than the monthly amount 
+25
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+6 
+•HR 4389 IH
+calculated 
+under 
+subsection 
+(d)(1)(A), 
+1
+based on a 10-year repayment period; or 
+2
+‘‘(iv) payments under an income con-
+3
+tingent repayment plan under subsection 
+4
+(d)(1)(D); and 
+5
+‘‘(B) during the period in which the bor-
+6
+rower makes each of the 36 consecutive month-
+7
+ly payments described in subparagraph (A), has 
+8
+been employed in a cybersecurity job— 
+9
+‘‘(i) located in an area that, for at 
+10
+least 12 of such consecutive monthly pay-
+11
+ments is an economically distressed area; 
+12
+and 
+13
+‘‘(ii) that requires that the borrower 
+14
+work in the economically distressed area no 
+15
+less than 60 percent of total work hours. 
+16
+‘‘(2) CANCELLATION AMOUNT.—After the con-
+17
+clusion of the employment period described in para-
+18
+graph (1), the Secretary shall cancel the lesser of 
+19
+the following: 
+20
+‘‘(A) The obligation to repay the balance of 
+21
+principal and interest due as of the time of such 
+22
+cancellation, on the eligible Federal Direct 
+23
+Loans made to the borrower under this part. 
+24
+‘‘(B) $25,000. 
+25
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+7 
+•HR 4389 IH
+‘‘(3) INELIGIBILITY OF DOUBLE BENEFITS.— 
+1
+No borrower may, for the same service, receive a re-
+2
+duction of loan obligations under both this sub-
+3
+section and— 
+4
+‘‘(A) subsection (m); or 
+5
+‘‘(B) section 428J, 428K, 428L, or 460. 
+6
+‘‘(4) DEFINITIONS.—In this section: 
+7
+‘‘(A) CYBERSECURITY JOB.—The term ‘cy-
+8
+bersecurity job’ means— 
+9
+‘‘(i) a skill role as defined in the 
+10
+NCWF Work Roles by the National Initia-
+11
+tive for Cybersecurity Education (NICE) 
+12
+Cybersecurity 
+Workforce 
+Framework 
+13
+(NCWF) of the National Institute of 
+14
+Standards and Technology, Special Publi-
+15
+cation 800–181, or any successor docu-
+16
+ment; or 
+17
+‘‘(ii) teaching a cybersecurity course 
+18
+for a skill role described in clause (i). 
+19
+‘‘(B) ECONOMICALLY DISTRESSED AREA.— 
+20
+The term ‘economically distressed area’ means 
+21
+an area that meets one or more criteria under 
+22
+section 301(a) of the Public Works and Eco-
+23
+nomic Development Act of 1965 (42 U.S.C. 
+24
+3161(a)).’’. 
+25
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+8 
+•HR 4389 IH
+SEC. 5. CYBERCORPS SCHOLARSHIP-FOR-SERVICE PRO-
+1
+GRAM. 
+2
+(a) FUNDING INCREASE.—It is the sense of the Con-
+3
+gress that the number of scholarships awarded by the Na-
+4
+tional Science Foundation for scholarships awarded under 
+5
+the Federal cyber scholarship-for-service program estab-
+6
+lished by section 302 of the Cybersecurity Enhancement 
+7
+Act of 2014 for fiscal year 2019 and each succeeding fiscal 
+8
+year should be not less than double the number of such 
+9
+scholarships awarded for fiscal year 2018. 
+10
+(b) CYBERSECURITY COURSE INSTRUCTION.—Sec-
+11
+tion 302 of the Cybersecurity Enhancement Act of 2014 
+12
+(15 U.S.C. 7442) is amended— 
+13
+(1) in subsection (a), by striking ‘‘and security 
+14
+managers’’ and inserting ‘‘security managers, and 
+15
+cybersecurity course instructors,’’; and 
+16
+(2) in subsection (d), by adding at the end the 
+17
+following: ‘‘Such work may include teaching a cyber-
+18
+security course for a skill role as defined in the 
+19
+NCWF Work Roles by the National Initiative for 
+20
+Cybersecurity 
+Education 
+(NICE) 
+Cybersecurity 
+21
+Workforce Framework (NCWF) of the National In-
+22
+stitute of Standards and Technology, Special Publi-
+23
+cation 800–181, or any successor document.’’. 
+24
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+9 
+•HR 4389 IH
+(c) ELIMINATION OF PRIORITY FOR FEDERAL GOV-
+1
+ERNMENT EMPLOYMENT PLACEMENTS.—Section 302(b) 
+2
+of such Act (15 U.S.C. 7442(b)) is amended— 
+3
+(1) in paragraph (2), by adding ‘‘and’’ at the 
+4
+end; 
+5
+(2) by striking paragraph (3); and 
+6
+(3) by redesignating paragraph (4) as para-
+7
+graph (3). 
+8
+SEC. 6. INCREASED FUNDING FOR ADVANCED TECH-
+9
+NOLOGY EDUCATION PROGRAM. 
+10
+It is the sense of the Congress that the amount ex-
+11
+pended for the Information Technology and Cybersecurity 
+12
+Division of the Advanced Technological Education pro-
+13
+gram of the National Science Foundation established by 
+14
+section 3(a) of the Scientific and Advanced-Technology 
+15
+Act of 1992 (Public Law 102–476) for fiscal year 2019 
+16
+should be an amount equal to not less than 110 percent 
+17
+of the amount expended for such division for fiscal year 
+18
+2018. 
+19
+SEC. 7. CYBERSECURITY TRAINING INCENTIVE FOR GOV-
+20
+ERNMENT CONTRACTS. 
+21
+(a) IN GENERAL.—Subpart 15.3 of the Federal Ac-
+22
+quisition Regulation shall be revised to require, in the eval-
+23
+uation of a competitive proposal received in response to 
+24
+a solicitation for a contract valued in excess of 
+25
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS
+10 
+•HR 4389 IH
+$5,000,000, that the head of an executive agency award 
+1
+a five percent score increase to each competitive proposal 
+2
+submitted by a qualified offeror. 
+3
+(b) DEFINITIONS.—In this section: 
+4
+(1) EXECUTIVE AGENCY.—The term ‘‘executive 
+5
+agency’’ has the meaning given that term in section 
+6
+102 of title 40, United States Code. 
+7
+(2) QUALIFIED OFFEROR.—The term ‘‘qualified 
+8
+offeror’’ means a business that has claimed the em-
+9
+ployee cybersecurity education credit under section 
+10
+45U of the Internal Revenue Code of 1986, as added 
+11
+by section 3, at least once within the three-year pe-
+12
+riod preceding the date on which the business sub-
+13
+mits a competitive proposal for a contract valued in 
+14
+excess of $5,000,000. 
+15
+Æ 
+21:43 Jul 26, 2021
+H4389
+lotter on DSK11XQN23PROD with BILLS

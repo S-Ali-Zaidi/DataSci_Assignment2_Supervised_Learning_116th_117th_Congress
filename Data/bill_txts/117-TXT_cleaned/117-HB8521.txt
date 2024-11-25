@@ -1,0 +1,575 @@
+A BILL 
+To amend the Investment Advisers Act of 1940 to require 
+investment advisers for passively managed funds to ar-
+range for pass-through voting of proxies for certain secu-
+rities, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘INvestor Democracy 
+4
+is EXpected Act’’ or the ‘‘INDEX Act’’. 
+5
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+2 
+•HR 8521 IH
+SEC. 2. PROXY VOTING OF PASSIVELY MANAGED FUNDS. 
+1
+(a) IN GENERAL.—The Investment Advisers Act of 
+2
+1940 (15 U.S.C. 80b–1 et seq.) is amended by inserting 
+3
+after section 208 (15 U.S.C. 80b–8) the following: 
+4
+‘‘SEC. 208A. REQUIREMENT WITH RESPECT TO PROXY VOT-
+5
+ING OF PASSIVELY MANAGED FUNDS. 
+6
+‘‘(a) DEFINITIONS.—In this section— 
+7
+‘‘(1) the term ‘covered security’— 
+8
+‘‘(A) means a voting security, as that term 
+9
+is defined in section 2(a) of the Investment 
+10
+Company Act of 1940 (15 U.S.C. 80a–2(a)), in 
+11
+which a qualified fund is invested; and 
+12
+‘‘(B) does not include any voting security 
+13
+(as defined in subparagraph (A)) of an issuer 
+14
+registered with the Commission as an invest-
+15
+ment company under section 8 of the Invest-
+16
+ment Company Act of 1940 (15 U.S.C. 80a–8); 
+17
+‘‘(2) the term ‘passively managed fund’ means 
+18
+a qualified fund that— 
+19
+‘‘(A) is designed to track, or is derived 
+20
+from, an index of securities or a portion of such 
+21
+an index; 
+22
+‘‘(B) discloses that the qualified fund is a 
+23
+passive fund or an index fund; 
+24
+‘‘(C) allocates not less than 40 percent of 
+25
+the total assets of the qualified fund to an in-
+26
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+3 
+•HR 8521 IH
+vestment strategy that is designed to track, or 
+1
+is derived from, an index of securities or a por-
+2
+tion of such an index; or 
+3
+‘‘(D) discloses that an allocation described 
+4
+in subparagraph (C) follows an investment 
+5
+strategy that is passive or based on an index of 
+6
+securities; 
+7
+‘‘(3) the term ‘qualified fund’ means— 
+8
+‘‘(A) an investment company, as that term 
+9
+is defined in section 3 of the Investment Com-
+10
+pany Act of 1940 (15 U.S.C. 80a–3); 
+11
+‘‘(B) a private fund; 
+12
+‘‘(C) an eligible deferred compensation 
+13
+plan, as that term is defined in section 457(b) 
+14
+of the Internal Revenue Code of 1986; 
+15
+‘‘(D) an entity described in section 
+16
+3(c)(11) of the Investment Company Act of 
+17
+1940 (15 U.S.C. 80a–3(c)(11)); 
+18
+‘‘(E) a plan maintained by an employer de-
+19
+scribed in clause (i), (ii), or (iii) of section 
+20
+403(b)(1)(A) of the Internal Revenue Code of 
+21
+1986 to provide annuity contracts described in 
+22
+section 403(b) of such Code; 
+23
+‘‘(F) a common trust fund, or similar 
+24
+fund, maintained by a bank; 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+4 
+•HR 8521 IH
+‘‘(G) any fund established under section 
+1
+8438(b)(1) of title 5, United States Code; or 
+2
+‘‘(H) any separate managed account of a 
+3
+client of an investment adviser; 
+4
+‘‘(4) the term ‘registrant’ means an issuer of 
+5
+covered securities; 
+6
+‘‘(5) the term ‘routine matter’ does not in-
+7
+clude— 
+8
+‘‘(A) a proposal that is not submitted to a 
+9
+holder of covered securities by means of a proxy 
+10
+statement comparable to that described in sec-
+11
+tion 240.14a–101 of title 17, Code of Federal 
+12
+Regulations, or any successor regulation; 
+13
+‘‘(B) a proposal that is— 
+14
+‘‘(i) the subject of a counter-solicita-
+15
+tion; or 
+16
+‘‘(ii) part of a proposal made by a 
+17
+person other than the applicable registrant; 
+18
+‘‘(C) a proposal that relates to a merger or 
+19
+consolidation, except when, with respect to a 
+20
+registrant— 
+21
+‘‘(i) the proposal is to merge with a 
+22
+wholly owned subsidiary of the registrant; 
+23
+and 
+24
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+5 
+•HR 8521 IH
+‘‘(ii) holders of covered securities 
+1
+issued by the registrant that dissent to the 
+2
+proposal do not have rights of appraisal; 
+3
+‘‘(D) a proposal that relates to the sale, 
+4
+lease, or exchange of all, or substantially all, of 
+5
+the property and assets of a registrant; 
+6
+‘‘(E) an election for directors (or com-
+7
+parable positions); or 
+8
+‘‘(F) any other matter determined by the 
+9
+Commission or an exchange registered under 
+10
+section 6 of the Securities Exchange Act of 
+11
+1934 (15 U.S.C. 78f) to be not routine; and 
+12
+‘‘(6) the term ‘voting person’ means a person 
+13
+that provides voting instructions under subsection 
+14
+(b) or (c). 
+15
+‘‘(b) REQUIREMENT.— 
+16
+‘‘(1) IN GENERAL.—Subject to subsection (g), if 
+17
+an investment adviser holds authority to vote a 
+18
+proxy solicited pursuant to section 14 of the Securi-
+19
+ties Exchange Act of 1934 (15 U.S.C. 78n) in con-
+20
+nection with any vote of covered securities held by 
+21
+a passively managed fund, and the voting authority 
+22
+held by that investment adviser with respect to those 
+23
+covered securities (when combined with the voting 
+24
+authority of other persons controlled by, or under 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+6 
+•HR 8521 IH
+common control with, that investment adviser) is 
+1
+more than 1 percent of the voting authority of the 
+2
+outstanding securities of the registrant subject to 
+3
+the vote, the investment adviser shall vote propor-
+4
+tionate amounts of those covered securities in ac-
+5
+cordance with the voting instructions of— 
+6
+‘‘(A) in the case of a passively managed 
+7
+fund that issues securities, persons holding se-
+8
+curities in the passively managed fund, such 
+9
+that, solely for the purposes of that vote, the 
+10
+percentage of securities held by such a person 
+11
+shall be deemed to be the percentage of the cov-
+12
+ered securities beneficially owned by that per-
+13
+son; and 
+14
+‘‘(B) in all cases other than a case de-
+15
+scribed in subparagraph (A), persons holding 
+16
+economic interests in the passively managed 
+17
+fund, such that, solely for purposes of that vote, 
+18
+the percentage of economic interests held by 
+19
+such a person shall be deemed to be the per-
+20
+centage of the covered securities beneficially 
+21
+owned by that person. 
+22
+‘‘(2) PROHIBITION.—If paragraph (1) applies 
+23
+with respect to any vote of covered securities and the 
+24
+investment adviser to which that paragraph applies 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+7 
+•HR 8521 IH
+does not receiving voting instructions from all per-
+1
+sons described in subparagraphs (A) and (B) of that 
+2
+paragraph, the investment adviser may not vote the 
+3
+proportion of the shares of the covered securities for 
+4
+which the investment adviser does not receive voting 
+5
+instructions. 
+6
+‘‘(c) PASSIVELY
+MANAGED
+FUND
+AS
+SECURITY 
+7
+HOLDER OF ANOTHER PASSIVELY MANAGED FUND.—If 
+8
+a passively managed fund (referred to in this subsection 
+9
+as the ‘holding fund’) holds securities of another passively 
+10
+managed fund (referred to in this subsection as the ‘held 
+11
+fund’), and there is a vote with respect to covered securi-
+12
+ties held by the held fund, the investment adviser of the 
+13
+holding fund shall obtain voting instructions from persons 
+14
+holding securities in the holding fund, or to persons hold-
+15
+ing economic interests in the holding fund, as applicable, 
+16
+with respect to that vote in the manner described in sub-
+17
+section (b). 
+18
+‘‘(d) PROHIBITIONS.— 
+19
+‘‘(1) REIMBURSEMENT.—No person may seek 
+20
+reimbursement from a registrant, or require any ex-
+21
+penses incurred to be paid by a registrant, with re-
+22
+spect to the obligations imposed under this section. 
+23
+‘‘(2) PARTIAL
+COMPLIANCE.—An investment 
+24
+adviser may not solicit voting instructions from 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+8 
+•HR 8521 IH
+some, but not all, voting persons under subsection 
+1
+(b)(1) or (c), as applicable. 
+2
+‘‘(e) EXCEPTIONS.— 
+3
+‘‘(1) VOTING ON ROUTINE MATTERS.—Notwith-
+4
+standing subsections (b)(1), (b)(2), and (d)(2), if an 
+5
+investment adviser chooses not to solicit voting in-
+6
+structions with respect to a vote described in sub-
+7
+section (b)(1) or (c), or, as of the date that is 10 
+8
+days before such a vote, the investment adviser has 
+9
+not received voting instructions from a person de-
+10
+scribed in subparagraph (A) or (B) of subsection 
+11
+(b)(1) or subsection (c), as applicable, the invest-
+12
+ment adviser may vote the covered securities for 
+13
+which the investment adviser has not received voting 
+14
+instructions with respect to a routine matter. 
+15
+‘‘(2) MIRROR VOTING EXCEPTION FOR MATTERS 
+16
+REQUIRING
+APPROVAL
+OF
+A
+MAJORITY
+OF
+OUT-
+17
+STANDING
+SECURITIES.—Notwithstanding 
+sub-
+18
+sections (b)(1), (b)(2), and (d)(2), if a matter to be 
+19
+considered at a meeting of a registrant requires the 
+20
+approval of a majority of the outstanding securities 
+21
+of the registrant entitled to vote on the matter, an 
+22
+investment adviser to which any such provision ap-
+23
+plies may, with respect to any covered securities for 
+24
+which voting instructions have not been received, as 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+9 
+•HR 8521 IH
+of the date that is 10 days before that vote, vote the 
+1
+uninstructed covered securities in a manner that is 
+2
+proportionate to the votes submitted on the matter 
+3
+by all other security holders of the registrant. 
+4
+‘‘(f) DISSEMINATION OF INFORMATION.— 
+5
+‘‘(1) IN
+GENERAL.—Any investment adviser 
+6
+subject to the requirements of subsection (b) or (c) 
+7
+shall, with respect to the dissemination of informa-
+8
+tion and other materials to a voting person, comply 
+9
+with the following requirements, unless the voting 
+10
+person affirmatively declines to receive that informa-
+11
+tion and other materials: 
+12
+‘‘(A) Provide to the voting person— 
+13
+‘‘(i) a proxy statement, other proxy 
+14
+soliciting material, or an information state-
+15
+ment; 
+16
+‘‘(ii) an annual report from the appli-
+17
+cable registrant; 
+18
+‘‘(iii) a form of voting instruction to 
+19
+return to the investment adviser; and 
+20
+‘‘(iv) any control or identification 
+21
+number that the voting person needs to re-
+22
+turn to the investment adviser the voting 
+23
+instruction provided under subparagraph 
+24
+(B). 
+25
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+10 
+•HR 8521 IH
+‘‘(B) Provide the voting person with not 
+1
+less than 5 business days after the date on 
+2
+which the voting person receives the materials 
+3
+provided under paragraph (1) to return those 
+4
+materials to the investment adviser. 
+5
+‘‘(2) ELECTRONIC DELIVERY.—All, or any por-
+6
+tion, of the materials that an investment adviser is 
+7
+required to provide under paragraph (1)(A) may be 
+8
+provided electronically, including an internet web 
+9
+site address provided by the applicable registrant or 
+10
+a third party. 
+11
+‘‘(3) OPTION FOR INVESTMENT ADVISERS.—An 
+12
+investment adviser may provide recommendations to 
+13
+voting persons with the material provided under 
+14
+paragraph (1)(A), or after providing the material 
+15
+under that paragraph, if the investment adviser per-
+16
+mits voting recommendations to be provided to vot-
+17
+ing persons by third parties on a nondiscriminatory 
+18
+basis and on a wide range of views. 
+19
+‘‘(4) SATISFACTION OF REQUIREMENTS BY PAS-
+20
+SIVELY MANAGED FUND.—With respect to any re-
+21
+quirement applicable to an investment adviser under 
+22
+this subsection, the requirement may be satisfied by 
+23
+the applicable passively managed fund, which may 
+24
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS
+11 
+•HR 8521 IH
+cover any expenses, direct or indirect, incurred in 
+1
+carrying out that requirement. 
+2
+‘‘(g) SAFE HARBOR AND RULE OF CONSTRUCTION 
+3
+REGARDING DUTIES.—An investment adviser— 
+4
+‘‘(1) with respect to a matter that is not a rou-
+5
+tine matter, may choose not to solicit voting instruc-
+6
+tions from any person under subsection (b)(1) or (c), 
+7
+subject to subsections (d)(2) and (e); and 
+8
+‘‘(2) if the investment adviser chooses not to so-
+9
+licit voting instructions under subparagraph (A), 
+10
+shall not be considered to be in violation of any duty 
+11
+under any Federal or State law for failing to vote 
+12
+the applicable securities.’’. 
+13
+(b) EFFECTIVE DATE.—Section 208A of the Invest-
+14
+ment Advisers Act of 1940, as added by subsection (a), 
+15
+shall take effect on the first August 1 that occurs after 
+16
+the date that is 2 years after the date of enactment of 
+17
+this Act. 
+18
+SEC. 3. VOTING INSTRUCTIONS FROM CUSTOMERS. 
+19
+Section 14(b)(1) of the Securities Exchange Act of 
+20
+1934 (15 U.S.C. 78n(b)(1)) is amended by inserting ‘‘vot-
+21
+ing instruction,’’ after ‘‘consent,’’. 
+22
+Æ 
+23:13 Aug 08, 2022
+H8521
+khammond on DSKJM1Z7X2PROD with BILLS

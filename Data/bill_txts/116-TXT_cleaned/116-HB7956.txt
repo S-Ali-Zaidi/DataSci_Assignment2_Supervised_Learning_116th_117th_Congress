@@ -1,0 +1,812 @@
+A BILL 
+To amend title 17, United States Code, to address cir-
+cumvention of copyright protection systems with respect 
+to the maintenance or repair of critical medical infra-
+structure, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Critical Medical Infra-
+4
+structure Right-to-Repair Act of 2020’’. 
+5
+19:47 Aug 28, 2020
+H7956
+2 
+•HR 7956 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act— 
+2
+(1) the term ‘‘commerce’’ has the meaning 
+3
+given the term in section 4 of the Federal Trade 
+4
+Commission Act (15 U.S.C. 44); 
+5
+(2) the terms ‘‘covered emergency’’, ‘‘covered 
+6
+service provider’’, ‘‘critical medical infrastructure’’, 
+7
+‘‘repair’’, and ‘‘service material’’ have the meanings 
+8
+given those terms in section 123(a) of title 17, 
+9
+United States Code, as added by section 3(a)(1) of 
+10
+this Act; 
+11
+(3) the term ‘‘covered healthcare provider’’ has 
+12
+the meaning given the term in section 1201(l)(1) of 
+13
+title 17, United States Code, as added by section 
+14
+3(a)(2) of this Act; 
+15
+(4) the term ‘‘critical medical infrastructure 
+16
+contract’’ means a contract relating to the purchase, 
+17
+licensing, repair, or maintenance (including periodic 
+18
+maintenance) of critical medical infrastructure; 
+19
+(5) the term ‘‘service provider’’ means any per-
+20
+son engaged in the diagnosis of problems with re-
+21
+spect to, or the service, maintenance, or repair of, 
+22
+critical medical infrastructure; and 
+23
+(6) the term ‘‘trade secret’’ has the meaning 
+24
+given the term in section 1839 of title 18, United 
+25
+States Code. 
+26
+19:47 Aug 28, 2020
+H7956
+3 
+•HR 7956 IH
+SEC. 3. COPYRIGHTS. 
+1
+(a) IN GENERAL.—Title 17, United States Code, is 
+2
+amended— 
+3
+(1) in chapter 1, by adding at the end the fol-
+4
+lowing: 
+5
+‘‘§ 123. Limitation on exclusive rights: incidental cop-
+6
+ies of service materials made during 
+7
+maintenance or repair of critical medical 
+8
+infrastructure 
+9
+‘‘(a) DEFINITIONS.—In this section— 
+10
+‘‘(1) the term ‘covered emergency’ means the 
+11
+public health emergency declared by the Secretary of 
+12
+Health and Human Services under section 319 of 
+13
+the Public Health Service Act (42 U.S.C. 247d) on 
+14
+January 31, 2020, with respect to the Coronavirus 
+15
+Disease 2019 (COVID–19), including any renewal of 
+16
+that declaration; 
+17
+‘‘(2) 
+the 
+term 
+‘covered 
+service 
+provider’ 
+18
+means— 
+19
+‘‘(A) the owner or licensee of a copy of 
+20
+service materials; or 
+21
+‘‘(B) the agent of a person described in 
+22
+subparagraph (A); 
+23
+‘‘(3) the term ‘critical medical infrastructure’ 
+24
+means a device, computer program, or other product 
+25
+or equipment used to provide medical services; 
+26
+19:47 Aug 28, 2020
+H7956
+4 
+•HR 7956 IH
+‘‘(4) the term ‘repair’, when used with respect 
+1
+to critical medical infrastructure, means to restore 
+2
+that critical medical infrastructure to a state that is 
+3
+in accordance with the original specifications of that 
+4
+critical 
+medical 
+infrastructure, 
+including 
+any 
+5
+changes to those original specifications that are 
+6
+issued by the manufacturer of the critical medical 
+7
+infrastructure; and 
+8
+‘‘(5) the term ‘service material’, when used with 
+9
+respect to critical medical infrastructure— 
+10
+‘‘(A) means any information or material 
+11
+that the manufacturer of that infrastructure 
+12
+provides directly, indirectly, or wirelessly to— 
+13
+‘‘(i) technicians of the manufacturer; 
+14
+or 
+15
+‘‘(ii) repair facilities that are author-
+16
+ized by the manufacturer; and 
+17
+‘‘(B) includes— 
+18
+‘‘(i) schematics, wiring diagrams, me-
+19
+chanical layouts, and other pertinent data 
+20
+with respect to that critical medical infra-
+21
+structure; 
+22
+‘‘(ii) computer programs used in diag-
+23
+nosing problems with respect to that crit-
+24
+ical medical infrastructure or in cali-
+25
+19:47 Aug 28, 2020
+H7956
+5 
+•HR 7956 IH
+brating, repairing, or maintaining that 
+1
+critical medical infrastructure; 
+2
+‘‘(iii) service keys that are required to 
+3
+access diagnostic information, and other-
+4
+wise authorize repairs, with respect to that 
+5
+critical medical infrastructure; 
+6
+‘‘(iv) access to error logs that are re-
+7
+quired to diagnose required repairs with 
+8
+respect to that critical medical infrastruc-
+9
+ture; 
+10
+‘‘(v) preventative and corrective main-
+11
+tenance, inspection, and repair procedures 
+12
+with respect to that critical medical infra-
+13
+structure; 
+14
+‘‘(vi) information regarding safety 
+15
+alerts, recalls, service bulletins, specifica-
+16
+tion updates, and the need for adjustments 
+17
+to maintain efficiency, safety, and conven-
+18
+ience with respect to that critical medical 
+19
+infrastructure; and 
+20
+‘‘(vii) any other information provided 
+21
+to diagnose problems with respect to, or to 
+22
+service, maintain, repair, activate, certify, 
+23
+or install, that critical medical infrastruc-
+24
+ture, including— 
+25
+19:47 Aug 28, 2020
+H7956
+6 
+•HR 7956 IH
+‘‘(I) with respect to any replace-
+1
+ment part or equipment relating to 
+2
+that piece of critical medical infra-
+3
+structure; and 
+4
+‘‘(II) training materials with re-
+5
+spect to that critical medical infra-
+6
+structure. 
+7
+‘‘(b) LIMITATION.—Notwithstanding the provisions 
+8
+of section 106, it is not an infringement of copyright for 
+9
+a covered service provider to make, or to authorize the 
+10
+making, of a separate copy of service materials with re-
+11
+spect to the covered service provider, if— 
+12
+‘‘(1) making that separate copy is incidental to 
+13
+the repair or maintenance of critical medical infra-
+14
+structure; and 
+15
+‘‘(2) the repair or maintenance described in 
+16
+paragraph (1) is part of a response to the covered 
+17
+emergency. 
+18
+‘‘(c) RULE OF CONSTRUCTION.—Nothing in this sec-
+19
+tion may be construed to imply that the actions explicitly 
+20
+authorized under this section may not also be permitted 
+21
+under another provision of this title.’’; and 
+22
+(2) in section 1201, by adding at the end the 
+23
+following: 
+24
+19:47 Aug 28, 2020
+H7956
+7 
+•HR 7956 IH
+‘‘(l) REPAIR OF CRITICAL MEDICAL INFRASTRUC-
+1
+TURE RELATING TO COVID–19.— 
+2
+‘‘(1) DEFINITIONS.—For purposes of this sub-
+3
+section— 
+4
+‘‘(A) the terms ‘covered emergency’, ‘crit-
+5
+ical medical infrastructure’, and ‘repair’ have 
+6
+the meanings given those terms in section 
+7
+123(a); and 
+8
+‘‘(B) the term ‘covered healthcare provider’ 
+9
+means— 
+10
+‘‘(i) a healthcare provider who is the 
+11
+owner, lessee, or licensee of critical medical 
+12
+infrastructure; or 
+13
+‘‘(ii) the agent of a person described 
+14
+in clause (i). 
+15
+‘‘(2) PERMISSIBLE CIRCUMVENTION.—Notwith-
+16
+standing the provisions of subsection (a)(1)(A), it is 
+17
+not a violation of that subsection for a covered 
+18
+healthcare provider to circumvent a technological 
+19
+measure that effectively controls access to a work 
+20
+protected under this title, if— 
+21
+‘‘(A) the purpose of the act of circumven-
+22
+tion is to repair or maintain critical medical in-
+23
+frastructure with respect to that covered 
+24
+healthcare provider; and 
+25
+19:47 Aug 28, 2020
+H7956
+8 
+•HR 7956 IH
+‘‘(B) the repair or maintenance described 
+1
+in subparagraph (A) is part of preparation for, 
+2
+or a response to, the covered emergency. 
+3
+‘‘(3) 
+ENABLING
+CIRCUMVENTION.—Notwith-
+4
+standing the provisions of subsections (a)(2) and 
+5
+(b), it is not a violation of either such provision for 
+6
+a covered healthcare provider to manufacture, im-
+7
+port, offer to the public, provide, or otherwise traffic 
+8
+in technological means to circumvent a technological 
+9
+measure that effectively controls access to a work 
+10
+protected under this title, or to circumvent protec-
+11
+tion afforded by a technological measure that effec-
+12
+tively controls access to a work protected under this 
+13
+title, if that action by that covered healthcare pro-
+14
+vider enables a repair or maintenance permitted 
+15
+under paragraph (2). 
+16
+‘‘(4) RULES
+OF
+CONSTRUCTION.—Nothing in 
+17
+this subsection may be construed to— 
+18
+‘‘(A) exempt a covered healthcare provider 
+19
+from compliance with any other applicable law 
+20
+or regulation relating to the repair or mainte-
+21
+nance of critical medical infrastructure, except 
+22
+as explicitly provided in this subsection; or 
+23
+‘‘(B) prevent the Librarian of Congress 
+24
+from determining, under the applicable sub-
+25
+19:47 Aug 28, 2020
+H7956
+9 
+•HR 7956 IH
+paragraphs of subsection (a)(1), that subpara-
+1
+graph (A) of such subsection (a)(1) shall not 
+2
+apply to a covered healthcare provider relating 
+3
+to the circumvention of a technological measure 
+4
+that effectively controls access to a work pro-
+5
+tected under this title.’’. 
+6
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+7
+The table of sections for chapter 1 of title 17, United 
+8
+States Code, is amended by adding at the end the fol-
+9
+lowing: 
+10
+‘‘123. Limitation on exclusive rights: incidental copies of service materials made 
+during maintenance or repair of critical medical infrastruc-
+ture.’’. 
+SEC. 4. PATENTS. 
+11
+Section 271 of title 35, United States Code, is 
+12
+amended— 
+13
+(1) by redesignating subsections (h) and (i) as 
+14
+subsections (i) and (j), respectively; and 
+15
+(2) by inserting after subsection (g) the fol-
+16
+lowing: 
+17
+‘‘(h) DESIGN PATENTS.— 
+18
+‘‘(1) DEFINITIONS.—In this subsection— 
+19
+‘‘(A) the terms ‘covered emergency’, ‘crit-
+20
+ical medical infrastructure’, and ‘repair’ have 
+21
+the meanings given the terms in section 123(a) 
+22
+of title 17; and 
+23
+19:47 Aug 28, 2020
+H7956
+10 
+•HR 7956 IH
+‘‘(B) the term ‘covered healthcare provider’ 
+1
+has the meaning given the term in section 
+2
+1201(l) of title 17. 
+3
+‘‘(2) NON-INFRINGEMENT.—It shall not be an 
+4
+act of infringement with respect to a patent for de-
+5
+sign obtained under section 171 for a covered 
+6
+healthcare provider to fabricate a part on a non- 
+7
+commercial basis, and as needed, for the repair or 
+8
+maintenance of critical medical infrastructure with 
+9
+respect to that covered healthcare provider, if the re-
+10
+pair or maintenance is part of a response to the cov-
+11
+ered emergency. 
+12
+‘‘(3) RULE
+OF
+CONSTRUCTION.—Nothing in 
+13
+this subsection may be construed to exempt a cov-
+14
+ered healthcare provider from compliance with any 
+15
+other applicable law or regulation relating to a part 
+16
+or critical medical infrastructure described in para-
+17
+graph (2).’’. 
+18
+SEC. 5. CONTRACTS. 
+19
+Notwithstanding any other provision of law or regula-
+20
+tion, a provision of a critical medical infrastructure con-
+21
+tract is null and void if that provision of the critical med-
+22
+ical infrastructure contract prohibits or restricts the abil-
+23
+ity of a covered healthcare provider that is a party to the 
+24
+contract to, in response to the covered emergency, repair 
+25
+19:47 Aug 28, 2020
+H7956
+11 
+•HR 7956 IH
+or maintain critical medical infrastructure with respect to 
+1
+the covered healthcare provider. 
+2
+SEC. 6. MANUFACTURER REQUIREMENTS. 
+3
+(a) DEFINITION.— 
+4
+(1) IN GENERAL.—Subject to paragraph (2), in 
+5
+this section, the term ‘‘fair and reasonable terms’’ 
+6
+means, with respect to a manufacturer of critical 
+7
+medical infrastructure, that the manufacturer pro-
+8
+vides access to service materials, or offers for sale a 
+9
+tool, with respect to the critical medical infrastruc-
+10
+ture at costs and terms that are equivalent to the 
+11
+most favorable costs and terms offered by that man-
+12
+ufacturer to repair facilities that are authorized by 
+13
+that manufacturer— 
+14
+(A) using the net costs that would be in-
+15
+curred by that repair facility in obtaining an 
+16
+equivalent part, tool, or documentation; and 
+17
+(B) taking into consideration any discount, 
+18
+rebate, or other incentive offered by the manu-
+19
+facturer. 
+20
+(2) DOCUMENTATION.—For the purposes of 
+21
+paragraph (1), if a manufacturer described in that 
+22
+paragraph provides access to service materials that 
+23
+are in the form of documentation, the term ‘‘fair 
+24
+and reasonable terms’’ with respect to that provision 
+25
+19:47 Aug 28, 2020
+H7956
+12 
+•HR 7956 IH
+of access means at no charge, except that if the ap-
+1
+plicable service provider requests documentation in 
+2
+physical printed form, the term ‘‘fair and reasonable 
+3
+terms’’ includes a charge imposed by the manufac-
+4
+turer for the reasonable actual costs of preparing 
+5
+and sending the documentation. 
+6
+(b) DUTY TO DISCLOSE INFORMATION.—The manu-
+7
+facturer of a piece of critical medical infrastructure sold, 
+8
+leased, or otherwise introduced into commerce in the 
+9
+United States shall provide owners, lessees, or service pro-
+10
+viders with respect to that piece of infrastructure with ac-
+11
+cess to, on fair and reasonable terms, service materials 
+12
+that are required to— 
+13
+(1) diagnose problems with respect to that crit-
+14
+ical medical infrastructure; and 
+15
+(2) service, maintain, or repair that critical 
+16
+medical infrastructure. 
+17
+(c) DUTY TO MAKE TOOLS AVAILABLE.—The manu-
+18
+facturer of critical medical infrastructure sold, leased, or 
+19
+otherwise introduced into commerce in the United States 
+20
+shall— 
+21
+(1) offer for sale to the owner or lessee of the 
+22
+critical medical infrastructure, and to all service pro-
+23
+viders with respect to the critical medical infrastruc-
+24
+ture, on fair and reasonable terms, any tool (includ-
+25
+19:47 Aug 28, 2020
+H7956
+13 
+•HR 7956 IH
+ing software) for the diagnosis, service, maintenance, 
+1
+or repair of the critical medical infrastructure; and 
+2
+(2) provide all information that enables after- 
+3
+market tool companies to manufacture tools with the 
+4
+same functional characteristics as those tools made 
+5
+available by the manufacturers to authorized dealers. 
+6
+(d) EQUIPMENT.—The manufacturer of critical med-
+7
+ical infrastructure sold, leased, or otherwise introduced 
+8
+into commerce in the United States shall offer for sale 
+9
+to the owner or lessee of the critical medical infrastruc-
+10
+ture, and to all service providers with respect to the crit-
+11
+ical medical infrastructure, on fair and reasonable terms, 
+12
+all equipment for diagnosis of problems with respect to, 
+13
+service, maintenance, or repair of the critical medical in-
+14
+frastructure. 
+15
+(e) PROTECTION OF TRADE SECRETS.— 
+16
+(1) IN GENERAL.—Subject to paragraph (2), a 
+17
+manufacturer of critical medical infrastructure may 
+18
+not be required to publicly disclose information that, 
+19
+if made public, would divulge methods or processes 
+20
+entitled to protection as trade secrets under chapter 
+21
+90 of title 18, United States Code. 
+22
+(2) PROVISION OF INFORMATION TO DEALERS 
+23
+OR SERVICE PROVIDERS.—A manufacturer of critical 
+24
+medical infrastructure may not withhold information 
+25
+19:47 Aug 28, 2020
+H7956
+14 
+•HR 7956 IH
+under paragraph (1) on the ground that disclosing 
+1
+the information would divulge methods or processes 
+2
+entitled to protection as trade secrets under chapter 
+3
+90 of title 18, United States Code, if that informa-
+4
+tion is provided directly or indirectly to authorized 
+5
+dealers or service providers. 
+6
+(f) ENFORCEMENT BY THE FEDERAL TRADE COM-
+7
+MISSION.— 
+8
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+9
+TICES.—A violation of this section, or a regulation 
+10
+promulgated under this section, shall be treated as 
+11
+a violation of a rule defining an unfair or deceptive 
+12
+act or practice prescribed under section 18(a)(1)(B) 
+13
+of the Federal Trade Commission Act (15 U.S.C. 
+14
+57a(a)(1)(B)). 
+15
+(2) POWERS
+OF
+COMMISSION.—The Federal 
+16
+Trade Commission (referred to in this subsection as 
+17
+the ‘‘Commission’’) shall enforce this section and 
+18
+any regulation promulgated under this section in the 
+19
+same manner, by the same means, and with the 
+20
+same jurisdiction, powers, and duties as though all 
+21
+applicable terms and provisions of the Federal Trade 
+22
+Commission Act (15 U.S.C. 41 et seq.) were incor-
+23
+porated into and made a part of this section. Any 
+24
+person who violates this section or a regulation pro-
+25
+19:47 Aug 28, 2020
+H7956
+15 
+•HR 7956 IH
+mulgated under this section shall be subject to the 
+1
+penalties and entitled to the privileges and immuni-
+2
+ties provided in the Federal Trade Commission Act. 
+3
+Enforcement by the Commission shall be the exclu-
+4
+sive means of enforcing compliance with this section 
+5
+and any regulation promulgated under this section. 
+6
+(3) RULEMAKING
+AUTHORITY.—The Commis-
+7
+sion shall have authority under section 553 of title 
+8
+5, United States Code, to promulgate any regula-
+9
+tions necessary to implement this section. 
+10
+SEC. 7. STUDY AND REPORT. 
+11
+(a) STUDY.—The Chairman of the Federal Trade 
+12
+Commission, in consultation with the Register of Copy-
+13
+rights and the Under Secretary of Commerce for Intellec-
+14
+tual Property and Director of the United States Patent 
+15
+and Trademark Office, shall conduct a study regarding 
+16
+the impact and effectiveness of this Act, and the amend-
+17
+ments made by this Act, with respect to innovation and 
+18
+anticompetitive practices in the market for critical medical 
+19
+infrastructure, including enforcement with respect to those 
+20
+practices. 
+21
+(b) REPORT TO CONGRESS.—Not later than 1 year 
+22
+after the date of enactment of this Act, the Chairman of 
+23
+the Federal Trade Commission shall— 
+24
+19:47 Aug 28, 2020
+H7956
+16 
+•HR 7956 IH
+(1) submit to Congress a report that contains 
+1
+the results of the study conducted under subsection 
+2
+(a); and 
+3
+(2) make publicly available on the website of 
+4
+the Federal Trade Commission the report submitted 
+5
+under paragraph (1). 
+6
+Æ 
+19:47 Aug 28, 2020
+H7956

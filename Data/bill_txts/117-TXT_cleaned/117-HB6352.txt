@@ -1,0 +1,445 @@
+A BILL 
+To amend the Federal Food, Drug, and Cosmetic Act to 
+provide a process to lock and suspend domain names 
+used to facilitate the online sale of drugs illegally, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Domain Reform for 
+4
+Unlawful Drug Sellers Act’’ or the ‘‘DRUGS Act’’. 
+5
+17:24 Dec 30, 2021
+H6352
+2 
+•HR 6352 IH
+SEC. 2. DOMAIN NAMES USED TO FACILITATE THE ONLINE 
+1
+SALE OF DRUGS ILLEGALLY. 
+2
+(a) IN GENERAL.—Subchapter A of chapter V of the 
+3
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 
+4
+et seq.) is amended by adding at the end the following: 
+5
+‘‘SEC. 524B. DOMAIN NAMES USED TO FACILITATE THE ON-
+6
+LINE SALE OF DRUGS ILLEGALLY. 
+7
+‘‘(a) IN GENERAL.—A registry operator or registrar 
+8
+shall— 
+9
+‘‘(1) not later than 24 hours after receipt of a 
+10
+notification from a trusted notifier respecting a do-
+11
+main name used to facilitate the online sale of drugs 
+12
+illegally that is under the control of the registry op-
+13
+erator or registrar, lock the domain name; and 
+14
+‘‘(2) not later than 7 days after receipt of such 
+15
+notification, suspend the domain name. 
+16
+‘‘(b) NOTICE.—For purposes of subsection (a), a no-
+17
+tification shall include, at a minimum— 
+18
+‘‘(1) the domain name being reported; 
+19
+‘‘(2) the date the alleged violations described in 
+20
+subsection (e)(2) were observed; 
+21
+‘‘(3) a summary of the alleged violations; and 
+22
+‘‘(4) a statement that evidence of offering drugs 
+23
+illegally, such as a screenshot, has been retained, 
+24
+and is available to be shared with the registry oper-
+25
+ator or registrar. 
+26
+17:24 Dec 30, 2021
+H6352
+3 
+•HR 6352 IH
+‘‘(c) REGISTRANT APPEAL.— 
+1
+‘‘(1) IN GENERAL.—Any registrant whose do-
+2
+main name is locked and suspended pursuant to 
+3
+subsection (a) may appeal such action to the trusted 
+4
+notifier pursuant to paragraph (2). The domain 
+5
+name shall remain locked and suspended until a 
+6
+final determination of the merits of the appeal has 
+7
+been made. 
+8
+‘‘(2) APPEALS.— 
+9
+‘‘(A) IN GENERAL.—In bringing such an 
+10
+appeal, the registrant for the locked and sus-
+11
+pended domain name may do any of the fol-
+12
+lowing: 
+13
+‘‘(i) Contact the applicable registry 
+14
+operator or registrar to request informa-
+15
+tion regarding the business name, or per-
+16
+sonal name if the trusted notifier is not a 
+17
+business, and the email address, of the 
+18
+trusted notifier who submitted the notifica-
+19
+tion regarding the domain name. 
+20
+‘‘(ii) Dispute the notification by sub-
+21
+mitting the following to the applicable 
+22
+trusted notifier: 
+23
+‘‘(I) A copy of the registrant’s 
+24
+pharmacy licenses for all jurisdictions 
+25
+17:24 Dec 30, 2021
+H6352
+4 
+•HR 6352 IH
+where it offered to ship prescription 
+1
+medicines at the time of the notifica-
+2
+tion where such licensure is legally re-
+3
+quired in such jurisdiction, or a copy 
+4
+of registrant’s affiliated pharmacy’s li-
+5
+censes for all jurisdictions where the 
+6
+registrant offered to facilitate the 
+7
+shipment of prescription medicines at 
+8
+the time of the notification where 
+9
+such licensure is legally required in 
+10
+such jurisdiction. 
+11
+‘‘(II) The license information of 
+12
+the medical practitioner involved in 
+13
+issuing the prescription facilitated in 
+14
+part by the registrant’s domain name 
+15
+where practitioner licensure is legally 
+16
+required in such jurisdiction. 
+17
+‘‘(B) PROVISION OF INFORMATION.—With-
+18
+in 15 days after receiving a request under sub-
+19
+paragraph (A)(i), a registry operator or reg-
+20
+istrar shall provide the requested information. 
+21
+‘‘(C) 
+INVESTIGATION.—The 
+applicable 
+22
+trusted notifier shall— 
+23
+‘‘(i) conduct a reasonable investigation 
+24
+regarding the registrant and its domain 
+25
+17:24 Dec 30, 2021
+H6352
+5 
+•HR 6352 IH
+name to determine whether notification 
+1
+under subsection (a) was improper; and 
+2
+‘‘(ii) in conducting such investigation, 
+3
+consider the information provided by the 
+4
+registrant under subparagraph (A). 
+5
+‘‘(D) SUCCESSFUL APPEAL.—If the appeal 
+6
+is successful, the registry operator or registrar 
+7
+shall lift the suspension and unlock the domain 
+8
+name within 15 days. 
+9
+‘‘(d) RULE OF CONSTRUCTION.—Nothing in this sec-
+10
+tion prohibits a registry operator or registrar from locking 
+11
+and suspending a domain name used to facilitate the on-
+12
+line sale of drugs illegally before receipt of a notification 
+13
+under this section from a trusted notifier. 
+14
+‘‘(e) DEFINITIONS.—In this section: 
+15
+‘‘(1) DOMAIN NAME.—The term ‘domain name’ 
+16
+means a name that— 
+17
+‘‘(A) identifies a specific location on the 
+18
+internet that belongs to a particular person; 
+19
+and 
+20
+‘‘(B) consists of two or more textual seg-
+21
+ments separated by dots. 
+22
+‘‘(2) DOMAIN NAME USED TO FACILITATE THE 
+23
+ONLINE SALE OF DRUGS ILLEGALLY.—The term ‘do-
+24
+main name used to facilitate the online sale of drugs 
+25
+17:24 Dec 30, 2021
+H6352
+6 
+•HR 6352 IH
+illegally’ means a domain name that identifies a lo-
+1
+cation on the internet the primary or a significant 
+2
+purpose of which is to introduce or deliver for intro-
+3
+duction into interstate commerce a drug or con-
+4
+trolled substance in violation of this Act or the Con-
+5
+trolled Substances Act. 
+6
+‘‘(3) LOCK.—The term ‘lock’ means, with re-
+7
+spect to a domain name, for the registry operator or 
+8
+registrar to systematically prevent the domain name 
+9
+from being updated, transferred, or deleted during 
+10
+the balance of the registration of the domain name, 
+11
+which may be achieved using domain name registra-
+12
+tion protocols. 
+13
+‘‘(4) PRESCRIPTION
+DRUG.—The term ‘pre-
+14
+scription drug’ means a drug subject to section 
+15
+503(b)(1). 
+16
+‘‘(5) REGISTRAR.—The term ‘registrar’ means 
+17
+an organization that— 
+18
+‘‘(A) manages the registration of domain 
+19
+names; and 
+20
+‘‘(B) during the registration process— 
+21
+‘‘(i) verifies that the requested domain 
+22
+name meets registry requirements; and 
+23
+‘‘(ii) submits the name to the appro-
+24
+priate registry operator. 
+25
+17:24 Dec 30, 2021
+H6352
+7 
+•HR 6352 IH
+‘‘(6) REGISTRY.—The term ‘registry’ means an 
+1
+authoritative master database of the domain names 
+2
+registered in a top-level domain. 
+3
+‘‘(7) REGISTRY OPERATOR.—The term ‘registry 
+4
+operator’ means an organization that maintains a 
+5
+registry, including by— 
+6
+‘‘(A) receiving requests from registrars to 
+7
+add, delete, or modify domain names; and 
+8
+‘‘(B) making the requested changes in the 
+9
+registry. 
+10
+‘‘(8) SUSPEND.—The term ‘suspend’ means, 
+11
+with respect to a domain name, for the registry op-
+12
+erator or registrar to systematically disable the 
+13
+functionality of the domain name through a hold or 
+14
+suspension during the balance of the registration of 
+15
+the domain name, which may be achieved using do-
+16
+main name registration protocols. 
+17
+‘‘(9) TRUSTED NOTIFIER.—The term ‘trusted 
+18
+notifier’ includes the following (and the designees 
+19
+and agents thereof): 
+20
+‘‘(A) The Food and Drug Administration. 
+21
+‘‘(B) The Department of Justice, including 
+22
+the Drug Enforcement Administration. 
+23
+‘‘(C) The Department of Homeland Secu-
+24
+rity. 
+25
+17:24 Dec 30, 2021
+H6352
+8 
+•HR 6352 IH
+‘‘(D) A State attorney general. 
+1
+‘‘(E) A State board of pharmacy. 
+2
+‘‘(F) A nonprofit organization with a mem-
+3
+bership or governance comprised exclusively of 
+4
+representatives of— 
+5
+‘‘(i) agencies or officials specified in 
+6
+any of subparagraphs (A) through (E); or 
+7
+‘‘(ii) similarly positioned (as deter-
+8
+mined by the Commissioner of Food and 
+9
+Drugs) agencies or officials. 
+10
+‘‘(G) Any entity currently under contract 
+11
+or in a public-private partnership with the Food 
+12
+and Drug Administration or the Drug Enforce-
+13
+ment Agency to share information related to 
+14
+online drug sales. 
+15
+‘‘(H) Any other entity identified by the 
+16
+Food and Drug Administration as a trusted no-
+17
+tifier for purposes of this section, taking into 
+18
+consideration, at minimum, whether the enti-
+19
+ty— 
+20
+‘‘(i) is registered to do business in the 
+21
+United States; 
+22
+‘‘(ii) agrees to share notification data, 
+23
+upon request, with the Food and Drug Ad-
+24
+17:24 Dec 30, 2021
+H6352
+9 
+•HR 6352 IH
+ministration and the Drug Enforcement 
+1
+Agency; 
+2
+‘‘(iii) does not knowingly or with will-
+3
+ful ignorance approve or do business with 
+4
+entities that fail to adhere to the regula-
+5
+tions of the Food and Drug Administration 
+6
+or the Drug Enforcement Agency; and 
+7
+‘‘(iv) has published on the website of 
+8
+such entity policies and procedures for how 
+9
+the entity will issue notifications under 
+10
+subsection (a).’’. 
+11
+(b) PROHIBITED ACT.—Section 301 of the Federal 
+12
+Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amend-
+13
+ed by adding at the end the following: 
+14
+‘‘(fff) The failure by a registry operator or registrar 
+15
+to lock and suspend any domain name in its control in 
+16
+violation of section 524B.’’. 
+17
+(c) APPLICABILITY.—Sections 301(fff) and 524B of 
+18
+the Federal Food, Drug, and Cosmetic Act, as added by 
+19
+this section, shall apply beginning on the date that is 60 
+20
+days after the date of enactment of this Act. 
+21
+Æ 
+17:24 Dec 30, 2021
+H6352

@@ -1,0 +1,2549 @@
+A BILL 
+To establish and maintain a coordinated program within 
+the National Oceanic and Atmospheric Administration 
+that improves wildfire, fire weather, fire risk, and smoke 
+related forecasting, detection, modeling, observations, 
+and service delivery, and to address growing needs in 
+the wildland-urban interface, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+16:40 Jul 25, 2022
+H8449
+2 
+•HR 8449 IH
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+1
+(a) SHORT TITLE.—This Act may be cited as the 
+2
+‘‘Fire Ready Nation Act of 2022’’. 
+3
+(b) TABLE OF CONTENTS.—The table of contents for 
+4
+this Act is as follows: 
+5
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+Sec. 3. Establishment of fire weather services program. 
+Sec. 4. National Oceanic and Atmospheric Administration data management. 
+Sec. 5. Digital fire weather services and data management. 
+Sec. 6. High-performance computing. 
+Sec. 7. Government Accountability Office report on fire weather services pro-
+gram. 
+Sec. 8. Fire weather testbed. 
+Sec. 9. Fire weather surveys and assessments. 
+Sec. 10. Incident Meteorologist Service. 
+Sec. 11. Automated surface observing system. 
+Sec. 12. Emergency response activities. 
+Sec. 13. Government Accountability Office report on interagency wildfire fore-
+casting, prevention, planning, and management bodies. 
+Sec. 14. Amendments to Infrastructure Investment and Jobs Act relating to 
+wildfire mitigation. 
+Sec. 15. Wildfire technology modernization amendments. 
+Sec. 16. Cooperation; coordination; support to non-Federal entities. 
+Sec. 17. International coordination. 
+Sec. 18. Submissions to Congress regarding the fire weather services program, 
+incident meteorologist workforce needs, and National Weather 
+Service workforce support. 
+Sec. 19. Authorization of appropriations. 
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) ADMINISTRATION.—The term ‘‘Administra-
+8
+tion’’ means the National Oceanic and Atmospheric 
+9
+Administration. 
+10
+(2) 
+APPROPRIATE
+COMMITTEES
+OF
+CON-
+11
+GRESS.—The term ‘‘appropriate committees of Con-
+12
+gress’’ means— 
+13
+16:40 Jul 25, 2022
+H8449
+3 
+•HR 8449 IH
+(A) the Committee on Commerce, Science, 
+1
+and Transportation of the Senate; and 
+2
+(B) the Committee on Science, Space, and 
+3
+Technology of the House of Representatives. 
+4
+(3) DECADAL.—The term ‘‘decadal’’ means a 
+5
+time range from multiple years to multiple decades. 
+6
+(4) EARTH SYSTEM MODEL.—The term ‘‘Earth 
+7
+system model’’ means a mathematical model con-
+8
+taining all components of the Earth, namely the at-
+9
+mosphere, oceans, land, cryosphere, and biosphere. 
+10
+The Earth system model represents the critical 
+11
+physical, chemical, and biological processes and the 
+12
+interactions among those processes in hydrological 
+13
+and biogeochemical cycles that affect weather and 
+14
+climate. 
+15
+(5) FIRE ENVIRONMENT.—The term ‘‘fire envi-
+16
+ronment’’ means— 
+17
+(A) the environmental conditions, such as 
+18
+soil moisture, vegetation, topography, snowpack, 
+19
+atmospheric temperature, moisture, and wind, 
+20
+that influence— 
+21
+(i) fuel and fire behavior; and 
+22
+(ii) smoke dispersion and transport; 
+23
+and 
+24
+16:40 Jul 25, 2022
+H8449
+4 
+•HR 8449 IH
+(B) the associated environmental impacts 
+1
+occurring during and after fire events. 
+2
+(6) FIRE WEATHER.—The term ‘‘fire weather’’ 
+3
+means any type of weather conditions that influence 
+4
+the start, spread, character, or behavior of wildfire 
+5
+or fires at the wildland-urban interface and all asso-
+6
+ciated meteorological and chemical phenomena, in-
+7
+cluding air quality, smoke, and meteorological pa-
+8
+rameters such as relative humidity, air temperature, 
+9
+wind speed and direction, and atmospheric composi-
+10
+tion and chemistry, including emissions and mixing 
+11
+heights. 
+12
+(7) IMPACT-BASED
+DECISION
+SUPPORT
+SERV-
+13
+ICES.—The term ‘‘impact-based decision support 
+14
+services’’ means forecast advice and interpretative 
+15
+services the Administration provides to help core 
+16
+partners, such as emergency personnel and public 
+17
+safety officials, make decisions when weather, water, 
+18
+and climate impact the lives and livelihoods of the 
+19
+people of the United States. 
+20
+(8) SEASONAL.—The term ‘‘seasonal’’ means a 
+21
+time range between 3 months and 2 years. 
+22
+(9) SECRETARY.—The term ‘‘Secretary’’ means 
+23
+the Secretary of Commerce. 
+24
+16:40 Jul 25, 2022
+H8449
+5 
+•HR 8449 IH
+(10) SMOKE.—The term ‘‘smoke’’ means emis-
+1
+sions, including the gases and particles released into 
+2
+the air as a result of combustion. 
+3
+(11) STATE.—The term ‘‘State’’ means a State, 
+4
+the District of Columbia, the Commonwealth of 
+5
+Puerto Rico, Guam, American Samoa, the Common-
+6
+wealth of the Northern Mariana Islands, the United 
+7
+State Virgin Islands, the Federated States of Micro-
+8
+nesia, the Republic of the Marshall Islands, or the 
+9
+Republic of Palau. 
+10
+(12) SUBSEASONAL.—The term ‘‘subseasonal’’ 
+11
+means a time range between 2 weeks and 3 months. 
+12
+(13) TRIBAL GOVERNMENT.—The term ‘‘Tribal 
+13
+government’’ means the recognized governing body 
+14
+of any Indian or Alaska Native tribe, band, nation, 
+15
+pueblo, village, community, component band, or com-
+16
+ponent reservation, individually identified (including 
+17
+parenthetically) in the list published most recently as 
+18
+of the date of enactment of this Act pursuant to sec-
+19
+tion 104 of the Federally Recognized Indian Tribe 
+20
+List Act of 1994 (25 U.S.C. 5131). 
+21
+(14) UNDER
+SECRETARY.—The term ‘‘Under 
+22
+Secretary’’ means the Under Secretary of Commerce 
+23
+for Oceans and Atmosphere. 
+24
+16:40 Jul 25, 2022
+H8449
+6 
+•HR 8449 IH
+(15) 
+WEATHER
+ENTERPRISE.—The 
+term 
+1
+‘‘weather enterprise’’ means— 
+2
+(A) individuals, organizations, offices, pro-
+3
+grams, or any other form of entity from public, 
+4
+private, and academic sectors that contribute to 
+5
+the research, development, and production of 
+6
+weather forecast products; and 
+7
+(B) primary consumers of those weather 
+8
+forecast products. 
+9
+(16) WILDFIRE.—The term ‘‘wildfire’’ means 
+10
+any nonstructure fire that occurs in vegetation or 
+11
+natural fuels, originating from an unplanned igni-
+12
+tion. 
+13
+(17) WILDLAND-URBAN INTERFACE.—The term 
+14
+‘‘wildland-urban interface’’ means the area, zone, or 
+15
+region of transition between unoccupied or undevel-
+16
+oped land and human development where structures 
+17
+and other human development meet or intermingle 
+18
+with undeveloped wildland or vegetative fuels. 
+19
+SEC. 3. ESTABLISHMENT OF FIRE WEATHER SERVICES 
+20
+PROGRAM. 
+21
+(a) IN GENERAL.—The Under Secretary shall estab-
+22
+lish and maintain a coordinated fire weather services pro-
+23
+gram within the Administration. 
+24
+16:40 Jul 25, 2022
+H8449
+7 
+•HR 8449 IH
+(b) PROGRAM FUNCTIONS.—The functions of the 
+1
+program established under subsection (a), consistent with 
+2
+the priorities described in section 101 of the Weather Re-
+3
+search and Forecasting Innovation Act of 2017 (15 U.S.C. 
+4
+8511), shall be— 
+5
+(1) to support readiness, responsiveness, under-
+6
+standing, and overall resilience of the United States 
+7
+to wildfires, fire weather, smoke, and other associ-
+8
+ated conditions, hazards, and impacts in built and 
+9
+natural environments and at the wildland-urban 
+10
+interface; 
+11
+(2) to collaboratively disseminate accurate, pre-
+12
+cise, effective, and timely risk communications, fore-
+13
+casts, watches, and warnings relating to wildfires, 
+14
+fire weather, air quality, smoke, and other associated 
+15
+conditions, hazards, and impacts, as applicable, in 
+16
+collaboration with Federal land management agen-
+17
+cies; 
+18
+(3) to partner with and support the public, 
+19
+Federal, State, and Tribal governments, and aca-
+20
+demic and local partners through the development of 
+21
+capabilities, impact-based decision support services, 
+22
+and overall service delivery and utility; 
+23
+(4) to conduct and support research and devel-
+24
+opment of new and innovative models, technologies, 
+25
+16:40 Jul 25, 2022
+H8449
+8 
+•HR 8449 IH
+techniques, products, systems, processes, and proce-
+1
+dures to improve understanding of wildfires, fire 
+2
+weather, air quality, the fire environment, including 
+3
+impacts of climate variability and changing climate 
+4
+conditions, smoke, and associated conditions, haz-
+5
+ards, and impacts, and to transition such research 
+6
+into effective operations; 
+7
+(5) to develop strong research-to-operations and 
+8
+operations-to-research transitions, in order to facili-
+9
+tate delivery of products, services, and tools to oper-
+10
+ational users and platforms; and 
+11
+(6) to develop, in coordination with Federal 
+12
+land management agencies, impact-based decision 
+13
+support services that operationalize and integrate 
+14
+the functions described in paragraphs (1) through 
+15
+(5) in order to provide comprehensive impact-based 
+16
+decision support services that encompass the fire en-
+17
+vironment. 
+18
+(c) PROGRAM PRIORITIES.—In developing and imple-
+19
+menting the program established under subsection (a), the 
+20
+Under Secretary shall prioritize— 
+21
+(1) development of a fire weather-enabled Earth 
+22
+system model and data assimilation systems that— 
+23
+(A) are capable of prediction and fore-
+24
+casting across all timescales; 
+25
+16:40 Jul 25, 2022
+H8449
+9 
+•HR 8449 IH
+(B) include variables associated with fire 
+1
+weather, air quality from smoke, and the fire 
+2
+environment, and other variables, as determined 
+3
+by the Under Secretary; 
+4
+(C) improve understanding of the connec-
+5
+tions between fire weather and modes of climate 
+6
+variability; and 
+7
+(D) incorporate emerging techniques such 
+8
+as artificial intelligence, machine learning, and 
+9
+cloud computing; 
+10
+(2) advancement of observational capabilities, 
+11
+including satellite-, airborne-, air-, and ground-based 
+12
+systems and technologies that— 
+13
+(A) identify— 
+14
+(i) high-risk pre-ignition conditions; 
+15
+(ii) conditions that influence fire be-
+16
+havior and spread including those condi-
+17
+tions that suppress active fire events; and 
+18
+(iii) fire risk values; 
+19
+(B) support real-time notification of igni-
+20
+tions; 
+21
+(C) support observations and data collec-
+22
+tion of fire weather and fire environment vari-
+23
+ables for development of the model and systems 
+24
+under paragraph (1); and 
+25
+16:40 Jul 25, 2022
+H8449
+10 
+•HR 8449 IH
+(D) support forecasts and advancing un-
+1
+derstanding and research of the impacts of 
+2
+wildfires on human health, ecosystems, climate, 
+3
+transportation, and economies; and 
+4
+(3) development and implementation of ad-
+5
+vanced and user-oriented impact-based decision 
+6
+tools, science, and technologies that— 
+7
+(A) ensure real-time and retrospective 
+8
+data, products, and services are findable, acces-
+9
+sible, interoperable, usable, inform further re-
+10
+search, and are analysis- and decision-ready; 
+11
+(B) provide targeted information through-
+12
+out the fire lifecycle including pre-ignition, de-
+13
+tection, forecasting, post-fire, and monitoring 
+14
+phases; and 
+15
+(C) support early assessment of post-fire 
+16
+hazards, such as air quality, debris flows, 
+17
+mudslides, and flooding. 
+18
+(d) PROGRAM ACTIVITIES.—In developing and imple-
+19
+menting the program established under subsection (a), the 
+20
+Under Secretary may— 
+21
+(1) conduct relevant physical and social science 
+22
+research activities in support of the functions de-
+23
+scribed in subsection (b) and the priorities described 
+24
+in subsection (c); 
+25
+16:40 Jul 25, 2022
+H8449
+11 
+•HR 8449 IH
+(2) conduct relevant activities, in coordination 
+1
+with Federal land management agencies, to assess 
+2
+fuel characteristics, including moisture, loading, and 
+3
+other parameters used to determine fire risk levels 
+4
+and outlooks; 
+5
+(3) support and conduct research that assesses 
+6
+impacts to marine, riverine, and other relevant eco-
+7
+systems, which may include forest and rangeland 
+8
+ecosystems, resulting from activities associated with 
+9
+mitigation of and response to wildfires; 
+10
+(4) support and conduct attribution science re-
+11
+search relating to wildfires, fire weather, fire risk, 
+12
+smoke, and associated conditions, risks, and im-
+13
+pacts; 
+14
+(5) develop smoke and air quality forecasts, 
+15
+forecast guidance, and prescribed burn weather fore-
+16
+casts, and conduct research on the impact of such 
+17
+forecasts on response behavior that minimizes 
+18
+health-related impacts from smoke exposure; 
+19
+(6) use, in coordination with Federal land man-
+20
+agement agencies, wildland fire resource intelligence 
+21
+to inform fire environment impact-based decision 
+22
+support products and services for safety; 
+23
+(7) evaluate and provide data, tools, and serv-
+24
+ices to support determinations for the implementa-
+25
+16:40 Jul 25, 2022
+H8449
+12 
+•HR 8449 IH
+tion of mitigation measures such as prescribed burns 
+1
+and selective thinning; 
+2
+(8) provide comprehensive training to ensure 
+3
+staff of the program established under subsection 
+4
+(a) is properly equipped to deliver the impact-based 
+5
+decision support products and services described in 
+6
+paragraphs (1) through (6); and 
+7
+(9) acquire through contracted purchase private 
+8
+sector-produced observational data to fill identified 
+9
+gaps, as needed. 
+10
+(e) COLLABORATION; AGREEMENTS.— 
+11
+(1) COLLABORATION.—The Under Secretary 
+12
+shall, as the Under Secretary considers appropriate, 
+13
+collaborate and consult with partners in the weather 
+14
+and climate enterprises, academic institutions, 
+15
+States, Tribal governments, local partners, and Fed-
+16
+eral agencies, including land and fire management 
+17
+agencies, in the development and implementation of 
+18
+the program established under subsection (a). 
+19
+(2) AGREEMENTS.—The Under Secretary may 
+20
+enter into agreements in support of the functions de-
+21
+scribed in subsection (b), the priorities described in 
+22
+subsection (c), the activities described in subsection 
+23
+(d), and activities carried out under section 8. 
+24
+16:40 Jul 25, 2022
+H8449
+13 
+•HR 8449 IH
+SEC. 4. NATIONAL OCEANIC AND ATMOSPHERIC ADMINIS-
+1
+TRATION DATA MANAGEMENT. 
+2
+Section 301 of the Weather Research and Fore-
+3
+casting Innovation Act of 2017 (15 U.S.C. 8531) is 
+4
+amended— 
+5
+(1) by redesignating subsections (f) and (g) as 
+6
+subsections (g) and (h), respectively; and 
+7
+(2) by inserting after subsection (e) the fol-
+8
+lowing: 
+9
+‘‘(f) DATA AVAILABILITY AND MANAGEMENT.— 
+10
+‘‘(1) IN
+GENERAL.—The Under Secretary 
+11
+shall— 
+12
+‘‘(A) make data and metadata generated 
+13
+or collected by the National Oceanic and Ad-
+14
+ministration that the Under Secretary has the 
+15
+legal right to redistribute fully and openly avail-
+16
+able, in accordance with chapter 35 of title 44, 
+17
+United States Code and the Foundations for 
+18
+Evidence-Based Policymaking Act of 2018 
+19
+(Public Law 115–435; 132 Stat. 5529) and the 
+20
+amendments made by that Act, and preserve 
+21
+and curate such data and metadata, in accord-
+22
+ance with chapter 31 of title 44, United States 
+23
+Code (commonly known as the ‘Federal Records 
+24
+Act of 1950’), in order to maximize use of such 
+25
+data and metadata; and 
+26
+16:40 Jul 25, 2022
+H8449
+14 
+•HR 8449 IH
+‘‘(B) manage and steward the access, ar-
+1
+chival, and retrieval activities for the data and 
+2
+metadata described in subparagraph (A) by— 
+3
+‘‘(i) using— 
+4
+‘‘(I) enterprise-wide infrastruc-
+5
+ture, emerging technologies, commer-
+6
+cial partnerships, and the skilled 
+7
+workforce needed to provide appro-
+8
+priate data management from collec-
+9
+tion to broad access; and 
+10
+‘‘(II) associated information serv-
+11
+ices; and 
+12
+‘‘(ii) pursuing the maximum inter-
+13
+operability of data and information by— 
+14
+‘‘(I) leveraging data, information, 
+15
+knowledge, and tools from across the 
+16
+Federal Government to support equi-
+17
+table access, cross-sectoral collabora-
+18
+tion and innovation, and local plan-
+19
+ning and decision-making; and 
+20
+‘‘(II) developing standards and 
+21
+practices for the adoption and citation 
+22
+of 
+digital 
+object 
+identifiers 
+for 
+23
+datasets, models, and analytical tools. 
+24
+16:40 Jul 25, 2022
+H8449
+15 
+•HR 8449 IH
+‘‘(2) COLLABORATION.—In carrying out this 
+1
+subsection, the Under Secretary shall collaborate 
+2
+with such Federal partners and stakeholders as the 
+3
+Under Secretary considers relevant— 
+4
+‘‘(A) to develop standards to pursue max-
+5
+imum interoperability of data, information, 
+6
+knowledge, and tools across the Federal Gov-
+7
+ernment, convert historical records into com-
+8
+mon digital formats, and improve access and 
+9
+usability of data by partners and stakeholders; 
+10
+‘‘(B) to identify and solicit relevant data 
+11
+from Federal and international partners and 
+12
+other relevant stakeholders, as the Under Sec-
+13
+retary considers appropriate; and 
+14
+‘‘(C) to develop standards and practices for 
+15
+the adoption and citation of digital object iden-
+16
+tifiers for datasets, models, and analytical 
+17
+tools.’’. 
+18
+SEC. 5. DIGITAL FIRE WEATHER SERVICES AND DATA MAN-
+19
+AGEMENT. 
+20
+(a) IN GENERAL.— 
+21
+(1) DIGITAL PRESENCE.—The Under Secretary 
+22
+shall develop and maintain a comprehensive, central-
+23
+ized, and publicly accessible digital presence de-
+24
+signed to promote findability, accessibility, interoper-
+25
+16:40 Jul 25, 2022
+H8449
+16 
+•HR 8449 IH
+ability, usability, and utility of the services, tools, 
+1
+data, and information produced by the program es-
+2
+tablished under section 3(a). 
+3
+(2) DIGITAL PLATFORM AND TOOLS.—In car-
+4
+rying out paragraph (1), the Under Secretary 
+5
+shall— 
+6
+(A) seek to ensure the digital platform and 
+7
+tools of the Administration integrate geospatial 
+8
+data, decision support tools, training, and best 
+9
+practices to provide real-time fire weather fore-
+10
+casts and address fire-related issues and needs; 
+11
+and 
+12
+(B) strive to enhance community resilience, 
+13
+ecosystem values, and economic growth and de-
+14
+velopment by helping communities and other 
+15
+users of the digital platform and tools address 
+16
+their issues, needs, and challenges through 
+17
+maximum usability and utility. 
+18
+(b) PUBLIC AVAILABILITY.—The Under Secretary 
+19
+shall make all data, research, reports, findings, surveys, 
+20
+and assessments relevant to the program established 
+21
+under section 3(a), as determined by the Under Secretary, 
+22
+available in a publicly accessible digital format. 
+23
+(c) INTERNET-BASED TOOLS.—In carrying out sub-
+24
+sections (a) and (b), the Under Secretary shall develop 
+25
+16:40 Jul 25, 2022
+H8449
+17 
+•HR 8449 IH
+and implement internet-based tools, such as webpages and 
+1
+smartphone and other mobile applications, to increase util-
+2
+ity and access to services and products for the benefit of 
+3
+users. 
+4
+(d) DATA MANAGEMENT.—The Under Secretary 
+5
+shall develop and maintain services that provide public ac-
+6
+cess to digital fire weather data and information— 
+7
+(1) to improve understanding and historical 
+8
+analysis of wildfire and fire weather science, includ-
+9
+ing inventories of fire emissions required for multi- 
+10
+decadal model runs; 
+11
+(2) to support— 
+12
+(A) the archiving, stewardship, utility, and 
+13
+preservation of wildfire and fire weather data 
+14
+including satellite-, ground-, airborne-, and air- 
+15
+based observations; and 
+16
+(B) real-time and retrospective model fore-
+17
+casts; 
+18
+(3) to promote findability, interoperability, 
+19
+analysis- and decision-readiness, and reusability of 
+20
+historical and near real-time data across Federal, 
+21
+State, Tribal, and local users, including ensuring 
+22
+digital access and machine-readability of historical 
+23
+fire weather records; and 
+24
+16:40 Jul 25, 2022
+H8449
+18 
+•HR 8449 IH
+(4) to support equitable access, cross-sectoral 
+1
+collaboration and innovation, and local planning and 
+2
+decision making. 
+3
+SEC. 6. HIGH-PERFORMANCE COMPUTING. 
+4
+(a) IN GENERAL.—The Under Secretary shall seek 
+5
+to acquire sufficient high-performance computing re-
+6
+sources and capacity for research, operations, and data 
+7
+storage in support of the program established under sec-
+8
+tion 3(a). 
+9
+(b) CONSIDERATIONS.—In acquiring high-perform-
+10
+ance computing capacity under subsection (a), the Under 
+11
+Secretary shall consider requirements needed for— 
+12
+(1) the transition of research and testbed devel-
+13
+opments into operations; and 
+14
+(2) skilled workforce development. 
+15
+SEC. 7. GOVERNMENT ACCOUNTABILITY OFFICE REPORT 
+16
+ON FIRE WEATHER SERVICES PROGRAM. 
+17
+(a) IN GENERAL.—Not later than 5 years after the 
+18
+date of the enactment of this Act, the Comptroller General 
+19
+of the United States shall submit to Congress a report 
+20
+on the program established under section 3(a). 
+21
+(b) ELEMENTS.—The report required by subsection 
+22
+(a) shall— 
+23
+(1) evaluate the performance of the program by 
+24
+establishing initial baseline capabilities and tracking 
+25
+16:40 Jul 25, 2022
+H8449
+19 
+•HR 8449 IH
+progress made toward fully operationalizing the 
+1
+functions described in section 3(b); 
+2
+(2) assess the efficacy of cross-agency collabora-
+3
+tion and stakeholder engagement in carrying out the 
+4
+program and provide recommendations to improve 
+5
+such activities; 
+6
+(3) assess the program for inefficiencies, iden-
+7
+tify duplicative efforts across Federal efforts, and 
+8
+provide relevant recommendations; and 
+9
+(4) include such other recommendations as the 
+10
+Comptroller General determines are appropriate to 
+11
+improve the program. 
+12
+SEC. 8. FIRE WEATHER TESTBED. 
+13
+(a) 
+ESTABLISHMENT
+OF
+FIRE
+WEATHER 
+14
+TESTBED.—The Under Secretary shall establish a fire 
+15
+weather testbed that enables engagement across the Fed-
+16
+eral Government, State and local governments, academia, 
+17
+private and federally funded research laboratories, the pri-
+18
+vate sector, and end-users in order to evaluate the accu-
+19
+racy and usability of technology, models, fire weather 
+20
+products and services, and other research to accelerate the 
+21
+implementation, transition to operations, and use of new 
+22
+capabilities by the Administration, Federal and land man-
+23
+agement agencies, and other relevant stakeholders. 
+24
+(b) UNCREWED AIRCRAFT SYSTEMS.— 
+25
+16:40 Jul 25, 2022
+H8449
+20 
+•HR 8449 IH
+(1) IN GENERAL.—The Under Secretary shall— 
+1
+(A) research and assess the role and poten-
+2
+tial of uncrewed aircraft systems to improve 
+3
+data collection in support of modeling, observa-
+4
+tions, predictions, forecasts, and impact-based 
+5
+decision support services; and 
+6
+(B) transition uncrewed aircraft systems 
+7
+technologies from research to operations as the 
+8
+Under Secretary considers appropriate. 
+9
+(2) PILOT REQUIRED.—In carrying out para-
+10
+graph (1), not later than 1 year after the date of the 
+11
+enactment of this Act, the Under Secretary shall 
+12
+conduct at least 1 pilot of uncrewed aircraft systems 
+13
+for fire weather and fire environment observations. 
+14
+(3) SAVINGS CLAUSE.— 
+15
+(A) IN GENERAL.—In carrying out activi-
+16
+ties under this subsection, the Under Secretary 
+17
+shall ensure that any testing or deployment of 
+18
+uncrewed aircraft systems follow procedures, re-
+19
+strictions, and protocols established by the 
+20
+heads of the Federal agencies with statutory or 
+21
+regulatory jurisdiction over any airspace in 
+22
+which wildfire response activities are conducted 
+23
+during an active wildfire event. 
+24
+16:40 Jul 25, 2022
+H8449
+21 
+•HR 8449 IH
+(B) 
+CONSULTATION
+AND
+COORDINA-
+1
+TION.—The Under Secretary shall consult and 
+2
+coordinate with relevant Federal land manage-
+3
+ment agencies and the Federal Aviation Admin-
+4
+istration to develop processes for the appro-
+5
+priate deployment of the systems described in 
+6
+subparagraph (A). 
+7
+SEC. 9. FIRE WEATHER SURVEYS AND ASSESSMENTS. 
+8
+(a) ANNUAL POST-FIRE-WEATHER SEASON SURVEY 
+9
+AND ASSESSMENT.— 
+10
+(1) IN
+GENERAL.—During the second winter 
+11
+following the enactment of this Act, and each year 
+12
+thereafter, the Under Secretary shall conduct a post- 
+13
+fire-weather season survey and assessment. 
+14
+(2) ELEMENTS.—After conducting a post-fire- 
+15
+weather season survey and assessment under para-
+16
+graph (1), the Under Secretary shall— 
+17
+(A) investigate any gaps in data collected 
+18
+during the assessment; 
+19
+(B) identify and implement strategies and 
+20
+procedures to improve program services and in-
+21
+formation dissemination; 
+22
+(C) update systems, processes, strategies, 
+23
+and procedures to enhance the efficiency and 
+24
+reliability of data obtained from the assessment; 
+25
+16:40 Jul 25, 2022
+H8449
+22 
+•HR 8449 IH
+(D) evaluate the accuracy and efficacy of 
+1
+physical fire weather forecasting information 
+2
+for each incident included in the survey and as-
+3
+sessment; and 
+4
+(E) assess and refine performance meas-
+5
+ures, as needed. 
+6
+(b) SURVEYS AND ASSESSMENTS FOLLOWING INDI-
+7
+VIDUAL WILDFIRE EVENTS.—The Under Secretary may 
+8
+conduct surveys and assessments following individual wild-
+9
+fire events as the Under Secretary determines necessary. 
+10
+(c) GOAL.—In carrying out activities under this sec-
+11
+tion, the Under Secretary shall seek to increase the num-
+12
+ber of post-wildfire community impact studies, including 
+13
+by surveying individual and collective responses and incor-
+14
+porating other applicable topics of social science research. 
+15
+(d) ANNUAL BRIEFING.—Not less frequently than 
+16
+once each year, the Under Secretary shall provide a brief-
+17
+ing to the appropriate committees of Congress that pro-
+18
+vides— 
+19
+(1) an overview of the fire season; and 
+20
+(2) an outlook for the fire season for the com-
+21
+ing year. 
+22
+(e) COORDINATION.—In conducting any survey or as-
+23
+sessment under this section, the Under Secretary shall co-
+24
+ordinate with Federal, State, and local partners, Tribal 
+25
+16:40 Jul 25, 2022
+H8449
+23 
+•HR 8449 IH
+governments, private entities, and such institutions of 
+1
+higher education as the Under Secretary considers rel-
+2
+evant in order to— 
+3
+(1) improve operations and collaboration; and 
+4
+(2) optimize data collection, sharing, integra-
+5
+tion, assimilation, and dissemination. 
+6
+(f) DATA AVAILABILITY.—The Under Secretary shall 
+7
+make the data and findings obtained from each assess-
+8
+ment conducted under this section available to the public 
+9
+in an accessible digital format as soon as practicable after 
+10
+conducting the assessment. 
+11
+(g) SERVICE IMPROVEMENTS.—The Under Secretary 
+12
+shall make best efforts to incorporate the results and rec-
+13
+ommendations of each assessment conducted under this 
+14
+section into the research and development plan and oper-
+15
+ations of the Administration. 
+16
+SEC. 10. INCIDENT METEOROLOGIST SERVICE. 
+17
+(a) ESTABLISHMENT.—The Under Secretary shall es-
+18
+tablish and maintain an Incident Meteorologist Service 
+19
+within the National Weather Service (in this section re-
+20
+ferred to as the ‘‘Service’’). 
+21
+(b) INCLUSION OF EXISTING INCIDENT METEOROLO-
+22
+GISTS.—The Service shall include— 
+23
+16:40 Jul 25, 2022
+H8449
+24 
+•HR 8449 IH
+(1) the incident meteorologists of the Adminis-
+1
+tration as of the date of this enactment of this Act; 
+2
+and 
+3
+(2) such incident meteorologists of the Adminis-
+4
+tration as may be appointed after such date. 
+5
+(c) FUNCTIONS.—The Service shall provide— 
+6
+(1) on-site impact-based decision support serv-
+7
+ices to Federal, State, Tribal government, and local 
+8
+government emergency response agencies preceding, 
+9
+during, and following wildland fires or other events 
+10
+that threaten life or property, including high-impact 
+11
+and extreme weather events; and 
+12
+(2) support to Federal, State, Tribal govern-
+13
+ment, and local government decision makers, part-
+14
+ners, and stakeholders for seasonal planning. 
+15
+(d) DEPLOYMENT.—The Service shall be deployed— 
+16
+(1) as determined by the Under Secretary; or 
+17
+(2) at the request of the head of another Fed-
+18
+eral agency. 
+19
+(e) STAFFING AND RESOURCES.—In establishing and 
+20
+maintaining the Service, the Under Secretary shall iden-
+21
+tify, acquire, and maintain adequate levels of staffing and 
+22
+resources to meet user needs. 
+23
+(f) SYMBOL.— 
+24
+(1) IN GENERAL.—The Under Secretary may— 
+25
+16:40 Jul 25, 2022
+H8449
+25 
+•HR 8449 IH
+(A) create, adopt, and publish in the Fed-
+1
+eral Register a symbol for the Service; and 
+2
+(B) restrict the use of such symbol as ap-
+3
+propriate. 
+4
+(2) USE
+OF
+SYMBOL.—The Under Secretary 
+5
+may authorize the use of a symbol adopted under 
+6
+this subsection by any individual or entity as the 
+7
+Under Secretary considers appropriate. 
+8
+(3) CONTRACT AUTHORITY.—The Under Sec-
+9
+retary may award contracts for the creation of sym-
+10
+bols under this subsection. 
+11
+(4) OFFENSE.—It shall be unlawful for any 
+12
+person— 
+13
+(A) to represent themselves as an official 
+14
+of the Service absent the designation or ap-
+15
+proval of the Under Secretary; 
+16
+(B) to manufacture, reproduce, or other-
+17
+wise use any symbol adopted by the Under Sec-
+18
+retary under this subsection, including to sell 
+19
+any item bearing such a symbol, unless author-
+20
+ized by the Under Secretary; or 
+21
+(C) to violate any regulation promulgated 
+22
+by the Secretary under this subsection. 
+23
+(g) SUPPORT FOR INCIDENT METEOROLOGISTS.— 
+24
+The Under Secretary shall provide resources, access to 
+25
+16:40 Jul 25, 2022
+H8449
+26 
+•HR 8449 IH
+real-time fire weather forecasts, training, administrative 
+1
+and logistical support, and access to professional coun-
+2
+seling or other forms of support as the Under Secretary 
+3
+considers appropriate for the betterment of the emotional 
+4
+and mental health and well-being of incident meteorolo-
+5
+gists and other employees of the Administration involved 
+6
+with response to high-impact and extreme fire weather 
+7
+events. 
+8
+SEC. 11. AUTOMATED SURFACE OBSERVING SYSTEM. 
+9
+(a) JOINT ASSESSMENT AND PLAN.— 
+10
+(1) IN GENERAL.—The Under Secretary, in col-
+11
+laboration with the Administrator of the Federal 
+12
+Aviation Administration and the Secretary of De-
+13
+fense, shall— 
+14
+(A) conduct an assessment of resources, 
+15
+personnel, procedures, and activities necessary 
+16
+to maximize the functionality and utility of the 
+17
+automated surface observing system of the 
+18
+United States that identifies— 
+19
+(i) key system upgrades needed to im-
+20
+prove observation quality and utility for 
+21
+weather forecasting, aviation safety, and 
+22
+other users; 
+23
+16:40 Jul 25, 2022
+H8449
+27 
+•HR 8449 IH
+(ii) improvements needed in observa-
+1
+tions within the planetary boundary layer, 
+2
+including mixing height; 
+3
+(iii) improvements needed in public 
+4
+accessibility of observational data; 
+5
+(iv) improvements needed to reduce 
+6
+latency in reporting of observational data; 
+7
+(v) relevant data to be collected for 
+8
+the production of forecasts or forecast 
+9
+guidance relating to atmospheric composi-
+10
+tion, including particulate and air quality 
+11
+data, and aviation safety; 
+12
+(vi) areas of concern regarding oper-
+13
+ational continuity and reliability of the sys-
+14
+tem, which may include needs for on-night 
+15
+staff, particularly in remote and rural 
+16
+areas and areas where system failure 
+17
+would have the greatest negative impact to 
+18
+the community; 
+19
+(vii) stewardship, data handling, data 
+20
+distribution, and product generation needs 
+21
+arising from upgrading and changing the 
+22
+automated surface observation systems; 
+23
+(viii) possible solutions for areas of 
+24
+concern identified under clause (vi), includ-
+25
+16:40 Jul 25, 2022
+H8449
+28 
+•HR 8449 IH
+ing with respect to the potential use of 
+1
+backup systems, power and communication 
+2
+system reliability, staffing needs and per-
+3
+sonnel location, and the acquisition of crit-
+4
+ical component backups and proper storage 
+5
+location to ensure rapid system repair nec-
+6
+essary to ensure system operational con-
+7
+tinuity; and 
+8
+(ix) research, development, and transi-
+9
+tion to operations needed to develop ad-
+10
+vanced data collection, quality control, and 
+11
+distribution so that the data are provided 
+12
+to models, users, and decision support sys-
+13
+tems in a timely manner; and 
+14
+(B) develop and implement a plan that ad-
+15
+dresses the findings of the assessment con-
+16
+ducted under subparagraph (A), including by 
+17
+seeking and allocating resources necessary to 
+18
+ensure that system upgrades are standardized 
+19
+across the Administration, the Federal Aviation 
+20
+Administration, and the Department of Defense 
+21
+to the extent practicable. 
+22
+(2) STANDARDIZATION.—Any system standard-
+23
+ization implemented under paragraph (1)(B) shall 
+24
+16:40 Jul 25, 2022
+H8449
+29 
+•HR 8449 IH
+not impede activities to upgrade or improve indi-
+1
+vidual units of the system. 
+2
+(3) REMOTE
+AUTOMATIC
+WEATHER
+STATION 
+3
+COORDINATION.—The Under Secretary, in collabora-
+4
+tion with relevant Federal agencies and the National 
+5
+Interagency Fire Center, shall assess and develop co-
+6
+operative agreements to improve coordination, inter-
+7
+operability standards, operations, and placement of 
+8
+remote automatic weather stations for the purpose 
+9
+of improving utility and coverage of remote auto-
+10
+matic weather stations, automated surface observa-
+11
+tion systems, and other similar stations and systems 
+12
+for weather and climate operations. 
+13
+(b) REPORT TO CONGRESS.— 
+14
+(1) IN GENERAL.—Not later than 2 years after 
+15
+the date of the enactment of this Act, the Under 
+16
+Secretary, in collaboration with the Administrator of 
+17
+the Federal Aviation Administration and the Sec-
+18
+retary of Defense, shall submit to the appropriate 
+19
+committees of Congress a report that— 
+20
+(A) details the findings of the assessment 
+21
+required by subparagraph (A) of subsection 
+22
+(a)(1); and 
+23
+(B) the plan required by subparagraph (B) 
+24
+of such subsection. 
+25
+16:40 Jul 25, 2022
+H8449
+30 
+•HR 8449 IH
+(2) ELEMENTS.—The report required by para-
+1
+graph (1) shall include a detailed assessment of ap-
+2
+propriations required— 
+3
+(A) to address the findings of the assess-
+4
+ment required by subparagraph (A) of sub-
+5
+section (a)(1); and 
+6
+(B) to implement the plan required by sub-
+7
+paragraph (B) of such subsection. 
+8
+(c) GOVERNMENT ACCOUNTABILITY OFFICE RE-
+9
+10
+ment of this Act, the Comptroller General of the United 
+11
+States shall submit to Congress a report that— 
+12
+(1) evaluates the functionality, utility, reli-
+13
+ability, and operational status of the automated sur-
+14
+face observing system across the Administration, the 
+15
+Federal Aviation Administration, and the Depart-
+16
+ment of Defense; 
+17
+(2) evaluates the progress, performance, and 
+18
+implementation of the plan required by subsection 
+19
+(a)(1)(B); 
+20
+(3) assesses the efficacy of cross-agency collabo-
+21
+ration and stakeholder engagement in carrying out 
+22
+the plan and provides recommendations to improve 
+23
+such activities; 
+24
+16:40 Jul 25, 2022
+H8449
+31 
+•HR 8449 IH
+(4) evaluates the operational continuity and re-
+1
+liability of the system, particularly in remote and 
+2
+rural areas and areas where system failure would 
+3
+have the greatest negative impact to the community, 
+4
+and provides recommendations to improve such con-
+5
+tinuity and reliability; 
+6
+(5) assesses Federal coordination regarding the 
+7
+remote automatic weather station network, air re-
+8
+source advisors, and other Federal observing assets 
+9
+used for weather and climate modeling and response 
+10
+activities, and provides recommendations for im-
+11
+provements; and 
+12
+(6) includes such other recommendations as the 
+13
+Comptroller General determines are appropriate to 
+14
+improve the system. 
+15
+SEC. 12. EMERGENCY RESPONSE ACTIVITIES. 
+16
+(a) DEFINITIONS.—In this section: 
+17
+(1) BASIC PAY.—The term ‘‘basic pay’’ includes 
+18
+any applicable locality-based comparability payment 
+19
+under section 5304 of title 5, United States Code, 
+20
+any applicable special rate supplement under section 
+21
+5305 of such title, or any equivalent payment under 
+22
+a similar provision of law. 
+23
+(2) COVERED EMPLOYEE.—The term ‘‘covered 
+24
+employee’’ means an employee of— 
+25
+16:40 Jul 25, 2022
+H8449
+32 
+•HR 8449 IH
+(A) the Department of Commerce; 
+1
+(B) the Department of the Interior; or 
+2
+(C) the Department of Agriculture. 
+3
+(3) COVERED
+SERVICES.—The term ‘‘covered 
+4
+services’’ means services performed by a covered em-
+5
+ployee while— 
+6
+(A) serving— 
+7
+(i) as an incident meteorologist ac-
+8
+companying a wildland firefighter crew; or 
+9
+(ii) in a role that is determined by the 
+10
+Secretary concerned to be primarily relat-
+11
+ing to emergency wildland fire suppression 
+12
+activities; 
+13
+(B) serving— 
+14
+(i) on an incident management team; 
+15
+(ii) as an emergency response spe-
+16
+cialist; 
+17
+(iii) at the National Interagency Fire 
+18
+Center; 
+19
+(iv) at a Geographic Area Coordina-
+20
+tion Center; or 
+21
+(v) at an operations center; or 
+22
+(C) serving in a capacity determined by the 
+23
+Secretary, or the Under Secretary acting on be-
+24
+16:40 Jul 25, 2022
+H8449
+33 
+•HR 8449 IH
+half of the Secretary, to be primarily relating to 
+1
+emergency response activities. 
+2
+(4) EMPLOYEE.—The term ‘‘employee’’ has the 
+3
+meaning given that term in section 2105 of title 5, 
+4
+United States Code. 
+5
+(5) PREMIUM PAY.—The term ‘‘premium pay’’ 
+6
+means premium pay for the purposes of section 
+7
+5547(a) of title 5, United States Code. 
+8
+(6) SECRETARY CONCERNED.—The term ‘‘Sec-
+9
+retary concerned’’ means— 
+10
+(A) the Secretary of Commerce, with re-
+11
+spect to an employee of the Department of 
+12
+Commerce; 
+13
+(B) the Secretary of Agriculture, with re-
+14
+spect to an employee of the Department of Ag-
+15
+riculture; and 
+16
+(C) the Secretary of the Interior, with re-
+17
+spect to an employee of the Department of the 
+18
+Interior. 
+19
+(b) WAIVER.— 
+20
+(1) IN GENERAL.—Any premium pay received 
+21
+by a covered employee for covered services shall be 
+22
+disregarded in calculating the aggregate of the basic 
+23
+pay and premium pay for the covered employee for 
+24
+16:40 Jul 25, 2022
+H8449
+34 
+•HR 8449 IH
+purposes of applying the limitation on premium pay 
+1
+under section 5547(a) of title 5, United States Code. 
+2
+(2) LIMITATION.—A covered employee may be 
+3
+paid premium pay that is disregarded under para-
+4
+graph (1) only to the extent that the aggregate of 
+5
+the basic pay and premium pay paid to that covered 
+6
+employee in the applicable calendar year, including 
+7
+premium pay that is disregarded under that para-
+8
+graph, does not exceed the rate of basic pay for a 
+9
+position at level II of the Executive Schedule under 
+10
+section 5313 of title 5, United States Code, as in ef-
+11
+fect at the end of that calendar year. 
+12
+(c) APPLICATION.—If the application of subsection 
+13
+(b) results in the payment of additional pay to a covered 
+14
+employee of a type that is normally creditable as basic pay 
+15
+for retirement or any other purpose, that additional pay 
+16
+shall not— 
+17
+(1) be considered to be basic pay of the covered 
+18
+employee for any purpose; or 
+19
+(2) be used in computing a lump-sum payment 
+20
+to the covered employee for accumulated and ac-
+21
+crued annual leave under section 5551 or 5552 of 
+22
+title 5, United States Code. 
+23
+(d) AMENDMENT.—Section 5542(a)(5) of title 5, 
+24
+United States Code, is amended— 
+25
+16:40 Jul 25, 2022
+H8449
+35 
+•HR 8449 IH
+(1) by inserting ‘‘, the Department of Com-
+1
+merce,’’ after ‘‘Interior’’; and 
+2
+(2) by striking ‘‘the United States Forest Serv-
+3
+ice in’’. 
+4
+(e) EFFECTIVE DATE.—This section and the amend-
+5
+ment made by this section shall take effect as if enacted 
+6
+on January 1, 2020. 
+7
+(f) DERIVATION OF FUNDS.—Any amounts used to 
+8
+pay covered employees for covered services shall not be 
+9
+derived from amounts made available to the Administra-
+10
+tion or amounts saved by reducing the number of full- 
+11
+time-equivalent employees of the Administration. 
+12
+(g) POLICIES
+AND
+PROCEDURES
+FOR
+HEALTH, 
+13
+SAFETY, AND WELL-BEING.—The Under Secretary shall 
+14
+maintain policies and procedures that ensure that the de-
+15
+ployment of a covered employee to perform a covered serv-
+16
+ice will not compromise the health, safety, and well-being 
+17
+of the covered employee. 
+18
+SEC. 13. GOVERNMENT ACCOUNTABILITY OFFICE REPORT 
+19
+ON INTERAGENCY WILDFIRE FORECASTING, 
+20
+PREVENTION, PLANNING, AND MANAGEMENT 
+21
+BODIES. 
+22
+Not later than 1 year after the date of the enactment 
+23
+of this Act, the Comptroller General of the United States 
+24
+shall submit to Congress a report that— 
+25
+16:40 Jul 25, 2022
+H8449
+36 
+•HR 8449 IH
+(1) identifies all Federal interagency bodies es-
+1
+tablished for the purpose of wildfire forecasting, pre-
+2
+vention, planning, and management (such as wildfire 
+3
+councils, commissions, and workgroups), including— 
+4
+(A) the Wildland Fire Leadership Council; 
+5
+(B) the National Interagency Fire Center; 
+6
+(C) the Wildland Fire Management Policy 
+7
+Committee; 
+8
+(D) the Wildland Fire Mitigation and 
+9
+Management Commission; 
+10
+(E) the National Interagency Fire Center; 
+11
+(F) the National Interagency Coordination 
+12
+Center; 
+13
+(G) the National Predictive Services Over-
+14
+sight Group; 
+15
+(H) the Interagency Council for Advancing 
+16
+Meteorological Services; 
+17
+(I) the National Wildfire Coordinating 
+18
+Group; 
+19
+(J) the National Multi-Agency Coordi-
+20
+nating Group; and 
+21
+(K) the Mitigation Framework Leadership 
+22
+Group; 
+23
+(2) evaluates the roles, functionality, and utility 
+24
+of such interagency bodies; 
+25
+16:40 Jul 25, 2022
+H8449
+37 
+•HR 8449 IH
+(3) evaluates the progress, performance, and 
+1
+implementation of such interagency bodies; 
+2
+(4) assesses efficacy and identifies potential 
+3
+overlap and duplication of such interagency bodies in 
+4
+carrying out interagency collaboration with respect 
+5
+to wildfire prevention, planning, and management; 
+6
+and 
+7
+(5) includes such other recommendations as the 
+8
+Comptroller General determines are appropriate to 
+9
+streamline and improve wildfire forecasting, preven-
+10
+tion, planning, and management, including rec-
+11
+ommendations regarding the interagency bodies for 
+12
+which the addition of the Administration is nec-
+13
+essary to improve wildfire forecasting, prevention, 
+14
+planning, and management. 
+15
+SEC. 14. AMENDMENTS TO INFRASTRUCTURE INVESTMENT 
+16
+AND JOBS ACT RELATING TO WILDFIRE MITI-
+17
+GATION. 
+18
+The Infrastructure Investment and Jobs Act (Public 
+19
+Law 117–58; 135 Stat. 429) is amended— 
+20
+(1) in section 70202— 
+21
+(A) in paragraph (1)— 
+22
+(i) in subparagraph (J), by striking ‘‘; 
+23
+and’’ and inserting a semicolon; 
+24
+16:40 Jul 25, 2022
+H8449
+38 
+•HR 8449 IH
+(ii) in subparagraph (K), by striking 
+1
+the period at the end and inserting a semi-
+2
+colon; and 
+3
+(iii) by adding at the end the fol-
+4
+lowing: 
+5
+‘‘(L) 
+the 
+Committee 
+on 
+Commerce, 
+6
+Science, and Transportation of the Senate; 
+7
+and’’; 
+8
+‘‘(M) the Committee on Science, Space, 
+9
+and Technology of the House of Representa-
+10
+tives.’’; and 
+11
+(B) in paragraph (6)— 
+12
+(i) in subparagraph (B), by striking ‘‘; 
+13
+and’’ and inserting a semicolon; 
+14
+(ii) in subparagraph (C), by striking 
+15
+the period at the end and inserting ‘‘; 
+16
+and’’; and 
+17
+(iii) by adding at the end the fol-
+18
+lowing: 
+19
+‘‘(D) The Secretary of Commerce, acting 
+20
+through the Under Secretary of Commerce for 
+21
+Oceans and Atmosphere.’’; and 
+22
+(2) in section 70203(b)(1)(B)— 
+23
+(A) in the matter preceding clause (i), by 
+24
+striking ‘‘9’’ and inserting ‘‘not fewer than 10’’; 
+25
+16:40 Jul 25, 2022
+H8449
+39 
+•HR 8449 IH
+(B) in clause (i)— 
+1
+(i) in subclause (IV), by striking ‘‘; 
+2
+and’’ and inserting a semicolon; 
+3
+(ii) in subclause (V), by adding ‘‘and’’ 
+4
+at the end; and 
+5
+(iii) by adding at the end the fol-
+6
+lowing: 
+7
+‘‘(VI) the National Oceanic and 
+8
+Atmospheric Administration.’’; 
+9
+(C) in clause (iv), by striking ‘‘; and’’ and 
+10
+inserting a semicolon; and 
+11
+(D) by adding at the end the following: 
+12
+‘‘(vi) if the Secretaries determine it to 
+13
+be appropriate, 1 or more representatives 
+14
+from the relevant line offices of the Na-
+15
+tional Oceanic and Atmospheric Adminis-
+16
+tration; and’’. 
+17
+SEC. 15. WILDFIRE TECHNOLOGY MODERNIZATION AMEND-
+18
+MENTS. 
+19
+Section 1114 of the John D. Dingell, Jr. Conserva-
+20
+tion, Management, and Recreation Act (43 U.S.C. 1748b– 
+21
+1) is amended— 
+22
+(1) in subsection (c)(3), by inserting ‘‘the Na-
+23
+tional Oceanic and Atmospheric Administration,’’ 
+24
+after ‘‘Federal Aviation Administration,’’; 
+25
+16:40 Jul 25, 2022
+H8449
+40 
+•HR 8449 IH
+(2) in subsection (e)(2)— 
+1
+(A) by redesignating subparagraph (B) as 
+2
+subparagraph (C); and 
+3
+(B) by inserting after subparagraph (A) 
+4
+the following: 
+5
+‘‘(B) CONSULTATION.— 
+6
+‘‘(i) IN
+GENERAL.—In carrying out 
+7
+subparagraph (A), the Secretaries shall 
+8
+consult with the Under Secretary of Com-
+9
+merce for Oceans and Atmosphere regard-
+10
+ing any development of impact-based deci-
+11
+sion support services that relate to wildlife- 
+12
+related activities of the National Oceanic 
+13
+and Atmospheric Administration. 
+14
+‘‘(ii) DEFINITION
+OF
+IMPACT-BASED 
+15
+DECISION
+SUPPORT
+SERVICES.—In this 
+16
+subparagraph, the term ‘impact-based deci-
+17
+sion support services’ means forecast ad-
+18
+vice and interpretative services the Na-
+19
+tional Oceanic and Atmospheric Adminis-
+20
+tration provides to help core partners, such 
+21
+as emergency personnel and public safety 
+22
+officials, make decisions when weather, 
+23
+water, and climate impact the lives and 
+24
+16:40 Jul 25, 2022
+H8449
+41 
+•HR 8449 IH
+livelihoods of the people of the United 
+1
+States.’’; and 
+2
+(3) in subsection (f)— 
+3
+(A) by redesignating paragraphs (1) and 
+4
+(2) as subparagraphs (A) and (B), respectively, 
+5
+and moving such subparagraphs, as so redesig-
+6
+nated, 2 ems to the right; 
+7
+(B) by striking ‘‘The Secretaries’’ and in-
+8
+serting the following: 
+9
+‘‘(1) IN GENERAL.—The Secretaries’’; and 
+10
+(C) by adding at the end the following: 
+11
+‘‘(2) COLLABORATION.—In carrying out para-
+12
+graph (1), the Secretaries shall collaborate with the 
+13
+Under Secretary of Commerce for Oceans and At-
+14
+mosphere to improve coordination, utility of systems 
+15
+and assets, and interoperability of data for smoke 
+16
+prediction, forecasting, and modeling.’’. 
+17
+SEC. 16. COOPERATION; COORDINATION; SUPPORT TO NON- 
+18
+FEDERAL ENTITIES. 
+19
+(a) COOPERATION.—Each Federal agency shall co-
+20
+operate and coordinate with the Under Secretary, as ap-
+21
+propriate, in carrying out this Act and the amendments 
+22
+made by this Act. 
+23
+(b) COORDINATION.— 
+24
+16:40 Jul 25, 2022
+H8449
+42 
+•HR 8449 IH
+(1) IN GENERAL.—In meeting the requirements 
+1
+under this Act and the amendments made by this 
+2
+Act, the Under Secretary shall coordinate, and as 
+3
+appropriate, establish agreements with Federal and 
+4
+external partners to fully use and leverage existing 
+5
+assets, systems, networks, technologies, and sources 
+6
+of data. 
+7
+(2) INCLUSIONS.—Coordination carried out 
+8
+under paragraph (1) shall include coordination 
+9
+with— 
+10
+(A) the National Interagency Fire Center, 
+11
+including the Predictive Services Program that 
+12
+provides impact-based decision support services 
+13
+to the wildland fire community at the Geo-
+14
+graphic Area Coordination Center and the Na-
+15
+tional Interagency Coordination Center; 
+16
+(B) the National Wildfire Coordinating 
+17
+Group; and 
+18
+(C) relevant interagency bodies identified 
+19
+in the report required by section 13. 
+20
+(3) CONSULTATION.—In carrying out this sub-
+21
+section, the Under Secretary shall consult with Fed-
+22
+eral partners including— 
+23
+(A) the National Aeronautics and Space 
+24
+Administration; 
+25
+16:40 Jul 25, 2022
+H8449
+43 
+•HR 8449 IH
+(B) the Department of the Interior; 
+1
+(C) the Federal Emergency Management 
+2
+Agency; 
+3
+(D) the National Science Foundation; 
+4
+(E) the United States Geological Survey; 
+5
+(F) the Department of Agriculture; 
+6
+(G) the Environmental Protection Agency; 
+7
+(H) the Department of Energy; 
+8
+(I) the Department of Defense; 
+9
+(J) the National Institute of Standards 
+10
+and Technology; and 
+11
+(K) such other departments and agencies 
+12
+as the Under Secretary considers relevant. 
+13
+(c) COORDINATION
+WITH
+NON-FEDERAL
+ENTI-
+14
+TIES.—Not later than 540 days after the date of the en-
+15
+actment of this Act, the Under Secretary shall develop and 
+16
+submit to the appropriate committees of Congress a proc-
+17
+ess for annual coordination with Tribal, State, and local 
+18
+governments to assist the development of improved fire 
+19
+weather products and services. 
+20
+(d) SUPPORT TO NON-FEDERAL ENTITIES.—In car-
+21
+rying out the activities under this Act and the amend-
+22
+ments made by this Act, the Under Secretary may provide 
+23
+support to non-Federal entities by making funds and re-
+24
+sources available through— 
+25
+16:40 Jul 25, 2022
+H8449
+44 
+•HR 8449 IH
+(1) competitive grants; 
+1
+(2) contracts under the mobility program under 
+2
+subchapter VI of chapter 33 of title 5, United States 
+3
+Code (commonly referred to as the ‘‘Intergovern-
+4
+mental Personnel Act Mobility Program’’); 
+5
+(3) cooperative agreements; and 
+6
+(4) colocation agreements as described in sec-
+7
+tion 502 of the National Oceanic and Atmospheric 
+8
+Administration Commissioned Officer Corps Amend-
+9
+ments Act of 2020 (33 U.S.C. 851 note prec.). 
+10
+SEC. 17. INTERNATIONAL COORDINATION. 
+11
+(a) IN GENERAL.—The Under Secretary may develop 
+12
+collaborative relationships and agreements with foreign 
+13
+partners and counterparts to address transboundary 
+14
+issues pertaining to wildfires, fire weather, smoke, air 
+15
+quality, and associated conditions and hazards or other 
+16
+relevant meteorological phenomena, as appropriate, to fa-
+17
+cilitate full and open exchange of data and information. 
+18
+(b) CONSULTATION.—In carrying out activities under 
+19
+this section, the Under Secretary shall consult with the 
+20
+Department of State and such other Federal partners as 
+21
+the Under Secretary considers relevant. 
+22
+16:40 Jul 25, 2022
+H8449
+45 
+•HR 8449 IH
+SEC. 18. SUBMISSIONS TO CONGRESS REGARDING THE 
+1
+FIRE WEATHER SERVICES PROGRAM, INCI-
+2
+DENT METEOROLOGIST WORKFORCE NEEDS, 
+3
+AND NATIONAL WEATHER SERVICE WORK-
+4
+FORCE SUPPORT. 
+5
+(a) REPORT TO CONGRESS.—Not later than 540 days 
+6
+after the date of the enactment of this Act, the Under 
+7
+Secretary shall submit to the appropriate committees of 
+8
+Congress— 
+9
+(1) the plan described in subsection (b); 
+10
+(2) the assessment described in subsection (c); 
+11
+and 
+12
+(3) the assessment described in subsection (d). 
+13
+(b) FIRE WEATHER SERVICES PROGRAM PLAN.— 
+14
+(1) ELEMENTS.—The plan submitted under 
+15
+subsection (a)(1) shall detail— 
+16
+(A) the observational data, modeling re-
+17
+quirements, ongoing computational needs, re-
+18
+search, development, and technology transfer 
+19
+activities, data management, skilled-personnel 
+20
+requirements, engagement with relevant Federal 
+21
+emergency and land management agencies and 
+22
+partners, and corresponding resources and 
+23
+timelines necessary to achieve the functions de-
+24
+scribed in subsection (b) of section 3 and the 
+25
+16:40 Jul 25, 2022
+H8449
+46 
+•HR 8449 IH
+priorities described in subsection (c) of such 
+1
+section; and 
+2
+(B) plans and needs for all other activities 
+3
+and requirements under this Act and the 
+4
+amendments made by this Act. 
+5
+(2) SUBMITTAL
+OF
+ANNUAL
+BUDGET
+FOR 
+6
+PLAN.—Following completion of the plan submitted 
+7
+under subsection (a)(1), the Under Secretary shall, 
+8
+not less frequently than once each year concurrent 
+9
+with the submission of the budget by the President 
+10
+to Congress under section 1105 of title 31, submit 
+11
+to Congress a proposed budget corresponding with 
+12
+the elements detailed in the plan. 
+13
+(c) INCIDENT METEOROLOGIST WORKFORCE NEEDS 
+14
+ASSESSMENT.— 
+15
+(1) IN GENERAL.—The Under Secretary shall 
+16
+conduct a workforce needs assessment on the cur-
+17
+rent and future demand for additional incident me-
+18
+teorologists for wildfires and other high-impact fire 
+19
+weather events. 
+20
+(2) ELEMENTS.—The assessment required by 
+21
+paragraph (1) shall include the following: 
+22
+(A) A description of staffing levels as of 
+23
+the date on which the assessment is submitted 
+24
+16:40 Jul 25, 2022
+H8449
+47 
+•HR 8449 IH
+under subsection (a)(2) and projected future 
+1
+staffing levels. 
+2
+(B) An assessment of the state of the in-
+3
+frastructure of the National Weather Service as 
+4
+of the date on which the assessment is sub-
+5
+mitted and future needs of such infrastructure 
+6
+in order to meet current and future demands, 
+7
+including with respect to information technology 
+8
+support and logistical and administrative oper-
+9
+ations. 
+10
+(3) CONSIDERATIONS.—In conducting the as-
+11
+sessment required by paragraph (1), the Under Sec-
+12
+retary shall consider factors including projected cli-
+13
+mate conditions, infrastructure, all hazard meteoro-
+14
+logical response system equipment, user needs, and 
+15
+feedback from relevant stakeholders. 
+16
+(d) SUPPORT SERVICES ASSESSMENT.— 
+17
+(1) IN GENERAL.—The Under Secretary shall 
+18
+conduct a workforce support services assessment 
+19
+with respect to employees of the National Weather 
+20
+Service engaged in emergency response. 
+21
+(2) ELEMENTS.—The assessment required by 
+22
+paragraph (1) shall include the following: 
+23
+(A) An assessment of need for further sup-
+24
+port of employees of the National Weather 
+25
+16:40 Jul 25, 2022
+H8449
+48 
+•HR 8449 IH
+Service engaged in emergency response through 
+1
+services provided by the Public Health Service. 
+2
+(B) A detailed assessment of appropria-
+3
+tions required to secure the level of support 
+4
+services needed as identified in the assessment 
+5
+described in subparagraph (A). 
+6
+(3) ADDITIONAL
+SUPPORT
+SERVICES.—Fol-
+7
+lowing the completion of the assessment required by 
+8
+paragraph (1), the Under Secretary shall seek to ac-
+9
+quire additional support services to meet the needs 
+10
+identified in the assessment. 
+11
+SEC. 19. AUTHORIZATION OF APPROPRIATIONS. 
+12
+There is authorized to be appropriated to the Admin-
+13
+istration to carry out this Act and the amendments made 
+14
+by this Act— 
+15
+(1) $55,000,000 for fiscal year 2023; 
+16
+(2) $125,000,000 for fiscal year 2024; 
+17
+(3) $135,000,000 for fiscal year 2025; 
+18
+(4) $150,000,000 for fiscal year 2026; and 
+19
+(5) $200,000,000 for fiscal year 2027. 
+20
+Æ 
+16:40 Jul 25, 2022
+H8449

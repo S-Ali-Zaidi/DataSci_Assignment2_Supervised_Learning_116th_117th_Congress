@@ -1,0 +1,528 @@
+A BILL 
+To amend section 230 of the Communications Act of 1934 
+to limit the immunity of providers and users of inter-
+active computer services under such section, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Curbing Abuse and 
+4
+Saving Expression In Technology Act’’ or the ‘‘CASE-IT 
+5
+Act’’. 
+6
+05:50 Feb 05, 2021
+H285
+2 
+•HR 285 IH
+SEC. 2. LIMITATION OF SECTION 230 IMMUNITY. 
+1
+(a) IN GENERAL.—Section 230(c) of the Communica-
+2
+tions Act of 1934 (47 U.S.C. 230(c)) is amended by add-
+3
+ing at the end the following: 
+4
+‘‘(3) EXCEPTIONS
+RELATING
+TO
+ILLEGAL, 
+5
+EXPLOITIVE, OR HARMFUL CONTENT.— 
+6
+‘‘(A) IN GENERAL.—During a period de-
+7
+scribed in subparagraph (D), paragraph (1) 
+8
+shall not apply to a provider or user of an inter-
+9
+active computer service that creates, develops, 
+10
+posts, materially contributes to, or induces an-
+11
+other person to create, develop, post, or materi-
+12
+ally contribute to illegal online content. 
+13
+‘‘(B) CERTAIN CONTACT BETWEEN ADULT 
+14
+AND MINOR.—During a period described in sub-
+15
+paragraph (D), paragraph (1) shall not apply to 
+16
+a provider of an interactive computer service 
+17
+that knowingly permits or facilitates an adult 
+18
+having contact through an interactive computer 
+19
+service of such provider with an individual that 
+20
+such adult knows or believes to be a minor, if 
+21
+such contact involves any matter containing ex-
+22
+plicit verbal descriptions or narrative accounts 
+23
+of sexually explicit nudity, sexual conduct, sex-
+24
+ual excitement, or sadomasochistic abuse that is 
+25
+05:50 Feb 05, 2021
+H285
+3 
+•HR 285 IH
+intended to arouse or satisfy the sexual desire 
+1
+of either such adult or such minor. 
+2
+‘‘(C) CONTENT
+THAT
+IS
+INDECENT, OB-
+3
+SCENE, 
+OR
+OTHERWISE
+HARMFUL
+TO
+MI-
+4
+NORS.—During a period described in subpara-
+5
+graph (D), paragraph (1) shall not apply to a 
+6
+provider or user of an interactive computer 
+7
+service that permits or facilitates the distribu-
+8
+tion of content that— 
+9
+‘‘(i) is indecent, obscene, or otherwise 
+10
+harmful to minors; and 
+11
+‘‘(ii) is made readily accessible to mi-
+12
+nors by the failure of such provider or user 
+13
+to implement a system designed to effec-
+14
+tively screen users who are minors from 
+15
+accessing such content, to the extent fea-
+16
+sible using technology available at the time 
+17
+of such distribution. 
+18
+‘‘(D) PERIOD
+OF
+LOSS
+OF
+IMMUNITY.— 
+19
+For purposes of subparagraph (A), (B), or (C), 
+20
+a period described in this subparagraph is— 
+21
+‘‘(i) any 1-year period beginning on 
+22
+the date on which the provider engages in 
+23
+conduct described in such subparagraph; 
+24
+or 
+25
+05:50 Feb 05, 2021
+H285
+4 
+•HR 285 IH
+‘‘(ii) in the case of such conduct that 
+1
+continues for more than 1 day, any 1-year 
+2
+period beginning on the date on which the 
+3
+provider ceases such conduct. 
+4
+‘‘(E) 
+RULE
+OF
+CONSTRUCTION.—This 
+5
+paragraph shall be broadly construed to ad-
+6
+vance the purposes of this section for the de-
+7
+ployment of new technologies and policies to 
+8
+block or filter offensive content such as inde-
+9
+cency, obscenity, pornography, or sexually ex-
+10
+plicit content so as to prevent any such content 
+11
+from being readily accessible to minors. 
+12
+‘‘(4) EXCEPTION FOR STIFLING FREE EXPRES-
+13
+SION.— 
+14
+‘‘(A) IN GENERAL.—Paragraphs (1) and 
+15
+(2)(A) shall not apply to a provider of an inter-
+16
+active computer service that is in the business 
+17
+or practice of communicating user-generated 
+18
+content during any period during which such 
+19
+provider— 
+20
+‘‘(i) is dominant in its market; and 
+21
+‘‘(ii) makes content moderation deci-
+22
+sions pursuant to policies or practices that 
+23
+are not reasonably consistent with the 
+24
+First Amendment to the Constitution. 
+25
+05:50 Feb 05, 2021
+H285
+5 
+•HR 285 IH
+‘‘(B) 
+RULE
+OF
+CONSTRUCTION.—This 
+1
+paragraph shall be broadly construed to ad-
+2
+vance the purposes of this section in encour-
+3
+aging the growth of the internet as a forum for 
+4
+a true diversity of discourse, unique opportuni-
+5
+ties for cultural development, and myriad ave-
+6
+nues for intellectual activity, where lawful polit-
+7
+ical, religious, cultural, social, scientific, and 
+8
+other online content can flourish without dis-
+9
+crimination based on viewpoint. 
+10
+‘‘(5) PRIVATE RIGHT OF ACTION.— 
+11
+‘‘(A) IN GENERAL.—If a provider of an 
+12
+interactive computer service that is dominant in 
+13
+its market bans, blocks, down-ranks, demone-
+14
+tizes in its advertising, or otherwise subjects to 
+15
+similar adverse treatment the content of any in-
+16
+formation content provider that uses an inter-
+17
+active computer service of such dominant pro-
+18
+vider by reason of the failure of such dominant 
+19
+provider to make content moderation decisions 
+20
+pursuant to policies or practices that are rea-
+21
+sonably consistent with the First Amendment to 
+22
+the Constitution, such information content pro-
+23
+vider may bring a civil action in an appropriate 
+24
+State court or an appropriate district court of 
+25
+05:50 Feb 05, 2021
+H285
+6 
+•HR 285 IH
+the United States against such dominant pro-
+1
+vider to obtain the relief described in subpara-
+2
+graph (B). 
+3
+‘‘(B) RELIEF.— 
+4
+‘‘(i) IN
+GENERAL.—An information 
+5
+content provider that prevails in a civil ac-
+6
+tion under subparagraph (A) may obtain 
+7
+the following relief: 
+8
+‘‘(I) The greater of— 
+9
+‘‘(aa) 
+compensatory 
+dam-
+10
+ages, including both personal and 
+11
+business economic loss; or 
+12
+‘‘(bb) liquidated damages in 
+13
+the amount of $500,000 for each 
+14
+incident of adverse treatment de-
+15
+scribed in subparagraph (A). 
+16
+‘‘(II) Punitive damages, in the 
+17
+case of a reckless failure of the pro-
+18
+vider of the interactive computer serv-
+19
+ice to make content moderation deci-
+20
+sions pursuant to policies or practices 
+21
+that are reasonably consistent with 
+22
+the First Amendment to the Constitu-
+23
+tion. 
+24
+05:50 Feb 05, 2021
+H285
+7 
+•HR 285 IH
+‘‘(ii) TREBLE DAMAGES.—In the case 
+1
+of a willful or knowing failure of the pro-
+2
+vider of the interactive computer service to 
+3
+make content moderation decisions pursu-
+4
+ant to policies or practices that are reason-
+5
+ably consistent with the First Amendment 
+6
+to the Constitution, the information con-
+7
+tent provider may obtain, instead of the 
+8
+amount determined under clause (i)(I), 
+9
+three times such amount. 
+10
+‘‘(6) 
+CERTIFICATION
+REGARDING
+MARKET 
+11
+DOMINANCE AND CONTENT MODERATION POLICIES 
+12
+AND PRACTICES.— 
+13
+‘‘(A) IN
+GENERAL.—Not later than 120 
+14
+days after the date of the enactment of this 
+15
+paragraph, the Federal Trade Commission and 
+16
+the Attorney General shall promulgate regula-
+17
+tions to establish a process under which a pro-
+18
+vider of an interactive computer service with 
+19
+net assets or annual net revenue exceeding 
+20
+$500,000,000 may apply for a review and cer-
+21
+tification by the Federal Trade Commission, 
+22
+acting with the concurrence of the Attorney 
+23
+General— 
+24
+05:50 Feb 05, 2021
+H285
+8 
+•HR 285 IH
+‘‘(i) that such provider is not domi-
+1
+nant in its market; or 
+2
+‘‘(ii) if such provider is determined to 
+3
+be dominant in its market under clause (i), 
+4
+that the policies and practices of such 
+5
+dominant provider relating to content mod-
+6
+eration, as applied to information content 
+7
+providers using the interactive computer 
+8
+service or interactive computer services of 
+9
+such dominant provider, are reasonably 
+10
+consistent with the First Amendment to 
+11
+the Constitution. 
+12
+‘‘(B) EFFECT OF CERTIFICATION.—A cer-
+13
+tification under subparagraph (A) may, in the 
+14
+discretion of the trial court, be admissible in 
+15
+any civil action or criminal prosecution in which 
+16
+it is asserted that paragraph (4) applies to the 
+17
+provider to which such certification relates, or 
+18
+in any civil action brought under paragraph (5) 
+19
+against such provider, but such certification 
+20
+shall not be determinative on the issues de-
+21
+scribed in clauses (i) and (ii) of such subpara-
+22
+graph.’’. 
+23
+05:50 Feb 05, 2021
+H285
+9 
+•HR 285 IH
+(b) DEFINITIONS.—Section 230(f) of the Commu-
+1
+nications Act of 1934 (47 U.S.C. 230(f)) is amended by 
+2
+adding at the end the following: 
+3
+‘‘(5) DOMINANT
+IN
+ITS
+MARKET.—The term 
+4
+‘dominant in its market’ means, with respect to a 
+5
+provider of an interactive computer service, that 
+6
+such provider has gained substantial, sustained mar-
+7
+ket power over any competitors. Actual monopoly 
+8
+control over a market is not required to satisfy the 
+9
+preceding sentence. 
+10
+‘‘(6) REASONABLY
+CONSISTENT
+WITH
+THE 
+11
+FIRST
+AMENDMENT
+TO
+THE
+CONSTITUTION.—The 
+12
+term ‘reasonably consistent with the First Amend-
+13
+ment to the Constitution’ means, with respect to the 
+14
+policies and practices of a provider of an interactive 
+15
+computer service relating to content moderation, 
+16
+that such provider conforms such policies and prac-
+17
+tices to established law under the First Amendment 
+18
+to the Constitution applicable to state actors, re-
+19
+gardless of whether or not such provider is a state 
+20
+actor, to the extent feasible taking into consideration 
+21
+the developing capabilities and complexities of tech-
+22
+nology and the unique characteristics of online com-
+23
+munication platforms. 
+24
+05:50 Feb 05, 2021
+H285
+10 
+•HR 285 IH
+‘‘(7) MINOR.—The term ‘minor’ means an indi-
+1
+vidual who is under 18 years of age. 
+2
+‘‘(8) HARMFUL TO MINORS.—The term ‘harm-
+3
+ful to minors’ means, with respect to content, that 
+4
+such content contains a description or representation 
+5
+of nudity, sexual conduct, sexual excitement, or 
+6
+sadomasochistic abuse that— 
+7
+‘‘(A) predominantly appeals to the pru-
+8
+rient, shameful, or morbid interest of minors; 
+9
+‘‘(B) is patently offensive to prevailing 
+10
+standards in the adult community with respect 
+11
+to what is suitable material for minors; and 
+12
+‘‘(C) is utterly without redeeming social 
+13
+importance for minors. 
+14
+‘‘(9) ADULT.—The term ‘adult’ means an indi-
+15
+vidual who is 18 years of age or older.’’. 
+16
+(c) EFFECTIVE DATE.—The amendments made by 
+17
+this section shall apply with respect to conduct by a pro-
+18
+vider of an interactive computer service (as defined in sec-
+19
+tion 230(f) of the Communications Act of 1934 (47 U.S.C. 
+20
+230(f))) that occurs after the date of the enactment of 
+21
+this Act. 
+22
+Æ 
+05:50 Feb 05, 2021
+H285

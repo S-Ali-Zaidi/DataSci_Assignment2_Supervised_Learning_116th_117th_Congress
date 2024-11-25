@@ -1,0 +1,480 @@
+A BILL 
+To amend chapter 3 of title 5, United States Code, to require 
+Executive agencies to establish and implement an AI 
+strategy, objectives, and metrics plan for trustworthy 
+artificial intelligence adoption to better achieve the mis-
+sions of such agencies to serve the people of the United 
+States, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Artificial Intelligence 
+4
+for Agency Impact Act’’ or the ‘‘AI for Agency Impact 
+5
+Act’’. 
+6
+20:50 Jul 16, 2021
+H4468
+2 
+•HR 4468 IH
+SEC. 2. AI STRATEGY, OBJECTIVES, AND METRICS PLANS. 
+1
+(a) AMENDMENT.—Chapter 3 of title 5, United 
+2
+States Code, is amended by adding at the end the fol-
+3
+lowing new subchapter: 
+4
+‘‘SUBCHAPTER III—ARTIFICIAL INTELLIGENCE 
+5
+‘‘§ 321. Definitions 
+6
+‘‘In this subchapter: 
+7
+‘‘(1) AGENCY.—The term ‘agency’ has the 
+8
+meaning given that term in paragraph (1) section 
+9
+3502 of title 44, United States Code, except that 
+10
+term shall not include independent regulatory agen-
+11
+cies (as defined in paragraph (5) of such section). 
+12
+‘‘(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+13
+TEES.—The term ‘appropriate congressional com-
+14
+mittees’ means the Committee on Oversight and Re-
+15
+form of the House of Representatives and the Com-
+16
+mittee on Homeland Security and Governmental Af-
+17
+fairs of the Senate. 
+18
+‘‘(3) ARTIFICIAL
+INTELLIGENCE.—The term 
+19
+‘artificial intelligence’ has the meaning given that 
+20
+term in section 238(g) of the John S. McCain Na-
+21
+tional Defense Authorization Act for Fiscal Year 
+22
+2019 (Public Law 115–232; 10 U.S.C. 2358 note). 
+23
+‘‘(4) DIRECTOR.—The term ‘Director’ means 
+24
+the Director of the Office of Management and Budg-
+25
+et. 
+26
+20:50 Jul 16, 2021
+H4468
+3 
+•HR 4468 IH
+‘‘(5) 
+RELIABILITY.—The 
+term 
+‘reliability’ 
+1
+means, with respect to the artificial intelligence, the 
+2
+extent to which— 
+3
+‘‘(A) data collected for use by the artificial 
+4
+intelligence is a valid measure of the underlying 
+5
+concepts addressed in the objectives of using 
+6
+the artificial intelligence; 
+7
+‘‘(B) the safety, security, and robustness 
+8
+has been tested and assured across each phase 
+9
+of development and use of the artificial intel-
+10
+ligence according to defined objectives; 
+11
+‘‘(C) data records and fields are present 
+12
+and sufficiently populated; and 
+13
+‘‘(D) data records reflect the actual under-
+14
+lying information. 
+15
+‘‘(6) REPRESENTATIVENESS.—The term ‘rep-
+16
+resentativeness’ means the extent to which data sets 
+17
+used for training the artificial intelligence is rep-
+18
+resentative of the population or operational environ-
+19
+ment to be assessed by the artificial intelligence. 
+20
+‘‘§ 322. AI Strategy, Objectives, and Metrics Plan 
+21
+‘‘(a) AI STRATEGY, OBJECTIVES, AND METRICS 
+22
+PLAN.—The head of each agency shall establish an AI 
+23
+Strategy, Objectives, and Metrics Plan that contains strat-
+24
+egies, objectives, and metrics for the trustworthy adoption 
+25
+20:50 Jul 16, 2021
+H4468
+4 
+•HR 4468 IH
+of artificial intelligence by the agency to better achieve the 
+1
+mission of the agency to serve the people of the United 
+2
+States, including the following: 
+3
+‘‘(1) Defined roles, responsibilities, and delega-
+4
+tion of authority for the use and oversight of artifi-
+5
+cial intelligence used by the agency, including over-
+6
+sight of compliance with relevant laws, regulations, 
+7
+standards, and guidance. 
+8
+‘‘(2) Defined values, ethics, and principles to 
+9
+foster public trust and responsible use of artificial 
+10
+intelligence by the agency. 
+11
+‘‘(3) Procedures— 
+12
+‘‘(A) to ensure the security and privacy of 
+13
+data used by artificial intelligence used by the 
+14
+agency; and 
+15
+‘‘(B) for human supervision of, and ac-
+16
+countability for, artificial intelligence used by 
+17
+the agency. 
+18
+‘‘(4) For each artificial intelligence used by the 
+19
+agency at the time the plan is established— 
+20
+‘‘(A) performance objectives and accom-
+21
+panying metrics that clearly reflect or convey 
+22
+the intended purpose of the artificial intel-
+23
+ligence; 
+24
+‘‘(B) a process— 
+25
+20:50 Jul 16, 2021
+H4468
+5 
+•HR 4468 IH
+‘‘(i) for the continuous or routine 
+1
+monitoring and assessment the perform-
+2
+ance of the artificial intelligence against 
+3
+the objectives and metrics established for 
+4
+the artificial intelligence under subpara-
+5
+graph (A) to ensure that the artificial in-
+6
+telligence functions as intended and carries 
+7
+out the goals and objectives of using the 
+8
+artificial intelligence; and 
+9
+‘‘(ii) that includes a plan to systemati-
+10
+cally identify, analyze, and mitigate any 
+11
+risks associated with the artificial intel-
+12
+ligence; and 
+13
+‘‘(C) documentation demonstrating that 
+14
+the artificial intelligence relies on high quality, 
+15
+reliable, representative data, including— 
+16
+‘‘(i) the sources and origins of data 
+17
+used to train each artificial intelligence; 
+18
+and 
+19
+‘‘(ii) assessments of the reliability, 
+20
+quality, and representativeness of— 
+21
+‘‘(I) data used to train the artifi-
+22
+cial intelligence; 
+23
+‘‘(II) attributes used to cat-
+24
+egorize data; 
+25
+20:50 Jul 16, 2021
+H4468
+6 
+•HR 4468 IH
+‘‘(III) data variables used by the 
+1
+artificial intelligence; and 
+2
+‘‘(IV) interconnectivities and de-
+3
+pendencies of data streams that 
+4
+operationalize 
+the 
+artificial 
+intel-
+5
+ligence; and 
+6
+‘‘(iii) a description of the range of 
+7
+data and model drift that is acceptable for 
+8
+each artificial intelligence. 
+9
+‘‘(5) Performance objectives and accompanying 
+10
+metrics, for each opportunity identified by the agen-
+11
+cy to incorporate the use of artificial intelligence into 
+12
+the platforms, processes, and operations of the agen-
+13
+cy. 
+14
+‘‘(6) A description of how artificial intelligence 
+15
+used by the agency are monitored, including a de-
+16
+scription of any actions taken to correct the func-
+17
+tioning or performance of the artificial intelligence. 
+18
+‘‘(7) A description of how information on the 
+19
+design, operation, limitations, and updates of the ar-
+20
+tificial intelligence is made available to the public. 
+21
+‘‘(b) RELATIONSHIP TO EXECUTIVE ORDER 13859, 
+22
+MEMORANDA.—A plan developed under subsection (a) by 
+23
+an agency shall be consistent with— 
+24
+20:50 Jul 16, 2021
+H4468
+7 
+•HR 4468 IH
+‘‘(1) section 3 of Executive Order 13960 (89 
+1
+Fed. Reg. 13859) titled ‘Promoting the Use of 
+2
+Trustworthy Artificial Intelligence in the Federal 
+3
+Government’, issued on December 8, 2020; and 
+4
+‘‘(2) the memorandum issued by the Director to 
+5
+the agency under section 104 of the AI in Govern-
+6
+ment Act of 2020 (Public Law 116–260; 40 U.S.C. 
+7
+11301 note). 
+8
+‘‘(c) REPORTS.— 
+9
+‘‘(1) INITIAL
+REPORT.—Not later than 180 
+10
+days after the memorandum required by section 
+11
+104(a) of the AI in Government Act of 2020 (Public 
+12
+Law 116–260; 40 U.S.C. 11301 note) is issued, the 
+13
+head of each agency shall submit to the Director, 
+14
+the Inspector General of the agency, and the appro-
+15
+priate congressional committees a report that con-
+16
+tains— 
+17
+‘‘(A) the AI Strategy, Objectives, and 
+18
+Metrics Plan established by the agency under 
+19
+subsection (a); 
+20
+‘‘(B) an inventory (including a catalogue of 
+21
+model and non-model components, specifica-
+22
+tions, and parameters) of all artificial intel-
+23
+ligence in use by the agency, in accordance with 
+24
+the guidance issued under paragraph (3); and 
+25
+20:50 Jul 16, 2021
+H4468
+8 
+•HR 4468 IH
+‘‘(C) a description and assessment of op-
+1
+portunities to incorporate the use artificial in-
+2
+telligence into the platforms, processes, and op-
+3
+erations of the agency to enhance the effective-
+4
+ness of the agency in accomplishing the mis-
+5
+sion, operations, and programs of the agency. 
+6
+‘‘(2) PROGRESS REPORTS.—In 2023, and every 
+7
+two years thereafter until 2033, the head of each 
+8
+agency shall submit to the Director and the appro-
+9
+priate congressional committees a report— 
+10
+‘‘(A) on the implementation of the AI 
+11
+Strategy, Objectives, and Metrics Plan estab-
+12
+lished by the agency under subsection (a); and 
+13
+‘‘(B) that identifies and assesses any op-
+14
+portunities for, and risks any associated with, 
+15
+the use, or potential use, of artificial intel-
+16
+ligence by the agency. 
+17
+‘‘(3) AGENCY
+INVENTORY
+GUIDANCE.—Not 
+18
+later than 30 days after the date of the enactment 
+19
+of this Act, the Chief Information Officers Council 
+20
+shall issue, and make publicly available, guidance 
+21
+that includes the criteria, format, and mechanisms 
+22
+for the inventory required to be included in the re-
+23
+port under paragraph (1). 
+24
+20:50 Jul 16, 2021
+H4468
+9 
+•HR 4468 IH
+‘‘(4) REPORTING
+RECIPROCITY.—The reports 
+1
+required by paragraphs (1) and (2) shall fulfill the 
+2
+requirements of the AI in Government Act of 2020 
+3
+(Public Law 116–260; 40 U.S.C. 11301 note) and 
+4
+subsections (b) and (c) of section 5 of Executive 
+5
+Order 13960 (89 Fed. Reg. 13859) titled ‘Pro-
+6
+moting the Use of Trustworthy Artificial Intelligence 
+7
+in the Federal Government’, issued on December 8, 
+8
+2020, and shall include all information required by 
+9
+such provisions. 
+10
+‘‘(d) CONSULTATION.—In developing a plan required 
+11
+to be submitted under subsection (a) and the reports re-
+12
+quired by subsection (c), the head of the agency shall con-
+13
+sult with the National Cyber Director and the heads of 
+14
+the National Artificial Intelligence Initiative Office, the 
+15
+National Artificial Intelligence Advisory Committee, the 
+16
+Artificial Intelligence Center of Excellence. 
+17
+‘‘(e) CLASSIFIED ANNEX.—The reports required by 
+18
+paragraphs (1) and (2) of subsection (b) shall be made 
+19
+publicly available upon submission to the entities described 
+20
+in such paragraphs, but such reports may include a classi-
+21
+fied annex. 
+22
+‘‘(f) RULE OF CONSTRUCTION.—Nothing in this sub-
+23
+chapter may be construed as authorizing the use by agen-
+24
+cies of, or an appropriation for, artificial intelligence.’’. 
+25
+20:50 Jul 16, 2021
+H4468
+10 
+•HR 4468 IH
+(b) CLERICAL AMENDMENT.—The table of contents 
+1
+for chapter 3 of title 5, United States Code, is amended 
+2
+by adding after the item relating to section 315 the fol-
+3
+lowing: 
+4
+‘‘SUBCHAPTER III—ARTIFICIAL INTELLIGENCE 
+‘‘321. Definitions 
+‘‘322. AI strategy, objectives, and metrics plans required’’. 
+Æ 
+20:50 Jul 16, 2021
+H4468

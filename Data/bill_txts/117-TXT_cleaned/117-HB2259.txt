@@ -1,0 +1,1245 @@
+A BILL 
+To establish the Office of Supply Chain Preparedness within 
+the Department of Commerce to manage the partnership 
+of the United States with private industry and State 
+and local governments with respect to the manufacturing 
+of critical resources, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘National Manufac-
+4
+turing Guard Act’’. 
+5
+SEC. 2. SENSE OF CONGRESS. 
+6
+It is the sense of Congress that— 
+7
+02:11 May 28, 2021
+H2259
+2 
+•HR 2259 IH
+(1) the COVID–19 pandemic has— 
+1
+(A) exposed significant vulnerabilities in 
+2
+the manufacturing sector of the economy of the 
+3
+United States; and 
+4
+(B) led to equipment shortages, supply 
+5
+chain bottlenecks, and workforce misalignments; 
+6
+(2) the vulnerabilities described in paragraph 
+7
+(1) go largely unnoticed until those vulnerabilities 
+8
+are revealed by crises, such as disease outbreaks, 
+9
+cyber attacks, natural disasters, national security 
+10
+threats, wars, trade wars, embargoes, and other 
+11
+emergencies; 
+12
+(3) the crises described in paragraph (2) 
+13
+produce valuable information, the collection and 
+14
+analysis of which can inform policies to fortify the 
+15
+economy of the United States against future threats; 
+16
+(4) the responsibility for promoting the eco-
+17
+nomic resilience of the United States lies with the 
+18
+Federal Government, which must not miss the op-
+19
+portunity presented by the COVID–19 pandemic to 
+20
+learn from that crisis and prepare the United States 
+21
+to better withstand future emergencies; and 
+22
+(5) the Federal Government has an interest in 
+23
+increasing educational and training opportunities for 
+24
+underrepresented minorities, women, and veterans. 
+25
+02:11 May 28, 2021
+H2259
+3 
+•HR 2259 IH
+SEC. 3. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) COUNCIL.—The term ‘‘Council’’ means the 
+3
+Supply Chain Advisory Council established under 
+4
+section 5. 
+5
+(2) CRISIS.—The term ‘‘crisis’’ means a situa-
+6
+tion that threatens the ability of manufacturers and 
+7
+supply chains in the United States to provide suffi-
+8
+cient critical resources. 
+9
+(3) CRITICAL RESOURCES.—The term ‘‘critical 
+10
+resources’’— 
+11
+(A) means supplies that— 
+12
+(i) are life-sustaining or otherwise 
+13
+critical to the national security of the 
+14
+United States; and 
+15
+(ii) may be subject to national short-
+16
+ages during a pandemic, cyber attack, nat-
+17
+ural disaster, or other catastrophic event; 
+18
+and 
+19
+(B) includes items classified as— 
+20
+(i) personal protective equipment; 
+21
+(ii) pharmaceuticals or biopharma-
+22
+ceuticals; 
+23
+(iii) medical supplies; or 
+24
+(iv) other resources to be determined 
+25
+by the Director, in consultation with the 
+26
+02:11 May 28, 2021
+H2259
+4 
+•HR 2259 IH
+Council, which may include healthcare-re-
+1
+lated supplies or other supplies. 
+2
+(4) DATA
+EXCHANGE.—The term ‘‘Data Ex-
+3
+change’’ means the Supply Chain Data Exchange es-
+4
+tablished under section 7. 
+5
+(5) DIRECTOR.—The term ‘‘Director’’ means 
+6
+the Director of the Office. 
+7
+(6) GUARD.—The term ‘‘Guard’’ means the 
+8
+National Manufacturing Guard established under 
+9
+section 6. 
+10
+(7) HOST ORGANIZATION.—The term ‘‘host or-
+11
+ganization’’ means an entity that— 
+12
+(A) offers an apprenticeship with respect 
+13
+to which there is a registered apprenticeship 
+14
+program (as defined in section 29.2 of title 29, 
+15
+Code of Federal Regulations, or any successor 
+16
+regulation); and 
+17
+(B) is— 
+18
+(i) a business; 
+19
+(ii) an industry consortium or trade 
+20
+group; 
+21
+(iii) a Manufacturing USA institute; 
+22
+(iv) an MEP center; 
+23
+(v) an academic or research institute, 
+24
+or 
+25
+02:11 May 28, 2021
+H2259
+5 
+•HR 2259 IH
+(vi) a labor organization. 
+1
+(8) INDUSTRY PARTNER.—The term ‘‘industry 
+2
+partner’’ means a manufacturer, producer, supplier, 
+3
+or distributor of a critical resource. 
+4
+(9) MANUFACTURING CORPS.—The term ‘‘Man-
+5
+ufacturing Corps’’ means the Manufacturing Corps 
+6
+established under section 8. 
+7
+(10) MANUFACTURING
+USA
+INSTITUTE.—The 
+8
+term ‘‘Manufacturing USA institute’’ means an in-
+9
+stitute described in section 34(d) of the National In-
+10
+stitute of Standards and Technology Act (15 U.S.C. 
+11
+278s(d)). 
+12
+(11) MEP CENTER.—The term ‘‘MEP center’’ 
+13
+has the meaning given the term ‘‘Center’’ in section 
+14
+25(a) of the National Institute of Standards and 
+15
+Technology Act (15 U.S.C. 278k(a)). 
+16
+(12) OFFICE.—The term ‘‘Office’’ means the 
+17
+Office of Supply Chain Preparedness established 
+18
+under section 4. 
+19
+(13) REGISTERED APPRENTICESHIP.—The term 
+20
+‘‘registered apprenticeship’’— 
+21
+(A) means an apprenticeship with a host 
+22
+organization for which there is a registration of 
+23
+an apprenticeship agreement (as defined in sec-
+24
+02:11 May 28, 2021
+H2259
+6 
+•HR 2259 IH
+tion 29.2 of title 29, Code of Federal Regula-
+1
+tions, or any successor regulation); and 
+2
+(B) does not include an apprenticeship 
+3
+under an Industry-Recognized Apprenticeship 
+4
+Program under subpart B of part 29 of title 
+5
+29, Code of Federal Regulations, or any suc-
+6
+cessor regulation. 
+7
+(14) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+8
+means the Secretary of Commerce. 
+9
+SEC. 4. OFFICE OF SUPPLY CHAIN PREPAREDNESS. 
+10
+(a) ESTABLISHMENT.—There is established within 
+11
+the Department of Commerce the Office of Supply Chain 
+12
+Preparedness. 
+13
+(b) DIRECTOR.—The Office shall be headed by a Di-
+14
+rector, to be appointed by the Secretary. 
+15
+(c) PURPOSE.—The purpose of the Office shall be 
+16
+to— 
+17
+(1) establish and manage the partnerships of 
+18
+the Federal Government with industry partners and 
+19
+State, local, territorial, and Tribal governments to 
+20
+respond to crises; 
+21
+(2) develop capabilities to— 
+22
+(A) determine which resources qualify as 
+23
+critical resources; 
+24
+02:11 May 28, 2021
+H2259
+7 
+•HR 2259 IH
+(B) make the supply of critical resources 
+1
+more resilient; and 
+2
+(C) coordinate the distribution of critical 
+3
+resources to areas that have the greatest needs 
+4
+during a crisis; and 
+5
+(3) develop contingency plans to ensure a ro-
+6
+bust supply chain response for potential crises. 
+7
+(d) DUTIES.—The Director shall— 
+8
+(1) determine— 
+9
+(A) the responsibilities of members of the 
+10
+Council; and 
+11
+(B) the procedures governing the service of 
+12
+members of the Council; 
+13
+(2) establish procedures relating to the oper-
+14
+ation of the Council, including the frequency with 
+15
+which the Council meets; 
+16
+(3) identify critical vulnerabilities in the supply 
+17
+chains of critical resources, including vulnerabilities 
+18
+exacerbated by the COVID–19 pandemic; 
+19
+(4) coordinate the preparedness and response of 
+20
+the supply chains of critical resources during a crisis 
+21
+by— 
+22
+(A) coordinating with Federal agencies; 
+23
+(B) managing partnerships of the Federal 
+24
+Government with industry partners; and 
+25
+02:11 May 28, 2021
+H2259
+8 
+•HR 2259 IH
+(C) directing the Guard; 
+1
+(5) direct the establishment and operations of 
+2
+the Guard, the Data Exchange, and the Manufac-
+3
+turing Corps; and 
+4
+(6) maintain collaborations with industry part-
+5
+ners that contribute to the Data Exchange. 
+6
+(e) REPORTS.— 
+7
+(1) REPORT ON DIRECTOR.—Not later than 30 
+8
+days after the date of enactment of this Act, the 
+9
+Secretary shall submit to Congress a report relating 
+10
+to the appointment of the Director. 
+11
+(2) REPORT ON COUNCIL.—Not later than 180 
+12
+days after the date of enactment of this Act, the Di-
+13
+rector shall submit to Congress a report that— 
+14
+(A) identifies the members of the Council; 
+15
+and 
+16
+(B) states, with respect to the members of 
+17
+the Council— 
+18
+(i) the respective areas of expertise of 
+19
+the members; and 
+20
+(ii) the expected roles of the members. 
+21
+(3) REPORT ON ACTIVITIES.—Not later than 1 
+22
+year after the date of enactment of this Act, the Di-
+23
+rector shall submit to Congress a report that in-
+24
+cludes— 
+25
+02:11 May 28, 2021
+H2259
+9 
+•HR 2259 IH
+(A) a summary of the activities of the 
+1
+Council and the Office; and 
+2
+(B) a preliminary plan for— 
+3
+(i) the establishment of the Guard, 
+4
+the Data Exchange, and the Manufac-
+5
+turing Corps, including cost estimates, pre-
+6
+liminary timelines, and expected resource 
+7
+needs; and 
+8
+(ii) carrying out the responsibilities of 
+9
+the Director under sections 6, 7, and 8. 
+10
+(4) ANNUAL REPORT.—Not later than 2 years 
+11
+after the date of enactment of this Act, and annually 
+12
+thereafter, the Council shall submit to Congress a 
+13
+report that includes— 
+14
+(A) a list of resources that the Director 
+15
+has determined to be critical resources and the 
+16
+justification for the determination; 
+17
+(B) a list of manufacturing and supply 
+18
+chain vulnerabilities identified under subsection 
+19
+(d)(3); and 
+20
+(C) recommendations for mitigating the 
+21
+vulnerabilities listed under subparagraph (B). 
+22
+(f) STAFF.—The Director may appoint staff to man-
+23
+age the operations of the Office and the Council. 
+24
+02:11 May 28, 2021
+H2259
+10 
+•HR 2259 IH
+SEC. 5. SUPPLY CHAIN ADVISORY COUNCIL. 
+1
+(a) ESTABLISHMENT.—The Secretary shall establish 
+2
+the Supply Chain Advisory Council. 
+3
+(b) PURPOSE.—The purpose of the Council is to ad-
+4
+vise the Director on manufacturing and supply chain logis-
+5
+tics that would be necessary to direct the response of the 
+6
+supply chain of the United States during a crisis. 
+7
+(c) COMPOSITION.— 
+8
+(1) IN GENERAL.—The Council shall be com-
+9
+prised of the following members: 
+10
+(A) A representative of the Department of 
+11
+Health and Human Services, who shall be ap-
+12
+pointed by the Secretary of Health and Human 
+13
+Services. 
+14
+(B) A representative of the Department of 
+15
+Homeland Security, who shall be appointed by 
+16
+the Secretary of Homeland Security. 
+17
+(C) A representative of the Department of 
+18
+Defense, who shall be appointed by the Sec-
+19
+retary of Defense. 
+20
+(D) A representative of the Department of 
+21
+Energy, who shall be appointed by the Sec-
+22
+retary of Energy. 
+23
+(E) A representative of the Department of 
+24
+Transportation, who shall be appointed by the 
+25
+Secretary of Transportation. 
+26
+02:11 May 28, 2021
+H2259
+11 
+•HR 2259 IH
+(F) A representative of the United States 
+1
+International Trade Commission, who shall be 
+2
+appointed by the Chair of the United States 
+3
+International Trade Commission. 
+4
+(G) A representative of the Department of 
+5
+State, who shall be appointed by the Secretary 
+6
+of State. 
+7
+(H) A representative of the Office of the 
+8
+Director of National Intelligence, who shall be 
+9
+appointed by the Director of National Intel-
+10
+ligence. 
+11
+(I) The director of a Manufacturing USA 
+12
+institute, who shall be appointed by the Sec-
+13
+retary. 
+14
+(J) The director of an MEP center, who 
+15
+shall be appointed by the Secretary. 
+16
+(K) A representative of State governments, 
+17
+who shall be appointed by the Secretary in, con-
+18
+sultation with Governors of States. 
+19
+(L) Not less than 1 representative of a 
+20
+local, territorial, or Tribal government, who 
+21
+shall be appointed by the Secretary. 
+22
+(M) Not less than 3 manufacturing or sup-
+23
+ply chain experts, who shall be appointed by the 
+24
+Secretary and represent each of, respectively— 
+25
+02:11 May 28, 2021
+H2259
+12 
+•HR 2259 IH
+(i) private industry; 
+1
+(ii) labor organizations; and 
+2
+(iii) research institutions. 
+3
+(2) ADDITIONAL
+MEMBERS.—The Secretary 
+4
+may appoint additional members to the Council on 
+5
+a rotating or permanent basis. 
+6
+(3) STATUS.—The members of the Council ap-
+7
+pointed under subparagraphs (K), (L), and (M) of 
+8
+paragraph (1) shall serve as special Government em-
+9
+ployees (as defined in section 202 of title 18, United 
+10
+States Code). 
+11
+(d) DUTIES.—The Council shall— 
+12
+(1) convene according to a schedule established 
+13
+by the Director; and 
+14
+(2) advise the Director on carrying out the du-
+15
+ties of the Director under section 4(d). 
+16
+(e) PERMANENCE.—Section 14 of the Federal Advi-
+17
+sory Committee Act (5 U.S.C. App.) shall not apply to 
+18
+the Council. 
+19
+SEC. 6. NATIONAL MANUFACTURING GUARD. 
+20
+(a) ESTABLISHMENT.— 
+21
+(1) IN GENERAL.—There is established within 
+22
+the Office the National Manufacturing Guard. 
+23
+02:11 May 28, 2021
+H2259
+13 
+•HR 2259 IH
+(2) ELIGIBILITY REQUIREMENTS.—The Direc-
+1
+tor shall establish eligibility requirements for mem-
+2
+bership in the Guard, which may include— 
+3
+(A) experience or expertise in manufac-
+4
+turing or logistics; 
+5
+(B) holding a senior-level position in a 
+6
+manufacturing or supply chain organization; 
+7
+and 
+8
+(C) direct experience in manufacturing and 
+9
+supply chain operations. 
+10
+(3) SIZE AND ORGANIZATION.—The Director, in 
+11
+consultation with the Council, shall establish— 
+12
+(A) the size of the Guard; 
+13
+(B) the organization of the Guard; and 
+14
+(C) the target skillsets of members of the 
+15
+Guard. 
+16
+(b) TRAINING.— 
+17
+(1) IN GENERAL.—The Director, in consulta-
+18
+tion with the Council, shall establish a training pro-
+19
+gram for members of the Guard to ensure the readi-
+20
+ness of members to perform the duties of the Guard. 
+21
+(2) REMOTE TRAINING.—A portion of the train-
+22
+ing program established under paragraph (1) may 
+23
+be conducted remotely to prepare for crises that may 
+24
+02:11 May 28, 2021
+H2259
+14 
+•HR 2259 IH
+prevent the Guard from convening in a single phys-
+1
+ical location. 
+2
+(3) CRISIS
+SIMULATION.—Not less frequently 
+3
+than annually, the Director shall hold a full-time 
+4
+training program during which each member of the 
+5
+Guard, the Director, and the Council simulate a re-
+6
+sponse to a crisis over a period of not less than 7 
+7
+days. 
+8
+(c) ACTIVATION.— 
+9
+(1) IN GENERAL.—The Director may activate 
+10
+members of the Guard— 
+11
+(A) during a crisis for the purpose of pro-
+12
+viding expertise and labor to promote the ability 
+13
+of the United States to procure, manufacture, 
+14
+and distribute critical resources; and 
+15
+(B) to perform full-time training programs 
+16
+under subsection (b)(3). 
+17
+(2) FULL-TIME SERVICE.—Upon an activation 
+18
+under subparagraph (A), the Director may compel 
+19
+members of the Guard to active, full-time service. 
+20
+(3) DUTIES.—If the Director activates the 
+21
+Guard under paragraph (1), the Guard may— 
+22
+(A) share best practices across industry 
+23
+partners; 
+24
+02:11 May 28, 2021
+H2259
+15 
+•HR 2259 IH
+(B) coordinate the manufacturing efforts 
+1
+of industry partners; 
+2
+(C) provide technical assistance to industry 
+3
+partners; 
+4
+(D) procure raw materials or supplies; 
+5
+(E) facilitate communications between in-
+6
+dustry partners; 
+7
+(F) provide logistics support in the delivery 
+8
+of critical resources; 
+9
+(G) identify suppliers of scarce critical re-
+10
+sources; 
+11
+(H) coordinate between private industry, 
+12
+MEP centers, and Manufacturing USA insti-
+13
+tutes; and 
+14
+(I) conduct any other activities that help 
+15
+provide critical resources to areas of greatest 
+16
+need, as determined by the Director, in con-
+17
+sultation with the Council. 
+18
+(d) COMPENSATION.—The Director may provide 
+19
+compensation to members of the Guard at rates to be fixed 
+20
+by the Secretary without regard to any other law, includ-
+21
+ing any provision of title 5, United States Code, and any 
+22
+rule issued under that title. 
+23
+02:11 May 28, 2021
+H2259
+16 
+•HR 2259 IH
+(e) PARTICIPATION INCENTIVES.—The Director may 
+1
+establish incentives to encourage industry partners to em-
+2
+ploy members of the Guard. 
+3
+(f) OFFICE
+OF PERSONNEL MANAGEMENT.—The 
+4
+Secretary, in coordination with the Director of the Office 
+5
+of Personnel and Management, shall establish procedures 
+6
+with respect to the appointment of members of the Guard 
+7
+and the conditions of employment with respect to those 
+8
+members. 
+9
+SEC. 7. SUPPLY CHAIN DATA EXCHANGE. 
+10
+(a) ESTABLISHMENT.— 
+11
+(1) IN GENERAL.—Not later than 1 year after 
+12
+the date of enactment of this Act, the Director shall 
+13
+develop a plan to establish the Supply Chain Data 
+14
+Exchange. 
+15
+(2) PURPOSE.—The purpose of the Data Ex-
+16
+change shall be to— 
+17
+(A) allow the Director to— 
+18
+(i) take account of— 
+19
+(I) critical resources that have 
+20
+been recently manufactured, imported, 
+21
+or distributed; and 
+22
+(II) the ability of industry part-
+23
+ners to manufacture critical resources; 
+24
+and 
+25
+02:11 May 28, 2021
+H2259
+17 
+•HR 2259 IH
+(ii) plan the flow of critical resources 
+1
+during a crisis; 
+2
+(B) provide the Director with an under-
+3
+standing of the volume of critical resources pro-
+4
+vided by industry partners to enable the Direc-
+5
+tor to develop plans to— 
+6
+(i) direct the Guard to assist industry 
+7
+partners in increasing the production ca-
+8
+pacity of critical resources; 
+9
+(ii) alleviate supply chain bottlenecks; 
+10
+(iii) allocate supplies of the Federal 
+11
+Government to the areas of greatest need; 
+12
+and 
+13
+(iv) coordinate between manufacturers 
+14
+and distributors to mitigate scarcity of 
+15
+critical resources; 
+16
+(C) allow the Director to predict local or 
+17
+national scarcity of critical resources for the du-
+18
+ration of a crisis; and 
+19
+(D) enable the Director to direct the 
+20
+Guard or collaborate with industry partners or 
+21
+Federal agencies to mitigate scarcities of crit-
+22
+ical resources. 
+23
+(3) CONTENTS.—The Director shall— 
+24
+02:11 May 28, 2021
+H2259
+18 
+•HR 2259 IH
+(A) solicit data from industry partners re-
+1
+lating to the manufacturing output of critical 
+2
+resources; and 
+3
+(B) add the data received under subpara-
+4
+graph (A) to the Data Exchange. 
+5
+(4) DATA PRIVACY.— 
+6
+(A) IN GENERAL.—In consultation with in-
+7
+dustry partners, the Director may develop secu-
+8
+rity measures that are necessary to protect in-
+9
+formation in the Data Exchange, including pro-
+10
+tocols to ensure that, depending on the nature 
+11
+of information in the Data Exchange, only indi-
+12
+viduals with the appropriate level of authoriza-
+13
+tion may access the information. 
+14
+(B) INFORMATION DISCLOSURE.— 
+15
+(i) IN GENERAL.—The Director may 
+16
+withhold information obtained from an in-
+17
+dustry partner under this section only to 
+18
+the extent permitted by law. 
+19
+(ii) FOIA EXEMPTION.—Unless the 
+20
+disclosure of data described in paragraph 
+21
+(3)(A) would be consistent with security 
+22
+measures developed under subparagraph 
+23
+(A) of this paragraph, the data shall be— 
+24
+02:11 May 28, 2021
+H2259
+19 
+•HR 2259 IH
+(I) withheld from public disclo-
+1
+sure; and 
+2
+(II) 
+exempt 
+from 
+disclosure 
+3
+under section 552(b)(3) of title 5, 
+4
+United States Code. 
+5
+(C) USAGE
+AGREEMENTS.—The Director 
+6
+shall develop a usage agreement for the Data 
+7
+Exchange to ensure that data shared to the 
+8
+Data Exchange by an industry partner is— 
+9
+(i) hosted securely; and 
+10
+(ii) only used for purposes agreed to 
+11
+in advance by the Director and the indus-
+12
+try partner. 
+13
+(5) DEVELOPMENT.— 
+14
+(A) IN GENERAL.—The Director, with the 
+15
+consent of a Federal agency, may use the serv-
+16
+ices, equipment, personnel, and facilities of a 
+17
+Federal agency, with or without reimbursement, 
+18
+to— 
+19
+(i) develop the Data Exchange; or 
+20
+(ii) identify a data exchange existing 
+21
+on the date of enactment of this Act that 
+22
+can be modified to have the capacity to 
+23
+host the Data Exchange required under 
+24
+this section that provides— 
+25
+02:11 May 28, 2021
+H2259
+20 
+•HR 2259 IH
+(I) necessary functionality to the 
+1
+Director; and 
+2
+(II) additional functionality to in-
+3
+dustry partners. 
+4
+(B) VALUE TO PARTICIPANTS.—In order 
+5
+to encourage the participation of industry part-
+6
+ners in the Data Exchange, the Director may 
+7
+develop a Data Exchange that provides— 
+8
+(i) value to industry partners outside 
+9
+of a time of crisis; and 
+10
+(ii) access to aggregated data or ana-
+11
+lytics to industry partners that participate 
+12
+in the Data Exchange that complies with 
+13
+the provisions of the usage agreement de-
+14
+veloped under paragraph (4)(C). 
+15
+(6) PARTICIPATION INCENTIVES.—The Director 
+16
+may establish incentives to encourage the participa-
+17
+tion and cooperation of industry partners with the 
+18
+Data Exchange. 
+19
+SEC. 8. MANUFACTURING CORPS. 
+20
+(a) ESTABLISHMENT.—There is established within 
+21
+the Office the Manufacturing Corps. 
+22
+(b) DUTIES.—The Manufacturing Corps shall— 
+23
+(1) function as a workforce development pro-
+24
+gram that prioritizes the training of manufacturing 
+25
+02:11 May 28, 2021
+H2259
+21 
+•HR 2259 IH
+skills determined to be essential to the economic se-
+1
+curity of the United States by the Director and the 
+2
+Council; 
+3
+(2) support the development of an innovative 
+4
+and flexible manufacturing workforce in the United 
+5
+States; 
+6
+(3) provide on-the-job training to members of 
+7
+the Manufacturing Corps; and 
+8
+(4) provide a qualified base of individuals to 
+9
+join the Guard upon the completion of the Manufac-
+10
+turing Corps program. 
+11
+(c) MEMBERSHIP.— 
+12
+(1) IN
+GENERAL.—Not later than 180 days 
+13
+after the date of enactment of this Act, the Director 
+14
+shall develop criteria for membership in the Manu-
+15
+facturing Corps, which may include a competitive 
+16
+process that evaluates the dedication and enthusiasm 
+17
+of individuals for assisting the public during a crisis. 
+18
+(2) PREFERENCE.—In selecting members of the 
+19
+Manufacturing Corps, the Director shall give pref-
+20
+erence to an individual who is— 
+21
+(A) an underrepresented racial or ethnic 
+22
+minority; 
+23
+(B) a woman; 
+24
+02:11 May 28, 2021
+H2259
+22 
+•HR 2259 IH
+(C) a veteran (as defined in section 101 of 
+1
+title 38, United States Code); or 
+2
+(D) a resident of an underrepresented geo-
+3
+graphic region. 
+4
+(3) TERM.—The term of a member in the Man-
+5
+ufacturing Corps shall be for a period of not less 
+6
+than 1 year and not more than 2 years. 
+7
+(d) ACTIVITIES.— 
+8
+(1) APPRENTICESHIP.— 
+9
+(A) IN GENERAL.—A member of the Man-
+10
+ufacturing Corps shall participate in a reg-
+11
+istered apprenticeship with a host organization 
+12
+for a 1-year period. 
+13
+(B) SKILLS.—A registered apprenticeship 
+14
+of a member of the Manufacturing Corps with 
+15
+a host organization shall— 
+16
+(i) provide the member with funda-
+17
+mental skills necessary to be successful in 
+18
+a manufacturing or supply chain work-
+19
+force; 
+20
+(ii) qualify the member as a full-time 
+21
+employee of the host organization; and 
+22
+(iii) provide training and career devel-
+23
+opment opportunities. 
+24
+(2) TRAINING REQUIREMENT.— 
+25
+02:11 May 28, 2021
+H2259
+23 
+•HR 2259 IH
+(A) 
+INITIAL
+TRAINING.—The 
+Director 
+1
+shall provide individuals who are selected as 
+2
+members of the Guard with initial training 
+3
+that— 
+4
+(i) lasts for not fewer than 2, and not 
+5
+more than 4, weeks; 
+6
+(ii) serves as an orientation for the 
+7
+Guard; and 
+8
+(iii) includes a survey of basic skills in 
+9
+preparation for a registered apprenticeship. 
+10
+(B) PERIODIC
+TRAINING.—The Director 
+11
+shall provide regular training to members of the 
+12
+Manufacturing Corps that— 
+13
+(i) ensures that the members have the 
+14
+ability to serve as effective members of the 
+15
+Guard; and 
+16
+(ii) enhances the ability of members to 
+17
+contribute to the workforce of the United 
+18
+States and the Guard. 
+19
+(3) COMPENSATION.—The Director may pro-
+20
+vide supplemental compensation to members of the 
+21
+Manufacturing Corps at rates to be fixed by the Sec-
+22
+retary without regard to any other law, including 
+23
+any provision of title 5, United States Code, and any 
+24
+rule issued under that title. 
+25
+02:11 May 28, 2021
+H2259
+24 
+•HR 2259 IH
+(e) GRADUATION.— 
+1
+(1) IN GENERAL.—Upon the expiration of the 
+2
+term of a member of the Manufacturing Corps, the 
+3
+Director shall review the performance of the member 
+4
+in— 
+5
+(A) the registered apprenticeship under 
+6
+subsection (d)(1)(A); and 
+7
+(B) the training under subsection (d)(2). 
+8
+(2) INCENTIVES.—The Director may establish 
+9
+incentives to encourage members of the Manufac-
+10
+turing Corps who receive favorable reviews under 
+11
+paragraph (1) to join the Guard. 
+12
+SEC. 9. AUTHORIZATION OF APPROPRIATIONS. 
+13
+There are authorized to be appropriated to carry out 
+14
+this Act $1,000,000,000 for the 5-fiscal year period begin-
+15
+ning with fiscal year 2021. 
+16
+Æ 
+02:11 May 28, 2021
+H2259

@@ -1,0 +1,1864 @@
+A BILL 
+To establish the Supply Chain Resiliency and Crisis Response 
+Office in the Department of Commerce, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Supply Chain Health 
+4
+And Integrity for the Nation Act’’ or the ‘‘Supply CHAIN 
+5
+Act’’. 
+6
+SEC. 2. SUPPLY CHAIN RESILIENCY AND CRISIS RESPONSE 
+7
+OFFICE. 
+8
+(a) DEFINITIONS.—In this section: 
+9
+17:01 Nov 01, 2021
+H5479
+2 
+•HR 5479 IH
+(1) CRITICAL
+GOOD
+OR
+SERVICE.—The term 
+1
+‘‘critical good or service’’ means any raw, in process, 
+2
+or manufactured material (including any mineral, 
+3
+metal, or advanced processed material), article, com-
+4
+modity, supply, product, or item of supply the ab-
+5
+sence of which would have a significant effect on— 
+6
+(A) the national security or economic secu-
+7
+rity of the United States; and 
+8
+(B) critical infrastructure. 
+9
+(2) CRITICAL
+INDUSTRY.—The term ‘‘critical 
+10
+industry’’ means an industry that is critical for the 
+11
+national security or economic security of the United 
+12
+States, considering key technology focus areas under 
+13
+this section and critical infrastructure. 
+14
+(3) CRITICAL
+INFRASTRUCTURE.—The term 
+15
+‘‘critical infrastructure’’ has the meaning given to 
+16
+that term in the Critical Infrastructures Protection 
+17
+Act of 2001 (42 U.S.C. 5195c). 
+18
+(4) DOMESTIC
+ENTERPRISE.—The term ‘‘do-
+19
+mestic enterprise’’ means an enterprise that con-
+20
+ducts business in the United States and procures a 
+21
+critical good or service. 
+22
+(5) DOMESTIC
+MANUFACTURER.—The term 
+23
+‘‘domestic manufacturer’’ means a business that— 
+24
+17:01 Nov 01, 2021
+H5479
+3 
+•HR 5479 IH
+(A) conducts in the United States the re-
+1
+search and development, engineering, or pro-
+2
+duction activities necessary or incidental to 
+3
+manufacturing; or 
+4
+(B) if provided financial assistance by the 
+5
+Federal Government, will conduct in the United 
+6
+States the research and development, engineer-
+7
+ing, or production activities necessary or inci-
+8
+dental to manufacturing. 
+9
+(6) ECONOMICALLY
+DISTRESSED
+AREA.—The 
+10
+term ‘‘economically distressed area’’ means an area 
+11
+that meets 1 or more of the requirements described 
+12
+in section 301(a) of the Public Works and Economic 
+13
+Development Act of 1965 (42 U.S.C. 3161(a)). 
+14
+(7) FEDERAL
+AGENCY.—The term ‘‘Federal 
+15
+agency’’ has the meaning given the term ‘‘agency’’ 
+16
+in section 551 of title 5, United States Code. 
+17
+(8) INDUSTRIAL EQUIPMENT.—The term ‘‘in-
+18
+dustrial equipment’’ means any component, sub-
+19
+system, system, equipment, tooling, accessory, part, 
+20
+or assembly necessary for the manufacturing of a 
+21
+critical good or service. 
+22
+(9) KEY
+TECHNOLOGY
+FOCUS
+AREAS.—The 
+23
+term ‘‘key technology focus areas’’ means the fol-
+24
+lowing: 
+25
+17:01 Nov 01, 2021
+H5479
+4 
+•HR 5479 IH
+(A) Artificial intelligence, machine learn-
+1
+ing, autonomy, and related advances. 
+2
+(B) High-performance computing, semi-
+3
+conductors, and advanced computer hardware 
+4
+and software. 
+5
+(C) Quantum information science and 
+6
+technology. 
+7
+(D) Robotics, automation, and advanced 
+8
+manufacturing. 
+9
+(E) Natural and anthropogenic disaster 
+10
+prevention or mitigation. 
+11
+(F) Advanced communications technology, 
+12
+including optical transmission components. 
+13
+(G) Biotechnology, medical technology, 
+14
+genomics, and synthetic biology. 
+15
+(H) Data storage, data management, dis-
+16
+tributed ledger technologies, and cybersecurity, 
+17
+including biometrics. 
+18
+(I) Advanced energy and industrial efficacy 
+19
+technologies, such as batteries, advanced nu-
+20
+clear technologies, and polysilicon for use in 
+21
+solar photovoltaics, including for the purposes 
+22
+of electric generation (consistent with section 
+23
+15 of the National Science Foundation Act of 
+24
+1950 (42 U.S.C. 1874)). 
+25
+17:01 Nov 01, 2021
+H5479
+5 
+•HR 5479 IH
+(J) Advanced materials science, including 
+1
+composites and 2D materials and equipment, 
+2
+aerospace grade metals, and aerospace specific 
+3
+manufacturing enabling chemicals. 
+4
+(10) LABOR ORGANIZATION.—The term ‘‘labor 
+5
+organization’’ has the meaning given the term in 
+6
+section 2(5) of the National Labor Relations Act (29 
+7
+U.S.C. 152(5)), except that such term shall also in-
+8
+clude— 
+9
+(A) any organization composed of labor or-
+10
+ganizations, such as a labor union federation or 
+11
+a State or municipal labor body; and 
+12
+(B) any organization which would be in-
+13
+cluded in the definition for such term under 
+14
+such section 2(5) but for the fact that the orga-
+15
+nization represents— 
+16
+(i) individuals employed by the United 
+17
+States, any wholly owned Government cor-
+18
+poration, any Federal Reserve Bank, or 
+19
+any State or political subdivision thereof; 
+20
+(ii) individuals employed by persons 
+21
+subject to the Railway Labor Act (45 
+22
+U.S.C. 151 et seq.); or 
+23
+(iii) individuals employed as agricul-
+24
+tural laborers. 
+25
+17:01 Nov 01, 2021
+H5479
+6 
+•HR 5479 IH
+(11) 
+MANUFACTURING
+TECHNOLOGY.—The 
+1
+term ‘‘manufacturing technology’’ means tech-
+2
+nologies that are necessary or incidental to the man-
+3
+ufacturing of a critical good or service. 
+4
+(12) OFFICE.—The term ‘‘Office’’ means the 
+5
+Supply Chain Resiliency and Crisis Response Office 
+6
+established under subsection (b). 
+7
+(13) RELEVANT COMMITTEES OF CONGRESS.— 
+8
+The term ‘‘relevant committees of Congress’’ 
+9
+means— 
+10
+(A) the Committee on Commerce, Science, 
+11
+and Transportation of the Senate; 
+12
+(B) the Committee on Appropriations of 
+13
+the Senate; 
+14
+(C) the Committee on Finance of the Sen-
+15
+ate; 
+16
+(D) the Committee on Homeland Security 
+17
+and Governmental Affairs of the Senate; 
+18
+(E) the Committee on Armed Services of 
+19
+the Senate; 
+20
+(F) the Committee on Energy and Natural 
+21
+Resources of the Senate; 
+22
+(G) the Select Committee on Intelligence of 
+23
+the Senate; 
+24
+17:01 Nov 01, 2021
+H5479
+7 
+•HR 5479 IH
+(H) the Committee on Science, Space, and 
+1
+Technology of the House of Representatives; 
+2
+(I) the Committee on Energy and Com-
+3
+merce of the House of Representatives; 
+4
+(J) the Committee on Appropriations of 
+5
+the House of Representatives; 
+6
+(K) the Committee on Ways and Means of 
+7
+the House of Representatives; 
+8
+(L) the Committee on Homeland Security 
+9
+of the House of Representatives; 
+10
+(M) the Committee on Armed Services of 
+11
+the House of Representatives; and 
+12
+(N) the Permanent Select Committee on 
+13
+Intelligence of the House of Representatives. 
+14
+(14) RESILIENT
+SUPPLY
+CHAIN.—The term 
+15
+‘‘resilient supply chain’’ means a supply chain 
+16
+that— 
+17
+(A) ensures that the United States can 
+18
+sustain critical industry production, supply 
+19
+chains, services, and access to critical goods and 
+20
+services, industrial equipment, and manufac-
+21
+turing technology during supply chain shocks; 
+22
+and 
+23
+(B) has key components of resilience that 
+24
+include— 
+25
+17:01 Nov 01, 2021
+H5479
+8 
+•HR 5479 IH
+(i) effective private sector risk man-
+1
+agement and mitigation planning to sus-
+2
+tain supply chains and supplier networks 
+3
+during a supply chain shock; 
+4
+(ii) minimized or managed exposure to 
+5
+supply chain shocks; and 
+6
+(iii) the financial and operational ca-
+7
+pacity to— 
+8
+(I) sustain supply chains during 
+9
+supply chain shocks; and 
+10
+(II) recover from supply chain 
+11
+shocks. 
+12
+(15) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+13
+means the Secretary of Commerce. 
+14
+(16) STATE.—The term ‘‘State’’ means each 
+15
+State of the United States, the District of Columbia, 
+16
+American Samoa, Guam, the Commonwealth of the 
+17
+Northern Mariana Islands, the Commonwealth of 
+18
+Puerto Rico, the Virgin Islands of the United States, 
+19
+and any other territory or possession of the United 
+20
+States. 
+21
+(17) SUPPLY CHAIN.—The term ‘‘supply chain’’ 
+22
+means a supply chain for a critical good or service. 
+23
+(18) SUPPLY CHAIN INFORMATION.—The term 
+24
+‘‘supply chain information’’ means information that 
+25
+17:01 Nov 01, 2021
+H5479
+9 
+•HR 5479 IH
+is not customarily in the public domain and relating 
+1
+to— 
+2
+(A) sustaining and adapting supply chains 
+3
+during a supply chain shock; 
+4
+(B) supply chain risk mitigation and recov-
+5
+ery planning with respect to a supply chain 
+6
+shock, including any planned or past assess-
+7
+ment, projection, or estimate of a vulnerability 
+8
+within the supply chain, including testing, sup-
+9
+plier network assessments, production flexi-
+10
+bility, risk evaluations thereto, risk manage-
+11
+ment planning, or risk audits; or 
+12
+(C) operational best practices, planning, 
+13
+and supplier partnerships that enable enhanced 
+14
+resilience of supply chains during a supply 
+15
+chain shock, including response, repair, recov-
+16
+ery, reconstruction, insurance, or continuity. 
+17
+(19) SUPPLY CHAIN SHOCK.—The term ‘‘supply 
+18
+chain shock’’ includes the following: 
+19
+(A) A natural disaster or extreme weather 
+20
+event. 
+21
+(B) An accidental or human-caused event. 
+22
+(C) An economic disruption. 
+23
+(D) A pandemic. 
+24
+(E) A biological threat. 
+25
+17:01 Nov 01, 2021
+H5479
+10 
+•HR 5479 IH
+(F) A cyberattack. 
+1
+(G) A great power conflict. 
+2
+(H) A terrorist or geopolitical attack. 
+3
+(I) Any other supply chain disruption or 
+4
+threat that affects the national security or eco-
+5
+nomic security of the United States. 
+6
+(20) TRIBAL GOVERNMENT.—The term ‘‘Tribal 
+7
+government’’ means Indian Tribes, Alaska Native 
+8
+Tribal entities, and Native Hawaiian communities. 
+9
+(21) UNDER
+SECRETARY.—The term ‘‘Under 
+10
+Secretary’’ means the Under Secretary of the Office 
+11
+of Supply Chain Resiliency and Crisis Response ap-
+12
+pointed pursuant to subsection (d). 
+13
+(b) ESTABLISHMENT.—Not later than 180 days after 
+14
+the date of enactment of this Act, the Secretary shall es-
+15
+tablish a Supply Chain Resiliency and Crisis Response Of-
+16
+fice to carry out the activities described in subsection (e). 
+17
+(c) MISSION.—The mission of the Office shall be the 
+18
+following: 
+19
+(1) Help to promote the leadership of the 
+20
+United States with respect to critical industries and 
+21
+supply chains that— 
+22
+(A) strengthen the national security of the 
+23
+United States; and 
+24
+17:01 Nov 01, 2021
+H5479
+11 
+•HR 5479 IH
+(B) have a significant effect on the eco-
+1
+nomic security of the United States. 
+2
+(2) Encourage partnerships and collaboration 
+3
+with the Federal Government and the private sector, 
+4
+labor organizations, the governments of countries 
+5
+that are allies or key international partners of the 
+6
+United States, State governments and political sub-
+7
+divisions of a State, and Tribal governments in order 
+8
+to— 
+9
+(A) promote the resilience of supply 
+10
+chains; and 
+11
+(B) respond to supply chain shocks to— 
+12
+(i) critical industries; and 
+13
+(ii) supply chains. 
+14
+(3) Monitor the resilience, diversity, security, 
+15
+and strength of supply chains and critical industries, 
+16
+including by— 
+17
+(A) monitoring the financial and oper-
+18
+ational conditions of domestic manufacturers 
+19
+and domestic enterprises; 
+20
+(B) performing stress tests for critical in-
+21
+dustries, supply chains, domestic enterprises, 
+22
+and domestic manufacturers; 
+23
+17:01 Nov 01, 2021
+H5479
+12 
+•HR 5479 IH
+(C) monitoring the demand and supply of 
+1
+critical goods and services, industrial equip-
+2
+ment, and manufacturing technology; 
+3
+(D) monitoring manufacturing, warehous-
+4
+ing, transportation, and distribution; and 
+5
+(E) working in partnership with the co-
+6
+ordination group established under subsection 
+7
+(g), as applicable. 
+8
+(4) Support the development, maintenance, im-
+9
+provement, competitiveness, restoration, and expan-
+10
+sion of the productive capacities, efficiency, and 
+11
+workforce of critical industries and domestic manu-
+12
+facturers of critical goods and services, industrial 
+13
+equipment, and manufacturing technology. 
+14
+(5) Prepare for and take appropriate steps to 
+15
+minimize the effects of supply chain shocks on crit-
+16
+ical industries and supply chains. 
+17
+(6) Support the creation of jobs with competi-
+18
+tive wages in the manufacturing sector. 
+19
+(7) Encourage manufacturing growth and op-
+20
+portunities in economically distressed areas and 
+21
+communities of color. 
+22
+(8) Promote the health of the economy of the 
+23
+United States and the competitiveness of manufac-
+24
+turing in the United States. 
+25
+17:01 Nov 01, 2021
+H5479
+13 
+•HR 5479 IH
+(9) Coordinate executive branch actions nec-
+1
+essary to carry out the functions described in para-
+2
+graphs (1) through (8). 
+3
+(d) UNDER SECRETARY OF THE OFFICE.— 
+4
+(1) APPOINTMENT
+AND
+TERM.—The head of 
+5
+the Office shall be the Under Secretary of the Office 
+6
+of Supply Chain Resiliency and Crisis Response, ap-
+7
+pointed by the President, by and with the advice and 
+8
+consent of the Senate, for a term of not more than 
+9
+5 years. 
+10
+(2) PAY.—The Under Secretary shall be com-
+11
+pensated at the rate in effect for level II of the Ex-
+12
+ecutive Schedule under section 5313 of title 5, 
+13
+United States Code. 
+14
+(3) 
+ADMINISTRATIVE
+AUTHORITIES.—The 
+15
+Under Secretary may appoint officers and employees 
+16
+in accordance with chapter 51 and subchapter III of 
+17
+chapter 53 of title 5, United States Code. 
+18
+(e) ACTIVITIES.—The Under Secretary shall carry 
+19
+out the following activities: 
+20
+(1) In collaboration with the coordination group 
+21
+established under subsection (g)— 
+22
+(A) map, monitor, and model supply 
+23
+chains; and 
+24
+17:01 Nov 01, 2021
+H5479
+14 
+•HR 5479 IH
+(B) identify high priority supply chain 
+1
+gaps and vulnerabilities in critical industries 
+2
+and supply chains that— 
+3
+(i) exist as of the date of the enact-
+4
+ment of this section; or 
+5
+(ii) are anticipated in the future. 
+6
+(2) Identify and evaluate— 
+7
+(A) supply chain shocks that may disrupt, 
+8
+strain, compromise, or eliminate a supply chain; 
+9
+(B) short-term, medium-term, and long- 
+10
+term manufacturing needs critical to the na-
+11
+tional security, economic security, public health, 
+12
+and the environment of the United States; 
+13
+(C) the diversity, security, reliability, and 
+14
+strength of— 
+15
+(i) supply chains, including single 
+16
+point of failure, single producer, or consoli-
+17
+dated manufacturing; and 
+18
+(ii) the sources of critical goods and 
+19
+services, industrial equipment, or manufac-
+20
+turing technology, including those obtained 
+21
+or purchased from a person outside of the 
+22
+United States or imported into the United 
+23
+States; 
+24
+17:01 Nov 01, 2021
+H5479
+15 
+•HR 5479 IH
+(D) the demand and supply of critical 
+1
+goods and services, industrial equipment, and 
+2
+manufacturing technology; 
+3
+(E) the availability, capability, and capac-
+4
+ity of domestic manufacturers or manufacturers 
+5
+in allied nations or other key international part-
+6
+ners to serve as a source of a critical good or 
+7
+service, industrial equipment, or manufacturing 
+8
+technology; 
+9
+(F) the effect on the economic security of 
+10
+the United States, including jobs and wages, 
+11
+that may result from the disruption, strain, 
+12
+compromise, or elimination of any supply chain; 
+13
+(G) the state of the manufacturing work-
+14
+force, including— 
+15
+(i) the needs of domestic manufactur-
+16
+ers; and 
+17
+(ii) opportunities to create high-qual-
+18
+ity manufacturing jobs; and 
+19
+(H) investments in critical goods and serv-
+20
+ices, industrial equipment, or manufacturing 
+21
+technology from non-Federal sources. 
+22
+(3) In collaboration with the coordination group 
+23
+established under subsection (g), State governments 
+24
+and political subdivisions of a State, and Tribal gov-
+25
+17:01 Nov 01, 2021
+H5479
+16 
+•HR 5479 IH
+ernments, and, as appropriate, in cooperation with 
+1
+the governments of countries that are allies or key 
+2
+international partners of the United States— 
+3
+(A) identify opportunities to reduce supply 
+4
+chain gaps and vulnerabilities in critical indus-
+5
+tries and supply chains; 
+6
+(B) encourage partnerships between the 
+7
+Federal Government and industry, labor organi-
+8
+zations, State governments and political sub-
+9
+divisions of a State, and Tribal governments to 
+10
+better respond to supply chain shocks to critical 
+11
+industries and supply chains and coordinate re-
+12
+sponse efforts; 
+13
+(C) encourage partnerships between the 
+14
+Federal Government and the governments of 
+15
+countries that are allies or key international 
+16
+partners of the United States; 
+17
+(D) develop or identify opportunities to 
+18
+build the capacity of the United States in crit-
+19
+ical industries and supply chains; 
+20
+(E) develop or identify opportunities to 
+21
+build the capacity of countries that are allies or 
+22
+key international partners of the United States 
+23
+in critical industries and supply chains; and 
+24
+17:01 Nov 01, 2021
+H5479
+17 
+•HR 5479 IH
+(F) develop contingency plans and coordi-
+1
+nation mechanisms to improve critical industry 
+2
+supply chain response to supply chain shocks. 
+3
+(4) In coordination with the Secretary of State 
+4
+and the United States Trade Representative— 
+5
+(A) work with governments of countries 
+6
+that are allies or key international partners of 
+7
+the United States to promote diversified and re-
+8
+silient supply chains industries that ensure the 
+9
+supply of critical goods and services, industrial 
+10
+equipment, and manufacturing technology to 
+11
+both the United States and companies of coun-
+12
+tries that are allies or key international part-
+13
+ners of the United States; and 
+14
+(B) coordinate with other offices and divi-
+15
+sions of the Department of Commerce and 
+16
+other Federal agencies to use authorities, as of 
+17
+the date of the enactment of this section, to en-
+18
+courage the resilience of supply chains of crit-
+19
+ical industries. 
+20
+(5) Develop strategies and plans to recover 
+21
+from supply chain shocks. 
+22
+(f) CONTINUOUS MONITORING.—The Under Sec-
+23
+retary, in consultation with the head of any relevant Fed-
+24
+eral agency, including those with jurisdiction over supply 
+25
+17:01 Nov 01, 2021
+H5479
+18 
+•HR 5479 IH
+chains, shall continuously monitor the resilience, diversity, 
+1
+security, and strength of supply chains. 
+2
+(g) COORDINATION GROUP.— 
+3
+(1) IN GENERAL.—In carrying out the activities 
+4
+under subsection (e), the Under Secretary shall es-
+5
+tablish a unified coordination group led by the 
+6
+Under Secretary which shall include private sector 
+7
+partners, labor organizations, and, as appropriate, 
+8
+Federally Funded Research and Development Cen-
+9
+ters, to serve as a method for coordinating between 
+10
+and among Federal agencies described under sub-
+11
+section (k) to plan for and respond to supply chain 
+12
+shocks and support the resilience, diversity, security, 
+13
+and strength of supply chains. 
+14
+(2) IMPLEMENTATION.—Through the unified 
+15
+coordination group established under paragraph (1), 
+16
+the Under Secretary shall— 
+17
+(A) acquire on a voluntary basis technical, 
+18
+engineering, and operational supply chain infor-
+19
+mation from the private sector in a manner 
+20
+that ensures any supply chain information pro-
+21
+vided by the private sector is kept confidential 
+22
+as required under section 552(b)(3) of title 5, 
+23
+United States Code (commonly known as the 
+24
+‘‘Freedom of Information Act’’); 
+25
+17:01 Nov 01, 2021
+H5479
+19 
+•HR 5479 IH
+(B) study the supply chain information ac-
+1
+quired under subparagraph (A) to— 
+2
+(i) identify supply chains; 
+3
+(ii) assess the resilience of supply 
+4
+chains; 
+5
+(iii) identify supply chains vulnerable 
+6
+to disruption, strain, compromise, or elimi-
+7
+nation; and 
+8
+(iv) inform planning; 
+9
+(C) convene with relevant private sector 
+10
+entities to share best practices, planning, and 
+11
+capabilities to respond to potential supply chain 
+12
+shocks; and 
+13
+(D) develop contingency plans and coordi-
+14
+nation mechanisms to ensure an effective and 
+15
+coordinated response to potential supply chain 
+16
+shocks. 
+17
+(3) SUBGROUPS.—In carrying out the activities 
+18
+described in paragraph (2), the Under Secretary 
+19
+may establish subgroups of the unified coordination 
+20
+group established under paragraph (1) led by the 
+21
+head of an appropriate Federal agency. 
+22
+(4) 
+INTERNATIONAL
+AGREEMENTS.—The 
+23
+Under Secretary, in consultation with the United 
+24
+States Trade Representative and any other relevant 
+25
+17:01 Nov 01, 2021
+H5479
+20 
+•HR 5479 IH
+Federal agency, may enter into agreements with 
+1
+governments of countries that are allies or key inter-
+2
+national partners of the United States relating to 
+3
+enhancing the security and resilience of supply 
+4
+chains in response to supply chain shocks. 
+5
+(h) DESIGNATIONS.—Not later than 180 days after 
+6
+the date of enactment of this Act, the Under Secretary 
+7
+shall— 
+8
+(1) designate— 
+9
+(A) critical industries; 
+10
+(B) supply chains; and 
+11
+(C) critical goods and services; 
+12
+(2) provide for a period of public comment and 
+13
+review in carrying out paragraph (1); and 
+14
+(3) update the designations made under para-
+15
+graph (1) not less frequently than once every four 
+16
+years. 
+17
+(i) QUADRENNIAL REPORT ON SUPPLY CHAIN RE-
+18
+SILIENCY AND DOMESTIC MANUFACTURING.— 
+19
+(1) IN GENERAL.—Not later than four years 
+20
+after the date on which the final Sectoral Supply 
+21
+Chain Assessments report on supply chains required 
+22
+under section 4(a) of Executive Order 14017 (relat-
+23
+ing to America’s supply chains) is submitted, and 
+24
+not later than once every four years thereafter, the 
+25
+17:01 Nov 01, 2021
+H5479
+21 
+•HR 5479 IH
+Under Secretary, in coordination with relevant Fed-
+1
+eral agencies and relevant private sector entities, 
+2
+labor organizations, State governments and political 
+3
+subdivisions of a State, and Tribal governments, 
+4
+shall submit to the relevant committees of Congress 
+5
+and post on the website of the Under Secretary a re-
+6
+port on supply chain resilience and domestic manu-
+7
+facturing (in this subsection referred to as the ‘‘re-
+8
+port’’) to strengthen, improve, and preserve the di-
+9
+versity, security, reliability, and strength of supply 
+10
+chains. 
+11
+(2) ELEMENTS.—In carrying out paragraph 
+12
+(1), the Under Secretary shall— 
+13
+(A) identify— 
+14
+(i) the critical industries, supply 
+15
+chains, and critical goods and services des-
+16
+ignated under subsection (h); 
+17
+(ii) supplies that are critical to the 
+18
+crisis preparedness of the United States; 
+19
+(iii) substitutes for critical goods and 
+20
+services, industrial equipment, and manu-
+21
+facturing technology; and 
+22
+(iv) the matters identified and evalu-
+23
+ated pursuant to subsection (e)(3); 
+24
+(B) provide a description of— 
+25
+17:01 Nov 01, 2021
+H5479
+22 
+•HR 5479 IH
+(i) the manufacturing base and supply 
+1
+chains in the United States, including the 
+2
+manufacturing base and supply chains 
+3
+for— 
+4
+(I) industrial equipment; 
+5
+(II) critical goods and services, 
+6
+including raw materials and semi-
+7
+conductors, that are essential to the 
+8
+production of technologies and sup-
+9
+plies for critical industries; and 
+10
+(III) manufacturing technology; 
+11
+and 
+12
+(ii) the ability of the United States 
+13
+to— 
+14
+(I) maintain readiness with re-
+15
+spect to preparing for and responding 
+16
+to supply chain shocks; and 
+17
+(II) in response to a supply chain 
+18
+shock— 
+19
+(aa) surge production in 
+20
+critical industries; 
+21
+(bb) surge production of 
+22
+critical goods and services and 
+23
+industrial equipment; and 
+24
+17:01 Nov 01, 2021
+H5479
+23 
+•HR 5479 IH
+(cc) maintain access to crit-
+1
+ical goods and services, industrial 
+2
+equipment, and manufacturing 
+3
+technology; 
+4
+(C) provide an assessment and description 
+5
+of— 
+6
+(i) demand and supply of critical 
+7
+goods and services, industrial equipment, 
+8
+and manufacturing technology; 
+9
+(ii) production of critical goods and 
+10
+services, industrial equipment, and manu-
+11
+facturing technology by domestic manufac-
+12
+turers; and 
+13
+(iii) the capability and capacity of do-
+14
+mestic manufacturers and manufacturers 
+15
+in countries that are allies or key inter-
+16
+national partners of the United States to 
+17
+manufacture critical goods and services, in-
+18
+dustrial equipment, and manufacturing 
+19
+technology; 
+20
+(D) identify defense, intelligence, home-
+21
+land, economic, domestic labor supply, natural, 
+22
+geopolitical, or other contingencies and other 
+23
+supply chain shocks that may disrupt, strain, 
+24
+compromise, or eliminate a supply chain; 
+25
+17:01 Nov 01, 2021
+H5479
+24 
+•HR 5479 IH
+(E) provide an assessment of— 
+1
+(i) the resilience and capacity of the 
+2
+manufacturing base, supply chains, and 
+3
+workforce of the United States, the allies 
+4
+of the United States, and the key inter-
+5
+national partners of the United States that 
+6
+can sustain critical industries through a 
+7
+supply chain shock; 
+8
+(ii) the flexible manufacturing capac-
+9
+ity and capabilities available in the United 
+10
+States in the case of a supply chain shock; 
+11
+and 
+12
+(iii) the effect innovation has on do-
+13
+mestic manufacturing; 
+14
+(F) provide specific recommendations to 
+15
+improve the security and resiliency of manufac-
+16
+turing capacity and supply chains through— 
+17
+(i) developing long-term strategies; 
+18
+(ii) increasing visibility into the net-
+19
+works and capabilities of suppliers and do-
+20
+mestic manufacturers; 
+21
+(iii) identifying industry best prac-
+22
+tices; 
+23
+(iv) evaluating how diverse supplier 
+24
+networks, multi-platform and multi-region 
+25
+17:01 Nov 01, 2021
+H5479
+25 
+•HR 5479 IH
+production capabilities and sources, and in-
+1
+tegrated global and regional supply chains 
+2
+can— 
+3
+(I) enhance the resilience of crit-
+4
+ical industries in the United States; 
+5
+(II) support and create jobs in 
+6
+the United States; 
+7
+(III) enhance the resilience of 
+8
+manufacturing 
+capabilities 
+of 
+the 
+9
+United States; and 
+10
+(IV) support access of the United 
+11
+States to critical goods and services 
+12
+during a supply chain shock; 
+13
+(v) identifying and mitigating risks, 
+14
+including— 
+15
+(I) the financial and operational 
+16
+risks of a supply chain; 
+17
+(II) significant vulnerabilities to 
+18
+supply chain shocks and other emer-
+19
+gencies; and 
+20
+(III) 
+exposure 
+to 
+gaps 
+and 
+21
+vulnerabilities in— 
+22
+(aa) domestic capacity or ca-
+23
+pabilities; and 
+24
+17:01 Nov 01, 2021
+H5479
+26 
+•HR 5479 IH
+(bb) 
+sources 
+of 
+imports 
+1
+needed to sustain critical indus-
+2
+tries and supply chains; 
+3
+(vi) identifying enterprise resource 
+4
+planning systems that are— 
+5
+(I) 
+compatible 
+across 
+supply 
+6
+chain tiers; and 
+7
+(II) affordable for small- and me-
+8
+dium-sized businesses; 
+9
+(vii) understanding the total cost of 
+10
+ownership, total value contribution, and 
+11
+other best practices that encourage stra-
+12
+tegic 
+partnerships 
+throughout 
+supply 
+13
+chains; 
+14
+(viii) understanding Federal procure-
+15
+ment opportunities to increase resiliency of 
+16
+supply chains and fill gaps in domestic 
+17
+purchasing of critical goods and services; 
+18
+(ix) identifying policies that maximize 
+19
+job retention and creation in the United 
+20
+States, including workforce development 
+21
+programs; 
+22
+(x) identifying opportunities to work 
+23
+with allies or key international partners of 
+24
+the United States in building more resil-
+25
+17:01 Nov 01, 2021
+H5479
+27 
+•HR 5479 IH
+ient critical industry supply chains and 
+1
+mitigating risks; 
+2
+(xi) identifying areas requiring further 
+3
+investment in research and development or 
+4
+workforce education; and 
+5
+(xii) identifying such other services as 
+6
+the Under Secretary determines necessary; 
+7
+(G) provide guidance to the Department of 
+8
+Commerce, the National Science Foundation, 
+9
+and other relevant Federal agencies with re-
+10
+spect to critical goods and services, industrial 
+11
+equipment, and manufacturing technologies 
+12
+that should be prioritized; 
+13
+(H) with respect to countries that are al-
+14
+lies or key international partners of the United 
+15
+States— 
+16
+(i) review and, if appropriate, provide 
+17
+recommendations 
+for 
+expanding 
+the 
+18
+sourcing of critical goods and services, in-
+19
+dustrial equipment, and manufacturing 
+20
+technology associated with critical indus-
+21
+tries from those countries; and 
+22
+(ii) 
+recommend 
+coordination 
+with 
+23
+those countries on— 
+24
+17:01 Nov 01, 2021
+H5479
+28 
+•HR 5479 IH
+(I) sourcing critical goods and 
+1
+services, industrial equipment, and 
+2
+manufacturing technology; and 
+3
+(II) developing, sustaining, and 
+4
+expanding production and availability 
+5
+of supply chains, critical goods and 
+6
+services, industrial equipment, and 
+7
+manufacturing technology during a 
+8
+supply chain shock; 
+9
+(I) make recommendations for strength-
+10
+ening the financial and operational health of 
+11
+small- and medium-sized businesses in supply 
+12
+chains of the United States and countries that 
+13
+are allies or key international partners of the 
+14
+United States to mitigate risks and ensure di-
+15
+verse and competitive supplier markets that are 
+16
+less vulnerable to failure; 
+17
+(J) make an assessment of policies, rules, 
+18
+and regulations that impact domestic manufac-
+19
+turers’ operating costs and inhibit the ability 
+20
+for domestic manufacturing to compete with 
+21
+global competitors; and 
+22
+(K) 
+make 
+recommendations 
+regarding 
+23
+freight and logistics necessary to support supply 
+24
+chains. 
+25
+17:01 Nov 01, 2021
+H5479
+29 
+•HR 5479 IH
+(3) PROHIBITION.—The report may not in-
+1
+clude— 
+2
+(A) supply chain information that is not 
+3
+aggregated; or 
+4
+(B) confidential business information of a 
+5
+private sector entity. 
+6
+(4) COLLABORATION.—The head of any Fed-
+7
+eral agency with jurisdiction over any supply chain 
+8
+shall collaborate with the Under Secretary and pro-
+9
+vide any information, data, or assistance that the 
+10
+Under Secretary determines to be necessary for de-
+11
+veloping the report. 
+12
+(5) FORM.—The report submitted under this 
+13
+subsection, and any update submitted thereafter, 
+14
+shall be submitted in unclassified form and may in-
+15
+clude a classified annex. 
+16
+(6) PUBLIC COMMENT.—The Under Secretary 
+17
+shall provide for a period of public comment and re-
+18
+view in developing the report required under para-
+19
+graph (1). 
+20
+(j) REPORT TO CONGRESS.—Concurrent with the an-
+21
+nual submission by the President of the budget under sec-
+22
+tion 1105 of title 31, United States Code, the Secretary 
+23
+shall submit to the relevant committees of Congress and 
+24
+post on the website of the Under Secretary a report that 
+25
+17:01 Nov 01, 2021
+H5479
+30 
+•HR 5479 IH
+contains a summary of the activities required under sub-
+1
+section (e) carried out under this section during the fiscal 
+2
+year covered by the report. Such report shall be submitted 
+3
+in unclassified form and may include a classified annex. 
+4
+(k) COORDINATION.— 
+5
+(1) IN GENERAL.—In implementing the require-
+6
+ments under subsection (i), the Under Secretary 
+7
+shall, as appropriate coordinate with— 
+8
+(A) the heads of appropriate Federal agen-
+9
+cies, including— 
+10
+(i) the Secretary of State; and 
+11
+(ii) the United States Trade Rep-
+12
+resentative; and 
+13
+(B) the Attorney General and the Federal 
+14
+Trade Commission with respect to— 
+15
+(i) advice on the design and activities 
+16
+of the unified coordination group described 
+17
+in subsection (g)(1); and 
+18
+(ii) ensuring compliance with Federal 
+19
+antitrust law. 
+20
+(2) SPECIFIC COORDINATION.—In carrying out 
+21
+the requirements under this section, with respect to 
+22
+supply chains involving specific sectors, the Under 
+23
+Secretary shall, as appropriate, coordinate with— 
+24
+(A) the Secretary of Defense; 
+25
+17:01 Nov 01, 2021
+H5479
+31 
+•HR 5479 IH
+(B) the Secretary of Homeland Security; 
+1
+(C) the Secretary of the Treasury; 
+2
+(D) the Secretary of Energy; 
+3
+(E) the Secretary of Transportation; 
+4
+(F) the Secretary of Agriculture; 
+5
+(G) the Under Secretary of National Intel-
+6
+ligence; 
+7
+(H) the Secretary of Health and Human 
+8
+Services; 
+9
+(I) the Small Business Administration; 
+10
+(J) the Secretary of Labor; and 
+11
+(K) the heads of other relevant Federal 
+12
+agencies, as appropriate. 
+13
+(l) RULE OF CONSTRUCTION.—Nothing in this sec-
+14
+tion shall be construed to require any private entity— 
+15
+(1) to share information with the Secretary or 
+16
+Under Secretary; 
+17
+(2) to request assistance from the Secretary or 
+18
+Under Secretary; or 
+19
+(3) that requests assistance from the Secretary 
+20
+or Under Secretary to implement any measure or 
+21
+recommendation suggested by the Secretary or 
+22
+Under Secretary. 
+23
+(m) PROTECTIONS.— 
+24
+17:01 Nov 01, 2021
+H5479
+32 
+•HR 5479 IH
+(1) IN
+GENERAL.—Supply chain information 
+1
+that is voluntarily and lawfully submitted by a pri-
+2
+vate entity and accompanied by an express state-
+3
+ment described in paragraph (2) of this subsection— 
+4
+(A) shall be exempt from disclosure under 
+5
+section 552(b)(3) of title 5, United States Code; 
+6
+(B) shall not be made available by any 
+7
+Federal, State, local, or Tribal authority pursu-
+8
+ant to any Federal, State, local, or Tribal law 
+9
+requiring public disclosure of information or 
+10
+records; and 
+11
+(C) shall not, without the written consent 
+12
+of the person or entity submitting such infor-
+13
+mation, be used directly by the Under Sec-
+14
+retary, or any other Federal, State, or local au-
+15
+thority in any civil enforcement action brought 
+16
+by a Federal, State, or local authority. 
+17
+(2) EXPRESS STATEMENT.—The express state-
+18
+ment described in this paragraph, with respect to in-
+19
+formation or records, is— 
+20
+(A) in the case of written information or 
+21
+records, a written marking on the information 
+22
+or records substantially similar to the following: 
+23
+‘‘This information is voluntarily submitted to 
+24
+the Federal Government in expectation of pro-
+25
+17:01 Nov 01, 2021
+H5479
+33 
+•HR 5479 IH
+tection from disclosure as provided by the provi-
+1
+sions of section 2(m) of the Supply Chain 
+2
+Health And Integrity for the Nation Act.’’; or 
+3
+(B) in the case of oral information, a writ-
+4
+ten statement similar to the statement de-
+5
+scribed in subparagraph (A) submitted within a 
+6
+reasonable period following the oral communica-
+7
+tion. 
+8
+(3) INAPPLICABILITY TO SEMICONDUCTOR IN-
+9
+CENTIVE PROGRAM.—This subsection shall not apply 
+10
+to the voluntary submission of supply chain informa-
+11
+tion by a private entity in an application for Federal 
+12
+financial assistance under section 9902 of the Wil-
+13
+liam M. (Mac) Thornberry National Defense Author-
+14
+ization Act for Fiscal Year 2021 (Public Law 116– 
+15
+283). 
+16
+(n) NO EFFECT ON DISCOVERY.—Subject to sub-
+17
+section (m), nothing in this section, nor any rule, regula-
+18
+tion, or amendment shall be construed to create a defense 
+19
+to a discovery request, or otherwise limit or affect the dis-
+20
+covery of supply chain information from a private entity 
+21
+arising from a cause of action authorized under any under 
+22
+Federal, State, local, or Tribal law. 
+23
+(o) IMPLEMENTATION REPORT.— 
+24
+17:01 Nov 01, 2021
+H5479
+34 
+•HR 5479 IH
+(1) IN GENERAL.—Not later than 1 year after 
+1
+the date of enactment of this Act, the Secretary 
+2
+shall submit to the relevant committees of Congress 
+3
+and post on the website of the Under Secretary a re-
+4
+port on the implementation of this section. 
+5
+(2) ELEMENTS.—In carrying out paragraph 
+6
+(1), the Secretary shall— 
+7
+(A) identify any office or bureau within the 
+8
+Department of Commerce that the Secretary 
+9
+determines has duties, responsibilities, re-
+10
+sources, or expertise that support or duplicate 
+11
+the mission of the Office; 
+12
+(B) describe the purposes of the offices or 
+13
+bureaus identified under subparagraph (A); 
+14
+(C) identify if the Under Secretary is co-
+15
+ordinating with the offices and bureaus identi-
+16
+fied under subparagraph (A) in implementing 
+17
+the requirements of this Act; 
+18
+(D) if the Secretary makes a positive de-
+19
+termination under subparagraph (C), evaluate 
+20
+the effectiveness and efficiency of the Under 
+21
+Secretary and the offices and bureaus identified 
+22
+under subparagraph (A) at implementing the 
+23
+requirements of this section; and 
+24
+17:01 Nov 01, 2021
+H5479
+35 
+•HR 5479 IH
+(E) identify if the Secretary will consoli-
+1
+date functions amongst the Office and the of-
+2
+fices and bureaus identified under subpara-
+3
+graph (A). 
+4
+(p) CONSISTENCY WITH INTERNATIONAL AGREE-
+5
+MENTS.—This section shall be applied in a manner con-
+6
+sistent with United States obligations under international 
+7
+agreements. 
+8
+(q) AUTHORIZATION OF APPROPRIATIONS.—There is 
+9
+authorized to be appropriated to the Under Secretary 
+10
+$500,000,000 for fiscal years 2022 through 2027, to re-
+11
+main available until expended, to carry out this section, 
+12
+of which not more than 2 percent per fiscal year may be 
+13
+used for administrative costs. 
+14
+Æ 
+17:01 Nov 01, 2021
+H5479

@@ -1,0 +1,394 @@
+A BILL 
+To prohibit the use of trade secrets privileges to prevent 
+defense access to evidence in criminal proceedings, pro-
+vide for the establishment of Computational Forensic 
+Algorithm Testing Standards and a Computational Fo-
+rensic Algorithm Testing Program, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Justice in Forensic 
+4
+Algorithms Act of 2021’’. 
+5
+19:46 Jun 05, 2021
+H2438
+2 
+•HR 2438 IH
+SEC. 2. COMPUTATIONAL FORENSIC ALGORITHM TESTING 
+1
+STANDARDS. 
+2
+(a) IN GENERAL.—Not later than 1 year after the 
+3
+date of enactment of this Act, the Director of the National 
+4
+Institute of Standards and Technology shall establish a 
+5
+program to provide for creation and maintenance of stand-
+6
+ards for testing computational forensic software, to be 
+7
+known as the Computational Forensic Algorithm Testing 
+8
+Standards, consistent with the following: 
+9
+(1) Testing standards shall include an assess-
+10
+ment for the potential for disparate impact, on the 
+11
+basis of race, ethnicity, socioeconomic status, gender, 
+12
+and other demographic features. 
+13
+(2) Testing standards shall address— 
+14
+(A) the underlying scientific principles and 
+15
+methods implemented in computational forensic 
+16
+software; and 
+17
+(B) requirements for testing the software 
+18
+including the conditions under which it needs to 
+19
+be tested, types of testing data to be used, test-
+20
+ing environments, testing methodologies, and 
+21
+system performance statistics required to be re-
+22
+ported including— 
+23
+(i) accuracy, including false positive 
+24
+and false negative error rates; 
+25
+(ii) precision; 
+26
+19:46 Jun 05, 2021
+H2438
+3 
+•HR 2438 IH
+(iii) reproducibility; 
+1
+(iv) robustness; 
+2
+(v) sensitivity; and 
+3
+(vi) system failure rates; 
+4
+(C) requirements for publicly available doc-
+5
+umentation by developers of computational fo-
+6
+rensic software of the purpose and function of 
+7
+the software, the development process, including 
+8
+source and description of data used to develop 
+9
+the tool, and internal testing methodology and 
+10
+results, including source and description of test-
+11
+ing data; 
+12
+(D) requirements for laboratories and any 
+13
+other entities using computational forensic soft-
+14
+ware to validate it for use, including to specify 
+15
+the conditions under which the lab has vali-
+16
+dated it for their use, requirements for what in-
+17
+formation needs to be included in a public re-
+18
+port on the lab or other entity’s validation, and 
+19
+requirements for internal validation updates 
+20
+when there are material changes to the soft-
+21
+ware; and 
+22
+(E) requirements for reports provided to 
+23
+defendants by prosecution produced docu-
+24
+19:46 Jun 05, 2021
+H2438
+4 
+•HR 2438 IH
+menting the use and results of computational 
+1
+forensic software used in individual cases. 
+2
+(3) Testing standards shall be issued as a rule-
+3
+making under section 553 of title 5, United States 
+4
+Code. 
+5
+(4) The Director shall consult with outside ex-
+6
+perts in forensic science, bioethics, algorithmic dis-
+7
+crimination, data privacy, racial justice, criminal jus-
+8
+tice reform, exonerations, and other relevant areas 
+9
+of expertise identified through public input. 
+10
+(b) PROTECTION OF TRADE SECRETS.— 
+11
+(1) There shall be no trade secret evidentiary 
+12
+privilege to withhold relevant evidence in criminal 
+13
+proceedings in the United States courts. 
+14
+(2) Nothing in this section may be construed to 
+15
+alter the standard operation of the Federal Rules of 
+16
+Criminal Procedure, or the Federal Rules of Evi-
+17
+dence, as such rules would function in the absence 
+18
+of an evidentiary privilege. 
+19
+(c) REQUIREMENTS FOR FEDERAL USE OF FOREN-
+20
+SIC ALGORITHMS.—Any Federal law enforcement agency 
+21
+or crime laboratory providing services to a Federal law 
+22
+enforcement agency using computational forensic software 
+23
+may use only software that has been tested under the Na-
+24
+tional Institute of Standards and Technology’s Computa-
+25
+19:46 Jun 05, 2021
+H2438
+5 
+•HR 2438 IH
+tional Forensic Algorithm Testing Program and shall con-
+1
+duct an internal validation according to the requirements 
+2
+outlined in the Computational Forensic Algorithm Testing 
+3
+Standards and make the results publicly available. The in-
+4
+ternal validation shall be updated when there is a material 
+5
+change in the software that triggers a retesting by the 
+6
+Computational Forensic Algorithm Testing Program. 
+7
+(d) TESTING PROGRAM.—The Director of the Na-
+8
+tional Institute of Standards and Technology shall estab-
+9
+lish a Computational Forensic Algorithm Testing Pro-
+10
+gram, whose activities include the following: 
+11
+(1) Testing individual software programs using 
+12
+the testing requirements established in the Computa-
+13
+tional Forensic Algorithm Testing Standards. 
+14
+(2) Using realistic sample testing data similar 
+15
+to what would be used by law enforcement in crimi-
+16
+nal investigations in performing such testing, includ-
+17
+ing incomplete and contaminated samples. 
+18
+(3) Using testing data that represents diversity 
+19
+of racial, ethnic, and gender identities and intersec-
+20
+tions of these identities in performing such testing. 
+21
+(4) Using testing data that tests the limits of 
+22
+the software and demonstrates the boundaries of re-
+23
+liability described in the performance measures de-
+24
+19:46 Jun 05, 2021
+H2438
+6 
+•HR 2438 IH
+fined in the Computational Forensic Algorithm Test-
+1
+ing Standards in performing such testing. 
+2
+(5) Publishing the results of testing the soft-
+3
+ware online including results under conditions speci-
+4
+fied in the testing standards and across diversity of 
+5
+racial, ethnic, and gender identities and intersections 
+6
+of these identities in a publicly available format. 
+7
+(e) TESTING FREQUENCY.—Retesting shall be con-
+8
+ducted when a material change is made to the software 
+9
+that impacts its performance and may affect its outputs. 
+10
+The Director shall establish requirements for determining 
+11
+whether changes are material or nonmaterial. 
+12
+(f) USE
+OF
+COMPUTATIONAL
+FORENSIC
+SOFT-
+13
+WARE.—Any results or reports resulting from analysis by 
+14
+computational forensic software shall be provided to the 
+15
+defendant, and the defendant shall be accorded access to 
+16
+both an executable copy of and the source code for the 
+17
+version of the computational forensic software—as well as 
+18
+earlier versions of the software, necessary instructions for 
+19
+use and interpretation of the results, and relevant files and 
+20
+data—used for analysis in the case and suitable for testing 
+21
+purposes. Such a report on the results shall include— 
+22
+(1) the name of the company that developed the 
+23
+software; 
+24
+(2) the name of the lab where test was run; 
+25
+19:46 Jun 05, 2021
+H2438
+7 
+•HR 2438 IH
+(3) the version of the software that was used; 
+1
+(4) the dates of the most recent changes to the 
+2
+software and record of changes made, including any 
+3
+bugs found in the software and what was done to 
+4
+address those bugs; 
+5
+(5) documentation of procedures followed based 
+6
+on procedures outlined in internal validation; 
+7
+(6) documentation of conditions under which 
+8
+software was used relative to the conditions under 
+9
+which software was tested; and 
+10
+(7) any other information specified by the Di-
+11
+rector of the National Institute of Standards and 
+12
+Technology in the Computational Forensic Algo-
+13
+rithm Testing Standards. 
+14
+(g) INADMISSIBILITY OF CERTAIN EVIDENCE.—In 
+15
+any criminal case, evidence that is the result of analysis 
+16
+by computational forensic software is admissible only if— 
+17
+(1) the computational forensic software used 
+18
+has been submitted to the Computational Forensic 
+19
+Algorithm Testing Program of the Director of the 
+20
+National Institute of Standards and Technology and 
+21
+there have been no material changes to that software 
+22
+since it was last tested; and 
+23
+(2) the developers and users of the computa-
+24
+tional forensic software agree to waive any and all 
+25
+19:46 Jun 05, 2021
+H2438
+8 
+•HR 2438 IH
+legal claims against the defense or any member of 
+1
+its team for the purposes of the defense analyzing or 
+2
+testing the computational forensic software. 
+3
+(h) DEFINITIONS.—In this Act: 
+4
+(1) COMPUTATIONAL
+FORENSIC
+SOFTWARE.— 
+5
+The term ‘‘computational forensic software’’ means 
+6
+software that relies on an automated or semiauto-
+7
+mated computational process, including one derived 
+8
+from machine learning, statistics, or other data proc-
+9
+essing or artificial intelligence techniques, to process, 
+10
+analyze, or interpret evidence. 
+11
+(2) MATERIAL CHANGE.—The term ‘‘material 
+12
+change’’ means an update to computational forensic 
+13
+software that may affect the performance measures 
+14
+defined in the Computational Forensic Algorithm 
+15
+Testing Standards or the use or output of the soft-
+16
+ware. 
+17
+(3) NONMATERIAL CHANGE.—The term ‘‘non-
+18
+material change’’ means an update to computational 
+19
+forensic software that does not affect the perform-
+20
+ance measures, use, or output of the software. 
+21
+Æ 
+19:46 Jun 05, 2021
+H2438

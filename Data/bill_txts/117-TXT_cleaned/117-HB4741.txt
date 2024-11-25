@@ -1,0 +1,3072 @@
+A BILL 
+To provide for the regulation of digital assets, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Digital Asset Market 
+4
+Structure and Investor Protection Act’’. 
+5
+SEC. 2. TABLE OF CONTENTS. 
+6
+The table of contents for this Act is as follows: 
+7
+Sec. 1. Short title. 
+Sec. 2. Table of contents. 
+TITLE I—DIGITAL ASSET SECURITIES UNDER THE FEDERAL 
+SECURITIES LAWS 
+19:18 Aug 10, 2021
+H4741
+2 
+•HR 4741 IH
+Subtitle A—Securities Exchange Act of 1934 
+Sec. 101. Definition of digital asset security. 
+Sec. 102. Delayed registration for digital asset securities. 
+Sec. 103. Desecuritization of digital asset securities. 
+Sec. 104. Joint SEC and CFTC rulemaking on major digital asset classifica-
+tion. 
+Sec. 105. Conforming amendments. 
+Subtitle B—Other Securities Laws 
+Sec. 111. Securities Act of 1933. 
+Sec. 112. Investment Advisers Act of 1940. 
+Sec. 113. Investment Company Act of 1940. 
+Sec. 114. Securities Investor Protection Act of 1970. 
+TITLE II—TREATMENT OF DIGITAL ASSETS UNDER THE 
+COMMODITY EXCHANGE ACT 
+Sec. 201. Definitions. 
+Sec. 202. Actual delivery of digital assets. 
+Sec. 203. Optional Federal charter for digital asset trading and clearing. 
+Sec. 204. Reporting requirements. 
+Sec. 205. CTA and CPOs: Commodity Interests. 
+Sec. 206. Swap data repositories and digital asset trade repositories. 
+TITLE III—DIGITAL FEDERAL RESERVE NOTES, LEGAL TENDER 
+STATUS, THE REGULATION OF DIGITAL ASSET FIAT-BASED 
+STABLECOINS, AND FEDERAL DEPOSIT AND SHARE INSUR-
+ANCE FOR DIGITAL ASSETS 
+Subtitle A—Digital Federal Reserve Notes 
+Sec. 301. In general. 
+Sec. 302. Digital asset legal tender status. 
+Subtitle B—Regulation of Digital Asset Fiat-Based Stablecoins 
+Sec. 311. Department of Treasury regulation of digital asset fiat-based 
+stablecoins. 
+Sec. 312. Conforming amendment. 
+Subtitle C—Federal Deposit and Share Insurance for Digital Assets 
+Sec. 321. Digital asset not deposits for Federal deposit and share insurance. 
+Sec. 322. Directed rulemaking FDIC and NCUA website disclosure on digital 
+assets and insurance noncoverage. 
+TITLE IV—BANK SECRECY ACT 
+Sec. 401. Bank Secrecy Act. 
+Sec. 402. Anonymizing services, money mule, and anonymity-enhanced convert-
+ible virtual currencies. 
+Sec. 403. Digital asset transaction actual delivery reporting. 
+Sec. 404. Virtual digital asset service providers. 
+TITLE V—VARIOUS DIGITAL ASSET REPORTS 
+Sec. 501. IRS report on digital asset ownership/taxes. 
+19:18 Aug 10, 2021
+H4741
+3 
+•HR 4741 IH
+Sec. 502. Report on ransomware and digital assets. 
+Sec. 503. Report on decentralized finance. 
+Sec. 504. Report on custody of digital assets and digital asset securities. 
+Sec. 505. Report on digital asset trading platforms. 
+Sec. 506. Report on false trade reporting, wash trading, and off-chain trans-
+action on digital asset trading platforms. 
+Sec. 507. Relevant committees defined. 
+TITLE I—DIGITAL ASSET SECU-
+1
+RITIES UNDER THE FEDERAL 
+2
+SECURITIES LAWS 
+3
+Subtitle A—Securities Exchange 
+4
+Act of 1934 
+5
+SEC. 101. DEFINITION OF DIGITAL ASSET SECURITY. 
+6
+(a) DEFINITION OF SECURITY.—Section 3(a)(10) of 
+7
+the Securities Exchange Act of 1934 (15 U.S.C. 
+8
+78c(a)(10)) is amended— 
+9
+(1) by inserting ‘‘digital asset security,’’ after 
+10
+‘‘investment contract,’’; and 
+11
+(2) by striking ‘‘; but shall not include cur-
+12
+rency’’ and inserting ‘‘; but shall not include any fiat 
+13
+currency, commodity, digital asset,’’. 
+14
+(b) OTHER DEFINITIONS.—Section 3(a) of the Secu-
+15
+rities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amend-
+16
+ed— 
+17
+(1) by transferring paragraph (79) so as to ap-
+18
+pear after paragraph (78); 
+19
+(2) by redesignating the second paragraph (80) 
+20
+as paragraph (81); and 
+21
+(3) by adding at the end the following: 
+22
+19:18 Aug 10, 2021
+H4741
+4 
+•HR 4741 IH
+‘‘(82) DIGITAL ASSET SECURITY.— 
+1
+‘‘(A) IN
+GENERAL.—The term ‘digital 
+2
+asset security’ means a digital asset that: 
+3
+‘‘(i) Provides the holder of the digital 
+4
+asset with any of the following rights: 
+5
+‘‘(I) Equity or debt interest in 
+6
+the issuer. 
+7
+‘‘(II) Right to profits, interest, or 
+8
+dividend payments from the issuer. 
+9
+‘‘(III) Voting rights in the major 
+10
+corporate actions (which shall not in-
+11
+clude new block creations, hardforks, 
+12
+or protocol changes related to the dig-
+13
+ital asset) of the issuer. 
+14
+‘‘(IV) Liquidation rights in the 
+15
+event of the issuer’s liquidation. 
+16
+‘‘(ii) In the case of an issuer with a 
+17
+service, goods, or platform that is not 
+18
+wholly operational at the time of issuing 
+19
+such digital asset, with respect to any 
+20
+fundraising or capital formation activity 
+21
+(including initial coin offerings) which is 
+22
+accomplished through the issuance of such 
+23
+a digital asset, issues such digital asset to 
+24
+a holder in return for money (including 
+25
+19:18 Aug 10, 2021
+H4741
+5 
+•HR 4741 IH
+other digital assets) to fund the develop-
+1
+ment of the proposed service, goods, or 
+2
+platform of the issuer. 
+3
+‘‘(B) RULE
+RELATING
+TO
+DIGITAL
+AS-
+4
+SETS.—The term ‘digital asset security’ does 
+5
+not include any digital asset other than the dig-
+6
+ital assets described in subparagraph (A). Any 
+7
+digital asset not described in subparagraph (A) 
+8
+shall be considered to be, and regulated as, a 
+9
+commodity under the Commodity Exchange Act 
+10
+(7 U.S.C. 1a et seq.).’’. 
+11
+SEC. 102. DELAYED REGISTRATION FOR DIGITAL ASSET SE-
+12
+CURITIES. 
+13
+Section 12(g)(1) of the Securities Exchange Act of 
+14
+1934 (15 U.S.C. 78l(g)(1)) is amended— 
+15
+(1) in subparagraph (A)(ii), by striking ‘‘and’’ 
+16
+at the end; 
+17
+(2) in subparagraph (B), by inserting ‘‘and’’ 
+18
+after ‘‘persons,’’; and 
+19
+(3) by inserting after subparagraph (B) the fol-
+20
+lowing: 
+21
+‘‘(C) in the case of an issuer of a digital asset 
+22
+security, not later than 120 days after the last day 
+23
+of the third fiscal year on which the issuer first has 
+24
+total assets exceeding $10,000,000 and a class of eq-
+25
+19:18 Aug 10, 2021
+H4741
+6 
+•HR 4741 IH
+uity security (other than an exempted security) held 
+1
+of record by 2,000 or more persons,’’. 
+2
+SEC. 103. DESECURITIZATION OF DIGITAL ASSET SECURI-
+3
+TIES. 
+4
+Section 12(g) of the Securities Exchange Act of 1934 
+5
+(15 U.S.C. 78l(g)) is amended by adding at the end the 
+6
+following: 
+7
+‘‘(7) 
+DESECURITIZATION
+OF
+DIGITAL 
+8
+ASSET SECURITIES.—Registration of any class 
+9
+of digital asset security pursuant to this sub-
+10
+section or status as a security (or both) shall be 
+11
+terminated ninety days, or such shorter period 
+12
+as the Commission may determine, after the 
+13
+issuer files a desecuritization certification with 
+14
+the Commission. The desecuritization certifi-
+15
+cation shall demonstrate that the issuer’s serv-
+16
+ice, goods, or platform are fully operational and 
+17
+that the digital asset does not provide holders 
+18
+of such digital assets with any of the rights 
+19
+specified in subclauses (I) through (IV) of sec-
+20
+tion 3(a)(82)(A). The Commission shall after 
+21
+notice and opportunity for hearing deny termi-
+22
+nation of registration or change in status as a 
+23
+security (or both) if it finds that the 
+24
+desecuritization certification is untrue. Termi-
+25
+19:18 Aug 10, 2021
+H4741
+7 
+•HR 4741 IH
+nation of registration or change in status (or 
+1
+both) shall be deferred pending final determina-
+2
+tion on the question of denial. A digital asset 
+3
+security so desecuritized shall be considered to 
+4
+be, and regulated as, a commodity under the 
+5
+Commodity Exchange Act (7 U.S.C. 1a et 
+6
+seq.).’’. 
+7
+SEC. 104. JOINT SEC AND CFTC RULEMAKING ON MAJOR 
+8
+DIGITAL ASSET CLASSIFICATION. 
+9
+The Securities Exchange Act of 1934 is amended by 
+10
+adding at the end the following: 
+11
+‘‘SEC. 105. JOINT SEC AND CFTC RULEMAKING ON MAJOR 
+12
+DIGITAL ASSET CLASSIFICATION. 
+13
+‘‘(a) IN GENERAL.—Not later than 150 days after 
+14
+the date of the enactment of this section, the Commission 
+15
+and the Commodity Futures Trading Commission shall 
+16
+jointly publish, for purposes of a 60-day public comment 
+17
+period, a proposed rulemaking that classifies each of the 
+18
+major digital assets by (i) highest market capitalization 
+19
+and (ii) highest daily trading volume as either— 
+20
+‘‘(1) a digital asset; or 
+21
+‘‘(2) a digital asset security. 
+22
+‘‘(b) FINAL RULE.—Not later than 270 days after 
+23
+the date of the enactment of this Act, the Commission and 
+24
+the Commodity Futures Trading Commission shall jointly 
+25
+19:18 Aug 10, 2021
+H4741
+8 
+•HR 4741 IH
+publish a final rule that classifies each of the major digital 
+1
+assets by (i) highest market capitalization and (ii) highest 
+2
+daily average trading volume as— 
+3
+‘‘(1) a digital asset; or 
+4
+‘‘(2) a digital asset security. 
+5
+‘‘(c) MAJOR DIGITAL ASSETS DEFINED.—In this 
+6
+subsection, the term ‘major digital assets’ means the top 
+7
+25 digital assets (including digital asset securities) by (i) 
+8
+the highest market capitalization and (ii) the highest daily 
+9
+trading volume as of the date of the enactment of the Dig-
+10
+ital Asset Market Structure and Investor Protection Act 
+11
+as reported on an appropriate publicly available website 
+12
+(as jointly determined by the Commission and the Com-
+13
+modity Futures Trading Commission) that publishes such 
+14
+information, such as CoinMarketCap.’’. 
+15
+SEC. 105. CONFORMING AMENDMENTS. 
+16
+(a) DEFINITION OF BROKER.—Section 3(a)(4)(A) of 
+17
+the Securities Exchange Act of 1934 (15 U.S.C. 78c(a) 
+18
+is amended by inserting ‘‘including a digital asset security, 
+19
+but not digital assets,’’ after ‘‘security’’. 
+20
+(b) SECURITIES EXCHANGE ACT DEFINITIONS.— 
+21
+Section 3(a) of the Securities Exchange Act of 1934 (15 
+22
+U.S.C. 78c(a)), as amended by section 101, is further 
+23
+amended by adding at the end the following: 
+24
+19:18 Aug 10, 2021
+H4741
+9 
+•HR 4741 IH
+‘‘(83) COMMODITY
+EXCHANGE
+ACT
+TERMS.— 
+1
+The terms, ‘commodity’, ‘digital asset’,‘digital asset 
+2
+trade repository’, and ‘virtual currency’ have the 
+3
+meanings given such terms, respectively, in section 
+4
+1a of the Commodity Exchange Act (7 U.S.C. 1a).’’. 
+5
+Subtitle B—Other Securities Laws 
+6
+SEC. 111. SECURITIES ACT OF 1933. 
+7
+(a) DEFINITION OF SECURITY.—Section 2(a)(1) of 
+8
+the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is 
+9
+amended— 
+10
+(1) by inserting ‘‘digital asset security,’’ after 
+11
+‘‘investment contract,’’; and 
+12
+(2) by striking the period at the end and insert-
+13
+ing ‘‘; but does not include any fiat currency, com-
+14
+modity, digital asset, or any note, draft, bill of ex-
+15
+change, or banker’s acceptance which has a maturity 
+16
+at the time of issuance of not exceeding nine months 
+17
+exclusive of days of grace or any renewal thereof the 
+18
+maturity of which is likewise limited.’’. 
+19
+(b) OTHER DEFINITIONS.—Section 2(a) of the Secu-
+20
+rities Act of 1933 (15 U.S.C. 77b(a)) is amended by add-
+21
+ing the following: 
+22
+‘‘(20) The terms ‘commodity’, ‘digital asset’, 
+23
+‘digital asset trade repository’, and ‘virtual currency’ 
+24
+have the meanings given such terms, respectively, in 
+25
+19:18 Aug 10, 2021
+H4741
+10 
+•HR 4741 IH
+section 1a of the Commodity Exchange Act (7 
+1
+U.S.C. 1a). 
+2
+‘‘(21) The term ‘digital asset security’ has the 
+3
+meaning given such term in section 3(a) of the Secu-
+4
+rities Exchange Act of 1934 (15 U.S.C. 78c(a)).’’. 
+5
+SEC. 112. INVESTMENT ADVISERS ACT OF 1940. 
+6
+(a) DEFINITION OF SECURITY.—Section 202(a)(18) 
+7
+of the Investment Advisers Act of 1940 (15 U.S.C. 80b– 
+8
+2(a)(18)) is amended— 
+9
+(1) by inserting ‘‘digital asset security,’’ after 
+10
+‘‘investment contract,’’; and 
+11
+(2) by striking the period at the end and insert-
+12
+ing ‘‘; but does not include any fiat currency, com-
+13
+modity, digital asset, or any note, draft, bill of ex-
+14
+change, or banker’s acceptance which has a maturity 
+15
+at the time of issuance of not exceeding nine months 
+16
+exclusive of days of grace or any renewal thereof the 
+17
+maturity of which is likewise limited.’’. 
+18
+(b) DEFINITION OF DIGITAL ASSET SECURITY.— 
+19
+Section 202(a) of the Investment Advisers Act of (15 
+20
+U.S.C. 80b–2(a)) is amended by adding at the end the 
+21
+following: 
+22
+‘‘(31) The term ‘digital asset security’ has the 
+23
+meaning given such term section 3(a) of the Securi-
+24
+ties Exchange Act of 1934 (15 U.S.C. 78c(a)).’’. 
+25
+19:18 Aug 10, 2021
+H4741
+11 
+•HR 4741 IH
+(c) OTHER DEFINITIONS.—The second paragraph 
+1
+(29) of section 202(a) of the Investment Advisers Act of 
+2
+1940 (15 U.S.C. 80b–2(a)(29)) is amended by inserting 
+3
+‘‘ ‘commodity’, ‘digital asset’, ‘digital asset trade reposi-
+4
+tory’, ‘virtual currency’ ’’, after ‘‘ ‘commodity trading advi-
+5
+sor’,’’. 
+6
+SEC. 113. INVESTMENT COMPANY ACT OF 1940. 
+7
+(a) DEFINITION OF SECURITY.—Section 2(a)(36) of 
+8
+the Investment Company Act of 1940 (15 U.S.C. 80b– 
+9
+2(a)(36) is amended— 
+10
+(1) by inserting ‘‘digital asset security,’’ after 
+11
+‘‘investment contract,’’; and 
+12
+(2) by striking the period at the end and insert-
+13
+ing ‘‘; but does not include any fiat currency, com-
+14
+modity, digital asset, or any note, draft, bill of ex-
+15
+change, or banker’s acceptance which has a maturity 
+16
+at the time of issuance of not exceeding nine months 
+17
+exclusive of days of grace or any renewal thereof the 
+18
+maturity of which is likewise limited.’’. 
+19
+(b) COMMODITY EXCHANGE ACT TERMS.—Section 
+20
+2(a)(54) of the Investment Company Act of 1940 (15 
+21
+U.S.C. 80a–2(a)) is amended by striking ‘‘and ‘swap exe-
+22
+cution facility’ ’’ and inserting ‘‘ ‘swap execution facility’, 
+23
+‘commodity’, ‘digital asset’, ‘digital asset trade repository’, 
+24
+and ‘virtual currency’ ’’. 
+25
+19:18 Aug 10, 2021
+H4741
+12 
+•HR 4741 IH
+(c) DEFINITION OF DIGITAL ASSET SECURITY.—Sec-
+1
+tion 2(a) of the Investment Company Act of 1940 (15 
+2
+U.S.C. 80a–2(a)) is amended by adding at the end the 
+3
+following: 
+4
+‘‘(55) The term ‘digital asset security’ has the 
+5
+meaning given such term in section 3(a) of the Secu-
+6
+rities Exchange Act of 1934 (15 U.S.C. 78c(a)).’’. 
+7
+SEC. 114. SECURITIES INVESTOR PROTECTION ACT OF 1970. 
+8
+(a) IN GENERAL.— 
+9
+(1) DEFINITION OF SECURITY.—Section 16(14) 
+10
+of the Securities Investor Protection Act of 1970 (15 
+11
+U.S.C. 78lll(14)) is amended— 
+12
+(A) by inserting ‘‘, digital asset security,’’ 
+13
+after ‘‘investment contract’’; 
+14
+(B) by inserting ‘‘, digital asset security,’’ 
+15
+after ‘‘if such investment contract’’; and 
+16
+(C) in the last sentence, by inserting ‘‘dig-
+17
+ital asset,’’ after ‘‘commodity,’’. 
+18
+(2) OTHER DEFINITIONS.—Section 16 of the 
+19
+Securities Investor Protection Act of 1970 (15 
+20
+U.S.C. 78lll) is amended by adding the following: 
+21
+‘‘(15) COMMODITY
+EXCHANGE
+ACT
+TERMS.— 
+22
+The terms ‘commodity’, ‘digital asset’, ‘digital asset 
+23
+trade repository’, and ‘virtual currency’ have the 
+24
+19:18 Aug 10, 2021
+H4741
+13 
+•HR 4741 IH
+meanings given such terms, respectively, in section 
+1
+1a of the Commodity Exchange Act (7 U.S.C. 1a). 
+2
+‘‘(16) DIGITAL
+ASSET
+SECURITY.—The term 
+3
+‘digital asset security’ has the meaning given such 
+4
+term in section 3(a) of the Securities Exchange Act 
+5
+of 1934 (15 U.S.C. 78c(a)).’’. 
+6
+(b) SIPC NOTICE.—Not later than 90 days after the 
+7
+date of the enactment of this Act, the Securities Investor 
+8
+Protection Corporation shall make publicly available on 
+9
+the website of the Corporation a notice— 
+10
+(1) regarding the status of digital assets and 
+11
+digital asset securities and how such status impacts 
+12
+Securities Investor Protector Corporation insurance 
+13
+coverage; and 
+14
+(2) that digital assets are not deposits and dig-
+15
+ital asset securities are in almost all cases not secu-
+16
+rities and neither would be covered by Securities In-
+17
+vestor Protection Corporation insurance, regardless 
+18
+of whether— 
+19
+(A) an insured bank, savings association, 
+20
+or credit union holds the digital assets or digital 
+21
+asset securities; or 
+22
+(B) a broker or dealer (as defined in sec-
+23
+tion 3(a) of the Securities Exchange Act of 
+24
+19:18 Aug 10, 2021
+H4741
+14 
+•HR 4741 IH
+1934 (15 U.S.C. 78c(a))) holds the digital as-
+1
+sets or digital asset securities. 
+2
+TITLE II—TREATMENT OF DIG-
+3
+ITAL 
+ASSETS 
+UNDER 
+THE 
+4
+COMMODITY EXCHANGE ACT 
+5
+SEC. 201. DEFINITIONS. 
+6
+(a) DEFINITION OF COMMODITY.—Section 1a(9) of 
+7
+the Commodity Exchange Act (7 U.S.C. 1a(9)) is amend-
+8
+ed by adding ‘‘digital asset (including Bitcoin, Ether, and 
+9
+their hardforks),’’ after ‘‘livestock products,’’. 
+10
+(b) OTHER DEFINITIONS RELATING TO DIGITAL AS-
+11
+SETS.—Section 1a of the Commodity Exchange Act (7 
+12
+U.S.C 1a) is amended by adding at the end the following: 
+13
+‘‘(52) DIGITAL
+ASSET.—The term ‘digital 
+14
+asset’— 
+15
+‘‘(A) means an asset— 
+16
+‘‘(i) that is created electronically or 
+17
+digitally through software code; 
+18
+‘‘(ii) that is programmed with rules 
+19
+that— 
+20
+‘‘(I) govern the creation, supply, 
+21
+ownership, use, and transfer of such 
+22
+digital asset; and 
+23
+‘‘(II) are designed to resist modi-
+24
+fication or tampering by any single 
+25
+19:18 Aug 10, 2021
+H4741
+15 
+•HR 4741 IH
+person or persons under common con-
+1
+trol; 
+2
+‘‘(iii) that has a transaction history 
+3
+that— 
+4
+‘‘(I) is recorded on a— 
+5
+‘‘(aa) 
+distributed 
+digital 
+6
+ledger; or 
+7
+‘‘(bb) digital data structure 
+8
+in which consensus is achieved 
+9
+through 
+a 
+mathematically 
+10
+verifiable process; 
+11
+‘‘(II) is updated as soon as pos-
+12
+sible in accordance with the digital 
+13
+asset programming rules related to 
+14
+transactions and ownership; and 
+15
+‘‘(III) after consensus is reached, 
+16
+is designed to prevent modification or 
+17
+tampering with the ownership or 
+18
+transaction history by any single per-
+19
+son or persons under common control; 
+20
+‘‘(iv) that is capable of being trans-
+21
+ferred between persons through a decen-
+22
+tralized method without an intermediate 
+23
+custodian; and 
+24
+19:18 Aug 10, 2021
+H4741
+16 
+•HR 4741 IH
+‘‘(B) is a broad term which includes sev-
+1
+eral other terms used to describe digital assets 
+2
+by market participants and regulators such as 
+3
+‘virtual asset’, ‘virtual currency’, and ‘convert-
+4
+ible virtual currency’ among others. 
+5
+‘‘(53) DIGITAL
+ASSET
+SECURITY.—The term 
+6
+‘digital asset security’ has the meaning given the 
+7
+term in section 3(a) of the Securities Exchange Act 
+8
+of 1934 (15 U.S.C. 78c(a)). 
+9
+‘‘(54) DIGITAL
+ASSET
+TRADE
+REPOSITORY.— 
+10
+The term ‘digital asset trade repository’ means any 
+11
+person that collects and maintains information or 
+12
+records with respect to transactions or positions in, 
+13
+or the terms and conditions of, contracts of sale of 
+14
+digital assets in interstate commerce entered into by 
+15
+third parties (both on chain public distributed ledger 
+16
+transactions as well as off chain transactions) for 
+17
+the purpose of providing a centralized recordkeeping 
+18
+facility for any digital asset, but does not include a 
+19
+private or public distributed ledger or the operator 
+20
+of either such ledger unless such private or public 
+21
+distributed ledger or operator seeks to aggregate/in-
+22
+clude ‘off chain’ transactions as well. 
+23
+‘‘(55) DISTRIBUTED LEDGER TECHNOLOGY.— 
+24
+The term ‘distributed ledger technology,’ means a 
+25
+19:18 Aug 10, 2021
+H4741
+17 
+•HR 4741 IH
+decentralized peer-to-peer network of computers that 
+1
+operate on open-source software which validate and 
+2
+irrevocably log digital asset ownership and trans-
+3
+actions on a permanent public distributed ledger 
+4
+which is visible to the entire network. 
+5
+‘‘(56) VIRTUAL CURRENCY.—The term ‘virtual 
+6
+currency’ means a digital asset which is a digital 
+7
+representation of value that does not have legal ten-
+8
+der status and that functions as a medium of ex-
+9
+change, a unit of account, or a store of value.’’. 
+10
+(c) DEFINITION
+OF COMMODITY TRADING ADVI-
+11
+SOR.—Section 1(a)(12)(A)(i) of the Commodity Exchange 
+12
+Act (7 U.S.C. 1(a)(12)(A)(i) is amended by adding ‘‘com-
+13
+modity interests, including any—’’ after ‘‘advisability of 
+14
+trading in’’. 
+15
+(d) DEFINITION
+OF FUTURES COMMISSION MER-
+16
+CHANT.—Section 1a(28)(A)(i)(I)(aa) Commodity Ex-
+17
+change Act (7 U.S.C. 1a(9)) is amended— 
+18
+(1) in subitem (EE), by striking ‘‘or’’ at the 
+19
+end; and 
+20
+(2) by adding at the end the following: 
+21
+‘‘(GG) any contract of 
+22
+sale of a digital asset in 
+23
+interstate commerce, but not 
+24
+a digital asset security; or’’. 
+25
+19:18 Aug 10, 2021
+H4741
+18 
+•HR 4741 IH
+(e) DEFINITION OF INTRODUCING BROKER.—Section 
+1
+1a(31)(A)(i)(I) of the Commodity Exchange Act (7 U.S.C. 
+2
+1a(31)) is amended— 
+3
+(1) in item (cc) by striking ‘‘or’’ at the end; 
+4
+(2) in item (dd), by striking ‘‘and’’ at the end 
+5
+and inserting ‘‘or’’; and 
+6
+(3) by adding at the end the following: 
+7
+‘‘(ee) any contract of sale of 
+8
+a digital asset in interstate com-
+9
+merce, but not a digital asset se-
+10
+curity; and’’. 
+11
+SEC. 202. ACTUAL DELIVERY OF DIGITAL ASSETS. 
+12
+Section 2(c)(2)(D)(ii)(III) of the Commodity Ex-
+13
+change Act (7 U.S.C. 2(c)(2)(D)(ii)(III)) is amended— 
+14
+(1) in item (aa)— 
+15
+(A) by striking ‘‘other longer’’ and insert-
+16
+ing ‘‘shorter’’; and 
+17
+(B) by striking ‘‘; or’’ and inserting a 
+18
+semicolon; and 
+19
+(2) by adding at the end the following: 
+20
+‘‘(cc) with respect to digital 
+21
+assets, results in actual delivery 
+22
+(including transfer of control 
+23
+over private keys) not later than 
+24
+24 hours after the transaction is 
+25
+19:18 Aug 10, 2021
+H4741
+19 
+•HR 4741 IH
+entered into and such delivery is 
+1
+accomplished by either— 
+2
+‘‘(AA) 
+recording 
+the 
+3
+transaction on the public 
+4
+distributed ledger for the 
+5
+digital asset; or 
+6
+‘‘(BB) with respect to 
+7
+digital 
+asset 
+transactions 
+8
+which are not recorded on a 
+9
+public distributed ledger for 
+10
+the digital asset, reporting 
+11
+the transaction to a CFTC 
+12
+registered digital asset trade 
+13
+repository; or’’. 
+14
+SEC. 203. OPTIONAL FEDERAL CHARTER FOR DIGITAL 
+15
+ASSET TRADING AND CLEARING. 
+16
+Section 2(a)(1) of the Commodity Exchange Act (7 
+17
+U.S.C. 2(a)(1)) is amended by adding at the end the fol-
+18
+lowing: 
+19
+‘‘(J) OPTIONAL
+FEDERAL
+CHARTER
+FOR 
+20
+DIGITAL ASSET TRADING AND CLEARING.—Not-
+21
+withstanding any other provision of law, a reg-
+22
+istered entity may list, trade, or clear a contract 
+23
+of sale of a commodity in interstate commerce 
+24
+(including digital assets). The registered entity 
+25
+19:18 Aug 10, 2021
+H4741
+20 
+•HR 4741 IH
+shall apply all the core principles and related 
+1
+regulations, including Bank Secrecy Act, anti- 
+2
+money laundering and know your customer re-
+3
+quirements, to such contracts. The Commission 
+4
+shall have exclusive jurisdiction under this para-
+5
+graph over any agreement, contract, or trans-
+6
+action involving a contract of sale of a com-
+7
+modity in interstate commerce (including any 
+8
+digital asset) which is listed, traded, or cleared 
+9
+on or through a registered entity and, provided 
+10
+further, such contracts shall be treated for reg-
+11
+ulatory and enforcement purposes as if they 
+12
+were contracts of sale of a commodity for future 
+13
+delivery.’’. 
+14
+SEC. 204. REPORTING REQUIREMENTS. 
+15
+Section 2(a)(13) of the Commodity Exchange Act is 
+16
+amended— 
+17
+(1) by amending the paragraph heading to read 
+18
+as follows: ‘‘REPORTING AND PUBLIC AVAILABILITY 
+19
+OF SWAP AND DIGITAL ASSET TRANSACTION DATA’’; 
+20
+and 
+21
+(2) by adding at the end the following: 
+22
+‘‘(H) REPORTING
+OF
+DIGITAL
+ASSET 
+23
+TRANSACTIONS.—With respect to contracts of 
+24
+sale of a digital asset in interstate commerce 
+25
+19:18 Aug 10, 2021
+H4741
+21 
+•HR 4741 IH
+transactions, actual delivery (including transfer 
+1
+of control over private keys) shall occur not 
+2
+later than 24 hours after the transaction has 
+3
+been entered into and such delivery shall be ac-
+4
+complished by either— 
+5
+‘‘(i) recording the transaction on the 
+6
+public distributed ledger for the digital 
+7
+asset; or 
+8
+‘‘(ii) with respect to digital asset 
+9
+transactions which are not recorded on the 
+10
+public distributed ledger for the digital 
+11
+asset, reporting the transaction to a CFTC 
+12
+registered digital asset trade repository.’’. 
+13
+SEC. 205. CTA AND CPOS: COMMODITY INTERESTS. 
+14
+Section 4m (3)(C) of the Commodity Exchange Act 
+15
+(7 U.S.C. 6m(3)(C)) is amended by replacing the word 
+16
+‘‘paragraph’’ with ‘‘Act’’ and striking the word ‘‘physical’’. 
+17
+SEC. 206. SWAP DATA REPOSITORIES AND DIGITAL ASSET 
+18
+TRADE REPOSITORIES. 
+19
+Section 21 of the Commodity Exchange Act (7 U.S.C. 
+20
+24a) is amended to read as follows: 
+21
+‘‘SEC. 21 SWAP DATA REPOSITORIES AND DIGITAL ASSET 
+22
+TRADE REPOSITORIES. 
+23
+‘‘(a) REGISTRATION REQUIREMENT.— 
+24
+19:18 Aug 10, 2021
+H4741
+22 
+•HR 4741 IH
+‘‘(1) REQUIREMENT; AUTHORITY
+OF
+DERIVA-
+1
+TIVES CLEARING ORGANIZATION.— 
+2
+‘‘(A) IN GENERAL.—It shall be unlawful 
+3
+for any person, unless registered with the Com-
+4
+mission, directly or indirectly to make use of 
+5
+the mails or any means or instrumentality of 
+6
+interstate commerce to perform the functions of 
+7
+a swap data repository or a digital asset trade 
+8
+repository. 
+9
+‘‘(B) 
+REGISTRATION
+OF
+DERIVATIVES 
+10
+CLEARING
+ORGANIZATIONS.—A 
+derivatives 
+11
+clearing organization may register as a swap 
+12
+data repository. 
+13
+‘‘(2) INSPECTION
+AND
+EXAMINATION.—Each 
+14
+registered swap data repository and digital asset 
+15
+trade repository shall be subject to inspection and 
+16
+examination by any representative of the Commis-
+17
+sion. 
+18
+‘‘(3) COMPLIANCE WITH CORE PRINCIPLES.— 
+19
+‘‘(A) IN GENERAL.—To be registered, and 
+20
+maintain registration, as a swap data repository 
+21
+or a digital asset trade repository, the swap 
+22
+data repository or digital asset trade repository 
+23
+shall comply with— 
+24
+19:18 Aug 10, 2021
+H4741
+23 
+•HR 4741 IH
+‘‘(i) the requirements and core prin-
+1
+ciples described in this section; and 
+2
+‘‘(ii) any requirement that the Com-
+3
+mission may impose by rule or regulation 
+4
+pursuant to section 8a(5). 
+5
+‘‘(B) REASONABLE DISCRETION OF REPOS-
+6
+ITORY.—Unless otherwise determined by the 
+7
+Commission by rule or regulation, a swap data 
+8
+repository or a digital asset trade repository de-
+9
+scribed in subparagraph (A) shall have reason-
+10
+able discretion in establishing the manner in 
+11
+which the swap data repository or the digital 
+12
+asset trade repository complies with the core 
+13
+principles described in this section. 
+14
+‘‘(b) STANDARD SETTING.— 
+15
+‘‘(1) DATA IDENTIFICATION.— 
+16
+‘‘(A) IN
+GENERAL.—In accordance with 
+17
+subparagraph (B), the Commission shall pre-
+18
+scribe standards that specify the data elements 
+19
+for each swap or digital asset that shall be col-
+20
+lected and maintained by each registered swap 
+21
+data repository or digital asset trade repository, 
+22
+respectively. 
+23
+‘‘(B) REQUIREMENT.—In carrying out 
+24
+subparagraph (A), the Commission shall pre-
+25
+19:18 Aug 10, 2021
+H4741
+24 
+•HR 4741 IH
+scribe consistent data element standards appli-
+1
+cable to registered entities and reporting 
+2
+counterparties. 
+3
+‘‘(2) DATA COLLECTION AND MAINTENANCE.— 
+4
+The Commission shall prescribe data collection and 
+5
+data maintenance standards for swap data reposi-
+6
+tories and digital asset trade repositories. 
+7
+‘‘(3) COMPARABILITY.—The standards pre-
+8
+scribed by the Commission under this subsection 
+9
+shall be comparable to the data standards imposed 
+10
+by the Commission on derivatives clearing organiza-
+11
+tions in connection with the clearing of swaps or dig-
+12
+ital assets, as appropriate. 
+13
+‘‘(c) DUTIES.—A swap data repository or a digital 
+14
+asset trade repository shall— 
+15
+‘‘(1) accept data prescribed by the Commission 
+16
+for each swap or digital asset transaction under sub-
+17
+section (b), respectively; 
+18
+‘‘(2) confirm with both counterparties to the 
+19
+swap or the digital asset transaction the accuracy of 
+20
+the data that was submitted; 
+21
+‘‘(3) maintain the data described in paragraph 
+22
+(1) in such form, in such manner, and for such pe-
+23
+riod as may be required by the Commission; 
+24
+19:18 Aug 10, 2021
+H4741
+25 
+•HR 4741 IH
+‘‘(4)(A) provide direct electronic access to the 
+1
+Commission (or any designee of the Commission, in-
+2
+cluding another registered entity); and 
+3
+‘‘(B) provide the information described in para-
+4
+graph (1) in such form and at such frequency as the 
+5
+Commission may require to comply with the public 
+6
+reporting 
+requirements 
+contained 
+in 
+section 
+7
+2(a)(13); 
+8
+‘‘(5) at the direction of the Commission, estab-
+9
+lish automated systems for monitoring, screening, 
+10
+and analyzing swap or digital asset data, including 
+11
+compliance and frequency of end user clearing ex-
+12
+emption claims by individual and affiliated entities; 
+13
+‘‘(6) maintain the privacy of any and all swap 
+14
+or digital asset transaction information that the 
+15
+swap data repository or digital asset trade reposi-
+16
+tory, respectively, receives from a swap dealer, 
+17
+counterparty, or any other registered entity; 
+18
+‘‘(7) on a confidential basis pursuant to section 
+19
+8, upon request, and after notifying the Commission 
+20
+of the request, make available swap or digital asset 
+21
+data obtained by the swap data repository or digital 
+22
+asset trade repository, respectively, including indi-
+23
+vidual counterparty trade and position data, to— 
+24
+‘‘(A) each appropriate prudential regulator; 
+25
+19:18 Aug 10, 2021
+H4741
+26 
+•HR 4741 IH
+‘‘(B) the Financial Stability Oversight 
+1
+Council; 
+2
+‘‘(C) the Securities and Exchange Commis-
+3
+sion; 
+4
+‘‘(D) the Department of Justice; and 
+5
+‘‘(E) any other person that the Commis-
+6
+sion determines to be appropriate, including— 
+7
+‘‘(i) foreign financial supervisors (in-
+8
+cluding foreign futures authorities); 
+9
+‘‘(ii) foreign central banks; 
+10
+‘‘(iii) foreign ministries; and 
+11
+‘‘(iv) other foreign authorities; and 
+12
+‘‘(8) establish and maintain emergency proce-
+13
+dures, backup facilities, and a plan for disaster re-
+14
+covery that allows timely recovery and resumption of 
+15
+operations and the fulfillment of the responsibilities 
+16
+and obligations of the organization. 
+17
+‘‘(d) CONFIDENTIALITY AGREEMENT.—Before the 
+18
+swap data repository or digital asset trade repository may 
+19
+share information with any entity described in subsection 
+20
+(c)(7), the swap data repository or digital asset trade re-
+21
+pository shall receive a written agreement from each entity 
+22
+stating that the entity shall abide by the confidentiality 
+23
+requirements described in section 12 of this title relating 
+24
+19:18 Aug 10, 2021
+H4741
+27 
+•HR 4741 IH
+to information on swap or digital asset transactions, re-
+1
+spectively, that is provided. 
+2
+‘‘(e) DESIGNATION OF CHIEF COMPLIANCE OFFI-
+3
+CER.— 
+4
+‘‘(1) IN GENERAL.—Each swap data repository 
+5
+or digital asset trade repository shall designate an 
+6
+individual to serve as a chief compliance officer. 
+7
+‘‘(2) DUTIES.—The chief compliance officer 
+8
+shall— 
+9
+‘‘(A) report directly to the board or to the 
+10
+senior officer of the swap data repository or 
+11
+digital asset trade repository; 
+12
+‘‘(B) review the compliance of the swap 
+13
+data repository or digital asset trade repository 
+14
+with respect to requirements and core principles 
+15
+described in this section; 
+16
+‘‘(C) in consultation with the board of the 
+17
+swap data repository or digital asset trade re-
+18
+pository, a body performing a function similar 
+19
+to the board of the swap data repository or dig-
+20
+ital asset trade repository, or senior officer of 
+21
+the swap data repository or digital asset trade 
+22
+repository resolve any conflicts of interest that 
+23
+may arise; 
+24
+19:18 Aug 10, 2021
+H4741
+28 
+•HR 4741 IH
+‘‘(D) be responsible for administering each 
+1
+policy and procedure that is required to be es-
+2
+tablished pursuant to this section; 
+3
+‘‘(E) ensure compliance with this Act (in-
+4
+cluding regulations) relating to agreements, 
+5
+contracts, or transactions, including each rule 
+6
+prescribed by the Commission under this sec-
+7
+tion; 
+8
+‘‘(F) establish procedures for the remedi-
+9
+ation of noncompliance issues identified by the 
+10
+chief compliance officer through any— 
+11
+‘‘(i) compliance office review; 
+12
+‘‘(ii) look-back; 
+13
+‘‘(iii) internal or external audit find-
+14
+ing; 
+15
+‘‘(iv) self-reported error; or 
+16
+‘‘(v) validated complaint; and 
+17
+‘‘(G) establish and follow appropriate pro-
+18
+cedures for handling, management response, re-
+19
+mediation, retesting, and closing of noncompli-
+20
+ance issues. 
+21
+‘‘(3) ANNUAL REPORTS.— 
+22
+‘‘(A) IN
+GENERAL.—In accordance with 
+23
+rules prescribed by the Commission, the chief 
+24
+19:18 Aug 10, 2021
+H4741
+29 
+•HR 4741 IH
+compliance officer shall annually prepare and 
+1
+sign a report that contains a description of— 
+2
+‘‘(i) the compliance of the swap data 
+3
+repository or the digital asset trade reposi-
+4
+tory, as appropriate, of the chief compli-
+5
+ance office with respect to this Act (includ-
+6
+ing regulations); and 
+7
+‘‘(ii) each policy and procedure of the 
+8
+swap data repository or the digital asset 
+9
+trade repository, as appropriate, of the 
+10
+chief compliance officer (including the code 
+11
+of ethics and conflict of interest policies of 
+12
+the swap data repository or the digital 
+13
+asset trade repository, as appropriate). 
+14
+‘‘(B) REQUIREMENTS.—A compliance re-
+15
+port under subparagraph (A) shall— 
+16
+‘‘(i) accompany each appropriate fi-
+17
+nancial report of the swap data repository 
+18
+or digital asset trade repository that is re-
+19
+quired to be furnished to the Commission 
+20
+pursuant to this section; and 
+21
+‘‘(ii) include a certification that, under 
+22
+penalty of law, the compliance report is ac-
+23
+curate and complete. 
+24
+19:18 Aug 10, 2021
+H4741
+30 
+•HR 4741 IH
+‘‘(f) CORE PRINCIPLES APPLICABLE TO SWAP DATA 
+1
+REPOSITORIES
+AND DIGITAL ASSET TRADE REPOSI-
+2
+TORIES.— 
+3
+‘‘(1) 
+ANTITRUST
+CONSIDERATIONS.—Unless 
+4
+necessary or appropriate to achieve the purposes of 
+5
+this Act, a swap data repository or digital asset 
+6
+trade repository shall not— 
+7
+‘‘(A) adopt any rule or take any actions 
+8
+that result in any unreasonable restraint of 
+9
+trade; or 
+10
+‘‘(B) impose any material anticompetitive 
+11
+burden on the trading, clearing, or reporting of 
+12
+transactions. 
+13
+‘‘(2) 
+GOVERNANCE
+ARRANGEMENTS.—Each 
+14
+swap data repository or digital asset trade repository 
+15
+shall establish governance arrangements that are 
+16
+transparent— 
+17
+‘‘(A) to fulfill public interest requirements; 
+18
+and 
+19
+‘‘(B) to support the objectives of the Fed-
+20
+eral Government, owners, and participants. 
+21
+‘‘(3) CONFLICTS
+OF
+INTEREST.—Each swap 
+22
+data repository or digital asset trade repository 
+23
+shall— 
+24
+19:18 Aug 10, 2021
+H4741
+31 
+•HR 4741 IH
+‘‘(A) establish and enforce rules to mini-
+1
+mize conflicts of interest in the decision making 
+2
+process of the swap data repository or the dig-
+3
+ital asset trade repository; and 
+4
+‘‘(B) establish a process for resolving con-
+5
+flicts of interest described in subparagraph (A). 
+6
+‘‘(4) ADDITIONAL DUTIES DEVELOPED BY THE 
+7
+COMMISSION.— 
+8
+‘‘(A) IN GENERAL.—The Commission may 
+9
+develop 1 or more additional duties applicable 
+10
+to swap data repositories or digital asset trade 
+11
+repositories. 
+12
+‘‘(B) 
+CONSIDERATION
+OF
+EVOLVING 
+13
+STANDARDS.—In developing additional duties 
+14
+under subparagraph (A), the Commission may 
+15
+take into consideration any evolving standard of 
+16
+the United States or the international commu-
+17
+nity. 
+18
+‘‘(C) ADDITIONAL
+DUTIES
+FOR
+COMMIS-
+19
+SION
+DESIGNEES.—The Commission shall es-
+20
+tablish additional duties for any registered swap 
+21
+data repository or digital asset trade repository 
+22
+in order to minimize conflicts of interest, pro-
+23
+tect data, ensure compliance, and guarantee 
+24
+19:18 Aug 10, 2021
+H4741
+32 
+•HR 4741 IH
+safety and security of the swap data repository 
+1
+or digital asset trade repository. 
+2
+‘‘(g) REQUIRED REGISTRATION OF SWAP DATA RE-
+3
+AND
+DIGITAL
+ASSET
+TRADE
+REPOSI-
+4
+TORIES.—Any person that is required to be registered as 
+5
+a swap data repository or a digital asset trade repository 
+6
+under this section shall register with the Commission re-
+7
+gardless of whether that person is also licensed as a bank, 
+8
+trust company, money services business, or registered with 
+9
+the Securities and Exchange Commission as a security- 
+10
+based swap data repository, broker-dealer, qualified custo-
+11
+dian, or transfer agent. 
+12
+‘‘(h) RULES.—The Commission shall adopt rules gov-
+13
+erning persons that are registered under this section.’’. 
+14
+19:18 Aug 10, 2021
+H4741
+33 
+•HR 4741 IH
+TITLE 
+III—DIGITAL 
+FEDERAL 
+1
+RESERVE NOTES, LEGAL TEN-
+2
+DER STATUS, THE REGULA-
+3
+TION OF DIGITAL ASSET FIAT- 
+4
+BASED 
+STABLECOINS, 
+AND 
+5
+FEDERAL 
+DEPOSIT 
+AND 
+6
+SHARE INSURANCE FOR DIG-
+7
+ITAL ASSETS 
+8
+Subtitle A—Digital Federal Reserve 
+9
+Notes 
+10
+SEC. 301. IN GENERAL. 
+11
+(a) SUPERVISING AND REGULATING ISSUE AND RE-
+12
+TIREMENT
+OF
+FEDERAL
+RESERVE
+NOTES.—Section 
+13
+11(d) of the Federal Reserve Act (12 U.S.C. 248(d)) is 
+14
+amended to read as follows: 
+15
+‘‘(d) To supervise and regulate through the Secretary 
+16
+of the Treasury the issue and retirement of Federal Re-
+17
+serve notes (both physical and digital), except for the can-
+18
+cellation and destruction, and accounting with respect to 
+19
+such cancellation and destruction, of notes unfit for cir-
+20
+culation, and to prescribe rules and regulations (including 
+21
+appropriate technology) under which such notes may be 
+22
+delivered by the Secretary of the Treasury to the Federal 
+23
+Reserve agents applying therefor.’’. 
+24
+19:18 Aug 10, 2021
+H4741
+34 
+•HR 4741 IH
+(b) ISSUANCE TO RESERVE BANKS; NATURE OF OB-
+1
+LIGATION; REDEMPTION.—Section 16 of the Federal Re-
+2
+serve Act (12 U.S.C. 411) is amended by striking the first 
+3
+two sentences and inserting: ‘‘Federal reserve notes, to be 
+4
+issued at the discretion of the Board of Governors of the 
+5
+Federal Reserve System for the purpose of making ad-
+6
+vances to Federal reserve banks through the Federal re-
+7
+serve agents as hereinafter set forth and for no other pur-
+8
+pose, are authorized. Notwithstanding any other provision 
+9
+of law, the Board of Governors of the Federal Reserve 
+10
+System is authorized to issue digital versions of Federal 
+11
+reserve notes in addition to current physical Federal re-
+12
+serve notes. Further, the Board of Governors of the Fed-
+13
+eral Reserve System, after consultation with the Secretary 
+14
+of the Treasury, is authorized to use distributed ledger 
+15
+technology for the creation, distribution and recordation 
+16
+of all transactions involving digital Federal reserve notes. 
+17
+The said notes shall be obligations of the United States 
+18
+and shall be considered legal tender and shall be receivable 
+19
+by all national and member banks and Federal reserve 
+20
+banks and for all taxes, customs, and other public dues. 
+21
+They shall be redeemed in lawful money on demand at 
+22
+the Treasury Department of the United States, in the city 
+23
+of Washington, District of Columbia, or at any Federal 
+24
+Reserve bank.’’. 
+25
+19:18 Aug 10, 2021
+H4741
+35 
+•HR 4741 IH
+SEC. 302. DIGITAL ASSET LEGAL TENDER STATUS. 
+1
+Section 5103 of title 31, United States Code, is 
+2
+amended to read as follows: 
+3
+‘‘§ 5103. Legal tender. 
+4
+‘‘United States coins and currency (including Federal 
+5
+reserve notes and circulating notes of Federal reserve 
+6
+banks and national banks) are legal tender for all debts, 
+7
+public charges, taxes, and dues. Foreign fiat currencies, 
+8
+digital assets, digital asset securities and foreign gold and 
+9
+silver coins are not legal tender.’’. 
+10
+Subtitle B—Regulation of Digital 
+11
+Asset Fiat-Based Stablecoins 
+12
+SEC. 311. DEPARTMENT OF TREASURY REGULATION OF 
+13
+DIGITAL ASSET FIAT-BASED STABLECOINS. 
+14
+Subchapter I of chapter 51 of subtitle IV of title 31, 
+15
+United States Code is amended by adding at the end the 
+16
+following: 
+17
+‘‘§ 5104. Department of Treasury regulation of digital 
+18
+asset fiat-based stablecoins 
+19
+‘‘(a) IN GENERAL.—Beginning on the date of the en-
+20
+actment of this section, no person may issue, use, or per-
+21
+mit to be used a digital asset fiat-based stablecoin that 
+22
+is not approved by the Secretary of the Treasury under 
+23
+subsection (b). 
+24
+‘‘(b) APPLICATIONS.— 
+25
+19:18 Aug 10, 2021
+H4741
+36 
+•HR 4741 IH
+‘‘(1) IN
+GENERAL.—Not later than 90 days 
+1
+after the date of the enactment of this section, the 
+2
+Secretary of the Treasury shall establish an applica-
+3
+tion process under which the Secretary may approve 
+4
+or disapprove a person wishing to issue a digital 
+5
+asset fiat-based stablecoin, under such terms and 
+6
+conditions as the Secretary determines necessary 
+7
+and appropriate. 
+8
+‘‘(2) CONSULTATION.—In carrying out para-
+9
+graph (1), the Secretary of the Treasury shall, in 
+10
+considering applications for digital asset fiat-based 
+11
+stablecoins, consult with— 
+12
+‘‘(A) the Board of Governors of the Fed-
+13
+eral Reserve System; 
+14
+‘‘(B) the Securities and Exchange Commis-
+15
+sion; 
+16
+‘‘(C) the Commodity Futures Trading 
+17
+Commission; and 
+18
+‘‘(D) such other foreign central banks or 
+19
+foreign treasury departments or agencies as the 
+20
+Secretary of the Treasury determines appro-
+21
+priate. 
+22
+‘‘(3) APPROVAL OR DISAPPROVAL; TERMS AND 
+23
+CONDITIONS CHANGES; TERMINATION.— 
+24
+19:18 Aug 10, 2021
+H4741
+37 
+•HR 4741 IH
+‘‘(A) IN
+GENERAL.—Subject to subpara-
+1
+graph (B), the Secretary of the Treasury may 
+2
+approve or disapprove an application by an 
+3
+issuer of a digital asset fiat-based stablecoin or 
+4
+may withdraw an approval or modify the terms 
+5
+and conditions of an approval previously issued 
+6
+under paragraph (1). 
+7
+‘‘(B) TIMING.—With respect to a with-
+8
+drawal or modification of an approval under 
+9
+subparagraph (A), the Secretary of the Treas-
+10
+ury shall notify the issuer at least 60 days be-
+11
+fore such approval is so withdrawn or modified. 
+12
+‘‘(4) NO GRANDFATHERING OF EXISTING DIG-
+13
+ITAL ASSET FIAT-BASED STABLECOINS.—The Sec-
+14
+retary of the Treasury shall not grandfather the use 
+15
+of any digital asset fiat-based stablecoin. All digital 
+16
+asset fiat-based stablecoins, including digital asset 
+17
+fiat-based stablecoins existing on the date of the en-
+18
+actment of this section, shall apply to the Secretary 
+19
+of the Treasury under this section. 
+20
+‘‘(c) DIGITAL ASSET FIAT-BASED STABLECOIN DE-
+21
+FINED.—In this section, the term ‘digital asset fiat-based 
+22
+stablecoin’ means a digital asset (as defined in section 1a 
+23
+of the Commodity Exchange Act (7 U.S.C. 1a)) that is, 
+24
+19:18 Aug 10, 2021
+H4741
+38 
+•HR 4741 IH
+as determined by the Secretary of the Treasury, tied, 
+1
+pegged to, or collateralized substantially by— 
+2
+‘‘(1) the United States dollar or; 
+3
+‘‘(2) one or more fiat currencies.’’. 
+4
+SEC. 312. CONFORMING AMENDMENT. 
+5
+The table of contents for subchapter I of chapter 51 
+6
+of subtitle IV of title 31, United States Code is amended 
+7
+by adding at the end the following: 
+8
+‘‘5104. Department of Treasury regulation of digital asset fiat-based 
+stablecoins.’’. 
+Subtitle C—Federal Deposit and 
+9
+Share Insurance for Digital Assets 
+10
+SEC. 321. DIGITAL ASSET NOT DEPOSITS FOR FEDERAL DE-
+11
+12
+(a) FEDERAL DEPOSIT INSURANCE ACT.—Section 
+13
+3(l)(5) of the Federal Deposit Insurance Act (12 U.S.C. 
+14
+1813(l)(5)) is amended— 
+15
+(1) in subparagraph (B), by striking ‘‘; and’’ 
+16
+and inserting a semicolon; 
+17
+(2) in subparagraph (C), by striking the period 
+18
+at the end and inserting ‘‘; and’’; and 
+19
+(3) by adding at the end the following: 
+20
+‘‘(D) any— 
+21
+‘‘(i) digital asset (as defined in section 
+22
+1a of the Commodity Exchange Act (7 
+23
+U.S.C 1a)); or 
+24
+19:18 Aug 10, 2021
+H4741
+39 
+•HR 4741 IH
+‘‘(ii) digital asset security (as defined 
+1
+in section 3(a) of the Securities Exchange 
+2
+Act of 1934 (15 U.S.C. 78c(a)).’’. 
+3
+(b) FEDERAL CREDIT UNION ACT.—Section 101(5) 
+4
+of the Federal Credit Union Act (12 U.S.C. 1752(5)) is 
+5
+amended by striking ‘‘State law’’ and inserting ‘‘State law: 
+6
+Provided further: That in no case may such terms include 
+7
+a digital asset (as defined in section 1a of the Commodity 
+8
+Exchange Act (7 U.S.C 1a)) or digital asset security (as 
+9
+defined in section 3(a) of the Securities Exchange Act of 
+10
+1934 (15 U.S.C. 78c(a))’’. 
+11
+SEC. 
+322. 
+DIRECTED 
+RULEMAKING 
+FDIC 
+AND 
+NCUA 
+12
+WEBSITE DISCLOSURE ON DIGITAL ASSETS 
+13
+AND INSURANCE NONCOVERAGE. 
+14
+(a) FDIC AND NCUA NOTICES.—Not later than 90 
+15
+days after the date of the enactment of this Act, the Fed-
+16
+eral Deposit Insurance Corporation and the National 
+17
+Credit Union Administration shall each make publicly 
+18
+available on the website of such entity a notice— 
+19
+(1) regarding the treatment of digital assets 
+20
+and digital asset securities; 
+21
+(2) that digital assets and digital asset securi-
+22
+ties are not ‘‘deposits’’ or ‘‘shares’’ and are not cov-
+23
+ered by Federal deposit insurance (FDIC or 
+24
+NCUA), regardless of whether an insured bank, sav-
+25
+19:18 Aug 10, 2021
+H4741
+40 
+•HR 4741 IH
+ings association, or credit union holds the digital as-
+1
+sets or digital assets securities; and 
+2
+(3) such notice shall specifically address wheth-
+3
+er the FDIC Nondeposit Investment Product 
+4
+(NDIP) Policy Statement and related disclosure ob-
+5
+ligations or similar NCUA requirements apply to 
+6
+digital assets and digital asset securities. 
+7
+(b) DIGITAL ASSET.—In this section, the term ‘‘dig-
+8
+ital asset’’ has the meaning given the term in section 1a 
+9
+of the Commodity Exchange Act (7 U.S.C. 1a). 
+10
+(c) DIGITAL ASSET SECURITY.—In this section, the 
+11
+term ‘‘digital asset security’’ has the meaning given the 
+12
+term in section 3(a) of the Securities Exchange Act of 
+13
+1934 (15 U.S.C. Sec. 78c(a)). 
+14
+TITLE IV—BANK SECRECY ACT 
+15
+SEC. 401. BANK SECRECY ACT. 
+16
+(a) DEFINITION
+OF MONETARY INSTRUMENTS.— 
+17
+Section 5312(a)(3)(B) of title 31, United States Code, is 
+18
+amended— 
+19
+(1) by inserting ‘‘digital assets,’’ after ‘‘coins 
+20
+and currency of a foreign country,’’; and 
+21
+(2) by inserting after ‘‘passed on delivery’’, the 
+22
+following: ‘‘, digital asset security as such term is 
+23
+defined in section 3(a) of the Securities Exchange 
+24
+Act of 1934’’. 
+25
+19:18 Aug 10, 2021
+H4741
+41 
+•HR 4741 IH
+(b) DEFINITION OF DIGITAL ASSET AND VIRTUAL 
+1
+ASSET.—Section 5312(a) of title 31, United States Code, 
+2
+is amended by adding after paragraph (6) the following: 
+3
+‘‘(7) DIGITAL ASSET.—The term ‘digital asset’ 
+4
+has the meaning given the term in section 1a of the 
+5
+Commodity Exchange Act (7 U.S.C. 1a). 
+6
+‘‘(8) VIRTUAL ASSET.—The term ‘virtual asset’ 
+7
+means— 
+8
+‘‘(A) a digital representation of value that 
+9
+can be digitally traded, or transferred, and can 
+10
+be used for payment or investment purposes; 
+11
+and 
+12
+‘‘(B) a digital asset.’’. 
+13
+(c) DEFINITION OF VIRTUAL ASSET SERVICE PRO-
+14
+VIDER.—Section 5312(a) of title 31, United States Code, 
+15
+is further amended by adding at the end the following: 
+16
+‘‘(9) VIRTUAL ASSET SERVICE PROVIDER.—The 
+17
+term ‘virtual asset service provider’— 
+18
+‘‘(A) means a person who— 
+19
+‘‘(i) exchanges between digital asset 
+20
+and fiat currencies; 
+21
+‘‘(ii) exchanges between digital assets; 
+22
+‘‘(iii) transfers of digital assets; 
+23
+‘‘(iv) is responsible for the custody, 
+24
+safekeeping of a digital asset or an instru-
+25
+19:18 Aug 10, 2021
+H4741
+42 
+•HR 4741 IH
+ment that enables control over a digital 
+1
+asset; 
+2
+‘‘(v) issues or has the authority to re-
+3
+deem a digital asset; and 
+4
+‘‘(vi) provides financial services re-
+5
+lated to the offer or sale of a digital asset 
+6
+by a person who issues such digital asset; 
+7
+and 
+8
+‘‘(B) does not include any person who— 
+9
+‘‘(i) obtains a digital asset to purchase 
+10
+goods or services for themself; 
+11
+‘‘(ii) provides communication service 
+12
+or network access services used by a money 
+13
+transmitter; or 
+14
+‘‘(iii) develops, creates, or dissemi-
+15
+nates software designed to be used to issue 
+16
+a digital asset or facilitate financial activi-
+17
+ties associated with a digital asset.’’. 
+18
+(d) ADDITIONAL DEFINITIONS.—Section 5312(c)(1) 
+19
+of title 31, United States Code, is amended— 
+20
+(1) in subparagraph (A), by striking the period 
+21
+at the end and inserting a semicolon; and 
+22
+(2) by adding after subparagraph (A), the fol-
+23
+lowing: 
+24
+19:18 Aug 10, 2021
+H4741
+43 
+•HR 4741 IH
+‘‘(B) any virtual asset service provider 
+1
+that— 
+2
+‘‘(i) exchanges between digital assets 
+3
+and fiat currencies; 
+4
+‘‘(ii) exchanges between digital assets; 
+5
+‘‘(iii) transfers digital assets; 
+6
+‘‘(iv) is responsible for the custody, 
+7
+safekeeping or administration of digital as-
+8
+sets or instruments enabling control over 
+9
+digital assets; or 
+10
+‘‘(v) provides financial services related 
+11
+to the offer or sale of a digital asset by an 
+12
+issuer.’’. 
+13
+SEC. 402. ANONYMIZING SERVICES, MONEY MULE, AND AN-
+14
+ONYMITY-ENHANCED CONVERTIBLE VIRTUAL 
+15
+CURRENCIES. 
+16
+Subchapter II of chapter 53 of subtitle IV of title 
+17
+31, United States Code is amended by adding at the end 
+18
+the following: 
+19
+‘‘SEC. 5333. ANONYMIZING SERVICES, MONEY MULE, AND 
+20
+ANONYMITY-ENHANCED CONVERTIBLE VIR-
+21
+TUAL CURRENCIES. 
+22
+‘‘(a) IN GENERAL.—Not later than 180 days of the 
+23
+date of the enactment of the Digital Asset Market Struc-
+24
+ture and Investor Protection Act, the Secretary of the 
+25
+19:18 Aug 10, 2021
+H4741
+44 
+•HR 4741 IH
+Treasury, acting through the Financial Crimes Enforce-
+1
+ment Network, shall issue a rule that governs— 
+2
+‘‘(1) anonymizing services; 
+3
+‘‘(2) money mules; and 
+4
+‘‘(3) anonymity-enhanced convertible virtual 
+5
+currency transactions. 
+6
+‘‘(b) PURPOSE.—The purpose of the rule described 
+7
+in subsection (a) shall be to ensure that anonymizing serv-
+8
+ices, money mule, and anonymity-enhanced convertible vir-
+9
+tual currencies are not used to prevent association of an 
+10
+individual customer with the movement of a digital asset, 
+11
+digital asset security, or virtual currency of which the cus-
+12
+tomer is the direct or beneficial owner. 
+13
+‘‘(c) REQUIREMENTS.—The rule described in sub-
+14
+section (a) shall— 
+15
+‘‘(1) require any financial institution to prohibit 
+16
+any person from engaging in any transactions that 
+17
+involves digital assets or digital asset securities 
+18
+and— 
+19
+‘‘(A) anonymizing services; 
+20
+‘‘(B) money mules; or 
+21
+‘‘(C) anonymity-enhanced convertible vir-
+22
+tual currencies; 
+23
+‘‘(2) prohibit any financial institution from in-
+24
+forming persons about— 
+25
+19:18 Aug 10, 2021
+H4741
+45 
+•HR 4741 IH
+‘‘(A) the existence of anonymizing services, 
+1
+money mules and anonymity-enhanced convert-
+2
+ible virtual currencies; 
+3
+‘‘(B) the availability of anonymizing serv-
+4
+ices, money mules and anonymity-enhanced 
+5
+convertible virtual currencies; or 
+6
+‘‘(C) means for identifying anonymizing 
+7
+services, money mules and anonymity-enhanced 
+8
+convertible virtual currencies; and 
+9
+‘‘(3) require any financial institution to estab-
+10
+lish written procedures governing the documentation 
+11
+of the persons and amounts associated with any 
+12
+transaction involving— 
+13
+‘‘(A) an anonymizing service; 
+14
+‘‘(B) a money mule; or 
+15
+‘‘(C) anonymity-enhanced convertible vir-
+16
+tual currencies. 
+17
+‘‘(d) DEFINITIONS.—In this section, the term ‘virtual 
+18
+currency’, ‘anonymizing service’, ‘money mule’, and ‘ano-
+19
+nymity-enhanced convertible virtual currency’ have the 
+20
+meanings given such terms by the Secretary of the Treas-
+21
+ury, acting through the Financial Crimes Enforcement 
+22
+Network.’’. 
+23
+19:18 Aug 10, 2021
+H4741
+46 
+•HR 4741 IH
+SEC. 403. DIGITAL ASSET TRANSACTION ACTUAL DELIVERY 
+1
+REPORTING. 
+2
+Not later than 180 days after the date of the enact-
+3
+ment of this Act, the Secretary of the Treasury, in con-
+4
+sultation with the Commodity Futures Trading Commis-
+5
+sion, shall issue a rule that requires, for any transaction 
+6
+involving a contract of sale of a digital asset (as defined 
+7
+in section 1a of the Commodity Exchange Act (7 U.S.C. 
+8
+1a)) in interstate commerce— 
+9
+(1) the transfer of possession and control (in-
+10
+cluding transfer of control over any private keys) by 
+11
+the seller to the purchaser not later than 24 hours 
+12
+after the digital asset transaction is entered into and 
+13
+such delivery is accomplished by either— 
+14
+(A) the recording of the transaction on the 
+15
+public distributed ledger for the digital asset; or 
+16
+(B) with respect to digital asset trans-
+17
+actions which are not recorded on the public 
+18
+distributed ledger for the digital asset, report-
+19
+ing the transaction to a CFTC registered dig-
+20
+ital asset trade repository. 
+21
+SEC. 404. VIRTUAL DIGITAL ASSET SERVICE PROVIDERS. 
+22
+(a) IN GENERAL.—The Secretary of the Treasury 
+23
+shall, not later than 270 days after the date of the enact-
+24
+ment of this Act, issue a rule requiring virtual asset serv-
+25
+ice providers (as defined in section 5312(a) of title 31, 
+26
+19:18 Aug 10, 2021
+H4741
+47 
+•HR 4741 IH
+United States Code), which are engaged in services which 
+1
+are available in the United States and to United States 
+2
+persons, even if the provider is located outside the United 
+3
+States, related to digital asset securities and digital assets, 
+4
+that such persons shall be required to— 
+5
+(1) register with the Securities and Exchange 
+6
+Commission or with the Commodity Futures Trad-
+7
+ing Commission, as appropriate and in such capac-
+8
+ities as are appropriate; 
+9
+(2) with respect to digital asset securities, meet 
+10
+the customer protection and account custody rules 
+11
+which are applicable to Securities Exchange Com-
+12
+mission registered broker-dealers for customer funds 
+13
+and securities; and 
+14
+(3) with respect to digital assets, meet the cus-
+15
+tomer account custody and segregated funds rules 
+16
+which are applicable to Commodity Futures Trading 
+17
+Commission registered futures commission mer-
+18
+chants. 
+19
+(b) CUSTOMER ACCOUNTS.—The customer accounts 
+20
+custody requirements referenced in subsection (a) shall in-
+21
+clude, but are not limited to, using registered and qualified 
+22
+custodians, proper customer account labeling and identi-
+23
+fication, minimum of quarterly account statements being 
+24
+issued to customers by the registered and qualified custo-
+25
+19:18 Aug 10, 2021
+H4741
+48 
+•HR 4741 IH
+dian, annual surprise audit requirements and annual au-
+1
+dits by accounting firms which are registered with the 
+2
+Public Company Accounting Oversight Board. 
+3
+TITLE V—VARIOUS DIGITAL 
+4
+ASSET REPORTS 
+5
+SEC. 501. IRS REPORT ON DIGITAL ASSET OWNERSHIP/ 
+6
+TAXES. 
+7
+(a) IN GENERAL.—Not later than 270 days after the 
+8
+date of the enactment of this Act, the Secretary of the 
+9
+Treasury, acting through the Internal Revenue Service, 
+10
+after consulting with other Federal and State regulators 
+11
+and market participants as appropriate, shall submit a re-
+12
+port to the specified committees on the utilization of dig-
+13
+ital assets by United States citizens that— 
+14
+(1) estimates the number and percentage of 
+15
+United States citizens who own digital assets as of 
+16
+the date of the enactment of this Act and who have 
+17
+paid tax on digital assets each year between 2016 
+18
+and 2020; 
+19
+(2) compares the number and percentage of 
+20
+Americans who own stocks and bonds and who have 
+21
+paid taxes on such assets over the same time period 
+22
+referenced above; 
+23
+19:18 Aug 10, 2021
+H4741
+49 
+•HR 4741 IH
+(3) estimates the number and percentage of 
+1
+Americans who fail to report digital asset holdings 
+2
+and income versus stock and bond holdings; 
+3
+(4) identifies the major digital asset trading 
+4
+platforms in the United States, the number of cus-
+5
+tomer accounts with each platform, and the annual 
+6
+trading volume of each platform; 
+7
+(5) estimates the number of United States citi-
+8
+zens who use United States registered digital asset 
+9
+trading platforms compared to foreign digital asset 
+10
+trading platforms; 
+11
+(6) estimates the amount of tax revenue which 
+12
+was not received by the United States Treasury due 
+13
+to under reporting by United States taxpayers each 
+14
+year between 2016 and 2020; and 
+15
+(7) makes legislative and regulatory rec-
+16
+ommendations regarding changes which would im-
+17
+prove reporting and collection of taxes on digital as-
+18
+sets so it would be closer to reporting and collection 
+19
+of taxes on securities holdings. 
+20
+(b) SPECIFIED COMMITTEES.—In this section, the 
+21
+term ‘‘specified committees’’ means— 
+22
+(1) the Ways and Means Committee of the 
+23
+House of Representatives; 
+24
+(2) the Finance Committee of the Senate; 
+25
+19:18 Aug 10, 2021
+H4741
+50 
+•HR 4741 IH
+(3) the Committee on Financial Services of the 
+1
+House of Representatives; 
+2
+(4) the Committee on Banking, Housing, and 
+3
+Urban Affairs of the Senate; 
+4
+(5) the Committee on Agriculture of the House 
+5
+of Representatives; and 
+6
+(6) the Committee on Agriculture, Nutrition, 
+7
+and Forestry of the Senate. 
+8
+SEC. 502. REPORT ON RANSOMWARE AND DIGITAL ASSETS. 
+9
+(a) REPORT.—Not later than 270 days after the date 
+10
+of enactment of this Act, the Department of Justice, De-
+11
+partment of Homeland Security, Department of the 
+12
+Treasury, and Board of Governors of the Federal Reserve 
+13
+System shall jointly submit a report to the appropriate 
+14
+committees that— 
+15
+(1) summarizes the number and size of recent 
+16
+ransomware attacks in the United States and the 
+17
+world; 
+18
+(2) discusses the frequency of ransomware 
+19
+hackers requesting payment in digital assets and 
+20
+identifies the most common digital assets which are 
+21
+demanded; 
+22
+(3) discusses the use of mixing and tumbling 
+23
+services and money mules to help obscure audit trail 
+24
+for the digital assets involved; 
+25
+19:18 Aug 10, 2021
+H4741
+51 
+•HR 4741 IH
+(4) identifies the digital asset trading platforms 
+1
+most frequently used in for transactions involving 
+2
+digital asset ransoms; and 
+3
+(5) makes legislative and regulatory rec-
+4
+ommendations for addressing the problem of 
+5
+ransomware and digital assets. 
+6
+(b) APPROPRIATE COMMITTEES.—Appropriate com-
+7
+mittees include the Committee on the Judiciary, Com-
+8
+mittee on Homeland Security, Committee on Financial 
+9
+Services, and the Committee on Agriculture of the House 
+10
+of Representatives, and the Committee on the Judiciary, 
+11
+Committee on Homeland Security and Governmental Af-
+12
+fairs, Committee on Banking, Housing, and Urban Af-
+13
+fairs, Committee on Agriculture, Nutrition, and Forestry 
+14
+of the Senate. 
+15
+SEC. 503. REPORT ON DECENTRALIZED FINANCE. 
+16
+Not later than 270 days after the date of the enact-
+17
+ment of this Act, the Board of Governors of the Federal 
+18
+Reserve System, the Office of the Comptroller of the Cur-
+19
+rency, the Secretary of the Treasury, the Securities and 
+20
+Exchange Commission, and the Commodity Futures Trad-
+21
+ing Commission, shall jointly submit a report to the appro-
+22
+priate committees that— 
+23
+(1) summarizes the use of decentralized finance 
+24
+in the United States; 
+25
+19:18 Aug 10, 2021
+H4741
+52 
+•HR 4741 IH
+(2) estimates the number and percentage of 
+1
+Americans using decentralized finance products and 
+2
+services versus the global usage and identifies the 
+3
+major decentralized finance products and services by 
+4
+estimated dollar volume usage; 
+5
+(3) provides recommendations with respect to 
+6
+the definition of the term ‘‘decentralized finance’’ to 
+7
+be adopted and codified in United States law; 
+8
+(4) discusses the primary differences between 
+9
+digital asset fiat based stablecoins and central bank 
+10
+digital currencies; 
+11
+(5) discusses whether there are financial sta-
+12
+bility risks or concerns posed by decentralized fi-
+13
+nance; 
+14
+(6) provides recommendations regarding appro-
+15
+priate regulation and investor protection for decen-
+16
+tralized finance in United States banking, securities, 
+17
+and commodities, including with respect to United 
+18
+States jurisdiction and application of United States 
+19
+law; and 
+20
+(7) discusses the legal obligations of creators, 
+21
+owners, or operators of decentralized finance appli-
+22
+cations, distributed ledgers, smart contracts, and 
+23
+other applications which are hacked or are used for 
+24
+fraud and manipulation. 
+25
+19:18 Aug 10, 2021
+H4741
+53 
+•HR 4741 IH
+SEC. 504. REPORT ON CUSTODY OF DIGITAL ASSETS AND 
+1
+DIGITAL ASSET SECURITIES. 
+2
+Not later than 270 days after the date of the enact-
+3
+ment of this Act, the Securities and Exchange Commis-
+4
+sion, the Office of the Comptroller of the Currency, the 
+5
+Secretary of the Treasury, and the Commodity Futures 
+6
+Trading Commission, shall jointly submit a report to the 
+7
+appropriate committees that— 
+8
+(1) provides recommendations on the regula-
+9
+tion, licensing, and auditing of digital asset 
+10
+custodians and digital asset security custodians; and 
+11
+(2) considers each of the following issues: 
+12
+(A) The custody of digital assets and dig-
+13
+ital asset securities. 
+14
+(B) Estimates on digital assets and digital 
+15
+asset securities custody at trading platforms, li-
+16
+censed custodians, self custody in wallets. 
+17
+(C) FINRA Guidance to Broker Dealers 
+18
+on Digital Asset and Digital Asset Security 
+19
+Custody. 
+20
+(D) AICPA position on custody of digital 
+21
+assets and digital asset securities. 
+22
+(E) Custodian markets, banks, trust com-
+23
+panies, brokers, dealers, and futures commis-
+24
+sions merchants. 
+25
+19:18 Aug 10, 2021
+H4741
+54 
+•HR 4741 IH
+(F) The background on major United 
+1
+States and foreign digital asset and digital 
+2
+asset security custodians by size (assets held) 
+3
+and licensing. 
+4
+SEC. 505. REPORT ON DIGITAL ASSET TRADING PLAT-
+5
+FORMS. 
+6
+Not later than 270 days after the date of the enact-
+7
+ment of this section, the Securities and Exchange Com-
+8
+mission, the Commodity Futures Trading Commission, the 
+9
+Secretary of the Treasury, and the Financial Crimes En-
+10
+forcement Network, in consultation with such Federal and 
+11
+State regulators and market participants as the Commis-
+12
+sion determines appropriate, shall jointly submit to the 
+13
+relevant committees a report that— 
+14
+(1) identifies the 10 largest digital asset trading 
+15
+platforms in the United States, their registration 
+16
+status, the number of client accounts each platform 
+17
+has, and the annual trading volume on each trading 
+18
+platform over the last 5 years; 
+19
+(2) summarizes and compares— 
+20
+(A) the statutory and regulatory require-
+21
+ments applicable to United States digital asset 
+22
+trading platforms (MSBs) which are currently 
+23
+available to United States investors; and 
+24
+19:18 Aug 10, 2021
+H4741
+55 
+•HR 4741 IH
+(B) the statutory and regulatory require-
+1
+ments applicable to national securities ex-
+2
+changes, alternative trading systems, designated 
+3
+contract market, and swap execution facility; 
+4
+(3) identifies and quantifies investor losses re-
+5
+lated to all known major foreign and domestic unau-
+6
+thorized electronic access or hacks of digital asset 
+7
+trading platforms in the 5-year period preceding the 
+8
+date of the enactment of this Act; and 
+9
+(4) provides legislative and regulatory rec-
+10
+ommendations to promote and increase United 
+11
+States investor protection with respect to sale or 
+12
+trading of digital assets and digital asset securities. 
+13
+The report shall discuss the major differences between 
+14
+money services businesses and securities/commodities ex-
+15
+changes and provide concrete legislative and regulatory 
+16
+recommendations which would help clarify on what entities 
+17
+and under what rules and requirements the trading of dig-
+18
+ital assets and digital asset securities should take place 
+19
+as distinguished from the entities and the rules which 
+20
+should apply to the transmission of monetary instruments. 
+21
+19:18 Aug 10, 2021
+H4741
+56 
+•HR 4741 IH
+SEC. 506. REPORT ON FALSE TRADE REPORTING, WASH 
+1
+TRADING, AND OFF-CHAIN TRANSACTION ON 
+2
+DIGITAL ASSET TRADING PLATFORMS. 
+3
+Not later than 270 days after the date of the enact-
+4
+ment of this section, the Commodity Futures Trading 
+5
+Commission, the Secretary of the Treasury, and the Fi-
+6
+nancial Crimes Enforcement Network, in consultation 
+7
+with such Federal and State regulators and market par-
+8
+ticipants as the Commission determines appropriate, shall 
+9
+jointly submit to the relevant committees a report on false 
+10
+trade reporting, wash trading, and off-chain transactions 
+11
+with respect to contracts of sale of digital assets in inter-
+12
+state commerce that— 
+13
+(1) with respect to the 5-year period preceding 
+14
+the date of the enactment of this section, examines 
+15
+each public report regarding false trade reporting 
+16
+and wash trading of digital assets on digital asset 
+17
+trading platforms; 
+18
+(2) identifies the US and foreign digital asset 
+19
+trading platforms which have engaged in significant 
+20
+false trade reporting and wash trading; 
+21
+(3) quantifies and estimates the amount of false 
+22
+trade reporting and wash trading for each year of 
+23
+the last five years; 
+24
+(4) discusses the use of omnibus accounts by 
+25
+digital asset trading platforms to hold customer as-
+26
+19:18 Aug 10, 2021
+H4741
+57 
+•HR 4741 IH
+sets and whether internalization of digital asset 
+1
+transactions by digital asset trading platforms cre-
+2
+ates transparency issues related to the public distrib-
+3
+uted ledger having an up to date record of all trans-
+4
+actions and current ownership of digital assets; 
+5
+(5) quantifies the amount and average daily 
+6
+trading volume of off-chain digital asset transactions 
+7
+occurring on United States digital asset trading 
+8
+platforms which are not reported to the public dis-
+9
+tributed ledger for the digital asset for each of the 
+10
+last five years; 
+11
+(6) identifies the entities which have facilitated 
+12
+false trade reporting; and 
+13
+(7) provides legislative and regulatory rec-
+14
+ommendations to promote and increase United 
+15
+States investor protection with respect to digital as-
+16
+sets. 
+17
+SEC. 507. RELEVANT COMMITTEES DEFINED. 
+18
+The term ‘‘relevant committees’’ means— 
+19
+(1) the Committee on Financial Services of the 
+20
+House of Representatives; 
+21
+(2) the Committee on Banking, Housing, and 
+22
+Urban Affairs of the Senate; 
+23
+(3) the Committee on Agriculture of the House 
+24
+of Representatives; and 
+25
+19:18 Aug 10, 2021
+H4741
+58 
+•HR 4741 IH
+(4) the Committee on Agriculture, Nutrition, 
+1
+and Forestry of the Senate. 
+2
+Æ 
+19:18 Aug 10, 2021
+H4741

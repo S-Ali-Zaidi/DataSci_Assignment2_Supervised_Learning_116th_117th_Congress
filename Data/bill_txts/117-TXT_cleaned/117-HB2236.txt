@@ -1,0 +1,899 @@
+A BILL 
+To establish a voluntary program to identify and promote 
+internet-connected products that meet industry-leading 
+cybersecurity and data security standards, guidelines, 
+best practices, methodologies, procedures, and processes, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cyber Shield Act of 
+4
+2021’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act— 
+7
+03:00 May 25, 2021
+H2236
+2 
+•HR 2236 IH
+(1) the term ‘‘Advisory Committee’’ means the 
+1
+Cyber Shield Advisory Committee established by the 
+2
+Secretary under section 3(a); 
+3
+(2) the term ‘‘benchmarks’’ means standards, 
+4
+guidelines, best practices, methodologies, procedures, 
+5
+and processes; 
+6
+(3) the term ‘‘covered product’’ means a con-
+7
+sumer-facing physical object that can— 
+8
+(A) connect to the internet or other net-
+9
+work; and 
+10
+(B)(i) collect, send, or receive data; or 
+11
+(ii) control the actions of a physical object 
+12
+or system; 
+13
+(4) the term ‘‘Cyber Shield program’’ means 
+14
+the voluntary program established by the Secretary 
+15
+under section 4(a)(1); and 
+16
+(5) the term ‘‘Secretary’’ means the Secretary 
+17
+of Commerce. 
+18
+SEC. 3. CYBER SHIELD ADVISORY COMMITTEE. 
+19
+(a) ESTABLISHMENT.—Not later than 90 days after 
+20
+the date of enactment of this Act, the Secretary shall es-
+21
+tablish the Cyber Shield Advisory Committee. 
+22
+(b) DUTIES.— 
+23
+(1) IN GENERAL.—Not later than 1 year after 
+24
+the date of enactment of this Act, the Advisory 
+25
+03:00 May 25, 2021
+H2236
+3 
+•HR 2236 IH
+Committee shall provide recommendations to the 
+1
+Secretary regarding— 
+2
+(A) the format and content of the Cyber 
+3
+Shield labels required to be established under 
+4
+section 4; and 
+5
+(B) the process for identifying, estab-
+6
+lishing, reporting on, adopting, maintaining, 
+7
+and promoting compliance with the voluntary 
+8
+cybersecurity and data security benchmarks re-
+9
+quired to be established under section 4. 
+10
+(2) PUBLIC
+AVAILABILITY
+OF
+RECOMMENDA-
+11
+TIONS.—The Advisory Committee shall publish, and 
+12
+provide the public with an opportunity to comment 
+13
+on, the recommendations provided to the Secretary 
+14
+under paragraph (1). 
+15
+(c) MEMBERS, CHAIR, AND DUTIES.— 
+16
+(1) APPOINTMENT.— 
+17
+(A) IN
+GENERAL.—The Advisory Com-
+18
+mittee shall be composed of members appointed 
+19
+by the Secretary from among individuals who 
+20
+are specially qualified to serve on the Advisory 
+21
+Committee based on the education, training, or 
+22
+experience of those individuals. 
+23
+(B) 
+REPRESENTATION.—Members 
+ap-
+24
+pointed under subparagraph (A) shall include— 
+25
+03:00 May 25, 2021
+H2236
+4 
+•HR 2236 IH
+(i) representatives of the covered 
+1
+products industry, including small, me-
+2
+dium, and large businesses; 
+3
+(ii) cybersecurity experts, including 
+4
+independent cybersecurity researchers that 
+5
+specialize in areas such as cryptanalysis, 
+6
+hardware and software security, wireless 
+7
+and network security, cloud security, and 
+8
+data privacy; 
+9
+(iii) public interest advocates; 
+10
+(iv) a liaison from the Information Se-
+11
+curity and Privacy Advisory Board estab-
+12
+lished under section 21(a) of the National 
+13
+Institute of Standards and Technology Act 
+14
+(15 U.S.C. 278g–4(a)) who is a member of 
+15
+that Board as described in paragraph (3) 
+16
+of such section 21(a); 
+17
+(v) Federal employees with expertise 
+18
+in certification, covered devices, or cyberse-
+19
+curity, including employees of— 
+20
+(I) the Department of Commerce; 
+21
+(II) the National Institute of 
+22
+Standards and Technology; 
+23
+(III) the Federal Trade Commis-
+24
+sion; 
+25
+03:00 May 25, 2021
+H2236
+5 
+•HR 2236 IH
+(IV) the Federal Communications 
+1
+Commission; and 
+2
+(V) the Consumer Product Safety 
+3
+Commission; and 
+4
+(vi) an expert who shall ensure that, 
+5
+subject to subsection (e), the Advisory 
+6
+Committee conforms to and complies with 
+7
+the requirements under the Federal Advi-
+8
+sory Committee Act (5 U.S.C. App.). 
+9
+(C) LIMITATION.—In appointing members 
+10
+under subparagraph (A), the Secretary shall en-
+11
+sure that— 
+12
+(i) each interest group described in 
+13
+clauses (i), (ii), (iii), and (v) of subpara-
+14
+graph (B) is proportionally represented on 
+15
+the Advisory Committee, including— 
+16
+(I) businesses of each size de-
+17
+scribed in clause (i) of that subpara-
+18
+graph; 
+19
+(II) Federal employees with ex-
+20
+pertise in each subject described in 
+21
+clause (v) of that subparagraph; and 
+22
+(III) Federal employees from 
+23
+each agency described in subclauses 
+24
+03:00 May 25, 2021
+H2236
+6 
+•HR 2236 IH
+(I) through (V) of clause (v) of that 
+1
+subparagraph; and 
+2
+(ii) no single interest group described 
+3
+in clauses (i), (ii), (iii), and (v) of subpara-
+4
+graph (B) is represented by a majority of 
+5
+the members of the Advisory Committee. 
+6
+(2) CHAIR.—The Secretary shall designate a 
+7
+member of the Advisory Committee to serve as 
+8
+Chair. 
+9
+(3) PAY.—Members of the Advisory Committee 
+10
+shall serve without pay, except that the Secretary 
+11
+may allow a member, while attending meetings of 
+12
+the Advisory Committee or a subcommittee of the 
+13
+Advisory Committee, per diem, travel, and transpor-
+14
+tation expenses authorized under section 5703 of 
+15
+title 5, United States Code. 
+16
+(d) SUPPORT STAFF; ADMINISTRATIVE SERVICES.— 
+17
+(1) SUPPORT STAFF.—The Secretary shall pro-
+18
+vide support staff for the Advisory Committee. 
+19
+(2) ADMINISTRATIVE SERVICES.—Upon the re-
+20
+quest of the Advisory Committee, the Secretary shall 
+21
+provide any information, administrative services, and 
+22
+supplies that the Secretary considers necessary for 
+23
+the Advisory Committee to carry out the duties and 
+24
+powers of the Advisory Committee. 
+25
+03:00 May 25, 2021
+H2236
+7 
+•HR 2236 IH
+(e) NO TERMINATION.—Section 14 of the Federal 
+1
+Advisory Committee Act (5 U.S.C. App.) shall not apply 
+2
+to the Advisory Committee. 
+3
+(f) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+4
+are authorized to be appropriated such sums as may be 
+5
+necessary to carry out this section. 
+6
+SEC. 4. CYBER SHIELD PROGRAM. 
+7
+(a) ESTABLISHMENT OF PROGRAM.— 
+8
+(1) IN GENERAL.—The Secretary shall establish 
+9
+a voluntary program to identify and certify covered 
+10
+products through voluntary certification and labeling 
+11
+of, and other forms of communication about, covered 
+12
+products and subsets of covered products that meet 
+13
+industry-leading cybersecurity and data security 
+14
+benchmarks to enhance cybersecurity and protect 
+15
+data. 
+16
+(2) LABELS.—Labels applied to covered prod-
+17
+ucts under the Cyber Shield program— 
+18
+(A) shall be digital and, if feasible, phys-
+19
+ical and affixed to the covered product or pack-
+20
+aging; and 
+21
+(B) may be in the form of different grades 
+22
+that display the extent to which a covered prod-
+23
+uct meets the industry-leading cybersecurity 
+24
+and data security benchmarks. 
+25
+03:00 May 25, 2021
+H2236
+8 
+•HR 2236 IH
+(b) CONSULTATION.—Not later than 90 days after 
+1
+the date of enactment of this Act, the Secretary shall es-
+2
+tablish a process for consulting interested parties, the Sec-
+3
+retary of Health and Human Services, the Commissioner 
+4
+of Food and Drugs, the Secretary of Homeland Security, 
+5
+and the heads of other Federal agencies in carrying out 
+6
+the Cyber Shield program. 
+7
+(c) DUTIES.—In carrying out the Cyber Shield pro-
+8
+gram, the Secretary— 
+9
+(1) shall— 
+10
+(A) by convening and consulting interested 
+11
+parties and the heads of other Federal agencies, 
+12
+establish and maintain cybersecurity and data 
+13
+security benchmarks for covered products with 
+14
+the Cyber Shield label to ensure that those cov-
+15
+ered products perform better than counterparts 
+16
+of those covered products that do not have the 
+17
+Cyber Shield label; and 
+18
+(B) in carrying out subparagraph (A)— 
+19
+(i) engage in an open public review 
+20
+and comment process; 
+21
+(ii) in consultation with the Advisory 
+22
+Committee, identify and apply cybersecu-
+23
+rity and data security benchmarks to dif-
+24
+03:00 May 25, 2021
+H2236
+9 
+•HR 2236 IH
+ferent subsets of covered products based 
+1
+on, with respect to each such subset— 
+2
+(I) any cybersecurity and data 
+3
+security risk relating to covered prod-
+4
+ucts in the subset; 
+5
+(II) the sensitivity of the infor-
+6
+mation 
+collected, 
+transmitted, 
+or 
+7
+stored by covered products in the sub-
+8
+set; 
+9
+(III) the functionality of covered 
+10
+products in the subset; 
+11
+(IV) the security practices and 
+12
+testing procedures used in developing 
+13
+and manufacturing covered products 
+14
+in the subset; 
+15
+(V) the level of expertise, quali-
+16
+fications, and professional accredita-
+17
+tion of the staff employed by the man-
+18
+ufacturers of covered products in the 
+19
+subset who are responsible for cyber-
+20
+security of the covered products; and 
+21
+(VI) any other criteria the Advi-
+22
+sory Committee and Secretary deter-
+23
+mine is necessary and appropriate; 
+24
+and 
+25
+03:00 May 25, 2021
+H2236
+10 
+•HR 2236 IH
+(iii) to the extent possible, incorporate 
+1
+existing cybersecurity and data security 
+2
+benchmarks, such as the baseline of cyber-
+3
+security features defined in the document 
+4
+entitled ‘‘Core Cybersecurity Feature Base-
+5
+line for Securable IoT Devices: A Starting 
+6
+Point for IoT Device Manufacturers’’, pub-
+7
+lished by the National Institute of Stand-
+8
+ards and Technology in July 2019, or any 
+9
+successor thereto; 
+10
+(2) may not establish any cybersecurity and 
+11
+data security benchmark under paragraph (1) that 
+12
+is arbitrary, capricious, an abuse of discretion, or 
+13
+otherwise not in accordance with law; 
+14
+(3) shall permit a manufacturer or distributor 
+15
+of a covered product to display a Cyber Shield label 
+16
+reflecting the extent to which the covered product 
+17
+meets the cybersecurity and data security bench-
+18
+marks established under paragraph (1); 
+19
+(4) shall promote technologies, practices, and 
+20
+policies that— 
+21
+(A) are compliant with the cybersecurity 
+22
+and data security benchmarks established under 
+23
+paragraph (1); and 
+24
+03:00 May 25, 2021
+H2236
+11 
+•HR 2236 IH
+(B) the Secretary determines are the pre-
+1
+ferred technologies, practices, and policies in 
+2
+the marketplace for— 
+3
+(i) enhancing cybersecurity; 
+4
+(ii) ensuring that cybersecurity is in-
+5
+corporated in all aspects of the life cycle of 
+6
+a covered product; and 
+7
+(iii) protecting data; 
+8
+(5) shall work to enhance public awareness of 
+9
+the Cyber Shield label, including through public out-
+10
+reach, education, research and development, and 
+11
+other means; 
+12
+(6) shall preserve the integrity of the Cyber 
+13
+Shield label; 
+14
+(7) if helpful in fulfilling the obligation under 
+15
+paragraph (6), may elect to not treat a covered 
+16
+product as a covered product certified under the 
+17
+Cyber Shield program until the covered product 
+18
+meets appropriate conformity standards, which may 
+19
+include— 
+20
+(A) standards relating to testing by an ac-
+21
+credited third-party certifying laboratory or 
+22
+other entity in accordance with the Cyber 
+23
+Shield program; and 
+24
+03:00 May 25, 2021
+H2236
+12 
+•HR 2236 IH
+(B) certification by the laboratory or entity 
+1
+described in subparagraph (A) that the covered 
+2
+product meets the applicable cybersecurity and 
+3
+data security benchmarks established under 
+4
+paragraph (1); 
+5
+(8) not less frequently than annually after the 
+6
+date on which the Secretary establishes cybersecurity 
+7
+and data security benchmarks for a covered product 
+8
+category under paragraph (1), shall review, and, if 
+9
+appropriate, update the cybersecurity and data secu-
+10
+rity benchmarks, for that covered product category; 
+11
+(9) shall solicit comments from interested par-
+12
+ties and the Advisory Committee before establishing 
+13
+or revising a Cyber Shield covered product category 
+14
+or cybersecurity and data security benchmark (or be-
+15
+fore the effective date of the establishment or revi-
+16
+sion of a covered product category or cybersecurity 
+17
+and data security benchmark); 
+18
+(10) upon adoption of a new or revised covered 
+19
+product category or cybersecurity and data security 
+20
+benchmark, shall provide reasonable notice to inter-
+21
+ested parties of any changes (including effective 
+22
+dates) to covered product categories or cybersecurity 
+23
+and data security benchmarks, along with— 
+24
+(A) an explanation of the changes; and 
+25
+03:00 May 25, 2021
+H2236
+13 
+•HR 2236 IH
+(B) as appropriate, responses to comments 
+1
+submitted by interested parties; 
+2
+(11) shall provide appropriate lead time before 
+3
+the applicable effective date for a new or a signifi-
+4
+cant revision to a covered product category or cyber-
+5
+security and data security benchmark, taking into 
+6
+account the timing requirements of the manufac-
+7
+turing, marketing, and distribution process for any 
+8
+covered product addressed; and 
+9
+(12) may remove the certification of a covered 
+10
+product as a covered product certified under the 
+11
+Cyber Shield program if the manufacturer of the 
+12
+certified covered product falls out of conformity with 
+13
+the benchmarks established under paragraph (1) for 
+14
+the covered product, as determined by the Secretary. 
+15
+(d) DEADLINES.—Not later than 2 years after the 
+16
+date of enactment of this Act, the Secretary shall establish 
+17
+cybersecurity and data security benchmarks for covered 
+18
+products under subsection (c)(1), which shall take effect 
+19
+not later than 60 days after the date on which the Sec-
+20
+retary establishes the cybersecurity and data security 
+21
+benchmarks. 
+22
+(e) ADMINISTRATION.—The Secretary, in consulta-
+23
+tion with the Advisory Committee, may enter into a con-
+24
+03:00 May 25, 2021
+H2236
+14 
+•HR 2236 IH
+tract with a third party to administer the Cyber Shield 
+1
+program if— 
+2
+(1) the third party is an impartial adminis-
+3
+trator; and 
+4
+(2) entering into the contract improves the cy-
+5
+bersecurity and data security of covered products. 
+6
+(f) PROGRAM EVALUATION.— 
+7
+(1) IN GENERAL.—Not later than 3 years after 
+8
+the date on which the Secretary establishes cyberse-
+9
+curity and data security benchmarks for covered 
+10
+products under subsection (c)(1), and not less fre-
+11
+quently than every 3 years thereafter, the Inspector 
+12
+General of the Department of Commerce shall— 
+13
+(A) evaluate the Cyber Shield program; 
+14
+and 
+15
+(B) submit a report on the results of the 
+16
+evaluation carried out under subparagraph (A) 
+17
+to— 
+18
+(i) the Committee on Commerce, 
+19
+Science, and Transportation of the Senate; 
+20
+and 
+21
+(ii) the Committee on Energy and 
+22
+Commerce of the House of Representa-
+23
+tives. 
+24
+03:00 May 25, 2021
+H2236
+15 
+•HR 2236 IH
+(2) REQUIREMENTS.—In conducting an evalua-
+1
+tion under paragraph (1)(A), the Inspector General 
+2
+of the Department of Commerce shall— 
+3
+(A) with respect to the cybersecurity and 
+4
+data security benchmarks established under 
+5
+subsection (c)(1)— 
+6
+(i) evaluate the extent to which the 
+7
+cybersecurity and data security bench-
+8
+marks address cybersecurity and data se-
+9
+curity threats; and 
+10
+(ii) assess how the cybersecurity and 
+11
+data security benchmarks have evolved to 
+12
+meet emerging cybersecurity and data se-
+13
+curity threats; 
+14
+(B) conduct covert testing of covered prod-
+15
+ucts to evaluate the integrity of certification 
+16
+testing under the Cyber Shield program; 
+17
+(C) assess the costs to businesses that 
+18
+manufacture covered products of participating 
+19
+in the Cyber Shield program; 
+20
+(D) evaluate the level of participation in 
+21
+the Cyber Shield program by businesses that 
+22
+manufacture covered products; 
+23
+03:00 May 25, 2021
+H2236
+16 
+•HR 2236 IH
+(E) assess the level of public awareness 
+1
+and consumer awareness of the Cyber Shield 
+2
+label; 
+3
+(F) determine whether any private sector 
+4
+or international cybersecurity certification pro-
+5
+grams comparable to the Cyber Shield program 
+6
+exist; and 
+7
+(G) if any private sector or international 
+8
+cybersecurity certification programs described 
+9
+in subparagraph (F) exist, evaluate how each 
+10
+such private sector or international cybersecu-
+11
+rity certification program interacts with and 
+12
+compares to the Cyber Shield program. 
+13
+(g) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+14
+are authorized to be appropriated such sums as may be 
+15
+necessary to carry out this section. 
+16
+SEC. 5. CYBER SHIELD DIGITAL COVERED PRODUCT POR-
+17
+TAL. 
+18
+(a) IN GENERAL.—The Secretary shall make publicly 
+19
+available on the website of the Department of Commerce 
+20
+in a searchable format— 
+21
+(1) a web page providing information about the 
+22
+Cyber Shield program; 
+23
+(2) a database of covered products certified 
+24
+under the Cyber Shield program; and 
+25
+03:00 May 25, 2021
+H2236
+17 
+•HR 2236 IH
+(3) contact information for each manufacturer 
+1
+of a covered product certified under the Cyber 
+2
+Shield program that may be used by consumers to 
+3
+contact the manufacturer regarding questions or 
+4
+complaints. 
+5
+(b) 
+REQUIREMENTS.—The 
+database 
+established 
+6
+under subsection (a)(2) shall include— 
+7
+(1) the cybersecurity and data security bench-
+8
+marks established under section 4(c)(1) for each 
+9
+covered product category; and 
+10
+(2) for each covered product certified under the 
+11
+Cyber Shield program— 
+12
+(A) the certification for the covered prod-
+13
+uct; 
+14
+(B) the name and manufacturer of the cov-
+15
+ered product; 
+16
+(C) the contact information for the manu-
+17
+facturer of the covered product; 
+18
+(D) the functionality of the covered prod-
+19
+uct; 
+20
+(E) the location of any applicable privacy 
+21
+policy; and 
+22
+(F) any other information that the Sec-
+23
+retary determines to be necessary and appro-
+24
+priate. 
+25
+03:00 May 25, 2021
+H2236
+18 
+•HR 2236 IH
+SEC. 6. RULE OF CONSTRUCTION. 
+1
+The decision of a manufacturer of a covered product 
+2
+to not participate in the Cyber Shield program shall not 
+3
+affect the liability of the manufacturer for a cybersecurity 
+4
+or data security breach of that covered product. 
+5
+Æ 
+03:00 May 25, 2021
+H2236

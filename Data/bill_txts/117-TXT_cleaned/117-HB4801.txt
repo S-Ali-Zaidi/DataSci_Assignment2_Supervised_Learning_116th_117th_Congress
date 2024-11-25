@@ -1,0 +1,3013 @@
+A BILL 
+To amend the Children’s Online Privacy Protection Act of 
+1998 to update and expand the coverage of such Act, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Protecting the Information of our Vulnerable Children 
+5
+and Youth Act’’ or the ‘‘Kids PRIVCY Act’’. 
+6
+(b) TABLE OF CONTENTS.—The table of contents for 
+7
+this Act is as follows: 
+8
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+22:53 Aug 07, 2021
+H4801
+2 
+•HR 4801 IH
+Sec. 3. Requirements for processing of covered information of children or teen-
+agers. 
+Sec. 4. Repeal of safe harbors provision. 
+Sec. 5. Administration and applicability of Act. 
+Sec. 6. Review. 
+Sec. 7. Private right of action. 
+Sec. 8. Relationship to other law. 
+Sec. 9. Additional conforming amendment. 
+Sec. 10. Implementing regulations. 
+Sec. 11. Youth Privacy and Marketing Division. 
+Sec. 12. Commission defined. 
+Sec. 13. Effective date. 
+SEC. 2. DEFINITIONS. 
+1
+Section 1302 of the Children’s Online Privacy Protec-
+2
+tion Act of 1998 (15 U.S.C. 6501) is amended— 
+3
+(1) by striking paragraphs (5) and (10); 
+4
+(2) by redesignating paragraphs (2), (3), (4), 
+5
+(6), (7), (8), and (9) as paragraphs (3), (5), (6), 
+6
+(7), (8), (9), and (10), respectively; 
+7
+(3) by inserting after paragraph (1) the fol-
+8
+lowing: 
+9
+‘‘(2) TEENAGER.—The term ‘teenager’ means 
+10
+an individual over the age of 12 and under the age 
+11
+of 18.’’; 
+12
+(4) by striking paragraph (3) (as so redesig-
+13
+nated) and inserting the following: 
+14
+‘‘(3) COVERED ENTITY.—The term ‘covered en-
+15
+tity’ means— 
+16
+‘‘(A) any organization, corporation, trust, 
+17
+partnership, sole proprietorship, unincorporated 
+18
+association, or venture over which the Commis-
+19
+sion has authority pursuant to section 5(a)(2) 
+20
+22:53 Aug 07, 2021
+H4801
+3 
+•HR 4801 IH
+of the Federal Trade Commission Act (15 
+1
+U.S.C. 45(a)(2)); 
+2
+‘‘(B) notwithstanding section 5(a)(2) of 
+3
+the Federal Trade Commission Act (15 U.S.C. 
+4
+45(a)(2)), common carriers; and 
+5
+‘‘(C) 
+notwithstanding 
+sections 
+4 
+and 
+6
+5(a)(2) of the Federal Trade Commission Act 
+7
+(15 U.S.C. 44 and 45(a)(2)), any nonprofit or-
+8
+ganization, including any organization described 
+9
+in section 501(c) of the Internal Revenue Code 
+10
+of 1986 that is exempt from taxation under sec-
+11
+tion 501(a) of the Internal Revenue Code of 
+12
+1986. 
+13
+‘‘(4) OPERATOR.—The term ‘operator’ means, 
+14
+with respect to a digital service, the covered entity 
+15
+that operates such service, to the extent the covered 
+16
+entity is engaged in operating such service or in 
+17
+processing covered information obtained in connec-
+18
+tion with such service.’’; 
+19
+(5) by amending paragraph (6) (as so redesig-
+20
+nated) to read as follows: 
+21
+‘‘(6) DISCLOSE.—The term ‘disclose’ means to 
+22
+intentionally or unintentionally release, transfer, sell, 
+23
+disseminate, share, publish, lease, license, make 
+24
+22:53 Aug 07, 2021
+H4801
+4 
+•HR 4801 IH
+available, allow access to, fail to restrict access to, 
+1
+or otherwise communicate covered information.’’; 
+2
+(6) by amending paragraph (9) (as so redesig-
+3
+nated) to read as follows: 
+4
+‘‘(9) COVERED INFORMATION.—The term ‘cov-
+5
+ered information’— 
+6
+‘‘(A) means any information, linked or rea-
+7
+sonably linkable to a specific teenager or child, 
+8
+or specific consumer device of a teenager or 
+9
+child; 
+10
+‘‘(B) may include— 
+11
+‘‘(i) a name, alias, home or other 
+12
+physical address, online identifier, Internet 
+13
+Protocol address, email address, account 
+14
+name, Social Security number, physical 
+15
+characteristics or description, telephone 
+16
+number, State identification card number, 
+17
+driver’s license number, passport number, 
+18
+or other similar identifier; 
+19
+‘‘(ii) actual or perceived race, religion, 
+20
+sex, sexual orientation, sexual behavior, fa-
+21
+milial status, gender identity, disability, 
+22
+age, political affiliation, or national origin; 
+23
+‘‘(iii) commercial information, includ-
+24
+ing records relating to personal property, 
+25
+22:53 Aug 07, 2021
+H4801
+5 
+•HR 4801 IH
+products or services purchased, obtained, 
+1
+or considered, or other purchasing or con-
+2
+suming histories, interests, or tendencies; 
+3
+‘‘(iv) biometric information; 
+4
+‘‘(v) device identifiers, online identi-
+5
+fiers, persistent identifiers, or digital 
+6
+fingerprinting information; 
+7
+‘‘(vi) internet or other electronic net-
+8
+work activity information, including brows-
+9
+ing history, search history, and informa-
+10
+tion regarding a teenager’s or child’s inter-
+11
+action with an internet website, applica-
+12
+tion, or advertisement; 
+13
+‘‘(vii) geolocation information; 
+14
+‘‘(viii) audio, electronic, visual, ther-
+15
+mal, olfactory, or similar information; 
+16
+‘‘(ix) education information; 
+17
+‘‘(x) health information; 
+18
+‘‘(xi) facial recognition information; 
+19
+‘‘(xii) contents of, attachments to, and 
+20
+parties to information, including with re-
+21
+spect to electronic mail, text messages, pic-
+22
+ture messages, voicemails, audio conversa-
+23
+tions, and video conversations; 
+24
+22:53 Aug 07, 2021
+H4801
+6 
+•HR 4801 IH
+‘‘(xiii) financial information, including 
+1
+bank account numbers, credit card num-
+2
+bers, debit card numbers, or insurance pol-
+3
+icy numbers; and 
+4
+‘‘(xiv) inferences drawn from any of 
+5
+the information described in this para-
+6
+graph to create a profile about a teenager 
+7
+or child reflecting the teenager’s or child’s 
+8
+preferences, characteristics, psychological 
+9
+trends, predispositions, behavior, attitudes, 
+10
+intelligence, abilities, or aptitudes; and 
+11
+‘‘(C) does not include— 
+12
+‘‘(i) information that is processed 
+13
+solely for the purpose of employment of a 
+14
+teenager; or 
+15
+‘‘(ii) de-identified information.’’; 
+16
+(7) by amending paragraph (10) (as so redesig-
+17
+nated) to read as follows: 
+18
+‘‘(10) 
+VERIFIABLE
+CONSENT.—The 
+term 
+19
+‘verifiable consent’ means express, affirmative con-
+20
+sent freely given by a teenager, or by the parent of 
+21
+a child, to the processing of covered information of 
+22
+that teenager or child, respectively— 
+23
+‘‘(A) that is specific, informed, and unam-
+24
+biguous, taking into account the age and the 
+25
+22:53 Aug 07, 2021
+H4801
+7 
+•HR 4801 IH
+developmental or cognitive needs and capabili-
+1
+ties of the teenager or parent of a child, as ap-
+2
+plicable; 
+3
+‘‘(B) that is given separately for each proc-
+4
+essing activity; 
+5
+‘‘(C) where the teenager or parent of a 
+6
+child, as applicable, has not received any finan-
+7
+cial or other incentive in exchange for such con-
+8
+sent; 
+9
+‘‘(D) that is given before any processing 
+10
+occurs, at a time and in a context in which the 
+11
+teenager or parent of a child, as applicable, 
+12
+would reasonably expect to make choices con-
+13
+cerning such processing; and 
+14
+‘‘(E) that is not obtained through the use 
+15
+of a design, modification, or manipulation of a 
+16
+user interface with the purpose or substantial 
+17
+effect of obscuring, subverting, or impairing 
+18
+user autonomy, decision making, or choice.’’; 
+19
+and 
+20
+(8) by adding at the end the following: 
+21
+‘‘(13) PROCESS.—The term ‘process’ means to 
+22
+perform any operation or set of operations on cov-
+23
+ered information, whether or not by automated 
+24
+means, including collecting, creating, acquiring, dis-
+25
+22:53 Aug 07, 2021
+H4801
+8 
+•HR 4801 IH
+closing, sharing, classifying, sorting, recording, de-
+1
+riving, inferring, obtaining, assembling, organizing, 
+2
+structuring, storing, retaining, adapting or altering, 
+3
+using, or retrieving covered information. 
+4
+‘‘(14) DE-IDENTIFIED INFORMATION; RE-IDEN-
+5
+TIFY.— 
+6
+‘‘(A) DE-IDENTIFIED INFORMATION.—The 
+7
+term ‘de-identified information’ means informa-
+8
+tion that cannot reasonably be used to infer in-
+9
+formation about, or otherwise be linked to, a 
+10
+specific teenager or child or specific consumer 
+11
+device of a teenager or child, if the covered enti-
+12
+ty that possesses the information— 
+13
+‘‘(i) takes reasonable measures to en-
+14
+sure that the information cannot be associ-
+15
+ated with a teenager or child; 
+16
+‘‘(ii) publicly commits to maintain and 
+17
+use the information in de-identified form 
+18
+and not to attempt to re-identify the infor-
+19
+mation, except for the purpose of testing 
+20
+the sufficiency of the de-identification 
+21
+measures; and 
+22
+‘‘(iii) contractually obligates any re-
+23
+cipients of the information to comply with 
+24
+clauses (i) and (ii). 
+25
+22:53 Aug 07, 2021
+H4801
+9 
+•HR 4801 IH
+‘‘(B) RE-IDENTIFY.—The term ‘re-identify’ 
+1
+means to link information that has been de- 
+2
+identified to a specific teenager or child or spe-
+3
+cific consumer device of a teenager or child. 
+4
+‘‘(15) STATE.—The term ‘State’ means each of 
+5
+the several States, the District of Columbia, each 
+6
+territory of the United States, and each federally 
+7
+recognized Indian Tribe. 
+8
+‘‘(16) SERVICE PROVIDER.—The term ‘service 
+9
+provider’ means a covered entity that processes cov-
+10
+ered information at the direction of, and for the sole 
+11
+benefit of, another covered entity, and— 
+12
+‘‘(A) is contractually or legally prohibited 
+13
+from processing such covered information for 
+14
+any other purpose; and 
+15
+‘‘(B) complies with all of the requirements 
+16
+of this title and the regulations promulgated 
+17
+under this title. 
+18
+‘‘(17) DIGITAL
+SERVICE.—The term ‘digital 
+19
+service’ means a website, online service, online appli-
+20
+cation, mobile application, or any other service that 
+21
+processes covered information digitally. 
+22
+‘‘(18) CHILDREN’S SERVICE.—The term ‘chil-
+23
+dren’s service’ means— 
+24
+22:53 Aug 07, 2021
+H4801
+10 
+•HR 4801 IH
+‘‘(A) a digital service or portion thereof 
+1
+that is directed to children; or 
+2
+‘‘(B) any other digital service or portion 
+3
+thereof, if the operator of the service decides to 
+4
+treat all users of the service or portion, as the 
+5
+case may be, as children. 
+6
+‘‘(19) PRIVACY RISK.—The term ‘privacy risk’ 
+7
+means potential adverse consequences to an indi-
+8
+vidual, group of individuals, or society arising from 
+9
+the processing of covered information, including— 
+10
+‘‘(A) physical harm; 
+11
+‘‘(B) psychological or emotional harm; 
+12
+‘‘(C) negative or harmful outcomes or deci-
+13
+sions with respect to an individual’s eligibility 
+14
+for rights, benefits, or opportunities; 
+15
+‘‘(D) reputational and dignity harm; 
+16
+‘‘(E) financial harm, including price dis-
+17
+crimination; 
+18
+‘‘(F) inconvenience or expenditure of time; 
+19
+‘‘(G) disruption and intrusion from un-
+20
+wanted communications or contacts; 
+21
+‘‘(H) other effects that limit an individ-
+22
+ual’s choices, influence an individual’s re-
+23
+sponses, or predetermine results or outcomes 
+24
+for that individual; and 
+25
+22:53 Aug 07, 2021
+H4801
+11 
+•HR 4801 IH
+‘‘(I) other demonstrable adverse con-
+1
+sequences that affect an individual’s private 
+2
+life, including private family matters, actions, 
+3
+and communications within an individual’s 
+4
+home or similar physical, online, or digital loca-
+5
+tion. 
+6
+‘‘(20) PRIVACY AND SECURITY IMPACT ASSESS-
+7
+MENT AND MITIGATION (PSIAM).— 
+8
+‘‘(A) IN
+GENERAL.—The terms ‘privacy 
+9
+and security impact assessment and mitigation’ 
+10
+and ‘PSIAM’ mean, with respect to a digital 
+11
+service, an assessment and mitigation by the 
+12
+operator of the service of risks to the children 
+13
+and teenagers who access the service that arise 
+14
+from the processing of covered information, tak-
+15
+ing into account privacy risks, security risks, 
+16
+the rights and best interests of children and 
+17
+teenagers, differing ages, capacities, and devel-
+18
+opmental needs of children and teenagers, and 
+19
+any significant internal or external emerging 
+20
+risks, and ensuring that the PSIAM builds in 
+21
+risk mitigation and compliance with the other 
+22
+requirements of this title. 
+23
+22:53 Aug 07, 2021
+H4801
+12 
+•HR 4801 IH
+‘‘(B) REQUIREMENTS.—In conducting a 
+1
+PSIAM with respect to a digital service, the op-
+2
+erator of the service shall do the following: 
+3
+‘‘(i) Embed the PSIAM into the de-
+4
+sign process of the service and complete 
+5
+the PSIAM before the launch of the service 
+6
+and on an ongoing basis, and before mak-
+7
+ing significant changes to the processing of 
+8
+covered information. 
+9
+‘‘(ii) Publicly disclose the nature, 
+10
+scope, context, and purposes of the proc-
+11
+essing of covered information. 
+12
+‘‘(iii) Depending on the size of the 
+13
+service and level of risks identified— 
+14
+‘‘(I) seek and document the views 
+15
+of children, teenagers, and parents (or 
+16
+their representatives), as well as ex-
+17
+perts in children’s and teenagers’ de-
+18
+velopmental needs; and 
+19
+‘‘(II) take such views into ac-
+20
+count in the design of the service. 
+21
+‘‘(iv) Publicly disclose an explanation 
+22
+of why the operator’s processing of covered 
+23
+information is necessary and proportionate 
+24
+vis a vis the risks for the service, and how 
+25
+22:53 Aug 07, 2021
+H4801
+13 
+•HR 4801 IH
+the operator complies with the require-
+1
+ments of this title. 
+2
+‘‘(v) Assess any processing of covered 
+3
+information that is not in the best inter-
+4
+ests of children or teenagers or that can be 
+5
+detrimental to their wellbeing and safety, 
+6
+whether 
+physical, 
+emotional, 
+develop-
+7
+mental, or material. 
+8
+‘‘(vi) Identify, assess, and mitigate 
+9
+high-risk processing of covered informa-
+10
+tion. 
+11
+‘‘(vii) Identify measures taken to miti-
+12
+gate the risks identified under clause (vi) 
+13
+and comply with the other requirements of 
+14
+this title. 
+15
+‘‘(viii) Provide for regular internal re-
+16
+porting on the effectiveness of controls and 
+17
+residual risks of the operator. 
+18
+‘‘(C) AUDITABLE
+BY
+COMMISSION.—The 
+19
+Commission may audit a PSIAM conducted by 
+20
+an operator as the Commission considers nec-
+21
+essary. 
+22
+‘‘(21) DIRECTED TO CHILDREN.— 
+23
+‘‘(A) IN GENERAL.—The term ‘directed to 
+24
+children’ means, with respect to a digital serv-
+25
+22:53 Aug 07, 2021
+H4801
+14 
+•HR 4801 IH
+ice, that the digital service is targeted to or at-
+1
+tractive to children, as demonstrated by— 
+2
+‘‘(i) the subject matter of the digital 
+3
+service; 
+4
+‘‘(ii) the visual content of the digital 
+5
+service; 
+6
+‘‘(iii) the use of animated characters 
+7
+or child-oriented activities for children, and 
+8
+related incentives, on the digital service; 
+9
+‘‘(iv) the music or other audio content 
+10
+on the digital service; 
+11
+‘‘(v) the age of models on the digital 
+12
+service; 
+13
+‘‘(vi) the presence on the digital serv-
+14
+ice of— 
+15
+‘‘(I) child celebrities; or 
+16
+‘‘(II) celebrities who appeal to 
+17
+children; 
+18
+‘‘(vii) the language used on the digital 
+19
+service; 
+20
+‘‘(viii) advertising content used on, or 
+21
+used to advertise, the digital service; 
+22
+‘‘(ix) reliable empirical evidence relat-
+23
+ing to— 
+24
+22:53 Aug 07, 2021
+H4801
+15 
+•HR 4801 IH
+‘‘(I) the composition of the audi-
+1
+ence of the digital service, including— 
+2
+‘‘(aa) data the operator of 
+3
+the digital service may directly or 
+4
+indirectly collect, use, profile, 
+5
+buy, sell, classify, or analyze (via 
+6
+algorithms or other forms of data 
+7
+analytics, 
+including 
+look-alike 
+8
+modeling) about a user or groups 
+9
+of users to estimate, identify, or 
+10
+classify the age or age range (or 
+11
+a proxy thereof) of such user or 
+12
+groups of users; 
+13
+‘‘(bb) advertising informa-
+14
+tion or results, such as data, re-
+15
+porting, or information from the 
+16
+internal communications of the 
+17
+operator of the digital service, in-
+18
+cluding documentation about its 
+19
+advertising practices, such as an 
+20
+advertisement insertion order, or 
+21
+other promotional material to 
+22
+marketers, that indicates that 
+23
+covered information is being col-
+24
+22:53 Aug 07, 2021
+H4801
+16 
+•HR 4801 IH
+lected from children that are 
+1
+using the digital service; 
+2
+‘‘(cc) data or reporting from 
+3
+the general or trade press of the 
+4
+digital service indicating that 
+5
+children are using the digital 
+6
+service; 
+7
+‘‘(dd) complaints from par-
+8
+ents or other third parties about 
+9
+child users using the digital serv-
+10
+ice, whether through the com-
+11
+plaint mechanism of the digital 
+12
+service, by email, or by other 
+13
+means; and 
+14
+‘‘(ee) data or reporting from 
+15
+a privacy and security impact as-
+16
+sessment and mitigation, compli-
+17
+ance program, or other compli-
+18
+ance, risk management, or inter-
+19
+nal process that documents pri-
+20
+vacy risks and controls related to 
+21
+children’s privacy, including the 
+22
+existence of data analytics con-
+23
+trolled by the operator of the dig-
+24
+ital service, including those of 
+25
+22:53 Aug 07, 2021
+H4801
+17 
+•HR 4801 IH
+service providers, and content 
+1
+analytics capabilities and func-
+2
+tions or outputs; and 
+3
+‘‘(II) the intended audience of 
+4
+the digital service, including data the 
+5
+operator of the digital service directly 
+6
+or indirectly collects, uses, profiles, 
+7
+buys, sells, classifies, or analyzes (via 
+8
+algorithms or other forms of data 
+9
+analytics, including look-alike mod-
+10
+eling) about the nature of the content 
+11
+of the digital service that estimates, 
+12
+identifies, or classifies the content as 
+13
+child-directed or similarly estimates, 
+14
+identifies, or classifies the intended or 
+15
+likely audience for the content; or 
+16
+‘‘(x) any other evidence or cir-
+17
+cumstances the Commission determines ap-
+18
+propriate. 
+19
+‘‘(B) 
+COVERED
+INFORMATION
+FROM 
+20
+OTHER
+SERVICES.—A digital service shall be 
+21
+deemed to be directed to children if the oper-
+22
+ator of the digital service has actual or con-
+23
+structive knowledge that the digital service col-
+24
+lects covered information directly from users of 
+25
+22:53 Aug 07, 2021
+H4801
+18 
+•HR 4801 IH
+any other digital service that is directed to chil-
+1
+dren under the criteria described in subpara-
+2
+graph (A). 
+3
+‘‘(C) SIGNALS FROM THIRD PARTIES.—A 
+4
+digital service shall be deemed directed to chil-
+5
+dren if the digital service receives a signal from 
+6
+a third party indicating that the digital service 
+7
+is intended for children or likely to appeal to 
+8
+children, whether directly or using a flag or 
+9
+other formal industry standard or convention. 
+10
+‘‘(D) LIMITATION.—A digital service that 
+11
+does not target children as its primary audience 
+12
+shall not be deemed directed to children if the 
+13
+digital service— 
+14
+‘‘(i) does not collect covered informa-
+15
+tion from any visitor prior to collecting age 
+16
+information; and 
+17
+‘‘(ii) prevents the collection, use, or 
+18
+disclosure of covered information from visi-
+19
+tors who identify themselves as under age 
+20
+13 without first complying with the notice 
+21
+and parental consent provisions of this title 
+22
+and the regulations promulgated under 
+23
+this title. 
+24
+22:53 Aug 07, 2021
+H4801
+19 
+•HR 4801 IH
+‘‘(E) FURTHER
+LIMITATION.—A digital 
+1
+service shall not be deemed directed to children 
+2
+solely because the digital service refers or links 
+3
+to another digital service that is directed to 
+4
+children by using information location tools, in-
+5
+cluding a directory, index, reference, pointer, or 
+6
+hypertext link. 
+7
+‘‘(F) DETERMINATION REGARDING A POR-
+8
+TION OF A DIGITAL SERVICE.—For purposes of 
+9
+determining whether a portion of a digital serv-
+10
+ice is directed to children, any reference in this 
+11
+paragraph to a digital service shall be consid-
+12
+ered to refer to such portion. 
+13
+‘‘(22) LIKELY TO BE ACCESSED BY CHILDREN 
+14
+OR TEENAGERS.—The term ‘likely to be accessed by 
+15
+children or teenagers’ means, with respect to a dig-
+16
+ital service, that the possibility of more than a de 
+17
+minimis number of children or teenagers accessing 
+18
+the digital service is more probable than not. In de-
+19
+termining whether a digital service is likely to be 
+20
+accessed by children or teenagers, the operator of 
+21
+the service shall consider whether the service has 
+22
+particular appeal to children or teenagers and 
+23
+whether effective measures (such as age gating) are 
+24
+22:53 Aug 07, 2021
+H4801
+20 
+•HR 4801 IH
+in place that prevent children or teenagers from 
+1
+gaining access to the service. 
+2
+‘‘(23) AGE ASSURANCE.—The term ‘age assur-
+3
+ance’ means a verifiable process to estimate or de-
+4
+termine the age of a user of a digital service with 
+5
+a given and documented degree of certainty. 
+6
+‘‘(24) AGE GATE.—The term ‘age gate’ means 
+7
+to use a verifiable process that meets a documented 
+8
+degree of certainty to restrict or block access to a 
+9
+digital service for users that do not meet an age re-
+10
+quirement.’’. 
+11
+SEC. 3. REQUIREMENTS FOR PROCESSING OF COVERED IN-
+12
+FORMATION OF CHILDREN OR TEENAGERS. 
+13
+(a) IN GENERAL.—Section 1303 of the Children’s 
+14
+Online Privacy Protection Act of 1998 (15 U.S.C. 6502) 
+15
+is amended to read as follows: 
+16
+‘‘SEC. 1303. REQUIREMENTS FOR PROCESSING OF COVERED 
+17
+INFORMATION OF CHILDREN OR TEENAGERS. 
+18
+‘‘(a) REQUIREMENTS FOR CHILDREN’S SERVICES.— 
+19
+‘‘(1) DATA MINIMIZATION.—An operator of a 
+20
+children’s service shall process covered information 
+21
+under the principle of data minimization, requiring 
+22
+the operator to only process the minimum amount 
+23
+necessary for a specified purpose. 
+24
+22:53 Aug 07, 2021
+H4801
+21 
+•HR 4801 IH
+‘‘(2) TRANSPARENCY.—An operator of a chil-
+1
+dren’s service shall develop and make publicly avail-
+2
+able, at all times and in a machine-readable format, 
+3
+a privacy policy, in a manner that is clear, easily un-
+4
+derstood, and written in plain and concise language, 
+5
+that includes— 
+6
+‘‘(A) the categories of covered information 
+7
+that the operator processes about teenagers and 
+8
+children; 
+9
+‘‘(B) how and under what circumstances 
+10
+covered information is collected directly from a 
+11
+teenager or child; 
+12
+‘‘(C) the categories and the sources of any 
+13
+covered information processed by the operator 
+14
+that is not collected directly from a teenager or 
+15
+child; 
+16
+‘‘(D) a description of the purposes for 
+17
+which the operator processes covered informa-
+18
+tion, including— 
+19
+‘‘(i) a description of whether and how 
+20
+the operator customizes products or serv-
+21
+ices, or adjusts the prices of products or 
+22
+services for teenagers or children or based 
+23
+in any part on processing of covered infor-
+24
+mation; 
+25
+22:53 Aug 07, 2021
+H4801
+22 
+•HR 4801 IH
+‘‘(ii) a description of whether and how 
+1
+the operator, or the operator’s affiliates or 
+2
+service providers, de-identifies information, 
+3
+including the methods used to de-identify 
+4
+such information; and 
+5
+‘‘(iii) a description of whether and 
+6
+how the operator, or the operator’s affili-
+7
+ates or service providers, generates or uses 
+8
+any consumer score to make decisions con-
+9
+cerning a teenager or child, and the source 
+10
+or sources of any such consumer score; 
+11
+‘‘(E) a description of how long and the cir-
+12
+cumstances under which the operator retains 
+13
+covered information; 
+14
+‘‘(F) a description of all of the purposes 
+15
+for which the operator discloses covered infor-
+16
+mation to service providers and, on a biennial 
+17
+basis, the categories of service providers; 
+18
+‘‘(G) a description of whether and for what 
+19
+purposes the operator discloses covered infor-
+20
+mation to third parties, and the categories of 
+21
+covered information disclosed; 
+22
+‘‘(H) a description of the categories of 
+23
+third parties to which covered information de-
+24
+scribed in subparagraph (G) is disclosed, by 
+25
+22:53 Aug 07, 2021
+H4801
+23 
+•HR 4801 IH
+category or categories of covered information 
+1
+for each category of third party to which the 
+2
+covered information is disclosed; 
+3
+‘‘(I) whether the operator discloses covered 
+4
+information to data brokers; 
+5
+‘‘(J) whether the operator collects covered 
+6
+information about teenagers or children over 
+7
+time and across different digital services when 
+8
+a teenager or child uses the operator’s digital 
+9
+service; 
+10
+‘‘(K) how a teenager or a parent of a child 
+11
+can exercise their rights to access, correct, and 
+12
+delete such teenager’s or child’s covered infor-
+13
+mation as set forth in paragraph (6); 
+14
+‘‘(L) a listing of all possible consents that 
+15
+may be obtained by the operator for the proc-
+16
+essing of covered information, how a teenager 
+17
+or the parent of a child can grant, withhold, 
+18
+withdraw, or modify any such consent, and the 
+19
+consequences of withholding, withdrawing, or 
+20
+modifying any such consent; 
+21
+‘‘(M) the effective date of the notice; and 
+22
+‘‘(N) how the operator will communicate 
+23
+material changes of the privacy policy to the 
+24
+teenager or the parent of a child. 
+25
+22:53 Aug 07, 2021
+H4801
+24 
+•HR 4801 IH
+‘‘(3) CONSENT REQUIRED.— 
+1
+‘‘(A) IN GENERAL.—An operator of a chil-
+2
+dren’s service shall— 
+3
+‘‘(i) provide clear and concise notice 
+4
+to a teenager or the parent of a child of 
+5
+the items of covered information about 
+6
+such teenager or child, respectively, that is 
+7
+processed by such operator and how such 
+8
+operator processes such covered informa-
+9
+tion and obtain verifiable consent for such 
+10
+processing; and 
+11
+‘‘(ii) if such operator determines, in-
+12
+cluding through actual or constructive 
+13
+knowledge, that such operator has not ob-
+14
+tained verifiable consent for any specific 
+15
+processing of covered information about a 
+16
+teenager or child, not later than 48 hours 
+17
+after such determination— 
+18
+‘‘(I) obtain verifiable consent; or 
+19
+‘‘(II) delete all covered informa-
+20
+tion about such teenager or child. 
+21
+‘‘(B) WHEN CONSENT NOT REQUIRED.— 
+22
+Verifiable consent under this paragraph is not 
+23
+required in the case of— 
+24
+22:53 Aug 07, 2021
+H4801
+25 
+•HR 4801 IH
+‘‘(i) online contact information col-
+1
+lected from a teenager or child that— 
+2
+‘‘(I) is used only to respond di-
+3
+rectly on a one-time basis to a specific 
+4
+request from the teenager or child; 
+5
+‘‘(II) is not used to re-contact the 
+6
+teenager or child; and 
+7
+‘‘(III) is not retained by the op-
+8
+erator after responding as described 
+9
+in subclause (I); 
+10
+‘‘(ii) a request for the name or online 
+11
+contact information of a teenager or the 
+12
+parent of a child that is used for the sole 
+13
+purpose of obtaining verifiable consent or 
+14
+providing 
+notice 
+under 
+subparagraph 
+15
+(A)(i), where such information is not re-
+16
+tained by the operator if verifiable consent 
+17
+is not obtained within 48 hours; or 
+18
+‘‘(iii) the processing of covered infor-
+19
+mation that is necessary— 
+20
+‘‘(I) to respond to judicial proc-
+21
+ess; or 
+22
+‘‘(II) to the extent permitted 
+23
+under other provisions of law, to pro-
+24
+vide information to law enforcement 
+25
+22:53 Aug 07, 2021
+H4801
+26 
+•HR 4801 IH
+agencies or for an investigation on a 
+1
+matter related to public safety. 
+2
+‘‘(C) WITHDRAWAL OF CONSENT.— 
+3
+‘‘(i) 
+MECHANISM
+FOR
+WITH-
+4
+DRAWAL.—An operator of a children’s 
+5
+service shall provide a teenager or the par-
+6
+ent of a child, as applicable— 
+7
+‘‘(I) a mechanism to withdraw 
+8
+consent to the processing of covered 
+9
+information at any time in a manner 
+10
+that is as easy as the mechanism to 
+11
+give consent; and 
+12
+‘‘(II) clear and conspicuous no-
+13
+tice of the mechanism required by 
+14
+subclause (I). 
+15
+‘‘(ii) EFFECT
+OF
+WITHDRAWAL
+ON 
+16
+PRIOR
+PROCESSING.—Withdrawal of con-
+17
+sent to the processing of covered informa-
+18
+tion shall not be construed to affect the 
+19
+lawfulness of any processing of covered in-
+20
+formation based on verifiable consent that 
+21
+was in effect before such withdrawal. 
+22
+‘‘(D) PROHIBITION ON LIMITING OR DIS-
+23
+CONTINUING SERVICE.—An operator of a chil-
+24
+dren’s service may not refuse to provide a serv-
+25
+22:53 Aug 07, 2021
+H4801
+27 
+•HR 4801 IH
+ice, or discontinue a service provided, to a teen-
+1
+ager or child, if the teenager or parent of the 
+2
+child, as applicable, refuses to consent, or with-
+3
+draws consent, to the processing of any covered 
+4
+information not technically required for the op-
+5
+erator to provide such service. 
+6
+‘‘(4) RETENTION OF DATA.— 
+7
+‘‘(A) RETENTION
+LIMITATIONS.—Subject 
+8
+to the exceptions provided in subparagraph (B), 
+9
+an operator of a children’s service may not 
+10
+keep, retain, or otherwise store covered infor-
+11
+mation for longer than is reasonably necessary 
+12
+for the purposes for which the covered informa-
+13
+tion is processed. 
+14
+‘‘(B) EXCEPTIONS.—Further retention of 
+15
+covered information shall not be considered to 
+16
+be incompatible with the purposes of processing 
+17
+described in subparagraph (A) if such proc-
+18
+essing is necessary and done solely for the pur-
+19
+poses of— 
+20
+‘‘(i) compliance with— 
+21
+‘‘(I) requirements to document 
+22
+compliance under this title; or 
+23
+‘‘(II) other laws, regulations, or 
+24
+legal obligations; 
+25
+22:53 Aug 07, 2021
+H4801
+28 
+•HR 4801 IH
+‘‘(ii) preventing risks to the health or 
+1
+safety of a child or teenager or groups of 
+2
+children or teenagers; or 
+3
+‘‘(iii) repairing errors that impair ex-
+4
+isting functionality. 
+5
+‘‘(5) LIMITATION ON DISCLOSING COVERED IN-
+6
+FORMATION TO THIRD PARTIES.— 
+7
+‘‘(A) DISCLOSURES.—An operator of a 
+8
+children’s service may not disclose covered in-
+9
+formation to a third party unless the operator 
+10
+has a written agreement with such third party 
+11
+that— 
+12
+‘‘(i) specifies all of the purposes for 
+13
+which the third party may process the cov-
+14
+ered information for which the operator 
+15
+has verifiable consent; 
+16
+‘‘(ii) prohibits the third party from 
+17
+processing covered information for any 
+18
+purpose other than the purposes specified 
+19
+under clause (i); and 
+20
+‘‘(iii) requires the third party to pro-
+21
+vide at least the same privacy and security 
+22
+protections as the operator. 
+23
+22:53 Aug 07, 2021
+H4801
+29 
+•HR 4801 IH
+‘‘(B) RESPONSIBILITIES
+OF
+OPERATORS 
+1
+REGARDING THIRD PARTIES.—An operator of a 
+2
+children’s service— 
+3
+‘‘(i) shall perform reasonable due dili-
+4
+gence in selecting any third party with 
+5
+which to enter into an agreement described 
+6
+in subparagraph (A) and shall exercise rea-
+7
+sonable oversight over all such third par-
+8
+ties to assure compliance with the require-
+9
+ments of this title and the regulations pro-
+10
+mulgated under this title; and 
+11
+‘‘(ii) if the operator has actual or con-
+12
+structive knowledge that a third party has 
+13
+violated an agreement described in sub-
+14
+paragraph (A), shall— 
+15
+‘‘(I) to the extent practicable, 
+16
+promptly take steps to ensure compli-
+17
+ance with such agreement; and 
+18
+‘‘(II) promptly report to the 
+19
+Commission that such a violation oc-
+20
+curred. 
+21
+‘‘(6) RIGHT TO ACCESS, CORRECT, AND DELETE 
+22
+COVERED INFORMATION.— 
+23
+‘‘(A) ACCESS.—An operator of a children’s 
+24
+service, subject to the exceptions in subpara-
+25
+22:53 Aug 07, 2021
+H4801
+30 
+•HR 4801 IH
+graph (D), shall, upon request of a teenager or 
+1
+the parent of a child and after proper identi-
+2
+fication of such teenager or parent, promptly 
+3
+provide to such teenager or parent, as applica-
+4
+ble— 
+5
+‘‘(i) access to all covered information 
+6
+processed by the operator pertaining to 
+7
+such teenager or child, including a descrip-
+8
+tion of— 
+9
+‘‘(I) each type of covered infor-
+10
+mation processed by the operator per-
+11
+taining to the teenager or child, as ap-
+12
+plicable; 
+13
+‘‘(II) each purpose for which the 
+14
+operator processes each category of 
+15
+covered information pertaining to the 
+16
+teenager or child, as applicable; 
+17
+‘‘(III) the names of each third 
+18
+party to which the operator disclosed 
+19
+the covered information; 
+20
+‘‘(IV) each source other than the 
+21
+teenager or child, as applicable, from 
+22
+which the operator obtained covered 
+23
+information pertaining to that teen-
+24
+ager or child, as applicable; 
+25
+22:53 Aug 07, 2021
+H4801
+31 
+•HR 4801 IH
+‘‘(V) how long the covered infor-
+1
+mation will be retained or stored by 
+2
+the operator and, if not known, the 
+3
+criteria the operator uses to determine 
+4
+how long the covered information will 
+5
+be retained or stored by the operator; 
+6
+and 
+7
+‘‘(VI) with respect to any score 
+8
+of the teenager or child, as applicable, 
+9
+processed by the operator— 
+10
+‘‘(aa) how such score is used 
+11
+by the operator to make decisions 
+12
+with respect to that teenager or 
+13
+child, as applicable; and 
+14
+‘‘(bb) the source that cre-
+15
+ated the score if not created by 
+16
+the operator; and 
+17
+‘‘(ii) a simple and reasonable mecha-
+18
+nism by which a teenager or parent of a 
+19
+child may request access to the informa-
+20
+tion described under clause (i), as applica-
+21
+ble. 
+22
+‘‘(B) DELETION.—An operator of a chil-
+23
+dren’s service, subject to the exceptions in sub-
+24
+paragraph (D), shall— 
+25
+22:53 Aug 07, 2021
+H4801
+32 
+•HR 4801 IH
+‘‘(i) establish a simple, publicly and 
+1
+easily accessible, and reasonable mecha-
+2
+nism by which a teenager or parent of a 
+3
+child with respect to whom the operator 
+4
+processes covered information may request 
+5
+the operator to delete any such covered in-
+6
+formation (or any component thereof), in-
+7
+cluding publicly available covered informa-
+8
+tion submitted to the service by the child 
+9
+or teenager; and 
+10
+‘‘(ii) delete such covered information 
+11
+not later than 45 days after receiving such 
+12
+request. 
+13
+‘‘(C) CORRECTION.—An operator of a chil-
+14
+dren’s service, subject to the exceptions in sub-
+15
+paragraph (D), shall— 
+16
+‘‘(i) provide each teenager or parent 
+17
+of a child with respect to whom the oper-
+18
+ator processes covered information, as ap-
+19
+plicable, a simple, publicly and easily ac-
+20
+cessible, and reasonable mechanism by 
+21
+which that teenager or parent may submit 
+22
+a request to the operator— 
+23
+‘‘(I) to dispute the accuracy or 
+24
+completeness of that covered informa-
+25
+22:53 Aug 07, 2021
+H4801
+33 
+•HR 4801 IH
+tion, or part or component thereof; 
+1
+and 
+2
+‘‘(II) to request that such cov-
+3
+ered information, or part or compo-
+4
+nent thereof, be corrected for accuracy 
+5
+or completeness; and 
+6
+‘‘(ii) not later than 45 days after re-
+7
+ceiving a request under clause (i)— 
+8
+‘‘(I) determine whether the cov-
+9
+ered information disputed or re-
+10
+quested to be corrected is inaccurate 
+11
+or incomplete; and 
+12
+‘‘(II) correct the accuracy or 
+13
+completeness of any covered informa-
+14
+tion determined by the operator to be 
+15
+inaccurate or incomplete. 
+16
+‘‘(D) EXCEPTIONS.—An operator of a chil-
+17
+dren’s service may deny a request made under 
+18
+subparagraph (A), (B), or (C) if— 
+19
+‘‘(i) the operator is unable to verify 
+20
+the identity of the teenager or parent of a 
+21
+child making the request after making a 
+22
+reasonable effort to verify the identity of 
+23
+such teenager or parent; 
+24
+22:53 Aug 07, 2021
+H4801
+34 
+•HR 4801 IH
+‘‘(ii) with respect to the request made, 
+1
+the operator determines that— 
+2
+‘‘(I) the operator is limited from 
+3
+fulfilling the request by law, legally 
+4
+recognized privilege, or other legal ob-
+5
+ligation; or 
+6
+‘‘(II) fulfilling the request would 
+7
+create a legitimate risk to the privacy, 
+8
+security, or safety of someone other 
+9
+than the teenager or child, as applica-
+10
+ble; 
+11
+‘‘(iii) with respect to a request to de-
+12
+lete covered information made under sub-
+13
+paragraph (B) or a request to correct cov-
+14
+ered information made under subpara-
+15
+graph (C), the operator determines that 
+16
+the retention of the covered information is 
+17
+necessary to— 
+18
+‘‘(I) complete the transaction 
+19
+with the teenager or child, as applica-
+20
+ble, for which the covered information 
+21
+was collected; 
+22
+‘‘(II) provide a product or service 
+23
+affirmatively requested by the teen-
+24
+22:53 Aug 07, 2021
+H4801
+35 
+•HR 4801 IH
+ager or parent of a child, as applica-
+1
+ble; 
+2
+‘‘(III) perform a contract with 
+3
+the teenager or a parent of a child, as 
+4
+applicable, including a contract for 
+5
+billing, financial reporting, or account-
+6
+ing; 
+7
+‘‘(IV) keep a record of the cov-
+8
+ered information for law enforcement 
+9
+purposes; or 
+10
+‘‘(V) identify and repair errors 
+11
+that impair the functionality of the 
+12
+children’s service; or 
+13
+‘‘(iv) the covered information is used 
+14
+in public or peer-reviewed scientific, med-
+15
+ical, or statistical research in the public in-
+16
+terest that adheres to commonly accepted 
+17
+ethical standards or laws, with informed 
+18
+consent consistent with section 50.20 of 
+19
+title 21, Code of Federal Regulations, if 
+20
+the research is already in progress at the 
+21
+time when the request to access, delete, or 
+22
+correct is made under subparagraph (A), 
+23
+(B), or (C). 
+24
+22:53 Aug 07, 2021
+H4801
+36 
+•HR 4801 IH
+‘‘(E) PROHIBITION ON LIMITING OR DIS-
+1
+CONTINUING SERVICE.—An operator of a chil-
+2
+dren’s service may not refuse to provide a serv-
+3
+ice, or discontinue a service provided, to a teen-
+4
+ager or child, if the teenager or parent of the 
+5
+child, as applicable, exercises any of the rights 
+6
+set forth in this paragraph. 
+7
+‘‘(7) 
+ADDITIONAL
+PROHIBITED
+PRACTICES 
+8
+WITH RESPECT TO TEENAGERS AND CHILDREN.— 
+9
+‘‘(A) IN GENERAL.—An operator of a chil-
+10
+dren’s service may not— 
+11
+‘‘(i) process any covered information 
+12
+in a manner that is inconsistent with what 
+13
+a reasonable teenager or parent of a child 
+14
+would expect in the context of a particular 
+15
+transaction or the teenager’s or parent’s 
+16
+relationship with such operator, or seek to 
+17
+obtain verifiable consent for such proc-
+18
+essing; 
+19
+‘‘(ii) process any covered information 
+20
+in a manner that is harmful or has been 
+21
+shown to be detrimental to the well-being 
+22
+of children or teenagers; 
+23
+‘‘(iii) process covered information for 
+24
+the purpose of providing for targeted per-
+25
+22:53 Aug 07, 2021
+H4801
+37 
+•HR 4801 IH
+sonalized advertising or engage in other 
+1
+marketing to a specific child or teenager or 
+2
+group of children or teenagers based on— 
+3
+‘‘(I) using the covered informa-
+4
+tion, online behavior, or group identi-
+5
+fiers of such child or teenager or of 
+6
+the children or teenagers in such 
+7
+group; or 
+8
+‘‘(II) using the covered informa-
+9
+tion or online behavior of children or 
+10
+teenagers who share characteristics 
+11
+with such child or teenager or with 
+12
+the children or teenagers in such 
+13
+group, including income level or pro-
+14
+tected characteristics or proxies there-
+15
+of; 
+16
+‘‘(iv) condition the participation of a 
+17
+child or teenager in a game, sweepstakes, 
+18
+or other contest on consenting to the proc-
+19
+essing of more covered information than is 
+20
+necessary for such child or teenager to par-
+21
+ticipate; 
+22
+‘‘(v) engage in cross-device tracking of 
+23
+a child or teenager unless the child or 
+24
+teenager is logged-in to a specific service, 
+25
+22:53 Aug 07, 2021
+H4801
+38 
+•HR 4801 IH
+for the sole purpose of facilitating the pri-
+1
+mary purpose of the good or service or a 
+2
+specific feature thereof; 
+3
+‘‘(vi) engage in algorithmic processes 
+4
+that discriminate on the basis of race, age, 
+5
+gender, ability, or other protected charac-
+6
+teristics; 
+7
+‘‘(vii) disclose biometric information; 
+8
+‘‘(viii) disclose geolocation informa-
+9
+tion; or 
+10
+‘‘(ix) collect geolocation information 
+11
+by default or without making it clear to a 
+12
+user when geolocation tracking is in effect. 
+13
+‘‘(B) EXCEPTIONS.—Nothing in subpara-
+14
+graph (A) shall prohibit an operator from proc-
+15
+essing covered information if necessary solely 
+16
+for purposes of— 
+17
+‘‘(i) detecting and preventing security 
+18
+incidents; 
+19
+‘‘(ii) preventing imminent danger to 
+20
+the personal safety of an individual or 
+21
+group of individuals; 
+22
+‘‘(iii) identifying and repairing errors 
+23
+that impair the core functionality of the 
+24
+children’s service; or 
+25
+22:53 Aug 07, 2021
+H4801
+39 
+•HR 4801 IH
+‘‘(iv) complying with any Federal, 
+1
+State, or local law, rule, regulation, or 
+2
+other legal obligation, including civil, crimi-
+3
+nal, or regulatory inquiries, investigations, 
+4
+subpoenas, or court orders or other prop-
+5
+erly executed compulsory process requiring 
+6
+the disclosure of information. 
+7
+‘‘(8) SECURITY REQUIREMENTS.— 
+8
+‘‘(A) IN GENERAL.—An operator of a chil-
+9
+dren’s service shall establish and implement 
+10
+reasonable security policies, practices, and pro-
+11
+cedures for the treatment and protection of cov-
+12
+ered information, taking into consideration— 
+13
+‘‘(i) the size, nature, scope, and com-
+14
+plexity of the activities engaged in by such 
+15
+operator; 
+16
+‘‘(ii) the sensitivity of any covered in-
+17
+formation at issue; 
+18
+‘‘(iii) the state of the art in adminis-
+19
+trative, technical, and physical safeguards 
+20
+for protecting such information; and 
+21
+‘‘(iv) the cost of implementing such 
+22
+policies, practices, and procedures. 
+23
+‘‘(B) SPECIFIC REQUIREMENTS.—The poli-
+24
+cies, practices, and procedures established by an 
+25
+22:53 Aug 07, 2021
+H4801
+40 
+•HR 4801 IH
+operator under subparagraph (A) shall include 
+1
+the following: 
+2
+‘‘(i) A written security policy with re-
+3
+spect to the processing of such covered in-
+4
+formation. 
+5
+‘‘(ii) The identification of an officer or 
+6
+other individual as the point of contact 
+7
+with responsibility for the management of 
+8
+information security. 
+9
+‘‘(iii) A process for identifying and as-
+10
+sessing 
+any 
+reasonably 
+foreseeable 
+11
+vulnerabilities in the system or systems 
+12
+maintained by such operator that contains 
+13
+such covered information, including regular 
+14
+monitoring for a breach of security of such 
+15
+system or systems. 
+16
+‘‘(iv) A process for taking preventive 
+17
+and corrective action to mitigate against 
+18
+any vulnerabilities identified in the process 
+19
+required by clause (iii), which may in-
+20
+clude— 
+21
+‘‘(I) implementing any changes to 
+22
+the security practices, architecture, in-
+23
+stallation, or implementation of net-
+24
+work or operating software; and 
+25
+22:53 Aug 07, 2021
+H4801
+41 
+•HR 4801 IH
+‘‘(II) regular testing or otherwise 
+1
+monitoring the effectiveness of the 
+2
+safeguards. 
+3
+‘‘(v) A process for determining if the 
+4
+covered information is no longer needed 
+5
+and deleting such covered information by 
+6
+shredding, permanently erasing, or other-
+7
+wise modifying the covered information to 
+8
+make such covered information perma-
+9
+nently unreadable or indecipherable. 
+10
+‘‘(vi) A process for overseeing persons 
+11
+who have access to covered information, in-
+12
+cluding through internet-connected devices, 
+13
+by— 
+14
+‘‘(I) taking reasonable steps to 
+15
+select and retain persons that are ca-
+16
+pable of maintaining appropriate safe-
+17
+guards for the covered information or 
+18
+internet-connected devices at issue; 
+19
+and 
+20
+‘‘(II) requiring all such persons 
+21
+to implement and maintain such secu-
+22
+rity measures. 
+23
+‘‘(vii) A process for employee training 
+24
+and supervision for implementation of the 
+25
+22:53 Aug 07, 2021
+H4801
+42 
+•HR 4801 IH
+policies, practices, and procedures required 
+1
+by this subsection. 
+2
+‘‘(viii) A written plan or protocol for 
+3
+internal and public response in the event of 
+4
+a breach of security. 
+5
+‘‘(C) PERIODIC
+ASSESSMENT
+AND
+CON-
+6
+SUMER
+PRIVACY
+AND
+DATA
+SECURITY
+MOD-
+7
+ERNIZATION.—An operator of a children’s serv-
+8
+ice shall, not less frequently than every 12 
+9
+months, monitor, evaluate, and adjust, as ap-
+10
+propriate, the policies, practices, and procedures 
+11
+of such operator in light of any relevant 
+12
+changes in— 
+13
+‘‘(i) technology; 
+14
+‘‘(ii) internal or external threats and 
+15
+vulnerabilities to covered information; and 
+16
+‘‘(iii) the changing business arrange-
+17
+ments of the operator. 
+18
+‘‘(D) SUBMISSION
+OF
+TO
+THE 
+19
+FTC.—An operator of a children’s service shall 
+20
+submit the policies, practices, and procedures 
+21
+established by the operator under subparagraph 
+22
+(A) to the Commission in conjunction with a 
+23
+notification of a breach of security required by 
+24
+22:53 Aug 07, 2021
+H4801
+43 
+•HR 4801 IH
+any Federal or State statute or regulation or 
+1
+upon request of the Commission. 
+2
+‘‘(b) RULEMAKING REGARDING REQUIREMENTS FOR 
+3
+DIGITAL SERVICES LIKELY TO BE ACCESSED BY CHIL-
+4
+DREN OR TEENAGERS.— 
+5
+‘‘(1) IN GENERAL.—The Commission shall pro-
+6
+mulgate regulations under section 553 of title 5, 
+7
+United States Code, that contain requirements for 
+8
+operators of digital services that are not children’s 
+9
+services but are likely to be accessed by children or 
+10
+teenagers, which shall be based on the requirements 
+11
+of subsection (a) but modified as the Commission 
+12
+considers appropriate given a risk-based approach to 
+13
+determine age and to determine and mitigate privacy 
+14
+risks and security risks to the child or teenager, and 
+15
+given differing developmental needs and cognitive ca-
+16
+pacities of children or teenagers. The Commission 
+17
+may include in such regulations different require-
+18
+ments for operators of different types of such serv-
+19
+ices. 
+20
+‘‘(2) BEST
+INTERESTS
+OF
+CHILD
+OR
+TEEN-
+21
+AGER.—The regulations promulgated under para-
+22
+graph (1) shall require an operator to make the best 
+23
+interests of children and teenagers a primary design 
+24
+consideration when designing its service, including 
+25
+22:53 Aug 07, 2021
+H4801
+44 
+•HR 4801 IH
+by conducting a privacy and security impact assess-
+1
+ment and mitigation for the service, addressing all 
+2
+privacy risks to children and teenagers which arise 
+3
+from the processing of covered information, taking 
+4
+into account the best interests of children and teen-
+5
+agers. 
+6
+‘‘(3) RISK-BASED APPROACH TO DETERMINING 
+7
+AGE OF USER.— 
+8
+‘‘(A) IN GENERAL.—The regulations pro-
+9
+mulgated under paragraph (1) shall require a 
+10
+risk-based approach to determining the age of 
+11
+a specific user of a digital service under which 
+12
+higher privacy risks and security risks from the 
+13
+processing of covered information require a 
+14
+higher certainty of age assurance. 
+15
+‘‘(B) AGE
+ASSURANCE.—The regulations 
+16
+promulgated under paragraph (1) shall require 
+17
+an operator to conduct an age assurance to de-
+18
+termine the age of each specific user. 
+19
+‘‘(C) 
+APPROVAL
+OF
+AGE
+ASSURANCE 
+20
+MECHANISMS.—The Commission shall establish 
+21
+in the regulations promulgated under paragraph 
+22
+(1) a process under which an operator may ob-
+23
+tain the approval of the Commission of par-
+24
+ticular mechanisms of age assurance as meeting 
+25
+22:53 Aug 07, 2021
+H4801
+45 
+•HR 4801 IH
+the age assurance requirements of such regula-
+1
+tions for particular levels of privacy risks. 
+2
+‘‘(D) DATA
+MINIMIZATION.—The regula-
+3
+tions required by paragraph (1) shall provide 
+4
+that any data collected for age assurance shall 
+5
+be the minimal amount necessary and destroyed 
+6
+immediately or as determined by the Commis-
+7
+sion, but consistent with standards that still 
+8
+allow for auditing and compliance. 
+9
+‘‘(c) PROHIBITION
+ON CERTAIN ADVERTISING
+OR 
+10
+MARKETING
+FOR DIGITAL SERVICES LIKELY TO BE 
+11
+ACCESSED BY CHILDREN OR TEENAGERS.—An operator 
+12
+of a digital service that is likely to be accessed by children 
+13
+or teenagers may not process covered information for the 
+14
+purpose of providing for targeted personalized advertising 
+15
+or engage in other marketing to a specific child or teen-
+16
+ager or group of children or teenagers based on— 
+17
+‘‘(1) using the covered information, online be-
+18
+havior, or group identifiers of such child or teenager 
+19
+or of the children or teenagers in such group; or 
+20
+‘‘(2) using the covered information or online be-
+21
+havior of children or teenagers who share character-
+22
+istics with such child or teenager or with the chil-
+23
+dren or teenagers in such group, including income 
+24
+level or protected characteristics or proxies thereof. 
+25
+22:53 Aug 07, 2021
+H4801
+46 
+•HR 4801 IH
+‘‘(d) ENFORCEMENT.—Subject to section 1306, a vio-
+1
+lation of this section or a regulation promulgated under 
+2
+this section shall be treated as a violation of a rule defin-
+3
+ing an unfair or deceptive act or practice prescribed under 
+4
+section 18(a)(1)(B) of the Federal Trade Commission Act 
+5
+(15 U.S.C. 57a(a)(1)(B)).’’. 
+6
+(b) CONFORMING AMENDMENTS.—Section 1305 of 
+7
+the Children’s Online Privacy Protection Act of 1998 (15 
+8
+U.S.C. 6504) is amended— 
+9
+(1) in subsection (a)(1)— 
+10
+(A) by striking ‘‘any regulation of the 
+11
+Commission prescribed under section 1303(b)’’ 
+12
+and inserting ‘‘section 1303 or a regulation pro-
+13
+mulgated under such section’’; and 
+14
+(B) in subparagraph (B), by striking ‘‘the 
+15
+regulation’’ and inserting ‘‘such section or such 
+16
+regulation’’; and 
+17
+(2) in subsection (d)— 
+18
+(A) by striking ‘‘any regulation prescribed 
+19
+under section 1303’’ and inserting ‘‘section 
+20
+1303 or a regulation promulgated under such 
+21
+section’’; and 
+22
+(B) by striking ‘‘that regulation’’ and in-
+23
+serting ‘‘such section or such regulation’’. 
+24
+22:53 Aug 07, 2021
+H4801
+47 
+•HR 4801 IH
+SEC. 4. REPEAL OF SAFE HARBORS PROVISION. 
+1
+(a) IN GENERAL.—Section 1304 of the Children’s 
+2
+Online Privacy Protection Act of 1998 (15 U.S.C. 6503) 
+3
+is repealed. 
+4
+(b) CONFORMING AMENDMENT.—Section 1305(b) of 
+5
+the Children’s Online Privacy Protection Act of 1998 (15 
+6
+U.S.C. 6504(b)) is amended by striking paragraph (3). 
+7
+SEC. 5. ADMINISTRATION AND APPLICABILITY OF ACT. 
+8
+(a) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+9
+SION.—Section 1306(d) of the Children’s Online Privacy 
+10
+Protection Act of 1998 (15 U.S.C. 6505(d)) is amended 
+11
+to read as follows: 
+12
+‘‘(d) ACTIONS BY THE COMMISSION.— 
+13
+‘‘(1) IN GENERAL.—Except as provided in para-
+14
+graphs (2) and (3), the Commission shall prevent 
+15
+any person from violating section 1303 or a regula-
+16
+tion promulgated under such section in the same 
+17
+manner, by the same means, and with the same ju-
+18
+risdiction, powers, and duties as though all applica-
+19
+ble terms and provisions of the Federal Trade Com-
+20
+mission Act (15 U.S.C. 41 et seq.) were incor-
+21
+porated into and made a part of this title, and any 
+22
+entity that violates such section or such regulation 
+23
+shall be subject to the penalties and entitled to the 
+24
+privileges and immunities provided in the Federal 
+25
+Trade Commission Act in the same manner, by the 
+26
+22:53 Aug 07, 2021
+H4801
+48 
+•HR 4801 IH
+same means, and with the same jurisdiction, power, 
+1
+and duties as though all applicable terms and provi-
+2
+sions of the Federal Trade Commission Act were in-
+3
+corporated into and made a part of this title. 
+4
+‘‘(2) INCREASED CIVIL PENALTY AMOUNT.—In 
+5
+the case of a civil penalty under subsection (l) or 
+6
+(m) of section 5 of the Federal Trade Commission 
+7
+Act (15 U.S.C. 45) relating to acts or practices in 
+8
+violation of section 1303 or a regulation promul-
+9
+gated under such section, the maximum dollar 
+10
+amount per violation shall be $63,795. 
+11
+‘‘(3) NATURE OF RELIEF AVAILABLE.—In any 
+12
+action commenced by the Commission under sub-
+13
+section (a) of section 19 of the Federal Trade Com-
+14
+mission Act (15 U.S.C. 57b) to enforce section 1303 
+15
+of this title or a regulation promulgated under such 
+16
+section, the Commission shall seek all appropriate 
+17
+relief described in subsection (b) of such section 19, 
+18
+and may, notwithstanding such subsection, seek any 
+19
+exemplary or punitive damages.’’. 
+20
+(b) ENFORCEMENT
+BY CERTAIN OTHER AGEN-
+21
+CIES.—Section 1306 of the Children’s Online Privacy Pro-
+22
+tection Act of 1998 (15 U.S.C. 6505) is amended— 
+23
+(1) in subsection (b)— 
+24
+22:53 Aug 07, 2021
+H4801
+49 
+•HR 4801 IH
+(A) in paragraph (1), by striking ‘‘, in the 
+1
+case of’’ and all that follows and inserting the 
+2
+following: ‘‘by the appropriate Federal banking 
+3
+agency, with respect to any insured depository 
+4
+institution (as those terms are defined in sec-
+5
+tion 3 of that Act (12 U.S.C. 1813));’’; 
+6
+(B) in paragraph (6), by striking ‘‘Federal 
+7
+land bank, Federal land bank association, Fed-
+8
+eral intermediate credit bank, or production 
+9
+credit association’’ and inserting ‘‘Farm Credit 
+10
+Bank, Agricultural Credit Bank (to the extent 
+11
+exercising the authorities of a Farm Credit 
+12
+Bank), Federal Land Credit Association, or ag-
+13
+ricultural credit association’’; and 
+14
+(C) by striking paragraph (2) and redesig-
+15
+nating paragraphs (3) through (6) as para-
+16
+graphs (2) through (5), respectively; and 
+17
+(2) in subsection (c), by striking ‘‘subsection 
+18
+(a)’’ each place it appears and inserting ‘‘subsection 
+19
+(b)’’. 
+20
+SEC. 6. REVIEW. 
+21
+Section 1307 of the Children’s Online Privacy Protec-
+22
+tion Act of 1998 (15 U.S.C. 6506) is amended— 
+23
+(1) in the matter preceding paragraph (1), by 
+24
+striking ‘‘the regulations initially issued under sec-
+25
+22:53 Aug 07, 2021
+H4801
+50 
+•HR 4801 IH
+tion 1303’’ and inserting ‘‘the regulations issued 
+1
+under section 10(a) of the Protecting the Informa-
+2
+tion of our Vulnerable Children and Youth Act (re-
+3
+lating to the implementation of the amendments 
+4
+made by such Act to this title)’’; and 
+5
+(2) by amending paragraph (1) to read as fol-
+6
+lows: 
+7
+‘‘(1) review the implementation of this title, in-
+8
+cluding the effect of the implementation of this title 
+9
+on practices relating to the processing of covered in-
+10
+formation about teenagers or children and teenager’s 
+11
+and children’s ability to obtain access to information 
+12
+of their choice online; and’’. 
+13
+SEC. 7. PRIVATE RIGHT OF ACTION. 
+14
+The Children’s Online Privacy Protection Act of 1998 
+15
+(15 U.S.C. 6501 et seq.) is amended— 
+16
+(1) by redesignating sections 1307 and 1308 as 
+17
+sections 1308 and 1309, respectively; and 
+18
+(2) by inserting after section 1306 the fol-
+19
+lowing: 
+20
+‘‘SEC. 1307. PRIVATE RIGHT OF ACTION. 
+21
+‘‘(a) RIGHT OF ACTION.—Any parent of a teenager 
+22
+or parent of a child alleging a violation of section 1303 
+23
+or a regulation promulgated under such section with re-
+24
+spect to the covered information of such teenager or child 
+25
+22:53 Aug 07, 2021
+H4801
+51 
+•HR 4801 IH
+may bring a civil action in any court of competent jurisdic-
+1
+tion. 
+2
+‘‘(b) INJURY IN FACT.—A violation of section 1303 
+3
+or a regulation promulgated under such section with re-
+4
+spect to the covered information of a teenager or child con-
+5
+stitutes an injury in fact to that teenager or child. 
+6
+‘‘(c) RELIEF.—In a civil action brought under sub-
+7
+section (a) in which the plaintiff prevails, the court may 
+8
+award— 
+9
+‘‘(1) injunctive relief; 
+10
+‘‘(2) actual damages; 
+11
+‘‘(3) punitive damages; 
+12
+‘‘(4) reasonable attorney’s fees and costs; and 
+13
+‘‘(5) any other relief that the court determines 
+14
+appropriate. 
+15
+‘‘(d) PRE-DISPUTE ARBITRATION AGREEMENTS.— 
+16
+‘‘(1) IN GENERAL.—No pre-dispute arbitration 
+17
+agreement or pre-dispute joint-action waiver shall be 
+18
+valid or enforceable with respect to any claim arising 
+19
+under section 1303 or a regulation promulgated 
+20
+under such section. 
+21
+‘‘(2) DETERMINATION.—A determination as to 
+22
+whether and how this title or a regulation promul-
+23
+gated under this title applies to an arbitration agree-
+24
+ment shall be determined under Federal law by the 
+25
+22:53 Aug 07, 2021
+H4801
+52 
+•HR 4801 IH
+court, rather than the arbitrator, irrespective of 
+1
+whether the party opposing arbitration challenges 
+2
+such agreement specifically or in conjunction with 
+3
+any other term of the contract containing such 
+4
+agreement. 
+5
+‘‘(3) DEFINITIONS.—As used in this sub-
+6
+section— 
+7
+‘‘(A) the term ‘pre-dispute arbitration 
+8
+agreement’ means any agreement to arbitrate a 
+9
+dispute that has not arisen at the time of the 
+10
+making of the agreement; and 
+11
+‘‘(B) the term ‘pre-dispute joint-action 
+12
+waiver’ means an agreement, whether or not 
+13
+part of a pre-dispute arbitration agreement, 
+14
+that would prohibit, or waive the right of, one 
+15
+of the parties to the agreement to participate in 
+16
+a joint, class, or collective action in a judicial, 
+17
+arbitral, administrative, or other forum, con-
+18
+cerning a dispute that has not yet arisen at the 
+19
+time of the making of the agreement. 
+20
+‘‘(e) NON-WAIVEABILITY.—The rights and remedies 
+21
+provided under this title may not be waived or limited by 
+22
+contract or otherwise.’’. 
+23
+22:53 Aug 07, 2021
+H4801
+53 
+•HR 4801 IH
+SEC. 8. RELATIONSHIP TO OTHER LAW. 
+1
+Section 1306 of the Children’s Online Privacy Protec-
+2
+tion Act of 1998 (15 U.S.C. 6505) is further amended 
+3
+by adding at the end the following: 
+4
+‘‘(f) RELATIONSHIP TO OTHER LAW.— 
+5
+‘‘(1) OTHER FEDERAL PRIVACY OR SECURITY 
+6
+PROVISIONS.—Nothing in this title or a regulation 
+7
+promulgated under this title may be construed to 
+8
+modify, limit, or supersede the operation of any pri-
+9
+vacy or security provision in any other Federal stat-
+10
+ute or regulation. 
+11
+‘‘(2) STATE LAW.—Nothing in this title or a 
+12
+regulation promulgated under this title may be con-
+13
+strued to preempt, displace, or supplant any State 
+14
+common law or statute, except to the extent that any 
+15
+such common law or statute specifically and directly 
+16
+conflicts with the provisions of this title or a regula-
+17
+tion promulgated under this title, and then only to 
+18
+the extent of the specific and direct conflict. Any 
+19
+such common law or statute is not in specific and 
+20
+direct conflict if it affords a greater level of protec-
+21
+tion to a child or teenager than the provisions of this 
+22
+title or a regulation promulgated under this title. 
+23
+‘‘(3) SECTION
+230
+OF
+THE
+COMMUNICATIONS 
+24
+ACT OF 1934.—Nothing in section 230 of the Com-
+25
+munications Act of 1934 (47 U.S.C. 230) may be 
+26
+22:53 Aug 07, 2021
+H4801
+54 
+•HR 4801 IH
+construed to impair or limit the provisions of this 
+1
+title or a regulation promulgated under this title.’’. 
+2
+SEC. 9. ADDITIONAL CONFORMING AMENDMENT. 
+3
+The heading of title XIII of division C of the Omni-
+4
+bus Consolidated and Emergency Supplemental Appro-
+5
+priations Act, 1999 (Public Law 105–277; 112 Stat. 
+6
+2681–728) is amended by inserting ‘‘AND TEEN-
+7
+AGER’S’’ after ‘‘CHILDREN’S’’. 
+8
+SEC. 10. IMPLEMENTING REGULATIONS. 
+9
+(a) IN GENERAL.—Not later than 1 year after the 
+10
+date of the enactment of this Act, the Commission shall 
+11
+promulgate regulations under section 553 of title 5, 
+12
+United States Code, to implement the amendments made 
+13
+by this Act, including the regulations required by sub-
+14
+section (b) of section 1303 of the Children’s Online Pri-
+15
+vacy Protection Act of 1998, as amended by this Act. 
+16
+(b) REVIEW AND REVISION.—Not later than 10 years 
+17
+after the date on which the Commission promulgates the 
+18
+regulations required by subsection (a), the Commission 
+19
+shall review such regulations and, if the Commission con-
+20
+siders revisions to such regulations appropriate, promul-
+21
+gate such revisions under section 553 of title 5, United 
+22
+States Code. 
+23
+22:53 Aug 07, 2021
+H4801
+55 
+•HR 4801 IH
+SEC. 11. YOUTH PRIVACY AND MARKETING DIVISION. 
+1
+(a) ESTABLISHMENT.—There is established within 
+2
+the Commission a division to be known as the Youth Pri-
+3
+vacy and Marketing Division. 
+4
+(b) DIRECTOR.—The Youth Privacy and Marketing 
+5
+Division shall be headed by a Director, who shall be ap-
+6
+pointed by the Chairman of the Commission. 
+7
+(c) DUTIES.—The Youth Privacy and Marketing Di-
+8
+vision shall be responsible for addressing, as it relates to 
+9
+this Act and the amendments made by this Act— 
+10
+(1) the privacy of children and teenagers; and 
+11
+(2) marketing directed at children and teen-
+12
+agers. 
+13
+(d) STAFF.—The Director of the Youth Privacy and 
+14
+Marketing Division shall hire adequate staff to carry out 
+15
+the duties under subsection (c), including individuals who 
+16
+are experts in data protection, digital advertising, data 
+17
+analytics, and youth development. 
+18
+(e) REPORTS.—Not later than 1 year after the date 
+19
+of the enactment of this Act, and each year thereafter, 
+20
+the Director of the Youth Privacy and Marketing Division 
+21
+shall submit to the Committee on Commerce, Science, and 
+22
+Transportation of the Senate and the Committee on En-
+23
+ergy and Commerce of the House of Representatives a re-
+24
+port that includes— 
+25
+22:53 Aug 07, 2021
+H4801
+56 
+•HR 4801 IH
+(1) a description of the work of the Youth Pri-
+1
+vacy and Marketing Division on emerging concerns 
+2
+relating to youth privacy and marketing practices; 
+3
+and 
+4
+(2) an assessment of how effectively the Com-
+5
+mission has, during the period for which the report 
+6
+is submitted, addressed youth privacy and marketing 
+7
+practices. 
+8
+(f) DEFINITIONS.—In this section, the terms ‘‘child’’ 
+9
+and ‘‘teenager’’ have the meanings given such terms in 
+10
+section 1302 of the Children’s Online Privacy Protection 
+11
+Act of 1998 (15 U.S.C. 6501), as amended by this Act. 
+12
+SEC. 12. COMMISSION DEFINED. 
+13
+In this Act, the term ‘‘Commission’’ means the Fed-
+14
+eral Trade Commission. 
+15
+SEC. 13. EFFECTIVE DATE. 
+16
+The amendments made by this Act shall take effect 
+17
+on the date that is 1 year after the Commission promul-
+18
+gates the regulations required by section 10(a). 
+19
+Æ 
+22:53 Aug 07, 2021
+H4801

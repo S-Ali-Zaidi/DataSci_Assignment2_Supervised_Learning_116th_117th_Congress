@@ -1,0 +1,2039 @@
+A BILL 
+To prohibit the discriminatory use of personal information 
+by online platforms in any algorithmic process, to require 
+transparency in the use of algorithmic processes and 
+content moderation, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Algorithmic Justice 
+4
+and Online Platform Transparency Act’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+23:49 Jul 07, 2021
+H3611
+2 
+•HR 3611 IH
+(1) Online platforms have become integral to 
+1
+individuals’ full participation in economic, demo-
+2
+cratic, and societal processes. 
+3
+(2) Online platforms employ manipulative dark 
+4
+patterns, collect large amounts of personal informa-
+5
+tion from their users, and leverage that personal in-
+6
+formation for opaque algorithmic processes in ways 
+7
+that create vastly different experiences for different 
+8
+types of users. 
+9
+(3) Algorithmic processes are often used by on-
+10
+line platforms without adequate testing and in the 
+11
+absence of critical transparency requirements and 
+12
+other legally enforceable safety and efficacy stand-
+13
+ards, which has resulted in discrimination in hous-
+14
+ing, lending, job advertising, and other areas of op-
+15
+portunity. 
+16
+(4) The use of discriminatory algorithmic proc-
+17
+esses causes disproportionate harm to populations 
+18
+that already experience marginalization. 
+19
+(5) Online platforms constantly engage in con-
+20
+tent moderation decision making, resulting in highly 
+21
+influential outcomes regarding what content is visi-
+22
+ble and accessible to users. 
+23
+(6) Online platforms’ content moderation prac-
+24
+tices have disproportionately significant repercus-
+25
+23:49 Jul 07, 2021
+H3611
+3 
+•HR 3611 IH
+sions for members of marginalized communities, who 
+1
+have historically been the target of nefarious online 
+2
+activity, including disinformation campaigns. 
+3
+(7) Users of online platforms should have ac-
+4
+cess to understandable information about how online 
+5
+platforms moderate content and use algorithmic 
+6
+processes to amplify or recommend content. 
+7
+(8) Users of online platforms should be able to 
+8
+easily move their data to alternative online plat-
+9
+forms, and the importance of this right is particu-
+10
+larly significant given certain online platforms’ use 
+11
+of harmful algorithmic processes and engagement in 
+12
+ineffective content moderation. 
+13
+(9) In a variety of sectors, algorithmic proc-
+14
+esses also facilitate discriminatory outcomes on on-
+15
+line platforms that individuals may not personally 
+16
+interact with, but which nonetheless process the per-
+17
+sonal information of such individuals and have sig-
+18
+nificant, negative consequences. 
+19
+(10) The people of the United States would 
+20
+benefit from the convening of experts from a diverse 
+21
+set of governmental positions to collectively study 
+22
+and report on discriminatory algorithmic processes 
+23
+across the United States economy and society, with 
+24
+particular attention to intersections of harm. 
+25
+01:35 Jul 08, 2021
+H3611
+4 
+•HR 3611 IH
+SEC. 3. DEFINITIONS. 
+1
+In this Act, the following definitions apply: 
+2
+(1) ALGORITHMIC PROCESS.—The term ‘‘algo-
+3
+rithmic process’’ means a computational process, in-
+4
+cluding one derived from machine learning or other 
+5
+artificial intelligence techniques, that processes per-
+6
+sonal information or other data for the purpose of 
+7
+determining the order or manner that a set of infor-
+8
+mation is provided, recommended to, or withheld 
+9
+from a user of an online platform, including the pro-
+10
+vision of commercial content, the display of social 
+11
+media posts, or any other method of automated deci-
+12
+sion making, content selection, or content amplifi-
+13
+cation. 
+14
+(2) BIOMETRIC INFORMATION.—The term ‘‘bio-
+15
+metric information’’— 
+16
+(A) means information regarding the phys-
+17
+iological or biological characteristics of an indi-
+18
+vidual that may be used, singly or in combina-
+19
+tion with each other or with other identifying 
+20
+data, to establish the identity of an individual; 
+21
+and 
+22
+(B) includes— 
+23
+(i) genetic information; 
+24
+(ii) imagery of the iris, retina, finger-
+25
+print, face, hand, palm, vein patterns, and 
+26
+23:49 Jul 07, 2021
+H3611
+5 
+•HR 3611 IH
+voice recordings, from which an identifier 
+1
+template, such as a faceprint, a minutiae 
+2
+template, or a voiceprint, can be extracted; 
+3
+(iii) keystroke patterns or rhythms, 
+4
+gait patterns or rhythms, and sleep, 
+5
+health, or exercise data that contain identi-
+6
+fying information; and 
+7
+(iv) any mathematical code, profile, or 
+8
+algorithmic model derived from informa-
+9
+tion regarding the physiological or biologi-
+10
+cal characteristics of an individual. 
+11
+(3) COMMISSION.—The term ‘‘Commission’’ 
+12
+means the Federal Trade Commission. 
+13
+(4) CONTENT MODERATION.—The term ‘‘con-
+14
+tent moderation’’ means— 
+15
+(A) the intentional deletion, labeling, or ed-
+16
+iting of user generated content or a process of 
+17
+purposefully decreasing access to such content 
+18
+through the human labor of any individual that 
+19
+is financially compensated by an online plat-
+20
+form, an automated process, or some combina-
+21
+tion thereof, pursuant to the online platform’s 
+22
+terms of service or stated community standards; 
+23
+and 
+24
+23:49 Jul 07, 2021
+H3611
+6 
+•HR 3611 IH
+(B) such other practices as the Commis-
+1
+sion may identify under regulations promul-
+2
+gated under section 553 of title 5, United 
+3
+States Code. 
+4
+(5) DE-IDENTIFIED.—The term ‘‘de-identified’’, 
+5
+with respect to personal information, means infor-
+6
+mation that has been altered, anonymized, or aggre-
+7
+gated so that it cannot reasonably identify, relate to, 
+8
+describe, or be capable of being associated with or 
+9
+linked to, directly or indirectly, a particular indi-
+10
+vidual or device. 
+11
+(6) DEMOGRAPHIC
+INFORMATION.—The term 
+12
+‘‘demographic information’’ means information re-
+13
+garding an individual’s or class of individuals’ race, 
+14
+color, ethnicity, sex, religion, national origin, age, 
+15
+gender, gender identity, sexual orientation, disability 
+16
+status, familial status, immigration status, edu-
+17
+cational attainment, income, source of income, occu-
+18
+pation, employment status, biometric information, 
+19
+criminal record, credit rating, or any categorization 
+20
+used by the online platform derived from such infor-
+21
+mation. 
+22
+(7) GROUP.—The term ‘‘group’’ means a page 
+23
+or other subdivision of an online platform that func-
+24
+tions as a forum for users to post or otherwise dis-
+25
+23:49 Jul 07, 2021
+H3611
+7 
+•HR 3611 IH
+tribute content to, or communicate with, other users 
+1
+of such page or other subdivision. 
+2
+(8) 
+NON-PRECISE
+GEOLOCATION
+INFORMA-
+3
+TION.—The term ‘‘non-precise geolocation informa-
+4
+tion’’ means information regarding a country, State, 
+5
+county, city, or ZIP code. 
+6
+(9) ONLINE
+PLATFORM.—The term ‘‘online 
+7
+platform’’ means any public-facing website, online 
+8
+service, online application, or mobile application 
+9
+which is operated for commercial purposes and pro-
+10
+vides a community forum for user generated content, 
+11
+including a social network site, content aggregation 
+12
+service, or service for sharing videos, images, games, 
+13
+audio files, or other content. 
+14
+(10) PERSONAL INFORMATION.— 
+15
+(A) IN GENERAL.—The term ‘‘personal in-
+16
+formation’’ means information that directly or 
+17
+indirectly identifies, or could be reasonably 
+18
+linked to, a particular individual or device. 
+19
+(B) REASONABLY LINKED.—For purposes 
+20
+of subparagraph (A), information could be rea-
+21
+sonably linked to an individual or device if such 
+22
+information can be used on its own or in com-
+23
+bination with other information held by, or 
+24
+01:35 Jul 08, 2021
+H3611
+8 
+•HR 3611 IH
+readily accessible to, a person to identify an in-
+1
+dividual or device. 
+2
+(11) PLACE OF PUBLIC ACCOMMODATION.—The 
+3
+term ‘‘place of public accommodation’’ means— 
+4
+(A) any entity considered a place of public 
+5
+accommodation under section 201(b) of the 
+6
+Civil Rights Act of 1964 (42 U.S.C. 2000a(b)) 
+7
+or section 301 of the Americans with Disabil-
+8
+ities Act of 1990 (42 U.S.C. 12181); or 
+9
+(B) any commercial entity that offers 
+10
+goods or services through the internet to the 
+11
+general public. 
+12
+(12) SMALL BUSINESS.— 
+13
+(A) IN GENERAL.—The term ‘‘small busi-
+14
+ness’’ means a commercial entity that estab-
+15
+lishes, with respect to the 3 preceding calendar 
+16
+years (or since the inception of such entity if 
+17
+such period is less than 3 calendar years), that 
+18
+the entity— 
+19
+(i) maintains an average annual gross 
+20
+revenue of less than $25,000,000; 
+21
+(ii) on average, annually processes the 
+22
+personal information of less than 100,000 
+23
+individuals, households, or devices used by 
+24
+individuals or households; 
+25
+23:49 Jul 07, 2021
+H3611
+9 
+•HR 3611 IH
+(iii) on average, derives 50 percent or 
+1
+less of its annual revenue from transfer-
+2
+ring the personal information of individ-
+3
+uals; and 
+4
+(iv) has less than 50 workers at any 
+5
+time during such period. 
+6
+(B) COMMON CONTROL OR BRANDING.— 
+7
+For purposes of subparagraph (A), the amounts 
+8
+at issue shall include the activity of any person 
+9
+that controls, is controlled by, is under common 
+10
+control with, or shares common branding with 
+11
+such commercial entity. 
+12
+(13) USER GENERATED CONTENT.—The term 
+13
+‘‘user generated content’’ means any content, includ-
+14
+ing text, images, videos, reviews, profiles, games, or 
+15
+audio content, that is made or created (including 
+16
+through a form, template, or other process provided 
+17
+by the online platform) and posted on an online plat-
+18
+form by a user of the online platform. 
+19
+SEC. 4. TRANSPARENCY. 
+20
+(a) NOTICE AND REVIEW OF ALGORITHMIC PROC-
+21
+ESS.—Beginning 1 year after the date of enactment of this 
+22
+Act, any online platform that employs, operates, or other-
+23
+wise utilizes an algorithmic process to withhold, amplify, 
+24
+recommend, or promote content (including a group) to a 
+25
+23:49 Jul 07, 2021
+H3611
+10 
+•HR 3611 IH
+user of the online platform shall comply with the following 
+1
+requirements: 
+2
+(1) REQUIRED NOTICE.— 
+3
+(A) IN GENERAL.—With respect to each 
+4
+type of algorithmic process utilized by an online 
+5
+platform, such online platform shall disclose the 
+6
+following information to users of the online 
+7
+platform in conspicuous, accessible, and plain 
+8
+language that is not misleading: 
+9
+(i) The categories of personal infor-
+10
+mation the online platform collects or cre-
+11
+ates for purposes of the type of algorithmic 
+12
+process. 
+13
+(ii) The manner in which the online 
+14
+platform collects or creates such personal 
+15
+information. 
+16
+(iii) How the online platform uses 
+17
+such personal information in the type of 
+18
+algorithmic process. 
+19
+(iv) The method by which the type of 
+20
+algorithmic process prioritizes, assigns 
+21
+weight to, or ranks different categories of 
+22
+personal information to withhold, amplify, 
+23
+recommend, or promote content (including 
+24
+a group) to a user. 
+25
+23:49 Jul 07, 2021
+H3611
+11 
+•HR 3611 IH
+(B) LANGUAGE OF REQUIRED NOTICE.— 
+1
+Such online platform shall make available the 
+2
+notice described in subparagraph (A) in each 
+3
+language in which the online platform provides 
+4
+services. 
+5
+(C) RULEMAKING.—The Commission shall 
+6
+conduct a rulemaking to identify each type of 
+7
+algorithmic process for which an online plat-
+8
+form is required to disclose the information de-
+9
+scribed in subparagraph (A). 
+10
+(2) REVIEW OF ALGORITHMIC PROCESS.— 
+11
+(A) RECORD OF ALGORITHMIC PROCESS.— 
+12
+Subject to subparagraph (B), such online plat-
+13
+form shall, for 5 years, retain a record that de-
+14
+scribes— 
+15
+(i) the categories of personal informa-
+16
+tion used by the type of algorithmic proc-
+17
+ess; 
+18
+(ii) the method by which the type of 
+19
+algorithmic process weighs or ranks certain 
+20
+categories of personal information; 
+21
+(iii) the method by which the online 
+22
+platform develops its type of algorithmic 
+23
+process, including— 
+24
+23:49 Jul 07, 2021
+H3611
+12 
+•HR 3611 IH
+(I) a description of any personal 
+1
+information or other data used in 
+2
+such development; 
+3
+(II) an explanation of any per-
+4
+sonal information or other data used 
+5
+to train the type of algorithmic proc-
+6
+ess on an ongoing basis; and 
+7
+(III) a description of how the 
+8
+type of algorithmic process was tested 
+9
+for accuracy, fairness, bias, and dis-
+10
+crimination; and 
+11
+(iv) if the online platform (except for 
+12
+a small business) utilizes an algorithmic 
+13
+process that relates to opportunities for 
+14
+housing, education, employment, insurance, 
+15
+credit, or the access to or terms of use of 
+16
+any place of public accommodations, an as-
+17
+sessment of whether the type of algo-
+18
+rithmic process produces disparate out-
+19
+comes on the basis of an individual’s or 
+20
+class of individuals’ actual or perceived 
+21
+race, color, ethnicity, sex, religion, national 
+22
+origin, gender, gender identity, sexual ori-
+23
+entation, familial status, biometric infor-
+24
+mation, or disability status. 
+25
+23:49 Jul 07, 2021
+H3611
+13 
+•HR 3611 IH
+(B) ADDITIONAL REQUIREMENTS.— 
+1
+(i) REQUIREMENT
+TO
+DE-IDENTIFY 
+2
+PERSONAL INFORMATION.—The record de-
+3
+scribed in subparagraph (A) shall not in-
+4
+clude any personal information other than 
+5
+de-identified personal information. 
+6
+(ii) EXTENSION OF RECORD RETEN-
+7
+TION.—An online platform shall retain the 
+8
+record described in subparagraph (A) for 
+9
+up to an additional 3 years if the Commis-
+10
+sion determines that the online platform 
+11
+poses a reasonable risk of engaging in re-
+12
+peated violations of this Act or of unlawful 
+13
+discrimination as a result of its use of an 
+14
+algorithmic process. 
+15
+(C) REVIEW OF RECORD.—Upon the re-
+16
+quest of the Commission, an online platform 
+17
+shall make available to the Commission the 
+18
+complete record described in subparagraph (A). 
+19
+(b) NOTICE
+OF
+CONTENT
+MODERATION
+PRAC-
+20
+TICES.— 
+21
+(1) NOTICE.— 
+22
+(A) IN GENERAL.—Beginning 1 year after 
+23
+the date of enactment of this Act, any online 
+24
+platform shall disclose to users of the online 
+25
+23:49 Jul 07, 2021
+H3611
+14 
+•HR 3611 IH
+platform in conspicuous, accessible, and plain 
+1
+language that is not misleading a complete de-
+2
+scription of the online platform’s content mod-
+3
+eration practices, including a description of any 
+4
+type of automated content moderation practices 
+5
+and content moderation practices that employ 
+6
+human labor. 
+7
+(B) LANGUAGE OF REQUIRED NOTICE.— 
+8
+Such online platform shall make available the 
+9
+notice described in subparagraph (A) in each 
+10
+language in which the online platform provides 
+11
+services. 
+12
+(2) CONTENT MODERATION TRANSPARENCY RE-
+13
+14
+(A) IN
+GENERAL.—Beginning 180 days 
+15
+after the date of enactment of this Act, any on-
+16
+line platform (except for a small business) that 
+17
+engages in content moderation shall publish, 
+18
+not less than annually, a transparency report of 
+19
+their content moderation practices. 
+20
+(B) REQUIREMENTS.— 
+21
+(i) IN
+GENERAL.—The transparency 
+22
+report required under subparagraph (A) 
+23
+shall include, if applicable: 
+24
+23:49 Jul 07, 2021
+H3611
+15 
+•HR 3611 IH
+(I) The total number of content 
+1
+moderation decisions for the applica-
+2
+ble period. 
+3
+(II) The number of content mod-
+4
+eration decisions for the applicable pe-
+5
+riod broken down by: 
+6
+(aa) Relevant policy, type, or 
+7
+category of content moderation 
+8
+undertaken by the online plat-
+9
+form. 
+10
+(bb) Whether the content 
+11
+moderation decision occurred in 
+12
+response to information regard-
+13
+ing organized campaigns or other 
+14
+coordinated behavior. 
+15
+(cc) Aggregate demographic 
+16
+information of users who created 
+17
+the user generated content sub-
+18
+jected to content moderation. 
+19
+(dd) Aggregate demographic 
+20
+information of users targeted by 
+21
+an algorithmic process involving 
+22
+content 
+subjected 
+to 
+content 
+23
+moderation. 
+24
+23:49 Jul 07, 2021
+H3611
+16 
+•HR 3611 IH
+(ee) Whether the content 
+1
+moderation 
+occurred 
+through 
+2
+automated 
+practices, 
+human 
+3
+labor by the online platform, 
+4
+labor by any individual that does 
+5
+not work as a paid employee of 
+6
+the online platform, or any com-
+7
+bination thereof. 
+8
+(ff) In the case of content 
+9
+moderation 
+that 
+occurred 
+10
+through human labor by any in-
+11
+dividual that does not work for 
+12
+the online platform, the nature of 
+13
+such individual’s relationship to 
+14
+the online platform (such as a 
+15
+user, moderator, State actor, or 
+16
+representative of an external 
+17
+partner organization). 
+18
+(gg) The number and per-
+19
+centage of content moderation 
+20
+decisions subject to appeal or 
+21
+other form of secondary review. 
+22
+(hh) The number and per-
+23
+centage of content moderation 
+24
+23:49 Jul 07, 2021
+H3611
+17 
+•HR 3611 IH
+decisions reversed on appeal or 
+1
+other form of secondary review. 
+2
+(ii) The number of content 
+3
+moderation decisions occurring in 
+4
+response to a government de-
+5
+mand or request. 
+6
+(jj) The number of govern-
+7
+ment demands or requests for 
+8
+content moderation broken down 
+9
+by Federal agency, State, munici-
+10
+pality, or foreign nation. 
+11
+(kk) The types of content 
+12
+moderation decisions made. 
+13
+(ll) Other information that 
+14
+the Commission, by regulation, 
+15
+deems appropriate. 
+16
+(III) The ability to cross-ref-
+17
+erence each of the different types of 
+18
+information disclosed pursuant to sub-
+19
+clause (II). 
+20
+(ii) ACCESSIBILITY OF REPORT.—The 
+21
+transparency report required under sub-
+22
+paragraph (A) shall be— 
+23
+23:49 Jul 07, 2021
+H3611
+18 
+•HR 3611 IH
+(I) publicly available to any indi-
+1
+vidual without such individual being 
+2
+required to create a user account; 
+3
+(II) conspicuous; 
+4
+(III) accessible; 
+5
+(IV) not misleading; and 
+6
+(V) available in each language in 
+7
+which the online platform provides 
+8
+services. 
+9
+(iii) 
+ACCESSIBILITY
+OF
+REPORT 
+10
+DATA.—The online platform shall— 
+11
+(I) provide any data in the trans-
+12
+parency report required under sub-
+13
+paragraph (A) in a machine-readable 
+14
+format; and 
+15
+(II) allow anyone to freely copy 
+16
+and use such data. 
+17
+(3) RULE OF CONSTRUCTION.—Nothing in this 
+18
+subsection shall require an online platform to collect 
+19
+personal information that the online platform would 
+20
+not otherwise collect. 
+21
+(c) ADVERTISEMENT LIBRARY.—Beginning 180 days 
+22
+after the date of enactment of this Act, any online plat-
+23
+form (except for a small business) that uses personal in-
+24
+formation in combination with an algorithmic process to 
+25
+23:49 Jul 07, 2021
+H3611
+19 
+•HR 3611 IH
+sell or publish an advertisement shall take all reasonable 
+1
+steps to maintain a library of such advertisements. The 
+2
+library shall— 
+3
+(1) be— 
+4
+(A) publicly available to any individual 
+5
+without such individual being required to create 
+6
+a user account; 
+7
+(B) conspicuous; 
+8
+(C) accessible; 
+9
+(D) not misleading; and 
+10
+(E) available in each language in which the 
+11
+online platform provides services; 
+12
+(2) present information in both human- and 
+13
+machine-readable formats; 
+14
+(3) allow any individual to freely copy and use 
+15
+the information contained in the library; 
+16
+(4) at a minimum, be searchable by date, loca-
+17
+tion, topic, cost, advertiser, keyword, information 
+18
+disclosed pursuant to paragraph (6), or any other 
+19
+criteria that the Commission, by regulation, deems 
+20
+appropriate; 
+21
+(5) contain copies of all advertisements sold or 
+22
+published by the online platform for 2 years fol-
+23
+lowing the sale or publishing of each advertisement; 
+24
+and 
+25
+23:49 Jul 07, 2021
+H3611
+20 
+•HR 3611 IH
+(6) for each advertisement entry, include— 
+1
+(A) the content of the advertisement; 
+2
+(B) all targeting criteria selected by the 
+3
+advertiser, including demographic information 
+4
+and non-precise geolocation information (except 
+5
+in the event that including a specific criterion 
+6
+would disclose personal information); 
+7
+(C) any data the online platform provided 
+8
+to the advertiser regarding to whom it sold or 
+9
+published the advertisement, including demo-
+10
+graphic information and non-precise geolocation 
+11
+information (except in the event that including 
+12
+specific data would disclose personal informa-
+13
+tion); and 
+14
+(D) the name of the advertiser, the cost of 
+15
+the advertisement, the dates the advertisement 
+16
+was displayed on the online platform, and any 
+17
+other information that the Commission, by reg-
+18
+ulation, deems appropriate. 
+19
+(d) CERTIFICATION.—Not later than 30 days after 
+20
+making any disclosure required by subsection (a)(1), (b), 
+21
+or (c), and annually thereafter, an online platform shall 
+22
+certify the accuracy and completeness of such disclosure. 
+23
+Such certification shall— 
+24
+23:49 Jul 07, 2021
+H3611
+21 
+•HR 3611 IH
+(1) be signed, under oath, by the online plat-
+1
+form’s chief executive officer, chief privacy officer, 
+2
+chief operating officer, chief information security of-
+3
+ficer, or another senior officer of equivalent stature; 
+4
+(2) attest that the officer described in para-
+5
+graph (1) has personal knowledge sufficient to make 
+6
+such certification; and 
+7
+(3) in addition to any annual certification, be 
+8
+issued with any material change (which shall not in-
+9
+clude routine additions to or maintenance of entries 
+10
+in the advertising library pursuant to subsection 
+11
+(c)). 
+12
+SEC. 5. RIGHT TO DATA PORTABILITY. 
+13
+In promulgating regulations under this Act, the Com-
+14
+mission shall require an online platform, if the online plat-
+15
+form retains the personal information of a user, to provide 
+16
+to the user access to the personal information retained in 
+17
+the form of a portable electronic table that— 
+18
+(1) is in a usable and searchable format; and 
+19
+(2) allows the user to transfer such personal in-
+20
+formation from one online platform to another with-
+21
+out hindrance. 
+22
+SEC. 6. PROHIBITED CONDUCT. 
+23
+(a) PUBLIC ACCOMMODATIONS.—It shall be unlawful 
+24
+for an online platform to employ any proprietary online 
+25
+23:49 Jul 07, 2021
+H3611
+22 
+•HR 3611 IH
+platform design features, including an algorithmic process, 
+1
+or otherwise process the personal information of an indi-
+2
+vidual in a manner that segregates, discriminates in, or 
+3
+otherwise makes unavailable the goods, services, facilities, 
+4
+privileges, advantages, or accommodations of any place of 
+5
+public accommodation on the basis of an individual’s or 
+6
+class of individuals’ actual or perceived race, color, eth-
+7
+nicity, religion, national origin, sex, gender, gender iden-
+8
+tity, sexual orientation, familial status, biometric informa-
+9
+tion, or disability status. 
+10
+(b) EQUAL OPPORTUNITY.—It shall be unlawful for 
+11
+an online platform to employ any proprietary online plat-
+12
+form design features, including an algorithmic process, or 
+13
+otherwise process the personal information of an indi-
+14
+vidual for the purpose of advertising, marketing, soliciting, 
+15
+offering, selling, leasing, licensing, renting, or otherwise 
+16
+commercially contracting for housing, employment, credit, 
+17
+insurance, healthcare, or education opportunities in a 
+18
+manner that discriminates against or otherwise makes the 
+19
+opportunity unavailable on the basis of an individual’s or 
+20
+class of individuals’ actual or perceived race, color, eth-
+21
+nicity, religion, national origin, sex, gender, gender iden-
+22
+tity, sexual orientation, familial status, biometric informa-
+23
+tion, or disability status. 
+24
+23:49 Jul 07, 2021
+H3611
+23 
+•HR 3611 IH
+(c) VOTING RIGHTS.—It shall be unlawful for an on-
+1
+line platform to process personal information in a manner 
+2
+that intentionally deprives, defrauds, or attempts to de-
+3
+prive or defraud any individual of their free and fair exer-
+4
+cise of the right to vote in a Federal, State, or local elec-
+5
+tion. Such manner includes: 
+6
+(1) Intentional deception regarding— 
+7
+(A) the time, place, or method of voting or 
+8
+registering to vote; 
+9
+(B) the eligibility requirements to vote or 
+10
+register to vote; 
+11
+(C) the counting of ballots; 
+12
+(D) the adjudication of elections; 
+13
+(E) explicit endorsements by any person or 
+14
+candidate; or 
+15
+(F) any other material information per-
+16
+taining to the procedures or requirements for 
+17
+voting or registering to vote in a Federal, State, 
+18
+or local election. 
+19
+(2) Intentionally using deception, threats, in-
+20
+timidation, fraud, or coercion to prevent, interfere 
+21
+with, retaliate against, deter, or attempt to prevent, 
+22
+interfere with, retaliate against, or deter an indi-
+23
+vidual from— 
+24
+01:35 Jul 08, 2021
+H3611
+24 
+•HR 3611 IH
+(A) voting or registering to vote in a Fed-
+1
+eral, State, or local election; or 
+2
+(B) supporting or advocating for a can-
+3
+didate in a Federal, State, or local election. 
+4
+(d) DISCRIMINATORY ADVERTISING.— 
+5
+(1) IN GENERAL.—Not later than 2 years after 
+6
+the date of enactment of this Act, the Commission 
+7
+shall promulgate regulations to define and prohibit 
+8
+unfair or deceptive acts or practices with respect to 
+9
+advertising practices. 
+10
+(2) PERIODIC REVIEW OF REGULATIONS.—The 
+11
+Commission shall review such regulations not less 
+12
+than once every 5 years and update the regulations 
+13
+as appropriate. 
+14
+(3) CONSIDERATIONS.—In promulgating regu-
+15
+lations under this subsection, the Commission shall 
+16
+consider: 
+17
+(A) Established public policy, such as civil 
+18
+rights laws, to prevent discrimination and pro-
+19
+mote equal opportunity. 
+20
+(B) The state of the art of advertising. 
+21
+(C) Research of and methodologies for 
+22
+measuring discrimination in advertising. 
+23
+(D) The role of each actor in the adver-
+24
+tising ecosystem. 
+25
+23:49 Jul 07, 2021
+H3611
+25 
+•HR 3611 IH
+(E) Any harm caused by predatory or ma-
+1
+nipulative advertising practices, including prac-
+2
+tices targeting vulnerable populations. 
+3
+(F) Whether, and at what age, a minor is 
+4
+able to distinguish between editorial content 
+5
+and paid advertisements. 
+6
+(G) Methods for fairly promoting equal op-
+7
+portunity in housing, employment, credit, insur-
+8
+ance, education, and healthcare through tar-
+9
+geted outreach to underrepresented populations 
+10
+in a fair and non-deceptive manner. 
+11
+(H) The needs of small businesses. 
+12
+(I) Any other criteria the Commission 
+13
+deems appropriate. 
+14
+(e) SAFETY AND EFFECTIVENESS OF ALGORITHMIC 
+15
+PROCESSES.— 
+16
+(1) IN GENERAL.—It shall be unlawful for an 
+17
+online platform to employ an algorithmic process in 
+18
+a manner that is not safe and effective. 
+19
+(2) SAFE.—For purposes of paragraph (1), an 
+20
+algorithmic process is safe— 
+21
+(A) if the algorithmic process does not 
+22
+produce any disparate outcome as described in 
+23
+the 
+assessment 
+conducted 
+under 
+section 
+24
+4(a)(2)(A)(iv); or 
+25
+23:49 Jul 07, 2021
+H3611
+26 
+•HR 3611 IH
+(B) if the algorithmic process does produce 
+1
+a disparate outcome as described in the assess-
+2
+ment conducted under section 4(a)(2)(A)(iv), 
+3
+any such disparate outcome is justified by a 
+4
+non-discriminatory, compelling interest, and 
+5
+such interest cannot be satisfied by less dis-
+6
+criminatory means. 
+7
+(3) EFFECTIVE.—For purposes of paragraph 
+8
+(1), an algorithmic process is effective if the online 
+9
+platform employing or otherwise utilizing the algo-
+10
+rithmic process has taken reasonable steps to ensure 
+11
+that the algorithmic process has the ability to 
+12
+produce its desired or intended result. 
+13
+(f) DISCRIMINATION BY USERS OF ONLINE PLAT-
+14
+FORMS.—It shall be unlawful for a user of an online plat-
+15
+form to utilize an algorithmic process on an online plat-
+16
+form in a manner that— 
+17
+(1) withholds, denies, deprives, or attempts to 
+18
+withhold, deny, or deprive any individual of a right 
+19
+or privilege under title II of the Civil Rights Act of 
+20
+1964 (42 U.S.C. 2000a et. seq.); 
+21
+(2) intimidates, threatens, coerces, or attempts 
+22
+to intimidate, threaten, or coerce any individual with 
+23
+the purpose of interfering with a right or privilege 
+24
+under title II of such Act; or 
+25
+23:49 Jul 07, 2021
+H3611
+27 
+•HR 3611 IH
+(3) punishes or attempts to punish any indi-
+1
+vidual for exercising or attempting to exercise a 
+2
+right or privilege under title II of such Act. 
+3
+(g) EXCEPTIONS.—Nothing in this section shall limit 
+4
+an online platform from processing personal information 
+5
+for the purpose of— 
+6
+(1) good faith internal testing to prevent unlaw-
+7
+ful discrimination, identify disparate outcomes or 
+8
+treatment, or otherwise determine the extent or ef-
+9
+fectiveness of the online platform’s compliance with 
+10
+this Act; or 
+11
+(2) advertising, marketing, or soliciting eco-
+12
+nomic opportunities (which shall not be of lower 
+13
+quality or contain less desirable terms than similar 
+14
+opportunities the online platform advertises, mar-
+15
+kets, or solicits to the general population) to under-
+16
+represented populations in a fair and non-deceptive 
+17
+manner. 
+18
+(h) FTC ADVISORY OPINIONS.—An online platform 
+19
+may request guidance from the Commission with respect 
+20
+to the online platform’s potential compliance with this Act, 
+21
+in accordance with the Commission’s rules of practice on 
+22
+advisory opinions. 
+23
+(i) PRESERVATION
+OF
+RIGHTS
+AND
+WHISTLE-
+24
+BLOWER PROTECTIONS; RULES OF CONSTRUCTION.— 
+25
+01:35 Jul 08, 2021
+H3611
+28 
+•HR 3611 IH
+(1) NO
+CONDITIONAL
+SERVICE.—An online 
+1
+platform may not condition or degrade the provision 
+2
+of a service or product to an individual based on the 
+3
+individual’s waiver of any right guaranteed in this 
+4
+section. 
+5
+(2) NO
+ARBITRATION
+AGREEMENT
+OR
+WAIV-
+6
+ER.—No pre-dispute arbitration agreement or pre- 
+7
+dispute joint action waiver of any right guaranteed 
+8
+in this section shall be valid or enforceable with re-
+9
+spect to a dispute arising under this Act. Any deter-
+10
+mination as to the scope or manner of applicability 
+11
+of this section shall be made by a court, rather than 
+12
+an arbitrator, without regard to whether such agree-
+13
+ment purports to delegate such determination to an 
+14
+arbitrator. 
+15
+(3) WHISTLEBLOWER PROTECTION.—An online 
+16
+platform may not, directly or indirectly, discharge, 
+17
+demote, suspend, threaten, harass, or in any other 
+18
+manner discriminate against an individual for re-
+19
+porting or attempting to report a violation of this 
+20
+section. 
+21
+(4) RULE OF CONSTRUCTION.—Nothing in this 
+22
+section shall be construed to affect the application of 
+23
+section 230 of the Communications Act of 1934 
+24
+(commonly known as ‘‘section 230 of the Commu-
+25
+23:49 Jul 07, 2021
+H3611
+29 
+•HR 3611 IH
+nications Decency Act of 1996’’) (47 U.S.C. 230) to 
+1
+an online platform or otherwise impose on an online 
+2
+platform legal liability for user generated content. 
+3
+SEC. 7. INTERAGENCY TASK FORCE ON ALGORITHMIC 
+4
+PROCESSES ON ONLINE PLATFORMS. 
+5
+(a) ESTABLISHMENT.—The Commission shall estab-
+6
+lish an interagency task force on algorithmic processes on 
+7
+online platforms (referred to in this section as the ‘‘Task 
+8
+Force’’) for the purpose of examining the discriminatory 
+9
+use of personal information by online platforms in algo-
+10
+rithmic processes. 
+11
+(b) MEMBERSHIP.— 
+12
+(1) IN GENERAL.—The Task Force established 
+13
+under this section shall include representatives 
+14
+from— 
+15
+(A) the Commission; 
+16
+(B) the Department of Education; 
+17
+(C) the Department of Justice; 
+18
+(D) the Department of Labor; 
+19
+(E) the Department of Housing and Urban 
+20
+Development; 
+21
+(F) the Department of Commerce; 
+22
+(G) the Department of Health and Human 
+23
+Services; 
+24
+(H) the Department of Veterans Affairs; 
+25
+23:49 Jul 07, 2021
+H3611
+30 
+•HR 3611 IH
+(I) the Equal Employment Opportunity 
+1
+Commission; 
+2
+(J) the Consumer Financial Protection Bu-
+3
+reau; 
+4
+(K) the Federal Communications Commis-
+5
+sion; 
+6
+(L) the Federal Elections Commission; and 
+7
+(M) the White House Office of Science and 
+8
+Technology Policy. 
+9
+(2) CHAIR.—The Task Force shall be co- 
+10
+chaired by 1 representative of the Commission and 
+11
+1 representative of the Department of Justice. 
+12
+(3) STAFF.—The Task Force shall hire such 
+13
+other personnel, including individuals with expertise 
+14
+in the intersection of civil rights and technology, as 
+15
+may be appropriate to enable the Task Force to per-
+16
+form its duties. 
+17
+(c) STUDY AND REPORT.— 
+18
+(1) STUDY.—The Task Force shall conduct a 
+19
+study on the discriminatory use of personal informa-
+20
+tion by online platforms in algorithmic processes. 
+21
+Such study shall include the following: 
+22
+(A) Discriminatory use of personal infor-
+23
+mation in the advertisement of (including the 
+24
+23:49 Jul 07, 2021
+H3611
+31 
+•HR 3611 IH
+withholding of an advertisement) housing op-
+1
+portunities. 
+2
+(B) Discriminatory use of personal infor-
+3
+mation in the advertisement of (including the 
+4
+withholding of an advertisement) credit, lend-
+5
+ing, or other financial services opportunities. 
+6
+(C) Discriminatory use of personal infor-
+7
+mation in the advertisement of (including the 
+8
+withholding of an advertisement) employment 
+9
+opportunities. 
+10
+(D) Discriminatory use of personal infor-
+11
+mation in the advertisement of (including the 
+12
+withholding of an advertisement) education op-
+13
+portunities. 
+14
+(E) Discriminatory use of personal infor-
+15
+mation in the advertisement of (including the 
+16
+withholding of an advertisement) insurance op-
+17
+portunities. 
+18
+(F) Discriminatory use of personal infor-
+19
+mation or biometric information by employers 
+20
+in the surveillance or monitoring of workers. 
+21
+(G) Discriminatory use of personal infor-
+22
+mation on online platforms involved in hiring 
+23
+screening practices. 
+24
+23:49 Jul 07, 2021
+H3611
+32 
+•HR 3611 IH
+(H) Discriminatory use of personal infor-
+1
+mation or biometric information in education, 
+2
+including the use of— 
+3
+(i) student personal information for 
+4
+predictive forecasting on student ability or 
+5
+potential for purposes of admissions deci-
+6
+sions; and 
+7
+(ii) automated proctoring software 
+8
+that monitors, analyzes, or otherwise proc-
+9
+esses student biometric information to 
+10
+identify suspicious behavior, including any 
+11
+discriminatory outcomes associated with 
+12
+the use of such software. 
+13
+(I) Discriminatory use of user biometric 
+14
+information. 
+15
+(J) Use of personal information by 
+16
+disinformation campaigns for the purpose of po-
+17
+litical disenfranchisement. 
+18
+(K) Any other discriminatory use of per-
+19
+sonal information. 
+20
+(2) REPORT.—Not later than 180 days after 
+21
+the date of enactment of this Act, and biennially 
+22
+thereafter, the Task Force shall submit to Congress 
+23
+a report containing the results of the study con-
+24
+ducted under paragraph (1), together with rec-
+25
+23:49 Jul 07, 2021
+H3611
+33 
+•HR 3611 IH
+ommendations for such legislation and administra-
+1
+tive action as the Task Force determines appro-
+2
+priate. 
+3
+(d) FUNDING.—Out of any money in the Treasury 
+4
+not otherwise appropriated, there are appropriated to the 
+5
+Commission such sums as are necessary to carry out this 
+6
+section. Amounts appropriated under the preceding sen-
+7
+tence shall remain available until expended. 
+8
+SEC. 8. ENFORCEMENT. 
+9
+(a) ENFORCEMENT BY THE COMMISSION.— 
+10
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+11
+TICE.—A violation of this Act or a regulation pro-
+12
+mulgated under this Act shall be treated as a viola-
+13
+tion of a rule defining an unfair or deceptive act or 
+14
+practice under section 18(a)(1)(B) of the Federal 
+15
+Trade Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+16
+(2) POWERS OF THE COMMISSION.— 
+17
+(A) IN GENERAL.—The Commission shall 
+18
+enforce this Act in the same manner, by the 
+19
+same means, and with the same jurisdiction, 
+20
+powers, and duties as though all applicable 
+21
+terms and provisions of the Federal Trade 
+22
+Commission Act (15 U.S.C. 41 et seq.) were in-
+23
+corporated into and made a part of this section. 
+24
+23:49 Jul 07, 2021
+H3611
+34 
+•HR 3611 IH
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+1
+person who violates this Act or a regulation 
+2
+promulgated under this Act shall be subject to 
+3
+the penalties and entitled to the privileges and 
+4
+immunities provided in the Federal Trade Com-
+5
+mission Act (15 U.S.C. 41 et seq.). 
+6
+(C) AUTHORITY PRESERVED.—Nothing in 
+7
+this Act shall be construed to limit the author-
+8
+ity of the Commission under any other provi-
+9
+sion of law. 
+10
+(3) RULEMAKING.—The Commission shall pro-
+11
+mulgate in accordance with section 553 of title 5, 
+12
+United States Code, such rules as may be necessary 
+13
+to carry out this Act. 
+14
+(b) ENFORCEMENT BY STATES.— 
+15
+(1) AUTHORIZATION.—Subject to paragraph 
+16
+(2), in any case in which the attorney general of a 
+17
+State has reason to believe that an interest of the 
+18
+residents of the State has been or is adversely af-
+19
+fected by the engagement of any person in an act or 
+20
+practice that violates this Act or a regulation pro-
+21
+mulgated under this Act, the attorney general of the 
+22
+State may, as parens patriae, bring a civil action on 
+23
+behalf of the residents of the State in an appropriate 
+24
+district court of the United States to— 
+25
+23:49 Jul 07, 2021
+H3611
+35 
+•HR 3611 IH
+(A) enjoin that act or practice; 
+1
+(B) enforce compliance with this Act or the 
+2
+regulation; 
+3
+(C) obtain damages, civil penalties, restitu-
+4
+tion, or other compensation on behalf of the 
+5
+residents of the State; or 
+6
+(D) obtain such other relief as the court 
+7
+may consider to be appropriate. 
+8
+(2) RIGHTS OF THE COMMISSION.— 
+9
+(A) NOTICE TO THE COMMISSION.— 
+10
+(i) IN GENERAL.—Except as provided 
+11
+in clause (iii), the attorney general of a 
+12
+State shall notify the Commission in writ-
+13
+ing that the attorney general intends to 
+14
+bring a civil action under paragraph (1) 
+15
+before initiating the civil action against a 
+16
+person subject to this Act. 
+17
+(ii) CONTENTS.—The notification re-
+18
+quired by clause (i) with respect to a civil 
+19
+action shall include a copy of the complaint 
+20
+to be filed to initiate the civil action. 
+21
+(iii) EXCEPTION.—If it is not feasible 
+22
+for the attorney general of a State to pro-
+23
+vide the notification required by clause (i) 
+24
+before initiating a civil action under para-
+25
+23:49 Jul 07, 2021
+H3611
+36 
+•HR 3611 IH
+graph (1), the attorney general shall notify 
+1
+the Commission immediately upon insti-
+2
+tuting the civil action. 
+3
+(B) INTERVENTION
+BY
+THE
+COMMIS-
+4
+SION.—The Commission may— 
+5
+(i) intervene in any civil action 
+6
+brought by the attorney general of a State 
+7
+under paragraph (1); and 
+8
+(ii) upon intervening— 
+9
+(I) be heard on all matters aris-
+10
+ing in the civil action; and 
+11
+(II) file petitions for appeal of a 
+12
+decision in the civil action. 
+13
+(3) INVESTIGATORY POWERS.—Nothing in this 
+14
+subsection may be construed to prevent the attorney 
+15
+general of a State from exercising the powers con-
+16
+ferred on the attorney general by the laws of the 
+17
+State to conduct investigations, to administer oaths 
+18
+or affirmations, or to compel the attendance of wit-
+19
+nesses or the production of documentary or other 
+20
+evidence. 
+21
+(4) ACTION BY THE COMMISSION.—If the Com-
+22
+mission institutes a civil action with respect to a vio-
+23
+lation of this Act, the attorney general of a State 
+24
+may not, during the pendency of the action, bring a 
+25
+23:49 Jul 07, 2021
+H3611
+37 
+•HR 3611 IH
+civil action under paragraph (1) against any defend-
+1
+ant named in the complaint of the Commission for 
+2
+the violation with respect to which the Commission 
+3
+instituted such action. 
+4
+(5) VENUE; SERVICE OF PROCESS.— 
+5
+(A) VENUE.—Any action brought under 
+6
+paragraph (1) may be brought in the district 
+7
+court of the United States that meets applicable 
+8
+requirements relating to venue under section 
+9
+1391 of title 28, United States Code. 
+10
+(B) SERVICE OF PROCESS.—In an action 
+11
+brought under paragraph (1), process may be 
+12
+served in any district in which the defendant— 
+13
+(i) is an inhabitant; or 
+14
+(ii) may be found. 
+15
+(c) ENFORCEMENT BY THE DEPARTMENT OF JUS-
+16
+TICE.— 
+17
+(1) IN GENERAL.—The Attorney General may 
+18
+bring a civil action to enforce section 6(a), (b), (c), 
+19
+(e), (f), or (i) in an appropriate district court of the 
+20
+United States. 
+21
+(2) COORDINATION WITH THE COMMISSION.— 
+22
+The Attorney General shall, when reasonable and 
+23
+appropriate, consult and coordinate with the Com-
+24
+23:49 Jul 07, 2021
+H3611
+38 
+•HR 3611 IH
+mission on a civil action brought under paragraph 
+1
+(1). 
+2
+(3) RELIEF.—In any civil action brought under 
+3
+paragraph (1), the court may impose injunctive re-
+4
+lief, declaratory relief, damages, civil penalties, res-
+5
+titution, and any other relief the court deems appro-
+6
+priate. 
+7
+(d) ENFORCEMENT BY INDIVIDUALS.— 
+8
+(1) IN
+GENERAL.—Any individual alleging a 
+9
+violation of section 6(a), (b), or (c), or a regulation 
+10
+promulgated thereunder, may bring a civil action in 
+11
+any court of competent jurisdiction, State or Fed-
+12
+eral. 
+13
+(2) RELIEF.—In a civil action brought under 
+14
+paragraph (1) in which the plaintiff prevails, the 
+15
+court may award— 
+16
+(A) an amount equal to $2,500 or actual 
+17
+damages, whichever is greater; 
+18
+(B) punitive damages; 
+19
+(C) reasonable attorney’s fees and litiga-
+20
+tion costs; and 
+21
+(D) any other relief, including injunctive or 
+22
+declaratory relief, that the court determines ap-
+23
+propriate. 
+24
+Æ 
+23:49 Jul 07, 2021
+H3611

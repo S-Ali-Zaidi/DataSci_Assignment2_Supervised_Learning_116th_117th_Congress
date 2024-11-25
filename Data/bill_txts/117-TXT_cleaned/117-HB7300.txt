@@ -1,0 +1,929 @@
+A BILL 
+To prohibit the delivery of opioids by means of the dark 
+web, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Dark Web Interdiction 
+4
+Act of 2022’’. 
+5
+SEC. 2. FINDINGS AND SENSE OF CONGRESS. 
+6
+(a) FINDINGS.—Congress finds the following: 
+7
+05:27 Apr 02, 2022
+H7300
+2 
+•HR 7300 IH
+(1) The dark web is made up of websites and 
+1
+other network services that leverage overlay net-
+2
+works providing anonymity. These overlay networks 
+3
+use the internet but require specific software and 
+4
+configurations to access. The overlay networks use 
+5
+multiple encrypted traffic relays for which an indi-
+6
+vidual relay computer knows its source of informa-
+7
+tion and where the individual computer is sending 
+8
+the information but never knows both the original 
+9
+source and ultimate destination of the traffic simul-
+10
+taneously. This anonymity has provided criminals 
+11
+with the ability to host illicit material in a way that 
+12
+circumvents the ability of law enforcement agencies 
+13
+to serve legal process to remove or effectively inves-
+14
+tigate websites offering illegal content or goods for 
+15
+purchase or sharing. 
+16
+(2) Dark web marketplaces include e-commerce 
+17
+websites based on the dark web on which individuals 
+18
+use virtual currencies to engage in transactions in-
+19
+volving drugs, weapons, malware, counterfeit cur-
+20
+rency, stolen credit cards, personal identifying infor-
+21
+mation, forged documents, unlicensed pharma-
+22
+ceuticals, and other illicit goods. 
+23
+05:27 Apr 02, 2022
+H7300
+3 
+•HR 7300 IH
+(3) Due to the anonymity provided by the dark 
+1
+web, illicit activities can be hosted from anywhere in 
+2
+the world without accountability to— 
+3
+(A) the Federal Government; 
+4
+(B) Federal laws; or 
+5
+(C) any other government or system of 
+6
+laws. 
+7
+(4) The use of the dark web to distribute illegal 
+8
+drugs has contributed and continues to contribute to 
+9
+the substance abuse crisis that is devastating com-
+10
+munities across the United States. This devastation 
+11
+is due in large part to the fact that the dark web 
+12
+has made illicit goods obtainable anonymously. 
+13
+(5) Law enforcement agencies at every level of 
+14
+government continue to investigate drug trafficking 
+15
+and the sale of illegal goods and services through the 
+16
+dark web that occurs as a result of interactions on 
+17
+the dark web, both within the United States and at 
+18
+the international border of the United States, but 
+19
+the increased anonymity the internet provides has 
+20
+made it more difficult to identify and prosecute the 
+21
+individuals and organizations who— 
+22
+(A) 
+administer 
+or 
+otherwise 
+operate 
+23
+websites on the dark web that facilitate the dis-
+24
+tribution of illegal drugs, goods, or services; or 
+25
+05:27 Apr 02, 2022
+H7300
+4 
+•HR 7300 IH
+(B) buy and sell illegal drugs, goods, or 
+1
+services through illicit marketplaces hosted on 
+2
+the dark web. 
+3
+(6) Despite difficulties in identifying and locat-
+4
+ing individuals and organizations who engage in 
+5
+drug trafficking on the dark web, law enforcement 
+6
+agencies have been effective in investigating and 
+7
+prosecuting the distribution of illegal drugs through 
+8
+illicit marketplaces on the dark web, as evidenced by 
+9
+Operation DisrupTor, which— 
+10
+(A) was announced in September 2020; 
+11
+(B) resulted in— 
+12
+(i) 179 arrests worldwide, including 
+13
+121 arrests in the United States; 
+14
+(ii) the seizure of approximately 500 
+15
+kilograms of drugs worldwide, including 
+16
+274 kilograms of drugs in the United 
+17
+States; and 
+18
+(iii) 
+the 
+seizure 
+of 
+more 
+than 
+19
+$6,500,000 worth of virtual currencies and 
+20
+cash; and 
+21
+(C) is an example of one of many cases 
+22
+conducted jointly by— 
+23
+(i) the Federal Bureau of Investiga-
+24
+tion; 
+25
+17:31 Apr 02, 2022
+H7300
+5 
+•HR 7300 IH
+(ii) the Drug Enforcement Adminis-
+1
+tration; 
+2
+(iii) Immigration and Customs En-
+3
+forcement; 
+4
+(iv) Homeland Security Investigations; 
+5
+(v) United States Customs and Bor-
+6
+der Protection; 
+7
+(vi) the United States Postal Inspec-
+8
+tion Service; 
+9
+(vii) the Financial Crimes Enforce-
+10
+ment Network; 
+11
+(viii) the Bureau of Alcohol, Tobacco, 
+12
+Firearms and Explosives; 
+13
+(ix) the Naval Criminal Investigative 
+14
+Service; 
+15
+(x) the Department of Justice; 
+16
+(xi) the Department of Defense; and 
+17
+(xii) additional local, State, and inter-
+18
+national law enforcement partners. 
+19
+(7) Although law enforcement agencies have 
+20
+succeeded in investigating the distribution and sale 
+21
+of illegal drugs, goods, and services that occurs as 
+22
+a result of interactions on the dark web, investiga-
+23
+tive and prosecutorial collaboration, innovation, and 
+24
+advancement are critical to— 
+25
+17:31 Apr 02, 2022
+H7300
+6 
+•HR 7300 IH
+(A) increasing the capacity to combat the 
+1
+threat posed by the dark web and the illicit 
+2
+marketplaces hosted on the dark web; and 
+3
+(B) enhancing collaboration and coordina-
+4
+tion among Federal, State, Tribal, local, inter-
+5
+national and other law enforcement partners, as 
+6
+appropriate. 
+7
+(b) SENSE OF CONGRESS.—It is the sense of Con-
+8
+gress that— 
+9
+(1) the dark web and illicit marketplaces hosted 
+10
+on the dark web facilitate the distribution of illegal 
+11
+drugs and pose a unique threat to the public health 
+12
+and national security in the United States; and 
+13
+(2) Congress should— 
+14
+(A) support law enforcement agencies and 
+15
+prosecutors at the Federal, State, Tribal, local, 
+16
+and international levels in their efforts to inves-
+17
+tigate and prosecute the distribution of illegal 
+18
+drugs, goods, and services through the dark 
+19
+web; and 
+20
+(B) increase the investigative and prosecu-
+21
+torial tools available to law enforcement agen-
+22
+cies and prosecutors to address the distribution 
+23
+of illegal drugs, goods, and services through the 
+24
+dark web. 
+25
+05:27 Apr 02, 2022
+H7300
+7 
+•HR 7300 IH
+SEC. 3. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) DARK WEB.—The term ‘‘dark web’’ has the 
+3
+meaning given the term in subsection (i) of section 
+4
+401 of the Controlled Substances Act (21 U.S.C. 
+5
+841), as added by section 4 of this Act. 
+6
+(2) DIRECTOR.—The term ‘‘Director’’ means 
+7
+the Director of the task force. 
+8
+(3) ILLICIT MARKETPLACE.—The term ‘‘illicit 
+9
+marketplace’’ means a website on the dark web on 
+10
+which individuals can use virtual currency to engage 
+11
+in transactions involving drugs, weapons, malware, 
+12
+counterfeit currency, stolen credit cards, personal 
+13
+identifying information, forged documents, or other 
+14
+illicit goods. 
+15
+(4) INDIAN TRIBE.—The term ‘‘Indian Tribe’’ 
+16
+has the meaning given the term ‘‘Indian tribe’’ in 
+17
+section 4 of the Indian Self-Determination and Edu-
+18
+cation Assistance Act (25 U.S.C. 5304). 
+19
+(5) OPIOID.—The term ‘‘opioid’’ has the mean-
+20
+ing given the term in section 102 of the Controlled 
+21
+Substances Act (21 U.S.C. 802). 
+22
+(6) TASK
+FORCE.—The term ‘‘task force’’ 
+23
+means the Joint Criminal Opioid and Darknet En-
+24
+forcement Task Force established under section 
+25
+5(a)(1). 
+26
+05:27 Apr 02, 2022
+H7300
+8 
+•HR 7300 IH
+SEC. 4. OFFENSES INVOLVING THE DARK WEB. 
+1
+Section 401 of the Controlled Substances Act (21 
+2
+U.S.C. 841) is amended by adding at the end the fol-
+3
+lowing: 
+4
+‘‘(i) OFFENSES INVOLVING DISPENSING
+OF CON-
+5
+TROLLED SUBSTANCES BY MEANS OF THE DARK WEB.— 
+6
+‘‘(1) DEFINITION OF DARK WEB.—In this sub-
+7
+section, the term ‘dark web’ means a portion of the 
+8
+internet in which there are hidden sites and services 
+9
+that— 
+10
+‘‘(A) are not indexed by an internet search 
+11
+engine; and 
+12
+‘‘(B) are only accessible to users of specific 
+13
+devices, software, routing and anonymizing 
+14
+services, authorizations, or configurations that 
+15
+conceal the identities and locations of users. 
+16
+‘‘(2) OFFENSE.—It shall be unlawful for any 
+17
+person to knowingly or intentionally— 
+18
+‘‘(A) deliver, distribute, or dispense a con-
+19
+trolled substance by means of the dark web, ex-
+20
+cept as authorized by this title; or 
+21
+‘‘(B) aid or abet (as such terms are used 
+22
+in section 2, title 18, United States Code) any 
+23
+activity described in subparagraph (A) that is 
+24
+not authorized by this title. 
+25
+05:27 Apr 02, 2022
+H7300
+9 
+•HR 7300 IH
+‘‘(3) PENALTY.—Pursuant to its authority 
+1
+under section 994 of title 28, United States Code, 
+2
+the United States Sentencing Commission shall 
+3
+amend the Federal sentencing guidelines and policy 
+4
+statements to provide for a 2-level increase above the 
+5
+sentence otherwise applicable for a violation of para-
+6
+graph (2).’’. 
+7
+SEC. 5. JOINT CRIMINAL OPIOID AND DARKNET ENFORCE-
+8
+MENT TASK FORCE. 
+9
+(a) ESTABLISHMENT.— 
+10
+(1) IN GENERAL.—There is established in the 
+11
+Federal Bureau of Investigation an interagency pro-
+12
+gram that shall be known as the Joint Criminal 
+13
+Opioid and Darknet Enforcement Task Force. 
+14
+(2) DIRECTOR.—The task force shall be headed 
+15
+by a Director, who shall be appointed by the Presi-
+16
+dent, by and with the advice and consent of the Sen-
+17
+ate. 
+18
+(b) PURPOSE.—The purpose of the task force shall 
+19
+be to detect, disrupt, and dismantle illicit marketplaces. 
+20
+(c) COMPONENTS.— 
+21
+(1) REPRESENTATIVES.—The task force shall 
+22
+include representatives from— 
+23
+(A) the Federal Bureau of Investigation; 
+24
+(B) the Drug Enforcement Administration; 
+25
+05:27 Apr 02, 2022
+H7300
+10 
+•HR 7300 IH
+(C) the United States Postal Inspection 
+1
+Service; 
+2
+(D) Immigration and Customs Enforce-
+3
+ment; 
+4
+(E) the Bureau of Alcohol, Tobacco, Fire-
+5
+arms and Explosives; 
+6
+(F) Homeland Security Investigations; 
+7
+(G) United States Customs and Border 
+8
+Protection; 
+9
+(H) the Department of Defense; 
+10
+(I) the Financial Crimes Enforcement Net-
+11
+work; and 
+12
+(J) the Department of Justice. 
+13
+(2) CONSULTATION.—The Director may consult 
+14
+with any State, Tribal, local, or international depart-
+15
+ment or agency the Director determines necessary to 
+16
+carry out the purpose of the task force described in 
+17
+subsection (b). 
+18
+(d) DUTIES AND FUNCTIONS.—To further the pur-
+19
+pose of the task force described in subsection (b), the task 
+20
+force shall— 
+21
+(1) engage in— 
+22
+(A) proactive and reactive investigations; 
+23
+and 
+24
+17:31 Apr 02, 2022
+H7300
+11 
+•HR 7300 IH
+(B) forensic and cyberforensic examina-
+1
+tions; 
+2
+(2) provide forensic and cyberforensic, tech-
+3
+nical, preventive, and investigative training and as-
+4
+sistance to— 
+5
+(A) prosecutors; and 
+6
+(B) law enforcement agencies; 
+7
+(3) develop best practices to assist Federal, 
+8
+State, Tribal, and local law enforcement agencies, 
+9
+prosecutors, and others, as appropriate, in the col-
+10
+lection of evidence in order to determine and inves-
+11
+tigate possible nexuses to the dark web and virtual 
+12
+assets, including— 
+13
+(A) evidence logging; 
+14
+(B) evidence maintenance; and 
+15
+(C) evidence sharing; 
+16
+(4) develop multijurisdictional and multiagency 
+17
+responses and partnerships with Federal, inter-
+18
+national, local, non-profit organizations, and other 
+19
+law enforcement agencies, as appropriate, by— 
+20
+(A) establishing procedures for information 
+21
+sharing; 
+22
+(B) establishing lists of recommended spe-
+23
+cialized equipment and tools to investigate and 
+24
+05:27 Apr 02, 2022
+H7300
+12 
+•HR 7300 IH
+prosecute the distribution of illicit drugs, goods, 
+1
+and services on the dark web; and 
+2
+(C) helping the agencies acquire the nec-
+3
+essary knowledge, personnel, and specialized 
+4
+equipment to investigate and prosecute the dis-
+5
+tribution of illegal drugs, goods, and services 
+6
+through the dark web; 
+7
+(5) create novel investigative approaches to— 
+8
+(A) target emerging technologies that fa-
+9
+cilitate the distribution of opioids through illicit 
+10
+marketplaces on the dark web; and 
+11
+(B) build forensic capacity and expertise to 
+12
+meet the challenges posed by the technologies; 
+13
+(6) enhance collaboration and coordination with 
+14
+international partners; and 
+15
+(7) engage in any other activities the Director 
+16
+determines necessary to carry out the duties of the 
+17
+task force. 
+18
+(e) GUIDANCE AND TRAINING.—The task force shall 
+19
+provide guidance and training to officers and employees 
+20
+of the Federal Bureau of Investigation and other Federal, 
+21
+international, and other law enforcement agencies, as ap-
+22
+propriate, relating to— 
+23
+(1) techniques and procedures to— 
+24
+05:27 Apr 02, 2022
+H7300
+13 
+•HR 7300 IH
+(A) recognize evidence or potential evi-
+1
+dence relating to the dark web; and 
+2
+(B) identify and recognize patterns and 
+3
+practices relating to the distribution of illegal 
+4
+drugs, services, and goods through the dark 
+5
+web; 
+6
+(2) the types of information that should be col-
+7
+lected and recorded in information technology sys-
+8
+tems used by the Federal Bureau of Investigation to 
+9
+help— 
+10
+(A) identify administrators and operators 
+11
+of illicit marketplaces; 
+12
+(B) identify vendors, buyers, and other in-
+13
+dividuals involved in the distribution of opioids 
+14
+through illicit marketplaces; and 
+15
+(C) detect, disrupt, and dismantle illicit 
+16
+marketplaces; 
+17
+(3) procedures for systematic and routine infor-
+18
+mation sharing within the Federal Bureau of Inves-
+19
+tigation and between Federal, State, Tribal, and 
+20
+local law enforcement agencies; and 
+21
+(4) any other training or guidance the Director 
+22
+determines necessary to carry out the duties of the 
+23
+task force. 
+24
+05:27 Apr 02, 2022
+H7300
+14 
+•HR 7300 IH
+(f) REPORT.—Not later than 1 year after the date 
+1
+of enactment of this Act, and annually thereafter, the Di-
+2
+rector of the Federal Bureau of Investigation, acting 
+3
+through the Director, shall submit to the Committee on 
+4
+the Judiciary of the Senate and the Committee on the Ju-
+5
+diciary of the House of Representatives a report, which 
+6
+shall include, for the previous year— 
+7
+(1) a summary of the activities and accomplish-
+8
+ments of the task force; 
+9
+(2) a description of the investigative methods 
+10
+used by the task force, including an assessment of 
+11
+the effectiveness of the methods; 
+12
+(3) information on investigation and prosecu-
+13
+tion performance measures for the task force, in-
+14
+cluding— 
+15
+(A) the number of investigations the task 
+16
+force conducted or assisted; 
+17
+(B) the number of illicit marketplaces de-
+18
+tected, disrupted, or dismantled as a result of 
+19
+an investigation conducted or assisted by the 
+20
+task force; 
+21
+(C) the number of arrests relating to an 
+22
+investigation conducted or assisted by the task 
+23
+force; and 
+24
+05:27 Apr 02, 2022
+H7300
+15 
+•HR 7300 IH
+(D) statistics that account for the disposi-
+1
+tion of investigations by the task force that did 
+2
+not result in an arrest or a prosecution; 
+3
+(4) an assessment of partnerships between the 
+4
+task force and other Federal, State, Tribal, and local 
+5
+law enforcement agencies, including the effectiveness 
+6
+of guidance and training provided by the task force 
+7
+to personnel of other Federal, State, Tribal, and law 
+8
+enforcement agencies; 
+9
+(5) an evaluation of the collaboration and co-
+10
+ordination between the task force and international 
+11
+partners; 
+12
+(6) recommendations for additional congres-
+13
+sional or legislative action, as appropriate, that 
+14
+would be useful or necessary to achieve the purpose 
+15
+of the task force described in subsection (b); 
+16
+(7) a summary of how transactions involving 
+17
+the distribution of illegal drugs, goods, and services 
+18
+through the dark web are financed; 
+19
+(8) a description of a plan to increase the ca-
+20
+pacity to investigate the distribution of illegal drugs, 
+21
+goods, and services through the dark web; and 
+22
+(9) recommendations for additional congres-
+23
+sional or legislative action, as appropriate, that 
+24
+would improve the efforts of Federal agencies to de-
+25
+05:27 Apr 02, 2022
+H7300
+16 
+•HR 7300 IH
+tect, disrupt, and dismantle illicit marketplaces, in-
+1
+cluding efforts to identify individuals and groups in-
+2
+volved in the distribution of illegal drugs, goods, and 
+3
+services through the dark web. 
+4
+(g) FUNDING.—The Director shall carry out this sec-
+5
+tion using amounts otherwise made available to the Attor-
+6
+ney General. 
+7
+(h) SUNSET.—This section shall cease to have force 
+8
+or effect on the date that is 5 years after the date of enact-
+9
+ment of this Act. 
+10
+SEC. 6. REPORT ON VIRTUAL CURRENCIES. 
+11
+Not later than 1 year after the date of enactment 
+12
+of this Act, the Attorney General, in consultation with the 
+13
+Secretary of the Treasury and the Secretary of Homeland 
+14
+Security, shall submit to Congress a report on the use of 
+15
+virtual currencies in the distribution of opioids through il-
+16
+licit marketplaces on the dark web, which shall include— 
+17
+(1) a summary of how virtual currencies are— 
+18
+(A) used to finance transactions involving 
+19
+the distribution of opioids through illicit mar-
+20
+ketplaces on the dark web; and 
+21
+(B) exchanged in the course of trans-
+22
+actions described in subparagraph (A), includ-
+23
+ing transactions involving— 
+24
+(i) peer-to-peer networks; 
+25
+05:27 Apr 02, 2022
+H7300
+17 
+•HR 7300 IH
+(ii) virtual currency; 
+1
+(iii) money transmitters; or 
+2
+(iv) other financial institutions; 
+3
+(2) the number of instances involving the dis-
+4
+tribution of opioids through illicit marketplaces on 
+5
+the dark web in which an individual involved used a 
+6
+virtual currency to finance the distribution; 
+7
+(3) the most common types of virtual currencies 
+8
+used by individuals involved in the distribution of 
+9
+opioids through illicit marketplaces on the dark web; 
+10
+(4) an assessment of the capacity to investigate 
+11
+the use of virtual currencies in the distribution of 
+12
+opioids through illicit marketplaces on the dark web, 
+13
+including— 
+14
+(A) efforts to assist financial institutions 
+15
+in detecting, identifying, and reporting sus-
+16
+picious activity and money laundering; 
+17
+(B) efforts to obtain financial records and 
+18
+other documents from virtual currency opera-
+19
+tors and exchanges; 
+20
+(C) training and guidance to Federal, 
+21
+State, Tribal, and local law enforcement agen-
+22
+cies and prosecutors; and 
+23
+(D) coordination and collaboration with 
+24
+international partners; and 
+25
+05:27 Apr 02, 2022
+H7300
+18 
+•HR 7300 IH
+(5) recommendations for additional congres-
+1
+sional or legislative action that would improve the ef-
+2
+forts of Federal agencies to detect, disrupt, and dis-
+3
+mantle illicit marketplaces on the dark web, includ-
+4
+ing efforts to identify individuals using virtual cur-
+5
+rencies in the distribution of opioids through illicit 
+6
+marketplaces on the dark web. 
+7
+SEC. 7. FIVE YEAR UPDATE. 
+8
+It is the sense of Congress that, not less frequently 
+9
+than once every 5 years, Congress should evaluate and, 
+10
+if necessary, update the definition of the term ‘‘dark web’’ 
+11
+in section 401(i) of the Controlled Substances Act (21 
+12
+U.S.C. 841(i)), as added by section 4 of this Act. 
+13
+SEC. 8. SEVERABILITY. 
+14
+If any portion of this Act, or the amendments made 
+15
+by this Act, or the application thereof to any person or 
+16
+circumstance is held invalid, the remainder of this Act and 
+17
+the amendments made by this Act, and the application of 
+18
+this Act or the amendments made by this Act to other 
+19
+persons not similarly situated or to other circumstances 
+20
+shall not be affected by the invalidation. 
+21
+Æ 
+05:27 Apr 02, 2022
+H7300

@@ -1,0 +1,420 @@
+A BILL 
+To require a report on Federal support to the cybersecurity 
+of commercial satellite systems, establish a commercial 
+satellite system cybersecurity clearinghouse in the Cyber-
+security and Infrastructure Security Agency, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Satellite Cybersecurity 
+4
+Act’’. 
+5
+15:39 May 02, 2022
+H7629
+2 
+•HR 7629 IH
+SEC. 2. REPORT ON COMMERCIAL SATELLITE CYBERSECU-
+1
+RITY; CISA COMMERCIAL SATELLITE SYSTEM 
+2
+CYBERSECURITY CLEARINGHOUSE. 
+3
+(a) STUDY.— 
+4
+(1) IN GENERAL.—The Comptroller General of 
+5
+the United States shall conduct a study on the ac-
+6
+tions the Federal Government has taken to support 
+7
+the cybersecurity of commercial satellite systems, in-
+8
+cluding as part of any action to address the cyberse-
+9
+curity of critical infrastructure sectors. 
+10
+(2) REPORT.—Not later than two years after 
+11
+the date of the enactment of this Act, the Comp-
+12
+troller General of the United States shall report to 
+13
+Congress on the study conducted under paragraph 
+14
+(1), which shall include information on— 
+15
+(A) the effectiveness of efforts of the Fed-
+16
+eral Government in improving the cybersecurity 
+17
+of commercial satellite systems; 
+18
+(B) the resources made available to the 
+19
+public, as of the date of the enactment of this 
+20
+Act, by Federal agencies to address cybersecu-
+21
+rity risks and cybersecurity threats to commer-
+22
+cial satellite systems; 
+23
+(C) the extent to which commercial sat-
+24
+ellite systems are reliant on or are relied on by 
+25
+critical infrastructure and an analysis of how 
+26
+15:39 May 02, 2022
+H7629
+3 
+•HR 7629 IH
+commercial satellite systems, and the cybersecu-
+1
+rity threats to such systems, are integrated into 
+2
+Federal and non-Federal critical infrastructure 
+3
+risk analyses and protection plans; 
+4
+(D) the extent to which Federal agencies 
+5
+are reliant on commercial satellite systems and 
+6
+how Federal agencies mitigate cybersecurity 
+7
+risks associated with those systems; and 
+8
+(E) the extent to which Federal agencies 
+9
+coordinate or duplicate authorities and take 
+10
+other actions focused on the cybersecurity of 
+11
+commercial satellite systems. 
+12
+(3) CONSULTATION.—In carrying out para-
+13
+graphs (1) and (2), the Comptroller General of the 
+14
+United States shall coordinate with appropriate Fed-
+15
+eral agencies, including— 
+16
+(A) the Department of Homeland Security; 
+17
+(B) the Department of Commerce; 
+18
+(C) the Department of Defense; 
+19
+(D) the Department of Transportation; 
+20
+(E) the Federal Communications Commis-
+21
+sion; 
+22
+(F) the National Aeronautics and Space 
+23
+Administration; and 
+24
+15:39 May 02, 2022
+H7629
+4 
+•HR 7629 IH
+(G) the National Executive Committee for 
+1
+Space-Based Positioning, Navigation, and Tim-
+2
+ing. 
+3
+(4) BRIEFING.—Not later than one year after 
+4
+the date of the enactment of this Act, the Comp-
+5
+troller General of the United States shall provide a 
+6
+briefing to Congress relating to carrying out para-
+7
+graphs (1) and (2). 
+8
+(5) CLASSIFICATION.—The report under para-
+9
+graph (2) shall be unclassified but may include a 
+10
+classified annex. 
+11
+(b) CISA COMMERCIAL SATELLITE SYSTEM CYBER-
+12
+SECURITY CLEARINGHOUSE.— 
+13
+(1) ESTABLISHMENT.— 
+14
+(A) IN
+GENERAL.—Not later than 180 
+15
+days after the date of the enactment of this 
+16
+Act, the Director shall establish a commercial 
+17
+satellite system cybersecurity clearinghouse. 
+18
+(B) REQUIREMENTS.—The clearinghouse 
+19
+shall— 
+20
+(i) be publicly available online; 
+21
+(ii) contain current, relevant, and 
+22
+publicly available commercial satellite sys-
+23
+tem cybersecurity resources, including the 
+24
+recommendations consolidated under para-
+25
+15:39 May 02, 2022
+H7629
+5 
+•HR 7629 IH
+graph (2), and any other appropriate ma-
+1
+terials for reference by entities that de-
+2
+velop commercial satellite systems; and 
+3
+(iii) 
+include 
+materials 
+specifically 
+4
+aimed at assisting small business concerns 
+5
+with the secure development, operation, 
+6
+and maintenance of commercial satellite 
+7
+systems. 
+8
+(C) EXISTING PLATFORM OR WEBSITE.— 
+9
+The Director may establish the clearinghouse 
+10
+on an online platform or a website that is in ex-
+11
+istence as of the date of the enactment of this 
+12
+Act. 
+13
+(2) CONSOLIDATION
+OF
+COMMERCIAL
+SAT-
+14
+ELLITE
+SYSTEM
+CYBERSECURITY
+RECOMMENDA-
+15
+TIONS.— 
+16
+(A) IN GENERAL.—The Director shall con-
+17
+solidate voluntary cybersecurity recommenda-
+18
+tions designed to assist in the development, 
+19
+maintenance, and operation of commercial sat-
+20
+ellite systems. 
+21
+(B) REQUIREMENTS.—The recommenda-
+22
+tions consolidated under subparagraph (A) shall 
+23
+include, to the greatest extent practicable, ma-
+24
+terials addressing the following: 
+25
+15:39 May 02, 2022
+H7629
+6 
+•HR 7629 IH
+(i) Risk-based, cybersecurity-informed 
+1
+engineering, including continuous moni-
+2
+toring and resiliency. 
+3
+(ii) Planning for retention or recovery 
+4
+of positive control of commercial satellite 
+5
+systems in the event of a cybersecurity in-
+6
+cident. 
+7
+(iii) Protection against unauthorized 
+8
+access to vital commercial satellite system 
+9
+functions. 
+10
+(iv) Physical protection measures de-
+11
+signed to reduce the vulnerabilities of a 
+12
+commercial satellite system’s command, 
+13
+control, or telemetry receiver systems. 
+14
+(v) Protection against jamming or 
+15
+spoofing. 
+16
+(vi) Security against threats through-
+17
+out a commercial satellite system’s mission 
+18
+lifetime. 
+19
+(vii) Management of supply chain 
+20
+risks that affect the cybersecurity of com-
+21
+mercial satellite systems. 
+22
+(viii) As appropriate, and as applica-
+23
+ble pursuant to the requirement under 
+24
+paragraph (1)(b)(ii) (relating to the clear-
+25
+15:39 May 02, 2022
+H7629
+7 
+•HR 7629 IH
+inghouse containing current, relevant, and 
+1
+publicly available commercial satellite sys-
+2
+tem cybersecurity resources), the findings 
+3
+and recommendations from the study con-
+4
+ducted by the Comptroller General of the 
+5
+United States under subsection (a)(1). 
+6
+(ix) Any other recommendations to 
+7
+ensure the confidentiality, availability, and 
+8
+integrity of data residing on or in transit 
+9
+through commercial satellite systems. 
+10
+(3) IMPLEMENTATION.—In implementing this 
+11
+subsection, the Director shall— 
+12
+(A) to the extent practicable, carry out 
+13
+such implementation as a public-private part-
+14
+nership; 
+15
+(B) coordinate with the heads of appro-
+16
+priate Federal agencies with expertise and expe-
+17
+rience in satellite operations, including the enti-
+18
+ties described in subsection (a)(3); and 
+19
+(C) consult with non-Federal entities devel-
+20
+oping commercial satellite systems or otherwise 
+21
+supporting the cybersecurity of commercial sat-
+22
+ellite systems, including private, consensus or-
+23
+ganizations that develop relevant standards. 
+24
+(c) DEFINITIONS.—In this section: 
+25
+15:39 May 02, 2022
+H7629
+8 
+•HR 7629 IH
+(1) CLEARINGHOUSE.—The term ‘‘clearing-
+1
+house’’ means the commercial satellite system cyber-
+2
+security clearinghouse required to be developed and 
+3
+maintained under subsection (b)(1). 
+4
+(2) COMMERCIAL
+SATELLITE
+SYSTEM.—The 
+5
+term ‘‘commercial satellite system’’ means an earth 
+6
+satellite owned and operated by a non-Federal enti-
+7
+ty. 
+8
+(3) CRITICAL
+INFRASTRUCTURE.—The term 
+9
+‘‘critical infrastructure’’ has the meaning given such 
+10
+term in section 1016(e) of Public Law 107–56 (42 
+11
+U.S.C. 5195c(e)). 
+12
+(4) CYBERSECURITY RISK.—The term ‘‘cyberse-
+13
+curity risk’’ has the meaning given such term in sec-
+14
+tion 2209 of the Homeland Security Act of 2002 (6 
+15
+U.S.C. 659). 
+16
+(5) CYBERSECURITY THREAT.—The term ‘‘cy-
+17
+bersecurity threat’’ has the meaning given such term 
+18
+in section 102 of the Cybersecurity Information 
+19
+Sharing Act of 2015 (6 U.S.C. 1501). 
+20
+(6) DIRECTOR.—The term ‘‘Director’’ means 
+21
+the Director of the Cybersecurity and Infrastructure 
+22
+Security Agency. 
+23
+(7) SMALL
+BUSINESS
+CONCERN.—The term 
+24
+‘‘small business concern’’ has the meaning given the 
+25
+15:39 May 02, 2022
+H7629
+9 
+•HR 7629 IH
+term in section 3 of the Small Business Act (15 
+1
+U.S.C. 632). 
+2
+Æ 
+15:39 May 02, 2022
+H7629

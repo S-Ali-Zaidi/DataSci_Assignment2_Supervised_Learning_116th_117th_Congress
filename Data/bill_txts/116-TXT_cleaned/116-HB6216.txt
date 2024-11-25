@@ -1,0 +1,2958 @@
+A BILL 
+To establish the National Artificial Intelligence Initiative, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘National Artificial Intelligence Initiative Act of 2020’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Findings. 
+Sec. 3. Definitions. 
+TITLE I—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE 
+23:31 Mar 25, 2020
+H6216
+2 
+•HR 6216 IH
+Sec. 101. National Artificial Intelligence Initiative. 
+Sec. 102. National Artificial Intelligence Initiative Office. 
+Sec. 103. Coordination by Interagency Committee. 
+Sec. 104. National Artificial Intelligence Advisory Committee. 
+Sec. 105. National Academies artificial intelligence impact study on workforce. 
+Sec. 106. GAO report on computational needs. 
+TITLE II—NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH 
+INSTITUTES 
+Sec. 201. National Artificial Intelligence Research Institutes. 
+TITLE III—NATIONAL INSTITUTE OF STANDARDS AND 
+TECHNOLOGY ARTIFICIAL INTELLIGENCE ACTIVITIES 
+Sec. 301. National Institute of Standards and Technology activities. 
+TITLE IV—NATIONAL SCIENCE FOUNDATION ARTIFICIAL 
+INTELLIGENCE ACTIVITIES 
+Sec. 401. Artificial intelligence research and education. 
+TITLE V—DEPARTMENT OF ENERGY ARTIFICIAL INTELLIGENCE 
+RESEARCH PROGRAM 
+Sec. 501. Department of Energy Artificial Intelligence Research Program. 
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) Artificial intelligence is a tool that has the 
+3
+potential to change and possibly transform every 
+4
+sector of the United States economy and society. 
+5
+(2) The Federal Government should continue to 
+6
+play an important role advancing research, develop-
+7
+ment, standards, and education activities in artificial 
+8
+intelligence through coordination and collaboration 
+9
+between government, academia, and the private sec-
+10
+tor to leverage the intellectual, physical, and digital 
+11
+resources of each stakeholder. 
+12
+(3) The Federal Government lacks clear under-
+13
+standing of the capabilities of artificial intelligence 
+14
+23:31 Mar 25, 2020
+H6216
+3 
+•HR 6216 IH
+and its potential to affect various social and eco-
+1
+nomic sectors, including ethical concerns, national 
+2
+security implications, and workforce impacts. 
+3
+(4) Researchers from academia, Federal labora-
+4
+tories, and much of the private sector have limited 
+5
+access to many high-quality datasets, computing re-
+6
+sources, or real-world testing environments to design 
+7
+and deploy safe and trustworthy artificial intel-
+8
+ligence systems. 
+9
+(5) There is a lack of standards and 
+10
+benchmarking for artificial intelligence systems that 
+11
+academia and the public and private sectors can use 
+12
+to evaluate the performance of these systems before 
+13
+and after deployment. 
+14
+(6) Artificial intelligence is increasingly becom-
+15
+ing a highly interdisciplinary field with expertise re-
+16
+quired from a diverse range of scientific and other 
+17
+scholarly disciplines that traditionally work inde-
+18
+pendently and continue to face cultural and institu-
+19
+tional barriers to large scale collaboration. 
+20
+(7) Current Federal investments and funding 
+21
+mechanisms are largely insufficient to incentivize 
+22
+and support the large-scale interdisciplinary and 
+23
+public-private collaborations that will be required to 
+24
+23:31 Mar 25, 2020
+H6216
+4 
+•HR 6216 IH
+advance trustworthy artificial intelligence systems in 
+1
+the United States. 
+2
+(8) The United States education pipeline for ar-
+3
+tificial intelligence fields faces significant challenges. 
+4
+Not only does the artificial intelligence research field 
+5
+lack the gender and racial diversity of the American 
+6
+population as a whole, but it is failing to both retain 
+7
+researchers and adequately support educators to 
+8
+meet the demands of the next generation of students 
+9
+studying artificial intelligence. 
+10
+(9) In order to help drive forward advances in 
+11
+trustworthy artificial intelligence across all sectors 
+12
+and to the benefit of all Americans, the Federal 
+13
+Government must provide sufficient resources and 
+14
+use its convening power to facilitate the growth of 
+15
+artificial intelligence human capital, research, and 
+16
+innovation capacity in academia and other nonprofit 
+17
+research organizations, companies of all sizes and 
+18
+across all sectors, and within the Federal Govern-
+19
+ment. 
+20
+SEC. 3. DEFINITIONS. 
+21
+In this Act: 
+22
+(1) ADVISORY COMMITTEE.—The term ‘‘Advi-
+23
+sory Committee’’ means the National Artificial Intel-
+24
+23:31 Mar 25, 2020
+H6216
+5 
+•HR 6216 IH
+ligence Advisory Committee established under sec-
+1
+tion 104(a). 
+2
+(2) AGENCY HEAD.—The term ‘‘agency head’’ 
+3
+means the head of any Executive agency (as defined 
+4
+in section 105 of title 5, United States Code) other 
+5
+than the Department of Defense. 
+6
+(3) ARTIFICIAL INTELLIGENCE.—The term ‘‘ar-
+7
+tificial intelligence’’ means a machine-based system 
+8
+that can, for a given set of human-defined objectives, 
+9
+make predictions, recommendations or decisions in-
+10
+fluencing real or virtual environments. Artificial in-
+11
+telligence systems use machine and human-based in-
+12
+puts to— 
+13
+(A) perceive real and virtual environments; 
+14
+(B) abstract such perceptions into models 
+15
+through analysis in an automated manner; and 
+16
+(C) use model inference to formulate op-
+17
+tions for information or action. 
+18
+(4) INITIATIVE.—The term ‘‘Initiative’’ means 
+19
+the National Artificial Intelligence Initiative estab-
+20
+lished under section 101(a). 
+21
+(5) INITIATIVE OFFICE.—The term ‘‘Initiative 
+22
+Office’’ means the National Artificial Intelligence 
+23
+Initiative Office established under section 102(a). 
+24
+23:31 Mar 25, 2020
+H6216
+6 
+•HR 6216 IH
+(6) INSTITUTE.—The term ‘‘Institute’’ means 
+1
+an Artificial Intelligence Research Institute de-
+2
+scribed in section 201(b)(1). 
+3
+(7) 
+INTERAGENCY
+COMMITTEE.—The 
+term 
+4
+‘‘Interagency Committee’’ means the interagency 
+5
+committee established under section 103(a). 
+6
+(8) K-12 EDUCATION.—The term ‘‘K-12 edu-
+7
+cation’’ means elementary school and secondary edu-
+8
+cation, as such terms are defined in section 8101 of 
+9
+the Elementary and Secondary Education Act of 
+10
+1965 (20 U.S.C. 7801). 
+11
+(9) MACHINE LEARNING.—The term ‘‘machine 
+12
+learning’’ means an application of artificial intel-
+13
+ligence that is characterized by providing systems 
+14
+the ability to automatically learn and improve on the 
+15
+basis of data or experience, without being explicitly 
+16
+programmed. 
+17
+TITLE I—NATIONAL ARTIFICIAL 
+18
+INTELLIGENCE INITIATIVE 
+19
+SEC. 101. NATIONAL ARTIFICIAL INTELLIGENCE INITIA-
+20
+TIVE. 
+21
+(a) ESTABLISHMENT; PURPOSES.—The President 
+22
+shall establish and implement an initiative to be known 
+23
+as the ‘‘National Artificial Intelligence Initiative’’. The 
+24
+purposes of the Initiative shall be to— 
+25
+23:31 Mar 25, 2020
+H6216
+7 
+•HR 6216 IH
+(1) ensure continued United States leadership 
+1
+in artificial intelligence research and development; 
+2
+(2) lead the world in the development and use 
+3
+of trustworthy artificial intelligence systems in the 
+4
+public and private sectors; 
+5
+(3) maximize the benefits of artificial intel-
+6
+ligence systems for all American people; and 
+7
+(4) prepare the present and future United 
+8
+States workforce for the integration of artificial in-
+9
+telligence systems across all sectors of the economy 
+10
+and society. 
+11
+(b) INITIATIVE ACTIVITIES.—In carrying out the Ini-
+12
+tiative, the President, acting through the Initiative Office, 
+13
+the Interagency Committee, and agency heads as the 
+14
+President considers appropriate, shall carry out activities 
+15
+that include the following: 
+16
+(1) Sustained, consistent, and coordinated sup-
+17
+port for artificial intelligence research and develop-
+18
+ment 
+through 
+grants, 
+cooperative 
+agreements, 
+19
+testbeds, and access to data and computing re-
+20
+sources. 
+21
+(2) Support for the development of voluntary 
+22
+standards, best practices, and benchmarks for the 
+23
+development and use of trustworthy artificial intel-
+24
+ligence systems. 
+25
+23:31 Mar 25, 2020
+H6216
+8 
+•HR 6216 IH
+(3) Support for educational programs at all lev-
+1
+els, in both formal and informal learning environ-
+2
+ments, to prepare the American workforce and the 
+3
+general public to be able to use and interact with ar-
+4
+tificial intelligence systems, as well as adapt to the 
+5
+potentially transformative impact of artificial intel-
+6
+ligence on society and the economy. 
+7
+(4) Support for interdisciplinary research, edu-
+8
+cation, and training programs for students and re-
+9
+searchers that promote learning in the methods and 
+10
+systems used in artificial intelligence and foster 
+11
+interdisciplinary 
+perspectives 
+and 
+collaborations 
+12
+among subject matter experts in relevant fields, in-
+13
+cluding computer science, mathematics, statistics, 
+14
+engineering, social sciences, psychology, behavioral 
+15
+science, ethics, security, legal scholarship, and other 
+16
+disciplines that will be necessary to advance artificial 
+17
+intelligence research and development responsibly. 
+18
+(5) Support for partnerships to leverage knowl-
+19
+edge, computing resources, access to open datasets, 
+20
+and other resources from industry, government, non-
+21
+profit organizations, Federal laboratories, State pro-
+22
+grams, and institutions of higher education to ad-
+23
+vance activities under the Initiative. 
+24
+23:31 Mar 25, 2020
+H6216
+9 
+•HR 6216 IH
+(6) Interagency planning and coordination of 
+1
+Federal artificial intelligence research, development, 
+2
+demonstration, standards engagement, and other ac-
+3
+tivities under the Initiative. 
+4
+(7) Outreach to diverse stakeholders, including 
+5
+citizen groups and industry, to ensure public input 
+6
+is taken into account in the activities of the Initia-
+7
+tive. 
+8
+(8) Leveraging existing Federal investments to 
+9
+advance objectives of the Initiative. 
+10
+(9) Support for a network of interdisciplinary 
+11
+artificial intelligence research institutes, as described 
+12
+in section 201(b)(7)(B). 
+13
+(10) Support opportunities for international co-
+14
+operation with strategic allies, as appropriate, on the 
+15
+research and development, assessment, and re-
+16
+sources for trustworthy artificial intelligence systems 
+17
+and the development of voluntary consensus stand-
+18
+ards for those systems. 
+19
+SEC. 102. NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE 
+20
+OFFICE. 
+21
+(a) IN GENERAL.—The Director of the Office of 
+22
+Science and Technology Policy shall establish or designate, 
+23
+and appoint a director of, an office to be known as the 
+24
+‘‘National Artificial Intelligence Initiative Office’’ to carry 
+25
+23:31 Mar 25, 2020
+H6216
+10 
+•HR 6216 IH
+out the responsibilities described in subsection (b) with re-
+1
+spect to the Initiative. The Initiative Office shall have suf-
+2
+ficient staff to carry out such responsibilities, including 
+3
+staff detailed from the Federal departments and agencies 
+4
+described in section 103(c). 
+5
+(b) RESPONSIBILITIES.—The Director of the Initia-
+6
+tive Office shall— 
+7
+(1) provide technical and administrative support 
+8
+to the Interagency Committee and the Advisory 
+9
+Committee; 
+10
+(2) serve as the point of contact on Federal ar-
+11
+tificial intelligence activities for Federal departments 
+12
+and agencies, industry, academia, nonprofit organi-
+13
+zations, professional societies, State governments, 
+14
+and such other persons as the Initiative Office con-
+15
+siders appropriate to exchange technical and pro-
+16
+grammatic information; 
+17
+(3) conduct regular public outreach to diverse 
+18
+stakeholders, including through the convening of 
+19
+conferences and educational events, the publication 
+20
+of information about significant Initiative activities 
+21
+on a publicly available website, and the dissemina-
+22
+tion of findings and recommendations of the Advi-
+23
+sory Committee, as appropriate; and 
+24
+23:31 Mar 25, 2020
+H6216
+11 
+•HR 6216 IH
+(4) promote access to and early adoption of the 
+1
+technologies, innovations, lessons learned, and exper-
+2
+tise derived from Initiative activities to agency mis-
+3
+sions and systems across the Federal Government, 
+4
+and to industry, including startup companies. 
+5
+(c) FUNDING ESTIMATE.—The Director of the Office 
+6
+of Science and Technology Policy shall develop an estimate 
+7
+of the funds necessary to carry out the activities of the 
+8
+Initiative Coordination Office, including an estimate of 
+9
+how much each participating Federal department and 
+10
+agency described in section 103(c) will contribute to such 
+11
+funds, and submit such estimate to Congress not later 
+12
+than 90 days after the enactment of this Act. The Director 
+13
+shall update this estimate each year based on participating 
+14
+agency investments in artificial intelligence. 
+15
+SEC. 103. COORDINATION BY INTERAGENCY COMMITTEE. 
+16
+(a) INTERAGENCY COMMITTEE.—The Director of the 
+17
+Office of Science and Technology Policy, acting through 
+18
+the National Science and Technology Council, shall estab-
+19
+lish or designate an Interagency Committee to coordinate 
+20
+Federal programs and activities in support of the Initia-
+21
+tive. 
+22
+(b) CO-CHAIRS.—The Interagency Committee shall 
+23
+be co-chaired by the Director of the Office of Science and 
+24
+Technology Policy and, on an annual rotating basis, a rep-
+25
+23:31 Mar 25, 2020
+H6216
+12 
+•HR 6216 IH
+resentative from the National Institute of Standards and 
+1
+Technology, the National Science Foundation, or the De-
+2
+partment of Energy, as selected by the Director of the 
+3
+Office of Science and Technology Policy. 
+4
+(c) AGENCY PARTICIPATION.—The Committee shall 
+5
+include representatives from— 
+6
+(1) the National Institute of Standards and 
+7
+Technology; 
+8
+(2) the National Science Foundation; 
+9
+(3) the Department of Energy; 
+10
+(4) the National Aeronautics and Space Admin-
+11
+istration; 
+12
+(5) the Department of Defense; 
+13
+(6) the Defense Advanced Research Projects 
+14
+Agency; 
+15
+(7) the Department of Commerce; 
+16
+(8) the Office of the Director of National Intel-
+17
+ligence; 
+18
+(9) the Office of Management and Budget; 
+19
+(10) the Office of Science and Technology Pol-
+20
+icy; 
+21
+(11) the Department of Health and Human 
+22
+Services; 
+23
+(12) the Department of Education; 
+24
+(13) the Department of Labor; 
+25
+23:31 Mar 25, 2020
+H6216
+13 
+•HR 6216 IH
+(14) the Department of the Treasury; 
+1
+(15) the General Services Administration; 
+2
+(16) the Department of Transportation; 
+3
+(17) the Department of State; 
+4
+(18) the Department of Veterans Affairs; and 
+5
+(19) any other Federal agency as considered 
+6
+appropriate by the Director of the Office of Science 
+7
+and Technology Policy. 
+8
+(d) RESPONSIBILITIES.—The Interagency Committee 
+9
+shall— 
+10
+(1) provide for interagency coordination of Fed-
+11
+eral artificial intelligence research, development, and 
+12
+demonstration activities, development of voluntary 
+13
+consensus standards and guidelines for research, de-
+14
+velopment, testing, and adoption of ethically devel-
+15
+oped, safe, and trustworthy artificial intelligence sys-
+16
+tems, and education and training activities and pro-
+17
+grams of Federal departments and agencies under-
+18
+taken pursuant to the Initiative; 
+19
+(2) not later than 2 years after the date of the 
+20
+enactment of this Act, develop a strategic plan for 
+21
+artificial intelligence (to be updated not less than 
+22
+every 3 years) that— 
+23
+23:31 Mar 25, 2020
+H6216
+14 
+•HR 6216 IH
+(A) 
+establishes 
+goals, 
+priorities, 
+and 
+1
+metrics for guiding and evaluating the Initia-
+2
+tive’s activities; and 
+3
+(B) describes how the agencies carrying 
+4
+out the Initiative will— 
+5
+(i) determine and prioritize areas of 
+6
+artificial intelligence research, develop-
+7
+ment, and demonstration requiring Federal 
+8
+Government leadership and investment; 
+9
+(ii) support long-term funding for 
+10
+interdisciplinary artificial intelligence re-
+11
+search, development, demonstration, edu-
+12
+cation and public outreach activities; 
+13
+(iii) support research and other activi-
+14
+ties on ethical, legal, environmental, safety, 
+15
+security, and other appropriate societal 
+16
+issues related to artificial intelligence; 
+17
+(iv) provide or facilitate the avail-
+18
+ability of curated, standardized, secure, 
+19
+representative, and privacy-protected data 
+20
+sets for artificial intelligence research and 
+21
+development; 
+22
+(v) provide or facilitate the necessary 
+23
+computing, networking, and data facilities 
+24
+23:31 Mar 25, 2020
+H6216
+15 
+•HR 6216 IH
+for artificial intelligence research and de-
+1
+velopment; 
+2
+(vi) reduce barriers to transferring ar-
+3
+tificial intelligence systems from the lab-
+4
+oratory into application for the benefit of 
+5
+society and United States competitiveness; 
+6
+(vii) support and coordinate the net-
+7
+work of artificial intelligence research insti-
+8
+tutes described in section 201(b)(7)(B); 
+9
+and 
+10
+(viii) in consultation with the Council 
+11
+of Economic Advisers, measure and track 
+12
+the contributions of artificial intelligence to 
+13
+United States economic growth and other 
+14
+societal indicators; 
+15
+(3) propose an annually coordinated interagency 
+16
+budget for the Initiative to the Office of Manage-
+17
+ment and Budget that is intended to ensure that the 
+18
+balance of funding across the Initiative is sufficient 
+19
+to meet the goals and priorities established for the 
+20
+Initiative; and 
+21
+(4) in carrying out this section, take into con-
+22
+sideration the recommendations of the Advisory 
+23
+Committee, existing reports on related topics, and 
+24
+23:31 Mar 25, 2020
+H6216
+16 
+•HR 6216 IH
+the views of academic, State, industry, and other ap-
+1
+propriate groups. 
+2
+(e) ANNUAL REPORT.—For each fiscal year begin-
+3
+ning with fiscal year 2022, not later than 90 days after 
+4
+submission of the President’s annual budget request for 
+5
+such fiscal year, the Interagency Committee shall prepare 
+6
+and submit to the Committee on Science, Space, and 
+7
+Technology of the House of Representatives and the Com-
+8
+mittee on Commerce, Science, and Transportation of the 
+9
+Senate a report that includes— 
+10
+(1) a summarized budget in support of the Ini-
+11
+tiative for such fiscal year and the preceding fiscal 
+12
+year, including a disaggregation of spending for each 
+13
+Federal agency participating in the Initiative and for 
+14
+the development and acquisition of any research fa-
+15
+cilities and instrumentation; and 
+16
+(2) an assessment of how Federal agencies are 
+17
+implementing the plan described in subsection 
+18
+(d)(2), and a description of those efforts. 
+19
+SEC. 104. NATIONAL ARTIFICIAL INTELLIGENCE ADVISORY 
+20
+COMMITTEE. 
+21
+(a) IN GENERAL.—The Secretary of Energy shall, in 
+22
+consultation with the Director of the Office of Science and 
+23
+Technology Policy, establish an advisory committee to be 
+24
+23:31 Mar 25, 2020
+H6216
+17 
+•HR 6216 IH
+known as the ‘‘National Artificial Intelligence Advisory 
+1
+Committee’’. 
+2
+(b) QUALIFICATIONS.—The Advisory Committee 
+3
+shall consist of members, appointed by the Secretary of 
+4
+Energy, who are representing broad and interdisciplinary 
+5
+expertise and perspectives, including from academic insti-
+6
+tutions, companies across diverse sectors, nonprofit and 
+7
+civil society entities, and Federal laboratories, that are 
+8
+qualified to provide advice and information on science and 
+9
+technology research, development, ethics, standards, edu-
+10
+cation, technology transfer, commercial application, secu-
+11
+rity, and economic competitiveness related to artificial in-
+12
+telligence. 
+13
+(c) MEMBERSHIP CONSIDERATION.—In selecting the 
+14
+members of the Advisory Committee, the Secretary of En-
+15
+ergy may seek and give consideration to recommendations 
+16
+from the Congress, industry, nonprofit organizations, the 
+17
+scientific community (including the National Academy of 
+18
+Sciences, scientific professional societies, and academic in-
+19
+stitutions), the defense community, and other appropriate 
+20
+organizations. 
+21
+(d) DUTIES.—The Advisory Committee shall advise 
+22
+the President and the Initiative Office on matters related 
+23
+to the Initiative, including recommendations related to— 
+24
+23:31 Mar 25, 2020
+H6216
+18 
+•HR 6216 IH
+(1) the current state of United States competi-
+1
+tiveness and leadership in artificial intelligence, in-
+2
+cluding the scope and scale of United States invest-
+3
+ments in artificial intelligence research and develop-
+4
+ment in the international context; 
+5
+(2) the progress made in implementing the Ini-
+6
+tiative, including a review of the degree to which the 
+7
+Initiative has achieved the goals under the metrics 
+8
+established by the Interagency Committee under sec-
+9
+tion 103(d)(2); 
+10
+(3) the state of the science around artificial in-
+11
+telligence, including progress towards artificial gen-
+12
+eral intelligence; 
+13
+(4) the need to update the Initiative; 
+14
+(5) the balance of activities and funding across 
+15
+the Initiative; 
+16
+(6) whether the strategic plan developed or up-
+17
+dated by the Interagency Committee established 
+18
+under section 103(d)(2) is helping to maintain 
+19
+United States leadership in artificial intelligence; 
+20
+(7) the management, coordination, and activi-
+21
+ties of the Initiative; 
+22
+(8) whether ethical, legal, safety, security, and 
+23
+other appropriate societal issues are adequately ad-
+24
+dressed by the Initiative; and 
+25
+23:31 Mar 25, 2020
+H6216
+19 
+•HR 6216 IH
+(9) opportunities for international cooperation 
+1
+with strategic allies on artificial intelligence research 
+2
+activities and standards development. 
+3
+(e) REPORTS.—Not later than 1 year after the date 
+4
+of the enactment of this Act, and not less frequently than 
+5
+once every 3 years thereafter, the Advisory Committee 
+6
+shall submit to the President, the Committee on Science, 
+7
+Space, and Technology of the House of Representatives, 
+8
+and the Committee on Commerce, Science, and Transpor-
+9
+tation of the Senate, a report on the Advisory Committee’s 
+10
+findings and recommendations under subsection (d). 
+11
+(f) TRAVEL EXPENSES
+OF NON-FEDERAL MEM-
+12
+BERS.—Non-Federal members of the Advisory Committee, 
+13
+while attending meetings of the Advisory Committee or 
+14
+while otherwise serving at the request of the head of the 
+15
+Advisory Committee away from their homes or regular 
+16
+places of business, may be allowed travel expenses, includ-
+17
+ing per diem in lieu of subsistence, as authorized by sec-
+18
+tion 5703 of title 5, United States Code, for individuals 
+19
+in the Government serving without pay. Nothing in this 
+20
+subsection shall be construed to prohibit members of the 
+21
+Advisory Committee who are officers or employees of the 
+22
+United States from being allowed travel expenses, includ-
+23
+ing per diem in lieu of subsistence, in accordance with ex-
+24
+isting law. 
+25
+23:31 Mar 25, 2020
+H6216
+20 
+•HR 6216 IH
+(g) FACA EXEMPTION.—The Secretary of Energy 
+1
+shall charter the Advisory Committee in accordance with 
+2
+the Federal Advisory Committee Act (5 U.S.C. App.), ex-
+3
+cept that the Advisory Committee shall be exempt from 
+4
+section 14 of such Act. 
+5
+SEC. 
+105. 
+NATIONAL 
+ACADEMIES 
+ARTIFICIAL 
+INTEL-
+6
+LIGENCE IMPACT STUDY ON WORKFORCE. 
+7
+(a) IN GENERAL.—Not later than 90 days after the 
+8
+date of the enactment of this Act, the National Science 
+9
+Foundation shall enter into a contract with the National 
+10
+Research Council of the National Academies of Sciences, 
+11
+Engineering, and Medicine to conduct a study of the cur-
+12
+rent and future impact of artificial intelligence on the 
+13
+workforce of the United States across sectors. 
+14
+(b) CONTENTS.—The study shall address— 
+15
+(1) workforce impacts across sectors caused by 
+16
+the increased adoption of artificial intelligence, auto-
+17
+mation, and other related trends; 
+18
+(2) workforce needs and employment opportuni-
+19
+ties generated by the increased adoption of artificial 
+20
+intelligence across sectors; 
+21
+(3) research gaps and data needed to better un-
+22
+derstand and track both workforce impacts and 
+23
+workforce needs and opportunities generated by 
+24
+23:31 Mar 25, 2020
+H6216
+21 
+•HR 6216 IH
+adoption of artificial intelligence systems across sec-
+1
+tors; and 
+2
+(4) recommendations to address the challenges 
+3
+and opportunities described in paragraphs (1), (2), 
+4
+and (3). 
+5
+(c) STAKEHOLDERS.—In conducting the study, the 
+6
+National Academies of Sciences, Engineering, and Medi-
+7
+cine shall seek input from a wide range of stakeholders 
+8
+in the public and private sectors. 
+9
+(d) REPORT TO CONGRESS.—The contract entered 
+10
+into under subsection (a) shall require the National Acad-
+11
+emies of Sciences, Engineering, and Medicine, not later 
+12
+than 2 years after the date of the enactment of this Act, 
+13
+to— 
+14
+(1) submit to the Committee on Science, Space, 
+15
+and Technology of the House of Representatives and 
+16
+the Committee on Commerce, Science, and Trans-
+17
+portation of the Senate a report containing the find-
+18
+ings and recommendations of the study conducted 
+19
+under subsection (a); and 
+20
+(2) make a copy of such report available on a 
+21
+publicly accessible website. 
+22
+SEC. 106. GAO REPORT ON COMPUTATIONAL NEEDS. 
+23
+(a) IN GENERAL.—Not later than 1 year after the 
+24
+date of the enactment of this Act, the Comptroller General 
+25
+23:31 Mar 25, 2020
+H6216
+22 
+•HR 6216 IH
+of the United States shall conduct a study of artificial in-
+1
+telligence computer hardware and computing required in 
+2
+order to maintain U.S. leadership in artificial intelligence 
+3
+research and development. The Comptroller General 
+4
+shall— 
+5
+(1) assess the composition of civilian computing 
+6
+resources supported by the Federal Government at 
+7
+universities and Federal Laboratories, including pro-
+8
+grams with laboratory computing, high performance 
+9
+computing, cloud computing, quantum computing, 
+10
+edge computing, and other computing resources; 
+11
+(2) evaluate projected needs for computing con-
+12
+sumption and performance required by the public 
+13
+and private sector for the training, auditing, valida-
+14
+tion, testing, and use of artificial intelligence over 
+15
+the next five years; and 
+16
+(3) offer recommendations to meet these pro-
+17
+jected needs. 
+18
+TITLE II—NATIONAL ARTIFICIAL 
+19
+INTELLIGENCE RESEARCH IN-
+20
+STITUTES 
+21
+SEC. 201. NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH 
+22
+INSTITUTES. 
+23
+(a) IN GENERAL.—As part of the Initiative, the Di-
+24
+rector of the National Science Foundation shall establish 
+25
+23:31 Mar 25, 2020
+H6216
+23 
+•HR 6216 IH
+a program to award financial assistance for the planning, 
+1
+establishment, and support of Institutes (as described in 
+2
+subsection (b)(2)) in accordance with this section. 
+3
+(b) FINANCIAL ASSISTANCE TO ESTABLISH
+AND 
+4
+SUPPORT
+NATIONAL
+ARTIFICIAL
+INTELLIGENCE
+RE-
+5
+SEARCH INSTITUTES.— 
+6
+(1) IN
+GENERAL.—Under the Initiative, the 
+7
+Secretary of Energy, the Secretary of Commerce, 
+8
+the Director of the National Science Foundation, 
+9
+and every other agency head may award financial 
+10
+assistance to an eligible entity, or consortia thereof, 
+11
+as determined by an agency head, to establish and 
+12
+support an Institute. 
+13
+(2) ARTIFICIAL INTELLIGENCE INSTITUTES.— 
+14
+An Institute described in this subsection is an artifi-
+15
+cial intelligence research institute that— 
+16
+(A) is focused on— 
+17
+(i) a particular economic or social sec-
+18
+tor, including health, education, manufac-
+19
+turing, agriculture, security, energy, and 
+20
+environment, and includes a component 
+21
+that addresses the ethical, societal, safety, 
+22
+and security implications relevant to the 
+23
+application of artificial intelligence in that 
+24
+sector; or 
+25
+23:31 Mar 25, 2020
+H6216
+24 
+•HR 6216 IH
+(ii) a cross-cutting challenge for artifi-
+1
+cial intelligence systems, including trust-
+2
+worthiness, or foundational science; 
+3
+(B) requires partnership among public and 
+4
+private organizations, including, as appropriate, 
+5
+Federal agencies, research universities, commu-
+6
+nity colleges, nonprofit research organizations, 
+7
+Federal laboratories, State, local, and tribal 
+8
+governments, and industry (or consortia there-
+9
+of); 
+10
+(C) has the potential to create an innova-
+11
+tion ecosystem, or enhance existing ecosystems, 
+12
+to translate Institute research into applications 
+13
+and products, as appropriate to the topic of 
+14
+each Institute; 
+15
+(D) supports interdisciplinary research and 
+16
+development across multiple institutions and or-
+17
+ganizations involved in artificial intelligence re-
+18
+search and related disciplines, including phys-
+19
+ics, engineering, mathematical sciences, com-
+20
+puter and information science, robotics, biologi-
+21
+cal and cognitive sciences, material science, so-
+22
+cial and behavioral sciences, cybersecurity, and 
+23
+technology ethics; 
+24
+23:31 Mar 25, 2020
+H6216
+25 
+•HR 6216 IH
+(E) supports interdisciplinary education 
+1
+activities, including curriculum development, re-
+2
+search experiences, and faculty professional de-
+3
+velopment across two-year, undergraduates, 
+4
+masters, and doctoral level programs; and 
+5
+(F) supports workforce development in ar-
+6
+tificial intelligence related disciplines in the 
+7
+United States, including broadening participa-
+8
+tion of underrepresented communities. 
+9
+(3) USE
+OF
+FUNDS.—Financial assistance 
+10
+awarded under paragraph (1) may be used by an In-
+11
+stitute for— 
+12
+(A) managing and making available to re-
+13
+searchers accessible, curated, standardized, se-
+14
+cure, and privacy protected data sets from the 
+15
+public and private sectors for the purposes of 
+16
+training and testing artificial intelligence sys-
+17
+tems and for research using artificial intel-
+18
+ligence systems, pursuant to section 301(b) and 
+19
+301(c); 
+20
+(B) developing and managing testbeds for 
+21
+artificial intelligence systems, including sector- 
+22
+specific test beds, designed to enable users to 
+23
+evaluate artificial intelligence systems prior to 
+24
+deployment; 
+25
+23:31 Mar 25, 2020
+H6216
+26 
+•HR 6216 IH
+(C) conducting research and education ac-
+1
+tivities involving artificial intelligence systems 
+2
+to solve challenges with social, economic, health, 
+3
+scientific, and national security implications; 
+4
+(D) providing or brokering access to com-
+5
+puting resources, networking, and data facilities 
+6
+for artificial intelligence research and develop-
+7
+ment relevant to the Institute’s research goals; 
+8
+(E) providing technical assistance to users, 
+9
+including software engineering support, for arti-
+10
+ficial intelligence research and development rel-
+11
+evant to the Institute’s research goals; 
+12
+(F) engaging in outreach and engagement 
+13
+to broaden participation in artificial intelligence 
+14
+research and workforce; and 
+15
+(G) such other activities that an agency 
+16
+head, whose agency’s missions contribute to or 
+17
+are affected by artificial intelligence, considers 
+18
+consistent with the purposes described in sec-
+19
+tion 101(a). 
+20
+(4) DURATION.— 
+21
+(A) INITIAL PERIODS.—An award of finan-
+22
+cial assistance under paragraph (1) shall be 
+23
+awarded for an initial period of 5 years. 
+24
+23:31 Mar 25, 2020
+H6216
+27 
+•HR 6216 IH
+(B) EXTENSION.—An established Institute 
+1
+may apply for, and the agency head may grant, 
+2
+extended funding for periods of 5 years on a 
+3
+merit-reviewed basis using the merit review cri-
+4
+teria of the sponsoring agency. 
+5
+(5) APPLICATION
+FOR
+FINANCIAL
+ASSIST-
+6
+ANCE.— 
+7
+(A) IN GENERAL.—A person or group of 
+8
+persons seeking financial assistance under para-
+9
+graph (1) shall submit to an agency head an 
+10
+application at such time, in such manner, and 
+11
+containing such information as the agency head 
+12
+may require. 
+13
+(B) REQUIREMENTS.—An application sub-
+14
+mitted under subparagraph (A) for an Institute 
+15
+shall, at a minimum, include the following: 
+16
+(i) A plan for the Institute to in-
+17
+clude— 
+18
+(I) the proposed goals and activi-
+19
+ties of the Institute; 
+20
+(II) how the Institute will form 
+21
+partnerships with other research insti-
+22
+tutions, industry, and nonprofits to le-
+23
+verage expertise in artificial intel-
+24
+ligence and access to data, including 
+25
+23:31 Mar 25, 2020
+H6216
+28 
+•HR 6216 IH
+non-governmental data and computing 
+1
+resources; 
+2
+(III) how the institute will sup-
+3
+port long-term and short-term edu-
+4
+cation and workforce development in 
+5
+artificial intelligence, including broad-
+6
+ening 
+participation 
+of 
+underrep-
+7
+resented communities; and 
+8
+(IV) a plan for how the Institute 
+9
+will transition from planning into op-
+10
+erations. 
+11
+(ii) A description of the anticipated 
+12
+sources and nature of any non-Federal 
+13
+contributions, including privately held data 
+14
+sets, computing resources, and other types 
+15
+of in-kind support. 
+16
+(iii) A description of the anticipated 
+17
+long-term impact of such Institute. 
+18
+(6) COMPETITIVE, MERIT REVIEW.—In award-
+19
+ing financial assistance under paragraph (1), the 
+20
+agency head shall— 
+21
+(A) use a competitive, merit review process 
+22
+that includes peer review by a diverse group of 
+23
+individuals with relevant expertise from both 
+24
+the private and public sectors; and 
+25
+23:31 Mar 25, 2020
+H6216
+29 
+•HR 6216 IH
+(B) ensure the focus areas of the Institute 
+1
+do not substantially duplicate the efforts of any 
+2
+other Institute. 
+3
+(7) COLLABORATION.— 
+4
+(A) IN GENERAL.—In awarding financial 
+5
+assistance under paragraph (1), an agency head 
+6
+may collaborate with Federal departments and 
+7
+agencies whose missions contribute to or are af-
+8
+fected by artificial intelligence systems, includ-
+9
+ing the agencies outlined in section 103(c). 
+10
+(B) COORDINATING
+NETWORK.—The Di-
+11
+rector of the National Science Foundation shall 
+12
+establish a network of Institutes receiving fi-
+13
+nancial assistance under this subsection, to be 
+14
+known as the ‘‘Artificial Intelligence Leadership 
+15
+Network’’, to coordinate cross-cutting research 
+16
+and other activities carried out by the Insti-
+17
+tutes. 
+18
+(C) FUNDING.—The head of an agency 
+19
+may request, accept, and provide funds from 
+20
+other Federal departments and agencies, State, 
+21
+United States territory, local, or tribal govern-
+22
+ment agencies, private sector for-profit entities, 
+23
+and nonprofit entities, to be available to the ex-
+24
+tent provided by appropriations Acts, to support 
+25
+23:31 Mar 25, 2020
+H6216
+30 
+•HR 6216 IH
+an Institute’s activities. The head of an agency 
+1
+may not give any special consideration to any 
+2
+agency or entity in return for a donation. 
+3
+TITLE III—NATIONAL INSTITUTE 
+4
+OF STANDARDS AND TECH-
+5
+NOLOGY ARTIFICIAL INTEL-
+6
+LIGENCE ACTIVITIES 
+7
+SEC. 301. NATIONAL INSTITUTE OF STANDARDS AND TECH-
+8
+NOLOGY ACTIVITIES. 
+9
+(a) IN GENERAL.—As part of the Initiative, the Di-
+10
+rector of the National Institute of Standards and Tech-
+11
+nology shall— 
+12
+(1) support measurement research and develop-
+13
+ment of best practices and voluntary standards for 
+14
+trustworthy artificial intelligence systems, including 
+15
+for— 
+16
+(A) privacy and security, including for 
+17
+datasets used to train or test artificial intel-
+18
+ligence systems and software and hardware 
+19
+used in artificial intelligence systems; 
+20
+(B) advanced computer chips and hard-
+21
+ware designed for artificial intelligence systems; 
+22
+(C) data management and techniques to 
+23
+increase the usability of data, including strate-
+24
+gies to systematically clean, label, and stand-
+25
+23:31 Mar 25, 2020
+H6216
+31 
+•HR 6216 IH
+ardize data into forms useful for training artifi-
+1
+cial intelligence systems and the use of com-
+2
+mon, open licenses; 
+3
+(D) safety and robustness of artificial in-
+4
+telligence 
+systems, 
+including 
+assurance, 
+5
+verification, validation, security, control, and 
+6
+the ability for artificial intelligence systems to 
+7
+withstand unexpected inputs and adversarial at-
+8
+tacks; 
+9
+(E) auditing mechanisms and benchmarks 
+10
+for accuracy, transparency, verifiability, and 
+11
+safety assurance for artificial intelligence sys-
+12
+tems; 
+13
+(F) applications of machine learning and 
+14
+artificial intelligence systems to improve other 
+15
+scientific fields and engineering; and 
+16
+(G) all other areas deemed by the Director 
+17
+to be critical to the development and deploy-
+18
+ment of trustworthy artificial intelligence; 
+19
+(2) produce curated, standardized, representa-
+20
+tive, secure, and privacy protected data sets for arti-
+21
+ficial intelligence research, development, and use, 
+22
+prioritizing data for high-value, high-risk research; 
+23
+23:31 Mar 25, 2020
+H6216
+32 
+•HR 6216 IH
+(3) support one or more institutes as described 
+1
+in section 201(a) of this Act for the purpose of ad-
+2
+vancing the field of artificial intelligence; 
+3
+(4) support and strategically engage in the de-
+4
+velopment of voluntary consensus standards, includ-
+5
+ing international standards, through open, trans-
+6
+parent, and consensus-based processes; and 
+7
+(5) enter into and perform such contracts, in-
+8
+cluding cooperative research and development ar-
+9
+rangements and grants and cooperative agreements 
+10
+or other transactions, as may be necessary in the 
+11
+conduct of the work of the National Institute of 
+12
+Standards and Technology and on such terms as the 
+13
+Director considers appropriate, in furtherance of the 
+14
+purposes of this Act. 
+15
+(b) RISK MANAGEMENT FRAMEWORK.—Not later 
+16
+than 2 years after the date of the enactment of this Act, 
+17
+the Director shall work to develop, and periodically up-
+18
+date, in collaboration with other public and private sector 
+19
+organizations, including the National Science Foundation 
+20
+and the Department of Energy, a voluntary risk manage-
+21
+ment framework for the trustworthiness of artificial intel-
+22
+ligence systems. The framework shall— 
+23
+(1) identify and provide standards, guidelines, 
+24
+best practices, methodologies, procedures, and proc-
+25
+23:31 Mar 25, 2020
+H6216
+33 
+•HR 6216 IH
+esses for assessing the trustworthiness of, and miti-
+1
+gating risks to, artificial intelligence systems; 
+2
+(2) establish common definitions and character-
+3
+izations for aspects and levels of trustworthiness, in-
+4
+cluding explainability, transparency, safety, privacy, 
+5
+security, robustness, fairness, bias, ethics, validation, 
+6
+verification, and other properties related to artificial 
+7
+intelligence systems that are common across all sec-
+8
+tors; 
+9
+(3) provide guidance and implementation steps 
+10
+for risk management of artificial intelligence sys-
+11
+tems; 
+12
+(4) provide sector-specific case studies of imple-
+13
+mentation of the framework; 
+14
+(5) align with voluntary consensus standards, 
+15
+including international standards, to the fullest ex-
+16
+tent possible; 
+17
+(6) incorporate voluntary consensus standards 
+18
+and industry best practices; and 
+19
+(7) not prescribe or otherwise require— 
+20
+(A) the use of specific solutions; or 
+21
+(B) the use of specific information or com-
+22
+munications technology products or services. 
+23
+(c) DATA SHARING BEST PRACTICES.—Not later 
+24
+than 1 year after the date of enactment of this Act, the 
+25
+23:31 Mar 25, 2020
+H6216
+34 
+•HR 6216 IH
+Director shall, in collaboration with other public and pri-
+1
+vate sector organizations, develop guidance to facilitate 
+2
+the creation of voluntary data sharing arrangements be-
+3
+tween industry, federally funded research centers, and 
+4
+Federal agencies for the purpose of advancing artificial 
+5
+intelligence research and technologies, including— 
+6
+(1) options for partnership models between gov-
+7
+ernment entities, industry, universities, and non-
+8
+profits that incentivize each party to share the data 
+9
+they collected; and 
+10
+(2) best practices for datasets involving human 
+11
+characteristics, including— 
+12
+(A) standards for metadata that describe 
+13
+the properties of datasets, including— 
+14
+(i) how the data was collected; 
+15
+(ii) what populations are included and 
+16
+excluded from the datasets; and 
+17
+(iii) any other properties as deter-
+18
+mined by the Director; and 
+19
+(B) standards for privacy and security of 
+20
+datasets with human characteristics. 
+21
+(d) STAKEHOLDER OUTREACH.—In carrying out the 
+22
+activities under this subsection, the Director shall— 
+23
+(1) solicit input from university researchers, 
+24
+private sector experts, relevant Federal agencies, 
+25
+23:31 Mar 25, 2020
+H6216
+35 
+•HR 6216 IH
+Federal laboratories, State and local governments, 
+1
+civil society groups, and other relevant stakeholders; 
+2
+(2) solicit input from experts in relevant fields 
+3
+of social science, technology ethics, and law; and 
+4
+(3) provide opportunity for public comment on 
+5
+guidelines and best practices developed as part of 
+6
+the Initiative, as appropriate. 
+7
+(e) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+8
+are authorized to be appropriated to the National Institute 
+9
+of Standards and Technology to carry out this sub-
+10
+section— 
+11
+(1) $64,000,000 for fiscal year 2021; 
+12
+(2) $70,400,000 for fiscal year 2022; 
+13
+(3) $77,440,000 for fiscal year 2023; 
+14
+(4) $85,180,000 for fiscal year 2024; and 
+15
+(5) $93,700,000 for fiscal year 2025. 
+16
+TITLE IV—NATIONAL SCIENCE 
+17
+FOUNDATION ARTIFICIAL IN-
+18
+TELLIGENCE ACTIVITIES 
+19
+SEC. 401. ARTIFICIAL INTELLIGENCE RESEARCH AND EDU-
+20
+CATION. 
+21
+(a) IN GENERAL.—As part of the Initiative, the Di-
+22
+rector of the National Science Foundation shall fund re-
+23
+search and education activities in artificial intelligence sys-
+24
+tems and related fields, including competitive awards or 
+25
+23:31 Mar 25, 2020
+H6216
+36 
+•HR 6216 IH
+grants to institutions of higher education or eligible non-
+1
+profit organizations (or consortia thereof). 
+2
+(b) USES OF FUNDS.—In carrying out the activities 
+3
+under subsection (a), the Director of the National Science 
+4
+Foundation shall— 
+5
+(1) support research, including interdisciplinary 
+6
+research on artificial intelligence systems and related 
+7
+areas; 
+8
+(2) support collaborations among researchers 
+9
+across disciplines, including between social scientists 
+10
+and computer and data scientists, to advance re-
+11
+search critical to the development and deployment of 
+12
+trustworthy artificial intelligence systems, including 
+13
+support for interdisciplinary research relating ad-
+14
+vances in artificial intelligence to changes in the fu-
+15
+ture workplace, in a social and economic context; 
+16
+(3) use the existing programs of the National 
+17
+Science Foundation, in collaboration with other Fed-
+18
+eral departments and agencies, as appropriate to— 
+19
+(A) improve the teaching and learning of 
+20
+artificial intelligence systems at all levels of 
+21
+education; and 
+22
+(B) increase participation in artificial intel-
+23
+ligence related fields, including by individuals 
+24
+identified in sections 33 and 34 of the Science 
+25
+23:31 Mar 25, 2020
+H6216
+37 
+•HR 6216 IH
+and Engineering Equal Opportunity Act (42 
+1
+U.S.C. 1885a, 1885b); 
+2
+(4) engage with institutions of higher edu-
+3
+cation, research communities, industry, Federal lab-
+4
+oratories, nonprofit organizations, State and local 
+5
+governments, and potential users of information pro-
+6
+duced under this section, including through the con-
+7
+vening of workshops and conferences, to leverage the 
+8
+collective body of knowledge across disciplines rel-
+9
+evant to artificial intelligence, facilitate new collabo-
+10
+rations and partnerships, and identify emerging re-
+11
+search needs; 
+12
+(5) support partnerships among institutions of 
+13
+higher education and industry that facilitate collabo-
+14
+rative research, personnel exchanges, and workforce 
+15
+development with respect to artificial intelligence 
+16
+systems; 
+17
+(6) ensure adequate access to research and edu-
+18
+cation infrastructure with respect to artificial intel-
+19
+ligence systems, including through the development 
+20
+of new computing resources and partnership with 
+21
+the private sector for the provision of cloud-based 
+22
+computing services; 
+23
+(7) conduct prize competitions, as appropriate, 
+24
+pursuant to section 24 of the Stevenson-Wydler 
+25
+23:31 Mar 25, 2020
+H6216
+38 
+•HR 6216 IH
+Technology Innovation Act of 1980 (15 U.S.C. 
+1
+3719); 
+2
+(8) coordinate research efforts funded through 
+3
+existing programs across the directorates of the Na-
+4
+tional Science Foundation; 
+5
+(9) provide guidance on data sharing by grant-
+6
+ees to public and private sector organizations con-
+7
+sistent with the standards and guidelines developed 
+8
+under section 301(c); and 
+9
+(10) evaluate opportunities for international 
+10
+collaboration with strategic allies on artificial intel-
+11
+ligence research and development. 
+12
+(c) 
+ARTIFICIAL
+INTELLIGENCE
+RESEARCH 
+13
+GRANTS.— 
+14
+(1) IN
+GENERAL.—The Director shall award 
+15
+grants for research on artificial intelligence systems. 
+16
+Research areas may include— 
+17
+(A) artificial intelligence systems, including 
+18
+machine learning, computer vision, robotics, 
+19
+and hardware for accelerating artificial intel-
+20
+ligence systems; 
+21
+(B) artificial intelligence-enabled systems; 
+22
+(C) fields and research areas that will con-
+23
+tribute to the advancement of artificial intel-
+24
+ligence systems, including information theory, 
+25
+23:31 Mar 25, 2020
+H6216
+39 
+•HR 6216 IH
+causal and statistical inference, data mining, in-
+1
+formation extraction, human-robot interaction, 
+2
+and intelligent interfaces; 
+3
+(D) fields and research areas that increase 
+4
+understanding of human characteristics relevant 
+5
+to artificial intelligence systems, including com-
+6
+putational neuroscience, reasoning and rep-
+7
+resentation, speech and language, multi-agent 
+8
+systems, intelligent interfaces, human-artificial 
+9
+intelligence cooperation, and artificial intel-
+10
+ligence-augmented human problem solving; 
+11
+(E) fields and research areas that increase 
+12
+understanding of learning, adaptability, and re-
+13
+silience beyond the human cognitive model, in-
+14
+cluding topics in developmental biology, zoology, 
+15
+botany, 
+morphological 
+computation, 
+and 
+16
+organismal systems; 
+17
+(F) fields and research areas that will con-
+18
+tribute to the development and deployment of 
+19
+trustworthy artificial intelligence systems, in-
+20
+cluding— 
+21
+(i) algorithmic explainability; 
+22
+(ii) methods to assess, characterize, 
+23
+and reduce bias in datasets and artificial 
+24
+intelligence systems; and 
+25
+23:31 Mar 25, 2020
+H6216
+40 
+•HR 6216 IH
+(iii) safety and robustness of artificial 
+1
+intelligence systems, including assurance, 
+2
+verification, validation, security, and con-
+3
+trol; 
+4
+(G) privacy and security, including for 
+5
+datasets used for the training and inference of 
+6
+artificial intelligence systems, and software and 
+7
+hardware used in artificial intelligence systems; 
+8
+(H) fields and research areas that address 
+9
+the application of artificial intelligence systems 
+10
+to scientific discovery and societal challenges; 
+11
+(I) societal, ethical, safety, education, 
+12
+workforce, and security implications of artificial 
+13
+intelligence systems, including social impact of 
+14
+artificial 
+intelligence 
+systems 
+on 
+different 
+15
+groups within society, especially historically 
+16
+marginalized groups; and 
+17
+(J) qualitative and quantitative forecasting 
+18
+of future capabilities, applications, and impacts. 
+19
+(2) ENGINEERING SUPPORT.—In soliciting pro-
+20
+posals for funding under this section, the Director 
+21
+shall permit applicants to include in their proposed 
+22
+budgets funding for software engineering support to 
+23
+assist with the proposed research. 
+24
+(3) ETHICS.— 
+25
+00:21 Apr 01, 2020
+H6216
+41 
+•HR 6216 IH
+(A) SENSE OF CONGRESS.—It is the sense 
+1
+of Congress that— 
+2
+(i) a number of emerging areas of re-
+3
+search, including artificial intelligence, 
+4
+have potential ethical, social, safety, and 
+5
+security implications that might be appar-
+6
+ent as early as the basic research stage; 
+7
+(ii) the incorporation of ethical, social, 
+8
+safety, and security considerations into the 
+9
+research design and review process for 
+10
+Federal awards may help mitigate poten-
+11
+tial harms before they happen; 
+12
+(iii) the National Science Founda-
+13
+tion’s intent to enter into an agreement 
+14
+with the National Academies of Sciences, 
+15
+Engineering, and Medicine to conduct a 
+16
+study and make recommendations with re-
+17
+spect to governance of research in emerg-
+18
+ing technologies is a positive step toward 
+19
+accomplishing this goal; and 
+20
+(iv) the National Science Foundation 
+21
+should continue to work with stakeholders 
+22
+to understand and adopt policies that pro-
+23
+mote best practices for governance of re-
+24
+23:31 Mar 25, 2020
+H6216
+42 
+•HR 6216 IH
+search in emerging technologies at every 
+1
+stage of research. 
+2
+(B) ETHICS STATEMENTS.— 
+3
+(i) IN GENERAL.—Not later than 18 
+4
+months after the date of enactment of this 
+5
+Act, the Director shall amend grant pro-
+6
+posal instructions to include a requirement 
+7
+for an ethics statement to be included as 
+8
+part of any proposal for funding prior to 
+9
+making the award. Such statement shall be 
+10
+considered by the Director in the review of 
+11
+proposals, taking into consideration any 
+12
+relevant input from the peer-reviewers for 
+13
+the proposal, and shall factor into award 
+14
+decisions as deemed necessary by the Di-
+15
+rector. 
+16
+(ii) 
+CONTENTS.—Such 
+statements 
+17
+may include, as appropriate— 
+18
+(I) the potential societal benefits 
+19
+of the research; 
+20
+(II) any foreseeable or quantifi-
+21
+able risks to society, including how 
+22
+the research could enable products, 
+23
+technologies, or other outcomes that 
+24
+23:31 Mar 25, 2020
+H6216
+43 
+•HR 6216 IH
+could intentionally or unintentionally 
+1
+cause significant societal harm; and 
+2
+(III) how technical or social solu-
+3
+tions can mitigate such risks and, as 
+4
+appropriate, a plan to implement such 
+5
+mitigation measures. 
+6
+(iii) GUIDANCE.—The Director shall 
+7
+issue clear guidance on what constitutes a 
+8
+foreseeable or quantifiable risk described in 
+9
+clause (ii)(II), and to the extent practical 
+10
+harmonize this policy with existing ethical 
+11
+policies or related requirements for human 
+12
+subjects. 
+13
+(iv) ANNUAL REPORTS.—The Director 
+14
+shall encourage grantees to update their 
+15
+ethics statements as appropriate as part of 
+16
+the annual reports required by all grantees 
+17
+under the grant terms and conditions. 
+18
+(d) EDUCATION.— 
+19
+(1) IN GENERAL.—The Director of the National 
+20
+Science Foundation shall award grants for education 
+21
+programs at the K-12, community college, under-
+22
+graduate, graduate, postdoctoral, adult learning, and 
+23
+retraining stages of education that— 
+24
+23:31 Mar 25, 2020
+H6216
+44 
+•HR 6216 IH
+(A) support the development of a diverse 
+1
+workforce pipeline for science and technology 
+2
+with respect to artificial intelligence systems; 
+3
+(B) increase awareness of ethical, social, 
+4
+safety, and security implications of artificial in-
+5
+telligence systems; and 
+6
+(C) promote the widespread understanding 
+7
+of artificial intelligence principles and methods 
+8
+to create an educated workforce and general 
+9
+public able to use products enabled by artificial 
+10
+intelligence systems and adapt to future societal 
+11
+and economic changes caused by artificial intel-
+12
+ligence systems. 
+13
+(2) USE
+OF
+FUNDS.—Grants awarded under 
+14
+this section for education activities referred to in 
+15
+paragraph (1) may be used for— 
+16
+(A) K-12, undergraduate, and community 
+17
+college curriculum development and other edu-
+18
+cational tools and methods in artificial intel-
+19
+ligence related fields; 
+20
+(B) curriculum development in the field of 
+21
+technology ethics; 
+22
+(C) support for informal education activi-
+23
+ties for K-12 students to engage with artificial 
+24
+intelligence systems; 
+25
+23:31 Mar 25, 2020
+H6216
+45 
+•HR 6216 IH
+(D) efforts to achieve equitable access to 
+1
+K-12 artificial intelligence education for popu-
+2
+lations and geographic areas traditionally 
+3
+underrepresented in the artificial intelligence 
+4
+field; 
+5
+(E) training and professional development 
+6
+programs, including innovative pre-service and 
+7
+in-service programs, in artificial intelligence and 
+8
+related fields for K-12 teachers; 
+9
+(F) efforts to improve the retention rate 
+10
+for researchers focusing on artificial intelligence 
+11
+systems at institutions of higher learning and 
+12
+other nonprofit research institutions; 
+13
+(G) outreach programs to educate the gen-
+14
+eral public about the uses of artificial intel-
+15
+ligence and its societal implications; 
+16
+(H) assessments of activities conducted 
+17
+under this subsection; and 
+18
+(I) any other relevant activities the Direc-
+19
+tor determines will accomplish the aim de-
+20
+scribed in paragraph (1). 
+21
+(3) ARTIFICIAL INTELLIGENCE TRAINEESHIPS 
+22
+AND FELLOWSHIPS.— 
+23
+(A) 
+ARTIFICIAL
+INTELLIGENCE 
+24
+TRAINEESHIPS.— 
+25
+23:31 Mar 25, 2020
+H6216
+46 
+•HR 6216 IH
+(i) IN GENERAL.—The Director of the 
+1
+National Science Foundation shall award 
+2
+grants to institutions of higher education 
+3
+to establish traineeship programs for grad-
+4
+uate students who pursue artificial intel-
+5
+ligence-related research leading to a mas-
+6
+ters or doctorate degree by providing fund-
+7
+ing and other assistance, and by providing 
+8
+graduate students opportunities for re-
+9
+search experiences in government or indus-
+10
+try related to the students’ artificial intel-
+11
+ligence studies. 
+12
+(ii) USE OF FUNDS.—An institution 
+13
+of higher education shall use grant funds 
+14
+provided under clause (i) for the purposes 
+15
+of— 
+16
+(I) providing traineeships to stu-
+17
+dents who are pursuing research in 
+18
+artificial intelligence leading to a mas-
+19
+ters or doctorate degree; 
+20
+(II) paying tuition and fees for 
+21
+students receiving traineeships who 
+22
+are citizens, nationals, or lawfully ad-
+23
+mitted permanent resident aliens of 
+24
+the United States; 
+25
+23:31 Mar 25, 2020
+H6216
+47 
+•HR 6216 IH
+(III) 
+creating 
+and 
+requiring 
+1
+courses or training programs in tech-
+2
+nology ethics for students receiving 
+3
+traineeships; 
+4
+(IV) creating opportunities for 
+5
+research in technology ethics for stu-
+6
+dents receiving traineeships; 
+7
+(V) establishing scientific intern-
+8
+ship programs for students receiving 
+9
+traineeships in artificial intelligence at 
+10
+for-profit institutions, nonprofit re-
+11
+search institutions, or government lab-
+12
+oratories; and 
+13
+(VI) other costs associated with 
+14
+the administration of the program. 
+15
+(B) ARTIFICIAL
+INTELLIGENCE
+FELLOW-
+16
+SHIPS.—The Director of the National Science 
+17
+Foundation shall award fellowships to masters 
+18
+and doctoral students and postdoctoral re-
+19
+searchers at institutions of higher education 
+20
+who are pursuing degrees or research in artifi-
+21
+cial intelligence and related fields, including in 
+22
+the field of technology ethics. In making such 
+23
+awards, the Director shall— 
+24
+23:31 Mar 25, 2020
+H6216
+48 
+•HR 6216 IH
+(i) ensure recipients of artificial intel-
+1
+ligence fellowships are citizens, nationals, 
+2
+or lawfully admitted permanent resident 
+3
+aliens of the United States; and 
+4
+(ii) 
+conduct 
+outreach, 
+including 
+5
+through formal solicitations, to solicit pro-
+6
+posals from students and postdoctoral re-
+7
+searchers seeking to carry out research in 
+8
+aspects of technology ethics with relevance 
+9
+to artificial intelligence systems. 
+10
+(e) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+11
+are authorized to be appropriated to the National Science 
+12
+Foundation to carry out this section— 
+13
+(1) $868,000,000 for fiscal year 2021; 
+14
+(2) $911,400,000 for fiscal year 2022; 
+15
+(3) $956,970,000 for fiscal year 2023; 
+16
+(4) $1,004,820,000 for fiscal year 2024; and 
+17
+(5) $1,055,060,000 for fiscal year 2025. 
+18
+23:31 Mar 25, 2020
+H6216
+49 
+•HR 6216 IH
+TITLE V—DEPARTMENT OF EN-
+1
+ERGY 
+ARTIFICIAL 
+INTEL-
+2
+LIGENCE 
+RESEARCH 
+PRO-
+3
+GRAM 
+4
+SEC. 501. DEPARTMENT OF ENERGY ARTIFICIAL INTEL-
+5
+LIGENCE RESEARCH PROGRAM. 
+6
+(a) IN GENERAL.—The Secretary shall carry out a 
+7
+cross-cutting research and development program to ad-
+8
+vance artificial intelligence tools, systems, capabilities, and 
+9
+workforce needs and to improve the reliability of artificial 
+10
+intelligence methods and solutions relevant to the mission 
+11
+of the Department. In carrying out this program, the Sec-
+12
+retary shall coordinate across all relevant offices and pro-
+13
+grams at the Department, including the Office of Science, 
+14
+the Office of Energy Efficiency and Renewable Energy, 
+15
+the Office of Nuclear Energy, the Office of Fossil Energy, 
+16
+the Office of Electricity, the Office of Cybersecurity, En-
+17
+ergy Security, and Emergency Response, the Advanced 
+18
+Research Projects Agency-Energy, and any other relevant 
+19
+office determined by the Secretary. 
+20
+(b) RESEARCH AREAS.—In carrying out the program 
+21
+under subsection (a), the Secretary shall award financial 
+22
+assistance to eligible entities to carry out research projects 
+23
+on topics including— 
+24
+23:31 Mar 25, 2020
+H6216
+50 
+•HR 6216 IH
+(1) the application of artificial intelligence sys-
+1
+tems to improve large-scale simulations of natural 
+2
+and other phenomena; 
+3
+(2) the study of applied mathematics, computer 
+4
+science, and statistics, including foundations of 
+5
+methods and systems of artificial intelligence, causal 
+6
+and statistical inference, and the development of al-
+7
+gorithms for artificial intelligence systems; 
+8
+(3) the analysis of existing large-scale datasets 
+9
+from science and engineering experiments and sim-
+10
+ulations, including energy simulations and other pri-
+11
+orities at the Department as determined by the Sec-
+12
+retary using artificial intelligence tools and tech-
+13
+niques; 
+14
+(4) the development of operation and control 
+15
+systems that enhance automated, intelligent deci-
+16
+sionmaking capabilities; 
+17
+(5) the development of advanced computing 
+18
+hardware and computer architecture tailored to arti-
+19
+ficial intelligence systems, including the codesign of 
+20
+networks and computational hardware; 
+21
+(6) the development of standardized datasets 
+22
+for emerging artificial intelligence research fields 
+23
+and applications, including methods for addressing 
+24
+data scarcity; and 
+25
+23:31 Mar 25, 2020
+H6216
+51 
+•HR 6216 IH
+(7) the development of trustworthy artificial in-
+1
+telligence systems, including— 
+2
+(A) algorithmic explainability; 
+3
+(B) analytical methods for identifying and 
+4
+mitigating bias in artificial intelligence systems; 
+5
+and 
+6
+(C) safety and robustness, including assur-
+7
+ance, verification, validation, security, and con-
+8
+trol. 
+9
+(c) TECHNOLOGY TRANSFER.—In carrying out the 
+10
+program under subsection (a), the Secretary shall support 
+11
+technology transfer of artificial intelligence systems for the 
+12
+benefit of society and United States economic competitive-
+13
+ness. 
+14
+(d) FACILITY USE AND UPGRADES.—In carrying out 
+15
+the program under subsection (a), the Secretary shall— 
+16
+(1) make available high-performance computing 
+17
+infrastructure at national laboratories; 
+18
+(2) make any upgrades necessary to enhance 
+19
+the use of existing computing facilities for artificial 
+20
+intelligence systems, including upgrades to hard-
+21
+ware; 
+22
+(3) establish new computing capabilities nec-
+23
+essary to manage data and conduct high perform-
+24
+23:31 Mar 25, 2020
+H6216
+52 
+•HR 6216 IH
+ance computing that enables the use of artificial in-
+1
+telligence systems; and 
+2
+(4) maintain and improve, as needed, net-
+3
+working infrastructure, data input and output mech-
+4
+anisms, and data analysis, storage, and service capa-
+5
+bilities. 
+6
+(e) ETHICS.— 
+7
+(1) IN GENERAL.—Not later than 18 months 
+8
+after the date of enactment of this Act, the Sec-
+9
+retary shall amend grant proposal instructions to in-
+10
+clude a requirement for an ethics statement to be in-
+11
+cluded as part of any proposal for funding prior to 
+12
+making the award. Such statement shall be consid-
+13
+ered by the Secretary in the review of proposals, tak-
+14
+ing into consideration any relevant input from the 
+15
+peer-reviewers for the proposal, and shall factor into 
+16
+award decisions as deemed necessary by the Sec-
+17
+retary. Such statements may include, as appro-
+18
+priate— 
+19
+(A) the potential societal benefits of the re-
+20
+search; 
+21
+(B) any foreseeable or quantifiable risks to 
+22
+society, including how the research could enable 
+23
+products, technologies, or other outcomes that 
+24
+23:31 Mar 25, 2020
+H6216
+53 
+•HR 6216 IH
+could intentionally or unintentionally cause sig-
+1
+nificant societal harm; and 
+2
+(C) how technical or social solutions can 
+3
+mitigate such risks and, as appropriate, a plan 
+4
+to implement such mitigation measures. 
+5
+(2) GUIDANCE.—The Secretary shall issue clear 
+6
+guidance on what constitutes risks as described in 
+7
+section (1)(B), and to the extent practical harmonize 
+8
+this policy with existing ethical policies or related re-
+9
+quirements for human subjects. 
+10
+(3) ANNUAL
+REPORTS.—The Secretary shall 
+11
+encourage awardees to update their ethics state-
+12
+ments as appropriate as part of the annual reports 
+13
+required by all awardees under the grant terms and 
+14
+conditions. 
+15
+(f) RISK MANAGEMENT.—The Secretary shall review 
+16
+agency policies for risk management in artificial intel-
+17
+ligence related projects and issue as necessary policies and 
+18
+principles that are consistent with the framework devel-
+19
+oped under section 301(b). 
+20
+(g) DATA PRIVACY AND SHARING.—The Secretary 
+21
+shall review agency policies for data sharing with other 
+22
+public and private sector organizations and issue as nec-
+23
+essary policies and principles that are consistent with the 
+24
+standards and guidelines submitted under section 301(c). 
+25
+23:31 Mar 25, 2020
+H6216
+54 
+•HR 6216 IH
+In addition, the Secretary shall establish a streamlined 
+1
+mechanism for approving research projects or partner-
+2
+ships that require sharing sensitive public or private data 
+3
+with the Department. 
+4
+(h) PARTNERSHIPS WITH OTHER FEDERAL AGEN-
+5
+CIES.—The Secretary may request, accept, and provide 
+6
+funds from other Federal departments and agencies, 
+7
+State, United States territory, local, or Tribal government 
+8
+agencies, private sector for-profit entities, and nonprofit 
+9
+entities, to be available to the extent provided by appro-
+10
+priations Acts, to support a research project or partner-
+11
+ship carried out under this section. The Secretary may not 
+12
+give any special consideration to any agency or entity in 
+13
+return for a donation. 
+14
+(i) STAKEHOLDER ENGAGEMENT.—In carrying out 
+15
+the activities authorized in this section, the Secretary 
+16
+shall— 
+17
+(1) collaborate with a range of stakeholders in-
+18
+cluding small businesses, institutes of higher edu-
+19
+cation, industry, and the National Laboratories; 
+20
+(2) leverage the collective body of knowledge 
+21
+from existing artificial intelligence and machine 
+22
+learning research; and 
+23
+23:31 Mar 25, 2020
+H6216
+55 
+•HR 6216 IH
+(3) engage with other Federal agencies, re-
+1
+search communities, and potential users of informa-
+2
+tion produced under this section. 
+3
+(j) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+4
+are authorized to be appropriated to the Department to 
+5
+carry out this section— 
+6
+(1) $200,000,000 for fiscal year 2021; 
+7
+(2) $214,000,000 for fiscal year 2022; 
+8
+(3) $228,980,000 for fiscal year 2023; 
+9
+(4) $245,000,000 for fiscal year 2024; and 
+10
+(5) $262,160,000 for fiscal year 2025. 
+11
+(k) DEFINITIONS.—In this section: 
+12
+(1) SECRETARY.—The term ‘‘Secretary’’ means 
+13
+the Secretary of Energy. 
+14
+(2) DEPARTMENT.—The term ‘‘Department’’ 
+15
+means the Department of Energy. 
+16
+(3) NATIONAL LABORATORY.—The term ‘‘na-
+17
+tional laboratory’’ has the meaning given such term 
+18
+in section 2 of the Energy Policy Act of 2005 (42 
+19
+U.S.C. 15801). 
+20
+(4) ELIGIBLE
+ENTITIES.—The term ‘‘eligible 
+21
+entities’’ means— 
+22
+(A) an institution of higher education; 
+23
+(B) a National Laboratory; 
+24
+(C) a Federal research agency; 
+25
+23:31 Mar 25, 2020
+H6216
+56 
+•HR 6216 IH
+(D) a State research agency; 
+1
+(E) a nonprofit research organization; 
+2
+(F) a private sector entity; or 
+3
+(G) a consortium of 2 or more entities de-
+4
+scribed in subparagraph (A) through (F). 
+5
+Æ 
+23:31 Mar 25, 2020
+H6216

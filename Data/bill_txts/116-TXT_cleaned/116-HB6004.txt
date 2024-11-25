@@ -1,0 +1,621 @@
+A BILL 
+To amend title XXVII of the Public Health Service Act 
+to require the Secretary of Health and Human Services 
+to establish a grant program for purposes of facilitating 
+State efforts to establish or maintain all-payer claims 
+databases, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; FINDINGS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Transparency and Accountability in Health Care Costs 
+5
+and Prices Act of 2020’’. 
+6
+00:45 Mar 03, 2020
+H6004
+2 
+•HR 6004 IH
+(b) FINDINGS.—Congress finds the following: 
+1
+(1) According to official estimates published by 
+2
+the Centers for Medicare & Medicaid Services, 
+3
+Americans spent a total of $3.6 trillion on health 
+4
+care in 2018, or $11,172 per person. 
+5
+(2) Spending on hospital care services reached 
+6
+$1.2 trillion in 2018 and rose by 4.5 percent from 
+7
+the previous year. This growth occurred even as 
+8
+Americans made fewer hospital visits because of 
+9
+growth in hospital prices. 
+10
+(3) Spending on physician visits and clinical 
+11
+services reached $725.6 billion in 2018 and rose by 
+12
+4.1 percent from the previous year. 
+13
+(4) Spending on prescription drugs reached 
+14
+$335 billion in 2018 and rose by 2.5 percent from 
+15
+the previous year. 
+16
+(5) According to a 2019 analysis of a subset of 
+17
+commercial insurance claims by the independent, 
+18
+non-partisan Health Care Cost Institute, prices for 
+19
+common medical services could vary up to 25 times 
+20
+between different metro areas and up to 39 times 
+21
+for the same service within the same metro area. 
+22
+(6) A 2015 analysis of a subset of commercial 
+23
+insurance claims by Yale, University of Pennsyl-
+24
+vania, Carnegie Mellon, and MIT researchers found 
+25
+00:45 Mar 03, 2020
+H6004
+3 
+•HR 6004 IH
+that even within one hospital, prices for certain com-
+1
+mon services like lower limb MRIs, knee replace-
+2
+ments, and colonoscopies could vary by 23.5 percent 
+3
+on average depending on which insurer covered the 
+4
+patient. 
+5
+(7) Information about contracts between pro-
+6
+viders and insurers available to researchers, policy-
+7
+makers, and the public is limited or incomplete be-
+8
+cause these contracts frequently prohibit disclosure 
+9
+of information about how providers are paid. 
+10
+(8) All-payer claims databases (APCDs) are 
+11
+large-scale databases increasingly adopted by States 
+12
+to collect health care claims data across different 
+13
+payers such as private insurers, government em-
+14
+ployee health plans, Medicare, and Medicaid. 
+15
+(9) APCD data can be shared with vetted and 
+16
+authorized users to make it easier to track trends in 
+17
+health care prices, create tools for consumers to 
+18
+check price and quality, assist employers and health 
+19
+plans in making more informed decisions when de-
+20
+veloping employer-sponsored health plans, test new 
+21
+ideas for holding down health care costs, and guide 
+22
+policymakers in developing health care policy. 
+23
+(10) In 2019, the independent, non-partisan 
+24
+RAND Corporation published the first broad-based 
+25
+00:45 Mar 03, 2020
+H6004
+4 
+•HR 6004 IH
+study reporting prices paid by private health plans 
+1
+to hospitals identified by name. This important 
+2
+study tracked important disparities in price trends 
+3
+across the nation, with relative prices increasing rap-
+4
+idly from 2015 to 2017 for hospitals in some States, 
+5
+while falling in others. This work was made possible 
+6
+in part through the use of data from APCDs in New 
+7
+Hampshire and Colorado. 
+8
+(11) Since 2015, Oregon has used data from its 
+9
+APCD to review insurers’ proposed premium rates, 
+10
+including determining whether or not proposed pre-
+11
+miums are excessive. Oregon has also used its 
+12
+APCD to create an annual report on hospital reim-
+13
+bursement variations from different insurers. 
+14
+(12) Minnesota and Virginia have used data 
+15
+from their APCDs to shine a spotlight on spending 
+16
+for low-value—possibly even unnecessary—medical 
+17
+services. 
+18
+(13) Washington State has used data from its 
+19
+APCD 
+to 
+create 
+the 
+Washington 
+20
+HealthCareCompare tool that helps patients learn 
+21
+about local prices for medical services at local doc-
+22
+tors’ offices, hospitals, and outpatient centers, and 
+23
+puts those prices in context by highlighting what 
+24
+kinds of prices can be considered typical, low, or 
+25
+00:45 Mar 03, 2020
+H6004
+5 
+•HR 6004 IH
+high. Additional States that have developed price 
+1
+transparency tools from their APCDs include New 
+2
+Hampshire, Maine, Massachusetts, Colorado, Mary-
+3
+land, and Rhode Island. 
+4
+(14) According to the APCD Council, a learn-
+5
+ing collaborative of public and private organizations 
+6
+working on developing and establishing APCDs, at 
+7
+least 18 States have enacted State laws establishing 
+8
+APCDs. 
+9
+(15) While many States have or are considering 
+10
+establishing APCDs, current APCDs vary in the 
+11
+types of data collected, the types of users allowed to 
+12
+access the data, the types of data that can be pub-
+13
+lished, and how much authorized users are charged 
+14
+to access the data. 
+15
+(16) A 2016 Supreme Court decision, Gobeille 
+16
+v. Liberty Mutual Insurance Co., prohibited States 
+17
+from requiring claim submissions to APCDs from 
+18
+large employers that pay for health benefits directly 
+19
+instead of purchasing health coverage from insur-
+20
+ance companies. This limited the data that States 
+21
+could mandate for inclusion in an APCD. 
+22
+(17) Supporting the establishment of APCDs is 
+23
+an important way to promote transparency and un-
+24
+derstanding of overall health care spending. 
+25
+00:45 Mar 03, 2020
+H6004
+6 
+•HR 6004 IH
+(18) State APCDs should be encouraged to col-
+1
+lect data from more types of payers; make it easier 
+2
+and more affordable for APCD data to be used to 
+3
+assist patients and providers in making informed 
+4
+choices about care; make it easier and more afford-
+5
+able for APCD data to be used for efforts to bring 
+6
+health care cost growth under control and improve 
+7
+insurance coverage; and permit their data to be used 
+8
+to report provider-level prices. 
+9
+SEC. 2. REQUIRING THE SECRETARY OF HEALTH AND 
+10
+HUMAN SERVICES TO ESTABLISH A GRANT 
+11
+PROGRAM FOR PURPOSES OF FACILITATING 
+12
+STATE EFFORTS TO ESTABLISH OR MAINTAIN 
+13
+ALL-PAYER CLAIMS DATABASES. 
+14
+Part C of title XXVII of the Public Health Service 
+15
+Act (42 U.S.C. 300gg–91 et seq.) is amended by adding 
+16
+at the end the following new section: 
+17
+‘‘SEC. 2795. ALL-PAYER CLAIMS DATABASE GRANT PRO-
+18
+GRAM. 
+19
+‘‘(a) IN GENERAL.—Not later than 1 year after the 
+20
+date of the enactment of this section, the Secretary shall 
+21
+establish a grant program (in this section referred to as 
+22
+the ‘program’) for purposes of awarding grants to States 
+23
+to facilitate such States in establishing or maintaining an 
+24
+all-payer claims database. 
+25
+00:45 Mar 03, 2020
+H6004
+7 
+•HR 6004 IH
+‘‘(b) USE OF FUNDS.—A State use funds from a 
+1
+grant awarded under the program for any of the following: 
+2
+‘‘(1) To establish a State or regional all-payer 
+3
+claims database or to maintain an existing such 
+4
+database. 
+5
+‘‘(2) To expand the capabilities of an existing 
+6
+such database (such as through improving the collec-
+7
+tion of data contained in such database or improving 
+8
+the dissemination of such data). 
+9
+‘‘(c) ELIGIBILITY.—To be eligible to receive a grant 
+10
+under the program, a State (or compact of States) shall 
+11
+submit to the Secretary an application at such time, in 
+12
+such manner, and containing such information as the Sec-
+13
+retary may specify. Such information shall include the fol-
+14
+lowing: 
+15
+‘‘(1) A specification of how the State (or com-
+16
+pact of States) will ensure uniform data collection 
+17
+through the all-payer claims database. 
+18
+‘‘(2) A description of privacy and security pro-
+19
+tections for data submitted to such database, includ-
+20
+ing a specification of how the State (or compact of 
+21
+States) will ensure that— 
+22
+‘‘(A) no individually identifiable health in-
+23
+formation is disclosed to the public; 
+24
+00:45 Mar 03, 2020
+H6004
+8 
+•HR 6004 IH
+‘‘(B) access to such information is limited 
+1
+to staff with appropriate security and privacy 
+2
+training; 
+3
+‘‘(C) effective security standards for trans-
+4
+ferring such data or making such data available 
+5
+to authorized uses of such database are main-
+6
+tained; 
+7
+‘‘(D) a process for providing access to such 
+8
+data for such users is secure and maintains the 
+9
+confidentiality of any individually identifiable 
+10
+health information is established; 
+11
+‘‘(E) such database adheres to best secu-
+12
+rity practices relating to the management and 
+13
+use of such data, consistent with any applicable 
+14
+Federal law; and 
+15
+‘‘(F) users of such database are prohibited 
+16
+from attempting to reidentify such data and pe-
+17
+nalized for any such attempt. 
+18
+‘‘(3) A specification of whether submission of 
+19
+data to such database is (or will be) mandatory or 
+20
+voluntary. 
+21
+‘‘(4) A specification of which type of entities 
+22
+(such as group health plans, health insurance issues, 
+23
+nonfederal governmental plans, and Federal health 
+24
+00:45 Mar 03, 2020
+H6004
+9 
+•HR 6004 IH
+care programs) are (or will be) submitting such data 
+1
+to such database. 
+2
+‘‘(5) A description of the types of claims in-
+3
+cluded in such database (such as medical claims, 
+4
+pharmacy claims, and dental claims). 
+5
+‘‘(6) A description of the data release policy in 
+6
+effect (or proposed to be put into effect) with respect 
+7
+to data contained in such database, including a de-
+8
+scription of the type of users who are (or will be) au-
+9
+thorized to access such data (such as employers, em-
+10
+ployee organizations, health care providers, research-
+11
+ers, and policymakers). 
+12
+‘‘(7) Any other information determined appro-
+13
+priate by the Secretary. 
+14
+‘‘(d) AWARD PRIORITY.—In making grants under the 
+15
+program, the Secretary shall prioritize applications sub-
+16
+mitted under subsection (c) that demonstrate any of the 
+17
+following (with higher priority being given to applications 
+18
+that demonstrate the greatest number of the following): 
+19
+‘‘(1) The all-payer claims database to be estab-
+20
+lished, maintained, or expanded through such grant 
+21
+requires mandatory reporting of claims data to such 
+22
+database. 
+23
+‘‘(2) Such database will transition to require 
+24
+such mandatory reporting. 
+25
+00:45 Mar 03, 2020
+H6004
+10 
+•HR 6004 IH
+‘‘(3) Data contained in such database is (or will 
+1
+be) easily accessible and affordable for users to ac-
+2
+cess. 
+3
+‘‘(4) Such database permits (or will permit) 
+4
+such data to be viewed in a provider-specific manner. 
+5
+‘‘(5) A history of (or planned) partnerships 
+6
+with users of such database to facilitate the use of 
+7
+such data in— 
+8
+‘‘(A) informing individuals about the cost, 
+9
+quality, and value of health care; 
+10
+‘‘(B) assisting health care providers, in-
+11
+cluding hospitals, in working with individuals to 
+12
+make informed decisions regarding health care; 
+13
+‘‘(C) enabling health care providers, in-
+14
+cluding hospitals, and communities to improve 
+15
+the furnishing of items and services and health 
+16
+outcomes for individuals through comparisons 
+17
+of such outcomes with other such providers and 
+18
+hospitals; 
+19
+‘‘(D) enabling entities that pay for items 
+20
+and services, including employers, employee or-
+21
+ganizations, group health plans, and health in-
+22
+surance issuers, to develop value-based pur-
+23
+chasing models and improve the quality and 
+24
+cost of care furnished to employees or enrollees; 
+25
+00:45 Mar 03, 2020
+H6004
+11 
+•HR 6004 IH
+‘‘(E) enabling group health plans and 
+1
+health insurance issuers to evaluate network de-
+2
+sign, network construction, and the cost of care 
+3
+furnished to enrollees; 
+4
+‘‘(F) facilitating State-led initiatives to 
+5
+lower health care costs and improve health care 
+6
+quality; or 
+7
+‘‘(G) promoting competition based on qual-
+8
+ity and cost. 
+9
+‘‘(e) PRIVACY REGULATIONS.—The Secretary shall 
+10
+promulgate regulations specifying the extent and manner 
+11
+to which any applicable Federal law or regulation relating 
+12
+to privacy shall apply to activities carried out pursuant 
+13
+to a grant made under the program and may issue any 
+14
+additional regulation determined necessary by the Sec-
+15
+retary to ensure appropriate confidentiality of data associ-
+16
+ated with such activities. 
+17
+‘‘(f) DISCLOSURE OF DATA.—Any State (or compact 
+18
+of States) receiving a grant under the program to estab-
+19
+lish, maintain, or expand an all-payer claims database 
+20
+shall work to make all information contained in such data-
+21
+base available to the Director of the Congressional Budget 
+22
+Office, the Comptroller General of the United States, the 
+23
+Executive Director of the Medicare Payment Advisory 
+24
+Commission, and the Executive Director of the Medicaid 
+25
+00:45 Mar 03, 2020
+H6004
+12 
+•HR 6004 IH
+and CHIP Advisory Committee upon request, subject to 
+1
+any regulation described in subsection (e) and State law. 
+2
+Such information may be made available in the form of 
+3
+raw data, summary reports, or such other format deter-
+4
+mined appropriate by the requesting entity and the State 
+5
+(or compact of States). 
+6
+‘‘(g) DEFINITION.—For purposes of this section, the 
+7
+term ‘all-payer claims database’ means, with respect to a 
+8
+State (or compact of States), a State or regional database 
+9
+operated by (or under contract with) a State (or compact 
+10
+of States) that may include medical claims, pharmacy 
+11
+claims, dental claims, member eligibility, and provider files 
+12
+which are collected from private and public payers. 
+13
+‘‘(h) AUTHORIZATION OF APPROPRIATIONS.—There 
+14
+are authorized to be appropriated $100,000,000 to carry 
+15
+out this section.’’. 
+16
+SEC. 3. ALLOWING FOR COLLECTION OF INFORMATION 
+17
+FROM SELF-INSURED GROUP HEALTH PLANS. 
+18
+Section 514(b) of the Employee Retirement Income 
+19
+Security Act of 1974 (29 U.S.C. 1144(b)) is amended by 
+20
+adding at the end the following new paragraph: 
+21
+‘‘(10) Subsection (a) shall not apply to any State law 
+22
+requiring a group health plan (including a self-insured 
+23
+group health plan) to provide claims data to an all-payer 
+24
+00:45 Mar 03, 2020
+H6004
+13 
+•HR 6004 IH
+claims database (as defined in section 2795(g) of the Pub-
+1
+lic Health Service Act).’’. 
+2
+Æ 
+00:45 Mar 03, 2020
+H6004

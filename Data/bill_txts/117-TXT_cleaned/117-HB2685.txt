@@ -1,0 +1,400 @@
+A BILL 
+To direct the Assistant Secretary of Commerce for Commu-
+nications and Information to submit to Congress a report 
+examining the cybersecurity of mobile service networks, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Understanding Cyber-
+4
+security of Mobile Networks Act’’. 
+5
+23:36 Jun 02, 2021
+H2685
+2 
+•HR 2685 IH
+SEC. 2. REPORT ON CYBERSECURITY OF MOBILE SERVICE 
+1
+NETWORKS. 
+2
+(a) IN GENERAL.—Not later than 1 year after the 
+3
+date of the enactment of this Act, the Assistant Secretary, 
+4
+in consultation with the Department of Homeland Secu-
+5
+rity, shall submit to Congress a report examining the cy-
+6
+bersecurity of mobile service networks and the vulner-
+7
+ability of such networks and mobile devices to cyberattacks 
+8
+and surveillance conducted by adversaries. 
+9
+(b) MATTERS TO BE INCLUDED.—The report re-
+10
+quired by subsection (a) shall include the following: 
+11
+(1) An assessment of the degree to which pro-
+12
+viders of mobile service have addressed, are address-
+13
+ing, 
+or 
+have 
+not 
+addressed 
+cybersecurity 
+14
+vulnerabilities (including vulnerabilities the exploi-
+15
+tation of which could lead to surveillance conducted 
+16
+by adversaries) identified by academic and inde-
+17
+pendent researchers, multistakeholder standards and 
+18
+technical organizations, industry experts, and Fed-
+19
+eral agencies, including in relevant reports of— 
+20
+(A) the National Telecommunications and 
+21
+Information Administration; 
+22
+(B) the National Institute of Standards 
+23
+and Technology; and 
+24
+(C) the Department of Homeland Security, 
+25
+including— 
+26
+23:36 Jun 02, 2021
+H2685
+3 
+•HR 2685 IH
+(i) the Cybersecurity and Infrastruc-
+1
+ture Security Agency; and 
+2
+(ii) the Science and Technology Direc-
+3
+torate. 
+4
+(2) A discussion of— 
+5
+(A) the degree to which customers (includ-
+6
+ing consumers, companies, and government 
+7
+agencies) consider cybersecurity as a factor 
+8
+when considering the purchase of mobile serv-
+9
+ice; and 
+10
+(B) the commercial availability of tools, 
+11
+frameworks, best practices, and other resources 
+12
+for enabling such customers to evaluate risk 
+13
+and price tradeoffs. 
+14
+(3) A discussion of the degree to which pro-
+15
+viders of mobile service have implemented cybersecu-
+16
+rity best practices and risk assessment frameworks. 
+17
+(4) An estimate and discussion of the preva-
+18
+lence and efficacy of encryption and authentication 
+19
+algorithms and techniques used in each of the fol-
+20
+lowing: 
+21
+(A) Mobile service. 
+22
+(B) Mobile communications equipment or 
+23
+services. 
+24
+23:36 Jun 02, 2021
+H2685
+4 
+•HR 2685 IH
+(C) Commonly used mobile phones and 
+1
+other mobile devices. 
+2
+(D) Commonly used mobile operating sys-
+3
+tems and communications software and applica-
+4
+tions. 
+5
+(5) Barriers for providers of mobile service to 
+6
+adopt more efficacious encryption and authentication 
+7
+algorithms and techniques and to prohibit the use of 
+8
+older encryption and authentication algorithms and 
+9
+techniques with established vulnerabilities in mobile 
+10
+service, mobile communications equipment or serv-
+11
+ices, and mobile phones and other mobile devices. 
+12
+(6) The prevalence, usage, and availability of 
+13
+technologies that authenticate legitimate mobile 
+14
+service and mobile communications equipment or 
+15
+services to which mobile phones and other mobile de-
+16
+vices are connected. 
+17
+(7) The prevalence, costs, commercial avail-
+18
+ability, and usage by adversaries in the United 
+19
+States of cell site simulators (often known as inter-
+20
+national mobile subscriber identity-catchers) and 
+21
+other mobile service surveillance and interception 
+22
+technologies. 
+23
+23:36 Jun 02, 2021
+H2685
+5 
+•HR 2685 IH
+(c) CONSULTATION.—In preparing the report re-
+1
+quired by subsection (a), the Assistant Secretary shall, to 
+2
+the degree practicable, consult with— 
+3
+(1) the Commission; 
+4
+(2) the National Institute of Standards and 
+5
+Technology; 
+6
+(3) the intelligence community; 
+7
+(4) the Cybersecurity and Infrastructure Secu-
+8
+rity Agency of the Department of Homeland Secu-
+9
+rity; 
+10
+(5) the Science and Technology Directorate of 
+11
+the Department of Homeland Security; 
+12
+(6) academic and independent researchers with 
+13
+expertise in privacy, encryption, cybersecurity, and 
+14
+network threats; 
+15
+(7) participants in multistakeholder standards 
+16
+and technical organizations (including the 3rd Gen-
+17
+eration Partnership Project and the Internet Engi-
+18
+neering Task Force); 
+19
+(8) international stakeholders, in coordination 
+20
+with the Department of State as appropriate; 
+21
+(9) providers of mobile service; 
+22
+(10) manufacturers, operators, and providers of 
+23
+mobile communications equipment or services and 
+24
+mobile phones and other mobile devices; 
+25
+23:36 Jun 02, 2021
+H2685
+6 
+•HR 2685 IH
+(11) developers of mobile operating systems and 
+1
+communications software and applications; and 
+2
+(12) other experts that the Assistant Secretary 
+3
+considers appropriate. 
+4
+(d) SCOPE OF REPORT.—The Assistant Secretary 
+5
+shall— 
+6
+(1) limit the report required by subsection (a) 
+7
+to mobile service networks; 
+8
+(2) exclude consideration of 5G protocols and 
+9
+networks in the report required by subsection (a); 
+10
+(3) limit the assessment required by subsection 
+11
+(b)(1) to vulnerabilities that have been shown to 
+12
+be— 
+13
+(A) exploited in non-laboratory settings; or 
+14
+(B) feasibly and practicably exploitable in 
+15
+real-world conditions; and 
+16
+(4) consider in the report required by sub-
+17
+section (a) vulnerabilities that have been effectively 
+18
+mitigated by manufacturers of mobile phones and 
+19
+other mobile devices. 
+20
+(e) FORM OF REPORT.—The report required by sub-
+21
+section (a) shall be produced in unclassified form but may 
+22
+contain a classified annex. 
+23
+(f) AUTHORIZATION OF APPROPRIATIONS.—There is 
+24
+authorized to be appropriated to carry out this section 
+25
+23:36 Jun 02, 2021
+H2685
+7 
+•HR 2685 IH
+$500,000 for fiscal year 2021. Such amount is authorized 
+1
+to remain available through fiscal year 2022. 
+2
+(g) DEFINITIONS.—In this section: 
+3
+(1) ADVERSARY.—The term ‘‘adversary’’ in-
+4
+cludes— 
+5
+(A) any unauthorized hacker or other in-
+6
+truder into a mobile service network; and 
+7
+(B) any foreign government or foreign 
+8
+nongovernment person engaged in a long-term 
+9
+pattern or serious instances of conduct signifi-
+10
+cantly adverse to the national security of the 
+11
+United States or security and safety of United 
+12
+States persons. 
+13
+(2) ASSISTANT SECRETARY.—The term ‘‘Assist-
+14
+ant Secretary’’ means the Assistant Secretary of 
+15
+Commerce for Communications and Information. 
+16
+(3) ENTITY.—The term ‘‘entity’’ means a part-
+17
+nership, association, trust, joint venture, corpora-
+18
+tion, group, subgroup, or other organization. 
+19
+(4) INTELLIGENCE
+COMMUNITY.—The term 
+20
+‘‘intelligence community’’ has the meaning given 
+21
+that term in section 3 of the National Security Act 
+22
+of 1947 (50 U.S.C. 3003). 
+23
+(5) MOBILE COMMUNICATIONS EQUIPMENT OR 
+24
+SERVICE.—The term ‘‘mobile communications equip-
+25
+23:36 Jun 02, 2021
+H2685
+8 
+•HR 2685 IH
+ment or service’’ means any equipment or service 
+1
+that is essential to the provision of mobile service. 
+2
+(6) MOBILE SERVICE.—The term ‘‘mobile serv-
+3
+ice’’ means, to the extent provided to United States 
+4
+customers, either or both of the following services: 
+5
+(A) Commercial mobile service (as defined 
+6
+in section 332(d) of the Communications Act of 
+7
+1934 (47 U.S.C. 332(d))). 
+8
+(B) Commercial mobile data service (as de-
+9
+fined in section 6001 of the Middle Class Tax 
+10
+Relief and Job Creation Act of 2012 (47 U.S.C. 
+11
+1401)). 
+12
+(7) PERSON.—The term ‘‘person’’ means an in-
+13
+dividual or entity. 
+14
+(8) 
+UNITED
+STATES
+PERSON.—The 
+term 
+15
+‘‘United States person’’ means— 
+16
+(A) an individual who is a United States 
+17
+citizen or an alien lawfully admitted for perma-
+18
+nent residence to the United States; 
+19
+(B) an entity organized under the laws of 
+20
+the United States or any jurisdiction within the 
+21
+United States, including a foreign branch of 
+22
+such an entity; or 
+23
+(C) any person in the United States. 
+24
+Æ 
+23:36 Jun 02, 2021
+H2685

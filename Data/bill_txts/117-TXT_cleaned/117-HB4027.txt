@@ -1,0 +1,662 @@
+A BILL 
+To facilitate the generation and delivery of power from af-
+fordable and reliable renewable generation projects and 
+energy storage projects. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; DEFINITIONS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Efficient Grid Interconnection Act of 2021’’. 
+5
+(b) DEFINITIONS.—In this Act: 
+6
+(1) COMMISSION.—The term ‘‘Commission’’ 
+7
+means the Federal Energy Regulatory Commission. 
+8
+04:01 Jul 09, 2021
+H4027
+2 
+•HR 4027 IH
+(2) ENERGY
+STORAGE
+PROJECT.—The term 
+1
+‘‘energy storage project’’ means equipment which re-
+2
+ceives, stores, and delivers energy using batteries, 
+3
+compressed air, pumped hydropower, hydrogen stor-
+4
+age (including hydrolysis), thermal energy storage, 
+5
+regenerative fuel cells, flywheels, capacitors, super-
+6
+conducting magnets, or other technologies identified 
+7
+by the Secretary of Energy, and which has a capac-
+8
+ity of not less than 5 kilowatt hours. 
+9
+(3) GENERATION
+PROJECT.—The term ‘‘gen-
+10
+eration project’’ means any facility— 
+11
+(A) that generates electricity; and 
+12
+(B) the interconnection request of which is 
+13
+subject to the jurisdiction of the Commission. 
+14
+(4) GENERATOR TIE LINE.—The term ‘‘gener-
+15
+ator tie line’’ means a dedicated transmission line 
+16
+that is used to transmit power from a generation 
+17
+project or an energy storage project to a trans-
+18
+mission facility or a transmission system. 
+19
+(5) GRID ENHANCING TECHNOLOGY.—The term 
+20
+‘‘grid enhancing technology’’ means any technology 
+21
+or equipment that increases the capacity, efficiency, 
+22
+or reliability of a transmission facility or trans-
+23
+mission system, including— 
+24
+04:01 Jul 09, 2021
+H4027
+3 
+•HR 4027 IH
+(A) power flow control and transmission 
+1
+switching equipment; 
+2
+(B) energy storage technology; 
+3
+(C) topology optimization technology; 
+4
+(D) dynamic line rating technology; and 
+5
+(E) other advanced transmission tech-
+6
+nologies, such as composite reinforced alu-
+7
+minum conductors or high temperature super-
+8
+conductors. 
+9
+(6) INTERCONNECTION CUSTOMER.—The term 
+10
+‘‘interconnection customer’’ means a person or entity 
+11
+that has submitted a request to interconnect a gen-
+12
+eration project or an energy storage project that is 
+13
+subject to the jurisdiction of the Commission to the 
+14
+owner or operator of a transmission facility or a 
+15
+transmission system. 
+16
+(7) NETWORK UPGRADE.—The term ‘‘network 
+17
+upgrade’’ means— 
+18
+(A) any modification of, addition to, or ex-
+19
+pansion of any transmission facility or trans-
+20
+mission system; 
+21
+(B) the construction of a new facility that 
+22
+will become part of a transmission system; 
+23
+04:01 Jul 09, 2021
+H4027
+4 
+•HR 4027 IH
+(C) the addition of an energy storage 
+1
+project to a transmission facility or a trans-
+2
+mission system; and 
+3
+(D) any construction, deployment, or addi-
+4
+tion of grid enhancing technology to a trans-
+5
+mission facility or a transmission system that 
+6
+eliminates or reduces the need to carry out any 
+7
+of the activities described in subparagraphs (A) 
+8
+through (C). 
+9
+(8) PARTICIPANT FUNDING.—The term ‘‘partic-
+10
+ipant funding’’ means any cost allocation method 
+11
+under which an interconnection customer is required 
+12
+to pay, without reimbursement, all or a dispropor-
+13
+tionate amount of the costs of a network upgrade 
+14
+that is determined to be necessary to ensure the reli-
+15
+able interconnection of the interconnection cus-
+16
+tomer’s generation project or energy storage project. 
+17
+(9) PUBLIC UTILITY.—The term ‘‘public util-
+18
+ity’’ has the meaning given such term in section 
+19
+201(e) of the Federal Power Act (16 U.S.C. 824(e)). 
+20
+(10) RENEWABLE GENERATION PROJECT.—The 
+21
+term ‘‘renewable generation project’’ means a gen-
+22
+eration project that generates electricity from a re-
+23
+newable energy resource, including wind, solar, geo-
+24
+thermal, and hydropower. 
+25
+04:01 Jul 09, 2021
+H4027
+5 
+•HR 4027 IH
+(11) REGIONAL TRANSMISSION ORGANIZATION; 
+1
+INDEPENDENT
+SYSTEM
+OPERATOR.—The 
+terms 
+2
+‘‘Regional Transmission Organization’’ and ‘‘Inde-
+3
+pendent System Operator’’ have the meanings given 
+4
+such terms in section 3 of the Federal Power Act 
+5
+(16 U.S.C. 796). 
+6
+(12) 
+TRANSMISSION
+SYSTEM.—The 
+term 
+7
+‘‘transmission system’’ means a network of trans-
+8
+mission facilities used for the transmission of elec-
+9
+tric energy in interstate commerce. 
+10
+SEC. 2. SENSE OF CONGRESS. 
+11
+It is the sense of Congress that— 
+12
+(1) in much of the United States renewable 
+13
+generation projects and energy storage projects face 
+14
+unfair and inefficient barriers to Commission-juris-
+15
+dictional interconnection with the electric grid; 
+16
+(2) legislation is needed to accelerate the timely 
+17
+and efficient interconnection of renewable generation 
+18
+projects and energy storage projects, and to ensure 
+19
+that individual interconnection customers are not 
+20
+forced to bear disproportionate amounts of shared 
+21
+network upgrade costs; 
+22
+(3) network upgrades required to be con-
+23
+structed 
+to 
+interconnect 
+renewable 
+generation 
+24
+projects and energy storage projects benefit all 
+25
+04:01 Jul 09, 2021
+H4027
+6 
+•HR 4027 IH
+transmission system customers as well as parties 
+1
+that receive power delivered over such transmission 
+2
+systems; 
+3
+(4) the practice of exclusive or disproportionate 
+4
+participant funding, whereby the costs of network 
+5
+upgrades are assigned solely or disproportionately to 
+6
+individual interconnection customers, is unduly dis-
+7
+criminatory, harmful to consumers, and not in the 
+8
+public interest; 
+9
+(5) in certain cases, the deployment of grid en-
+10
+hancing technologies can substitute for, and thereby 
+11
+reduce the need for, time required, or cost to con-
+12
+struct, a traditional transmission upgrade or addi-
+13
+tion, such as modifying or adding a conductor or 
+14
+substation element, that otherwise would be required 
+15
+to interconnect a new generation project or energy 
+16
+storage project; 
+17
+(6) by reducing the need for, and the time nec-
+18
+essary to construct, a traditional transmission up-
+19
+grade or addition, such as modifying or adding a 
+20
+conductor or substation element, the deployment of 
+21
+grid enhancing technologies would facilitate timely, 
+22
+efficient, and cost-effective interconnections, and the 
+23
+renewable generation projects and energy storage 
+24
+projects dependent on those interconnections, and 
+25
+04:01 Jul 09, 2021
+H4027
+7 
+•HR 4027 IH
+the delivery of clean and reliable electricity produced 
+1
+by those projects; and 
+2
+(7) collectively, the development and construc-
+3
+tion of renewable generation projects, energy storage 
+4
+projects, and grid enhancing technologies should cre-
+5
+ate tens of thousands of family-sustaining jobs, fa-
+6
+cilitate rural economic development, enhance Federal 
+7
+and State tax revenues, and further the timely and 
+8
+cost-effective delivery of clean, affordable, and reli-
+9
+able electricity. 
+10
+SEC. 3. EQUITABLE COST ALLOCATION. 
+11
+(a) IN GENERAL.—Not later than 180 days after the 
+12
+date of enactment of this Act, the Commission shall issue 
+13
+a new regulation, or revise existing regulations, to prohibit 
+14
+the use of exclusive or disproportionate participant fund-
+15
+ing. 
+16
+(b) ALLOCATION OF COSTS.— 
+17
+(1) IN GENERAL.—In prohibiting the use of ex-
+18
+clusive or disproportionate participant funding under 
+19
+subsection (a), the Commission shall, except as pro-
+20
+vided in paragraph (4), require that each public util-
+21
+ity— 
+22
+(A) may not allocate the costs of a network 
+23
+upgrade solely to the requesting interconnection 
+24
+customer; and 
+25
+04:01 Jul 09, 2021
+H4027
+8 
+•HR 4027 IH
+(B) shall reasonably allocate such costs to 
+1
+parties that— 
+2
+(i) use the transmission facility or the 
+3
+transmission system; 
+4
+(ii) take electricity from the trans-
+5
+mission facility or the transmission system; 
+6
+or 
+7
+(iii) otherwise benefit from a network 
+8
+upgrade of the transmission facility or the 
+9
+transmission system. 
+10
+(2) INTERCONNECTION
+TO
+MULTIPLE
+TRANS-
+11
+MISSION SYSTEMS.—With respect to a network up-
+12
+grade that is associated with a generation project or 
+13
+an energy storage project that has a significant im-
+14
+pact on two or more transmission systems, the costs 
+15
+for such a network upgrade shall be allocated pursu-
+16
+ant to a methodology designed jointly by the im-
+17
+pacted transmission systems to ensure that all such 
+18
+costs are equitably shared by the parties that benefit 
+19
+from such network upgrade. 
+20
+(3) DETERMINATION
+OF
+BENEFITTING
+PAR-
+21
+TIES.—In determining which parties benefit for pur-
+22
+poses of paragraph (1)(B)(iii) and paragraph (2), 
+23
+the Commission shall consider all material benefits 
+24
+of the network upgrade, including— 
+25
+04:01 Jul 09, 2021
+H4027
+9 
+•HR 4027 IH
+(A) those that cannot be directly quan-
+1
+tified, including resilience benefits; and 
+2
+(B) environmental benefits, including re-
+3
+duced and avoided emissions of greenhouse 
+4
+gases and conventional air pollutants. 
+5
+(4) GENERATOR TIE LINES.—A public utility 
+6
+may require an interconnection customer to pay for 
+7
+the costs of construction of any generator tie lines 
+8
+that will be used to transmit power from the inter-
+9
+connection customer’s generation project or energy 
+10
+storage project, as applicable, to the transmission fa-
+11
+cility or the transmission system. 
+12
+(5) VOLUNTARY PAYMENT.— 
+13
+(A) IN GENERAL.—An interconnection cus-
+14
+tomer may pay upfront some or all of the costs 
+15
+of a network upgrade at the transmission facil-
+16
+ity or transmission system to which they plan 
+17
+to interconnect their generation project or en-
+18
+ergy storage project in accordance with sub-
+19
+paragraph (B). 
+20
+(B) 
+REPAYMENT.—Any 
+interconnection 
+21
+customer that pays costs under subparagraph 
+22
+(A) shall be refunded such costs allocable to 
+23
+other parties pursuant to the Commission’s reg-
+24
+ulations issued or revised under this section, 
+25
+04:01 Jul 09, 2021
+H4027
+10 
+•HR 4027 IH
+over a period that is not longer than 10 years 
+1
+beginning on the date on which the interconnec-
+2
+tion customer’s interconnection is complete. 
+3
+(6) UPDATING PROCEDURES.—Not later than 
+4
+the date that is 3 months after the date on which 
+5
+the Commission issues or revises regulations as re-
+6
+quired under subsection (a), each public utility shall 
+7
+make a filing pursuant to section 205 of the Federal 
+8
+Power Act (16 U.S.C. 824d) to amend their inter-
+9
+connection procedures to comply with such regula-
+10
+tions. 
+11
+SEC. 
+4. 
+DEPLOYMENT 
+OF 
+GRID 
+ENHANCING 
+TECH-
+12
+NOLOGIES. 
+13
+Not later than 180 days after the date of enactment 
+14
+of this Act, the Commission shall issue a new regulation, 
+15
+or revise existing regulations, to require the following: 
+16
+(1) CONSULTATION.— 
+17
+(A) IN GENERAL.—With respect to proc-
+18
+essing a request to interconnect a generation 
+19
+project or an energy storage project, the Re-
+20
+gional Transmission Organization, Independent 
+21
+System Operator, or transmission planning co-
+22
+ordinator, as applicable, shall— 
+23
+(i) consult with the relevant owner of 
+24
+the transmission facility or transmission 
+25
+04:01 Jul 09, 2021
+H4027
+11 
+•HR 4027 IH
+system, and the interconnection customer, 
+1
+regarding deploying grid enhancing tech-
+2
+nology in addition to, or as a substitute to, 
+3
+carrying out a traditional transmission up-
+4
+grade or addition, such as modifying or 
+5
+adding a conductor or substation element; 
+6
+and 
+7
+(ii) study the efficacy of deploying 
+8
+grid enhancing technology for the purposes 
+9
+described in clause (i). 
+10
+(B) UNCONNECTED TRANSMISSION FACILI-
+11
+TIES.—With respect to a request to inter-
+12
+connect a generation project or an energy stor-
+13
+age project to a transmission facility that is not 
+14
+connected to a transmission system, the owner 
+15
+or operator of such a facility shall— 
+16
+(i) consult with the interconnection 
+17
+customer regarding deploying grid enhanc-
+18
+ing technology in addition to, or as a sub-
+19
+stitute to, carrying out a traditional trans-
+20
+mission upgrade or addition, such as modi-
+21
+fying or adding a conductor or substation 
+22
+element; and 
+23
+04:01 Jul 09, 2021
+H4027
+12 
+•HR 4027 IH
+(ii) study the efficacy of deploying 
+1
+grid enhancing technology for the purposes 
+2
+described in clause (i). 
+3
+(2) DEPLOYMENT.— 
+4
+(A) IN GENERAL.—An interconnection cus-
+5
+tomer that is consulted with under paragraph 
+6
+(1) may request that grid enhancing technology 
+7
+that was the subject of such consultation be de-
+8
+ployed. 
+9
+(B) DETERMINATION.—The owner of the 
+10
+transmission facility or transmission system to 
+11
+which such technology would be deployed shall 
+12
+determine whether to deploy such technology, 
+13
+subject to an appeal under subparagraph (C). 
+14
+(C) APPEAL.— 
+15
+(i) IN GENERAL.—An interconnection 
+16
+customer that requests deployment of grid 
+17
+enhancing technology under subparagraph 
+18
+(A) may submit to the Commission a re-
+19
+quest for a hearing to appeal the decision 
+20
+under subparagraph (B) to not deploy grid 
+21
+enhancing technology. 
+22
+(ii) EFFECT
+OF
+APPEAL.—After a 
+23
+hearing under clause (i), the Commission 
+24
+may order the owner of the transmission 
+25
+04:01 Jul 09, 2021
+H4027
+13 
+•HR 4027 IH
+facility or transmission system to deploy 
+1
+the grid enhancing technology requested 
+2
+under subparagraph (A). 
+3
+(3) UPDATING PROCEDURES.—Not later than 
+4
+the date that is 3 months after the date on which 
+5
+the Commission issues or revises regulations as re-
+6
+quired under this section, each public utility shall 
+7
+make a filing pursuant to section 205 of the Federal 
+8
+Power Act (16 U.S.C. 824d) to amend their inter-
+9
+connection procedures to comply with such regula-
+10
+tions. 
+11
+Æ 
+04:01 Jul 09, 2021
+H4027

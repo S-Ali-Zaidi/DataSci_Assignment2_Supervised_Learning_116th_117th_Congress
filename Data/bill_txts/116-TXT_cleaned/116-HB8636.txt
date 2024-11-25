@@ -1,0 +1,169 @@
+A BILL 
+To amend section 230(c) of the Communications Act of 
+1934 to prevent immunity for interactive computer serv-
+ices for certain claims, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Protecting Americans 
+4
+from Dangerous Algorithms Act’’. 
+5
+SEC. 2. AMENDMENT. 
+6
+Section 230(c) of the Communications Act of 1934 
+7
+(47 U.S.C. 230(c)) is amended by adding at the end the 
+8
+following new paragraph: 
+9
+19:42 Nov 05, 2020
+H8636
+2 
+•HR 8636 IH
+‘‘(3) ALGORITHMIC AMPLIFICATION.— 
+1
+‘‘(A) IN GENERAL.—For purposes of para-
+2
+graph (1), an interactive computer service shall 
+3
+be considered to be an information content pro-
+4
+vider and the protection under such paragraph 
+5
+shall not apply for any claim described in sub-
+6
+paragraph (B). 
+7
+‘‘(B) CONDITIONS FOR CLAIM.— 
+8
+‘‘(i) IN
+GENERAL.—A claim in this 
+9
+subparagraph requires the following: 
+10
+‘‘(I) A claim in a civil action is 
+11
+brought under— 
+12
+‘‘(aa) section 1980 or 1981 
+13
+of the Revised Statutes (42 
+14
+U.S.C. 1985; 42 U.S.C. 1986); 
+15
+or 
+16
+‘‘(bb) section 2333 of title 
+17
+18, United States Code. 
+18
+‘‘(II) Except as provided in 
+19
+clause (ii), the claim involves a case in 
+20
+which the interactive computer service 
+21
+used an algorithm, model, or other 
+22
+computational process to rank, order, 
+23
+promote, 
+recommend, 
+amplify, 
+or 
+24
+similarly alter the delivery or display 
+25
+19:42 Nov 05, 2020
+H8636
+3 
+•HR 8636 IH
+of information (including any text, 
+1
+image, audio, or video post, page, 
+2
+group, account, or affiliation) pro-
+3
+vided to a user of the service if the in-
+4
+formation is directly relevant to the 
+5
+claim. 
+6
+‘‘(ii) 
+EXCEPTION.—Notwithstanding 
+7
+clause (i)(II), the requirement is not met 
+8
+if— 
+9
+‘‘(I) the information delivery or 
+10
+display is ranked, ordered, promoted, 
+11
+recommended, amplified, or similarly 
+12
+altered in a way that is obvious, un-
+13
+derstandable, and transparent to a 
+14
+reasonable user based only on the de-
+15
+livery or display of the information 
+16
+(without the need to reference the 
+17
+terms of service or any other agree-
+18
+ment), 
+including 
+sorting 
+informa-
+19
+tion— 
+20
+‘‘(aa) chronologically or re-
+21
+verse chronologically; 
+22
+‘‘(bb) by average user rating 
+23
+or number of user reviews; 
+24
+‘‘(cc) alphabetically; and 
+25
+19:42 Nov 05, 2020
+H8636
+4 
+•HR 8636 IH
+‘‘(dd) randomly; or 
+1
+‘‘(II) the algorithm, model, or 
+2
+other computational process is used 
+3
+for information a user specifically 
+4
+searches for. 
+5
+‘‘(C) SMALL BUSINESS EXCEPTION.—This 
+6
+paragraph shall not apply to an interactive 
+7
+computer service that (in combination with each 
+8
+subsidiary and affiliate of the service) has 
+9
+50,000,000 or fewer unique monthly visitors or 
+10
+users for a majority of the preceding 12 
+11
+months.’’. 
+12
+Æ 
+19:42 Nov 05, 2020
+H8636

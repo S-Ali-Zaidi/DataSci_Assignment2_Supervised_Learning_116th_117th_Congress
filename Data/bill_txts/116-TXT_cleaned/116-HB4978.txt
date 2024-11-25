@@ -1,0 +1,7070 @@
+A BILL 
+To provide for individual rights relating to privacy of per-
+sonal information, to establish privacy and security re-
+quirements for covered entities relating to personal infor-
+mation, and to establish an agency to be known as the 
+United States Digital Privacy Agency to enforce such 
+rights and requirements, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+00:42 Nov 13, 2019
+H4978
+2 
+•HR 4978 IH
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+1
+(a) SHORT TITLE.—This Act may be cited as the 
+2
+‘‘Online Privacy Act of 2019’’. 
+3
+(b) TABLE OF CONTENTS.—The table of contents for 
+4
+this Act is as follows: 
+5
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+Sec. 3. Prohibition on waivers. 
+Sec. 4. Effective date. 
+Sec. 5. Journalism protection. 
+Sec. 6. Small business compliance ramp. 
+Sec. 7. Criminal prohibition on disclosing personal information. 
+Sec. 8. Limitation on disclosing nonredacted government records. 
+TITLE I—INDIVIDUAL RIGHTS 
+Sec. 101. Right of access. 
+Sec. 102. Right of correction. 
+Sec. 103. Right of deletion. 
+Sec. 104. Right of portability. 
+Sec. 105. Right to human review of automated decisions. 
+Sec. 106. Right to individual autonomy. 
+Sec. 107. Right to be informed. 
+Sec. 108. Right to impermanence. 
+Sec. 109. Exemptions, exceptions, fees, timelines, and rules of construction for 
+rights under this title. 
+TITLE II—REQUIREMENTS FOR COVERED ENTITIES, SERVICE 
+PROVIDERS, AND THIRD PARTIES 
+Sec. 201. Minimization and articulated basis for collection, processing, and 
+maintenance. 
+Sec. 202. Minimization and records of access by employees and contractors. 
+Sec. 203. Prohibition on the collection or maintenance of personal information. 
+Sec. 204. Prohibitions on the disclosure of personal information. 
+Sec. 205. Disclosure to entities not subject to United States jurisdiction or not 
+compliant with this Act. 
+Sec. 206. Prohibition on reidentification. 
+Sec. 207. Restrictions on collection, processing, and disclosure of contents of 
+communications. 
+Sec. 208. Prohibition on discriminatory processing. 
+Sec. 209. Restrictions on genetic information. 
+Sec. 210. Requirements for notice and consent processes and privacy policies. 
+Sec. 211. Prohibition on deceptive notice and consent processes and privacy 
+policies. 
+Sec. 212. Notice and consent required. 
+Sec. 213. Privacy policy. 
+Sec. 214. Information security requirements. 
+Sec. 215. Notification of data breach or data sharing abuse. 
+TITLE III—UNITED STATES DIGITAL PRIVACY AGENCY 
+22:27 Nov 14, 2019
+H4978
+3 
+•HR 4978 IH
+Sec. 301. Establishment. 
+Sec. 302. Executive and administrative powers. 
+Sec. 303. Rulemaking authority. 
+Sec. 304. Personnel. 
+Sec. 305. Complaints of individuals. 
+Sec. 306. User advisory board. 
+Sec. 307. Academic and research advisory board. 
+Sec. 308. Small business and investor advisory board. 
+Sec. 309. Consultation. 
+Sec. 310. Reports. 
+Sec. 311. Grants for developing open-source machine learning training data. 
+Sec. 312. Annual audits. 
+Sec. 313. Inspector General. 
+Sec. 314. Authorization of appropriations. 
+TITLE IV—ENFORCEMENT 
+Sec. 401. Definitions. 
+Sec. 402. Investigations and administrative discovery. 
+Sec. 403. Hearings and adjudication proceedings. 
+Sec. 404. Litigation authority. 
+Sec. 405. Coordination with other Federal agencies. 
+Sec. 406. Enforcement by States. 
+Sec. 407. Private rights of action. 
+Sec. 408. Relief available. 
+Sec. 409. Referral for criminal proceedings. 
+Sec. 410. Whistleblower enforcement. 
+TITLE V—RELATION TO OTHER LAW 
+Sec. 501. Relation to other Federal law. 
+Sec. 502. Severability. 
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) AGENCY.—The term ‘‘Agency’’ means the 
+3
+United States Digital Privacy Agency established by 
+4
+section 301. 
+5
+(2) BEHAVIORAL PERSONALIZATION.— 
+6
+(A) IN GENERAL.—The term ‘‘behavioral 
+7
+personalization’’ means the processing of an in-
+8
+dividual’s personal information, using an algo-
+9
+rithm, model, or other means built using that 
+10
+individual’s personal information collected over 
+11
+00:42 Nov 13, 2019
+H4978
+4 
+•HR 4978 IH
+a period of time, or an aggregate of the per-
+1
+sonal information of one or more similarly situ-
+2
+ated individuals and designed to— 
+3
+(i) alter, influence, guide, or predict 
+4
+an individual’s behavior; 
+5
+(ii) tailor or personalize a product or 
+6
+service; or 
+7
+(iii) filter, sort, limit, promote, display 
+8
+or otherwise differentiate between specific 
+9
+content or categories of content that would 
+10
+otherwise be accessible to the individual. 
+11
+(B) EXCLUSIONS.—The term ‘‘behavioral 
+12
+personalization’’ does not include the use of his-
+13
+torical personal information to merely prevent 
+14
+the display of or provide additional information 
+15
+about previously accessed content. 
+16
+(3) COLLECT.—The term ‘‘collect’’ includes, 
+17
+with respect to personal information or contents of 
+18
+communication, obtaining such information in any 
+19
+manner, except when solely transmitting, routing, 
+20
+providing intermediate storage for, or providing con-
+21
+nections for personal information through a system 
+22
+or network. 
+23
+(4) CONTENTS.—The term ‘‘contents’’, when 
+24
+used with respect to communication, has the mean-
+25
+00:42 Nov 13, 2019
+H4978
+5 
+•HR 4978 IH
+ing given such term in section 2510 of title 18, 
+1
+United States Code. 
+2
+(5) COVERED ENTITY.— 
+3
+(A) IN GENERAL.—The term ‘‘covered en-
+4
+tity’’ means a person who— 
+5
+(i) intentionally collects, processes, or 
+6
+maintains personal information; and 
+7
+(ii) sends or receives such personal in-
+8
+formation over the internet or a similar 
+9
+communications network. 
+10
+(B) EXCLUSION.—The term ‘‘covered enti-
+11
+ty’’ does not include a natural person, except to 
+12
+the extent such person is engaged in a commer-
+13
+cial activity that is more than de minimis. 
+14
+(6) DATA BREACH.—The term ‘‘data breach’’ 
+15
+means unauthorized access to or acquisition of per-
+16
+sonal information or contents of communications 
+17
+maintained by such covered entity. 
+18
+(7) DATA SHARING ABUSE.—The term ‘‘data 
+19
+sharing abuse’’ means processing, by a third party, 
+20
+of personal information or contents of communica-
+21
+tions disclosed by a covered entity to the third party, 
+22
+for any purpose other than— 
+23
+00:42 Nov 13, 2019
+H4978
+6 
+•HR 4978 IH
+(A) a purpose specified by the covered en-
+1
+tity to the third party at the time of disclosure; 
+2
+or 
+3
+(B) a purpose to which the individual to 
+4
+whom the information relates has consented. 
+5
+(8) DE-Identified.— 
+6
+(A) IN
+GENERAL.—The term ‘‘de-identi-
+7
+fied’’ means information that cannot reasonably 
+8
+identify, relate to, describe, reference, be capa-
+9
+ble of being associated with, or be linked, di-
+10
+rectly or indirectly, to a particular individual or 
+11
+device, provided that a business that uses de- 
+12
+identified information— 
+13
+(i) has de-identified the personal in-
+14
+formation using best practices for the 
+15
+types of data the information contains; 
+16
+(ii) has implemented technical safe-
+17
+guards that prohibit re-identification of the 
+18
+individual with whom the information was 
+19
+linked; 
+20
+(iii) has implemented business proc-
+21
+esses that specifically prohibit re-identifica-
+22
+tion of the information; 
+23
+22:27 Nov 14, 2019
+H4978
+7 
+•HR 4978 IH
+(iv) has implemented business proc-
+1
+esses to prevent inadvertent release of de- 
+2
+identified information; and 
+3
+(v) makes no attempt to re-identify 
+4
+the information. 
+5
+(B) The Director may determine that a 
+6
+methodology of de-identifying personal informa-
+7
+tion is insufficient for the purposes of this defi-
+8
+nition. 
+9
+(9) DIRECTOR.—The term ‘‘Director’’ means 
+10
+the Director of the Agency. 
+11
+(10) DISCLOSE.—The term ‘‘disclose’’ means, 
+12
+with respect to personal information or contents of 
+13
+communication, to sell, release, transfer, share, dis-
+14
+seminate, make available, or otherwise cause to be 
+15
+communicated such information to a third party. 
+16
+(11) 
+INDIVIDUAL.—The 
+term 
+‘‘individual’’ 
+17
+means a natural person residing in the United 
+18
+States. 
+19
+(12) MAINTAIN.—The term ‘‘maintain’’ means, 
+20
+with respect to personal information or contents of 
+21
+communication, to store, secure, or otherwise cause 
+22
+the retaining of such information, or taking actions 
+23
+necessary for such purposes. 
+24
+(13) PERSONAL INFORMATION.— 
+25
+00:42 Nov 13, 2019
+H4978
+8 
+•HR 4978 IH
+(A) IN GENERAL.—The term ‘‘personal in-
+1
+formation’’ means any information maintained 
+2
+by a covered entity that is linked or reasonably 
+3
+linkable to a specific individual or a specific de-
+4
+vice, including de-identified personal informa-
+5
+tion and the means to behavioral personaliza-
+6
+tion created for or linked to a specific indi-
+7
+vidual. 
+8
+(B) EXCLUSIONS.—The term ‘‘personal in-
+9
+formation’’ does not include— 
+10
+(i) publicly available information re-
+11
+lated to an individual; or 
+12
+(ii) information derived or inferred 
+13
+from personal information, if the derived 
+14
+or inferred information is not linked or 
+15
+reasonably linkable to a specific individual. 
+16
+(14) PRIVACY
+HARM.—The term ‘‘privacy 
+17
+harm’’ means adverse consequences or potential ad-
+18
+verse consequences to an individual or society arising 
+19
+from the collection, processing, maintenance, or dis-
+20
+closure of personal information, including— 
+21
+(A) direct or indirect financial loss or eco-
+22
+nomic harm; 
+23
+(B) physical harm; 
+24
+00:42 Nov 13, 2019
+H4978
+9 
+•HR 4978 IH
+(C) psychological harm, including anxiety, 
+1
+embarrassment, fear, and other demonstrable 
+2
+mental trauma; 
+3
+(D) adverse outcomes or decisions with re-
+4
+spect to the eligibility of an individual for 
+5
+rights, benefits, or privileges in employment (in-
+6
+cluding hiring, firing, promotion, demotion, and 
+7
+compensation), credit and insurance (including 
+8
+denial of an application or obtaining less favor-
+9
+able terms), housing, education, professional 
+10
+certification, or the provision of health care and 
+11
+related services; 
+12
+(E) stigmatization or reputational harm; 
+13
+(F) price discrimination; 
+14
+(G) other adverse consequences that affect 
+15
+the private life of an individual, including pri-
+16
+vate family matters and actions and commu-
+17
+nications within the home of such individual or 
+18
+a similar physical, online, or digital location 
+19
+where such individual has a reasonable expecta-
+20
+tion that personal information will not be col-
+21
+lected, processed, or retained; 
+22
+(H) chilling of free expression or action of 
+23
+an individual, group of individuals, or society 
+24
+generally, due to perceived or actual pervasive 
+25
+00:42 Nov 13, 2019
+H4978
+10 
+•HR 4978 IH
+and excessive collection, processing, disclosure, 
+1
+or maintenance of personal information by a 
+2
+covered entity; 
+3
+(I) impairing the autonomy of an indi-
+4
+vidual, group of individuals, or society gen-
+5
+erally; and 
+6
+(J) other adverse consequences or potential 
+7
+adverse consequences, consistent with the provi-
+8
+sions of this Act, as determined by the Direc-
+9
+tor. 
+10
+(15) PRIVACY PRESERVING COMPUTING.— 
+11
+(A) IN GENERAL.—The term ‘‘privacy pre-
+12
+serving computing’’ means— 
+13
+(i) the collecting, processing, dis-
+14
+closing, or maintaining of personal infor-
+15
+mation that has been encrypted or other-
+16
+wise rendered unintelligible using a means 
+17
+that cannot be reversed by a covered enti-
+18
+ty, or a covered entity’s service provider, 
+19
+such that— 
+20
+(I) if such personal information 
+21
+could be rendered intelligible through 
+22
+cooperation 
+or 
+sharing 
+of 
+cryp-
+23
+tographic secrets by multiple persons, 
+24
+the covered entity has both technical 
+25
+00:42 Nov 13, 2019
+H4978
+11 
+•HR 4978 IH
+safeguards and business processes to 
+1
+prevent such cooperation or sharing; 
+2
+(II) if such personal information 
+3
+is rendered intelligible within a hard-
+4
+ware processing unit or other means 
+5
+of performing operations on the infor-
+6
+mation, there are technical safeguards 
+7
+that, during the normal course of op-
+8
+eration— 
+9
+(aa) prevent rendering per-
+10
+sonal information intelligible any-
+11
+where but within the hardware 
+12
+processing unit or other means of 
+13
+performing operations; and 
+14
+(bb) make the exporting or 
+15
+otherwise observing of such intel-
+16
+ligible information, or the cryp-
+17
+tographic secret used to protect 
+18
+such information, impossible; and 
+19
+(III) if the result of such proc-
+20
+essing of the personal information is 
+21
+also personal information, such result 
+22
+must be unintelligible to the covered 
+23
+entity or service provider and pro-
+24
+00:42 Nov 13, 2019
+H4978
+12 
+•HR 4978 IH
+tected by privacy preserving com-
+1
+puting. 
+2
+(B) INSUFFICIENT METHODOLOGIES.—The 
+3
+Director may determine that a methodology of 
+4
+privacy preserving computing is insufficient for 
+5
+the purposes of this definition. 
+6
+(16) PROCESS.—The term ‘‘process’’ means to 
+7
+perform or cause to be performed any operation or 
+8
+set of operations on personal information or contents 
+9
+of communication, whether or not by automated 
+10
+means. 
+11
+(17) PROTECTED CLASS.—The term ‘‘protected 
+12
+class’’ means the actual or perceived race, color, eth-
+13
+nicity, national origin, religion, sex (including sexual 
+14
+orientation and gender identity), familial status, or 
+15
+disability of an individual or group of individuals. 
+16
+(18) PUBLICLY
+AVAILABLE
+INFORMATION.— 
+17
+The term ‘‘publicly available information’’ means— 
+18
+(A) information that is lawfully made 
+19
+available from Federal, State, or local govern-
+20
+ment records; 
+21
+(B) information about a public individual 
+22
+or official that is made publicly accessible, with-
+23
+out restrictions on accessibility other than the 
+24
+00:42 Nov 13, 2019
+H4978
+13 
+•HR 4978 IH
+general authorization to access the services used 
+1
+to make the information accessible; 
+2
+(C) information made publicly accessible 
+3
+by the individual to whom it pertains, without 
+4
+restrictions on accessibility other than the gen-
+5
+eral authorization to access the services used to 
+6
+make the information accessible, and that such 
+7
+individual has the ability to delete or change 
+8
+without relying on a request under section 102 
+9
+or 103 of this Act; and 
+10
+(D) does not include— 
+11
+(i) biometric information collected by 
+12
+a covered entity relating to an individual 
+13
+without the individual’s knowledge; 
+14
+(ii) information used for a purpose 
+15
+that is not compatible with the purpose for 
+16
+which the information is maintained and 
+17
+made available in government records; 
+18
+(iii) information obtained from gov-
+19
+ernment records for the purpose of selling 
+20
+such information; or 
+21
+(iv) information used to contact or lo-
+22
+cate a private individual either physically 
+23
+or electronically. 
+24
+00:42 Nov 13, 2019
+H4978
+14 
+•HR 4978 IH
+(19) REASONABLE
+MECHANISM.—The term 
+1
+‘‘reasonable mechanism’’ means, in the case of a 
+2
+mechanism for individuals to exercise a right under 
+3
+title I or interact with a covered entity under title 
+4
+II, that such mechanism— 
+5
+(A) is equivalent in availability and ease of 
+6
+use to that of other mechanisms for commu-
+7
+nicating or interacting with the covered entity; 
+8
+and 
+9
+(B) includes an online means of exercising 
+10
+such right or engaging in such interaction, if 
+11
+such individuals communicate or interact with 
+12
+such covered entity through an online medium 
+13
+or if such covered entity provides information 
+14
+processing services through a public or widely 
+15
+available application programming interface (or 
+16
+similar mechanism). 
+17
+(20) SELL AND SALE.— 
+18
+(A) IN GENERAL.—The terms ‘‘sell’’ and 
+19
+‘‘sale’’ means the disclosure of personal infor-
+20
+mation for monetary consideration by a covered 
+21
+entity to a third party for the purposes of proc-
+22
+essing, maintaining or disclosing such personal 
+23
+information at the third party’s discretion. 
+24
+00:42 Nov 13, 2019
+H4978
+15 
+•HR 4978 IH
+(B) EXCLUSIONS.—The terms ‘‘sell’’ and 
+1
+‘‘sale’’ do not include— 
+2
+(i) the disclosure of personal data to 
+3
+a third party with which the individual has 
+4
+a direct relationship for purposes of pro-
+5
+viding a product or service requested by 
+6
+the individual or otherwise in a manner 
+7
+that is consistent with an individual’s rea-
+8
+sonable expectations considering the con-
+9
+text in which the individual provided the 
+10
+personal information to the covered entity; 
+11
+(ii) the disclosure or transfer of per-
+12
+sonal information to a subsidiary or an af-
+13
+filiate of the covered entity; or 
+14
+(iii) the disclosure or transfer of per-
+15
+sonal information to a third party as an 
+16
+asset that is part of a merger, acquisition, 
+17
+bankruptcy, or other transaction in which 
+18
+the third party assumes control of all or 
+19
+part of the covered entity’s assets, unless 
+20
+such assets are limited to personal infor-
+21
+mation unless personal information makes 
+22
+up the majority of the value of such assets. 
+23
+(21) SERVICE PROVIDER.— 
+24
+00:42 Nov 13, 2019
+H4978
+16 
+•HR 4978 IH
+(A) IN GENERAL.—The term ‘‘service pro-
+1
+vider’’ means a covered entity who— 
+2
+(i) processes, discloses, or maintains 
+3
+personal information, where such person 
+4
+does not process, disclose, or maintain the 
+5
+personal information other than in accord-
+6
+ance with the directions and on behalf of 
+7
+another covered entity; 
+8
+(ii) does not directly collect personal 
+9
+information from or control the mechanism 
+10
+for collecting personal information from an 
+11
+individual; 
+12
+(iii) does not earn revenue from proc-
+13
+essing, maintaining, or disclosing personal 
+14
+information disclosed to the service pro-
+15
+vider by a covered entity except by pro-
+16
+viding contracted services to another cov-
+17
+ered entity; 
+18
+(iv) does not disclose personal infor-
+19
+mation to another covered entity unless it 
+20
+was provided by that covered entity or re-
+21
+sulted from maintaining or processing per-
+22
+formed on personal information exclusively 
+23
+provide by that covered entity; 
+24
+00:42 Nov 13, 2019
+H4978
+17 
+•HR 4978 IH
+(v) does not offer services that allow 
+1
+another covered entity to target specific in-
+2
+dividuals using personal information not 
+3
+provided by that covered entity; 
+4
+(vi) assists a covered entity on behalf 
+5
+of which it processes personal information 
+6
+to comply with title I, with respect to per-
+7
+sonal information processed or maintained 
+8
+by the service provider on behalf of the 
+9
+covered entity, including providing tools for 
+10
+such covered entities requirements under 
+11
+title I if requested; and 
+12
+(vii) does not link the personal infor-
+13
+mation provided by another covered entity 
+14
+to personal information from any other 
+15
+source. 
+16
+(B) Any such person, and the personal in-
+17
+formation they disclose, process, or maintain, 
+18
+shall be treated as a service provider under this 
+19
+Act only to the extent that such person com-
+20
+plies with the requirements under (A). 
+21
+(22) SIGNIFICANT PRIVACY HARM.—The term 
+22
+‘‘significant privacy harm’’ means adverse con-
+23
+sequences to an individual arising from the collec-
+24
+tion, processing, maintenance, or disclosure of per-
+25
+00:42 Nov 13, 2019
+H4978
+18 
+•HR 4978 IH
+sonal information, limited to subparagraph (A), (B), 
+1
+or (D) of paragraph (14). 
+2
+(23) SMALL BUSINESS.—The term ‘‘small busi-
+3
+ness’’ means a covered entity that— 
+4
+(A) does not earn revenue from the sale of 
+5
+personal information; 
+6
+(B) earns less than half of annual revenues 
+7
+from the processing of personal information for 
+8
+targeted or personalized advertising; 
+9
+(C) has not, at any time during the pre-
+10
+ceding 6-month period, maintained personal in-
+11
+formation of 250,000 or more individuals; 
+12
+(D) has fewer than 200 employees; and 
+13
+(E) received less than $25,000,000 in 
+14
+gross revenue in the preceding 12-month pe-
+15
+riod. 
+16
+(24) STATE.—The term ‘‘State’’ means each 
+17
+State of the United States, the District of Columbia, 
+18
+each commonwealth, territory, or possession of the 
+19
+United States, and each federally recognized Indian 
+20
+Tribe. 
+21
+(25) THIRD PARTY.—The term ‘‘third party’’ 
+22
+means, with respect to a covered entity, a person— 
+23
+(A) to whom such covered entity disclosed 
+24
+personal information; and 
+25
+00:42 Nov 13, 2019
+H4978
+19 
+•HR 4978 IH
+(B) is not— 
+1
+(i) such covered entity; 
+2
+(ii) a subsidiary or corporate affiliate 
+3
+of such covered entity; or 
+4
+(iii) a service provider of such covered 
+5
+entity. 
+6
+SEC. 3. PROHIBITION ON WAIVERS. 
+7
+(a) IN GENERAL.—The provisions under this Act 
+8
+may not be waived. Any agreement purporting to waive 
+9
+compliance with or modify any provision of this Act shall 
+10
+be void as contrary to public policy. 
+11
+(b) PROHIBITION
+ON PREDISPUTE ARBITRATION 
+12
+AGREEMENTS.—No predispute arbitration agreement 
+13
+shall be valid or enforceable with respect to any claims 
+14
+under this Act. 
+15
+SEC. 4. EFFECTIVE DATE. 
+16
+(a) IN GENERAL.—This Act shall apply beginning on 
+17
+the date that is 1 year after the date of the enactment 
+18
+of this Act. 
+19
+(b) AUTHORITY TO PROMULGATE REGULATIONS AND 
+20
+TAKE CERTAIN OTHER ACTIONS.—Nothing in subsection 
+21
+(a) affects the authority to take an action expressly re-
+22
+quired by a provision of this Act to be taken before the 
+23
+effective date described in such subsection. 
+24
+00:42 Nov 13, 2019
+H4978
+20 
+•HR 4978 IH
+SEC. 5. JOURNALISM PROTECTION. 
+1
+(a) IN GENERAL.—Covered entities engaged in jour-
+2
+nalism shall not be subject to the obligations imposed 
+3
+under this Act to the extent that those obligations directly 
+4
+infringe on the journalism rather than the business prac-
+5
+tices of the covered entity, so long as, the covered entity 
+6
+has technical safeguards and business processes that pre-
+7
+vent the collection, processing, maintaining, or disclosure 
+8
+of such personal information for business practices other 
+9
+than journalism. 
+10
+(b) JOURNALISM.—The term ‘‘journalism’’ includes 
+11
+the collecting, maintaining, processing, and disclosing of 
+12
+personal information about a public individual or official, 
+13
+or that otherwise concerns matters of public interest, for 
+14
+dissemination to the public. 
+15
+SEC. 6. SMALL BUSINESS COMPLIANCE RAMP. 
+16
+Upon losing its status as a small business, a covered 
+17
+entity shall have nine months to comply with provisions 
+18
+of this Act that a small business is exempt from complying 
+19
+with. 
+20
+SEC. 7. CRIMINAL PROHIBITION ON DISCLOSING PER-
+21
+SONAL INFORMATION. 
+22
+Chapter 41 of title 18, United States Code, is amend-
+23
+ed by adding at the end the following: 
+24
+22:27 Nov 14, 2019
+H4978
+21 
+•HR 4978 IH
+‘‘§ 881. Disclosure of personal information with the 
+1
+intent to cause harm 
+2
+‘‘Whoever uses a channel of interstate or foreign com-
+3
+merce to knowingly disclose an individual’s personal infor-
+4
+mation— 
+5
+‘‘(1) with the intent to threaten, intimidate, or 
+6
+harass any person, incite or facilitate the commis-
+7
+sion of a crime of violence against any person, or 
+8
+place any person in reasonable fear of death or seri-
+9
+ous bodily injury; or 
+10
+‘‘(2) with the intent that the information will be 
+11
+used to threaten, intimidate, or harass any person, 
+12
+incite or facilitate the commission of a crime of vio-
+13
+lence against any person, or place any person in rea-
+14
+sonable fear of death or serious bodily injury, 
+15
+shall be fined under this title or imprisoned not more than 
+16
+5 years, or both.’’. 
+17
+SEC. 8. LIMITATION ON DISCLOSING NONREDACTED GOV-
+18
+ERNMENT RECORDS. 
+19
+(a) IN GENERAL.—A Federal or State government 
+20
+entity may not use a channel of interstate commerce to 
+21
+disclose the personal information of an individual in a gov-
+22
+ernment record without an agreement prohibiting the re-
+23
+cipient of such information from selling the information 
+24
+without the express consent of the individual for each dis-
+25
+closure. 
+26
+00:42 Nov 13, 2019
+H4978
+22 
+•HR 4978 IH
+(b) EXCEPTION.—Notwithstanding subsection (a), 
+1
+nothing in this section shall prohibit the disclosure of per-
+2
+sonal information using a channel of interstate commerce 
+3
+to another government entity without consent of the indi-
+4
+vidual. 
+5
+TITLE I—INDIVIDUAL RIGHTS 
+6
+SEC. 101. RIGHT OF ACCESS. 
+7
+(a) IN GENERAL.—A covered entity shall make avail-
+8
+able a reasonable mechanism by which an individual may 
+9
+access— 
+10
+(1) the categories of personal information and 
+11
+contents of communications of such individual that 
+12
+is maintained by such covered entity, including, in 
+13
+the case of personal information that such covered 
+14
+entity did not collect from such individual, how and 
+15
+from whom such covered entity obtained such per-
+16
+sonal information; 
+17
+(2) a list of the third parties, subsidiaries, and 
+18
+corporate affiliates, to which such covered entity has 
+19
+disclosed and from which such covered entity has, at 
+20
+any time on or after the effective date specified in 
+21
+section 4(a), obtained the personal information of 
+22
+such individual; 
+23
+00:42 Nov 13, 2019
+H4978
+23 
+•HR 4978 IH
+(3) a concise and clear description of the busi-
+1
+ness or commercial purposes of such covered enti-
+2
+ty— 
+3
+(A) for collecting, processing, or maintain-
+4
+ing the personal information of such individual; 
+5
+and 
+6
+(B) for disclosing to a third party the per-
+7
+sonal information of such individual; and 
+8
+(4) a list of automated decision-making proc-
+9
+esses that an individual has a right to request 
+10
+human review of under section 105 with a concise 
+11
+and clear description of the implications and in-
+12
+tended effects of such process. 
+13
+(b) EXCEPTION FOR PUBLICLY ACCESSIBLY INFOR-
+14
+MATION.—A covered entity that makes available informa-
+15
+tion required in subsection (a) shall be considered in com-
+16
+pliance with such requirements if the covered entity pro-
+17
+vides an individual instructions on how to access a public 
+18
+posting of such information, including in a privacy policy, 
+19
+if the instructions are easy and do not require payment. 
+20
+(c) SMALL
+BUSINESSES
+EXCLUDED.—Subsection 
+21
+(a)(3) does not apply to a small business. 
+22
+SEC. 102. RIGHT OF CORRECTION. 
+23
+(a) DISPUTE BY INDIVIDUAL.—A covered entity shall 
+24
+make available a reasonable mechanism by which an indi-
+25
+00:42 Nov 13, 2019
+H4978
+24 
+•HR 4978 IH
+vidual may dispute the accuracy or completeness of per-
+1
+sonal information linked to such individual that is main-
+2
+tained by such covered entity if such information is proc-
+3
+essed in any way, by such covered entity, a third party 
+4
+of such covered entity, or a service provider of such cov-
+5
+ered entity that may increase reasonably foreseeable sig-
+6
+nificant privacy harms. 
+7
+(b) CORRECTION BY COVERED ENTITY.—A covered 
+8
+entity receiving a dispute under subsection (a) shall— 
+9
+(1) correct or complete (as the case may be) the 
+10
+disputed information and notify such individual that 
+11
+the correction or completion has been made; or 
+12
+(2) notify such individual that— 
+13
+(A) the disputed information is correct or 
+14
+complete; 
+15
+(B) such covered entity lacks sufficient in-
+16
+formation to correct or complete the disputed 
+17
+information; or 
+18
+(C) such covered entity is denying the re-
+19
+quest for correction or completion in reliance on 
+20
+an exemption or exception provided by section 
+21
+109(g) (with the notification containing an 
+22
+identification of the specific exemption or excep-
+23
+tion relied upon). 
+24
+00:42 Nov 13, 2019
+H4978
+25 
+•HR 4978 IH
+(c) SMALL BUSINESSES EXCLUDED.—This section 
+1
+does not apply to a small business. 
+2
+SEC. 103. RIGHT OF DELETION. 
+3
+(a) REQUEST
+BY INDIVIDUAL.—A covered entity 
+4
+shall make available a reasonable mechanism by which an 
+5
+individual may request the deletion of personal informa-
+6
+tion and contents of communications of such individual 
+7
+maintained by such covered entity, including any such in-
+8
+formation that such covered entity acquired from a third 
+9
+party or inferred from other information maintained by 
+10
+such covered entity. 
+11
+(b) DELETION BY COVERED ENTITY.—A covered en-
+12
+tity receiving a request for deletion under subsection (a) 
+13
+shall— 
+14
+(1) delete such information and notify such in-
+15
+dividual that such information has been deleted; or 
+16
+(2) notify such individual that such covered en-
+17
+tity is denying the request for deletion in reliance on 
+18
+an exemption or exception provided by section 
+19
+109(g) (with the notification containing an identi-
+20
+fication of the specific exemption or exception relied 
+21
+upon). 
+22
+SEC. 104. RIGHT OF PORTABILITY. 
+23
+(a) DETERMINATION OF PORTABLE CATEGORIES.— 
+24
+00:42 Nov 13, 2019
+H4978
+26 
+•HR 4978 IH
+(1) ANNUAL
+DETERMINATION.—Not less fre-
+1
+quently than once per year, the Director shall— 
+2
+(A) establish categories of products and 
+3
+services offered by covered entities, based on 
+4
+similarities in the products and services; 
+5
+(B) determine which categories established 
+6
+under subparagraph (A) are portable categories; 
+7
+and 
+8
+(C) publish in the Federal Register a list 
+9
+of portable categories determined under sub-
+10
+paragraph (B). 
+11
+(2) OPPORTUNITY FOR PUBLIC COMMENT.—Be-
+12
+fore publishing the final list under paragraph (1)(C), 
+13
+the Director shall— 
+14
+(A) publish a draft of such list in the Fed-
+15
+eral Register; and 
+16
+(B) provide for an opportunity for public 
+17
+comment on such draft list. 
+18
+(b) EXERCISE OF RIGHT.— 
+19
+(1) IN GENERAL.—A covered entity that offers 
+20
+a product or service in a portable category shall 
+21
+make available to an individual whose personal infor-
+22
+mation or contents of communications such entity 
+23
+maintains a reasonable mechanism by which such in-
+24
+dividual may— 
+25
+00:42 Nov 13, 2019
+H4978
+27 
+•HR 4978 IH
+(A) download, in a format that is struc-
+1
+tured, commonly used, and machine-readable— 
+2
+(i) any personal information of such 
+3
+individual that such individual has pro-
+4
+vided to such covered entity, with the op-
+5
+tion to download such information by cat-
+6
+egory that is accessible under section 101 
+7
+of this Act; and 
+8
+(ii) any contents of communications; 
+9
+and 
+10
+(B) using a real-time application program-
+11
+ming interface, or similar mechanism, transmit 
+12
+all personal information and contents of com-
+13
+munications of or related to such individual 
+14
+(whether or not provided to such covered entity 
+15
+by such individual) from such covered entity to 
+16
+another covered entity in accordance with sub-
+17
+section (c). 
+18
+(2) REQUIREMENTS
+FOR
+APPLICATION
+PRO-
+19
+GRAMMING INTERFACE.—The application program-
+20
+ming interface, or similar mechanism, required by 
+21
+paragraph (1)(B) shall— 
+22
+(A) be publicly documented; 
+23
+(B) allow the option of data to be obtained 
+24
+by category that is accessible under section 101; 
+25
+00:42 Nov 13, 2019
+H4978
+28 
+•HR 4978 IH
+(C) include a publicly available, fully func-
+1
+tional test version for development purposes; 
+2
+and 
+3
+(D) be of similar quality to mechanisms 
+4
+used internally by the covered entity. 
+5
+(c) REQUIREMENTS FOR ACCESS TO APPLICATION 
+6
+PROGRAMMING INTERFACE.— 
+7
+(1) ACCESS.—A covered entity shall provide ac-
+8
+cess to the application programming interface or 
+9
+similar mechanism required by subsection (b)(1)(B) 
+10
+upon the request of another covered entity if the re-
+11
+questing covered entity has self-certified, using the 
+12
+procedures established by the Director under para-
+13
+graph (3)(A), that such requesting covered entity— 
+14
+(A) is a covered entity; 
+15
+(B) can have personal information dis-
+16
+closed to it under section 205 of this Act; 
+17
+(C) is, at the time of the self-certification, 
+18
+in compliance with all requirements of this Act 
+19
+(including provisions a small business is other-
+20
+wise exempt from complying with); 
+21
+(D) will continue to comply with all re-
+22
+quirements of this Act; and 
+23
+00:42 Nov 13, 2019
+H4978
+29 
+•HR 4978 IH
+(E) will only use such application program-
+1
+ming interface or similar mechanism at the ex-
+2
+press request of an individual. 
+3
+(2) DENIAL OF ACCESS.— 
+4
+(A) IN GENERAL.—A covered entity may 
+5
+deny access to the application programming 
+6
+interface or similar mechanism required by sub-
+7
+section (b)(1)(B) if such covered entity has an 
+8
+objective, reasonable belief that the requesting 
+9
+covered entity has failed to meet the require-
+10
+ments for self-certification under paragraph (1). 
+11
+(B) REVIEW.—In accordance with the pro-
+12
+cedures established under paragraph (3)(B), a 
+13
+covered entity the request of which is denied 
+14
+under subparagraph (A) may petition the Di-
+15
+rector for review of the denial. If the Director 
+16
+finds that such denial is unreasonable, the Di-
+17
+rector may impose a penalty, to be established 
+18
+in such procedures, on the covered entity that 
+19
+denied the request. 
+20
+(3) 
+CERTIFICATION
+AND
+REVIEW
+PROCE-
+21
+DURES.—The Director shall establish— 
+22
+(A) procedures for a covered entity to self- 
+23
+certify under paragraph (1); and 
+24
+00:42 Nov 13, 2019
+H4978
+30 
+•HR 4978 IH
+(B) procedures for the review of petitions 
+1
+under paragraph (2)(B), including penalties for 
+2
+unreasonable denials. 
+3
+(d) SMALL BUSINESSES EXCLUDED.—This section 
+4
+does not apply to a small business. 
+5
+(e) DEFINITIONS.—In this section: 
+6
+(1) PORTABLE CATEGORY.—The term ‘‘portable 
+7
+category’’ means a category of products and services 
+8
+established by the Director under subsection 
+9
+(a)(1)(A)— 
+10
+(A) for which the sum obtained by adding 
+11
+the number of users or estimated users of each 
+12
+product or service in such category is greater 
+13
+than 10,000,000; and 
+14
+(B) that— 
+15
+(i) has an estimated Herfindahl- 
+16
+Hirschman Index of 2,000 or greater; 
+17
+(ii) the total number of covered enti-
+18
+ties offering products and services in such 
+19
+category is 3 or less; or 
+20
+(iii) the Director otherwise determines 
+21
+that a category would benefit from encour-
+22
+aging increased competition. 
+23
+(2) USERS.—The term ‘‘users’’ means, with re-
+24
+spect to a product or service, the monthly active 
+25
+00:42 Nov 13, 2019
+H4978
+31 
+•HR 4978 IH
+users, subscribers, or customers (or a reasonable 
+1
+proxy or substitute therefor determined by the Di-
+2
+rector) of such product or service. 
+3
+SEC. 105. RIGHT TO HUMAN REVIEW OF AUTOMATED DECI-
+4
+SIONS. 
+5
+For any decision by a covered entity based solely on 
+6
+automated processing of personal information of an indi-
+7
+vidual, if such processing increases reasonably foreseeable 
+8
+significant privacy harms for such individual, such covered 
+9
+entity shall— 
+10
+(1) inform such individual of what personal in-
+11
+formation is or may be used for such decision; 
+12
+(2) make available a reasonable mechanism by 
+13
+which such individual may request human review of 
+14
+such decision; and 
+15
+(3) if such individual requests such a review, 
+16
+conduct such review within a reasonable amount of 
+17
+time after such request. 
+18
+SEC. 106. RIGHT TO INDIVIDUAL AUTONOMY. 
+19
+(a) IN GENERAL.—A covered entity shall not collect, 
+20
+process, maintain, or disclose an individual’s personal in-
+21
+formation to: 
+22
+(1) create, improve upon, or maintain; 
+23
+(2) process with; or 
+24
+(3) otherwise link an individual with; 
+25
+00:42 Nov 13, 2019
+H4978
+32 
+•HR 4978 IH
+an algorithm, model, or other means designed for behav-
+1
+ioral personalization, without the affirmative express con-
+2
+sent of that individual. 
+3
+(b) CONSENT.—A covered entity must obtain express 
+4
+affirmative consent from an individual before it may pro-
+5
+vide a behaviorally personalized version of a product or 
+6
+service. Where consent is denied, a covered entity must 
+7
+provide the product or service without behavioral personal-
+8
+ization. 
+9
+(c) EXCEPTIONS TO PROVIDING PRODUCT OR SERV-
+10
+ICE.— 
+11
+(1) Where the offering of a substantially similar 
+12
+product or service without behavioral personalization 
+13
+is infeasible, a covered entity shall provide, to the 
+14
+greatest extent feasible, a core aspect or part of the 
+15
+product or service that can be offered without behav-
+16
+ioral personalization. 
+17
+(2) Where no core aspect or part of the product 
+18
+or service can function in a substantially similar 
+19
+function without behavioral personalization, a cov-
+20
+ered entity may deny providing an individual use of 
+21
+such product or service if such individual does not 
+22
+consent to behavioral personalization as required in 
+23
+subsection (a). 
+24
+00:42 Nov 13, 2019
+H4978
+33 
+•HR 4978 IH
+(d) EXCEPTION TO BEHAVIORAL PROCESSING.—Not-
+1
+withstanding subsections (a) and (b), a covered entity may 
+2
+create or process using behavioral personalization algo-
+3
+rithms, models, or other mechanisms for the purpose of 
+4
+increasing the usability of the product or service provided 
+5
+by a covered entity that— 
+6
+(1) are built using aggregated personal infor-
+7
+mation that is representative of all the personal in-
+8
+formation the covered entity maintains; and 
+9
+(2) have an output that is both uniform across 
+10
+the individuals that use the product or service and 
+11
+independent of a specific individual’s inherent or be-
+12
+havioral characteristics. 
+13
+(e) USABILITY.—The term ‘‘usability’’ as used in 
+14
+subsection (d) does not include optimizations or other al-
+15
+terations to the product or service that are made with the 
+16
+primary purpose of increasing the amount of time an indi-
+17
+vidual engages with or uses the product or service, unless 
+18
+such increase benefits the individual 
+19
+(f) SMALL BUSINESSES EXCLUDED.—This section 
+20
+does not apply to a small business. 
+21
+SEC. 107. RIGHT TO BE INFORMED. 
+22
+A covered entity that collects personal information of 
+23
+an individual with whom such covered entity does not have 
+24
+an existing relationship (as of the time of the collection), 
+25
+00:42 Nov 13, 2019
+H4978
+34 
+•HR 4978 IH
+if such personal information includes contact information, 
+1
+shall notify such individual within 30 days, in writing if 
+2
+possible and at no charge to the individual, that such cov-
+3
+ered entity has collected the personal information of such 
+4
+individual. 
+5
+SEC. 108. RIGHT TO IMPERMANENCE. 
+6
+(a) LIMITATION ON MAINTENANCE OF PERSONAL IN-
+7
+FORMATION.—A covered entity shall not maintain per-
+8
+sonal information for more time than expressly consented 
+9
+to by an individual whose personal information is being 
+10
+maintained. 
+11
+(b) CONSENT.—A covered entity must obtain express 
+12
+affirmative consent from an individual before maintaining 
+13
+the personal information of such individual for any dura-
+14
+tion. Such consent may be obtained for categories of per-
+15
+sonal information and shall give an individual options to 
+16
+affirmatively choose granting a covered entity consent for 
+17
+various durations, at least including— 
+18
+(1) for no longer than needed to complete the 
+19
+specific request or transaction (including a reason-
+20
+able estimate of such duration by the covered enti-
+21
+ty); 
+22
+(2) until consent is revoked; and 
+23
+(3) one or more additional durations based on 
+24
+reasonable expectations and norms for the mainte-
+25
+00:42 Nov 13, 2019
+H4978
+35 
+•HR 4978 IH
+nance of the category of personal information being 
+1
+maintained. 
+2
+(c) EXCEPTION FOR IMPLIED CONSENT.—Where the 
+3
+long-term maintenance of personal information is, on its 
+4
+face, obvious and a core feature of the product or service 
+5
+at the request of the individual, and the personal informa-
+6
+tion is maintained only to provide such product or service, 
+7
+subsections (a) and (b) shall not apply. 
+8
+SEC. 109. EXEMPTIONS, EXCEPTIONS, FEES, TIMELINES, 
+9
+AND RULES OF CONSTRUCTION FOR RIGHTS 
+10
+UNDER THIS TITLE. 
+11
+(a) EXEMPTIONS FOR PERSONAL INFORMATION FOR 
+12
+PARTICULAR PURPOSES.— 
+13
+(1) IN
+GENERAL.—This title does not apply 
+14
+with respect to personal information that is col-
+15
+lected, processed, maintained, or disclosed for any of 
+16
+the following purposes (or a combination of such 
+17
+purposes), where a covered entity has technical safe-
+18
+guards and business processes that limit the collec-
+19
+tion, processing, maintaining, or disclosure of such 
+20
+personal information to the following purposes: 
+21
+(A) Detecting, responding to, or preventing 
+22
+security incidents or threats. 
+23
+(B) Protecting against malicious, decep-
+24
+tive, fraudulent, or illegal activity. 
+25
+00:42 Nov 13, 2019
+H4978
+36 
+•HR 4978 IH
+(C) Complying with specific law enforce-
+1
+ment requests or court orders. 
+2
+(D) Protecting a legally recognized privi-
+3
+lege or other legal right. 
+4
+(E) Protecting public safety. 
+5
+(F) Collection, processing, or maintenance 
+6
+by an employer pursuant to an employer-em-
+7
+ployee relationship of records about employees 
+8
+or employment status, except— 
+9
+(i) where the information would not 
+10
+be reasonably expected to be collected in 
+11
+the context of an employee’s regular du-
+12
+ties; or 
+13
+(ii) was disclosed to the employer by 
+14
+a third party. 
+15
+(G) Preventing prospective abuses of a 
+16
+service by an individual whose account has been 
+17
+previously terminated. 
+18
+(H) Routing a communication through a 
+19
+communications network or resolving the loca-
+20
+tion of a host or client on a communications 
+21
+network. 
+22
+(I) Providing transparency in advertising 
+23
+or origination of user generated content. 
+24
+00:42 Nov 13, 2019
+H4978
+37 
+•HR 4978 IH
+(2) 
+REIDENTIFICATION.—Where 
+compliance 
+1
+with this title would require the reidentification of 
+2
+de-identified personal information, and the covered 
+3
+entity does not already maintain the information 
+4
+necessary for such reidentification, the covered enti-
+5
+ty shall be exempt from such compliance, except for 
+6
+with section 106. 
+7
+(3) DISCLOSURE.—A covered entity relying on 
+8
+an exemption under paragraph (1) with respect to 
+9
+personal information shall disclose in the privacy 
+10
+policy maintained by such entity under section 
+11
+213— 
+12
+(A) the reason for which such information 
+13
+is collected, processed, maintained, or disclosed; 
+14
+and 
+15
+(B) a description of the rights provided by 
+16
+this title that are not available with respect to 
+17
+such personal information by reason of such ex-
+18
+emption. 
+19
+(b) EXCEPTIONS FOR PARTICULAR REQUESTS.— 
+20
+(1) IN GENERAL.—A covered entity may deny 
+21
+the request of an individual under this title if— 
+22
+(A) such covered entity cannot confirm the 
+23
+identity of such individual; 
+24
+00:42 Nov 13, 2019
+H4978
+38 
+•HR 4978 IH
+(B) such covered entity determines that 
+1
+granting the request of such individual would 
+2
+create a legitimate risk to the privacy, security, 
+3
+safety, or other rights of another individual; 
+4
+(C) such covered entity determines that 
+5
+granting the request of such individual would 
+6
+create a legitimate risk to free expression; or 
+7
+(D) the personal information requested to 
+8
+be corrected under section 102 or deleted under 
+9
+section 103— 
+10
+(i) is necessary to the completion of a 
+11
+transaction initiated before such request 
+12
+was made or the performance of a contract 
+13
+entered into before such request was made; 
+14
+(ii) was collected specifically for the 
+15
+completion of such transaction or the per-
+16
+formance of such contract; and 
+17
+(iii) would undermine the integrity of 
+18
+a legally significant transaction. 
+19
+(2) LIMITATIONS
+ON
+REQUESTS
+FOR
+ADDI-
+20
+TIONAL
+INFORMATION
+TO
+CONFIRM
+IDENTITY.—A 
+21
+covered entity may not deny a request of an indi-
+22
+vidual under paragraph (1)(A) on the basis of the 
+23
+refusal of such individual to provide additional per-
+24
+00:42 Nov 13, 2019
+H4978
+39 
+•HR 4978 IH
+sonal information to such covered entity to confirm 
+1
+the identity of such individual— 
+2
+(A) if the identity of such individual can 
+3
+reasonably be confirmed using personal infor-
+4
+mation of such individual that such covered en-
+5
+tity (as of the time of the request) already 
+6
+maintains; or 
+7
+(B) if such individual has an existing rela-
+8
+tionship (as of the time of the request) with 
+9
+such covered entity, such individual has con-
+10
+firmed the identity of such individual to such 
+11
+covered entity in the same manner as for other 
+12
+transactions of a similar sensitivity. 
+13
+(c) EXEMPTION
+FOR SERVICE PROVIDERS.—This 
+14
+title does not apply to a service provider. 
+15
+(d) EXEMPTION FOR PRIVACY PRESERVING COM-
+16
+PUTING.—Except for sections 101, 105, 106, and 109, 
+17
+this title does not apply to personal information secured 
+18
+using privacy preserving computing. 
+19
+(e) TIMELINE FOR COMPLYING WITH A REQUEST.— 
+20
+Without undue delay but not longer than 30 days after 
+21
+the request, a covered that receives a request under this 
+22
+title must— 
+23
+(1) comply with such request; or 
+24
+00:42 Nov 13, 2019
+H4978
+40 
+•HR 4978 IH
+(2) inform such individual of the reason for de-
+1
+nying such request, as allowed under subsections (a) 
+2
+or (b) of this section. 
+3
+(f) FEES PROHIBITED.— 
+4
+(1) IN GENERAL.—Except as provided in para-
+5
+graph (2), a covered entity may not charge a fee to 
+6
+an individual for a request made under this title. 
+7
+(2) UNFOUNDED OR EXCESSIVE REQUESTS.—If 
+8
+a request under this title is unfounded or excessive, 
+9
+a covered entity may charge a reasonable fee that 
+10
+reflects the estimated administrative costs of com-
+11
+plying with such request. 
+12
+(3) AGENCY NOTICE.—If a covered entity plans 
+13
+to charge fee under paragraph (2), it must notify 
+14
+the Agency at least 7 days before charging such fee. 
+15
+(4) AGENCY REVIEW.—The Director may reject 
+16
+any fee that a covered entity plans to charge for a 
+17
+request made under this title if the Agency finds— 
+18
+(A) such fee to be unreasonable relative to 
+19
+reasonable administrative costs of complying 
+20
+with a request under this title; or 
+21
+(B) such request is not unfounded or ex-
+22
+cessive. 
+23
+(g) RULES OF CONSTRUCTION.—Nothing in this title 
+24
+shall be construed to require a covered entity to— 
+25
+00:42 Nov 13, 2019
+H4978
+41 
+•HR 4978 IH
+(1) take an action that would convert informa-
+1
+tion that is not personal information into personal 
+2
+information; 
+3
+(2) collect or maintain personal information or 
+4
+contents of communication that the covered entity 
+5
+would otherwise not maintain; or 
+6
+(3) maintain personal information or contents 
+7
+of communication longer than the covered entity 
+8
+would otherwise maintain such personal information. 
+9
+(h) REGULATIONS.—The Director shall promulgate 
+10
+regulations to implement this section. 
+11
+TITLE II—REQUIREMENTS FOR 
+12
+COVERED ENTITIES, SERVICE 
+13
+PROVIDERS, AND THIRD PAR-
+14
+TIES 
+15
+SEC. 201. MINIMIZATION AND ARTICULATED BASIS FOR 
+16
+COLLECTION, 
+PROCESSING, 
+AND 
+MAINTE-
+17
+NANCE. 
+18
+(a) ARTICULATED BASIS.—A covered entity shall 
+19
+have a reasonable, articulated basis for the collection, 
+20
+processing, disclosure, and maintenance of personal infor-
+21
+mation that takes into account the reasonable business 
+22
+needs of the covered entity and minimum amount of per-
+23
+sonal information necessary for providing the service, bal-
+24
+anced with the intrusion on the privacy of, potential pri-
+25
+00:42 Nov 13, 2019
+H4978
+42 
+•HR 4978 IH
+vacy harms to, and reasonable expectations of individuals 
+1
+to whom the personal information relates. 
+2
+(b) MINIMIZATION
+OF COLLECTION, PROCESSING, 
+3
+DISCLOSURE, AND MAINTENANCE.— 
+4
+(1) COLLECTION.—A covered entity may not 
+5
+collect more personal information than is reasonably 
+6
+needed to provide a product or service that an indi-
+7
+vidual has requested. 
+8
+(2) PROCESSING.—A covered entity may not 
+9
+process personal information for a purpose other 
+10
+than the purpose for which such information was 
+11
+originally collected from the individual or in the case 
+12
+of a service provider, a purpose other than that 
+13
+which is in accordance with the directions of a cov-
+14
+ered entity. 
+15
+(3) DISCLOSURE.—A covered entity may not 
+16
+disclose personal information for a purpose other 
+17
+than the purpose for which such information was 
+18
+originally collected from the individual or in the case 
+19
+of a service provider, a purpose other than that 
+20
+which is in accordance with the directions of a cov-
+21
+ered entity. 
+22
+(4) MAINTENANCE.—A covered entity may not 
+23
+maintain personal information once such information 
+24
+is no longer needed for the purpose for which such 
+25
+00:42 Nov 13, 2019
+H4978
+43 
+•HR 4978 IH
+information was originally collected from the indi-
+1
+vidual or in the case of a service provider, a purpose 
+2
+other than that which is in accordance with the di-
+3
+rections of a covered entity. 
+4
+(c) ANCILLARY COLLECTION, PROCESSING, DISCLO-
+5
+SURE, AND MAINTENANCE.—Notwithstanding subsection 
+6
+(b), a covered entity may engage in collection, processing, 
+7
+disclosure, or maintenance of personal information beyond 
+8
+limitations under subsection (b) only if such covered entity 
+9
+complies with this subsection. 
+10
+(1) NO
+NOTICE
+OR
+CONSENT
+REQUIRED.—A 
+11
+covered entity may engage in collection, processing, 
+12
+or maintenance of personal information without ad-
+13
+ditional notice or consent if the purpose for such col-
+14
+lection, processing, or maintenance is substantially 
+15
+similar to the type of personal information and pur-
+16
+pose for which such personal information was origi-
+17
+nally collected and such ancillary collection, proc-
+18
+essing, or maintenance will not result in additional 
+19
+or increased privacy harms. 
+20
+(2) NOTICE REQUIRED.—A covered entity shall 
+21
+provide notice of ancillary collection, processing, dis-
+22
+closure or maintenance of personal information in 
+23
+the case of one, but not more than one, of the fol-
+24
+lowing: 
+25
+00:42 Nov 13, 2019
+H4978
+44 
+•HR 4978 IH
+(A) Such ancillary collection, processing, 
+1
+disclosure, or maintenance may result in addi-
+2
+tional or increased privacy harms (but not in-
+3
+creased significant privacy harms), and is sub-
+4
+stantially similar to the purpose for which such 
+5
+personal information was originally collected. 
+6
+(B) The purpose for such ancillary collec-
+7
+tion, processing, disclosure, or maintenance is 
+8
+not substantially similar to the purpose for 
+9
+which such personal information was originally 
+10
+collected, but will not result in additional or in-
+11
+creased privacy harms. 
+12
+(C) Such ancillary collection, processing, 
+13
+disclosure, or maintenance may result in addi-
+14
+tional or increased privacy harms (but not in-
+15
+creased significant privacy harms) and the pur-
+16
+pose is not substantially similar to the purpose 
+17
+for which such personal information was origi-
+18
+nally collected, so long as, the personal informa-
+19
+tion is secured using privacy preserving com-
+20
+puting. 
+21
+(3) NOTICE
+AND
+CONSENT
+REQUIRED.—For 
+22
+scenarios not covered under paragraph (1) or (2), 
+23
+and notwithstanding section 212(b)(2) and (3), a 
+24
+covered entity shall provide notice of and obtain con-
+25
+22:27 Nov 14, 2019
+H4978
+45 
+•HR 4978 IH
+sent for ancillary collection, processing, disclosure or 
+1
+maintenance of personal information. 
+2
+(d) SUBSTITUTION.—In cases in which personal in-
+3
+formation can be replaced with artificial personal informa-
+4
+tion, personal information that has been de-identified, or 
+5
+the random personal information of a one or more individ-
+6
+uals without substantially reducing the utility of the data 
+7
+or requiring an unreasonable amount of effort, such a re-
+8
+placement shall take place. 
+9
+SEC. 202. MINIMIZATION AND RECORDS OF ACCESS BY EM-
+10
+PLOYEES AND CONTRACTORS. 
+11
+(a) MINIMIZATION.—A covered entity shall restrict 
+12
+access to personal information and contents of commu-
+13
+nications by the employees or contractors of such covered 
+14
+entity based on an articulated balance between the poten-
+15
+tial for privacy harm, reasonable expectations of individ-
+16
+uals to whom the personal information relates, and reason-
+17
+able business needs. 
+18
+(b) RECORDS OF ACCESS.— 
+19
+(1) IN GENERAL.—A covered entity shall main-
+20
+tain records identifying each instance in which an 
+21
+employee or a contractor of such covered entity ac-
+22
+cesses personal information or contents of commu-
+23
+nications if disclosure of, or a data breach or data 
+24
+sharing abuse involving, such personal information 
+25
+00:42 Nov 13, 2019
+H4978
+46 
+•HR 4978 IH
+or contents may foreseeably result in increased pri-
+1
+vacy harms. 
+2
+(2) INFORMATION REQUIRED.—The records re-
+3
+quired by paragraph (1) shall include the following: 
+4
+(A) A unique identifier for the employee or 
+5
+contractor accessing personal information or 
+6
+contents of communications. 
+7
+(B) The date and time of access. 
+8
+(C) The fields of information accessed. 
+9
+(D) The individuals whose personal infor-
+10
+mation was accessed or the contents of whose 
+11
+communications were accessed. 
+12
+(3) SMALL BUSINESSES EXCLUDED.—This sub-
+13
+section does not apply to a small business. 
+14
+SEC. 203. PROHIBITION ON THE COLLECTION OR MAINTE-
+15
+NANCE OF PERSONAL INFORMATION. 
+16
+A covered entity may not collect or maintain personal 
+17
+information using a channel of interstate commerce unless 
+18
+such covered entity is in compliance with all requirements 
+19
+of this Act. 
+20
+SEC. 204. PROHIBITIONS ON THE DISCLOSURE OF PER-
+21
+SONAL INFORMATION. 
+22
+(a) CONSENT FOR DISCLOSURE REQUIRED.— 
+23
+(1) IN GENERAL.—A covered entity may not in-
+24
+tentionally disclose personal information unless the 
+25
+00:42 Nov 13, 2019
+H4978
+47 
+•HR 4978 IH
+covered entity obtains consent of the individual 
+1
+whose personal information is being disclosed for 
+2
+each category of third party to which such personal 
+3
+information will be disclosed. Such covered entity 
+4
+must also provide such individual with notice of— 
+5
+(A) each category of third party; 
+6
+(B) the personal information to be dis-
+7
+closed; and 
+8
+(C) a concise and clear description of the 
+9
+business or commercial purpose for such disclo-
+10
+sure. 
+11
+(2) ADDITIONAL REQUIREMENTS FOR SALE OF 
+12
+PERSONAL INFORMATION.— 
+13
+(A) IN GENERAL.—A covered entity may 
+14
+not intentionally sell personal information un-
+15
+less the covered entity— 
+16
+(i) obtains the consent required by 
+17
+paragraph (1) for each individual disclo-
+18
+sure of such person information; and 
+19
+(ii) and provides the individual to 
+20
+whom such personal information relates 
+21
+with the identity of the specific third party 
+22
+to which such personal information will be 
+23
+disclosed. 
+24
+00:42 Nov 13, 2019
+H4978
+48 
+•HR 4978 IH
+(B) 
+DISCLOSURE
+SERVICES.—Subpara-
+1
+graph (A) shall not apply to a covered entity in 
+2
+a case in which an individual is directing the 
+3
+covered entity to disclose the personal informa-
+4
+tion of such individual for the sole purpose of 
+5
+procuring goods or services, or offers for goods 
+6
+or services, for such individual, if there is a rea-
+7
+sonable mechanism for the individual to with-
+8
+draw consent. 
+9
+(3) REQUIREMENT TO INCLUDE ORIGINAL PUR-
+10
+11
+intentionally disclose personal information without 
+12
+including the purpose for which the personal infor-
+13
+mation was originally collected. 
+14
+(4) EXCEPTION
+FOR
+PRIVACY
+PRESERVING 
+15
+COMPUTING.—Notwithstanding paragraph (1), con-
+16
+sent is not required for a disclosure (not including 
+17
+sale) of personal information secured using privacy 
+18
+preserving computing. 
+19
+(5) EXCEPTION FOR DE-IDENTIFIED PERSONAL 
+20
+INFORMATION.—Notwithstanding 
+paragraph 
+(1), 
+21
+consent is not required for a disclosure (not includ-
+22
+ing sale) of de-identified personal information where 
+23
+the disclosed personal information is limited to the 
+24
+narrowest possible scope likely to yield the intended 
+25
+00:42 Nov 13, 2019
+H4978
+49 
+•HR 4978 IH
+benefit and contractual obligations are in place that 
+1
+prohibit— 
+2
+(A) re-identification of the disclosed per-
+3
+sonal information; and 
+4
+(B) the processing of additional personal 
+5
+information in combination with the disclosed 
+6
+personal information that would allow for the 
+7
+reidentification of the disclosed personal infor-
+8
+mation. 
+9
+(b) DISCLOSURE FOR ADVERTISING OR MARKETING 
+10
+PURPOSES.— 
+11
+(1) IN GENERAL.—A covered entity may not in-
+12
+tentionally disclose for advertising or marketing pur-
+13
+poses a unique identifier or any other personal infor-
+14
+mation that would allow the disclosure of such infor-
+15
+mation to be linked to past or future disclosures of 
+16
+information relating to the same individual or device. 
+17
+(2) TREATMENT OF CERTAIN TYPES OF INFOR-
+18
+MATION.—A disclosure for advertising or marketing 
+19
+purposes may not be treated as violating subpara-
+20
+graph (1) by reason of including any or all of the 
+21
+following: 
+22
+(A) Internet Protocol addresses truncated 
+23
+to no more than the first 24 bits for Internet 
+24
+Protocol version 4 and the first 48 bits for 
+25
+00:42 Nov 13, 2019
+H4978
+50 
+•HR 4978 IH
+Internet Protocol version 6, or for a successor 
+1
+protocol truncated to limit the precision of the 
+2
+identifier to a network address of the internet 
+3
+access provider. 
+4
+(B) Geolocation information truncated to 
+5
+allow no more than the equivalent of two dec-
+6
+imal degrees of precision at the equator or 
+7
+prime meridian, or an equivalent precision in 
+8
+another geolocation standard. 
+9
+(C) A general description of a device, 
+10
+browser, or operating system, or any combina-
+11
+tion thereof. 
+12
+(D) An identifier that is unique for each 
+13
+disclosure. 
+14
+SEC. 205. DISCLOSURE TO ENTITIES NOT SUBJECT TO 
+15
+UNITED STATES JURISDICTION OR NOT COM-
+16
+PLIANT WITH THIS ACT. 
+17
+(a) PROHIBITION.—A covered entity may not inten-
+18
+tionally disclose personal information to any entity that— 
+19
+(1) is not subject to the jurisdiction of the 
+20
+United States; or 
+21
+(2) is not in compliance with all requirements 
+22
+of this Act. 
+23
+(b) EXCEPTION.—Notwithstanding subsection (a), a 
+24
+covered entity may disclose personal information where 
+25
+22:27 Nov 14, 2019
+H4978
+51 
+•HR 4978 IH
+that personal information is limited to an identifier cre-
+1
+ated primarily for the purpose of sending or receiving elec-
+2
+tronic communications and the sole purpose of the disclo-
+3
+sure is to send or receive an electronic communication at 
+4
+the request of the individual whose personal information 
+5
+is being disclosed. 
+6
+(c) DISCLOSURE SAFE HARBORS.—Notwithstanding 
+7
+subsection (a), a covered entity may disclose personal in-
+8
+formation to another covered entity (the receiving covered 
+9
+entity) that is not subject to the jurisdiction of the United 
+10
+States if either— 
+11
+(1) the receiving covered entity has entered into 
+12
+an agreement, as described in subsection (e), with 
+13
+the Agency, and— 
+14
+(A) the covered entity has a reasonable be-
+15
+lief that the receiving covered entity is suffi-
+16
+ciently solvent to compensate victims or pay 
+17
+fines for violations of this Act; 
+18
+(B) a contract between the covered entity 
+19
+and receiving covered entity requires that the 
+20
+receiving covered entity complies with this Act, 
+21
+and the covered entity has reason to believe the 
+22
+receiving covered entity is compliant with this 
+23
+Act; and 
+24
+00:42 Nov 13, 2019
+H4978
+52 
+•HR 4978 IH
+(C) a contract between the covered entity 
+1
+and the receiving covered entity prohibits the 
+2
+receiving covered entity from using the dis-
+3
+closed personal information for any purpose 
+4
+other than provided in the contract; or 
+5
+(2) the covered entity has— 
+6
+(A) entered into an agreement with the re-
+7
+ceiving covered entity that— 
+8
+(i) requires the receiving covered enti-
+9
+ty to comply with this Act; 
+10
+(ii) prohibits the receiving covered en-
+11
+tity from using the disclosed personal in-
+12
+formation for any purpose other than pro-
+13
+vided in the contract; 
+14
+(iii) requires the receiving covered en-
+15
+tity to indemnify the covered entity against 
+16
+violations of this Act committed by the re-
+17
+ceiving covered entity for any amount the 
+18
+covered entity is unable to pay of a judg-
+19
+ment for such violation; 
+20
+(iv) grants the covered entity the au-
+21
+thority to audit, including physical access 
+22
+to electronic devices and data, the receiving 
+23
+covered entity’s compliance with this Act 
+24
+and the contract; and 
+25
+00:42 Nov 13, 2019
+H4978
+53 
+•HR 4978 IH
+(v) requires the receiving covered enti-
+1
+ty to assist the covered entity in respond-
+2
+ing to and complying with any court or-
+3
+ders, Agency orders, or the exercising of 
+4
+an individual’s rights under this Act; 
+5
+(B) actual knowledge that the receiving 
+6
+covered entity is in compliance with this Act 
+7
+and not using personal information contrary to 
+8
+their agreement; 
+9
+(C) actual knowledge that the receiving 
+10
+covered entity is sufficiently solvent to com-
+11
+pensate victims or pay fines for violations of 
+12
+this Act; 
+13
+(D) an auditing and compliance program 
+14
+to ensure the receiving covered entity’s contin-
+15
+ued compliance with this Act and contract 
+16
+terms; 
+17
+(E) filed with the Agency the terms of said 
+18
+contract, proof of its actual knowledge of the 
+19
+receiving covered entity’s compliance with this 
+20
+Act and contract terms, and documents detail-
+21
+ing its auditing and compliance program for ap-
+22
+proval and publication by the Agency; and 
+23
+(F) the covered entity has entered into an 
+24
+agreement with the Agency where it agrees to 
+25
+22:27 Nov 14, 2019
+H4978
+54 
+•HR 4978 IH
+accept, respond to, or comply with a court 
+1
+order, agency order, or request by an individual 
+2
+regarding actions taken by the receiving covered 
+3
+entity with respect to the data it has disclosed. 
+4
+(d) For the purposes of subsection (c)(2), the covered 
+5
+entity shall be jointly liable for a violation of this Act by 
+6
+the receiving covered entity regarding the data the covered 
+7
+entity disclosed, except where the covered entity was the 
+8
+first to notify the Agency of the violation, in which case, 
+9
+it shall be severally liable. Where the covered entity should 
+10
+reasonably have known of a violation of this Act by the 
+11
+receiving covered entity and fails to disclose the violation 
+12
+to the Agency, each day of continuance of the failure to 
+13
+report such violation shall be treated as a separate viola-
+14
+tion. 
+15
+(e) AGENCY AGREEMENTS.—Upon the request of a 
+16
+covered entity not subject to the jurisdiction of the United 
+17
+States, the Agency shall enter into an agreement with the 
+18
+covered entity that includes, but is not limited to, the fol-
+19
+lowing conditions: 
+20
+(1) The principle place of business for the cov-
+21
+ered entity must be in a country that allows for the 
+22
+domestication of a United States court decision for 
+23
+civil fines payable to a government entity and in-
+24
+junctive relief. Where a foreign court refuses to en-
+25
+00:42 Nov 13, 2019
+H4978
+55 
+•HR 4978 IH
+force a United States court decision under this Act, 
+1
+the agreement, and all other agreements with cov-
+2
+ered entities with a principle place of business in the 
+3
+same jurisdiction, shall be void. 
+4
+(2) The covered entity agrees to comply with 
+5
+this Act. 
+6
+(3) The covered entity agrees to be subject to 
+7
+this Act with choice of venue being a United States 
+8
+court. 
+9
+(4) The covered entity agrees to comply with 
+10
+Agency investigative requests or orders, and United 
+11
+States court orders or decisions under this Act. 
+12
+(5) The covered entity consents to United 
+13
+States Federal court personal jurisdiction for the 
+14
+sole purpose of enforcing this Act. 
+15
+(6) Where enforcement of the decision requires 
+16
+the use of a foreign court, the covered entity agrees 
+17
+to pay reasonable attorney fees necessary to enforce 
+18
+the judgment. 
+19
+(7) A default judgment, failure to comply with 
+20
+Agency investigative requests or orders, or failure to 
+21
+comply with United States court orders or decisions 
+22
+shall result in the immediate termination of the 
+23
+agreement. 
+24
+00:42 Nov 13, 2019
+H4978
+56 
+•HR 4978 IH
+(f) RULE OF CONSTRUCTION AGAINST DATA LOCAL-
+1
+IZATION.—Nothing in this section shall be construed to 
+2
+require the localization of processing or maintaining per-
+3
+sonal information by a covered entity to within the United 
+4
+State, or limit internal disclosure of personal information 
+5
+within a covered entity or to subsidiary or corporate affil-
+6
+iate of such covered entity, regardless of the country in 
+7
+which the covered entity will process, disclose, or maintain 
+8
+that personal information. 
+9
+SEC. 206. PROHIBITION ON REIDENTIFICATION. 
+10
+(a) IN GENERAL.—Except as required under title I, 
+11
+a covered entity shall not use personal information col-
+12
+lected from an individual, acquired from a third party, or 
+13
+acquired from a publicly available information to reiden-
+14
+tify an individual from de-identified information. 
+15
+(b) THIRD-PARTY PROHIBITION.—A covered entity 
+16
+that discloses de-identified information to a third party 
+17
+shall prohibit such third party from reidentifying an indi-
+18
+vidual using such de-identified information. 
+19
+(c) EXCEPTION.—Subsection (a) shall not apply to 
+20
+qualified research entities, as determined by the Director, 
+21
+conducting research not for commercial purposes. 
+22
+22:27 Nov 14, 2019
+H4978
+57 
+•HR 4978 IH
+SEC. 207. RESTRICTIONS ON COLLECTION, PROCESSING, 
+1
+AND DISCLOSURE OF CONTENTS OF COMMU-
+2
+NICATIONS. 
+3
+(a) IN GENERAL.—A covered entity may not collect, 
+4
+process, maintain, or disclose the contents of any commu-
+5
+nication, regardless of whether the sender or intended re-
+6
+cipient of the communication is an individual, other per-
+7
+son, or an electronic device, for any purpose other than— 
+8
+(1) transmission or display of the communica-
+9
+tion to any intended recipient or the original sender, 
+10
+or maintenance of such communications for such 
+11
+purposes; 
+12
+(2) detecting, responding to, or preventing secu-
+13
+rity incidents or threats; 
+14
+(3) providing services to assist in the drafting 
+15
+or creation of the content of a communication; 
+16
+(4) processing expressly requested by the sender 
+17
+or intended recipient, if the sender or intended re-
+18
+cipient can terminate such processing using a rea-
+19
+sonable mechanism; 
+20
+(5) a disclosure otherwise required by law; 
+21
+(6) the filtering of a communication where pri-
+22
+mary purpose of the communication is the commer-
+23
+cial advertisement or promotion of a commercial 
+24
+product or service; or 
+25
+22:27 Nov 14, 2019
+H4978
+58 
+•HR 4978 IH
+(7) detecting or enforcing an abuse or violation 
+1
+of the service’s terms of service that would result in 
+2
+either a temporary or permanent ban from using the 
+3
+service. 
+4
+(b) INTENDED RECIPIENT.—A covered entity is not 
+5
+considered an intended recipient of a communication, or 
+6
+any communication used in the creation of the content of 
+7
+said communication, where— 
+8
+(1) at least one intended recipient is a natural 
+9
+person other than an employee or contractor of the 
+10
+covered entity; 
+11
+(2) at least one intended recipient is a person 
+12
+other than the covered entity; or 
+13
+(3) a purpose of the covered entity’s service is 
+14
+to maintain, at the direction of the sender, the con-
+15
+tent of said communication for more than a transi-
+16
+tory period. 
+17
+(c) SENDER.—The sender of a communication is the 
+18
+person for whom the communication, and its content, is 
+19
+disclosed at the direction of and on behalf of. 
+20
+(1) Where the sender is a natural person, they 
+21
+shall be the sender of the entire content of the com-
+22
+munication, regardless of the original author of any 
+23
+portion of the content. 
+24
+00:42 Nov 13, 2019
+H4978
+59 
+•HR 4978 IH
+(2) Otherwise, a sender shall be the sender of 
+1
+only the content it was an original author of, or con-
+2
+tent it received as an intended recipient. 
+3
+(d) EXCEPTION FOR PUBLICLY AVAILABLE COMMU-
+4
+NICATIONS.—Subsection (a) shall not apply where the con-
+5
+tents of communication that are made publicly accessible 
+6
+by the sender without restrictions on accessibility other 
+7
+than the general authorization to access the services used 
+8
+to make the information accessible. 
+9
+(e) ENCRYPTION PROTECTION.—A covered entity 
+10
+shall not— 
+11
+(1) 
+prohibit 
+or 
+prevent 
+a 
+person 
+from 
+12
+encrypting or otherwise rendering unintelligible the 
+13
+content of a communication using a means that pre-
+14
+vents the covered entity from being able to decrypt 
+15
+or otherwise render intelligible said content; and 
+16
+(2) require or cause a person to disclose or cir-
+17
+cumvent the means described in paragraph (1) to 
+18
+the covered entity that would allow it to render the 
+19
+content intelligible. 
+20
+(f) SERVICE PROVIDERS SAFE HARBOR.—A service 
+21
+provider shall not be held liable for a violation of this sec-
+22
+tion if such service provider is acting at the direction of 
+23
+and on behalf of a covered entity and has a reasonable 
+24
+00:42 Nov 13, 2019
+H4978
+60 
+•HR 4978 IH
+belief that the covered entity’s directions are in compliance 
+1
+with this section. 
+2
+SEC. 208. PROHIBITION ON DISCRIMINATORY PROCESSING. 
+3
+(a) DISCRIMINATION
+IN
+ECONOMIC
+OPPORTUNI-
+4
+TIES.—A covered entity shall not process personal infor-
+5
+mation or contents of communication for advertising, mar-
+6
+keting, soliciting, offering, selling, leasing, licensing, rent-
+7
+ing, or otherwise commercially contracting for employ-
+8
+ment, finance, healthcare, credit, insurance, housing, or 
+9
+education opportunities in a manner that discriminates 
+10
+against or otherwise makes opportunities unavailable on 
+11
+the basis of an individual’s protected class status. 
+12
+(b) PUBLIC ACCOMMODATIONS.—A covered entity 
+13
+shall not process personal information in a manner that 
+14
+segregates, discriminates in, or otherwise makes unavail-
+15
+able the goods, services, facilities, privileges, advantages, 
+16
+or accommodations of any place of public accommodation 
+17
+on the basis of a person’s or a group’s protected class sta-
+18
+tus. 
+19
+(c) The Director shall promulgate regulations to im-
+20
+plement this section. 
+21
+SEC. 209. RESTRICTIONS ON GENETIC INFORMATION. 
+22
+(a) IN GENERAL.—A covered entity may not collect, 
+23
+process, maintain, or disclose genetic information for any 
+24
+purpose other than— 
+25
+00:42 Nov 13, 2019
+H4978
+61 
+•HR 4978 IH
+(1) providing medical treatment or testing to 
+1
+the individual whose genetic information is being col-
+2
+lected, processed, maintained, or disclosed; 
+3
+(2) research and services related to medical, 
+4
+historical, or population uses of genetic information, 
+5
+if, in the case of disclosure of genetic information— 
+6
+(A) such genetic information is only dis-
+7
+closed to qualified research entities, as deter-
+8
+mined by the Director; 
+9
+(B) additional personal information dis-
+10
+closed with such genetic information is limited 
+11
+to the narrowest possible scope likely to yield 
+12
+the intended benefit; and 
+13
+(C) the covered entity limits, through con-
+14
+tractual obligations, additional types of personal 
+15
+information that can be processed with the dis-
+16
+closed genetic information and personal infor-
+17
+mation. 
+18
+(3) a purpose specified by the Director by regu-
+19
+lation, taking into account the potential privacy 
+20
+harms and potential benefits of such collection, proc-
+21
+essing, maintenance, or disclosure; or 
+22
+(4) to comply with a Federal criminal investiga-
+23
+tion request or order. 
+24
+00:42 Nov 13, 2019
+H4978
+62 
+•HR 4978 IH
+(b) GENETIC INFORMATION DEFINED.—In this sec-
+1
+tion, the term ‘‘genetic information’’ has the meaning 
+2
+given such term in section 201 of the Genetic Information 
+3
+Nondiscrimination Act of 2008 (42 U.S.C. 2000ff). 
+4
+(c) SERVICE PROVIDERS SAFE HARBOR.—A service 
+5
+provider shall not be held liable for a violation of this sec-
+6
+tion if such service provider is acting at the direction of 
+7
+and on behalf of a covered entity and has a reasonable 
+8
+belief that is the covered entity’s directions are in compli-
+9
+ance with this section. 
+10
+SEC. 210. REQUIREMENTS FOR NOTICE AND CONSENT 
+11
+PROCESSES AND PRIVACY POLICIES. 
+12
+(a) MINIMUM THRESHOLD.—The Director shall es-
+13
+tablish a minimum threshold that a covered entity must 
+14
+meet for the percentage of individuals who read and un-
+15
+derstand a notice or consent process or privacy policy re-
+16
+quired by this Act. In establishing such minimum thresh-
+17
+olds, the Director shall take into account expectations of 
+18
+individuals, potential privacy harms, and individuals’ 
+19
+awareness of privacy harms. 
+20
+(b) CONSENT REVOCATION.—A covered entity shall 
+21
+make available a reasonable mechanism by which an indi-
+22
+vidual may revoke consent for any consent given under 
+23
+this Act. 
+24
+(c) SAFE HARBOR.— 
+25
+00:42 Nov 13, 2019
+H4978
+63 
+•HR 4978 IH
+(1) APPROVAL
+PROCEDURES.—The Director 
+1
+shall develop procedures for analyzing and approving 
+2
+data submitted by a covered entity to establish that 
+3
+a notice and consent process or privacy policy of 
+4
+such covered entity meets the threshold established 
+5
+under subsection (a). 
+6
+(2) PRESUMPTION.—If a covered entity submits 
+7
+testing data to and receives an approval from the 
+8
+Director under paragraph (1) establishing that a no-
+9
+tice or consent process or privacy policy of such cov-
+10
+ered entity meets the threshold established under 
+11
+subsection (a), such notice or consent process or pri-
+12
+vacy policy shall be presumed to have met such 
+13
+threshold. Such presumption may be rebutted by 
+14
+clear and convincing evidence. 
+15
+(3) PUBLIC AVAILABILITY OF APPROVED PROC-
+16
+ESSES
+AND
+AND
+ASSOCIATED
+TESTING 
+17
+DATA.—The Director shall make publicly available 
+18
+online the notice and consent processes and privacy 
+19
+policies and associated testing data that the Director 
+20
+approves under paragraph (1). 
+21
+(4) SMALL BUSINESS ADOPTION OF NOTICE OR 
+22
+CONSENT
+PROCESS
+OF
+ANOTHER
+COVERED
+ENTI-
+23
+TY.— 
+24
+00:42 Nov 13, 2019
+H4978
+64 
+•HR 4978 IH
+(A) IN
+GENERAL.—If a small business 
+1
+adopts a notice or consent process of another 
+2
+covered entity that collects, processes, main-
+3
+tains, or discloses personal information in sub-
+4
+stantially the same way as such small business, 
+5
+if the process of such other covered entity has 
+6
+been approved under paragraph (1), the process 
+7
+of such small business shall receive the pre-
+8
+sumption under paragraph (2). 
+9
+(B) ABILITY TO FREELY USE APPROVED 
+10
+PROCESS.—A covered entity whose notice or 
+11
+consent process is approved under paragraph 
+12
+(1) shall permit a small business to freely use 
+13
+such process, or a derivative thereof, as de-
+14
+scribed in subparagraph (A). 
+15
+(C) NO PUBLISHED PROCESS.—In the case 
+16
+of a small business for which there is no ap-
+17
+proved notice or consent process published 
+18
+under paragraph (3) of a covered entity that 
+19
+collects, processes, maintains, or discloses per-
+20
+sonal information in substantially the same way 
+21
+as such small business, any requirement under 
+22
+this title for a notice or consent process to be 
+23
+objectively shown to meet the threshold estab-
+24
+lished by the Director under subsection (a) 
+25
+00:42 Nov 13, 2019
+H4978
+65 
+•HR 4978 IH
+shall not apply to such small business. Nothing 
+1
+in the preceding sentence exempts a small busi-
+2
+ness from the requirement to use such notice or 
+3
+consent process or that such process be concise 
+4
+and clear. 
+5
+(D) INAPPLICABILITY
+TO
+PRIVACY
+6
+ICY.—Paragraph (4) does not apply with re-
+7
+spect to a privacy policy. 
+8
+(5) MINOR CHANGES.—A covered entity may 
+9
+make minor changes in a notice or consent process 
+10
+or privacy policy approved under paragraph (1) and 
+11
+retain the presumption under paragraph (2) for such 
+12
+process or policy without retesting or resubmission 
+13
+of testing data to the Director. 
+14
+SEC. 211. PROHIBITION ON DECEPTIVE NOTICE AND CON-
+15
+SENT PROCESSES AND PRIVACY POLICIES. 
+16
+In providing notice, obtaining consent, or maintaining 
+17
+a privacy policy as required by this title, a covered entity 
+18
+may not intentionally take any action that substantially 
+19
+impairs, obscures, or subverts the ability of an individual 
+20
+to— 
+21
+(1) understand the contents of such notice or 
+22
+such privacy policy; 
+23
+(2) understand the process for granting such 
+24
+consent; 
+25
+00:42 Nov 13, 2019
+H4978
+66 
+•HR 4978 IH
+(3) make a decision regarding whether to grant 
+1
+or withdraw such consent; or 
+2
+(4) act on any such decision. 
+3
+SEC. 212. NOTICE AND CONSENT REQUIRED. 
+4
+(a) NOTICE.—A covered entity shall provide an indi-
+5
+vidual with notice of the personal information such covered 
+6
+entity collects, processes, maintains, and discloses through 
+7
+a process that is concise and clear and can be objectively 
+8
+shown to meet the threshold established by the Director 
+9
+under section 210(a). 
+10
+(b) CONSENT.— 
+11
+(1) EXPRESS CONSENT REQUIRED.—Except as 
+12
+provided in paragraphs (2) and (3), a covered entity 
+13
+may not collect from an individual personal informa-
+14
+tion that creates or increases the risk of foreseeable 
+15
+privacy harms, or process or maintain any such per-
+16
+sonal information collected from an individual, un-
+17
+less such entity obtains the express consent of such 
+18
+individual to the collection, processing, or mainte-
+19
+nance (or any combination thereof) of such informa-
+20
+tion through a process that is concise and clear and 
+21
+can be objectively shown to meet the threshold es-
+22
+tablished by the Director under section 210(a). 
+23
+(2) EXCEPTION FOR IMPLIED CONSENT.—Not-
+24
+withstanding paragraph (1), express consent is not 
+25
+00:42 Nov 13, 2019
+H4978
+67 
+•HR 4978 IH
+required for collection, processing, or maintenance of 
+1
+personal information if the collection, processing, or 
+2
+maintenance is, on its face, obvious and necessary to 
+3
+provide a service at the request of the individual and 
+4
+the personal information is collected, processed, or 
+5
+maintained only for such request. Nothing in this 
+6
+paragraph shall be construed to exempt the covered 
+7
+entity from the requirement of subsection (a) to pro-
+8
+vide notice to such individual with respect to such 
+9
+collection, processing, or maintenance. 
+10
+(3) EXEMPTION
+FOR
+PRIVACY
+PRESERVING 
+11
+COMPUTING.—Notwithstanding paragraph (1), ex-
+12
+cept with regard to consent for purposes of section 
+13
+106, express consent is not required for collection, 
+14
+processing, or maintenance of personal information 
+15
+secured using privacy preserving computing. Nothing 
+16
+in this paragraph shall be construed to exempt the 
+17
+covered entity from the requirement of subsection 
+18
+(a) to provide notice to such individual with respect 
+19
+to such collection, processing, or maintenance. 
+20
+(c) SERVICE PROVIDERS EXCLUDED.—This section 
+21
+does not apply to a service provider if such service provider 
+22
+has a reasonable belief that a covered entity for which it 
+23
+processes, maintains, or discloses personal information is 
+24
+in compliance with this section. 
+25
+00:42 Nov 13, 2019
+H4978
+68 
+•HR 4978 IH
+SEC. 213. PRIVACY POLICY. 
+1
+(a) POLICY REQUIRED.—A covered entity shall main-
+2
+tain a privacy policy relating to the practices of such entity 
+3
+regarding the collection, processing, maintenance, and dis-
+4
+closure of personal information. 
+5
+(b) CONTENTS.—The privacy policy required by sub-
+6
+section (a) shall contain the following: 
+7
+(1) A general description of the practices of the 
+8
+covered entity regarding the collection, processing, 
+9
+maintenance, and disclosure of personal information. 
+10
+(2) A description of how individuals may exer-
+11
+cise the rights provided by title I. 
+12
+(3) A clear and concise summary of the fol-
+13
+lowing: 
+14
+(A) The categories of personal information 
+15
+collected or otherwise obtained by the covered 
+16
+entity. 
+17
+(B) The business or commercial purposes 
+18
+of the covered entity for collecting, processing, 
+19
+maintaining, or disclosing personal information. 
+20
+(C) The categories and a list of third par-
+21
+ties to which the covered entity discloses per-
+22
+sonal information. 
+23
+(4) A description of the personal information 
+24
+that the covered entity maintains that the covered 
+25
+00:42 Nov 13, 2019
+H4978
+69 
+•HR 4978 IH
+entity does not collect from individuals and how the 
+1
+covered entity obtains such personal information. 
+2
+(5) A list of the third parties to which the cov-
+3
+ered entity has disclosed personal information. 
+4
+(6) A list of the third parties from which the 
+5
+covered entity has obtained personal information at 
+6
+any time on or after the effective date specified in 
+7
+section 4(a). 
+8
+(7) The articulated basis for the collection, 
+9
+processing, disclosure and maintenance of personal 
+10
+information, as required under section 201(a). 
+11
+(c) EXEMPTION FOR PERSONAL INFORMATION FOR 
+12
+PARTICULAR PURPOSES.—The privacy policy required by 
+13
+subsection (a) is not required to contain information relat-
+14
+ing to personal information that is collected, processed, 
+15
+maintained, or disclosed exclusively for any of the pur-
+16
+poses described in paragraph (1) of section 109(a) (or a 
+17
+combination of such purposes), except as provided in para-
+18
+graph (2) of such section. 
+19
+(d) AVAILABILITY OF PRIVACY POLICY.— 
+20
+(1) FORM AND MANNER.—The privacy policy 
+21
+required by subsection (a) shall be— 
+22
+(A) clear and in plain language; and 
+23
+(B) made publicly available in a prominent 
+24
+location on an ongoing basis. 
+25
+00:42 Nov 13, 2019
+H4978
+70 
+•HR 4978 IH
+(2) TIMING.—The privacy policy required by 
+1
+subsection (a) shall be made available as required by 
+2
+paragraph (1) before any collection of personal in-
+3
+formation by the covered entity that occurs after the 
+4
+effective date specified in section 4(a). 
+5
+(e) SMALL BUSINESSES EXCLUDED.—Subsections 
+6
+(b)(7) and (d) do not apply to a small business. 
+7
+(f) SERVICE PROVIDERS EXCLUDED.—This section 
+8
+does not apply to a service provider if such service provider 
+9
+has a reasonable belief that a covered entity for which it 
+10
+processes, maintains, or discloses personal information is 
+11
+in compliance with this section. 
+12
+SEC. 214. INFORMATION SECURITY REQUIREMENTS. 
+13
+(a) IN GENERAL.—A covered entity shall establish 
+14
+and implement reasonable information security policies, 
+15
+practices, and procedures for the protection of personal 
+16
+information collected, processed, maintained, or disclosed 
+17
+by such covered entity, taking into consideration— 
+18
+(1) the nature, scope, and complexity of the ac-
+19
+tivities engaged in by such covered entity; 
+20
+(2) the sensitivity of any personal information 
+21
+at issue; 
+22
+(3) the current state of the art in administra-
+23
+tive, technical, and physical safeguards for pro-
+24
+tecting such information; and 
+25
+00:42 Nov 13, 2019
+H4978
+71 
+•HR 4978 IH
+(4) the cost of implementing such administra-
+1
+tive, technical, and physical safeguards. 
+2
+(b) POINT OF CONTACT.—A covered entity shall iden-
+3
+tify an officer or other individual as the point of contact 
+4
+with responsibility for the management of information se-
+5
+curity. 
+6
+(c) SPECIFIC POLICIES, PRACTICES, AND PROCE-
+7
+DURES.—The policies, practices, and procedures required 
+8
+by subsection (a) shall include the following: 
+9
+(1) A written security policy with respect to the 
+10
+collection, processing, maintenance, and disclosure of 
+11
+personal information. Such policy shall be made pub-
+12
+licly available in a prominent location on an ongoing 
+13
+basis, except that the publicly available version is 
+14
+not required to contain information that would com-
+15
+promise a purpose described in paragraph (1) of sec-
+16
+tion 109(a). 
+17
+(2) A process for identifying and assessing rea-
+18
+sonably foreseeable security vulnerabilities in the 
+19
+system or systems used by such covered entity that 
+20
+contain personal information, which shall include 
+21
+regular monitoring for vulnerabilities or data 
+22
+breaches involving such system or systems. 
+23
+(3) A process for taking action designed to 
+24
+mitigate against vulnerabilities identified in the 
+25
+00:42 Nov 13, 2019
+H4978
+72 
+•HR 4978 IH
+process required by paragraph (2), which may in-
+1
+clude implementing any changes to security practices 
+2
+and the architecture, installation, or implementation 
+3
+of network or operating software, or for regularly 
+4
+testing or otherwise monitoring the effectiveness of 
+5
+the existing safeguards. 
+6
+(4) A process for determining if personal infor-
+7
+mation is no longer needed and disposing of personal 
+8
+information by shredding, permanently erasing, or 
+9
+otherwise modifying the medium on which such per-
+10
+sonal information is maintained to make such per-
+11
+sonal information permanently unreadable or indeci-
+12
+pherable. 
+13
+(5) A process for overseeing persons who have 
+14
+access to personal information, including through 
+15
+network-connected devices. 
+16
+(6) A process for employee training and super-
+17
+vision for implementation of the policies, practices, 
+18
+and procedures required by this section. 
+19
+(7) A written plan or protocol for internal and 
+20
+public response in the event of a data breach or data 
+21
+sharing abuse. 
+22
+(d) REGULATIONS.—The Director, in consultation 
+23
+with the National Institute of Standards and Technology, 
+24
+shall promulgate regulations to implement this section. 
+25
+00:42 Nov 13, 2019
+H4978
+73 
+•HR 4978 IH
+(e) SMALL BUSINESSES ASSISTANCE.—The Director, 
+1
+in consultation with the National Institute of Standards 
+2
+and Technology, the Small Business Association, and 
+3
+small businesses, shall develop policy templates, toolkits, 
+4
+tip sheets, configuration guidelines for commonly used 
+5
+hardware and software, interactive tools, and other mate-
+6
+rials to assist small businesses with complying with this 
+7
+section. 
+8
+SEC. 215. NOTIFICATION OF DATA BREACH OR DATA SHAR-
+9
+ING ABUSE. 
+10
+(a) NOTIFICATION OF AGENCY.— 
+11
+(1) IN GENERAL.—In the case of a data breach 
+12
+or data sharing abuse with respect to personal infor-
+13
+mation maintained by a covered entity, such covered 
+14
+entity shall, without undue delay and, if feasible, not 
+15
+later than 72 hours after becoming aware of such 
+16
+data breach or data sharing abuse, notify the Direc-
+17
+tor of such data breach or data sharing abuse, un-
+18
+less such data breach or data sharing abuse is un-
+19
+likely to create or increase foreseeable privacy 
+20
+harms. 
+21
+(2) REASONS FOR DELAY.—If the notification 
+22
+required by paragraph (1) is made more than 72 
+23
+hours after the covered entity becomes aware of the 
+24
+data breach or data sharing abuse, such notification 
+25
+00:42 Nov 13, 2019
+H4978
+74 
+•HR 4978 IH
+shall be accompanied by a statement of the reasons 
+1
+for the delay. 
+2
+(b) NOTIFICATION OF OTHER COVERED ENTITY.— 
+3
+In the case of a data breach or data sharing abuse with 
+4
+respect to personal information maintained by a covered 
+5
+entity that such covered entity obtained from another cov-
+6
+ered entity, the covered entity experiencing such data 
+7
+breach or data sharing abuse shall, without undue delay 
+8
+and, if feasible, not later than 72 hours after becoming 
+9
+aware of such data breach or data sharing abuse, notify 
+10
+such other covered entity of such data breach or data 
+11
+sharing abuse, unless such data breach or data sharing 
+12
+abuse is unlikely to create or increase foreseeable privacy 
+13
+harms. A covered entity receiving notice under this sub-
+14
+section of a data breach or data sharing abuse shall notify 
+15
+any other covered entity from which the covered entity re-
+16
+ceiving notice obtained personal information involved in 
+17
+such data breach or data sharing abuse, in the same man-
+18
+ner as required under the preceding sentence for the cov-
+19
+ered entity experiencing such data breach or data sharing 
+20
+abuse. 
+21
+(c) NOTIFICATION OF INDIVIDUALS.— 
+22
+(1) IN GENERAL.—In the case of a data breach 
+23
+or data sharing abuse with respect to personal infor-
+24
+mation maintained by a covered entity (or a data 
+25
+00:42 Nov 13, 2019
+H4978
+75 
+•HR 4978 IH
+breach or data sharing abuse about which a covered 
+1
+entity is notified under subsection (b)), if such cov-
+2
+ered entity has a relationship with an individual 
+3
+whose personal information was involved or poten-
+4
+tially involved in such data breach or data sharing 
+5
+abuse, such covered entity shall notify such indi-
+6
+vidual of such data breach or data sharing abuse not 
+7
+later than 14 days after becoming aware of such 
+8
+data breach or data sharing abuse (or, in the case 
+9
+of a data breach or data sharing abuse about which 
+10
+a covered entity is notified under subsection (b), not 
+11
+later than 14 days after being so notified), if such 
+12
+data breach or data sharing abuse creates or in-
+13
+creases foreseeable privacy harms. 
+14
+(2) MEDIUM OF NOTIFICATION.—A covered en-
+15
+tity shall notify an individual as required by para-
+16
+graph (1) through— 
+17
+(A) the same medium through which such 
+18
+individual routinely interacts with such covered 
+19
+entity; and 
+20
+(B) one additional medium of notification, 
+21
+if such covered entity has the personal informa-
+22
+tion necessary to make a notification through 
+23
+such an additional medium without causing ex-
+24
+cessive financial burden for such covered entity. 
+25
+00:42 Nov 13, 2019
+H4978
+76 
+•HR 4978 IH
+(d) RULE OF CONSTRUCTION.—This section shall not 
+1
+apply to a covered entity if a person uses personal infor-
+2
+mation obtained from a data breach or data sharing abuse 
+3
+not involving such covered entity. 
+4
+TITLE III—UNITED STATES 
+5
+DIGITAL PRIVACY AGENCY 
+6
+SEC. 301. ESTABLISHMENT. 
+7
+(a) AGENCY ESTABLISHED.—There is established an 
+8
+independent agency in the executive branch to be known 
+9
+as the ‘‘United States Digital Privacy Agency’’, which 
+10
+shall implement and enforce this Act. 
+11
+(b) DIRECTOR AND DEPUTY DIRECTOR.— 
+12
+(1) IN GENERAL.—There is established the po-
+13
+sition of the Director, who shall serve as the head 
+14
+of the Agency. 
+15
+(2) APPOINTMENT.—Subject to paragraph (3), 
+16
+the Director shall be appointed by the President, by 
+17
+and with the advice and consent of the Senate. 
+18
+(3) 
+QUALIFICATION.—The 
+President 
+shall 
+19
+nominate the Director from among individuals who 
+20
+are citizens of the United States. 
+21
+(4) DEPUTY DIRECTOR.—There is established 
+22
+the position of Deputy Director, who shall— 
+23
+(A) be appointed by the Director; and 
+24
+00:42 Nov 13, 2019
+H4978
+77 
+•HR 4978 IH
+(B) serve as acting Director in the absence 
+1
+or unavailability of the Director. 
+2
+(c) TERM.— 
+3
+(1) IN GENERAL.—The Director shall serve for 
+4
+a term of 5 years. 
+5
+(2) EXPIRATION OF TERM.—An individual may 
+6
+serve as Director after the expiration of the term for 
+7
+which appointed, until a successor has been ap-
+8
+pointed and qualified. 
+9
+(3) REMOVAL FOR CAUSE.—The President may 
+10
+remove the Director for inefficiency, neglect of duty, 
+11
+or malfeasance in office. 
+12
+(d) SERVICE RESTRICTION.—No Director or Deputy 
+13
+Director may hold any office, position, or employment in 
+14
+any covered entity during the period of service of such per-
+15
+son as Director or Deputy Director. 
+16
+(e) OFFICES.—The Director shall establish a prin-
+17
+cipal office and field offices of the Agency in locations that 
+18
+have high levels of activity by covered entities, as deter-
+19
+mined by the Director. 
+20
+(f) COMPENSATION.— 
+21
+(1) IN GENERAL.—The Director shall be com-
+22
+pensated at the rate prescribed for level II of the 
+23
+Executive Schedule under section 5313 of title 5, 
+24
+United States Code. 
+25
+00:42 Nov 13, 2019
+H4978
+78 
+•HR 4978 IH
+(2) CONFORMING AMENDMENT.—Section 5313 
+1
+of title 5, United States Code, is amended by insert-
+2
+ing after the item relating to ‘‘Federal Transit Ad-
+3
+ministrator.’’ the following new item: ‘‘Director of 
+4
+the United States Digital Privacy Agency.’’. 
+5
+SEC. 302. EXECUTIVE AND ADMINISTRATIVE POWERS. 
+6
+(a) POWERS OF THE AGENCY.—The Director is au-
+7
+thorized to establish the general policies of the Agency 
+8
+with respect to all executive and administrative functions, 
+9
+including— 
+10
+(1) the establishment of rules for conducting 
+11
+the general business of the Agency, in a manner not 
+12
+inconsistent with this Act; 
+13
+(2) to bind the Agency and enter into contracts; 
+14
+(3) directing the establishment and mainte-
+15
+nance of divisions or other offices within the Agency, 
+16
+in order to carry out the responsibilities of the Agen-
+17
+cy under this Act, and to satisfy the requirements of 
+18
+other applicable law; 
+19
+(4) to coordinate and oversee the operation of 
+20
+all administrative, enforcement, and research activi-
+21
+ties of the Agency; 
+22
+(5) to adopt and use a seal; 
+23
+00:42 Nov 13, 2019
+H4978
+79 
+•HR 4978 IH
+(6) to determine the character of and the neces-
+1
+sity for the obligations and expenditures of the 
+2
+Agency; 
+3
+(7) the appointment and supervision of per-
+4
+sonnel employed by the Agency; 
+5
+(8) the distribution of business among per-
+6
+sonnel appointed and supervised by the Director and 
+7
+among administrative units of the Agency; 
+8
+(9) the use and expenditure of funds; 
+9
+(10) implementing this Act through rules, or-
+10
+ders, guidance, interpretations, statements of policy, 
+11
+investigations, and enforcement actions; and 
+12
+(11) performing such other functions as may be 
+13
+authorized or required by law. 
+14
+(b) DELEGATION
+OF AUTHORITY.—The Director 
+15
+may delegate to any duly authorized employee, representa-
+16
+tive, or agent any power vested in the Director or the 
+17
+Agency by law, except that the Director may not delegate 
+18
+the power to appoint the Deputy Director under section 
+19
+301(b)(4)(A). 
+20
+(c) AUTONOMY
+OF
+AGENCY
+REGARDING
+REC-
+21
+OMMENDATIONS AND TESTIMONY.—No officer or agency 
+22
+of the United States shall have any authority to require 
+23
+the Director or any other officer of the Agency to submit 
+24
+legislative recommendations, or testimony or comments on 
+25
+00:42 Nov 13, 2019
+H4978
+80 
+•HR 4978 IH
+legislation, to any officer or agency of the United States 
+1
+for approval, comments, or review prior to the submission 
+2
+of such recommendations, testimony, or comments to the 
+3
+Congress, if such recommendations, testimony, or com-
+4
+ments to the Congress include a statement indicating that 
+5
+the views expressed therein are those of the Director or 
+6
+such officer, and do not necessarily reflect the views of 
+7
+the President. 
+8
+SEC. 303. RULEMAKING AUTHORITY. 
+9
+The Director may prescribe rules and issue orders 
+10
+and guidance, as may be necessary or appropriate to en-
+11
+able the Agency to administer and carry out the purposes 
+12
+and objectives of this Act, and to prevent evasions thereof. 
+13
+SEC. 304. PERSONNEL. 
+14
+(a) APPOINTMENT.— 
+15
+(1) IN GENERAL.—The Director may fix the 
+16
+number of, and appoint and direct, all employees of 
+17
+the Agency, in accordance with the applicable provi-
+18
+sions of title 5, United States Code. 
+19
+(2) EMPLOYEES OF THE AGENCY.—The Direc-
+20
+tor is authorized to employ technologists, designers, 
+21
+attorneys, investigators, economists, and other em-
+22
+ployees as the Director considers necessary to con-
+23
+duct the business of the Agency. 
+24
+(b) AGENCY OMBUDSMAN.— 
+25
+00:42 Nov 13, 2019
+H4978
+81 
+•HR 4978 IH
+(1) ESTABLISHMENT REQUIRED.—The Director 
+1
+shall appoint an ombudsman. 
+2
+(2) DUTIES OF OMBUDSMAN.—The ombudsman 
+3
+appointed in accordance with paragraph (1) shall— 
+4
+(A) act as a liaison between the Agency 
+5
+and any affected person with respect to any 
+6
+problem that such person may have in dealing 
+7
+with the Agency, resulting from the regulatory 
+8
+activities of the Agency; and 
+9
+(B) assure that safeguards exist to encour-
+10
+age complainants to come forward and preserve 
+11
+confidentiality. 
+12
+SEC. 305. COMPLAINTS OF INDIVIDUALS. 
+13
+(a) IN GENERAL.—The Director shall establish a unit 
+14
+within the Agency the functions of which shall include es-
+15
+tablishing a single, toll-free telephone number, a website, 
+16
+and a database or utilizing an existing database to facili-
+17
+tate the centralized collection of, monitoring of, and re-
+18
+sponse to complaints of individuals regarding the privacy 
+19
+or security of personal information. The Director shall co-
+20
+ordinate with other Federal agencies with jurisdiction over 
+21
+the privacy or security of personal information to route 
+22
+complaints to such agencies, where appropriate. 
+23
+(b) ROUTING COMPLAINTS TO STATES.—To the ex-
+24
+tent practicable, State agencies may receive appropriate 
+25
+00:42 Nov 13, 2019
+H4978
+82 
+•HR 4978 IH
+complaints from the systems established under subsection 
+1
+(a), if— 
+2
+(1) the State agency system has the functional 
+3
+capacity to receive calls or electronic reports routed 
+4
+by the Agency systems; 
+5
+(2) the State agency has satisfied any condi-
+6
+tions of participation in the system that the Agency 
+7
+may establish, including treatment of personal infor-
+8
+mation and sharing of information on complaint res-
+9
+olution or related compliance procedures and re-
+10
+sources; and 
+11
+(3) participation by the State agency includes 
+12
+measures necessary to provide for protection of per-
+13
+sonal information that conform to the standards for 
+14
+protection of the confidentiality of personal informa-
+15
+tion and for data integrity and security that apply 
+16
+to Federal agencies. 
+17
+(c) DATA SHARING REQUIRED.—To facilitate inclu-
+18
+sion in the reports required by section 310 of the matters 
+19
+regarding complaints of individuals required by subsection 
+20
+(b)(4) of such section to be included in such reports, inves-
+21
+tigation and enforcement activities, and monitoring of the 
+22
+privacy and security of personal information, the Agency 
+23
+shall share information about complaints of individuals 
+24
+with Federal and State agencies that have jurisdiction 
+25
+00:42 Nov 13, 2019
+H4978
+83 
+•HR 4978 IH
+over the privacy or security of personal information and 
+1
+State attorneys general, subject to the standards applica-
+2
+ble to Federal agencies for protection of the confidentiality 
+3
+of personal information and for data security and integ-
+4
+rity. Other Federal agencies that have jurisdiction over the 
+5
+privacy or security of personal information shall share 
+6
+data relating to complaints of individuals regarding the 
+7
+privacy or security of personal information with the Agen-
+8
+cy, subject to the standards applicable to Federal agencies 
+9
+for protection of confidentiality of personal information 
+10
+and for data security and integrity. 
+11
+SEC. 306. USER ADVISORY BOARD. 
+12
+(a) ESTABLISHMENT REQUIRED.—The Director shall 
+13
+establish a User Advisory Board to advise and consult 
+14
+with the Agency in the exercise of its functions under this 
+15
+Act, and to provide information on emerging practices re-
+16
+lating to the treatment of personal information by covered 
+17
+entities, including regional trends, concerns, and other rel-
+18
+evant information. 
+19
+(b) MEMBERSHIP.—In appointing the members of 
+20
+the User Advisory Board, the Director shall seek to assem-
+21
+ble experts in consumer protection, privacy, civil rights, 
+22
+and ethics, and seek representation of the interests of indi-
+23
+viduals who use products or services provided by covered 
+24
+entities, without regard to party affiliation. 
+25
+00:42 Nov 13, 2019
+H4978
+84 
+•HR 4978 IH
+(c) MEETINGS.—The User Advisory Board shall meet 
+1
+from time to time at the call of the Director, but, at a 
+2
+minimum, shall meet at least twice in each year. 
+3
+(d) COMPENSATION AND TRAVEL EXPENSES.—Mem-
+4
+bers of the User Advisory Board who are not full-time em-
+5
+ployees of the United States shall— 
+6
+(1) be entitled to receive compensation at a rate 
+7
+fixed by the Director while attending meetings of the 
+8
+User Advisory Board, including travel time; and 
+9
+(2) receive travel expenses, including per diem 
+10
+in lieu of subsistence, in accordance with applicable 
+11
+provisions under subchapter I of chapter 57 of title 
+12
+5, United States Code. 
+13
+SEC. 307. ACADEMIC AND RESEARCH ADVISORY BOARD. 
+14
+(a) ESTABLISHMENT REQUIRED.—The Director shall 
+15
+establish an Academic and Research Advisory Board to 
+16
+advise and consult with the Agency in the exercise of its 
+17
+functions under this Act, and to provide information on 
+18
+emerging practices relating to the treatment of personal 
+19
+information by covered entities, including regional trends, 
+20
+concerns, and other relevant information. 
+21
+(b) MEMBERSHIP.—In appointing the members of 
+22
+the Academic and Research Advisory Board, the Director 
+23
+shall seek to assemble individuals with academic and re-
+24
+search expertise in privacy, cybersecurity, computer 
+25
+00:42 Nov 13, 2019
+H4978
+85 
+•HR 4978 IH
+science, innovation, economics, law, and public policy, 
+1
+without regard to party affiliation. 
+2
+(c) MEETINGS.—The Academic and Research Advi-
+3
+sory Board shall meet from time to time at the call of 
+4
+the Director, but, at a minimum, shall meet at least twice 
+5
+in each year. 
+6
+(d) COMPENSATION AND TRAVEL EXPENSES.—Mem-
+7
+bers of the Academic and Research Advisory Board who 
+8
+are not full-time employees of the United States shall— 
+9
+(1) be entitled to receive compensation at a rate 
+10
+fixed by the Director while attending meetings of the 
+11
+Academic and Research Advisory Board, including 
+12
+travel time; and 
+13
+(2) receive travel expenses, including per diem 
+14
+in lieu of subsistence, in accordance with applicable 
+15
+provisions under subchapter I of chapter 57 of title 
+16
+5, United States Code. 
+17
+SEC. 308. SMALL BUSINESS AND INVESTOR ADVISORY 
+18
+BOARD. 
+19
+(a) ESTABLISHMENT REQUIRED.—The Director shall 
+20
+establish a Small Business and Investor Advisory Board 
+21
+to advise and consult with the Agency in the exercise of 
+22
+its functions under this Act, and to provide information 
+23
+on emerging practices relating to the treatment of per-
+24
+00:42 Nov 13, 2019
+H4978
+86 
+•HR 4978 IH
+sonal information by covered entities, including regional 
+1
+trends, concerns, and other relevant information. 
+2
+(b) MEMBERSHIP.—In appointing the members of 
+3
+the Small Business and Investor Advisory Board, the Di-
+4
+rector shall seek to assemble representatives of small busi-
+5
+nesses and investors in small businesses, without regard 
+6
+to party affiliation. 
+7
+(c) MEETINGS.—The Small Business and Investor 
+8
+Advisory Board shall meet from time to time at the call 
+9
+of the Director, but, at a minimum, shall meet at least 
+10
+twice in each year. 
+11
+(d) COMPENSATION AND TRAVEL EXPENSES.—Mem-
+12
+bers of the Small Business and Investor Advisory Board 
+13
+who are not full-time employees of the United States 
+14
+shall— 
+15
+(1) be entitled to receive compensation at a rate 
+16
+fixed by the Director while attending meetings of the 
+17
+Small Business and Investor Advisory Board, includ-
+18
+ing travel time; and 
+19
+(2) receive travel expenses, including per diem 
+20
+in lieu of subsistence, in accordance with applicable 
+21
+provisions under subchapter I of chapter 57 of title 
+22
+5, United States Code. 
+23
+00:42 Nov 13, 2019
+H4978
+87 
+•HR 4978 IH
+SEC. 309. CONSULTATION. 
+1
+The Director shall consult with Federal and State 
+2
+agencies that have jurisdiction over the privacy or security 
+3
+of personal information, State attorneys general, inter-
+4
+national and intergovernmental bodies that conduct activi-
+5
+ties relating to the privacy or security of personal informa-
+6
+tion, and agencies of other countries that are similar to 
+7
+the Agency, as appropriate, to promote consistent regu-
+8
+latory treatment of the activities of covered entities relat-
+9
+ing to the privacy or security of personal information. 
+10
+SEC. 310. REPORTS. 
+11
+(a) REPORTS REQUIRED.—Not later than 6 months 
+12
+after the date of the enactment of this Act, and every 6 
+13
+months thereafter, the Director shall submit a report to 
+14
+the President and to the Committee on Energy and Com-
+15
+merce, the Committee on the Judiciary, and the Com-
+16
+mittee on Appropriations of the House of Representatives 
+17
+and the Committee on Commerce, Science, and Transpor-
+18
+tation, the Committee on the Judiciary, and the Com-
+19
+mittee on Appropriations of the Senate, and shall publish 
+20
+such report on the website of the Agency. 
+21
+(b) CONTENTS.—Each report required by subsection 
+22
+(a) shall include— 
+23
+(1) a discussion of the significant problems 
+24
+faced by individuals with respect to the privacy or 
+25
+security of personal information; 
+26
+00:42 Nov 13, 2019
+H4978
+88 
+•HR 4978 IH
+(2) a justification of the budget request of the 
+1
+Agency for the preceding year, unless a justification 
+2
+for such year was included in the preceding report 
+3
+submitted under such subsection; 
+4
+(3) a list of the significant rules and orders 
+5
+adopted by the Agency, as well as other significant 
+6
+initiatives conducted by the Agency, during the pre-
+7
+ceding 6-month period and the plan of the Agency 
+8
+for rules, orders, or other initiatives to be under-
+9
+taken during the upcoming 6-month period; 
+10
+(4) an analysis of complaints about the privacy 
+11
+or security of personal information that the Agency 
+12
+has received and collected in the database described 
+13
+in section 305(a) during the preceding 6-month pe-
+14
+riod; 
+15
+(5) a list, with a brief statement of the issues, 
+16
+of the public enforcement actions to which the Agen-
+17
+cy was a party during the preceding 6-month period; 
+18
+and 
+19
+(6) an assessment of significant actions by 
+20
+State attorneys general or State agencies relating to 
+21
+this Act or the rules prescribed under this Act dur-
+22
+ing the preceding 6-month period. 
+23
+00:42 Nov 13, 2019
+H4978
+89 
+•HR 4978 IH
+SEC. 311. GRANTS FOR DEVELOPING OPEN-SOURCE MA-
+1
+CHINE LEARNING TRAINING DATA. 
+2
+The Director shall establish an Open-Source Machine 
+3
+Learning Training Data Program and make grants 
+4
+through the program to support the development of open- 
+5
+source, voluntarily disclosed, personal information data 
+6
+sets to be used for the training or development of machine 
+7
+learning and artificial intelligence algorithms. The Direc-
+8
+tor shall promulgate regulations to implement the Pro-
+9
+gram and to consider any such data sets are in compliance 
+10
+with this Act balancing any intrusion on the privacy of, 
+11
+potential privacy harms to, and reasonable expectations of 
+12
+individuals to whom the personal information relates. 
+13
+SEC. 312. ANNUAL AUDITS. 
+14
+The Director shall order an annual independent audit 
+15
+of the operations and budget of the Agency. 
+16
+SEC. 313. INSPECTOR GENERAL. 
+17
+Section 12 of the Inspector General Act of 1978 (5 
+18
+U.S.C. App.) is amended— 
+19
+(1) in paragraph (1), by inserting the ‘‘Director 
+20
+of the Digital Privacy Agency;’’ after ‘‘the President 
+21
+of the Export-Import Bank;’’; and 
+22
+(2) in paragraph (2), by inserting ‘‘the Digital 
+23
+Privacy Agency,’’ after ‘‘the Export-Import Bank,’’. 
+24
+00:42 Nov 13, 2019
+H4978
+90 
+•HR 4978 IH
+SEC. 314. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There are authorized to be appropriated to the Direc-
+2
+tor to carry out this Act $550,000,000 for each of the 
+3
+fiscal years 2020, 2021, 2022, 2023, and 2024. 
+4
+TITLE IV—ENFORCEMENT 
+5
+SEC. 401. DEFINITIONS. 
+6
+In this title: 
+7
+(1) AGENCY INVESTIGATOR.—The term ‘‘Agen-
+8
+cy investigator’’ means any attorney or investigator 
+9
+employed by the Agency who is charged with the 
+10
+duty of enforcing or carrying into effect any provi-
+11
+sion of this Act or a rule or order prescribed under 
+12
+this Act. 
+13
+(2) ATTORNEY GENERAL.—The term ‘‘attorney 
+14
+general’’ means, with respect to a State, the attor-
+15
+ney general or chief law enforcement officer of the 
+16
+State, or another official or agency designated by 
+17
+the State to bring civil actions on behalf of the State 
+18
+or the residents of the State. 
+19
+(3) CUSTODIAN.—The term ‘‘custodian’’ means 
+20
+the custodian or any deputy custodian designated by 
+21
+the Agency. 
+22
+(4) 
+DOCUMENTARY
+MATERIAL.—The 
+term 
+23
+‘‘documentary material’’ includes the original or any 
+24
+copy of any book, document, record, report, memo-
+25
+randum, paper, communication, tabulation, chart, 
+26
+00:42 Nov 13, 2019
+H4978
+91 
+•HR 4978 IH
+logs, electronic files, or other data or data compila-
+1
+tions stored in any medium. 
+2
+(5) VIOLATION.—The term ‘‘violation’’ means 
+3
+any act or omission that, if proved, would constitute 
+4
+a violation of any provision of this Act or a rule or 
+5
+order prescribed under this Act. 
+6
+(6) NON-PUBLIC
+INFORMATION.—The term 
+7
+‘‘non-public information’’ means information that 
+8
+has not been disclosed in a criminal, civil, or admin-
+9
+istrative proceeding, in a government investigation, 
+10
+report, or audit, or by the news media or other pub-
+11
+lic source of information, and that was not obtained 
+12
+in violation of the law. 
+13
+SEC. 402. INVESTIGATIONS AND ADMINISTRATIVE DIS-
+14
+COVERY. 
+15
+(a) JOINT INVESTIGATIONS.—The Agency or, where 
+16
+appropriate, an Agency investigator, may conduct inves-
+17
+tigations and make requests for information, as authorized 
+18
+under this Act, on a joint basis with another agency (as 
+19
+defined in section 551 of title 5, United States Code). 
+20
+(b) SUBPOENAS.— 
+21
+(1) IN GENERAL.—The Agency or an Agency 
+22
+investigator may issue subpoenas for the attendance 
+23
+and testimony of witnesses and the production of 
+24
+00:42 Nov 13, 2019
+H4978
+92 
+•HR 4978 IH
+relevant papers, books, documents, or other material 
+1
+in connection with hearings under this Act. 
+2
+(2) FAILURE TO OBEY.—In the case of contu-
+3
+macy or refusal to obey a subpoena issued pursuant 
+4
+to this subsection and served upon any person, the 
+5
+district court of the United States for any district in 
+6
+which such person is found, resides, or transacts 
+7
+business, upon application by the Agency or an 
+8
+Agency investigator and after notice to such person, 
+9
+may issue an order requiring such person to appear 
+10
+and give testimony or to appear and produce docu-
+11
+ments or other material. 
+12
+(3) CONTEMPT.—Any failure to obey an order 
+13
+of the court under paragraph (2) may be punished 
+14
+by the court as a contempt thereof. 
+15
+(c) DEMANDS.— 
+16
+(1) IN GENERAL.—Whenever the Agency has 
+17
+reason to believe that any person may be in posses-
+18
+sion, custody, or control of any documentary mate-
+19
+rial or tangible things, or may have any information, 
+20
+relevant to a violation, the Agency may, before the 
+21
+institution of any proceedings under this Act, issue 
+22
+in writing, and cause to be served upon such person, 
+23
+a civil investigative demand requiring such person 
+24
+to— 
+25
+00:42 Nov 13, 2019
+H4978
+93 
+•HR 4978 IH
+(A) produce such documentary material for 
+1
+inspection and copying or reproduction in the 
+2
+form or medium requested by the Agency; 
+3
+(B) submit such tangible things; 
+4
+(C) file written reports or answers to ques-
+5
+tions; 
+6
+(D) give oral testimony concerning docu-
+7
+mentary material, tangible things, or other in-
+8
+formation; or 
+9
+(E) furnish any combination of such mate-
+10
+rial, answers, or testimony. 
+11
+(2) REQUIREMENTS.—Each civil investigative 
+12
+demand shall state the nature of the conduct consti-
+13
+tuting the alleged violation which is under investiga-
+14
+tion and the provision of law applicable to such vio-
+15
+lation. 
+16
+(3) PRODUCTION OF DOCUMENTS.—Each civil 
+17
+investigative demand for the production of documen-
+18
+tary material shall— 
+19
+(A) describe each class of documentary 
+20
+material to be produced under the demand with 
+21
+such definiteness and certainty as to permit 
+22
+such material to be fairly identified; 
+23
+(B) prescribe a return date or dates which 
+24
+will provide a reasonable period of time within 
+25
+00:42 Nov 13, 2019
+H4978
+94 
+•HR 4978 IH
+which the material so demanded may be assem-
+1
+bled and made available for inspection and 
+2
+copying or reproduction; and 
+3
+(C) identify the custodian to whom such 
+4
+material shall be made available. 
+5
+(4) PRODUCTION OF THINGS.—Each civil inves-
+6
+tigative demand for the submission of tangible 
+7
+things shall— 
+8
+(A) describe each class of tangible things 
+9
+to be submitted under the demand with such 
+10
+definiteness and certainty as to permit such 
+11
+things to be fairly identified; 
+12
+(B) prescribe a return date or dates which 
+13
+will provide a reasonable period of time within 
+14
+which the things so demanded may be assem-
+15
+bled and submitted; and 
+16
+(C) identify the custodian to whom such 
+17
+things shall be submitted. 
+18
+(5) DEMAND FOR WRITTEN REPORTS OR AN-
+19
+SWERS.—Each civil investigative demand for written 
+20
+reports or answers to questions shall— 
+21
+(A) propound with definiteness and cer-
+22
+tainty the reports to be produced or the ques-
+23
+tions to be answered; 
+24
+00:42 Nov 13, 2019
+H4978
+95 
+•HR 4978 IH
+(B) prescribe a date or dates at which time 
+1
+written reports or answers to questions shall be 
+2
+submitted; and 
+3
+(C) identify the custodian to whom such 
+4
+reports or answers shall be submitted. 
+5
+(6) ORAL TESTIMONY.—Each civil investigative 
+6
+demand for the giving of oral testimony shall— 
+7
+(A) prescribe a date, time, and place at 
+8
+which oral testimony shall be commenced; and 
+9
+(B) identify an Agency investigator who 
+10
+shall conduct the investigation and the custo-
+11
+dian to whom the transcript of such investiga-
+12
+tion shall be submitted. 
+13
+(7) SERVICE.—Any civil investigative demand 
+14
+issued, and any enforcement petition filed, under 
+15
+this section may be served— 
+16
+(A) by any Agency investigator at any 
+17
+place within the territorial jurisdiction of any 
+18
+court of the United States; and 
+19
+(B) upon any person who is not found 
+20
+within the territorial jurisdiction of any court of 
+21
+the United States— 
+22
+(i) in such manner as the Federal 
+23
+Rules of Civil Procedure prescribe for serv-
+24
+ice in a foreign nation; and 
+25
+00:42 Nov 13, 2019
+H4978
+96 
+•HR 4978 IH
+(ii) to the extent that the courts of 
+1
+the United States have authority to assert 
+2
+jurisdiction over such person, consistent 
+3
+with due process, the United States Dis-
+4
+trict Court for the District of Columbia 
+5
+shall have the same jurisdiction to take 
+6
+any action respecting compliance with this 
+7
+section by such person that such district 
+8
+court would have if such person were per-
+9
+sonally within the jurisdiction of such dis-
+10
+trict court. 
+11
+(8) METHOD OF SERVICE.—Service of any civil 
+12
+investigative demand or any enforcement petition 
+13
+filed under this section may be made upon a person 
+14
+by— 
+15
+(A) delivering a duly executed copy of such 
+16
+demand or petition to the individual or to any 
+17
+partner, executive officer, managing agent, or 
+18
+general agent of such person, or to any agent 
+19
+of such person authorized by appointment or by 
+20
+law to receive service of process on behalf of 
+21
+such person; 
+22
+(B) delivering a duly executed copy of such 
+23
+demand or petition to the principal office or 
+24
+place of business of the person to be served; or 
+25
+00:42 Nov 13, 2019
+H4978
+97 
+•HR 4978 IH
+(C) depositing a duly executed copy in the 
+1
+United States mails, by registered or certified 
+2
+mail, return receipt requested, duly addressed 
+3
+to such person at the principal office or place 
+4
+of business of such person. 
+5
+(9) PROOF OF SERVICE.— 
+6
+(A) IN GENERAL.—A verified return by the 
+7
+individual serving any civil investigative demand 
+8
+or any enforcement petition filed under this sec-
+9
+tion setting forth the manner of such service 
+10
+shall be proof of such service. 
+11
+(B) RETURN
+RECEIPTS.—In the case of 
+12
+service by registered or certified mail, such re-
+13
+turn shall be accompanied by the return post 
+14
+office receipt of delivery of such demand or en-
+15
+forcement petition. 
+16
+(10) PRODUCTION
+OF
+DOCUMENTARY
+MATE-
+17
+RIAL.—The production of documentary material in 
+18
+response to a civil investigative demand shall be 
+19
+made under a sworn certificate, in such form as the 
+20
+demand designates, by the person, if a natural per-
+21
+son, to whom the demand is directed or, if not a 
+22
+natural person, by any person having knowledge of 
+23
+the facts and circumstances relating to such produc-
+24
+tion, to the effect that all of the documentary mate-
+25
+00:42 Nov 13, 2019
+H4978
+98 
+•HR 4978 IH
+rial required by the demand and in the possession, 
+1
+custody, or control of the person to whom the de-
+2
+mand is directed has been produced and made avail-
+3
+able to the custodian. 
+4
+(11) SUBMISSION OF TANGIBLE THINGS.—The 
+5
+submission of tangible things in response to a civil 
+6
+investigative demand shall be made under a sworn 
+7
+certificate, in such form as the demand designates, 
+8
+by the person to whom the demand is directed or, 
+9
+if not a natural person, by any person having knowl-
+10
+edge of the facts and circumstances relating to such 
+11
+production, to the effect that all of the tangible 
+12
+things required by the demand and in the posses-
+13
+sion, custody, or control of the person to whom the 
+14
+demand is directed have been submitted to the cus-
+15
+todian. 
+16
+(12) SEPARATE ANSWERS.—Each reporting re-
+17
+quirement or question in a civil investigative demand 
+18
+shall be answered separately and fully in writing 
+19
+under oath, unless it is objected to, in which event 
+20
+the reasons for the objection shall be stated in lieu 
+21
+of an answer, and it shall be submitted under a 
+22
+sworn certificate, in such form as the demand des-
+23
+ignates, by the person, if a natural person, to whom 
+24
+the demand is directed or, if not a natural person, 
+25
+00:42 Nov 13, 2019
+H4978
+99 
+•HR 4978 IH
+by any person responsible for answering each report-
+1
+ing requirement or question, to the effect that all in-
+2
+formation required by the demand and in the posses-
+3
+sion, custody, control, or knowledge of the person to 
+4
+whom the demand is directed has been submitted. 
+5
+(13) TESTIMONY.— 
+6
+(A) IN GENERAL.— 
+7
+(i) OATH
+AND
+RECORDATION.—The 
+8
+examination of any person pursuant to a 
+9
+demand for oral testimony served under 
+10
+this subsection shall be taken before an of-
+11
+ficer authorized to administer oaths and 
+12
+affirmations by the laws of the United 
+13
+States or of the place at which the exam-
+14
+ination is held. The officer before whom 
+15
+oral testimony is to be taken shall put the 
+16
+witness on oath or affirmation and shall 
+17
+personally, or by any individual acting 
+18
+under the direction of and in the presence 
+19
+of the officer, record the testimony of the 
+20
+witness. 
+21
+(ii) TRANSCRIPTION.—The testimony 
+22
+shall be taken stenographically and tran-
+23
+scribed. 
+24
+00:42 Nov 13, 2019
+H4978
+100 
+•HR 4978 IH
+(B) PARTIES PRESENT.—Any Agency in-
+1
+vestigator before whom oral testimony is to be 
+2
+taken shall exclude from the place where the 
+3
+testimony is to be taken all other persons, ex-
+4
+cept the person giving the testimony, the attor-
+5
+ney for that person, the officer before whom the 
+6
+testimony is to be taken, an investigator or rep-
+7
+resentative of an agency with which the Agency 
+8
+is engaged in a joint investigation, and any ste-
+9
+nographer taking such testimony. 
+10
+(C) LOCATION.—The oral testimony of any 
+11
+person taken pursuant to a civil investigative 
+12
+demand shall be taken in the judicial district of 
+13
+the United States in which such person resides, 
+14
+is found, or transacts business, or in such other 
+15
+place as may be agreed upon by the Agency in-
+16
+vestigator before whom the oral testimony of 
+17
+such person is to be taken and such person. 
+18
+(D) ATTORNEY REPRESENTATION.— 
+19
+(i) IN
+GENERAL.—Any person com-
+20
+pelled to appear under a civil investigative 
+21
+demand for oral testimony pursuant to this 
+22
+subsection may be accompanied, rep-
+23
+resented, and advised by an attorney. 
+24
+00:42 Nov 13, 2019
+H4978
+101 
+•HR 4978 IH
+(ii) AUTHORITY.—The attorney may 
+1
+advise a person described in clause (i), in 
+2
+confidence, either upon the request of such 
+3
+person or upon the initiative of the attor-
+4
+ney, with respect to any question asked of 
+5
+such person. 
+6
+(iii) 
+OBJECTIONS.—A 
+person 
+de-
+7
+scribed in clause (i), or the attorney for 
+8
+that person, may object on the record to 
+9
+any question, in whole or in part, and such 
+10
+person shall briefly state for the record the 
+11
+reason for the objection. An objection may 
+12
+properly be made, received, and entered 
+13
+upon the record when it is claimed that 
+14
+such person is entitled to refuse to answer 
+15
+the question on grounds of any constitu-
+16
+tional or other legal right or privilege, in-
+17
+cluding the privilege against self-incrimina-
+18
+tion, but such person shall not otherwise 
+19
+object to or refuse to answer any question, 
+20
+and such person or attorney shall not oth-
+21
+erwise interrupt the oral examination. 
+22
+(iv) REFUSAL TO ANSWER.—If a per-
+23
+son described in clause (i) refuses to an-
+24
+swer any question— 
+25
+00:42 Nov 13, 2019
+H4978
+102 
+•HR 4978 IH
+(I) the Agency may petition the 
+1
+district court of the United States 
+2
+pursuant to this section for an order 
+3
+compelling such person to answer 
+4
+such question; and 
+5
+(II) if the refusal is on grounds 
+6
+of the privilege against self-incrimina-
+7
+tion, the testimony of such person 
+8
+may be compelled in accordance with 
+9
+the provisions of section 6004 of title 
+10
+18, United States Code. 
+11
+(E) TRANSCRIPTS.—For purposes of this 
+12
+subsection— 
+13
+(i) after the testimony of any witness 
+14
+is fully transcribed, the Agency investi-
+15
+gator shall afford the witness (who may be 
+16
+accompanied by an attorney) a reasonable 
+17
+opportunity to examine the transcript; 
+18
+(ii) the transcript shall be read to or 
+19
+by the witness, unless such examination 
+20
+and reading are waived by the witness; 
+21
+(iii) any changes in form or substance 
+22
+which the witness desires to make shall be 
+23
+entered and identified upon the transcript 
+24
+by the Agency investigator, with a state-
+25
+00:42 Nov 13, 2019
+H4978
+103 
+•HR 4978 IH
+ment of the reasons given by the witness 
+1
+for making such changes; 
+2
+(iv) the transcript shall be signed by 
+3
+the witness, unless the witness in writing 
+4
+waives the signing, is ill, cannot be found, 
+5
+or refuses to sign; and 
+6
+(v) if the transcript is not signed by 
+7
+the witness during the 30-day period fol-
+8
+lowing the date on which the witness is 
+9
+first afforded a reasonable opportunity to 
+10
+examine the transcript, the Agency investi-
+11
+gator shall sign the transcript and state on 
+12
+the record the fact of the waiver, illness, 
+13
+absence of the witness, or the refusal to 
+14
+sign, together with any reasons given for 
+15
+the failure to sign. 
+16
+(F) CERTIFICATION BY INVESTIGATOR.— 
+17
+The Agency investigator shall certify on the 
+18
+transcript that the witness was duly sworn by 
+19
+him or her and that the transcript is a true 
+20
+record of the testimony given by the witness, 
+21
+and the Agency investigator shall promptly de-
+22
+liver the transcript or send it by registered or 
+23
+certified mail to the custodian. 
+24
+00:42 Nov 13, 2019
+H4978
+104 
+•HR 4978 IH
+(G) COPY OF TRANSCRIPT.—The Agency 
+1
+investigator shall furnish a copy of the tran-
+2
+script (upon payment of reasonable charges for 
+3
+the transcript) to the witness only, except that 
+4
+the Agency may for good cause limit such wit-
+5
+ness to inspection of the official transcript of 
+6
+his testimony. 
+7
+(H) WITNESS FEES.—Any witness appear-
+8
+ing for the taking of oral testimony pursuant to 
+9
+a civil investigative demand shall be entitled to 
+10
+the same fees and mileage which are paid to 
+11
+witnesses in the district courts of the United 
+12
+States. 
+13
+(d) CONFIDENTIAL TREATMENT OF DEMAND MATE-
+14
+RIAL.— 
+15
+(1) IN GENERAL.—Documentary materials and 
+16
+tangible things received as a result of a civil inves-
+17
+tigative demand shall be subject to requirements and 
+18
+procedures regarding confidentiality, in accordance 
+19
+with rules established by the Agency. 
+20
+(2) DISCLOSURE TO CONGRESS.—No rule es-
+21
+tablished by the Agency regarding the confidentiality 
+22
+of materials submitted to, or otherwise obtained by, 
+23
+the Agency shall be intended to prevent disclosure to 
+24
+either House of Congress or to an appropriate com-
+25
+00:42 Nov 13, 2019
+H4978
+105 
+•HR 4978 IH
+mittee of the Congress, except that the Agency is 
+1
+permitted to adopt rules allowing prior notice to any 
+2
+party that owns or otherwise provided the material 
+3
+to the Agency and had designated such material as 
+4
+confidential. 
+5
+(e) PETITION FOR ENFORCEMENT.— 
+6
+(1) IN GENERAL.—Whenever any person fails 
+7
+to comply with any civil investigative demand duly 
+8
+served upon him under this section, or whenever sat-
+9
+isfactory copying or reproduction of material re-
+10
+quested pursuant to the demand cannot be accom-
+11
+plished and such person refuses to surrender such 
+12
+material, the Agency, through such officers or attor-
+13
+neys as it may designate, may file, in the district 
+14
+court of the United States for any judicial district 
+15
+in which such person resides, is found, or transacts 
+16
+business, and serve upon such person, a petition for 
+17
+an order of such court for the enforcement of this 
+18
+section. 
+19
+(2) SERVICE OF PROCESS.—All process of any 
+20
+court to which application may be made as provided 
+21
+in this subsection may be served in any judicial dis-
+22
+trict. 
+23
+(f) PETITION FOR ORDER MODIFYING OR SETTING 
+24
+ASIDE DEMAND.— 
+25
+00:42 Nov 13, 2019
+H4978
+106 
+•HR 4978 IH
+(1) IN GENERAL.—Not later than 20 days after 
+1
+the service of any civil investigative demand upon 
+2
+any person under subsection (c), or at any time be-
+3
+fore the return date specified in the demand, which-
+4
+ever period is shorter, or within such period exceed-
+5
+ing 20 days after service or in excess of such return 
+6
+date as may be prescribed in writing, subsequent to 
+7
+service, by any Agency investigator named in the de-
+8
+mand, such person may file with the Agency a peti-
+9
+tion for an order by the Agency modifying or setting 
+10
+aside the demand. 
+11
+(2) COMPLIANCE
+DURING
+PENDENCY.—The 
+12
+time permitted for compliance with the demand in 
+13
+whole or in part, as determined proper and ordered 
+14
+by the Agency, shall not run during the pendency of 
+15
+a petition under paragraph (1) at the Agency, except 
+16
+that such person shall comply with any portions of 
+17
+the demand not sought to be modified or set aside. 
+18
+(3) SPECIFIC
+GROUNDS.—A petition under 
+19
+paragraph (1) shall specify each ground upon which 
+20
+the petitioner relies in seeking relief, and may be 
+21
+based upon any failure of the demand to comply 
+22
+with the provisions of this section, or upon any con-
+23
+stitutional or other legal right or privilege of such 
+24
+person. 
+25
+00:42 Nov 13, 2019
+H4978
+107 
+•HR 4978 IH
+(g) CUSTODIAL CONTROL.—At any time during 
+1
+which any custodian is in custody or control of any docu-
+2
+mentary material, tangible things, reports, answers to 
+3
+questions, or transcripts of oral testimony given by any 
+4
+person in compliance with any civil investigative demand, 
+5
+such person may file, in the district court of the United 
+6
+States for the judicial district within which the office of 
+7
+such custodian is situated, and serve upon such custodian, 
+8
+a petition for an order of such court requiring the per-
+9
+formance by such custodian of any duty imposed upon him 
+10
+by this section or rule promulgated by the Agency. 
+11
+(h) JURISDICTION OF COURT.— 
+12
+(1) IN
+GENERAL.—Whenever any petition is 
+13
+filed in any district court of the United States under 
+14
+this section, such court shall have jurisdiction to 
+15
+hear and determine the matter so presented, and to 
+16
+enter such order or orders as may be required to 
+17
+carry out the provisions of this section. 
+18
+(2) APPEAL.—Any final order entered as de-
+19
+scribed in paragraph (1) shall be subject to appeal 
+20
+pursuant to section 1291 of title 28, United States 
+21
+Code. 
+22
+SEC. 403. HEARINGS AND ADJUDICATION PROCEEDINGS. 
+23
+(a) IN GENERAL.—The Agency is authorized to con-
+24
+duct hearings and adjudication proceedings with respect 
+25
+00:42 Nov 13, 2019
+H4978
+108 
+•HR 4978 IH
+to any person in the manner prescribed by chapter 5 of 
+1
+title 5, United States Code, in order to ensure or enforce 
+2
+compliance with this Act and the rules prescribed under 
+3
+this Act. 
+4
+(b) SPECIAL RULES FOR CEASE-AND-DESIST PRO-
+5
+CEEDINGS.— 
+6
+(1) ORDERS AUTHORIZED.— 
+7
+(A) IN GENERAL.—If, in the opinion of the 
+8
+Agency, a person is engaging or has engaged in 
+9
+an act or omission that violates any provision of 
+10
+this Act or a rule or order prescribed under this 
+11
+Act, the Agency may issue and serve upon the 
+12
+person a notice of charges in respect thereof. 
+13
+(B) CONTENT
+OF
+NOTICE.—The notice 
+14
+under subparagraph (A) shall contain a state-
+15
+ment of the facts constituting the alleged viola-
+16
+tion, and shall fix a time and place at which a 
+17
+hearing will be held to determine whether an 
+18
+order to cease and desist should issue against 
+19
+the person, such hearing to be held not earlier 
+20
+than 30 days nor later than 60 days after the 
+21
+date of service of such notice, unless an earlier 
+22
+or a later date is set by the Agency, at the re-
+23
+quest of any person so served. 
+24
+22:27 Nov 14, 2019
+H4978
+109 
+•HR 4978 IH
+(C) CONSENT.—Unless a person served 
+1
+under subparagraph (B) appears at the hearing 
+2
+personally or by a duly authorized representa-
+3
+tive, the person shall be deemed to have con-
+4
+sented to the issuance of the cease-and-desist 
+5
+order. 
+6
+(D) PROCEDURE.—In the event of consent 
+7
+under subparagraph (C), or if, upon the record 
+8
+made at any such hearing, the Agency finds 
+9
+that any violation specified in the notice of 
+10
+charges has been established, the Agency may 
+11
+issue and serve upon the person an order to 
+12
+cease and desist from the violation. Such order 
+13
+may, by provisions which may be mandatory or 
+14
+otherwise, require the person to cease and de-
+15
+sist from the subject act or omission, and to 
+16
+take affirmative action to correct the conditions 
+17
+resulting from any such violation. 
+18
+(2) EFFECTIVENESS OF ORDER.—A cease-and- 
+19
+desist order shall become effective at the expiration 
+20
+of 30 days after the date of service of the order 
+21
+under paragraph (1)(D) (except in the case of a 
+22
+cease-and-desist order issued upon consent, which 
+23
+shall become effective at the time specified therein), 
+24
+and shall remain effective and enforceable as pro-
+25
+00:42 Nov 13, 2019
+H4978
+110 
+•HR 4978 IH
+vided therein, except to such extent as the order is 
+1
+stayed, modified, terminated, or set aside by action 
+2
+of the Agency or a reviewing court. 
+3
+(3) DECISION AND APPEAL.—Any hearing pro-
+4
+vided for in this subsection shall be held in the Fed-
+5
+eral judicial district or in the territory in which the 
+6
+residence or principal office or place of business of 
+7
+the person is located unless the person consents to 
+8
+another place, and shall be conducted in accordance 
+9
+with the provisions of chapter 5 of title 5, United 
+10
+States Code. After such hearing, and not later than 
+11
+90 days after the Agency has notified each party to 
+12
+the proceeding that the case has been submitted to 
+13
+the Agency for final decision, the Agency shall 
+14
+render its decision (which shall include findings of 
+15
+fact upon which its decision is predicated) and shall 
+16
+issue and serve upon each such party an order or or-
+17
+ders consistent with the provisions of this section. 
+18
+Judicial review of any such order shall be exclusively 
+19
+as provided in this subsection. Unless a petition for 
+20
+review is timely filed in a court of appeals of the 
+21
+United States, as provided in paragraph (4), and 
+22
+thereafter until the record in the proceeding has 
+23
+been filed as provided in paragraph (4), the Agency 
+24
+may at any time, upon such notice and in such man-
+25
+00:42 Nov 13, 2019
+H4978
+111 
+•HR 4978 IH
+ner as the Agency shall determine proper, modify, 
+1
+terminate, or set aside any such order. Upon filing 
+2
+of the record as provided, the Agency may modify, 
+3
+terminate, or set aside any such order with permis-
+4
+sion of the court. 
+5
+(4) APPEAL
+TO
+COURT
+OF
+APPEALS.—Any 
+6
+party to any proceeding under this subsection may 
+7
+obtain a review of any order served pursuant to this 
+8
+subsection (other than an order issued with the con-
+9
+sent of the party) by filing in the court of appeals 
+10
+of the United States for the circuit in which the resi-
+11
+dence or principal office or place of business of the 
+12
+party is located, or in the United States Court of 
+13
+Appeals for the District of Columbia Circuit, within 
+14
+30 days after the date of service of such order, a 
+15
+written petition praying that the order of the Agency 
+16
+be modified, terminated, or set aside. A copy of such 
+17
+petition shall be forthwith transmitted by the clerk 
+18
+of the court to the Agency, and thereupon the Agen-
+19
+cy shall file in the court the record in the pro-
+20
+ceeding, as provided in section 2112 of title 28, 
+21
+United States Code. Upon the filing of such petition, 
+22
+such court shall have jurisdiction, which upon the 
+23
+filing of the record shall, except as provided in the 
+24
+last sentence of paragraph (3), be exclusive, to af-
+25
+00:42 Nov 13, 2019
+H4978
+112 
+•HR 4978 IH
+firm, modify, terminate, or set aside, in whole or in 
+1
+part, the order of the Agency. Review of such pro-
+2
+ceedings shall be had as provided in chapter 7 of 
+3
+title 5, United States Code. The judgment and de-
+4
+cree of the court shall be final, except that the same 
+5
+shall be subject to review by the Supreme Court of 
+6
+the United States, upon certiorari, as provided in 
+7
+section 1254 of title 28, United States Code. 
+8
+(5) NO
+STAY.—The commencement of pro-
+9
+ceedings for judicial review under paragraph (4) 
+10
+shall not, unless specifically ordered by the court, 
+11
+operate as a stay of any order issued by the Agency. 
+12
+(c) SPECIAL RULES FOR TEMPORARY CEASE-AND- 
+13
+DESIST PROCEEDINGS.— 
+14
+(1) IN GENERAL.—Whenever the Agency deter-
+15
+mines that the violation specified in the notice of 
+16
+charges served upon a person pursuant to subsection 
+17
+(b), or the continuation thereof, is likely to cause the 
+18
+person to be insolvent or otherwise prejudice the in-
+19
+terests of individuals before the completion of the 
+20
+proceedings conducted pursuant to subsection (b), 
+21
+the Agency may issue a temporary order requiring 
+22
+the person to cease and desist from any such viola-
+23
+tion and to take affirmative action to prevent or 
+24
+remedy such insolvency or other condition pending 
+25
+22:27 Nov 14, 2019
+H4978
+113 
+•HR 4978 IH
+completion of such proceedings. Such order may in-
+1
+clude any requirement authorized under this title. 
+2
+Such order shall become effective upon service upon 
+3
+the person and, unless set aside, limited, or sus-
+4
+pended by a court in proceedings authorized by 
+5
+paragraph (2), shall remain effective and enforceable 
+6
+pending the completion of the administrative pro-
+7
+ceedings pursuant to such notice and until such time 
+8
+as the Agency shall dismiss the charges specified in 
+9
+such notice, or if a cease-and-desist order is issued 
+10
+against the person, until the effective date of such 
+11
+order. 
+12
+(2) APPEAL.—Not later than 10 days after a 
+13
+person has been served with a temporary cease-and- 
+14
+desist order, the person may apply to the United 
+15
+States district court for the judicial district in which 
+16
+the residence or principal office or place of business 
+17
+of the person is located, or the United States Dis-
+18
+trict Court for the District of Columbia, for an in-
+19
+junction setting aside, limiting, or suspending the 
+20
+enforcement, operation, or effectiveness of such 
+21
+order pending the completion of the administrative 
+22
+proceedings pursuant to the notice of charges served 
+23
+upon the person under subsection (b), and such 
+24
+court shall have jurisdiction to issue such injunction. 
+25
+00:42 Nov 13, 2019
+H4978
+114 
+•HR 4978 IH
+(d) SPECIAL RULES
+FOR ENFORCEMENT
+OF OR-
+1
+DERS.— 
+2
+(1) IN GENERAL.—The Agency may in its dis-
+3
+cretion apply to the United States district court 
+4
+within the jurisdiction of which the residence or 
+5
+principal office or place of business of a person is lo-
+6
+cated, for the enforcement of any effective and out-
+7
+standing order issued under this section against 
+8
+such person, and such court shall have jurisdiction 
+9
+and power to order and require compliance with 
+10
+such order. 
+11
+(2) EXCEPTION.—Except as otherwise provided 
+12
+in this section, no court shall have jurisdiction to af-
+13
+fect by injunction or otherwise the issuance or en-
+14
+forcement of any order or to review, modify, sus-
+15
+pend, terminate, or set aside any such order. 
+16
+(e) RULES.—The Agency shall prescribe rules estab-
+17
+lishing such procedures as may be necessary to carry out 
+18
+this section. 
+19
+SEC. 404. LITIGATION AUTHORITY. 
+20
+(a) IN GENERAL.—If a person violates any provision 
+21
+of this Act or a rule or order prescribed under this Act, 
+22
+the Agency may commence a civil action against such per-
+23
+son to impose a civil penalty or to seek all appropriate 
+24
+00:42 Nov 13, 2019
+H4978
+115 
+•HR 4978 IH
+legal and equitable relief, including a permanent or tem-
+1
+porary injunction. 
+2
+(b) REPRESENTATION.—Except as provided in sub-
+3
+section (e), the Agency may act in its own name and 
+4
+through its own attorneys in any action, suit, or other 
+5
+court proceeding to which the Agency is a party. 
+6
+(c) COMPROMISE
+OF ACTIONS.—The Agency may 
+7
+compromise or settle any action, suit, or other court pro-
+8
+ceeding to which the Agency is a party if such compromise 
+9
+is approved by the court. 
+10
+(d) NOTICE TO THE ATTORNEY GENERAL.— 
+11
+(1) IN
+GENERAL.—When commencing a civil 
+12
+action under subsection (a), the Agency shall notify 
+13
+the Attorney General. 
+14
+(2) NOTICE AND COORDINATION.— 
+15
+(A) NOTICE OF OTHER ACTIONS.—In addi-
+16
+tion to any notice required under paragraph 
+17
+(1), the Agency shall notify the Attorney Gen-
+18
+eral concerning any action, suit, or other court 
+19
+proceeding to which the Agency is a party. 
+20
+(B) COORDINATION.—In order to avoid 
+21
+conflicts and promote consistency regarding liti-
+22
+gation of matters under Federal law, the Attor-
+23
+ney General and the Agency shall consult re-
+24
+garding the coordination of investigations and 
+25
+00:42 Nov 13, 2019
+H4978
+116 
+•HR 4978 IH
+proceedings, including by negotiating an agree-
+1
+ment for coordination by not later than 180 
+2
+days after the effective date specified in section 
+3
+4(a). The agreement under this subparagraph 
+4
+shall include provisions to ensure that parallel 
+5
+investigations and proceedings involving this 
+6
+Act and the rules prescribed under this Act are 
+7
+conducted in a manner that avoids conflicts and 
+8
+does not impede the ability of the Attorney 
+9
+General to prosecute violations of Federal 
+10
+criminal laws. 
+11
+(C) RULE OF CONSTRUCTION.—Nothing in 
+12
+this paragraph shall be construed to limit the 
+13
+authority of the Agency under this Act, includ-
+14
+ing the authority to interpret this Act. 
+15
+(e) APPEARANCE BEFORE THE SUPREME COURT.— 
+16
+The Agency may represent itself in its own name before 
+17
+the Supreme Court of the United States, if the Agency 
+18
+makes a written request to the Attorney General within 
+19
+the 10-day period which begins on the date of entry of 
+20
+the judgment which would permit any party to file a peti-
+21
+tion for writ of certiorari, and the Attorney General con-
+22
+curs with such request or fails to take action within 60 
+23
+days of the request of the Agency. 
+24
+00:42 Nov 13, 2019
+H4978
+117 
+•HR 4978 IH
+(f) FORUM.—Any civil action brought under sub-
+1
+section (a) may be brought in an appropriate district court 
+2
+of the United States or an appropriate State court. 
+3
+(g) TIME FOR BRINGING ACTION.—Except as other-
+4
+wise permitted by law or equity, no action may be brought 
+5
+under subsection (a) more than 3 years after the date of 
+6
+discovery of the violation to which the action relates. 
+7
+SEC. 405. COORDINATION WITH OTHER FEDERAL AGEN-
+8
+CIES. 
+9
+(a) COORDINATION.—With respect to covered entities 
+10
+and service providers, to the extent that Federal law au-
+11
+thorizes the Agency and another Federal agency to enforce 
+12
+privacy laws, the other Federal agency shall coordinate 
+13
+with the Agency to promote consistent enforcement of this 
+14
+Act and other Federal privacy laws. 
+15
+(b) REFERRAL.—Any Federal agency authorized to 
+16
+enforce a Federal privacy law described in section 501 
+17
+may recommend in writing to the Agency that the Agency 
+18
+initiate an enforcement proceeding, as the Agency is au-
+19
+thorized by that Federal law or by this Act. 
+20
+(c) COORDINATION WITH
+THE FEDERAL TRADE 
+21
+COMMISSION.— 
+22
+(1) IN GENERAL.—The Agency and the Federal 
+23
+Trade Commission shall negotiate an agreement for 
+24
+coordinating with respect to enforcement actions by 
+25
+00:42 Nov 13, 2019
+H4978
+118 
+•HR 4978 IH
+each agency regarding the provision of a product or 
+1
+service offered by any covered entity. The agreement 
+2
+shall include procedures for notice to the other agen-
+3
+cy, where feasible, prior to initiating a civil action to 
+4
+enforce any Federal law regarding the privacy of in-
+5
+dividuals or security of personal information. 
+6
+(2) CIVIL
+ACTIONS.—Whenever a civil action 
+7
+has been filed by, or on behalf of, the Agency or the 
+8
+Federal Trade Commission for any violation of any 
+9
+provision of Federal law described in paragraph (1), 
+10
+or any regulation prescribed under such provision of 
+11
+law— 
+12
+(A) the other agency may not, during the 
+13
+pendency of that action, institute a civil action 
+14
+under such provision of law against any defend-
+15
+ant named in the complaint in such pending ac-
+16
+tion for any violation alleged in the complaint; 
+17
+and 
+18
+(B) the Agency or the Federal Trade Com-
+19
+mission may intervene as a party in any such 
+20
+action brought by the other agency, and, upon 
+21
+intervening— 
+22
+(i) be heard on all matters arising in 
+23
+such enforcement action; and 
+24
+00:42 Nov 13, 2019
+H4978
+119 
+•HR 4978 IH
+(ii) file petitions for appeal in such ac-
+1
+tions. 
+2
+(3) AGREEMENT
+TERMS.—The terms of any 
+3
+agreement negotiated under paragraph (1) may 
+4
+modify or supersede the provisions of paragraph (2). 
+5
+(4) DEADLINE.—The agencies shall reach the 
+6
+agreement required under paragraph (1) not later 
+7
+than 6 months after the designated transfer date. 
+8
+SEC. 406. ENFORCEMENT BY STATES. 
+9
+(a) CIVIL ACTION.—In any case in which the attor-
+10
+ney general of a State has reason to believe that an inter-
+11
+est of the residents of such State has been or is adversely 
+12
+affected by any person who violates any provision of this 
+13
+Act or a rule or order prescribed under this Act, the attor-
+14
+ney general of the State, as parens patriae, may bring a 
+15
+civil action on behalf of the residents of the State in an 
+16
+appropriate State court or an appropriate district court 
+17
+of the United States— 
+18
+(1) to enjoin further violation of such provision 
+19
+by the defendant; 
+20
+(2) to compel compliance with such provision; 
+21
+or 
+22
+(3) to obtain relief under section 408. 
+23
+(b) RIGHTS OF AGENCY.—Before initiating a civil ac-
+24
+tion under subsection (a), the attorney general of a State 
+25
+00:42 Nov 13, 2019
+H4978
+120 
+•HR 4978 IH
+shall notify the Agency in writing of such civil action. 
+1
+Upon receiving notice with respect to a civil action, the 
+2
+Agency may— 
+3
+(1) intervene in such action; and 
+4
+(2) upon intervening— 
+5
+(A) be heard on all matters arising in such 
+6
+civil action; and 
+7
+(B) file petitions for appeal of a decision in 
+8
+such action. 
+9
+(c) PREEMPTIVE ACTION BY AGENCY.—If the Agen-
+10
+cy institutes a civil action for violation of any provision 
+11
+of this Act or a rule or order prescribed under this Act, 
+12
+no attorney general of a State may bring a civil action 
+13
+against any defendant named in the complaint of the 
+14
+Agency for a violation of such provision that is alleged 
+15
+in such complaint. 
+16
+SEC. 407. PRIVATE RIGHTS OF ACTION. 
+17
+(a) INJUNCTIVE RELIEF.—A person who is aggrieved 
+18
+by a violation of this Act may bring a civil action for de-
+19
+claratory or injunctive relief in any court of competent ju-
+20
+risdiction in any State or in an appropriate district court. 
+21
+(b) CIVIL ACTION FOR DAMAGES.—Except for claims 
+22
+under rule 23 of the Federal Rules of Civil Procedure or 
+23
+a similar judicial procedure authorizing an action to be 
+24
+brought by 1 or more representatives, a person who is ag-
+25
+00:42 Nov 13, 2019
+H4978
+121 
+•HR 4978 IH
+grieved by a violation of this Act may bring a civil action 
+1
+for damages in any court of competent jurisdiction in any 
+2
+State or in an appropriate district court. 
+3
+(c) NONPROFIT COLLECTIVE REPRESENTATION.— 
+4
+An individual shall have the right to appoint a nonprofit 
+5
+body, organization, or association which has been properly 
+6
+constituted in accordance with the law, has statutory ob-
+7
+jectives which are in the public interest, and is active in 
+8
+the field of the protection of individual rights and free-
+9
+doms with regard to the protection of their personal data 
+10
+to lodge the complaint on his or her behalf, to exercise 
+11
+the rights referred to in this Act on his or her behalf. 
+12
+(1) A nonprofit may represent a class of ag-
+13
+grieved individuals. 
+14
+(2) A prevailing nonprofit shall receive reason-
+15
+able compensation for expenses, including attorneys 
+16
+fees. 
+17
+(3) Individuals shall receive an equally divided 
+18
+share of the total damages. 
+19
+(d) STATE APPOINTMENT.—A State may provide 
+20
+that any body, organization or association referred to in 
+21
+subsection (c), independently of an individual’s appoint-
+22
+ment, has the right to lodge, in that State, a complaint 
+23
+with the Agency and to exercise the rights referred to in 
+24
+22:27 Nov 14, 2019
+H4978
+122 
+•HR 4978 IH
+this Act if it considers that the rights of an individual 
+1
+under this Act have been infringed. 
+2
+SEC. 408. RELIEF AVAILABLE. 
+3
+(a) CIVIL
+ACTIONS
+AND
+ADJUDICATION
+PRO-
+4
+CEEDINGS.— 
+5
+(1) JURISDICTION.—In any civil action or any 
+6
+adjudication proceeding brought by the Agency or 
+7
+the attorney general of a State, under any provision 
+8
+of this Act or a rule or order prescribed under this 
+9
+Act, the court or the Agency (as the case may be) 
+10
+shall have jurisdiction to grant any appropriate legal 
+11
+or equitable relief with respect to a violation of such 
+12
+provision. 
+13
+(2) RELIEF.—Relief under this section may in-
+14
+clude— 
+15
+(A) rescission or reformation of contracts; 
+16
+(B) refund of moneys; 
+17
+(C) restitution; 
+18
+(D) disgorgement or compensation for un-
+19
+just enrichment; 
+20
+(E) payment of damages or other mone-
+21
+tary relief; 
+22
+(F) public notification regarding the viola-
+23
+tion, including the costs of notification; 
+24
+00:42 Nov 13, 2019
+H4978
+123 
+•HR 4978 IH
+(G) limits on the activities or functions of 
+1
+the person; and 
+2
+(H) civil money penalties, as provided in 
+3
+subsection (c). 
+4
+(3) NO EXEMPLARY OR PUNITIVE DAMAGES.— 
+5
+Nothing in this subsection shall be construed as au-
+6
+thorizing the imposition of exemplary or punitive 
+7
+damages. 
+8
+(b) RECOVERY
+OF
+COSTS.—In any civil action 
+9
+brought by the Agency or the attorney general of a State 
+10
+under any provision of this Act or a rule or order pre-
+11
+scribed under this Act, the Agency or attorney general 
+12
+may recover its costs in connection with prosecuting such 
+13
+action if the Agency or attorney general is the prevailing 
+14
+party in the action. 
+15
+(c) CIVIL MONEY PENALTY IN COURT AND ADJU-
+16
+DICATION PROCEEDINGS.— 
+17
+(1) IN
+GENERAL.—Any person who violates, 
+18
+through any act or omission, any provision of this 
+19
+Act or a rule or order prescribed under this Act 
+20
+shall forfeit and pay a civil penalty under this sub-
+21
+section. 
+22
+(2) PENALTY AMOUNT.— 
+23
+00:42 Nov 13, 2019
+H4978
+124 
+•HR 4978 IH
+(A) IN GENERAL.—The amount of a civil 
+1
+penalty under this subsection may not exceed, 
+2
+for each violation, the product of— 
+3
+(i) the maximum civil penalty for 
+4
+which a person, partnership, or corporation 
+5
+may be liable under section 5(m)(1)(A) of 
+6
+the Federal Trade Commission Act (15 
+7
+U.S.C. 45(m)(1)(A)) for a violation of a 
+8
+rule under such Act respecting unfair or 
+9
+deceptive acts or practices, as adjusted 
+10
+under the Federal Civil Penalties Inflation 
+11
+Adjustment Act of 1990 (28 U.S.C. 2461 
+12
+note); and 
+13
+(ii) the number of individuals the per-
+14
+sonal information of which is affected by 
+15
+the violation. 
+16
+(B) CONTINUING
+VIOLATIONS.—In the 
+17
+case of a violation through continuing failure to 
+18
+comply with a provision of this Act or a rule or 
+19
+order prescribed under this Act, each day of 
+20
+continuance of such failure shall be treated as 
+21
+a separate violation for purposes of subpara-
+22
+graph (A). 
+23
+(3) MITIGATING FACTORS.—In determining the 
+24
+amount of any penalty assessed under paragraph 
+25
+00:42 Nov 13, 2019
+H4978
+125 
+•HR 4978 IH
+(2), the court or the Agency shall take into account 
+1
+the appropriateness of the penalty with respect to— 
+2
+(A) the size of financial resources and good 
+3
+faith of the person charged; 
+4
+(B) the gravity of the violation; 
+5
+(C) the severity of the privacy harms (in-
+6
+cluding both actual and potential harms) to in-
+7
+dividuals; 
+8
+(D) any disparate impact of the privacy 
+9
+harms (including both actual and potential 
+10
+harms) on protected classes; 
+11
+(E) the history of previous violations; and 
+12
+(F) such other matters as justice may re-
+13
+quire. 
+14
+(4) AUTHORITY
+TO
+MODIFY
+OR
+REMIT
+PEN-
+15
+ALTY.—The Agency or attorney general of a State 
+16
+may compromise, modify, or remit any penalty which 
+17
+may be assessed or has already been assessed under 
+18
+paragraph (2). The amount of such penalty, when fi-
+19
+nally determined, shall be exclusive of any sums 
+20
+owed by the person to the United States in connec-
+21
+tion with the costs of the proceeding, and may be 
+22
+deducted from any sums owing by the United States 
+23
+to the person charged. 
+24
+00:42 Nov 13, 2019
+H4978
+126 
+•HR 4978 IH
+(5) NOTICE AND HEARING.—No civil penalty 
+1
+may be assessed under this subsection with respect 
+2
+to a violation of any provision of this Act or a rule 
+3
+or order prescribed under this Act, unless— 
+4
+(A) the Agency or attorney general of a 
+5
+State gives notice and an opportunity for a 
+6
+hearing to the person accused of the violation; 
+7
+or 
+8
+(B) the appropriate court has ordered such 
+9
+assessment and entered judgment in favor of 
+10
+the Agency or attorney general of a State. 
+11
+SEC. 409. REFERRAL FOR CRIMINAL PROCEEDINGS. 
+12
+If the Agency obtains evidence that any person, do-
+13
+mestic or foreign, has engaged in conduct that may con-
+14
+stitute a violation of Federal criminal law, the Agency 
+15
+shall transmit such evidence to the Attorney General of 
+16
+the United States, who may institute criminal proceedings 
+17
+under appropriate law. Nothing in this section affects any 
+18
+other authority of the Agency to disclose information. 
+19
+SEC. 410. WHISTLEBLOWER ENFORCEMENT. 
+20
+(a) IN GENERAL.—Any person who becomes aware, 
+21
+based on non-public information, that a covered entity has 
+22
+violated this Act may file a civil action for civil penalties, 
+23
+if prior to filing such action, the person files with the Di-
+24
+rector a written request for the Director to commence the 
+25
+00:42 Nov 13, 2019
+H4978
+127 
+•HR 4978 IH
+action. The request shall include a clear and concise state-
+1
+ment of the grounds for believing a cause of action exists. 
+2
+The person shall make the non-public information avail-
+3
+able to the Director upon request: 
+4
+(1) If the Director files suit within 90 days 
+5
+from receipt of the written request to commence the 
+6
+action, no other action may be brought unless the 
+7
+action brought by the Director is dismissed without 
+8
+prejudice. 
+9
+(2) If the Director does not file suit within 90 
+10
+days from receipt of the written request to com-
+11
+mence the action, the person requesting the action 
+12
+may proceed to file a civil action. 
+13
+(3) The time period within which a civil action 
+14
+shall be commenced shall be tolled from the date of 
+15
+receipt by the Director of the written request to ei-
+16
+ther the date that the civil action is dismissed with-
+17
+out prejudice, or for 150 days, whichever is later, 
+18
+but only for a civil action brought by the person who 
+19
+requested the Director to commence the action. 
+20
+(b) ALLOCATION OF CIVIL PENALTIES.—If a judg-
+21
+ment is entered against the defendant or defendants in 
+22
+an action brought pursuant to this section, or the matter 
+23
+is settled, amounts received as civil penalties or pursuant 
+24
+to a settlement of the action shall be allocated as follows: 
+25
+22:27 Nov 14, 2019
+H4978
+128 
+•HR 4978 IH
+(1) If the action was brought by the Director 
+1
+upon a request made by a person pursuant to (a), 
+2
+the person who made the request shall be entitled to 
+3
+15 percent of the civil penalties. 
+4
+(2) If the action was brought by the person who 
+5
+made the request pursuant to (a), that person shall 
+6
+receive an amount the court determines is reason-
+7
+able for collecting the civil penalties on behalf of the 
+8
+government. The amount shall be not less than 25 
+9
+percent and not more than 50 percent of the pro-
+10
+ceeds of the action and shall be paid out of the pro-
+11
+ceeds. 
+12
+TITLE V—RELATION TO OTHER 
+13
+LAW 
+14
+SEC. 501. RELATION TO OTHER FEDERAL LAW. 
+15
+Nothing in this Act shall be construed to— 
+16
+(1) modify, limit, or supersede the operation of 
+17
+any privacy or security provision in— 
+18
+(A) section 552a of title 5, United States 
+19
+Code (commonly known as the ‘‘Privacy Act of 
+20
+1974’’); 
+21
+(B) the Right to Financial Privacy Act of 
+22
+1978 (12 U.S.C. 3401 et seq.); 
+23
+(C) the Fair Credit Reporting Act (15 
+24
+U.S.C. 1681 et seq.); 
+25
+00:42 Nov 13, 2019
+H4978
+129 
+•HR 4978 IH
+(D) the Fair Debt Collection Practices Act 
+1
+(15 U.S.C. 1692 et seq.); 
+2
+(E) the Children’s Online Privacy Protec-
+3
+tion Act of 1998 (15 U.S.C. 6501 et seq.); 
+4
+(F) title V of the Gramm-Leach-Bliley Act 
+5
+(15 U.S.C. 6801 et seq.); 
+6
+(G) chapter 119, 123, or 206 of title 18, 
+7
+United States Code; 
+8
+(H) section 444 of the General Education 
+9
+Provisions Act (20 U.S.C. 1232g) (commonly 
+10
+referred to as the ‘‘Family Educational Rights 
+11
+and Privacy Act of 1974’’); 
+12
+(I) section 445 of the General Education 
+13
+Provisions Act (20 U.S.C. 1232h); 
+14
+(J) the Privacy Protection Act of 1980 (42 
+15
+U.S.C. 2000aa et seq.); 
+16
+(K) the regulations promulgated under sec-
+17
+tion 264(c) of the Health Insurance Portability 
+18
+and Accountability Act of 1996 (42 U.S.C. 
+19
+1320d–2 note), as those regulations relate to— 
+20
+(i) a person described in section 
+21
+1172(a) of the Social Security Act (42 
+22
+U.S.C. 1320d–1(a)); or 
+23
+22:27 Nov 14, 2019
+H4978
+130 
+•HR 4978 IH
+(ii) transactions referred to in section 
+1
+1173(a)(1) of the Social Security Act (42 
+2
+U.S.C. 1320d–2(a)(1)); 
+3
+(L) the Communications Assist-
+4
+ance for Law Enforcement Act (47 
+5
+U.S.C. 1001 et seq.); 
+6
+(M) section 222, 227, 338, or 631 of the 
+7
+Communications Act of 1934 (47 U.S.C. 222, 
+8
+227, 338, or 551); 
+9
+(N) the E-Government Act of 2002 (44 
+10
+U.S.C. 101 et seq.); 
+11
+(O) the Paperwork Reduction Act of 1995 
+12
+(44 U.S.C. 3501 et seq.); 
+13
+(P) Federal Information Security Manage-
+14
+ment Act of 2002 (44 U.S.C. 3541 et seq.); 
+15
+(Q) the Currency and Foreign Trans-
+16
+actions Reporting Act of 1970, as amended 
+17
+(commonly known as the Bank Secrecy Act) 
+18
+(12 U.S.C. 1829b and 1951–1959, 31 U.S.C. 
+19
+5311–5314 and 5316–5332), including the 
+20
+International Money Laundering Abatement 
+21
+and Financial Anti-Terrorism Act of 2001, title 
+22
+III of Public Law 107–56, as amended; 
+23
+(R) the National Security Act of 1947 (50 
+24
+U.S.C. 3001 et seq.); 
+25
+22:27 Nov 14, 2019
+H4978
+131 
+•HR 4978 IH
+(S) the Foreign Intelligence Surveillance 
+1
+Act of 1978, as amended (50 U.S.C. 1801 et 
+2
+seq.); 
+3
+(T) the Civil Rights Act of 1964 (Public 
+4
+Law 88–352, 78 Stat. 241); 
+5
+(U) the Americans with Disabilities Act 
+6
+(42 U.S.C. 12101 et seq.); 
+7
+(V) the Fair Housing Act (42 U.S.C. 3601 
+8
+et seq.); 
+9
+(W) the Dodd-Frank Wall Street Reform 
+10
+and Consumer Protection Act (Public Law 
+11
+111–203, 124 Stat. 1376–2223); 
+12
+(X) the Equal Credit Opportunity Act (15 
+13
+U.S.C. 1691 et seq.); 
+14
+(Y) the Age Discrimination in Employment 
+15
+Act (29 U.S.C. 621 et seq.); 
+16
+(Z) 
+the 
+Genetic 
+Information 
+Non-
+17
+discrimination Act (Public Law 110–233, 122 
+18
+Stat. 881); or 
+19
+(AA) any other privacy or security provi-
+20
+sion of Federal law; or 
+21
+(2) limit the authority of the Federal Commu-
+22
+nications Commission to promulgate regulations and 
+23
+enforce any privacy law not in contradiction with 
+24
+this Act. 
+25
+00:42 Nov 13, 2019
+H4978
+132 
+•HR 4978 IH
+SEC. 502. SEVERABILITY. 
+1
+If any provision of this Act, or the application there-
+2
+of, is held unconstitutional or otherwise invalid, the valid-
+3
+ity of the remainder of the Act and the application of such 
+4
+provision shall not be affected thereby. 
+5
+Æ 
+00:42 Nov 13, 2019
+H4978

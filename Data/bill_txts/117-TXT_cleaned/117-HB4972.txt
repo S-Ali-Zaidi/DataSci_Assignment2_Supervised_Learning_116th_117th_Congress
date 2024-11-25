@@ -1,0 +1,891 @@
+A BILL 
+To require the establishment of an advanced energy tech-
+nology research initiative and an advanced energy tech-
+nology and modeling grant program, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Advanced Energy 
+4
+Technologies and Grid Efficiency Act of 2021’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+21:49 Aug 12, 2021
+H4972
+2 
+•HR 4972 IH
+(1) ADVANCED
+ENERGY
+TECHNOLOGY.—The 
+1
+term ‘‘advanced energy technology’’ means any en-
+2
+ergy generation, monitoring or modifying trans-
+3
+mission loading, or storage technology with zero or 
+4
+minimal greenhouse gas emissions that is con-
+5
+nected— 
+6
+(A) to the distribution system; 
+7
+(B) to the transmission system; or 
+8
+(C) behind the meter. 
+9
+(2) ADVISORY COMMITTEE.—The term ‘‘Advi-
+10
+sory Committee’’ means the advisory committee es-
+11
+tablished under section 3(a)(2)(A). 
+12
+(3) COMMISSION.—The term ‘‘Commission’’ 
+13
+means the Federal Energy Regulatory Commission. 
+14
+(4) ELECTRIC
+UTILITY.—The term ‘‘electric 
+15
+utility’’ has the meaning given the term in section 
+16
+3 of the Federal Power Act (16 U.S.C. 796). 
+17
+(5) GRID
+OPERATOR.—The term ‘‘grid oper-
+18
+ator’’ means— 
+19
+(A) a Transmission Organization, includ-
+20
+ing— 
+21
+(i) an Independent System Operator; 
+22
+and 
+23
+(ii) a Regional Transmission Organi-
+24
+zation; 
+25
+21:49 Aug 12, 2021
+H4972
+3 
+•HR 4972 IH
+(B) a public utility; and 
+1
+(C) an electric utility. 
+2
+(6) INDEPENDENT
+SYSTEM
+OPERATOR.—The 
+3
+term ‘‘Independent System Operator’’ has the mean-
+4
+ing given the term in section 3 of the Federal Power 
+5
+Act (16 U.S.C. 796). 
+6
+(7) INITIATIVE.—The term ‘‘Initiative’’ means 
+7
+the Advanced Energy Technology Research Initiative 
+8
+established under section 3(a)(1). 
+9
+(8) PUBLIC UTILITY.—The term ‘‘public util-
+10
+ity’’ has the meaning given the term in section 
+11
+201(e) of the Federal Power Act (16 U.S.C. 824(e)). 
+12
+(9) REGIONAL TRANSMISSION ORGANIZATION.— 
+13
+The term ‘‘Regional Transmission Organization’’ 
+14
+has the meaning given the term in section 3 of the 
+15
+Federal Power Act (16 U.S.C. 796). 
+16
+(10) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+17
+means the Secretary of Energy. 
+18
+(11) TRANSMISSION ORGANIZATION.—The term 
+19
+‘‘Transmission Organization’’ has the meaning given 
+20
+the term in section 3 of the Federal Power Act (16 
+21
+U.S.C. 796). 
+22
+21:49 Aug 12, 2021
+H4972
+4 
+•HR 4972 IH
+SEC. 3. POWER SYSTEM MODELING REFORM AND UPDATES 
+1
+TO GRID SERVICES AND GRID OPERATOR 
+2
+SOFTWARE. 
+3
+(a) ADVANCED ENERGY TECHNOLOGY RESEARCH 
+4
+INITIATIVE.— 
+5
+(1) IN GENERAL.—Not later than 90 days after 
+6
+the date of enactment of this Act, the Commission, 
+7
+in coordination with the Secretary, shall establish 
+8
+within the Office of Energy Policy and Innovation of 
+9
+the Commission an initiative, to be known as the 
+10
+‘‘Advanced Energy Technology Research Initiative’’, 
+11
+to research and provide recommendations on how to 
+12
+improve the modeling, operational, and planning 
+13
+practices used for the bulk electric system. 
+14
+(2) ADVISORY COMMITTEE.— 
+15
+(A) IN
+GENERAL.—Not later than 180 
+16
+days after the date of enactment of this Act, 
+17
+the Commission, in coordination with the Sec-
+18
+retary, shall establish an advisory committee to 
+19
+research, report on, and provide recommenda-
+20
+tions on matters relating to the Initiative, in-
+21
+cluding— 
+22
+(i) whether the existing modeling (in-
+23
+cluding power flow modeling) and long- 
+24
+term and short-term planning practices 
+25
+used by grid operators for power systems, 
+26
+21:49 Aug 12, 2021
+H4972
+5 
+•HR 4972 IH
+including power markets, adequately incor-
+1
+porate expected integration with respect to 
+2
+advanced energy technologies; 
+3
+(ii) whether the methods used to de-
+4
+termine future transmission and capacity 
+5
+needs and make reliability-related deter-
+6
+minations use the right data to adequately 
+7
+forecast and model the integration of ad-
+8
+vanced energy technology into electric 
+9
+power systems; 
+10
+(iii) whether the modeling and plan-
+11
+ning practices described in clause (i) and 
+12
+the methods described in clause (ii) need to 
+13
+be updated to better account for the inte-
+14
+gration of advanced energy technology into 
+15
+electric power systems; 
+16
+(iv) any undue barriers to the adop-
+17
+tion of advanced energy technology pre-
+18
+sented by— 
+19
+(I) 
+existing 
+modeling, 
+oper-
+20
+ational, and planning practices; and 
+21
+(II) State estimation tools for 
+22
+planning and reliability; 
+23
+(v) any need to develop emerging 
+24
+technologies or software for use in improv-
+25
+21:49 Aug 12, 2021
+H4972
+6 
+•HR 4972 IH
+ing modeling, planning, and operations in 
+1
+wholesale electricity markets to resolve 
+2
+computational or technical barriers to the 
+3
+adoption of advanced energy technology, 
+4
+including software relating to— 
+5
+(I) the use of big data, artificial 
+6
+intelligence, and probabilistic methods 
+7
+to predict, in near-real-time— 
+8
+(aa) energy generation from 
+9
+variable 
+and 
+distributed 
+re-
+10
+sources; 
+11
+(bb) load profiles; and 
+12
+(cc) consumption and con-
+13
+gestion; and 
+14
+(II) the use of artificial intel-
+15
+ligence to improve the responsiveness 
+16
+of energy system operations; 
+17
+(vi) whether existing and future grid 
+18
+reliability service definitions and the mod-
+19
+eling techniques, operational processes, and 
+20
+planning processes used to procure grid re-
+21
+liability services— 
+22
+(I) appropriately account for the 
+23
+technical and operational characteris-
+24
+tics of advanced energy technologies; 
+25
+21:49 Aug 12, 2021
+H4972
+7 
+•HR 4972 IH
+(II) allow for the use of those ad-
+1
+vanced energy technologies to provide 
+2
+grid reliability services when cost-ef-
+3
+fective to do so; and 
+4
+(III) include appropriate cyberse-
+5
+curity safeguards; and 
+6
+(vii) any rulemaking, technical con-
+7
+ference, or policy statement that, in the de-
+8
+termination of the Advisory Committee, 
+9
+the Commission should consider. 
+10
+(B) COMPOSITION.—The Advisory Com-
+11
+mittee shall consist of— 
+12
+(i) not fewer than 1 representative 
+13
+from each of— 
+14
+(I) the Commission; 
+15
+(II) the Department of Energy; 
+16
+(III) the Electric Reliability Or-
+17
+ganization (as defined in section 
+18
+215(a) of the Federal Power Act (16 
+19
+U.S.C. 824o(a))); 
+20
+(IV) an Independent System Op-
+21
+erator or a Regional Transmission Or-
+22
+ganization; 
+23
+(V) an entity generating electric 
+24
+power that is not affiliated with a 
+25
+21:49 Aug 12, 2021
+H4972
+8 
+•HR 4972 IH
+transmission-owning public or non-
+1
+public utility; 
+2
+(VI) an entity generating electric 
+3
+power that provides power directly to 
+4
+wholesale or retail customers and is 
+5
+not affiliated with a transmission-own-
+6
+ing public or nonpublic utility; 
+7
+(VII) an environmental organiza-
+8
+tion with expertise on the bulk electric 
+9
+system; and 
+10
+(VIII) an institution of higher 
+11
+education with expertise on the bulk 
+12
+electric system; 
+13
+(ii) not fewer than 2 designees of the 
+14
+National Association of Regulatory Utility 
+15
+Commissioners; 
+16
+(iii) not fewer than 4 representatives 
+17
+from public utilities or electric utilities, re-
+18
+gardless of whether the utility is in an area 
+19
+serviced by an Independent System Oper-
+20
+ator or a Regional Transmission Organiza-
+21
+tion; and 
+22
+(iv) not fewer than 2 representatives 
+23
+from private and nonprofit associations 
+24
+with expertise in the development, deploy-
+25
+21:49 Aug 12, 2021
+H4972
+9 
+•HR 4972 IH
+ment, and use of advanced energy tech-
+1
+nologies. 
+2
+(C) REPORTS.—Not later than 18 months 
+3
+after the date of enactment of this Act, and 
+4
+every 2 years thereafter for 10 years, the Advi-
+5
+sory Committee shall submit to the Committee 
+6
+on Energy and Natural Resources of the Senate 
+7
+and the Committee on Energy and Commerce 
+8
+of the House of Representatives a report on the 
+9
+Initiative, including the findings or recommen-
+10
+dations of the Advisory Committee with respect 
+11
+to the matters described in clauses (i) through 
+12
+(vii) of subparagraph (A). 
+13
+(b) ADVANCED ENERGY TECHNOLOGY
+AND GRID 
+14
+SERVICES PROGRAM.— 
+15
+(1) IN
+GENERAL.—Not later than 180 days 
+16
+after the date of enactment of this Act, the Sec-
+17
+retary shall establish a competitive financial assist-
+18
+ance program, to be known as the ‘‘Advanced En-
+19
+ergy Technology and Grid Services Program’’, under 
+20
+which the Secretary shall enter into Federal finan-
+21
+cial assistance agreements with eligible entities de-
+22
+scribed in paragraph (2) for the purpose of increas-
+23
+ing the market penetration of advanced energy tech-
+24
+21:49 Aug 12, 2021
+H4972
+10 
+•HR 4972 IH
+nology through advanced research and development 
+1
+and pilot demonstrations of— 
+2
+(A) software upgrades, including upgrades 
+3
+to the software platforms used to operate 
+4
+wholesale energy markets; 
+5
+(B) updated power system planning; 
+6
+(C) new power system (including power 
+7
+market) modeling platforms; 
+8
+(D) cybersecurity and physical security up-
+9
+grades; and 
+10
+(E) resilience upgrades. 
+11
+(2) ELIGIBLE ENTITIES DESCRIBED.—An eligi-
+12
+ble entity referred to in paragraph (1) is— 
+13
+(A) a grid operator; 
+14
+(B) a State public utility commission; 
+15
+(C) an energy cooperative; 
+16
+(D) a municipality; 
+17
+(E) an electric utility; 
+18
+(F) a gas utility; or 
+19
+(G) a State energy office. 
+20
+(3) ELIGIBLE ACTIVITIES.—The Secretary may 
+21
+enter into a financial assistance agreement under 
+22
+this subsection for— 
+23
+(A) software upgrades by grid operators; 
+24
+21:49 Aug 12, 2021
+H4972
+11 
+•HR 4972 IH
+(B) new power system (including power 
+1
+market) modeling platforms; 
+2
+(C) enhancements to cybersecurity safe-
+3
+guards; or 
+4
+(D) updated power system (including 
+5
+power market) planning, updated power system 
+6
+(including power market) modeling, or updated 
+7
+reliability planning and modeling by grid opera-
+8
+tors. 
+9
+(4) COST SHARING.—In awarding Federal fi-
+10
+nancial assistance (including grants, loans, and any 
+11
+other form of financial assistance) to fund eligible 
+12
+activities under this subsection, the Secretary shall 
+13
+require cost sharing in accordance with section 988 
+14
+of the Energy Policy Act of 2005 (42 U.S.C. 
+15
+16352). 
+16
+(5) COORDINATION.—In carrying out the Ad-
+17
+vanced Energy Technology and Grid Services Pro-
+18
+gram established under this subsection, the Sec-
+19
+retary, to the maximum extent practicable, shall co-
+20
+ordinate with existing programs of the Department 
+21
+of Energy that focus on grid modernization efforts. 
+22
+SEC. 4. ADVANCED ENERGY AND GRID EFFICIENCY STUD-
+23
+IES AND REPORT. 
+24
+(a) STUDIES.— 
+25
+21:49 Aug 12, 2021
+H4972
+12 
+•HR 4972 IH
+(1) ADVANCED
+ENERGY
+STUDY.—The Sec-
+1
+retary, in coordination with the Commission, shall 
+2
+carry out a study of the costs and benefits to con-
+3
+sumers of updating power system planning, mod-
+4
+eling, and operational practices, including reliability- 
+5
+related planning, and energy market participation 
+6
+rules on advanced energy technologies and resources, 
+7
+including distributed energy technologies and re-
+8
+sources, such as— 
+9
+(A) energy storage technologies; 
+10
+(B) energy efficiency and transmission effi-
+11
+ciency technologies; 
+12
+(C) distributed solar and wind energy gen-
+13
+eration; 
+14
+(D) fuel cells; 
+15
+(E) smart thermostats and smart building 
+16
+technologies; 
+17
+(F) demand response technologies, includ-
+18
+ing natural gas demand response technologies; 
+19
+(G) advanced metering technologies; 
+20
+(H) electric vehicles and electric vehicle 
+21
+charging infrastructure; 
+22
+(I) any aggregation of the distributed en-
+23
+ergy technologies and resources described in 
+24
+subparagraph (A) or (C); and 
+25
+21:49 Aug 12, 2021
+H4972
+13 
+•HR 4972 IH
+(J) any other advanced energy technolo-
+1
+gies, as determined by the Secretary. 
+2
+(2) GRID EFFICIENCY STUDY.— 
+3
+(A) IN GENERAL.—The Secretary, in co-
+4
+ordination with the Commission, shall carry out 
+5
+a study of the barriers and opportunities for 
+6
+advanced energy technologies that provide in-
+7
+creased, more efficient, or more effective deliv-
+8
+ery over the existing transmission network. 
+9
+(B) REQUIREMENTS.—The study under 
+10
+subparagraph (A) shall include— 
+11
+(i) an examination of— 
+12
+(I) the reliability, resilience, and 
+13
+economic benefits of technologies such 
+14
+as power flow control, topology opti-
+15
+mization, and dynamic line ratings; 
+16
+(II) the costs, benefits, and chal-
+17
+lenges associated with deployment of 
+18
+the advanced energy technologies de-
+19
+scribed in subparagraph (A); and 
+20
+(III) the impact of grid efficiency 
+21
+improvements on wholesale and retail 
+22
+electricity rates; and 
+23
+(ii) an analysis of the benefits of per-
+24
+formance-based financial and regulatory 
+25
+21:49 Aug 12, 2021
+H4972
+14 
+•HR 4972 IH
+incentives in the deployment of advanced 
+1
+energy technologies relative to the cost-of- 
+2
+service of those advanced energy tech-
+3
+nologies, as determined by the Secretary. 
+4
+(b) REPORT.—Not later than 18 months after the 
+5
+date of enactment of this Act, the Secretary shall submit 
+6
+to the Committee on Energy and Natural Resources of 
+7
+the Senate and the Committee on Energy and Commerce 
+8
+of the House of Representatives a report describing the 
+9
+results of the studies under paragraphs (1) and (2) of sub-
+10
+section (a). 
+11
+SEC. 
+5. 
+INTERCONNECTION 
+PROCESSES 
+AND 
+TRANS-
+12
+MISSION UPGRADES. 
+13
+(a) PRIORITY OF FINANCIAL ASSISTANCE.— 
+14
+(1) IN GENERAL.—The Secretary shall use the 
+15
+existing grant funding provided through relevant 
+16
+funding streams and programs of the Office of Elec-
+17
+tricity of the Department of Energy— 
+18
+(A) to give priority to transmission and 
+19
+distribution utilities seeking to conduct pilot 
+20
+programs aimed at integrating advanced energy 
+21
+technologies into the bulk electric system; and 
+22
+(B) to focus on escalating demand for ad-
+23
+vanced energy technology interconnections. 
+24
+21:49 Aug 12, 2021
+H4972
+15 
+•HR 4972 IH
+(2) REQUIREMENT.—In carrying out paragraph 
+1
+(1), the Secretary shall develop the design of and 
+2
+method for carrying out any funding opportunities 
+3
+identified pursuant to that paragraph. 
+4
+(b) TRANSMISSION PLANNING AND SITING.— 
+5
+(1) INDEPENDENT REPORT.—The Commission 
+6
+shall offer to enter into an agreement with the Na-
+7
+tional Academy of Sciences to prepare a report on 
+8
+whether— 
+9
+(A) existing regional and interregional 
+10
+transmission planning and siting processes are 
+11
+effectively supporting State resource planning 
+12
+objectives; and 
+13
+(B) Federal regulators have the tools to ef-
+14
+fectively regulate the planning and siting of 
+15
+interregional transmission lines. 
+16
+(2) REQUIREMENTS.—The report under para-
+17
+graph (1) shall examine whether— 
+18
+(A) there are deficiencies in transmission 
+19
+planning and siting that affect resource devel-
+20
+opment for— 
+21
+(i) interregional and regional energy 
+22
+generation; 
+23
+(ii) interconnection queues; and 
+24
+(iii) advanced energy technologies; 
+25
+21:49 Aug 12, 2021
+H4972
+16 
+•HR 4972 IH
+(B) the Commission has the programmatic 
+1
+and regulatory structure necessary to facilitate 
+2
+continued improvements in transmission plan-
+3
+ning, including planning with respect to trans-
+4
+mission— 
+5
+(i) across the boundaries of Inde-
+6
+pendent System Operators and Regional 
+7
+Transmission Organizations; and 
+8
+(ii) across boundaries that are not as-
+9
+sociated with Independent System Opera-
+10
+tors or Regional Transmission Organiza-
+11
+tions; 
+12
+(C) State resource planning requirements 
+13
+are addressed in existing transmission planning 
+14
+processes; 
+15
+(D) the Commission lacks tools with re-
+16
+spect to the siting of transmission lines that 
+17
+could help States improve transmission plan-
+18
+ning to meet State resource planning objectives; 
+19
+and 
+20
+(E) there are barriers to the inclusion and 
+21
+integration in the grid of any technology— 
+22
+(i) to reduce transmission losses; 
+23
+(ii) to improve the efficiency of the 
+24
+transmission and distribution systems; 
+25
+21:49 Aug 12, 2021
+H4972
+17 
+•HR 4972 IH
+(iii) that is connected to the distribu-
+1
+tion system and may— 
+2
+(I) increase reliability or resil-
+3
+ience; and 
+4
+(II) avoid transmission and dis-
+5
+tribution system costs; and 
+6
+(iv) to better understand the role of 
+7
+Federal regulators in the siting of tech-
+8
+nologies not directly connected to the grid. 
+9
+(3) DEADLINE.—The report under paragraph 
+10
+(1) shall be submitted to the Commission, the Sec-
+11
+retary, and the relevant committees of Congress not 
+12
+later than 1 year after the date of enactment of this 
+13
+Act. 
+14
+(c) AUTHORIZATION OF APPROPRIATIONS.—There is 
+15
+authorized to be appropriated to the Secretary to provide 
+16
+grants through relevant programs of the Office of Elec-
+17
+tricity of the Department of Energy, in accordance with 
+18
+subparagraphs (A) and (B) of subsection (a)(1), 
+19
+$50,000,000 for each of fiscal years 2022 through 2026. 
+20
+Æ 
+21:49 Aug 12, 2021
+H4972

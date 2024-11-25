@@ -1,0 +1,1758 @@
+A BILL 
+To establish a postsecondary student data system. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘College Transparency 
+4
+Act’’. 
+5
+SEC. 2. POSTSECONDARY STUDENT DATA SYSTEM. 
+6
+Section 132 of the Higher Education Act of 1965 (20 
+7
+U.S.C. 1015a) is amended— 
+8
+(1) by redesignating subsection (l) as subsection 
+9
+(m); and 
+10
+00:27 Apr 02, 2019
+H1766
+2 
+•HR 1766 IH
+(2) by inserting after subsection (k) the fol-
+1
+lowing: 
+2
+‘‘(l) POSTSECONDARY STUDENT DATA SYSTEM.— 
+3
+‘‘(1) IN GENERAL.— 
+4
+‘‘(A) ESTABLISHMENT
+OF
+SYSTEM.—The 
+5
+Commissioner of the National Center for Edu-
+6
+cation Statistics (referred to in this subsection 
+7
+as the ‘Commissioner’) shall develop and main-
+8
+tain a secure, privacy-protected postsecondary 
+9
+student-level data system in order to— 
+10
+‘‘(i) accurately evaluate student en-
+11
+rollment patterns, progression, completion, 
+12
+and postcollegiate outcomes, and higher 
+13
+education costs and financial aid; 
+14
+‘‘(ii) assist with transparency, institu-
+15
+tional improvement, and analysis of Fed-
+16
+eral aid programs; 
+17
+‘‘(iii) provide more accurate, complete, 
+18
+and customizable information for students 
+19
+and families making decisions about post-
+20
+secondary education; and 
+21
+‘‘(iv) reduce the reporting burden on 
+22
+institutions of higher education, in accord-
+23
+ance with section 5(b) of the College 
+24
+Transparency Act. 
+25
+00:27 Apr 02, 2019
+H1766
+3 
+•HR 1766 IH
+‘‘(B) AVOIDING
+DUPLICATED
+REPORT-
+1
+ING.—Notwithstanding any other provision of 
+2
+this section, to the extent that another provi-
+3
+sion of this section requires the same reporting 
+4
+or collection of data that is required under this 
+5
+subsection, a postsecondary institution, or the 
+6
+Secretary or Commissioner, may use the report-
+7
+ing or data required for the postsecondary stu-
+8
+dent data system under this subsection to sat-
+9
+isfy both requirements. 
+10
+‘‘(C) DEVELOPMENT PROCESS.—In devel-
+11
+oping the postsecondary student data system 
+12
+described in this subsection, the Commissioner 
+13
+shall— 
+14
+‘‘(i) focus on the needs of— 
+15
+‘‘(I) users of the data system; 
+16
+and 
+17
+‘‘(II) entities, including postsec-
+18
+ondary institutions, reporting to the 
+19
+data system; 
+20
+‘‘(ii) take into consideration, to the 
+21
+extent practicable— 
+22
+‘‘(I) the guidelines outlined in the 
+23
+U.S. Web Design Standards main-
+24
+tained by the General Services Admin-
+25
+00:27 Apr 02, 2019
+H1766
+4 
+•HR 1766 IH
+istration and the Digital Services 
+1
+Playbook and TechFAR Handbook for 
+2
+Procuring 
+Digital 
+Services 
+Using 
+3
+Agile Processes of the U.S. Digital 
+4
+Service; and 
+5
+‘‘(II) the relevant successor docu-
+6
+ments or recommendations of such 
+7
+guidelines; 
+8
+‘‘(iii) use modern, relevant privacy- 
+9
+and security-enhancing technology, and en-
+10
+hance and update the data system as nec-
+11
+essary to carry out the purpose of this sub-
+12
+section; 
+13
+‘‘(iv) ensure data privacy and security 
+14
+is consistent with any Federal law relating 
+15
+to privacy or data security, including— 
+16
+‘‘(I) the requirements of sub-
+17
+chapter II of chapter 35 of title 44, 
+18
+United States Code, specifying secu-
+19
+rity categorization under the Federal 
+20
+Information Processing Standards or 
+21
+any relevant successor of such stand-
+22
+ards; 
+23
+‘‘(II) security requirements that 
+24
+are consistent with the Federal agency 
+25
+00:27 Apr 02, 2019
+H1766
+5 
+•HR 1766 IH
+responsibilities in section 3554 of title 
+1
+44, United States Code, or any rel-
+2
+evant successor of such responsibil-
+3
+ities; and 
+4
+‘‘(III) 
+security 
+requirements, 
+5
+guidelines, and controls consistent 
+6
+with cybersecurity standards and best 
+7
+practices developed by the National 
+8
+Institute of Standards and Tech-
+9
+nology, including frameworks, con-
+10
+sistent with section 2(c) of the Na-
+11
+tional Institute of Standards and 
+12
+Technology Act (15 U.S.C. 272(c)), or 
+13
+any relevant successor of such frame-
+14
+works; 
+15
+‘‘(v) follow Federal data minimization 
+16
+practices to ensure only the minimum 
+17
+amount of data is collected to meet the 
+18
+system’s goals, in accordance with Federal 
+19
+data minimization standards and guide-
+20
+lines developed by the National Institute of 
+21
+Standards and Technology; and 
+22
+‘‘(vi) provide notice to students out-
+23
+lining the data included in the system and 
+24
+how the data are used. 
+25
+00:27 Apr 02, 2019
+H1766
+6 
+•HR 1766 IH
+‘‘(2) DATA ELEMENTS.— 
+1
+‘‘(A) IN GENERAL.—The Commissioner, in 
+2
+consultation with the Postsecondary Student 
+3
+Data System Advisory Committee described in 
+4
+subparagraph (B), shall determine— 
+5
+‘‘(i) the data elements to be included 
+6
+in the postsecondary student data system, 
+7
+in accordance with subparagraphs (C) and 
+8
+(D); and 
+9
+‘‘(ii) how to include the data elements 
+10
+required under subparagraph (C), and any 
+11
+additional data elements selected under 
+12
+subparagraph (D), in the postsecondary 
+13
+student data system. 
+14
+‘‘(B) POSTSECONDARY
+STUDENT
+DATA 
+15
+SYSTEM ADVISORY COMMITTEE.— 
+16
+‘‘(i) ESTABLISHMENT.—The Commis-
+17
+sioner shall establish a Postsecondary Stu-
+18
+dent Data System Advisory Committee (re-
+19
+ferred to in this subsection as the ‘Advi-
+20
+sory Committee’), whose members shall in-
+21
+clude— 
+22
+‘‘(I) the Chief Privacy Officer of 
+23
+the Department or an official of the 
+24
+Department delegated the duties of 
+25
+00:27 Apr 02, 2019
+H1766
+7 
+•HR 1766 IH
+overseeing data privacy at the Depart-
+1
+ment; 
+2
+‘‘(II) the Chief Security Officer 
+3
+of the Department or an official of 
+4
+the Department delegated the duties 
+5
+of overseeing data security at the De-
+6
+partment; 
+7
+‘‘(III) representatives of diverse 
+8
+postsecondary institutions, which shall 
+9
+include equal representation between 
+10
+2-year and 4-year institutions of high-
+11
+er education, and from public, non-
+12
+profit, and proprietary institutions of 
+13
+higher education, including minority 
+14
+serving institutions; 
+15
+‘‘(IV) representatives from State 
+16
+higher education agencies, entities, 
+17
+bodies, or boards; 
+18
+‘‘(V) representatives of postsec-
+19
+ondary students; 
+20
+‘‘(VI) representatives from rel-
+21
+evant Federal agencies; and 
+22
+‘‘(VII) other stakeholders (in-
+23
+cluding individuals with expertise in 
+24
+data privacy and security, consumer 
+25
+00:27 Apr 02, 2019
+H1766
+8 
+•HR 1766 IH
+protection, and postsecondary edu-
+1
+cation research). 
+2
+‘‘(ii) REQUIREMENTS.—The Commis-
+3
+sioner shall ensure that the Advisory Com-
+4
+mittee— 
+5
+‘‘(I) adheres to all requirements 
+6
+under the Federal Advisory Com-
+7
+mittee Act (5 U.S.C. App.); 
+8
+‘‘(II) establishes operating and 
+9
+meeting procedures and guidelines 
+10
+necessary to execute its advisory du-
+11
+ties; and 
+12
+‘‘(III) is provided with appro-
+13
+priate staffing and resources to exe-
+14
+cute its advisory duties. 
+15
+‘‘(C) REQUIRED
+DATA
+ELEMENTS.—The 
+16
+data elements in the postsecondary student 
+17
+data system shall include, at a minimum, the 
+18
+following: 
+19
+‘‘(i) Student-level data elements nec-
+20
+essary to calculate the information within 
+21
+the surveys designated by the Commis-
+22
+sioner as ‘student-related surveys’ in the 
+23
+Integrated Postsecondary Education Data 
+24
+System (IPEDS), as such surveys are in 
+25
+00:27 Apr 02, 2019
+H1766
+9 
+•HR 1766 IH
+effect on the day before the date of enact-
+1
+ment of the College Transparency Act, ex-
+2
+cept that in the case that collection of such 
+3
+elements would conflict with subparagraph 
+4
+(F), such elements in conflict with sub-
+5
+paragraph (F) shall be included in the ag-
+6
+gregate instead of at the student level. 
+7
+‘‘(ii) Student-level data elements nec-
+8
+essary to allow for reporting student en-
+9
+rollment, persistence, retention, transfer, 
+10
+and completion measures for all credential 
+11
+levels separately (including certificate, as-
+12
+sociate, baccalaureate, and advanced de-
+13
+gree levels), within and across postsec-
+14
+ondary institutions (including across all 
+15
+categories of institution level, control, and 
+16
+predominant degree awarded). The data 
+17
+elements shall allow for reporting about all 
+18
+such data disaggregated by the following 
+19
+categories: 
+20
+‘‘(I) Enrollment status as a first- 
+21
+time student, recent transfer student, 
+22
+or other non-first-time student. 
+23
+‘‘(II) 
+Attendance 
+intensity, 
+24
+whether full-time or part-time. 
+25
+00:27 Apr 02, 2019
+H1766
+10 
+•HR 1766 IH
+‘‘(III) Credential-seeking status, 
+1
+by credential level. 
+2
+‘‘(IV) Race or ethnicity. 
+3
+‘‘(V) Age intervals. 
+4
+‘‘(VI) Gender. 
+5
+‘‘(VII) Program of study (as ap-
+6
+plicable). 
+7
+‘‘(VIII) Military or veteran ben-
+8
+efit status (as determined based on 
+9
+receipt of veteran’s education benefits, 
+10
+as defined in section 480(c)). 
+11
+‘‘(IX) Status as a distance edu-
+12
+cation student, whether exclusively or 
+13
+partially enrolled in distance edu-
+14
+cation. 
+15
+‘‘(X) Federal Pell Grant and 
+16
+Federal loan recipient status, provided 
+17
+that the collection of such information 
+18
+complies with paragraph (1)(B). 
+19
+‘‘(D) OTHER DATA ELEMENTS.— 
+20
+‘‘(i) IN GENERAL.—The Commissioner 
+21
+may, after consultation with the Advisory 
+22
+Committee and provision of a public com-
+23
+ment period, include additional data ele-
+24
+ments in the postsecondary student data 
+25
+00:27 Apr 02, 2019
+H1766
+11 
+•HR 1766 IH
+system, such as those described in clause 
+1
+(ii), if those data elements— 
+2
+‘‘(I) are necessary to ensure that 
+3
+the postsecondary data system fulfills 
+4
+the purposes described in paragraph 
+5
+(1)(A); and 
+6
+‘‘(II) are consistent with data 
+7
+minimization principles, including the 
+8
+collection of only those additional ele-
+9
+ments that are necessary to ensure 
+10
+such purposes. 
+11
+‘‘(ii) DATA ELEMENTS.—The data ele-
+12
+ments described in clause (i) may in-
+13
+clude— 
+14
+‘‘(I) status as a first generation 
+15
+college student, as defined in section 
+16
+402A(h); 
+17
+‘‘(II) economic status; 
+18
+‘‘(III) participation in postsec-
+19
+ondary remedial coursework or gate-
+20
+way course completion; or 
+21
+‘‘(IV) other data elements that 
+22
+are necessary in accordance with 
+23
+clause (i). 
+24
+00:27 Apr 02, 2019
+H1766
+12 
+•HR 1766 IH
+‘‘(E) REEVALUATION.—Not less than once 
+1
+every 3 years after the implementation of the 
+2
+postsecondary student data system described in 
+3
+this subsection, the Commissioner, in consulta-
+4
+tion with the Advisory Committee described in 
+5
+subparagraph (B), shall review the data ele-
+6
+ments included in the postsecondary student 
+7
+data system and may revise the data elements 
+8
+to be included in such system. 
+9
+‘‘(F) PROHIBITIONS.—The Commissioner 
+10
+shall not include individual health data (includ-
+11
+ing data relating to physical health or mental 
+12
+health), student discipline records or data, ele-
+13
+mentary and secondary education data, an 
+14
+exact address, citizenship status, migrant sta-
+15
+tus, or national origin status for students or 
+16
+their families, course grades, postsecondary en-
+17
+trance examination results, political affiliation, 
+18
+or religion in the postsecondary student data 
+19
+system under this subsection. 
+20
+‘‘(3) PERIODIC MATCHING WITH OTHER FED-
+21
+ERAL DATA SYSTEMS.— 
+22
+‘‘(A) DATA SHARING AGREEMENTS.— 
+23
+‘‘(i) The Commissioner shall ensure 
+24
+secure, periodic data matches by entering 
+25
+00:27 Apr 02, 2019
+H1766
+13 
+•HR 1766 IH
+into data sharing agreements with each of 
+1
+the following Federal agencies and offices: 
+2
+‘‘(I) The Secretary of the Treas-
+3
+ury and the Commissioner of the In-
+4
+ternal Revenue Service, in order to 
+5
+calculate aggregate program- and in-
+6
+stitution-level earnings of postsec-
+7
+ondary students. 
+8
+‘‘(II) The Secretary of Defense, 
+9
+in order to assess the use of postsec-
+10
+ondary educational benefits and the 
+11
+outcomes of servicemembers. 
+12
+‘‘(III) The Secretary of Veterans 
+13
+Affairs, in order to assess the use of 
+14
+postsecondary 
+educational 
+benefits 
+15
+and outcomes of veterans. 
+16
+‘‘(IV) The Director of the Census 
+17
+Bureau, in order to assess the occupa-
+18
+tional and earnings outcomes of 
+19
+former postsecondary education stu-
+20
+dents. 
+21
+‘‘(V) The Chief Operating Officer 
+22
+of the Office of Federal Student Aid, 
+23
+in order to analyze the use of postsec-
+24
+00:27 Apr 02, 2019
+H1766
+14 
+•HR 1766 IH
+ondary educational benefits provided 
+1
+under this Act. 
+2
+‘‘(ii) The heads of Federal agencies 
+3
+and offices described under clause (i) shall 
+4
+enter into data sharing agreements with 
+5
+the Commissioner to ensure secure, peri-
+6
+odic data matches as described in this 
+7
+paragraph. 
+8
+‘‘(B) CATEGORIES
+OF
+DATA.—The Com-
+9
+missioner shall, at a minimum, seek to ensure 
+10
+that the secure periodic data system matches 
+11
+described in subparagraph (A) permit con-
+12
+sistent reporting of the following categories of 
+13
+data for all postsecondary students: 
+14
+‘‘(i) Enrollment, retention, transfer, 
+15
+and completion outcomes for all postsec-
+16
+ondary students. 
+17
+‘‘(ii) Financial indicators for postsec-
+18
+ondary students receiving Federal grants 
+19
+and loans, including grant and loan aid by 
+20
+source, cumulative student debt, loan re-
+21
+payment status, and repayment plan. 
+22
+‘‘(iii) Post-completion outcomes for all 
+23
+postsecondary students, including earnings, 
+24
+employment, and further education, by 
+25
+00:27 Apr 02, 2019
+H1766
+15 
+•HR 1766 IH
+program of study and credential level and 
+1
+as measured— 
+2
+‘‘(I) immediately after leaving 
+3
+postsecondary education; and 
+4
+‘‘(II) at time intervals appro-
+5
+priate to the credential sought and 
+6
+earned. 
+7
+‘‘(C) PERIODIC
+DATA
+MATCH
+STREAM-
+8
+LINING AND CONFIDENTIALITY.— 
+9
+‘‘(i) STREAMLINING.—In creating the 
+10
+secure periodic data system matches de-
+11
+scribed in this paragraph, the Commis-
+12
+sioner shall— 
+13
+‘‘(I) ensure that such matches 
+14
+are not continuous, but occur at ap-
+15
+propriate intervals, as determined by 
+16
+the Commissioner; and 
+17
+‘‘(II) seek to— 
+18
+‘‘(aa) streamline the data 
+19
+collection and reporting require-
+20
+ments for postsecondary institu-
+21
+tions; 
+22
+‘‘(bb) minimize duplicative 
+23
+reporting across or within Fed-
+24
+eral agencies or departments, in-
+25
+00:27 Apr 02, 2019
+H1766
+16 
+•HR 1766 IH
+cluding reporting requirements 
+1
+applicable to postsecondary insti-
+2
+tutions under the Workforce In-
+3
+novation and Opportunity Act 
+4
+(29 U.S.C. 3101 et seq.) and the 
+5
+Carl D. Perkins Career and 
+6
+Technical Education Act of 2006; 
+7
+‘‘(cc) protect student pri-
+8
+vacy; and 
+9
+‘‘(dd) streamline the applica-
+10
+tion process for student loan ben-
+11
+efit programs available to bor-
+12
+rowers based on data available 
+13
+from different Federal data sys-
+14
+tems. 
+15
+‘‘(ii) REVIEW.—Not less often than 
+16
+once every 3 years after the establishment 
+17
+of the postsecondary student data system 
+18
+under this subsection, the Commissioner, 
+19
+in consultation with the Advisory Com-
+20
+mittee, shall review methods for stream-
+21
+lining data collection from postsecondary 
+22
+institutions and minimizing duplicative re-
+23
+porting within the Department and across 
+24
+00:27 Apr 02, 2019
+H1766
+17 
+•HR 1766 IH
+Federal agencies that provide data for the 
+1
+postsecondary student data system. 
+2
+‘‘(iii) CONFIDENTIALITY.—The Com-
+3
+missioner shall ensure that any periodic 
+4
+matching or sharing of data through peri-
+5
+odic data system matches established in 
+6
+accordance with this paragraph— 
+7
+‘‘(I) complies with the security 
+8
+and privacy protections described in 
+9
+paragraph (1)(C)(iv) and other Fed-
+10
+eral data protection protocols; 
+11
+‘‘(II) follows industry best prac-
+12
+tices commensurate with the sensi-
+13
+tivity of specific data elements or 
+14
+metrics; 
+15
+‘‘(III) does not result in the cre-
+16
+ation of a single standing, linked Fed-
+17
+eral database at the Department that 
+18
+maintains the information reported 
+19
+across other Federal agencies; and 
+20
+‘‘(IV) discloses to postsecondary 
+21
+students what data are included in the 
+22
+data system and periodically matched 
+23
+and how the data are used. 
+24
+00:27 Apr 02, 2019
+H1766
+18 
+•HR 1766 IH
+‘‘(iv) 
+CORRECTION.—The 
+Commis-
+1
+sioner, in consultation with the Advisory 
+2
+Committee, shall establish a process for 
+3
+students to request access to only their 
+4
+personal information for inspection and re-
+5
+quest corrections to inaccuracies in a man-
+6
+ner that protects the student’s personally 
+7
+identifiable information. The Commissioner 
+8
+shall respond in writing to every request 
+9
+for a correction from a student. 
+10
+‘‘(4) PUBLICLY AVAILABLE INFORMATION.— 
+11
+‘‘(A) IN
+GENERAL.—The Commissioner 
+12
+shall make the summary aggregate information 
+13
+described in subparagraph (C), at a minimum, 
+14
+publicly available through a user-friendly con-
+15
+sumer information website and analytic tool 
+16
+that— 
+17
+‘‘(i) provides appropriate mechanisms 
+18
+for users to customize and filter informa-
+19
+tion by institutional and student character-
+20
+istics; 
+21
+‘‘(ii) allows users to build summary 
+22
+aggregate reports of information, including 
+23
+reports that allow comparisons across mul-
+24
+00:27 Apr 02, 2019
+H1766
+19 
+•HR 1766 IH
+tiple institutions and programs, subject to 
+1
+subparagraph (B); 
+2
+‘‘(iii) uses appropriate statistical dis-
+3
+closure limitation techniques necessary to 
+4
+ensure that the data released to the public 
+5
+cannot be used to identify specific individ-
+6
+uals; and 
+7
+‘‘(iv) provides users with appropriate 
+8
+contextual factors to make comparisons, 
+9
+which may include national median figures 
+10
+of the summary aggregate information de-
+11
+scribed in subparagraph (C). 
+12
+‘‘(B) NO PERSONALLY IDENTIFIABLE IN-
+13
+FORMATION AVAILABLE.—The summary aggre-
+14
+gate information described in this paragraph 
+15
+shall not include personally identifiable informa-
+16
+tion. 
+17
+‘‘(C) SUMMARY AGGREGATE INFORMATION 
+18
+AVAILABLE.—The summary aggregate informa-
+19
+tion described in this paragraph shall, at a min-
+20
+imum, include each of the following for each 
+21
+postsecondary institution: 
+22
+‘‘(i) Measures of student access, in-
+23
+cluding— 
+24
+00:27 Apr 02, 2019
+H1766
+20 
+•HR 1766 IH
+‘‘(I) admissions selectivity and 
+1
+yield; and 
+2
+‘‘(II) enrollment, disaggregated 
+3
+by each category described in para-
+4
+graph (2)(C)(ii). 
+5
+‘‘(ii) Measures of student progression, 
+6
+including retention rates and persistence 
+7
+rates, disaggregated by each category de-
+8
+scribed in paragraph (2)(C)(ii). 
+9
+‘‘(iii) Measures of student completion, 
+10
+including— 
+11
+‘‘(I) transfer rates and comple-
+12
+tion rates, disaggregated by each cat-
+13
+egory 
+described 
+in 
+paragraph 
+14
+(2)(C)(ii); and 
+15
+‘‘(II) number of completions, 
+16
+disaggregated by each category de-
+17
+scribed in paragraph (2)(C)(ii). 
+18
+‘‘(iv) Measures of student costs, in-
+19
+cluding— 
+20
+‘‘(I) tuition, required fees, total 
+21
+cost of attendance, and net price after 
+22
+total grant aid, disaggregated by in- 
+23
+State tuition or in-district tuition sta-
+24
+tus (if applicable), program of study 
+25
+00:27 Apr 02, 2019
+H1766
+21 
+•HR 1766 IH
+(if applicable), and credential level; 
+1
+and 
+2
+‘‘(II) typical grant amounts and 
+3
+loan amounts received by students re-
+4
+ported separately from Federal, State, 
+5
+local, and institutional sources, and 
+6
+cumulative debt, disaggregated by 
+7
+each category described in paragraph 
+8
+(2)(C)(ii) and completion status. 
+9
+‘‘(v) Measures of postcollegiate stu-
+10
+dent 
+outcomes, 
+including 
+employment 
+11
+rates, mean and median earnings, loan re-
+12
+payment and default rates, and further 
+13
+education rates. These measures shall— 
+14
+‘‘(I) be disaggregated by each 
+15
+category 
+described 
+in 
+paragraph 
+16
+(2)(C)(ii) and completion status; and 
+17
+‘‘(II) be measured immediately 
+18
+after leaving postsecondary education 
+19
+and at time intervals appropriate to 
+20
+the credential sought or earned. 
+21
+‘‘(D) DEVELOPMENT CRITERIA.—In devel-
+22
+oping the method and format of making the in-
+23
+formation described in this paragraph publicly 
+24
+available, the Commissioner shall— 
+25
+00:27 Apr 02, 2019
+H1766
+22 
+•HR 1766 IH
+‘‘(i) focus on the needs of the users of 
+1
+the information, which will include stu-
+2
+dents, families of students, potential stu-
+3
+dents, researchers, and other consumers of 
+4
+education data; 
+5
+‘‘(ii) take into consideration, to the 
+6
+extent practicable, the guidelines described 
+7
+in paragraph (1)(C)(ii)(I), and relevant 
+8
+successor documents or recommendations 
+9
+of such guidelines; 
+10
+‘‘(iii) use modern, relevant technology 
+11
+and enhance and update the postsecondary 
+12
+student data system with information, as 
+13
+necessary to carry out the purpose of this 
+14
+paragraph; 
+15
+‘‘(iv) ensure data privacy and security 
+16
+in accordance with standards and guide-
+17
+lines developed by the National Institute of 
+18
+Standards and Technology, and in accord-
+19
+ance with any other Federal law relating to 
+20
+privacy or security, including complying 
+21
+with the requirements of subchapter II of 
+22
+chapter 35 of title 44, United States Code, 
+23
+specifying security categorization under the 
+24
+Federal Information Processing Standards, 
+25
+00:27 Apr 02, 2019
+H1766
+23 
+•HR 1766 IH
+and security requirements, and setting of 
+1
+National Institute of Standards and Tech-
+2
+nology security baseline controls at the ap-
+3
+propriate level; and 
+4
+‘‘(v) conduct consumer testing to de-
+5
+termine how to make the information as 
+6
+meaningful to users as possible. 
+7
+‘‘(5) PERMISSIBLE DISCLOSURES OF DATA.— 
+8
+‘‘(A) DATA REPORTS AND QUERIES.— 
+9
+‘‘(i) IN GENERAL.—The Commissioner 
+10
+shall develop and implement a secure proc-
+11
+ess for making student-level, non-person-
+12
+ally identifiable information, with direct 
+13
+identifiers removed, from the postsec-
+14
+ondary student data system available for 
+15
+vetted research and evaluation purposes 
+16
+approved by the Commissioner in a man-
+17
+ner compatible with practices for disclosing 
+18
+National Center for Education Statistics 
+19
+restricted-use survey data as in effect on 
+20
+the day before the date of enactment of the 
+21
+College Transparency Act, or by applying 
+22
+other research and disclosure restrictions 
+23
+to ensure data privacy and security. Such 
+24
+process shall be approved by the National 
+25
+00:27 Apr 02, 2019
+H1766
+24 
+•HR 1766 IH
+Center for Education Statistics’ Disclosure 
+1
+Review Board or its successor body. 
+2
+‘‘(ii) PROVIDING DATA REPORTS AND 
+3
+QUERIES TO INSTITUTIONS AND STATES.— 
+4
+‘‘(I) IN GENERAL.—The Commis-
+5
+sioner shall provide feedback reports, 
+6
+at least annually, to each postsec-
+7
+ondary institution, each postsecondary 
+8
+education system that fully partici-
+9
+pates in the postsecondary student 
+10
+data system, and each State higher 
+11
+education body as designated by the 
+12
+governor. 
+13
+‘‘(II) FEEDBACK REPORTS.—The 
+14
+feedback reports provided under this 
+15
+clause shall include program-level and 
+16
+institution-level information from the 
+17
+postsecondary student data system re-
+18
+garding students who are associated 
+19
+with the institution or, for State rep-
+20
+resentatives, the institutions within 
+21
+that State, on or before the date of 
+22
+the report, on measures including stu-
+23
+dent mobility and workforce outcomes, 
+24
+provided that the feedback aggregate 
+25
+00:27 Apr 02, 2019
+H1766
+25 
+•HR 1766 IH
+summary reports protect the privacy 
+1
+of individuals. 
+2
+‘‘(III) DETERMINATION OF CON-
+3
+TENT.—The content of the feedback 
+4
+reports shall be determined by the 
+5
+Commissioner in consultation with the 
+6
+Advisory Committee. 
+7
+‘‘(iii) PERMITTING STATE DATA QUE-
+8
+RIES.—The Commissioner shall, in con-
+9
+sultation with the Advisory Committee and 
+10
+as soon as practicable, create a process 
+11
+through which States may submit lists of 
+12
+secondary school graduates within the 
+13
+State to receive summary aggregate out-
+14
+comes for those students who enrolled at a 
+15
+postsecondary institution, including post-
+16
+secondary enrollment and college comple-
+17
+tion, provided that those data protect the 
+18
+privacy of individuals and that the State 
+19
+data submitted to the Commissioner are 
+20
+not stored in the postsecondary education 
+21
+system. 
+22
+‘‘(iv) REGULATIONS.—The Commis-
+23
+sioner shall promulgate regulations to en-
+24
+sure fair, secure, and equitable access to 
+25
+00:27 Apr 02, 2019
+H1766
+26 
+•HR 1766 IH
+data reports and queries outlined in this 
+1
+paragraph. 
+2
+‘‘(B) DISCLOSURE LIMITATIONS.—In car-
+3
+rying out the public reporting and disclosure re-
+4
+quirements of this Act, the Commissioner shall 
+5
+use appropriate statistical disclosure limitation 
+6
+techniques necessary to ensure that the data re-
+7
+leased to the public cannot include personally 
+8
+identifiable information or be used to identify 
+9
+specific individuals. 
+10
+‘‘(C) SALE OF DATA PROHIBITED.—Data 
+11
+collected under this subsection, including the 
+12
+public-use data set and data comprising the 
+13
+summary aggregate information available under 
+14
+paragraph (4), shall not be sold to any third 
+15
+party by the Commissioner, including any post-
+16
+secondary institution or any other entity. 
+17
+‘‘(D) LIMITATION ON USE BY OTHER FED-
+18
+ERAL AGENCIES.— 
+19
+‘‘(i) IN GENERAL.—The Commissioner 
+20
+shall not allow any other Federal agency to 
+21
+use data collected under this subsection for 
+22
+any purpose except— 
+23
+‘‘(I) for vetted research and eval-
+24
+uation conducted by the other Federal 
+25
+00:27 Apr 02, 2019
+H1766
+27 
+•HR 1766 IH
+agency, as described in subparagraph 
+1
+(A)(i); or 
+2
+‘‘(II) for a purpose explicitly au-
+3
+thorized by this Act. 
+4
+‘‘(ii) PROHIBITION ON LIMITATION OF 
+5
+SERVICES.—The Secretary, or the head of 
+6
+any other Federal agency, shall not use 
+7
+data collected under this subsection to 
+8
+limit services to students. 
+9
+‘‘(E) 
+LAW
+ENFORCEMENT.—Personally 
+10
+identifiable information collected under this 
+11
+subsection shall not be used for any Federal, 
+12
+State, or local law enforcement activity or any 
+13
+other activity that would result in adverse ac-
+14
+tion against any student or a student’s family, 
+15
+including debt collection activity or enforcement 
+16
+of immigration laws. 
+17
+‘‘(F) LIMITATION OF USE FOR FEDERAL 
+18
+RANKINGS OR SUMMATIVE RATING SYSTEM.— 
+19
+The comprehensive data collection and analysis 
+20
+necessary for the postsecondary student data 
+21
+system under this subsection shall not be used 
+22
+by the Secretary or any Federal entity to estab-
+23
+lish any Federal ranking system of postsec-
+24
+ondary institutions or a system that results in 
+25
+00:27 Apr 02, 2019
+H1766
+28 
+•HR 1766 IH
+a summative Federal rating of postsecondary 
+1
+institutions. 
+2
+‘‘(G) RULE OF CONSTRUCTION.—Nothing 
+3
+in this paragraph shall be construed to prevent 
+4
+the use of individual categories of aggregate in-
+5
+formation to be used for accountability pur-
+6
+poses, such as for the calculation of the cohort 
+7
+default rate under section 435(m). 
+8
+‘‘(H) RULE OF CONSTRUCTION REGARDING 
+9
+COMMERCIAL USE OF DATA.—Nothing in this 
+10
+paragraph shall be construed to prohibit third- 
+11
+party entities from using publicly-available in-
+12
+formation in this data system for commercial 
+13
+use. 
+14
+‘‘(6) SUBMISSION OF DATA.— 
+15
+‘‘(A) REQUIRED SUBMISSION.—Each insti-
+16
+tution of higher education participating in a 
+17
+program under title IV, or the assigned agent 
+18
+of such institution, shall, in accordance with 
+19
+section 487(a)(17), collect, and submit to the 
+20
+Commissioner, the data requested by the Com-
+21
+missioner to carry out this subsection. 
+22
+‘‘(B) VOLUNTARY SUBMISSION.—Any post-
+23
+secondary institution not participating in a pro-
+24
+gram under title IV may voluntarily participate 
+25
+00:27 Apr 02, 2019
+H1766
+29 
+•HR 1766 IH
+in the postsecondary student data system under 
+1
+this subsection by collecting and submitting 
+2
+data to the Commissioner, as the Commissioner 
+3
+may request to carry out this subsection. 
+4
+‘‘(C) PERSONALLY
+IDENTIFIABLE
+INFOR-
+5
+MATION.—In 
+accordance 
+with 
+paragraph 
+6
+(2)(C)(i), if the submission of an element of 
+7
+student-level data is prohibited under para-
+8
+graph (2)(F) (or otherwise prohibited by law), 
+9
+the institution of higher education shall submit 
+10
+that data to the Commissioner in the aggregate. 
+11
+‘‘(7) UNLAWFUL WILLFUL DISCLOSURE.— 
+12
+‘‘(A) IN GENERAL.—It shall be unlawful 
+13
+for any person who obtains or has access to 
+14
+personally identifiable information in connection 
+15
+with the postsecondary student data system de-
+16
+scribed in this subsection to willfully disclose to 
+17
+any person (except as authorized in this Act or 
+18
+any Federal law) such personally identifiable in-
+19
+formation. 
+20
+‘‘(B) PENALTY.—Any person who violates 
+21
+subparagraph (A) shall be subject to a penalty 
+22
+described under section 513 of the Confidential 
+23
+Information Protection and Statistical Effi-
+24
+ciency Act of 2002 (44 U.S.C. 3501 note) and 
+25
+00:27 Apr 02, 2019
+H1766
+30 
+•HR 1766 IH
+section 183(d)(6) of the Education Sciences Re-
+1
+form Act of 2002 (20 U.S.C. 9573(d)(6)). 
+2
+‘‘(C) EMPLOYEE
+OF
+OFFICER
+OF
+THE 
+3
+UNITED
+STATES.—If a violation of subpara-
+4
+graph (A) is committed by any officer or em-
+5
+ployee of the United States, the officer or em-
+6
+ployee shall be dismissed from office or dis-
+7
+charged from employment upon conviction for 
+8
+the violation. 
+9
+‘‘(8) DATA SECURITY.—The Commissioner shall 
+10
+produce and update as needed guidance and regula-
+11
+tions relating to privacy, security, and access which 
+12
+shall govern the use and disclosure of data collected 
+13
+in connection with the activities authorized in this 
+14
+subsection. The guidance and regulations developed 
+15
+and reviewed shall protect data from unauthorized 
+16
+access, use, and disclosure, and shall include— 
+17
+‘‘(A) an audit capability, including manda-
+18
+tory and regularly conducted audits; 
+19
+‘‘(B) access controls; 
+20
+‘‘(C) requirements to ensure sufficient data 
+21
+security, quality, validity, and reliability; 
+22
+‘‘(D) student confidentiality protection in 
+23
+accordance with the Confidential Information 
+24
+Protection and Statistical Efficiency Act; 
+25
+00:27 Apr 02, 2019
+H1766
+31 
+•HR 1766 IH
+‘‘(E) appropriate and applicable privacy 
+1
+and security protection, including data retention 
+2
+and destruction protocols and data minimiza-
+3
+tion, in accordance with the most recent Fed-
+4
+eral standards developed by the National Insti-
+5
+tute of Standards and Technology; and 
+6
+‘‘(F) protocols for managing a breach, in-
+7
+cluding breach notifications, in accordance with 
+8
+the standards of National Center for Education 
+9
+Statistics. 
+10
+‘‘(9) DATA
+COLLECTION.—The Commissioner 
+11
+shall ensure that data collection, maintenance, and 
+12
+use under this subsection complies with section 552a 
+13
+of title 5, United States Code. 
+14
+‘‘(10) DEFINITIONS.—In this subsection: 
+15
+‘‘(A) 
+INSTITUTION
+OF
+HIGHER
+EDU-
+16
+CATION.—The term ‘institution of higher edu-
+17
+cation’ has the meaning given the term in sec-
+18
+tion 102. 
+19
+‘‘(B) PERSONALLY IDENTIFIABLE INFOR-
+20
+MATION.—The term ‘personally identifiable in-
+21
+formation’ has the meaning given the term in 
+22
+section 444 of the General Education Provi-
+23
+sions Act (20 U.S.C. 1232g). 
+24
+00:27 Apr 02, 2019
+H1766
+32 
+•HR 1766 IH
+‘‘(C) POSTSECONDARY INSTITUTION.—The 
+1
+term ‘postsecondary institution’ includes an in-
+2
+stitution of higher education.’’. 
+3
+SEC. 3. REPEAL OF PROHIBITION ON STUDENT DATA SYS-
+4
+TEM. 
+5
+Section 134 of the Higher Education Act of 1965 (20 
+6
+U.S.C. 1015c) is repealed. 
+7
+SEC. 4. INSTITUTIONAL REQUIREMENTS. 
+8
+Paragraph (17) of section 487(a) of the Higher Edu-
+9
+cation Act of 1965 (20 U.S.C. 1094(a)) is amended to 
+10
+read as follows: 
+11
+‘‘(17) The institution or the assigned agent of 
+12
+the institution will collect and submit data to the 
+13
+Commissioner for Education Statistics in accordance 
+14
+with section 132(l), the nonstudent related surveys 
+15
+within the Integrated Postsecondary Education Data 
+16
+System (IPEDS), or any other Federal postsec-
+17
+ondary institution data collection effort (as des-
+18
+ignated by the Secretary), in a timely manner and 
+19
+to the satisfaction of the Secretary.’’. 
+20
+SEC. 5. EFFECTIVE DATE; TRANSITION PROVISIONS. 
+21
+(a) EFFECTIVE DATE.—Sections 1, 2, and 4 of this 
+22
+Act, and the amendments made by such sections, shall 
+23
+take effect on the date that is 4 years after the date of 
+24
+enactment of this Act. 
+25
+00:27 Apr 02, 2019
+H1766
+33 
+•HR 1766 IH
+(b) IN GENERAL.—The Secretary of Education and 
+1
+the Commissioner for Education Statistics shall take such 
+2
+steps as are necessary to ensure that the transition to, 
+3
+and implementation of, the postsecondary student data 
+4
+system required under section 132(l) of the Higher Edu-
+5
+cation Act of 1965, as added by section 2 of this Act, hap-
+6
+pens in a manner that reduces the reporting burden for 
+7
+postsecondary institutions that reported into the Inte-
+8
+grated Postsecondary Education Data System (IPEDS). 
+9
+Æ 
+00:27 Apr 02, 2019
+H1766

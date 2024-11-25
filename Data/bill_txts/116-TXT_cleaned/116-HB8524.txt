@@ -1,0 +1,173 @@
+A BILL 
+To amend the Electronic Signatures in Global and National 
+Commerce Act to clarify the applicability of such Act 
+to electronic records, electronic signatures, and smart 
+contracts created, stored, or secured on or through a 
+blockchain, to provide uniform national standards regard-
+ing the legal effect, validity, and enforceability of such 
+records, signatures, and contracts, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+00:31 Oct 30, 2020
+H8524
+2 
+•HR 8524 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Blockchain Records 
+2
+and Transactions Act of 2020’’. 
+3
+SEC. 2. AMENDMENTS TO ELECTRONIC SIGNATURES IN 
+4
+GLOBAL AND NATIONAL COMMERCE ACT. 
+5
+(a) VALIDITY
+OF ELECTRONIC RECORDS, ELEC-
+6
+TRONIC SIGNATURES, AND SMART CONTRACTS USING 
+7
+BLOCKCHAIN.—Section 101(a) of the Electronic Signa-
+8
+tures in Global and National Commerce Act (15 U.S.C. 
+9
+7001(a)) is amended— 
+10
+(1) in paragraph (1), by striking ‘‘; and’’ and 
+11
+inserting a semicolon; 
+12
+(2) in paragraph (2), by striking the period at 
+13
+the end and inserting ‘‘; and’’; and 
+14
+(3) by adding at the end the following: 
+15
+‘‘(3) an electronic record, electronic signature, 
+16
+or smart contract may not be denied legal effect, va-
+17
+lidity, or enforceability solely because it is created, 
+18
+stored, or secured on or through a blockchain.’’. 
+19
+(b) EXEMPTION TO PREEMPTION.—Section 102 of 
+20
+the Electronic Signatures in Global and National Com-
+21
+merce Act (15 U.S.C. 7002) is amended— 
+22
+(1) in subsection (a)— 
+23
+(A) in the heading, by striking ‘‘IN GEN-
+24
+ERAL’’ and inserting ‘‘ELECTRONIC RECORDS 
+25
+00:31 Oct 30, 2020
+H8524
+3 
+•HR 8524 IH
+AND ELECTRONIC SIGNATURES GENERALLY’’; 
+1
+and 
+2
+(B) in the matter preceding paragraph (1), 
+3
+by inserting ‘‘, except for paragraph (3) of sec-
+4
+tion 101(a),’’ after ‘‘the provisions of section 
+5
+101’’; 
+6
+(2) by redesignating subsections (b) and (c) as 
+7
+subsections (c) and (d), respectively; and 
+8
+(3) by inserting after subsection (a) the fol-
+9
+lowing: 
+10
+‘‘(b) ELECTRONIC RECORDS, ELECTRONIC SIGNA-
+11
+TURES, AND SMART CONTRACTS USING BLOCKCHAIN.— 
+12
+A State statute, regulation, or other rule of law may mod-
+13
+ify, limit, or supersede paragraph (3) of section 101(a) 
+14
+with respect to State law only if such statute, regulation, 
+15
+or rule of law is substantially similar to such paragraph.’’. 
+16
+(c) DEFINITIONS.—Section 106 of the Electronic Sig-
+17
+natures in Global and National Commerce Act (15 U.S.C. 
+18
+7006) is amended— 
+19
+(1) by redesignating paragraphs (12) and (13) 
+20
+as paragraphs (14) and (15), respectively; 
+21
+(2) by redesignating paragraphs (1) through 
+22
+(11) as paragraphs (2) through (12), respectively; 
+23
+(3) by inserting before paragraph (2) (as so re-
+24
+designated) the following: 
+25
+00:31 Oct 30, 2020
+H8524
+4 
+•HR 8524 IH
+‘‘(1) 
+BLOCKCHAIN.—The 
+term 
+‘blockchain’ 
+1
+means software that uses a distributed digital ledger 
+2
+of cryptographically signed transactions that are 
+3
+grouped into blocks, each of which— 
+4
+‘‘(A) is cryptographically linked to the pre-
+5
+vious block after validation and undergoing a 
+6
+consensus decision; and 
+7
+‘‘(B) when added as a new block, makes 
+8
+any older blocks more difficult to modify and is 
+9
+replicated across all copies of the ledger within 
+10
+the relevant network, with any conflicts in such 
+11
+blocks resolved automatically using established 
+12
+rules.’’; and 
+13
+(4) by inserting after paragraph (12) (as so re-
+14
+designated) the following: 
+15
+‘‘(13) SMART
+CONTRACT.—The term ‘smart 
+16
+contract’ means a computer program that reflects an 
+17
+agreement, in whole or in part, between two or more 
+18
+parties to execute transactions automatically based 
+19
+on the occurrence of agreed-upon events.’’. 
+20
+Æ 
+00:31 Oct 30, 2020
+H8524

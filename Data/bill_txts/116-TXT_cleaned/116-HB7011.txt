@@ -1,0 +1,1929 @@
+A BILL 
+To establish a Pandemic Risk Reinsurance Program, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Pandemic Risk Insur-
+4
+ance Act of 2020’’. 
+5
+SEC. 2. PURPOSE. 
+6
+The purpose of this Act is to establish a Federal pro-
+7
+gram that provides for a transparent system of shared 
+8
+18:55 Jun 17, 2020
+H7011
+2 
+•HR 7011 IH
+public and private compensation for business interruption 
+1
+losses resulting from a pandemic or outbreak of commu-
+2
+nicable disease, in order to— 
+3
+(1) protect consumers by addressing market 
+4
+disruptions and ensure the continued widespread 
+5
+availability and affordability of business interruption 
+6
+coverage for losses resulting from a pandemic or 
+7
+outbreak of communicative disease; and 
+8
+(2) allow for a transitional period for the pri-
+9
+vate markets to stabilize, resume pricing of such in-
+10
+surance, and build capacity to absorb any future 
+11
+losses, while preserving State insurance regulation 
+12
+and consumer protections. 
+13
+SEC. 3. DEFINITIONS. 
+14
+In this Act, the following definitions shall apply: 
+15
+(1) COVERED PUBLIC HEALTH EMERGENCY.— 
+16
+(A) IN
+GENERAL.—The term ‘‘covered 
+17
+public health emergency’’ means any outbreak 
+18
+of infectious disease or pandemic— 
+19
+(i) for which an emergency is de-
+20
+clared, on or after January 1, 2021, under 
+21
+the Public Health Service Act; and 
+22
+(ii) that is certified by the Secretary 
+23
+of Health and Human Services, as a public 
+24
+health emergency. 
+25
+18:55 Jun 17, 2020
+H7011
+3 
+•HR 7011 IH
+(B) 
+NONDELEGATION.—The 
+Secretary 
+1
+may not delegate or designate to any other offi-
+2
+cer, employee, or person, any determination 
+3
+under this paragraph of whether, during the ef-
+4
+fective period of the Program, a covered public 
+5
+health emergency has occurred. 
+6
+(2) AFFILIATE.—The term ‘‘affiliate’’ means, 
+7
+with respect to an participating insurer, any entity 
+8
+that controls, is controlled by, or is under common 
+9
+control with the insurer. 
+10
+(3) BUSINESS
+INTERRUPTION
+INSURANCE.— 
+11
+The term ‘‘business interruption insurance’’ means 
+12
+commercial lines of property and casualty insurance 
+13
+coverage, including event cancellation insurance or 
+14
+other non-property contingent business interruption 
+15
+insurance, provided or made available for losses re-
+16
+sulting from periods of suspended business oper-
+17
+ations, including losses from a covered public health 
+18
+emergency, or a civil order related to a covered pub-
+19
+lic health emergency, whether provided under broad-
+20
+er coverage for property and casualty losses or sepa-
+21
+rately. 
+22
+(4) CONTROL.— 
+23
+(A) IN GENERAL.—An entity has ‘‘control’’ 
+24
+over another entity, if— 
+25
+18:55 Jun 17, 2020
+H7011
+4 
+•HR 7011 IH
+(i) the entity directly or indirectly or 
+1
+acting through 1 or more other persons 
+2
+owns, controls, or has power to vote 25 
+3
+percent or more of any class of voting se-
+4
+curities of the other entity; 
+5
+(ii) the entity controls in any manner 
+6
+the election of a majority of the directors 
+7
+or trustees of the other entity; or 
+8
+(iii) the Secretary determines, after 
+9
+notice and opportunity for hearing, that 
+10
+the entity directly or indirectly exercises a 
+11
+controlling influence over the management 
+12
+or policies of the other entity. 
+13
+(B) RULE OF CONSTRUCTION.—An entity, 
+14
+including any affiliate thereof, does not have 
+15
+‘‘control’’ over another entity, if, as of January 
+16
+1, 2021, the entity is acting as an attorney-in- 
+17
+fact, as defined by the Secretary, for the other 
+18
+entity and such other entity is a reciprocal in-
+19
+surer, provided that the entity is not, for rea-
+20
+sons other than the attorney-in-fact relation-
+21
+ship, defined as having ‘‘control’’ under sub-
+22
+paragraph (A). 
+23
+(5) DIRECT EARNED PREMIUM.—The term ‘‘di-
+24
+rect earned premium’’ means a direct earned pre-
+25
+18:55 Jun 17, 2020
+H7011
+5 
+•HR 7011 IH
+mium for property and casualty insurance issued by 
+1
+any participating insurer for insurance against 
+2
+losses occurring in the United States. 
+3
+(6) EVENT.—The term ‘‘event’’ means a trade 
+4
+show, consumer show, exhibition, fair, conference, 
+5
+convention, meeting, seminar, charity event, auction, 
+6
+gala dinner, competition, sporting event, film or tele-
+7
+vision production, award show, or other similar 
+8
+event. 
+9
+(7) EVENT
+CANCELLATION
+INSURANCE.—The 
+10
+term ‘‘event cancellation insurance’’ means insur-
+11
+ance that indemnifies an insured for losses that 
+12
+occur as a consequence of— 
+13
+(A) cancellation, abandonment, or resched-
+14
+uling of an event; or 
+15
+(B) non-appearance at an event of a prin-
+16
+cipal speaker. 
+17
+(8) INSURED LOSS.—The term ‘‘insured loss’’ 
+18
+means any loss resulting from a covered public 
+19
+health emergency that is covered by primary or ex-
+20
+cess business interruption insurance issued by a par-
+21
+ticipating insurer if such loss occurs— 
+22
+(A) within the United States; and 
+23
+18:55 Jun 17, 2020
+H7011
+6 
+•HR 7011 IH
+(B) during the period that the covered 
+1
+public health emergency for such area is in ef-
+2
+fect. 
+3
+(9) INSURER.—The term ‘‘insurer’’ means any 
+4
+entity, including any affiliate thereof— 
+5
+(A) that is— 
+6
+(i) licensed or admitted to engage in 
+7
+the business of providing primary or excess 
+8
+insurance in any State; 
+9
+(ii) not licensed or admitted as de-
+10
+scribed in clause (i), if it is an eligible sur-
+11
+plus line carrier listed on the Quarterly 
+12
+Listing of Alien Insurers of the NAIC, or 
+13
+any successor thereto; 
+14
+(iii) approved for the purpose of offer-
+15
+ing property and casualty insurance by a 
+16
+Federal agency in connection with mari-
+17
+time, energy, or aviation activity; 
+18
+(iv) a State residual market insurance 
+19
+entity or State workers’ compensation 
+20
+fund; or 
+21
+(v) any other entity described in sec-
+22
+tion 4(f), to the extent provided in the 
+23
+rules of the Secretary issued under section 
+24
+4(f); 
+25
+18:55 Jun 17, 2020
+H7011
+7 
+•HR 7011 IH
+(B) that receives direct earned premiums 
+1
+for any type of commercial property and cas-
+2
+ualty insurance coverage, other than in the case 
+3
+of entities described in subsections (d) and (f) 
+4
+of section 4; and 
+5
+(C) that meets any other criteria that the 
+6
+Secretary may reasonably prescribe. 
+7
+Such term includes captive insurers and other self- 
+8
+insurance arrangements by municipalities and other 
+9
+entities (such as workers’ compensation self-insur-
+10
+ance programs and State workers’ compensation re-
+11
+insurance pools). 
+12
+(10) INSURER
+DEDUCTIBLE.—The term ‘‘in-
+13
+surer deductible’’ means, with respect to a partici-
+14
+pating insurer— 
+15
+(A) the value of the participating insurer’s 
+16
+direct earned premiums during the immediately 
+17
+preceding calendar year, multiplied by 5 per-
+18
+cent; and 
+19
+(B) notwithstanding subparagraph (A), for 
+20
+any calendar year, if a participating insurer has 
+21
+not had a full year of operations during the cal-
+22
+endar year immediately preceding such calendar 
+23
+year, such portion of the direct earned pre-
+24
+miums of the participating insurer as the Sec-
+25
+18:55 Jun 17, 2020
+H7011
+8 
+•HR 7011 IH
+retary determines appropriate, subject to appro-
+1
+priate methodologies established by the Sec-
+2
+retary for measuring such direct earned pre-
+3
+miums. 
+4
+(11) NAIC.—The term ‘‘NAIC’’ means the Na-
+5
+tional Association of Insurance Commissioners. 
+6
+(12) 
+PARTICIPATING
+INSURER.—The 
+term 
+7
+‘‘participating insurer’’ means, with respect to a cal-
+8
+endar year, an insurer that has elected pursuant to 
+9
+section 4(a)(3) to participate in the Pandemic Risk 
+10
+Reinsurance Program under this Act for such cal-
+11
+endar year. 
+12
+(13) PERSON.—The term ‘‘person’’ means any 
+13
+individual, business or nonprofit entity (including 
+14
+those organized in the form of a partnership, limited 
+15
+liability company, corporation, or association), trust 
+16
+or estate, or a State or political subdivision of a 
+17
+State or other governmental unit. 
+18
+(14) PROGRAM.—The term ‘‘Program’’ means 
+19
+the Pandemic Risk Reinsurance Program established 
+20
+by this Act. 
+21
+(15) PROPERTY AND CASUALTY INSURANCE.— 
+22
+The term ‘‘property and casualty insurance’’— 
+23
+(A) means commercial lines of property 
+24
+and casualty insurance, including excess insur-
+25
+18:55 Jun 17, 2020
+H7011
+9 
+•HR 7011 IH
+ance, workers’ compensation insurance, and 
+1
+event cancellation insurance; and 
+2
+(B) does not include— 
+3
+(i) Federal crop insurance issued or 
+4
+reinsured under the Federal Crop Insur-
+5
+ance Act (7 U.S.C. 1501 et seq.), or any 
+6
+other type of crop or livestock insurance 
+7
+that is privately issued or reinsured; 
+8
+(ii) private mortgage insurance (as 
+9
+such term is defined in section 2 of the 
+10
+Homeowners Protection Act of 1998 (12 
+11
+U.S.C. 4901)) or title insurance; 
+12
+(iii) 
+financial 
+guaranty 
+insurance 
+13
+issued by monoline financial guaranty in-
+14
+surance corporations; 
+15
+(iv) insurance for medical malpractice; 
+16
+(v) health or life insurance, including 
+17
+group life insurance; 
+18
+(vi) flood insurance provided under 
+19
+the National Flood Insurance Act of 1968 
+20
+(42 U.S.C. 4001 et seq.); 
+21
+(vii) reinsurance or retrocessional re-
+22
+insurance; 
+23
+(viii) commercial automobile insur-
+24
+ance; 
+25
+18:55 Jun 17, 2020
+H7011
+10 
+•HR 7011 IH
+(ix) burglary and theft insurance; 
+1
+(x) surety insurance; 
+2
+(xi) professional liability insurance; or 
+3
+(xii) farm owners multiple peril insur-
+4
+ance. 
+5
+(16) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+6
+means the Secretary of the Treasury. 
+7
+(17) STATE.—The term ‘‘State’’ means any 
+8
+State of the United States, the District of Columbia, 
+9
+the Commonwealth of Puerto Rico, the Common-
+10
+wealth of the Northern Mariana Islands, American 
+11
+Samoa, Guam, each of the United States Virgin Is-
+12
+lands, and any territory or possession of the United 
+13
+States. 
+14
+(18) UNITED
+STATES.—The term ‘‘United 
+15
+States’’ means the several States. 
+16
+(19) RULE OF CONSTRUCTION FOR DATES.— 
+17
+With respect to any reference to a date in this Act, 
+18
+such day shall be construed— 
+19
+(A) to begin at 12:01 a.m. on that date; 
+20
+and 
+21
+(B) to end at midnight on that date. 
+22
+SEC. 4. PANDEMIC RISK REINSURANCE PROGRAM. 
+23
+(a) ESTABLISHMENT OF PROGRAM.— 
+24
+18:55 Jun 17, 2020
+H7011
+11 
+•HR 7011 IH
+(1) IN GENERAL.—There is established in the 
+1
+Department of the Treasury the Pandemic Risk Re-
+2
+insurance Program. 
+3
+(2) AUTHORITY OF THE SECRETARY.—Notwith-
+4
+standing any other provision of State or Federal 
+5
+law, the Secretary shall administer the Program, 
+6
+and shall pay the Federal share of compensation for 
+7
+insured losses in accordance with subsection (e). 
+8
+(3) VOLUNTARY PARTICIPATION.— 
+9
+(A) ELIGIBILITY.—Each entity that meets 
+10
+the definition of an insurer under this Act may 
+11
+participate in the Program. 
+12
+(B) ELECTION.—The Secretary shall pro-
+13
+vide a process by which insurers may elect to 
+14
+participate in the Program, with respect to a 
+15
+calendar year. 
+16
+(4) TREATMENT OF EXISTING POLICIES.—This 
+17
+Act may not be construed to affect any policy for 
+18
+business interruption insurance in force on the date 
+19
+of the enactment of this Act. 
+20
+(b) CONDITIONS
+FOR FEDERAL PAYMENTS.—No 
+21
+payment may be made by the Secretary under this section 
+22
+with respect to an insured loss that is covered by a partici-
+23
+pating insurer, unless— 
+24
+18:55 Jun 17, 2020
+H7011
+12 
+•HR 7011 IH
+(1) the person that suffers the insured loss, or 
+1
+a person acting on behalf of that person, files a 
+2
+claim with the participating insurer; 
+3
+(2) the participating insurer provides clear and 
+4
+conspicuous disclosure to the policyholder of the pre-
+5
+mium charged for insured losses covered by the Pro-
+6
+gram and the Federal share of compensation for in-
+7
+sured losses under the Program— 
+8
+(A) in the case of any policy that is issued 
+9
+before the date of enactment of this Act, not 
+10
+later than 90 days after that date of enactment; 
+11
+(B) in the case of any policy that is issued 
+12
+within 90 days of the date of enactment of this 
+13
+Act, at the time of offer and renewal of the pol-
+14
+icy; and 
+15
+(C) in the case of any policy that is issued 
+16
+more than 90 days after the date of enactment 
+17
+of this Act, on a separate line item in the pol-
+18
+icy, at the time of offer and renewal of the pol-
+19
+icy; 
+20
+(3) in the case of any policy that is issued after 
+21
+the date of enactment of this Act, the participating 
+22
+insurer provides clear and conspicuous disclosure to 
+23
+the 
+policyholder 
+of 
+the 
+existence 
+of 
+the 
+24
+$750,000,000,000 cap under subsection (e)(2), at 
+25
+18:55 Jun 17, 2020
+H7011
+13 
+•HR 7011 IH
+the time of offer, purchase, and renewal of the pol-
+1
+icy; 
+2
+(4) the participating insurer processes the claim 
+3
+for the insured loss in accordance with appropriate 
+4
+business practices, and any reasonable procedures 
+5
+that the Secretary may prescribe; and 
+6
+(5) the participating insurer submits to the Sec-
+7
+retary, in accordance with such reasonable proce-
+8
+dures as the Secretary may establish— 
+9
+(A) a claim for payment of the Federal 
+10
+share of compensation for insured losses under 
+11
+the Program; 
+12
+(B) written certification— 
+13
+(i) of the underlying claim; and 
+14
+(ii) of all payments made for insured 
+15
+losses; and 
+16
+(C) certification of its compliance with the 
+17
+provisions of this subsection. 
+18
+(c) MANDATORY AVAILABILITY OF COVERAGE FOR 
+19
+COVERED PUBLIC HEALTH EMERGENCIES UNDER BUSI-
+20
+NESS INTERRUPTION COVERAGE.—During each calendar 
+21
+year, each participating insurer shall, with respect to such 
+22
+year— 
+23
+18:55 Jun 17, 2020
+H7011
+14 
+•HR 7011 IH
+(1) make available, in all of its business inter-
+1
+ruption insurance policies, coverage for insured 
+2
+losses; and 
+3
+(2) make available business interruption insur-
+4
+ance coverage for insured losses that does not differ 
+5
+materially from the terms, conditions, amounts, lim-
+6
+its, deductibles, or self-insured retentions and other 
+7
+coverage grants, limitations, and exclusions applica-
+8
+ble to losses arising from events other than public 
+9
+health emergencies. 
+10
+(d) STATE RESIDUAL MARKET INSURANCE ENTI-
+11
+TIES.— 
+12
+(1) IN
+GENERAL.—The Secretary shall issue 
+13
+regulations, as soon as practicable after the date of 
+14
+enactment of this Act, that apply the provisions of 
+15
+this Act to State residual market insurance entities 
+16
+and State workers’ compensation funds. 
+17
+(2) TREATMENT OF CERTAIN ENTITIES.—For 
+18
+purposes of the regulations issued pursuant to para-
+19
+graph (1)— 
+20
+(A) a State residual market insurance enti-
+21
+ty that does not share its profits and losses 
+22
+with private sector insurers shall be treated as 
+23
+a separate insurer; and 
+24
+18:55 Jun 17, 2020
+H7011
+15 
+•HR 7011 IH
+(B) a State residual market insurance enti-
+1
+ty that shares its profits and losses with private 
+2
+sector insurers shall not be treated as a sepa-
+3
+rate insurer, and shall report to each private 
+4
+sector insurance participant its share of the in-
+5
+sured losses of the entity, which shall be in-
+6
+cluded in each private sector participating in-
+7
+surer’s insured losses. 
+8
+(3) TREATMENT OF PARTICIPATION IN CERTAIN 
+9
+ENTITIES.—Any participating insurer that partici-
+10
+pates in sharing profits and losses of a State resid-
+11
+ual market insurance entity shall include in its cal-
+12
+culations of premiums any premiums distributed to 
+13
+the participating insurer by the State residual mar-
+14
+ket insurance entity. 
+15
+(e) REINSURANCE FOR INSURED LOSSES.— 
+16
+(1) FEDERAL SHARE OF COMPENSATION.— 
+17
+(A) IN GENERAL.—The Federal share of 
+18
+compensation under the Program to be paid by 
+19
+the Secretary for insured losses of an partici-
+20
+pating insurer during each calendar year shall 
+21
+be equal to 95 percent of that portion of the 
+22
+amount of such insured losses that exceeds the 
+23
+applicable insurer deductible required to be paid 
+24
+during such calendar year. 
+25
+18:55 Jun 17, 2020
+H7011
+16 
+•HR 7011 IH
+(B) PROGRAM TRIGGER.—In the case of a 
+1
+covered public health emergency commencing 
+2
+after the date on which the Secretary issues 
+3
+final 
+regulations 
+pursuant 
+to 
+paragraph 
+4
+(2)(B)(ii), no compensation shall be paid by the 
+5
+Secretary under subsection (a) unless the ag-
+6
+gregate industry insured losses for participating 
+7
+insurers resulting from such covered public 
+8
+health emergency exceed $250,000,000. 
+9
+(C) PROHIBITION ON DUPLICATIVE COM-
+10
+PENSATION.—The Federal share of compensa-
+11
+tion for insured losses under the Program shall 
+12
+be reduced by the amount of compensation pro-
+13
+vided by the Federal Government to any person 
+14
+under any other Federal program for those in-
+15
+sured losses. 
+16
+(2) CAP ON ANNUAL LIABILITY.— 
+17
+(A) IN GENERAL.—Notwithstanding para-
+18
+graph (1) or any other provision of Federal or 
+19
+State law, if the aggregate insured losses exceed 
+20
+$750,000,000,000, during a calendar year— 
+21
+(i) the Secretary shall not make any 
+22
+payment under this Act for any portion of 
+23
+the amount of such losses that exceeds 
+24
+$750,000,000,000; and 
+25
+18:55 Jun 17, 2020
+H7011
+17 
+•HR 7011 IH
+(ii) no participating insurer that has 
+1
+met its insurer deductible shall be liable 
+2
+for the payment of any amounts under 
+3
+subparagraph (B). 
+4
+(B) INSURER SHARE.— 
+5
+(i) IN
+GENERAL.—For purposes of 
+6
+subparagraph (A), the Secretary shall de-
+7
+termine the pro rata share of insured 
+8
+losses to be paid by each participating in-
+9
+surer that incurs insured losses under the 
+10
+Program, except that, notwithstanding 
+11
+paragraph (1) or any other provision of 
+12
+Federal or State law, no participating in-
+13
+surer may be required to make any pay-
+14
+ment for insured losses in excess of its de-
+15
+ductible under section 3(8) combined with 
+16
+its share of insured losses under paragraph 
+17
+(1)(A) of this subsection. 
+18
+(ii) REGULATIONS.—Not later than 
+19
+90 days after the date of enactment of this 
+20
+Act, the Secretary shall issue final regula-
+21
+tions for determining the pro rata share of 
+22
+insured losses under the Program when in-
+23
+sured losses exceed $750,000,000,000, in 
+24
+accordance with clause (i). 
+25
+18:55 Jun 17, 2020
+H7011
+18 
+•HR 7011 IH
+(iii) REPORT
+TO
+CONGRESS.—Not 
+1
+later than 120 days after the date of en-
+2
+actment of this Act, the Secretary shall 
+3
+provide a report to the Committee on 
+4
+Banking, Housing, and Urban Affairs of 
+5
+the Senate and the Committee on Finan-
+6
+cial Services of the House of Representa-
+7
+tives describing the process to be used by 
+8
+the Secretary for determining the alloca-
+9
+tion of pro rata payments for insured 
+10
+losses under the Program when such losses 
+11
+exceed $750,000,000,000. 
+12
+(3) NOTICE
+TO
+CONGRESS.—The Secretary 
+13
+shall notify the Congress if estimated or actual ag-
+14
+gregate insured losses exceed $750,000,000,000 dur-
+15
+ing any calendar year. The Secretary shall provide 
+16
+an initial notice to Congress not later than 15 days 
+17
+after the end of a covered public health emergency, 
+18
+stating whether the Secretary estimates that aggre-
+19
+gate insured losses will exceed $750,000,000,000. 
+20
+(4) FINAL NETTING.—The Secretary shall have 
+21
+sole discretion to determine the time at which claims 
+22
+relating to any insured loss or covered public health 
+23
+emergency shall become final. 
+24
+18:55 Jun 17, 2020
+H7011
+19 
+•HR 7011 IH
+(5) DETERMINATIONS FINAL.—Any determina-
+1
+tion of the Secretary under this subsection shall be 
+2
+final, unless expressly provided, and shall not be 
+3
+subject to judicial review. 
+4
+(f) CAPTIVE INSURERS AND OTHER SELF-INSUR-
+5
+ANCE ARRANGEMENTS.—The Secretary may, in consulta-
+6
+tion with the NAIC or the appropriate State regulatory 
+7
+authority, apply the provisions of this Act, as appropriate, 
+8
+to other classes or types of captive insurers and other self- 
+9
+insurance arrangements by municipalities and other enti-
+10
+ties (such as workers’ compensation self-insurance pro-
+11
+grams and State workers’ compensation reinsurance 
+12
+pools), but only if such application is determined before 
+13
+the commencement of a covered public health emergency 
+14
+in which such an entity incurs an insured loss and all of 
+15
+the provisions of this Act are applied comparably to such 
+16
+entities. 
+17
+(g) REINSURANCE TO COVER EXPOSURE.— 
+18
+(1) OBTAINING COVERAGE.—This Act may not 
+19
+be construed to limit or prevent insurers from ob-
+20
+taining reinsurance coverage for insurer deductibles 
+21
+or insured losses retained by insurers pursuant to 
+22
+this section, nor shall the obtaining of such coverage 
+23
+affect the calculation of such deductibles. 
+24
+22:11 Jun 18, 2020
+H7011
+20 
+•HR 7011 IH
+(2) LIMITATION ON FINANCIAL ASSISTANCE.— 
+1
+The amount of financial assistance provided pursu-
+2
+ant to this section shall not be reduced by reinsur-
+3
+ance paid or payable to an insurer from other 
+4
+sources, except that recoveries from such other 
+5
+sources, taken together with financial assistance for 
+6
+the calendar year provided pursuant to this section, 
+7
+may not exceed the aggregate amount of the insur-
+8
+er’s insured losses for the calendar year. If such re-
+9
+coveries and financial assistance for the calendar 
+10
+year exceed such aggregate amount of insured losses 
+11
+for the calendar year and there is no agreement be-
+12
+tween the insurer and any reinsurer to the contrary, 
+13
+an amount in excess of such aggregate insured 
+14
+losses shall be returned to the Secretary. 
+15
+SEC. 5. GENERAL AUTHORITY AND ADMINISTRATION OF 
+16
+CLAIMS. 
+17
+(a) GENERAL AUTHORITY.—The Secretary shall have 
+18
+the powers and authorities necessary to carry out the Pro-
+19
+gram, including authority— 
+20
+(1) to investigate and audit all claims under the 
+21
+Program; and 
+22
+(2) to prescribe regulations and procedures to 
+23
+effectively administer and implement the Program, 
+24
+and to ensure that all participating insurers and 
+25
+18:55 Jun 17, 2020
+H7011
+21 
+•HR 7011 IH
+self-insured entities are treated comparably under 
+1
+the Program. 
+2
+(b) INTERIM RULES AND PROCEDURES.—The Sec-
+3
+retary may issue interim final rules or procedures speci-
+4
+fying the manner in which— 
+5
+(1) insurers may file and certify claims under 
+6
+the Program; 
+7
+(2) the Federal share of compensation for in-
+8
+sured losses will be paid under the Program, includ-
+9
+ing payments based on estimates of or actual in-
+10
+sured losses; 
+11
+(3) the Secretary may, at any time, seek repay-
+12
+ment from or reimburse any insurer, based on esti-
+13
+mates of insured losses under the Program, to effec-
+14
+tuate the insured loss sharing provisions in section 
+15
+4; and 
+16
+(4) the Secretary will determine any final net-
+17
+ting of payments under the Program, including pay-
+18
+ments owed to the Federal Government from any in-
+19
+surer and any Federal share of compensation for in-
+20
+sured losses owed to any insurer, to effectuate the 
+21
+insured loss sharing provisions in section 4. 
+22
+(c) CONSULTATION.—The Secretary shall consult 
+23
+with the NAIC, as the Secretary determines appropriate, 
+24
+concerning the Program. 
+25
+18:55 Jun 17, 2020
+H7011
+22 
+•HR 7011 IH
+(d) CONTRACTS FOR SERVICES.—The Secretary may 
+1
+employ persons or contract for services as may be nec-
+2
+essary to implement the Program. 
+3
+(e) SUBMISSION OF PREMIUM INFORMATION.— 
+4
+(1) IN GENERAL.—The Secretary shall annually 
+5
+compile information on the business interruption in-
+6
+surance premium rates of insurers for the preceding 
+7
+year. 
+8
+(2) ACCESS TO INFORMATION.—To the extent 
+9
+that such information is not otherwise available to 
+10
+the Secretary, the Secretary may require each in-
+11
+surer to submit to the NAIC business interruption 
+12
+insurance premium rates, as necessary to carry out 
+13
+paragraph (1), and the NAIC shall make such infor-
+14
+mation available to the Secretary. 
+15
+(3) AVAILABILITY
+TO
+CONGRESS.—The Sec-
+16
+retary shall make information compiled under this 
+17
+subsection available to the Congress, upon request. 
+18
+(f) REPORTING OF BUSINESS INTERRUPTION INSUR-
+19
+ANCE DATA.— 
+20
+(1) AUTHORITY.—Beginning upon the date of 
+21
+the enactment of this Act, in each calendar year, the 
+22
+Secretary shall require participating insurers to sub-
+23
+mit to the Secretary such information regarding 
+24
+losses of such insurers, under insurance coverage for 
+25
+18:55 Jun 17, 2020
+H7011
+23 
+•HR 7011 IH
+business interruption, resulting from public health 
+1
+emergencies as the Secretary considers appropriate 
+2
+to analyze the effectiveness of the Program, which 
+3
+shall include information regarding— 
+4
+(A) lines of insurance with exposure to 
+5
+such losses; 
+6
+(B) premiums earned on such coverage; 
+7
+(C) geographical location of exposures; 
+8
+(D) pricing of such coverage; 
+9
+(E) the take-up rate for such coverage; 
+10
+(F) the amount of private reinsurance for 
+11
+losses resulting from public health emergencies 
+12
+purchased; and 
+13
+(G) such other matters as the Secretary 
+14
+considers appropriate. 
+15
+(2) REPORTS.—Not later than one year after 
+16
+the date of the enactment of this Act and annually 
+17
+thereafter, the Secretary shall submit a report to the 
+18
+Committee on Financial Services of the House of 
+19
+Representatives and the Committee on Banking, 
+20
+Housing, and Urban Affairs of the Senate that in-
+21
+cludes— 
+22
+(A) an analysis of the overall effectiveness 
+23
+of the Program; 
+24
+18:55 Jun 17, 2020
+H7011
+24 
+•HR 7011 IH
+(B) an evaluation of the availability and 
+1
+affordability of business interruption insurance 
+2
+for losses resulting from public health emer-
+3
+gencies; 
+4
+(C) an evaluation of any changes or trends 
+5
+in the data collected under paragraph (1); 
+6
+(D) an evaluation of whether any aspects 
+7
+of the Program have the effect of discouraging 
+8
+or impeding insurers from providing business 
+9
+interruption insurance coverage or coverage for 
+10
+public health emergencies; 
+11
+(E) an evaluation of the impact of the Pro-
+12
+gram on workers’ compensation insurers; and 
+13
+(F) in the case of the data reported in 
+14
+paragraph (1)(B), an updated estimate of the 
+15
+total amount earned since the first January 1 
+16
+occurring after the date of the enactment of 
+17
+this Act. 
+18
+(3) PROTECTION OF DATA.—To the extent pos-
+19
+sible, the Secretary shall contract with an insurance 
+20
+statistical aggregator to collect the information de-
+21
+scribed in paragraph (1), which shall keep any non-
+22
+public information confidential and provide it to the 
+23
+Secretary in an aggregate form or in such other 
+24
+18:55 Jun 17, 2020
+H7011
+25 
+•HR 7011 IH
+form or manner that does not permit identification 
+1
+of the insurer submitting such information. 
+2
+(4) 
+ADVANCE
+COORDINATION.—Before 
+col-
+3
+lecting any data or information under paragraph (1) 
+4
+from an insurer, or affiliate of an insurer, the Sec-
+5
+retary shall coordinate with the appropriate State in-
+6
+surance regulatory authorities and any relevant gov-
+7
+ernment agency or publicly available sources to de-
+8
+termine if the information to be collected is available 
+9
+from, and may be obtained in a timely manner by, 
+10
+individually or collectively, such entities. If the Sec-
+11
+retary determines that such data or information is 
+12
+available, and may be obtained in a timely matter, 
+13
+from such entities, the Secretary shall obtain the 
+14
+data or information from such entities. If the Sec-
+15
+retary determines that such data or information is 
+16
+not so available, the Secretary may collect such data 
+17
+or information from an insurer and affiliates. 
+18
+(5) CONFIDENTIALITY.— 
+19
+(A) RETENTION OF PRIVILEGE.—The sub-
+20
+mission of any non-publicly available data and 
+21
+information to the Secretary and the sharing of 
+22
+any non-publicly available data with or by the 
+23
+Secretary among other Federal agencies, the 
+24
+State insurance regulatory authorities, or any 
+25
+18:55 Jun 17, 2020
+H7011
+26 
+•HR 7011 IH
+other entities under this subsection shall not 
+1
+constitute a waiver of, or otherwise affect, any 
+2
+privilege arising under Federal or State law (in-
+3
+cluding the rules of any Federal or State court) 
+4
+to which the data or information is otherwise 
+5
+subject. 
+6
+(B) CONTINUED
+APPLICATION
+OF
+PRIOR 
+7
+CONFIDENTIALITY AGREEMENTS.—Any require-
+8
+ment under Federal or State law to the extent 
+9
+otherwise applicable, or any requirement pursu-
+10
+ant to a written agreement in effect between 
+11
+the original source of any non-publicly available 
+12
+data or information and the source of such data 
+13
+or information to the Secretary, regarding the 
+14
+privacy or confidentiality of any data or infor-
+15
+mation in the possession of the source to the 
+16
+Secretary, shall continue to apply to such data 
+17
+or information after the data or information 
+18
+has been provided pursuant to this subsection. 
+19
+(C) 
+INFORMATION-SHARING
+AGREE-
+20
+MENT.—Any data or information obtained by 
+21
+the Secretary under this subsection may be 
+22
+made available to State insurance regulatory 
+23
+authorities, individually or collectively, through 
+24
+an information-sharing agreement that— 
+25
+18:55 Jun 17, 2020
+H7011
+27 
+•HR 7011 IH
+(i) shall comply with applicable Fed-
+1
+eral law; and 
+2
+(ii) shall not constitute a waiver of, or 
+3
+otherwise affect, any privilege under Fed-
+4
+eral or State law (including any privilege 
+5
+referred to in subparagraph (A) and the 
+6
+rules of any Federal or State court) to 
+7
+which the data or information is otherwise 
+8
+subject. 
+9
+(D) 
+AGENCY
+DISCLOSURE
+REQUIRE-
+10
+MENTS.—Section 552 of title 5, United States 
+11
+Code, including any exceptions thereunder, shall 
+12
+apply to any data or information submitted 
+13
+under this subsection to the Secretary by an in-
+14
+surer or affiliate of an insurer. 
+15
+(g) FUNDING.— 
+16
+(1) FEDERAL
+PAYMENTS.—There are hereby 
+17
+appropriated, out of funds in the Treasury not oth-
+18
+erwise appropriated, such sums as may be necessary 
+19
+to pay the Federal share of compensation for in-
+20
+sured losses under the Program. 
+21
+(2) ADMINISTRATIVE
+EXPENSES.—There are 
+22
+hereby appropriated, out of funds in the Treasury 
+23
+not otherwise appropriated, such sums as may be 
+24
+18:55 Jun 17, 2020
+H7011
+28 
+•HR 7011 IH
+necessary to pay reasonable costs of administering 
+1
+the Program. 
+2
+SEC. 6. PREEMPTION AND NULLIFICATION OF PRE-EXIST-
+3
+ING EXCLUSIONS. 
+4
+(a) GENERAL NULLIFICATION.—Any exclusion in a 
+5
+contract of a participating insurer for business interrup-
+6
+tion insurance that is in force on the date of enactment 
+7
+of this Act shall be void to the extent that it excludes 
+8
+losses that would otherwise be insured losses under the 
+9
+Program. 
+10
+(b) GENERAL PREEMPTION.—Any State approval of 
+11
+any exclusion from a contract of a participating insurer 
+12
+for business interruption insurance that is in force on the 
+13
+date of enactment of this Act, shall be void to the extent 
+14
+that it excludes losses that would otherwise be insured 
+15
+losses under the Program. 
+16
+(c) REINSTATEMENT
+OF
+EXCLUSIONS.—Notwith-
+17
+standing subsections (a) and (b) or any provision of State 
+18
+law, a participating insurer may reinstate a preexisting 
+19
+provision in a contract for business interruption insurance 
+20
+that is in force on the date of enactment of this Act and 
+21
+that excludes coverage for loss resulting from a covered 
+22
+public health emergency only— 
+23
+18:55 Jun 17, 2020
+H7011
+29 
+•HR 7011 IH
+(1) if the participating insurer has received a 
+1
+written statement from the insured that affirma-
+2
+tively authorizes such reinstatement; or 
+3
+(2) for contracts in effect for less than 5 
+4
+months— 
+5
+(A) the insured fails to pay any increased 
+6
+premium charged by the participating insurer 
+7
+for providing such coverage for covered public 
+8
+health emergencies, but only if such premium 
+9
+does not increase by more than 15 percent; and 
+10
+(B) the participating insurer provided no-
+11
+tice, at least 30 days before any such reinstate-
+12
+ment, of— 
+13
+(i) the increased premium for such 
+14
+covered public health emergency coverage; 
+15
+and 
+16
+(ii) the rights of the insured with re-
+17
+spect to such coverage, including any date 
+18
+upon which the exclusion would be rein-
+19
+stated if no payment is received. 
+20
+SEC. 7. PRESERVATION PROVISIONS. 
+21
+(a) STATE LAW.—Nothing in this Act shall affect the 
+22
+jurisdiction or regulatory authority of the insurance com-
+23
+missioner (or any agency or office performing like func-
+24
+tions) of any State over any insurer or other person— 
+25
+18:55 Jun 17, 2020
+H7011
+30 
+•HR 7011 IH
+(1) except as specifically provided in this Act; 
+1
+and 
+2
+(2) except that— 
+3
+(A) the definition of the term ‘‘covered 
+4
+public health emergency’’ in section 3 shall be 
+5
+the exclusive definition of that term for pur-
+6
+poses of compensation for insured losses under 
+7
+this Act, and shall preempt any provision of 
+8
+State law that is inconsistent with that defini-
+9
+tion, to the extent that such provision of law 
+10
+would otherwise apply to any type of insurance 
+11
+covered by this Act; 
+12
+(B) during the period beginning on the 
+13
+date of enactment of this Act and ending on 
+14
+December 31, 2020, rates and forms for busi-
+15
+ness interruption insurance covered by this Act 
+16
+and filed with any State shall not be subject to 
+17
+prior approval or a waiting period under any 
+18
+law of a State that would otherwise be applica-
+19
+ble, except that nothing in this Act affects the 
+20
+ability of any State to invalidate a rate as ex-
+21
+cessive, inadequate, or unfairly discriminatory, 
+22
+and, with respect to forms, where a State has 
+23
+prior approval authority, it shall apply to allow 
+24
+subsequent review of such forms; and 
+25
+18:55 Jun 17, 2020
+H7011
+31 
+•HR 7011 IH
+(C) during the period beginning on the 
+1
+date of enactment of this Act and for so long 
+2
+as the Program is in effect, as provided in sec-
+3
+tion 9, including authority in subsection 208(b), 
+4
+books and records of any insurer that are rel-
+5
+evant to the Program shall be provided, or 
+6
+caused to be provided, to the Secretary, upon 
+7
+request by the Secretary, notwithstanding any 
+8
+provision of the laws of any State prohibiting or 
+9
+limiting such access. 
+10
+(b) EXISTING REINSURANCE AGREEMENTS.—Noth-
+11
+ing in this Act shall be construed to alter, amend, or ex-
+12
+pand the terms of coverage under any reinsurance agree-
+13
+ment in effect on the date of enactment of this Act. The 
+14
+terms and conditions of such an agreement shall be deter-
+15
+mined by the language of that agreement. 
+16
+SEC. 8. STUDY AND ANALYSES. 
+17
+(a) STUDY AND REPORT ON THE PROGRAM.— 
+18
+(1) STUDY.—The Secretary, in consultation 
+19
+with the NAIC, representatives of the insurance in-
+20
+dustry and of policy holders, other experts in the in-
+21
+surance field, and other experts as needed, shall as-
+22
+sess the effectiveness of the Program and the likely 
+23
+capacity of the property and casualty insurance in-
+24
+dustry to offer insurance for risk of public health 
+25
+18:55 Jun 17, 2020
+H7011
+32 
+•HR 7011 IH
+emergencies after termination of the Program, and 
+1
+the availability and affordability of such insurance 
+2
+for various policyholders. 
+3
+(2) REPORT.—The Secretary shall submit a re-
+4
+port to the Congress on the results of the study con-
+5
+ducted under paragraph (1) not later than the expi-
+6
+ration of the 12-month period beginning on the date 
+7
+of the enactment of this Act. 
+8
+(b) ANALYSIS OF MARKET CONDITIONS FOR PUBLIC 
+9
+HEALTH EMERGENCY RISK INSURANCE.— 
+10
+(1) IN
+GENERAL.—The President’s Working 
+11
+Group on Financial Markets, in consultation with 
+12
+the National Association of Insurance Commis-
+13
+sioners, representatives of the insurance industry, 
+14
+representatives of the securities industry, and rep-
+15
+resentatives of policy holders, shall perform an ongo-
+16
+ing analysis regarding the long-term availability and 
+17
+affordability of insurance for risk of public health 
+18
+emergencies. 
+19
+(2) REPORT.—Not later than the expiration of 
+20
+the 12-month period beginning on the date of the 
+21
+enactment of this Act and every two years there-
+22
+after, the President’s Working Group on Financial 
+23
+Markets shall submit a report to the Committee on 
+24
+Banking, Housing, and Urban Affairs of the Senate 
+25
+18:55 Jun 17, 2020
+H7011
+33 
+•HR 7011 IH
+and the Committee on Financial Services of the 
+1
+House of Representatives on its findings pursuant to 
+2
+the analysis conducted under paragraph (1). 
+3
+(c) AVAILABILITY
+AND AFFORDABILITY
+OF BUSI-
+4
+NESS INTERRUPTION INSURANCE
+IN SPECIFIC MAR-
+5
+KETS.— 
+6
+(1) STUDY.—The Comptroller General of the 
+7
+United States shall conduct a study to determine 
+8
+whether there are specific markets in the United 
+9
+States where there are unique capacity constraints 
+10
+on the amount of business interruption insurance 
+11
+available. 
+12
+(2) ELEMENTS OF STUDY.—The study required 
+13
+by paragraph (1) shall contain— 
+14
+(A) an analysis of both insurance and rein-
+15
+surance capacity in specific markets, including 
+16
+pricing and coverage limits in existing policies; 
+17
+(B) an assessment of the factors contrib-
+18
+uting to any capacity constraints that are iden-
+19
+tified; and 
+20
+(C) recommendations for addressing those 
+21
+capacity constraints. 
+22
+(3) REPORT.—Not later than 180 days after 
+23
+the date of enactment of this Act, the Comptroller 
+24
+General shall submit a report on the study required 
+25
+18:55 Jun 17, 2020
+H7011
+34 
+•HR 7011 IH
+by paragraph (1) to the Committee on Banking, 
+1
+Housing, and Urban Affairs of the Senate and the 
+2
+Committee on Financial Services of the House of 
+3
+Representatives. 
+4
+(d) STUDY OF SMALL INSURER MARKET COMPETI-
+5
+TIVENESS.— 
+6
+(1) IN GENERAL.—Not later than the expira-
+7
+tion of the 12-month period beginning on the date 
+8
+of the enactment of this Act and every two years 
+9
+thereafter, the Secretary shall conduct a study of 
+10
+small insurers (as such term is defined by regulation 
+11
+by the Secretary) participating in the Program, and 
+12
+identify any competitive challenges small insurers 
+13
+face in the business interruption insurance market-
+14
+place, including— 
+15
+(A) changes to the market share, premium 
+16
+volume, and policyholder surplus of small insur-
+17
+ers relative to large insurers; 
+18
+(B) how the business interruption insur-
+19
+ance market for risk of public health emer-
+20
+gencies differs between small and large insur-
+21
+ers, and whether such a difference exists within 
+22
+other perils; 
+23
+(C) the impact of the Program’s avail-
+24
+ability on small insurers; 
+25
+18:55 Jun 17, 2020
+H7011
+35 
+•HR 7011 IH
+(D) the effect of increasing the trigger 
+1
+amount 
+for 
+the 
+Program 
+under 
+section 
+2
+4(e)(1)(B) on small insurers; 
+3
+(E) the availability and cost of private re-
+4
+insurance for small insurers; and 
+5
+(F) the impact that State workers com-
+6
+pensation laws have on small insurers and 
+7
+workers compensation carriers in the business 
+8
+interruption insurance marketplace. 
+9
+(2) REPORT.—The Secretary shall submit a re-
+10
+port to the Congress setting forth the findings and 
+11
+conclusions of each study required under paragraph 
+12
+(1). 
+13
+SEC. 9. TERMINATION OF PROGRAM. 
+14
+(a) TERMINATION.—The Program shall terminate on 
+15
+December 31, 2027. 
+16
+(b) CONTINUING AUTHORITY TO PAY OR ADJUST 
+17
+COMPENSATION.—Following the termination of the Pro-
+18
+gram, the Secretary may take such actions as may be nec-
+19
+essary to ensure payment, recoupment, reimbursement, or 
+20
+adjustment of compensation for insured losses arising out 
+21
+of any covered public health emergency occurring during 
+22
+the period in which the Program was in effect under this 
+23
+Act, in accordance with the provisions of section 4 and 
+24
+regulations promulgated thereunder. 
+25
+18:55 Jun 17, 2020
+H7011
+36 
+•HR 7011 IH
+(c) REPEAL; SAVINGS CLAUSE.—This Act is repealed 
+1
+on the final termination date of the Program under sub-
+2
+section (a), except that such repeal shall not be con-
+3
+strued— 
+4
+(1) to prevent the Secretary from taking, or 
+5
+causing to be taken, such actions under subsection 
+6
+(b) of this section, paragraph (4) or (5) of section 
+7
+4(e), or subsection (a)(1), (c), (d), or (e) of section 
+8
+5, as in effect on the day before the date of such re-
+9
+peal, or applicable regulations promulgated there-
+10
+under, during any period in which the authority of 
+11
+the Secretary under subsection (b) of this section is 
+12
+in effect; or 
+13
+(2) to prevent the availability of funding under 
+14
+section 5(g) during any period in which the author-
+15
+ity of the Secretary under subsection (b) of this sec-
+16
+tion is in effect. 
+17
+Æ 
+18:55 Jun 17, 2020
+H7011

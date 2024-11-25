@@ -1,0 +1,673 @@
+A BILL 
+To require the Secretary of Homeland Security to promptly 
+notify appropriate State and local officials and Members 
+of Congress if Federal officials have credible evidence 
+of an unauthorized intrusion into an election system 
+and a basis to believe that such intrusion could have 
+resulted in voter information being altered or otherwise 
+affected, to require State and local officials to notify 
+potentially affected individuals of such intrusion, and 
+for other purposes. 
+03:01 Jul 09, 2019
+H3529
+2 
+•HR 3529 IH
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Achieving Lasting 
+4
+Electoral Reforms on Transparency and Security Act’’ or 
+5
+the ‘‘ALERTS Act’’. 
+6
+SEC. 2. FINDINGS; SENSE OF CONGRESS. 
+7
+(a) FINDINGS.—Congress finds as follows: 
+8
+(1) Free and fair elections are central to our 
+9
+democratic system of government. 
+10
+(2) An attack on election systems in the United 
+11
+States by a foreign government is a hostile act, and 
+12
+protecting our election systems from such attacks is 
+13
+a critical national security objective. 
+14
+(3) The March 2019 ‘‘Report on the Investiga-
+15
+tion into Russian Interference in the 2016 Presi-
+16
+dential Election’’, known as the Mueller Report, con-
+17
+cludes that Russian military intelligence officers tar-
+18
+geted individuals and entities involved in the admin-
+19
+istration of the November 2016 elections, including 
+20
+State boards of elections, Secretaries of State, coun-
+21
+ty governments, and private technology firms re-
+22
+sponsible for manufacturing and administering elec-
+23
+tion-related software and hardware. 
+24
+03:01 Jul 09, 2019
+H3529
+3 
+•HR 3529 IH
+(4) The Mueller Report states that Russian 
+1
+military intelligence officers sent spearphishing 
+2
+emails to over 120 email accounts used by Florida 
+3
+county officials responsible for administering the 
+4
+2016 elections, and further states that the Federal 
+5
+Bureau of Investigation ‘‘believes that this operation 
+6
+enabled Russian military intelligence officers to gain 
+7
+access to the network of at least one Florida county 
+8
+government’’. 
+9
+(5) In May 2019, it came to light that Russian 
+10
+military intelligence officers had gained access to the 
+11
+computer network of a second Florida county in the 
+12
+run-up to the 2016 elections. 
+13
+(6) To date, government officials have not pub-
+14
+licly disclosed or confirmed the identity of the Flor-
+15
+ida counties whose voter registration systems were 
+16
+breached. 
+17
+(7) As a result, voters in affected counties do 
+18
+not possess the information necessary to take appro-
+19
+priate responsive action, such as taking affirmative 
+20
+steps to confirm that their individual registration 
+21
+data is accurate and holding State and local election 
+22
+officials accountable for their actions or inactions. 
+23
+(b) SENSE OF CONGRESS.—It is the sense of Con-
+24
+gress that the principal victim of an attack on election 
+25
+03:01 Jul 09, 2019
+H3529
+4 
+•HR 3529 IH
+systems in the United States is the voting public and, ex-
+1
+cept in certain narrowly defined cases, the voting public 
+2
+should be promptly informed if Federal officials have cred-
+3
+ible evidence of an unauthorized intrusion into an election 
+4
+system and a basis to believe that such intrusion could 
+5
+have resulted in voter information systems or voter tabula-
+6
+tion systems being altered or otherwise affected. 
+7
+SEC. 3. DEFINITIONS. 
+8
+In this Act, the following definitions apply: 
+9
+(1) APPROPRIATE MEMBERS OF CONGRESS.— 
+10
+The term ‘‘appropriate Members of Congress’’ 
+11
+means, with respect to a notification described in 
+12
+section 3(b)(2)— 
+13
+(A) the Speaker of the House of Rep-
+14
+resentatives, the Minority Leader of the House 
+15
+of Representatives, the chairs and ranking mi-
+16
+nority members of the Committees on House 
+17
+Administration, Homeland Security, the Judici-
+18
+ary, and Permanent Select Committee on Intel-
+19
+ligence of the House of Representatives, and 
+20
+each Member of the House of Representatives 
+21
+(including a Delegate or Resident Commissioner 
+22
+to the Congress) who represents a congressional 
+23
+district in which the unit of local government 
+24
+involved is located; and 
+25
+03:01 Jul 09, 2019
+H3529
+5 
+•HR 3529 IH
+(B) the Majority Leader of the Senate, the 
+1
+Minority Leader of the Senate, the chairs and 
+2
+ranking minority members of the Committees 
+3
+on Rules and Administration, Homeland Secu-
+4
+rity and Governmental Affairs, the Judiciary, 
+5
+and Select Committee on Intelligence of the 
+6
+Senate, and the Senators who represent the 
+7
+State involved. 
+8
+(2) DEPARTMENT.—The term ‘‘Department’’ 
+9
+means the Department of Homeland Security. 
+10
+(3) ELECTION
+AGENCY.—The term ‘‘election 
+11
+agency’’ means any component of a State or any 
+12
+component of a unit of local government of a State 
+13
+that is responsible for administering Federal elec-
+14
+tions. 
+15
+(4) ELECTION
+CYBERSECURITY
+INCIDENT.— 
+16
+The term ‘‘election cybersecurity incident’’ means 
+17
+any incident, as defined in section 2209(a)(3) of the 
+18
+Homeland 
+Security 
+Act 
+of 
+2002 
+(6 
+U.S.C. 
+19
+659(a)(3)), involving an election system. 
+20
+(5) ELECTION
+SYSTEM.—The term ‘‘election 
+21
+system’’ means a voting system, an election manage-
+22
+ment system, a voter registration website or data-
+23
+base, an electronic pollbook, a system for tabulating 
+24
+or reporting election results, an election agency com-
+25
+03:01 Jul 09, 2019
+H3529
+6 
+•HR 3529 IH
+munications system, or any other information sys-
+1
+tem (as defined in section 3502 of title 44, United 
+2
+States Code) that the Secretary identifies as central 
+3
+to the management, support, or administration of a 
+4
+Federal election. 
+5
+(6) FEDERAL ELECTION.—The term ‘‘Federal 
+6
+election’’ means any election (as defined in section 
+7
+301(1) of the Federal Election Campaign Act of 
+8
+1971 (52 U.S.C. 30101(1))) for Federal office (as 
+9
+defined in section 301(3) of the Federal Election 
+10
+Campaign Act of 1971 (52 U.S.C. 30101(3))). 
+11
+(7) FEDERAL ENTITY.—The term ‘‘Federal en-
+12
+tity’’ means any agency (as defined in section 551 
+13
+of title 5, United States Code). 
+14
+(8) LOCAL
+ELECTION
+OFFICIAL.—The term 
+15
+‘‘local election official’’ means the chief election offi-
+16
+cial of a component of a unit of local government of 
+17
+a State that is responsible for administering Federal 
+18
+elections. 
+19
+(9) SECRETARY.—The term ‘‘Secretary’’ means 
+20
+the Secretary of Homeland Security. 
+21
+(10) STATE.—The term ‘‘State’’ means each of 
+22
+the several States, the District of Columbia, Puerto 
+23
+Rico, Guam, American Samoa, the Commonwealth 
+24
+03:01 Jul 09, 2019
+H3529
+7 
+•HR 3529 IH
+of the Northern Mariana Islands, and the United 
+1
+States Virgin Islands. 
+2
+(11) STATE
+ELECTION
+OFFICIAL.—The term 
+3
+‘‘State election official’’ means— 
+4
+(A) the chief State election official of a 
+5
+State designated under section 10 of the Na-
+6
+tional Voter Registration Act of 1993 (52 
+7
+U.S.C. 20509); or 
+8
+(B) in the case of Puerto Rico, Guam, 
+9
+American Samoa, the Northern Mariana Is-
+10
+lands, and the United States Virgin Islands, a 
+11
+chief State election official designated by the 
+12
+State for purposes of this Act. 
+13
+(12) VOTING SYSTEM.—The term ‘‘voting sys-
+14
+tem’’ has the meaning given the term in section 
+15
+301(b) of the Help America Vote Act of 2002 (52 
+16
+U.S.C. 21081(b)). 
+17
+SEC. 4. DUTY OF SECRETARY OF HOMELAND SECURITY TO 
+18
+NOTIFY STATE AND LOCAL OFFICIALS AND 
+19
+APPROPRIATE MEMBERS OF CONGRESS OF 
+20
+UNAUTHORIZED INTRUSIONS INTO ELECTION 
+21
+SYSTEMS. 
+22
+(a) DUTY TO SHARE INFORMATION WITH DEPART-
+23
+MENT OF HOMELAND SECURITY.—If a Federal entity re-
+24
+ceives information about an election cybersecurity inci-
+25
+03:01 Jul 09, 2019
+H3529
+8 
+•HR 3529 IH
+dent, the Federal entity shall promptly share that infor-
+1
+mation with the Department, unless the head of the entity 
+2
+(or a Senate-confirmed official designated by the head) 
+3
+makes a specific determination in writing that there is 
+4
+good cause to withhold the particular information. 
+5
+(b) RESPONSE TO RECEIPT OF INFORMATION BY 
+6
+SECRETARY OF HOMELAND SECURITY.— 
+7
+(1) IN GENERAL.—Upon receiving information 
+8
+about an election cybersecurity incident under sub-
+9
+section (a), the Secretary, in consultation with the 
+10
+Attorney General and the Director of National Intel-
+11
+ligence, shall promptly (but in no case later than 96 
+12
+hours after receiving the information) review the in-
+13
+formation and make a determination whether each 
+14
+of the following apply: 
+15
+(A) There is credible evidence that an un-
+16
+authorized intrusion into an election system oc-
+17
+curred. 
+18
+(B) There is a basis to believe that the un-
+19
+authorized intrusion resulted, could have re-
+20
+sulted, or could result in voter information sys-
+21
+tems or voter tabulation systems being altered 
+22
+or otherwise affected. 
+23
+(2) DUTY TO NOTIFY STATE AND LOCAL OFFI-
+24
+CIALS AND APPROPRIATE MEMBERS OF CONGRESS.— 
+25
+03:01 Jul 09, 2019
+H3529
+9 
+•HR 3529 IH
+(A) DUTY DESCRIBED.—If the Secretary 
+1
+makes a determination under paragraph (1) 
+2
+that subparagraphs (A) and (B) of such para-
+3
+graph apply with respect to an unauthorized in-
+4
+trusion into an election system, not later than 
+5
+48 hours after making the determination, the 
+6
+Secretary shall provide a notification of the un-
+7
+authorized intrusion to each of the following: 
+8
+(i) The chief executive of the State in-
+9
+volved. 
+10
+(ii) The State election official of the 
+11
+State involved. 
+12
+(iii) The local election official of the 
+13
+election agency involved. 
+14
+(iv) The appropriate Members of Con-
+15
+gress. 
+16
+(B) TREATMENT OF CLASSIFIED INFORMA-
+17
+TION.— 
+18
+(i) EFFORTS TO AVOID INCLUSION OF 
+19
+CLASSIFIED
+INFORMATION.—In preparing 
+20
+a notification provided under this para-
+21
+graph to an individual described in clause 
+22
+(i), (ii), or (iii) of subparagraph (A), the 
+23
+Secretary shall attempt to avoid the inclu-
+24
+sion of classified information. 
+25
+03:01 Jul 09, 2019
+H3529
+10 
+•HR 3529 IH
+(ii) PROVIDING GUIDANCE TO STATE 
+1
+AND
+LOCAL
+OFFICIALS.—To the extent 
+2
+that a notification provided under this 
+3
+paragraph to an individual described in 
+4
+clause (i), (ii), or (iii) of subparagraph (A) 
+5
+includes classified information, the Sec-
+6
+retary (in consultation with the Attorney 
+7
+General and the Director of National Intel-
+8
+ligence) shall indicate in the notification 
+9
+which information is classified. 
+10
+(3) EXCEPTION.— 
+11
+(A) IN
+GENERAL.—If the Secretary, in 
+12
+consultation with the Attorney General and the 
+13
+Director of National Intelligence, makes a de-
+14
+termination that it is not possible to provide a 
+15
+notification under paragraph (1) with respect to 
+16
+an unauthorized intrusion without compro-
+17
+mising intelligence methods or sources or inter-
+18
+fering with an ongoing investigation, the Sec-
+19
+retary— 
+20
+(i) shall not provide the notification 
+21
+under such paragraph; and 
+22
+(ii) shall, not later than 48 hours 
+23
+after making the determination under this 
+24
+subparagraph, provide a classified briefing 
+25
+03:01 Jul 09, 2019
+H3529
+11 
+•HR 3529 IH
+on the unauthorized intrusion to the ap-
+1
+propriate Members of Congress. 
+2
+(B) ONGOING REVIEW.—Not later than 30 
+3
+days after making a determination under sub-
+4
+paragraph (A) and every 30 days thereafter, 
+5
+the Secretary shall review the determination. If, 
+6
+after reviewing the determination, the Secretary 
+7
+makes a revised determination that it is pos-
+8
+sible to provide a notification under paragraph 
+9
+(2) without compromising intelligence methods 
+10
+or sources or interfering with an ongoing inves-
+11
+tigation, the Secretary shall provide the notifi-
+12
+cation under paragraph (2) not later than 48 
+13
+hours after making such revised determination. 
+14
+(c) EFFECTIVE DATE.—This section shall apply with 
+15
+respect to information about an election cybersecurity inci-
+16
+dent which is received on or after the date of the enact-
+17
+ment of this Act. 
+18
+SEC. 5. RESPONSIBILITIES OF STATE AND LOCAL OFFI-
+19
+CIALS TO NOTIFY AFFECTED INDIVIDUALS. 
+20
+(a) RESPONSIBILITIES DESCRIBED.—Title III of the 
+21
+Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.) 
+22
+is amended by inserting after section 303 the following 
+23
+new section: 
+24
+03:01 Jul 09, 2019
+H3529
+12 
+•HR 3529 IH
+‘‘SEC. 303A. RESPONSIBILITIES OF STATE AND LOCAL OFFI-
+1
+CIALS TO NOTIFY INDIVIDUALS AFFECTED BY 
+2
+UNAUTHORIZED INTRUSIONS INTO ELECTION 
+3
+SYSTEMS. 
+4
+‘‘(a) RESPONSIBILITIES DESCRIBED.—If a State or 
+5
+unit of local government receives a notification from the 
+6
+Secretary of Homeland Security under section 4 of the 
+7
+Achieving Lasting Electoral Reforms on Transparency 
+8
+and Security Act of an unauthorized intrusion described 
+9
+in such section, the State election official and the appro-
+10
+priate local election official shall provide notification of the 
+11
+intrusion to the individuals who were affected, could have 
+12
+been affected, or may be affected by the intrusion. 
+13
+‘‘(b) CONTENTS AND MANNER OF NOTIFICATION.— 
+14
+The notification provided under this section shall be in 
+15
+such form and manner as the State election official may 
+16
+establish, except that— 
+17
+‘‘(1) the notification shall not reveal classified 
+18
+information about the nature of the intrusion or the 
+19
+persons suspected of making the intrusion; 
+20
+‘‘(2) the notification shall be provided in a man-
+21
+ner that does not discourage any individual from 
+22
+voting or registering to vote; and 
+23
+‘‘(3) nothing in this section shall be construed 
+24
+to require an election official to provide a separate 
+25
+notification to each affected individual. 
+26
+03:01 Jul 09, 2019
+H3529
+13 
+•HR 3529 IH
+‘‘(c) DEADLINE.—The State election official or the 
+1
+appropriate election official shall provide the notification 
+2
+required under this section as soon as practicable after 
+3
+the official receives the notification from the Secretary of 
+4
+Homeland Security under section 4 of the Achieving Last-
+5
+ing Electoral Reforms on Transparency and Security Act, 
+6
+but in no event later than— 
+7
+‘‘(1) 48 hours before the date of the next elec-
+8
+tion for public office held in the State or unit of 
+9
+local government involved; or 
+10
+‘‘(2) 30 days after receiving the notification, 
+11
+whichever is earlier. 
+12
+‘‘(d) DEFINITIONS.—In this section, the terms ‘State’ 
+13
+and ‘State election official’ each have the meaning given 
+14
+such term in the Achieving Lasting Electoral Reforms on 
+15
+Transparency and Security Act.’’. 
+16
+(b) CONFORMING AMENDMENT RELATING TO EN-
+17
+FORCEMENT.—Section 401 of such Act (52 U.S.C. 21111) 
+18
+is amended by striking ‘‘sections 301, 302, and 303’’ and 
+19
+inserting ‘‘subtitle A of title III’’. 
+20
+(c) CLERICAL AMENDMENT.—The table of contents 
+21
+of such Act is amended by inserting after the item relating 
+22
+to section 303 the following new item: 
+23
+‘‘303A. Responsibilities of State and local officials to notify individuals affected 
+by unauthorized intrusions into election systems.’’. 
+Æ 
+03:01 Jul 09, 2019
+H3529

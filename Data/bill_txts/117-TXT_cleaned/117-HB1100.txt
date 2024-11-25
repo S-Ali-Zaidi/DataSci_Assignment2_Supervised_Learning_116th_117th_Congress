@@ -1,0 +1,607 @@
+A BILL 
+To amend the Americans with Disabilities Act of 1990 to 
+include consumer facing websites and mobile applications 
+owned or operated by a private entity, to establish web 
+accessibility compliance standards for such websites and 
+mobile applications, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Online Accessibility 
+4
+Act’’. 
+5
+04:05 Mar 17, 2021
+H1100
+2 
+•HR 1100 IH
+SEC. 2. AMENDMENT TO THE AMERICANS WITH DISABIL-
+1
+ITIES ACT OF 1990 RELATING TO CONSUMER 
+2
+FACING WEBSITES AND MOBILE APPLICA-
+3
+TIONS OWNED OR OPERATED BY A PRIVATE 
+4
+ENTITY. 
+5
+The Americans with Disabilities Act of 1990 (42 
+6
+U.S.C. 12101 et seq.) is amended by adding at the end 
+7
+the following new title: 
+8
+‘‘TITLE VI—CONSUMER FACING 
+9
+WEBSITES AND MOBILE AP-
+10
+PLICATIONS OWNED OR OP-
+11
+ERATED BY A PRIVATE ENTI-
+12
+TY 
+13
+‘‘SEC. 
+601. 
+REQUIREMENTS 
+FOR 
+CONSUMER 
+FACING 
+14
+WEBSITES 
+AND 
+MOBILE 
+APPLICATIONS 
+15
+OWNED OR OPERATED BY A PRIVATE ENTITY. 
+16
+‘‘(a) GENERAL RULE.—No individual, by reason of 
+17
+a disability, shall be excluded from participation in or be 
+18
+denied the full and equal benefits of the services of a con-
+19
+sumer facing website or mobile application, or be subjected 
+20
+to discrimination by any private owner or operator of a 
+21
+consumer facing website or mobile application. 
+22
+‘‘(b) STANDARD FOR COMPLIANCE.— 
+23
+‘‘(1) IN GENERAL.—A consumer facing website 
+24
+or mobile application shall be considered compliant 
+25
+under the requirements of this section if such 
+26
+04:05 Mar 17, 2021
+H1100
+3 
+•HR 1100 IH
+website or mobile application is in substantial com-
+1
+pliance with the Web Content Accessibility Guide-
+2
+lines (referred to in this title as WCAG) 2.0 Level 
+3
+A and Level AA standard established by the Accessi-
+4
+bility Guidelines Working Group, or any subsequent 
+5
+update, revision, or replacement to the WCAG 2.0 
+6
+Level A and Level AA standard published by the 
+7
+World Wide Web Consortium or successor organiza-
+8
+tion. 
+9
+‘‘(2) ALTERNATIVE MEANS OF ACCESS.—A pri-
+10
+vate entity that owns or operates a consumer facing 
+11
+website or mobile application that is not in substan-
+12
+tial compliance with the standard set forth under 
+13
+paragraph (1) shall provide an alternative means of 
+14
+access for individuals with disabilities that is equiva-
+15
+lent to access the content available on such website 
+16
+or mobile application. 
+17
+‘‘(c) REGULATION.— 
+18
+‘‘(1) ACCESS BOARD.— 
+19
+‘‘(A) IN GENERAL.—The Architectural and 
+20
+Transportation Barriers Compliance Board (re-
+21
+ferred to in this title as the ‘Access Board’), 
+22
+shall issue and publish standards setting 
+23
+forth— 
+24
+04:05 Mar 17, 2021
+H1100
+4 
+•HR 1100 IH
+‘‘(i) for purposes of this title, a defini-
+1
+tion of ‘substantial compliance’, ‘alter-
+2
+native means of access’, and ‘consumer 
+3
+facing website or mobile application’; and 
+4
+‘‘(ii) regulations necessary to imple-
+5
+ment the standard set forth in subsection 
+6
+(b). 
+7
+‘‘(B) TIMING OF REGULATIONS.—For pur-
+8
+poses of this title: 
+9
+‘‘(i) Not later than 180 days after the 
+10
+date of the enactment of this Act, the Ac-
+11
+cess Board shall promulgate a notice of 
+12
+proposed rulemaking. 
+13
+‘‘(ii) Upon issuance of the notice 
+14
+under clause (i), the Access Board shall so-
+15
+licit comments from the public on such 
+16
+proposed rule for a period of 90 days. 
+17
+‘‘(iii) After the Access Board has re-
+18
+viewed the comments solicited under clause 
+19
+(ii) and revised such proposed rule, the Of-
+20
+fice of Management and Budget shall con-
+21
+duct a regulatory assessment of the rule 
+22
+for a period not to exceed 90 days. 
+23
+‘‘(iv) Not later than 365 days after 
+24
+the Office of Management and Budget has 
+25
+04:05 Mar 17, 2021
+H1100
+5 
+•HR 1100 IH
+completed the regulatory assessment under 
+1
+clause (iii), the Access Board shall issue 
+2
+final regulations. 
+3
+‘‘(C) REVIEW AND AMENDMENT.—The Ac-
+4
+cess Board shall periodically review and, as ap-
+5
+propriate, amend the standard required under 
+6
+subsection (b) to reflect technological advances 
+7
+or changes in electronic and information tech-
+8
+nology. 
+9
+‘‘(2) DEPARTMENT OF JUSTICE.—No later than 
+10
+365 days after the end of the comment period under 
+11
+subparagraph (B)(ii), the Attorney General shall es-
+12
+tablish a procedure for receiving and investigating 
+13
+complaints filed under this title. 
+14
+‘‘(3) FLEXIBILITY FOR SMALL BUSINESS CON-
+15
+CERNS.—Regulations established under this section 
+16
+shall include flexibility for small business concerns to 
+17
+comply with the standard under subsection (b). 
+18
+‘‘SEC. 602. ADMINISTRATIVE REMEDIES. 
+19
+‘‘(a) 
+EXHAUSTION
+OF
+ADMINISTRATIVE
+REM-
+20
+EDIES.—No individual may bring an action before a civil 
+21
+court to enforce the provisions of this title until all admin-
+22
+istrative remedies under this section have been exhausted. 
+23
+‘‘(b) NOTICE TO OWNER OR OPERATOR.—Prior to fil-
+24
+ing a complaint with the Attorney General under sub-
+25
+04:05 Mar 17, 2021
+H1100
+6 
+•HR 1100 IH
+section (c), an individual must first notify the private 
+1
+owner or operator of a consumer facing website or mobile 
+2
+application that such website or mobile application is not 
+3
+in compliance with the standard for compliance under sec-
+4
+tion 601 of this title. 
+5
+‘‘(1) If within 90 days of receiving notice under 
+6
+subsection (b) the owner or operator of a consumer 
+7
+facing website or mobile application fails to bring 
+8
+such website or such application into compliance 
+9
+with the requirement under section 601 of this title, 
+10
+an individual may file a complaint with the Depart-
+11
+ment. 
+12
+‘‘(2) If an individual files a complaint with the 
+13
+Department of Justice (referred to in this title as 
+14
+the ‘Department’) under paragraph (1), a copy of 
+15
+such complaint shall be provided to the owner or op-
+16
+erator of a consumer facing website or mobile appli-
+17
+cation. 
+18
+‘‘(c) REPORTING
+OF VIOLATIONS
+TO ATTORNEY 
+19
+GENERAL.— 
+20
+‘‘(1) DEADLINE TO FILE COMPLAINT.—If an in-
+21
+dividual files a complaint with the Department, such 
+22
+complaint shall be filed within the 90-day period be-
+23
+ginning on the date after the 90-day period under 
+24
+subsection (b)(1) has terminated. 
+25
+04:05 Mar 17, 2021
+H1100
+7 
+•HR 1100 IH
+‘‘(2) 
+INVESTIGATION
+BY
+ATTORNEY
+GEN-
+1
+ERAL.—Upon receiving a complaint of an alleged 
+2
+violation, the Attorney General shall complete an in-
+3
+vestigation within 180 days to determine whether a 
+4
+violation exists. 
+5
+‘‘(3) FINAL
+AGENCY
+DETERMINATION.—The 
+6
+Attorney General shall be considered to have made 
+7
+a final determination on a complaint if— 
+8
+‘‘(A) during the 180-day period after a 
+9
+complaint has been filed with the Department, 
+10
+the Attorney General determines the owner or 
+11
+operator of a consumer facing website or mobile 
+12
+application is not in compliance with the stand-
+13
+ard set forth under section 601; or 
+14
+‘‘(B) the 180-day period expires without 
+15
+the Attorney General having made such a final 
+16
+determination. 
+17
+‘‘(d) ENFORCEMENT BY ATTORNEY GENERAL.— 
+18
+‘‘(1) DENIAL OF RIGHTS.— 
+19
+‘‘(A) DUTY TO INVESTIGATE.— 
+20
+‘‘(i) 
+IN
+GENERAL.—The 
+Attorney 
+21
+General shall investigate alleged violations 
+22
+of this title, and shall undertake periodic 
+23
+reviews of compliance of consumer facing 
+24
+04:05 Mar 17, 2021
+H1100
+8 
+•HR 1100 IH
+websites and mobile applications under this 
+1
+title. 
+2
+‘‘(ii) ATTORNEY
+GENERAL
+CERTIFI-
+3
+CATION.—On the application of a State or 
+4
+local government, the Attorney General 
+5
+may, in consultation with the Access 
+6
+Board, and after prior notice and a public 
+7
+hearing at which persons, including indi-
+8
+viduals with disabilities, are provided an 
+9
+opportunity to testify against such certifi-
+10
+cation, certify that a State law or local or-
+11
+dinance that establishes accessibility re-
+12
+quirements that meets or exceeds the min-
+13
+imum requirements of this Act for the ac-
+14
+cessibility and usability of consumer facing 
+15
+websites and mobile applications under this 
+16
+title. At any enforcement proceeding under 
+17
+this section, such certification by the At-
+18
+torney General shall be rebuttable evidence 
+19
+that such State law or local ordinance does 
+20
+meet or exceed the minimum requirements 
+21
+of this Act. 
+22
+‘‘(B) POTENTIAL VIOLATION.—If the At-
+23
+torney General has reasonable cause to believe 
+24
+that— 
+25
+04:05 Mar 17, 2021
+H1100
+9 
+•HR 1100 IH
+‘‘(i) any person or group of persons is 
+1
+engaged in a pattern or practice of dis-
+2
+crimination under this title; or 
+3
+‘‘(ii) any person or group of persons 
+4
+has been discriminated against under this 
+5
+title and such discrimination raises an 
+6
+issue of general public importance, 
+7
+the Attorney General may commence a civil ac-
+8
+tion in any appropriate United States district 
+9
+court. 
+10
+‘‘(2) AUTHORITY OF COURT.—In a civil action 
+11
+under paragraph (1)(B), the court may— 
+12
+‘‘(A) grant any equitable relief that such 
+13
+court considers to be appropriate; 
+14
+‘‘(B) order monetary damages to persons 
+15
+aggrieved when requested by the Attorney Gen-
+16
+eral; and 
+17
+‘‘(C) assess a civil penalty against the enti-
+18
+ty in an amount— 
+19
+‘‘(i) not to exceed $20,000 for a first 
+20
+violation; and 
+21
+‘‘(ii) not to exceed $50,000 for any 
+22
+subsequent violation. 
+23
+04:05 Mar 17, 2021
+H1100
+10 
+•HR 1100 IH
+‘‘(3) PUNITIVE
+DAMAGES.—For purposes of 
+1
+paragraph (2)(B), the term ‘monetary damages’ and 
+2
+‘such other relief’ does not include punitive damages. 
+3
+‘‘(4) SINGLE
+VIOLATION.—For purposes of 
+4
+paragraph (2)(C), in determining whether a first or 
+5
+subsequent violation has occurred, a determination 
+6
+in a single action, by judgment or settlement, that 
+7
+the consumer facing website or mobile application 
+8
+has engaged in more than one discriminatory act 
+9
+shall be counted as a single violation. 
+10
+‘‘(5) JUDICIAL CONSIDERATION.—In a civil ac-
+11
+tion under paragraph (1)(B), the court, when con-
+12
+sidering what amount of civil penalty, if any, is ap-
+13
+propriate, shall give consideration to any good faith 
+14
+effort or attempt to comply with this Act by the en-
+15
+tity. 
+16
+‘‘SEC. 603. PRIVATE RIGHT OF ACTION. 
+17
+‘‘(a) IN GENERAL.—Upon exhausting all administra-
+18
+tive remedies under section 602, any individual aggrieved 
+19
+by a violation of this title may commence a civil action 
+20
+in any appropriate court of the United States against the 
+21
+owner or operator of a consumer facing website or mobile 
+22
+application that engages in such a violation, unless the At-
+23
+torney General has instituted an enforcement action under 
+24
+this title. A civil action under this title is the sole and 
+25
+04:05 Mar 17, 2021
+H1100
+11 
+•HR 1100 IH
+exclusive remedy for any person aggrieved by the failure 
+1
+of any consumer facing website or mobile application to 
+2
+meet the requirements of section 601. In any action filed 
+3
+under this title, the complaint shall plead with particu-
+4
+larity each element of the plaintiff’s claim, including the 
+5
+specific barriers to access a consumer facing website or 
+6
+mobile application. 
+7
+‘‘(b) TOLLING.—With respect to the running of the 
+8
+statutory periods of limitation for such action, the running 
+9
+of such statutory periods shall be deemed suspended dur-
+10
+ing the period beginning on the date of the enactment of 
+11
+this Act and ending 180 days after the date the Access 
+12
+Board has issued final regulations under section 601. 
+13
+‘‘SEC. 604. DEFINITIONS. 
+14
+‘‘In this Act: 
+15
+‘‘(1) CONSUMER FACING WEBSITE.—The term 
+16
+‘consumer facing website’ means any website that is 
+17
+purposefully made accessible to the public for com-
+18
+mercial purposes. 
+19
+‘‘(2) MOBILE APPLICATIONS.—The term ‘mobile 
+20
+application’ means a consumer facing software appli-
+21
+cation that can be executed on a mobile platform, or 
+22
+a web-based software application that is tailored to 
+23
+a mobile platform but is executed on a server. 
+24
+04:05 Mar 17, 2021
+H1100
+12 
+•HR 1100 IH
+‘‘(3) SMALL BUSINESS.—The term ‘small busi-
+1
+ness concern’ has the meaning given such term in 
+2
+section 3(a) of the Small Business Act (15 U.S.C. 
+3
+632(a)).’’. 
+4
+SEC. 3. CLERICAL AMENDMENT. 
+5
+The table of contents of the Americans with Disabil-
+6
+ities Act of 1990 (42 U.S.C. 12101 et seq.) is amended 
+7
+by inserting after the item relating to section 515 the fol-
+8
+lowing new item: 
+9
+‘‘TITLE VI—CONSUMER FACING WEBSITES AND MOBILE 
+APPLICATIONS OWNED OR OPERATED BY A PRIVATE ENTITY 
+‘‘Sec. 601. Requirements for consumer facing websites and mobile applications 
+owned or operated by a private entity. 
+‘‘Sec. 602. Administrative remedies. 
+‘‘Sec. 603. Private right of action. 
+‘‘Sec. 604. Definitions.’’. 
+Æ 
+04:05 Mar 17, 2021
+H1100

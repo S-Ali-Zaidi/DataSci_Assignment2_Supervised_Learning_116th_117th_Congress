@@ -1,0 +1,940 @@
+A BILL 
+To amend the Securities Exchange Act of 1934 to require 
+issuers to disclose to the Securities and Exchange Com-
+mission information regarding workforce management 
+policies, practices, and performance, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Workforce Investment 
+4
+Disclosure Act of 2021’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+07:27 Jun 22, 2021
+H3471
+2 
+•HR 3471 IH
+(1) One of the keys to the 20th century post- 
+1
+war economic success of the United States was the 
+2
+ability to prepare workers over the course of their 
+3
+lives for success through multiple sectors across soci-
+4
+ety. Unfortunately, during the several decades pre-
+5
+ceding the date of enactment of this Act, there has 
+6
+been a shift in business norms and in society. While 
+7
+Congress recognizes that the technology and job 
+8
+skills required for some jobs has changed dramati-
+9
+cally, the private and public partnership to hire 
+10
+workers at different education levels and invest in 
+11
+them for the long-term is broken. 
+12
+(2) Available data from the 10-year period pre-
+13
+ceding the date of enactment of this Act suggests 
+14
+that businesses are investing less in worker training 
+15
+during that time period, not more. 
+16
+(3) In the wake of the 2008 global financial cri-
+17
+sis, there was a well-documented decline in overall 
+18
+business investment. That decline coincides with the 
+19
+wage polarization of workers and an increase in 
+20
+spending on share buybacks and dividends, leading 
+21
+several researchers to conclude that companies are 
+22
+de-emphasizing investment at the expense of increas-
+23
+ing returns for shareholders. The onset of a global 
+24
+07:27 Jun 22, 2021
+H3471
+3 
+•HR 3471 IH
+pandemic may make that trend worse, especially 
+1
+with respect to investments in workers. 
+2
+(4) As part of the overall decline in investment 
+3
+described in paragraph (3), publicly traded compa-
+4
+nies are being provided with incentives to prioritize 
+5
+investments in physical assets over investments in 
+6
+their workforces, meaning that those companies are 
+7
+investing in robots instead of individuals. In fact, 
+8
+there are already signs that automation has in-
+9
+creased during the COVID–19 pandemic. 
+10
+(5) More than ever, the Federal Government, 
+11
+through company disclosure practices, needs to un-
+12
+derstand exactly how companies are investing in 
+13
+their workers. Over the several months preceding the 
+14
+date of enactment of this Act, companies across the 
+15
+United States have taken extreme actions to adapt 
+16
+and respond to evolving workforce challenges pre-
+17
+sented by COVID–19. 
+18
+(6) JUST Capital has been tracking the re-
+19
+sponses of the Standard and Poor’s 100 largest pub-
+20
+lic companies to their workers and has found wide 
+21
+variation in the policies implemented, as well as with 
+22
+respect to the disclosure of those policies. Through 
+23
+different responses to their workforces, from layoffs 
+24
+to workplace safety to paid leave, the COVID–19 
+25
+07:27 Jun 22, 2021
+H3471
+4 
+•HR 3471 IH
+pandemic is exposing the myriad ways that work-
+1
+force management practices of companies pose oper-
+2
+ational and reputational risks for short- and long- 
+3
+term financial performance. 
+4
+(7) Even before the COVID–19 pandemic, there 
+5
+was a growing body of research establishing a rela-
+6
+tionship between measurable workforce management, 
+7
+which is the way that companies manage their em-
+8
+ployees, and firm performance. In a study of 2,000 
+9
+large companies, Harvard Law School’s Labor and 
+10
+Work Life Program found that forward-thinking 
+11
+workforce policies that prioritize workers, such as 
+12
+how companies train, retain, and pay their workers, 
+13
+are correlated with long-term financial performance. 
+14
+(8) Disclosure of workforce management poli-
+15
+cies should be part of a Government-wide economic 
+16
+recovery strategy. Just as a set of generally accepted 
+17
+accounting 
+principles 
+(commonly 
+known 
+as 
+18
+‘‘GAAP’’) was urgently adopted after the Great De-
+19
+pression, standardized, comparable metrics of work-
+20
+force disclosure requirements in the context of the 
+21
+COVID–19 pandemic are critical for investors to ac-
+22
+curately measure and project company performance, 
+23
+both in the present and in the future. 
+24
+07:27 Jun 22, 2021
+H3471
+5 
+•HR 3471 IH
+(9) Because many companies already track 
+1
+workforce metrics internally, moving towards a 
+2
+transparent disclosure regime would allow investors 
+3
+to better judge whether companies are managing 
+4
+risks 
+and 
+making 
+the 
+investments 
+in 
+their 
+5
+workforces that are needed for long-term growth. 
+6
+(10) Businesses increasingly rely on workforce 
+7
+innovation and intellectual capital for competitive-
+8
+ness. Workplace benefits, particularly paid sick 
+9
+leave, medical leave, and flexible work arrangements, 
+10
+critically support employee mental and physical well- 
+11
+being. 
+12
+(11) Race- and gender-based workplace dis-
+13
+crimination have been tied to negative health out-
+14
+comes, as well as lower productivity, trust, morale, 
+15
+and satisfaction and higher rates of absenteeism and 
+16
+turnover. Organizational reporting on practices to 
+17
+reduce discrimination can increase employee job sat-
+18
+isfaction, performance, and engagement. 
+19
+(12) According to the Centers for Disease Con-
+20
+trol and Prevention, work-related stress is the lead-
+21
+ing occupational health risk and, per the American 
+22
+Institute of Stress, job stress costs United States in-
+23
+dustry more than $300,000,000,000 per year in ac-
+24
+07:27 Jun 22, 2021
+H3471
+6 
+•HR 3471 IH
+cidents, absenteeism, employee turnover, diminished 
+1
+productivity, and medical, legal, and insurance costs. 
+2
+(13) Employee health and well-being is a key 
+3
+asset to delivering long-term value, with 80 percent 
+4
+of public companies that took concrete actions on 
+5
+health and well-being having seen larger improve-
+6
+ments in financial performance. 
+7
+(14) Organizational well-being interventions can 
+8
+create cost savings of up to 10 dollars for every dol-
+9
+lar invested. Specifically, for every dollar that em-
+10
+ployers spend on workplace disease prevention and 
+11
+well-being programs, there is a $3.27 reduction in 
+12
+employee medical costs and a $2.73 reduction in ab-
+13
+senteeism costs. Employers that implement work-
+14
+place health promotion programs have seen reduc-
+15
+tions in sick leave, health plan costs, and workers’ 
+16
+compensation and disability insurance costs of ap-
+17
+proximately 25 percent. 
+18
+(15) The Centers for Disease Control and Pre-
+19
+vention has found that preventable chronic condi-
+20
+tions are a major contributor to insurance premium 
+21
+and employee medical claim costs, which are at an 
+22
+all-time high, and a Milken Institute study shows 
+23
+that employers paid $2,600,000,000,000 in 2016 for 
+24
+the indirect costs of employee chronic disease due to 
+25
+07:27 Jun 22, 2021
+H3471
+7 
+•HR 3471 IH
+work absences, lost wages, and reduced economic 
+1
+productivity. 
+2
+(16) The COVID–19 pandemic has severely im-
+3
+pacted employee physical, mental, and emotional 
+4
+well-being by increasing stress, depression, burnout, 
+5
+and mortality rates of chronic disease and by reduc-
+6
+ing work-life balance and financial security, with 
+7
+these challenges likely to persist due to uncertainty 
+8
+and instability even as employees return to work. 
+9
+Before the COVID–19 pandemic, but especially in 
+10
+the face of that pandemic, employers that advance 
+11
+policies and practices that support workforce health, 
+12
+safety, and well-being are likely to outperform com-
+13
+petitors and benefit from lower costs. 
+14
+SEC. 3. DISCLOSURES RELATING TO WORKFORCE MANAGE-
+15
+MENT. 
+16
+Section 13 of the Securities Exchange Act of 1934 
+17
+(15 U.S.C. 78m) is amended by adding at the end the 
+18
+following: 
+19
+‘‘(s) DISCLOSURES RELATING TO WORKFORCE MAN-
+20
+AGEMENT.— 
+21
+‘‘(1) DEFINITION.—In this subsection, the term 
+22
+‘contingent worker’ includes an individual per-
+23
+forming work on a temporary basis or as an inde-
+24
+pendent contractor. 
+25
+07:27 Jun 22, 2021
+H3471
+8 
+•HR 3471 IH
+‘‘(2) REGULATIONS.—Not later than 2 years 
+1
+after the date of enactment of this subsection, the 
+2
+Commission, in consultation with the Secretary of 
+3
+Labor, the Secretary of Commerce, the Secretary of 
+4
+Treasury, and the Attorney General, shall promul-
+5
+gate regulations that require each issuer required to 
+6
+file an annual report under subsection (a) or section 
+7
+15(d) to disclose in that report information regard-
+8
+ing workforce management policies, practices, and 
+9
+performance with respect to the issuer. 
+10
+‘‘(3) RULES.—Consistent with the requirement 
+11
+under paragraph (4), each annual report filed with 
+12
+the Commission in accordance with the regulations 
+13
+promulgated under paragraph (2) shall include dis-
+14
+closure of the following with respect to the issuer fil-
+15
+ing the report for the year covered by the report: 
+16
+‘‘(A) Workforce demographic information, 
+17
+including— 
+18
+‘‘(i) the number of full-time employ-
+19
+ees, the number of part-time employees, 
+20
+and the number of contingent workers (in-
+21
+cluding temporary and contract workers) 
+22
+with respect to the issuer, which shall in-
+23
+clude demographic information with re-
+24
+spect to those categories of individuals, in-
+25
+07:27 Jun 22, 2021
+H3471
+9 
+•HR 3471 IH
+cluding information regarding race, eth-
+1
+nicity, and gender; 
+2
+‘‘(ii) any policies or practices of the 
+3
+issuer relating to subcontracting, outsourc-
+4
+ing, and insourcing individuals to perform 
+5
+work for the issuer, which shall include de-
+6
+mographic information with respect to 
+7
+those individuals, including information re-
+8
+garding race, ethnicity, and gender; and 
+9
+‘‘(iii) whether the percentage of con-
+10
+tingent workers with respect to the issuer 
+11
+has changed, including temporary and con-
+12
+tract workers, as compared with the pre-
+13
+vious annual report filed by the issuer 
+14
+under this subsection. 
+15
+‘‘(B) Workforce stability information, in-
+16
+cluding information about the voluntary turn-
+17
+over or retention rate, the involuntary turnover 
+18
+rate, the internal hiring rate, and the internal 
+19
+promotion rate, and the horizontal job change 
+20
+rate by quintile and demographic information. 
+21
+‘‘(C) Workforce composition, including— 
+22
+‘‘(i) data on diversity (including ra-
+23
+cial, ethnic, and gender composition) for 
+24
+07:27 Jun 22, 2021
+H3471
+10 
+•HR 3471 IH
+senior executives and other individuals in 
+1
+the workforce; and 
+2
+‘‘(ii) any policies, audits, and pro-
+3
+gramming expenditures relating to diver-
+4
+sity. 
+5
+‘‘(D) Workforce skills and capabilities, in-
+6
+cluding— 
+7
+‘‘(i) information about training and 
+8
+cross-training of employees and contingent 
+9
+workers by quintile and demographic infor-
+10
+mation, distinguishing between compliance 
+11
+training, career development training, job 
+12
+performance or technical training, and 
+13
+training tied to recognized postsecondary 
+14
+credentials; 
+15
+‘‘(ii) average number of hours of 
+16
+training for each employee and contingent 
+17
+worker; 
+18
+‘‘(iii) total spending on training for all 
+19
+employees and contingent workers; 
+20
+‘‘(iv) average spending per employee 
+21
+or contingent worker; 
+22
+‘‘(v) training utilization rates; and 
+23
+‘‘(vi) whether completion of training 
+24
+opportunities translates into value added 
+25
+07:27 Jun 22, 2021
+H3471
+11 
+•HR 3471 IH
+benefit for workers, as determined by wage 
+1
+increases or internal promotions. 
+2
+‘‘(E) Workforce health, safety, and well- 
+3
+being, including information regarding— 
+4
+‘‘(i) the frequency, severity, and lost 
+5
+time due to injuries, physical and mental 
+6
+illness, and fatalities; 
+7
+‘‘(ii) the scope, frequency, and total 
+8
+expenditure on workplace health, safety, 
+9
+and well-being programs; 
+10
+‘‘(iii) the total dollar value of assessed 
+11
+fines under the Occupational Safety and 
+12
+Health Act of 1970 (29 U.S.C. 651 et 
+13
+seq.); 
+14
+‘‘(iv) the total number of actions 
+15
+brought under section 13 of the Occupa-
+16
+tional Safety and Health Act of 1970 (29 
+17
+U.S.C. 662) to prevent imminent dangers; 
+18
+‘‘(v) the total number of actions 
+19
+brought against the issuer under section 
+20
+11(c) of the Occupational Safety and 
+21
+Health Act of 1970 (29 U.S.C. 660(c)); 
+22
+‘‘(vi) any findings of workplace har-
+23
+assment or workplace discrimination dur-
+24
+ing the 5 fiscal year period of the issuer 
+25
+07:27 Jun 22, 2021
+H3471
+12 
+•HR 3471 IH
+preceding the fiscal year in which the re-
+1
+port is filed; and 
+2
+‘‘(vii) communication channels and 
+3
+grievance mechanisms in place for employ-
+4
+ees and contingent workers. 
+5
+‘‘(F) Workforce compensation and incen-
+6
+tives, including information regarding— 
+7
+‘‘(i) total workforce costs, including 
+8
+salaries and wages, health benefits, other 
+9
+ancillary benefit costs, and pension costs; 
+10
+‘‘(ii) workforce benefits, including 
+11
+paid leave, health care, child care, and re-
+12
+tirement, including information regarding 
+13
+benefits that are provided— 
+14
+‘‘(I) to full-time employees and 
+15
+not to part-time employees; or 
+16
+‘‘(II) to employees and not to 
+17
+contingent workers; 
+18
+‘‘(iii) total contributions made to un-
+19
+employment insurance by the issuer, how 
+20
+many employees to whom those contribu-
+21
+tions apply, and the total amount paid in 
+22
+unemployment compensation to individuals 
+23
+who were laid off by the issuer; 
+24
+07:27 Jun 22, 2021
+H3471
+13 
+•HR 3471 IH
+‘‘(iv) policies and practices regarding 
+1
+how performance, productivity, equity, and 
+2
+sustainability are considered when setting 
+3
+pay and making promotion decisions; and 
+4
+‘‘(v) policies and practices relating to 
+5
+any incentives and bonuses provided to em-
+6
+ployees and any policies or practices de-
+7
+signed to counter any risks created by such 
+8
+incentives and bonuses. 
+9
+‘‘(G) Workforce recruiting and needs, in-
+10
+cluding— 
+11
+‘‘(i) the number of new jobs created, 
+12
+seeking 
+to 
+be 
+filled, 
+and 
+filled, 
+13
+disaggregated based on classification sta-
+14
+tus; 
+15
+‘‘(ii) the share of new jobs that re-
+16
+quire a bachelor’s degree or higher; 
+17
+‘‘(iii) information regarding the qual-
+18
+ity of hire for jobs described in clause (i); 
+19
+and 
+20
+‘‘(iv) the retention rate for individuals 
+21
+hired to fill the jobs described in clause (i). 
+22
+‘‘(H) Workforce engagement and produc-
+23
+tivity, including information regarding policies 
+24
+and practices of the issuer relating to— 
+25
+07:27 Jun 22, 2021
+H3471
+14 
+•HR 3471 IH
+‘‘(i) engagement, productivity, and 
+1
+mental well-being of employees and contin-
+2
+gent workers, as determined in consulta-
+3
+tion with the Department of Labor; and 
+4
+‘‘(ii) freedom of association and work- 
+5
+life balance initiatives, including flexibility 
+6
+and the ability of the workforce to work re-
+7
+motely, as determined in consultation with 
+8
+the Department of Labor. 
+9
+‘‘(4) DISAGGREGATION OF INFORMATION.—To 
+10
+the maximum extent feasible, the information de-
+11
+scribed in paragraph (3) shall be disaggregated by— 
+12
+‘‘(A) the workforce composition described 
+13
+in subparagraph (C) of that paragraph; 
+14
+‘‘(B) wage quintiles of the employees of the 
+15
+issuer for the year covered by the applicable an-
+16
+nual report; and 
+17
+‘‘(C) the employment status of individuals 
+18
+performing services for the issuer, including 
+19
+whether those individuals are full-time employ-
+20
+ees, part-time employees, or contingent workers. 
+21
+‘‘(5) TREATMENT OF EMERGING GROWTH COM-
+22
+PANIES.—The Commission may exempt emerging 
+23
+growth companies from any disclosure required 
+24
+under subparagraph (D), (E), (F), (G), or (H) of 
+25
+07:27 Jun 22, 2021
+H3471
+15 
+•HR 3471 IH
+paragraph (3) if the Commission determines that 
+1
+such an exemption is necessary or appropriate in the 
+2
+public interest. 
+3
+‘‘(6) FALSE OR MISLEADING STATEMENTS.— 
+4
+‘‘(A) IN GENERAL.—Except as provided in 
+5
+subparagraph (B), it shall be unlawful for any 
+6
+person, in any report or document filed under 
+7
+this subsection, to make or cause to be made 
+8
+any untrue statement of a material fact or omit 
+9
+to state a material fact required to be stated in 
+10
+the report or document or necessary to make 
+11
+the statement made, in the light of the cir-
+12
+cumstances under which it is made, not mis-
+13
+leading. 
+14
+‘‘(B) EXCEPTION.—A person shall not be 
+15
+liable under subparagraph (A) if the person 
+16
+shows that the person had, after reasonable in-
+17
+vestigation, reasonable ground to believe, and 
+18
+did believe, at the time the applicable statement 
+19
+was made, that the statement was true and that 
+20
+there was no omission to state a material fact 
+21
+necessary to make the statement made, in the 
+22
+light of the circumstances under which it is 
+23
+made, not misleading. 
+24
+07:27 Jun 22, 2021
+H3471
+16 
+•HR 3471 IH
+‘‘(C) NO
+PRIVATE
+RIGHT
+OF
+ACTION.— 
+1
+Nothing in this paragraph may be construed as 
+2
+creating a private right of action. 
+3
+‘‘(7) EXEMPTION.—This subsection shall not 
+4
+apply to an investment company registered under 
+5
+section 8 of the Investment Company Act of 1940 
+6
+(15 U.S.C. 80a–8).’’. 
+7
+SEC. 4. BACKSTOP. 
+8
+(a) DEFINITIONS.—In this section— 
+9
+(1) the term ‘‘Commission’’ means the Securi-
+10
+ties and Exchange Commission; 
+11
+(2) the term ‘‘covered issuer’’ means an issuer 
+12
+that is required to file an annual report under sec-
+13
+tion 13(a) or section 15(d) of the Securities Ex-
+14
+change Act of 1934 (15 U.S.C. 78m(a), 78o(d)); and 
+15
+(3) the term ‘‘issuer’’ has the meaning given 
+16
+the term in section 3(a) of the Securities Exchange 
+17
+Act of 1934 (15 U.S.C. 78c(a)). 
+18
+(b) COMPLIANCE.—If, as of the date that is 2 years 
+19
+after the date of enactment of this Act, the Commission 
+20
+has not promulgated the regulations required under sub-
+21
+section (s) of section 13 of the Securities Exchange Act 
+22
+of 1934 (15 U.S.C. 78m), as added by section 3 of this 
+23
+Act, a covered issuer, during the period beginning on that 
+24
+date and ending on the date on which the Commission pro-
+25
+07:27 Jun 22, 2021
+H3471
+17 
+•HR 3471 IH
+mulgates those regulations, shall be deemed to be in com-
+1
+pliance with such subsection (s) if disclosures set forth in 
+2
+the annual report of the covered issuer satisfy the public 
+3
+disclosure standards of the International Organization for 
+4
+Standardization’s ISO 30414, or any successor standards 
+5
+for external workforce reporting, as supplemented or ad-
+6
+justed by rules, guidance, or other comments from the 
+7
+Commission. 
+8
+SEC. 5. SEC STUDY. 
+9
+(a) DEFINITIONS.—In this section, the terms ‘‘Com-
+10
+mission’’ and ‘‘issuer’’ have the meanings given those 
+11
+terms in section 4(a). 
+12
+(b) STUDY.—The Commission shall conduct a study 
+13
+about the value to investors of— 
+14
+(1) information about the human rights com-
+15
+mitments of issuers required to file annual reports 
+16
+under section 13(a) of the Securities Exchange Act 
+17
+of 1934 (15 U.S.C. 78m(a)), including information 
+18
+about any principles used to evaluate risk, constitu-
+19
+ency consultation processes, and supplier due dili-
+20
+gence; and 
+21
+(2) with respect to issuers required to file an-
+22
+nual reports under section 13(a) of the Securities 
+23
+Exchange Act of 1934 (15 U.S.C. 78m(a)), informa-
+24
+tion about— 
+25
+07:27 Jun 22, 2021
+H3471
+18 
+•HR 3471 IH
+(A) violations of the Fair Labor Standards 
+1
+Act of 1938 (29 U.S.C. 201 et seq.) by those 
+2
+issuers; 
+3
+(B) violations of worker misclassification 
+4
+by those issuers; 
+5
+(C) surveys regarding employee satisfac-
+6
+tion, well-being, and engagement; 
+7
+(D) the number and overall percentage of 
+8
+quality jobs, as determined by compensation 
+9
+above median wage and comprehensive em-
+10
+ployer-provided benefits; and 
+11
+(E) information about workforce invest-
+12
+ment trends, as determined by at least a 3-year 
+13
+time period. 
+14
+(c) REPORT.—Not later than 1 year after the date 
+15
+of enactment of this Act, the Commission shall submit to 
+16
+Congress a report that contains the results of the study 
+17
+required to be conducted under subsection (b), with rec-
+18
+ommendations for additional disclosure regulations based 
+19
+on the findings, and any actions the Commission plans to 
+20
+take to enhance disclosures based on the findings. 
+21
+Æ 
+07:27 Jun 22, 2021
+H3471

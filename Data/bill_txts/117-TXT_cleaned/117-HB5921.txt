@@ -1,0 +1,573 @@
+A BILL 
+To require that internet platforms give users the option 
+to engage with a platform without being manipulated 
+by algorithms driven by user-specific data. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Filter Bubble Trans-
+4
+parency Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) 
+ALGORITHMIC
+RANKING
+SYSTEM.—The 
+8
+term ‘‘algorithmic ranking system’’ means a com-
+9
+19:38 Nov 11, 2021
+H5921
+2 
+•HR 5921 IH
+putational process, including one derived from algo-
+1
+rithmic decision making, machine learning, statis-
+2
+tical analysis, or other data processing or artificial 
+3
+intelligence techniques, used to determine the order 
+4
+or manner that a set of information is provided to 
+5
+a user on a covered internet platform, including the 
+6
+ranking of search results, the provision of content 
+7
+recommendations, the display of social media posts, 
+8
+or any other method of automated content selection. 
+9
+(2) COMMISSION.—The term ‘‘Commission’’ 
+10
+means the Federal Trade Commission. 
+11
+(3) CONNECTED
+DEVICE.—The term ‘‘con-
+12
+nected device’’ means a physical object that— 
+13
+(A) is capable of connecting to the inter-
+14
+net, either directly or indirectly through a net-
+15
+work, to communicate information at the direc-
+16
+tion of an individual; and 
+17
+(B) has computer processing capabilities 
+18
+for collecting, sending, receiving, or analyzing 
+19
+data. 
+20
+(4) COVERED INTERNET PLATFORM.— 
+21
+(A) IN
+GENERAL.—The term ‘‘covered 
+22
+internet platform’’ means any public-facing 
+23
+website, internet application, or mobile applica-
+24
+tion, including a social network site, video shar-
+25
+19:38 Nov 11, 2021
+H5921
+3 
+•HR 5921 IH
+ing service, search engine, or content aggrega-
+1
+tion service. 
+2
+(B) EXCLUSIONS.—Such term shall not in-
+3
+clude a platform that— 
+4
+(i) is wholly owned, controlled, and 
+5
+operated by a person that— 
+6
+(I) for the most recent 6-month 
+7
+period, did not employ more than 500 
+8
+employees; 
+9
+(II) for the most recent 3-year 
+10
+period, 
+averaged 
+less 
+than 
+11
+$50,000,000 in annual gross receipts; 
+12
+and 
+13
+(III) collects or processes on an 
+14
+annual basis the personal data of less 
+15
+than 1,000,000 individuals; or 
+16
+(ii) is operated for the sole purpose of 
+17
+conducting research that is not made for 
+18
+profit either directly or indirectly. 
+19
+(5) INPUT-TRANSPARENT ALGORITHM.— 
+20
+(A) IN GENERAL.—The term ‘‘input-trans-
+21
+parent algorithm’’ means an algorithmic rank-
+22
+ing system that does not use the user-specific 
+23
+data of a user to determine the order or man-
+24
+ner that information is furnished to such user 
+25
+19:38 Nov 11, 2021
+H5921
+4 
+•HR 5921 IH
+on a covered internet platform, unless the user- 
+1
+specific data is expressly provided to the plat-
+2
+form by the user for such purpose. 
+3
+(B) INCLUSION OF AGE-APPROPRIATE CON-
+4
+TENT FILTERS.—Such term shall include an al-
+5
+gorithmic ranking system that uses user-specific 
+6
+data to determine whether a user is old enough 
+7
+to access age-restricted content on a covered 
+8
+internet platform, provided that the system oth-
+9
+erwise meets the requirements of subparagraph 
+10
+(A). 
+11
+(C) DATA PROVIDED FOR EXPRESS PUR-
+12
+13
+purposes of subparagraph (A), user-specific 
+14
+data that is provided by a user for the express 
+15
+purpose of determining the order or manner 
+16
+that information is furnished to a user on a 
+17
+covered internet platform— 
+18
+(i) shall include user-supplied search 
+19
+terms, filters, speech patterns (if provided 
+20
+for the purpose of enabling the platform to 
+21
+accept spoken input or selecting the lan-
+22
+guage in which the user interacts with the 
+23
+platform), saved preferences, and the 
+24
+user’s current geographical location; 
+25
+19:38 Nov 11, 2021
+H5921
+5 
+•HR 5921 IH
+(ii) shall include data supplied to the 
+1
+platform by the user that expresses the 
+2
+user’s desire that information be furnished 
+3
+to them, such as the social media profiles 
+4
+the user follows, the video channels the 
+5
+user subscribes to, or other sources of con-
+6
+tent on the platform the user follows; 
+7
+(iii) shall not include the history of 
+8
+the user’s connected device, including the 
+9
+user’s history of web searches and brows-
+10
+ing, geographical locations, physical activ-
+11
+ity, device interaction, and financial trans-
+12
+actions; and 
+13
+(iv) shall not include inferences about 
+14
+the user or the user’s connected device, 
+15
+without regard to whether such inferences 
+16
+are based on data described in clause (i). 
+17
+(6) OPAQUE ALGORITHM.— 
+18
+(A) IN GENERAL.—The term ‘‘opaque al-
+19
+gorithm’’ means an algorithmic ranking system 
+20
+that determines the order or manner that infor-
+21
+mation is furnished to a user on a covered 
+22
+internet platform based, in whole or part, on 
+23
+user-specific data that was not expressly pro-
+24
+19:38 Nov 11, 2021
+H5921
+6 
+•HR 5921 IH
+vided by the user to the platform for such pur-
+1
+pose. 
+2
+(B) EXCEPTION
+FOR
+AGE-APPROPRIATE 
+3
+CONTENT FILTERS.—Such term shall not in-
+4
+clude an algorithmic ranking system used by a 
+5
+covered internet platform if— 
+6
+(i) the only user-specific data (includ-
+7
+ing inferences about the user) that the sys-
+8
+tem uses is information relating to the age 
+9
+of the user; and 
+10
+(ii) such information is only used to 
+11
+restrict a user’s access to content on the 
+12
+basis that the individual is not old enough 
+13
+to access such content. 
+14
+(7) SEARCH
+SYNDICATION
+CONTRACT; 
+UP-
+15
+STREAM PROVIDER; DOWNSTREAM PROVIDER.— 
+16
+(A) SEARCH
+SYNDICATION
+CONTRACT.— 
+17
+The term ‘‘search syndication contract’’ means 
+18
+a contract or subcontract for the sale, license, 
+19
+or other right to access an index of web pages 
+20
+on the internet for the purpose of operating an 
+21
+internet search engine. 
+22
+(B) UPSTREAM
+PROVIDER.—The term 
+23
+‘‘upstream provider’’ means, with respect to a 
+24
+search syndication contract, the person that 
+25
+19:38 Nov 11, 2021
+H5921
+7 
+•HR 5921 IH
+grants access to an index of web pages on the 
+1
+internet to a downstream provider under the 
+2
+contract. 
+3
+(C) DOWNSTREAM PROVIDER.—The term 
+4
+‘‘downstream provider’’ means, with respect to 
+5
+a search syndication contract, the person that 
+6
+receives access to an index of web pages on the 
+7
+internet from an upstream provider under such 
+8
+contract. 
+9
+(8) USER-SPECIFIC
+DATA.—The term ‘‘user- 
+10
+specific data’’ means information relating to an indi-
+11
+vidual or a specific connected device that would not 
+12
+necessarily be true of every individual or device. 
+13
+SEC. 
+3. 
+REQUIREMENT 
+TO 
+ALLOW 
+USERS 
+TO 
+SEE 
+14
+UNMANIPULATED CONTENT ON INTERNET 
+15
+PLATFORMS. 
+16
+(a) IN GENERAL.—Beginning on the date that is 1 
+17
+year after the date of enactment of this Act, it shall be 
+18
+unlawful— 
+19
+(1) for any person to operate a covered internet 
+20
+platform that uses an opaque algorithm unless the 
+21
+person complies with the requirements of subsection 
+22
+(b); or 
+23
+(2) for any upstream provider to grant access 
+24
+to an index of web pages on the internet under a 
+25
+19:38 Nov 11, 2021
+H5921
+8 
+•HR 5921 IH
+search syndication contract that does not comply 
+1
+with the requirements of subsection (c). 
+2
+(b) OPAQUE ALGORITHM REQUIREMENTS.— 
+3
+(1) IN
+GENERAL.—The requirements of this 
+4
+subsection with respect to a person that operates a 
+5
+covered internet platform that uses an opaque algo-
+6
+rithm are the following: 
+7
+(A) The person provides notice to users of 
+8
+the platform that the platform uses an opaque 
+9
+algorithm that makes inferences based on user- 
+10
+specific data to select the content the user sees. 
+11
+Such notice shall be presented in a clear, con-
+12
+spicuous manner on the platform whenever the 
+13
+user interacts with an opaque algorithm for the 
+14
+first time, and may be a one-time notice that 
+15
+can be dismissed by the user. 
+16
+(B) The person makes available a version 
+17
+of the platform that uses an input-transparent 
+18
+algorithm and enables users to easily switch be-
+19
+tween the version of the platform that uses an 
+20
+opaque algorithm and the version of the plat-
+21
+form that uses the input-transparent algorithm 
+22
+by selecting a prominently placed icon, which 
+23
+shall be displayed wherever the user interacts 
+24
+with an opaque algorithm. 
+25
+19:38 Nov 11, 2021
+H5921
+9 
+•HR 5921 IH
+(2) NONAPPLICATION
+TO
+CERTAIN
+DOWN-
+1
+STREAM PROVIDERS.—Paragraph (1) shall not apply 
+2
+with respect to an internet search engine if— 
+3
+(A) the search engine is operated by a 
+4
+downstream provider with fewer than 1,000 em-
+5
+ployees; and 
+6
+(B) the search engine uses an index of web 
+7
+pages on the internet to which such provider re-
+8
+ceived access under a search syndication con-
+9
+tract. 
+10
+(c) SEARCH
+SYNDICATION
+CONTRACT
+REQUIRE-
+11
+MENT.—The requirements of this subsection with respect 
+12
+to a search syndication contract are that— 
+13
+(1) as part of the contract, the upstream pro-
+14
+vider makes available to the downstream provider 
+15
+the same input-transparent algorithm used by the 
+16
+upstream provider for purposes of complying with 
+17
+subsection (b)(1)(B); and 
+18
+(2) the upstream provider does not impose any 
+19
+additional costs, degraded quality, reduced speed, or 
+20
+other constraint on the functioning of such algo-
+21
+rithm when used by the downstream provider to op-
+22
+erate an internet search engine relative to the per-
+23
+formance of such algorithm when used by the up-
+24
+19:38 Nov 11, 2021
+H5921
+10 
+•HR 5921 IH
+stream provider to operate an internet search en-
+1
+gine. 
+2
+SEC. 4. ENFORCEMENT BY FEDERAL TRADE COMMISSION. 
+3
+(a) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.— 
+4
+A violation of this Act by an operator of a covered internet 
+5
+platform shall be treated as a violation of a rule defining 
+6
+an unfair or deceptive act or practice prescribed under sec-
+7
+tion 18(a)(1)(B) of the Federal Trade Commission Act 
+8
+(15 U.S.C. 57a(a)(1)(B)). 
+9
+(b) POWERS OF COMMISSION.— 
+10
+(1) IN GENERAL.—Except as provided in para-
+11
+graph (3), the Federal Trade Commission shall en-
+12
+force this Act in the same manner, by the same 
+13
+means, and with the same jurisdiction, powers, and 
+14
+duties as though all applicable terms and provisions 
+15
+of the Federal Trade Commission Act (15 U.S.C. 41 
+16
+et seq.) were incorporated into and made a part of 
+17
+this Act. 
+18
+(2) PRIVILEGES AND IMMUNITIES.—Except as 
+19
+provided in paragraph (3), any person who violates 
+20
+this Act shall be subject to the penalties and entitled 
+21
+to the privileges and immunities provided in the 
+22
+Federal Trade Commission Act (15 U.S.C. 41 et 
+23
+seq.). 
+24
+19:38 Nov 11, 2021
+H5921
+11 
+•HR 5921 IH
+(3) COMMON CARRIERS AND NONPROFIT ORGA-
+1
+NIZATIONS.—Notwithstanding section 4, 5(a)(2), or 
+2
+6 of the Federal Trade Commission Act (15 U.S.C. 
+3
+44, 45(a)(2), 46) or any jurisdictional limitation of 
+4
+the Commission, the Commission shall also enforce 
+5
+this Act, in the same manner provided in paragraphs 
+6
+(1) and (2) of this paragraph, with respect to— 
+7
+(A) common carriers subject to the Com-
+8
+munications Act of 1934 (47 U.S.C. 151 et 
+9
+seq.) and Acts amendatory thereof and supple-
+10
+mentary thereto; and 
+11
+(B) organizations not organized to carry 
+12
+on business for their own profit or that of their 
+13
+members. 
+14
+(4) AUTHORITY PRESERVED.—Nothing in this 
+15
+Act shall be construed to limit the authority of the 
+16
+Commission under any other provision of law. 
+17
+Æ 
+19:38 Nov 11, 2021
+H5921

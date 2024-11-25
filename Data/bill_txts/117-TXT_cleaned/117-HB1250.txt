@@ -1,0 +1,371 @@
+A BILL 
+To direct the Federal Communications Commission to issue 
+reports after activation of the Disaster Information Re-
+porting System and to make improvements to network 
+outage reporting. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Emergency Reporting 
+4
+Act’’. 
+5
+00:53 Mar 21, 2021
+H1250
+2 
+•HR 1250 IH
+SEC. 2. REPORTS AFTER ACTIVATION OF DISASTER INFOR-
+1
+MATION 
+REPORTING 
+SYSTEM; 
+IMPROVE-
+2
+MENTS TO NETWORK OUTAGE REPORTING. 
+3
+(a) REPORTS AFTER ACTIVATION OF DISASTER IN-
+4
+FORMATION REPORTING SYSTEM.— 
+5
+(1) PRELIMINARY REPORT.— 
+6
+(A) IN GENERAL.—Not later than 6 weeks 
+7
+after the deactivation of the Disaster Informa-
+8
+tion Reporting System with respect to an event 
+9
+for which the System was activated for at least 
+10
+7 days, the Commission shall issue a prelimi-
+11
+nary report on, with respect to such event and 
+12
+to the extent known— 
+13
+(i) the number and duration of any 
+14
+outages of— 
+15
+(I) broadband internet access 
+16
+service; 
+17
+(II) interconnected VoIP service; 
+18
+(III) commercial mobile service; 
+19
+and 
+20
+(IV) commercial mobile data 
+21
+service; 
+22
+(ii) the approximate number of users 
+23
+or the amount of communications infra-
+24
+structure potentially affected by an outage 
+25
+described in clause (i); 
+26
+00:53 Mar 21, 2021
+H1250
+3 
+•HR 1250 IH
+(iii) the number and duration of any 
+1
+outages at public safety answering points 
+2
+that prevent public safety answering points 
+3
+from receiving emergency calls and routing 
+4
+such calls to emergency service personnel; 
+5
+and 
+6
+(iv) any additional information deter-
+7
+mined appropriate by the Commission. 
+8
+(B) DEVELOPMENT
+OF
+REPORT.—The 
+9
+Commission shall develop the report required by 
+10
+subparagraph (A) using information collected 
+11
+by the Commission, including information col-
+12
+lected by the Commission through the System. 
+13
+(2) PUBLIC FIELD HEARINGS.— 
+14
+(A) REQUIREMENT.—Not later than 8 
+15
+months after the deactivation of the Disaster 
+16
+Information Reporting System with respect to 
+17
+an event for which the System was activated for 
+18
+at least 7 days, the Commission shall hold at 
+19
+least 1 public field hearing in the area affected 
+20
+by such event. 
+21
+(B) INCLUSION OF CERTAIN INDIVIDUALS 
+22
+IN HEARINGS.—For each public field hearing 
+23
+held under subparagraph (A), the Commission 
+24
+shall consider including— 
+25
+00:53 Mar 21, 2021
+H1250
+4 
+•HR 1250 IH
+(i) representatives of State govern-
+1
+ment, local government, or Indian Tribal 
+2
+governments in areas affected by such 
+3
+event; 
+4
+(ii) residents of the areas affected by 
+5
+such event, or consumer advocates; 
+6
+(iii) providers of communications serv-
+7
+ices affected by such event; 
+8
+(iv) faculty of institutions of higher 
+9
+education; 
+10
+(v) representatives of other Federal 
+11
+agencies; 
+12
+(vi) electric utility providers; 
+13
+(vii) communications infrastructure 
+14
+companies; and 
+15
+(viii) 
+first 
+responders, 
+emergency 
+16
+managers, or 9–1–1 directors in areas af-
+17
+fected by such event. 
+18
+(3) FINAL REPORT.—Not later than 12 months 
+19
+after the deactivation of the Disaster Information 
+20
+Reporting System with respect to an event for which 
+21
+the System was activated for at least 7 days, the 
+22
+Commission shall issue a final report that includes, 
+23
+with respect to such event— 
+24
+00:53 Mar 21, 2021
+H1250
+5 
+•HR 1250 IH
+(A) the information described under para-
+1
+graph (1)(A); and 
+2
+(B) any recommendations of the Commis-
+3
+sion on how to improve the resiliency of af-
+4
+fected communications or networks recovery ef-
+5
+forts. 
+6
+(4) DEVELOPMENT
+OF
+REPORTS.—In devel-
+7
+oping a report required under this subsection, the 
+8
+Commission shall consider information collected by 
+9
+the Commission, including information collected by 
+10
+the Commission through the System, and any public 
+11
+hearing described in paragraph (2) with respect to 
+12
+the applicable event. 
+13
+(5) PUBLICATION.—The Commission shall pub-
+14
+lish each report, excluding information that is other-
+15
+wise exempt from public disclosure under the rules 
+16
+of the Commission, issued under this subsection on 
+17
+the website of the Commission upon the issuance of 
+18
+such report. 
+19
+(b) IMPROVEMENTS TO NETWORK OUTAGE REPORT-
+20
+ING.—Not later than 1 year after the date of the enact-
+21
+ment of this Act, the Commission shall conduct a pro-
+22
+ceeding and, after public notice and an opportunity for 
+23
+comment, adopt rules to— 
+24
+00:53 Mar 21, 2021
+H1250
+6 
+•HR 1250 IH
+(1) determine the circumstances under which to 
+1
+require service providers subject to the 9–1–1 regu-
+2
+lations established under part 9 of title 47, Code of 
+3
+Federal Regulations, to submit a timely notification, 
+4
+(in an easily accessible format that facilities situa-
+5
+tional awareness) to public safety answering points 
+6
+regarding communications service disruptions within 
+7
+the assigned territories of such public safety answer-
+8
+ing points that prevent— 
+9
+(A) the origination of 9–1–1 calls; 
+10
+(B) the delivery of Automatic Location In-
+11
+formation; or 
+12
+(C) Automatic Number Identification; 
+13
+(2) require such notifications to be made; and 
+14
+(3) specify the appropriate timing of such noti-
+15
+fication. 
+16
+(c) DEFINITIONS.—In this section: 
+17
+(1) 
+AUTOMATIC
+LOCATION
+INFORMATION; 
+18
+AUTOMATIC NUMBER IDENTIFICATION.—The terms 
+19
+‘‘Automatic Location Information’’ and ‘‘Automatic 
+20
+Number Identification’’ have the meaning given 
+21
+those terms in section 9.3 of title 47, Code of Fed-
+22
+eral Regulations, or any successor regulation. 
+23
+(2) BROADBAND INTERNET ACCESS SERVICE.— 
+24
+The term ‘‘broadband internet access service’’ has 
+25
+00:53 Mar 21, 2021
+H1250
+7 
+•HR 1250 IH
+the meaning given such term in section 8.1(b) of 
+1
+title 47, Code of Federal Regulations, or any suc-
+2
+cessor regulation. 
+3
+(3) COMMERCIAL MOBILE SERVICE.—The term 
+4
+‘‘commercial mobile service’’ has the meaning given 
+5
+such term in section 332(d) of the Communications 
+6
+Act of 1934 (47 U.S.C. 332(d)). 
+7
+(4) COMMERCIAL MOBILE DATA SERVICE.—The 
+8
+term ‘‘commercial mobile data service’’ has the 
+9
+meaning given such term in section 6001 of the Mid-
+10
+dle Class Tax Relief and Job Creation Act of 2012 
+11
+(47 U.S.C. 1401). 
+12
+(5) COMMISSION.—The term ‘‘Commission’’ 
+13
+means the Federal Communications Commission. 
+14
+(6) INDIAN TRIBAL GOVERNMENT; LOCAL GOV-
+15
+ERNMENT.—The terms ‘‘Indian Tribal government’’ 
+16
+and ‘‘Indian Tribal Government’’ have the meaning 
+17
+given those terms in section 102 of the Robert T. 
+18
+Stafford Disaster Relief and Emergency Assistance 
+19
+Act (42 U.S.C. 5121). 
+20
+(7) INTERCONNECTED
+VOIP
+SERVICE.—The 
+21
+term ‘‘interconnected VoIP service’’ has the meaning 
+22
+given such term in section 3 of the Communications 
+23
+Act of 1934 (47 U.S.C. 153). 
+24
+00:53 Mar 21, 2021
+H1250
+8 
+•HR 1250 IH
+(8) PUBLIC SAFETY ANSWERING POINT.—The 
+1
+term ‘‘public safety answering point’’ has the mean-
+2
+ing given such term in section 222 of the Commu-
+3
+nications Act of 1934 (47 U.S.C. 222). 
+4
+(9) STATE.—The term ‘‘State’’ has the mean-
+5
+ing given such term in section 3 of the Communica-
+6
+tions Act of 1934 (47 U.S.C. 153). 
+7
+Æ 
+00:53 Mar 21, 2021
+H1250

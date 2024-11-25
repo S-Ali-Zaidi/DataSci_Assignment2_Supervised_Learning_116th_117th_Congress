@@ -1,0 +1,547 @@
+A BILL 
+To improve cybersecurity practices and improve digital 
+literacy among veterans, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Veterans Online Infor-
+4
+mation and Cybersecurity Empowerment Act of 2022’’ or 
+5
+the ‘‘VOICE Act of 2022’’. 
+6
+SEC. 2. FINDINGS. 
+7
+(a) FINDINGS.—Congress finds the following: 
+8
+(1) Researchers have documented persistent, 
+9
+pervasive, and coordinated online targeting of mem-
+10
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+2 
+•HR 8215 IH
+bers of the Armed Forces, veterans, and their fami-
+1
+lies by foreign adversaries seeking to undermine 
+2
+United States democracy in part because of public 
+3
+trust placed in these communities. Government 
+4
+agencies and researchers have also documented the 
+5
+targeting of veterans by fraudsters, especially online 
+6
+scammers, seeking to steal their government bene-
+7
+fits. 
+8
+(2) According to the Federal Trade Commis-
+9
+sion, fraud costs veterans, members of the Armed 
+10
+Forces, and their families $267,000,000 in 2021. 
+11
+This was a 162-percent increase from 2020 and the 
+12
+median loss for these scam victims was $600, 20 
+13
+percent higher than for the median loss for the gen-
+14
+eral public. According to a 2017 survey conducted 
+15
+by the American Association of Retired Persons 
+16
+(AARP) veterans are twice as likely to unknowingly 
+17
+participate in a scam compared to the general popu-
+18
+lation and an estimated 16 percent of veterans re-
+19
+port having losing some money to fraud, while 78 
+20
+percent report encountering scams that have explic-
+21
+itly designed to exploit their military service. 
+22
+(3) At the same time, adversaries from Russia, 
+23
+China, and Iran are using information warfare to in-
+24
+fluence democracies across the world, and extremist 
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+3 
+•HR 8215 IH
+organizations often use digital communications to re-
+1
+cruit members. Influence campaigns from foreign 
+2
+adversaries reached tens of millions of voters during 
+3
+the 2016 and 2018 elections with racially and divi-
+4
+sively targeted messages. The United States can 
+5
+fight these influences by ensuring that citizens of 
+6
+the United States possess the necessary skills to dis-
+7
+cern disinformation and misinformation and protect 
+8
+themselves from foreign influence campaigns. 
+9
+(4) The Select Committee on Intelligence of the 
+10
+Senate found in its investigation of the interference 
+11
+in the 2016 election that social media posts by the 
+12
+Internet Research Agency (IRA) of Russia reached 
+13
+tens of millions of voters in 2016 and were meant 
+14
+to pit the people of the United States against one 
+15
+another and sow discord. Volume II of the Commit-
+16
+tee’s investigation found that the Internet Research 
+17
+Agency’s Instagram account with the second largest 
+18
+reach used the handle ‘‘@american.veterans’’ and 
+19
+was ‘‘aimed at patriotic, conservative audiences, col-
+20
+lected 215,680 followers, and generated nearly 18.5 
+21
+million engagements.’’. 
+22
+(5) A 2019 investigative report by the Vietnam 
+23
+Veterans of America (VVA) titled ‘‘An Investigation 
+24
+into Foreign Entities who are Targeting Troops and 
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+4 
+•HR 8215 IH
+Veterans Online’’, found that the Internet Research 
+1
+Agency targeted veterans and the followers of sev-
+2
+eral congressionally chartered veterans service orga-
+3
+nizations with at least 113 advertisements during 
+4
+and following the 2016 election and that ‘‘this rep-
+5
+resents a fraction of the Russian activity that tar-
+6
+geted this community with divisive propaganda.’’. 
+7
+The report also found that foreign actors have been 
+8
+impersonating veterans through social-media ac-
+9
+counts and interacting with veterans and veterans 
+10
+groups on social media to spread propaganda and 
+11
+disinformation. To counter these acts, Vietnam Vet-
+12
+erans of America recommended that the Department 
+13
+of Veterans Affairs ‘‘immediately develop plans to 
+14
+make the cyber-hygiene of veterans an urgent pri-
+15
+ority within the Department of Veterans Affairs. 
+16
+The VA must educate and train veterans on per-
+17
+sonal cybersecurity: how to mitigate vulnerabilities, 
+18
+vigilantly maintain safe practices, and recognize 
+19
+threats, including how to identify instances of online 
+20
+manipulation.’’. 
+21
+(6) The Cyberspace Solarium Commission, a bi-
+22
+cameral and bipartisan commission, established by 
+23
+section 1652 of the John S. McCain National De-
+24
+fense Authorization Act for Fiscal Year 2019 (Pub-
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+5 
+•HR 8215 IH
+lic Law 115–232), concluded in its finished report 
+1
+that the ‘‘U.S. government should promote digital 
+2
+literacy, civics education, and public awareness to 
+3
+build societal resilience to foreign, malign cyber-en-
+4
+abled information operations and that the U.S. gov-
+5
+ernment must ensure that individual Americans have 
+6
+both the digital literacy tools and the civics edu-
+7
+cation they need to secure their networks and their 
+8
+democracy from cyber-enabled information oper-
+9
+ations.’’. The report recommended that Congress au-
+10
+thorize grant programs to do this. 
+11
+SEC. 3. SENSE OF CONGRESS. 
+12
+It is the sense of Congress that, given the threat for-
+13
+eign influence campaigns pose for United States democ-
+14
+racy, the effect of online scams on veterans and their fami-
+15
+lies, and the findings and recommendations of Congress, 
+16
+Federal agencies, and experts, Congress should imme-
+17
+diately act to pass legislative measures to increase digital 
+18
+and media literacy, as well as cybersecurity best practices 
+19
+among veterans of the United States. 
+20
+SEC. 4. VETERANS CYBERSECURITY AND DIGITAL LIT-
+21
+ERACY GRANT PROGRAM. 
+22
+(a) PROGRAM REQUIRED.—The Secretary shall es-
+23
+tablish a program to promote digital citizenship and media 
+24
+literacy, through which the Secretary shall award grants 
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+6 
+•HR 8215 IH
+to eligible entities to enable those eligible entities to carry 
+1
+out the activities described in subsection (c). 
+2
+(b) APPLICATION.—An eligible entity seeking a grant 
+3
+under the program required by subsection (a) shall submit 
+4
+to the Secretary an application therefor at such time, in 
+5
+such manner, and containing such information as the Sec-
+6
+retary may require, including, at a minimum the following: 
+7
+(1) A description of the activities the eligible 
+8
+entity intends to carry out with the grant funds. 
+9
+(2) An estimate of the costs associated with 
+10
+such activities. 
+11
+(3) Such other information and assurances as 
+12
+the Secretary may require. 
+13
+(c) ACTIVITIES.—An eligible entity shall use the 
+14
+amount of a grant awarded under the program required 
+15
+by subsection (a) to carry out one or more of the following 
+16
+activities to promote cybersecurity best practices and in-
+17
+crease digital and media literacy among veterans: 
+18
+(1) Develop competencies in cybersecurity best 
+19
+practices. 
+20
+(2) Develop media literacy and digital citizen-
+21
+ship competencies by promoting veterans’— 
+22
+(A) research and information fluency; 
+23
+(B) critical thinking and problem solving 
+24
+skills; 
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+7 
+•HR 8215 IH
+(C) technology operations and concepts; 
+1
+(D) information and technological literacy; 
+2
+(E) concepts of media and digital represen-
+3
+tation and stereotyping; 
+4
+(F) understanding of explicit and implicit 
+5
+media and digital messages; 
+6
+(G) understanding of values and points of 
+7
+view that are included and excluded in media 
+8
+and digital content; 
+9
+(H) understanding of how media and dig-
+10
+ital content may influence ideas and behaviors; 
+11
+(I) understanding of the importance of ob-
+12
+taining 
+information 
+from 
+multiple 
+media 
+13
+sources and evaluating sources for quality; 
+14
+(J) understanding how information on dig-
+15
+ital platforms can be altered through algo-
+16
+rithms, editing, and augmented reality; 
+17
+(K) ability to create media and digital con-
+18
+tent in civically and socially responsible ways; 
+19
+and 
+20
+(L) understanding of influence campaigns 
+21
+conducted by foreign adversaries and the tactics 
+22
+employed by foreign adversaries for conducting 
+23
+influence campaigns. 
+24
+(d) REPORTING.— 
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+8 
+•HR 8215 IH
+(1) REPORTS BY GRANT RECIPIENTS.—Each re-
+1
+cipient of a grant under the program required by 
+2
+subsection (a) shall, not later than one year after 
+3
+the date on which the recipient first receives funds 
+4
+pursuant to the grant, submit to the Secretary a re-
+5
+port describing the activities the recipient carried 
+6
+out using grant funds and the effectiveness of those 
+7
+activities. 
+8
+(2) REPORT BY THE SECRETARY.—Not later 
+9
+than 90 days after the date on which the Secretary 
+10
+receives the last report the Secretary expects to re-
+11
+ceive under paragraph (1), the Secretary shall sub-
+12
+mit to Congress a report describing the activities 
+13
+carried out under this section and the effectiveness 
+14
+of those activities. 
+15
+(e) SENSE OF CONGRESS.—It is the sense of Con-
+16
+gress that the Secretary should— 
+17
+(1) establish and maintain a list of eligible enti-
+18
+ties that receive a grant under the program required 
+19
+by subsection (a), and individuals designated by 
+20
+those eligible entities as participating individuals; 
+21
+and 
+22
+(2) make that list available to those eligible en-
+23
+tities and participating individuals in order to pro-
+24
+mote communication and further exchange of infor-
+25
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+9 
+•HR 8215 IH
+mation regarding sound digital citizenship and 
+1
+media literacy practices among recipients of grants 
+2
+under the program required by subsection (a). 
+3
+(f) AUTHORIZATION OF APPROPRIATIONS.—There is 
+4
+authorized to be appropriated to carry out this section 
+5
+$20,000,000 for each of fiscal years 2023, 2025, and 
+6
+2027. 
+7
+(g) DEFINITIONS.—In this section: 
+8
+(1) CYBERSECURITY
+BEST
+PRACTICES.—The 
+9
+term ‘‘cybersecurity best practices’’ means practices 
+10
+and steps that users of computers and other internet 
+11
+connected devices take to maintain and improve on-
+12
+line security, maintain the proper functioning of 
+13
+computers devices, and protect computers and de-
+14
+vices from cyberattacks and unauthorized use. 
+15
+(2) DIGITAL CITIZENSHIP.—The term ‘‘digital 
+16
+citizenship’’ means the ability to— 
+17
+(A) safely, responsibly, and ethically use 
+18
+communication technologies and digital infor-
+19
+mation technology tools and platforms; 
+20
+(B) create and share media content using 
+21
+principles of social and civic responsibility and 
+22
+with awareness of the legal and ethical issues 
+23
+involved; and 
+24
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+10 
+•HR 8215 IH
+(C) participate in the political, economic, 
+1
+social, and cultural aspects of life related to 
+2
+technology, communications, and the digital 
+3
+world by consuming and creating digital con-
+4
+tent, including media. 
+5
+(3) ELIGIBLE ENTITY.—The term ‘‘eligible enti-
+6
+ty’’ means— 
+7
+(A) a civil society organization, including 
+8
+community groups, nongovernmental organiza-
+9
+tions, nonprofit organization, labor organiza-
+10
+tions, indigenous groups, charitable organiza-
+11
+tions, professional associations, and founda-
+12
+tions; and 
+13
+(B) congressionally chartered veterans 
+14
+service organizations. 
+15
+(4) MEDIA LITERACY.—The term ‘‘media lit-
+16
+eracy’’ means the ability to— 
+17
+(A) access relevant and accurate informa-
+18
+tion through media in a variety of forms; 
+19
+(B) critically analyze media content and 
+20
+the influences of different forms of media; 
+21
+(C) evaluate the comprehensiveness, rel-
+22
+evance, credibility, authority, and accuracy of 
+23
+information; 
+24
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS
+11 
+•HR 8215 IH
+(D) make educated decisions based on in-
+1
+formation obtained from media and digital 
+2
+sources; 
+3
+(E) operate various forms of technology 
+4
+and digital tools; and 
+5
+(F) reflect on how the use of media and 
+6
+technology may affect private and public life. 
+7
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+8
+the Secretary of Veterans Affairs. 
+9
+Æ 
+21:56 Jul 07, 2022
+H8215
+khammond on DSKJM1Z7X2PROD with BILLS

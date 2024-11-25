@@ -1,0 +1,616 @@
+A BILL 
+To amend title 18, United States Code, to update the privacy 
+protections for electronic communications information 
+that is stored by third-party service providers in order 
+to protect consumer privacy interests while meeting law 
+enforcement needs, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Email Privacy Act’’. 
+4
+SEC. 2. VOLUNTARY DISCLOSURE CORRECTIONS. 
+5
+(a) IN GENERAL.—Section 2702 of title 18, United 
+6
+States Code, is amended— 
+7
+00:28 Dec 28, 2020
+H8961
+2 
+•HR 8961 IH
+(1) in subsection (a)— 
+1
+(A) in paragraph (1)— 
+2
+(i) by striking ‘‘divulge’’ and inserting 
+3
+‘‘disclose’’; and 
+4
+(ii) by striking ‘‘while in electronic 
+5
+storage by that service’’ and inserting 
+6
+‘‘that is in electronic storage with or other-
+7
+wise stored, held, or maintained by that 
+8
+service’’; 
+9
+(B) in paragraph (2)— 
+10
+(i) by striking ‘‘to the public’’; 
+11
+(ii) by striking ‘‘divulge’’ and insert-
+12
+ing ‘‘disclose’’; and 
+13
+(iii) by striking ‘‘which is carried or 
+14
+maintained on that service’’ and inserting 
+15
+‘‘that is stored, held, or maintained by that 
+16
+service’’; and 
+17
+(C) in paragraph (3)— 
+18
+(i) by striking ‘‘divulge’’ and inserting 
+19
+‘‘disclose’’; and 
+20
+(ii) by striking ‘‘a provider of’’ and in-
+21
+serting ‘‘a person or entity providing’’; 
+22
+(2) in subsection (b)— 
+23
+00:28 Dec 28, 2020
+H8961
+3 
+•HR 8961 IH
+(A) in the matter preceding paragraph (1), 
+1
+by inserting ‘‘wire or electronic’’ before ‘‘com-
+2
+munication’’; 
+3
+(B) by amending paragraph (1) to read as 
+4
+follows: 
+5
+‘‘(1) to an originator, addressee, or intended re-
+6
+cipient of such communication, to the subscriber or 
+7
+customer on whose behalf the provider stores, holds, 
+8
+or maintains such communication, or to an agent of 
+9
+such addressee, intended recipient, subscriber, or 
+10
+customer;’’; and 
+11
+(C) by amending paragraph (3) to read as 
+12
+follows: 
+13
+‘‘(3) with the lawful consent of the originator, 
+14
+addressee, or intended recipient of such communica-
+15
+tion, or of the subscriber or customer on whose be-
+16
+half the provider stores, holds, or maintains such 
+17
+communication;’’; 
+18
+(3) in subsection (c) by inserting ‘‘wire or elec-
+19
+tronic’’ before ‘‘communications’’; 
+20
+(4) in each of subsections (b) and (c), by strik-
+21
+ing ‘‘divulge’’ and inserting ‘‘disclose’’; and 
+22
+(5) in subsection (c), by amending paragraph 
+23
+(2) to read as follows: 
+24
+00:28 Dec 28, 2020
+H8961
+4 
+•HR 8961 IH
+‘‘(2) with the lawful consent of the subscriber 
+1
+or customer;’’. 
+2
+SEC. 3. AMENDMENTS TO REQUIRED DISCLOSURE SEC-
+3
+TION. 
+4
+Section 2703 of title 18, United States Code, is 
+5
+amended— 
+6
+(1) by striking subsections (a) through (c) and 
+7
+inserting the following: 
+8
+‘‘(a) CONTENTS OF WIRE OR ELECTRONIC COMMU-
+9
+NICATIONS IN ELECTRONIC STORAGE.—Except as pro-
+10
+vided in subsections (i) and (j), a governmental entity may 
+11
+require the disclosure by a provider of electronic commu-
+12
+nication service of the contents of a wire or electronic com-
+13
+munication that is in electronic storage with or otherwise 
+14
+stored, held, or maintained by that service only if the gov-
+15
+ernmental entity obtains a warrant issued using the proce-
+16
+dures described in the Federal Rules of Criminal Proce-
+17
+dure (or, in the case of a State court, issued using State 
+18
+warrant procedures) that— 
+19
+‘‘(1) is issued by a court of competent jurisdic-
+20
+tion; and 
+21
+‘‘(2) may indicate the date by which the pro-
+22
+vider must make the disclosure to the governmental 
+23
+entity. 
+24
+00:28 Dec 28, 2020
+H8961
+5 
+•HR 8961 IH
+In the absence of a date on the warrant indicating the 
+1
+date by which the provider must make disclosure to the 
+2
+governmental entity, the provider shall promptly respond 
+3
+to the warrant. 
+4
+‘‘(b) CONTENTS OF WIRE OR ELECTRONIC COMMU-
+5
+NICATIONS IN A REMOTE COMPUTING SERVICE.— 
+6
+‘‘(1) IN GENERAL.—Except as provided in sub-
+7
+sections (i) and (j), a governmental entity may re-
+8
+quire the disclosure by a provider of remote com-
+9
+puting service of the contents of a wire or electronic 
+10
+communication that is stored, held, or maintained by 
+11
+that service only if the governmental entity obtains 
+12
+a warrant issued using the procedures described in 
+13
+the Federal Rules of Criminal Procedure (or, in the 
+14
+case of a State court, issued using State warrant 
+15
+procedures) that— 
+16
+‘‘(A) is issued by a court of competent ju-
+17
+risdiction; and 
+18
+‘‘(B) may indicate the date by which the 
+19
+provider must make the disclosure to the gov-
+20
+ernmental entity. 
+21
+In the absence of a date on the warrant indicating 
+22
+the date by which the provider must make disclosure 
+23
+to the governmental entity, the provider shall 
+24
+promptly respond to the warrant. 
+25
+00:28 Dec 28, 2020
+H8961
+6 
+•HR 8961 IH
+‘‘(2) APPLICABILITY.—Paragraph (1) is appli-
+1
+cable with respect to any wire or electronic commu-
+2
+nication that is stored, held, or maintained by the 
+3
+provider— 
+4
+‘‘(A) on behalf of, and received by means 
+5
+of electronic transmission from (or created by 
+6
+means of computer processing of communica-
+7
+tion received by means of electronic trans-
+8
+mission from), a subscriber or customer of such 
+9
+remote computing service; and 
+10
+‘‘(B) solely for the purpose of providing 
+11
+storage or computer processing services to such 
+12
+subscriber or customer, if the provider is not 
+13
+authorized to access the contents of any such 
+14
+communications for purposes of providing any 
+15
+services other than storage or computer proc-
+16
+essing. 
+17
+‘‘(c) RECORDS CONCERNING ELECTRONIC COMMU-
+18
+NICATION SERVICE OR REMOTE COMPUTING SERVICE.— 
+19
+‘‘(1) IN GENERAL.—Except as provided in sub-
+20
+sections (i) and (j), a governmental entity may re-
+21
+quire the disclosure by a provider of electronic com-
+22
+munication service or remote computing service of a 
+23
+record or other information pertaining to a sub-
+24
+scriber to or customer of such service (not including 
+25
+00:28 Dec 28, 2020
+H8961
+7 
+•HR 8961 IH
+the contents of wire or electronic communications), 
+1
+only— 
+2
+‘‘(A) if a governmental entity obtains a 
+3
+warrant issued using the procedures described 
+4
+in the Federal Rules of Criminal Procedure (or, 
+5
+in the case of a State court, issued using State 
+6
+warrant procedures) that— 
+7
+‘‘(i) is issued by a court of competent 
+8
+jurisdiction directing the disclosure; and 
+9
+‘‘(ii) may indicate the date by which 
+10
+the provider must make the disclosure to 
+11
+the governmental entity; 
+12
+‘‘(B) if a governmental entity obtains a 
+13
+court order directing the disclosure under sub-
+14
+section (d); 
+15
+‘‘(C) with the lawful consent of the sub-
+16
+scriber or customer; or 
+17
+‘‘(D) as otherwise authorized in paragraph 
+18
+(2). 
+19
+‘‘(2) SUBSCRIBER
+OR
+CUSTOMER
+INFORMA-
+20
+TION.—A provider of electronic communication serv-
+21
+ice or remote computing service shall, in response to 
+22
+an administrative subpoena authorized by Federal or 
+23
+State statute, a grand jury, trial, or civil discovery 
+24
+00:28 Dec 28, 2020
+H8961
+8 
+•HR 8961 IH
+subpoena, or any means available under paragraph 
+1
+(1), disclose to a governmental entity the— 
+2
+‘‘(A) name; 
+3
+‘‘(B) address; 
+4
+‘‘(C) local and long distance telephone con-
+5
+nection records, or records of session times and 
+6
+durations; 
+7
+‘‘(D) length of service (including start 
+8
+date) and types of service used; 
+9
+‘‘(E) telephone or instrument number or 
+10
+other subscriber or customer number or iden-
+11
+tity, including any temporarily assigned net-
+12
+work address; and 
+13
+‘‘(F) means and source of payment for 
+14
+such service (including any credit card or bank 
+15
+account number), 
+16
+of a subscriber or customer of such service. 
+17
+‘‘(3) NOTICE NOT REQUIRED.—A governmental 
+18
+entity that receives records or information under 
+19
+this subsection is not required to provide notice to 
+20
+a subscriber or customer.’’; 
+21
+(2) in subsection (d)— 
+22
+(A) by striking ‘‘(b) or’’; 
+23
+(B) by striking ‘‘the contents of a wire or 
+24
+electronic communication, or’’; 
+25
+00:28 Dec 28, 2020
+H8961
+9 
+•HR 8961 IH
+(C) by striking ‘‘sought,’’ and inserting 
+1
+‘‘sought’’; and 
+2
+(D) by striking ‘‘section’’ and inserting 
+3
+‘‘subsection’’; and 
+4
+(3) by adding at the end the following: 
+5
+‘‘(h) NOTICE.—Except as provided in section 2705, 
+6
+a provider of electronic communication service or remote 
+7
+computing service may notify a subscriber or customer of 
+8
+a receipt of a warrant, court order, subpoena, or request 
+9
+under subsection (a), (b), (c), or (d) of this section. 
+10
+‘‘(i) RULE OF CONSTRUCTION RELATED TO LEGAL 
+11
+PROCESS.—Nothing in this section or in section 2702 
+12
+shall limit the authority of a governmental entity to use 
+13
+an administrative subpoena authorized by Federal or 
+14
+State statute, a grand jury, trial, or civil discovery sub-
+15
+poena, or a warrant issued using the procedures described 
+16
+in the Federal Rules of Criminal Procedure (or, in the 
+17
+case of a State court, issued using State warrant proce-
+18
+dures) by a court of competent jurisdiction to— 
+19
+‘‘(1) require an originator, addressee, or in-
+20
+tended recipient of a wire or electronic communica-
+21
+tion to disclose a wire or electronic communication 
+22
+(including the contents of that communication) to 
+23
+the governmental entity; 
+24
+00:28 Dec 28, 2020
+H8961
+10 
+•HR 8961 IH
+‘‘(2) require a person or entity that provides an 
+1
+electronic communication service to the officers, di-
+2
+rectors, employees, or agents of the person or entity 
+3
+(for the purpose of carrying out their duties) to dis-
+4
+close a wire or electronic communication (including 
+5
+the contents of that communication) to or from the 
+6
+person or entity itself or to or from an officer, direc-
+7
+tor, employee, or agent of the entity to a govern-
+8
+mental entity, if the wire or electronic communica-
+9
+tion is stored, held, or maintained on an electronic 
+10
+communications system owned, operated, or con-
+11
+trolled by the person or entity; or 
+12
+‘‘(3) require a person or entity that provides a 
+13
+remote computing service or electronic communica-
+14
+tion service to disclose a wire or electronic commu-
+15
+nication (including the contents of that communica-
+16
+tion) that advertises or promotes a product or serv-
+17
+ice and that has been made readily accessible to the 
+18
+general public. 
+19
+‘‘(j) RULE OF CONSTRUCTION RELATED TO CON-
+20
+GRESSIONAL SUBPOENAS.—Nothing in this section or in 
+21
+section 2702 shall limit the power of inquiry vested in the 
+22
+Congress by article I of the Constitution of the United 
+23
+States, including the authority to compel the production 
+24
+of a wire or electronic communication (including the con-
+25
+00:28 Dec 28, 2020
+H8961
+11 
+•HR 8961 IH
+tents of a wire or electronic communication) that is stored, 
+1
+held, or maintained by a person or entity that provides 
+2
+remote computing service or electronic communication 
+3
+service.’’. 
+4
+SEC. 4. DELAYED NOTICE. 
+5
+Section 2705 of title 18, United States Code, is 
+6
+amended to read as follows: 
+7
+‘‘§ 2705. Delayed notice 
+8
+‘‘(a) IN GENERAL.—A governmental entity acting 
+9
+under section 2703 may apply to a court for an order di-
+10
+recting a provider of electronic communication service or 
+11
+remote computing service to which a warrant, order, sub-
+12
+poena, or other directive under section 2703 is directed 
+13
+not to notify any other person of the existence of the war-
+14
+rant, order, subpoena, or other directive. 
+15
+‘‘(b) DETERMINATION.—A court shall grant a re-
+16
+quest for an order made under subsection (a) for delayed 
+17
+notification of up to 180 days if the court determines that 
+18
+there is reason to believe that notification of the existence 
+19
+of the warrant, order, subpoena, or other directive will 
+20
+likely result in— 
+21
+‘‘(1) endangering the life or physical safety of 
+22
+an individual; 
+23
+‘‘(2) flight from prosecution; 
+24
+‘‘(3) destruction of or tampering with evidence; 
+25
+00:28 Dec 28, 2020
+H8961
+12 
+•HR 8961 IH
+‘‘(4) intimidation of potential witnesses; or 
+1
+‘‘(5) otherwise seriously jeopardizing an inves-
+2
+tigation or unduly delaying a trial. 
+3
+‘‘(c) EXTENSION.—Upon request by a governmental 
+4
+entity, a court may grant one or more extensions, for peri-
+5
+ods of up to 180 days each, of an order granted in accord-
+6
+ance with subsection (b).’’. 
+7
+SEC. 5. RULE OF CONSTRUCTION. 
+8
+Nothing in this Act or an amendment made by this 
+9
+Act shall be construed to preclude the acquisition by the 
+10
+United States Government of— 
+11
+(1) the contents of a wire or electronic commu-
+12
+nication pursuant to other lawful authorities, includ-
+13
+ing the authorities under chapter 119 of title 18 
+14
+(commonly known as the ‘‘Wiretap Act’’), the For-
+15
+eign Intelligence Surveillance Act of 1978 (50 
+16
+U.S.C. 1801 et seq.), or any other provision of Fed-
+17
+eral law not specifically amended by this Act; or 
+18
+(2) records or other information relating to a 
+19
+subscriber or customer of any electronic communica-
+20
+tion service or remote computing service (not includ-
+21
+ing the content of such communications) pursuant to 
+22
+the Foreign Intelligence Surveillance Act of 1978 
+23
+(50 U.S.C. 1801 et seq.), chapter 119 of title 18 
+24
+(commonly known as the ‘‘Wiretap Act’’), or any 
+25
+00:28 Dec 28, 2020
+H8961
+13 
+•HR 8961 IH
+other provision of Federal law not specifically 
+1
+amended by this Act. 
+2
+Æ 
+00:28 Dec 28, 2020
+H8961

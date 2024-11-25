@@ -1,0 +1,640 @@
+A BILL 
+To amend title 18, United States Code, to provide a defense 
+to prosecution for fraud and related activity in connec-
+tion with computers for persons defending against unau-
+thorized intrusions into their computers, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Active Cyber Defense 
+4
+Certainty Act’’. 
+5
+04:22 Jun 18, 2019
+H3270
+2 
+•HR 3270 IH
+SEC. 2. CONGRESSIONAL FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) Cyber fraud and related cyber-enabled 
+3
+crimes pose a severe threat to the national security 
+4
+and economic vitality of the United States. 
+5
+(2) As a result of the unique nature of 
+6
+cybercrime, it is very difficult for law enforcement to 
+7
+respond to and prosecute cybercrime in a timely 
+8
+manner, leading to the existing low level of deter-
+9
+rence and a rapidly growing threat. In 2017, the De-
+10
+partment of Justice prosecuted only 165 cases of 
+11
+computer fraud. Congress determines that this sta-
+12
+tus quo is unacceptable and that if left unchecked, 
+13
+the trend in cybercrime will only continue to deterio-
+14
+rate. 
+15
+(3) Cybercriminals have developed new tactics 
+16
+for monetizing the proceeds of their criminal acts, 
+17
+making it likely that the criminal activity will be fur-
+18
+ther incentivized in the absence of reforms to cur-
+19
+rent law allowing for new cyber tools and deterrence 
+20
+methods for defenders. 
+21
+(4) When a citizen or United States business is 
+22
+victimized as the result of such crime, the first re-
+23
+course should be to report the crime to law enforce-
+24
+ment and seek to improve defensive measures. 
+25
+04:22 Jun 18, 2019
+H3270
+3 
+•HR 3270 IH
+(5) Congress also acknowledges that many 
+1
+cyberattacks could be prevented through improved 
+2
+cyber defensive practices, including enhanced train-
+3
+ing, strong passwords, and routine updating and 
+4
+patching to computer systems. 
+5
+(6) Congress determines that the use of active 
+6
+cyber defense techniques, when properly applied, can 
+7
+also assist in improving defenses and deterring 
+8
+cybercrimes. 
+9
+(7) Congress also acknowledges that many pri-
+10
+vate entities are increasingly concerned with stem-
+11
+ming the growth of dark web based cyber-enabled 
+12
+crimes. The Department of Justice should attempt 
+13
+to clarify the proper protocol for entities who are en-
+14
+gaged in active cyber defense in the dark web so 
+15
+that these defenders can return private property 
+16
+such as intellectual property and financial records 
+17
+gathered inadvertently. 
+18
+(8) Congress also recognizes that while Federal 
+19
+agencies will need to prioritize cyber incidents of na-
+20
+tional significance, there is the potential to assist the 
+21
+private sector by being more responsive to reports of 
+22
+crime through different reporting mechanisms. Many 
+23
+reported cybercrimes are not responded to in a time-
+24
+04:22 Jun 18, 2019
+H3270
+4 
+•HR 3270 IH
+ly manner creating significant uncertainty for many 
+1
+businesses and individuals. 
+2
+(9) Computer defenders should also exercise ex-
+3
+treme caution to avoid violating the law of any other 
+4
+nation where an attacker’s computer may reside. 
+5
+(10) Congress holds that active cyber defense 
+6
+techniques should only be used by qualified defend-
+7
+ers with a high degree of confidence in attribution, 
+8
+and that extreme caution should be taken to avoid 
+9
+impacting intermediary computers or resulting in an 
+10
+escalatory cycle of cyber activity. 
+11
+(11) It is the purpose of this Act to provide 
+12
+legal certainty by clarifying the type of tools and 
+13
+techniques that defenders can use that exceed the 
+14
+boundaries of their own computer network. 
+15
+SEC. 3. EXCEPTION FOR THE USE OF ATTRIBUTIONAL 
+16
+TECHNOLOGY. 
+17
+Section 1030 of title 18, United States Code, is 
+18
+amended by adding at the end the following: 
+19
+‘‘(k) EXCEPTION FOR THE USE OF ATTRIBUTIONAL 
+20
+TECHNOLOGY.— 
+21
+‘‘(1) This section shall not apply with respect to 
+22
+the use of attributional technology in regard to a de-
+23
+fender who uses a program, code, or command for 
+24
+attributional purposes that beacons or returns loca-
+25
+04:22 Jun 18, 2019
+H3270
+5 
+•HR 3270 IH
+tional or attributional data in response to a cyber in-
+1
+trusion in order to identify the source of an intru-
+2
+sion; if— 
+3
+‘‘(A) the program, code, or command origi-
+4
+nated on the computer of the defender but is 
+5
+copied or removed by an unauthorized user; and 
+6
+‘‘(B) the program, code, or command does 
+7
+not result in the destruction of data or result 
+8
+in an impairment of the essential operating 
+9
+functionality of the attacker’s computer system, 
+10
+or intentionally create a backdoor enabling in-
+11
+trusive access into the attacker’s computer sys-
+12
+tem. 
+13
+‘‘(2) DEFINITION.—The term ‘attributional 
+14
+data’ means any digital information such as log files, 
+15
+text strings, time stamps, malware samples, identi-
+16
+fiers such as user names and Internet Protocol ad-
+17
+dresses and metadata or other digital artifacts gath-
+18
+ered through forensic analysis.’’. 
+19
+SEC. 4. EXCLUSION FROM PROSECUTION FOR CERTAIN 
+20
+COMPUTER CRIMES FOR THOSE TAKING AC-
+21
+TIVE CYBER DEFENSE MEASURES. 
+22
+Section 1030 of title 18, United States Code, is 
+23
+amended by adding at the end the following: 
+24
+04:22 Jun 18, 2019
+H3270
+6 
+•HR 3270 IH
+‘‘(l) ACTIVE CYBER DEFENSE MEASURES NOT A 
+1
+VIOLATION.— 
+2
+‘‘(1) GENERALLY.—It is a defense to a criminal 
+3
+prosecution under this section that the conduct con-
+4
+stituting the offense was an active cyber defense 
+5
+measure. 
+6
+‘‘(2) INAPPLICABILITY TO CIVIL ACTION.—The 
+7
+defense against prosecution created by this section 
+8
+does not prevent a United States person or entity 
+9
+who is targeted by an active defense measure from 
+10
+seeking a civil remedy, including compensatory dam-
+11
+ages or injunctive relief pursuant to subsection (g). 
+12
+‘‘(3) DEFINITIONS.—In this subsection— 
+13
+‘‘(A) the term ‘defender’ means a person 
+14
+or an entity that is a victim of a persistent un-
+15
+authorized intrusion of the individual entity’s 
+16
+computer; 
+17
+‘‘(B) the term ‘active cyber defense meas-
+18
+ure’— 
+19
+‘‘(i) means any measure— 
+20
+‘‘(I) undertaken by, or at the di-
+21
+rection of, a defender; and 
+22
+‘‘(II) 
+consisting 
+of 
+accessing 
+23
+without authorization the computer of 
+24
+the attacker to the defender’s own 
+25
+04:22 Jun 18, 2019
+H3270
+7 
+•HR 3270 IH
+network to gather information in 
+1
+order to— 
+2
+‘‘(aa) establish attribution of 
+3
+criminal activity to share with 
+4
+law 
+enforcement 
+and 
+other 
+5
+United States Government agen-
+6
+cies responsible for cybersecurity; 
+7
+‘‘(bb) disrupt continued un-
+8
+authorized activity against the 
+9
+defender’s own network; or 
+10
+‘‘(cc) monitor the behavior 
+11
+of an attacker to assist in devel-
+12
+oping future intrusion prevention 
+13
+or cyber defense techniques; but 
+14
+‘‘(ii) does not include conduct that— 
+15
+‘‘(I) intentionally destroys or ren-
+16
+ders inoperable information that does 
+17
+not belong to the victim that is stored 
+18
+on another person or entity’s com-
+19
+puter; 
+20
+‘‘(II) recklessly causes physical 
+21
+injury or financial loss as described 
+22
+under subsection (c)(4); 
+23
+‘‘(III) creates a threat to the 
+24
+public health or safety; 
+25
+04:22 Jun 18, 2019
+H3270
+8 
+•HR 3270 IH
+‘‘(IV) intentionally exceeds the 
+1
+level of activity required to perform 
+2
+reconnaissance on an intermediary 
+3
+computer to allow for attribution of 
+4
+the origin of the persistent cyber in-
+5
+trusion; 
+6
+‘‘(V) intentionally results in in-
+7
+trusive or remote access into an 
+8
+intermediary’s computer; 
+9
+‘‘(VI) intentionally results in the 
+10
+persistent disruption to a person or 
+11
+entities internet connectivity resulting 
+12
+in damages defined under subsection 
+13
+(c)(4); or 
+14
+‘‘(VII) impacts any computer de-
+15
+scribed under subsection (a)(1) re-
+16
+garding access to national security in-
+17
+formation, subsection (a)(3) regarding 
+18
+government computers, or to sub-
+19
+section (c)(4)(A)(i)(V) regarding a 
+20
+computer system used by or for a 
+21
+Government entity for the furtherance 
+22
+of the administration of justice, na-
+23
+tional defense, or national security; 
+24
+04:22 Jun 18, 2019
+H3270
+9 
+•HR 3270 IH
+‘‘(C) the term ‘attacker’ means a person or 
+1
+an entity that is the source of the persistent un-
+2
+authorized intrusion into the victim’s computer; 
+3
+and 
+4
+‘‘(D) the term ‘intermediary computer’ 
+5
+means a person or entity’s computer that is not 
+6
+under the ownership or primary control of the 
+7
+attacker but has been used to launch or obscure 
+8
+the origin of the persistent cyber-attack.’’. 
+9
+SEC. 5. NOTIFICATION REQUIREMENT FOR THE USE OF AC-
+10
+TIVE CYBER DEFENSE MEASURES. 
+11
+Section 1030 of title 18, United States Code, is 
+12
+amended by adding the following: 
+13
+‘‘(m) NOTIFICATION REQUIREMENT FOR THE USE 
+14
+OF ACTIVE CYBER DEFENSE MEASURES.— 
+15
+‘‘(1) GENERALLY.—A defender who uses an ac-
+16
+tive cyber defense measure under the preceding sec-
+17
+tion must notify the FBI National Cyber Investiga-
+18
+tive Joint Task Force and receive a response from 
+19
+the FBI acknowledging receipt of the notification 
+20
+prior to using the measure. 
+21
+‘‘(2) REQUIRED
+INFORMATION.—Notification 
+22
+must include the type of cyber breach that the per-
+23
+son or entity was a victim of, the intended target of 
+24
+the active cyber defense measure, the steps the de-
+25
+04:22 Jun 18, 2019
+H3270
+10 
+•HR 3270 IH
+fender plans to take to preserve evidence of the 
+1
+attacker’s criminal cyber intrusion, as well as the 
+2
+steps they plan to prevent damage to intermediary 
+3
+computers not under the ownership of the attacker 
+4
+and other information requested by the FBI to as-
+5
+sist with oversight.’’. 
+6
+SEC. 6. VOLUNTARY PREEMPTIVE REVIEW OF ACTIVE 
+7
+CYBER DEFENSE MEASURES. 
+8
+(a) PILOT PROGRAM.—The Federal Bureau of Inves-
+9
+tigation (hereinafter in this section referred to as the 
+10
+‘‘FBI’’), in coordination with other Federal agencies, shall 
+11
+create a pilot program to last for 2 years after the date 
+12
+of enactment of this Act, to allow for a voluntary preemp-
+13
+tive review of active defense measures. 
+14
+(b) ADVANCE REVIEW.—A defender who intends to 
+15
+prepare an active defense measure under section 4 may 
+16
+submit their notification to the FBI National Cyber Inves-
+17
+tigative Joint Task Force in advance of its use so that 
+18
+the FBI and other agencies can review the notification and 
+19
+provide its assessment on how the proposed active defense 
+20
+measure may be amended to better conform to Federal 
+21
+law, the terms of section 4, and improve the technical op-
+22
+eration of the measure. 
+23
+04:22 Jun 18, 2019
+H3270
+11 
+•HR 3270 IH
+(c) PRIORITIZATION OF REQUESTS.—The FBI may 
+1
+decide how to prioritize the issuance of such guidance to 
+2
+defenders based on the availability of resources. 
+3
+SEC. 7. ANNUAL REPORT ON THE FEDERAL GOVERNMENT’S 
+4
+PROGRESS IN DETERRING CYBER FRAUD 
+5
+AND CYBER-ENABLED CRIMES. 
+6
+The Department of Justice, after consultation with 
+7
+the Department of Homeland Security and other relevant 
+8
+Federal agencies, shall deliver an annual report to Con-
+9
+gress not later than March 31 of each year, detailing the 
+10
+results of law enforcement activities pertaining to 
+11
+cybercriminal deterrence for the previous calendar year. 
+12
+The report shall include— 
+13
+(1) the number of computer fraud cases re-
+14
+ported by United States citizens and United States 
+15
+businesses to FBI Field Offices, the Secret Service 
+16
+Electronic Crimes Task Force, the Internet Crimes 
+17
+Complaint Center (IC3) website, and other Federal 
+18
+law enforcement agencies; 
+19
+(2) the number of investigations opened as a re-
+20
+sult of public reporting of computer fraud crimes, 
+21
+and the number of investigations open independently 
+22
+of any specific crimes being reported; 
+23
+(3) the number of cyber fraud cases prosecuted 
+24
+under section 1030 of title 18, United States Code, 
+25
+04:22 Jun 18, 2019
+H3270
+12 
+•HR 3270 IH
+and other related statutes involving cybercrime, in-
+1
+cluding the resolution of the cases; 
+2
+(4) the number of computer fraud crimes deter-
+3
+mined to have originated from United States sus-
+4
+pects and the number determined to have originated 
+5
+from foreign suspects, and details of the country of 
+6
+origin of the suspected foreign suspects; 
+7
+(5) the number of dark web cybercriminal mar-
+8
+ketplaces and cybercriminal networks disabled by 
+9
+law enforcement activities; 
+10
+(6) an estimate of the total financial damages 
+11
+suffered by United States citizens and businesses re-
+12
+sulting from ransomware and other fraudulent 
+13
+cyberattacks; 
+14
+(7) the number of law enforcement personnel 
+15
+assigned to investigate and prosecute cybercrimes; 
+16
+and 
+17
+(8) the number of active cyber defense notifica-
+18
+tions filed as required by this Act and a comprehen-
+19
+sive evaluation of the notification process and vol-
+20
+untary preemptive review pilot program. 
+21
+04:22 Jun 18, 2019
+H3270
+13 
+•HR 3270 IH
+SEC. 8. REQUIREMENT FOR THE DEPARTMENT OF JUSTICE 
+1
+TO UPDATE THE MANUAL ON THE PROSECU-
+2
+TION OF CYBERCRIMES. 
+3
+(a) The Department of Justice shall update the 
+4
+‘‘Prosecuting Computer Crimes Manual’’ to reflect the 
+5
+changes made by this legislation. 
+6
+(b) The Department of Justice is encouraged to seek 
+7
+additional opportunities to clarify the manual and other 
+8
+guidance to the public to reflect evolving defensive tech-
+9
+niques and cyber technology that can be used in manner 
+10
+that does not violate section 1030 of title 18, United 
+11
+States Code, or other Federal law and international trea-
+12
+ties. 
+13
+SEC. 9. SUNSET. 
+14
+The exclusion from prosecution created by this Act 
+15
+shall expire 2 years after the date of enactment of this 
+16
+Act. 
+17
+Æ 
+04:22 Jun 18, 2019
+H3270

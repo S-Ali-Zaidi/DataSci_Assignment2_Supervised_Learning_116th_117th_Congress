@@ -1,0 +1,980 @@
+A BILL 
+To require data brokers to establish procedures to ensure 
+the accuracy of collected personal information, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Data Broker Account-
+4
+ability and Transparency Act of 2020’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+18:27 May 08, 2020
+H6675
+2 
+•HR 6675 IH
+(1) The privacy of an individual is directly af-
+1
+fected by the collection, maintenance, use, and dis-
+2
+semination of personal information by data brokers. 
+3
+(2) An individual rarely has any knowledge 
+4
+about the processing of the individual’s personal in-
+5
+formation by data brokers. 
+6
+(3) The processing of personal information by 
+7
+data brokers and the commercial clients of data bro-
+8
+kers affects economic marketplace opportunities 
+9
+available to individuals. 
+10
+(4) The use of data broker information by Fed-
+11
+eral, State, and local agencies can affect the ability 
+12
+of an individual to travel, work, obtain government 
+13
+benefits, and receive government services. 
+14
+(5) An individual does not always have a right 
+15
+to access or seek correction of personal information 
+16
+maintained by data brokers. 
+17
+(6) Data brokers operate in interstate com-
+18
+merce, and it is necessary and proper for Congress 
+19
+to regulate the processing of information by data 
+20
+brokers. 
+21
+(7) Existing law does not provide an individual 
+22
+with sufficient privacy or due process protections. 
+23
+(8) Requiring data brokers to provide an indi-
+24
+vidual with fair information practices will increase 
+25
+18:27 May 08, 2020
+H6675
+3 
+•HR 6675 IH
+fairness, improve privacy, promote economic growth, 
+1
+and limit identity theft and other criminal activity 
+2
+by increasing the accuracy and quality of informa-
+3
+tion relied upon by governments and businesses. 
+4
+SEC. 3. DEFINITIONS. 
+5
+In this Act: 
+6
+(1) COMMISSION.—The term ‘‘Commission’’ 
+7
+means the Federal Trade Commission. 
+8
+(2) COVERED DATA BROKER.— 
+9
+(A) IN
+GENERAL.—The term ‘‘covered 
+10
+data broker’’ includes all data brokers except 
+11
+those data brokers excepted under subpara-
+12
+graph (B). 
+13
+(B) EXCEPTIONS.—The Commission may 
+14
+except a data broker if the Commission con-
+15
+siders, by rule, a data broker outside the scope 
+16
+of this Act, such as a data broker who proc-
+17
+esses information collected by or on behalf of 
+18
+and received from or on behalf of a non-
+19
+affiliated third party concerning an individual 
+20
+who is a customer or an employee of that third 
+21
+party to enable that third party, directly or 
+22
+through parties acting on its behalf, to provide 
+23
+benefits for its employees or directly transact 
+24
+business with its customers. 
+25
+18:27 May 08, 2020
+H6675
+4 
+•HR 6675 IH
+(3) DATA BROKER.—The term ‘‘data broker’’ 
+1
+means a commercial entity that collects, assembles, 
+2
+or maintains personal information concerning an in-
+3
+dividual who is not a customer or an employee of 
+4
+that entity in order to sell the information or provide 
+5
+third party access to the information. 
+6
+(4) NON-PUBLIC
+INFORMATION.—The term 
+7
+‘‘non-public information’’ means information about 
+8
+an individual that is— 
+9
+(A) of a private nature; 
+10
+(B) not available to the general public; and 
+11
+(C) not public record information. 
+12
+(5) PERSONAL INFORMATION.— 
+13
+(A) DEFINITION.—The term ‘‘personal in-
+14
+formation’’ means an individual’s first name or 
+15
+initial and last name, or address, or phone 
+16
+number, in combination with any one or more 
+17
+of the following data elements for that indi-
+18
+vidual: 
+19
+(i) Social Security number. 
+20
+(ii) Driver’s license number, passport 
+21
+number, military identification number, or 
+22
+other similar number issued on a govern-
+23
+ment document used to verify identity. 
+24
+18:27 May 08, 2020
+H6675
+5 
+•HR 6675 IH
+(iii) Financial account number, or 
+1
+credit or debit card number, and any re-
+2
+quired security code, access code, or pass-
+3
+word that is necessary to permit access to 
+4
+an individual’s financial account. 
+5
+(B) MODIFIED
+DEFINITION
+BY
+RULE-
+6
+MAKING.—The Commission may, by rule pro-
+7
+mulgated under section 553 of title 5, United 
+8
+States Code, modify the definition of ‘‘personal 
+9
+information’’ under subparagraph (A) to the ex-
+10
+tent that such modification is necessary to ac-
+11
+commodate changes in technology or practices 
+12
+and will accomplish the purposes of this Act. 
+13
+(6) PUBLIC RECORD INFORMATION.—The term 
+14
+‘‘public record information’’ means information 
+15
+about an individual that has been obtained originally 
+16
+from records of a Federal, State, or local govern-
+17
+ment entity that are available for public inspection. 
+18
+SEC. 4. PROHIBITION ON OBTAINING OR SOLICITATION TO 
+19
+OBTAIN PERSONAL INFORMATION BY FALSE 
+20
+PRETENSES. 
+21
+(a) IN GENERAL.—A covered data broker may not 
+22
+obtain or attempt to obtain, or cause to be disclosed or 
+23
+attempt to cause to be disclosed to any person, personal 
+24
+information or any other information relating to any per-
+25
+18:27 May 08, 2020
+H6675
+6 
+•HR 6675 IH
+son by making a false, fictitious, or fraudulent statement 
+1
+or representation to any person, including by providing 
+2
+any document to any person, that the covered data broker 
+3
+knows or should know— 
+4
+(1) to be forged, counterfeit, lost, stolen, or 
+5
+fraudulently obtained; or 
+6
+(2) contains a false, fictitious, or fraudulent 
+7
+statement or representation. 
+8
+(b) SOLICITATION.—A covered data broker may not 
+9
+request a person to obtain personal information, or any 
+10
+other information, relating to any other person if the cov-
+11
+ered data broker knows or should know that the person 
+12
+to whom the request is made will obtain or attempt to 
+13
+obtain that information in the manner described in sub-
+14
+section (a). 
+15
+SEC. 5. REQUIREMENTS CONCERNING ACCURACY OF AND 
+16
+ACCESS TO PERSONAL INFORMATION. 
+17
+(a) ACCURACY.— 
+18
+(1) IN GENERAL.—Except as provided in para-
+19
+graph (2), a covered data broker shall establish pro-
+20
+cedures to ensure, to the maximum extent prac-
+21
+ticable, the accuracy of— 
+22
+(A) the personal information it collects, as-
+23
+sembles, or maintains; and 
+24
+18:27 May 08, 2020
+H6675
+7 
+•HR 6675 IH
+(B) any other information it collects, as-
+1
+sembles, or maintains that specifically identifies 
+2
+an individual, unless the information only iden-
+3
+tifies an individual’s name or address. 
+4
+(2) EXCEPTION.—A covered data broker may 
+5
+collect or maintain information that may be inac-
+6
+curate with respect to a particular individual if that 
+7
+information is being collected or maintained solely 
+8
+for the purpose of— 
+9
+(A) indicating whether there may be a dis-
+10
+crepancy or irregularity in the personal infor-
+11
+mation that is associated with an individual; 
+12
+(B) helping to identify, or to authenticate 
+13
+the identity of, an individual; or 
+14
+(C) helping to protect against or inves-
+15
+tigate fraud or other unlawful conduct. 
+16
+(b) CONSUMER ACCESS.— 
+17
+(1) IN GENERAL.—Subject to paragraph (4), a 
+18
+covered data broker shall provide an individual a 
+19
+means to review any personal information, or other 
+20
+information that specifically identifies that indi-
+21
+vidual, that the covered data broker collects, assem-
+22
+bles, or maintains on that individual. 
+23
+(2) REVIEW REQUIREMENTS.—The means for 
+24
+review under paragraph (1) shall be provided— 
+25
+18:27 May 08, 2020
+H6675
+8 
+•HR 6675 IH
+(A) at an individual’s request; 
+1
+(B) after verifying the identity of the indi-
+2
+vidual; 
+3
+(C) at least 1 time per year; 
+4
+(D) at no cost to the individual; and 
+5
+(E) in a format that can be readily under-
+6
+stood by a consumer, as determined by the 
+7
+Commission. 
+8
+(3) PERIOD
+OF
+REVIEW.—A covered data 
+9
+broker shall provide an individual the means re-
+10
+quired under paragraph (1) within such period after 
+11
+receiving a request from such individual as the Com-
+12
+mission shall determine, by rule, is appropriate. 
+13
+(4) EXCEPTIONS.—The Commission may, by 
+14
+rule, establish such exceptions to paragraph (1) as 
+15
+the Commission considers appropriate, such as for 
+16
+child protection, law enforcement, fraud prevention, 
+17
+or other government purposes. 
+18
+(5) LIMITATION ON USE OF VERIFYING INFOR-
+19
+MATION.—If a covered data broker collects informa-
+20
+tion from an individual to verify the identity of the 
+21
+individual under paragraph (2)(B) that the data 
+22
+broker did not have before such collection, the data 
+23
+broker may not use such information for any pur-
+24
+18:27 May 08, 2020
+H6675
+9 
+•HR 6675 IH
+pose other than for purposes of verifying the identity 
+1
+of the individual under such paragraph. 
+2
+(c) DISPUTED INFORMATION.— 
+3
+(1) IN
+GENERAL.—An individual whose per-
+4
+sonal information is maintained by a covered data 
+5
+broker may dispute the accuracy of any information 
+6
+described under subsection (b)(1) by requesting, in 
+7
+writing, that the covered data broker correct the in-
+8
+formation. 
+9
+(2) CORRECTION
+REQUIREMENTS.—A covered 
+10
+data broker, after verifying the identity of an indi-
+11
+vidual making a request under paragraph (1) to cor-
+12
+rect information, and unless there are reasonable 
+13
+grounds to believe the request is frivolous or irrele-
+14
+vant, shall— 
+15
+(A) with regard to public record informa-
+16
+tion— 
+17
+(i) inform the individual of the source 
+18
+of the information and, if reasonably avail-
+19
+able, where to direct the individual’s re-
+20
+quest for correction; or 
+21
+(ii) if the individual provides proof 
+22
+that the public record has been corrected 
+23
+or that the covered data broker was report-
+24
+ing the information incorrectly, correct the 
+25
+18:27 May 08, 2020
+H6675
+10 
+•HR 6675 IH
+inaccuracy in the covered data broker’s 
+1
+records; and 
+2
+(B) with regard to non-public informa-
+3
+tion— 
+4
+(i) note the information that is dis-
+5
+puted, including the individual’s written re-
+6
+quest; 
+7
+(ii) if the information can be inde-
+8
+pendently verified, use the procedures es-
+9
+tablished under subsection (a) to independ-
+10
+ently verify the information; and 
+11
+(iii) if the covered data broker was re-
+12
+porting the information incorrectly, correct 
+13
+the inaccuracy in the covered data broker’s 
+14
+records. 
+15
+(3) PERIOD
+OF
+CORRECTION.—In a case in 
+16
+which a covered data broker is subject to a require-
+17
+ment under paragraph (2) due to a request made by 
+18
+an individual under paragraph (1), such covered 
+19
+data broker shall take such action as may be re-
+20
+quired to satisfy such requirement within such pe-
+21
+riod as the Commission shall determine, by rule, is 
+22
+appropriate. 
+23
+(d) NOTICE.— 
+24
+18:27 May 08, 2020
+H6675
+11 
+•HR 6675 IH
+(1) IN GENERAL.—A covered data broker shall 
+1
+maintain an internet website and place a clear and 
+2
+conspicuous notice on that internet website instruct-
+3
+ing an individual how— 
+4
+(A) to review information under subsection 
+5
+(b)(1); and 
+6
+(B) to express a preference under sub-
+7
+section (e)(2). 
+8
+(2) FORM.—A covered data broker shall ensure 
+9
+that the notice the covered data broker places under 
+10
+paragraph (1) conforms to such model form as the 
+11
+Commission shall promulgate for purposes of this 
+12
+subsection. 
+13
+(e) CERTAIN MARKETING INFORMATION.— 
+14
+(1) IN GENERAL.—A covered data broker may 
+15
+not use, share, or sell any information for marketing 
+16
+purposes that is subject to an expressed preference 
+17
+under paragraph (2). 
+18
+(2) EXPRESSION OF PREFERENCES.—A covered 
+19
+data broker that maintains any information de-
+20
+scribed under subsection (a) and that uses, shares, 
+21
+or sells that information for marketing purposes 
+22
+shall provide each individual whose information the 
+23
+covered data broker maintains with a reasonable 
+24
+18:27 May 08, 2020
+H6675
+12 
+•HR 6675 IH
+means of expressing a preference not to have that 
+1
+individual’s information used for those purposes. 
+2
+(f) AUDITING.— 
+3
+(1) IN GENERAL.—Subject to paragraph (2), 
+4
+each covered data broker shall establish measures 
+5
+that facilitate the auditing or retracing of any inter-
+6
+nal or external access to, or transmission of, any 
+7
+data containing personal information collected, as-
+8
+sembled, or maintained by the covered data broker. 
+9
+(2) EXCEPTIONS.—The Commission may estab-
+10
+lish, by rule, such exceptions to paragraph (1) as the 
+11
+Commission considers appropriate to further or pro-
+12
+tect law enforcement or national security activities. 
+13
+(g) PERSONS REGULATED BY THE FAIR CREDIT RE-
+14
+15
+to be in compliance with this section with respect to infor-
+16
+mation that is subject to the Fair Credit Reporting Act 
+17
+(15 U.S.C. 1681 et seq.) if the covered data broker is in 
+18
+compliance with sections 609, 610, and 611 of that Act 
+19
+(15 U.S.C. 1681g, 1681h, 1681i). 
+20
+SEC. 6. REGULATIONS. 
+21
+(a) IN GENERAL.—Not later than 1 year after the 
+22
+date of the enactment of this Act, the Commission shall 
+23
+promulgate regulations under section 553 of title 5, 
+24
+United States Code, to carry out this Act. 
+25
+18:27 May 08, 2020
+H6675
+13 
+•HR 6675 IH
+(b) ELEMENTS.—The regulations promulgated under 
+1
+subsection (a) shall include the following: 
+2
+(1) Such exceptions the Commission considers 
+3
+appropriate to promulgate under section 3(2)(B). 
+4
+(2) The period of review required under section 
+5
+5(b)(3). 
+6
+(3) Such exceptions as the Commission con-
+7
+siders appropriate to promulgate under section 
+8
+5(b)(4). 
+9
+(4) The period of correction required under sec-
+10
+tion 5(c)(3). 
+11
+(5) The model form required by section 5(d)(2). 
+12
+(6) Requirements for auditing under paragraph 
+13
+(1) of section 5(f) and such exceptions under para-
+14
+graph (2) of such section as the Commission con-
+15
+siders appropriate. 
+16
+(7) Establishment of a centralized internet 
+17
+website for the benefit of consumers that— 
+18
+(A) lists the covered data brokers that are 
+19
+subject to a requirement of section 5; and 
+20
+(B) provides information to consumers 
+21
+about their rights under this Act. 
+22
+(8) Such other regulations as the Commission 
+23
+considers appropriate to carry out this Act. 
+24
+18:27 May 08, 2020
+H6675
+14 
+•HR 6675 IH
+SEC. 7. ENFORCEMENT. 
+1
+(a) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+2
+SION.— 
+3
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+4
+TICES.—A violation of section 4 or 5 or a regulation 
+5
+promulgated under this Act shall be treated as a vio-
+6
+lation of a rule defining an unfair or a deceptive act 
+7
+or practice under section 18(a)(1)(B) of the Federal 
+8
+Trade Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+9
+(2) POWERS OF COMMISSION.— 
+10
+(A) IN GENERAL.—The Commission shall 
+11
+enforce this Act in the same manner, by the 
+12
+same means, and with the same jurisdiction, 
+13
+powers, and duties as though all applicable 
+14
+terms and provisions of the Federal Trade 
+15
+Commission Act (15 U.S.C. 41 et seq.) were in-
+16
+corporated into and made a part of this Act. 
+17
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+18
+person who violates section 4 or 5 or a regula-
+19
+tion prescribed under this Act shall be subject 
+20
+to the penalties and entitled to the privileges 
+21
+and immunities provided in the Federal Trade 
+22
+Commission Act (15 U.S.C. 41 et seq.). 
+23
+(b) ENFORCEMENT BY STATES.— 
+24
+(1) CIVIL ACTION.—Except as provided under 
+25
+paragraph (5), in any case in which the attorney 
+26
+18:27 May 08, 2020
+H6675
+15 
+•HR 6675 IH
+general of a State has reason to believe that an in-
+1
+terest of the residents of that State has been or is 
+2
+threatened or adversely affected by any person sub-
+3
+ject to a provision of section 4 or 5 or a regulation 
+4
+promulgated under this Act in a practice that vio-
+5
+lates such provision or regulation, the attorney gen-
+6
+eral of the State may, as parens patriae, bring a 
+7
+civil action on behalf of the residents of the State in 
+8
+an appropriate district court of the United States— 
+9
+(A) to enjoin further violation of such pro-
+10
+vision or regulation by such person; 
+11
+(B) to compel compliance with such provi-
+12
+sion or regulation; 
+13
+(C) to obtain damages, restitution, or other 
+14
+compensation on behalf of such residents; 
+15
+(D) to obtain such other relief as the court 
+16
+considers appropriate; or 
+17
+(E) to obtain civil penalties in the amount 
+18
+determined under paragraph (2). 
+19
+(2) CIVIL PENALTIES.— 
+20
+(A) CALCULATION.—For purposes of im-
+21
+posing a civil penalty under paragraph (1)(E), 
+22
+the amount determined under this paragraph is 
+23
+the amount calculated by multiplying the num-
+24
+18:27 May 08, 2020
+H6675
+16 
+•HR 6675 IH
+ber of separate violations of a rule by an 
+1
+amount not greater than $16,000. 
+2
+(B) ADJUSTMENT
+FOR
+INFLATION.—Be-
+3
+ginning on the date that the Consumer Price 
+4
+Index is first published by the Bureau of Labor 
+5
+Statistics that is after 1 year after the date of 
+6
+enactment of this Act, and each year thereafter, 
+7
+the amount specified in subparagraph (A) shall 
+8
+be increased by the percentage increase in the 
+9
+Consumer Price Index published on that date 
+10
+from the Consumer Price Index published the 
+11
+previous year. 
+12
+(3) RIGHTS
+OF
+FEDERAL
+TRADE
+COMMIS-
+13
+SION.— 
+14
+(A) NOTICE TO FEDERAL TRADE COMMIS-
+15
+SION.— 
+16
+(i) IN GENERAL.—Except as provided 
+17
+in clause (iii), the attorney general of a 
+18
+State shall notify the Commission in writ-
+19
+ing that the attorney general intends to 
+20
+bring a civil action under paragraph (1) 
+21
+before initiating the civil action. 
+22
+(ii) CONTENTS.—The notification re-
+23
+quired by clause (i) with respect to a civil 
+24
+18:27 May 08, 2020
+H6675
+17 
+•HR 6675 IH
+action shall include a copy of the complaint 
+1
+to be filed to initiate the civil action. 
+2
+(iii) EXCEPTION.—If it is not feasible 
+3
+for the attorney general of a State to pro-
+4
+vide the notification required by clause (i) 
+5
+before initiating a civil action under para-
+6
+graph (1), the attorney general shall notify 
+7
+the Commission immediately upon insti-
+8
+tuting the civil action. 
+9
+(B) INTERVENTION
+BY
+FEDERAL
+TRADE 
+10
+COMMISSION.—The Commission may— 
+11
+(i) intervene in any civil action 
+12
+brought by the attorney general of a State 
+13
+under paragraph (1); and 
+14
+(ii) upon intervening— 
+15
+(I) be heard on all matters aris-
+16
+ing in the civil action; and 
+17
+(II) file petitions for appeal of a 
+18
+decision in the civil action. 
+19
+(4) INVESTIGATORY POWERS.—Nothing in this 
+20
+subsection may be construed to prevent the attorney 
+21
+general of a State from exercising the powers con-
+22
+ferred on the attorney general by the laws of the 
+23
+State to conduct investigations, to administer oaths 
+24
+or affirmations, or to compel the attendance of wit-
+25
+18:27 May 08, 2020
+H6675
+18 
+•HR 6675 IH
+nesses or the production of documentary or other 
+1
+evidence. 
+2
+(5) PREEMPTIVE ACTION BY FEDERAL TRADE 
+3
+COMMISSION.—If the Commission institutes a civil 
+4
+action or an administrative action with respect to a 
+5
+violation of a provision of section 4 or 5 or a regula-
+6
+tion promulgated under this Act, the attorney gen-
+7
+eral of a State may not, during the pendency of such 
+8
+action, bring a civil action under paragraph (1) 
+9
+against any defendant named in the complaint of the 
+10
+Commission for the violation with respect to which 
+11
+the Commission instituted such action. 
+12
+(6) ACTIONS BY OTHER STATE OFFICIALS.— 
+13
+(A) IN GENERAL.—In addition to civil ac-
+14
+tions brought by attorneys general under para-
+15
+graph (1), any other officer of a State who is 
+16
+authorized by the State to do so may bring a 
+17
+civil action under paragraph (1), subject to the 
+18
+same requirements and limitations that apply 
+19
+under this subsection to civil actions brought by 
+20
+attorneys general. 
+21
+(B) SAVINGS PROVISION.—Nothing in this 
+22
+subsection may be construed to prohibit an au-
+23
+thorized official of a State from initiating or 
+24
+continuing any proceeding in a court of the 
+25
+18:27 May 08, 2020
+H6675
+19 
+•HR 6675 IH
+State for a violation of any civil or criminal law 
+1
+of the State. 
+2
+SEC. 8. EFFECT ON OTHER LAWS. 
+3
+(a) PRESERVATION OF COMMISSION AUTHORITY.— 
+4
+Nothing in this Act may be construed in any way to limit 
+5
+or affect the Commission’s authority under any other pro-
+6
+vision of law. 
+7
+(b) PRESERVATION
+OF OTHER FEDERAL LAW.— 
+8
+Nothing in this Act may be construed in any way to super-
+9
+sede, restrict, or limit the application of the Fair Credit 
+10
+Reporting Act (15 U.S.C. 1681 et seq.) or any other Fed-
+11
+eral law. 
+12
+Æ 
+18:27 May 08, 2020
+H6675

@@ -1,0 +1,3324 @@
+A BILL 
+To protect the privacy of internet users by reinforcing online 
+privacy rights and through the establishment of a na-
+tional Do Not Track system, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Renew Effective Protection of Americans’ Information 
+5
+Rights Act’’ or the ‘‘REPAIR Act’’. 
+6
+(b) TABLE OF CONTENTS.—The table of contents for 
+7
+this Act is as follows: 
+8
+Sec. 1. Short title; table of contents. 
+22:48 Oct 04, 2021
+H5433
+2 
+•HR 5433 IH
+TITLE I—DATA PRIVACY BILL OF RIGHTS 
+Sec. 101. Short title. 
+Sec. 102. Policy of the United States. 
+Sec. 103. Findings. 
+Sec. 104. Rights relating to transparency. 
+Sec. 105. Right to delete. 
+Sec. 106. Right to correct inaccuracies. 
+Sec. 107. Right to controls. 
+Sec. 108. Right to data minimization. 
+Sec. 109. Right to data security. 
+Sec. 110. Prohibition of service offers conditioned on waivers of privacy rights. 
+Sec. 111. Scope of coverage. 
+Sec. 112. Small business exception. 
+Sec. 113. Application and enforcement. 
+Sec. 114. State privacy protections. 
+Sec. 115. Severability. 
+Sec. 116. Definitions. 
+Sec. 117. Effective date. 
+TITLE II—DO NOT TRACK 
+Sec. 201. Short title. 
+Sec. 202. Establishment of Do Not Track system. 
+Sec. 203. Do Not Track: requirements for operators; prohibited acts. 
+Sec. 204. Scope of coverage. 
+Sec. 205. Application and enforcement. 
+Sec. 206. State privacy protections. 
+Sec. 207. Severability. 
+Sec. 208. Definitions. 
+Sec. 209. Effective date. 
+TITLE I—DATA PRIVACY BILL OF 
+1
+RIGHTS 
+2
+SEC. 101. SHORT TITLE. 
+3
+This title may be cited as the ‘‘Data Privacy Bill of 
+4
+Rights Act’’. 
+5
+SEC. 102. POLICY OF THE UNITED STATES. 
+6
+It is the policy of the United States that individuals 
+7
+have fundamental rights to secure and protect their pri-
+8
+vacy in data collected from and about them by firms doing 
+9
+business with them as provided for in this title and that 
+10
+22:48 Oct 04, 2021
+H5433
+3 
+•HR 5433 IH
+it is also a fundamental purpose of the Federal Govern-
+1
+ment to defend and enforce such privacy rights. 
+2
+SEC. 103. FINDINGS. 
+3
+Congress finds the following: 
+4
+(1) Individuals are endowed with rights to se-
+5
+cure and protect data related to their lives, their 
+6
+patterns of movement and commercial exchange and 
+7
+any other information that is classified as sensitive 
+8
+pursuant to this title. 
+9
+(2) Individuals have a right to complete trans-
+10
+parency with respect to the exchanges they make in 
+11
+terms of a complete accounting of both the nonpecu-
+12
+niary and pecuniary costs allocated to and collected 
+13
+from them. 
+14
+(3) While the internet and other technologies 
+15
+have produced enormous benefits to the Nation, they 
+16
+have also had unintentional consequences in eroding 
+17
+individual data privacy rights. 
+18
+(4) The Nation needs to update individual 
+19
+rights to include adequate and effective protections 
+20
+to secure and sustain individual rights to data pri-
+21
+vacy. 
+22
+(5) That protection of individual data privacy 
+23
+rights should be secured with due consideration of 
+24
+the collateral rights of entities to pursue businesses 
+25
+22:48 Oct 04, 2021
+H5433
+4 
+•HR 5433 IH
+while assuring complete transparency to individuals 
+1
+as relates to their data and the role that such data 
+2
+plays in the entities’ business models. 
+3
+SEC. 104. RIGHTS RELATING TO TRANSPARENCY. 
+4
+(a) RIGHT TO ACCESS.—Upon the verified request of 
+5
+an individual, a covered entity shall provide to the indi-
+6
+vidual— 
+7
+(1) in a portable format, without licensing re-
+8
+strictions, the covered data of the individual that is 
+9
+collected, processed, or transferred by the covered 
+10
+entity; and 
+11
+(2) in a human-readable format that a reason-
+12
+able individual can understand— 
+13
+(A) a copy of the covered data of the indi-
+14
+vidual that is collected, processed, or trans-
+15
+ferred by the covered entity; 
+16
+(B) a list of each category of third party 
+17
+to which the covered entity has transferred the 
+18
+covered data of the individual; and 
+19
+(C) the identity of each such third party 
+20
+and a description of the covered data that was 
+21
+transferred to such third party and the purpose 
+22
+of the transfer. 
+23
+(b) RIGHT TO IMMEDIATE NOTIFICATION OF COL-
+24
+LECTION.— 
+25
+22:48 Oct 04, 2021
+H5433
+5 
+•HR 5433 IH
+(1) IN GENERAL.—On every website or applica-
+1
+tion landing page, the second-party operator of a 
+2
+covered internet platform shall display, immediately 
+3
+when the page is accessed by an individual, an easily 
+4
+identifiable indicator that provides a real-time notifi-
+5
+cation of whether or not the covered data of the in-
+6
+dividual is being actively collected by the covered 
+7
+internet platform or any program of a third-party 
+8
+operator that appears on the covered internet plat-
+9
+form. 
+10
+(2) CONTENTS OF NOTIFICATION.—The notifi-
+11
+cation required by paragraph (1) shall include (or 
+12
+provide a link to or other convenient means of ac-
+13
+cessing) the following information: 
+14
+(A) The types of data being collected. 
+15
+(B) The purposes for which such data is 
+16
+processed. 
+17
+(C) The categories of such data trans-
+18
+ferred to third parties. 
+19
+(D) The categories of third parties to 
+20
+which such data is transferred. 
+21
+(E) The identity of each third party to 
+22
+which such data is transferred. 
+23
+22:48 Oct 04, 2021
+H5433
+6 
+•HR 5433 IH
+(F) How long such data will be retained by 
+1
+the second-party operator, any third-party oper-
+2
+ator, and any third party (as applicable). 
+3
+(G) A description of individuals’ privacy 
+4
+rights under this title. 
+5
+(H) The contact information for the rep-
+6
+resentatives for privacy and data security in-
+7
+quires of the second-party operator, any third- 
+8
+party operator, and any third party (as applica-
+9
+ble). 
+10
+(3) RESPONSIBILITY OF THIRD-PARTY OPERA-
+11
+TORS.—A third-party operator of a program that ap-
+12
+pears on a covered internet platform shall, if the 
+13
+program collects any covered data of a user of the 
+14
+platform, ensure that the second-party operator of 
+15
+the platform provides the notification required by 
+16
+paragraph (1) and that the notification includes the 
+17
+information required by paragraph (2) with respect 
+18
+to the program. 
+19
+(c) RIGHT TO RECEIVE PRIVACY POLICY.— 
+20
+(1) IN GENERAL.—A covered entity shall make 
+21
+publicly and persistently available, in a conspicuous 
+22
+and readily accessible manner, a privacy policy that 
+23
+provides a detailed and accurate representation of 
+24
+the activities of the covered entity with respect to 
+25
+22:48 Oct 04, 2021
+H5433
+7 
+•HR 5433 IH
+the collection, processing, and transfer of covered 
+1
+data. 
+2
+(2) CONTENTS OF PRIVACY POLICY.—The pri-
+3
+vacy policy required by paragraph (1) shall include, 
+4
+at a minimum, the following: 
+5
+(A) An easy-to-understand explanation of 
+6
+the policy of the covered entity with respect to 
+7
+the collection, processing, and transfer of cov-
+8
+ered data (including clear descriptions that 
+9
+avoid technical and legal jargon to the extent 
+10
+practicable). 
+11
+(B) The identity of and contact informa-
+12
+tion for the covered entity, including the con-
+13
+tact information for the covered entity’s rep-
+14
+resentative for privacy and data security inquir-
+15
+ies. 
+16
+(C) Each category of covered data the cov-
+17
+ered entity collects and the processing purposes 
+18
+for which such data is collected. 
+19
+(D) Whether the covered entity transfers 
+20
+covered data and, if so— 
+21
+(i) each category of service provider or 
+22
+third party to which the covered entity 
+23
+transfers covered data and the purposes 
+24
+22:48 Oct 04, 2021
+H5433
+8 
+•HR 5433 IH
+for which such data is transferred to each 
+1
+such category; and 
+2
+(ii) the identity of each third party to 
+3
+which the covered entity transfers covered 
+4
+data and the purposes for which such data 
+5
+is transferred to such third party. 
+6
+(E) How long covered data processed by 
+7
+the covered entity will be retained by the cov-
+8
+ered entity or a third party and a description 
+9
+of the covered entity’s data minimization poli-
+10
+cies. 
+11
+(F) How individuals can exercise the indi-
+12
+vidual rights described in this title. 
+13
+(G) A description of the covered entity’s 
+14
+data security policies. 
+15
+(H) The effective date of the privacy pol-
+16
+icy. 
+17
+(3) LANGUAGES.—A covered entity shall make 
+18
+the privacy policy required under paragraph (1) 
+19
+available to the public in all of the languages in 
+20
+which the covered entity provides a product or serv-
+21
+ice or carries out any other activities to which the 
+22
+privacy policy relates. 
+23
+(d) RIGHT TO CONSENT TO MATERIAL CHANGES.— 
+24
+If a material change to the privacy policy of a covered 
+25
+22:48 Oct 04, 2021
+H5433
+9 
+•HR 5433 IH
+entity required under subsection (c) would weaken privacy 
+1
+protections for covered data, the covered entity may not 
+2
+apply such change to the covered data of an individual 
+3
+that was collected before the change takes effect without 
+4
+obtaining the affirmative express consent of the individual 
+5
+to the change. 
+6
+SEC. 105. RIGHT TO DELETE. 
+7
+(a) IN GENERAL.—A covered entity, upon the verified 
+8
+request of an individual, shall— 
+9
+(1) at the option of the individual— 
+10
+(A) delete, or allow the individual to delete, 
+11
+any information in the covered data of the indi-
+12
+vidual that is processed by the covered entity; 
+13
+or 
+14
+(B) take action to disable or mask the 
+15
+identification of the individual connected to any 
+16
+information in the covered data of the indi-
+17
+vidual that is processed by the covered entity; 
+18
+(2) inform any service provider or third party 
+19
+to which the covered entity transferred such data of 
+20
+the request of the individual under paragraph (1); 
+21
+and 
+22
+(3) direct the service provider or third party to 
+23
+honor the request. 
+24
+22:48 Oct 04, 2021
+H5433
+10 
+•HR 5433 IH
+(b) SERVICE PROVIDERS AND THIRD PARTIES.—In 
+1
+the case of a service provider or third party that is in-
+2
+formed under paragraph (2) of subsection (a) and directed 
+3
+to honor under paragraph (3) of such subsection the re-
+4
+quest of an individual under paragraph (1) of such sub-
+5
+section, the service provider or third party shall, in accord-
+6
+ance with the request, delete the information or take ac-
+7
+tion to disable or mask the identification of the individual. 
+8
+SEC. 106. RIGHT TO CORRECT INACCURACIES. 
+9
+(a) IN GENERAL.—A covered entity, upon the verified 
+10
+request of an individual, shall— 
+11
+(1) correct, or allow the individual to correct, 
+12
+inaccurate or incomplete information in the covered 
+13
+data of the individual that is processed by the cov-
+14
+ered entity; 
+15
+(2) inform any service provider or third party 
+16
+to which the covered entity transferred such data of 
+17
+the request of the individual under paragraph (1) 
+18
+and of the corrected information; and 
+19
+(3) direct the service provider or third party to 
+20
+honor the request. 
+21
+(b) SERVICE PROVIDERS AND THIRD PARTIES.—In 
+22
+the case of a service provider or third party that is in-
+23
+formed under paragraph (2) of subsection (a) and directed 
+24
+to honor under paragraph (3) of such subsection the re-
+25
+22:48 Oct 04, 2021
+H5433
+11 
+•HR 5433 IH
+quest of an individual under paragraph (1) of such sub-
+1
+section, the service provider or third party shall, in accord-
+2
+ance with the request, correct the information. 
+3
+SEC. 107. RIGHT TO CONTROLS. 
+4
+(a) SENSE OF CONGRESS.—It is the sense of Con-
+5
+gress that— 
+6
+(1) the term ‘‘privacy policy’’ is deceptive; 
+7
+(2) such policies are in fact data collection poli-
+8
+cies; and 
+9
+(3) covered data is the private property of the 
+10
+individual about whom the data has been collected 
+11
+and should be treated as such. 
+12
+(b) REQUIREMENT FOR AFFIRMATIVE EXPRESS CON-
+13
+SENT FOR COLLECTION, PROCESSING, OR TRANSFER OF 
+14
+COVERED DATA.— 
+15
+(1) IN GENERAL.—A covered entity may not 
+16
+collect, process, or transfer to a third party the cov-
+17
+ered data of an individual without obtaining the af-
+18
+firmative express consent of the individual to the col-
+19
+lection, processing, or transfer through a process es-
+20
+tablished under the rule issued by the Commission 
+21
+under paragraph (3). 
+22
+(2) RIGHT
+TO
+WITHDRAW
+AFFIRMATIVE
+EX-
+23
+PRESS CONSENT.—A covered entity shall permit an 
+24
+individual to withdraw the affirmative express con-
+25
+22:48 Oct 04, 2021
+H5433
+12 
+•HR 5433 IH
+sent of the individual to the collection, processing, or 
+1
+transfer to a third party of the covered data of the 
+2
+individual through a process established under the 
+3
+rule issued by the Commission under paragraph (3). 
+4
+(3) RULEMAKING.— 
+5
+(A) IN GENERAL.—Not later than 1 year 
+6
+after the date of the enactment of this Act, the 
+7
+Commission shall issue a rule under section 553 
+8
+of title 5, United States Code, establishing one 
+9
+or more acceptable processes for a covered enti-
+10
+ty to follow in requesting the affirmative ex-
+11
+press consent of an individual to the collection, 
+12
+processing, or transfer of the covered data of 
+13
+the individual and in permitting an individual 
+14
+to withdraw such consent. 
+15
+(B) REQUIREMENTS.—The processes es-
+16
+tablished by the Commission under subpara-
+17
+graph (A) shall— 
+18
+(i) include clear and conspicuous re-
+19
+quests for affirmative express consent and 
+20
+consumer-friendly mechanisms to allow an 
+21
+individual to provide and withdraw affirm-
+22
+ative express consent; 
+23
+(ii) allow an individual to provide and 
+24
+withdraw affirmative express consent— 
+25
+22:48 Oct 04, 2021
+H5433
+13 
+•HR 5433 IH
+(I) for the collection, processing, 
+1
+or transfer of some or all (at the op-
+2
+tion of the individual) of the covered 
+3
+data of the individual; and 
+4
+(II) for the transfer of the cov-
+5
+ered data of the individual to some or 
+6
+all (at the option of the individual) 
+7
+third parties; 
+8
+(iii) allow an individual to view the 
+9
+status of affirmative express consent pro-
+10
+vided or withdrawn; 
+11
+(iv) be privacy protective; and 
+12
+(v) be informed by the Commission’s 
+13
+experience developing and implementing 
+14
+the National Do Not Call Registry. 
+15
+SEC. 108. RIGHT TO DATA MINIMIZATION. 
+16
+(a) IN GENERAL.—A covered entity may not collect, 
+17
+process, or transfer the covered data of an individual be-
+18
+yond what is reasonably necessary, proportionate, and lim-
+19
+ited to the purposes for which the individual provides af-
+20
+firmative express consent to the collection, processing, or 
+21
+transfer. 
+22
+(b) RULE
+OF CONSTRUCTION.—Nothing in sub-
+23
+section (a) may be construed to authorize any collection, 
+24
+22:48 Oct 04, 2021
+H5433
+14 
+•HR 5433 IH
+processing, or transfer of covered data that is prohibited 
+1
+by any other provision of this title. 
+2
+SEC. 109. RIGHT TO DATA SECURITY. 
+3
+(a) IN GENERAL.—A covered entity shall establish, 
+4
+implement, and maintain reasonable data security prac-
+5
+tices to protect the confidentiality, integrity, and accessi-
+6
+bility of covered data. Such data security practices shall 
+7
+be appropriate to the volume and nature of the covered 
+8
+data at issue. 
+9
+(b) SPECIFIC REQUIREMENTS.—Data security prac-
+10
+tices required under subsection (a) shall include, at a min-
+11
+imum, the following: 
+12
+(1) 
+ASSESS
+VULNERABILITIES.—Identifying 
+13
+and assessing any reasonably foreseeable risks to, 
+14
+and vulnerabilities in, each system maintained by 
+15
+the covered entity that collects, processes, or trans-
+16
+fers covered data, including unauthorized access to 
+17
+or risks to covered data, human vulnerabilities, ac-
+18
+cess rights, and use of service providers. Such activi-
+19
+ties shall include a plan to receive and respond to 
+20
+unsolicited reports of vulnerabilities by entities and 
+21
+individuals. 
+22
+(2) PREVENTIVE AND CORRECTION ACTION.— 
+23
+Taking preventive and corrective action to mitigate 
+24
+any risks or vulnerabilities to covered data identified 
+25
+22:48 Oct 04, 2021
+H5433
+15 
+•HR 5433 IH
+by the covered entity, which may include imple-
+1
+menting administrative, technical, or physical safe-
+2
+guards or changes to data security practices or the 
+3
+architecture, installation, or implementation of net-
+4
+work or operating software. 
+5
+(3) 
+INFORMATION
+RETENTION
+AND
+DIS-
+6
+7
+deleted or is no longer necessary for the purpose for 
+8
+which the data was collected unless the individual to 
+9
+whom the data relates provides affirmative express 
+10
+consent to the retention of the data. Such process 
+11
+shall include data hygiene practices to ensure ongo-
+12
+ing compliance with this paragraph. 
+13
+(4) COMPREHENSIVE
+DATA
+SECURITY
+PRO-
+14
+GRAM.—Implementation of a comprehensive data se-
+15
+curity program, including— 
+16
+(A) designation of an employee responsible 
+17
+for data security; 
+18
+(B) training for all employees with access 
+19
+to covered data on how to safeguard covered 
+20
+data and protect individual privacy, and updat-
+21
+ing that training as necessary; and 
+22
+(C) due diligence with regard to the data 
+23
+security practices of service providers to which 
+24
+the covered entity transfers covered data. 
+25
+22:48 Oct 04, 2021
+H5433
+16 
+•HR 5433 IH
+SEC. 110. PROHIBITION OF SERVICE OFFERS CONDITIONED 
+1
+ON WAIVERS OF PRIVACY RIGHTS. 
+2
+A covered entity may not— 
+3
+(1) condition, or effectively condition, provision 
+4
+of the service on agreement by an individual to 
+5
+waive privacy rights guaranteed by law or regula-
+6
+tion, including this title; or 
+7
+(2) terminate the service or otherwise refuse to 
+8
+provide the service as a direct or indirect con-
+9
+sequence of the refusal of a user to waive any pri-
+10
+vacy rights described in this title. 
+11
+SEC. 111. SCOPE OF COVERAGE. 
+12
+(a) GENERAL EXCEPTIONS.—Notwithstanding any 
+13
+other provision of this title, a covered entity may collect, 
+14
+process, or transfer covered data for any of the following 
+15
+purposes, if the collection, processing, or transfer is rea-
+16
+sonably necessary, proportionate, and limited to such pur-
+17
+pose: 
+18
+(1) To initiate or complete a transaction or to 
+19
+fulfill an order or provide a service specifically re-
+20
+quested by an individual, including associated rou-
+21
+tine administrative activities such as billing, ship-
+22
+ping, financial reporting, and accounting. 
+23
+(2) To perform internal system maintenance, 
+24
+diagnostics, product or service management, inven-
+25
+tory management, or network management. 
+26
+22:48 Oct 04, 2021
+H5433
+17 
+•HR 5433 IH
+(3) To prevent, detect, or respond to a security 
+1
+incident or trespassing, provide a secure environ-
+2
+ment, or maintain the safety and security of a prod-
+3
+uct, service, or individual. 
+4
+(4) To protect against malicious, deceptive, 
+5
+fraudulent, or illegal activity. 
+6
+(5) To comply with a legal obligation or the es-
+7
+tablishment, exercise, analysis, or defense of legal 
+8
+claims or rights, or as required or specifically au-
+9
+thorized by law. 
+10
+(6) To comply with a civil, criminal, or regu-
+11
+latory inquiry, investigation, subpoena, or summons 
+12
+by an Executive agency. 
+13
+(7) To cooperate with an Executive agency or 
+14
+a law enforcement official acting under the authority 
+15
+of an Executive or State agency concerning conduct 
+16
+or activity that the Executive agency or law enforce-
+17
+ment official reasonably and in good faith believes 
+18
+may violate Federal, State, or local law, or pose a 
+19
+threat to public safety or national security. 
+20
+(8) To address risks to the safety of an indi-
+21
+vidual or group of individuals, or to ensure customer 
+22
+safety, including by authenticating individuals in 
+23
+order to provide access to large venues open to the 
+24
+public. 
+25
+22:48 Oct 04, 2021
+H5433
+18 
+•HR 5433 IH
+(9) To effectuate a product recall pursuant to 
+1
+Federal or State law. 
+2
+(10) To conduct public or peer-reviewed sci-
+3
+entific, historical, or statistical research that— 
+4
+(A) is in the public interest; 
+5
+(B) adheres to all applicable ethics and 
+6
+privacy laws; and 
+7
+(C) is approved, monitored, and governed 
+8
+by an institutional review board or other over-
+9
+sight entity that meets standards promulgated 
+10
+by the Commission pursuant to section 553 of 
+11
+title 5, United States Code. 
+12
+(11) To transfer covered data to a service pro-
+13
+vider. 
+14
+(12) For a purpose identified by the Commis-
+15
+sion pursuant to a regulation promulgated under 
+16
+subsection (b). 
+17
+(b) ADDITIONAL PURPOSES.—The Commission may 
+18
+promulgate regulations under section 553 of title 5, 
+19
+United States Code, identifying additional purposes for 
+20
+which a covered entity may collect, process, or transfer 
+21
+covered data and protect individual rights to data privacy 
+22
+in accordance with this title. 
+23
+22:48 Oct 04, 2021
+H5433
+19 
+•HR 5433 IH
+SEC. 112. SMALL BUSINESS EXCEPTION. 
+1
+Sections 103, 104, 105, and 106 do not apply in the 
+2
+case of a person who can establish that, for the 3 pre-
+3
+ceding calendar years (or for the period during which the 
+4
+person has been in existence if such period is less than 
+5
+3 years)— 
+6
+(1) the average annual gross revenues of the 
+7
+person did not exceed $50,000,000; 
+8
+(2) on average, the person annually processed 
+9
+the covered data of less than 1,000,000 individuals; 
+10
+(3) the person never employed more than 500 
+11
+individuals at any one time; and 
+12
+(4) the person derived less than 50 percent of 
+13
+the revenues of the person from transferring covered 
+14
+data. 
+15
+SEC. 113. APPLICATION AND ENFORCEMENT. 
+16
+(a) GENERAL APPLICATION.—The requirements of 
+17
+this title apply, according to their terms, to— 
+18
+(1) those persons, partnerships, and corpora-
+19
+tions over which the Commission has authority pur-
+20
+suant to section 5(a)(2) of the Federal Trade Com-
+21
+mission Act (15 U.S.C. 45(a)(2)); and 
+22
+(2) notwithstanding sections 4 and 5(a)(2) of 
+23
+such Act (15 U.S.C. 44; 45(a)(2))— 
+24
+(A) common carriers described in such sec-
+25
+tion 5(a)(2); and 
+26
+22:48 Oct 04, 2021
+H5433
+20 
+•HR 5433 IH
+(B) organizations not organized to carry 
+1
+on business for their own profit or that of their 
+2
+members. 
+3
+(b) ENFORCEMENT BY THE COMMISSION.— 
+4
+(1) IN
+GENERAL.—Except as otherwise pro-
+5
+vided, this title and the regulations prescribed under 
+6
+this title shall be enforced by the Commission under 
+7
+the Federal Trade Commission Act (15 U.S.C. 41 et 
+8
+seq.). 
+9
+(2) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+10
+TICES.—A violation of this title or a regulation pre-
+11
+scribed under this title shall be treated as a violation 
+12
+of a rule defining an unfair or deceptive act or prac-
+13
+tice prescribed under section 18(a)(1)(B) of the Fed-
+14
+eral 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+15
+57a(a)(1)(B)). 
+16
+(3) ACTIONS BY THE COMMISSION.— 
+17
+(A) IN GENERAL.—Except as provided in 
+18
+subparagraph (B) and subsection (a), the Com-
+19
+mission shall prevent any person from violating 
+20
+this title or a regulation prescribed under this 
+21
+title in the same manner, by the same means, 
+22
+and with the same jurisdiction, powers, and du-
+23
+ties as though all applicable terms and provi-
+24
+sions of the Federal Trade Commission Act (15 
+25
+22:48 Oct 04, 2021
+H5433
+21 
+•HR 5433 IH
+U.S.C. 41 et seq.) were incorporated into and 
+1
+made a part of this title, and any person who 
+2
+violates this title or a regulation prescribed 
+3
+under this title shall be subject to the penalties 
+4
+and entitled to the privileges and immunities 
+5
+provided in the Federal Trade Commission Act. 
+6
+(B) PENALTIES.— 
+7
+(i) IN
+GENERAL.—Notwithstanding 
+8
+section 5(m) of the Federal Trade Com-
+9
+mission Act (15 U.S.C. 45(m)), a civil pen-
+10
+alty recovered for a violation of this title or 
+11
+a regulation prescribed under this title 
+12
+may be in excess of the amounts provided 
+13
+for in that section, if such penalty meets 
+14
+the requirements of this subparagraph. 
+15
+(ii) PENALTY FOR NEGLIGENT VIOLA-
+16
+TION.—In the case of a person who neg-
+17
+ligently violates this title or a regulation 
+18
+prescribed under this title, such person 
+19
+shall be liable for a civil penalty that does 
+20
+not exceed $50 for every individual af-
+21
+fected by such violation for every day dur-
+22
+ing which the person is in violation of this 
+23
+title or such regulation as described in this 
+24
+clause. 
+25
+22:48 Oct 04, 2021
+H5433
+22 
+•HR 5433 IH
+(iii) PENALTY
+FOR
+WILLFUL
+OR 
+1
+RECKLESS VIOLATION.—In the case of a 
+2
+person who willfully or recklessly violates 
+3
+this title or a regulation prescribed under 
+4
+this title, such person shall be liable for a 
+5
+civil penalty that— 
+6
+(I) is not less than $100,000; 
+7
+and 
+8
+(II) does not exceed $1,000 for 
+9
+every individual affected by such vio-
+10
+lation for every day during which the 
+11
+person is in violation of this title or 
+12
+such regulation as described in this 
+13
+clause. 
+14
+(c) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+15
+ERAL.— 
+16
+(1) IN GENERAL.— 
+17
+(A) CIVIL ACTIONS.—In any case in which 
+18
+the attorney general of a State has reason to 
+19
+believe that an interest of the residents of that 
+20
+State has been or is threatened or adversely af-
+21
+fected by the engagement of any person in an 
+22
+act or practice that violates this title or a regu-
+23
+lation prescribed under this title, the State, as 
+24
+parens patriae, may bring a civil action on be-
+25
+22:48 Oct 04, 2021
+H5433
+23 
+•HR 5433 IH
+half of the residents of the State in a district 
+1
+court of the United States or a State court of 
+2
+appropriate jurisdiction to— 
+3
+(i) enjoin that act or practice; 
+4
+(ii) enforce compliance with this title 
+5
+or such regulation; 
+6
+(iii) obtain damages, statutory dam-
+7
+ages in the same amount as the penalties 
+8
+that the Commission may obtain under 
+9
+section 5(m) of the Federal Trade Com-
+10
+mission Act (15 U.S.C. 45(m)) and sub-
+11
+section (b)(3)(B) of this section, restitu-
+12
+tion, or other compensation on behalf of 
+13
+residents of the State; or 
+14
+(iv) obtain such other relief as the 
+15
+court may consider to be appropriate. 
+16
+(B) NOTICE.— 
+17
+(i) IN GENERAL.—Before filing an ac-
+18
+tion under subparagraph (A), the attorney 
+19
+general of the State involved shall provide 
+20
+to the Commission— 
+21
+(I) written notice of that action; 
+22
+and 
+23
+(II) a copy of the complaint for 
+24
+that action. 
+25
+22:48 Oct 04, 2021
+H5433
+24 
+•HR 5433 IH
+(ii) EXEMPTION.— 
+1
+(I) IN
+GENERAL.—Clause (i) 
+2
+does not apply with respect to the fil-
+3
+ing of an action by an attorney gen-
+4
+eral of a State under this paragraph 
+5
+if the attorney general of the State 
+6
+determines that it is not feasible to 
+7
+provide the notice described in that 
+8
+clause before the filing of the action. 
+9
+(II) NOTIFICATION.—In an ac-
+10
+tion described in subclause (I), the at-
+11
+torney general of a State shall provide 
+12
+notice and a copy of the complaint to 
+13
+the Commission at the same time as 
+14
+the attorney general files the action. 
+15
+(2) INTERVENTION.— 
+16
+(A) IN
+GENERAL.—On receiving notice 
+17
+under paragraph (1)(B), the Commission shall 
+18
+have the right to intervene in the action that is 
+19
+the subject of the notice. 
+20
+(B) EFFECT
+OF
+INTERVENTION.—If the 
+21
+Commission intervenes in an action under para-
+22
+graph (1), it shall have the right— 
+23
+(i) to be heard with respect to any 
+24
+matter that arises in that action; and 
+25
+22:48 Oct 04, 2021
+H5433
+25 
+•HR 5433 IH
+(ii) to file a petition for appeal. 
+1
+(3) CONSTRUCTION.—For purposes of bringing 
+2
+any civil action under paragraph (1), nothing in this 
+3
+title shall be construed to prevent an attorney gen-
+4
+eral of a State from exercising the powers conferred 
+5
+on the attorney general by the laws of that State 
+6
+to— 
+7
+(A) conduct investigations; 
+8
+(B) administer oaths or affirmations; or 
+9
+(C) compel the attendance of witnesses or 
+10
+the production of documentary and other evi-
+11
+dence. 
+12
+(4) ACTIONS
+BY
+THE
+COMMISSION.—In any 
+13
+case in which an action is instituted by or on behalf 
+14
+of the Commission for violation of this title or a reg-
+15
+ulation prescribed under this title, no State may, 
+16
+during the pendency of that action, institute an ac-
+17
+tion under paragraph (1) against any defendant 
+18
+named in the complaint in the action instituted by 
+19
+or on behalf of the Commission for that violation. 
+20
+(5) VENUE; SERVICE OF PROCESS.— 
+21
+(A) VENUE.—Any action brought under 
+22
+paragraph (1) may be brought in— 
+23
+(i) a district court of the United 
+24
+States that meets applicable requirements 
+25
+22:48 Oct 04, 2021
+H5433
+26 
+•HR 5433 IH
+relating to venue under section 1391 of 
+1
+title 28, United States Code; or 
+2
+(ii) a State court of competent juris-
+3
+diction. 
+4
+(B) SERVICE OF PROCESS.—In an action 
+5
+brought under paragraph (1) in a district court 
+6
+of the United States, process may be served 
+7
+wherever the defendant— 
+8
+(i) is an inhabitant; or 
+9
+(ii) may be found. 
+10
+SEC. 114. STATE PRIVACY PROTECTIONS. 
+11
+Nothing in this title shall preempt any State law, reg-
+12
+ulation, or other requirement having the force or effect 
+13
+of law that is more protective of the privacy of individuals 
+14
+than the requirements of this title. 
+15
+SEC. 115. SEVERABILITY. 
+16
+If any provision of this title or the application of a 
+17
+provision of this title to any person or circumstance is held 
+18
+to be invalid or unconstitutional, the remainder of this 
+19
+title, or the application of such provision to any other per-
+20
+son or circumstance, shall not be affected. 
+21
+SEC. 116. DEFINITIONS. 
+22
+In this title: 
+23
+(1) AFFIRMATIVE EXPRESS CONSENT.— 
+24
+22:48 Oct 04, 2021
+H5433
+27 
+•HR 5433 IH
+(A) IN GENERAL.—The term ‘‘affirmative 
+1
+express consent’’ means an affirmative act by 
+2
+an individual that clearly communicates the in-
+3
+dividual’s authorization for an act or practice, 
+4
+in response to a specific request that meets the 
+5
+requirements of subparagraph (B). 
+6
+(B) REQUEST
+REQUIREMENTS.—The re-
+7
+quirements of this subparagraph with respect to 
+8
+a request from a covered entity to an individual 
+9
+are the following: 
+10
+(i) The request is provided to the indi-
+11
+vidual in a standalone disclosure. 
+12
+(ii) The request includes a description 
+13
+of each act or practice for which the indi-
+14
+vidual’s consent is sought and— 
+15
+(I) clearly distinguishes between 
+16
+an act or practice which is necessary 
+17
+to fulfill a request of the individual 
+18
+and an act or practice which is for an-
+19
+other purpose; and 
+20
+(II) is written in easy-to-under-
+21
+stand language and includes a promi-
+22
+nent heading that would enable a rea-
+23
+sonable individual to identify and un-
+24
+derstand the act or practice. 
+25
+22:48 Oct 04, 2021
+H5433
+28 
+•HR 5433 IH
+(iii) The request clearly explains the 
+1
+individual’s applicable rights related to 
+2
+consent. 
+3
+(C) EXPRESS
+CONSENT
+REQUIRED.—A 
+4
+covered entity may not infer that an individual 
+5
+has provided affirmative express consent to an 
+6
+act or practice from the inaction of the indi-
+7
+vidual or the individual’s continued use of a 
+8
+service or product provided by the covered enti-
+9
+ty. 
+10
+(D) PRIOR CONSENT REQUIRED.—In the 
+11
+case of any requirement of this title for a cov-
+12
+ered entity to obtain affirmative express consent 
+13
+for an act or practice, the covered entity shall 
+14
+obtain such consent before engaging in the act 
+15
+or practice. 
+16
+(2) COLLECT; COLLECTION.—The terms ‘‘col-
+17
+lect’’ and ‘‘collection’’ mean, with respect to the cov-
+18
+ered data of an individual, buying, renting, gath-
+19
+ering, obtaining, receiving, accessing, or otherwise 
+20
+acquiring such data by any means, including by pas-
+21
+sively or actively observing the individual’s behavior. 
+22
+(3) COMMISSION.—The term ‘‘Commission’’ 
+23
+means the Federal Trade Commission. 
+24
+22:48 Oct 04, 2021
+H5433
+29 
+•HR 5433 IH
+(4) CONNECTED
+DEVICE.—The term ‘‘con-
+1
+nected device’’ means a physical object that— 
+2
+(A) is capable of connecting to the inter-
+3
+net, either directly or indirectly through a net-
+4
+work, to communicate information at the direc-
+5
+tion of an individual; and 
+6
+(B) has computer processing capabilities 
+7
+for collecting, sending, receiving, or analyzing 
+8
+data. 
+9
+(5) CONTROL.—The term ‘‘control’’ means, 
+10
+with respect to an entity— 
+11
+(A) ownership of, or the power to vote, 
+12
+more than 50 percent of the outstanding shares 
+13
+of any class of voting security of the entity; 
+14
+(B) control in any manner over the election 
+15
+of a majority of the directors of the entity (or 
+16
+of individuals exercising similar functions); or 
+17
+(C) the power to exercise a controlling in-
+18
+fluence over the management of the entity. 
+19
+(6) COVERED DATA.— 
+20
+(A) IN
+GENERAL.—The term ‘‘covered 
+21
+data’’ means information that identifies or is 
+22
+linked or reasonably linkable to an individual or 
+23
+a connected device that is linked or reasonably 
+24
+linkable to an individual. 
+25
+22:48 Oct 04, 2021
+H5433
+30 
+•HR 5433 IH
+(B) LINKED OR REASONABLY LINKABLE.— 
+1
+For purposes of subparagraph (A), information 
+2
+held by a covered entity is linked or reasonably 
+3
+linkable to an individual or a connected device 
+4
+if, as a practical matter, it can be used on its 
+5
+own or in combination with other information 
+6
+held by, or readily accessible to, the covered en-
+7
+tity to identify such individual or such device. 
+8
+(C) EXCLUSIONS.—Such term does not in-
+9
+clude— 
+10
+(i) aggregated data; 
+11
+(ii) de-identified data; 
+12
+(iii) data of an individual processed by 
+13
+the covered entity in the capacity of the 
+14
+covered entity as the employer of the indi-
+15
+vidual; or 
+16
+(iv) publicly available information. 
+17
+(7) COVERED ENTITY.—The term ‘‘covered en-
+18
+tity’’ means any person who— 
+19
+(A) collects, processes, or transfers covered 
+20
+data; and 
+21
+(B) determines the purposes and means of 
+22
+such collection, processing, or transfer. 
+23
+(8) COVERED INTERNET PLATFORM.— 
+24
+22:48 Oct 04, 2021
+H5433
+31 
+•HR 5433 IH
+(A) IN
+GENERAL.—The term ‘‘covered 
+1
+internet platform’’ means any public-facing 
+2
+website, internet application, or mobile applica-
+3
+tion, including a social network site, video shar-
+4
+ing service, search engine, or content aggrega-
+5
+tion service. 
+6
+(B) EXCLUSION.—Such term does not in-
+7
+clude a platform that is operated for the sole 
+8
+purpose of conducting research that is not con-
+9
+ducted for profit, either directly or indirectly. 
+10
+(9) DELETE.—The term ‘‘delete’’ means to re-
+11
+move or destroy information such that it is not 
+12
+maintained in human or machine-readable form and 
+13
+cannot be retrieved or utilized in such form in the 
+14
+normal course of business. 
+15
+(10) EXECUTIVE AGENCY.—The term ‘‘Execu-
+16
+tive agency’’ has the meaning given such term in 
+17
+section 105 of title 5, United States Code. 
+18
+(11) 
+INDIVIDUAL.—The 
+term 
+‘‘individual’’ 
+19
+means a natural person residing in the United 
+20
+States, however identified, including by any unique 
+21
+identifier. 
+22
+(12) MATERIAL.—The term ‘‘material’’ means, 
+23
+with respect to an act, practice, or representation of 
+24
+a covered entity (including a representation made by 
+25
+22:48 Oct 04, 2021
+H5433
+32 
+•HR 5433 IH
+the covered entity in a privacy policy or similar dis-
+1
+closure to individuals), that such act, practice, or 
+2
+representation is likely to affect an individual’s deci-
+3
+sion or conduct regarding a product or service. 
+4
+(13) PROCESS.—The term ‘‘process’’ means to 
+5
+perform any operation or set of operations on cov-
+6
+ered data, including collection, analysis, organiza-
+7
+tion, structuring, retaining, using, transferring, or 
+8
+otherwise handling covered data. 
+9
+(14) PROCESSING PURPOSE.—The term ‘‘proc-
+10
+essing purpose’’ means an adequately specific and 
+11
+granular reason for which a covered entity processes 
+12
+covered data that clearly describes the processing ac-
+13
+tivity. 
+14
+(15) PROGRAM.—The term ‘‘program’’ means, 
+15
+with respect to a covered internet platform, any pro-
+16
+gram that appears on the platform, including a pro-
+17
+gram that delivers advertisements to users of the 
+18
+platform and a program used to log into the plat-
+19
+form. 
+20
+(16) PUBLICLY
+AVAILABLE
+INFORMATION.— 
+21
+The term ‘‘publicly available information’’ means in-
+22
+formation that is available to the general public, in-
+23
+cluding— 
+24
+22:48 Oct 04, 2021
+H5433
+33 
+•HR 5433 IH
+(A) any information to which the source 
+1
+allows access by anyone upon request; and 
+2
+(B) any information that a covered entity 
+3
+has a reasonable basis to believe is lawfully 
+4
+made available to the general public from Fed-
+5
+eral, State, or local government records, widely 
+6
+distributed media, or disclosures to the general 
+7
+public that are required to be made by Federal, 
+8
+State, or local law. 
+9
+(17) RESEARCH.—The term ‘‘research’’ means 
+10
+the scientific analysis of information, including cov-
+11
+ered data, by a covered entity or those with whom 
+12
+the covered entity is cooperating or others acting at 
+13
+the direction or on behalf of the covered entity, that 
+14
+is conducted for the primary purpose of advancing 
+15
+scientific knowledge and may be for the commercial 
+16
+benefit of the covered entity. 
+17
+(18) SECOND-PARTY
+OPERATOR.—The term 
+18
+‘‘second-party operator’’ means the operator of a 
+19
+covered internet platform with which a user intends 
+20
+to connect, but does not include the operator of a 
+21
+program that appears on the platform (if the oper-
+22
+ator of the program is different from the operator 
+23
+of the platform). 
+24
+22:48 Oct 04, 2021
+H5433
+34 
+•HR 5433 IH
+(19) SERVICE PROVIDER.—The term ‘‘service 
+1
+provider’’ means, with respect to a set of covered 
+2
+data, a covered entity that collects, processes, or 
+3
+transfers such covered data for the purpose of per-
+4
+forming one or more services or functions on behalf 
+5
+of, and at the direction of, another covered entity 
+6
+that— 
+7
+(A) is not related to the covered entity pro-
+8
+viding the service or function by common own-
+9
+ership or corporate control; and 
+10
+(B) does not share common branding with 
+11
+the covered entity providing the service or func-
+12
+tion. 
+13
+(20) STATE.—The term ‘‘State’’ means each 
+14
+State of the United States, the District of Columbia, 
+15
+each commonwealth, territory, or possession of the 
+16
+United States, and each federally recognized Indian 
+17
+Tribe. 
+18
+(21) THIRD PARTY.—The term ‘‘third party’’ 
+19
+means with respect to a set of covered data, a cov-
+20
+ered entity— 
+21
+(A) that is not a service provider with re-
+22
+spect to such covered data; and 
+23
+(B) that received such covered data from 
+24
+another covered entity— 
+25
+22:48 Oct 04, 2021
+H5433
+35 
+•HR 5433 IH
+(i) that is not related to the covered 
+1
+entity by common ownership or corporate 
+2
+control; and 
+3
+(ii) that does not share common 
+4
+branding with the covered entity. 
+5
+(22) 
+THIRD-PARTY
+OPERATOR.—The 
+term 
+6
+‘‘third-party operator’’ means the operator of a pro-
+7
+gram that appears on a covered internet platform (if 
+8
+the operator of the program is different from the op-
+9
+erator of the platform). 
+10
+(23) TRANSFER.—The term ‘‘transfer’’ means, 
+11
+with respect to covered data, to disclose, release, 
+12
+share, disseminate, make available, or license such 
+13
+data, in writing, electronically, or by any other 
+14
+means, for consideration of any kind or for a com-
+15
+mercial purpose. 
+16
+SEC. 117. EFFECTIVE DATE. 
+17
+This title shall take effect on the date that is 6 
+18
+months after the date of the enactment of this Act. 
+19
+TITLE II—DO NOT TRACK 
+20
+SEC. 201. SHORT TITLE. 
+21
+This title may be cited as the ‘‘Do Not Track Act’’. 
+22
+SEC. 202. ESTABLISHMENT OF DO NOT TRACK SYSTEM. 
+23
+(a) IN GENERAL.—Not later than 6 months after the 
+24
+date of the enactment of this Act, the Commission shall 
+25
+22:48 Oct 04, 2021
+H5433
+36 
+•HR 5433 IH
+implement and enforce a Do Not Track (DNT) system, 
+1
+including the program described in subsection (b), to pro-
+2
+tect consumers from unwanted online data harvesting and 
+3
+targeted advertising. 
+4
+(b) DO NOT TRACK PROGRAM.—As part of the Do 
+5
+Not Track system required under this section, the Com-
+6
+mission shall designate the DNT signal and make avail-
+7
+able on the public website of the Commission a simple pro-
+8
+gram that— 
+9
+(1) can be downloaded to any common con-
+10
+nected device; 
+11
+(2) sends the DNT signal to every covered 
+12
+internet platform (except for a covered internet plat-
+13
+form designated under paragraph (3)) to which the 
+14
+device connects each time the device connects to the 
+15
+platform; and 
+16
+(3) permits the user of the device to designate 
+17
+covered internet platforms to which the DNT signal 
+18
+should not be sent, but does not exempt any covered 
+19
+internet platform from receiving the signal if the 
+20
+platform is not so designated. 
+21
+(c) OTHER DO NOT TRACK SYSTEMS.—Nothing in 
+22
+this title may be construed to prohibit the operator of any 
+23
+web browser or similar interface or a connected device de-
+24
+signer or manufacturer from offering a program that 
+25
+22:48 Oct 04, 2021
+H5433
+37 
+•HR 5433 IH
+sends the DNT signal to covered internet platforms, if the 
+1
+program permits users to designate covered internet plat-
+2
+forms to which the DNT signal should not be sent. 
+3
+(d) RULEMAKING
+AUTHORITY.—The Commission 
+4
+may promulgate regulations, in accordance with section 
+5
+553 of title 5, United States Code, to carry out this sec-
+6
+tion. 
+7
+SEC. 203. DO NOT TRACK: REQUIREMENTS FOR OPERA-
+8
+TORS; PROHIBITED ACTS. 
+9
+(a) REQUIREMENTS.— 
+10
+(1) SEARCH FOR DNT SIGNAL.—When a con-
+11
+nected device connects to a covered internet plat-
+12
+form— 
+13
+(A) the second-party operator of the plat-
+14
+form shall ensure that the platform searches for 
+15
+the DNT signal; and 
+16
+(B) the third-party operator of any pro-
+17
+gram that appears on the platform shall ensure 
+18
+that the program searches for the DNT signal. 
+19
+(2) MANDATORY NOTIFICATION.— 
+20
+(A) IN
+GENERAL.—Subject to subpara-
+21
+graph (B), if a second-party operator of a cov-
+22
+ered internet platform collects more data from 
+23
+a user of the platform than is necessary to op-
+24
+erate the platform, or if a third-party operator 
+25
+22:48 Oct 04, 2021
+H5433
+38 
+•HR 5433 IH
+of a program that appears on the platform col-
+1
+lects more data from a user of the platform 
+2
+than is necessary to operate the platform, the 
+3
+second-party operator or third-party operator, 
+4
+respectively, shall, through a pop-up notifica-
+5
+tion, provide any user whose connected device is 
+6
+not sending the DNT signal with— 
+7
+(i) notice of the policy of the platform 
+8
+or program of collecting data beyond what 
+9
+is necessary to operate the platform; 
+10
+(ii) notice of the protections from data 
+11
+collection and targeted advertising avail-
+12
+able to users under this title; 
+13
+(iii) notice that the user may, through 
+14
+the public website of the Commission, 
+15
+download the Do Not Track program de-
+16
+scribed in section 202(b), including a link 
+17
+to such website; and 
+18
+(iv) notice that the user may be able 
+19
+to activate the DNT signal through the 
+20
+user’s device or browser. 
+21
+(B) NUMBER
+AND
+TIMING.—A second- 
+22
+party operator or third-party operator, respec-
+23
+tively, shall provide the notification required by 
+24
+subparagraph (A)— 
+25
+22:48 Oct 04, 2021
+H5433
+39 
+•HR 5433 IH
+(i) the first time a connected device 
+1
+connects to the covered internet platform; 
+2
+and 
+3
+(ii) unless the user of the connected 
+4
+device opts out of receiving the notification 
+5
+required by subparagraph (A), at least 
+6
+every 30th time the connected device con-
+7
+nects to the covered internet platform. 
+8
+(C) COLLECTION OF DATA FOR TARGETED 
+9
+ADVERTISING.—For purposes of this para-
+10
+graph, the second-party operator of a covered 
+11
+internet platform, or the third-party operator of 
+12
+a program that appears on the platform, that 
+13
+collects data for the purpose of designing or 
+14
+displaying advertisements for targeted adver-
+15
+tising shall be considered to be collecting more 
+16
+data than is necessary to operate the platform. 
+17
+(b) PROHIBITION ON DATA COLLECTION AND TAR-
+18
+GETED ADVERTISING.— 
+19
+(1) SECOND-PARTY
+OPERATORS.—Subject to 
+20
+paragraph (3), it shall be unlawful for a second- 
+21
+party operator of a covered internet platform that 
+22
+receives the DNT signal from the connected device 
+23
+of a user to— 
+24
+22:48 Oct 04, 2021
+H5433
+40 
+•HR 5433 IH
+(A) collect any data (other than such data 
+1
+as is necessary to operate the platform) from 
+2
+the user; 
+3
+(B) use any data collected from the user 
+4
+for a secondary purpose, including for the pur-
+5
+pose of targeted advertising; or 
+6
+(C) transfer any data collected from the 
+7
+user to a third party, unless the user provides 
+8
+affirmative express consent to the transfer of 
+9
+data in a manner that demonstrates the user’s 
+10
+intent for the second-party operator to be an 
+11
+intermediary between the user and the third 
+12
+party. 
+13
+(2) THIRD-PARTY OPERATORS.— 
+14
+(A) IN GENERAL.—It shall be unlawful for 
+15
+a third-party operator of a program that re-
+16
+ceives the DNT signal from the connected de-
+17
+vice of a user of a covered internet platform on 
+18
+which the program appears to collect any data 
+19
+from the user, other than, subject to subpara-
+20
+graph (B), data collected for the purpose of 
+21
+analyzing how or whether the user engaged 
+22
+with the program. 
+23
+(B) LIMITATIONS
+ON
+COLLECTION
+OF 
+24
+DATA
+FOR
+ENGAGEMENT
+ANALYTICS.—Data 
+25
+22:48 Oct 04, 2021
+H5433
+41 
+•HR 5433 IH
+collected for the purpose of analyzing how or 
+1
+whether the user engaged with the program, as 
+2
+described in subparagraph (A)— 
+3
+(i) may only be collected in a de-iden-
+4
+tified manner; and 
+5
+(ii) may not be used to create or con-
+6
+tribute to a profile of the user. 
+7
+(3) EXCEPTION
+FOR
+COMPLEMENTARY
+SERV-
+8
+ICES.—Notwithstanding paragraph (1), a second- 
+9
+party operator of a covered internet platform may 
+10
+collect additional data from a user beyond what is 
+11
+necessary for the operation of the platform if the ad-
+12
+ditional data is necessary for the operation of a dif-
+13
+ferent covered internet platform that is— 
+14
+(A) both owned and operated by the sec-
+15
+ond-party operator; 
+16
+(B) designed to complement the covered 
+17
+internet platform accessed by the user; and 
+18
+(C) branded as a complementary covered 
+19
+internet platform to the covered internet plat-
+20
+form accessed by the user. 
+21
+(c) INTERFERING WITH DNT SIGNAL.—It shall be 
+22
+unlawful for any person to— 
+23
+(1) block or impede the ability of a covered 
+24
+internet platform, or a program that appears on a 
+25
+22:48 Oct 04, 2021
+H5433
+42 
+•HR 5433 IH
+covered internet platform, to receive the DNT sig-
+1
+nal; or 
+2
+(2) block or impede the ability of a connected 
+3
+device to send the DNT signal. 
+4
+(d) DISCRIMINATION
+BASED
+ON
+DNT PREF-
+5
+ERENCES.—It shall be unlawful for a second-party oper-
+6
+ator of a covered internet platform to— 
+7
+(1) deny a user access to, or service from, the 
+8
+platform on the basis of receiving the DNT signal 
+9
+from the user; or 
+10
+(2) provide a user from whom the platform re-
+11
+ceives the DNT signal with a different level of access 
+12
+or service than the level of access or service provided 
+13
+to a user from whom the platform does not receive 
+14
+the DNT signal. 
+15
+SEC. 204. SCOPE OF COVERAGE. 
+16
+(a) GENERAL EXCEPTIONS.—Notwithstanding any 
+17
+other provision of this title, a covered entity may collect, 
+18
+process, or transfer covered data for any of the following 
+19
+purposes, if the collection, processing, or transfer is rea-
+20
+sonably necessary, proportionate, and limited to such pur-
+21
+pose: 
+22
+(1) To initiate or complete a transaction or to 
+23
+fulfill an order or provide a service specifically re-
+24
+quested by an individual, including associated rou-
+25
+22:48 Oct 04, 2021
+H5433
+43 
+•HR 5433 IH
+tine administrative activities such as billing, ship-
+1
+ping, financial reporting, and accounting. 
+2
+(2) To perform internal system maintenance, 
+3
+diagnostics, product or service management, inven-
+4
+tory management, or network management. 
+5
+(3) To prevent, detect, or respond to a security 
+6
+incident or trespassing, provide a secure environ-
+7
+ment, or maintain the safety and security of a prod-
+8
+uct, service, or individual. 
+9
+(4) To protect against malicious, deceptive, 
+10
+fraudulent, or illegal activity. 
+11
+(5) To comply with a legal obligation or the es-
+12
+tablishment, exercise, analysis, or defense of legal 
+13
+claims or rights, or as required or specifically au-
+14
+thorized by law. 
+15
+(6) To comply with a civil, criminal, or regu-
+16
+latory inquiry, investigation, subpoena, or summons 
+17
+by an Executive agency. 
+18
+(7) To cooperate with an Executive agency or 
+19
+a law enforcement official acting under the authority 
+20
+of an Executive or State agency concerning conduct 
+21
+or activity that the Executive agency or law enforce-
+22
+ment official reasonably and in good faith believes 
+23
+may violate Federal, State, or local law, or pose a 
+24
+threat to public safety or national security. 
+25
+22:48 Oct 04, 2021
+H5433
+44 
+•HR 5433 IH
+(8) To address risks to the safety of an indi-
+1
+vidual or group of individuals, or to ensure customer 
+2
+safety, including by authenticating individuals in 
+3
+order to provide access to large venues open to the 
+4
+public. 
+5
+(9) To effectuate a product recall pursuant to 
+6
+Federal or State law. 
+7
+(10) To conduct public or peer-reviewed sci-
+8
+entific, historical, or statistical research that— 
+9
+(A) is in the public interest; 
+10
+(B) adheres to all applicable ethics and 
+11
+privacy laws; and 
+12
+(C) is approved, monitored, and governed 
+13
+by an institutional review board or other over-
+14
+sight entity that meets standards promulgated 
+15
+by the Commission pursuant to section 553 of 
+16
+title 5, United States Code. 
+17
+(11) To transfer covered data to a service pro-
+18
+vider. 
+19
+(12) For a purpose identified by the Commis-
+20
+sion pursuant to a regulation promulgated under 
+21
+subsection (b). 
+22
+(b) ADDITIONAL PURPOSES.—The Commission may 
+23
+promulgate regulations under section 553 of title 5, 
+24
+United States Code, identifying additional purposes for 
+25
+22:48 Oct 04, 2021
+H5433
+45 
+•HR 5433 IH
+which a covered entity may collect, process, or transfer 
+1
+covered data and protect individual rights to data privacy 
+2
+in accordance with this title. 
+3
+SEC. 205. APPLICATION AND ENFORCEMENT. 
+4
+(a) GENERAL APPLICATION.—The requirements of 
+5
+this title apply, according to their terms, to— 
+6
+(1) those persons, partnerships, and corpora-
+7
+tions over which the Commission has authority pur-
+8
+suant to section 5(a)(2) of the Federal Trade Com-
+9
+mission Act (15 U.S.C. 45(a)(2)); and 
+10
+(2) notwithstanding sections 4 and 5(a)(2) of 
+11
+such Act (15 U.S.C. 44; 45(a)(2))— 
+12
+(A) common carriers described in such sec-
+13
+tion 5(a)(2); and 
+14
+(B) organizations not organized to carry 
+15
+on business for their own profit or that of their 
+16
+members. 
+17
+(b) ENFORCEMENT BY THE COMMISSION.— 
+18
+(1) IN
+GENERAL.—Except as otherwise pro-
+19
+vided, this title and the regulations prescribed under 
+20
+this title shall be enforced by the Commission under 
+21
+the Federal Trade Commission Act (15 U.S.C. 41 et 
+22
+seq.). 
+23
+(2) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+24
+TICES.—A violation of this title or a regulation pre-
+25
+22:48 Oct 04, 2021
+H5433
+46 
+•HR 5433 IH
+scribed under this title shall be treated as a violation 
+1
+of a rule defining an unfair or deceptive act or prac-
+2
+tice prescribed under section 18(a)(1)(B) of the Fed-
+3
+eral 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+4
+57a(a)(1)(B)). 
+5
+(3) ACTIONS BY THE COMMISSION.— 
+6
+(A) IN GENERAL.—Except as provided in 
+7
+subparagraph (B) and subsection (a), the Com-
+8
+mission shall prevent any person from violating 
+9
+this title or a regulation prescribed under this 
+10
+title in the same manner, by the same means, 
+11
+and with the same jurisdiction, powers, and du-
+12
+ties as though all applicable terms and provi-
+13
+sions of the Federal Trade Commission Act (15 
+14
+U.S.C. 41 et seq.) were incorporated into and 
+15
+made a part of this title, and any person who 
+16
+violates this title or a regulation prescribed 
+17
+under this title shall be subject to the penalties 
+18
+and entitled to the privileges and immunities 
+19
+provided in the Federal Trade Commission Act. 
+20
+(B) PENALTIES.— 
+21
+(i) IN
+GENERAL.—Notwithstanding 
+22
+section 5(m) of the Federal Trade Com-
+23
+mission Act (15 U.S.C. 45(m)), a civil pen-
+24
+alty recovered for a violation of this title or 
+25
+22:48 Oct 04, 2021
+H5433
+47 
+•HR 5433 IH
+a regulation prescribed under this title 
+1
+may be in excess of the amounts provided 
+2
+for in that section, if such penalty meets 
+3
+the requirements of this subparagraph. 
+4
+(ii) PENALTY FOR NEGLIGENT VIOLA-
+5
+TION.—In the case of a person who neg-
+6
+ligently violates this title or a regulation 
+7
+prescribed under this title, such person 
+8
+shall be liable for a civil penalty that does 
+9
+not exceed $50 for every individual af-
+10
+fected by such violation for every day dur-
+11
+ing which the person is in violation of this 
+12
+title or such regulation as described in this 
+13
+clause. 
+14
+(iii) PENALTY
+FOR
+WILLFUL
+OR 
+15
+RECKLESS VIOLATION.—In the case of a 
+16
+person who willfully or recklessly violates 
+17
+this title or a regulation prescribed under 
+18
+this title, such person shall be liable for a 
+19
+civil penalty that— 
+20
+(I) is not less than $100,000; 
+21
+and 
+22
+(II) does not exceed $1,000 for 
+23
+every individual affected by such vio-
+24
+lation for every day during which the 
+25
+22:48 Oct 04, 2021
+H5433
+48 
+•HR 5433 IH
+person is in violation of this title or 
+1
+such regulation as described in this 
+2
+clause. 
+3
+(c) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+4
+ERAL.— 
+5
+(1) IN GENERAL.— 
+6
+(A) CIVIL ACTIONS.—In any case in which 
+7
+the attorney general of a State has reason to 
+8
+believe that an interest of the residents of that 
+9
+State has been or is threatened or adversely af-
+10
+fected by the engagement of any person in an 
+11
+act or practice that violates this title or a regu-
+12
+lation prescribed under this title, the State, as 
+13
+parens patriae, may bring a civil action on be-
+14
+half of the residents of the State in a district 
+15
+court of the United States or a State court of 
+16
+appropriate jurisdiction to— 
+17
+(i) enjoin that act or practice; 
+18
+(ii) enforce compliance with this title 
+19
+or such regulation; 
+20
+(iii) obtain damages, statutory dam-
+21
+ages in the same amount as the penalties 
+22
+that the Commission may obtain under 
+23
+section 5(m) of the Federal Trade Com-
+24
+mission Act (15 U.S.C. 45(m)) and sub-
+25
+22:48 Oct 04, 2021
+H5433
+49 
+•HR 5433 IH
+section (b)(3)(B) of this section, restitu-
+1
+tion, or other compensation on behalf of 
+2
+residents of the State; or 
+3
+(iv) obtain such other relief as the 
+4
+court may consider to be appropriate. 
+5
+(B) NOTICE.— 
+6
+(i) IN GENERAL.—Before filing an ac-
+7
+tion under subparagraph (A), the attorney 
+8
+general of the State involved shall provide 
+9
+to the Commission— 
+10
+(I) written notice of that action; 
+11
+and 
+12
+(II) a copy of the complaint for 
+13
+that action. 
+14
+(ii) EXEMPTION.— 
+15
+(I) IN
+GENERAL.—Clause (i) 
+16
+does not apply with respect to the fil-
+17
+ing of an action by an attorney gen-
+18
+eral of a State under this paragraph 
+19
+if the attorney general of the State 
+20
+determines that it is not feasible to 
+21
+provide the notice described in that 
+22
+clause before the filing of the action. 
+23
+(II) NOTIFICATION.—In an ac-
+24
+tion described in subclause (I), the at-
+25
+22:48 Oct 04, 2021
+H5433
+50 
+•HR 5433 IH
+torney general of a State shall provide 
+1
+notice and a copy of the complaint to 
+2
+the Commission at the same time as 
+3
+the attorney general files the action. 
+4
+(2) INTERVENTION.— 
+5
+(A) IN
+GENERAL.—On receiving notice 
+6
+under paragraph (1)(B), the Commission shall 
+7
+have the right to intervene in the action that is 
+8
+the subject of the notice. 
+9
+(B) EFFECT
+OF
+INTERVENTION.—If the 
+10
+Commission intervenes in an action under para-
+11
+graph (1), it shall have the right— 
+12
+(i) to be heard with respect to any 
+13
+matter that arises in that action; and 
+14
+(ii) to file a petition for appeal. 
+15
+(3) CONSTRUCTION.—For purposes of bringing 
+16
+any civil action under paragraph (1), nothing in this 
+17
+title shall be construed to prevent an attorney gen-
+18
+eral of a State from exercising the powers conferred 
+19
+on the attorney general by the laws of that State 
+20
+to— 
+21
+(A) conduct investigations; 
+22
+(B) administer oaths or affirmations; or 
+23
+22:48 Oct 04, 2021
+H5433
+51 
+•HR 5433 IH
+(C) compel the attendance of witnesses or 
+1
+the production of documentary and other evi-
+2
+dence. 
+3
+(4) ACTIONS
+BY
+THE
+COMMISSION.—In any 
+4
+case in which an action is instituted by or on behalf 
+5
+of the Commission for violation of this title or a reg-
+6
+ulation prescribed under this title, no State may, 
+7
+during the pendency of that action, institute an ac-
+8
+tion under paragraph (1) against any defendant 
+9
+named in the complaint in the action instituted by 
+10
+or on behalf of the Commission for that violation. 
+11
+(5) VENUE; SERVICE OF PROCESS.— 
+12
+(A) VENUE.—Any action brought under 
+13
+paragraph (1) may be brought in— 
+14
+(i) a district court of the United 
+15
+States that meets applicable requirements 
+16
+relating to venue under section 1391 of 
+17
+title 28, United States Code; or 
+18
+(ii) a State court of competent juris-
+19
+diction. 
+20
+(B) SERVICE OF PROCESS.—In an action 
+21
+brought under paragraph (1) in a district court 
+22
+of the United States, process may be served 
+23
+wherever the defendant— 
+24
+(i) is an inhabitant; or 
+25
+22:48 Oct 04, 2021
+H5433
+52 
+•HR 5433 IH
+(ii) may be found. 
+1
+SEC. 206. STATE PRIVACY PROTECTIONS. 
+2
+Nothing in this title shall preempt any State law, reg-
+3
+ulation, or other requirement having the force or effect 
+4
+of law that is more protective of the privacy of individuals 
+5
+than the requirements of this title. 
+6
+SEC. 207. SEVERABILITY. 
+7
+If any provision of this title or the application of a 
+8
+provision of this title to any person or circumstance is held 
+9
+to be invalid or unconstitutional, the remainder of this 
+10
+title, or the application of such provision to any other per-
+11
+son or circumstance, shall not be affected. 
+12
+SEC. 208. DEFINITIONS. 
+13
+In this title: 
+14
+(1) AFFIRMATIVE EXPRESS CONSENT.— 
+15
+(A) IN GENERAL.—The term ‘‘affirmative 
+16
+express consent’’ means an affirmative act by 
+17
+an individual that clearly communicates the in-
+18
+dividual’s authorization for an act or practice, 
+19
+in response to a specific request that meets the 
+20
+requirements of subparagraph (B). 
+21
+(B) REQUEST
+REQUIREMENTS.—The re-
+22
+quirements of this subparagraph with respect to 
+23
+a request from a covered entity to an individual 
+24
+are the following: 
+25
+22:48 Oct 04, 2021
+H5433
+53 
+•HR 5433 IH
+(i) The request is provided to the indi-
+1
+vidual in a standalone disclosure. 
+2
+(ii) The request includes a description 
+3
+of each act or practice for which the indi-
+4
+vidual’s consent is sought and— 
+5
+(I) clearly distinguishes between 
+6
+an act or practice which is necessary 
+7
+to fulfill a request of the individual 
+8
+and an act or practice which is for an-
+9
+other purpose; and 
+10
+(II) is written in easy-to-under-
+11
+stand language and includes a promi-
+12
+nent heading that would enable a rea-
+13
+sonable individual to identify and un-
+14
+derstand the act or practice. 
+15
+(iii) The request clearly explains the 
+16
+individual’s applicable rights related to 
+17
+consent. 
+18
+(C) EXPRESS
+CONSENT
+REQUIRED.—A 
+19
+covered entity may not infer that an individual 
+20
+has provided affirmative express consent to an 
+21
+act or practice from the inaction of the indi-
+22
+vidual or the individual’s continued use of a 
+23
+service or product provided by the covered enti-
+24
+ty. 
+25
+22:48 Oct 04, 2021
+H5433
+54 
+•HR 5433 IH
+(D) PRIOR CONSENT REQUIRED.—In the 
+1
+case of any requirement of this title for a cov-
+2
+ered entity to obtain affirmative express consent 
+3
+for an act or practice, the covered entity shall 
+4
+obtain such consent before engaging in the act 
+5
+or practice. 
+6
+(2) COLLECT; COLLECTION.—The terms ‘‘col-
+7
+lect’’ and ‘‘collection’’ mean, with respect to the cov-
+8
+ered data of an individual, buying, renting, gath-
+9
+ering, obtaining, receiving, accessing, or otherwise 
+10
+acquiring such data by any means, including by pas-
+11
+sively or actively observing the individual’s behavior. 
+12
+(3) COMMISSION.—The term ‘‘Commission’’ 
+13
+means the Federal Trade Commission. 
+14
+(4) CONNECTED
+DEVICE.—The term ‘‘con-
+15
+nected device’’ means a physical object that— 
+16
+(A) is capable of connecting to the inter-
+17
+net, either directly or indirectly through a net-
+18
+work, to communicate information at the direc-
+19
+tion of an individual; and 
+20
+(B) has computer processing capabilities 
+21
+for collecting, sending, receiving, or analyzing 
+22
+data. 
+23
+(5) CONTROL.—The term ‘‘control’’ means, 
+24
+with respect to an entity— 
+25
+22:48 Oct 04, 2021
+H5433
+55 
+•HR 5433 IH
+(A) ownership of, or the power to vote, 
+1
+more than 50 percent of the outstanding shares 
+2
+of any class of voting security of the entity; 
+3
+(B) control in any manner over the election 
+4
+of a majority of the directors of the entity (or 
+5
+of individuals exercising similar functions); or 
+6
+(C) the power to exercise a controlling in-
+7
+fluence over the management of the entity. 
+8
+(6) COVERED DATA.— 
+9
+(A) IN
+GENERAL.—The term ‘‘covered 
+10
+data’’ means information that identifies or is 
+11
+linked or reasonably linkable to an individual or 
+12
+a connected device that is linked or reasonably 
+13
+linkable to an individual. 
+14
+(B) LINKED OR REASONABLY LINKABLE.— 
+15
+For purposes of subparagraph (A), information 
+16
+held by a covered entity is linked or reasonably 
+17
+linkable to an individual or a connected device 
+18
+if, as a practical matter, it can be used on its 
+19
+own or in combination with other information 
+20
+held by, or readily accessible to, the covered en-
+21
+tity to identify such individual or such device. 
+22
+(C) EXCLUSIONS.—Such term does not in-
+23
+clude— 
+24
+(i) aggregated data; 
+25
+22:48 Oct 04, 2021
+H5433
+56 
+•HR 5433 IH
+(ii) de-identified data; 
+1
+(iii) data of an individual processed by 
+2
+the covered entity in the capacity of the 
+3
+covered entity as the employer of the indi-
+4
+vidual; or 
+5
+(iv) publicly available information. 
+6
+(7) COVERED ENTITY.—The term ‘‘covered en-
+7
+tity’’ means any person who— 
+8
+(A) collects, processes, or transfers covered 
+9
+data; and 
+10
+(B) determines the purposes and means of 
+11
+such collection, processing, or transfer. 
+12
+(8) COVERED INTERNET PLATFORM.— 
+13
+(A) IN
+GENERAL.—The term ‘‘covered 
+14
+internet platform’’ means any public-facing 
+15
+website, internet application, or mobile applica-
+16
+tion, including a social network site, video shar-
+17
+ing service, search engine, or content aggrega-
+18
+tion service. 
+19
+(B) EXCLUSION.—Such term does not in-
+20
+clude a platform that is operated for the sole 
+21
+purpose of conducting research that is not con-
+22
+ducted for profit, either directly or indirectly. 
+23
+(9) DNT SIGNAL.—The term ‘‘DNT signal’’ 
+24
+means a signal sent by a connected device, such as 
+25
+22:48 Oct 04, 2021
+H5433
+57 
+•HR 5433 IH
+the hypertext transfer protocol developed by the 
+1
+World Wide Web Consortium Working Group on 
+2
+Tracking Preference Expression, that is designated 
+3
+by the Commission for purposes of the Do Not 
+4
+Track program required under section 202(b). 
+5
+(10) EXECUTIVE AGENCY.—The term ‘‘Execu-
+6
+tive agency’’ has the meaning given such term in 
+7
+section 105 of title 5, United States Code. 
+8
+(11) 
+INDIVIDUAL.—The 
+term 
+‘‘individual’’ 
+9
+means a natural person residing in the United 
+10
+States, however identified, including by any unique 
+11
+identifier. 
+12
+(12) PROCESS.—The term ‘‘process’’ means to 
+13
+perform any operation or set of operations on cov-
+14
+ered data, including collection, analysis, organiza-
+15
+tion, structuring, retaining, using, transferring, or 
+16
+otherwise handling covered data. 
+17
+(13) PROGRAM.—The term ‘‘program’’ means, 
+18
+with respect to a covered internet platform, any pro-
+19
+gram that appears on the platform, including a pro-
+20
+gram that delivers advertisements to users of the 
+21
+platform and a program used to log into the plat-
+22
+form. 
+23
+(14) PUBLICLY
+AVAILABLE
+INFORMATION.— 
+24
+The term ‘‘publicly available information’’ means in-
+25
+22:48 Oct 04, 2021
+H5433
+58 
+•HR 5433 IH
+formation that is available to the general public, in-
+1
+cluding— 
+2
+(A) any information to which the source 
+3
+allows access by anyone upon request; and 
+4
+(B) any information that a covered entity 
+5
+has a reasonable basis to believe is lawfully 
+6
+made available to the general public from Fed-
+7
+eral, State, or local government records, widely 
+8
+distributed media, or disclosures to the general 
+9
+public that are required to be made by Federal, 
+10
+State, or local law. 
+11
+(15) RESEARCH.—The term ‘‘research’’ means 
+12
+the scientific analysis of information, including cov-
+13
+ered data, by a covered entity or those with whom 
+14
+the covered entity is cooperating or others acting at 
+15
+the direction or on behalf of the covered entity, that 
+16
+is conducted for the primary purpose of advancing 
+17
+scientific knowledge and may be for the commercial 
+18
+benefit of the covered entity. 
+19
+(16) SECOND-PARTY
+OPERATOR.—The term 
+20
+‘‘second-party operator’’ means the operator of a 
+21
+covered internet platform with which a user intends 
+22
+to connect, but does not include the operator of a 
+23
+program that appears on the platform (if the oper-
+24
+22:48 Oct 04, 2021
+H5433
+59 
+•HR 5433 IH
+ator of the program is different from the operator 
+1
+of the platform). 
+2
+(17) SERVICE PROVIDER.—The term ‘‘service 
+3
+provider’’ means, with respect to a set of covered 
+4
+data, a covered entity that collects, processes, or 
+5
+transfers such covered data for the purpose of per-
+6
+forming one or more services or functions on behalf 
+7
+of, and at the direction of, another covered entity 
+8
+that— 
+9
+(A) is not related to the covered entity pro-
+10
+viding the service or function by common own-
+11
+ership or corporate control; and 
+12
+(B) does not share common branding with 
+13
+the covered entity providing the service or func-
+14
+tion. 
+15
+(18) STATE.—The term ‘‘State’’ means each 
+16
+State of the United States, the District of Columbia, 
+17
+each commonwealth, territory, or possession of the 
+18
+United States, and each federally recognized Indian 
+19
+Tribe. 
+20
+(19) TARGETED ADVERTISING.— 
+21
+(A) IN GENERAL.—The term ‘‘targeted ad-
+22
+vertising’’ means a form of advertising in which 
+23
+advertisements are displayed to a user based on 
+24
+the user’s traits, information from a profile 
+25
+22:48 Oct 04, 2021
+H5433
+60 
+•HR 5433 IH
+about the user that is created for the purpose 
+1
+of selling advertisements, or the user’s previous 
+2
+online or offline behavior. 
+3
+(B) LIMITATION.—Such term does not in-
+4
+clude contextual advertising, including— 
+5
+(i) advertising that is directed to a 
+6
+user based on the content of the covered 
+7
+internet platform that the user is con-
+8
+nected to; or 
+9
+(ii) advertising that is directed to a 
+10
+user by the second-party operator of a cov-
+11
+ered internet platform, or by the third- 
+12
+party operator of a program that appears 
+13
+on the platform, based on the search terms 
+14
+that the user used to arrive at the plat-
+15
+form. 
+16
+(20) THIRD PARTY.—The term ‘‘third party’’ 
+17
+means with respect to a set of covered data, a cov-
+18
+ered entity— 
+19
+(A) that is not a service provider with re-
+20
+spect to such covered data; and 
+21
+(B) that received such covered data from 
+22
+another covered entity— 
+23
+22:48 Oct 04, 2021
+H5433
+61 
+•HR 5433 IH
+(i) that is not related to the covered 
+1
+entity by common ownership or corporate 
+2
+control; and 
+3
+(ii) that does not share common 
+4
+branding with the covered entity. 
+5
+(21) 
+THIRD-PARTY
+OPERATOR.—The 
+term 
+6
+‘‘third-party operator’’ means the operator of a pro-
+7
+gram that appears on a covered internet platform (if 
+8
+the operator of the program is different from the op-
+9
+erator of the platform). 
+10
+(22) TRANSFER.—The term ‘‘transfer’’ means, 
+11
+with respect to covered data, to disclose, release, 
+12
+share, disseminate, make available, or license such 
+13
+data, in writing, electronically, or by any other 
+14
+means, for consideration of any kind or for a com-
+15
+mercial purpose. 
+16
+SEC. 209. EFFECTIVE DATE. 
+17
+This title shall take effect on the date that is 6 
+18
+months after the date of the enactment of this Act. 
+19
+Æ 
+22:48 Oct 04, 2021
+H5433

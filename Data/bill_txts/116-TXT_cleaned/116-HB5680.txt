@@ -1,0 +1,706 @@
+A BILL 
+To amend the Homeland Security Act of 2002 to protect 
+United States critical infrastructure by ensuring that 
+the Cybersecurity and Infrastructure Security Agency of 
+the Department of Homeland Security has necessary 
+legal tools to notify entities at risk of cybersecurity 
+vulnerabilities in the enterprise devices or systems that 
+control critical assets of the United States, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+00:28 Jan 28, 2020
+H5680
+2 
+•HR 5680 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Cybersecurity Vulner-
+2
+ability Identification and Notification Act of 2020’’. 
+3
+SEC. 2. SUBPOENA AUTHORITY. 
+4
+(a) IN GENERAL.—Section 2209 of the Homeland 
+5
+Security Act of 2002 (6 U.S.C. 659) is amended— 
+6
+(1) in subsection (a)— 
+7
+(A) in this subsection, by inserting ‘‘, ‘cy-
+8
+bersecurity purpose’,’’ after ‘‘ ‘cyber threat indi-
+9
+cator’ ’’; 
+10
+(B) 
+by 
+redesignating 
+paragraphs 
+(3) 
+11
+through (6) as paragraphs (4) through (7), re-
+12
+spectively; 
+13
+(C) by inserting after this subsection the 
+14
+following new paragraph: 
+15
+‘‘(3) the term ‘enterprise device or system’— 
+16
+‘‘(A) means a device or information system 
+17
+commonly used to perform industrial, commer-
+18
+cial, scientific, or governmental functions or 
+19
+processes that relate to critical infrastructure, 
+20
+including operational and industrial control sys-
+21
+tems, distributed control systems, and program-
+22
+mable logic controllers; and 
+23
+‘‘(B) does not include personal devices and 
+24
+systems, such as consumer mobile devices, home 
+25
+computers, residential wireless routers, or resi-
+26
+00:28 Jan 28, 2020
+H5680
+3 
+•HR 5680 IH
+dential internet-enabled consumer devices;’’; 
+1
+and 
+2
+(D) in paragraph (6), as so redesignated, 
+3
+by striking ‘‘term ‘information system’ has the 
+4
+meaning given that term in section 3502(8) of 
+5
+title 44; and’’ and inserting ‘‘terms ‘information 
+6
+system’ and ‘security vulnerability’ have the 
+7
+meanings given those terms in section 102 of 
+8
+the Cybersecurity Information Sharing Act of 
+9
+2015 (6 U.S.C. 1501);’’; 
+10
+(2) in subsection (c)— 
+11
+(A) in paragraph (8)(C), by striking ‘‘shar-
+12
+ing’’ and inserting ‘‘share’’; 
+13
+(B) in paragraph (10), by striking ‘‘and’’ 
+14
+after the semicolon at the end; 
+15
+(C) in paragraph (11), by striking the pe-
+16
+riod at the end and inserting ‘‘; and’’; and 
+17
+(D) by adding at the end the following new 
+18
+paragraph: 
+19
+‘‘(12) detecting, identifying, and receiving infor-
+20
+mation about security vulnerabilities relating to in-
+21
+formation systems for a cybersecurity purpose.’’; and 
+22
+(3) by adding at the end the following new sub-
+23
+section: 
+24
+‘‘(n) SUBPOENA AUTHORITY.— 
+25
+00:28 Jan 28, 2020
+H5680
+4 
+•HR 5680 IH
+‘‘(1) IN GENERAL.—If the Director identifies an 
+1
+information system connected to the internet with a 
+2
+specific security vulnerability and has reason to be-
+3
+lieve that the security vulnerability relates to critical 
+4
+infrastructure and affects an enterprise device or 
+5
+system of an entity, and the Director made reason-
+6
+able efforts to identify the entity at risk but was un-
+7
+able to do so, the Director may issue a subpoena for 
+8
+the production of information necessary to identify 
+9
+and notify the entity at risk, in order to carry out 
+10
+a cybersecurity purpose. 
+11
+‘‘(2) LIMIT
+ON
+INFORMATION.—A subpoena 
+12
+issued under this subsection may only seek informa-
+13
+tion in the categories set forth in subparagraphs 
+14
+(A), (B), (D), and (E) of section 2703(c)(2) of title 
+15
+18, United States Code. 
+16
+‘‘(3) LIABILITY PROTECTIONS FOR DISCLOSING 
+17
+PROVIDERS.—The provisions of section 2703(e) of 
+18
+title 18, United States Code, shall apply to any sub-
+19
+poena issued under this subsection. 
+20
+‘‘(4) COORDINATION.— 
+21
+‘‘(A) IN
+GENERAL.—Not later than 60 
+22
+days after the date of the enactment of this 
+23
+subsection, the Director, in coordination with 
+24
+the Attorney General, shall develop inter-agency 
+25
+00:28 Jan 28, 2020
+H5680
+5 
+•HR 5680 IH
+procedures regarding the issuance of subpoenas 
+1
+under this subsection in order to avoid inter-
+2
+ference with ongoing law enforcement investiga-
+3
+tions. To the extent practicable, the Director 
+4
+shall coordinate such issuances with the De-
+5
+partment of Justice, including the Federal Bu-
+6
+reau of Investigation, pursuant to such proce-
+7
+dures. 
+8
+‘‘(B) CONTENTS.—The inter-agency proce-
+9
+dures developed under this paragraph shall pro-
+10
+vide that a subpoena issued by the Director 
+11
+under this subsection shall be— 
+12
+‘‘(i) issued solely in order to carry out 
+13
+a cybersecurity purpose; and 
+14
+‘‘(ii) subject to the limitations under 
+15
+this subsection. 
+16
+‘‘(5) NONCOMPLIANCE.—If any person, part-
+17
+nership, corporation, association, or entity fails to 
+18
+comply with any duly served subpoena issued under 
+19
+this subsection, the Director may request that the 
+20
+Attorney General seek enforcement of the subpoena 
+21
+in any judicial district in which such person, part-
+22
+nership, corporation, association, or entity resides, is 
+23
+found, or transacts business. 
+24
+00:28 Jan 28, 2020
+H5680
+6 
+•HR 5680 IH
+‘‘(6) NOTICE.—Not later than seven days after 
+1
+the date on which the Director receives information 
+2
+obtained through a subpoena issued under this sub-
+3
+section, the Director shall notify the entity at risk 
+4
+identified by information obtained under the sub-
+5
+poena regarding the subpoena and the identified se-
+6
+curity vulnerability. 
+7
+‘‘(7) AUTHENTICATION.—Any subpoena issued 
+8
+by the Director under this subsection shall be au-
+9
+thenticated by the electronic signature of an author-
+10
+ized representative of the Agency or other com-
+11
+parable symbol or process identifying the Agency as 
+12
+the source of the subpoena. 
+13
+‘‘(8) PROCEDURES.— 
+14
+‘‘(A) IN
+GENERAL.—Not later than 90 
+15
+days after the date of enactment of this sub-
+16
+section, the Director shall establish internal 
+17
+procedures and associated training, applicable 
+18
+to employees and operations of the Agency, re-
+19
+garding subpoenas issued under this subsection, 
+20
+which shall address the following: 
+21
+‘‘(i) The protection of and restriction 
+22
+on dissemination of nonpublic information 
+23
+obtained through such a subpoena, includ-
+24
+ing a requirement that the Agency may not 
+25
+00:28 Jan 28, 2020
+H5680
+7 
+•HR 5680 IH
+disseminate 
+nonpublic 
+information 
+ob-
+1
+tained through such a subpoena that iden-
+2
+tifies the party that is subject to such a 
+3
+subpoena or the entity at risk identified by 
+4
+information obtained as a result of such a 
+5
+subpoena, unless— 
+6
+‘‘(I) the party or entity consents; 
+7
+or 
+8
+‘‘(II) the Agency identifies or is 
+9
+notified of a cybersecurity incident in-
+10
+volving the party or entity, which re-
+11
+lates to the security vulnerability 
+12
+which led to the issuance of such a 
+13
+subpoena. 
+14
+‘‘(ii) The restriction on the use of in-
+15
+formation obtained through the subpoena 
+16
+for a cybersecurity purpose. 
+17
+‘‘(iii) The retention and destruction of 
+18
+nonpublic information obtained through 
+19
+such a subpoena, including the following: 
+20
+‘‘(I) Immediate destruction of in-
+21
+formation obtained through such a 
+22
+subpoena that the Director determines 
+23
+is unrelated to critical infrastructure. 
+24
+00:28 Jan 28, 2020
+H5680
+8 
+•HR 5680 IH
+‘‘(II) Destruction of any person-
+1
+ally identifiable information not later 
+2
+than six months after the date on 
+3
+which the Director receives informa-
+4
+tion obtained through such a sub-
+5
+poena, unless otherwise agreed to by 
+6
+the individual so identified. 
+7
+‘‘(iv) The process for recordkeeping 
+8
+regarding efforts referred to in paragraph 
+9
+(1) undertaken prior to the issuance of 
+10
+such a subpoena. 
+11
+‘‘(v) The process for tracking engage-
+12
+ment with each party that is subject to 
+13
+such a subpoena and the entity at risk 
+14
+identified by information obtained pursu-
+15
+ant to such a subpoena. 
+16
+‘‘(vi) The process for providing notice 
+17
+to each party that is subject to such a sub-
+18
+poena and each entity at risk identified by 
+19
+information obtained pursuant to such a 
+20
+subpoena. 
+21
+‘‘(vii) The process and criteria for 
+22
+conducting critical infrastructure security 
+23
+risk assessments to determine whether a 
+24
+00:28 Jan 28, 2020
+H5680
+9 
+•HR 5680 IH
+subpoena is necessary prior to being so 
+1
+issued. 
+2
+‘‘(B) CONGRESSIONAL
+NOTIFICATION.— 
+3
+The Director shall brief the Committee on 
+4
+Homeland Security of the House of Representa-
+5
+tives and the Committee on Homeland Security 
+6
+and Governmental Affairs of the Senate upon 
+7
+establishment of internal procedures and associ-
+8
+ated training required under this subsection. 
+9
+‘‘(9) REVIEW OF PROCEDURES.—Not later than 
+10
+one year after the date of enactment of this sub-
+11
+section, the Privacy Officer of the Agency, in con-
+12
+sultation with the Privacy Officer of the Depart-
+13
+ment, shall— 
+14
+‘‘(A) review the internal procedures and 
+15
+associated training established by the Director 
+16
+under paragraph (8) to ensure that— 
+17
+‘‘(i) the procedures and training are 
+18
+consistent with fair information practices; 
+19
+and 
+20
+‘‘(ii) the operations of the Agency 
+21
+comply with the procedures and training; 
+22
+and 
+23
+‘‘(B) notify the Committee on Homeland 
+24
+Security of the House of Representatives and 
+25
+00:28 Jan 28, 2020
+H5680
+10 
+•HR 5680 IH
+the Committee on Homeland Security and Gov-
+1
+ernmental Affairs of the Senate of the results 
+2
+of such review. 
+3
+‘‘(10) RESOURCE ASSESSMENT.—Not later than 
+4
+120 days after the date of the enactment of this 
+5
+subsection, the Director shall submit to the Com-
+6
+mittee on Homeland Security of the House of Rep-
+7
+resentatives and the Committee on Homeland Secu-
+8
+rity and Governmental Affairs of the Senate an as-
+9
+sessment regarding whether additional resources are 
+10
+required to— 
+11
+‘‘(A)(i) ensure timely notifications to enti-
+12
+ties at risk pursuant to paragraph (6); and 
+13
+‘‘(ii) provide such entities at risk with 
+14
+timely 
+support 
+to 
+mitigate 
+security 
+15
+vulnerabilities; and 
+16
+‘‘(B) provide associated training applicable 
+17
+to employees and operations of the Agency to 
+18
+comply with internal procedures established 
+19
+pursuant to paragraph (8). 
+20
+‘‘(11) PUBLICATION
+OF
+INFORMATION.—Not 
+21
+later than 120 days after establishing the internal 
+22
+procedures and policies under paragraph (8), the Di-
+23
+rector shall make publicly available, including on a 
+24
+Department website, information regarding the sub-
+25
+00:28 Jan 28, 2020
+H5680
+11 
+•HR 5680 IH
+poena process under this subsection, including re-
+1
+garding the following: 
+2
+‘‘(A) The purpose for subpoenas issued 
+3
+under this subsection. 
+4
+‘‘(B) The subpoena process. 
+5
+‘‘(C) The criteria for the critical infra-
+6
+structure security risk assessment conducted 
+7
+prior to issuing a subpoena. 
+8
+‘‘(D) Policies and procedures on retention 
+9
+and sharing of data obtained by a subpoena. 
+10
+‘‘(E) The process for providing notice to 
+11
+each entity at risk identified by information ob-
+12
+tained pursuant to a subpoena issued under 
+13
+this subsection, and contact information that 
+14
+such an entity may use to confirm the authen-
+15
+ticity of such notice. 
+16
+‘‘(F) Guidelines on how entities at risk 
+17
+contacted by the Director may respond to notice 
+18
+of a subpoena. 
+19
+‘‘(G) The internal procedures of the Agen-
+20
+cy established pursuant to paragraph (8). 
+21
+‘‘(12) ANNUAL REPORTS.—Not later than six 
+22
+months after the establishment of the internal proce-
+23
+dures and associated training pursuant to paragraph 
+24
+(8) and annually thereafter, the Director shall sub-
+25
+00:28 Jan 28, 2020
+H5680
+12 
+•HR 5680 IH
+mit to the Committee on Homeland Security and 
+1
+Governmental Affairs of the Senate and the Com-
+2
+mittee on Homeland Security of the House of Rep-
+3
+resentatives a report (which may include a classified 
+4
+annex but with the presumption of declassification) 
+5
+on the use of subpoenas under this subsection by the 
+6
+Director, which shall include the following: 
+7
+‘‘(A) A discussion of the following: 
+8
+‘‘(i) The effectiveness of the use of 
+9
+subpoenas 
+to 
+mitigate 
+security 
+10
+vulnerabilities. 
+11
+‘‘(ii) The critical infrastructure secu-
+12
+rity risk assessment process conducted for 
+13
+subpoenas issued under this subsection. 
+14
+‘‘(iii) The number of subpoenas issued 
+15
+under this subsection by the Director dur-
+16
+ing the preceding year. 
+17
+‘‘(iv) To the extent practicable, the 
+18
+number of vulnerable enterprise devices or 
+19
+systems mitigated under this subsection by 
+20
+the Agency during the preceding year. 
+21
+‘‘(v) The number of entities notified 
+22
+by the Director under this subsection, and 
+23
+their responses, during the preceding year. 
+24
+00:28 Jan 28, 2020
+H5680
+13 
+•HR 5680 IH
+‘‘(B) For each subpoena issued under this 
+1
+subsection, the following: 
+2
+‘‘(i) The source of the security vulner-
+3
+ability at issue detected, identified, or re-
+4
+ceived by the Director. 
+5
+‘‘(ii) A description of the efforts un-
+6
+dertaken to identify the entity at risk prior 
+7
+to issuing each such subpoena. 
+8
+‘‘(iii) A description of the outcome of 
+9
+each such subpoena, including discussion 
+10
+regarding the resolution or mitigation of 
+11
+the security vulnerability at issue. 
+12
+‘‘(iv) A description of any additional 
+13
+support provided by the Director to the en-
+14
+tity at risk. 
+15
+‘‘(13) PUBLICATION
+OF
+THE
+ANNUAL
+RE-
+16
+17
+a version of each annual report required under para-
+18
+graph (12), which shall at a minimum include the 
+19
+findings described in clause (iii), (iv), and (v) of this 
+20
+subsection of such paragraph. 
+21
+‘‘(14) DHS INSPECTOR
+GENERAL
+REPORT.— 
+22
+Not later than one year after the date of the enact-
+23
+ment of this subsection, the Inspector General of the 
+24
+Department shall submit to the Committee on 
+25
+00:28 Jan 28, 2020
+H5680
+14 
+•HR 5680 IH
+Homeland Security of the House of Representatives 
+1
+and the Committee on Homeland Security and Gov-
+2
+ernmental Affairs of the Senate a report evaluating 
+3
+the Agency’s compliance with the following: 
+4
+‘‘(A) The inter-agency procedures estab-
+5
+lished under paragraph (4). 
+6
+‘‘(B) The internal procedures and associ-
+7
+ated training established pursuant to paragraph 
+8
+(8).’’. 
+9
+Æ 
+00:28 Jan 28, 2020
+H5680

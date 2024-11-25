@@ -1,0 +1,366 @@
+A BILL 
+To direct the Secretary of Commerce, acting through the 
+Director of the National Institute of Standards and 
+Technology, to direct the Institute to establish a robust 
+program focusing on driving improvements in America’s 
+cybersecurity posture by creating more robust digital 
+identity management standards and guidelines. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Strengthening Digital 
+4
+Identity Act of 2021’’. 
+5
+02:27 Jul 15, 2021
+H4259
+2 
+•HR 4259 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) NIST’s work in identity research and stand-
+3
+ards is unmatched anywhere in the world, with glob-
+4
+al standards development organizations like the Fi-
+5
+nancial Action Task Force (FATF) pointing to 
+6
+NIST guidance in its own standards. Given that ad-
+7
+versaries continue to exploit weaknesses in digital 
+8
+identity systems to conduct successful cyber-attacks, 
+9
+additional NIST resources are needed to help gov-
+10
+ernment and industry secure identity in cyberspace. 
+11
+(2) The lack of an easy, affordable, and reliable 
+12
+way for organizations and businesses to identify 
+13
+whether an individual is who they claim to be online 
+14
+creates an attack vector that is widely exploited by 
+15
+adversaries in cyberspace and precludes many high 
+16
+value transactions from being available online. 
+17
+(3) According to the identity theft resource cen-
+18
+ter, incidents of identity theft and identity fraud 
+19
+continue to rise in the United States, where more 
+20
+than 164,000,000 consumer records containing per-
+21
+sonally identifiable information were breached in 
+22
+2019, increasing the total number of data breaches 
+23
+by 17 percent from the previous year. 
+24
+02:27 Jul 15, 2021
+H4259
+3 
+•HR 4259 IH
+(4) According to the Insurance Information In-
+1
+stitute, in 2018, losses resulting from identity fraud 
+2
+amounted to $16,800,000,000. 
+3
+(5) The inadequacy of current digital identity 
+4
+solutions degrades security and privacy for all Amer-
+5
+icans, and next generation solutions are needed that 
+6
+improve both security and privacy. 
+7
+(6) 
+Government 
+entities, 
+as 
+authoritative 
+8
+issuers of identity in the United States, are uniquely 
+9
+positioned to deliver critical components that ad-
+10
+dress deficiencies in our digital identity infrastruc-
+11
+ture and augment private sector digital identity and 
+12
+authentication solutions. 
+13
+(7) State governments are particularly well 
+14
+suited to play a role in enhancing digital identity so-
+15
+lutions used by both the public and private sectors, 
+16
+given the role of State governments as the issuers of 
+17
+driver’s licenses and other identity documents com-
+18
+monly used today. 
+19
+(8) It should be the policy of the Government 
+20
+to use the authorities and capabilities of the Govern-
+21
+ment to enhance the security, reliability, privacy, 
+22
+and convenience of digital identity solutions that 
+23
+support and protect transactions between individ-
+24
+02:27 Jul 15, 2021
+H4259
+4 
+•HR 4259 IH
+uals, government entities, and businesses, and that 
+1
+enable Americans to prove who they are online. 
+2
+SEC. 3. IDENTITY MANAGEMENT RESEARCH AND DEVELOP-
+3
+MENT. 
+4
+Section 504 of the Cybersecurity Enhancement Act 
+5
+of 2014 (15 U.S.C. 7464) is amended to read as follows: 
+6
+‘‘SEC. 504. IDENTITY MANAGEMENT RESEARCH AND DEVEL-
+7
+OPMENT. 
+8
+‘‘(a) IN GENERAL.—The Director shall administer a 
+9
+program to support the development of voluntary and 
+10
+cost-effective technical standards, metrology, testbeds, and 
+11
+conformance criteria, taking into account appropriate user 
+12
+concerns— 
+13
+‘‘(1) to improve interoperability among identity 
+14
+management technologies; 
+15
+‘‘(2) to strengthen identity proofing and au-
+16
+thentication methods used in identity management 
+17
+systems; 
+18
+‘‘(3) to improve privacy protection in identity 
+19
+management systems, including health information 
+20
+technology systems, through authentication and se-
+21
+curity protocols; and 
+22
+‘‘(4) to improve the usability and inclusivity of 
+23
+identity management systems. 
+24
+02:27 Jul 15, 2021
+H4259
+5 
+•HR 4259 IH
+‘‘(b) DIGITAL IDENTITY TECHNICAL ROADMAP.— 
+1
+The Director, in consultation with other relevant Federal 
+2
+agencies and stakeholders from the private sector, shall 
+3
+develop, implement, and maintain a technical roadmap for 
+4
+identity management research and the development of 
+5
+standards and guidelines focused on enabling the use and 
+6
+adoption of modern digital identity solutions that align 
+7
+with the four criteria in subsection (a). This roadmap and 
+8
+any subsequent updates shall be made public. 
+9
+‘‘(c) ACTIVITIES.—In carrying out the program de-
+10
+scribed under subsection (a), the Director shall give con-
+11
+sideration to activities that— 
+12
+‘‘(1) accelerate the development, in collabora-
+13
+tion with the private sector, of standards that ad-
+14
+dress interoperability and portability of digital iden-
+15
+tity solutions; 
+16
+‘‘(2) addresses gaps in current private-sector- 
+17
+led identity management research and development 
+18
+and standards work, both for consumer-focused and 
+19
+enterprise-focused identity management; 
+20
+‘‘(3) advances the development of conformance 
+21
+testing performed by the private sector in support of 
+22
+digital identity standardization; 
+23
+02:27 Jul 15, 2021
+H4259
+6 
+•HR 4259 IH
+‘‘(4) addresses challenges with inclusivity of ex-
+1
+isting digital identity and identity management tools; 
+2
+and 
+3
+‘‘(5) support, in consultation with other rel-
+4
+evant Federal agencies and stakeholders from the 
+5
+private sector, the development of appropriate secu-
+6
+rity frameworks and reference materials, and the 
+7
+identification of best practices, for use by Federal 
+8
+agencies and the private sector to address security 
+9
+and privacy requirements to enable the use and 
+10
+adoption of digital identity services.’’. 
+11
+SEC. 4. DIGITAL IDENTITY FRAMEWORK. 
+12
+(a) ESTABLISHMENT OF A FRAMEWORK.—Not later 
+13
+than 1 year after the date of the enactment of this Act, 
+14
+the Director shall develop and periodically update a frame-
+15
+work of standards, methodologies, procedures, and proc-
+16
+esses (in this section referred to as the ‘‘Framework’’) as 
+17
+a guide for Federal, State, and local governments to follow 
+18
+when providing services to support digital identity 
+19
+verification. 
+20
+(b) CONSIDERATION.—In developing the Framework, 
+21
+the Director shall consider— 
+22
+(1) methods to protect the privacy of individ-
+23
+uals; 
+24
+(2) security needs; and 
+25
+02:27 Jul 15, 2021
+H4259
+7 
+•HR 4259 IH
+(3) the needs of potential end-users and individ-
+1
+uals that will use services related to digital identity 
+2
+verification. 
+3
+(c) CONSULTATION.—In carrying out subsection (a) 
+4
+the Director shall consult with— 
+5
+(1) Federal and State agencies; 
+6
+(2) potential end-users and individuals that will 
+7
+use services related to digital identity verification; 
+8
+and 
+9
+(3) experts with relevant experience in the sys-
+10
+tems that enable digital identity verification, as de-
+11
+termined by the Director. 
+12
+(d) INTERIM PUBLICATION.—Not later than 240 
+13
+days after the date of the enactment of this Act, the Direc-
+14
+tor shall publish an interim version of the Framework. 
+15
+(e) AUTHORIZATION OF APPROPRIATIONS.—There is 
+16
+authorized 
+to 
+be 
+appropriated 
+to 
+the 
+Secretary 
+17
+$10,000,000 for each of fiscal years 2022 through 2026 
+18
+to carry out this Act and the amendments made by this 
+19
+Act. 
+20
+SEC. 5. DEFINITIONS. 
+21
+For purposes of this Act: 
+22
+(1) DIGITAL
+IDENTITY
+VERIFICATION.—The 
+23
+term ‘‘digital identity verification’’ means a process 
+24
+02:27 Jul 15, 2021
+H4259
+8 
+•HR 4259 IH
+to verify the identity of an individual accessing a 
+1
+service online. 
+2
+(2) DIRECTOR.—The term ‘‘Director’’ means 
+3
+the Director of the National Institute of Standards 
+4
+and Technology. 
+5
+(3) INSTITUTE.—The term ‘‘Institute’’ means 
+6
+the National Institute of Standards and Technology. 
+7
+(4) SECRETARY.—The term ‘‘Secretary’’ means 
+8
+the Secretary of Commerce. 
+9
+Æ 
+02:27 Jul 15, 2021
+H4259

@@ -1,0 +1,589 @@
+A BILL 
+To amend title 38, United States Code, to direct the Sec-
+retary of Veterans Affairs to maintain demographic in-
+formation regarding veterans and publish such informa-
+tion on a website of the Department of Veterans Affairs. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Every Veteran Counts 
+4
+Act of 2021’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+03:55 Sep 21, 2021
+H5295
+2 
+•HR 5295 IH
+(1) The Department of Veterans Affairs is re-
+1
+sponsible for providing a variety of benefits and 
+2
+services to more than 19,000,000 living veterans. 
+3
+(2) Pursuant to section 527 of title 38, United 
+4
+States Code, the Secretary of Veterans Affairs has 
+5
+conducted the National Survey of Veterans to assess 
+6
+the needs and sentiments of a statistically valid sam-
+7
+ple of all veterans. 
+8
+(3) The Secretary has conducted this National 
+9
+Survey of Veterans in the late 1970s, 1987, 1993, 
+10
+2001, and 2010. 
+11
+(4) The last survey conducted in 2010 included 
+12
+veterans and other beneficiary groups, such as mem-
+13
+bers of the Armed Forces serving on active duty, 
+14
+members of the reserve components of the Armed 
+15
+Forces, military spouses, and surviving spouses of 
+16
+such veterans and members. 
+17
+(5) The 2010 survey included information on 
+18
+demographics, awareness and utilization of benefits, 
+19
+health status, military service, and employment. 
+20
+(6) These surveys provide valuable information 
+21
+on the veteran population to the Secretary, Con-
+22
+gress, Federal, State, and local governments, aca-
+23
+demic institutions, and various non-governmental or-
+24
+ganizations that serve veterans. 
+25
+03:55 Sep 21, 2021
+H5295
+3 
+•HR 5295 IH
+(7) This information is used to inform policy-
+1
+making efforts and to ensure the needs of the ever- 
+2
+changing veteran population are met. 
+3
+(8) However, since 2010, the statutory frame-
+4
+work for data collection has substantially evolved, 
+5
+notably with the Foundations for Evidence-Based 
+6
+Policymaking Act (Public Law 115–435), the Data 
+7
+Act (Public Law 113–139), and the Geospatial Data 
+8
+Act (subtitle F of title VII of Public Law 115–254), 
+9
+known collectively as the ‘‘Evidence Act’’, building 
+10
+on previously enacted laws. 
+11
+(9) Further, the Department, through the Na-
+12
+tional Center for Veterans Analysis and Statistics, 
+13
+has leveraged the vast amount of data generated 
+14
+within the Department and collected by other Fed-
+15
+eral partners to improve population-based descrip-
+16
+tive, statistical, and predictive analytic products to 
+17
+support the Secretary and in evidence-based policy-
+18
+making, facilitate innovative and collaborative re-
+19
+search, and empower modern business intelligence 
+20
+applications. 
+21
+(10) The Department has been a consistent 
+22
+leader in the Federal Open Data program and offers 
+23
+a platform for scaling access to useful data and in-
+24
+sight to external stakeholders. 
+25
+03:55 Sep 21, 2021
+H5295
+4 
+•HR 5295 IH
+(11) Notwithstanding these recent advances, 
+1
+opportunities exist to strengthen the capability of 
+2
+the Department to develop and disseminate action-
+3
+able insights into the veteran population through— 
+4
+(A) developing enterprise-focused manage-
+5
+ment and improvements in the quality of ad-
+6
+ministrative data collected by the Department 
+7
+through its delivery of benefits and services; 
+8
+(B) increased access to data collected by 
+9
+other Federal entities through more flexible and 
+10
+efficient information sharing policies; 
+11
+(C) increased use of publicly available and 
+12
+commercially generated data; and 
+13
+(D) maturing data management of the De-
+14
+partment. 
+15
+(12) In line with the Evidence Act, it is incum-
+16
+bent upon the Secretary to regularly engage with 
+17
+key stakeholders, including Congress, veterans serv-
+18
+ice organizations, advocacy groups, and open govern-
+19
+ment groups to— 
+20
+(A) enhance the open data program of the 
+21
+Department; and 
+22
+(B) improve development and dissemina-
+23
+tion of relevant data assets and analytic prod-
+24
+03:55 Sep 21, 2021
+H5295
+5 
+•HR 5295 IH
+ucts to provide more current, accurate, and use-
+1
+ful insights on veterans and their families. 
+2
+(13) It is necessary for the Department to col-
+3
+lect, collate, and analyze all available data on vet-
+4
+eran demographics, and to share this data with Con-
+5
+gress and other stakeholders on an ongoing basis, in 
+6
+an easily digestible format, to direct outreach and 
+7
+align policy with the needs of the changing veteran 
+8
+population. 
+9
+SEC. 3. DEMOGRAPHIC DATA OF VETERANS: COLLECTION; 
+10
+RETENTION; PUBLICATION. 
+11
+(a) IN GENERAL.—Subchapter II of chapter 5 of title 
+12
+38, United States Code, is amended by inserting after sec-
+13
+tion 527, the following new section: 
+14
+‘‘§ 528. Demographic data of veterans: collection; re-
+15
+tention; publication. 
+16
+‘‘(a) DATABASE.—(1) The Secretary shall collect de-
+17
+mographic data of veterans (from any source of such data 
+18
+available to the Secretary, including the National Center 
+19
+for Veterans Analysis and Statistics of the Department, 
+20
+the Bureau of the Census, and the Social Security Admin-
+21
+istration) and maintain a database of such data. 
+22
+‘‘(2) Data collected and maintained under paragraph 
+23
+(1) shall include the following: 
+24
+‘‘(A) Sex. 
+25
+03:55 Sep 21, 2021
+H5295
+6 
+•HR 5295 IH
+‘‘(B) Gender identity, disaggregated by— 
+1
+‘‘(i) male; 
+2
+‘‘(ii) female; 
+3
+‘‘(iii) cisgender; 
+4
+‘‘(iv) transgender; 
+5
+‘‘(v) gender diverse; 
+6
+‘‘(vi) nonbinary; and 
+7
+‘‘(vii) combinations of clauses (i) through 
+8
+(vi). 
+9
+‘‘(C) Age. 
+10
+‘‘(D) Educational level. 
+11
+‘‘(E) Race and ethnicity, disaggregated by— 
+12
+‘‘(i) membership in an Indian tribe (as de-
+13
+fined in section 4 of the Indian Self-Determina-
+14
+tion and Education Assistance Act (25 U.S.C. 
+15
+5304)); and 
+16
+‘‘(ii) the same major race groups as the de-
+17
+cennial censuses. 
+18
+‘‘(F) Sexual orientation, disaggregated by— 
+19
+‘‘(i) heterosexual; 
+20
+‘‘(ii) lesbian; 
+21
+‘‘(iii) gay; 
+22
+‘‘(iv) bisexual; and 
+23
+‘‘(v) queer. 
+24
+03:55 Sep 21, 2021
+H5295
+7 
+•HR 5295 IH
+‘‘(G) Household makeup, including marital sta-
+1
+tus and number of dependents. 
+2
+‘‘(H) Gross income and sources of income. 
+3
+‘‘(I) Housing status, disaggregated by— 
+4
+‘‘(i) renter; 
+5
+‘‘(ii) homeowner; or 
+6
+‘‘(iii) residing in a home owned or rented 
+7
+by another person. 
+8
+‘‘(J) Employment status, disaggregated by— 
+9
+‘‘(i) employed; 
+10
+‘‘(ii) seeking employment; and 
+11
+‘‘(iii) self-employed. 
+12
+‘‘(K) History of service in the Armed Forces, 
+13
+disaggregated by— 
+14
+‘‘(i) Armed Force; 
+15
+‘‘(ii) regular or reserve component; 
+16
+‘‘(iii) service in a combat theater of oper-
+17
+ations or war zone; 
+18
+‘‘(iv) service during a period of war; 
+19
+‘‘(v) whether a veteran is a former prisoner 
+20
+of war; 
+21
+‘‘(vi) whether the veteran was exposed to 
+22
+dead, dying, or wounded people during active 
+23
+military, naval, air, or space service; 
+24
+03:55 Sep 21, 2021
+H5295
+8 
+•HR 5295 IH
+‘‘(vii) whether the veteran was exposed to 
+1
+environmental hazards during active military, 
+2
+naval, air, or space service; and 
+3
+‘‘(viii) whether the veteran experienced 
+4
+military sexual trauma (as that term is defined 
+5
+in section 1166 of this title). 
+6
+‘‘(L) Whether the veteran is enrolled in the pa-
+7
+tient enrollment system under section 1705 of this 
+8
+title. 
+9
+‘‘(M) Whether the veteran has received a dis-
+10
+ability rating from under section 1155 of this title. 
+11
+‘‘(N) Location of the veteran’s residence, 
+12
+disaggregated by— 
+13
+‘‘(i) rural or urban setting; 
+14
+‘‘(ii) distance to a facility of the Depart-
+15
+ment; and 
+16
+‘‘(iii) whether the veteran has access to 
+17
+broadband service. 
+18
+‘‘(O) Any other information the Secretary de-
+19
+termines appropriate. 
+20
+‘‘(b) DATA RETENTION STANDARDS.—Demographic 
+21
+data in the database under subsection (a) shall be— 
+22
+‘‘(1) anonymized to prevent the release of sen-
+23
+sitive personal information (as that term is defined 
+24
+in section 5727 of this title); and 
+25
+03:55 Sep 21, 2021
+H5295
+9 
+•HR 5295 IH
+‘‘(2) machine readable. 
+1
+‘‘(c) WEBSITE.—The Secretary shall maintain a pub-
+2
+licly accessible website of the Department that provides 
+3
+access to the database under subsection (a). The Secretary 
+4
+shall update such website not less frequently than once 
+5
+each year.’’. 
+6
+(b) CLERICAL AMENDMENT.—The table of sections 
+7
+at the beginning of such chapter is amended by inserting, 
+8
+after the item relating to section 527, the following new 
+9
+item: 
+10
+‘‘528. Demographic data of veterans: collection; retention; publication.’’. 
+(c) IMPLEMENTATION DATE.—The Secretary of Vet-
+11
+erans Affairs shall carry out section 528 of such title, as 
+12
+added by this section, not later than 180 days after the 
+13
+date of the enactment of this Act. 
+14
+SEC. 4. REPORT ON DATA STRATEGY OF THE DEPARTMENT 
+15
+OF VETERANS AFFAIRS. 
+16
+(a) REPORT REQUIRED.—Not later than one year 
+17
+after the date of the enactment of this Act, the Secretary 
+18
+of Veterans Affairs shall submit to Congress a report de-
+19
+scribing the progress, challenges, performance, and oppor-
+20
+tunities of implementing the data strategy of the Depart-
+21
+ment of Veterans Affairs. 
+22
+(b) ELEMENTS.—The report under this section shall 
+23
+include the following: 
+24
+03:55 Sep 21, 2021
+H5295
+10 
+•HR 5295 IH
+(1) Qualitative and quantitative progress to-
+1
+wards strengthening data management of the De-
+2
+partment, including business and mission impact en-
+3
+abled by management of data as a strategic asset. 
+4
+(2) Recommendations of the Secretary regard-
+5
+ing legislation that may accelerate data management 
+6
+maturity of the Department. 
+7
+(3) Progress and results in cataloging and 
+8
+inventorying data assets of the Department and 
+9
+using such assets to support— 
+10
+(A) internal evidence-based policymaking; 
+11
+and 
+12
+(B) ethical and appropriate dissemination 
+13
+of statistical aggregates, data-driven analysis, 
+14
+and open data. 
+15
+(4) Progress in implementing requirements 
+16
+under chapter 35 of title 44, United States Code 
+17
+(commonly known as the ‘‘Paperwork Reduction 
+18
+Act’’), and related data quality efforts to support 
+19
+strategic management of data collected by the De-
+20
+partment. 
+21
+(5) Efforts to move towards a rules-based, 
+22
+transparent, Department-wide approach to manage-
+23
+ment, integration, and sharing of, and access to, 
+24
+data. 
+25
+03:55 Sep 21, 2021
+H5295
+11 
+•HR 5295 IH
+(6) Recommendations of the Secretary regard-
+1
+ing adjustments to data requirements of the Depart-
+2
+ment. 
+3
+(7) Information sharing agreements and out-
+4
+standing requirements with other Federal entities, 
+5
+including gaps best addressed by the addition of sur-
+6
+vey questions to an existing Federal survey instru-
+7
+ment. 
+8
+(8) Progress on recently enacted public laws, 
+9
+Executive orders, Presidential memoranda, and out-
+10
+standing recommendations of the Comptroller Gen-
+11
+eral of the United States or an inspector general as 
+12
+it pertains to veteran population-based data collec-
+13
+tion, quality, integration, sharing, interoperability, 
+14
+and analytics within the scope of improving and en-
+15
+suring equity in services to veterans, their families, 
+16
+and other beneficiaries. 
+17
+(9) A discussion of current risk assessments re-
+18
+garding data breaches and information security (as 
+19
+those terms are defined in section 5727 of title 38, 
+20
+United States Code) of the Department. 
+21
+(10) Priority data requirements of the Depart-
+22
+ment, identified through consultation with the fol-
+23
+lowing entities: 
+24
+03:55 Sep 21, 2021
+H5295
+12 
+•HR 5295 IH
+(A) The Committee on Veterans’ Affairs of 
+1
+the Senate and the Committee on Veterans’ Af-
+2
+fairs of the House of Representatives. 
+3
+(B) The Congressional Budget Office. 
+4
+(C) Veterans service organizations. 
+5
+(D) The Advisory Committee on Minority 
+6
+Veterans of the Department. 
+7
+(E) The Advisory Committee on Women 
+8
+Veterans of the Department. 
+9
+(F) The Advisory Committee on Homeless 
+10
+Veterans of the Department. 
+11
+(c) PUBLICATION.—Not later than 30 days after sub-
+12
+mitting the report under this section, the Secretary shall 
+13
+publish such report on the open data website of the De-
+14
+partment, with all metrics and data included in a machine 
+15
+readable format. 
+16
+Æ 
+03:55 Sep 21, 2021
+H5295

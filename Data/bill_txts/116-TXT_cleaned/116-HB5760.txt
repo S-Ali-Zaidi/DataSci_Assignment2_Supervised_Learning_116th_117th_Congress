@@ -1,0 +1,1522 @@
+A BILL 
+To provide for a comprehensive interdisciplinary research, 
+development, and demonstration initiative to strengthen 
+the capacity of the energy sector to prepare for and 
+withstand cyber and physical attacks, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Grid Security Research 
+4
+and Development Act’’. 
+5
+22:32 Feb 06, 2020
+H5760
+2 
+•HR 5760 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) The Nation, and every critical infrastruc-
+3
+ture sector, depends on reliable electricity. 
+4
+(2) Intelligent electronic devices, advanced ana-
+5
+lytics, and information systems used across the en-
+6
+ergy sector are essential to maintaining reliable op-
+7
+eration of the electric grid. 
+8
+(3) The cybersecurity threat landscape is con-
+9
+stantly changing and attacker capabilities are ad-
+10
+vancing rapidly, requiring ongoing modifications, ad-
+11
+vancements, and investments in technologies and 
+12
+procedures to maintain security. 
+13
+(4) It is in the national interest for Federal 
+14
+agencies to invest in cybersecurity research that in-
+15
+forms and facilitates private sector investment and 
+16
+use of advanced cybersecurity tools and procedures 
+17
+to protect information systems. 
+18
+(5) The number of devices and systems con-
+19
+necting to the electric grid is increasing, and inte-
+20
+grating cybersecurity protections into information 
+21
+systems when they are built is more effective than 
+22
+modifying products after installation to meet cyber-
+23
+security goals. 
+24
+(6) An understanding of human factors can be 
+25
+leveraged to understand the behavior of cyber threat 
+26
+20:33 Feb 10, 2020
+H5760
+3 
+•HR 5760 IH
+actors, develop strategies to counter threat actors, 
+1
+improve cybersecurity training programs, optimize 
+2
+the design of human-machine interfaces and cyberse-
+3
+curity tools, and increase the capacity of the energy 
+4
+sector workforce to prevent unauthorized access to 
+5
+critical systems. 
+6
+SEC. 3. AMENDMENT TO ENERGY INDEPENDENCE AND SE-
+7
+CURITY ACT OF 2007. 
+8
+Title XIII of the Energy Independence and Security 
+9
+Act of 2007 (42 U.S.C. 17381 et seq.) is amended by add-
+10
+ing at the end the following: 
+11
+‘‘SEC. 1310. ENERGY SECTOR SECURITY RESEARCH, DEVEL-
+12
+OPMENT, AND DEMONSTRATION PROGRAM. 
+13
+‘‘(a) IN GENERAL.—The Secretary, in coordination 
+14
+with appropriate Federal agencies, the Electricity Sub-
+15
+sector Coordinating Council, the Electric Reliability Orga-
+16
+nization, State, tribal, local, and territorial governments, 
+17
+the private sector, and other relevant stakeholders, shall 
+18
+carry out a research, development, and demonstration pro-
+19
+gram to protect the electric grid and energy systems, in-
+20
+cluding assets connected to the distribution grid, from 
+21
+cyber and physical attacks by increasing the cyber and 
+22
+physical security capabilities of the energy sector and ac-
+23
+celerating the development of relevant technologies and 
+24
+tools. 
+25
+22:32 Feb 06, 2020
+H5760
+4 
+•HR 5760 IH
+‘‘(b) DEPARTMENT OF ENERGY.—As part of the ini-
+1
+tiative described in subsection (a), the Secretary shall 
+2
+award research, development, and demonstration grants 
+3
+to— 
+4
+‘‘(1) identify cybersecurity risks to information 
+5
+systems within, and impacting, the electricity sector, 
+6
+energy systems, and energy infrastructure; 
+7
+‘‘(2) develop methods and tools to rapidly detect 
+8
+cyber intrusions and cyber incidents, including 
+9
+through the use of data and big data analytics tech-
+10
+niques, such as intrusion detection, and security in-
+11
+formation and event management systems, to vali-
+12
+date and verify system behavior; 
+13
+‘‘(3) assess emerging cybersecurity capabilities 
+14
+that could be applied to energy systems and develop 
+15
+technologies that integrate cybersecurity features 
+16
+and procedures into the design and development of 
+17
+existing and emerging grid technologies, including 
+18
+renewable energy, storage, and demand-side manage-
+19
+ment technologies; 
+20
+‘‘(4) identify existing vulnerabilities in intel-
+21
+ligent electronic devices, advanced analytics systems, 
+22
+and information systems; 
+23
+22:32 Feb 06, 2020
+H5760
+5 
+•HR 5760 IH
+‘‘(5) work with relevant entities to develop tech-
+1
+nologies or concepts that build or retrofit cybersecu-
+2
+rity features and procedures into— 
+3
+‘‘(A) information and energy management 
+4
+system devices, components, software, firmware, 
+5
+and hardware, including distributed control and 
+6
+management systems, and building manage-
+7
+ment systems; 
+8
+‘‘(B) data storage systems, data manage-
+9
+ment systems, and data analysis processes; 
+10
+‘‘(C) automated- and manually-controlled 
+11
+devices and equipment for monitoring and sta-
+12
+bilizing the electric grid; 
+13
+‘‘(D) technologies used to synchronize time 
+14
+and develop guidance for operational contin-
+15
+gency plans when time synchronization tech-
+16
+nologies, are compromised; 
+17
+‘‘(E) power system delivery and end user 
+18
+systems and devices that connect to the grid, 
+19
+including— 
+20
+‘‘(i) meters, synchrophasors, phasor 
+21
+measurement units, and other sensors; 
+22
+‘‘(ii) distribution automation tech-
+23
+nologies, smart inverters, and other grid 
+24
+control technologies; 
+25
+22:32 Feb 06, 2020
+H5760
+6 
+•HR 5760 IH
+‘‘(iii) distributed generation, energy 
+1
+storage, and other distributed energy tech-
+2
+nologies; 
+3
+‘‘(iv) demand response technologies; 
+4
+‘‘(v) home and building energy man-
+5
+agement and control systems; 
+6
+‘‘(vi) electric and plug-in hybrid vehi-
+7
+cles and electric vehicle charging systems; 
+8
+and 
+9
+‘‘(vii) other relevant devices, software, 
+10
+firmware, and hardware; and 
+11
+‘‘(F) the supply chain of electric grid man-
+12
+agement system components; 
+13
+‘‘(6) develop technologies that improve the 
+14
+physical security of information systems, including 
+15
+remote assets; 
+16
+‘‘(7) integrate human factors research into the 
+17
+design and development of advanced tools and proc-
+18
+esses for dynamic monitoring, detection, protection, 
+19
+mitigation, response, and cyber situational aware-
+20
+ness; 
+21
+‘‘(8) evaluate and understand the potential con-
+22
+sequences of practices used to maintain the cyberse-
+23
+curity of information systems and intelligent elec-
+24
+tronic devices; 
+25
+22:32 Feb 06, 2020
+H5760
+7 
+•HR 5760 IH
+‘‘(9) develop or expand the capabilities of exist-
+1
+ing cybersecurity test beds to simulate impacts of 
+2
+cyber attacks and combined cyber-physical attacks 
+3
+on information systems and electronic devices, in-
+4
+cluding by increasing access to existing and emerg-
+5
+ing test beds for cooperative utilities, utilities owned 
+6
+by a political subdivision of a State, such as munici-
+7
+pally owned electric utilities, and other relevant 
+8
+stakeholders; and 
+9
+‘‘(10) develop technologies that reduce the cost 
+10
+of implementing effective cybersecurity technologies 
+11
+and tools, including updates to these technologies 
+12
+and tools, in the energy sector. 
+13
+‘‘(c) NATIONAL SCIENCE FOUNDATION.—The Na-
+14
+tional Science Foundation, in coordination with other Fed-
+15
+eral agencies as appropriate, shall through its cybersecu-
+16
+rity research and development programs— 
+17
+‘‘(1) support basic research to advance knowl-
+18
+edge, 
+applications, 
+technologies, 
+and 
+tools 
+to 
+19
+strengthen the cybersecurity of information systems, 
+20
+including electric grid and energy systems, including 
+21
+interdisciplinary research in— 
+22
+‘‘(A) evolutionary systems, theories, mathe-
+23
+matics, and models; 
+24
+22:32 Feb 06, 2020
+H5760
+8 
+•HR 5760 IH
+‘‘(B) economic and financial theories, 
+1
+mathematics, and models; and 
+2
+‘‘(C) big data analytical methods, mathe-
+3
+matics, computer coding, and algorithms; and 
+4
+‘‘(2) support cybersecurity education and train-
+5
+ing focused on information systems for the electric 
+6
+grid and energy workforce, including through the 
+7
+Advanced Technological Education program, the 
+8
+Cybercorps program, graduate research fellowships, 
+9
+and other appropriate programs. 
+10
+‘‘(d) 
+DEPARTMENT
+OF
+HOMELAND
+SECURITY 
+11
+SCIENCE AND TECHNOLOGY DIRECTORATE.—The Science 
+12
+and Technology Directorate of the Department of Home-
+13
+land Security shall coordinate with the Department of En-
+14
+ergy, the private sector, and other relevant stakeholders, 
+15
+to research existing cybersecurity technologies and tools 
+16
+used in the defense industry in order to— 
+17
+‘‘(1) identify technologies and tools that may 
+18
+meet civilian energy sector cybersecurity needs; 
+19
+‘‘(2) develop a research strategy that incor-
+20
+porates human factors research findings to guide the 
+21
+modification of defense industry cybersecurity tools 
+22
+for use in the civilian sector; 
+23
+22:32 Feb 06, 2020
+H5760
+9 
+•HR 5760 IH
+‘‘(3) develop a strategy to accelerate efforts to 
+1
+bring modified defense industry cybersecurity tools 
+2
+to the civilian market; and 
+3
+‘‘(4) carry out other activities the Secretary of 
+4
+Homeland Security considers appropriate to meet 
+5
+the goals of this subsection. 
+6
+‘‘SEC. 1311. GRID RESILIENCE AND EMERGENCY RESPONSE. 
+7
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+8
+the enactment of the Grid Security Research and Develop-
+9
+ment Act, the Secretary shall establish a research, devel-
+10
+opment, and demonstration program to enhance resilience 
+11
+and strengthen emergency response and management per-
+12
+taining to the energy sector. 
+13
+‘‘(b) GRANTS.—The Secretary shall award grants to 
+14
+eligible entities under subsection (c) on a competitive basis 
+15
+to conduct research and development with the purpose of 
+16
+improving the resilience and reliability of electric grid by— 
+17
+‘‘(1) developing methods to improve community 
+18
+and governmental preparation for and emergency re-
+19
+sponse to large-area, long-duration electricity inter-
+20
+ruptions, including through the use of energy effi-
+21
+ciency, storage, and distributed generation tech-
+22
+nologies; 
+23
+22:32 Feb 06, 2020
+H5760
+10 
+•HR 5760 IH
+‘‘(2) developing tools to help utilities and com-
+1
+munities ensure the continuous delivery of electricity 
+2
+to critical facilities; 
+3
+‘‘(3) developing tools to improve coordination 
+4
+between utilities and relevant Federal agencies to 
+5
+enable communication, information-sharing, and sit-
+6
+uational awareness in the event of a physical or 
+7
+cyber-attack on the electric grid; 
+8
+‘‘(4) developing technologies and capabilities to 
+9
+withstand and address the current and projected im-
+10
+pact of the changing climate on energy sector infra-
+11
+structure, including extreme weather events and 
+12
+other natural disasters; 
+13
+‘‘(5) developing technologies capable of early 
+14
+detection of deteriorating electrical equipment on the 
+15
+transmission and distribution grid, including detec-
+16
+tion of spark ignition causing wildfires and risks of 
+17
+vegetation contact; and 
+18
+‘‘(6) assessing upgrades and additions needed 
+19
+to energy sector infrastructure due to projected 
+20
+changes in the energy generation mix and energy de-
+21
+mand. 
+22
+‘‘(c) ELIGIBLE ENTITIES.—The entities eligible to re-
+23
+ceive grants under this section include— 
+24
+‘‘(1) an institution of higher education; 
+25
+22:32 Feb 06, 2020
+H5760
+11 
+•HR 5760 IH
+‘‘(2) a nonprofit organization; 
+1
+‘‘(3) a National Laboratory; 
+2
+‘‘(4) a unit of State, local, or tribal government; 
+3
+‘‘(5) an electric utility or electric cooperative; 
+4
+‘‘(6) a retail service provider of electricity; 
+5
+‘‘(7) a private commercial entity; 
+6
+‘‘(8) a partnership or consortium of 2 or more 
+7
+entities described in subparagraphs (1) through (7); 
+8
+and 
+9
+‘‘(9) any other entities the Secretary deems ap-
+10
+propriate. 
+11
+‘‘(d) RELEVANT ACTIVITIES.—Grants awarded under 
+12
+subsection (b) shall include funding for research and de-
+13
+velopment activities related to the purpose described in 
+14
+subsection (b), such as— 
+15
+‘‘(1) development of technologies to use distrib-
+16
+uted energy resources, such as solar photovoltaics, 
+17
+energy storage systems, electric vehicles, and 
+18
+microgrids, to improve grid and critical end-user re-
+19
+silience; 
+20
+‘‘(2) analysis of non-technical barriers to great-
+21
+er integration and use of technologies on the dis-
+22
+tribution grid; 
+23
+‘‘(3) analysis of past large-area, long-duration 
+24
+electricity interruptions to identify common elements 
+25
+22:32 Feb 06, 2020
+H5760
+12 
+•HR 5760 IH
+and best practices for electricity restoration, mitiga-
+1
+tion, and prevention of future disruptions; 
+2
+‘‘(4) development of advanced monitoring, ana-
+3
+lytics, operation, and controls of electricity grid sys-
+4
+tems to improve electric grid resilience; 
+5
+‘‘(5) analysis of technologies, methods, and con-
+6
+cepts that can improve community resilience and 
+7
+survivability of frequent or long-duration power out-
+8
+ages; 
+9
+‘‘(6) development of methodologies to maintain 
+10
+cybersecurity during restoration of energy sector in-
+11
+frastructure and operation; 
+12
+‘‘(7) development of advanced power flow con-
+13
+trol systems and components to improve electric grid 
+14
+resilience; and 
+15
+‘‘(8) any other relevant activities determined by 
+16
+the Secretary. 
+17
+‘‘(e) TECHNICAL ASSISTANCE.— 
+18
+‘‘(1) IN GENERAL.—The Secretary shall provide 
+19
+technical assistance to eligible entities for the com-
+20
+mercial application of technologies to improve the re-
+21
+silience of the electric grid and commercial applica-
+22
+tion of technologies to help entities develop plans for 
+23
+preventing and recovering from various power out-
+24
+age scenarios at the local, regional, and State level. 
+25
+22:32 Feb 06, 2020
+H5760
+13 
+•HR 5760 IH
+‘‘(2) TECHNICAL ASSISTANCE PROGRAM.—The 
+1
+commercial application technical assistance program 
+2
+established in paragraph (1) shall include assistance 
+3
+to eligible entities for— 
+4
+‘‘(A) the commercial application of tech-
+5
+nologies developed from the grant program es-
+6
+tablished in subsection (b), including coopera-
+7
+tive utilities and utilities owned by a political 
+8
+subdivision of a State, such as municipally 
+9
+owned electric utilities; 
+10
+‘‘(B) the development of methods to 
+11
+strengthen or otherwise mitigate adverse im-
+12
+pacts on electric grid infrastructure against 
+13
+natural hazards; 
+14
+‘‘(C) the use of Department data and mod-
+15
+eling tools for various purposes; and 
+16
+‘‘(D) a resource assessment and analysis of 
+17
+future demand and distribution requirements, 
+18
+including development of advanced grid archi-
+19
+tectures and risk analysis. 
+20
+‘‘(3) ELIGIBLE ENTITIES.—The entities eligible 
+21
+to receive technical assistance for commercial appli-
+22
+cation of technologies under this section include— 
+23
+‘‘(A) representatives of all sectors of the 
+24
+electric power industry, including electric utili-
+25
+22:32 Feb 06, 2020
+H5760
+14 
+•HR 5760 IH
+ties, trade organizations, and transmission and 
+1
+distribution system organizations, owners, and 
+2
+operators; 
+3
+‘‘(B) State and local governments and reg-
+4
+ulatory authorities, including public utility com-
+5
+missions; 
+6
+‘‘(C) tribal and Alaska Native govern-
+7
+mental entities; 
+8
+‘‘(D) partnerships among entities under 
+9
+subparagraphs (A) through (C); 
+10
+‘‘(E) regional partnerships; and 
+11
+‘‘(F) any other entities the Secretary 
+12
+deems appropriate. 
+13
+‘‘(4) AUTHORITY.—Nothing in this section shall 
+14
+authorize the Secretary to require any entity to 
+15
+adopt any model, tool, technology, plan, analysis, or 
+16
+assessment. 
+17
+‘‘SEC. 1312. BEST PRACTICES AND GUIDANCE DOCUMENTS 
+18
+FOR ENERGY SECTOR CYBERSECURITY RE-
+19
+SEARCH. 
+20
+‘‘(a) IN GENERAL.—The Secretary, in coordination 
+21
+with appropriate Federal agencies, the Electricity Sub-
+22
+sector Coordinating Council, standards development orga-
+23
+nizations, State, tribal, local, and territorial governments, 
+24
+the private sector, public utility commissions, and other 
+25
+22:32 Feb 06, 2020
+H5760
+15 
+•HR 5760 IH
+relevant stakeholders, shall coordinate the development of 
+1
+guidance documents for research, development, and dem-
+2
+onstration activities to improve the cybersecurity capabili-
+3
+ties of the energy sector through participating agencies. 
+4
+As part of these activities, the Secretary shall— 
+5
+‘‘(1) facilitate stakeholder involvement to up-
+6
+date— 
+7
+‘‘(A) the Roadmap to Achieve Energy De-
+8
+livery Systems Cybersecurity; 
+9
+‘‘(B) the Cybersecurity Procurement Lan-
+10
+guage for Energy Delivery Systems, including 
+11
+developing guidance for— 
+12
+‘‘(i) contracting with third parties to 
+13
+conduct vulnerability testing for informa-
+14
+tion systems used across the energy pro-
+15
+duction, delivery, storage, and end use sys-
+16
+tems; 
+17
+‘‘(ii) contracting with third parties 
+18
+that utilize transient devices to access in-
+19
+formation systems; and 
+20
+‘‘(iii) managing supply chain risks; 
+21
+and 
+22
+‘‘(C) the Electricity Subsector Cybersecu-
+23
+rity Capability Maturity Model, including the 
+24
+22:32 Feb 06, 2020
+H5760
+16 
+•HR 5760 IH
+development of metrics to measure changes in 
+1
+cybersecurity readiness; and 
+2
+‘‘(2) develop voluntary guidance to improve dig-
+3
+ital forensic analyses capabilities, including— 
+4
+‘‘(A) developing standardized terminology 
+5
+and monitoring processes; and 
+6
+‘‘(B) utilizing human factors research to 
+7
+develop more effective procedures for logging 
+8
+incident events; and 
+9
+‘‘(3) work with the National Science Founda-
+10
+tion, Department of Homeland Security, and stake-
+11
+holders to develop a mechanism to anonymize, ag-
+12
+gregate, and share the testing results from cyberse-
+13
+curity test beds to facilitate technology improve-
+14
+ments by public and private sector researchers. 
+15
+‘‘(b) BEST PRACTICES.—The Secretary, in collabora-
+16
+tion with the Director of the National Institute of Stand-
+17
+ards and Technology and other appropriate Federal agen-
+18
+cies, shall convene relevant stakeholders and facilitate the 
+19
+development of— 
+20
+‘‘(1) consensus-based best practices to improve 
+21
+cybersecurity for— 
+22
+‘‘(A) emerging energy technologies; 
+23
+20:33 Feb 10, 2020
+H5760
+17 
+•HR 5760 IH
+‘‘(B) distributed generation and storage 
+1
+technologies, and other distributed energy re-
+2
+sources; 
+3
+‘‘(C) electric vehicles and electric vehicle 
+4
+charging stations; and 
+5
+‘‘(D) other technologies and devices that 
+6
+connect to the electric grid; 
+7
+‘‘(2) recommended cybersecurity features and 
+8
+requirements that can be used by the private sector 
+9
+to design and build interoperable cybersecurity fea-
+10
+tures into technologies that connect to the electric 
+11
+grid, including networked devices and components 
+12
+on distribution systems; and 
+13
+‘‘(3) technical analysis that can be used by the 
+14
+private sector in developing best practices for test 
+15
+beds and test bed methodologies that will enable re-
+16
+producible testing of cybersecurity protections for in-
+17
+formation systems, electronic devices, and other rel-
+18
+evant components, software, and hardware across 
+19
+test beds. 
+20
+‘‘(c) REGULATORY AUTHORITY.—None of the activi-
+21
+ties authorized in this section shall be construed to author-
+22
+ize regulatory actions. Additionally, the voluntary stand-
+23
+ards developed under this section shall not duplicate or 
+24
+conflict with mandatory reliability standards. 
+25
+20:33 Feb 10, 2020
+H5760
+18 
+•HR 5760 IH
+‘‘SEC. 1313. VULNERABILITY TESTING AND TECHNICAL AS-
+1
+SISTANCE TO IMPROVE CYBERSECURITY. 
+2
+‘‘(a) IN GENERAL.—The Secretary shall— 
+3
+‘‘(1) coordinate with energy sector asset owners 
+4
+and operators, leveraging the research facilities and 
+5
+expertise of the National Laboratories, to assist enti-
+6
+ties in developing testing capabilities by— 
+7
+‘‘(A) utilizing a range of methods to iden-
+8
+tify vulnerabilities in physical and cyber sys-
+9
+tems; 
+10
+‘‘(B) developing cybersecurity risk assess-
+11
+ment tools and providing analyses and rec-
+12
+ommendations to participating stakeholders; 
+13
+and 
+14
+‘‘(C) working with stakeholders to develop 
+15
+methods to share anonymized and aggregated 
+16
+test results to assist relevant stakeholders in 
+17
+the energy sector, researchers, and the private 
+18
+sector to advance cybersecurity efforts, tech-
+19
+nologies, and tools; 
+20
+‘‘(2) collaborate with relevant stakeholders, in-
+21
+cluding public utility commissions, to— 
+22
+‘‘(A) identify information, research, staff 
+23
+training, and analytical tools needed to evaluate 
+24
+cybersecurity issues and challenges in the en-
+25
+ergy sector; and 
+26
+22:32 Feb 06, 2020
+H5760
+19 
+•HR 5760 IH
+‘‘(B) facilitate the sharing of information 
+1
+and the development of tools identified under 
+2
+subparagraph (A); and 
+3
+‘‘(3) collaborate with tribal governments to 
+4
+identify information, research, and analysis tools 
+5
+needed by tribal governments to increase the cyber-
+6
+security of energy assets within their jurisdiction. 
+7
+‘‘SEC. 1314. EDUCATION AND WORKFORCE TRAINING RE-
+8
+SEARCH AND STANDARDS. 
+9
+‘‘(a) IN GENERAL.—The Secretary shall support the 
+10
+development of a cybersecurity workforce through a pro-
+11
+gram that— 
+12
+‘‘(1) facilitates collaboration between under-
+13
+graduate and graduate students, researchers at the 
+14
+National Laboratories, and the private sector; 
+15
+‘‘(2) prioritizes science and technology in areas 
+16
+relevant to the mission of the Department of Energy 
+17
+through the design and application of cybersecurity 
+18
+technologies; 
+19
+‘‘(3) develops, or facilitates private sector devel-
+20
+opment of, voluntary cybersecurity training and re-
+21
+training standards, lessons, and recommendations 
+22
+for the energy sector that minimize duplication of 
+23
+cybersecurity compliance training programs; and 
+24
+22:32 Feb 06, 2020
+H5760
+20 
+•HR 5760 IH
+‘‘(4) maintains a public database of cybersecu-
+1
+rity education, training, and certification programs. 
+2
+‘‘(b) COLLABORATION.—In carrying out the program 
+3
+authorized in subsection (a), the Secretary shall leverage 
+4
+programs and activities carried out across the Department 
+5
+of Energy, other relevant Federal agencies, institutions of 
+6
+higher education, and other appropriate entities best suit-
+7
+ed to provide national leadership on cybersecurity-related 
+8
+issues. 
+9
+‘‘SEC. 1315. INTERAGENCY COORDINATION AND STRATEGIC 
+10
+PLAN FOR ENERGY SECTOR CYBERSECURITY 
+11
+RESEARCH. 
+12
+‘‘(a) DUTIES.—The Secretary, in coordination with 
+13
+the Energy Sector Government Coordinating Council, 
+14
+shall— 
+15
+‘‘(1) review the most recent versions of the 
+16
+Roadmap to Achieve Energy Delivery Systems Cy-
+17
+bersecurity and the Multi-Year Program Plan for 
+18
+Energy Sector Cybersecurity to identify crosscutting 
+19
+energy sector cybersecurity research needs and op-
+20
+portunities for collaboration among Federal agencies 
+21
+and other relevant stakeholders; 
+22
+‘‘(2) identify interdisciplinary research, tech-
+23
+nology, and tools that can be applied to cybersecu-
+24
+rity challenges in the energy sector; 
+25
+22:32 Feb 06, 2020
+H5760
+21 
+•HR 5760 IH
+‘‘(3) identify technology transfer opportunities 
+1
+to accelerate the development and commercial appli-
+2
+cation of novel cybersecurity technologies, systems, 
+3
+and processes in the energy sector; and 
+4
+‘‘(4) develop a coordinated Interagency Stra-
+5
+tegic Plan for research to advance cybersecurity ca-
+6
+pabilities used in the energy sector that builds on 
+7
+the Roadmap to Achieve Energy Delivery Systems in 
+8
+Cybersecurity and the Multi-Year Program Plan for 
+9
+Energy Sector Cybersecurity. 
+10
+‘‘(b) INTERAGENCY STRATEGIC PLAN.— 
+11
+‘‘(1) SUBMITTAL.—The Interagency Strategic 
+12
+Plan developed under subsection (a)(4) shall be sub-
+13
+mitted to Congress within 12 months after the date 
+14
+of enactment of the Grid Security Research and De-
+15
+velopment Act. 
+16
+‘‘(2) CONTENTS.—The Interagency Strategic 
+17
+Plan shall include— 
+18
+‘‘(A) an analysis of how existing cybersecu-
+19
+rity research efforts across the Federal Govern-
+20
+ment are advancing the goals of the Roadmap 
+21
+to Achieve Energy Delivery Systems Cybersecu-
+22
+rity and the Multi-Year Program Plan for En-
+23
+ergy Sector Cybersecurity; 
+24
+22:32 Feb 06, 2020
+H5760
+22 
+•HR 5760 IH
+‘‘(B) recommendations for research areas 
+1
+that may advance the cybersecurity of the en-
+2
+ergy sector; 
+3
+‘‘(C) an overview of existing and proposed 
+4
+public and private sector research efforts that 
+5
+address the topics outlined in paragraph (3); 
+6
+and 
+7
+‘‘(D) an overview of needed support for 
+8
+workforce training in cybersecurity for the en-
+9
+ergy sector. 
+10
+‘‘(3) 
+CONSIDERATIONS.—In 
+developing 
+the 
+11
+Interagency Strategic Plan, the Secretary, in coordi-
+12
+nation with the Energy Sector Government Coordi-
+13
+nating Council, shall consider— 
+14
+‘‘(A) opportunities for human factors re-
+15
+search to improve the design and effectiveness 
+16
+of cybersecurity devices, technologies, tools, 
+17
+processes, and training programs; 
+18
+‘‘(B) contributions of other disciplines to 
+19
+the development of innovative cybersecurity pro-
+20
+cedures, devices, components, technologies, and 
+21
+tools; 
+22
+‘‘(C) opportunities for technology transfer 
+23
+programs to facilitate private sector develop-
+24
+ment of cybersecurity procedures, devices, com-
+25
+22:32 Feb 06, 2020
+H5760
+23 
+•HR 5760 IH
+ponents, technologies, and tools for the energy 
+1
+sector; 
+2
+‘‘(D) broader applications of the work done 
+3
+by relevant Federal agencies to advance the cy-
+4
+bersecurity of information systems and data 
+5
+analytics systems for the energy sector; and 
+6
+‘‘(E) activities called for in the Federal cy-
+7
+bersecurity research and development strategic 
+8
+plan required by section 201(a)(1) of the Cy-
+9
+bersecurity Enhancement Act of 2014 (15 
+10
+U.S.C. 7431(a)(1)). 
+11
+‘‘(c) PARTICIPATION.—For the purposes of carrying 
+12
+out this section, the Energy Sector Government Coordi-
+13
+nating Council shall include representatives from Federal 
+14
+agencies with expertise in the energy sector, information 
+15
+systems, data analytics, cyber physical systems, engineer-
+16
+ing, human factors research, human-machine interfaces, 
+17
+high performance computing, big data and data analytics, 
+18
+or other disciplines considered appropriate by the Council 
+19
+Chair. 
+20
+‘‘SEC. 1316. REPORT TO CONGRESS. 
+21
+‘‘(a) BALANCING RISKS, INCREASING SECURITY, AND 
+22
+IMPROVING MODERNIZATION.— 
+23
+‘‘(1) STUDY.—The Secretary, in collaboration 
+24
+with the National Institute of Standards and Tech-
+25
+22:32 Feb 06, 2020
+H5760
+24 
+•HR 5760 IH
+nology, other Federal agencies, and energy sector 
+1
+stakeholders, in order to provide recommendations 
+2
+for additional research, development, demonstration, 
+3
+and commercial application activities, shall— 
+4
+‘‘(A) analyze physical and cyber attacks on 
+5
+energy sector infrastructure and information 
+6
+systems and identify cost-effective opportunities 
+7
+to improve physical and cyber security; and 
+8
+‘‘(B) examine the risks associated with in-
+9
+creasing penetration of digital technologies in 
+10
+grid networks, particularly on the distribution 
+11
+grid. 
+12
+‘‘(2) CONTENT.—The study shall— 
+13
+‘‘(A) analyze processes, operational proce-
+14
+dures, and other factors common among cyber 
+15
+attacks; 
+16
+‘‘(B) identify areas where human behavior 
+17
+plays a critical role in maintaining or compro-
+18
+mising the security of a system; 
+19
+‘‘(C) recommend— 
+20
+‘‘(i) changes to the design of devices, 
+21
+human-machine interfaces, technologies, 
+22
+tools, processes, or procedures to optimize 
+23
+security that do not require a change in 
+24
+human behavior; and 
+25
+22:32 Feb 06, 2020
+H5760
+25 
+•HR 5760 IH
+‘‘(ii) training techniques to increase 
+1
+the capacity of employees to actively iden-
+2
+tify, prevent, or neutralize the impact of 
+3
+cyber attacks; 
+4
+‘‘(D) evaluate existing engineering and 
+5
+technical design criteria and guidelines that in-
+6
+corporate human factors research findings, and 
+7
+recommend criteria and guidelines for cyberse-
+8
+curity tools that can be used to develop display 
+9
+systems for cybersecurity monitoring, such as 
+10
+alarms, user-friendly displays, and layouts; 
+11
+‘‘(E) evaluate the cybersecurity risks and 
+12
+benefits of various design and architecture op-
+13
+tions for energy sector systems, networked grid 
+14
+systems and components, and automation sys-
+15
+tems, including consideration of— 
+16
+‘‘(i) designs that include both digital 
+17
+and analog control devices and tech-
+18
+nologies; 
+19
+‘‘(ii) different communication tech-
+20
+nologies used to transfer information and 
+21
+data between control system devices, tech-
+22
+nologies, and system operators; 
+23
+‘‘(iii) automated and human-in-the- 
+24
+loop devices and technologies; 
+25
+22:32 Feb 06, 2020
+H5760
+26 
+•HR 5760 IH
+‘‘(iv) 
+programmable 
+versus 
+non-
+1
+programmable devices and technologies; 
+2
+‘‘(v) increased redundancy using dis-
+3
+similar cybersecurity technologies; and 
+4
+‘‘(vi) grid architectures that use au-
+5
+tonomous 
+functions 
+to 
+limit 
+control 
+6
+vulnerabilities; and 
+7
+‘‘(F) recommend methods or metrics to 
+8
+document changes in risks associated with sys-
+9
+tem designs and architectures. 
+10
+‘‘(3) CONSULTATION.—In conducting the study, 
+11
+the Secretary shall consult with energy sector stake-
+12
+holders, academic and private sector researchers, the 
+13
+private sector, and other relevant stakeholders. 
+14
+‘‘(4) REPORT.—Not later than 24 months after 
+15
+the date of enactment of the Grid Security Research 
+16
+and Development Act, the Secretary shall submit the 
+17
+study to the Committee on Science, Space, and 
+18
+Technology of the House of Representatives and the 
+19
+Committee on Energy and Natural Resources of the 
+20
+Senate. 
+21
+‘‘SEC. 1317. DEFINITIONS. 
+22
+‘‘In this title: 
+23
+22:32 Feb 06, 2020
+H5760
+27 
+•HR 5760 IH
+‘‘(1) BIG DATA.—The term ‘big data’ means 
+1
+datasets that require advanced analytical methods 
+2
+for their transformation into useful information. 
+3
+‘‘(2) CYBERSECURITY.—The term ‘cybersecu-
+4
+rity’ means protecting an information system or in-
+5
+formation that is stored on, processed by, or 
+6
+transiting an information system from a cybersecu-
+7
+rity threat or security vulnerability. 
+8
+‘‘(3) CYBERSECURITY THREAT.—The term ‘cy-
+9
+bersecurity threat’ has the meaning given the term 
+10
+in section 102 of the Cybersecurity Information 
+11
+Sharing Act of 2015 (6 U.S.C. 1501). 
+12
+‘‘(4) ELECTRICITY SUBSECTOR COORDINATING 
+13
+COUNCIL.—The term ‘Electricity Subsector Coordi-
+14
+nating Council’ means the self-organized, self-gov-
+15
+erned council consisting of senior industry represent-
+16
+atives to serve as the principal liaison between the 
+17
+Federal Government and the electric power sector 
+18
+and to carry out the role of the Sector Coordinating 
+19
+Council as established in the National Infrastructure 
+20
+Protection Plan for the electricity subsector. 
+21
+‘‘(5) ENERGY
+SECTOR
+GOVERNMENT
+COORDI-
+22
+NATING COUNCIL.—The term ‘Energy Sector Gov-
+23
+ernment Coordinating Council’ means the council 
+24
+consisting of representatives from relevant Federal 
+25
+22:32 Feb 06, 2020
+H5760
+28 
+•HR 5760 IH
+Government agencies to provide effective coordina-
+1
+tion of energy sector efforts to ensure a secure, reli-
+2
+able, and resilient energy infrastructure and to carry 
+3
+out the role of the Government Coordinating Council 
+4
+as established in the National Infrastructure Protec-
+5
+tion Plan for the energy sector. 
+6
+‘‘(6) HUMAN FACTORS RESEARCH.—The term 
+7
+‘human factors research’ means research on human 
+8
+performance in social and physical environments, 
+9
+and on the integration and interaction of humans 
+10
+with physical systems and computer hardware and 
+11
+software. 
+12
+‘‘(7) HUMAN-MACHINE INTERFACES.—The term 
+13
+‘human-machine interfaces’ means technologies that 
+14
+present information to an operator or user about the 
+15
+state of a process or system, or accept human in-
+16
+structions to implement an action, including visual-
+17
+ization displays such as a graphical user interface. 
+18
+‘‘(8) INFORMATION SYSTEM.—The term ‘infor-
+19
+mation system’— 
+20
+‘‘(A) has the meaning given the term in 
+21
+section 102 of the Cybersecurity Information 
+22
+Sharing Act of 2015 (6 U.S.C. 1501); and 
+23
+‘‘(B) includes operational technology, infor-
+24
+mation technology, and communications. 
+25
+22:32 Feb 06, 2020
+H5760
+29 
+•HR 5760 IH
+‘‘(9) NATIONAL LABORATORY.—The term ‘na-
+1
+tional laboratory’ has the meaning given the term in 
+2
+section 2 of the Energy Policy Act of 2005 (42 
+3
+U.S.C. 15801). 
+4
+‘‘(10) SECURITY
+VULNERABILITY.—The term 
+5
+‘security vulnerability’ has the meaning given the 
+6
+term in section 102 of the Cybersecurity Information 
+7
+Sharing Act of 2015 (6 U.S.C. 1501). 
+8
+‘‘(11) TRANSIENT DEVICES.—The term ‘tran-
+9
+sient devices’ means removable media, including 
+10
+floppy disks, compact disks, USB flash drives, exter-
+11
+nal hard drives, mobile devices, and other devices 
+12
+that utilize wireless connections. 
+13
+‘‘SEC. 1318. AUTHORIZATION OF APPROPRIATIONS. 
+14
+‘‘There are authorized to be appropriated to the Sec-
+15
+retary to carry out this title— 
+16
+‘‘(1) $150,000,000 for fiscal year 2021; 
+17
+‘‘(2) $157,500,000 for fiscal year 2022; 
+18
+‘‘(3) $165,375,000 for fiscal year 2023; 
+19
+‘‘(4) $173,645,000 for fiscal year 2024; and 
+20
+‘‘(5) $182,325,000 for fiscal year 2025.’’. 
+21
+Æ 
+22:32 Feb 06, 2020
+H5760

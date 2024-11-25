@@ -1,0 +1,376 @@
+A BILL 
+To provide for the establishment of a pilot program to iden-
+tify security vulnerabilities of certain entities in the en-
+ergy sector. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Securing Energy Infra-
+4
+structure Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+01:57 Jan 31, 2019
+H680
+2 
+•HR 680 IH
+(1) APPROPRIATE COMMITTEE OF CONGRESS.— 
+1
+The term ‘‘appropriate committee of Congress’’ 
+2
+means— 
+3
+(A) the Select Committee on Intelligence, 
+4
+the Committee on Homeland Security and Gov-
+5
+ernmental Affairs, and the Committee on En-
+6
+ergy and Natural Resources of the Senate; and 
+7
+(B) the Permanent Select Committee on 
+8
+Intelligence, the Committee on Homeland Secu-
+9
+rity, and the Committee on Energy and Com-
+10
+merce of the House of Representatives. 
+11
+(2) COVERED ENTITY.—The term ‘‘covered en-
+12
+tity’’ means an entity identified pursuant to section 
+13
+9(a) of Executive Order 13636 of February 12, 
+14
+2013 (78 Fed. Reg. 11742), relating to identifica-
+15
+tion of critical infrastructure where a cybersecurity 
+16
+incident could reasonably result in catastrophic re-
+17
+gional or national effects on public health or safety, 
+18
+economic security, or national security. 
+19
+(3) EXPLOIT.—The term ‘‘exploit’’ means a 
+20
+software tool designed to take advantage of a secu-
+21
+rity vulnerability. 
+22
+(4) INDUSTRIAL CONTROL SYSTEM.— 
+23
+(A) IN
+GENERAL.—The term ‘‘industrial 
+24
+control system’’ means an operational tech-
+25
+01:57 Jan 31, 2019
+H680
+3 
+•HR 680 IH
+nology used to measure, control, or manage in-
+1
+dustrial functions. 
+2
+(B) INCLUSIONS.—The term ‘‘industrial 
+3
+control system’’ includes supervisory control 
+4
+and data acquisition systems, distributed con-
+5
+trol systems, and programmable logic or embed-
+6
+ded controllers. 
+7
+(5) NATIONAL LABORATORY.—The term ‘‘Na-
+8
+tional Laboratory’’ has the meaning given the term 
+9
+in section 2 of the Energy Policy Act of 2005 (42 
+10
+U.S.C. 15801). 
+11
+(6) PROGRAM.—The term ‘‘Program’’ means 
+12
+the pilot program established under section 3. 
+13
+(7) SECRETARY.—The term ‘‘Secretary’’ means 
+14
+the Secretary of Energy. 
+15
+(8) SECURITY VULNERABILITY.—The term ‘‘se-
+16
+curity vulnerability’’ means any attribute of hard-
+17
+ware, software, process, or procedure that could en-
+18
+able or facilitate the defeat of a security control. 
+19
+SEC. 3. PILOT PROGRAM FOR SECURING ENERGY INFRA-
+20
+STRUCTURE. 
+21
+Not later than 180 days after the date of enactment 
+22
+of this Act, the Secretary shall establish a 2-year control 
+23
+systems implementation pilot program within the National 
+24
+Laboratories for the purposes of— 
+25
+01:57 Jan 31, 2019
+H680
+4 
+•HR 680 IH
+(1) partnering with covered entities in the en-
+1
+ergy sector (including critical component manufac-
+2
+turers in the supply chain) that voluntarily partici-
+3
+pate in the Program to identify new classes of secu-
+4
+rity vulnerabilities of the covered entities; and 
+5
+(2) evaluating technology and standards, in 
+6
+partnership with covered entities, to isolate and de-
+7
+fend industrial control systems of covered entities 
+8
+from security vulnerabilities and exploits in the most 
+9
+critical systems of the covered entities, including— 
+10
+(A) analog and nondigital control systems; 
+11
+(B) purpose-built control systems; and 
+12
+(C) physical controls. 
+13
+SEC. 4. WORKING GROUP TO EVALUATE PROGRAM STAND-
+14
+ARDS AND DEVELOP STRATEGY. 
+15
+(a) ESTABLISHMENT.—The Secretary shall establish 
+16
+a working group— 
+17
+(1) to evaluate the technology and standards 
+18
+used in the Program under section 3(2); and 
+19
+(2) to develop a national cyber-informed engi-
+20
+neering strategy to isolate and defend covered enti-
+21
+ties from security vulnerabilities and exploits in the 
+22
+most critical systems of the covered entities. 
+23
+(b) MEMBERSHIP.—The working group established 
+24
+under subsection (a) shall be composed of not fewer than 
+25
+01:57 Jan 31, 2019
+H680
+5 
+•HR 680 IH
+10 members, to be appointed by the Secretary, at least 
+1
+1 member of which shall represent each of the following: 
+2
+(1) The Department of Energy. 
+3
+(2) The energy industry, including electric utili-
+4
+ties and manufacturers recommended by the Energy 
+5
+Sector coordinating councils. 
+6
+(3)(A) The Department of Homeland Security; 
+7
+or 
+8
+(B) the Industrial Control Systems Cyber 
+9
+Emergency Response Team. 
+10
+(4) The North American Electric Reliability 
+11
+Corporation. 
+12
+(5) The Nuclear Regulatory Commission. 
+13
+(6)(A) The Office of the Director of National 
+14
+Intelligence; or 
+15
+(B) the intelligence community (as defined in 
+16
+section 3 of the National Security Act of 1947 (50 
+17
+U.S.C. 3003)). 
+18
+(7)(A) The Department of Defense; or 
+19
+(B) the Assistant Secretary of Defense for 
+20
+Homeland Security and America’s Security Affairs. 
+21
+(8) A State or regional energy agency. 
+22
+(9) A national research body or academic insti-
+23
+tution. 
+24
+(10) The National Laboratories. 
+25
+01:57 Jan 31, 2019
+H680
+6 
+•HR 680 IH
+SEC. 5. REPORTS ON THE PROGRAM. 
+1
+(a) INTERIM REPORT.—Not later than 180 days 
+2
+after the date on which funds are first disbursed under 
+3
+the Program, the Secretary shall submit to the appro-
+4
+priate committees of Congress an interim report that— 
+5
+(1) describes the results of the Program; 
+6
+(2) includes an analysis of the feasibility of 
+7
+each method studied under the Program; and 
+8
+(3) describes the results of the evaluations con-
+9
+ducted by the working group established under sec-
+10
+tion 4(a). 
+11
+(b) FINAL REPORT.—Not later than 2 years after the 
+12
+date on which funds are first disbursed under the Pro-
+13
+gram, the Secretary shall submit to the appropriate com-
+14
+mittees of Congress a final report that— 
+15
+(1) describes the results of the Program; 
+16
+(2) includes an analysis of the feasibility of 
+17
+each method studied under the Program; and 
+18
+(3) describes the results of the evaluations con-
+19
+ducted by the working group established under sec-
+20
+tion 4(a). 
+21
+SEC. 6. EXEMPTION FROM DISCLOSURE. 
+22
+Information shared by or with the Federal Govern-
+23
+ment or a State, Tribal, or local government under this 
+24
+Act shall be— 
+25
+01:57 Jan 31, 2019
+H680
+7 
+•HR 680 IH
+(1) deemed to be voluntarily shared informa-
+1
+tion; 
+2
+(2) exempt from disclosure under section 552 of 
+3
+title 5, United States Code, or any provision of any 
+4
+State, Tribal, or local freedom of information law, 
+5
+open government law, open meetings law, open 
+6
+records law, sunshine law, or similar law requiring 
+7
+the disclosure of information or records; and 
+8
+(3) withheld from the public, without discretion, 
+9
+under section 552(b)(3) of title 5, United States 
+10
+Code, or any provision of a State, Tribal, or local 
+11
+law requiring the disclosure of information or 
+12
+records. 
+13
+SEC. 7. PROTECTION FROM LIABILITY. 
+14
+(a) IN GENERAL.—A cause of action against a cov-
+15
+ered entity for engaging in the voluntary activities author-
+16
+ized under section 3— 
+17
+(1) shall not lie or be maintained in any court; 
+18
+and 
+19
+(2) shall be promptly dismissed by the applica-
+20
+ble court. 
+21
+(b) VOLUNTARY ACTIVITIES.—Nothing in this Act 
+22
+subjects any covered entity to liability for not engaging 
+23
+in the voluntary activities authorized under section 3. 
+24
+01:57 Jan 31, 2019
+H680
+8 
+•HR 680 IH
+SEC. 8. NO NEW REGULATORY AUTHORITY FOR FEDERAL 
+1
+AGENCIES. 
+2
+Nothing in this Act authorizes the Secretary or the 
+3
+head of any other department or agency of the Federal 
+4
+Government to issue new regulations. 
+5
+SEC. 9. AUTHORIZATION OF APPROPRIATIONS. 
+6
+(a) PILOT PROGRAM.—There is authorized to be ap-
+7
+propriated $10,000,000 to carry out section 3. 
+8
+(b) WORKING GROUP AND REPORT.—There is au-
+9
+thorized to be appropriated $1,500,000 to carry out sec-
+10
+tions 4 and 5. 
+11
+(c) AVAILABILITY.—Amounts made available under 
+12
+subsections (a) and (b) shall remain available until ex-
+13
+pended. 
+14
+Æ 
+01:57 Jan 31, 2019
+H680

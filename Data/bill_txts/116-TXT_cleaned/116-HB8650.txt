@@ -1,0 +1,977 @@
+A BILL 
+To amend the Communications Act of 1934 to provide fund-
+ing to States for extending broadband service to unserved 
+areas in partnership with broadband service providers, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Eliminate the Digital 
+4
+Divide Act’’. 
+5
+18:39 Nov 06, 2020
+H8650
+2 
+•HR 8650 IH
+SEC. 2. EXPANSION OF BROADBAND ACCESS IN UNSERVED 
+1
+AREAS. 
+2
+(a) IN GENERAL.—The Communications Act of 1934 
+3
+(47 U.S.C. 151 et seq.) is amended— 
+4
+(1) in title I (47 U.S.C. 151 et seq.), by adding 
+5
+at the end the following: 
+6
+‘‘SEC. 14. EXPANSION AND ADOPTION OF BROADBAND 
+7
+SERVICE THROUGH STATE FUNDING. 
+8
+‘‘(a) DEFINITIONS.—In this section: 
+9
+‘‘(1) BROADBAND
+FUNDING
+PARTNER.—The 
+10
+term ‘broadband funding partner’ means an eligible 
+11
+entity that receives funding for a project under this 
+12
+section. 
+13
+‘‘(2) 
+BROADBAND
+SERVICE.—The 
+term 
+14
+‘broadband service’— 
+15
+‘‘(A) means a mass-market retail service 
+16
+by wire or radio that provides the capability to 
+17
+transmit data to and receive data from all or 
+18
+substantially all internet endpoints, including 
+19
+any capabilities that are incidental to and en-
+20
+able the operation of the communications serv-
+21
+ice; 
+22
+‘‘(B) includes any service that is a func-
+23
+tional equivalent of the service described in sub-
+24
+paragraph (A); and 
+25
+18:39 Nov 06, 2020
+H8650
+3 
+•HR 8650 IH
+‘‘(C) does not include dial-up internet ac-
+1
+cess service. 
+2
+‘‘(3) ELIGIBLE ENTITY.—The term ‘eligible en-
+3
+tity’ means a private provider of broadband service, 
+4
+or a public-private partnership or cooperative (in-
+5
+cluding a subsidiary of a cooperative) that provides 
+6
+broadband service, that has submitted to the Com-
+7
+mission, in addition to any data required to be sub-
+8
+mitted under section 802, data regarding the service 
+9
+option described in subsection (f)(2) that the entity 
+10
+would offer if the entity were to receive funding 
+11
+under this section. 
+12
+‘‘(4) HIGH COST AREA.—The term ‘high cost 
+13
+area’ means an area in which the cost of building 
+14
+out broadband service is higher, as compared with 
+15
+the average such cost in the United States (and as 
+16
+determined by the Commission), because of— 
+17
+‘‘(A) the remote location of the area; 
+18
+‘‘(B) the scarcity of services in the area; 
+19
+‘‘(C) the unique topography of the area; 
+20
+‘‘(D) a high rate of poverty in the area; or 
+21
+‘‘(E) any other factor that contributes to 
+22
+the cost of building out that service. 
+23
+‘‘(5) LOCATION.—The term ‘location’ has the 
+24
+meaning given the term by the Commission under 
+25
+18:39 Nov 06, 2020
+H8650
+4 
+•HR 8650 IH
+rules and guidance that are in effect, as of the date 
+1
+of enactment of this section. 
+2
+‘‘(6) PROJECT.—The term ‘project’ means an 
+3
+undertaking by a broadband funding partner under 
+4
+this section to construct and deploy infrastructure 
+5
+for the provision of broadband service. 
+6
+‘‘(7) UNSERVED
+AREA.—The term ‘unserved 
+7
+area’ means an area that, as determined in accord-
+8
+ance 
+with 
+the 
+maps 
+created 
+under 
+section 
+9
+802(c)(1)— 
+10
+‘‘(A) has no access to broadband service; 
+11
+or 
+12
+‘‘(B) does not have access to broadband 
+13
+service offered— 
+14
+‘‘(i) with a download speed of at least 
+15
+25 megabits per second; and 
+16
+‘‘(ii) with an upload speed of at least 
+17
+3 megabits per second. 
+18
+‘‘(b) PROGRAM ESTABLISHED.— 
+19
+‘‘(1) IN GENERAL.—Not later than 100 days 
+20
+after the date of enactment of this section, the Com-
+21
+mission shall establish a program for States to ex-
+22
+pand access to broadband service in unserved areas. 
+23
+‘‘(2) RELATIONSHIP TO UNIVERSAL SERVICE.— 
+24
+The program established under paragraph (1) shall 
+25
+18:39 Nov 06, 2020
+H8650
+5 
+•HR 8650 IH
+be separate from any universal service program es-
+1
+tablished under section 254. 
+2
+‘‘(c) STATE PROGRAM REQUIREMENTS.—A State 
+3
+seeking funding under the program established under sub-
+4
+section (b) shall create a program that— 
+5
+‘‘(1) implements the requirements of this sec-
+6
+tion; 
+7
+‘‘(2) does not favor the use of any particular 
+8
+technology or any particular eligible entity; 
+9
+‘‘(3) encourages small broadband providers to 
+10
+participate in the program through streamlined reg-
+11
+ulatory requirements for all broadband funding part-
+12
+ners; 
+13
+‘‘(4) takes into account— 
+14
+‘‘(A) the size and scope of each unserved 
+15
+area, and the number of locations, proposed to 
+16
+be served by each project carried out using the 
+17
+funds; and 
+18
+‘‘(B) the speed of the broadband service 
+19
+provided by eligible entities seeking funding for 
+20
+projects under the program; 
+21
+‘‘(5) may take into account— 
+22
+‘‘(A) the size and proportion of the match-
+23
+ing funds proposed to be committed by the eli-
+24
+gible entities seeking funding for projects under 
+25
+18:39 Nov 06, 2020
+H8650
+6 
+•HR 8650 IH
+the program, which may not be provided from 
+1
+any funds derived from government grants, 
+2
+loans, or subsidies; 
+3
+‘‘(B) the speed with which the eligible enti-
+4
+ties seeking funding for projects under the pro-
+5
+gram can complete the proposed deployment 
+6
+and provision of broadband service to house-
+7
+holds under those projects; and 
+8
+‘‘(C) whether an eligible entity seeking 
+9
+funding for a project under the program has 
+10
+the ability to leverage nearby or adjacent 
+11
+broadband service provided by the eligible entity 
+12
+to facilitate the deployment and provision of 
+13
+broadband service proposed under that project; 
+14
+‘‘(6) establishes— 
+15
+‘‘(A) periodic buildout milestones, report-
+16
+ing 
+requirements, 
+and 
+certification 
+by 
+17
+broadband funding partners; and 
+18
+‘‘(B) a maximum buildout timeframe for a 
+19
+broadband funding partner of 3 years, begin-
+20
+ning on the date on which funding is provided 
+21
+to the broadband funding partner to undertake 
+22
+a project, except that the State may extend that 
+23
+timeframe if the broadband funding partner es-
+24
+18:39 Nov 06, 2020
+H8650
+7 
+•HR 8650 IH
+tablishes that the failure to complete the project 
+1
+within that timeframe is due to— 
+2
+‘‘(i) delays by third parties in pro-
+3
+viding necessary permits, approvals, or ac-
+4
+cess to (or construction of) poles; or 
+5
+‘‘(ii) a State or federally declared dis-
+6
+aster; 
+7
+‘‘(7) contains sufficient notice, transparency, 
+8
+accountability, and oversight measures to— 
+9
+‘‘(A) provide the public and broadband 
+10
+funding partners with notice of the funding pro-
+11
+vided under this section; and 
+12
+‘‘(B) deter waste, fraud, and abuse of pro-
+13
+gram funds; 
+14
+‘‘(8) establishes procedures for the recovery of 
+15
+funds, in whole or in part, from a broadband fund-
+16
+ing partner if the broadband funding partner— 
+17
+‘‘(A) defaults or fails to comply with the 
+18
+buildout 
+requirements 
+established 
+for 
+the 
+19
+project with respect to which the funding re-
+20
+lates; and 
+21
+‘‘(B) has not received an extension under 
+22
+paragraph (6)(B); 
+23
+‘‘(9) establishes procedures for broadband fund-
+24
+ing partners to receive expedited approval for all 
+25
+18:39 Nov 06, 2020
+H8650
+8 
+•HR 8650 IH
+necessary access to (or construction of) poles, State 
+1
+and local rights-of-way permits, or other approvals 
+2
+in the areas of the State served by projects under 
+3
+the program; 
+4
+‘‘(10) provides that broadband funding partners 
+5
+are not required to be designated as eligible tele-
+6
+communications carriers under section 214(e); 
+7
+‘‘(11) provides that an eligible entity shall grant 
+8
+access to poles, ducts, conduits, and rights-of-way 
+9
+that the eligible entity owns or controls within the 
+10
+State at rates, terms, and conditions regulated by 
+11
+the Commission under, or the State consistent with, 
+12
+section 224, without regard to whether that section 
+13
+otherwise applies with respect to those items; and 
+14
+‘‘(12) except as otherwise explicitly provided in 
+15
+this section, does not require, or include consider-
+16
+ation of, the imposition of any new or additional reg-
+17
+ulatory obligations on broadband funding partners 
+18
+beyond those required under applicable law. 
+19
+‘‘(d) DISTRIBUTION OF FUNDS TO STATES.— 
+20
+‘‘(1) COMMISSION DISTRIBUTIONS.— 
+21
+‘‘(A) IN
+GENERAL.—Not later than 200 
+22
+days after the date of enactment of this section, 
+23
+the Commission, under the program established 
+24
+under subsection (b), and in accordance with 
+25
+18:39 Nov 06, 2020
+H8650
+9 
+•HR 8650 IH
+the requirements of this section, shall, with re-
+1
+spect to the amounts made available to carry 
+2
+out this section— 
+3
+‘‘(i) reserve 10 percent of those 
+4
+amounts for distributions under subpara-
+5
+graph (B) to States that have established 
+6
+programs under subsection (c); and 
+7
+‘‘(ii) of the amounts not reserved 
+8
+under clause (i), make distributions under 
+9
+paragraph (2) to States that have estab-
+10
+lished programs under subsection (c). 
+11
+‘‘(B) DISTRIBUTIONS
+FOR
+HIGH
+COST 
+12
+AREAS.—The amount of a distribution to a 
+13
+State under this subparagraph shall be cal-
+14
+culated as follows: 
+15
+‘‘(i) Divide the number of high cost 
+16
+areas in the State by the total number of 
+17
+high cost areas in the United States. 
+18
+‘‘(ii) Multiply the quotient obtained 
+19
+under clause (i) by the total amount re-
+20
+served under subparagraph (A)(i). 
+21
+‘‘(2) AMOUNT OF DISTRIBUTIONS FOR PROJECT 
+22
+AWARDS.—The amount of a distribution to a State 
+23
+under paragraph (1) shall be calculated as follows: 
+24
+18:39 Nov 06, 2020
+H8650
+10 
+•HR 8650 IH
+‘‘(A) Divide the number of individuals liv-
+1
+ing in unserved areas in the State by the total 
+2
+number of individuals living in unserved areas 
+3
+in the United States, as determined in accord-
+4
+ance with the maps created under section 
+5
+802(c)(1). 
+6
+‘‘(B) Multiply the quotient obtained under 
+7
+subparagraph (A) of this paragraph by the 
+8
+amount described in paragraph (1)(A)(ii). 
+9
+‘‘(3) STATE ENTITLEMENT.—With respect to a 
+10
+State that has established a program under sub-
+11
+section (c), the State shall receive a distribution 
+12
+under both of paragraphs (1)(B) and (2) of this sub-
+13
+section. 
+14
+‘‘(e) STATE USE OF PROGRAM FUNDS.— 
+15
+‘‘(1) IN GENERAL.—Not later than 120 days 
+16
+after the date on which a State receives funds under 
+17
+subsection (d), and subject to paragraph (2), the 
+18
+State shall make awards to eligible entities through 
+19
+the program established by the State under sub-
+20
+section (c). 
+21
+‘‘(2) FUNDS
+USED
+SOLELY
+FOR
+UNSERVED 
+22
+AREAS.—A State to which funds are distributed 
+23
+under subsection (d)— 
+24
+‘‘(A) may not— 
+25
+18:39 Nov 06, 2020
+H8650
+11 
+•HR 8650 IH
+‘‘(i) use any portion of those funds for 
+1
+a project in any area that is not an 
+2
+unserved area; or 
+3
+‘‘(ii) use more than 5 percent of those 
+4
+funds to administer the program estab-
+5
+lished by the State under subsection (c); 
+6
+and 
+7
+‘‘(B) shall— 
+8
+‘‘(i) before making any awards de-
+9
+scribed in paragraph (1), consult the maps 
+10
+created under section 802(c)(1), as up-
+11
+dated through the resolution of any chal-
+12
+lenges brought under section 802(b)(5), to 
+13
+create a list of areas within the State that 
+14
+are unserved areas, which the State shall 
+15
+make publicly available; 
+16
+‘‘(ii) from the list created under 
+17
+clause (i), remove any area in the State 
+18
+that— 
+19
+‘‘(I) has been awarded funding in 
+20
+the Rural Digital Opportunity Fund 
+21
+Phase I auction provided for in the 
+22
+Report and Order in the matter of 
+23
+Rural Digital Opportunity Fund and 
+24
+Connect America Fund adopted by 
+25
+18:39 Nov 06, 2020
+H8650
+12 
+•HR 8650 IH
+the Commission on January 30, 2020 
+1
+(FCC 20–5); 
+2
+‘‘(II) has been awarded funding 
+3
+through any Rural Utilities Service 
+4
+broadband funding program with a 
+5
+minimum speed commitment of 25 
+6
+megabits per second for downloads 
+7
+and 3 megabits per second for 
+8
+uploads; 
+9
+‘‘(III) has been awarded funding 
+10
+through any existing program estab-
+11
+lished by the State with minimum 
+12
+speed commitments described in sub-
+13
+clause (II); or 
+14
+‘‘(IV) is the subject of an en-
+15
+forceable commitment by a broadband 
+16
+provider to serve the area with min-
+17
+imum speed commitments described in 
+18
+subclause (II), even if, in any such 
+19
+areas, the service is not yet available, 
+20
+provided that the broadband provider 
+21
+is meeting any applicable build-out 
+22
+deadlines; 
+23
+‘‘(iii) establish a streamlined process 
+24
+that allows a broadband service provider, 
+25
+18:39 Nov 06, 2020
+H8650
+13 
+•HR 8650 IH
+the State, or a unit of local government 
+1
+within the State not less than 30 days 
+2
+after the date on which the list created 
+3
+under clause (i), as updated under clause 
+4
+(ii), is made publicly available to bring a 
+5
+challenge regarding whether an area on 
+6
+that final list is an unserved area; 
+7
+‘‘(iv) provide a written notice regard-
+8
+ing how each challenge brought under 
+9
+clause (iii) was decided, including the rea-
+10
+sons for that decision; 
+11
+‘‘(v) update the list created under 
+12
+clause (i) to reflect the results of chal-
+13
+lenges brought under clause (iii); 
+14
+‘‘(vi) not later than 10 years after the 
+15
+date of enactment of this section, return 
+16
+any unused portion of those funds to the 
+17
+Commission; and 
+18
+‘‘(vii) not later than 2 years after the 
+19
+date on which the funds are distributed to 
+20
+the State, and biennially thereafter, submit 
+21
+to the Commission a report— 
+22
+‘‘(I) regarding how the State 
+23
+spent those funds during the period 
+24
+covered by the report, which shall in-
+25
+18:39 Nov 06, 2020
+H8650
+14 
+•HR 8650 IH
+clude a description of each award 
+1
+made with those funds; and 
+2
+‘‘(II) that contains a certification 
+3
+that the State has complied with the 
+4
+requirements of this section during 
+5
+the period covered by the report. 
+6
+‘‘(f) PROJECT REQUIREMENTS.—Any project funded 
+7
+through the program established under subsection (b) 
+8
+shall— 
+9
+‘‘(1) adhere to the same quality-of-service 
+10
+standards established by the Commission with re-
+11
+spect to the Rural Digital Opportunity Fund set 
+12
+forth in subpart J of part 54 of title 47, Code of 
+13
+Federal Regulations (or any successor regulations); 
+14
+and 
+15
+‘‘(2) offer a low-cost broadband service option 
+16
+for low-income subscribers with eligibility for the 
+17
+service 
+option 
+determined 
+by 
+the 
+applicable 
+18
+broadband funding partner. 
+19
+‘‘(g) PROMOTING BROADBAND DEPLOYMENT.—Not 
+20
+later than 1 year after the date on which a State receives 
+21
+funding under this section, the State shall publish on a 
+22
+publicly available website of the State a report that ana-
+23
+lyzes the following: 
+24
+18:39 Nov 06, 2020
+H8650
+15 
+•HR 8650 IH
+‘‘(1) The process by which the State, or any 
+1
+local authority within the State, acts on a new re-
+2
+quest to access poles, ducts, conduits, or rights-of- 
+3
+way, which shall include an analysis of— 
+4
+‘‘(A) the speed with which the State or 
+5
+local authority, as applicable, responds to such 
+6
+a request; and 
+7
+‘‘(B) the impact that granting such a re-
+8
+quest not later than 30 days after the date on 
+9
+which the request is submitted would have on 
+10
+the speed at which broadband service is de-
+11
+ployed in the State. 
+12
+‘‘(2) The process by which the State, or any 
+13
+local authority within the State, acts on a non-
+14
+emergency request for authorization to place, con-
+15
+struct, or modify facilities with respect to broadband 
+16
+service that are supported through access to poles, 
+17
+ducts, conduits, or rights-of-way, which shall include 
+18
+an analysis of— 
+19
+‘‘(A) the speed with which the State or 
+20
+local authority, as applicable, responds to such 
+21
+a request; and 
+22
+‘‘(B) the impact that granting such a re-
+23
+quest not later than 30 days after the date on 
+24
+which the request is submitted would have on 
+25
+18:39 Nov 06, 2020
+H8650
+16 
+•HR 8650 IH
+the speed at which broadband service is de-
+1
+ployed in the State. 
+2
+‘‘(3) The impact on the deployment of 
+3
+broadband service within the State of not requiring 
+4
+a permit or other authorization for emergency work 
+5
+performed in the rights-of-way if a broadband facil-
+6
+ity supported through access to poles, ducts, con-
+7
+duits, or rights-of-way notifies the State, or the ap-
+8
+plicable local authority within the State, regarding 
+9
+the emergency and the associated work. 
+10
+‘‘(4) The impact on the deployment of 
+11
+broadband service within the State of requiring the 
+12
+State, or any instrumentality of the State, whenever 
+13
+the State or instrumentality intends to modify or 
+14
+alter a pole, duct, conduit, or right-of-way, or con-
+15
+duct road work in which there will be open trenches, 
+16
+to provide prior written notification of that action to 
+17
+any broadband service provider, or other entity, that 
+18
+has obtained an attachment to a pole, duct, or con-
+19
+duit, or right-of-way that may be affected, so that 
+20
+the applicable entity may have a reasonable oppor-
+21
+tunity to add to or modify its existing attachment or 
+22
+facilities. 
+23
+‘‘(h) GUIDANCE.—The Commission may provide 
+24
+guidance to States with respect to service obligations, pro-
+25
+18:39 Nov 06, 2020
+H8650
+17 
+•HR 8650 IH
+cedures, reporting requirements, and other requirements 
+1
+in carrying out programs established under this section. 
+2
+‘‘(i) RULE OF CONSTRUCTION.—Nothing in this sec-
+3
+tion may be construed to permit the Commission to use 
+4
+any data submitted by a provider of broadband service 
+5
+under this section to issue or establish additional regu-
+6
+latory requirements with respect to that provider.’’; and 
+7
+(2) in section 802(c) (47 U.S.C. 642(c))— 
+8
+(A) in paragraph (1)(A)— 
+9
+(i) in clause (i), by striking ‘‘and’’ at 
+10
+the end; 
+11
+(ii) in clause (ii), by adding ‘‘and’’ 
+12
+after the semicolon at the end; and 
+13
+(iii) by adding at the end the fol-
+14
+lowing: 
+15
+‘‘(iii) the areas of the United States in 
+16
+which options described in section 14(f)(2) 
+17
+are available;’’; 
+18
+(B) in paragraph (5), by striking ‘‘and’’ at 
+19
+the end; 
+20
+(C) in paragraph (6)— 
+21
+(i) in the matter preceding subpara-
+22
+graph (A), by inserting ‘‘, including on a 
+23
+publicly available website’’ after ‘‘make 
+24
+public’’; 
+25
+18:39 Nov 06, 2020
+H8650
+18 
+•HR 8650 IH
+(ii) in subparagraph (A), by striking 
+1
+‘‘and’’ at the end; and 
+2
+(iii) in subparagraph (B), by striking 
+3
+the period at the end and inserting ‘‘; 
+4
+and’’; and 
+5
+(D) by adding at the end the following: 
+6
+‘‘(7) beginning not later than 18 months after 
+7
+the date of enactment of the Eliminate the Digital 
+8
+Divide Act, ensure that the publicly available website 
+9
+described in paragraph (6)— 
+10
+‘‘(A) allows a consumer to determine, 
+11
+based on financial information entered by the 
+12
+consumer, whether the consumer is eligible— 
+13
+‘‘(i) to receive a Federal or State sub-
+14
+sidy with respect to broadband internet ac-
+15
+cess service; or 
+16
+‘‘(ii) to qualify for a low-income plan 
+17
+with respect to broadband internet access 
+18
+service; and 
+19
+‘‘(B) with respect to a consumer who is eli-
+20
+gible under clause (i) or (ii) of subparagraph 
+21
+(A), contains information regarding how to 
+22
+apply for the applicable benefit.’’. 
+23
+(b) DIRECT APPROPRIATION.—There is appropriated 
+24
+to the Federal Communications Commission, out of any 
+25
+18:39 Nov 06, 2020
+H8650
+19 
+•HR 8650 IH
+money in the Treasury not otherwise appropriated, 
+1
+$10,000,000,000 for fiscal year 2021 to carry out section 
+2
+14 of the Communications Act of 1934, as added by sub-
+3
+section (a)(1), which shall remain available through fiscal 
+4
+year 2029. 
+5
+Æ 
+18:39 Nov 06, 2020
+H8650

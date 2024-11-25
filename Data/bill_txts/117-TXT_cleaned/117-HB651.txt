@@ -1,0 +1,1584 @@
+A BILL 
+To protect the privacy of health information during a 
+national health emergency. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Public Health Emer-
+4
+gency Privacy Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+04:15 Mar 19, 2021
+H651
+2 
+•HR 651 IH
+(1) AFFIRMATIVE
+EXPRESS
+CONSENT.—The 
+1
+term ‘‘affirmative express consent’’ means an affirm-
+2
+ative act by an individual that— 
+3
+(A) clearly and conspicuously commu-
+4
+nicates the individual’s authorization of an act 
+5
+or practice; 
+6
+(B) is made in the absence of any mecha-
+7
+nism in the user interface that has the purpose 
+8
+or substantial effect of obscuring, subverting, or 
+9
+impairing decision making or choice to obtain 
+10
+consent; and 
+11
+(C) cannot be inferred from inaction. 
+12
+(2) COLLECT.—The term ‘‘collect’’, with re-
+13
+spect to emergency health data, means obtaining in 
+14
+any manner by a covered organization. 
+15
+(3) COMMISSION.—The term ‘‘Commission’’ 
+16
+means the Federal Trade Commission. 
+17
+(4) COVERED ORGANIZATION.— 
+18
+(A) IN GENERAL.—The term ‘‘covered or-
+19
+ganization’’ means any person (including a gov-
+20
+ernment entity)— 
+21
+(i) that collects, uses, or discloses 
+22
+emergency health data electronically or 
+23
+through communication by wire or radio; 
+24
+or 
+25
+04:15 Mar 19, 2021
+H651
+3 
+•HR 651 IH
+(ii) that develops or operates a 
+1
+website, web application, mobile applica-
+2
+tion, mobile operating system feature, or 
+3
+smart device application for the purpose of 
+4
+tracking, screening, monitoring, contact 
+5
+tracing, or mitigation, or otherwise re-
+6
+sponding to the COVID–19 public health 
+7
+emergency. 
+8
+(B) EXCLUSIONS.—The term ‘‘covered or-
+9
+ganization’’ does not include— 
+10
+(i) a health care provider; 
+11
+(ii) a person engaged in a de minimis 
+12
+collection or processing of emergency 
+13
+health data; 
+14
+(iii) a service provider; 
+15
+(iv) a person acting in their individual 
+16
+or household capacity; or 
+17
+(v) a public health authority. 
+18
+(5) DEMOGRAPHIC
+DATA.—The term ‘‘demo-
+19
+graphic data’’ means information relating to the ac-
+20
+tual or perceived race, color, ethnicity, national ori-
+21
+gin, religion, sex, gender, gender identity, sexual ori-
+22
+entation, age, Tribal affiliation, disability, domicile, 
+23
+employment status, familial status, immigration sta-
+24
+04:15 Mar 19, 2021
+H651
+4 
+•HR 651 IH
+tus, or veteran status of an individual or group of 
+1
+individuals. 
+2
+(6) DEVICE.—The term ‘‘device’’ means any 
+3
+electronic equipment that is primarily designed for 
+4
+or marketed to consumers. 
+5
+(7) DISCLOSURE.—The term ‘‘disclosure’’, with 
+6
+respect to emergency health data, means the releas-
+7
+ing, transferring, selling, providing access to, licens-
+8
+ing, or divulging in any manner by a covered organi-
+9
+zation to a third party. 
+10
+(8) EMERGENCY
+HEALTH
+DATA.—The term 
+11
+‘‘emergency health data’’ means data linked or rea-
+12
+sonably linkable to an individual or device, including 
+13
+data inferred or derived about the individual or de-
+14
+vice from other collected data provided such data is 
+15
+still linked or reasonably linkable to the individual or 
+16
+device, that concerns the public COVID–19 health 
+17
+emergency. Such data includes— 
+18
+(A) information that reveals the past, 
+19
+present, or future physical or behavioral health 
+20
+or condition of, or provision of healthcare to, an 
+21
+individual, including— 
+22
+(i) data derived from the testing or 
+23
+examination of a body part or bodily sub-
+24
+stance, or a request for such testing; 
+25
+04:15 Mar 19, 2021
+H651
+5 
+•HR 651 IH
+(ii) whether or not an individual has 
+1
+contracted or been tested for, or an esti-
+2
+mate of the likelihood that a particular in-
+3
+dividual may contract, such disease or dis-
+4
+order; and 
+5
+(iii) genetic data, biological samples, 
+6
+and biometrics; and 
+7
+(B) other data collected in conjunction 
+8
+with other emergency health data or for the 
+9
+purpose of tracking, screening, monitoring, con-
+10
+tact tracing, or mitigation, or otherwise re-
+11
+sponding to the COVID–19 public health emer-
+12
+gency, including— 
+13
+(i) geolocation data, when such term 
+14
+means data capable of determining the 
+15
+past or present precise physical location of 
+16
+an individual at a specific point in time, 
+17
+taking account of population densities, in-
+18
+cluding cell-site location information, tri-
+19
+angulation data derived from nearby wire-
+20
+less or radio frequency networks, and glob-
+21
+al positioning system data; 
+22
+(ii) proximity data, when such term 
+23
+means information that identifies or esti-
+24
+mates the past or present physical prox-
+25
+04:15 Mar 19, 2021
+H651
+6 
+•HR 651 IH
+imity of one individual or device to an-
+1
+other, including information derived from 
+2
+Bluetooth, audio signatures, nearby wire-
+3
+less networks, and near-field communica-
+4
+tions; 
+5
+(iii) demographic data; 
+6
+(iv) contact information for identifi-
+7
+able individuals or a history of the individ-
+8
+ual’s contacts over a period of time, such 
+9
+as an address book or call log; and 
+10
+(v) any other data collected from a 
+11
+personal device. 
+12
+(9) GOVERNMENT ENTITY.—The term ‘‘govern-
+13
+ment entity’’ includes a Federal agency, a State, a 
+14
+local government, and other organizations, as such 
+15
+terms are defined in section 3371 of title 5, United 
+16
+States Code. 
+17
+(10) HEALTH
+CARE
+PROVIDER.—The term 
+18
+‘‘health care provider’’ has the meaning given the 
+19
+term ‘‘eligible health care provider’’ in title VIII of 
+20
+division B the CARES Act (Public Law 116–136). 
+21
+(11) 
+HIPAA 
+REGULATIONS.—The 
+term 
+22
+‘‘HIPAA regulations’’ means parts 160 and 164 of 
+23
+title 45, Code of Federal Regulations. 
+24
+04:15 Mar 19, 2021
+H651
+7 
+•HR 651 IH
+(12) PUBLIC HEALTH AUTHORITY.—The term 
+1
+‘‘public health authority’’ means an entity that is 
+2
+authorized by law to collect or receive information 
+3
+for the purpose of preventing or controlling disease, 
+4
+injury, or disability including, but not limited to, the 
+5
+reporting of disease, injury, vital events such as 
+6
+birth or death, and the conduct of public health sur-
+7
+veillance, public health investigations, and public 
+8
+health interventions, and a person, such as a des-
+9
+ignated agency or associate, acting under a grant of 
+10
+authority from, or under a contract with, such public 
+11
+entity, including the employees or agents of such en-
+12
+tity or its contractors or persons or entities to whom 
+13
+it has granted authority. 
+14
+(13) 
+COVID–19 
+PUBLIC
+HEALTH
+EMER-
+15
+GENCY.—The term ‘‘COVID–19 public health emer-
+16
+gency’’ means the outbreak and public health re-
+17
+sponse pertaining to Coronavirus Disease 2019 
+18
+(COVID–19), associated with the emergency de-
+19
+clared by the Secretary on January 31, 2020, under 
+20
+section 319 of the Public Health Service Act (42 
+21
+U.S.C. 247d), and any renewals thereof and any 
+22
+subsequent declarations by the Secretary related to 
+23
+the coronavirus. 
+24
+04:15 Mar 19, 2021
+H651
+8 
+•HR 651 IH
+(14) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+1
+means the Secretary of Health and Human Services. 
+2
+(15) SERVICE PROVIDER.— 
+3
+(A) IN GENERAL.—The term ‘‘service pro-
+4
+vider’’ means a person that collects, uses, or 
+5
+discloses emergency health data for the sole 
+6
+purpose of, and only to the extent that such en-
+7
+tity is, conducting business activities on behalf 
+8
+of, for the benefit of, under instruction of, and 
+9
+under contractual agreement with a covered or-
+10
+ganization. 
+11
+(B) LIMITATION OF APPLICATION.—Such 
+12
+person shall only be considered a service pro-
+13
+vider in the course of activities described in 
+14
+subparagraph (A). 
+15
+(C) EXCLUSIONS.—The term ‘‘service pro-
+16
+vider’’ excludes a person that develops or oper-
+17
+ates a website, web application, mobile applica-
+18
+tion, or smart device application for the purpose 
+19
+of tracking, screening, monitoring, contact trac-
+20
+ing, or mitigation, or otherwise responding to 
+21
+the COVID–19 public health emergency. 
+22
+(16) STATE.—The term ‘‘State’’ means each 
+23
+State of the United States, the District of Columbia, 
+24
+each commonwealth, territory, or possession of the 
+25
+04:15 Mar 19, 2021
+H651
+9 
+•HR 651 IH
+United States, and each federally recognized Indian 
+1
+Tribe. 
+2
+(17) THIRD PARTY.— 
+3
+(A) IN GENERAL.—The term ‘‘third party’’ 
+4
+means, with respect to a covered organization— 
+5
+(i) another person to whom such cov-
+6
+ered 
+organization 
+disclosed 
+emergency 
+7
+health data; and 
+8
+(ii) a corporate affiliate or a related 
+9
+party of the covered organization that does 
+10
+not have a direct relationship with an indi-
+11
+vidual with whom the emergency health 
+12
+data is linked or is reasonably linkable. 
+13
+(B) EXCLUSION.—The term ‘‘third party’’ 
+14
+excludes, with respect to a covered organiza-
+15
+tion— 
+16
+(i) a service provider of such covered 
+17
+organization; or 
+18
+(ii) a public health authority. 
+19
+(18) USE.—The term ‘‘use’’, with respect to 
+20
+emergency health data, means the processing, em-
+21
+ployment, application, utilization, examination, or 
+22
+analysis of such data by a covered organization that 
+23
+maintains such data. 
+24
+04:15 Mar 19, 2021
+H651
+10 
+•HR 651 IH
+SEC. 3. PROTECTING THE PRIVACY AND SECURITY OF 
+1
+EMERGENCY HEALTH DATA. 
+2
+(a) RIGHT TO PRIVACY.—A covered organization that 
+3
+collects emergency health data shall— 
+4
+(1) only collect, use, or disclose such data that 
+5
+is necessary, proportionate, and limited for a good 
+6
+faith public health purpose, including a service or 
+7
+feature to support such a purpose; 
+8
+(2) take reasonable measures, where possible, to 
+9
+ensure the accuracy of emergency health data and 
+10
+provide an effective mechanism for an individual to 
+11
+correct inaccurate information; 
+12
+(3) adopt reasonable safeguards to prevent un-
+13
+lawful discrimination on the basis of emergency 
+14
+health data; and 
+15
+(4) only disclose such data to a government en-
+16
+tity when the disclosure— 
+17
+(A) is to a public health authority; and 
+18
+(B) is made solely for good faith public 
+19
+health purposes and in direct response to exi-
+20
+gent circumstances. 
+21
+(b) RIGHT TO SECURITY.—A covered organization or 
+22
+service provider that collects, uses, or discloses emergency 
+23
+health data shall establish and implement reasonable data 
+24
+security policies, practices, and procedures to protect the 
+25
+security and confidentiality of emergency health data. 
+26
+04:15 Mar 19, 2021
+H651
+11 
+•HR 651 IH
+(c) PROHIBITED USES.—A covered organization shall 
+1
+not collect, use, or disclose emergency health data for any 
+2
+purpose not authorized under this section, including— 
+3
+(1) commercial advertising, recommendation for 
+4
+e-commerce, or the training of machine-learning al-
+5
+gorithms related to, or subsequently for use in, com-
+6
+mercial advertising and e-commerce; 
+7
+(2) soliciting, offering, selling, leasing, licensing, 
+8
+renting, advertising, marketing, or otherwise com-
+9
+mercially contracting for employment, finance, cred-
+10
+it, insurance, housing, or education opportunities in 
+11
+a manner that discriminates or otherwise makes op-
+12
+portunities unavailable on the basis of emergency 
+13
+health data; and 
+14
+(3) segregating, discriminating in, or otherwise 
+15
+making unavailable the goods, services, facilities, 
+16
+privileges, advantages, or accommodations of any 
+17
+place of public accommodation (as such term is de-
+18
+fined in section 301 of the Americans With Disabil-
+19
+ities Act of 1990 (42 U.S.C. 12181)), except as au-
+20
+thorized by a State or Federal Government entity 
+21
+for a public health purpose notwithstanding sub-
+22
+section (g). 
+23
+(d) CONSENT.— 
+24
+04:15 Mar 19, 2021
+H651
+12 
+•HR 651 IH
+(1) IN GENERAL.—It shall be unlawful for a 
+1
+covered organization to collect, use, or disclose emer-
+2
+gency health data, unless— 
+3
+(A) the individual to whom the data per-
+4
+tains has given affirmative express consent to 
+5
+such collection, use, or disclosure; 
+6
+(B) such collection, use, or disclosure is 
+7
+necessary and for the sole purpose of— 
+8
+(i) protecting against malicious, de-
+9
+ceptive, fraudulent, or illegal activity; or 
+10
+(ii) detecting, responding to, or pre-
+11
+venting information security incidents or 
+12
+threats; or 
+13
+(C) the covered organization is compelled 
+14
+to do so by a legal obligation. 
+15
+(2) REVOCATION.— 
+16
+(A) IN GENERAL.—A covered organization 
+17
+shall provide an effective mechanism for an in-
+18
+dividual to revoke consent after it is given. 
+19
+(B) EFFECT.—After an individual revokes 
+20
+consent, the covered organization shall cease 
+21
+collecting, using, or disclosing the individual’s 
+22
+emergency health data as soon as practicable, 
+23
+but in no case later than 15 days after the re-
+24
+ceipt of the individual’s revocation of consent. 
+25
+04:15 Mar 19, 2021
+H651
+13 
+•HR 651 IH
+(C) DESTRUCTION.—Not later than 30 
+1
+days after the receipt of an individual’s revoca-
+2
+tion of consent, a covered organization shall de-
+3
+stroy or render not linkable that individual’s 
+4
+emergency health data under the same proce-
+5
+dures in subsection (f). 
+6
+(e) NOTICE.—A covered organization that collects, 
+7
+uses, or discloses emergency health data shall provide to 
+8
+an individual a privacy policy that— 
+9
+(1) is disclosed in a clear and conspicuous man-
+10
+ner, in the language in which the individual typically 
+11
+interacts with the covered organization, prior to or 
+12
+at the point of the collection of emergency health 
+13
+data; 
+14
+(2) describes how and for what purposes the 
+15
+covered organization collects, uses, and discloses 
+16
+emergency health data, including the categories of 
+17
+recipients to whom it discloses data and the purpose 
+18
+of disclosure for each category; 
+19
+(3) describes the covered organization’s data re-
+20
+tention and data security policies and practices for 
+21
+emergency health data; and 
+22
+(4) describes how an individual may exercise 
+23
+the rights under this Act and how to contact the 
+24
+Commission to file a complaint. 
+25
+04:15 Mar 19, 2021
+H651
+14 
+•HR 651 IH
+(f) PUBLIC REPORTING.— 
+1
+(1) IN GENERAL.—A covered organization that 
+2
+collects, uses, or discloses emergency health data of 
+3
+at least 100,000 individuals shall, at least once every 
+4
+90 days, issue a public report— 
+5
+(A) stating in aggregate terms the number 
+6
+of individuals whose emergency health data the 
+7
+covered organization collected, used, or dis-
+8
+closed to the extent practicable; and 
+9
+(B) describing the categories of emergency 
+10
+health data collected, used, or disclosed, the 
+11
+purposes for which each such category of emer-
+12
+gency health data was collected, used, or dis-
+13
+closed, and the categories of third parties to 
+14
+whom it was disclosed. 
+15
+(2) RULES
+OF
+CONSTRUCTION.—Nothing in 
+16
+this subsection shall be construed to require a cov-
+17
+ered organization to— 
+18
+(A) take an action that would convert data 
+19
+that is not emergency health data into emer-
+20
+gency health data; 
+21
+(B) collect or maintain emergency health 
+22
+data that the covered organization would other-
+23
+wise not maintain; or 
+24
+04:15 Mar 19, 2021
+H651
+15 
+•HR 651 IH
+(C) maintain emergency health data longer 
+1
+than the covered organization would otherwise 
+2
+maintain such data. 
+3
+(g) REQUIRED DATA DESTRUCTION.— 
+4
+(1) IN GENERAL.—A covered organization may 
+5
+not use or maintain emergency health data of an in-
+6
+dividual after the later of— 
+7
+(A) the date that is 60 days after the ter-
+8
+mination of the public health emergency de-
+9
+clared by the Secretary on January 31, 2020, 
+10
+pertaining 
+to 
+Coronavirus 
+Disease 
+2019 
+11
+(COVID–19) under section 319 of Public 
+12
+Health Service Act (42 U.S.C. 247d) and any 
+13
+renewals thereof; 
+14
+(B) the date that is 60 days after the ter-
+15
+mination of a public health emergency declared 
+16
+by a governor or chief executive of a State per-
+17
+taining to Coronavirus Disease 2019 (COVID– 
+18
+19) in which the individual resides; or 
+19
+(C) 60 days after collection. 
+20
+(2) 
+REQUIREMENT.—For 
+the 
+requirements 
+21
+under paragraph (1), data shall be destroyed or ren-
+22
+dered not linkable in such a manner that it is impos-
+23
+sible or demonstrably impracticable to identify any 
+24
+individual from the data. 
+25
+04:15 Mar 19, 2021
+H651
+16 
+•HR 651 IH
+(3) RELATION TO CERTAIN REQUIREMENTS.— 
+1
+The provisions of this subsection shall not supersede 
+2
+any requirements or authorizations under— 
+3
+(A) the Privacy Act of 1974 (Public Law 
+4
+93–79); 
+5
+(B) the HIPAA regulations; or 
+6
+(C) Federal or State medical records reten-
+7
+tion and health privacy laws or regulations, or 
+8
+other applicable Federal or State laws. 
+9
+(h) EMERGENCY DATA COLLECTED, USED, OR DIS-
+10
+CLOSED BEFORE ENACTMENT.— 
+11
+(1) INITIATING
+A
+RULEMAKING.—Not later 
+12
+than 7 days after the date of enactment of this Act, 
+13
+the Commission shall initiate a public rulemaking to 
+14
+promulgate regulations to ensure a covered organiza-
+15
+tion that has collected, used, or disclosed emergency 
+16
+health data before the date of enactment of this Act 
+17
+is in compliance with this Act, to the degree prac-
+18
+ticable. 
+19
+(2) COMPLETING A RULEMAKING.—The Com-
+20
+mission shall complete the rulemaking within 45 
+21
+days after the date of enactment of this Act. 
+22
+(i) NON-APPLICATION TO MANUAL CONTACT TRAC-
+23
+ING AND CASE INVESTIGATION.—Nothing in this Act shall 
+24
+be construed to limit or prohibit a public health authority 
+25
+04:15 Mar 19, 2021
+H651
+17 
+•HR 651 IH
+from administering programs or activities to identify indi-
+1
+viduals who have contracted, or may have been exposed 
+2
+to, COVID–19 through interviews, outreach, case inves-
+3
+tigation, and other recognized investigatory measures by 
+4
+a public health authority or their designated agent in-
+5
+tended to monitor and mitigate the transmission of a dis-
+6
+ease or disorder. 
+7
+(j) RESEARCH
+AND DEVELOPMENT.—This section 
+8
+shall not be construed to prohibit— 
+9
+(1) public health or scientific research associ-
+10
+ated with the COVID–19 public health emergency 
+11
+by— 
+12
+(A) a public health authority; 
+13
+(B) a nonprofit organization, as described 
+14
+in section 501(c)(3) of the Internal Revenue 
+15
+Code of 1986; or 
+16
+(C) an institution of higher education, as 
+17
+such term is defined in section 101 of the High-
+18
+er Education Act of 1965 (20 U.S.C. 1001); or 
+19
+(2) research, development, manufacture, or dis-
+20
+tribution of a drug, biological product, or vaccine 
+21
+that relates to a disease or disorder that is associ-
+22
+ated or potentially associated with a public health 
+23
+emergency. 
+24
+04:15 Mar 19, 2021
+H651
+18 
+•HR 651 IH
+(k) LEGAL REQUIREMENTS.—Notwithstanding sub-
+1
+section (a)(5), nothing in this Act shall be construed to 
+2
+prohibit a good faith response to, or compliance with, oth-
+3
+erwise valid subpoenas, court orders, or other legal proc-
+4
+esses, or to prohibit storage or providing information as 
+5
+otherwise required by law. 
+6
+(l) APPLICATION TO HIPAA COVERED ENTITIES.— 
+7
+(1) IN GENERAL.—This Act does not apply to 
+8
+a ‘‘covered entity’’ or a person acting as a ‘‘business 
+9
+associate’’ under the HIPAA regulations (to the ex-
+10
+tent that such entities or associates are acting in 
+11
+such capacity) or any health care provider. 
+12
+(2) GUIDANCE FOR CONSISTENCY.—Not later 
+13
+than 30 days after the date of enactment of this 
+14
+Act, the Secretary shall promulgate guidance on the 
+15
+applicability of requirements, similar to those in this 
+16
+section to ‘‘covered entities’’ and persons acting as 
+17
+‘‘business associates’’ under the HIPAA regulations. 
+18
+In promulgating such guidance, the Secretary shall 
+19
+reduce duplication of requirements and may exclude 
+20
+a requirement of this section if such requirement is 
+21
+already a requirement of the HIPAA regulations. 
+22
+SEC. 4. PROTECTING THE RIGHT TO VOTE. 
+23
+(a) IN GENERAL.—A government entity may not, and 
+24
+a covered organization may not knowingly facilitate, on 
+25
+04:15 Mar 19, 2021
+H651
+19 
+•HR 651 IH
+the basis of an individual’s emergency health data, medical 
+1
+condition, or participation or non-participation in a pro-
+2
+gram to collect emergency health data— 
+3
+(1) deny, restrict, or interfere with the right to 
+4
+vote in a Federal, State, or local election; 
+5
+(2) attempt to deny, restrict, or interfere with 
+6
+the right to vote in a Federal, State, or local elec-
+7
+tion; or 
+8
+(3) retaliate against an individual for voting in 
+9
+a Federal, State, or local election. 
+10
+(b) CIVIL ACTION.—In the case of any violation of 
+11
+subsection (a), an individual may bring a civil action to 
+12
+obtain appropriate relief against a government entity in 
+13
+a Federal district court. 
+14
+SEC. 5. REPORTS ON CIVIL RIGHTS IMPACTS. 
+15
+(a) REPORT REQUIRED.—The Secretary, in consulta-
+16
+tion with the United States Commission on Civil Rights 
+17
+and the Commission, shall prepare and submit to Con-
+18
+gress reports that examines the civil rights impact of the 
+19
+collection, use, and disclosure of health information in re-
+20
+sponse to the COVID–19 public health emergency. 
+21
+(b) SCOPE OF REPORT.—Each report required under 
+22
+subsection (a) shall, at a minimum— 
+23
+(1) evaluate the impact of such practices on 
+24
+civil rights and protections for individuals based on 
+25
+04:15 Mar 19, 2021
+H651
+20 
+•HR 651 IH
+race, color, ethnicity, national origin, religion, sex, 
+1
+gender, gender identity, sexual orientation, age, 
+2
+Tribal affiliation, disability, domicile, employment 
+3
+status, familial status, immigration status, or vet-
+4
+eran status; 
+5
+(2) analyze the impact, risks, costs, legal con-
+6
+siderations, disparate impacts, and other implica-
+7
+tions to civil rights of policies to incentivize or re-
+8
+quire the adoption of digital tools or apps used for 
+9
+contact tracing, exposure notification, or health 
+10
+monitoring; and 
+11
+(3) include recommendations on preventing and 
+12
+addressing undue or disparate impact, segregation, 
+13
+discrimination, or infringements of civil rights in the 
+14
+collection and use of health information, including 
+15
+during a national health emergency. 
+16
+(c) TIMING.— 
+17
+(1) INITIAL REPORT.—The Secretary shall sub-
+18
+mit an initial report under subsection (a) not sooner 
+19
+than 9 months, and not later than 12 months after 
+20
+the date of enactment of this Act. 
+21
+(2) SUBSEQUENT
+REPORTS.—The Secretary 
+22
+shall submit reports annually after the initial report 
+23
+required under paragraph (1) until 1 year after the 
+24
+termination of any public health emergency per-
+25
+04:15 Mar 19, 2021
+H651
+21 
+•HR 651 IH
+taining to Coronavirus Disease 2019 (COVID–19) 
+1
+under section 319 of Public Health Service Act (42 
+2
+U.S.C. 247d). 
+3
+SEC. 6. ENFORCEMENT. 
+4
+(a) FEDERAL TRADE COMMISSION.— 
+5
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+6
+TICES.—A violation of this Act or a regulation pro-
+7
+mulgated under this Act shall be treated as a viola-
+8
+tion of a rule defining an unfair or deceptive act or 
+9
+practice under section 18(a)(1)(B) of the Federal 
+10
+Trade Commission Act (15 U.S.C. 57a(a)(1)(B)) re-
+11
+garding unfair or deceptive acts or practices. 
+12
+(2) POWERS
+OF
+COMMISSION.—The Commis-
+13
+sion shall enforce this Act and the regulations pro-
+14
+mulgated under this Act in the same manner, by the 
+15
+same means, and with the same jurisdiction, powers, 
+16
+and duties as though all applicable terms and provi-
+17
+sions of the Federal Trade Commission Act (15 
+18
+U.S.C. 41 et seq.) were incorporated into and made 
+19
+a part of this Act. Any person who violates this Act 
+20
+or a regulation promulgated under this Act shall be 
+21
+subject to the penalties and entitled to the privileges 
+22
+and immunities provided in the Federal Trade Com-
+23
+mission Act. Provided, however, that, notwith-
+24
+standing the requirements of section 16(a) of the 
+25
+04:15 Mar 19, 2021
+H651
+22 
+•HR 651 IH
+Federal Trade Commission Act (15 U.S.C. 56(a)), 
+1
+the Commission shall have the exclusive authority to 
+2
+commence or defend, and supervise the litigation of, 
+3
+any action for a violation of this Act or a regulation 
+4
+promulgated under this Act and any appeal of such 
+5
+action in its own name by any of its attorneys des-
+6
+ignated by it for such purpose, without first refer-
+7
+ring the matter to the Attorney General. 
+8
+(3) RULEMAKING AUTHORITY.— 
+9
+(A) IN GENERAL.—The Commission shall 
+10
+have authority under section 553 of title 5, 
+11
+United States Code, to promulgate any regula-
+12
+tions necessary to implement this Act. 
+13
+(B) CONSULTATION.—In promulgating any 
+14
+regulations under this Act, the Commission 
+15
+shall consult with the Secretary. 
+16
+(4) COMMON CARRIERS AND NONPROFIT ORGA-
+17
+NIZATIONS.—Notwithstanding section 4, 5(a)(2), or 
+18
+6 of the Federal Trade Commission Act (15 U.S.C. 
+19
+44; 45(a)(2); 46) or any jurisdictional limitation of 
+20
+the Commission, the Commission shall also enforce 
+21
+this Act, in the same manner provided in paragraphs 
+22
+(1) and (2) of this paragraph, with respect to— 
+23
+(A) common carriers subject to the Acts to 
+24
+regulate commerce, air carriers, and foreign air 
+25
+04:15 Mar 19, 2021
+H651
+23 
+•HR 651 IH
+carriers subject to part A of subtitle VII of title 
+1
+49, and persons, partnerships, or corporations 
+2
+insofar as they are subject to the Packers and 
+3
+Stockyards Act, 1921 (7 U.S.C. 181 et seq.), 
+4
+except as provided in section 406(b) of such Act 
+5
+(7 U.S.C. 227(b)); and 
+6
+(B) organizations not organized to carry 
+7
+on business for their own profit or that of their 
+8
+members. 
+9
+(b) ENFORCEMENT BY STATES.— 
+10
+(1) IN GENERAL.—In any case in which the at-
+11
+torney general of a State has reason to believe that 
+12
+an interest of the residents of the State has been or 
+13
+is threatened or adversely affected by the engage-
+14
+ment of any person subject to this Act in a practice 
+15
+that violates such subsection, the attorney general of 
+16
+the State may, as parens patriae, bring a civil action 
+17
+on behalf of the residents of the State in an appro-
+18
+priate district court of the United States to obtain 
+19
+appropriate relief. 
+20
+(2) RIGHTS OF THE FEDERAL TRADE COMMIS-
+21
+SION.— 
+22
+(A) NOTICE TO FEDERAL TRADE COMMIS-
+23
+SION.— 
+24
+04:15 Mar 19, 2021
+H651
+24 
+•HR 651 IH
+(i) IN GENERAL.—Except as provided 
+1
+in clause (iii), the attorney general of a 
+2
+State shall notify the Commission in writ-
+3
+ing that the attorney general intends to 
+4
+bring a civil action under paragraph (1) 
+5
+before initiating the civil action against a 
+6
+person subject to this Act. 
+7
+(ii) CONTENTS.—The notification re-
+8
+quired by clause (i) with respect to a civil 
+9
+action shall include a copy of the complaint 
+10
+to be filed to initiate the civil action. 
+11
+(iii) EXCEPTION.—If it is not feasible 
+12
+for the attorney general of a State to pro-
+13
+vide the notification required by clause (i) 
+14
+before initiating a civil action under para-
+15
+graph (1), the attorney general shall notify 
+16
+the Commission immediately upon insti-
+17
+tuting the civil action. 
+18
+(B) INTERVENTION
+BY
+THE
+FEDERAL 
+19
+TRADE COMMISSION.—The Commission may— 
+20
+(i) intervene in any civil action 
+21
+brought by the attorney general of a State 
+22
+under paragraph (1); and 
+23
+(ii) upon intervening— 
+24
+04:15 Mar 19, 2021
+H651
+25 
+•HR 651 IH
+(I) be heard on all matters aris-
+1
+ing in the civil action; and 
+2
+(II) file petitions for appeal of a 
+3
+decision in the civil action. 
+4
+(C) INVESTIGATORY POWERS.—Nothing in 
+5
+this subsection may be construed to prevent the 
+6
+attorney general of a State from exercising the 
+7
+powers conferred on the attorney general by the 
+8
+laws of the State to conduct investigations, to 
+9
+administer oaths or affirmations, or to compel 
+10
+the attendance of witnesses or the production of 
+11
+documentary or other evidence. 
+12
+(3) ACTION BY THE FEDERAL TRADE COMMIS-
+13
+SION.—If the Commission institutes a civil action 
+14
+with respect to a violation of this Act, the attorney 
+15
+general of a State may not, during the pendency of 
+16
+such action, bring a civil action under paragraph (1) 
+17
+of this subsection against any defendant named in 
+18
+the complaint of the Commission for the violation 
+19
+with respect to which the Commission instituted 
+20
+such action. 
+21
+(4) VENUE; SERVICE OF PROCESS.— 
+22
+(A) VENUE.—Any action brought under 
+23
+paragraph (1) may be brought in— 
+24
+04:15 Mar 19, 2021
+H651
+26 
+•HR 651 IH
+(i) the district court of the United 
+1
+States that meets applicable requirements 
+2
+relating to venue under section 1391 of 
+3
+title 28, United States Code; or 
+4
+(ii) another court of competent juris-
+5
+diction. 
+6
+(B) SERVICE OF PROCESS.—In an action 
+7
+brought under paragraph (1), process may be 
+8
+served in any district in which the defendant— 
+9
+(i) is an inhabitant; or 
+10
+(ii) may be found. 
+11
+(C) ACTIONS
+BY
+OTHER
+STATE
+OFFI-
+12
+CIALS.— 
+13
+(i) IN GENERAL.—In addition to civil 
+14
+actions brought by attorneys general under 
+15
+paragraph (1), any other officer of a State 
+16
+who is authorized by the State to do so 
+17
+may bring a civil action under paragraph 
+18
+(1), subject to the same requirements and 
+19
+limitations that apply under this sub-
+20
+section to civil actions brought by attor-
+21
+neys general. 
+22
+(ii) SAVINGS PROVISION.—Nothing in 
+23
+this subsection may be construed to pro-
+24
+hibit an authorized official of a State from 
+25
+04:15 Mar 19, 2021
+H651
+27 
+•HR 651 IH
+initiating or continuing any proceeding in 
+1
+a court of the State for a violation of any 
+2
+civil or criminal law of the State. 
+3
+(c) PRIVATE RIGHT OF ACTION.— 
+4
+(1) ENFORCEMENT BY INDIVIDUALS.— 
+5
+(A) IN GENERAL.—Any individual alleging 
+6
+a violation of this Act may bring a civil action 
+7
+in any court of competent jurisdiction, State or 
+8
+Federal. 
+9
+(B) RELIEF.—In a civil action brought 
+10
+under paragraph (1) in which the plaintiff pre-
+11
+vails, the court may award— 
+12
+(i) an amount not less than $100 and 
+13
+not greater than $1,000 per violation 
+14
+against any person who negligently violates 
+15
+a provision of this Act; 
+16
+(ii) an amount not less than $500 and 
+17
+not greater than $5,000 per violation 
+18
+against any person who recklessly, will-
+19
+fully, or intentionally violates a provision of 
+20
+this Act; 
+21
+(iii) reasonable attorney’s fees and 
+22
+litigation costs; and 
+23
+04:15 Mar 19, 2021
+H651
+28 
+•HR 651 IH
+(iv) any other relief, including equi-
+1
+table or declaratory relief, that the court 
+2
+determines appropriate. 
+3
+(C) INJURY IN FACT.—A violation of this 
+4
+Act with respect to the emergency health data 
+5
+of an individual constitutes a concrete and par-
+6
+ticularized injury in fact to that individual. 
+7
+(2) INVALIDITY OF PRE-DISPUTE ARBITRATION 
+8
+AGREEMENTS
+AND
+PRE-DISPUTE
+JOINT
+ACTION 
+9
+WAIVERS.— 
+10
+(A) IN
+GENERAL.—Notwithstanding any 
+11
+other provision of law, no pre-dispute arbitra-
+12
+tion agreement or pre-dispute joint action waiv-
+13
+er shall be valid or enforceable with respect to 
+14
+a dispute arising under this Act. 
+15
+(B) APPLICABILITY.—Any determination 
+16
+as to whether or how this subsection applies to 
+17
+any dispute shall be made by a court, rather 
+18
+than an arbitrator, without regard to whether 
+19
+such agreement purports to delegate such deter-
+20
+mination to an arbitrator. 
+21
+(C) DEFINITIONS.—In this subsection: 
+22
+(i) The term ‘‘pre-dispute arbitration 
+23
+agreement’’ means any agreement to arbi-
+24
+04:15 Mar 19, 2021
+H651
+29 
+•HR 651 IH
+trate a dispute that has not arisen at the 
+1
+time of making the agreement. 
+2
+(ii) The term ‘‘pre-dispute joint-action 
+3
+waiver’’ means an agreement, whether or 
+4
+not part of a pre-dispute arbitration agree-
+5
+ment, that would prohibit, or waive the 
+6
+right of, one of the parties to the agree-
+7
+ment to participate in a joint, class, or col-
+8
+lective action in a judicial, arbitral, admin-
+9
+istration, or other forum, concerning a dis-
+10
+pute that has not yet arisen at the time of 
+11
+making the agreement. 
+12
+(iii) The term ‘‘dispute’’ means any 
+13
+claim related to an alleged violation of this 
+14
+Act and between an individual and a cov-
+15
+ered organization. 
+16
+SEC. 7. NONPREEMPTION. 
+17
+Nothing in this Act shall preempt or supersede, or 
+18
+be interpreted to preempt or supersede, any Federal or 
+19
+State law or regulation, or limit the authority of the Com-
+20
+mission or the Secretary under any other provision of law. 
+21
+SEC. 8. EFFECTIVE DATE. 
+22
+(a) IN GENERAL.—This Act shall apply beginning on 
+23
+the date that is 30 days after the date of enactment of 
+24
+this Act. 
+25
+04:15 Mar 19, 2021
+H651
+30 
+•HR 651 IH
+(b) AUTHORITY TO PROMULGATE REGULATIONS AND 
+1
+TAKE CERTAIN OTHER ACTIONS.—Nothing in subsection 
+2
+(a) affects— 
+3
+(1) the authority of any person to take an ac-
+4
+tion expressly required by a provision of this Act be-
+5
+fore the effective date described in such subsection; 
+6
+or 
+7
+(2) the authority of the Commission to promul-
+8
+gate regulations to implement this Act or begin a 
+9
+rulemaking to promulgate such regulations. 
+10
+Æ 
+04:15 Mar 19, 2021
+H651

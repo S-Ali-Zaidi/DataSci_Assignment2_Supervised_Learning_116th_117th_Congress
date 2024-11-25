@@ -1,0 +1,876 @@
+A BILL 
+To amend the Public Health Service Act to provide for 
+hospital and insurer price transparency. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Health Care Prices 
+4
+Revealed and Information to Consumers Explained Trans-
+5
+parency Act’’ or the ‘‘Health Care PRICE Transparency 
+6
+Act’’. 
+7
+04:27 Jun 22, 2021
+H3029
+2 
+•HR 3029 IH
+SEC. 2. PRICE TRANSPARENCY REQUIREMENTS. 
+1
+(a) HOSPITALS.—Section 2718(e) of the Public 
+2
+Health Service Act (42 U.S.C. 300gg–18(e)) is amend-
+3
+ed— 
+4
+(1) by striking ‘‘Each hospital’’ and inserting 
+5
+the following: 
+6
+‘‘(1) IN GENERAL.—Each hospital’’; 
+7
+(2) by inserting ‘‘, in plain language without 
+8
+subscription and free of charge, in a consumer- 
+9
+friendly, machine-readable format,’’ after ‘‘a list’’; 
+10
+and 
+11
+(3) by adding at the end the following: ‘‘Each 
+12
+hospital shall include in its list of standard charges, 
+13
+along with such additional information as the Sec-
+14
+retary may require with respect to such charges for 
+15
+purposes of promoting public awareness of hospital 
+16
+pricing in advance of receiving a hospital item or 
+17
+service, as applicable, the following: 
+18
+‘‘(A) A description of each item or service 
+19
+provided by the hospital. 
+20
+‘‘(B) The gross charge. 
+21
+‘‘(C) Any payer-specific negotiated charge 
+22
+clearly associated with the name of the third 
+23
+party payer and plan. 
+24
+‘‘(D) The de-identified minimum nego-
+25
+tiated charge. 
+26
+04:27 Jun 22, 2021
+H3029
+3 
+•HR 3029 IH
+‘‘(E) The de-identified maximum nego-
+1
+tiated charge. 
+2
+‘‘(F) The discounted cash price. 
+3
+‘‘(G) Any code used by the hospital for 
+4
+purposes of accounting or billing, including 
+5
+Current Procedural Terminology (CPT) code, 
+6
+the Healthcare Common Procedure Coding Sys-
+7
+tem (HCPCS) code, the Diagnosis Related 
+8
+Group (DRG), the National Drug Code (NDC), 
+9
+or other common payer identifier. 
+10
+‘‘(2) DELIVERY METHODS AND USE.— 
+11
+‘‘(A) IN
+GENERAL.—Each hospital shall 
+12
+make public the standard charges described in 
+13
+paragraph (1) for as many of the 70 Centers 
+14
+for Medicaid & Medicare Services-specified 
+15
+shoppable services that are provided by the hos-
+16
+pital, and as many additional hospital-selected 
+17
+shoppable services as may be necessary for a 
+18
+combined total of at least 300 shoppable serv-
+19
+ices, including the rate at which a hospital pro-
+20
+vides and bills for that shoppable service. If a 
+21
+hospital does not provide 300 shoppable services 
+22
+in accordance with the previous sentence, the 
+23
+hospital shall make public the information spec-
+24
+04:27 Jun 22, 2021
+H3029
+4 
+•HR 3029 IH
+ified under paragraph (1) for as many 
+1
+shoppable services as it provides. 
+2
+‘‘(B) DETERMINATION
+BY
+CMS.—A hos-
+3
+pital shall be deemed by the Centers for Medi-
+4
+care & Medicaid Services to meet the require-
+5
+ments of subparagraph (A) if the hospital main-
+6
+tains an internet-based price estimator tool that 
+7
+meets the following requirements: 
+8
+‘‘(i) The tool provides estimates for as 
+9
+many of the 70 specified shoppable services 
+10
+that are provided by the hospital, and as 
+11
+many 
+additional 
+hospital-selected 
+12
+shoppable services as may be necessary for 
+13
+a combined total of at least 300 shoppable 
+14
+services. 
+15
+‘‘(ii) The tool allows health care con-
+16
+sumers to, at the time they use the tool, 
+17
+obtain an estimate of the amount they will 
+18
+be obligated to pay the hospital for the 
+19
+shoppable service. 
+20
+‘‘(iii) The tool is prominently dis-
+21
+played on the hospital’s website and easily 
+22
+accessible to the public, without subscrip-
+23
+tion, fee, or having to submit personal 
+24
+identifying information (PII), and search-
+25
+04:27 Jun 22, 2021
+H3029
+5 
+•HR 3029 IH
+able by service description, billing code, 
+1
+and payer. 
+2
+‘‘(3) DEFINITIONS.—Notwithstanding any other 
+3
+provision of law, for the purpose of paragraphs (1) 
+4
+and (2): 
+5
+‘‘(A) DE-IDENTIFIED
+MAXIMUM
+NEGO-
+6
+TIATED CHARGE.—The term ‘de-identified max-
+7
+imum negotiated charge’ means the highest 
+8
+charge that a hospital has negotiated with all 
+9
+third party payers for an item or service. 
+10
+‘‘(B) DE-IDENTIFIED
+MINIMUM
+NEGO-
+11
+TIATED CHARGE.—The term ‘de-identified min-
+12
+imum negotiated charge’ means the lowest 
+13
+charge that a hospital has negotiated with all 
+14
+third party payers for an item or service. 
+15
+‘‘(C) 
+DISCOUNTED
+CASH
+PRICE.—The 
+16
+term ‘discounted cash price’ means the charge 
+17
+that applies to an individual who pays cash, or 
+18
+cash equivalent, for a hospital item or service. 
+19
+Hospitals that do not offer self-pay discounts 
+20
+may display the hospital’s undiscounted gross 
+21
+charges as found in the hospital chargemaster. 
+22
+‘‘(D) GROSS
+CHARGE.—The term ‘gross 
+23
+charge’ means the charge for an individual item 
+24
+04:27 Jun 22, 2021
+H3029
+6 
+•HR 3029 IH
+or service that is reflected on a hospital’s 
+1
+chargemaster, absent any discounts. 
+2
+‘‘(E) 
+PAYER-SPECIFIC
+NEGOTIATED 
+3
+CHARGE.—The term ‘payer-specific negotiated 
+4
+charge’ means the charge that a hospital has 
+5
+negotiated with a third party payer for an item 
+6
+or service. 
+7
+‘‘(F) SHOPPABLE
+SERVICE.—The term 
+8
+‘shoppable service’ means a service that can be 
+9
+scheduled by a health care consumer in ad-
+10
+vance. 
+11
+‘‘(G) STANDARD
+CHARGES.—The term 
+12
+‘standard charges’ means the regular rate es-
+13
+tablished by the hospital for an item or service, 
+14
+including both individual items and services and 
+15
+service packages, provided to a specific group of 
+16
+paying patients, including the gross charge, the 
+17
+payer-specific negotiated charge, the discounted 
+18
+cash price, the de-identified minimum nego-
+19
+tiated charge, the de-identified maximum nego-
+20
+tiated charge, and other rates determined by 
+21
+the Secretary. 
+22
+‘‘(H) THIRD
+PARTY
+PAYER.—The term 
+23
+‘third party payer’ means an entity that is, by 
+24
+statute, contract, or agreement, legally respon-
+25
+04:27 Jun 22, 2021
+H3029
+7 
+•HR 3029 IH
+sible for payment of a claim for a health care 
+1
+item or service. 
+2
+‘‘(4) ENFORCEMENT.—In addition to any other 
+3
+enforcement actions or penalties that may apply 
+4
+under subsection (b)(3) or another provision of law, 
+5
+a hospital that fails to provide the information re-
+6
+quired by this subsection and has not completed a 
+7
+corrective action plan to comply with the require-
+8
+ments of such subsection shall be subject to a civil 
+9
+monetary penalty of an amount not to exceed $300 
+10
+per day that the violation is ongoing as determined 
+11
+by the Secretary. Such penalty shall be imposed and 
+12
+collected in the same manner as civil money pen-
+13
+alties under subsection (a) of section 1128A of the 
+14
+Social Security Act are imposed and collected.’’. 
+15
+(b) 
+TRANSPARENCY
+IN
+COVERAGE.—Section 
+16
+1311(e)(3) of the Patient Protection and Affordable Care 
+17
+Act (42 U.S.C. 18031(e)(3)) is amended— 
+18
+(1) in subparagraph (A)— 
+19
+(A) by redesignating clause (ix) as clause 
+20
+(xii); and 
+21
+(B) by inserting after clause (viii), the fol-
+22
+lowing: 
+23
+‘‘(ix) In-network provider rates for 
+24
+covered items and services. 
+25
+04:27 Jun 22, 2021
+H3029
+8 
+•HR 3029 IH
+‘‘(x) Out-of-network allowed amounts 
+1
+and billed charges for covered items and 
+2
+services. 
+3
+‘‘(xi) Negotiated rates and historical 
+4
+net prices for covered prescription drugs.’’; 
+5
+(2) in subparagraph (B)— 
+6
+(A) in the heading, by striking ‘‘USE’’ and 
+7
+inserting ‘‘DELIVERY METHODS AND USE’’; 
+8
+(B) by inserting ‘‘and subparagraph (C)’’ 
+9
+after ‘‘subparagraph (A)’’; 
+10
+(C) by inserting ‘‘, as applicable,’’ after 
+11
+‘‘English proficiency’’; and 
+12
+(D) by inserting after the second sentence, 
+13
+the following: ‘‘The Secretary shall establish 
+14
+standards for the methods and formats for dis-
+15
+closing information to individuals. At a min-
+16
+imum, these standards shall include the fol-
+17
+lowing: 
+18
+‘‘(i) An internet-based self-service tool 
+19
+to provide information to an individual in 
+20
+plain language, without subscription and 
+21
+free of charge, in a machine readable for-
+22
+mat, through a self-service tool on an 
+23
+internet website that provides real-time re-
+24
+sponses based on cost-sharing information 
+25
+04:27 Jun 22, 2021
+H3029
+9 
+•HR 3029 IH
+that is accurate at the time of the request 
+1
+that allows, at a minimum, users to— 
+2
+‘‘(I) search for cost-sharing infor-
+3
+mation for a covered item or service 
+4
+provided by a specific in-network pro-
+5
+vider or by all in-network providers; 
+6
+‘‘(II) search for an out-of-net-
+7
+work allowed amount, percentage of 
+8
+billed charges, or other rate that pro-
+9
+vides a reasonably accurate estimate 
+10
+of the amount an insurer will pay for 
+11
+a covered item or service provided by 
+12
+out-of-network providers; and 
+13
+‘‘(III) refine and reorder search 
+14
+results based on geographic proximity 
+15
+of in-network providers, and the 
+16
+amount of the individual’s cost-shar-
+17
+ing liability for the covered item or 
+18
+service, to the extent the search for 
+19
+cost-sharing information for covered 
+20
+items or services returns multiple re-
+21
+sults. 
+22
+‘‘(ii) In paper form at the request of 
+23
+the individual that includes no fewer than 
+24
+20 providers per request with respect to 
+25
+04:27 Jun 22, 2021
+H3029
+10 
+•HR 3029 IH
+which cost-sharing information for covered 
+1
+items and services is provided, and dis-
+2
+closes the applicable provider per-request 
+3
+limit to the individual, mailed to the indi-
+4
+vidual not later than 2 business days after 
+5
+receiving an individual’s request.’’; 
+6
+(3) in subparagraph (C)— 
+7
+(A) in the first sentence— 
+8
+(i) by striking ‘‘The Exchange’’ and 
+9
+inserting the following: 
+10
+‘‘(i) IN GENERAL.—The Exchange’’; 
+11
+(ii) by inserting ‘‘or out-of-network 
+12
+provider’’ after ‘‘item or service by a par-
+13
+ticipating provider’’; and 
+14
+(iii) by inserting before the period the 
+15
+following: ‘‘the following information: 
+16
+‘‘(i) An estimate of an individual’s 
+17
+cost-sharing liability for a requested cov-
+18
+ered item or service furnished by a pro-
+19
+vider, which shall reflect any cost-sharing 
+20
+reductions the individual would receive. 
+21
+‘‘(ii) A description of the accumulated 
+22
+amounts. 
+23
+04:27 Jun 22, 2021
+H3029
+11 
+•HR 3029 IH
+‘‘(iii) The in-network rate, including 
+1
+negotiated rates and underlying fee sched-
+2
+ule rates. 
+3
+‘‘(iv) 
+The 
+out-of-network 
+allowed 
+4
+amount or any other rate that provides a 
+5
+more accurate estimate of an amount an 
+6
+issuer will pay, including the percent reim-
+7
+bursed by insurers to out-of-network pro-
+8
+viders, for the requested covered item or 
+9
+service furnished by an out-of-network pro-
+10
+vider. 
+11
+‘‘(v) A list of the items and services 
+12
+included in bundled payment arrangements 
+13
+for which cost-sharing information is being 
+14
+disclosed. 
+15
+‘‘(vi) A notification that coverage of a 
+16
+specific item or service is subject to a pre-
+17
+requisite, if applicable. 
+18
+‘‘(vii) A notice that includes the fol-
+19
+lowing information: 
+20
+‘‘(I) A statement that out-of-net-
+21
+work providers may bill individuals for 
+22
+the difference, including the balance 
+23
+billing, between a provider’s billed 
+24
+charges and the sum of the amount 
+25
+04:27 Jun 22, 2021
+H3029
+12 
+•HR 3029 IH
+collected from the insurer in the form 
+1
+of 
+a 
+copayment 
+or 
+coinsurance 
+2
+amount and the cost-sharing informa-
+3
+tion. 
+4
+‘‘(II) A statement that the actual 
+5
+charges for an individual’s covered 
+6
+item or service may be different from 
+7
+an estimate of cost-sharing liability 
+8
+depending on the actual items or serv-
+9
+ices the individual receives at the 
+10
+point of care. 
+11
+‘‘(III) A statement that the esti-
+12
+mate of cost-sharing liability for a 
+13
+covered item or service is not a guar-
+14
+antee that benefits will be provided 
+15
+for that item or service. 
+16
+‘‘(IV) A statement disclosing 
+17
+whether the plan counts copayment 
+18
+assistance and other third-party pay-
+19
+ments in the calculation of the indi-
+20
+vidual’s deductible and out-of-pocket 
+21
+maximum. 
+22
+‘‘(V) For items and services that 
+23
+are recommended preventive services 
+24
+under section 2713 of the Public 
+25
+04:27 Jun 22, 2021
+H3029
+13 
+•HR 3029 IH
+Health Service Act, a statement that 
+1
+an in-network item or service may not 
+2
+be subject to cost-sharing if it is billed 
+3
+as a preventive service in the insurer 
+4
+cannot determine whether the request 
+5
+is for a preventive or non-preventive 
+6
+item or service. 
+7
+‘‘(VI) Any additional informa-
+8
+tion, including other disclaimers, that 
+9
+the insurer determines is appropriate, 
+10
+provided the additional information 
+11
+does not conflict with the information 
+12
+required to be provided by this sub-
+13
+section.’’; 
+14
+(B) by striking the second sentence; and 
+15
+(C) by adding at the end the following: 
+16
+‘‘(ii) DEFINITIONS.—Notwithstanding 
+17
+any other provision of law, for the purpose 
+18
+of this subparagraph and subparagraphs 
+19
+(A) and (B): 
+20
+‘‘(I) ACCUMULATED AMOUNTS.— 
+21
+The 
+term 
+‘accumulated 
+amounts’ 
+22
+means the amount of financial respon-
+23
+sibility an individual has incurred at 
+24
+the time a request for cost-sharing in-
+25
+04:27 Jun 22, 2021
+H3029
+14 
+•HR 3029 IH
+formation is made, with respect to a 
+1
+deductible or out-of-pocket limit, in-
+2
+cluding any expense that counts to-
+3
+ward a deductible or out-of-pocket 
+4
+limit, but exclude any expense that 
+5
+does not count toward a deductible or 
+6
+out-of-pocket limit. To the extent an 
+7
+insurer imposes a cumulative treat-
+8
+ment limitation on a particular cov-
+9
+ered item or service independent of in-
+10
+dividual medical necessity determina-
+11
+tions, the amount that has accrued to-
+12
+ward the limit on the item or service. 
+13
+‘‘(II) HISTORICAL NET PRICE.— 
+14
+The term ‘historical net price’ means 
+15
+the retrospective average amount an 
+16
+insurer paid for a prescription drug, 
+17
+inclusive of any reasonably allocated 
+18
+rebates, discounts, chargebacks, fees, 
+19
+and any additional price concessions 
+20
+received by the insurer with respect to 
+21
+the prescription drug. The allocation 
+22
+shall be determined by dollar value for 
+23
+non-product specific and product-spe-
+24
+cific rebates, discounts, chargebacks, 
+25
+04:27 Jun 22, 2021
+H3029
+15 
+•HR 3029 IH
+fees, and other price concessions to 
+1
+the extent that the total amount of 
+2
+any such price concession is known to 
+3
+the insurer at the time of publication 
+4
+of the historical net price. 
+5
+‘‘(III) NEGOTIATED RATE.—The 
+6
+term ‘negotiated rate’ means the 
+7
+amount a plan or issuer has contrac-
+8
+tually agreed to pay for a covered 
+9
+item or service, whether directly or in-
+10
+directly through a third party admin-
+11
+istrator or pharmacy benefit manager, 
+12
+to an in-network provider, including 
+13
+an in-network pharmacy or other pre-
+14
+scription drug dispenser, for covered 
+15
+items or services. 
+16
+‘‘(IV) 
+OUT-OF-NETWORK
+AL-
+17
+LOWED AMOUNT.—The term ‘out-of- 
+18
+network allowed amount’ means the 
+19
+maximum amount an insurer will pay 
+20
+for a covered item or service furnished 
+21
+by an out-of-network provider. 
+22
+‘‘(V) OUT-OF-NETWORK LIMIT.— 
+23
+The term ‘out-of-network limit’ means 
+24
+the maximum amount that an indi-
+25
+04:27 Jun 22, 2021
+H3029
+16 
+•HR 3029 IH
+vidual is required to pay during a cov-
+1
+erage period for his or her share of 
+2
+the costs of covered items and services 
+3
+under his or her plan or coverage, in-
+4
+cluding for self-only and other than 
+5
+self-only coverage, as applicable. 
+6
+‘‘(VI) UNDERLYING FEE SCHED-
+7
+ULE
+RATES.—The term ‘underlying 
+8
+fee schedule rates’ means the rate for 
+9
+an item or service that a plan or 
+10
+issuer uses to determine a partici-
+11
+pant’s, 
+beneficiary’s, 
+or 
+enrollee’s 
+12
+cost-sharing liability from a particular 
+13
+provider or providers, when the rate is 
+14
+different from the negotiated rate.’’; 
+15
+(4) in subparagraph (D), by striking ‘‘subpara-
+16
+graph (A)’’ and inserting ‘‘subparagraphs (A), (B), 
+17
+and (C)’’; and 
+18
+(5) by adding at the end the following: 
+19
+‘‘(F) APPLICATION
+OF
+PARAGRAPH.—In 
+20
+addition to qualified health plans (and plans 
+21
+seeking certification as qualified health plans), 
+22
+this paragraph (as amended by the Health Care 
+23
+Prices Revealed and Information to Consumers 
+24
+Explained Transparency Act) shall apply to 
+25
+04:27 Jun 22, 2021
+H3029
+17 
+•HR 3029 IH
+group health plans (including self-insured and 
+1
+fully insured plans) and health insurance cov-
+2
+erage (as such terms are defined in section 
+3
+2791 of the Public Health Service Act).’’. 
+4
+Æ 
+04:27 Jun 22, 2021
+H3029

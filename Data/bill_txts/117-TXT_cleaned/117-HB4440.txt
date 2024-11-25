@@ -1,0 +1,788 @@
+A BILL 
+To require the Administrator of the Environmental Protec-
+tion Agency to establish a rebate program to promote 
+the purchase and installation of electric vehicle supply 
+equipment for medium- and heavy-duty vehicles, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Medium- and Heavy- 
+4
+Duty Electric Vehicle Infrastructure Act of 2021’’. 
+5
+15:38 Jul 22, 2021
+H4440
+2 
+•HR 4440 IH
+SEC. 2. FLEET CHARGING REBATE PROGRAM. 
+1
+(a) DEFINITIONS.—In this section: 
+2
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+3
+trator’’ means the Administrator of the Environ-
+4
+mental Protection Agency. 
+5
+(2) CHARGING EQUIPMENT CEILING AMOUNT.— 
+6
+The term ‘‘charging equipment ceiling amount’’ 
+7
+means, with respect to eligible equipment that is— 
+8
+(A) networked level 2 charging equipment, 
+9
+$4,000; and 
+10
+(B) networked direct current fast charging 
+11
+equipment, $100,000. 
+12
+(3) COVERED
+EXPENSE.—The term ‘‘covered 
+13
+expense’’ means an expense that is associated with 
+14
+the purchase and installation of eligible electric vehi-
+15
+cle supply equipment for a medium-duty electric ve-
+16
+hicle or heavy-duty electric vehicle, including— 
+17
+(A) the cost of electric vehicle supply 
+18
+equipment hardware; 
+19
+(B) labor costs associated with the installa-
+20
+tion of that hardware, if wages for that labor 
+21
+are paid at rates not less than those prevailing 
+22
+on labor of a character similar in the locality of 
+23
+installation, as determined by the Secretary of 
+24
+Labor in accordance with subchapter IV of 
+25
+chapter 31 of part A of subtitle II of title 40, 
+26
+15:38 Jul 22, 2021
+H4440
+3 
+•HR 4440 IH
+United States Code (commonly referred to as 
+1
+the ‘‘Davis-Bacon Act’’); 
+2
+(C) material costs associated with the in-
+3
+stallation of that hardware, including expenses 
+4
+involving electrical equipment and necessary up-
+5
+grades or modifications to the electric grid and 
+6
+associated infrastructure that are required for 
+7
+the installation of that hardware; and 
+8
+(D) permit costs associated with the instal-
+9
+lation of that hardware. 
+10
+(4) ELIGIBLE
+ELECTRIC
+VEHICLE
+SUPPLY 
+11
+EQUIPMENT.—The term ‘‘eligible electric vehicle 
+12
+supply equipment’’ means a charger that— 
+13
+(A) is connected to the electric grid; and 
+14
+(B) supplies electricity to— 
+15
+(i) a medium-duty electric vehicle; or 
+16
+(ii) a heavy-duty electric vehicle. 
+17
+(5) ELIGIBLE EQUIPMENT.—The term ‘‘eligible 
+18
+equipment’’ means any eligible electric vehicle supply 
+19
+equipment or associated hardware or software that 
+20
+is included on the list of eligible equipment published 
+21
+by the Administrator under subsection (c)(2). 
+22
+(6) ELIGIBLE
+FLEET
+OPERATOR.—The term 
+23
+‘‘eligible fleet operator’’ means an individual, a 
+24
+State, local, Tribal, or territorial government, a spe-
+25
+15:38 Jul 22, 2021
+H4440
+4 
+•HR 4440 IH
+cial tax district, a rural electric cooperative, a port 
+1
+authority, an airport authority, or a private entity 
+2
+that— 
+3
+(A) operates a centrally fueled non-transit 
+4
+fleet of medium-duty electric vehicles or heavy- 
+5
+duty electric vehicles; 
+6
+(B) presents a purchase order of eligible 
+7
+medium-duty electric vehicles or heavy-duty 
+8
+electric vehicles at the time of application; or 
+9
+(C) provides such documentation of the op-
+10
+eration or intent to operate a centrally fueled 
+11
+non-transit fleet of medium-duty electric vehi-
+12
+cles or heavy-duty electric vehicles as the Ad-
+13
+ministrator determines to be necessary. 
+14
+(7) HEAVY-DUTY
+ELECTRIC
+VEHICLE.—The 
+15
+term ‘‘heavy-duty electric vehicle’’ means a non-tran-
+16
+sit vehicle that— 
+17
+(A) derives all of the power of the vehicle 
+18
+from electricity; and 
+19
+(B) has a gross vehicle weight rating of 
+20
+not less than 26,000 pounds. 
+21
+(8) MEDIUM-DUTY
+ELECTRIC
+VEHICLE.—The 
+22
+term ‘‘medium-duty electric vehicle’’ means a vehicle 
+23
+that— 
+24
+15:38 Jul 22, 2021
+H4440
+5 
+•HR 4440 IH
+(A) derives all of the power of the vehicle 
+1
+from electricity; and 
+2
+(B)(i) has a gross vehicle weight rating 
+3
+of— 
+4
+(I) less than 26,000 pounds; but 
+5
+(II) not less than 10,000 pounds; or 
+6
+(ii) is an off-road vehicle with a gross vehi-
+7
+cle weight rating of more than 4,200 pounds. 
+8
+(9) MULTI-PORT LEVEL 2 CHARGER.—The term 
+9
+‘‘multi-port level 2 charger’’ means networked level 
+10
+2 charging equipment that is capable of charging 
+11
+more than 1 medium-duty electric vehicle or heavy- 
+12
+duty electric vehicle simultaneously. 
+13
+(10) NETWORKED
+DIRECT
+CURRENT
+FAST 
+14
+CHARGING EQUIPMENT.—The term ‘‘networked di-
+15
+rect current fast charging equipment’’ means electric 
+16
+vehicle supply equipment that— 
+17
+(A) provides a direct current power source; 
+18
+and 
+19
+(B) is able to connect to a network to fa-
+20
+cilitate— 
+21
+(i) data collection; and 
+22
+(ii) access to the data collected. 
+23
+(11) NETWORKED LEVEL 2 CHARGING EQUIP-
+24
+MENT.—The term ‘‘networked level 2 charging 
+25
+15:38 Jul 22, 2021
+H4440
+6 
+•HR 4440 IH
+equipment’’ means electric vehicle supply equipment 
+1
+that— 
+2
+(A) provides an alternating current power 
+3
+source at a minimum of 208 volts; and 
+4
+(B) is able to connect to a network to fa-
+5
+cilitate— 
+6
+(i) data collection; and 
+7
+(ii) access to the data collected. 
+8
+(12) REBATE
+PROGRAM.—The term ‘‘rebate 
+9
+program’’ means the rebate program established 
+10
+under subsection (b). 
+11
+(b) ESTABLISHMENT.—Not later than January 1, 
+12
+2022, and subject to the availability of appropriations, the 
+13
+Administrator shall establish a rebate program to promote 
+14
+the purchase and installation of electric vehicle supply 
+15
+equipment for medium-duty electric vehicles and heavy- 
+16
+duty electric vehicles. 
+17
+(c) REQUIREMENTS.— 
+18
+(1) IN GENERAL.—The Administrator may pro-
+19
+vide a rebate under the rebate program to an eligible 
+20
+fleet operator for the installation of eligible equip-
+21
+ment at an eligible site described in paragraph (3). 
+22
+(2) LIST OF ELIGIBLE EQUIPMENT.— 
+23
+(A) IN GENERAL.—Not later than 90 days 
+24
+after the date of enactment of this Act, the Ad-
+25
+15:38 Jul 22, 2021
+H4440
+7 
+•HR 4440 IH
+ministrator shall publish on the website of the 
+1
+Environmental Protection Agency a list of eligi-
+2
+ble equipment for which an eligible fleet oper-
+3
+ator may receive a rebate under the rebate pro-
+4
+gram. 
+5
+(B) MAINTENANCE AND UPDATES.—After 
+6
+the date on which the list under subparagraph 
+7
+(A) is published, the Administrator— 
+8
+(i) shall maintain the list, including 
+9
+through periodic review and updates; and 
+10
+(ii) may add additional hardware or 
+11
+software to the list, if the Administrator 
+12
+determines that the additional hardware or 
+13
+software is likely— 
+14
+(I) to lead to greater usage of eli-
+15
+gible electric vehicle supply equipment 
+16
+for medium-duty electric vehicles and 
+17
+heavy-duty electric vehicles; or 
+18
+(II) to improve the experience of 
+19
+users of eligible electric vehicle supply 
+20
+equipment. 
+21
+(3) ELIGIBLE SITES.—An eligible fleet operator 
+22
+may receive a rebate under the rebate program for 
+23
+the installation of eligible equipment only if the eligi-
+24
+ble equipment is installed at a site that— 
+25
+15:38 Jul 22, 2021
+H4440
+8 
+•HR 4440 IH
+(A) is in the United States; 
+1
+(B) is located on property— 
+2
+(i) owned by the eligible fleet oper-
+3
+ator; or 
+4
+(ii) on which the eligible fleet operator 
+5
+has authority to install eligible equipment; 
+6
+and 
+7
+(C) serves not fewer than the minimum 
+8
+number of medium-duty electric vehicles or 
+9
+heavy-duty electric vehicles that the Adminis-
+10
+trator determines is required to be served by a 
+11
+site. 
+12
+(4) APPLICATIONS.— 
+13
+(A) IN GENERAL.—An eligible fleet oper-
+14
+ator may submit to the Administrator an appli-
+15
+cation for a rebate under the rebate program at 
+16
+such time and in such manner as the Adminis-
+17
+trator may require. 
+18
+(B) 
+REQUIREMENTS.—An 
+application 
+19
+under subparagraph (A) shall include— 
+20
+(i) the estimated cost of covered ex-
+21
+penses to be incurred with respect to the 
+22
+purchase or installation of eligible equip-
+23
+ment for which the eligible fleet operator 
+24
+seeks a rebate; 
+25
+15:38 Jul 22, 2021
+H4440
+9 
+•HR 4440 IH
+(ii) the portion of those covered ex-
+1
+penses that represents the estimated in-
+2
+stallation cost of the eligible equipment; 
+3
+(iii) the address of the location where 
+4
+the eligible equipment will be installed, 
+5
+which shall be considered by the Adminis-
+6
+trator to be confidential business informa-
+7
+tion; 
+8
+(iv) the technical specifications of the 
+9
+eligible equipment, including the maximum 
+10
+power and amperage of the eligible equip-
+11
+ment; 
+12
+(v) if the eligible fleet operator is 
+13
+seeking a community benefit bonus under 
+14
+paragraph (5)(B) or a rural bonus under 
+15
+paragraph (5)(C), documentation dem-
+16
+onstrating that the eligible fleet operator is 
+17
+eligible for the bonus; and 
+18
+(vi) any other information determined 
+19
+by the Administrator to be necessary for a 
+20
+complete application. 
+21
+(C) REVIEW PROCESS.—The Administrator 
+22
+shall, within 90 days of the date on which the 
+23
+Administrator receives an application under 
+24
+subparagraph (A)— 
+25
+15:38 Jul 22, 2021
+H4440
+10 
+•HR 4440 IH
+(i) review the application; and 
+1
+(ii) approve the eligible fleet operator 
+2
+submitting the application for a rebate 
+3
+under the rebate program if the Adminis-
+4
+trator determines that— 
+5
+(I) the application meets the re-
+6
+quirements described in subparagraph 
+7
+(B); 
+8
+(II) the rebate would be for the 
+9
+installation of eligible equipment at an 
+10
+eligible site; 
+11
+(III) sufficient amounts will be 
+12
+made available under this section to 
+13
+provide the rebate; 
+14
+(IV) providing the rebate would 
+15
+not cause the eligible fleet operator to 
+16
+exceed the limitation described in 
+17
+paragraph (5)(D)(iii)(I); and 
+18
+(V) the eligible fleet operator has 
+19
+complied with all other applicable re-
+20
+quirements of the rebate program. 
+21
+(5) REBATE AMOUNT.— 
+22
+(A) IN GENERAL.—The amount of a rebate 
+23
+under the rebate program shall be, with respect 
+24
+to a project for which the rebate is sought— 
+25
+15:38 Jul 22, 2021
+H4440
+11 
+•HR 4440 IH
+(i) for an eligible fleet operator that is 
+1
+a public sector or nonprofit entity, equal to 
+2
+the lesser of— 
+3
+(I) 80 percent of the covered ex-
+4
+penses; and 
+5
+(II) the charging equipment ceil-
+6
+ing amount; and 
+7
+(ii) for an eligible fleet operator that 
+8
+is a private sector entity that is not a non-
+9
+profit entity, equal to the lesser of— 
+10
+(I) 50 percent of the covered ex-
+11
+penses; and 
+12
+(II) the charging equipment ceil-
+13
+ing amount. 
+14
+(B) COMMUNITY BENEFIT BONUS.— 
+15
+(i) IN GENERAL.—Subject to subpara-
+16
+graph (D)(i), the Administrator shall 
+17
+award an additional amount, to be known 
+18
+as a ‘‘community benefit bonus’’, to an eli-
+19
+gible fleet operator receiving a rebate 
+20
+under the rebate program if the majority 
+21
+of the vehicle miles traveled by the me-
+22
+dium-duty electric vehicles and heavy-duty 
+23
+electric vehicles in the fleet of the eligible 
+24
+fleet operator are traveled in a county that, 
+25
+15:38 Jul 22, 2021
+H4440
+12 
+•HR 4440 IH
+as of the date of enactment of this Act, is 
+1
+designated as a nonattainment area for 
+2
+ozone or carbon monoxide under the Clean 
+3
+Air Act (42 U.S.C. 7401 et seq.). 
+4
+(ii) AMOUNT
+OF
+BONUS.—With re-
+5
+spect to the rebate received by the eligible 
+6
+fleet operator, the amount of a community 
+7
+benefit bonus under clause (i) shall be 
+8
+equal to the lesser of— 
+9
+(I) 20 percent of the covered ex-
+10
+penses received under the rebate; and 
+11
+(II) 25 percent of the charging 
+12
+equipment ceiling amount received 
+13
+under the rebate. 
+14
+(C) RURAL BONUS.— 
+15
+(i) IN GENERAL.—Subject to subpara-
+16
+graph (D)(i), the Administrator shall 
+17
+award an additional amount, to be known 
+18
+as a ‘‘rural bonus’’, to an eligible fleet op-
+19
+erator receiving a rebate under the rebate 
+20
+program if— 
+21
+(I) the eligible fleet operator uses 
+22
+the rebate to install electric vehicle 
+23
+supply equipment in a rural area (as 
+24
+15:38 Jul 22, 2021
+H4440
+13 
+•HR 4440 IH
+defined in section 101(a) of title 23, 
+1
+United States Code); and 
+2
+(II) the majority of the vehicle 
+3
+miles traveled by the medium-duty 
+4
+electric vehicles and heavy-duty elec-
+5
+tric vehicles in the fleet of the eligible 
+6
+fleet operator are traveled in a rural 
+7
+area (as so defined). 
+8
+(ii) AMOUNT
+OF
+BONUS.—With re-
+9
+spect to the rebate received by the eligible 
+10
+fleet operator, the amount of a rural bonus 
+11
+under clause (i) shall be equal to the lesser 
+12
+of— 
+13
+(I) 20 percent of the covered ex-
+14
+penses received under the rebate; and 
+15
+(II) 25 percent of the charging 
+16
+equipment ceiling amount received 
+17
+under the rebate. 
+18
+(D) LIMITATIONS.— 
+19
+(i) LIMITATION ON BONUSES.—An eli-
+20
+gible fleet operator may not receive both a 
+21
+community benefit bonus under subpara-
+22
+graph (B) and a rural bonus under sub-
+23
+paragraph (C) with respect to the same re-
+24
+bate under the rebate program. 
+25
+15:38 Jul 22, 2021
+H4440
+14 
+•HR 4440 IH
+(ii) MULTI-PORT
+LEVEL
+2
+CHAR-
+1
+GERS.—The Administrator shall consider 
+2
+each charging port on a multi-port level 2 
+3
+charger to be a separate unit of electric ve-
+4
+hicle supply equipment for purposes of de-
+5
+termining the amount of a rebate or bonus 
+6
+under this section. 
+7
+(iii) MAXIMUM AMOUNT FOR ACTIVE 
+8
+PROJECTS.—An 
+eligible 
+fleet 
+operator 
+9
+may— 
+10
+(I) separately or simultaneously 
+11
+apply for, and be awarded, rebates to-
+12
+taling up to $1,000,000, including any 
+13
+bonuses received under subparagraphs 
+14
+(B) and (C), for projects that, as de-
+15
+termined by the Administrator, are 
+16
+active projects; and 
+17
+(II) apply for additional rebates 
+18
+on completion of active projects. 
+19
+(iv) FOR-PROFIT
+ENTITIES.—Of the 
+20
+amounts made available to carry out the 
+21
+rebate program, not more than 50 percent 
+22
+may be awarded to eligible fleet operators 
+23
+that are private sector entities that are not 
+24
+nonprofit entities. 
+25
+15:38 Jul 22, 2021
+H4440
+15 
+•HR 4440 IH
+(v) ALTERNATIVE FUEL VEHICLE RE-
+1
+FUELING
+PROPERTY
+CREDIT.—No credit 
+2
+shall be allowed under section 30C of the 
+3
+Internal Revenue Code of 1986 for any 
+4
+property with respect to which a rebate is 
+5
+received under the rebate program. 
+6
+(6) AGREEMENT TO MAINTAIN.—To be eligible 
+7
+for a rebate under the rebate program, an eligible 
+8
+fleet operator shall enter into an agreement with the 
+9
+Administrator to maintain the eligible equipment 
+10
+covered by the rebate in a satisfactory manner for 
+11
+not less than 5 years after the date on which the eli-
+12
+gible fleet operator receives the rebate. 
+13
+(d) AUTHORIZATION OF APPROPRIATIONS.—There is 
+14
+authorized to be appropriated to the Administrator to 
+15
+carry out the rebate program $250,000,000 for each of 
+16
+fiscal years 2022 through 2025, to remain eligible until 
+17
+expended. 
+18
+Æ 
+15:38 Jul 22, 2021
+H4440

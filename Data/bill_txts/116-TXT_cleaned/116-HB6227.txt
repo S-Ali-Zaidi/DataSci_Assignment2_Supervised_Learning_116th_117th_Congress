@@ -1,0 +1,420 @@
+A BILL 
+To direct the Federal Trade Commission to issue privacy 
+scores for certain interactive computer services, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Privacy Score Act of 
+4
+2020’’. 
+5
+SEC. 2. PRIVACY FRAMEWORK AND SCORES. 
+6
+(a) PRIVACY FRAMEWORK.— 
+7
+(1) DEVELOPMENT.—The Commission shall de-
+8
+velop a framework for assessing the privacy prac-
+9
+00:51 Mar 26, 2020
+H6227
+2 
+•HR 6227 IH
+tices of interactive computer services (in this section 
+1
+referred to as the ‘‘privacy framework’’). 
+2
+(2) 
+FRAMEWORK
+CRITERIA.—The 
+privacy 
+3
+framework shall include an assessment of the fol-
+4
+lowing criteria, with respect to an interactive com-
+5
+puter service: 
+6
+(A) Whether the service collects, stores, 
+7
+uses, and shares only covered information nec-
+8
+essary to perform a relevant user-facing pur-
+9
+pose. 
+10
+(B) The level of transparency of the serv-
+11
+ice regarding the privacy practices of the serv-
+12
+ice, including the extent to which the service 
+13
+communicates to users the following: 
+14
+(i) What covered information may be 
+15
+collected. 
+16
+(ii) How such information may be 
+17
+stored. 
+18
+(iii) How such information may be 
+19
+used. 
+20
+(iv) With whom such information may 
+21
+be shared. 
+22
+(C) Whether the service offers users any 
+23
+options to designate preferences for covered in-
+24
+formation collected, stored, used, or shared in 
+25
+00:51 Mar 26, 2020
+H6227
+3 
+•HR 6227 IH
+excess of the minimum information necessary to 
+1
+perform a relevant user-facing purpose, and 
+2
+whether such preferences are respected. 
+3
+(D) The risk that covered information col-
+4
+lected by the service may be used to identify 
+5
+users, while taking into consideration whether 
+6
+the identification is necessary to perform a rel-
+7
+evant user-facing purpose of the service and 
+8
+whether a reasonable user would be aware of 
+9
+such purpose. 
+10
+(E) The security of sensitive covered infor-
+11
+mation collected by the service. 
+12
+(F) Any other criteria the Commission de-
+13
+termines necessary to protect the privacy of 
+14
+users with respect to covered information. 
+15
+(b) PRIVACY SCORES.— 
+16
+(1) DEVELOPMENT.—The Commission shall use 
+17
+the privacy framework to develop a system for 
+18
+issuing a score for an interactive computer service 
+19
+that reflects the extent to which the service protects 
+20
+the privacy of the covered information of users, tak-
+21
+ing into consideration the purpose of the service and 
+22
+options offered to users with respect to covered in-
+23
+formation (in this section referred to as a ‘‘privacy 
+24
+score’’). 
+25
+00:51 Mar 26, 2020
+H6227
+4 
+•HR 6227 IH
+(2) ISSUANCE OF SCORE.—The Commission— 
+1
+(A) shall issue a privacy score for the 100 
+2
+interactive computer services that have the 
+3
+most unique United States users each year (as 
+4
+determined by the Commission); and 
+5
+(B) may issue a privacy score for inter-
+6
+active computer services not described in sub-
+7
+paragraph (A) with a high number of unique 
+8
+United States users (as determined by the 
+9
+Commission). 
+10
+(3) EVALUATION OF SCORE.—Each year, the 
+11
+Commission shall evaluate interactive computer serv-
+12
+ices to determine— 
+13
+(A) whether the interactive computer serv-
+14
+ices required to be issued a privacy score under 
+15
+paragraph (2)(A) have changed; 
+16
+(B) whether the interactive computer serv-
+17
+ices eligible to be issued a privacy score under 
+18
+paragraph (2)(B) have changed; and 
+19
+(C) whether to modify a privacy score pre-
+20
+viously issued for an interactive computer serv-
+21
+ice based on changes in— 
+22
+(i) the extent to which the service pro-
+23
+tects the privacy of the covered informa-
+24
+tion of users; 
+25
+00:51 Mar 26, 2020
+H6227
+5 
+•HR 6227 IH
+(ii) the purposes of the service; or 
+1
+(iii) the options offered to users with 
+2
+respect to covered information collected by 
+3
+the service. 
+4
+(4) PUBLICATION OF SCORE.— 
+5
+(A) IN GENERAL.—Not later than 1 year 
+6
+after the date of the enactment of this Act, the 
+7
+Commission shall publish on a public website of 
+8
+the Commission the privacy scores issued pur-
+9
+suant to paragraph (2), the corresponding dates 
+10
+of issuance, and a link to the online privacy pol-
+11
+icy of the interactive computer service. 
+12
+(B) UPDATES.—Beginning on the date 
+13
+that is 1 year after the date on which the Com-
+14
+mission initially publishes the privacy scores 
+15
+under subparagraph (A), and annually there-
+16
+after, the Commission shall publish updates of 
+17
+such scores based on the evaluation conducted 
+18
+under paragraph (3) for the relevant year. 
+19
+(C) DECLINE IN UNIQUE UNITED STATES 
+20
+USERS.—Notwithstanding the Commission de-
+21
+termining that an interactive computer service 
+22
+for which a privacy score has been issued pur-
+23
+suant to paragraph (2) no longer has a high 
+24
+number of unique United States users, the 
+25
+00:51 Mar 26, 2020
+H6227
+6 
+•HR 6227 IH
+Commission may continue to publish the most 
+1
+recently issued score and the corresponding 
+2
+date of issuance. 
+3
+(5) DISPUTE PROCESS.—Not later than 1 year 
+4
+after the date of the enactment of this Act, the 
+5
+Commission shall establish a process for resolving 
+6
+disputes related to the issuance of privacy scores 
+7
+that have been raised— 
+8
+(A) by an interactive computer service for 
+9
+which a privacy score has been issued; or 
+10
+(B) by a third party. 
+11
+(6) REPORT.—Not later than 2 years after the 
+12
+date of the publication of the initial privacy scores 
+13
+under paragraph (4)(A), and annually thereafter, 
+14
+the Commission shall submit to Congress a report 
+15
+that describes the following: 
+16
+(A) The number of interactive computer 
+17
+services evaluated with respect to the issuance 
+18
+of privacy scores during the most recently com-
+19
+pleted year and in total. 
+20
+(B) Trends related to privacy scores, in-
+21
+cluding the number of privacy scores that the 
+22
+Commission issued or modified during the most 
+23
+recently completed year and in total. 
+24
+00:51 Mar 26, 2020
+H6227
+7 
+•HR 6227 IH
+(C) Any common characteristics of inter-
+1
+active computer services with low privacy 
+2
+scores, such as privacy policy terms, industry, 
+3
+location where the service is based, type of serv-
+4
+ice offered, or ownership or control of the serv-
+5
+ice. 
+6
+(D) If applicable, an identification of 
+7
+trends in the practices of interactive computer 
+8
+services with respect to the privacy of the cov-
+9
+ered information of users of such services, in-
+10
+cluding any potential emerging threats posed by 
+11
+such practices. 
+12
+(E) If determined necessary by the Com-
+13
+mission, recommendations for congressional ac-
+14
+tion to promote the privacy of users of inter-
+15
+active computer services. 
+16
+(c) PUBLIC AWARENESS AND RECOGNITION.—The 
+17
+Commission may— 
+18
+(1) conduct public awareness campaigns to edu-
+19
+cate users about the privacy scores issued under 
+20
+subsection (b); and 
+21
+(2) establish a recognition program for inter-
+22
+active computer services with outstanding privacy 
+23
+scores issued under such subsection. 
+24
+(d) DEFINITIONS.—In this section: 
+25
+00:51 Mar 26, 2020
+H6227
+8 
+•HR 6227 IH
+(1) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Federal Trade Commission. 
+2
+(2) COVERED INFORMATION.—The term ‘‘cov-
+3
+ered information’’ means information that is linked 
+4
+or that the Commission determines is reasonably 
+5
+linkable to a unique user of an interactive computer 
+6
+service, including— 
+7
+(A) first and last name of the user; 
+8
+(B) home or other physical address of the 
+9
+user, including the name of a street, city, or 
+10
+town; 
+11
+(C) email address of the user; 
+12
+(D) telephone number of the user; and 
+13
+(E) Social Security number of the user. 
+14
+(3) INTERACTIVE
+COMPUTER
+SERVICE.—The 
+15
+term ‘‘interactive computer service’’ has the meaning 
+16
+given the term in section 230(f) of the Communica-
+17
+tions Act of 1934 (47 U.S.C. 230(f)). 
+18
+(4) SENSITIVE
+COVERED
+INFORMATION.—The 
+19
+term ‘‘sensitive covered information’’ means any of 
+20
+the following covered information: 
+21
+(A) Financial information of the user. 
+22
+(B) Biometric identifiers of the user. 
+23
+(C) Citizenship or immigration status of 
+24
+the user. 
+25
+00:51 Mar 26, 2020
+H6227
+9 
+•HR 6227 IH
+(D) Medical information of the user. 
+1
+(E) Race, ethnicity, or religious affiliation 
+2
+of the user. 
+3
+(F) Criminal history of the user. 
+4
+Æ 
+00:51 Mar 26, 2020
+H6227

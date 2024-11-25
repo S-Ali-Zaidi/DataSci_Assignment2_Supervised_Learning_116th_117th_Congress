@@ -1,0 +1,1835 @@
+A BILL 
+To amend the Homeland Security Act of 2002 to establish 
+the Cyber Incident Review Office in the Cybersecurity 
+and Infrastructure Security Agency of the Department 
+of Homeland Security, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cyber Incident Report-
+4
+ing for Critical Infrastructure Act of 2021’’. 
+5
+03:20 Oct 14, 2021
+H5440
+2 
+•HR 5440 IH
+SEC. 2. CYBER INCIDENT REVIEW OFFICE. 
+1
+(a) IN GENERAL.—Subtitle A of title XXII of the 
+2
+Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) 
+3
+is amended by adding at the end the following new section: 
+4
+‘‘SEC. 2220A. CYBER INCIDENT REVIEW OFFICE. 
+5
+‘‘(a) DEFINITIONS.—In this section: 
+6
+‘‘(1) CLOUD
+SERVICE
+PROVIDER.—The term 
+7
+‘cloud service provider’ means an entity offering 
+8
+products or services related to cloud computing, as 
+9
+defined by the National Institutes of Standards and 
+10
+Technology in NIST Special Publication 800–145 
+11
+and any amendatory or superseding document relat-
+12
+ing thereto. 
+13
+‘‘(2) COVERED ENTITY.—The term ‘covered en-
+14
+tity’ means an entity that owns or operates critical 
+15
+infrastructure that satisfies the definition estab-
+16
+lished by the Director in the reporting requirements 
+17
+and procedures issued pursuant to subsection (d). 
+18
+‘‘(3) COVERED CYBSECURITY INCIDENT.—The 
+19
+term ‘covered cybersecurity incident’ means a cyber-
+20
+security incident experienced by a covered entity 
+21
+that satisfies the definition and criteria established 
+22
+by the Director in the reporting requirements and 
+23
+procedures issued pursuant to subsection (d). 
+24
+‘‘(4) CYBER
+THREAT
+INDICATOR.—The term 
+25
+‘cyber threat indicator’ has the meaning given such 
+26
+03:20 Oct 14, 2021
+H5440
+3 
+•HR 5440 IH
+term in section 102 of the Cybersecurity Act of 2015 
+1
+(enacted as division N of the Consolidated Appro-
+2
+priations Act, 2016 (Public Law 114–113; 6 U.S.C. 
+3
+1501)). 
+4
+‘‘(5) CYBERSECURITY PURPOSE.—The term ‘cy-
+5
+bersecurity purpose’ has the meaning given such 
+6
+term in section 102 of the Cybersecurity Act of 2015 
+7
+(enacted as division N of the Consolidated Appro-
+8
+priations Act, 2016 (Public Law 114–113; 6 U.S.C. 
+9
+1501)). 
+10
+‘‘(6) CYBERSECURITY THREAT.—The term ‘cy-
+11
+bersecurity threat’ has the meaning given such term 
+12
+in section 102 of the Cybersecurity Act of 2015 (en-
+13
+acted as division N of the Consolidated Appropria-
+14
+tions Act, 2016 (Public Law 114–113; 6 U.S.C. 
+15
+1501)). 
+16
+‘‘(7) DEFENSIVE MEASURE.—The term ‘defen-
+17
+sive measure’ has the meaning given such term in 
+18
+section 102 of the Cybersecurity Act of 2015 (en-
+19
+acted as division N of the Consolidated Appropria-
+20
+tions Act, 2016 (Public Law 114–113; 6 U.S.C. 
+21
+1501)). 
+22
+‘‘(8) INFORMATION SHARING AND ANALYSIS OR-
+23
+GANIZATION.—The term ‘Information Sharing and 
+24
+03:20 Oct 14, 2021
+H5440
+4 
+•HR 5440 IH
+Analysis Organization’ has the meaning given such 
+1
+term in section 2222(5). 
+2
+‘‘(9) INFORMATION SYSTEM.—The term ‘infor-
+3
+mation system’ has the meaning given such term in 
+4
+section 102 of the Cybersecurity Act of 2015 (en-
+5
+acted as division N of the Consolidated Appropria-
+6
+tions Act, 2016 (Public Law 114–113; 6 U.S.C. 
+7
+1501(9)). 
+8
+‘‘(10) INTELLIGENCE COMMUNITY.—The term 
+9
+‘intelligence community’ has the meaning given the 
+10
+term in section 3(4) of the National Security Act of 
+11
+1947 (50 U.S.C. 3003(4)). 
+12
+‘‘(11) MANAGED
+SERVICE
+PROVIDER.—The 
+13
+term ‘managed service provider’ means an entity 
+14
+that delivers services, such as network, application, 
+15
+infrastructure, or security services, via ongoing and 
+16
+regular support and active administration on cus-
+17
+tomers’ premises, in the managed service provider’s 
+18
+data center (such as hosting), or in a third-party 
+19
+data center. 
+20
+‘‘(12) SECURITY CONTROL.—The term ‘security 
+21
+control’ has the meaning given such term in section 
+22
+102 of the Cybersecurity Act of 2015 (enacted as di-
+23
+vision N of the Consolidated Appropriations Act, 
+24
+2016 (Public Law 114–113; 6 U.S.C. 1501)). 
+25
+03:20 Oct 14, 2021
+H5440
+5 
+•HR 5440 IH
+‘‘(13) SECURITY
+VULNERABILITY.—The term 
+1
+‘security vulnerability’ has the meaning given such 
+2
+term in section 102 of the Cybersecurity Act of 2015 
+3
+(enacted as division N of the Consolidated Appro-
+4
+priations Act, 2016 (Public Law 114–113; 6 U.S.C. 
+5
+1501)). 
+6
+‘‘(14) SIGNIFICANT
+CYBER
+INCIDENT.—The 
+7
+term ‘significant cyber incident’ means a cyber inci-
+8
+dent, or a group of related cyber incidents, that the 
+9
+Director determines is likely to result in demon-
+10
+strable harm to the national security interests, for-
+11
+eign relations, or economy of the United States or 
+12
+to the public confidence, civil liberties, or public 
+13
+health and safety of the American people. 
+14
+‘‘(15) SUPPLY CHAIN ATTACK.—The term ‘sup-
+15
+ply chain attack’ means an attack that allows an ad-
+16
+versary to utilize implants or other vulnerabilities in-
+17
+serted into information technology hardware, soft-
+18
+ware, operating systems, peripherals (such as infor-
+19
+mation technology products), or services at any point 
+20
+during the life cycle in order to infiltrate the net-
+21
+works of third parties where such products, services, 
+22
+or technologies are deployed. 
+23
+‘‘(b) CYBER INCIDENT REVIEW OFFICE.—There is 
+24
+established in the Agency a Cyber Incident Review Office 
+25
+03:20 Oct 14, 2021
+H5440
+6 
+•HR 5440 IH
+(in this section referred to as the ‘Office’) to receive, ag-
+1
+gregate, and analyze reports related to covered cybersecu-
+2
+rity incidents submitted by covered entities in furtherance 
+3
+of the activities specified in subsection (c) of this section 
+4
+and sections 2202(e), 2209(c), and 2203 to enhance the 
+5
+situational awareness of cybersecurity threats across crit-
+6
+ical infrastructure sectors. 
+7
+‘‘(c) ACTIVITIES.—The Office shall, in furtherance of 
+8
+the activities specified in sections 2202(e), 2209(c), and 
+9
+2203— 
+10
+‘‘(1) receive, aggregate, analyze, and secure re-
+11
+ports from covered entities related to a covered cy-
+12
+bersecurity incident to assess the effectiveness of se-
+13
+curity controls and identify tactics, techniques, and 
+14
+procedures adversaries use to overcome such con-
+15
+trols; 
+16
+‘‘(2) facilitate the timely sharing between rel-
+17
+evant critical infrastructure owners and operators 
+18
+and, as appropriate, the intelligence community of 
+19
+information relating to covered cybersecurity inci-
+20
+dents, particularly with respect to an ongoing cyber-
+21
+security threat or security vulnerability; 
+22
+‘‘(3) for a covered cybersecurity incident that 
+23
+also satisfies the definition of a significant cyber in-
+24
+cident, or are part of a group of related cyber inci-
+25
+03:20 Oct 14, 2021
+H5440
+7 
+•HR 5440 IH
+dents that together satisfy such definition, conduct 
+1
+a review of the details surrounding such covered cy-
+2
+bersecurity incident or group of such incidents and 
+3
+identify ways to prevent or mitigate similar incidents 
+4
+in the future; 
+5
+‘‘(4) with respect to covered cybersecurity inci-
+6
+dent reports under subsection (d) involving an ongo-
+7
+ing cybersecurity threat or security vulnerability, im-
+8
+mediately review such reports for cyber threat indi-
+9
+cators that can be anonymized and disseminated, 
+10
+with defensive measures, to appropriate stake-
+11
+holders, in coordination with other Divisions within 
+12
+the Agency, as appropriate; 
+13
+‘‘(5) publish quarterly unclassified, public re-
+14
+ports that describe aggregated, anonymized observa-
+15
+tions, findings, and recommendations based on cov-
+16
+ered cybersecurity incident reports under subsection 
+17
+(d); 
+18
+‘‘(6) leverage information gathered regarding 
+19
+cybersecurity incidents to enhance the quality and 
+20
+effectiveness of bi-directional information sharing 
+21
+and coordination efforts with appropriate stake-
+22
+holders, including sector coordinating councils, infor-
+23
+mation sharing and analysis organizations, tech-
+24
+nology providers, cybersecurity and incident response 
+25
+03:20 Oct 14, 2021
+H5440
+8 
+•HR 5440 IH
+firms, and security researchers, including by estab-
+1
+lishing mechanisms to receive feedback from such 
+2
+stakeholders regarding how the Agency can most ef-
+3
+fectively support private sector cybersecurity; and 
+4
+‘‘(7) proactively identify opportunities, in ac-
+5
+cordance with the protections specified in sub-
+6
+sections (e) and (f), to leverage and utilize data on 
+7
+cybersecurity incidents in a manner that enables and 
+8
+strengthens cybersecurity research carried out by 
+9
+academic institutions and other private sector orga-
+10
+nizations, to the greatest extent practicable. 
+11
+‘‘(d) COVERED CYBERSECURITY INCIDENT REPORT-
+12
+ING REQUIREMENTS AND PROCEDURES.— 
+13
+‘‘(1) IN GENERAL.—Not later than 270 days 
+14
+after the date of the enactment of this section, the 
+15
+Director, in consultation with Sector Risk Manage-
+16
+ment Agencies and the heads of other Federal de-
+17
+partments and agencies, as appropriate, shall, after 
+18
+a 60 day consultative period, followed by a 90 day 
+19
+comment period with appropriate stakeholders, in-
+20
+cluding sector coordinating councils, publish in the 
+21
+Federal Register an interim final rule implementing 
+22
+this section. Notwithstanding section 553 of title 5, 
+23
+United States Code, such rule shall be effective, on 
+24
+an interim basis, immediately upon publication, but 
+25
+03:20 Oct 14, 2021
+H5440
+9 
+•HR 5440 IH
+may be subject to change and revision after public 
+1
+notice and opportunity for comment. The Director 
+2
+shall issue a final rule not later than one year after 
+3
+publication of such interim final rule. Such interim 
+4
+final rule shall— 
+5
+‘‘(A) require covered entities to submit to 
+6
+the Office reports containing information relat-
+7
+ing to covered cybersecurity incidents; and 
+8
+‘‘(B) establish procedures that clearly de-
+9
+scribe— 
+10
+‘‘(i) the types of critical infrastructure 
+11
+entities determined to be covered entities; 
+12
+‘‘(ii) the types of cybersecurity inci-
+13
+dents determined to be covered cybersecu-
+14
+rity incidents; 
+15
+‘‘(iii) the mechanisms by which cov-
+16
+ered cybersecurity incident reports under 
+17
+subparagraph (A) are to be submitted, in-
+18
+cluding— 
+19
+‘‘(I) the contents, described in 
+20
+paragraph (4), to be included in each 
+21
+such report, including any supple-
+22
+mental reporting requirements; 
+23
+03:20 Oct 14, 2021
+H5440
+10 
+•HR 5440 IH
+‘‘(II) the timing relating to when 
+1
+each such report should be submitted; 
+2
+and 
+3
+‘‘(III) the format of each such re-
+4
+port; 
+5
+‘‘(iv) describe the manner in which 
+6
+the Office will carry out enforcement ac-
+7
+tions under subsection (g), including with 
+8
+respect to the issuance of subpoenas, con-
+9
+ducting examinations, and other aspects 
+10
+relating to noncompliance; and 
+11
+‘‘(v) any other responsibilities to be 
+12
+carried out by covered entities, or other 
+13
+procedures necessary to implement this 
+14
+section. 
+15
+‘‘(2) 
+COVERED
+ENTITIES.—In 
+determining 
+16
+which types of critical infrastructure entities are cov-
+17
+ered entities for purposes of this section, the Sec-
+18
+retary, acting through the Director, in consultation 
+19
+with Sector Risk Management Agencies and the 
+20
+heads of other Federal departments and agencies, as 
+21
+appropriate, shall consider— 
+22
+‘‘(A) the consequences that disruption to 
+23
+or compromise of such an entity could cause to 
+24
+03:20 Oct 14, 2021
+H5440
+11 
+•HR 5440 IH
+national security, economic security, or public 
+1
+health and safety; 
+2
+‘‘(B) the likelihood that such an entity 
+3
+may be targeted by a malicious cyber actor, in-
+4
+cluding a foreign country; 
+5
+‘‘(C) the extent to which damage, disrup-
+6
+tion, or unauthorized access to such and entity 
+7
+will disrupt the reliable operation of other crit-
+8
+ical infrastructure assets; and 
+9
+‘‘(D) the extent to which an entity or sec-
+10
+tor is subject to existing regulatory require-
+11
+ments to report cybersecurity incidents, and the 
+12
+possibility of coordination and sharing of re-
+13
+ports between the Office and the regulatory au-
+14
+thority to which such entity submits such other 
+15
+reports. 
+16
+‘‘(3) OUTREACH TO COVERED ENTITIES.— 
+17
+‘‘(A) IN
+GENERAL.—The Director shall 
+18
+conduct an outreach and education campaign to 
+19
+inform covered entities of the requirements of 
+20
+this section. 
+21
+‘‘(B) ELEMENTS.—The outreach and edu-
+22
+cation campaign under subparagraph (A) shall 
+23
+include the following: 
+24
+03:20 Oct 14, 2021
+H5440
+12 
+•HR 5440 IH
+‘‘(i) Overview of the interim final rule 
+1
+and final rule issued pursuant to this sec-
+2
+tion. 
+3
+‘‘(ii) Overview of reporting require-
+4
+ments and procedures issued pursuant to 
+5
+paragraph (1). 
+6
+‘‘(iii) Overview of mechanisms to sub-
+7
+mit to the Office covered cybersecurity in-
+8
+cident reports and information relating to 
+9
+the disclosure, retention, and use of inci-
+10
+dent reports under this section. 
+11
+‘‘(iv) Overview of the protections af-
+12
+forded to covered entities for complying 
+13
+with requirements under subsection (f). 
+14
+‘‘(v) Overview of the steps taken 
+15
+under subsection (g) when a covered entity 
+16
+is not in compliance with the reporting re-
+17
+quirements under paragraph (1). 
+18
+‘‘(C) COORDINATION.—The Director may 
+19
+conduct the outreach and education campaign 
+20
+under subparagraph (A) through coordination 
+21
+with the following: 
+22
+‘‘(i) The Critical Infrastructure Part-
+23
+nership Advisory Council established pur-
+24
+suant to section 871. 
+25
+03:20 Oct 14, 2021
+H5440
+13 
+•HR 5440 IH
+‘‘(ii) Information Sharing and Anal-
+1
+ysis Organizations. 
+2
+‘‘(iii) Any other means the Director 
+3
+determines to be effective to conduct such 
+4
+campaign. 
+5
+‘‘(4) COVERED CYBERSECURITY INCIDENTS.— 
+6
+‘‘(A) 
+CONSIDERATIONS.—In 
+accordance 
+7
+with subparagraph (B), in determining which 
+8
+types of incidents are covered cybersecurity in-
+9
+cidents for purposes of this section, the Direc-
+10
+tor shall consider— 
+11
+‘‘(i) the sophistication or novelty of 
+12
+the tactics used to perpetrate such an inci-
+13
+dent, as well as the type, volume, and sen-
+14
+sitivity of the data at issue; 
+15
+‘‘(ii) the number of individuals di-
+16
+rectly or indirectly affected or potentially 
+17
+affected by such an incident; and 
+18
+‘‘(iii) potential impacts on industrial 
+19
+control systems, such as supervisory con-
+20
+trol and data acquisition systems, distrib-
+21
+uted control systems, and programmable 
+22
+logic controllers. 
+23
+‘‘(B) MINIMUM THRESHOLDS.—For a cy-
+24
+bersecurity incident to be considered a covered 
+25
+03:20 Oct 14, 2021
+H5440
+14 
+•HR 5440 IH
+cybersecurity incident a cybersecurity incident 
+1
+shall, at a minimum, include at least one of the 
+2
+following: 
+3
+‘‘(i) Unauthorized access to an infor-
+4
+mation system or network that leads to 
+5
+loss of confidentiality, integrity, or avail-
+6
+ability of such information system or net-
+7
+work, or has a serious impact on the safety 
+8
+and resiliency of operational systems and 
+9
+processes. 
+10
+‘‘(ii) Disruption of business or indus-
+11
+trial operations due to a denial of service 
+12
+attack, a ransomware attack, or exploi-
+13
+tation 
+of 
+a 
+zero-day 
+vulnerability, 
+14
+against— 
+15
+‘‘(I) an information system or 
+16
+network; or 
+17
+‘‘(II) an operational technology 
+18
+system or process. 
+19
+‘‘(iii) Unauthorized access or disrup-
+20
+tion of business or industrial operations 
+21
+due to loss of service facilitated through, 
+22
+or caused by a compromise of, a cloud 
+23
+service provider, managed service provider, 
+24
+03:20 Oct 14, 2021
+H5440
+15 
+•HR 5440 IH
+other third-party data hosting provider, or 
+1
+supply chain attack. 
+2
+‘‘(5) REPORTS.— 
+3
+‘‘(A) TIMING.— 
+4
+‘‘(i) IN GENERAL.—The Director, in 
+5
+consultation with Sector Risk Management 
+6
+Agencies and the heads of other Federal 
+7
+departments and agencies, as appropriate, 
+8
+shall establish reporting timelines for cov-
+9
+ered entities to submit promptly to the Of-
+10
+fice covered cybersecurity incident reports, 
+11
+as the Director determines reasonable and 
+12
+appropriate based on relevant factors, such 
+13
+as the nature, severity, and complexity of 
+14
+the covered cybersecurity incident at issue 
+15
+and the time required for investigation, but 
+16
+in no case may the Director require report-
+17
+ing by a covered entity earlier than 72 
+18
+hours after confirmation that a covered cy-
+19
+bersecurity incident has occurred. 
+20
+‘‘(ii) 
+CONSIDERATIONS.—In 
+deter-
+21
+mining reporting timelines under clause 
+22
+(i), the Director shall— 
+23
+‘‘(I) consider any existing regu-
+24
+latory reporting requirements, similar 
+25
+03:20 Oct 14, 2021
+H5440
+16 
+•HR 5440 IH
+in scope purpose, and timing to the 
+1
+reporting requirements under this sec-
+2
+tion, to which a covered entity may 
+3
+also be subject, and make efforts to 
+4
+harmonize the timing and contents of 
+5
+any such reports to the maximum ex-
+6
+tent practicable; and 
+7
+‘‘(II) balance the Agency’s need 
+8
+for situational awareness with a cov-
+9
+ered entity’s ability to conduct inci-
+10
+dent response and investigations. 
+11
+‘‘(B) THIRD-PARTY REPORTING.— 
+12
+‘‘(i) IN GENERAL.—A covered entity 
+13
+may submit a covered cybersecurity inci-
+14
+dent report through a third-party entity or 
+15
+Information Sharing and Analysis Organi-
+16
+zation. 
+17
+‘‘(ii) DUTY
+TO
+ENSURE
+COMPLI-
+18
+ANCE.—Third-party reporting under this 
+19
+subparagraph does not relieve a covered 
+20
+entity of the duty to ensure compliance 
+21
+with the requirements of this paragraph. 
+22
+‘‘(C) SUPPLEMENTAL REPORTING.—A cov-
+23
+ered entity shall submit promptly to the Office, 
+24
+until such date that such covered entity notifies 
+25
+03:20 Oct 14, 2021
+H5440
+17 
+•HR 5440 IH
+the Office that the cybersecurity incident inves-
+1
+tigation at issue has concluded and the associ-
+2
+ated covered cybersecurity incident has been 
+3
+fully mitigated and resolved, periodic updates or 
+4
+supplements to a previously submitted covered 
+5
+cybersecurity incident report if new or different 
+6
+information becomes available that would other-
+7
+wise have been required to have been included 
+8
+in such previously submitted report. In deter-
+9
+mining reporting timelines, the Director may 
+10
+choose to establish a flexible, phased reporting 
+11
+timeline for covered entities to report informa-
+12
+tion in a manner that aligns with investigative 
+13
+timelines 
+and 
+allows 
+covered 
+entities 
+to 
+14
+prioritize incident response efforts over compli-
+15
+ance. 
+16
+‘‘(D) CONTENTS.—Covered cybersecurity 
+17
+incident reports submitted pursuant to this sec-
+18
+tion shall contain such information as the Di-
+19
+rector prescribes, including the following infor-
+20
+mation, to the extent applicable and available, 
+21
+with respect to a covered cybersecurity incident: 
+22
+‘‘(i) A description of the covered cy-
+23
+bersecurity incident, including identifica-
+24
+tion of the affected information systems, 
+25
+03:20 Oct 14, 2021
+H5440
+18 
+•HR 5440 IH
+networks, or devices that were, or are rea-
+1
+sonably believed to have been, affected by 
+2
+such incident, and the estimated date 
+3
+range of such incident. 
+4
+‘‘(ii) Where applicable, a description 
+5
+of the vulnerabilities exploited and the se-
+6
+curity defenses that were in place, as well 
+7
+as the tactics, techniques, and procedures 
+8
+relevant to such incident. 
+9
+‘‘(iii) Where applicable, any identi-
+10
+fying information related to the actor rea-
+11
+sonably believed to be responsible for such 
+12
+incident. 
+13
+‘‘(iv) Where applicable, identification 
+14
+of the category or categories of information 
+15
+that was, or is reasonably believed to have 
+16
+been, accessed or acquired by an unauthor-
+17
+ized person. 
+18
+‘‘(v) Contact information, such as 
+19
+telephone number or electronic mail ad-
+20
+dress, that the Office may use to contact 
+21
+the covered entity or, where applicable, an 
+22
+authorized agent of such covered entity, or, 
+23
+where applicable, the service provider, act-
+24
+ing with the express permission, and at the 
+25
+03:20 Oct 14, 2021
+H5440
+19 
+•HR 5440 IH
+direction, of such covered entity, to assist 
+1
+with compliance with the requirements of 
+2
+this section. 
+3
+‘‘(6) RESPONSIBILITIES
+OF
+COVERED
+ENTI-
+4
+TIES.—Covered entities that experience a covered cy-
+5
+bersecurity incident shall coordinate with the Office 
+6
+to the extent necessary to comply with this section, 
+7
+and, to the extent practicable, cooperate with the Of-
+8
+fice in a manner that supports enhancing the Agen-
+9
+cy’s situational awareness of cybersecurity threats 
+10
+across critical infrastructure sectors. 
+11
+‘‘(7) 
+HARMONIZING
+REPORTING
+REQUIRE-
+12
+MENTS.—In establishing the reporting requirements 
+13
+and procedures under paragraph (1), the Director 
+14
+shall, to the maximum extent practicable— 
+15
+‘‘(A) review existing regulatory require-
+16
+ments, including the information required in 
+17
+such reports, to report cybersecurity incidents 
+18
+that may apply to covered entities, and ensure 
+19
+that any such reporting requirements and pro-
+20
+cedures avoid conflicting, duplicative, or bur-
+21
+densome requirements; and 
+22
+‘‘(B) coordinate with other regulatory au-
+23
+thorities that receive reports relating to cyberse-
+24
+curity incidents to identify opportunities to 
+25
+03:20 Oct 14, 2021
+H5440
+20 
+•HR 5440 IH
+streamline reporting processes, and where fea-
+1
+sible, enter into agreements with such authori-
+2
+ties to permit the sharing of such reports with 
+3
+the Office, consistent with applicable law and 
+4
+policy, without impacting the Office’s ability to 
+5
+gain timely situational awareness of a covered 
+6
+cybersecurity incident or significant cyber inci-
+7
+dent. 
+8
+‘‘(e) DISCLOSURE, RETENTION, AND USE OF INCI-
+9
+DENT REPORTS.— 
+10
+‘‘(1) AUTHORIZED
+ACTIVITIES.—No informa-
+11
+tion provided to the Office in accordance with sub-
+12
+sections (d) or (h) may be disclosed to, retained by, 
+13
+or used by any Federal department or agency, or 
+14
+any component, officer, employee, or agent of the 
+15
+Federal Government, except if the Director deter-
+16
+mines such disclosure, retention, or use is necessary 
+17
+for— 
+18
+‘‘(A) a cybersecurity purpose; 
+19
+‘‘(B) the purpose of identifying— 
+20
+‘‘(i) a cybersecurity threat, including 
+21
+the source of such threat; or 
+22
+‘‘(ii) a security vulnerability; 
+23
+03:20 Oct 14, 2021
+H5440
+21 
+•HR 5440 IH
+‘‘(C) the purpose of responding to, or oth-
+1
+erwise preventing, or mitigating a specific 
+2
+threat of— 
+3
+‘‘(i) death; 
+4
+‘‘(ii) serious bodily harm; or 
+5
+‘‘(iii) serious economic harm, includ-
+6
+ing a terrorist act or a use of a weapon of 
+7
+mass destruction; 
+8
+‘‘(D) the purpose of responding to, inves-
+9
+tigating, prosecuting, or otherwise preventing or 
+10
+mitigating a serious threat to a minor, includ-
+11
+ing sexual exploitation or threats to physical 
+12
+safety; or 
+13
+‘‘(E) the purpose of preventing, inves-
+14
+tigating, disrupting, or prosecuting an offense 
+15
+related to a threat— 
+16
+‘‘(i) described in subparagraphs (B) 
+17
+through (D); or 
+18
+‘‘(ii) 
+specified 
+in 
+section 
+19
+105(d)(5)(A)(v) of the Cybersecurity Act 
+20
+of 2015 (enacted as division N of the Con-
+21
+solidated Appropriations Act, 2016 (Public 
+22
+Law 
+114–113; 
+6 
+U.S.C. 
+23
+1504(d)(5)(A)(v))). 
+24
+‘‘(2) EXCEPTIONS.— 
+25
+03:20 Oct 14, 2021
+H5440
+22 
+•HR 5440 IH
+‘‘(A) RAPID, 
+CONFIDENTIAL, 
+BI-DIREC-
+1
+TIONAL SHARING OF CYBER THREAT INDICA-
+2
+TORS.—Upon receiving a covered cybersecurity 
+3
+incident report submitted pursuant to this sec-
+4
+tion, the Office shall immediately review such 
+5
+report to determine whether the incident that is 
+6
+the subject of such report is connected to an 
+7
+ongoing cybersecurity threat or security vulner-
+8
+ability and where applicable, use such report to 
+9
+identify, develop, and rapidly disseminate to ap-
+10
+propriate stakeholders actionable, anonymized 
+11
+cyber threat indicators and defensive measures. 
+12
+‘‘(B) PRINCIPLES FOR SHARING SECURITY 
+13
+VULNERABILITIES.—With respect to informa-
+14
+tion in a covered cybersecurity incident report 
+15
+regarding a security vulnerability referred to in 
+16
+paragraph (1)(B)(ii), the Director shall develop 
+17
+principles that govern the timing and manner in 
+18
+which 
+information 
+relating 
+to 
+security 
+19
+vulnerabilities may be shared, consistent with 
+20
+common industry best practices and United 
+21
+States and international standards. 
+22
+‘‘(3) PRIVACY AND CIVIL LIBERTIES.—Informa-
+23
+tion contained in reports submitted to the Office 
+24
+pursuant to subsections (d) and (h) shall be re-
+25
+03:20 Oct 14, 2021
+H5440
+23 
+•HR 5440 IH
+tained, used, and disseminated, where permissible 
+1
+and appropriate, by the Federal Government in a 
+2
+manner consistent with processes for the protection 
+3
+of personal information adopted pursuant to section 
+4
+105 of the Cybersecurity Act of 2015 (enacted as di-
+5
+vision N of the Consolidated Appropriations Act, 
+6
+2016 (Public Law 114–113; 6 U.S.C. 1504)). 
+7
+‘‘(4) PROHIBITION ON USE OF INFORMATION IN 
+8
+REGULATORY ACTIONS.— 
+9
+‘‘(A) IN GENERAL.—Information contained 
+10
+in reports submitted to the Office pursuant to 
+11
+subsections (d) and (h) may not be used by any 
+12
+Federal, State, Tribal, or local government to 
+13
+regulate, including through an enforcement ac-
+14
+tion, the lawful activities of any non-Federal en-
+15
+tity. 
+16
+‘‘(B) EXCEPTION.—A report submitted to 
+17
+the Agency pursuant to subsection (d) or (h) 
+18
+may, consistent with Federal or State regu-
+19
+latory authority specifically relating to the pre-
+20
+vention and mitigation of cybersecurity threats 
+21
+to information systems, inform the development 
+22
+or implementation of regulations relating to 
+23
+such systems. 
+24
+03:20 Oct 14, 2021
+H5440
+24 
+•HR 5440 IH
+‘‘(f) PROTECTIONS FOR REPORTING ENTITIES AND 
+1
+INFORMATION.—Reports describing covered cybersecurity 
+2
+incidents submitted to the Office by covered entities in ac-
+3
+cordance with subsection (d), as well as voluntarily-sub-
+4
+mitted cybersecurity incident reports submitted to the Of-
+5
+fice pursuant to subsection (h), shall be— 
+6
+‘‘(1) entitled to the protections against liability 
+7
+described in section 106 of the Cybersecurity Act of 
+8
+2015 (enacted as division N of the Consolidated Ap-
+9
+propriations Act, 2016 (Public Law 114–113; 6 
+10
+U.S.C. 1505)); 
+11
+‘‘(2) exempt from disclosure under section 552 
+12
+of title 5, United States Code, as well as any provi-
+13
+sion of State, Tribal, or local freedom of information 
+14
+law, open government law, open meetings law, open 
+15
+records law, sunshine law, or similar law requiring 
+16
+disclosure of information or records; and 
+17
+‘‘(3) considered the commercial, financial, and 
+18
+proprietary information of the covered entity when 
+19
+so designated by the covered entity. 
+20
+‘‘(g) NONCOMPLIANCE WITH REQUIRED REPORT-
+21
+ING.— 
+22
+‘‘(1) PURPOSE.—In the event a covered entity 
+23
+experiences a cybersecurity incident but does not 
+24
+comply with the reporting requirements under this 
+25
+03:20 Oct 14, 2021
+H5440
+25 
+•HR 5440 IH
+section, the Director may obtain information about 
+1
+such incident by engaging directly such covered enti-
+2
+ty in accordance with paragraph (2) to request in-
+3
+formation about such incident, or, if the Director is 
+4
+unable to obtain such information through such en-
+5
+gagement, by issuing a subpoena to such covered en-
+6
+tity, subject to paragraph (3), to gather information 
+7
+sufficient to determine whether such incident is a 
+8
+covered cybersecurity incident, and if so, whether ad-
+9
+ditional action is warranted pursuant to paragraph 
+10
+(4). 
+11
+‘‘(2) INITIAL REQUEST FOR INFORMATION.— 
+12
+‘‘(A) IN
+GENERAL.—If the Director has 
+13
+reason to believe, whether through public re-
+14
+porting, intelligence gathering, or other infor-
+15
+mation in the Federal Government’s possession, 
+16
+that a covered entity has experienced a cyberse-
+17
+curity incident that may be a covered cyberse-
+18
+curity incident but did not submit pursuant to 
+19
+subsection (d) to the Office a covered cyberse-
+20
+curity incident report relating thereto, the Di-
+21
+rector may request information from such cov-
+22
+ered entity to confirm whether the cybersecurity 
+23
+incident at issue is a covered cybersecurity inci-
+24
+dent, and determine whether further examina-
+25
+03:20 Oct 14, 2021
+H5440
+26 
+•HR 5440 IH
+tion into the details surrounding such incident 
+1
+are warranted pursuant to paragraph (4). 
+2
+‘‘(B) TREATMENT.—Information provided 
+3
+to the Office in response to a request under 
+4
+subparagraph (A) shall be treated as if such in-
+5
+formation was submitted pursuant to the re-
+6
+porting procedures established in accordance 
+7
+with subsection (d). 
+8
+‘‘(3) AUTHORITY TO ISSUE SUBPOENAS.— 
+9
+‘‘(A) IN GENERAL.—If, after the date that 
+10
+is seven days from the date on which the Direc-
+11
+tor made a request for information in para-
+12
+graph (2), the Director has received no re-
+13
+sponse from the entity from which such infor-
+14
+mation was requested, or received an inad-
+15
+equate response, the Director may issue to such 
+16
+entity a subpoena to compel disclosure of infor-
+17
+mation the Director considers necessary to de-
+18
+termine whether a covered cybersecurity inci-
+19
+dent has occurred and assess potential impacts 
+20
+to national security, economic security, or pub-
+21
+lic health and safety, determine whether further 
+22
+examination into the details surrounding such 
+23
+incident are warranted pursuant to paragraph 
+24
+(4), and if so, compel disclosure of such infor-
+25
+03:20 Oct 14, 2021
+H5440
+27 
+•HR 5440 IH
+mation as is necessary to carry out activities 
+1
+described in subsection (c). 
+2
+‘‘(B) CIVIL ACTION.—If a covered entity 
+3
+does not comply with a subpoena, the Director 
+4
+may bring a civil action in a district court of 
+5
+the United States to enforce such subpoena. An 
+6
+action under this paragraph may be brought in 
+7
+the judicial district in which the entity against 
+8
+which the action is brought resides, is found, or 
+9
+does business. The court may punish a failure 
+10
+to obey an order of the court to comply with the 
+11
+subpoena as a contempt of court. 
+12
+‘‘(C) NON-APPLICABILITY
+OF
+PROTEC-
+13
+TIONS.—The protections described in subsection 
+14
+(f) do not apply to a covered entity that is the 
+15
+recipient of a subpoena under this paragraph 
+16
+(3). 
+17
+‘‘(4) ADDITIONAL ACTIONS.— 
+18
+‘‘(A) EXAMINATION.—If, based on the in-
+19
+formation provided in response to a subpoena 
+20
+issued pursuant to paragraph (3), the Director 
+21
+determines that the cybersecurity incident at 
+22
+issue is a significant cyber incident, or is part 
+23
+of a group of related cybersecurity incidents 
+24
+that together satisfy the definition of a signifi-
+25
+03:20 Oct 14, 2021
+H5440
+28 
+•HR 5440 IH
+cant cyber incident, and a more thorough exam-
+1
+ination of the details surrounding such incident 
+2
+is warranted in order to carry out activities de-
+3
+scribed in subsection (c), the Director may di-
+4
+rect the Office to conduct an examination of 
+5
+such incident in order to enhance the Agency’s 
+6
+situational awareness of cybersecurity threats 
+7
+across critical infrastructure sectors, in a man-
+8
+ner consistent with privacy and civil liberties 
+9
+protections under applicable law. 
+10
+‘‘(B) PROVISION
+OF
+CERTAIN
+INFORMA-
+11
+TION
+TO
+ATTORNEY
+GENERAL.—Notwith-
+12
+standing subsection (e)(4) and paragraph 
+13
+(2)(B), if the Director determines, based on the 
+14
+information provided in response to a subpoena 
+15
+issued pursuant to paragraph (3) or identified 
+16
+in the course of an examination under subpara-
+17
+graph (A), that the facts relating to the cyber-
+18
+security incident at issue may constitute 
+19
+grounds for a regulatory enforcement action or 
+20
+criminal prosecution, the Director may provide 
+21
+such information to the Attorney General or the 
+22
+appropriate regulator, who may use such infor-
+23
+mation for a regulatory enforcement action or 
+24
+criminal prosecution. 
+25
+03:20 Oct 14, 2021
+H5440
+29 
+•HR 5440 IH
+‘‘(h) VOLUNTARY
+REPORTING
+OF
+CYBER
+INCI-
+1
+DENTS.—The Agency shall receive cybersecurity incident 
+2
+reports submitted voluntarily by entities that are not cov-
+3
+ered entities, or concerning cybersecurity incidents that do 
+4
+not satisfy the definition of covered cybersecurity incidents 
+5
+but may nevertheless enhance the Agency’s situational 
+6
+awareness of cybersecurity threats across critical infra-
+7
+structure sectors. The protections under this section appli-
+8
+cable to covered cybersecurity incident reports shall apply 
+9
+in the same manner and to the same extent to voluntarily- 
+10
+submitted cybersecurity incident reports under this sub-
+11
+section. 
+12
+‘‘(i) NOTIFICATION TO IMPACTED COVERED ENTI-
+13
+TIES.—If the Director receives information regarding a 
+14
+cybersecurity incident impacting a Federal agency relating 
+15
+to unauthorized access to data provided to such Federal 
+16
+agency by a covered entity, and with respect to which such 
+17
+incident is likely to undermine the security of such covered 
+18
+entity or cause operational or reputational damage to such 
+19
+covered entity, the Director shall, to the extent prac-
+20
+ticable, notify such covered entity and provide to such cov-
+21
+ered entity such information regarding such incident as 
+22
+is necessary to enable such covered entity to address any 
+23
+such security risk or operational or reputational damage 
+24
+arising from such incident. 
+25
+03:20 Oct 14, 2021
+H5440
+30 
+•HR 5440 IH
+‘‘(j) EXEMPTION.—Subchapter I of chapter 35 of 
+1
+title 44, United States Code, does not apply to any action 
+2
+to carry out this section. 
+3
+‘‘(k) SAVING PROVISION.—Nothing in this section 
+4
+may be construed as modifying, superseding, or otherwise 
+5
+affecting in any manner any regulatory authority held by 
+6
+a Federal department or agency, including Sector Risk 
+7
+Management Agencies, existing on the day before the date 
+8
+of the enactment of this section, or any existing regulatory 
+9
+requirements or obligations that apply to covered enti-
+10
+ties.’’. 
+11
+(b) REPORTS.— 
+12
+(1) ON
+STAKEHOLDER
+ENGAGEMENT.—Not 
+13
+later than 30 days before the date on which that the 
+14
+Director of the Cybersecurity and Infrastructure Se-
+15
+curity Agency of the Department of Homeland Secu-
+16
+rity intends to issue an interim final rule under sub-
+17
+section (d)(1) of section 2220A of the Homeland Se-
+18
+curity Act of 2002 (as added by subsection (a)), the 
+19
+Director shall submit to the Committee on Home-
+20
+land Security of the House of Representatives and 
+21
+the Committee on Homeland Security and Govern-
+22
+mental Affairs of the Senate a report that describes 
+23
+how the Director engaged stakeholders in the devel-
+24
+opment of such interim final rules. 
+25
+03:20 Oct 14, 2021
+H5440
+31 
+•HR 5440 IH
+(2) ON OPPORTUNITIES TO STRENGTHEN CY-
+1
+BERSECURITY RESEARCH.—Not later than one year 
+2
+after the date of the enactment of this Act, the Di-
+3
+rector of the Cybersecurity and Infrastructure Secu-
+4
+rity Agency of the Department of Homeland Secu-
+5
+rity shall submit to the Committee on Homeland Se-
+6
+curity of the House of Representatives and the Com-
+7
+mittee on Homeland Security and Governmental Af-
+8
+fairs of the Senate a report describing how the 
+9
+Cyber Incident Review Office of the Department of 
+10
+Homeland Security (established pursuant to section 
+11
+2220A of the Homeland Security Act of 2002, as 
+12
+added by subsection (a)) has carried out activities 
+13
+under subsection (c)(6) of such section 2220A by 
+14
+proactively identifying opportunities to use cyberse-
+15
+curity incident data to inform and enable cybersecu-
+16
+rity research carried out by academic institutions 
+17
+and other private sector organizations. 
+18
+(c) TITLE XXII TECHNICAL AND CLERICAL AMEND-
+19
+MENTS.— 
+20
+(1) TECHNICAL AMENDMENTS.— 
+21
+(A) HOMELAND SECURITY ACT OF 2002.— 
+22
+Subtitle A of title XXII of the Homeland Secu-
+23
+rity Act of 2002 (6 U.S.C. 651 et seq.) is 
+24
+amended— 
+25
+03:20 Oct 14, 2021
+H5440
+32 
+•HR 5440 IH
+(i) in section 2202 (6 U.S.C. 652)— 
+1
+(I) in paragraph (11), by striking 
+2
+‘‘and’’ after the semicolon; 
+3
+(II) in the first paragraph (12) 
+4
+(relating to appointment of a Cyberse-
+5
+curity State Coordinator) by striking 
+6
+‘‘as described in section 2215; and’’ 
+7
+and inserting ‘‘as described in section 
+8
+2217;’’; 
+9
+(III) by redesignating the second 
+10
+paragraph (12) (relating to the .gov 
+11
+internet domain) as paragraph (13); 
+12
+and 
+13
+(IV) by redesignating the third 
+14
+paragraph (12) (relating to carrying 
+15
+out such other duties and responsibil-
+16
+ities) as paragraph (14); 
+17
+(ii) in the first section 2215 (6 U.S.C. 
+18
+665; relating to the duties and authorities 
+19
+relating to .gov internet domain), by 
+20
+amending the section enumerator and 
+21
+heading to read as follows: 
+22
+03:20 Oct 14, 2021
+H5440
+33 
+•HR 5440 IH
+‘‘SEC. 2215. DUTIES AND AUTHORITIES RELATING TO .GOV 
+1
+INTERNET DOMAIN.’’; 
+2
+(iii) in the second section 2215 (6 
+3
+U.S.C. 665b; relating to the joint cyber 
+4
+planning office), by amending the section 
+5
+enumerator and heading to read as follows: 
+6
+‘‘SEC. 2216. JOINT CYBER PLANNING OFFICE.’’; 
+7
+(iv) in the third section 2215 (6 
+8
+U.S.C. 665c; relating to the Cybersecurity 
+9
+State Coordinator), by amending the sec-
+10
+tion enumerator and heading to read as 
+11
+follows: 
+12
+‘‘SEC. 2217. CYBERSECURITY STATE COORDINATOR.’’; 
+13
+(v) in the fourth section 2215 (6 
+14
+U.S.C. 665d; relating to Sector Risk Man-
+15
+agement Agencies), by amending the sec-
+16
+tion enumerator and heading to read as 
+17
+follows: 
+18
+‘‘SEC. 2218. SECTOR RISK MANAGEMENT AGENCIES.’’; 
+19
+(vi) in section 2216 (6 U.S.C. 665e; 
+20
+relating to the Cybersecurity Advisory 
+21
+Committee), by amending the section enu-
+22
+merator and heading to read as follows: 
+23
+‘‘SEC. 2219. CYBERSECURITY ADVISORY COMMITTEE.’’; 
+24
+and 
+25
+03:20 Oct 14, 2021
+H5440
+34 
+•HR 5440 IH
+(vii) in section 2217 (6 U.S.C. 665f; 
+1
+relating to Cybersecurity Education and 
+2
+Training Programs), by amending the sec-
+3
+tion enumerator and heading to read as 
+4
+follows: 
+5
+‘‘SEC. 2220. CYBERSECURITY EDUCATION AND TRAINING 
+6
+PROGRAMS.’’. 
+7
+(B) CONSOLIDATED APPROPRIATIONS ACT, 
+8
+2021.—Paragraph (1) of section 904(b) of divi-
+9
+sion U of the Consolidated Appropriations Act, 
+10
+2021 (Public Law 116–260) is amended, in the 
+11
+matter preceding subparagraph (A), by insert-
+12
+ing ‘‘of 2002’’ after ‘‘Homeland Security Act’’. 
+13
+(2) CLERICAL AMENDMENT.—The table of con-
+14
+tents in section 1(b) of the Homeland Security Act 
+15
+of 2002 is amended by striking the items relating to 
+16
+sections 2214 through 2217 and inserting the fol-
+17
+lowing new items: 
+18
+‘‘Sec. 2214. National Asset Database. 
+‘‘Sec. 2215. Duties and authorities relating to .gov internet domain. 
+‘‘Sec. 2216. Joint cyber planning office. 
+‘‘Sec. 2217. Cybersecurity State Coordinator. 
+‘‘Sec. 2218. Sector Risk Management Agencies. 
+‘‘Sec. 2219. Cybersecurity Advisory Committee. 
+‘‘Sec. 2220. Cybersecurity Education and Training Programs. 
+‘‘Sec. 2220A. Cyber Incident Review Office.’’. 
+Æ 
+03:20 Oct 14, 2021
+H5440

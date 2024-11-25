@@ -1,0 +1,1333 @@
+A BILL 
+To enhance the innovation, security, and availability of cloud 
+computing services used in the Federal Government by 
+establishing the Federal Risk and Authorization Manage-
+ment Program within the General Services Administra-
+tion and by establishing a risk management, authoriza-
+tion, and continuous monitoring process to enable the 
+Federal Government to leverage cloud computing services 
+using a risk-based approach consistent with the Federal 
+Information Security Modernization Act of 2014 and 
+cloud-based operations, and for other purposes. 
+01:13 Aug 09, 2019
+H3941
+2 
+•HR 3941 IH
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Federal Risk and Au-
+4
+thorization Management Program Authorization Act of 
+5
+2019’’ or the ‘‘FedRAMP Authorization Act’’. 
+6
+SEC. 2. CODIFICATION OF THE FEDRAMP PROGRAM. 
+7
+(a) AMENDMENT.—Chapter 36 of title 44, United 
+8
+States Code, is amended by adding at the end the fol-
+9
+lowing new sections: 
+10
+‘‘§ 3607. Federal Risk and Authorization Management 
+11
+Program 
+12
+‘‘(a) ESTABLISHMENT.—There is established within 
+13
+the General Services Administration the Federal Risk and 
+14
+Authorization Management Program. The Administrator 
+15
+of General Services, in accordance with the guidelines es-
+16
+tablished pursuant to section 3612, shall establish a gov-
+17
+ernmentwide program that provides the authoritative 
+18
+standardized approach to security assessment and author-
+19
+ization for cloud computing products and services that 
+20
+process unclassified information used by agencies. 
+21
+‘‘(b) COMPONENTS OF FEDRAMP.—There are estab-
+22
+lished as components of FedRAMP the Joint Authoriza-
+23
+tion Board and the Program Management Office, or such 
+24
+successor offices as the Administrator may determine. 
+25
+01:13 Aug 09, 2019
+H3941
+3 
+•HR 3941 IH
+‘‘§ 3608. FedRAMP Program Management Office 
+1
+‘‘(a) GSA DUTIES.— 
+2
+‘‘(1) ROLES AND RESPONSIBILITIES.—The Ad-
+3
+ministrator of General Services shall— 
+4
+‘‘(A) determine the categories and charac-
+5
+teristics of information technology goods or 
+6
+services that are within the jurisdiction of 
+7
+FedRAMP and that require FedRAMP author-
+8
+ization from the Joint Authorization Board or 
+9
+the FedRAMP Program Management Office, 
+10
+including the role of cloud brokers and cloud 
+11
+service integrators; 
+12
+‘‘(B) develop, coordinate, and implement a 
+13
+process for the FedRAMP Program Manage-
+14
+ment Office and the Joint Authorization Board 
+15
+to conduct security assessments of cloud com-
+16
+puting services, review authorizations and as-
+17
+sessments submitted by agencies pursuant to 
+18
+subsections (b) and (c) of section 3611, and ap-
+19
+propriate oversight of continuous monitoring of 
+20
+cloud computing services; 
+21
+‘‘(C) oversee the administration of the 
+22
+Federal Secure Cloud Advisory Committee, es-
+23
+tablished pursuant to section 3615; and 
+24
+‘‘(D) ensure the continuous improvement 
+25
+of FedRAMP. 
+26
+01:13 Aug 09, 2019
+H3941
+4 
+•HR 3941 IH
+‘‘(2) IMPLEMENTATION.—The Administrator 
+1
+shall oversee the implementation of FedRAMP, in-
+2
+cluding— 
+3
+‘‘(A) appointing a Program Director to 
+4
+oversee the FedRAMP Program Management 
+5
+Office; 
+6
+‘‘(B) hiring professional staff as may be 
+7
+necessary for the effective operation of the 
+8
+FedRAMP Program Management Office, and 
+9
+such other activities as are essential to properly 
+10
+perform critical functions; 
+11
+‘‘(C) entering into interagency agreements 
+12
+to detail personnel on a reimbursable or non-re-
+13
+imbursable basis to assist the FedRAMP Pro-
+14
+gram Management Office and the Joint Author-
+15
+ization Board in discharging the responsibilities 
+16
+of the Office under this section; 
+17
+‘‘(D) adjudicating disagreements between 
+18
+the Joint Authorization Board and cloud service 
+19
+providers seeking a provisional authorization to 
+20
+operate through the Joint Authorization Board; 
+21
+and 
+22
+‘‘(E) such other actions as the Adminis-
+23
+trator may determine necessary to carry out 
+24
+this section. 
+25
+01:13 Aug 09, 2019
+H3941
+5 
+•HR 3941 IH
+‘‘(b) DUTIES.—The FedRAMP Program Manage-
+1
+ment Office shall have the following duties: 
+2
+‘‘(1) Establish requirements and guidelines for 
+3
+security assessments of cloud computing services, 
+4
+consistent with standards defined by the National 
+5
+Institute of Standards and Technology, to be used 
+6
+by the Joint Authorization Board and agencies. 
+7
+‘‘(2) Provide guidance to independent assess-
+8
+ment organizations and oversee the execution of 
+9
+independent assessments in using and applying the 
+10
+requirements and guidelines adopted in paragraph 
+11
+(1). 
+12
+‘‘(3) Oversee and issue guidelines regarding the 
+13
+qualifications, roles, and responsibilities of inde-
+14
+pendent assessment organizations. 
+15
+‘‘(4) Develop templates and other materials to 
+16
+support the Joint Authorization Board and agencies 
+17
+in the authorization of cloud computing services to 
+18
+increase the speed, effectiveness, and transparency 
+19
+of the authorization process, consistent with stand-
+20
+ards defined by the National Institute of Standards 
+21
+and Technology. 
+22
+‘‘(5) Establish and maintain a public comment 
+23
+process for proposed guidance before the issuance of 
+24
+such guidance by FedRAMP. 
+25
+01:13 Aug 09, 2019
+H3941
+6 
+•HR 3941 IH
+‘‘(6) Issue FedRAMP authorization for any au-
+1
+thorizations to operate issued by an agency that 
+2
+meets the requirements and guidelines described in 
+3
+paragraph (1). 
+4
+‘‘(7) Establish frameworks for agencies to use 
+5
+authorization packages processed by the FedRAMP 
+6
+Program Management Office and Joint Authoriza-
+7
+tion Board. 
+8
+‘‘(8) Coordinate with the Department of Home-
+9
+land Security to establish a framework for contin-
+10
+uous monitoring and reporting required of agencies 
+11
+pursuant to section 3554. 
+12
+‘‘(9) Issue examples of security architectures to 
+13
+agencies and cloud computing services to better 
+14
+standardize and replicate secure configurations with-
+15
+in a single cloud service and among cloud services. 
+16
+‘‘(10) Establish a centralized and secure reposi-
+17
+tory to collect and share necessary data, including 
+18
+security authorization packages, from the Joint Au-
+19
+thorization Board and agencies to enable better 
+20
+sharing and reuse to such packages across agencies. 
+21
+‘‘(c) EVALUATION OF AUTOMATION PROCEDURES.— 
+22
+‘‘(1) IN
+GENERAL.—The FedRAMP Program 
+23
+Management Office shall assess and evaluate avail-
+24
+able automation capabilities and procedures to im-
+25
+01:13 Aug 09, 2019
+H3941
+7 
+•HR 3941 IH
+prove the efficiency and effectiveness of the issuance 
+1
+of provisional authorizations to operate issued by the 
+2
+Joint Authorization Board and FedRAMP author-
+3
+izations, including better control inheritance and 
+4
+continuous monitoring of cloud environments and 
+5
+among cloud environments. 
+6
+‘‘(2) MEANS FOR AUTOMATION.—Not later than 
+7
+1 year after the date of the enactment of this section 
+8
+and updated annually thereafter, the FedRAMP 
+9
+Program Management Office shall establish a means 
+10
+for the automation of security assessments and re-
+11
+views. 
+12
+‘‘(d) 
+METRICS
+FOR
+AUTHORIZATION.—The 
+13
+FedRAMP Program Management Office shall establish 
+14
+annual metrics regarding the time and quality of the as-
+15
+sessments necessary for completion of a FedRAMP au-
+16
+thorization process in a manner that can be consistently 
+17
+tracked over time in conjunction with the periodic testing 
+18
+and evaluation process pursuant to section 3553 in a man-
+19
+ner that minimizes the agency reporting burden. 
+20
+‘‘§ 3609. Joint Authorization Board 
+21
+‘‘(a) ESTABLISHMENT.—There is established the 
+22
+Joint Authorization Board which shall consist of 3 secu-
+23
+rity experts, appointed by the Director in consultation 
+24
+with the Administrator, from each of the following: 
+25
+01:13 Aug 09, 2019
+H3941
+8 
+•HR 3941 IH
+‘‘(1) The Department of Defense. 
+1
+‘‘(2) The Department of Homeland Security. 
+2
+‘‘(3) The General Services Administration. 
+3
+‘‘(b) ISSUANCE OF PROVISIONAL AUTHORIZATIONS 
+4
+TO OPERATE.—The Joint Authorization Board shall con-
+5
+duct security assessments of cloud computing services and 
+6
+issue provisional authorizations to operate to cloud service 
+7
+providers that meet FedRAMP security guidelines set 
+8
+forth in section 3608(b)(1). 
+9
+‘‘(c) DUTIES.—The Joint Authorization Board 
+10
+shall— 
+11
+‘‘(1) develop and make publicly available on a 
+12
+website, determined by the Administrator, criteria 
+13
+for prioritizing and selecting cloud computing serv-
+14
+ices to be assessed by the Joint Authorization Board 
+15
+and to provide regular updates on the status of any 
+16
+cloud computing service during the assessment and 
+17
+authorization process of the Joint Authorization 
+18
+Board; 
+19
+‘‘(2) review and validate cloud computing serv-
+20
+ices and independent assessment organization au-
+21
+thorization packages; 
+22
+‘‘(3) in consultation with the FedRAMP Pro-
+23
+gram Management Office, serve as a resource for 
+24
+best practices to accelerate the FedRAMP process; 
+25
+01:13 Aug 09, 2019
+H3941
+9 
+•HR 3941 IH
+‘‘(4) perform such other roles and responsibil-
+1
+ities as the Administrator may assign, in consulta-
+2
+tion with the FedRAMP Program Management Of-
+3
+fice and members of the Joint Authorization Board; 
+4
+and 
+5
+‘‘(5) establish metrics and goals for reviews and 
+6
+activities associated with issuing provisional author-
+7
+izations to operate. 
+8
+‘‘(d) DETERMINATIONS
+OF DEMAND
+FOR CLOUD 
+9
+COMPUTING SERVICES.—The Joint Authorization Board 
+10
+shall consult with the head of each agency to establish a 
+11
+process for prioritizing and accepting the cloud computing 
+12
+services to be granted a provisional authorization to oper-
+13
+ate through the Joint Authorization Board, which shall 
+14
+be made available on a public website. 
+15
+‘‘(e) DETAIL OF PERSONNEL.—To assist the Joint 
+16
+Authorization Board in discharging the responsibilities 
+17
+under this section, personnel of agencies may be detailed 
+18
+to the Joint Authorization Board for the performance of 
+19
+duties described under subsection (c). 
+20
+‘‘§ 3610. Independent assessment organizations 
+21
+‘‘(a) REQUIREMENTS
+FOR
+ACCREDITATION.—The 
+22
+Administrator, in consultation with the Joint Authoriza-
+23
+tion Board, shall determine the requirements for certifi-
+24
+cation of independent assessment organizations. Such re-
+25
+01:13 Aug 09, 2019
+H3941
+10 
+•HR 3941 IH
+quirements may include developing or requiring certifi-
+1
+cation programs for individuals employed by the inde-
+2
+pendent assessment organizations who lead FedRAMP as-
+3
+sessment teams. 
+4
+‘‘(b) ASSESSMENT.—Accredited independent assess-
+5
+ment organizations may assess, validate, and attest to the 
+6
+quality and compliance of security assessment materials 
+7
+provided by cloud service providers. 
+8
+‘‘§ 3611. Roles and responsibilities of agencies 
+9
+‘‘(a) IN GENERAL.—In implementing the require-
+10
+ments of FedRAMP, the head of each agency shall, con-
+11
+sistent with guidance issued by the Director pursuant to 
+12
+section 3612— 
+13
+‘‘(1) create policies to ensure cloud computing 
+14
+services used by the agency meet FedRAMP security 
+15
+requirements and other risk-based performance re-
+16
+quirements as defined by the Director; 
+17
+‘‘(2) issue agency-specific authorizations to op-
+18
+erate for cloud computing services in compliance 
+19
+with section 3553; 
+20
+‘‘(3) confirm whether there is a provisional au-
+21
+thorization to operate in the cloud security reposi-
+22
+tory established under section 3608(b)(10) issued by 
+23
+the Joint Authorization Board or a FedRAMP au-
+24
+thorization issued by the FedRAMP Program Man-
+25
+01:13 Aug 09, 2019
+H3941
+11 
+•HR 3941 IH
+agement Office before beginning an agency author-
+1
+ization for a cloud computing product or service; 
+2
+‘‘(4) to the extent practicable, for any cloud 
+3
+computing product or service the agency seeks to au-
+4
+thorize that has received either a provisional author-
+5
+ization to operate by the Joint Authorization Board 
+6
+or a FedRAMP authorization by the FedRAMP Pro-
+7
+gram Management Office, use the existing assess-
+8
+ments of security controls and materials within the 
+9
+authorization package; and 
+10
+‘‘(5) provide data and information required to 
+11
+the Director pursuant to section 3612 to determine 
+12
+how agencies are meeting metrics as defined by the 
+13
+FedRAMP Program Management Office. 
+14
+‘‘(b) SUBMISSION
+OF POLICIES REQUIRED.—Not 
+15
+later than 6 months after the date of the enactment of 
+16
+this section, the head of each agency shall submit to the 
+17
+Director the policies created pursuant to subsection (a)(1) 
+18
+for review and approval. 
+19
+‘‘(c) SUBMISSION OF AUTHORIZATIONS TO OPERATE 
+20
+REQUIRED.—Upon issuance of an authorization to oper-
+21
+ate, the head of each agency shall provide a copy of the 
+22
+authorization to operate letter and any supplementary in-
+23
+formation required pursuant to section 3608(b) to the 
+24
+FedRAMP Program Management Office. 
+25
+01:13 Aug 09, 2019
+H3941
+12 
+•HR 3941 IH
+‘‘(d) PRESUMPTION OF ADEQUACY.— 
+1
+‘‘(1) IN GENERAL.—The assessment of security 
+2
+controls and materials within the authorization 
+3
+package for provisional authorizations to operate 
+4
+issued by the Joint Authorization Board and agency 
+5
+authorizations to operate that receive FedRAMP au-
+6
+thorization from the Program Management Office 
+7
+shall be presumed adequate for use in agency au-
+8
+thorizations of cloud computing products and serv-
+9
+ices. 
+10
+‘‘(2) 
+INFORMATION
+SECURITY
+REQUIRE-
+11
+MENTS.—The presumption under paragraph (1) 
+12
+does not modify or alter the responsibility of any 
+13
+agency to ensure compliance with subchapter II of 
+14
+chapter 35 for any cloud computing products or 
+15
+services used by the agency. 
+16
+‘‘§ 3612. Roles and responsibilities of the Office of 
+17
+Management and Budget 
+18
+‘‘The Director shall have the following duties: 
+19
+‘‘(1) Issue guidance to ensure that an agency 
+20
+does not operate a Federal Government cloud com-
+21
+puting service using Government data without 
+22
+issuing an authorization to operate issued by the 
+23
+agency that meets the requirements of subchapter II 
+24
+of chapter 35 and FedRAMP. 
+25
+01:13 Aug 09, 2019
+H3941
+13 
+•HR 3941 IH
+‘‘(2) Ensure agencies are in compliance with 
+1
+any guidance or other requirements issued related to 
+2
+FedRAMP. 
+3
+‘‘(3) Review, analyze, and update guidance on 
+4
+the adoption, security, and use of cloud computing 
+5
+services used by agencies. 
+6
+‘‘(4) Ensure the Joint Authorization Board is 
+7
+in compliance with section 3609(c). 
+8
+‘‘(5) Promulgate regulations on the role of 
+9
+FedRAMP authorization in agency acquisition of 
+10
+cloud computing products and services that process 
+11
+unclassified information. 
+12
+‘‘§ 3613. 
+Authorization 
+of 
+appropriations 
+for 
+13
+FedRAMP 
+14
+‘‘There is authorized to be appropriated $25,000,000 
+15
+each year for the FedRAMP Program Management Office 
+16
+and the Joint Authorization Board. 
+17
+‘‘§ 3614. Reports to Congress 
+18
+‘‘Not later than 12 months after the date of the en-
+19
+actment of this section, and annually thereafter, the Di-
+20
+rector shall submit to the Committee on Oversight and 
+21
+Reform of the House of Representatives and the Com-
+22
+mittee on Homeland Security and Governmental Affairs 
+23
+of the Senate a report that includes the following: 
+24
+01:13 Aug 09, 2019
+H3941
+14 
+•HR 3941 IH
+‘‘(1) The status, efficiency, and effectiveness of 
+1
+FedRAMP and agencies during the preceding year 
+2
+in supporting the speed, effectiveness, sharing, 
+3
+reuse, and security of authorizations to operate for 
+4
+cloud computing products and services, including 
+5
+progress towards meeting the metrics adopted by the 
+6
+FedRAMP Program Management Office pursuant to 
+7
+section 3608(d) and the Joint Authorization Board 
+8
+pursuant to section 3609(c)(5). 
+9
+‘‘(2) Data on agency use of provisional author-
+10
+izations to operate issued by the Joint Authorization 
+11
+Board and agency sponsored authorizations that re-
+12
+ceive FedRAMP authorization by the FedRAMP 
+13
+Program Management Office. 
+14
+‘‘(3) The length of time for the Joint Author-
+15
+ization Board to review applications for and issue 
+16
+provisional authorizations to operate. 
+17
+‘‘(4) The length of time for the FedRAMP Pro-
+18
+gram Management Office to review agency applica-
+19
+tions for and issue FedRAMP authorization. 
+20
+‘‘(5) The number of provisional authorizations 
+21
+to operate issued by each the Joint Authorization 
+22
+Board and FedRAMP authorizations issued by the 
+23
+FedRAMP Program Management Office for the pre-
+24
+vious year. 
+25
+01:13 Aug 09, 2019
+H3941
+15 
+•HR 3941 IH
+‘‘(6) A review of progress made during the pre-
+1
+ceding year in advancing automation techniques to 
+2
+securely automate FedRAMP processes and to accel-
+3
+erate reporting as described in this section. 
+4
+‘‘(7) The number and characteristics of author-
+5
+ized cloud computing services in use at each agency 
+6
+consistent with guidance provided by the Director in 
+7
+section 3612. 
+8
+‘‘§ 3615. Federal Secure Cloud Advisory Committee 
+9
+‘‘(a) ESTABLISHMENT, PURPOSES, AND DUTIES.— 
+10
+‘‘(1) 
+ESTABLISHMENT.—The 
+Administrator 
+11
+shall establish within the General Services Adminis-
+12
+tration the Federal Secure Cloud Advisory (referred 
+13
+to in this section as the ‘Committee’) to ensure ef-
+14
+fective and ongoing coordination of agency adoption, 
+15
+use, authorization, monitoring, acquisition, and secu-
+16
+rity of cloud computing products and services to en-
+17
+able agency mission and administrative priorities. 
+18
+‘‘(2) PURPOSES.—The purposes of the Com-
+19
+mittee are to: 
+20
+‘‘(A) Examine the operations of FedRAMP 
+21
+and determine ways that authorization proc-
+22
+esses can continuously be improved. 
+23
+01:13 Aug 09, 2019
+H3941
+16 
+•HR 3941 IH
+‘‘(B) Collect information and feedback on 
+1
+agency compliance with and implementation of 
+2
+FedRAMP requirements. 
+3
+‘‘(C) Serve as a forum that facilitates com-
+4
+munication 
+and 
+collaboration 
+among 
+the 
+5
+FedRAMP stakeholder community. 
+6
+‘‘(3) DUTIES.—The duties of the Committee 
+7
+are, at a minimum, the following: 
+8
+‘‘(A) Provide advice and recommendations 
+9
+to the Administrator, the Joint Authorization 
+10
+Board, and to agencies on technical, financial, 
+11
+programmatic, and operational matters regard-
+12
+ing secure adoption of cloud computing services. 
+13
+‘‘(B) Submit reports as required. 
+14
+‘‘(b) MEMBERS.— 
+15
+‘‘(1) COMPOSITION.—The Committee shall be 
+16
+comprised of not more than 15 members who are 
+17
+qualified representatives from the public and private 
+18
+sectors, appointed by the Administrator, in consulta-
+19
+tion with the Administrator of the Office of Elec-
+20
+tronic Government, as follows: 
+21
+‘‘(A) The Administrator or the Administra-
+22
+tor’s designee, who shall be the Chair of the 
+23
+Committee. 
+24
+01:13 Aug 09, 2019
+H3941
+17 
+•HR 3941 IH
+‘‘(B) At least 1 representative each from 
+1
+the Cybersecurity and Infrastructure Security 
+2
+Agency and the National Institute of Standards 
+3
+and Technology. 
+4
+‘‘(C) At least 2 officials who serve as the 
+5
+Chief Information Security Officer within an 
+6
+agency, who shall be required to maintain such 
+7
+a position throughout the duration of their serv-
+8
+ice on the Committee. 
+9
+‘‘(D) At least 1 official serving as Chief 
+10
+Procurement Officer (or equivalent) in an agen-
+11
+cy, who shall be required to maintain such a po-
+12
+sition throughout the duration of their service 
+13
+on the Committee. 
+14
+‘‘(E) No fewer than 5 representatives from 
+15
+businesses that primarily provide cloud com-
+16
+puting services or products, including at least 2 
+17
+representatives from a small business (as de-
+18
+fined by section 3(a) of the Small Business Act 
+19
+(15 U.S.C. 632(a))). 
+20
+‘‘(F) Any other representatives as the Ad-
+21
+ministrator determines to be necessary to pro-
+22
+vide sufficient balance, insights, or expertise to 
+23
+the Committee. 
+24
+01:13 Aug 09, 2019
+H3941
+18 
+•HR 3941 IH
+‘‘(2) DEADLINE
+FOR
+APPOINTMENT.—Each 
+1
+member of the Committee shall be appointed not 
+2
+later than 30 days after the date of the enactment 
+3
+of this Act. 
+4
+‘‘(3) PERIOD OF APPOINTMENT; VACANCIES.— 
+5
+‘‘(A) IN GENERAL.—Each member of the 
+6
+Committee shall be appointed for a term of 3 
+7
+years, except that the initial terms for members 
+8
+may be staggered 1, 2, or 3 year terms to es-
+9
+tablish a rotation in which one-third of the 
+10
+members are selected each year. Any such 
+11
+member may be appointed for not more than 2 
+12
+consecutive terms. 
+13
+‘‘(B) VACANCIES.—Any vacancy in the 
+14
+Committee shall not affect its powers, but shall 
+15
+be filled in the same manner in which the origi-
+16
+nal appointment was made. Any member ap-
+17
+pointed to fill a vacancy occurring before the 
+18
+expiration of the term for which the member’s 
+19
+predecessor was appointed shall be appointed 
+20
+only for the remainder of that term. A member 
+21
+may serve after the expiration of that member’s 
+22
+term until a successor has taken office. 
+23
+‘‘(c) MEETINGS AND RULES OF PROCEDURES.— 
+24
+01:13 Aug 09, 2019
+H3941
+19 
+•HR 3941 IH
+‘‘(1) MEETINGS.—The Committee shall hold 
+1
+not less than 3 meetings in a calendar year, at such 
+2
+time and place as determined by the Chair. 
+3
+‘‘(2) INITIAL
+MEETING.—Not later than 120 
+4
+days after the date of the enactment of this section, 
+5
+the Committee shall meet and begin the operations 
+6
+of the Committee. 
+7
+‘‘(3) RULES OF PROCEDURE.—The Committee 
+8
+may establish rules for the conduct of the business 
+9
+of the Committee, if such rules are not inconsistent 
+10
+with this section or other applicable law. 
+11
+‘‘(d) TRAVEL EXPENSES.—While away from their 
+12
+homes or regular places of business in the performance 
+13
+of services for the Committee, members of the Committee 
+14
+shall be allowed travel expenses, including per diem in lieu 
+15
+of subsistence, in the same manner as persons employed 
+16
+intermittently in the Government service are allowed ex-
+17
+penses under section 5703(b) of title 5, United States 
+18
+Code. 
+19
+‘‘(e) APPLICABILITY TO THE FEDERAL ADVISORY 
+20
+COMMITTEE ACT.—Notwithstanding any other provision 
+21
+of law, the Federal Advisory Committee Act (5 U.S.C. 
+22
+App.) shall apply to the Committee, except that section 
+23
+14 of such Act shall not apply. 
+24
+01:13 Aug 09, 2019
+H3941
+20 
+•HR 3941 IH
+‘‘(f) HEARINGS AND EVIDENCE.—The Committee, or 
+1
+on the authority of the Committee, any subcommittee, 
+2
+may, for the purposes of carrying out this section, hold 
+3
+hearings, sit and act at such times and places, take testi-
+4
+mony, receive evidence, and administer oaths. 
+5
+‘‘(g) CONTRACTING.—The Committee, may, to such 
+6
+extent and in such amounts as are provided in appropria-
+7
+tion Acts, enter into contracts to enable the Committee 
+8
+to discharge its duties under this section. 
+9
+‘‘(h) INFORMATION FROM FEDERAL AGENCIES.— 
+10
+‘‘(1) IN GENERAL.—The Committee is author-
+11
+ized to secure directly from any executive depart-
+12
+ment, bureau, agency, board, commission, office, 
+13
+independent establishment, or instrumentality of the 
+14
+Government, information, suggestions, estimates, 
+15
+and statistics for the purposes of the Committee. 
+16
+Each department, bureau, agency, board, commis-
+17
+sion, office, independent establishment, or instru-
+18
+mentality shall, to the extent authorized by law, fur-
+19
+nish such information, suggestions, estimates, and 
+20
+statistics directly to the Committee, upon request 
+21
+made by the Chair, the Chair of any subcommittee 
+22
+created by a majority of the Committee, or any 
+23
+member designated by a majority of the Committee. 
+24
+01:13 Aug 09, 2019
+H3941
+21 
+•HR 3941 IH
+‘‘(2) RECEIPT, HANDLING, STORAGE, AND DIS-
+1
+SEMINATION.—Information may only be received, 
+2
+handled, stored, and disseminated by members of 
+3
+the Committee and its staff consistent with all appli-
+4
+cable statutes, regulations, and Executive orders. 
+5
+‘‘(i) ASSISTANCE FROM AGENCIES.— 
+6
+‘‘(1) OTHER DEPARTMENTS AND AGENCIES.— 
+7
+In addition to the administration of the Committee 
+8
+by the General Services Administration, other agen-
+9
+cies may provide to the Committee such services, 
+10
+funds, facilities, staff, and other support services as 
+11
+the head of the agency determines to be advisable 
+12
+and as is authorized by law. 
+13
+‘‘(2) DETAIL
+OF
+EMPLOYEES.—Any Federal 
+14
+Government employee may be detailed to the Com-
+15
+mittee without reimbursement from the Committee, 
+16
+and such detailee shall retain the rights, status, and 
+17
+privileges of his or her regular employment without 
+18
+interruption. 
+19
+‘‘(j) GIFTS.—The Committee may accept, use, and 
+20
+dispose of gifts or donations of services or property. 
+21
+‘‘(k) POSTAL SERVICES.—The Committee may use 
+22
+the United States mails in the same manner and under 
+23
+the same conditions as agencies. 
+24
+01:13 Aug 09, 2019
+H3941
+22 
+•HR 3941 IH
+‘‘(l) EXPERT
+AND CONSULTANT SERVICES.—The 
+1
+Committee is authorized to procure the services of experts 
+2
+and consultants in accordance with section 3109 of title 
+3
+5, but at rates not to exceed the daily rate paid a person 
+4
+occupying a position at Level IV of the Executive Schedule 
+5
+under section 5315 of title 5. 
+6
+‘‘(m) VOLUNTEER SERVICES.—Notwithstanding sec-
+7
+tion 1342 of title 31, the Committee may accept and use 
+8
+voluntary and uncompensated services as the Committee 
+9
+determines necessary. 
+10
+‘‘(n) REPORTS.— 
+11
+‘‘(1) INTERIM REPORTS.—The Committee may 
+12
+submit to the Administrator and Congress interim 
+13
+reports containing such findings, conclusions, and 
+14
+recommendations as have been agreed to by the 
+15
+Committee. 
+16
+‘‘(2) ANNUAL
+REPORTS.—Not later than 18 
+17
+months after the date of the enactment of this sec-
+18
+tion, and annually thereafter, the Committee shall 
+19
+submit to the Administrator and Congress a final re-
+20
+port containing such findings, conclusions, and rec-
+21
+ommendations as have been agreed to by the Com-
+22
+mittee. 
+23
+‘‘(o) SUNSET PROVISION.—The authority and obliga-
+24
+tions established by this section shall terminate on the 
+25
+01:13 Aug 09, 2019
+H3941
+23 
+•HR 3941 IH
+date that is five years after the date of the enactment of 
+1
+this section. 
+2
+‘‘§ 3616. Definitions 
+3
+‘‘(a) IN GENERAL.—Except as provided under sub-
+4
+section (b), the definitions under sections 3502 and 3552 
+5
+apply to sections 3607 through this section. 
+6
+‘‘(b) ADDITIONAL DEFINITIONS.—In sections 3607 
+7
+through this section: 
+8
+‘‘(1) ADMINISTRATOR.—The term ‘Adminis-
+9
+trator’ means the Administrator of General Services. 
+10
+‘‘(2) AUTHORIZATION
+PACKAGE.—The term 
+11
+‘authorization package’— 
+12
+‘‘(A) means the essential information used 
+13
+to determine whether to authorize the operation 
+14
+of an information system or the use of a des-
+15
+ignated set of common controls; and 
+16
+‘‘(B) at a minimum, includes the informa-
+17
+tion system security plan, privacy plan, security 
+18
+control assessment, privacy control assessment, 
+19
+and any relevant plans of action and milestones. 
+20
+‘‘(3) CLOUD BROKER.—The term ‘cloud broker’ 
+21
+means an entity that manages the use, performance, 
+22
+and delivery of cloud computing services and nego-
+23
+tiates relationships between cloud service providers 
+24
+and cloud consumers. 
+25
+01:13 Aug 09, 2019
+H3941
+24 
+•HR 3941 IH
+‘‘(4) CLOUD
+COMPUTING.—The term ‘cloud 
+1
+computing’ has the meaning given that term by the 
+2
+National Institutes of Standards and Technology in 
+3
+NIST Special Publication 800–145 and any amend-
+4
+atory or superseding document thereto. 
+5
+‘‘(5) CLOUD
+SERVICE
+PROVIDER.—The term 
+6
+‘cloud service provider’ means a non-Federal entity 
+7
+offering cloud computing services to agencies. 
+8
+‘‘(6) 
+FEDRAMP.—The 
+term 
+‘FedRAMP’ 
+9
+means the Federal Risk and Authorization Manage-
+10
+ment Program established under section 3607(a). 
+11
+‘‘(7) FEDRAMP AUTHORIZATION.—The term 
+12
+‘FedRAMP authorization’ means a cloud computing 
+13
+product or service that has received an agency au-
+14
+thorization to operate and has been certified by the 
+15
+FedRAMP Program Management Office to meet re-
+16
+quirements and guidelines established by the 
+17
+FedRAMP Program Management Office. 
+18
+‘‘(8) FEDRAMP PROGRAM
+MANAGEMENT
+OF-
+19
+FICE.—The term ‘FedRAMP Program Management 
+20
+Office’ means the office that administers FedRAMP. 
+21
+‘‘(9) INDEPENDENT
+ASSESSMENT
+ORGANIZA-
+22
+TION.—The term ‘independent assessment organiza-
+23
+tion’ means a third-party organization accredited by 
+24
+the Program Director of the FedRAMP Program 
+25
+01:13 Aug 09, 2019
+H3941
+25 
+•HR 3941 IH
+Management Office to undertake conformity assess-
+1
+ments of cloud service providers. 
+2
+‘‘(10) JOINT
+AUTHORIZATION
+BOARD.—The 
+3
+term ‘Joint Authorization Board’ means the Joint 
+4
+Authorization Board established under section 3609. 
+5
+‘‘(11) SECURITY
+ARCHITECTURE.—The term 
+6
+‘security architecture’ means a set of physical and 
+7
+logical security-relevant representations of system 
+8
+architecture that conveys information about how the 
+9
+system is partitioned into security domains and 
+10
+makes use of security-relevant elements to enforce 
+11
+security policies within and between security do-
+12
+mains based on how data and information must be 
+13
+protected.’’. 
+14
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+15
+The table of sections for chapter 36 of title 44, United 
+16
+States Code, is amended by adding at the end the fol-
+17
+lowing new items: 
+18
+‘‘3607. Federal Risk and Authorization Management Program. 
+‘‘3608. FedRAMP Program Management Office. 
+‘‘3609. Joint Authorization Board. 
+‘‘3610. Independent assessment organizations. 
+‘‘3611. Roles and responsibilities of agencies. 
+‘‘3612. Roles and responsibilities of the Office of Management and Budget. 
+‘‘3613. Authorization of appropriations for FedRAMP. 
+‘‘3614. Reports to Congress. 
+‘‘3615. Federal Secure Cloud Advisory Committee. 
+‘‘3616. Definitions.’’. 
+Æ 
+01:13 Aug 09, 2019
+H3941

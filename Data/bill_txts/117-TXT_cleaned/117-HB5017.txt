@@ -1,0 +1,502 @@
+A BILL 
+To promote competition and reduce gatekeeper power in the 
+app economy, increase choice, improve quality, and re-
+duce costs for consumers. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Open App Markets 
+4
+Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) APP.—The term ‘‘App’’ means a software 
+8
+application or electronic service that may be run or 
+9
+22:33 Aug 16, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+2 
+•HR 5017 IH
+directed by a user on a computer, a mobile device, 
+1
+or any other general purpose computing device. 
+2
+(2) APP STORE.—The term ‘‘App Store’’ means 
+3
+a publicly available website, software application, or 
+4
+other electronic service that distributes Apps from 
+5
+third-party developers to users of a computer, a mo-
+6
+bile device, or any other general purpose computing 
+7
+device. 
+8
+(3) COVERED COMPANY.—The term ‘‘Covered 
+9
+Company’’ means any person that owns or controls 
+10
+an App Store for which users in the United States 
+11
+exceed 50,000,000. 
+12
+(4) DEVELOPER.—The term ‘‘developer’’ means 
+13
+a person that owns or controls an App or an App 
+14
+Store. 
+15
+(5) IN-APP PAYMENT SYSTEM.—The term ‘‘In- 
+16
+App Payment System’’ means an application, serv-
+17
+ice, or user interface to process the payments from 
+18
+users of an App. 
+19
+(6) NON-PUBLIC
+BUSINESS
+INFORMATION.— 
+20
+The term ‘‘non-public business information’’ means 
+21
+non-public data that is— 
+22
+(A) derived from a developer or an App or 
+23
+App Store owned or controlled by a developer, 
+24
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+3 
+•HR 5017 IH
+including interactions between users and the 
+1
+App or App Store of the developer; and 
+2
+(B) collected by a Covered Company in the 
+3
+course of operating an App Store or providing 
+4
+an operating system. 
+5
+SEC. 3. PROTECTING A COMPETITIVE APP MARKET. 
+6
+(a) EXCLUSIVITY AND TYING.—A Covered Company 
+7
+shall not— 
+8
+(1) require developers to use an In-App Pay-
+9
+ment System owned or controlled by the Covered 
+10
+Company or any of its business partners as a condi-
+11
+tion of being distributed on an App Store or acces-
+12
+sible on an operating system; 
+13
+(2) require as a term of distribution on an App 
+14
+Store that pricing terms or conditions of sale be 
+15
+equal to or more favorable on its App Store than the 
+16
+terms or conditions under another App Store; or 
+17
+(3) take punitive action or otherwise impose 
+18
+less favorable terms and conditions against a devel-
+19
+oper for using or offering different pricing terms or 
+20
+conditions of sale through another In-App Payment 
+21
+System or on another App Store. 
+22
+(b) INTERFERENCE WITH LEGITIMATE BUSINESS 
+23
+COMMUNICATIONS.—A Covered Company shall not impose 
+24
+restrictions on communications of developers with the 
+25
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+4 
+•HR 5017 IH
+users of the App through an App or direct outreach to 
+1
+a user concerning legitimate business offers, such as pric-
+2
+ing terms and product or service offerings. 
+3
+(c) NON-PUBLIC BUSINESS INFORMATION.—A Cov-
+4
+ered Company shall not use non-public business informa-
+5
+tion derived from a third-party App for the purpose of 
+6
+competing with that App. 
+7
+(d) INTEROPERABILITY.—A Covered Company that 
+8
+controls the operating system or operating system configu-
+9
+ration on which its App Store operates shall allow and pro-
+10
+vide the readily accessible means for users of that oper-
+11
+ating system to— 
+12
+(1) choose third-party Apps or App Stores as 
+13
+defaults for categories appropriate to the App or 
+14
+App Store; 
+15
+(2) install third-party Apps or App Stores 
+16
+through means other than its App Store; and 
+17
+(3) hide or delete Apps or App Stores provided 
+18
+or preinstalled by the App Store owner or any of its 
+19
+business partners. 
+20
+(e) SELF-PREFERENCING IN SEARCH.— 
+21
+(1) IN GENERAL.—A Covered Company shall 
+22
+not provide unequal treatment of Apps in an App 
+23
+Store through unreasonably preferencing or ranking 
+24
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+5 
+•HR 5017 IH
+the Apps of the Covered Company or any of its busi-
+1
+ness partners over those of other Apps. 
+2
+(2) CONSIDERATIONS.—Unreasonably prefer-
+3
+encing— 
+4
+(A) includes applying ranking schemes or 
+5
+algorithms that prioritize Apps based on a cri-
+6
+terion of ownership interest by the Covered 
+7
+Company or its business partners; and 
+8
+(B) does not include clearly disclosed ad-
+9
+vertising. 
+10
+(f) OPEN APP DEVELOPMENT.—Access to operating 
+11
+system interfaces, development information, and hardware 
+12
+and software features shall be provided to developers on 
+13
+a timely basis and on terms that are equivalent or func-
+14
+tionally equivalent to the terms for access by similar Apps 
+15
+or functions provided by the Covered Company or to its 
+16
+business partners. 
+17
+SEC. 4. PROTECTING THE SECURITY AND PRIVACY OF 
+18
+USERS. 
+19
+(a) IN GENERAL.—Subject to section (b), a Covered 
+20
+Company shall not be in violation of a subsection of sec-
+21
+tion 3 for an action that is— 
+22
+(1) necessary to achieve user privacy, security, 
+23
+or digital safety; 
+24
+(2) taken to prevent spam or fraud; or 
+25
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+6 
+•HR 5017 IH
+(3) taken to prevent a violation of, or comply 
+1
+with, Federal or State law. 
+2
+(b) REQUIREMENTS.—Section (a) shall only apply if 
+3
+the Covered Company establishes by clear and convincing 
+4
+evidence that the action described is— 
+5
+(1) applied on a demonstrably consistent basis 
+6
+to Apps of the Covered Company or its business 
+7
+partners and to other Apps; 
+8
+(2) not used as a pretext to exclude, or impose 
+9
+unnecessary or discriminatory terms on, third-party 
+10
+Apps, In-App Payment Systems, or App Stores; and 
+11
+(3) narrowly tailored and could not be achieved 
+12
+through a less discriminatory and technically pos-
+13
+sible means. 
+14
+SEC. 5. ENFORCEMENT. 
+15
+(a) ENFORCEMENT.— 
+16
+(1) IN GENERAL.—The Federal Trade Commis-
+17
+sion, the Attorney General, and any attorney general 
+18
+of a State subject to the requirements in paragraph 
+19
+(4) shall enforce this Act in the same manner, by 
+20
+the same means, and with the same jurisdiction, 
+21
+powers, and duties as though all applicable terms 
+22
+and provisions of the Federal Trade Commission Act 
+23
+(15 U.S.C. 41 et seq.) or the Clayton Act (15 U.S.C. 
+24
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+7 
+•HR 5017 IH
+12 et seq.), as appropriate, were incorporated into 
+1
+and made a part of this Act. 
+2
+(2) UNFAIR
+METHODS
+OF
+COMPETITION.—A 
+3
+violation of this Act shall also constitute an unfair 
+4
+method of competition under section 5 of the Fed-
+5
+eral Trade Commission Act (15 U.S.C. 5). 
+6
+(3) 
+FEDERAL
+TRADE
+COMMISSION
+INDE-
+7
+PENDENT LITIGATION AUTHORITY.—If the Federal 
+8
+Trade Commission has reason to believe that a Cov-
+9
+ered Company violated this Act, the Federal Trade 
+10
+Commission may commence a civil action, in its own 
+11
+name by any of its attorneys designated by it for 
+12
+such purpose, to recover a civil penalty and seek 
+13
+other appropriate relief in a district court of the 
+14
+United States against the covered platform operator. 
+15
+(4) PARENS PATRIAE.—Any attorney general of 
+16
+a State may bring a civil action in the name of such 
+17
+State for a violation of this Act as parens patriae on 
+18
+behalf of natural persons residing in such State, in 
+19
+any district court of the United States having juris-
+20
+diction of the defendant, and may secure any form 
+21
+of relief provided for in this section. 
+22
+(b) SUITS BY DEVELOPERS INJURED.— 
+23
+(1) IN GENERAL.—Any developer who shall be 
+24
+injured by reason of anything forbidden in this Act 
+25
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+8 
+•HR 5017 IH
+may sue therefor in any district court of the United 
+1
+States in the district in which the defendant resides 
+2
+or is found or has an agent, without respect to the 
+3
+amount in controversy, and shall recover threefold 
+4
+the damages by him sustained, and the cost of suit, 
+5
+including a reasonable attorney’s fee. The court may 
+6
+award under this subsection, pursuant to a motion 
+7
+by such developer promptly made, simple interest on 
+8
+actual damages for the period beginning on the date 
+9
+of service of such developer’s pleading setting forth 
+10
+a claim under this Act and ending on the date of 
+11
+judgment, or for any shorter period therein, if the 
+12
+court finds that the award of such interest for such 
+13
+period is just in the circumstances. In determining 
+14
+whether an award of interest under this subsection 
+15
+for any period is just in the circumstances, the court 
+16
+shall consider only— 
+17
+(A) whether such developer or the opposing 
+18
+party, or either party’s representative, made 
+19
+motions or asserted claims or defenses so lack-
+20
+ing in merit as to show that such party or rep-
+21
+resentative acted intentionally for delay, or oth-
+22
+erwise acted in bad faith; 
+23
+(B) whether, in the course of the action in-
+24
+volved, such developer or the opposing party, or 
+25
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+9 
+•HR 5017 IH
+either party’s representative, violated any appli-
+1
+cable rule, statute, or court order providing for 
+2
+sanctions for dilatory behavior or otherwise pro-
+3
+viding for expeditious proceedings; and 
+4
+(C) whether such developer or the opposing 
+5
+party, or either party’s representative, engaged 
+6
+in conduct primarily for the purpose of delaying 
+7
+the litigation or increasing the cost thereof. 
+8
+(2) INJUNCTIVE RELIEF.—Any developer shall 
+9
+be entitled to sue for and have injunctive relief, in 
+10
+any court of the United States having jurisdiction 
+11
+over the parties, against threatened loss or damage 
+12
+by a violation of this Act, when and under the same 
+13
+conditions and principles as injunctive relief against 
+14
+threatened conduct that will cause loss or damage is 
+15
+granted by courts of equity, under the rules gov-
+16
+erning such proceedings, and upon the execution of 
+17
+proper bond against damages for an injunction im-
+18
+providently granted and a showing that the danger 
+19
+of irreparable loss or damage is immediate, a pre-
+20
+liminary injunction may issue. In any action under 
+21
+this paragraph in which the plaintiff substantially 
+22
+prevails, the court shall award the cost of suit, in-
+23
+cluding a reasonable attorney’s fee, to such plaintiff. 
+24
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS
+10 
+•HR 5017 IH
+SEC. 6. RULE OF CONSTRUCTION. 
+1
+Nothing in this Act shall be construed to limit any 
+2
+authority of the Attorney General or the Federal Trade 
+3
+Commission under the antitrust laws (as defined in the 
+4
+first section of the Clayton Act (15 U.S.C. 12), the Fed-
+5
+eral Trade Commission Act (15 U.S.C. 41 et seq.), or any 
+6
+other provision of law or to limit the application of any 
+7
+law. 
+8
+SEC. 7. SEVERABILITY. 
+9
+If any provision of this Act, or the application of such 
+10
+a provision to any person or circumstance, is held to be 
+11
+unconstitutional, the remaining provisions of this Act, and 
+12
+the application of the provision held to be unconstitutional 
+13
+to any other person or circumstance, shall not be affected 
+14
+thereby. 
+15
+Æ 
+02:27 Aug 14, 2021
+H5017
+lotter on DSK11XQN23PROD with BILLS

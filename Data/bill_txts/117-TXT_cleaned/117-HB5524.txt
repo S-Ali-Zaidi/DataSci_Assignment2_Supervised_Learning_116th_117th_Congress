@@ -1,0 +1,1125 @@
+A BILL 
+To ensure the digital contents of electronic equipment and 
+online accounts belonging to or in the possession of 
+United States persons entering or exiting the United 
+States are adequately protected at the border, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Protecting Data at 
+4
+the Border Act’’. 
+5
+05:22 Oct 13, 2021
+H5524
+2 
+•HR 5524 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) United States persons have a reasonable ex-
+3
+pectation of privacy in the digital contents of their 
+4
+electronic equipment, the digital contents of their 
+5
+online accounts, and the nature of their online pres-
+6
+ence. 
+7
+(2) The Supreme Court of the United States 
+8
+recognized in Riley v. California, 134 S. Ct. 2473 
+9
+(2014), the extraordinary privacy interests in elec-
+10
+tronic equipment like cell phones. 
+11
+(3) The privacy interest of United States per-
+12
+sons in the digital contents of their electronic equip-
+13
+ment, the digital contents of their online accounts, 
+14
+and the nature of their online presence differs in 
+15
+both degree and kind from their privacy interest in 
+16
+closed containers. 
+17
+(4) Accessing the digital contents of electronic 
+18
+equipment, accessing the digital contents of an on-
+19
+line account, or obtaining information regarding the 
+20
+nature of the online presence of a United States per-
+21
+son entering or exiting the United States, without a 
+22
+lawful warrant based on probable cause, is unreason-
+23
+able under the Fourth Amendment to the Constitu-
+24
+tion of the United States. 
+25
+05:22 Oct 13, 2021
+H5524
+3 
+•HR 5524 IH
+SEC. 3. DEFINITIONS. 
+1
+As used in this Act— 
+2
+(1) the term ‘‘access credential’’ includes a 
+3
+username, password, PIN number, fingerprint, or bi-
+4
+ometric indicator; 
+5
+(2) the term ‘‘border’’ means the international 
+6
+border of the United States and the functional 
+7
+equivalent of such border; 
+8
+(3) the term ‘‘digital contents’’ means any 
+9
+signs, signals, writing, images, sounds, data, or in-
+10
+telligence of any nature transmitted in whole or in 
+11
+part by electronic equipment, or stored in electronic 
+12
+equipment or an online account; 
+13
+(4) the term ‘‘electronic communication service’’ 
+14
+has the meaning given that term in section 2510 of 
+15
+title 18, United States Code; 
+16
+(5) the term ‘‘electronic equipment’’ has the 
+17
+meaning given the term ‘‘computer’’ in section 
+18
+1030(e) of title 18, United States Code; 
+19
+(6) the term ‘‘Governmental entity’’ means a 
+20
+department or agency of the United States (includ-
+21
+ing any officer, employee, or contractor or other 
+22
+agent thereof); 
+23
+(7) the term ‘‘online account’’ means an online 
+24
+account with an electronic communication service or 
+25
+remote computing service; 
+26
+05:22 Oct 13, 2021
+H5524
+4 
+•HR 5524 IH
+(8) the term ‘‘online account information’’ 
+1
+means the screen name or other identifier or infor-
+2
+mation that would allow a Governmental entity to 
+3
+identify the online presence of an individual; 
+4
+(9) the term ‘‘remote computing service’’ has 
+5
+the meaning given that term in section 2711 of title 
+6
+18, United States Code; and 
+7
+(10) the term ‘‘United States person’’ means an 
+8
+individual who is a United States person, as defined 
+9
+in section 101 of the Foreign Intelligence Surveil-
+10
+lance Act of 1978 (50 U.S.C. 1801). 
+11
+SEC. 4. PROCEDURES FOR LAWFUL ACCESS TO DIGITAL 
+12
+DATA AT THE BORDER. 
+13
+(a) STANDARD.—Subject to subsection (b), a Govern-
+14
+mental entity may not— 
+15
+(1) access the digital contents of any electronic 
+16
+equipment belonging to or in the possession of a 
+17
+United States person at the border without a valid 
+18
+warrant supported by probable cause issued using 
+19
+the procedures described in the Federal Rules of 
+20
+Criminal Procedure by a court of competent jurisdic-
+21
+tion; 
+22
+(2) deny entry into or exit from the United 
+23
+States by a United States person based on a refusal 
+24
+by the United States person to— 
+25
+05:22 Oct 13, 2021
+H5524
+5 
+•HR 5524 IH
+(A) disclose an access credential that 
+1
+would enable access to the digital contents of 
+2
+electronic equipment or the digital contents of 
+3
+an online account; 
+4
+(B) provide access to the digital contents 
+5
+of electronic equipment or the digital contents 
+6
+of an online account; or 
+7
+(C) provide online account information; or 
+8
+(3) delay entry into or exit from the United 
+9
+States by a United States person for longer than the 
+10
+period of time, which may not exceed 4 hours, nec-
+11
+essary to determine whether the United States per-
+12
+son will, in a manner in accordance with subsection 
+13
+(c), consensually provide an access credential, ac-
+14
+cess, or online account information, as described in 
+15
+subparagraphs (A), (B), and (C) of paragraph (2). 
+16
+(b) EMERGENCY EXCEPTIONS.— 
+17
+(1) EMERGENCY SITUATIONS GENERALLY.— 
+18
+(A) IN GENERAL.—An investigative or law 
+19
+enforcement officer of a Governmental entity 
+20
+who is designated by the Secretary of Home-
+21
+land Security for purposes of this paragraph 
+22
+may access the digital contents of electronic 
+23
+equipment belonging to or in possession of a 
+24
+United States person at the border without a 
+25
+05:22 Oct 13, 2021
+H5524
+6 
+•HR 5524 IH
+warrant described in subsection (a)(1) if the in-
+1
+vestigative or law enforcement officer— 
+2
+(i) reasonably determines that— 
+3
+(I) an emergency situation exists 
+4
+that involves— 
+5
+(aa) immediate danger of 
+6
+death or serious physical injury 
+7
+to any person; 
+8
+(bb) conspiratorial activities 
+9
+threatening the national security 
+10
+interest of the United States; or 
+11
+(cc) conspiratorial activities 
+12
+characteristic of organized crime; 
+13
+(II) the emergency situation de-
+14
+scribed in subclause (I) requires ac-
+15
+cess to the digital contents of the elec-
+16
+tronic equipment before a warrant de-
+17
+scribed in subsection (a)(1) author-
+18
+izing such access can, with due dili-
+19
+gence, be obtained; and 
+20
+(III) there are grounds upon 
+21
+which a warrant described in sub-
+22
+section (a)(1) could be issued author-
+23
+izing such access; and 
+24
+05:22 Oct 13, 2021
+H5524
+7 
+•HR 5524 IH
+(ii) makes an application in accord-
+1
+ance with this section for a warrant de-
+2
+scribed in subsection (a)(1) as soon as 
+3
+practicable, but not later than 7 days after 
+4
+the investigative or law enforcement officer 
+5
+accesses the digital contents under the au-
+6
+thority under this subparagraph. 
+7
+(B) WARRANT NOT OBTAINED.—If an ap-
+8
+plication for a warrant described in subpara-
+9
+graph (A)(ii) is denied, or in any other case in 
+10
+which an investigative or law enforcement offi-
+11
+cer accesses the digital contents of electronic 
+12
+equipment belonging to or in possession of a 
+13
+United States person at the border without a 
+14
+warrant under the emergency authority under 
+15
+subparagraph (A) and a warrant authorizing 
+16
+the access is not obtained— 
+17
+(i) any copy of the digital contents in 
+18
+the custody or control of a Governmental 
+19
+entity shall immediately be destroyed; 
+20
+(ii) the digital contents, and any in-
+21
+formation derived from the digital con-
+22
+tents, may not be disclosed to any Govern-
+23
+mental entity or a State or local govern-
+24
+ment; and 
+25
+05:22 Oct 13, 2021
+H5524
+8 
+•HR 5524 IH
+(iii) the Governmental entity employ-
+1
+ing the investigative or law enforcement of-
+2
+ficer that accessed the digital contents 
+3
+shall notify the United States person that 
+4
+any copy of the digital contents has been 
+5
+destroyed. 
+6
+(2) PROTECTION
+OF
+PUBLIC
+SAFETY
+AND 
+7
+HEALTH.—A Governmental entity may access the 
+8
+digital contents of electronic equipment belonging to 
+9
+or in possession of a United States person at the 
+10
+border without a warrant described in subsection 
+11
+(a)(1) if the access is— 
+12
+(A) necessary for the provision of fire, 
+13
+medical, public safety, or other emergency serv-
+14
+ices; and 
+15
+(B) unrelated to the investigation of a pos-
+16
+sible crime or other violation of the law. 
+17
+(c) INFORMED CONSENT IN WRITING.— 
+18
+(1) NOTICE.— 
+19
+(A) IN GENERAL.—A Governmental entity 
+20
+shall provide the notice described in subpara-
+21
+graph (B) before requesting that a United 
+22
+States person at the border— 
+23
+(i) provide consent to access the dig-
+24
+ital contents of any electronic equipment 
+25
+05:22 Oct 13, 2021
+H5524
+9 
+•HR 5524 IH
+belonging to or in the possession of or the 
+1
+digital contents of an online account of the 
+2
+United States person; 
+3
+(ii) disclose an access credential that 
+4
+would enable access to the digital contents 
+5
+of electronic equipment or the digital con-
+6
+tents of an online account of the United 
+7
+States person; 
+8
+(iii) provide access to the digital con-
+9
+tents of electronic equipment or the digital 
+10
+contents of an online account of the United 
+11
+States person; or 
+12
+(iv) provide online account informa-
+13
+tion of the United States person. 
+14
+(B) CONTENTS.—The notice described in 
+15
+this subparagraph is written notice in a lan-
+16
+guage understood by the United States person 
+17
+that the Governmental entity— 
+18
+(i) may not— 
+19
+(I) compel access to the digital 
+20
+contents of electronic equipment be-
+21
+longing to or in the possession of, the 
+22
+digital contents of an online account 
+23
+of, or the online account information 
+24
+05:22 Oct 13, 2021
+H5524
+10 
+•HR 5524 IH
+of a United States person without a 
+1
+valid warrant; 
+2
+(II) deny entry into or exit from 
+3
+the United States by the United 
+4
+States person based on a refusal by 
+5
+the United States person to— 
+6
+(aa) disclose an access cre-
+7
+dential that would enable access 
+8
+to the digital contents of elec-
+9
+tronic equipment or the digital 
+10
+contents of an online account; 
+11
+(bb) provide access to the 
+12
+digital 
+contents 
+of 
+electronic 
+13
+equipment or the digital contents 
+14
+of an online account; or 
+15
+(cc) provide online account 
+16
+information; or 
+17
+(III) delay entry into or exit from 
+18
+the United States by the United 
+19
+States person for longer than the pe-
+20
+riod of time, which may not exceed 4 
+21
+hours, necessary to determine whether 
+22
+the United States person will consen-
+23
+sually provide an access credential, ac-
+24
+cess, or online account information, as 
+25
+05:22 Oct 13, 2021
+H5524
+11 
+•HR 5524 IH
+described in items (aa), (bb), and (cc) 
+1
+of subclause (II); and 
+2
+(ii) if the Governmental entity has 
+3
+probable cause that the electronic equip-
+4
+ment contains information that is relevant 
+5
+to an allegation that the United States 
+6
+person has committed a felony, may seize 
+7
+electronic equipment belonging to or in the 
+8
+possession of the United States person for 
+9
+a period of time if the United States per-
+10
+son refuses to consensually provide access 
+11
+to the digital contents of the electronic 
+12
+equipment. 
+13
+(2) CONSENT.— 
+14
+(A) IN GENERAL.—A Governmental entity 
+15
+shall obtain written consent described in sub-
+16
+paragraph (B) before— 
+17
+(i) accessing, pursuant to the consent 
+18
+of a United States person at the border 
+19
+the digital contents of electronic equipment 
+20
+belonging to or in the possession of or the 
+21
+digital contents of an online account of the 
+22
+United States person; 
+23
+(ii) obtaining, pursuant to the consent 
+24
+of a United States person at the border, an 
+25
+05:22 Oct 13, 2021
+H5524
+12 
+•HR 5524 IH
+access credential of the United States per-
+1
+son that would enable access to the digital 
+2
+contents of electronic equipment or the 
+3
+digital contents of an online account; or 
+4
+(iii) obtaining, pursuant to the con-
+5
+sent of a United States person at the bor-
+6
+der, online account information for an on-
+7
+line account of the United States person. 
+8
+(B) CONTENTS OF WRITTEN CONSENT.— 
+9
+Written consent described in this subparagraph 
+10
+is written consent that— 
+11
+(i) indicates the United States person 
+12
+understands the protections and limitations 
+13
+described in paragraph (1)(B); 
+14
+(ii) states the United States person 
+15
+is— 
+16
+(I) providing consent to the Gov-
+17
+ernmental entity to access certain dig-
+18
+ital contents or consensually disclosing 
+19
+an access credential; or 
+20
+(II) consensually providing online 
+21
+account information; and 
+22
+(iii) specifies the digital contents, ac-
+23
+cess credential, or online account informa-
+24
+05:22 Oct 13, 2021
+H5524
+13 
+•HR 5524 IH
+tion with respect to which the United 
+1
+States person is providing consent. 
+2
+(d) RETENTION OF DIGITAL CONTENTS.— 
+3
+(1) LAWFUL ACCESS.—A Governmental entity 
+4
+that obtains access to the digital contents of elec-
+5
+tronic equipment, the digital contents of an online 
+6
+account, or online account information in accordance 
+7
+with this section may not make or retain a copy of 
+8
+the digital contents or online account information, or 
+9
+any information directly or indirectly derived from 
+10
+the digital contents or online account information, 
+11
+unless there is probable cause to believe the digital 
+12
+contents or online account information contains evi-
+13
+dence of, or constitutes the fruits of, a crime. 
+14
+(2) UNLAWFUL
+ACCESS.—If a Governmental 
+15
+entity obtains access to the digital contents of elec-
+16
+tronic equipment, digital contents of an online ac-
+17
+count, or online account information in a manner 
+18
+that is not in accordance with this section, the Gov-
+19
+ernmental entity— 
+20
+(A) shall immediately destroy any copy of 
+21
+the digital contents or online account informa-
+22
+tion, and any information directly or indirectly 
+23
+derived from the digital contents or online ac-
+24
+05:22 Oct 13, 2021
+H5524
+14 
+•HR 5524 IH
+count information, in the custody or control of 
+1
+the Governmental entity; 
+2
+(B) may not disclose the digital contents 
+3
+or online account information, or any informa-
+4
+tion directly or indirectly derived from the dig-
+5
+ital contents or online account information, to 
+6
+any other Governmental entity or a State or 
+7
+local government; and 
+8
+(C) shall notify the United States person 
+9
+that any copy of the digital contents or online 
+10
+account information, and any information di-
+11
+rectly or indirectly derived from the digital con-
+12
+tents or online account information, has been 
+13
+destroyed. 
+14
+(e) RECORDKEEPING.—A Governmental entity shall 
+15
+keep a record of each instance in which the Governmental 
+16
+entity obtains access to the digital contents of electronic 
+17
+equipment belonging to or in the possession of an indi-
+18
+vidual at the border, the digital contents of an online ac-
+19
+count of an individual who is at the border, or online ac-
+20
+count information of an individual who is at the border, 
+21
+which shall include— 
+22
+(1) the reason for the access; 
+23
+(2) the nationality, immigration status, and ad-
+24
+mission category of the individual; 
+25
+05:22 Oct 13, 2021
+H5524
+15 
+•HR 5524 IH
+(3) the nature and extent of the access; 
+1
+(4) if the access was consensual, how and to 
+2
+what the individual consented, and what the indi-
+3
+vidual provided by consent; 
+4
+(5) whether electronic equipment of the indi-
+5
+vidual was seized; 
+6
+(6) whether the Governmental entity made a 
+7
+copy of all or a portion of the digital contents or on-
+8
+line account information, or any information directly 
+9
+or indirectly derived from the digital contents or on-
+10
+line account information; and 
+11
+(7) whether the digital contents or online ac-
+12
+count information, or any information directly or in-
+13
+directly derived from the digital contents or online 
+14
+account information, was shared with another Gov-
+15
+ernmental entity or a State or local government. 
+16
+SEC. 5. LIMITS ON USE OF DIGITAL CONTENTS AS EVI-
+17
+DENCE. 
+18
+(a) IN GENERAL.—Whenever any digital contents or 
+19
+online account information have been obtained in violation 
+20
+of this Act, no part of the digital contents or online ac-
+21
+count information and no evidence derived therefrom may 
+22
+be received in evidence in any trial, hearing, or other pro-
+23
+ceeding (including any proceeding relating to the immigra-
+24
+tion laws, as defined in section 101(a) of the Immigration 
+25
+05:22 Oct 13, 2021
+H5524
+16 
+•HR 5524 IH
+and Nationality Act (8 U.S.C. 1101(a))) in or before any 
+1
+court, grand jury, department, officer, agency, regulatory 
+2
+body, legislative committee, or other authority of the 
+3
+United States, a State, or a political subdivision thereof. 
+4
+(b) APPLICATION.—To the maximum extent prac-
+5
+ticable, the limitations under subsection (a) shall be ap-
+6
+plied in the same manner as the limitations under section 
+7
+2515 of title 18, United States Code. 
+8
+SEC. 6. LIMITS ON SEIZURE OF ELECTRONIC EQUIPMENT. 
+9
+A Governmental entity may not seize any electronic 
+10
+equipment belonging to or in the possession of a United 
+11
+States person at the border unless there is probable cause 
+12
+to believe that the electronic equipment contains informa-
+13
+tion that is relevant to an allegation that the United 
+14
+States person has committed a felony. 
+15
+SEC. 7. AUDIT AND REPORTING REQUIREMENTS. 
+16
+In March of each year, the Secretary of Homeland 
+17
+Security shall submit to Congress and make publicly avail-
+18
+able on the website of the Department of Homeland Secu-
+19
+rity a report that includes the following: 
+20
+(1) The number of times during the previous 
+21
+year that an officer or employee of the Department 
+22
+of Homeland Security did each of the following: 
+23
+(A) Accessed the digital contents of any 
+24
+electronic equipment belonging to or in the pos-
+25
+05:22 Oct 13, 2021
+H5524
+17 
+•HR 5524 IH
+session of or the digital contents of an online 
+1
+account of a United States person at the border 
+2
+pursuant to a warrant supported by probable 
+3
+cause issued using the procedures described in 
+4
+the Federal Rules of Criminal Procedure by a 
+5
+court of competent jurisdiction. 
+6
+(B) Accessed the digital contents of any 
+7
+electronic equipment belonging to or in the pos-
+8
+session of a United States person at the border 
+9
+pursuant to the emergency authority under sec-
+10
+tion 5(b). 
+11
+(C) Requested consent to access the digital 
+12
+contents of any electronic equipment belonging 
+13
+to or in the possession of, the digital contents 
+14
+of an online account of, or online account infor-
+15
+mation of a United States person at the border. 
+16
+(D) Accessed the digital contents of any 
+17
+electronic equipment belonging to or in the pos-
+18
+session of, the digital contents of an online ac-
+19
+count of, or online account information of a 
+20
+United States person at the border pursuant to 
+21
+written consent provided in accordance with 
+22
+section 5(c). 
+23
+(E) Requested a United States person at 
+24
+the border consensually disclose an access cre-
+25
+05:22 Oct 13, 2021
+H5524
+18 
+•HR 5524 IH
+dential that would enable access to the digital 
+1
+contents of electronic equipment or the digital 
+2
+contents of an online account of the United 
+3
+States person. 
+4
+(F) Accessed the digital contents of elec-
+5
+tronic equipment or the digital contents of an 
+6
+online account of a United States person at the 
+7
+border using an access credential pursuant to 
+8
+written consent provided in accordance with 
+9
+section 5(c). 
+10
+(G) Accessed the digital contents of any 
+11
+electronic equipment belonging to or in the pos-
+12
+session of, the digital contents of an online ac-
+13
+count of, or online account information of a 
+14
+United States person at the border in a manner 
+15
+that was not in accordance with section 5. 
+16
+(H) Accessed the digital contents of any 
+17
+electronic equipment belonging to or in the pos-
+18
+session of, the digital contents of an online ac-
+19
+count of, or online account information of an 
+20
+individual who is not a United States person at 
+21
+the border. 
+22
+(I) Accessed the digital contents of any 
+23
+electronic equipment belonging to or in the pos-
+24
+session of an individual at the border, the dig-
+25
+05:22 Oct 13, 2021
+H5524
+19 
+•HR 5524 IH
+ital contents of an online account of an indi-
+1
+vidual at the border, or online account informa-
+2
+tion of an individual at the border (regardless 
+3
+of whether the individual is a United States 
+4
+person) at the request of a Governmental entity 
+5
+(including another component of the Depart-
+6
+ment of Homeland Security) that is not the 
+7
+Governmental entity employing the individual 
+8
+accessing the digital contents or online account 
+9
+information. 
+10
+(2) Aggregate data on— 
+11
+(A) the number of United States persons 
+12
+for which a Governmental entity obtains access 
+13
+to— 
+14
+(i) the digital contents of electronic 
+15
+equipment belonging to or in the posses-
+16
+sion of the United States person at the 
+17
+border; 
+18
+(ii) the digital contents of an online 
+19
+account of the United States person while 
+20
+at the border; or 
+21
+(iii) online account information of the 
+22
+United States person while at the border; 
+23
+(B) the country from which United States 
+24
+persons departed most recently before arriving 
+25
+05:22 Oct 13, 2021
+H5524
+20 
+•HR 5524 IH
+in the United States for the United States per-
+1
+sons for which a Governmental entity obtains 
+2
+access to— 
+3
+(i) the digital contents of electronic 
+4
+equipment belonging to or in the posses-
+5
+sion of the United States person at the 
+6
+border; 
+7
+(ii) the digital contents of an online 
+8
+account of the United States person while 
+9
+at the border; or 
+10
+(iii) online account information of the 
+11
+United States person while at the border; 
+12
+(C) the number and nationality of individ-
+13
+uals who are not United States persons for 
+14
+which a Governmental entity obtains access 
+15
+to— 
+16
+(i) the digital contents of electronic 
+17
+equipment belonging to or in the posses-
+18
+sion of the individuals at the border; 
+19
+(ii) the digital contents of an online 
+20
+account of the individuals while at the bor-
+21
+der; or 
+22
+(iii) online account information of the 
+23
+individuals while at the border; and 
+24
+05:22 Oct 13, 2021
+H5524
+21 
+•HR 5524 IH
+(D) the country from which individuals 
+1
+who are not United States persons departed 
+2
+most recently before arriving in the United 
+3
+States for the individuals for which a Govern-
+4
+mental entity obtains access to— 
+5
+(i) the digital contents of electronic 
+6
+equipment belonging to or in the posses-
+7
+sion of the individuals at the border; 
+8
+(ii) the digital contents of an online 
+9
+account of the individuals while at the bor-
+10
+der; or 
+11
+(iii) online account information of the 
+12
+individuals while at the border. 
+13
+(3) Aggregate data regarding the perceived race 
+14
+and ethnicity of individuals for whom a Govern-
+15
+mental entity obtains access to— 
+16
+(A) the digital contents of electronic equip-
+17
+ment belonging to or in the possession of the 
+18
+individuals at the border; 
+19
+(B) the digital contents of an online ac-
+20
+count of the individuals while at the border; or 
+21
+(C) online account information of the indi-
+22
+viduals while at the border. 
+23
+SEC. 8. SAVINGS PROVISIONS. 
+24
+Nothing in this Act shall be construed to— 
+25
+05:22 Oct 13, 2021
+H5524
+22 
+•HR 5524 IH
+(1) prohibit a Governmental entity from con-
+1
+ducting an inspection of the external physical com-
+2
+ponents of the electronic equipment to determine the 
+3
+presence or absence of weapons or contraband with-
+4
+out a warrant, including activating or attempting to 
+5
+activate an object that appears to be electronic 
+6
+equipment to verify that the object is electronic 
+7
+equipment; or 
+8
+(2) limit the authority of a Governmental entity 
+9
+under the Foreign Intelligence Surveillance Act of 
+10
+1978 (50 U.S.C. 1801 et seq.). 
+11
+Æ 
+05:22 Oct 13, 2021
+H5524

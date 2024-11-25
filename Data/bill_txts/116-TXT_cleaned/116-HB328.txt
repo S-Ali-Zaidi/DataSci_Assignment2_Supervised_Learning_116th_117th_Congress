@@ -1,0 +1,418 @@
+A BILL 
+To require the Secretary of State to design and establish 
+a Vulnerability Disclosure Process (VDP) to improve De-
+partment of State cybersecurity and a bug bounty pro-
+gram to identify and report vulnerabilities of internet- 
+facing information technology of the Department of 
+State, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Hack Your State De-
+4
+partment Act’’. 
+5
+22:56 Jan 18, 2019
+H328
+2 
+•HR 328 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) BUG BOUNTY PROGRAM.—The term ‘‘bug 
+3
+bounty program’’ means a program under which an 
+4
+approved individual, organization, or company is 
+5
+temporarily authorized to identify and report 
+6
+vulnerabilities of internet-facing information tech-
+7
+nology of the Department in exchange for compensa-
+8
+tion. 
+9
+(2) DEPARTMENT.—The term ‘‘Department’’ 
+10
+means the Department of State. 
+11
+(3) INFORMATION
+TECHNOLOGY.—The term 
+12
+‘‘information technology’’ has the meaning given 
+13
+such term in section 11101 of title 40, United 
+14
+States Code. 
+15
+(4) SECRETARY.—The term ‘‘Secretary’’ means 
+16
+the Secretary of State. 
+17
+SEC. 3. DEPARTMENT OF STATE VULNERABILITY DISCLO-
+18
+SURE PROCESS. 
+19
+(a) IN GENERAL.—Not later than 180 days after the 
+20
+date of the enactment of this Act, the Secretary shall de-
+21
+sign, establish, and make publicly known a Vulnerability 
+22
+Disclosure Process (VDP) to improve Department cyber-
+23
+security by— 
+24
+(1) providing security researchers with clear 
+25
+guidelines for— 
+26
+22:56 Jan 18, 2019
+H328
+3 
+•HR 328 IH
+(A) conducting vulnerability discovery ac-
+1
+tivities directed at Department information 
+2
+technology; and 
+3
+(B) submitting discovered security vulnera-
+4
+bilities to the Department; and 
+5
+(2) creating Department procedures and infra-
+6
+structure to receive and fix discovered vulnerabili-
+7
+ties. 
+8
+(b) REQUIREMENTS.—In establishing the VDP pur-
+9
+suant to paragraph (1), the Secretary shall— 
+10
+(1) identify which Department information 
+11
+technology should be included in the process; 
+12
+(2) determine whether the process should dif-
+13
+ferentiate among and specify the types of security 
+14
+vulnerabilities that may be targeted; 
+15
+(3) provide a readily available means of report-
+16
+ing discovered security vulnerabilities and the form 
+17
+in which such vulnerabilities should be reported; 
+18
+(4) identify which Department offices and posi-
+19
+tions will be responsible for receiving, prioritizing, 
+20
+and addressing security vulnerability disclosure re-
+21
+ports; 
+22
+(5) consult with the Attorney General regarding 
+23
+how to ensure that individuals, organizations, and 
+24
+companies that comply with the requirements of the 
+25
+22:56 Jan 18, 2019
+H328
+4 
+•HR 328 IH
+process are protected from prosecution under section 
+1
+1030 of title 18, United States Code, and similar 
+2
+provisions of law for specific activities authorized 
+3
+under the process; 
+4
+(6) consult with the relevant offices at the De-
+5
+partment of Defense that were responsible for 
+6
+launching the 2016 Vulnerability Disclosure Pro-
+7
+gram, ‘‘Hack the Pentagon’’, and subsequent De-
+8
+partment of Defense bug bounty programs; 
+9
+(7) engage qualified interested persons, includ-
+10
+ing nongovernmental sector representatives, about 
+11
+the structure of the process as constructive and to 
+12
+the extent practicable; and 
+13
+(8) award contracts to entities, as necessary, to 
+14
+manage the process and implement the remediation 
+15
+of discovered security vulnerabilities. 
+16
+(c) ANNUAL REPORTS.—Not later than 180 days 
+17
+after the establishment of the VDP under subsection (a) 
+18
+and annually thereafter for the next six years, the Sec-
+19
+retary of State shall submit to the Committee on Foreign 
+20
+Affairs of the House of Representatives and the Com-
+21
+mittee on Foreign Relations of the Senate a report on the 
+22
+VDP, including information relating to the following: 
+23
+(1) The number and severity, in accordance 
+24
+with the National Vulnerabilities Database of the 
+25
+22:56 Jan 18, 2019
+H328
+5 
+•HR 328 IH
+National Institute of Standards and Technology, of 
+1
+security vulnerabilities reported. 
+2
+(2) The number of previously unidentified secu-
+3
+rity vulnerabilities remediated as a result. 
+4
+(3) The current number of outstanding pre-
+5
+viously unidentified security vulnerabilities and De-
+6
+partment of State remediation plans. 
+7
+(4) The average length of time between the re-
+8
+porting of security vulnerabilities and remediation of 
+9
+such vulnerabilities. 
+10
+(5) The resources, surge staffing, roles, and re-
+11
+sponsibilities within the Department used to imple-
+12
+ment the VDP and complete security vulnerability 
+13
+remediation. 
+14
+(6) Any other information the Secretary deter-
+15
+mines relevant. 
+16
+SEC. 4. DEPARTMENT OF STATE BUG BOUNTY PILOT PRO-
+17
+GRAM. 
+18
+(a) ESTABLISHMENT OF PILOT PROGRAM.— 
+19
+(1) IN
+GENERAL.—Not later than one year 
+20
+after the date of the enactment of this Act, the Sec-
+21
+retary shall establish a bug bounty pilot program to 
+22
+minimize security vulnerabilities of internet-facing 
+23
+information technology of the Department. 
+24
+22:56 Jan 18, 2019
+H328
+6 
+•HR 328 IH
+(2) REQUIREMENTS.—In establishing the pilot 
+1
+program described in paragraph (1), the Secretary 
+2
+shall— 
+3
+(A) provide compensation for reports of 
+4
+previously unidentified security vulnerabilities 
+5
+within the websites, applications, and other 
+6
+internet-facing information technology of the 
+7
+Department that are accessible to the public; 
+8
+(B) award contracts to entities, as nec-
+9
+essary, to manage such pilot program and for 
+10
+executing the remediation of security vulnerabil-
+11
+ities identified pursuant to subparagraph (A); 
+12
+(C) identify which Department information 
+13
+technology should be included in such pilot pro-
+14
+gram; 
+15
+(D) consult with the Attorney General on 
+16
+how to ensure that individuals, organizations, 
+17
+or companies that comply with the requirements 
+18
+of such pilot program are protected from pros-
+19
+ecution under section 1030 of title 18, United 
+20
+States Code, and similar provisions of law for 
+21
+specific activities authorized under such pilot 
+22
+program; 
+23
+(E) consult with the relevant offices at the 
+24
+Department of Defense that were responsible 
+25
+22:56 Jan 18, 2019
+H328
+7 
+•HR 328 IH
+for launching the 2016 ‘‘Hack the Pentagon’’ 
+1
+pilot program and subsequent Department of 
+2
+Defense bug bounty programs; 
+3
+(F) develop a process by which an ap-
+4
+proved individual, organization, or company can 
+5
+register with the entity referred to in subpara-
+6
+graph (B), submit to a background check as de-
+7
+termined by the Department, and receive a de-
+8
+termination as to eligibility for participation in 
+9
+such pilot program; 
+10
+(G) engage qualified interested persons, in-
+11
+cluding nongovernmental sector representatives, 
+12
+about the structure of such pilot program as 
+13
+constructive and to the extent practicable; and 
+14
+(H) consult with relevant United States 
+15
+Government officials to ensure that such pilot 
+16
+program complements persistent network and 
+17
+vulnerability scans of the Department of State’s 
+18
+internet-accessible systems, such as the scans 
+19
+conducted pursuant to Binding Operational Di-
+20
+rective BOD–15–01. 
+21
+(3) DURATION.—The pilot program established 
+22
+under paragraph (1) should be short-term in dura-
+23
+tion and not last longer than one year. 
+24
+22:56 Jan 18, 2019
+H328
+8 
+•HR 328 IH
+(b) REPORT.—Not later than 180 days after the date 
+1
+on which the bug bounty pilot program under subsection 
+2
+(a) is completed, the Secretary shall submit to the Com-
+3
+mittee on Foreign Relations of the Senate and the Com-
+4
+mittee on Foreign Affairs of the House of Representatives 
+5
+a report on such pilot program, including information re-
+6
+lating to— 
+7
+(1) the number of approved individuals, organi-
+8
+zations, or companies involved in such pilot pro-
+9
+gram, broken down by the number of approved indi-
+10
+viduals, organizations, or companies that— 
+11
+(A) registered; 
+12
+(B) were approved; 
+13
+(C) submitted security vulnerabilities; and 
+14
+(D) received compensation; 
+15
+(2) the number and severity, in accordance with 
+16
+the National Vulnerabilities Database of the Na-
+17
+tional Institute of Standards and Technology, of se-
+18
+curity vulnerabilities reported as part of such pilot 
+19
+program; 
+20
+(3) the number of previously unidentified secu-
+21
+rity vulnerabilities remediated as a result of such 
+22
+pilot program; 
+23
+22:56 Jan 18, 2019
+H328
+9 
+•HR 328 IH
+(4) the current number of outstanding pre-
+1
+viously unidentified security vulnerabilities and De-
+2
+partment remediation plans; 
+3
+(5) the average length of time between the re-
+4
+porting of security vulnerabilities and remediation of 
+5
+such vulnerabilities; 
+6
+(6) the types of compensation provided under 
+7
+such pilot program; and 
+8
+(7) the lessons learned from such pilot pro-
+9
+gram. 
+10
+Æ 
+22:56 Jan 18, 2019
+H328

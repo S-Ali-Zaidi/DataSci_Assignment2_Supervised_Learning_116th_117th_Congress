@@ -1,0 +1,256 @@
+A BILL 
+To direct the Secretary of Homeland Security to issue guid-
+ance with respect to certain information and communica-
+tions technology or services contracts, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘DHS Software Supply 
+4
+Chain Risk Management Act of 2021’’. 
+5
+00:56 Aug 05, 2021
+H4611
+2 
+•HR 4611 IH
+SEC. 2. DEPARTMENT OF HOMELAND SECURITY GUIDANCE 
+1
+WITH RESPECT TO CERTAIN INFORMATION 
+2
+AND 
+COMMUNICATIONS 
+TECHNOLOGY 
+OR 
+3
+SERVICES CONTRACTS. 
+4
+(a) GUIDANCE.—The Secretary of Homeland Secu-
+5
+rity, acting through the Under Secretary, shall issue guid-
+6
+ance with respect to new and existing covered contracts. 
+7
+(b) NEW
+COVERED
+CONTRACTS.—In developing 
+8
+guidance under subsection (a), with respect to each new 
+9
+covered contract, as a condition on the award of such a 
+10
+contract, each contractor responding to a solicitation for 
+11
+such a contract shall submit to the covered officer— 
+12
+(1) a planned bill of materials when submitting 
+13
+a bid proposal; and 
+14
+(2) the certification and notifications described 
+15
+in subsection (e). 
+16
+(c) EXISTING COVERED CONTRACTS.—In developing 
+17
+guidance under subsection (a), with respect to each exist-
+18
+ing covered contract, each contractor with an existing cov-
+19
+ered contract shall submit to the covered officer— 
+20
+(1) the bill of materials used for such contract, 
+21
+upon the request of such officer; and 
+22
+(2) the certification and notifications described 
+23
+in subsection (e). 
+24
+(d) UPDATING BILL OF MATERIALS.—With respect 
+25
+to a covered contract, in the case of a change to the infor-
+26
+00:56 Aug 05, 2021
+H4611
+3 
+•HR 4611 IH
+mation included in a bill of materials submitted pursuant 
+1
+to subsections (b)(1) and (c)(1), each contractor shall sub-
+2
+mit to the covered officer the update to such bill of mate-
+3
+rials, in a timely manner. 
+4
+(e) CERTIFICATION AND NOTIFICATIONS.—The cer-
+5
+tification and notifications referred to in subsections 
+6
+(b)(2) and (c)(2), with respect to a covered contract, are 
+7
+the following: 
+8
+(1) A certification that each item listed on the 
+9
+submitted bill of materials is free from all known se-
+10
+curity vulnerabilities or defects identified in— 
+11
+(A) the National Institute of Standards 
+12
+and Technology National Vulnerability Data-
+13
+base; and 
+14
+(B) any database designated by the Under 
+15
+Secretary, in coordination with the Director of 
+16
+the Cybersecurity and Infrastructure Security 
+17
+Agency, that tracks security vulnerabilities and 
+18
+defects in open source or third-party developed 
+19
+software. 
+20
+(2) A notification of each security vulnerability 
+21
+or defect, if identified, through— 
+22
+(A) the certification of such submitted bill 
+23
+of materials required under paragraph (1); or 
+24
+(B) any other manner of identification. 
+25
+00:56 Aug 05, 2021
+H4611
+4 
+•HR 4611 IH
+(3) A notification relating to the plan to miti-
+1
+gate, repair, or resolve each security vulnerability or 
+2
+defect listed in the notification required under para-
+3
+graph (2). 
+4
+(f) ENFORCEMENT.—In developing guidance under 
+5
+subsection (a), the Secretary shall instruct covered officers 
+6
+with respect to— 
+7
+(1) the processes available to such officers en-
+8
+forcing subsections (b) and (c); and 
+9
+(2) when such processes should be used. 
+10
+(g) EFFECTIVE DATE.—The guidance required under 
+11
+subsection (a) shall take effect on the date that is 180 
+12
+days after the date of the enactment of this section. 
+13
+(h) DEFINITIONS.—In this section: 
+14
+(1) BILL OF MATERIALS.—The term ‘‘bill of 
+15
+materials’’ means a list of the parts and components 
+16
+of an end product or service, including, with respect 
+17
+to each part and component, information relating to 
+18
+the origin, composition, integrity, and any other in-
+19
+formation as determined appropriate by the Under 
+20
+Secretary. 
+21
+(2) COVERED CONTRACT.—The term ‘‘covered 
+22
+contract’’ means a contract relating to the procure-
+23
+ment of covered information and communications 
+24
+00:56 Aug 05, 2021
+H4611
+5 
+•HR 4611 IH
+technology or services for the Department of Home-
+1
+land Security. 
+2
+(3) COVERED INFORMATION AND COMMUNICA-
+3
+TIONS TECHNOLOGY OR SERVICES.—The term ‘‘cov-
+4
+ered information and communications technology or 
+5
+services’’ means the terms— 
+6
+(A) ‘‘information technology’’ (as such 
+7
+term is defined in section 11101(6) of title 40, 
+8
+United States Code); 
+9
+(B) ‘‘information system’’ (as such term is 
+10
+defined in section 3502(8) of title 44, United 
+11
+States Code); 
+12
+(C) ‘‘telecommunications equipment’’ (as 
+13
+such term is defined in section 3(52) of the 
+14
+Communications Act of 1934 (47 U.S.C. 
+15
+153(52))); and 
+16
+(D) ‘‘telecommunications service’’ (as such 
+17
+term is defined in section 3(53) of the Commu-
+18
+nications Act of 1934 (47 U.S.C. 153(53))). 
+19
+(4) COVERED OFFICER.—The term ‘‘covered of-
+20
+ficer’’ means— 
+21
+(A) a contracting officer of the Depart-
+22
+ment; and 
+23
+(B) any other official of the Department as 
+24
+determined appropriate by the Under Secretary. 
+25
+00:56 Aug 05, 2021
+H4611
+6 
+•HR 4611 IH
+(5) SOFTWARE.—The term ‘‘software’’ means 
+1
+computer programs and associated data that may be 
+2
+dynamically written or modified during execution. 
+3
+(6) UNDER
+SECRETARY.—The term ‘‘Under 
+4
+Secretary’’ means the Under Secretary for Manage-
+5
+ment of the Department of Homeland Security. 
+6
+Æ 
+00:56 Aug 05, 2021
+H4611

@@ -1,0 +1,3557 @@
+A BILL 
+To amend the Commodity Exchange Act to provide the Com-
+modity Futures Trading Commission jurisdiction to over-
+see the spot digital commodity market, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Digital Commodities 
+4
+Consumer Protection Act of 2022’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+(a) IN GENERAL.—Section 1a of the Commodity Ex-
+7
+change Act (7 U.S.C. 1a) is amended— 
+8
+03:51 Oct 04, 2022
+H8950
+2 
+•HR 8950 IH
+(1) by redesignating paragraphs (3) through 
+1
+(15) and paragraphs (16) through (51) as para-
+2
+graphs (5) through (17) and paragraphs (25) 
+3
+through (60), respectively; 
+4
+(2) by inserting after paragraph (2) the fol-
+5
+lowing: 
+6
+‘‘(3) ASSOCIATED PERSON OF A DIGITAL COM-
+7
+MODITY BROKER.— 
+8
+‘‘(A) IN GENERAL.—The term ‘associated 
+9
+person of a digital commodity broker’ means a 
+10
+person who is associated with a digital com-
+11
+modity broker as a partner, officer, employee, 
+12
+or agent (or any person occupying a similar sta-
+13
+tus or performing similar functions) in any ca-
+14
+pacity that involves— 
+15
+‘‘(i) the solicitation or acceptance of a 
+16
+digital commodity trade; or 
+17
+‘‘(ii) the supervision of any person en-
+18
+gaged in the solicitation or acceptance of a 
+19
+digital commodity trade. 
+20
+‘‘(B) EXCLUSION.—The term ‘associated 
+21
+person of a digital commodity broker’ does not 
+22
+include any person associated with a digital 
+23
+commodity broker the functions of which are 
+24
+solely clerical or ministerial. 
+25
+03:51 Oct 04, 2022
+H8950
+3 
+•HR 8950 IH
+‘‘(4) ASSOCIATED PERSON OF A DIGITAL COM-
+1
+MODITY DEALER.— 
+2
+‘‘(A) IN GENERAL.—The term ‘associated 
+3
+person of a digital commodity dealer’ means a 
+4
+person who is associated with a digital com-
+5
+modity dealer as a partner, officer, employee, or 
+6
+agent (or any person occupying a similar status 
+7
+or performing similar functions) in any capacity 
+8
+that involves— 
+9
+‘‘(i) the solicitation or acceptance of a 
+10
+digital commodity trade; or 
+11
+‘‘(ii) the supervision of any person en-
+12
+gaged in the solicitation or acceptance of a 
+13
+digital commodity trade. 
+14
+‘‘(B) EXCLUSION.—The term ‘associated 
+15
+person of a digital commodity dealer’ does not 
+16
+include any person associated with a digital 
+17
+commodity dealer the functions of which are 
+18
+solely clerical or ministerial.’’; 
+19
+(3) in paragraph (11) (as so redesignated), by 
+20
+striking ‘‘and frozen concentrated orange juice’’ and 
+21
+inserting ‘‘frozen concentrated orange juice, and dig-
+22
+ital commodities,’’; 
+23
+(4) in paragraph (12)(A) (as so redesignated)— 
+24
+03:51 Oct 04, 2022
+H8950
+4 
+•HR 8950 IH
+(A) by redesignating clauses (iii) and (iv) 
+1
+as clauses (iv) and (v), respectively; and 
+2
+(B) by inserting after clause (ii) the fol-
+3
+lowing: 
+4
+‘‘(iii) digital commodity;’’; 
+5
+(5) in paragraph (13)(A)(i) (as so redesig-
+6
+nated)— 
+7
+(A) by redesignating subclauses (III) and 
+8
+(IV) as subclauses (IV) and (V), respectively; 
+9
+and 
+10
+(B) by inserting after subclause (II) the 
+11
+following: 
+12
+‘‘(III) digital commodity;’’; 
+13
+(6) in paragraph (14)(A)(i) (as so redesig-
+14
+nated)— 
+15
+(A) in subclause (II), by adding a semi-
+16
+colon at the end; 
+17
+(B) by redesignating subclauses (III) and 
+18
+(IV) as subclauses (IV) and (V), respectively; 
+19
+and 
+20
+(C) by inserting after subclause (II) the 
+21
+following: 
+22
+‘‘(III) a digital commodity;’’; 
+23
+(7) by inserting after paragraph (17) (as so re-
+24
+designated) the following: 
+25
+03:51 Oct 04, 2022
+H8950
+5 
+•HR 8950 IH
+‘‘(18) DIGITAL COMMODITY.— 
+1
+‘‘(A) IN GENERAL.—The term ‘digital com-
+2
+modity’ means a fungible digital form of per-
+3
+sonal property that can be possessed and trans-
+4
+ferred person-to-person without necessary reli-
+5
+ance on an intermediary. 
+6
+‘‘(B) INCLUSIONS.—The term ‘digital com-
+7
+modity’ includes property commonly known as 
+8
+cryptocurrency or virtual currency, such as 
+9
+Bitcoin and Ether. 
+10
+‘‘(C) 
+EXCLUSIONS.—The 
+term 
+‘digital 
+11
+commodity’ does not include— 
+12
+‘‘(i) an interest in a physical com-
+13
+modity; 
+14
+‘‘(ii) a security; 
+15
+‘‘(iii) a digital form of currency 
+16
+backed by the full faith and credit of the 
+17
+United States; 
+18
+‘‘(iv) except as provided in subpara-
+19
+graph (D), an instrument regulated by the 
+20
+Commission pursuant to any provision of 
+21
+this Act other than section 2(c)(2)(F); or 
+22
+‘‘(v) any other instrument that the 
+23
+Commission determines not to be a digital 
+24
+commodity. 
+25
+03:51 Oct 04, 2022
+H8950
+6 
+•HR 8950 IH
+‘‘(D) 
+EXCEPTION.—The 
+exclusion 
+de-
+1
+scribed in subparagraph (C)(iv) shall not apply 
+2
+to a commodity transaction that is subject only 
+3
+to Commission antimanipulation, antifraud, or 
+4
+false reporting authority. 
+5
+‘‘(19) DIGITAL COMMODITY BROKER.— 
+6
+‘‘(A) IN GENERAL.—The term ‘digital com-
+7
+modity broker’ means a person that is engaged, 
+8
+as an identifiable business, in— 
+9
+‘‘(i) soliciting or accepting orders on 
+10
+behalf of another person for a digital com-
+11
+modity trade; 
+12
+‘‘(ii) accepting digital commodities 
+13
+from another person for the purpose of en-
+14
+tering into digital commodity trades; 
+15
+‘‘(iii) arranging digital commodity 
+16
+trades on behalf of another person; or 
+17
+‘‘(iv) a similar activity, as determined 
+18
+by the Commission. 
+19
+‘‘(B) EXCLUSION.—The term ‘digital com-
+20
+modity broker’ does not include a person solely 
+21
+because that person validates digital commodity 
+22
+transactions. 
+23
+‘‘(20) DIGITAL COMMODITY CUSTODIAN.— 
+24
+03:51 Oct 04, 2022
+H8950
+7 
+•HR 8950 IH
+‘‘(A) IN GENERAL.—The term ‘digital com-
+1
+modity custodian’ means a person that, as an 
+2
+identifiable business, maintains possession, cus-
+3
+tody, or control over digital commodities on be-
+4
+half of another person. 
+5
+‘‘(B) EXCLUSIONS.—The term ‘digital 
+6
+commodity custodian’ does not include— 
+7
+‘‘(i) an insured depository institution 
+8
+(as defined in section 3 of the Federal De-
+9
+posit Insurance Act (12 U.S.C. 1813)); or 
+10
+‘‘(ii) an insured credit union (as de-
+11
+fined in section 101 of the Federal Credit 
+12
+Union Act (12 U.S.C. 1752)). 
+13
+‘‘(21) DIGITAL COMMODITY DEALER.— 
+14
+‘‘(A) IN GENERAL.—The term ‘digital com-
+15
+modity dealer’ means a person that— 
+16
+‘‘(i) has an identifiable business of 
+17
+dealing in a digital commodity as principal 
+18
+for its own account; 
+19
+‘‘(ii) makes a market in a digital com-
+20
+modity; 
+21
+‘‘(iii) holds itself out as a dealer in a 
+22
+digital commodity; 
+23
+‘‘(iv) has as an identifiable business of 
+24
+buying or selling digital commodities for 
+25
+03:51 Oct 04, 2022
+H8950
+8 
+•HR 8950 IH
+conversion into other digital commodities, 
+1
+currency, or other consideration; 
+2
+‘‘(v) has as an identifiable business of 
+3
+accepting digital commodities from another 
+4
+person (referred to in this clause as a ‘de-
+5
+positor’) with an obligation to return the 
+6
+digital commodities, consideration linked to 
+7
+the digital commodities, or both to the de-
+8
+positor; or 
+9
+‘‘(vi) engages in a similar activity, as 
+10
+determined by the Commission. 
+11
+‘‘(B) EXCLUSION.—The term ‘digital com-
+12
+modity dealer’ does not include a person solely 
+13
+because that person validates digital commodity 
+14
+transactions. 
+15
+‘‘(22) DIGITAL COMMODITY PLATFORM.— 
+16
+‘‘(A) IN GENERAL.—The term ‘digital com-
+17
+modity platform’ means a person that is 1 or 
+18
+more of the following: 
+19
+‘‘(i) A digital commodity broker. 
+20
+‘‘(ii) A digital commodity custodian. 
+21
+‘‘(iii) A digital commodity dealer. 
+22
+‘‘(iv) A digital commodity trading fa-
+23
+cility. 
+24
+03:51 Oct 04, 2022
+H8950
+9 
+•HR 8950 IH
+‘‘(B) CATEGORY.—The term ‘category’, 
+1
+with respect to a digital commodity platform, 
+2
+means 1 or more categories described in clauses 
+3
+(i) through (iv) of subparagraph (A) of that 
+4
+digital commodity platform. 
+5
+‘‘(23) DIGITAL COMMODITY TRADE.— 
+6
+‘‘(A) IN GENERAL.—The term ‘digital com-
+7
+modity trade’ means a purchase or sale of a 
+8
+digital commodity in exchange for— 
+9
+‘‘(i) another digital commodity; or 
+10
+‘‘(ii) any other consideration. 
+11
+‘‘(B) INCLUSIONS.—The term ‘digital com-
+12
+modity trade’ includes— 
+13
+‘‘(i) an offer to enter into a purchase 
+14
+or sale described in subparagraph (A); and 
+15
+‘‘(ii) a loan of a digital commodity, an 
+16
+offer to enter into a loan of a digital com-
+17
+modity, or a similar activity, as determined 
+18
+by the Commission. 
+19
+‘‘(C) EXCLUSION.—Except as provided in 
+20
+subparagraph (D), the term ‘digital commodity 
+21
+trade’ excludes a transaction regulated by the 
+22
+Commission pursuant to any provision of this 
+23
+Act except section 2(c)(2)(F). 
+24
+03:51 Oct 04, 2022
+H8950
+10 
+•HR 8950 IH
+‘‘(D) 
+EXCEPTION.—The 
+exclusion 
+de-
+1
+scribed in subparagraph (C) shall not apply to 
+2
+a commodity transaction that is subject only to 
+3
+Commission antimanipulation, antifraud, or 
+4
+false reporting authority. 
+5
+‘‘(24) DIGITAL
+COMMODITY
+TRADING
+FACIL-
+6
+ITY.— 
+7
+‘‘(A) IN GENERAL.—The term ‘digital com-
+8
+modity trading facility’ means a trading facility 
+9
+that facilitates the execution or trading of dig-
+10
+ital commodity trades between persons. 
+11
+‘‘(B) EXCLUSION.—The term ‘digital com-
+12
+modity trading facility’ does not include a per-
+13
+son solely because that person validates digital 
+14
+commodity transactions.’’; 
+15
+(8) in paragraph (43) (as so redesignated)— 
+16
+(A) in the paragraph heading, by striking 
+17
+‘‘; MEMBER OF A DERIVATIVES TRANSACTION 
+18
+EXECUTION FACILITY’’; 
+19
+(B) in the matter preceding subparagraph 
+20
+(A), by striking ‘‘entity or derivatives trans-
+21
+action execution facility,’’ and inserting ‘‘enti-
+22
+ty,’’; 
+23
+03:51 Oct 04, 2022
+H8950
+11 
+•HR 8950 IH
+(C) in subparagraph (A), by striking ‘‘enti-
+1
+ty’’ and all that follows through the semicolon 
+2
+and inserting ‘‘entity;’’; and 
+3
+(D) in subparagraph (B), by striking ‘‘en-
+4
+tity’’ and all that follows through the period at 
+5
+the end and inserting ‘‘entity.’’; and 
+6
+(9) in paragraph (49) (as so redesignated)— 
+7
+(A) by redesignating subparagraphs (E) 
+8
+and (F) as subparagraphs (F) and (G), respec-
+9
+tively; and 
+10
+(B) by inserting after subparagraph (D) 
+11
+the following: 
+12
+‘‘(E) a digital commodity trading facility 
+13
+registered under section 5i;’’. 
+14
+(b) CONFORMING AMENDMENTS.— 
+15
+(1) Section 1a of the Commodity Exchange Act 
+16
+(7 U.S.C. 1a) is amended— 
+17
+(A) in paragraph (26)(A) (as redesignated 
+18
+by subsection (a)(1)), in the matter preceding 
+19
+clause (i), by striking ‘‘(18)(A)’’ and inserting 
+20
+‘‘(27)(A)’’; and 
+21
+(B) in paragraph (27)(A)(vii)(III)(aa) (as 
+22
+redesignated by subsection (a)(1)), by striking 
+23
+‘‘(17)(A)’’ and inserting ‘‘(26)(A)’’. 
+24
+03:51 Oct 04, 2022
+H8950
+12 
+•HR 8950 IH
+(2) Section 4(c)(1)(A)(i)(I) of the Commodity 
+1
+Exchange Act (7 U.S.C. 6(c)(1)(A)(i)(I)) is amended 
+2
+by striking ‘‘paragraphs (2), (3), (4), (5), and (7), 
+3
+paragraph (18)(A)(vii)(III), paragraphs (23), (24), 
+4
+(31), (32), (38), (39), (41), (42), (46), (47), (48), 
+5
+and (49) of section 1a’’ and inserting ‘‘paragraphs 
+6
+(2), (5), (6), (7), (9), (27)(A)(vii)(III), (32), (33), 
+7
+(40), (41), (47), (48), (50), (51), (55), (56), (57), 
+8
+and (58) of section 1a’’. 
+9
+(3) Section 4q(a)(1) of the Commodity Ex-
+10
+change Act (7 U.S.C. 6q(a)(1)) is amended by strik-
+11
+ing ‘‘1a(9)’’ and inserting ‘‘1a(11)’’. 
+12
+(4) Section 4s of the Commodity Exchange Act 
+13
+(7 U.S.C. 6s) is amended— 
+14
+(A) in subsection (f)(1)(D), by striking 
+15
+‘‘1a(47)(A)(v)’’ and inserting ‘‘1a(56)(A)(v)’’; 
+16
+and 
+17
+(B) in subsection (h)(5)(A)(i), in the mat-
+18
+ter 
+preceding 
+subclause 
+(I), 
+by 
+striking 
+19
+‘‘1a(18)’’ and inserting ‘‘1a(27)(A)’’. 
+20
+(5) Section 4t(b)(1)(C) of the Commodity Ex-
+21
+change Act (7 U.S.C. 6t(b)(1)(C)) is amended by 
+22
+striking 
+‘‘1a(47)(A)(v)),’’ 
+and 
+inserting 
+23
+‘‘1a(56)(A)(v)),’’. 
+24
+03:51 Oct 04, 2022
+H8950
+13 
+•HR 8950 IH
+(6) Section 5 of the Commodity Exchange Act 
+1
+(7 U.S.C. 7) is amended— 
+2
+(A) in subsection (d)(23), by striking 
+3
+‘‘1a(47)(A)(v)’’ and inserting ‘‘1a(56)(A)(v)’’; 
+4
+and 
+5
+(B) in subsection (e)(1), by striking 
+6
+‘‘1a(9)’’ and inserting ‘‘1a(11)’’. 
+7
+(7) Section 5b(k)(3)(A) of the Commodity Ex-
+8
+change Act (7 U.S.C. 7a–1(k)(3)(A)) is amended by 
+9
+striking 
+‘‘1a(47)(A)(v))’’ 
+and 
+inserting 
+10
+‘‘1a(56)(A)(v))’’. 
+11
+(8) Section 5c(c)(4)(B) of the Commodity Ex-
+12
+change Act (7 U.S.C. 7a–2(c)(4)(B)) is amended by 
+13
+striking ‘‘1a(10)’’ and inserting ‘‘1a(11)’’. 
+14
+(9) Section 5h(f)(10)(A)(iii) of the Commodity 
+15
+Exchange Act (7 U.S.C. 7b–3(f)(10)(A)(iii)) is 
+16
+amended by striking ‘‘1a(47)(A)(v)’’ and inserting 
+17
+‘‘1a(56)(A)(v)’’. 
+18
+(10) Section 21(f)(4)(C) of the Commodity Ex-
+19
+change Act (7 U.S.C. 24a(f)(4)(C)) is amended by 
+20
+striking ‘‘1a(48)’’ and inserting ‘‘1a(57)’’. 
+21
+(11) Section 403 of the Legal Certainty for 
+22
+Bank Products Act of 2000 (7 U.S.C. 27a) is 
+23
+amended— 
+24
+03:51 Oct 04, 2022
+H8950
+14 
+•HR 8950 IH
+(A) in subsection (a)(2), by striking 
+1
+‘‘1a(47)(A)(v)’’ and inserting ‘‘1a(56)(A)(v)’’; 
+2
+and 
+3
+(B) in subsection (b)(1), by striking 
+4
+‘‘1a(47)’’ and inserting ‘‘1a’’. 
+5
+(12) Section 5(e) of the Securities Act of 1933 
+6
+(15 U.S.C. 77e(e)) is amended by striking ‘‘section 
+7
+1a(18) of the Commodity Exchange Act (7 U.S.C. 
+8
+1a(18))’’ and inserting ‘‘section 1a of the Com-
+9
+modity Exchange Act (7 U.S.C. 1a)’’. 
+10
+(13) Section 3C(g)(3)(A)(v) of the Securities 
+11
+Exchange 
+Act 
+of 
+1934 
+(15 
+U.S.C. 
+78c– 
+12
+3(g)(3)(A)(v)) is amended by striking ‘‘section 
+13
+1a(10) of the Commodity Exchange Act;’’ and in-
+14
+serting ‘‘section 1a of the Commodity Exchange Act 
+15
+(7 U.S.C. 1a);’’. 
+16
+(14) Section 6(g)(5)(B)(i) of the Securities Ex-
+17
+change Act of 1934 (15 U.S.C. 78f(g)(5)(B)(i)) is 
+18
+amended— 
+19
+(A) in subclause (I), by striking ‘‘section 
+20
+1a(18)(B)(ii) of the Commodity Exchange Act’’ 
+21
+and inserting ‘‘subparagraph (B)(ii) of section 
+22
+1a(27) of the Commodity Exchange Act (7 
+23
+U.S.C. 1a(27))’’; and 
+24
+03:51 Oct 04, 2022
+H8950
+15 
+•HR 8950 IH
+(B) in subclause (II), by striking ‘‘such 
+1
+section 1a(18))’’ and inserting ‘‘that section)’’. 
+2
+(15) Section 712(a)(8) of the Dodd-Frank Wall 
+3
+Street Reform and Consumer Protection Act (15 
+4
+U.S.C. 8302(a)(8)) is amended by striking ‘‘section 
+5
+1a(47)(D) of the Commodity Exchange Act (7 
+6
+U.S.C. 
+1a(47)(D))’’ 
+and 
+inserting 
+‘‘section 
+7
+1a(56)(D) of the Commodity Exchange Act (7 
+8
+U.S.C. 1a(56)(D))’’. 
+9
+(16) Section 752(a) of the Dodd-Frank Wall 
+10
+Street Reform and Consumer Protection Act (15 
+11
+U.S.C. 8325(a)) is amended by striking ‘‘section 
+12
+1a(39) of the Commodity Exchange Act),’’ and in-
+13
+serting ‘‘section 1a of the Commodity Exchange Act 
+14
+(7 U.S.C. 1a)),’’. 
+15
+SEC. 3. COMMISSION JURISDICTION OVER DIGITAL COM-
+16
+MODITY TRADES. 
+17
+Section 2 of the Commodity Exchange Act (7 U.S.C. 
+18
+2) is amended— 
+19
+(1) in subsection (a)(1)(A), in the first sen-
+20
+tence, by striking ‘‘section 19 of this Act’’ and in-
+21
+serting ‘‘subsection (c)(2)(F) or section 19’’; and 
+22
+(2) in subsection (c)(2), by adding at the end 
+23
+the following: 
+24
+03:51 Oct 04, 2022
+H8950
+16 
+•HR 8950 IH
+‘‘(F) COMMISSION
+JURISDICTION
+OVER 
+1
+DIGITAL COMMODITY TRADES.— 
+2
+‘‘(i) IN
+GENERAL.—Except as pro-
+3
+vided in clause (ii), this Act applies to, and 
+4
+the Commission shall have exclusive juris-
+5
+diction over, any account, agreement, con-
+6
+tract, or transaction involving a digital 
+7
+commodity trade. 
+8
+‘‘(ii) EXCEPTION.—Nothing in this 
+9
+Act applies to, and the Commission shall 
+10
+not have jurisdiction over, any digital com-
+11
+modity transaction by a merchant or con-
+12
+sumer that uses a digital commodity solely 
+13
+for the purchase or sale of a good or serv-
+14
+ice. 
+15
+‘‘(iii) 
+PROHIBITION
+ON
+CERTAIN 
+16
+TRADING
+PRACTICES.—Sections 4b, 4c, 
+17
+and 6(c) shall apply to any digital com-
+18
+modity trade as if the digital commodity 
+19
+trade were a contract of sale of a com-
+20
+modity for future delivery.’’. 
+21
+SEC. 4. DIGITAL COMMODITY PLATFORMS. 
+22
+The Commodity Exchange Act is amended by insert-
+23
+ing after section 5h (7 U.S.C. 7b–3) the following: 
+24
+03:51 Oct 04, 2022
+H8950
+17 
+•HR 8950 IH
+‘‘SEC. 5i. DIGITAL COMMODITY PLATFORMS. 
+1
+‘‘(a) REGISTRATION.— 
+2
+‘‘(1) REQUIREMENT.—It shall be unlawful for 
+3
+any person to act as any category of digital com-
+4
+modity platform unless the person is registered 
+5
+under this section as that category of digital com-
+6
+modity platform. 
+7
+‘‘(2) APPLICATIONS.—A person desiring to reg-
+8
+ister as any category of digital commodity platform 
+9
+shall submit to the Commission an application in 
+10
+such form and containing such information as the 
+11
+Commission may require for the purpose of deter-
+12
+mining whether the applicant is in compliance with 
+13
+subsection (b) and the other requirements of this 
+14
+Act. 
+15
+‘‘(3) MULTIPLE
+REGISTRATIONS.—As appro-
+16
+priate to further the purposes of this Act and avoid 
+17
+duplicative or unnecessary requirements, and taking 
+18
+into consideration potential conflicts of interest or 
+19
+other risks, the Commission may prescribe rules or 
+20
+regulations permitting, or may otherwise authorize— 
+21
+‘‘(A) registration by a person in more than 
+22
+1 category of digital commodity platform; 
+23
+‘‘(B) a registered entity, a swap dealer, or 
+24
+a futures commission merchant registered 
+25
+under this Act to register under this section in 
+26
+03:51 Oct 04, 2022
+H8950
+18 
+•HR 8950 IH
+1 or more categories of digital commodity plat-
+1
+form; and 
+2
+‘‘(C) exemptions or additional require-
+3
+ments applicable to persons with multiple reg-
+4
+istrations under this Act. 
+5
+‘‘(b) CORE PRINCIPLES FOR DIGITAL COMMODITY 
+6
+PLATFORMS.— 
+7
+‘‘(1) COMPLIANCE WITH CORE PRINCIPLES.— 
+8
+‘‘(A) IN GENERAL.—To be registered, and 
+9
+maintain registration, as a digital commodity 
+10
+platform, the digital commodity platform shall 
+11
+comply with— 
+12
+‘‘(i) the core principles described in 
+13
+this subsection; and 
+14
+‘‘(ii) any requirement that the Com-
+15
+mission may impose by rule or regulation. 
+16
+‘‘(B) REASONABLE
+DISCRETION
+OF
+DIG-
+17
+ITAL
+COMMODITY
+PLATFORM.—Unless other-
+18
+wise determined by the Commission by rule or 
+19
+regulation, a digital commodity platform de-
+20
+scribed in subparagraph (A) shall have reason-
+21
+able discretion in establishing the manner in 
+22
+which the digital commodity platform complies 
+23
+with the core principles described in this sub-
+24
+section. 
+25
+03:51 Oct 04, 2022
+H8950
+19 
+•HR 8950 IH
+‘‘(2) CORE
+PRINCIPLES
+APPLICABLE
+TO
+DIG-
+1
+ITAL COMMODITY TRADING FACILITIES.— 
+2
+‘‘(A) COMPLIANCE WITH RULES.—A digital 
+3
+commodity trading facility shall— 
+4
+‘‘(i) establish and enforce compliance 
+5
+with any rule of the digital commodity 
+6
+trading facility, including— 
+7
+‘‘(I) the terms and conditions of 
+8
+the transactions in digital commod-
+9
+ities traded or processed on or 
+10
+through the digital commodity trading 
+11
+facility; and 
+12
+‘‘(II) any limitation on access to 
+13
+the digital commodity trading facility; 
+14
+‘‘(ii) establish and enforce trading, 
+15
+trade processing, and participation rules 
+16
+that will deter abuses and have the capac-
+17
+ity to detect, investigate, and enforce those 
+18
+rules, including means— 
+19
+‘‘(I) to provide market partici-
+20
+pants with impartial access to the 
+21
+market; and 
+22
+‘‘(II) to capture information that 
+23
+may be used in establishing whether 
+24
+rule violations have occurred; and 
+25
+03:51 Oct 04, 2022
+H8950
+20 
+•HR 8950 IH
+‘‘(iii) establish rules governing the op-
+1
+eration of the digital commodity trading 
+2
+facility. 
+3
+‘‘(B) DIGITAL COMMODITY TRANSACTIONS 
+4
+NOT
+READILY
+SUSCEPTIBLE
+TO
+MANIPULA-
+5
+TION.—A digital commodity trading facility 
+6
+shall permit trading only in transactions in dig-
+7
+ital commodities that are not readily susceptible 
+8
+to manipulation. 
+9
+‘‘(C) 
+MONITORING
+OF
+TRADING
+AND 
+10
+TRADE PROCESSING.— 
+11
+‘‘(i) MARKETS AND MECHANISMS.— 
+12
+‘‘(I) IN
+GENERAL.—A digital 
+13
+commodity trading facility shall pro-
+14
+vide a competitive, open, and efficient 
+15
+market and mechanism for executing 
+16
+transactions that protects the price 
+17
+discovery process of trading on the 
+18
+digital commodity trading facility. 
+19
+‘‘(II) CENTRALIZED MARKET.—A 
+20
+digital 
+commodity 
+trading 
+facility 
+21
+shall provide a centralized market for 
+22
+executing transactions. 
+23
+‘‘(ii) PROTECTION OF MARKETS AND 
+24
+MARKET
+PARTICIPANTS.—A digital com-
+25
+03:51 Oct 04, 2022
+H8950
+21 
+•HR 8950 IH
+modity trading facility shall establish and 
+1
+enforce rules— 
+2
+‘‘(I) to protect markets and mar-
+3
+ket participants from abusive prac-
+4
+tices committed by any party, includ-
+5
+ing abusive practices committed by a 
+6
+party acting as an agent for a partici-
+7
+pant; and 
+8
+‘‘(II) to promote fair and equi-
+9
+table trading on the digital commodity 
+10
+trading facility. 
+11
+‘‘(iii) 
+PROCEDURES
+AND
+MONI-
+12
+TORING.—A digital commodity trading fa-
+13
+cility shall— 
+14
+‘‘(I) establish and enforce rules 
+15
+or terms and conditions defining, or 
+16
+specifications detailing— 
+17
+‘‘(aa) trading procedures to 
+18
+be used in entering and executing 
+19
+orders traded on or through the 
+20
+facilities of the digital commodity 
+21
+trading facility; and 
+22
+‘‘(bb) procedures for trade 
+23
+processing of digital commodities 
+24
+on or through the facilities of the 
+25
+03:51 Oct 04, 2022
+H8950
+22 
+•HR 8950 IH
+digital commodity trading facil-
+1
+ity; and 
+2
+‘‘(II) monitor trading in digital 
+3
+commodities to prevent manipulation, 
+4
+price distortion, and disruptions of the 
+5
+delivery or settlement process through 
+6
+surveillance, compliance, and discipli-
+7
+nary practices and procedures, includ-
+8
+ing 
+investigations, 
+sanctions, 
+and 
+9
+methods 
+for 
+conducting 
+real-time 
+10
+monitoring of trading and comprehen-
+11
+sive and accurate trade reconstruc-
+12
+tions. 
+13
+‘‘(D) ABILITY TO OBTAIN INFORMATION.— 
+14
+A digital commodity trading facility shall— 
+15
+‘‘(i) establish and enforce rules that 
+16
+will allow the digital commodity trading fa-
+17
+cility to obtain any necessary information 
+18
+to perform any of the functions described 
+19
+in this section; 
+20
+‘‘(ii) provide the information to the 
+21
+Commission on request; and 
+22
+‘‘(iii) have the capacity to carry out 
+23
+such 
+international 
+information-sharing 
+24
+03:51 Oct 04, 2022
+H8950
+23 
+•HR 8950 IH
+agreements as the Commission may re-
+1
+quire. 
+2
+‘‘(E) FINANCIAL
+INTEGRITY
+OF
+TRANS-
+3
+ACTIONS.—A digital commodity trading facility 
+4
+shall establish and enforce rules and procedures 
+5
+for ensuring the financial integrity of digital 
+6
+commodity trades entered on or through the fa-
+7
+cilities of the digital commodity trading facility. 
+8
+‘‘(F) EMERGENCY AUTHORITY.—A digital 
+9
+commodity trading facility shall adopt rules to 
+10
+provide for the exercise of emergency authority, 
+11
+in consultation or cooperation with the Commis-
+12
+sion, as is necessary and appropriate, including 
+13
+the authority to liquidate or transfer open posi-
+14
+tions in any digital commodity or to suspend or 
+15
+curtail trading in a digital commodity. 
+16
+‘‘(G) TIMELY
+PUBLICATION
+OF
+TRADING 
+17
+INFORMATION.— 
+18
+‘‘(i) IN
+GENERAL.—A digital com-
+19
+modity trading facility shall make public 
+20
+timely information on price, trading vol-
+21
+ume, and other trading data on digital 
+22
+commodities to the extent prescribed by 
+23
+the Commission. 
+24
+03:51 Oct 04, 2022
+H8950
+24 
+•HR 8950 IH
+‘‘(ii) CAPACITY
+OF
+DIGITAL
+COM-
+1
+MODITY
+TRADING
+FACILITY.—A digital 
+2
+commodity trading facility shall be re-
+3
+quired to have the capacity to electronically 
+4
+capture and transmit trade information 
+5
+with respect to transactions executed on 
+6
+the digital commodity trading facility. 
+7
+‘‘(H) AVAILABILITY OF GENERAL INFOR-
+8
+MATION.—A digital commodity trading facility 
+9
+shall make available to market authorities, mar-
+10
+ket participants, and the public accurate infor-
+11
+mation concerning— 
+12
+‘‘(i) the terms and conditions of the 
+13
+contracts for transactions in digital com-
+14
+modities; 
+15
+‘‘(ii) the rules and mechanisms for 
+16
+executing digital commodity trades on or 
+17
+through the facilities of the digital com-
+18
+modity trading facility; and 
+19
+‘‘(iii) the rules and specifications de-
+20
+scribing the operation of the electronic 
+21
+matching platform or trade execution facil-
+22
+ity of the digital commodity trading facil-
+23
+ity. 
+24
+03:51 Oct 04, 2022
+H8950
+25 
+•HR 8950 IH
+‘‘(I) DISCIPLINARY PROCEDURES.—A dig-
+1
+ital commodity trading facility shall establish 
+2
+and enforce— 
+3
+‘‘(i) disciplinary procedures that au-
+4
+thorize the digital commodity trading facil-
+5
+ity to discipline, suspend, or expel market 
+6
+participants that violate the rules of the 
+7
+digital commodity trading facility; or 
+8
+‘‘(ii) similar methods for performing 
+9
+the functions described in clause (i), in-
+10
+cluding delegation to third parties. 
+11
+‘‘(J) DISPUTE
+RESOLUTION.—A digital 
+12
+commodity trading facility shall establish and 
+13
+enforce rules regarding, and provide facilities 
+14
+for alternative dispute resolution, as appro-
+15
+priate, for, market participants and market 
+16
+intermediaries. 
+17
+‘‘(3) CORE
+PRINCIPLES
+APPLICABLE
+TO
+DIG-
+18
+ITAL
+COMMODITY
+DEALERS
+AND
+DIGITAL
+COM-
+19
+MODITY BROKERS.— 
+20
+‘‘(A) EXECUTION.—A digital commodity 
+21
+dealer or digital commodity broker— 
+22
+‘‘(i) shall establish prices fairly and 
+23
+objectively; 
+24
+03:51 Oct 04, 2022
+H8950
+26 
+•HR 8950 IH
+‘‘(ii) shall disclose the basis for those 
+1
+prices; and 
+2
+‘‘(iii) shall not disrupt market func-
+3
+tioning or hinder the price discovery proc-
+4
+ess. 
+5
+‘‘(B) DAILY TRADING RECORDS.— 
+6
+‘‘(i) IN
+GENERAL.—A digital com-
+7
+modity dealer or digital commodity broker 
+8
+shall keep full, complete, and systematic 
+9
+records (including all pertinent data and 
+10
+memoranda) of all transactions relating to 
+11
+its business of dealing or brokerage in dig-
+12
+ital commodity transactions. 
+13
+‘‘(ii) INCLUDED COMMUNICATIONS.— 
+14
+A digital commodity dealer or digital com-
+15
+modity broker shall keep all oral and writ-
+16
+ten communications provided or received 
+17
+concerning quotes, solicitations, bids, of-
+18
+fers, instructions, trading, and prices that 
+19
+lead to the execution of a transaction in a 
+20
+digital commodity. 
+21
+‘‘(C) BUSINESS CONDUCT STANDARDS.—A 
+22
+digital commodity dealer or digital commodity 
+23
+broker shall conform with such business con-
+24
+duct standards as may be prescribed by the 
+25
+03:51 Oct 04, 2022
+H8950
+27 
+•HR 8950 IH
+Commission by rule or regulation that relate 
+1
+to— 
+2
+‘‘(i) fraud, manipulation, and other 
+3
+abusive practices involving digital com-
+4
+modity trades (including digital commodity 
+5
+trades that are offered but not entered 
+6
+into); 
+7
+‘‘(ii) diligent supervision of the busi-
+8
+ness of the digital commodity dealer or 
+9
+digital commodity broker; and 
+10
+‘‘(iii) such other matters as the Com-
+11
+mission determines to be appropriate. 
+12
+‘‘(D) DUTIES.—A digital commodity dealer 
+13
+or digital commodity broker shall comply with 
+14
+the following requirements: 
+15
+‘‘(i) 
+RISK
+MANAGEMENT
+PROCE-
+16
+DURES.—The digital commodity dealer or 
+17
+digital commodity broker shall establish ro-
+18
+bust and professional risk management 
+19
+systems adequate for managing the day-to- 
+20
+day business of the digital commodity deal-
+21
+er or digital commodity broker. 
+22
+‘‘(ii) DISCLOSURE
+OF
+GENERAL
+IN-
+23
+FORMATION.—The digital commodity deal-
+24
+er or digital commodity broker shall dis-
+25
+03:51 Oct 04, 2022
+H8950
+28 
+•HR 8950 IH
+close to the Commission, as applicable, in-
+1
+formation concerning— 
+2
+‘‘(I) terms and conditions of its 
+3
+digital commodity trades; 
+4
+‘‘(II) trading operations, mecha-
+5
+nisms, and practices; 
+6
+‘‘(III) financial integrity protec-
+7
+tions relating to transactions in digital 
+8
+commodity trades; and 
+9
+‘‘(IV) other information relevant 
+10
+to its digital commodity trades. 
+11
+‘‘(E) ABILITY TO OBTAIN INFORMATION.— 
+12
+A digital commodity dealer or digital com-
+13
+modity broker shall— 
+14
+‘‘(i) establish and enforce internal sys-
+15
+tems and procedures to obtain any nec-
+16
+essary information to perform any of the 
+17
+functions described in this section; and 
+18
+‘‘(ii) provide the information described 
+19
+in clause (i) to the Commission on request. 
+20
+‘‘(4) CORE
+PRINCIPLES
+APPLICABLE
+TO
+ALL 
+21
+DIGITAL COMMODITY PLATFORMS.— 
+22
+‘‘(A) RECORDKEEPING AND REPORTING.— 
+23
+A digital commodity platform shall— 
+24
+03:51 Oct 04, 2022
+H8950
+29 
+•HR 8950 IH
+‘‘(i)(I) maintain records of all activi-
+1
+ties relating to the business of the digital 
+2
+commodity platform, including a complete 
+3
+audit trail, in a form and manner accept-
+4
+able to the Commission for a period of 5 
+5
+years; and 
+6
+‘‘(II) keep the records described in 
+7
+subclause (I) open to inspection by the 
+8
+Commission; 
+9
+‘‘(ii) provide to the Commission, in a 
+10
+form and manner acceptable to the Com-
+11
+mission, such information as the Commis-
+12
+sion determines to be necessary or appro-
+13
+priate for the Commission to perform the 
+14
+duties of the Commission under this Act; 
+15
+and 
+16
+‘‘(iii) make such reports as are re-
+17
+quired by the Commission relating to the 
+18
+transactions and positions of the customers 
+19
+of the digital commodity platform. 
+20
+‘‘(B) ANTITRUST
+CONSIDERATIONS.—Un-
+21
+less necessary or appropriate to achieve the 
+22
+purposes of this Act, a digital commodity plat-
+23
+form shall not— 
+24
+03:51 Oct 04, 2022
+H8950
+30 
+•HR 8950 IH
+‘‘(i) adopt any rules or take any ac-
+1
+tions that result in any unreasonable re-
+2
+straint of trade; or 
+3
+‘‘(ii) impose any material anticompeti-
+4
+tive burden on trading or custody. 
+5
+‘‘(C) 
+CONFLICTS
+OF
+INTEREST.—The 
+6
+Commission shall require conflict of interest 
+7
+systems and procedures that— 
+8
+‘‘(i) establish structural and institu-
+9
+tional safeguards— 
+10
+‘‘(I) to minimize conflicts of in-
+11
+terest that might potentially bias the 
+12
+judgment or supervision of a digital 
+13
+commodity platform and contravene 
+14
+the core principles of fair and equi-
+15
+table trading and the business con-
+16
+duct standards described in this Act, 
+17
+including conflicts arising out of 
+18
+transactions or arrangements with af-
+19
+filiates (including affiliates acting as 
+20
+issuers, 
+market-makers, 
+or 
+21
+custodians); and 
+22
+‘‘(II) which may include, as the 
+23
+Commission determines to be appro-
+24
+priate, information partitions and the 
+25
+03:51 Oct 04, 2022
+H8950
+31 
+•HR 8950 IH
+legal separation of different categories 
+1
+of digital commodity platforms; 
+2
+‘‘(ii) establish a process for resolving 
+3
+conflicts of interest described in clause (i); 
+4
+‘‘(iii) require disclosure by a digital 
+5
+commodity platform of any material incen-
+6
+tives or conflicts of interest that the digital 
+7
+commodity platform is unable to resolve; 
+8
+and 
+9
+‘‘(iv) address such other issues as the 
+10
+Commission determines to be appropriate. 
+11
+‘‘(D) FINANCIAL RESOURCES.— 
+12
+‘‘(i) IN
+GENERAL.—A digital com-
+13
+modity platform shall have adequate finan-
+14
+cial, operational, and managerial resources 
+15
+to discharge each responsibility of the dig-
+16
+ital commodity platform. 
+17
+‘‘(ii) 
+FINANCIAL
+RESOURCES
+FOR 
+18
+MARGIN TRADING.—The Commission shall 
+19
+require such additional financial resources 
+20
+as are necessary to enable a digital com-
+21
+modity platform to fulfill obligations of the 
+22
+digital commodity platform arising from 
+23
+margined, leveraged, or financed trans-
+24
+actions. 
+25
+03:51 Oct 04, 2022
+H8950
+32 
+•HR 8950 IH
+‘‘(E) SYSTEM
+SAFEGUARDS.—A digital 
+1
+commodity platform shall— 
+2
+‘‘(i) establish and maintain a program 
+3
+of risk analysis and oversight to identify 
+4
+and minimize sources of operational risk 
+5
+(including cybersecurity risk), through the 
+6
+development of appropriate controls and 
+7
+procedures, and automated systems, that— 
+8
+‘‘(I) are reliable and secure; and 
+9
+‘‘(II) have adequate scalable ca-
+10
+pacity; 
+11
+‘‘(ii) establish and maintain emer-
+12
+gency procedures, backup facilities, and a 
+13
+plan for disaster recovery that allow for— 
+14
+‘‘(I) the timely recovery and re-
+15
+sumption of operations; and 
+16
+‘‘(II) the fulfillment of the re-
+17
+sponsibilities and obligations of the 
+18
+digital commodity platform; and 
+19
+‘‘(iii) periodically conduct tests to 
+20
+verify that the backup resources of the dig-
+21
+ital commodity platform are sufficient to 
+22
+ensure continued— 
+23
+‘‘(I) order processing and trade 
+24
+matching; 
+25
+03:51 Oct 04, 2022
+H8950
+33 
+•HR 8950 IH
+‘‘(II) price reporting; 
+1
+‘‘(III) market surveillance; and 
+2
+‘‘(IV) maintenance of a com-
+3
+prehensive and accurate audit trail. 
+4
+‘‘(F) DESIGNATION OF CHIEF COMPLIANCE 
+5
+OFFICER.— 
+6
+‘‘(i) IN
+GENERAL.—A digital com-
+7
+modity platform shall designate an indi-
+8
+vidual to serve as a chief compliance officer 
+9
+(referred to in this paragraph as a ‘chief 
+10
+compliance officer’). 
+11
+‘‘(ii) DUTIES.—A chief compliance of-
+12
+ficer shall— 
+13
+‘‘(I) report directly to the board 
+14
+or to the senior officer of the digital 
+15
+commodity platform; 
+16
+‘‘(II) review compliance with the 
+17
+core principles described in this sub-
+18
+section; 
+19
+‘‘(III) in consultation with the 
+20
+board of the digital commodity plat-
+21
+form, a body performing a function 
+22
+similar to that of a board, or the sen-
+23
+ior officer of the digital commodity 
+24
+03:51 Oct 04, 2022
+H8950
+34 
+•HR 8950 IH
+platform, resolve any conflicts of in-
+1
+terest that may arise; 
+2
+‘‘(IV) be responsible for estab-
+3
+lishing and administering the policies 
+4
+and procedures required to be estab-
+5
+lished pursuant to this section; 
+6
+‘‘(V) ensure compliance with this 
+7
+Act and the rules and regulations 
+8
+issued under this Act, including rules 
+9
+prescribed by the Commission pursu-
+10
+ant to this section; and 
+11
+‘‘(VI) establish procedures for 
+12
+the remediation of noncompliance 
+13
+issues found during compliance office 
+14
+reviews, look backs, internal or exter-
+15
+nal audit findings, self-reported er-
+16
+rors, or through validated complaints. 
+17
+‘‘(iii) REQUIREMENTS
+FOR
+PROCE-
+18
+DURES.—In establishing procedures under 
+19
+clause (ii)(VI), a chief compliance officer 
+20
+shall design the procedures to establish the 
+21
+handling, management response, remedi-
+22
+ation, retesting, and closing of noncompli-
+23
+ance issues. 
+24
+‘‘(iv) ANNUAL REPORTS.— 
+25
+03:51 Oct 04, 2022
+H8950
+35 
+•HR 8950 IH
+‘‘(I) IN
+GENERAL.—In accord-
+1
+ance with rules prescribed by the 
+2
+Commission, a chief compliance offi-
+3
+cer shall annually prepare and sign a 
+4
+report that contains a description of— 
+5
+‘‘(aa) the compliance of the 
+6
+digital commodity platform with 
+7
+this Act; and 
+8
+‘‘(bb) the policies and proce-
+9
+dures, including the code of eth-
+10
+ics and conflict of interest poli-
+11
+cies, of the digital commodity 
+12
+platform. 
+13
+‘‘(II) REQUIREMENTS.—A chief 
+14
+compliance officer shall— 
+15
+‘‘(aa) submit each report de-
+16
+scribed in subclause (I) with the 
+17
+appropriate financial report of 
+18
+the digital commodity platform 
+19
+that is required to be submitted 
+20
+to the Commission pursuant to 
+21
+this section; and 
+22
+‘‘(bb) include in the report a 
+23
+certification that, under penalty 
+24
+03:51 Oct 04, 2022
+H8950
+36 
+•HR 8950 IH
+of law, the report is accurate and 
+1
+complete. 
+2
+‘‘(G) 
+GOVERNANCE; 
+FITNESS
+STAND-
+3
+ARDS.— 
+4
+‘‘(i) GOVERNANCE ARRANGEMENTS.— 
+5
+A digital commodity platform shall estab-
+6
+lish governance arrangements that are 
+7
+transparent to fulfill public interest re-
+8
+quirements. 
+9
+‘‘(ii) FITNESS STANDARDS.—A digital 
+10
+commodity platform shall establish and en-
+11
+force appropriate fitness standards for— 
+12
+‘‘(I) directors; and 
+13
+‘‘(II) any entity offering affiliated 
+14
+services for the digital commodity 
+15
+platform. 
+16
+‘‘(H) TREATMENT
+OF
+CUSTOMER
+AS-
+17
+SETS.— 
+18
+‘‘(i) IN
+GENERAL.—A digital com-
+19
+modity platform shall hold customer prop-
+20
+erty (including digital commodities) in a 
+21
+manner that minimizes the risk of loss of, 
+22
+or unreasonable delay in access to, the cus-
+23
+tomer property. 
+24
+‘‘(ii) SEGREGATION OF FUNDS.— 
+25
+03:51 Oct 04, 2022
+H8950
+37 
+•HR 8950 IH
+‘‘(I) IN
+GENERAL.—A digital 
+1
+commodity platform shall treat and 
+2
+deal with all customer property that is 
+3
+received by the digital commodity 
+4
+platform as belonging to the cus-
+5
+tomer. 
+6
+‘‘(II) 
+COMMINGLING
+PROHIB-
+7
+ITED.—Customer property described 
+8
+in subclause (I)— 
+9
+‘‘(aa) shall be separately ac-
+10
+counted for; and 
+11
+‘‘(bb) shall not be commin-
+12
+gled with the assets of the digital 
+13
+commodity platform. 
+14
+‘‘(iii) EXCEPTIONS.— 
+15
+‘‘(I) USE OF FUNDS.—Notwith-
+16
+standing clause (ii), customer prop-
+17
+erty described in that clause may, for 
+18
+convenience, be commingled in the 
+19
+same account or accounts with— 
+20
+‘‘(aa) an insured depository 
+21
+institution (as defined in section 
+22
+3 of the Federal Deposit Insur-
+23
+ance Act (12 U.S.C. 1813)); 
+24
+03:51 Oct 04, 2022
+H8950
+38 
+•HR 8950 IH
+‘‘(bb) 
+an 
+insured 
+credit 
+1
+union (as defined in section 101 
+2
+of the Federal Credit Union Act 
+3
+(12 U.S.C. 1752)); or 
+4
+‘‘(cc) a digital commodity 
+5
+platform. 
+6
+‘‘(II) 
+WITHDRAWAL.—Notwith-
+7
+standing clause (ii), such share of the 
+8
+customer property described in that 
+9
+clause as, in the normal course of 
+10
+business, is necessary to margin, 
+11
+guarantee, secure, transfer, adjust, or 
+12
+settle a digital commodity transaction 
+13
+with a digital commodity platform, or 
+14
+with any customer of a digital com-
+15
+modity platform, may be withdrawn 
+16
+and applied to such purposes lawfully 
+17
+accruing in connection with the digital 
+18
+commodity transaction, including the 
+19
+payment of commissions, taxes, and 
+20
+brokerage, interest, storage, and other 
+21
+charges. 
+22
+‘‘(III) COMMISSION
+ACTION.— 
+23
+Notwithstanding clause (ii)— 
+24
+03:51 Oct 04, 2022
+H8950
+39 
+•HR 8950 IH
+‘‘(aa) the Commission may 
+1
+adopt rules or regulations permit-
+2
+ting the lending of digital com-
+3
+modities by a digital commodity 
+4
+platform holding those digital 
+5
+commodities for customers, sub-
+6
+ject to such conditions as the 
+7
+Commission may prescribe to 
+8
+protect customers and achieve 
+9
+the purposes of this Act; and 
+10
+‘‘(bb) in accordance with 
+11
+such terms and conditions as the 
+12
+Commission may prescribe by 
+13
+rule, regulation, or order, any 
+14
+customer property described in 
+15
+that clause may be commingled 
+16
+and deposited in customer ac-
+17
+counts with any other money, se-
+18
+curities, or property received by 
+19
+the digital commodity platform 
+20
+and required by the Commission 
+21
+to be separately accounted for, 
+22
+treated, and dealt with as belong-
+23
+ing to customers. 
+24
+‘‘(iv) PERMITTED INVESTMENTS.— 
+25
+03:51 Oct 04, 2022
+H8950
+40 
+•HR 8950 IH
+‘‘(I) 
+IN
+GENERAL.—Customer 
+1
+property described in clause (ii) in the 
+2
+form of money may be invested in— 
+3
+‘‘(aa) 
+obligations 
+of 
+the 
+4
+United States; 
+5
+‘‘(bb) obligations the prin-
+6
+cipal and interest of which are 
+7
+fully guaranteed by the United 
+8
+States; and 
+9
+‘‘(cc) any other investment 
+10
+that the Commission may by rule 
+11
+or regulation prescribe. 
+12
+‘‘(II) RULES AND CONDITIONS.— 
+13
+Investments under subclause (I) shall 
+14
+be made in accordance with such rules 
+15
+and regulations, and subject to such 
+16
+conditions, as the Commission may 
+17
+prescribe. 
+18
+‘‘(v) PROHIBITION.—It shall be un-
+19
+lawful for any person, including a digital 
+20
+commodity platform or a depository insti-
+21
+tution, that has received any customer 
+22
+property for deposit in a separate account 
+23
+or accounts in accordance with clause (ii) 
+24
+to hold, dispose of, or use that customer 
+25
+03:51 Oct 04, 2022
+H8950
+41 
+•HR 8950 IH
+property as belonging to the depositing 
+1
+digital commodity platform or any person 
+2
+other than the customers of the digital 
+3
+commodity platform. 
+4
+‘‘(c) RULES GOVERNING MARGINED OR LEVERAGED 
+5
+TRADING.—The Commission may make, promulgate, and 
+6
+enforce such rules governing margined, leveraged, or fi-
+7
+nanced digital commodity trades on digital commodity 
+8
+platforms as are reasonably necessary to protect the public 
+9
+interest and promote the orderly settlement of trans-
+10
+actions. 
+11
+‘‘(d) CONTRACT
+LISTINGS, RULES, 
+AND
+RULE 
+12
+AMENDMENTS FOR DIGITAL COMMODITY TRADING FA-
+13
+CILITIES.— 
+14
+‘‘(1) IN
+GENERAL.—Subject to the require-
+15
+ments under this subsection, a digital commodity 
+16
+trading facility may— 
+17
+‘‘(A) list for trading a contract for a dig-
+18
+ital commodity; and 
+19
+‘‘(B) approve and implement a new rule or 
+20
+rule amendment. 
+21
+‘‘(2) CERTIFICATION
+FROM
+DIGITAL
+COM-
+22
+MODITY TRADING FACILITY.—A digital commodity 
+23
+trading facility that elects to carry out an activity 
+24
+described in subparagraph (A) or (B) of paragraph 
+25
+03:51 Oct 04, 2022
+H8950
+42 
+•HR 8950 IH
+(1) shall, prior to carrying out that activity, provide 
+1
+to the Commission a written certification that the 
+2
+contract, new rule, or rule amendment, as applica-
+3
+ble, complies with this Act (including regulations 
+4
+under this Act). 
+5
+‘‘(3) EFFECTIVE DATE OF LISTING, RULE, AND 
+6
+RULE
+AMENDMENT.—Subject to paragraph (4), a 
+7
+listing, rule, or rule amendment described in para-
+8
+graph (1) shall become effective on the date that 
+9
+is— 
+10
+‘‘(A) in the case of a listing of a contract 
+11
+that has not previously been listed on any dig-
+12
+ital commodity trading facility, 30 business 
+13
+days after the date on which the Commission 
+14
+receives the certification (or such shorter period 
+15
+as determined by the Commission by rule or 
+16
+regulation); or 
+17
+‘‘(B) in any other case, 10 business days 
+18
+after the date on which the Commission receives 
+19
+the certification (or such shorter period as de-
+20
+termined by the Commission by rule or regula-
+21
+tion). 
+22
+‘‘(4) STAY OF CERTIFICATION.— 
+23
+‘‘(A) IN GENERAL.—The Commission may 
+24
+stay a certification for a listing, rule, or rule 
+25
+03:51 Oct 04, 2022
+H8950
+43 
+•HR 8950 IH
+amendment described in paragraph (1) by noti-
+1
+fying the digital commodity trading facility that 
+2
+the Commission is staying the certification be-
+3
+cause there exists— 
+4
+‘‘(i) a novel or complex issue that re-
+5
+quires additional time to analyze; 
+6
+‘‘(ii) an inadequate explanation by the 
+7
+submitting digital commodity trading facil-
+8
+ity; or 
+9
+‘‘(iii) a potential inconsistency with 
+10
+this Act (including regulations under this 
+11
+Act). 
+12
+‘‘(B) DURATION OF STAY.—A stay of cer-
+13
+tification by the Commission under subpara-
+14
+graph (A) shall be for a period of not more 
+15
+than 90 days, beginning on the date of the noti-
+16
+fication by the Commission under that subpara-
+17
+graph. 
+18
+‘‘(C) EFFECTIVE
+DATE
+AFTER
+STAY.—A 
+19
+listing, rule, or rule amendment subject to a 
+20
+stay under subparagraph (A) shall become ef-
+21
+fective on the expiration of the period described 
+22
+in subparagraph (B), unless the Commission— 
+23
+‘‘(i) withdraws the stay prior to that 
+24
+time; or 
+25
+03:51 Oct 04, 2022
+H8950
+44 
+•HR 8950 IH
+‘‘(ii) notifies the digital commodity 
+1
+trading facility during such period that the 
+2
+Commission objects to the proposed certifi-
+3
+cation and disapproves a listing, rule, or 
+4
+rule amendment pursuant to paragraph 
+5
+(5). 
+6
+‘‘(D) PUBLIC COMMENT.—The Commission 
+7
+may provide a public comment period of not 
+8
+less than 30 days, within the period in which a 
+9
+stay is in effect under subparagraph (B), when-
+10
+ever the Commission reviews a listing, rule, or 
+11
+rule amendment pursuant to a notification by 
+12
+the Commission under subparagraph (A). 
+13
+‘‘(5) DISAPPROVAL.— 
+14
+‘‘(A) IN GENERAL.—The Commission may 
+15
+disapprove a listing, rule, or rule amendment 
+16
+described in paragraph (1) if the Commission 
+17
+determines that the listing, rule, or rule amend-
+18
+ment is inconsistent with this Act (including the 
+19
+considerations in subparagraph (B) and regula-
+20
+tions under this Act). 
+21
+‘‘(B) CONSIDERATIONS.—In making a de-
+22
+termination described in subparagraph (A) with 
+23
+respect to a listing for a digital commodity, the 
+24
+03:51 Oct 04, 2022
+H8950
+45 
+•HR 8950 IH
+Commission 
+may 
+consider, 
+among 
+other 
+1
+things— 
+2
+‘‘(i) whether the operating structure 
+3
+and system of the digital commodity is se-
+4
+cure from cybersecurity threats, including 
+5
+the possibility of material alterations by 
+6
+persons acting collectively; 
+7
+‘‘(ii) whether the functionality of the 
+8
+digital commodity will protect holders from 
+9
+operational failures; 
+10
+‘‘(iii) with respect to a digital com-
+11
+modity that purports to have a fixed 
+12
+value— 
+13
+‘‘(I) an identification and de-
+14
+scription of the issuer of the digital 
+15
+commodity; 
+16
+‘‘(II) the collateral or reserves 
+17
+backing the digital commodity; and 
+18
+‘‘(III) the terms by which the 
+19
+issuer will redeem the digital com-
+20
+modity; and 
+21
+‘‘(iv) whether the digital commodity 
+22
+and the market for the digital commodity 
+23
+are not readily susceptible to manipulation. 
+24
+‘‘(6) PRIOR APPROVAL.— 
+25
+03:51 Oct 04, 2022
+H8950
+46 
+•HR 8950 IH
+‘‘(A) IN GENERAL.—A digital commodity 
+1
+trading facility may request that the Commis-
+2
+sion grant prior approval to the listing of any 
+3
+new contract for a digital commodity. 
+4
+‘‘(B) DEADLINE.—If prior approval is re-
+5
+quested under subparagraph (A), the Commis-
+6
+sion shall take final action on the request not 
+7
+later than 90 days after submission of the re-
+8
+quest, unless the person submitting the request 
+9
+agrees to an extension of the time limitation es-
+10
+tablished under this subparagraph. 
+11
+‘‘(C) DISAPPROVAL.—Paragraphs (4) and 
+12
+(5) shall apply to Commission action on a re-
+13
+quest under this paragraph. 
+14
+‘‘(7) DELISTING; REVOCATION.—After the list-
+15
+ing of a contract for a digital commodity has taken 
+16
+effect, the Commission may require the delisting of 
+17
+the contract or disapprove the listing in accordance 
+18
+with paragraph (5). 
+19
+‘‘(8) DISCLOSURES.— 
+20
+‘‘(A) IN GENERAL.—The Commission shall 
+21
+require a digital commodity trading facility to 
+22
+disclose to the public, on a timely basis, with re-
+23
+spect to a listing described in paragraph 
+24
+(1)(A)— 
+25
+03:51 Oct 04, 2022
+H8950
+47 
+•HR 8950 IH
+‘‘(i) the operating structure and sys-
+1
+tem of the digital commodity; and 
+2
+‘‘(ii) the trading volume and volatility 
+3
+of the digital commodity. 
+4
+‘‘(B) FORMAT.—The Commission shall 
+5
+prescribe rules and regulations for the stand-
+6
+ardization and simplification of disclosures 
+7
+under 
+subparagraph 
+(A) 
+and 
+subsection 
+8
+(f)(1)(A), including requiring that disclosures— 
+9
+‘‘(i) are conspicuous; 
+10
+‘‘(ii) use plain language comprehen-
+11
+sible to customers; and 
+12
+‘‘(iii) succinctly explain the informa-
+13
+tion that is required to be communicated 
+14
+to the customer. 
+15
+‘‘(e) PRODUCT LISTING FOR DIGITAL COMMODITY 
+16
+BROKERS AND DIGITAL COMMODITY DEALERS.— 
+17
+‘‘(1) IN GENERAL.—A digital commodity broker 
+18
+and a digital commodity dealer may only trade, or 
+19
+arrange a trade, in a contract for a digital com-
+20
+modity that is not readily susceptible to manipula-
+21
+tion. 
+22
+‘‘(2) DISCLOSURE, 
+LISTING, 
+AND
+CERTIFI-
+23
+CATION
+REQUIREMENTS.—A 
+digital 
+commodity 
+24
+broker and a digital commodity dealer may only 
+25
+03:51 Oct 04, 2022
+H8950
+48 
+•HR 8950 IH
+trade, or arrange for trading, in digital commodities 
+1
+that have met the requirements of subsection (d) 
+2
+(including the listing and disclosure requirements). 
+3
+‘‘(f) CUSTOMER
+PROTECTION.—The Commission 
+4
+shall adopt customer protection requirements that— 
+5
+‘‘(1) require disclosure by a digital commodity 
+6
+platform to a customer (other than another digital 
+7
+commodity platform registered under this section) 
+8
+of— 
+9
+‘‘(A) information about the material risks 
+10
+and characteristics of any applicable digital 
+11
+commodity contracts; and 
+12
+‘‘(B) any material incentives or conflicts of 
+13
+interest that the digital commodity platform 
+14
+may have in connection with any applicable dig-
+15
+ital commodity contracts; 
+16
+‘‘(2) establish a duty for a digital commodity 
+17
+platform to communicate in a fair and balanced 
+18
+manner based on principles of fair dealing and good 
+19
+faith; 
+20
+‘‘(3) establish standards governing digital com-
+21
+modity platform marketing and advertising, includ-
+22
+ing testimonials and endorsements; and 
+23
+‘‘(4) establish such other standards and re-
+24
+quirements as the Commission may determine are— 
+25
+03:51 Oct 04, 2022
+H8950
+49 
+•HR 8950 IH
+‘‘(A) in the public interest; 
+1
+‘‘(B) appropriate for the protection of cus-
+2
+tomers; or 
+3
+‘‘(C) otherwise in furtherance of the pur-
+4
+poses of this Act. 
+5
+‘‘(g) EXAMINATION AND PUBLICATION OF ENERGY 
+6
+CONSUMPTION IN DIGITAL COMMODITY MARKETS.— 
+7
+‘‘(1) IN GENERAL.—The Commission shall ex-
+8
+amine, in collaboration with other Federal regulatory 
+9
+agencies as the Commission determines appropriate, 
+10
+the energy consumption and sources of energy used 
+11
+in connection with the creation and transfer of the 
+12
+most widely traded digital commodities. 
+13
+‘‘(2) REPORT.—Not later than 180 days after 
+14
+the date of enactment of the Digital Commodities 
+15
+Consumer Protection Act of 2022, the Commission 
+16
+shall submit to the Committee on Agriculture, Nutri-
+17
+tion, and Forestry of the Senate and the Committee 
+18
+on Agriculture of the House of Representatives a re-
+19
+port describing— 
+20
+‘‘(A) an estimate of the energy consump-
+21
+tion and sources of energy used in connection 
+22
+with the creation and transfer of the most wide-
+23
+ly traded digital commodities; and 
+24
+03:51 Oct 04, 2022
+H8950
+50 
+•HR 8950 IH
+‘‘(B) the methodology used by the Com-
+1
+mission to generate the estimate described in 
+2
+subparagraph (A). 
+3
+‘‘(3) PUBLICATION.—Using the methodology 
+4
+described in paragraph (2)(B), the Commission shall 
+5
+publish on the website of the Commission, and peri-
+6
+odically update on a timely basis, an estimate of the 
+7
+energy consumption and sources of energy used in 
+8
+connection with the creation and transfer of the 
+9
+most widely traded digital commodities. 
+10
+‘‘(h) PROHIBITION ON FRAUD, DECEPTION, AND MA-
+11
+NIPULATION.—It shall be unlawful for any digital com-
+12
+modity platform to engage in any act, practice, or course 
+13
+of business in connection with its business as a digital 
+14
+commodity platform that is fraudulent, deceptive, or ma-
+15
+nipulative. 
+16
+‘‘(i) SELF-REGULATION.— 
+17
+‘‘(1) 
+IN
+GENERAL.—A 
+digital 
+commodity 
+18
+broker, digital commodity dealer, or digital com-
+19
+modity custodian shall be a member of a registered 
+20
+futures association, regardless of whether such per-
+21
+son is separately registered as a digital commodity 
+22
+trading facility. 
+23
+‘‘(2) DELEGATION
+OF
+REGISTRATION
+FUNC-
+24
+TIONS.—The Commission may authorize any reg-
+25
+03:51 Oct 04, 2022
+H8950
+51 
+•HR 8950 IH
+istered futures association to perform any portion of 
+1
+the registration functions with respect to digital 
+2
+commodity platforms, associated persons of digital 
+3
+commodity brokers, and associated persons of digital 
+4
+commodity dealers— 
+5
+‘‘(A) in accordance with rules, notwith-
+6
+standing any other provision of law, adopted by 
+7
+that registered futures association and sub-
+8
+mitted to the Commission for approval; and 
+9
+‘‘(B) subject to the provisions of this sec-
+10
+tion applicable to registrations granted by the 
+11
+Commission. 
+12
+‘‘(j) DUAL REGISTRATION.—A digital commodity 
+13
+platform registered under this section may also be reg-
+14
+istered with the Securities and Exchange Commission as 
+15
+an exchange, broker, or dealer (as those terms are defined 
+16
+in section 3 of the Securities Exchange Act of 1934 (15 
+17
+U.S.C. 78c)) or another trading platform. 
+18
+‘‘(k) FEES FOR REGISTRATION.— 
+19
+‘‘(1) IN GENERAL.—The Commission shall, in 
+20
+accordance with this subsection, assess and collect 
+21
+fees, which shall be used to recover the annual costs 
+22
+of— 
+23
+‘‘(A) registering digital commodity plat-
+24
+forms; 
+25
+03:51 Oct 04, 2022
+H8950
+52 
+•HR 8950 IH
+‘‘(B) conducting oversight of digital com-
+1
+modity trades; and 
+2
+‘‘(C) carrying out education and outreach 
+3
+under subsection (l). 
+4
+‘‘(2) DETERMINATION OF FEE RATES.—In de-
+5
+termining fee rates under paragraph (1), the Com-
+6
+mission shall consider— 
+7
+‘‘(A) the volume of business of the digital 
+8
+commodity platform; and 
+9
+‘‘(B) the category of the digital commodity 
+10
+platform. 
+11
+‘‘(3) PROHIBITIONS.— 
+12
+‘‘(A) COMMISSION.—The Commission shall 
+13
+not require a digital commodity platform to col-
+14
+lect directly from customers a per-transaction 
+15
+fee for each digital commodity trade. 
+16
+‘‘(B) DIGITAL COMMODITY PLATFORMS.— 
+17
+A digital commodity platform shall not impose 
+18
+directly on customers a per-transaction fee for 
+19
+each digital commodity trade to pay the fees 
+20
+under paragraph (1). 
+21
+‘‘(4) PUBLICATION.—Not later than 60 days 
+22
+after the date of enactment of an Act making a reg-
+23
+ular appropriation to the Commission for a fiscal 
+24
+03:51 Oct 04, 2022
+H8950
+53 
+•HR 8950 IH
+year, the Commission shall publish in the Federal 
+1
+Register a notice of— 
+2
+‘‘(A) the fee rates determined pursuant to 
+3
+this subsection for that fiscal year; and 
+4
+‘‘(B) any estimates or projections on which 
+5
+those fee rates are based. 
+6
+‘‘(5) RECORDS AND DISCLOSURE.—In carrying 
+7
+out this subsection, the Commission shall not be re-
+8
+quired to comply with section 553 of title 5, United 
+9
+States Code. 
+10
+‘‘(6) NO JUDICIAL REVIEW.—A fee rate pre-
+11
+scribed under this subsection shall not be subject to 
+12
+judicial review. 
+13
+‘‘(7) DEPOSIT OF FEES.—Fees collected pursu-
+14
+ant to this subsection for any fiscal year shall be de-
+15
+posited and credited as offsetting collections to the 
+16
+account providing appropriations to the Commission. 
+17
+‘‘(8) ANNUAL
+ADJUSTMENT.—For each fiscal 
+18
+year, the Commission shall, by order, determine fee 
+19
+rates pursuant to this subsection that are reasonably 
+20
+likely to produce aggregate fee collections that are 
+21
+equal to the annual appropriation to the Commission 
+22
+by Congress for activities relating to the registration 
+23
+of digital commodity platforms and the oversight of 
+24
+digital commodity trades. 
+25
+03:51 Oct 04, 2022
+H8950
+54 
+•HR 8950 IH
+‘‘(9) LAPSE
+OF
+APPROPRIATION.—If, on the 
+1
+first day of a fiscal year, a regular appropriation to 
+2
+the Commission has not been enacted, the Commis-
+3
+sion shall continue to collect (as offsetting collec-
+4
+tions) fees pursuant to this subsection at each of the 
+5
+rates in effect during the preceding fiscal year. 
+6
+‘‘(10) BUDGET
+REQUESTS.—The Commission 
+7
+shall itemize in each budget submitted to the Presi-
+8
+dent or the Office of Management and Budget the 
+9
+estimated annual costs of— 
+10
+‘‘(A) registering digital commodity plat-
+11
+forms; 
+12
+‘‘(B) conducting oversight of digital com-
+13
+modity trades; and 
+14
+‘‘(C) carrying out education and outreach 
+15
+under subsection (l). 
+16
+‘‘(11) LIMITATIONS.— 
+17
+‘‘(A) IN GENERAL.—Fees may only be as-
+18
+sessed and imposed pursuant to this subsection 
+19
+on digital commodity platforms regulated by the 
+20
+Commission pursuant to this section. 
+21
+‘‘(B) USE
+OF
+FEES.—Fees authorized 
+22
+under this subsection are prohibited from fund-
+23
+ing any Commission activity not directly related 
+24
+to the registration of digital commodity plat-
+25
+03:51 Oct 04, 2022
+H8950
+55 
+•HR 8950 IH
+forms, the oversight of digital commodity 
+1
+trades, and the education and outreach carried 
+2
+out under subsection (l). 
+3
+‘‘(l) CUSTOMER EDUCATION AND OUTREACH.—The 
+4
+Commission shall provide education and outreach to cus-
+5
+tomers participating in digital commodity markets. 
+6
+‘‘(m) INSPECTION.—The Commission may inspect 
+7
+and monitor digital commodity platforms, on an ongoing 
+8
+basis, for the purpose of ensuring compliance with this 
+9
+Act. 
+10
+‘‘(n) PREEMPTION OF STATE LAWS.— 
+11
+‘‘(1) IN GENERAL.—The registration of a dig-
+12
+ital commodity platform, an associated person of a 
+13
+digital commodity broker, or an associated person of 
+14
+a digital commodity dealer under this section— 
+15
+‘‘(A) shall preempt any applicable registra-
+16
+tion requirements under State laws relating to 
+17
+money transmission, virtual currency, and com-
+18
+modity brokers; and 
+19
+‘‘(B) shall not affect the applicability of 
+20
+State antifraud laws. 
+21
+‘‘(2) COMPLIANCE.—Beginning on the effective 
+22
+date of a registration of a digital commodity plat-
+23
+form under this section, the digital commodity plat-
+24
+form shall not be required to comply with applicable 
+25
+03:51 Oct 04, 2022
+H8950
+56 
+•HR 8950 IH
+State law requirements relating to money trans-
+1
+mission, virtual currency, and commodity brokerage. 
+2
+‘‘(o) REGULATIONS.—The Commission shall pre-
+3
+scribe such rules and regulations as are appropriate for 
+4
+the implementation of this section.’’. 
+5
+SEC. 5. ADDITIONAL AMENDMENTS. 
+6
+(a) RETAIL COMMODITY TRANSACTIONS.—Section 
+7
+2(c)(2)(D)(ii) of the Commodity Exchange Act (7 U.S.C. 
+8
+2(c)(2)(D)(ii)) is amended— 
+9
+(1) in subclause (III)(bb), by striking ‘‘or’’ at 
+10
+the end; 
+11
+(2) by redesignating subclauses (IV) and (V) as 
+12
+subclauses (V) and (VI), respectively; and 
+13
+(3) by inserting after subclause (III) the fol-
+14
+lowing: 
+15
+‘‘(IV) 
+a 
+digital 
+commodity 
+16
+trade;’’. 
+17
+(b) APPLICABILITY.—Section 2(i) of the Commodity 
+18
+Exchange Act (7 U.S.C. 2(i)) is amended— 
+19
+(1) by redesignating paragraphs (1) and (2) as 
+20
+subparagraphs (A) and (B), respectively, and indent-
+21
+ing appropriately; 
+22
+(2) in the matter preceding subparagraph (A) 
+23
+(as so redesignated), by striking ‘‘The provisions’’ 
+24
+and inserting the following: 
+25
+03:51 Oct 04, 2022
+H8950
+57 
+•HR 8950 IH
+‘‘(1) SWAPS.—The provisions’’; and 
+1
+(3) by adding at the end the following: 
+2
+‘‘(2) DIGITAL
+COMMODITIES.—The provisions 
+3
+of this Act (including any rule prescribed or regula-
+4
+tion promulgated under this Act) relating to digital 
+5
+commodities shall not apply to activities outside the 
+6
+United States unless those activities— 
+7
+‘‘(A) have a reasonably foreseeable signifi-
+8
+cant effect within the United States; 
+9
+‘‘(B) involve, for the purpose of soliciting 
+10
+or accepting any order for, or otherwise dealing 
+11
+in, digital commodities— 
+12
+‘‘(i) the offering to enter into, enter-
+13
+ing into, execution, or confirming the exe-
+14
+cution of digital commodities with any 
+15
+United States person; or 
+16
+‘‘(ii) the conducting of any office or 
+17
+business anywhere in the United States 
+18
+(including any territory or possession of 
+19
+the United States); or 
+20
+‘‘(C) contravene such rules or regulations 
+21
+as the Commission may prescribe or promulgate 
+22
+as are necessary or appropriate to prevent the 
+23
+evasion of any provision of this Act.’’. 
+24
+(c) REGISTRATION OF ASSOCIATED PERSONS.— 
+25
+03:51 Oct 04, 2022
+H8950
+58 
+•HR 8950 IH
+(1) IN
+GENERAL.—Section 4k of the Com-
+1
+modity Exchange Act (7 U.S.C. 6k) is amended— 
+2
+(A) 
+by 
+redesignating 
+paragraphs 
+(4) 
+3
+through (6) as paragraphs (5) through (7); 
+4
+(B) by inserting after paragraph (3) the 
+5
+following: 
+6
+‘‘(4) It shall be unlawful for any person to act 
+7
+as an associated person of a digital commodity 
+8
+broker or an associated person of a digital com-
+9
+modity dealer unless such person is registered with 
+10
+the Commission under this Act and such registration 
+11
+shall not have expired, been suspended (and the pe-
+12
+riod of suspension has not expired), or been revoked. 
+13
+It shall be unlawful for a digital commodity broker 
+14
+or a digital commodity dealer to permit such a per-
+15
+son to become or remain associated with the digital 
+16
+commodity broker or digital commodity dealer if 
+17
+such digital commodity broker or digital commodity 
+18
+dealer knew or should have known that such person 
+19
+was not so registered or that such registration had 
+20
+expired, been suspended (and the period of suspen-
+21
+sion has not expired), or been revoked.’’; and 
+22
+(C) in paragraph (5) (as so redesignated), 
+23
+by striking ‘‘or of a commodity trading advisor’’ 
+24
+and inserting ‘‘of a commodity trading advisor, 
+25
+03:51 Oct 04, 2022
+H8950
+59 
+•HR 8950 IH
+of a digital commodity broker, or of a digital 
+1
+commodity dealer’’. 
+2
+(2) CONFORMING
+AMENDMENT.—The Com-
+3
+modity Exchange Act (7 U.S.C. 1a et seq.) is 
+4
+amended by striking ‘‘section 4k(6)’’ each place it 
+5
+appears and inserting ‘‘section 4k(7)’’. 
+6
+(d) COMMODITY TRADING ADVISERS; COMMODITY 
+7
+8
+(1) IN GENERAL.—Section 4l of the Commodity 
+9
+Exchange Act (7 U.S.C. 6l) is amended— 
+10
+(A) in paragraph (2), by striking ‘‘deriva-
+11
+tives transaction execution facilities’’ and in-
+12
+serting ‘‘digital commodity trades on or subject 
+13
+to the rules of digital commodity trading facili-
+14
+ties’’; and 
+15
+(B) in paragraph (3), by striking ‘‘deriva-
+16
+tives transaction execution facilities’’ and in-
+17
+serting ‘‘digital commodity trading facilities’’. 
+18
+(2) USE OF MAIL OR OTHER INTERSTATE COM-
+19
+MERCE.—Section 4m(3)(C) of the Commodity Ex-
+20
+change Act (7 U.S.C. 6m(3)(C)) is amended by in-
+21
+serting ‘‘digital commodity trades,’’ before ‘‘and any 
+22
+monies’’. 
+23
+(3) REGISTRATION.—Section 4n(3)(B) of the 
+24
+Commodity Exchange Act (7 U.S.C. 6n(3)(B)) is 
+25
+03:51 Oct 04, 2022
+H8950
+60 
+•HR 8950 IH
+amended by inserting ‘‘or digital commodity’’ after 
+1
+‘‘futures market’’. 
+2
+(e) ACCEPTABLE
+BUSINESS
+PRACTICES
+UNDER 
+3
+CORE PRINCIPLES.—Section 5c(a)(1) of the Commodity 
+4
+Exchange Act (7 U.S.C. 7a–2(a)(1)) is amended by strik-
+5
+ing ‘‘and 5b(c)(2),’’ and inserting ‘‘, 5b(c)(2), and 5i(b)’’. 
+6
+(f) PUBLIC DISCLOSURE.—Section 8(a)(1) of the 
+7
+Commodity Exchange Act (7 U.S.C. 12(a)(1)) is amended, 
+8
+in the first sentence of the matter preceding subparagraph 
+9
+(A), by inserting ‘‘, digital commodity platforms,’’ after 
+10
+‘‘boards of trade’’. 
+11
+(g) REGISTRATION OF COMMODITY DEALERS AND 
+12
+ASSOCIATED PERSONS.—Section 8a of the Commodity 
+13
+Exchange Act (7 U.S.C. 12a) is amended— 
+14
+(1) in paragraph (1), by inserting ‘‘digital com-
+15
+modity brokers, associated persons of digital com-
+16
+modity brokers, digital commodity dealers, associ-
+17
+ated persons of digital commodity dealers,’’ after ‘‘to 
+18
+register’’; 
+19
+(2) in paragraph (2)— 
+20
+(A) in subparagraph (C)— 
+21
+(i) in clause (i), by inserting ‘‘digital 
+22
+commodity broker, digital commodity deal-
+23
+er,’’ before ‘‘futures commission mer-
+24
+chant’’; and 
+25
+03:51 Oct 04, 2022
+H8950
+61 
+•HR 8950 IH
+(ii) in clause (ii), by striking ‘‘con-
+1
+tracts of’’ and inserting ‘‘a digital com-
+2
+modity trade or a contract of’’; 
+3
+(B) in subparagraph (D)— 
+4
+(i) in clause (i), by inserting ‘‘digital 
+5
+commodity trade or’’ before ‘‘contract of 
+6
+sale’’; and 
+7
+(ii) in clause (ii), by inserting ‘‘digital 
+8
+commodity broker, digital commodity deal-
+9
+er,’’ before ‘‘futures commission mer-
+10
+chant’’; and 
+11
+(C) in subparagraph (E)(i), by striking 
+12
+‘‘Investors’’ and inserting ‘‘Investor’’; 
+13
+(3) in paragraph (3)— 
+14
+(A) in subparagraph (B)(i), by striking 
+15
+‘‘Investors’’ and inserting ‘‘Investor’’; 
+16
+(B) in subparagraph (E)— 
+17
+(i) in clause (i), by striking ‘‘contract 
+18
+of sale of a commodity for future delivery 
+19
+or’’ and inserting ‘‘contract of sale of a 
+20
+commodity for future delivery, digital com-
+21
+modity trade, or’’; and 
+22
+(ii) in clause (ii), by inserting ‘‘digital 
+23
+commodity broker, digital commodity deal-
+24
+03:51 Oct 04, 2022
+H8950
+62 
+•HR 8950 IH
+er,’’ before ‘‘futures commission mer-
+1
+chant’’; and 
+2
+(C) in subparagraph (J)— 
+3
+(i) by inserting ‘‘a digital commodity 
+4
+trading facility,’’ before ‘‘a registered enti-
+5
+ty’’; and 
+6
+(ii) by striking ‘‘registered entity, as-
+7
+sociation’’ and inserting ‘‘digital com-
+8
+modity trading facility, registered entity, 
+9
+registered futures association’’; 
+10
+(4) in paragraph (4)— 
+11
+(A) by striking ‘‘futures commission mer-
+12
+chant’’ 
+and 
+inserting 
+‘‘digital 
+commodity 
+13
+broker, digital commodity dealer, futures com-
+14
+mission merchant,’’; 
+15
+(B) by inserting ‘‘digital commodity sub-
+16
+ject to the rules of a digital commodity trading 
+17
+facility or’’ before ‘‘commodity’’; and 
+18
+(C) by inserting ‘‘digital commodity trad-
+19
+ing facility or’’ before ‘‘registered entity’’ each 
+20
+place it appears; 
+21
+(5) in paragraph (6), by inserting ‘‘digital com-
+22
+modity trading facility, digital commodity custo-
+23
+dian,’’ before ‘‘registered entity’’ each place it ap-
+24
+pears; and 
+25
+03:51 Oct 04, 2022
+H8950
+63 
+•HR 8950 IH
+(6) in paragraph (9)— 
+1
+(A) by inserting ‘‘digital commodity trad-
+2
+ing facility or’’ before ‘‘registered entity’’ each 
+3
+place it appears; 
+4
+(B) by inserting ‘‘digital commodity or’’ 
+5
+before ‘‘futures contract’’ each place it appears; 
+6
+and 
+7
+(C) by inserting ‘‘digital commodity or’’ 
+8
+before ‘‘commodity’’ each place it appears. 
+9
+SEC. 6. APPLICABILITY. 
+10
+The amendments made by this Act shall not apply 
+11
+to any person regulated under the Commodity Exchange 
+12
+Act (7 U.S.C. 1 et seq.), as amended by this Act, until 
+13
+the date of effectiveness of the final rule of the Commodity 
+14
+Futures Trading Commission requiring registration of 
+15
+digital commodity platforms under section 5i of that Act. 
+16
+SEC. 7. REPORT ON HISTORICALLY UNDERSERVED CUS-
+17
+TOMERS PARTICIPATING IN DIGITAL COM-
+18
+MODITY MARKETS. 
+19
+Not later than 180 days after the date of enactment 
+20
+of this Act, the Commodity Futures Trading Commission 
+21
+(referred to in this section as the ‘‘Commission’’) shall— 
+22
+(1) examine the racial, ethnic, and gender de-
+23
+mographics of customers participating in digital 
+24
+commodity markets; and 
+25
+03:51 Oct 04, 2022
+H8950
+64 
+•HR 8950 IH
+(2) submit to the Committee on Agriculture, 
+1
+Nutrition, and Forestry of the Senate and the Com-
+2
+mittee on Agriculture of the House of Representa-
+3
+tives a report— 
+4
+(A) describing how those demographics will 
+5
+inform the rules and regulations of the Com-
+6
+mission relating to customer protection; 
+7
+(B) proposing ways in which the Commis-
+8
+sion can provide outreach to historically under-
+9
+served customers participating in digital com-
+10
+modity markets; and 
+11
+(C) containing recommendations relating 
+12
+to any other activities the Commission deter-
+13
+mines to be necessary to provide appropriate 
+14
+protection, outreach, or other similar activities 
+15
+relating to historically underserved customers 
+16
+participating in digital commodity markets. 
+17
+Æ 
+03:51 Oct 04, 2022
+H8950

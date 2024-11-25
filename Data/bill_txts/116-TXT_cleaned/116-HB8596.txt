@@ -1,0 +1,310 @@
+A BILL 
+To amend the Communications Act of 1934 to provide ac-
+countability for bad actors who abuse the Good Samari-
+tan protections provided under that Act, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Limiting Section 230 
+4
+Immunity to Good Samaritans Act’’. 
+5
+01:46 Nov 01, 2020
+H8596
+2 
+•HR 8596 IH
+SEC. 2. SCOPE OF PROTECTION. 
+1
+Section 230 of the Communications Act of 1934 (47 
+2
+U.S.C. 230) is amended— 
+3
+(1) in subsection (c)— 
+4
+(A) in paragraph (1)— 
+5
+(i) by striking ‘‘No provider’’ and in-
+6
+serting the following: 
+7
+‘‘(A) IN
+GENERAL.—Subject to subpara-
+8
+graph (B), no provider’’; and 
+9
+(ii) by adding at the end the fol-
+10
+lowing: 
+11
+‘‘(B) CONDITION.—With respect to an 
+12
+edge provider, subparagraph (A) shall only 
+13
+apply if the provider adopts and maintains writ-
+14
+ten terms of service that— 
+15
+‘‘(i) take precedence over other such 
+16
+terms in case of any conflict between the 
+17
+sets of terms; 
+18
+‘‘(ii) describe any policies of the edge 
+19
+provider relating to restricting access to or 
+20
+availability of material; and 
+21
+‘‘(iii) promise that the edge provider 
+22
+shall— 
+23
+‘‘(I) design and operate the pro-
+24
+vided service in good faith; and 
+25
+01:46 Nov 01, 2020
+H8596
+3 
+•HR 8596 IH
+‘‘(II) if the provider is found, in 
+1
+a civil action brought in Federal or 
+2
+State court, or by an arbitrator, to 
+3
+breach the promise made under sub-
+4
+clause (I) with respect to a claimant 
+5
+user, pay that user— 
+6
+‘‘(aa) the greater of— 
+7
+‘‘(AA) damages of not 
+8
+less than $5,000; or 
+9
+‘‘(BB) actual damages; 
+10
+and 
+11
+‘‘(bb) with respect to litiga-
+12
+tion or arbitration by the user to 
+13
+enforce the promise— 
+14
+‘‘(AA) a reasonable at-
+15
+torney’s fee; and 
+16
+‘‘(BB) costs and other 
+17
+expenses described in sec-
+18
+tions 1821 and 1920 of title 
+19
+28, United States Code (or, 
+20
+in the case of an action 
+21
+brought in State court or 
+22
+through 
+arbitration, 
+any 
+23
+similar costs and other ex-
+24
+penses).’’; and 
+25
+01:46 Nov 01, 2020
+H8596
+4 
+•HR 8596 IH
+(B) by adding at the end the following: 
+1
+‘‘(3) GOOD FAITH.—For the purposes of this 
+2
+subsection, a provider of an interactive computer 
+3
+service— 
+4
+‘‘(A) acts in good faith if the provider acts 
+5
+with an honest belief and purpose, observes fair 
+6
+dealing standards, and acts without fraudulent 
+7
+intent; and 
+8
+‘‘(B) does not act in good faith if the pro-
+9
+vider takes an action that includes— 
+10
+‘‘(i) the intentionally selective enforce-
+11
+ment of the terms of service of the inter-
+12
+active computer service, including the in-
+13
+tentionally selective enforcement of policies 
+14
+of the provider relating to restricting ac-
+15
+cess to or availability of material; 
+16
+‘‘(ii) enforcing the terms of service of 
+17
+the interactive computer service, including 
+18
+enforcing policies of the provider to restrict 
+19
+access to or availability of material, 
+20
+against a user by employing an algorithm 
+21
+that selectively enforces those terms, if the 
+22
+provider knows, or acts in reckless dis-
+23
+regard of the fact, that the algorithm se-
+24
+lectively enforces those terms; 
+25
+01:46 Nov 01, 2020
+H8596
+5 
+•HR 8596 IH
+‘‘(iii) the intentional failure to honor a 
+1
+public or private promise made by, or on 
+2
+behalf of, the provider; or 
+3
+‘‘(iv) any other intentional action 
+4
+taken by the provider without an honest 
+5
+belief and purpose, without observing fair 
+6
+dealing standards, or with fraudulent in-
+7
+tent.’’; 
+8
+(2) in subsection (e), by adding at the end the 
+9
+following: 
+10
+‘‘(6) NO EFFECT ON LEGAL PROMISES.—Noth-
+11
+ing in this section shall be construed to impair or 
+12
+limit any claim for breach of contract, promissory 
+13
+estoppel, or breach of a duty of good faith.’’; and 
+14
+(3) in subsection (f), by adding at the end the 
+15
+following: 
+16
+‘‘(5) EDGE
+PROVIDER.—The term ‘edge pro-
+17
+vider’— 
+18
+‘‘(A) means an entity that— 
+19
+‘‘(i) provides an interactive computer 
+20
+service— 
+21
+‘‘(I) through a website, online ap-
+22
+plication, or mobile application (in-
+23
+cluding a single interactive computer 
+24
+01:46 Nov 01, 2020
+H8596
+6 
+•HR 8596 IH
+service that is provided through more 
+1
+than 1 such website or application); 
+2
+‘‘(II) through which information 
+3
+provided by another information con-
+4
+tent provider is distributed; and 
+5
+‘‘(III) that, in any month during 
+6
+the most recently completed 12-month 
+7
+period— 
+8
+‘‘(aa) more than 30,000,000 
+9
+users 
+in 
+the 
+United 
+States 
+10
+accessed, without regard to the 
+11
+means 
+by 
+which 
+the 
+users 
+12
+accessed the service; or 
+13
+‘‘(bb) 
+more 
+than 
+14
+300,000,000 
+users 
+worldwide 
+15
+accessed, without regard to the 
+16
+means 
+by 
+which 
+the 
+users 
+17
+accessed the service; and 
+18
+‘‘(ii) during the most recently com-
+19
+pleted taxable year, had more than 
+20
+$1,500,000,000 in global revenue; and 
+21
+‘‘(B) does not include an organization de-
+22
+scribed in section 501(c) of the Internal Rev-
+23
+01:46 Nov 01, 2020
+H8596
+7 
+•HR 8596 IH
+enue Code of 1986 that is exempt from taxation 
+1
+under section 501(a) of such Code.’’. 
+2
+Æ 
+01:46 Nov 01, 2020
+H8596

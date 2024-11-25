@@ -1,0 +1,210 @@
+A BILL 
+To amend section 230(c) of the Communications Act of 
+1934 to prevent immunity for interactive computer serv-
+ices for certain claims, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Protecting Americans 
+4
+from Dangerous Algorithms Act’’. 
+5
+05:26 May 20, 2021
+H2154
+2 
+•HR 2154 IH
+SEC. 2. AMENDMENT TO THE COMMUNICATIONS DECENCY 
+1
+ACT. 
+2
+Section 230(c) of the Communications Act of 1934 
+3
+(47 U.S.C. 230(c)) is amended by adding at the end the 
+4
+following new paragraph: 
+5
+‘‘(3) ALGORITHMIC AMPLIFICATION.— 
+6
+‘‘(A) IN GENERAL.—For purposes of para-
+7
+graph (1), an interactive computer service shall 
+8
+be considered to be an information content pro-
+9
+vider and the protection under such paragraph 
+10
+shall not apply for any claim described in sub-
+11
+paragraph (B). 
+12
+‘‘(B) CONDITIONS FOR CLAIM.— 
+13
+‘‘(i) IN
+GENERAL.—A claim in this 
+14
+subparagraph requires the following: 
+15
+‘‘(I) A claim in a civil action is 
+16
+brought under— 
+17
+‘‘(aa) section 1980 or 1981 
+18
+of the Revised Statutes (42 
+19
+U.S.C. 1985; 42 U.S.C. 1986); 
+20
+or 
+21
+‘‘(bb) section 2333 of title 
+22
+18, United States Code. 
+23
+‘‘(II) Except as provided in 
+24
+clause (ii), the claim involves a case in 
+25
+which the interactive computer service 
+26
+05:26 May 20, 2021
+H2154
+3 
+•HR 2154 IH
+used an algorithm, model, or other 
+1
+computational process to rank, order, 
+2
+promote, 
+recommend, 
+amplify, 
+or 
+3
+similarly alter the delivery or display 
+4
+of information (including any text, 
+5
+image, audio, or video post, page, 
+6
+group, account, channel, or affiliation) 
+7
+provided to a user of the service if the 
+8
+information is directly relevant to the 
+9
+claim. 
+10
+‘‘(ii) 
+EXCEPTION.—Notwithstanding 
+11
+clause (i)(II), the requirement is not met 
+12
+if— 
+13
+‘‘(I) the information delivery or 
+14
+display is ranked, ordered, promoted, 
+15
+recommended, amplified, or similarly 
+16
+altered in a way that is obvious, un-
+17
+derstandable, and transparent to a 
+18
+reasonable user based only on the de-
+19
+livery or display of the information 
+20
+(without the need to reference the 
+21
+terms of service or any other agree-
+22
+ment), 
+including 
+sorting 
+informa-
+23
+tion— 
+24
+05:26 May 20, 2021
+H2154
+4 
+•HR 2154 IH
+‘‘(aa) chronologically or re-
+1
+verse chronologically; 
+2
+‘‘(bb) by average user rating 
+3
+or number of user reviews; 
+4
+‘‘(cc) alphabetically; 
+5
+‘‘(dd) randomly; and 
+6
+‘‘(ee) by views, downloads, 
+7
+or a similar usage metric; or 
+8
+‘‘(II) the algorithm, model, or 
+9
+other computational process is used 
+10
+for information a user specifically 
+11
+searches for. 
+12
+‘‘(C) EXEMPTIONS.— 
+13
+‘‘(i) SMALL BUSINESSES.—This para-
+14
+graph shall not apply to an interactive 
+15
+computer service that (in combination with 
+16
+each subsidiary and affiliate of the service) 
+17
+has 10,000,000 or fewer unique monthly 
+18
+visitors or users for not fewer than three 
+19
+of the preceding 12 months. 
+20
+‘‘(ii) INTERNET
+INFRASTRUCTURE.— 
+21
+This paragraph shall not apply to a pro-
+22
+vider of an interactive computer service, 
+23
+when that service is used by another inter-
+24
+active computer service for the manage-
+25
+05:26 May 20, 2021
+H2154
+5 
+•HR 2154 IH
+ment, control, or operation of that other 
+1
+interactive computer service, including 
+2
+for— 
+3
+‘‘(I) web hosting; 
+4
+‘‘(II) domain registration; 
+5
+‘‘(III) content delivery networks; 
+6
+‘‘(IV) caching; 
+7
+‘‘(V) data storage; and 
+8
+‘‘(VI) cybersecurity.’’. 
+9
+Æ 
+05:26 May 20, 2021
+H2154

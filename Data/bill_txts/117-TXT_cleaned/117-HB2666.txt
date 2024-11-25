@@ -1,0 +1,275 @@
+A BILL 
+To amend the Communications Act of 1934 to prohibit pro-
+viders of broadband internet access service from increas-
+ing rates or enforcing data caps or allowances during 
+an emergency or major disaster, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘New Overages in Crisis 
+4
+Areas Prevention Act’’ or the ‘‘NO CAP Act’’. 
+5
+04:49 Jun 02, 2021
+H2666
+2 
+•HR 2666 IH
+SEC. 2. REQUIREMENTS FOR BROADBAND PROVIDERS 
+1
+DURING EMERGENCIES AND MAJOR DISAS-
+2
+TERS. 
+3
+Title VII of the Communications Act of 1934 (47 
+4
+U.S.C. 601 et seq.) is amended by adding at the end the 
+5
+following: 
+6
+‘‘SEC. 723. REQUIREMENTS FOR BROADBAND PROVIDERS 
+7
+DURING EMERGENCIES AND MAJOR DISAS-
+8
+TERS. 
+9
+‘‘(a) IN GENERAL.—During a covered period with re-
+10
+spect to a covered area, a provider of broadband internet 
+11
+access service may not, with respect to a customer of such 
+12
+provider in such area— 
+13
+‘‘(1) increase any rate, fee, or other charge re-
+14
+lating to such service; 
+15
+‘‘(2) impose any rate, fee, or other charge relat-
+16
+ing to such service that did not apply before such 
+17
+period; or 
+18
+‘‘(3) enforce any data cap or allowance, regard-
+19
+less of whether such data cap or allowance applied 
+20
+before such period. 
+21
+‘‘(b) INAPPLICABILITY
+TO
+MOBILE
+BROADBAND 
+22
+INTERNET ACCESS SERVICE.—This section does not apply 
+23
+with respect to mobile broadband internet access service. 
+24
+‘‘(c) DEFINITIONS.—In this section: 
+25
+04:49 Jun 02, 2021
+H2666
+3 
+•HR 2666 IH
+‘‘(1) BROADBAND
+INTERNET
+ACCESS
+SERV-
+1
+ICE.— 
+2
+‘‘(A) IN GENERAL.—The term ‘broadband 
+3
+internet access service’ means a mass-market 
+4
+retail service by wire or radio that provides the 
+5
+capability to transmit data to and receive data 
+6
+from all or substantially all internet endpoints, 
+7
+including any capabilities that are incidental to 
+8
+and enable the operation of the communications 
+9
+service, but excluding dial-up internet access 
+10
+service. 
+11
+‘‘(B) 
+FUNCTIONAL
+EQUIVALENT; 
+EVA-
+12
+SION.—The term ‘broadband internet access 
+13
+service’ includes any service that— 
+14
+‘‘(i) provides a functional equivalent 
+15
+of the service described in subparagraph 
+16
+(A); or 
+17
+‘‘(ii) is used to evade the protections 
+18
+set forth in this section. 
+19
+‘‘(2) COVERED AREA.—The term ‘covered area’ 
+20
+means a geographical area with respect to which— 
+21
+‘‘(A) a major disaster or emergency is de-
+22
+clared under the Robert T. Stafford Disaster 
+23
+Relief and Emergency Assistance Act (42 
+24
+U.S.C. 5121 et seq.); or 
+25
+04:49 Jun 02, 2021
+H2666
+4 
+•HR 2666 IH
+‘‘(B) a public health emergency is declared 
+1
+under section 319 of the Public Health Service 
+2
+Act (42 U.S.C. 247d). 
+3
+‘‘(3) COVERED PERIOD.—The term ‘covered pe-
+4
+riod’ means, with respect to a covered area, the pe-
+5
+riod that— 
+6
+‘‘(A) begins on the date of the declaration 
+7
+with respect to such area of— 
+8
+‘‘(i) a major disaster or emergency 
+9
+under the Robert T. Stafford Disaster Re-
+10
+lief and Emergency Assistance Act (42 
+11
+U.S.C. 5121 et seq.); or 
+12
+‘‘(ii) a public health emergency under 
+13
+section 319 of the Public Health Service 
+14
+Act (42 U.S.C. 247d); and 
+15
+‘‘(B) ends on the date that is 60 days after 
+16
+the termination of such major disaster, emer-
+17
+gency, or public health emergency (as the case 
+18
+may be). 
+19
+‘‘(4) DATA
+CAP
+OR
+ALLOWANCE.—The term 
+20
+‘data cap or allowance’ means a limit on, or a fee- 
+21
+based structure with the purpose of limiting, the 
+22
+number of bits a customer may download or upload 
+23
+using broadband internet access service during a pe-
+24
+riod of time specified by the provider of such service. 
+25
+04:49 Jun 02, 2021
+H2666
+5 
+•HR 2666 IH
+‘‘(5) EDUCATIONAL
+INSTITUTION.—The term 
+1
+‘educational institution’ means— 
+2
+‘‘(A) an elementary school (as defined in 
+3
+section 8101 of the Elementary and Secondary 
+4
+Education Act of 1965 (20 U.S.C. 7801)); 
+5
+‘‘(B) a secondary school (as defined in 
+6
+such section); and 
+7
+‘‘(C) an institution of higher education (as 
+8
+defined in section 101 of the Higher Education 
+9
+Act of 1965 (20 U.S.C. 1001)). 
+10
+‘‘(6) MOBILE
+BROADBAND
+INTERNET
+ACCESS 
+11
+SERVICE.— 
+12
+‘‘(A) IN
+GENERAL.—The term ‘mobile 
+13
+broadband internet access service’ means a 
+14
+broadband internet access service that serves 
+15
+end users primarily using mobile stations. 
+16
+‘‘(B) 
+INCLUSIONS.—The 
+term 
+‘mobile 
+17
+broadband internet access service’ includes— 
+18
+‘‘(i) broadband internet access serv-
+19
+ices that use smartphones or mobile-net-
+20
+work-enabled tablet computers as the pri-
+21
+mary endpoints for connection to the inter-
+22
+net; and 
+23
+‘‘(ii) mobile satellite broadband serv-
+24
+ices. 
+25
+04:49 Jun 02, 2021
+H2666
+6 
+•HR 2666 IH
+‘‘(C) 
+EXCLUSION.—The 
+term 
+‘mobile 
+1
+broadband internet access service’ does not in-
+2
+clude a broadband internet access service pro-
+3
+vided to an educational institution and made 
+4
+available by such institution for educational 
+5
+purposes to students enrolled at such institu-
+6
+tion.’’. 
+7
+Æ 
+04:49 Jun 02, 2021
+H2666

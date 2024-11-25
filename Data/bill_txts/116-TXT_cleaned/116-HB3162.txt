@@ -1,0 +1,738 @@
+A BILL 
+To improve broadband data collection, mapping, and valida-
+tion to support the effective deployment of broadband 
+services to all areas of the United States, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Broadband Data Im-
+4
+provement Act of 2019’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+22:30 Jun 12, 2019
+H3162
+2 
+•HR 3162 IH
+(1) BROADBAND INTERNET ACCESS SERVICE.— 
+1
+The term ‘‘broadband internet access service’’ has 
+2
+the meaning given the term in section 8.1 of title 47, 
+3
+Code of Federal Regulations, or any successor regu-
+4
+lation. 
+5
+(2) COMMISSION.—The term ‘‘Commission’’ 
+6
+means the Federal Communications Commission. 
+7
+(3) FEDERAL
+AGENCY.—The term ‘‘Federal 
+8
+agency’’ means— 
+9
+(A) the Commission; 
+10
+(B) the Department of Agriculture; 
+11
+(C) the Department of Commerce; 
+12
+(D) the Department of the Interior; 
+13
+(E) the Federal Trade Commission; 
+14
+(F) the National Economic Council; and 
+15
+(G) the Office of Science and Technology 
+16
+Policy. 
+17
+(4) FORM 477.—The term ‘‘Form 477’’ means 
+18
+Form 477 of the Commission relating to local tele-
+19
+phone competition and broadband reporting. 
+20
+(5) NATIONAL
+BROADBAND
+MAP.—The term 
+21
+‘‘National Broadband Map’’ means the map devel-
+22
+oped and maintained by the Commission with re-
+23
+spect to the availability of broadband internet access 
+24
+service. 
+25
+22:30 Jun 12, 2019
+H3162
+3 
+•HR 3162 IH
+(6) PROPAGATION MODEL.—The term ‘‘propa-
+1
+gation model’’ means an empirical mathematical for-
+2
+mulation for the characterization of radio wave prop-
+3
+agation as a function of frequency, distance, and 
+4
+other conditions. 
+5
+(7) PROVIDER.—The term ‘‘provider’’ means a 
+6
+provider of broadband internet access service. 
+7
+(8) SHAPEFILE.—The term ‘‘shapefile’’ means 
+8
+a digital storage format containing geospatial or lo-
+9
+cation-based data and attribute information— 
+10
+(A) regarding the availability of broadband 
+11
+internet access service; and 
+12
+(B) that can be viewed, edited, and 
+13
+mapped in geographic information system soft-
+14
+ware. 
+15
+(9) STANDARD
+BROADBAND
+INSTALLATION.— 
+16
+The term ‘‘standard broadband installation’’— 
+17
+(A) means the initiation of new wireline 
+18
+broadband internet access service with no 
+19
+charges or delays attributable to the extension 
+20
+of the network of the provider; and 
+21
+(B) includes the initiation of service that 
+22
+requires only routine installation that can be 
+23
+completed not later than 10 business days after 
+24
+22:30 Jun 12, 2019
+H3162
+4 
+•HR 3162 IH
+the date on which the service request is sub-
+1
+mitted. 
+2
+(10) STATE.—The term ‘‘State’’ has the mean-
+3
+ing given the term in section 3 of the Communica-
+4
+tions Act of 1934 (47 U.S.C. 153). 
+5
+SEC. 3. NEW DATA SUBMISSION AND PUBLIC FEEDBACK 
+6
+PROCESSES. 
+7
+(a) IN GENERAL.—Not later than 180 days after the 
+8
+date of enactment of this Act, the Commission shall issue 
+9
+a rule to establish— 
+10
+(1) a reporting requirement under which each 
+11
+provider shall, not less frequently than biannually, 
+12
+submit to the Commission accurate and granular in-
+13
+formation regarding the geographic availability of 
+14
+broadband internet access service provided by the 
+15
+provider; and 
+16
+(2) a framework for an ongoing challenge proc-
+17
+ess through which a provider or a member of the 
+18
+public may submit information challenging the accu-
+19
+racy of the information reflected on the National 
+20
+Broadband Map. 
+21
+(b) REPORTING REQUIREMENT CONDITIONS.—The 
+22
+reporting requirement established by the Commission 
+23
+under subsection (a)(1) shall— 
+24
+22:30 Jun 12, 2019
+H3162
+5 
+•HR 3162 IH
+(1) require information regarding the service 
+1
+area of each provider to be— 
+2
+(A) submitted in shapefile format, or an-
+3
+other geospatial format as the Commission may 
+4
+prescribe, to achieve the level of reporting speci-
+5
+ficity required under paragraph (2) of this sub-
+6
+section; and 
+7
+(B) before making each submission re-
+8
+quired under subsection (a)(1), certified— 
+9
+(i) as adhering to such reporting 
+10
+standards as the Commission may pre-
+11
+scribe; 
+12
+(ii) on a form to be prescribed by the 
+13
+Commission; and 
+14
+(iii) by an officer of the provider; 
+15
+(2) allow for an understanding by the Commis-
+16
+sion and the general public of speeds and service de-
+17
+livery types of broadband internet access service that 
+18
+are available through— 
+19
+(A) a standard broadband installation for 
+20
+fixed wireline services; and 
+21
+(B) standardized and tested propagation 
+22
+models with respect to— 
+23
+(i) fixed wireless and satellite services; 
+24
+and 
+25
+22:30 Jun 12, 2019
+H3162
+6 
+•HR 3162 IH
+(ii) mobile services, with defined fac-
+1
+tors for signal strength, cell edge prob-
+2
+ability, and cell loading; 
+3
+(3) define uniform mandatory standards for the 
+4
+reporting of broadband internet access service cov-
+5
+erage for each delivery type with respect to 
+6
+broadband internet access service in order to— 
+7
+(A) ensure the accuracy and granularity of 
+8
+the data submitted; and 
+9
+(B) require each provider to employ con-
+10
+sistent reporting methods across all States in 
+11
+which the provider provides service; 
+12
+(4) update or replace the Form 477 broadband 
+13
+deployment service availability data collection proc-
+14
+ess of the Commission; and 
+15
+(5) eliminate all duplicative reporting require-
+16
+ments and procedures regarding the availability of 
+17
+broadband internet access service that are in exist-
+18
+ence as of the date on which the Commission estab-
+19
+lishes the requirement. 
+20
+(c) CHALLENGE PROCESS CONDITIONS.—The frame-
+21
+work for the challenge process established by the Commis-
+22
+sion under subsection (a)(2) shall include an ongoing 
+23
+schedule for the periodic— 
+24
+22:30 Jun 12, 2019
+H3162
+7 
+•HR 3162 IH
+(1) receipt, analysis, and resolution of feedback 
+1
+received through the process; and 
+2
+(2) updating of the National Broadband Map, 
+3
+which shall be completed— 
+4
+(A) in an expeditious manner; and 
+5
+(B) in response to the feedback described 
+6
+in paragraph (1). 
+7
+(d) NATIONAL BROADBAND MAP.— 
+8
+(1) IN GENERAL.—Subject to feedback received 
+9
+through the challenge process, the framework for 
+10
+which is established under subsection (a)(2), a Fed-
+11
+eral agency shall use the National Broadband Map 
+12
+to determine— 
+13
+(A) the extent of the availability of 
+14
+broadband internet access service; and 
+15
+(B) the areas of the United States that re-
+16
+main unserved by providers. 
+17
+(2) CHALLENGE NOTICE OF OPPORTUNITY.— 
+18
+Before awarding funding that supports the develop-
+19
+ment of broadband internet access services and that 
+20
+is based on the information reflected on the National 
+21
+Broadband Map, a Federal agency shall provide no-
+22
+tice of an opportunity for public feedback to chal-
+23
+lenge or update the information on the map that— 
+24
+22:30 Jun 12, 2019
+H3162
+8 
+•HR 3162 IH
+(A) aligns with the schedule established 
+1
+under subsection (c); or 
+2
+(B) provides a separate public feedback op-
+3
+portunity under rules that may be established 
+4
+by the Federal agency. 
+5
+SEC. 4. DATA VALIDATION AND SUBMISSION ASSISTANCE. 
+6
+(a) SELECTED PROVIDER.— 
+7
+(1) SELECTION OF PROVIDER.— 
+8
+(A) IN GENERAL.—The Commission shall 
+9
+use competitive procedures to enter into a con-
+10
+tract with an entity to provide the services de-
+11
+scribed in paragraph (2). 
+12
+(B) COMMISSION DISCRETION.—The Com-
+13
+mission may— 
+14
+(i) determine— 
+15
+(I) the period in which an entity 
+16
+selected under subparagraph (A) shall 
+17
+serve in that capacity; and 
+18
+(II) whether to grant an exten-
+19
+sion with respect to the period de-
+20
+scribed in subclause (i), including the 
+21
+length of that extension; and 
+22
+(ii) with respect to the contract de-
+23
+scribed in subparagraph (A), include— 
+24
+22:30 Jun 12, 2019
+H3162
+9 
+•HR 3162 IH
+(I) a provision relating to liq-
+1
+uidated damages; and 
+2
+(II) any other reasonable provi-
+3
+sion to ensure that the contract is 
+4
+sound and enforceable. 
+5
+(2) RESPONSIBILITIES.—Subject to section 
+6
+106(h)(2) of the Broadband Data Improvement Act 
+7
+(47 U.S.C. 1304(h)(2)), the entity selected under 
+8
+paragraph (1) shall, in consultation with, and under 
+9
+the supervision of, the Commission— 
+10
+(A) provide— 
+11
+(i) geographic information system 
+12
+data processing assistance to providers 
+13
+that require that assistance in order to 
+14
+comply with the reporting requirements es-
+15
+tablished by the Commission under section 
+16
+3(a)(1); 
+17
+(ii) support for the facilitation of the 
+18
+challenge process, the framework for which 
+19
+is established by the Commission under 
+20
+section 3(a)(2); and 
+21
+(iii) independent data validation serv-
+22
+ices, including in-field verification of the 
+23
+availability of broadband internet access 
+24
+service reported by providers, to the Com-
+25
+22:30 Jun 12, 2019
+H3162
+10 
+•HR 3162 IH
+mission to ensure the accuracy and con-
+1
+tinual 
+refinement 
+of 
+the 
+National 
+2
+Broadband Map; 
+3
+(B) execute data-sharing agreements, as 
+4
+may be requested, with providers to facilitate 
+5
+the exchange of information needed to create 
+6
+shapefiles, or any other such depiction as the 
+7
+Commission may prescribe, of the availability of 
+8
+broadband internet access service for the pur-
+9
+poses of carrying out subsection (d); 
+10
+(C) analyze the information exchanged 
+11
+under subparagraph (B) to produce depictions 
+12
+of the availability of fixed broadband internet 
+13
+access service and mobile broadband internet 
+14
+access service in compliance with the require-
+15
+ments established under section 3(a)(1), for any 
+16
+providers that are eligible for the assistance de-
+17
+scribed in subparagraph (A)(i); 
+18
+(D) provide the depictions of service avail-
+19
+ability under subparagraph (C) to the Commis-
+20
+sion for— 
+21
+(i) the internal use of the Commis-
+22
+sion; and 
+23
+(ii) incorporation in the National 
+24
+Broadband Map; 
+25
+22:30 Jun 12, 2019
+H3162
+11 
+•HR 3162 IH
+(E) support collaboration between the 
+1
+Commission and other Federal agencies to— 
+2
+(i) track, map, and validate how funds 
+3
+made available through Federal grants, 
+4
+loans, or other financial awards or incen-
+5
+tives for the development of broadband in-
+6
+frastructure have been expended to im-
+7
+prove the availability of broadband internet 
+8
+access service; and 
+9
+(ii) ensure transparency and account-
+10
+ability with respect to the expenditures de-
+11
+scribed in clause (i), taking into account 
+12
+existing accountability measures, such as 
+13
+requiring the deployment of broadband in-
+14
+frastructure to be reported on a geocoded 
+15
+or other location-specific basis; 
+16
+(F) develop and implement an online 
+17
+mechanism to be integrated into the National 
+18
+Broadband Map, which shall solicit and collect 
+19
+feedback submitted by the public and providers 
+20
+through the challenge process, the framework 
+21
+for which is established under section 3(a)(2); 
+22
+and 
+23
+(G) in consultation with the Commission, 
+24
+establish an ongoing data validation and 
+25
+22:30 Jun 12, 2019
+H3162
+12 
+•HR 3162 IH
+verification process, including selective in-per-
+1
+son field validation activities, that shall— 
+2
+(i) be guided by intelligence collected 
+3
+through the receipt of public feedback, the 
+4
+acquisition and analysis of third-party 
+5
+datasets, or other methods the entity may 
+6
+develop; and 
+7
+(ii) advise the Commission regarding 
+8
+the continual refinement of the National 
+9
+Broadband Map. 
+10
+(b) PUBLIC COMMENT REQUIRED.—With respect to 
+11
+the selection of an entity under subsection (a), the Com-
+12
+mission shall seek comment from the public, providers, 
+13
+and other relevant stakeholders regarding the experience 
+14
+and capabilities of organizations that are qualified to be 
+15
+so selected. 
+16
+(c) TERMINATION FOR CAUSE; SELECTION OF NEW 
+17
+ENTITY.— 
+18
+(1) IN
+GENERAL.—The Commission may, by 
+19
+order, terminate for cause an entity selected under 
+20
+subsection (a). 
+21
+(2) NEW ENTITY.—If the Commission issues a 
+22
+termination order under paragraph (1)(A), the Com-
+23
+mission shall, not later than 120 days after the date 
+24
+on which the Commission issues that order, select a 
+25
+22:30 Jun 12, 2019
+H3162
+13 
+•HR 3162 IH
+new qualified entity to carry out subsection (a) in 
+1
+the same manner as provided in that subsection, in-
+2
+cluding by seeking comment as provided in sub-
+3
+section (b). 
+4
+(d) PROVIDER REQUEST FOR ASSISTANCE.— 
+5
+(1) IN GENERAL.—The Commission shall imple-
+6
+ment a process through which a provider may re-
+7
+quest geographic information system data processing 
+8
+assistance from the entity selected under subsection 
+9
+(a). 
+10
+(2) CONDITIONS
+FOR
+APPROVAL.—The entity 
+11
+selected under subsection (a) shall grant a request 
+12
+for assistance submitted by a provider under para-
+13
+graph (1)— 
+14
+(A) if the provider has more than 100,000 
+15
+broadband connections— 
+16
+(i) upon a demonstration of need by 
+17
+the provider; and 
+18
+(ii) after review and approval by the 
+19
+Commission; and 
+20
+(B) if the provider has not more than 
+21
+100,000 broadband connections, automatically, 
+22
+subject to the availability of funds. 
+23
+(e) NO REGULATORY AUTHORITY.—Nothing in this 
+24
+section may be construed to grant an entity selected under 
+25
+22:30 Jun 12, 2019
+H3162
+14 
+•HR 3162 IH
+subsection (a) any regulatory jurisdiction with respect to, 
+1
+or oversight authority over, providers or information tech-
+2
+nology. 
+3
+SEC. 5. ENFORCEMENT. 
+4
+(a) IN GENERAL.—It shall be unlawful for a person 
+5
+to willfully and knowingly submit information or data 
+6
+under this Act that is inaccurate with respect to the avail-
+7
+ability of broadband internet access service. 
+8
+(b) PENALTY.—Any person that violates subsection 
+9
+(a) shall be subject to an appropriate penalty, as deter-
+10
+mined by the Commission, under— 
+11
+(1) the Communications Act of 1934 (47 
+12
+U.S.C. 151 et seq.), including section 501 of that 
+13
+Act (47 U.S.C. 501); and 
+14
+(2) the rules of the Commission. 
+15
+SEC. 6. AUTHORIZATION OF APPROPRIATIONS. 
+16
+There is authorized to be appropriated to the Com-
+17
+mission to carry out this Act the following amounts: 
+18
+(1)(A) For fiscal year 2020, $55,000,000, not 
+19
+less than $34,500,000 of which shall be made avail-
+20
+able to carry out section 4. 
+21
+(B) The amounts made available under sub-
+22
+paragraph (A) shall remain available until expended. 
+23
+(2)(A) For each of fiscal years 2021 through 
+24
+2026, $50,000,000, not less than $29,500,000 of 
+25
+22:30 Jun 12, 2019
+H3162
+15 
+•HR 3162 IH
+which shall be made available in each such fiscal 
+1
+year to carry out section 4. 
+2
+(B) The amounts made available under sub-
+3
+paragraph (A) shall remain available until expended. 
+4
+Æ 
+22:30 Jun 12, 2019
+H3162

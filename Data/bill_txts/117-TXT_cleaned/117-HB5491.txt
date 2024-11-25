@@ -1,0 +1,882 @@
+A BILL 
+To authorize the Director of the Cybersecurity and Infra-
+structure Security Agency to designate certain elements 
+of critical infrastructure as systemically important, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Securing Systemically 
+4
+Important Critical Infrastructure Act’’. 
+5
+22:34 Oct 06, 2021
+H5491
+2 
+•HR 5491 IH
+SEC. 2. DESIGNATION OF SYSTEMICALLY IMPORTANT CRIT-
+1
+ICAL INFRASTRUCTURE. 
+2
+(a) TITLE XXII TECHNICAL AND CLERICAL AMEND-
+3
+MENTS.— 
+4
+(1) TECHNICAL AMENDMENTS.— 
+5
+(A) HOMELAND SECURITY ACT OF 2002.— 
+6
+Subtitle A of title XXII of the Homeland Secu-
+7
+rity Act of 2002 (6 U.S.C. 651 et seq.) is 
+8
+amended— 
+9
+(i) in section 2202 (6 U.S.C. 652)— 
+10
+(I) in paragraph (11), by striking 
+11
+‘‘and’’ after the semicolon; 
+12
+(II) in the first paragraph (12) 
+13
+(relating to appointment of a Cyberse-
+14
+curity State Coordinator) by striking 
+15
+‘‘as described in section 2215; and’’ 
+16
+and inserting ‘‘as described in section 
+17
+2217;’’; 
+18
+(III) by redesignating the second 
+19
+paragraph (12) (relating to the .gov 
+20
+internet domain) as paragraph (13); 
+21
+and 
+22
+(IV) by redesignating the third 
+23
+paragraph (12) (relating to carrying 
+24
+out such other duties and responsibil-
+25
+ities) as paragraph (14); 
+26
+22:34 Oct 06, 2021
+H5491
+3 
+•HR 5491 IH
+(ii) in the first section 2215 (6 U.S.C. 
+1
+665; relating to the duties and authorities 
+2
+relating to .gov internet domain), by 
+3
+amending the section enumerator and 
+4
+heading to read as follows: 
+5
+‘‘SEC. 2215. DUTIES AND AUTHORITIES RELATING TO .GOV 
+6
+INTERNET DOMAIN.’’; 
+7
+(iii) in the second section 2215 (6 
+8
+U.S.C. 665b; relating to the joint cyber 
+9
+planning office), by amending the section 
+10
+enumerator and heading to read as follows: 
+11
+‘‘SEC. 2216. JOINT CYBER PLANNING OFFICE.’’; 
+12
+(iv) in the third section 2215 (6 
+13
+U.S.C. 665c; relating to the Cybersecurity 
+14
+State Coordinator), by amending the sec-
+15
+tion enumerator and heading to read as 
+16
+follows: 
+17
+‘‘SEC. 2217. CYBERSECURITY STATE COORDINATOR.’’; 
+18
+(v) in the fourth section 2215 (6 
+19
+U.S.C. 665d; relating to Sector Risk Man-
+20
+agement Agencies), by amending the sec-
+21
+tion enumerator and heading to read as 
+22
+follows: 
+23
+22:34 Oct 06, 2021
+H5491
+4 
+•HR 5491 IH
+‘‘SEC. 2218. SECTOR RISK MANAGEMENT AGENCIES.’’; 
+1
+(vi) in section 2216 (6 U.S.C. 665e; 
+2
+relating to the Cybersecurity Advisory 
+3
+Committee), by amending the section enu-
+4
+merator and heading to read as follows: 
+5
+‘‘SEC. 2219. CYBERSECURITY ADVISORY COMMITTEE.’’; 
+6
+and 
+7
+(vii) in section 2217 (6 U.S.C. 665f; 
+8
+relating to Cybersecurity Education and 
+9
+Training Programs), by amending the sec-
+10
+tion enumerator and heading to read as 
+11
+follows: 
+12
+‘‘SEC. 2220. CYBERSECURITY EDUCATION AND TRAINING 
+13
+PROGRAMS.’’. 
+14
+(B) CONSOLIDATED APPROPRIATIONS ACT, 
+15
+2021.—Paragraph (1) of section 904(b) of divi-
+16
+sion U of the Consolidated Appropriations Act, 
+17
+2021 (Public Law 116–260) is amended, in the 
+18
+matter preceding subparagraph (A), by insert-
+19
+ing ‘‘of 2002’’ after ‘‘Homeland Security Act’’. 
+20
+(2) CLERICAL AMENDMENT.—The table of con-
+21
+tents in section 1(b) of the Homeland Security Act 
+22
+of 2002 is amended by striking the items relating to 
+23
+sections 2214 through 2217 and inserting the fol-
+24
+lowing new items: 
+25
+‘‘Sec. 2214. National Asset Database. 
+03:24 Oct 08, 2021
+H5491
+5 
+•HR 5491 IH
+‘‘Sec. 2215. Duties and authorities relating to .gov internet domain. 
+‘‘Sec. 2216. Joint cyber planning office. 
+‘‘Sec. 2217. Cybersecurity State Coordinator. 
+‘‘Sec. 2218. Sector Risk Management Agencies. 
+‘‘Sec. 2219. Cybersecurity Advisory Committee. 
+‘‘Sec. 2220. Cybersecurity Education and Training Programs. 
+‘‘Sec. 2220A. Designation of systemically important critical infrastructure.’’. 
+(b) DESIGNATION
+OF SYSTEMICALLY IMPORTANT 
+1
+CRITICAL INFRASTRUCTURE.—Subtitle A of title XXII of 
+2
+the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) 
+3
+is amended by adding at the end the following new section: 
+4
+‘‘SEC. 2220A. DESIGNATION OF SYSTEMICALLY IMPORTANT 
+5
+CRITICAL INFRASTRUCTURE. 
+6
+‘‘(a) IN GENERAL.—The Director of the Cybersecu-
+7
+rity and Infrastructure Security Agency shall designate an 
+8
+element of critical infrastructure as systemically important 
+9
+critical infrastructure if— 
+10
+‘‘(1) the Director makes a preliminary deter-
+11
+mination pursuant to subsection (d)(1), using the 
+12
+methodology established pursuant to subsection (b), 
+13
+that such element satisfies the criteria established 
+14
+pursuant to subsection (c); and 
+15
+‘‘(2) such preliminary determination becomes a 
+16
+final determination pursuant to subsection (d)(2). 
+17
+‘‘(b) METHODOLOGY.—The Director, in consultation 
+18
+with the heads of Sector Risk Management Agencies and 
+19
+covered stakeholders, shall— 
+20
+‘‘(1) establish a methodology for determining 
+21
+whether an element of critical infrastructure satisfies 
+22
+03:24 Oct 08, 2021
+H5491
+6 
+•HR 5491 IH
+the criteria established for systemically important 
+1
+critical infrastructure pursuant to subsection (c); 
+2
+and 
+3
+‘‘(2) update such methodology, as necessary. 
+4
+‘‘(c) CRITERIA.— 
+5
+‘‘(1) IN GENERAL.—The Director, in consulta-
+6
+tion with the heads of Sector Risk Management 
+7
+Agencies and covered stakeholders, shall develop ob-
+8
+jective criteria to determine whether an element of 
+9
+critical infrastructure should be designated as sys-
+10
+temically important. 
+11
+‘‘(2) CONSIDERATIONS.—In developing the cri-
+12
+teria required under paragraph (1), the Director 
+13
+shall consider the following: 
+14
+‘‘(A) The likelihood that a disruption to, or 
+15
+compromise of, such element of critical infra-
+16
+structure would result in a debilitating effect on 
+17
+national security, economic security, public 
+18
+health or safety, or any combination thereof. 
+19
+‘‘(B) The extent to which damage, disrup-
+20
+tion, or unauthorized access to such element or 
+21
+collectively to the category of critical infrastruc-
+22
+ture to which such element belongs— 
+23
+03:24 Oct 08, 2021
+H5491
+7 
+•HR 5491 IH
+‘‘(i) would disrupt the reliable oper-
+1
+ation of a category of critical infrastruc-
+2
+ture; and 
+3
+‘‘(ii) would impede provisioning of a 
+4
+national critical function. 
+5
+‘‘(C) The extent to which increasing the 
+6
+risk management coordination between the Fed-
+7
+eral Government and the owner or operator of 
+8
+the element would enhance the cybersecurity re-
+9
+silience of the United States. 
+10
+‘‘(3) UPDATES.—The Director, in consultation 
+11
+with the heads of Sector Risk Management Agencies 
+12
+and covered stakeholders, shall update the criteria 
+13
+established pursuant to paragraph (1), as necessary. 
+14
+‘‘(d) DETERMINATIONS.— 
+15
+‘‘(1) PRELIMINARY
+DETERMINATION.—In the 
+16
+case of an element of critical infrastructure that the 
+17
+Director determines satisfies the criteria established 
+18
+under subsection (c), the Director shall— 
+19
+‘‘(A) use the methodology under subsection 
+20
+(b) to make a preliminary determination with 
+21
+respect to whether such element is systemically 
+22
+important; 
+23
+‘‘(B) notify the owner or operator of the 
+24
+element of such determination; and 
+25
+03:24 Oct 08, 2021
+H5491
+8 
+•HR 5491 IH
+‘‘(C) provide such owner or operator with 
+1
+an opportunity to provide additional informa-
+2
+tion for consideration in the final determination 
+3
+under paragraph (2). 
+4
+‘‘(2) FINAL
+DETERMINATION.—On the date 
+5
+that is 30 days after the date on which the Director 
+6
+provides notice under paragraph (1)(B) with respect 
+7
+to a preliminary determination, such preliminary de-
+8
+termination shall become final unless the Director 
+9
+determines, on the basis of additional information, 
+10
+that the element subject to the preliminary deter-
+11
+mination does not satisfy the criteria under sub-
+12
+section (c). 
+13
+‘‘(3) PERIODIC REVIEW.—Periodically, the Di-
+14
+rector shall review a final designation made pursu-
+15
+ant to paragraph (2) with respect to an element 
+16
+using the same procedures outlined under such para-
+17
+graph. 
+18
+‘‘(4) PROTECTION OF INFORMATION.—Informa-
+19
+tion obtained by the Director pursuant to paragraph 
+20
+(1)(C) shall be protected under section 2224 or clas-
+21
+sified, as determined appropriate by the Director. 
+22
+‘‘(e) LIST OF SYSTEMICALLY IMPORTANT CRITICAL 
+23
+INFRASTRUCTURE.— 
+24
+03:24 Oct 08, 2021
+H5491
+9 
+•HR 5491 IH
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+1
+the date of the enactment of this section, the Direc-
+2
+tor, in coordination with the heads of Sector Risk 
+3
+Management Agencies, shall develop a comprehen-
+4
+sive list that includes any element of critical infra-
+5
+structure designated as systemically important under 
+6
+this section. 
+7
+‘‘(2) UPDATE OF LIST AND NOTIFICATION TO 
+8
+OWNERS AND OPERATORS.—Not later than 7 days 
+9
+after the date on which the Director makes a final 
+10
+determination pursuant to paragraph (2) or (3) of 
+11
+subsection (d), the Director shall— 
+12
+‘‘(A) update the list required under para-
+13
+graph (1); and 
+14
+‘‘(B) notify the appropriate owner or oper-
+15
+ator of the element of critical infrastructure of 
+16
+the addition, modification, or removal of such 
+17
+element from such list. 
+18
+‘‘(3) 
+CONGRESSIONAL
+NOTIFICATION.—Not 
+19
+later than 30 days after the list is updated pursuant 
+20
+to paragraph (2), the Director shall submit to the 
+21
+appropriate congressional committees such updated 
+22
+list. 
+23
+‘‘(4) 
+LIMITATION
+ON
+DISSEMINATION
+OF 
+24
+LIST.—The Director shall limit the dissemination of 
+25
+03:24 Oct 08, 2021
+H5491
+10 
+•HR 5491 IH
+the list required under paragraph (1) to individuals 
+1
+who need access to such list to carry out official du-
+2
+ties or responsibilities. 
+3
+‘‘(f) PRIORITIZATION OF AGENCY RESOURCES.— 
+4
+‘‘(1) IN GENERAL.—The Director shall— 
+5
+‘‘(A) seek to enter into enhanced risk man-
+6
+agement coordination with the owners and oper-
+7
+ators of elements of critical infrastructure des-
+8
+ignated as systemically important under this 
+9
+section; and 
+10
+‘‘(B) in allocating Agency resources to 
+11
+such owners and operators, prioritize owners 
+12
+and operators who coordinate with the Director 
+13
+pursuant to subparagraph (A). 
+14
+‘‘(2) PRIORITIZED
+REPRESENTATION
+IN
+THE 
+15
+OFFICE FOR JOINT CYBER PLANNING.—The head of 
+16
+the office for joint cyber planning established pursu-
+17
+ant to section 2216, in carrying out the responsibil-
+18
+ities of such office with respect to relevant cyber de-
+19
+fense planning, joint cyber operations, cybersecurity 
+20
+exercises, and information-sharing practices, shall, 
+21
+to the extent practicable, prioritize the involvement 
+22
+of owners and operators of elements of critical infra-
+23
+structure designated as systemically important under 
+24
+this section. 
+25
+03:24 Oct 08, 2021
+H5491
+11 
+•HR 5491 IH
+‘‘(3) CONTINUOUS
+MONITORING
+SERVICES.— 
+1
+The Director shall, to the extent practicable, encour-
+2
+age the participation of the owners and operators of 
+3
+elements of critical infrastructure designated as sys-
+4
+temically important pursuant to this section in vol-
+5
+untary programs to provide technical assistance in 
+6
+the form of continuous monitoring and detection of 
+7
+cybersecurity risks. 
+8
+‘‘(g) REPORTS.— 
+9
+‘‘(1) INITIAL
+REPORT.—Not later than 180 
+10
+days after the date of the enactment of this section, 
+11
+the Director, in consultation with the heads of Sec-
+12
+tor Risk Management Agencies and covered stake-
+13
+holders, shall submit to the appropriate congres-
+14
+sional committees a report that includes the fol-
+15
+lowing: 
+16
+‘‘(A) A description of the capabilities of 
+17
+the Agency that exist immediately before the 
+18
+date of the enactment of this section with re-
+19
+spect to identifying critical infrastructure. 
+20
+‘‘(B) Information relating to the criteria 
+21
+and methodology established pursuant to sub-
+22
+sections (b) and (c) to identify an element of 
+23
+critical infrastructure as systemically important 
+24
+pursuant to this section. 
+25
+03:24 Oct 08, 2021
+H5491
+12 
+•HR 5491 IH
+‘‘(C) Information relating to— 
+1
+‘‘(i) the capabilities of the Agency to 
+2
+identify systems, assets, and facilities as 
+3
+systemically important pursuant to this 
+4
+section; and 
+5
+‘‘(ii) any updates relating to the capa-
+6
+bilities referred to in clause (i). 
+7
+‘‘(D) Information relating to— 
+8
+‘‘(i) the interactions between the 
+9
+Agency, the heads of Sector Risk Manage-
+10
+ment Agencies, and covered stakeholders 
+11
+with respect to carrying out this section, 
+12
+including processes used for incorporation 
+13
+of industry feedback and any associated 
+14
+challenges; 
+15
+‘‘(ii) critical infrastructure identifica-
+16
+tion programs within the Department and 
+17
+how such programs are being incorporated 
+18
+into the process to identify such infrastruc-
+19
+ture, including— 
+20
+‘‘(I) section 9 of Executive Order 
+21
+13636; 
+22
+‘‘(II) the National Asset Data-
+23
+base established under section 2214; 
+24
+and 
+25
+03:24 Oct 08, 2021
+H5491
+13 
+•HR 5491 IH
+‘‘(III) section 4 of Executive 
+1
+Order 14028; 
+2
+‘‘(iii) any identified gaps in authori-
+3
+ties or any additional resources required to 
+4
+carry out this section, including necessary 
+5
+legislation; 
+6
+‘‘(iv) any resources the Agency is au-
+7
+thorized to provide to the owners and oper-
+8
+ators of an element of critical infrastruc-
+9
+ture designated as systemically important 
+10
+pursuant to this section; and 
+11
+‘‘(v) opportunities for enhanced risk 
+12
+management coordination between the 
+13
+Federal Government and the owners and 
+14
+operators of an element of critical infra-
+15
+structure designated as systemically impor-
+16
+tant pursuant to this section. 
+17
+‘‘(2) SUBSEQUENT REPORTS.—Not later than 2 
+18
+years after the date on which the initial report is 
+19
+submitted pursuant to paragraph (1), and once 
+20
+every 2 years thereafter for 10 years, the Director, 
+21
+in consultation with the heads of Sector Risk Man-
+22
+agement Agencies and covered stakeholders, shall 
+23
+submit to the appropriate congressional committees 
+24
+a report that includes the updated information re-
+25
+03:24 Oct 08, 2021
+H5491
+14 
+•HR 5491 IH
+quired under subparagraphs (B) through (D) of 
+1
+paragraph (1). 
+2
+‘‘(3) FORM.—Each of the reports required 
+3
+under paragraphs (1) and (2) shall be submitted in 
+4
+unclassified form, but may contain a classified 
+5
+annex. 
+6
+‘‘(h) RESTRICTION.—Subchapter I of chapter 35 of 
+7
+title 44, United States Code, shall not apply to any action 
+8
+by the Director to implement this section. 
+9
+‘‘(i) COVERED STAKEHOLDERS DESCRIBED.—In this 
+10
+section, the term ‘covered stakeholders’ means individuals 
+11
+identified by the Director. Such individuals shall include— 
+12
+‘‘(1) representatives from the Critical Infra-
+13
+structure Partnership Advisory Council, established 
+14
+pursuant to section 871; 
+15
+‘‘(2) representatives from the Cybersecurity Ad-
+16
+visory Committee established under section 2219; 
+17
+‘‘(3) individuals representing critical infrastruc-
+18
+ture industries, the elements of which are subject to, 
+19
+or likely to be subject to, a preliminary determina-
+20
+tion under subsection (d)(1); 
+21
+‘‘(4) representatives from trade organizations 
+22
+whose memberships include a concentration of own-
+23
+ers and operators of critical infrastructure indus-
+24
+tries, the elements of which are subject to, or likely 
+25
+03:24 Oct 08, 2021
+H5491
+15 
+•HR 5491 IH
+to be subject to, a preliminary determination under 
+1
+subsection (d)(1); and 
+2
+‘‘(5) any other individual determined appro-
+3
+priate by the Director. 
+4
+‘‘(j) DEFINITIONS.—In this section: 
+5
+‘‘(1) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+6
+TEES.—The term ‘appropriate congressional com-
+7
+mittees’ means— 
+8
+‘‘(A) the Committee on Homeland Security 
+9
+of the House of Representatives; and 
+10
+‘‘(B) the Committee on Homeland Security 
+11
+and Governmental Affairs of the Senate. 
+12
+‘‘(2) NATIONAL
+CRITICAL
+FUNCTION.—The 
+13
+term ‘national critical function’ means a function of 
+14
+the Federal Government or a United States private 
+15
+sector entity, as determined by the Director, that the 
+16
+disruption, corruption, or dysfunction of such func-
+17
+tion would have a debilitating effect on security, na-
+18
+tional economic security, national public health or 
+19
+safety, or any combination thereof.’’. 
+20
+(c) ASSESSMENT OF RISK MANAGEMENT COORDINA-
+21
+TION.— 
+22
+(1) IN
+GENERAL.—Not later than 120 days 
+23
+after the date of the enactment of this Act, the Di-
+24
+rector, in consultation with the heads of Sector Risk 
+25
+03:24 Oct 08, 2021
+H5491
+16 
+•HR 5491 IH
+Management Agencies and covered stakeholders, 
+1
+shall conduct an assessment of potential processes 
+2
+for, and benefits of, enhanced risk management co-
+3
+ordination between the Federal Government and the 
+4
+owners and operators of elements of critical infra-
+5
+structure designated as systemically important pur-
+6
+suant to section 2220A of the Homeland Security 
+7
+Act of 2002, as added by subsection (b) of this Act. 
+8
+(2) CONSIDERATION.—The assessment required 
+9
+under paragraph (1) shall include a consideration 
+10
+of— 
+11
+(A) opportunities for enhanced intelligence 
+12
+support and information-sharing; 
+13
+(B) prioritized Federal technical assist-
+14
+ance; 
+15
+(C) any other process for, or benefit of, en-
+16
+hanced risk management coordination deter-
+17
+mined appropriate by the Director; and 
+18
+(D) any additional resources or authoriza-
+19
+tion required to conduct enhanced risk manage-
+20
+ment coordination between the Federal Govern-
+21
+ment and owners and operators of elements of 
+22
+critical infrastructure designated as systemically 
+23
+important pursuant to section 2220A of the 
+24
+Homeland Security Act of 2002, as added by 
+25
+03:24 Oct 08, 2021
+H5491
+17 
+•HR 5491 IH
+subsection (b) of this Act, including the preven-
+1
+tion of duplicative requirements for regulated 
+2
+sectors and entities. 
+3
+(3) COVERED
+STAKEHOLDERS
+DESCRIBED.— 
+4
+The term ‘‘covered stakeholders’’ has the meaning 
+5
+given such term in section 2220A(i) of the Home-
+6
+land Security Act of 2002, as added by subsection 
+7
+(b) of this Act. 
+8
+SEC. 3. PRIORITIZATION OF CLEARANCES FOR SYSTEM-
+9
+ICALLY IMPORTANT CRITICAL INFRASTRUC-
+10
+TURE. 
+11
+Section 2212 of the Homeland Security Act of 2002 
+12
+(6 U.S.C. 662) is amended by adding at the end the fol-
+13
+lowing new sentence: ‘‘In carrying out this section, the 
+14
+Secretary shall prioritize the applications of owners and 
+15
+operators of elements of critical infrastructure designated 
+16
+as systemically important pursuant to section 2220A.’’. 
+17
+Æ 
+03:24 Oct 08, 2021
+H5491

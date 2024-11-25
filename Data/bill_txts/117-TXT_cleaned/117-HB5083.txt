@@ -1,0 +1,284 @@
+A BILL 
+To amend the Internal Revenue Code of 1986 to clarify 
+the definition of a broker, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cryptocurrency Tax 
+4
+Reform Act’’. 
+5
+SEC. 2. INFORMATION REPORTING FOR BROKERS AND DIG-
+6
+ITAL ASSETS. 
+7
+(a) CLARIFICATION OF DEFINITION OF BROKER.— 
+8
+Section 6045(c)(1) of the Internal Revenue Code of 1986 
+9
+is amended— 
+10
+23:39 Aug 24, 2021
+H5083
+2 
+•HR 5083 IH
+(1) by striking ‘‘and’’ at the end of subpara-
+1
+graph (B), 
+2
+(2) in subparagraph (C)— 
+3
+(A) by striking ‘‘any other person who (for 
+4
+a consideration)’’ and inserting ‘‘any person 
+5
+who (for consideration)’’, and 
+6
+(B) by striking the period at the end and 
+7
+inserting ‘‘, and’’, and 
+8
+(3) by adding at the end the following new sub-
+9
+paragraph: 
+10
+‘‘(D) any person who (for consideration) is 
+11
+responsible for regularly providing any service 
+12
+effectuating transfers of digital assets on behalf 
+13
+of another person.’’. 
+14
+(b) REPORTING OF DIGITAL ASSETS.— 
+15
+(1) BROKERS.— 
+16
+(A) TREATMENT
+AS
+SPECIFIED
+SECU-
+17
+RITY.—Section 6045(g)(3)(B) of the Internal 
+18
+Revenue Code of 1986 is amended by striking 
+19
+‘‘and’’ at the end of clause (iii), by redesig-
+20
+nating clause (iv) as clause (v), and by insert-
+21
+ing after clause (iii) the following new clause: 
+22
+‘‘(iv) any digital asset, and’’. 
+23
+(B) DEFINITION OF DIGITAL ASSET.—Sec-
+24
+tion 6045(g)(3) of such Code is amended by 
+25
+23:39 Aug 24, 2021
+H5083
+3 
+•HR 5083 IH
+adding at the end the following new subpara-
+1
+graph: 
+2
+‘‘(D) DIGITAL
+ASSET.—Except as other-
+3
+wise provided by the Secretary, the term ‘digital 
+4
+asset’ means any digital representation of value 
+5
+which is recorded on a cryptographically se-
+6
+cured distributed ledger or any similar tech-
+7
+nology as specified by the Secretary.’’. 
+8
+(C) 
+APPLICABLE
+DATE.—Section 
+9
+6045(g)(3)(C) of such Code is amended— 
+10
+(i) in clause (ii), by striking ‘‘and’’ at 
+11
+the end, 
+12
+(ii) by redesignating clause (iii) as 
+13
+clause (iv), and 
+14
+(iii) by inserting after clause (iii) the 
+15
+following: 
+16
+‘‘(iii) January 1, 2023, in the case of 
+17
+any specified security which is a digital 
+18
+asset, and’’. 
+19
+(2) FURNISHING OF INFORMATION.— 
+20
+(A) IN GENERAL.—Section 6045A of such 
+21
+Code is amended— 
+22
+(i) in subsection (a), by striking ‘‘a 
+23
+security which is’’, and 
+24
+23:39 Aug 24, 2021
+H5083
+4 
+•HR 5083 IH
+(ii) by adding at the end the fol-
+1
+lowing: 
+2
+‘‘(b) RETURN REQUIREMENT FOR CERTAIN TRANS-
+3
+FERS OF DIGITAL ASSETS NOT OTHERWISE SUBJECT TO 
+4
+REPORTING.—Any broker, with respect to any transfer 
+5
+(which is not part of a sale or exchange executed by such 
+6
+broker) during a calendar year of a covered security which 
+7
+is a digital asset from an account maintained by such 
+8
+broker to an account which is not maintained by, or an 
+9
+address not associated with, a person that such broker 
+10
+knows or has reason to know is also a broker, shall make 
+11
+a return for such calendar year, in such form as deter-
+12
+mined by the Secretary, showing the information otherwise 
+13
+required to be furnished with respect to transfers subject 
+14
+to subsection (a).’’. 
+15
+(B) 
+REPORTING
+PENALTIES.—Section 
+16
+6724(d)(1)(B) of such Code is amended by 
+17
+striking ‘‘or’’ at the end of clause (xxv), by 
+18
+striking ‘‘and’’ at the end of clause (xxvi), and 
+19
+by inserting after clause (xxvi) the following 
+20
+new clause: 
+21
+‘‘(xxvii) section 6045A(d) (relating to 
+22
+returns for certain digital assets),’’. 
+23
+(C) TREATMENT AS CASH FOR PURPOSES 
+24
+OF SECTION 6050I.—Section 6050I(d) of such 
+25
+23:39 Aug 24, 2021
+H5083
+5 
+•HR 5083 IH
+Code is amended by striking ‘‘and’’ at the end 
+1
+of paragraph (1), by striking the period at the 
+2
+end of paragraph (2) and inserting ‘‘, and’’, 
+3
+and by inserting after paragraph (2) the fol-
+4
+lowing new paragraph: 
+5
+‘‘(3) any digital asset (as defined in section 
+6
+6045(g)(3)(D).’’. 
+7
+(c) EFFECTIVE DATE.—The amendments made by 
+8
+this section shall apply to returns required to be filed, and 
+9
+statements required to be furnished, after December 31, 
+10
+2023. 
+11
+(d) RULES OF CONSTRUCTION.— 
+12
+(1) DEFINITION OF BROKER.—Nothing in this 
+13
+section or the amendments made by this section 
+14
+shall be construed to create any inference that a per-
+15
+son described in section 6045(c)(1)(D) of the Inter-
+16
+nal Revenue Code of 1986, as added by this section, 
+17
+includes any person solely engaged in the business 
+18
+of— 
+19
+(A) validating distributed ledger trans-
+20
+actions, 
+21
+(B) selling hardware or software for which 
+22
+the sole function is to permit a person to con-
+23
+trol private keys which are used for accessing 
+24
+digital assets on a distributed ledger, or 
+25
+23:39 Aug 24, 2021
+H5083
+6 
+•HR 5083 IH
+(C) developing digital assets or their cor-
+1
+responding protocols for use by other persons, 
+2
+provided that such other persons are not cus-
+3
+tomers of the person developing such assets or 
+4
+protocols. 
+5
+(2) BROKERS AND TREATMENT OF DIGITAL AS-
+6
+SETS.—Nothing in this section or the amendments 
+7
+made by this section shall be construed to create any 
+8
+inference, for any period prior to the effective date 
+9
+of such amendments, with respect to— 
+10
+(A) whether any person is a broker under 
+11
+section 6045(c)(1) of the Internal Revenue 
+12
+Code of 1986, or 
+13
+(B) whether any digital asset is property 
+14
+which is a specified security under section 
+15
+6045(g)(3)(B) of such Code. 
+16
+Æ 
+23:39 Aug 24, 2021
+H5083

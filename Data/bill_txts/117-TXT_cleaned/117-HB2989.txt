@@ -1,0 +1,3409 @@
+A BILL 
+To amend securities, commodities, and banking laws to make 
+the information reported to financial regulatory agencies 
+electronically searchable, to further enable the develop-
+ment of RegTech and Artificial Intelligence applications, 
+to put the United States on a path towards building 
+a comprehensive Standard Business Reporting program 
+to ultimately harmonize and reduce the private sector’s 
+regulatory compliance burden, while enhancing trans-
+parency and accountability, and for other purposes. 
+23:58 Jun 02, 2021
+H2989
+2 
+•HR 2989 IH
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Financial Transparency Act of 2021’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+TITLE I—DEPARTMENT OF THE TREASURY 
+Sec. 101. Data standards. 
+Sec. 102. Open data publication by the Department of the Treasury. 
+Sec. 103. Rulemaking. 
+Sec. 104. Classified and protected information. 
+Sec. 105. No new disclosure requirements. 
+Sec. 106. Report. 
+Sec. 107. Conforming amendments to the Office of Financial Research. 
+TITLE II—SECURITIES AND EXCHANGE COMMISSION 
+Sec. 201. Data standards requirements for the Securities and Exchange Com-
+mission. 
+Sec. 202. Open data publication by the Securities and Exchange Commission. 
+Sec. 203. Data transparency at the Municipal Securities Rulemaking Board. 
+Sec. 204. Data transparency at national securities associations. 
+Sec. 205. Shorter-term burden reduction and disclosure simplification at the 
+Securities and Exchange Commission; sunset. 
+Sec. 206. No new disclosure requirements. 
+TITLE III—FEDERAL DEPOSIT INSURANCE CORPORATION 
+Sec. 301. Data standards requirements for the Federal Deposit Insurance Cor-
+poration. 
+Sec. 302. Open data publication by the Federal Deposit Insurance Corporation. 
+Sec. 303. Rulemaking. 
+Sec. 304. No new disclosure requirements. 
+TITLE IV—OFFICE OF THE COMPTROLLER OF THE CURRENCY 
+Sec. 401. Data standards and open data publication requirements for the Office 
+of the Comptroller of the Currency. 
+Sec. 402. Rulemaking. 
+Sec. 403. No new disclosure requirements. 
+TITLE V—BUREAU OF CONSUMER FINANCIAL PROTECTION 
+Sec. 501. Data standards and open data publication requirements for the Bu-
+reau of Consumer Financial Protection. 
+23:58 Jun 02, 2021
+H2989
+3 
+•HR 2989 IH
+Sec. 502. Rulemaking. 
+Sec. 503. No new disclosure requirements. 
+TITLE VI—FEDERAL RESERVE SYSTEM 
+Sec. 601. Data standards requirements for the Board of Governors of the Fed-
+eral Reserve System. 
+Sec. 602. Open data publication by the Board of Governors of the Federal Re-
+serve System. 
+Sec. 603. Rulemaking. 
+Sec. 604. No new disclosure requirements. 
+TITLE VII—COMMODITY FUTURES TRADING COMMISSION 
+Sec. 701. Data standards. 
+Sec. 702. Open data publication by the Commodity Futures Trading Commis-
+sion. 
+Sec. 703. Rulemaking. 
+Sec. 704. No new disclosure requirements. 
+TITLE VIII—NATIONAL CREDIT UNION ADMINISTRATION 
+Sec. 801. Data standards. 
+Sec. 802. Open data publication by the National Credit Union Administration. 
+Sec. 803. Rulemaking. 
+Sec. 804. No new disclosure requirements. 
+TITLE IX—FEDERAL HOUSING FINANCE AGENCY 
+Sec. 901. Data standards requirements for the Federal Housing Finance Agen-
+cy. 
+Sec. 902. Open data publication by the Federal Housing Finance Agency. 
+Sec. 903. Rulemaking. 
+Sec. 904. No new disclosure requirements. 
+TITLE X—MISCELLANEOUS 
+Sec. 1001. Rule of construction. 
+TITLE I—DEPARTMENT OF THE 
+1
+TREASURY 
+2
+SEC. 101. DATA STANDARDS. 
+3
+(a) IN GENERAL.—Subtitle A of title I of the Finan-
+4
+cial Stability Act of 2010 (12 U.S.C. 5311 et seq.) is 
+5
+amended by adding at the end the following: 
+6
+‘‘SEC. 124. DATA STANDARDS. 
+7
+‘‘(a) IN GENERAL.—The Secretary of the Treasury 
+8
+shall, by rule, promulgate data standards, meaning a 
+9
+23:58 Jun 02, 2021
+H2989
+4 
+•HR 2989 IH
+standard that specifies rules by which data is described 
+1
+and recorded, for the information reported to member 
+2
+agencies by financial entities under the jurisdiction of the 
+3
+member agency and the data collected from member agen-
+4
+cies on behalf of the Council. 
+5
+‘‘(b) STANDARDIZATION.—Member agencies, in con-
+6
+sultation with the Secretary of the Treasury, shall imple-
+7
+ment regulations promulgated by the Secretary of the 
+8
+Treasury under subsection (a) to standardize data re-
+9
+ported to member agencies or collected on behalf of the 
+10
+Council, as described under subsection (a). If a member 
+11
+agency fails to implement such regulations prior to the 
+12
+expiration of the 3-year period following the date of publi-
+13
+cation of final regulations, the Secretary of the Treasury, 
+14
+in consultation with the Chairperson, may implement such 
+15
+regulations with respect to the financial entities under the 
+16
+jurisdiction of the member agency. 
+17
+‘‘(c) DATA STANDARDS.— 
+18
+‘‘(1) COMMON IDENTIFIERS.—The data stand-
+19
+ards promulgated under subsection (a) shall include 
+20
+common identifiers for information reported to mem-
+21
+ber agencies or collected on behalf of the Council, in-
+22
+cluding a common nonproprietary legal entity identi-
+23
+fier that is available under an open license (as de-
+24
+fined under section 3502 of title 44, United States 
+25
+23:58 Jun 02, 2021
+H2989
+5 
+•HR 2989 IH
+Code) for all entities required to report to member 
+1
+agencies. 
+2
+‘‘(2) DATA
+STANDARD.—The data standards 
+3
+promulgated under subsection (a) shall, to the extent 
+4
+practicable— 
+5
+‘‘(A) render data fully searchable and ma-
+6
+chine-readable (as defined under section 3502 
+7
+of title 44, United States Code); 
+8
+‘‘(B) enable high quality data through 
+9
+schemas, with accompanying metadata (as de-
+10
+fined under section 3502 of title 44, United 
+11
+States Code) documented in machine-readable 
+12
+taxonomy or ontology models, which clearly de-
+13
+fine the data’s semantic meaning as defined by 
+14
+the underlying regulatory information collection 
+15
+requirements; 
+16
+‘‘(C) assure that a data element or data 
+17
+asset that exists to satisfy an underlying regu-
+18
+latory information collection requirement be 
+19
+consistently identified as such in associated ma-
+20
+chine-readable metadata; 
+21
+‘‘(D) be nonproprietary or made available 
+22
+under an open license; 
+23
+23:58 Jun 02, 2021
+H2989
+6 
+•HR 2989 IH
+‘‘(E) incorporate standards developed and 
+1
+maintained by voluntary consensus standards 
+2
+bodies; and 
+3
+‘‘(F) use, be consistent with, and imple-
+4
+ment applicable accounting and reporting prin-
+5
+ciples. 
+6
+‘‘(3) CONSULTATION.—In promulgating data 
+7
+standards under subsection (a), the Secretary of the 
+8
+Treasury shall consult with other Federal depart-
+9
+ments and agencies and multi-agency initiatives re-
+10
+sponsible for Federal data standards. 
+11
+‘‘(4) INTEROPERABILITY OF DATA.—In promul-
+12
+gating data standards under subsection (a), the Sec-
+13
+retary of the Treasury shall seek to promote inter-
+14
+operability of financial regulatory data across mem-
+15
+bers of the Council.’’. 
+16
+(b) CLERICAL AMENDMENT.—The table of contents 
+17
+under section 1(b) of the Dodd-Frank Wall Street Reform 
+18
+and Consumer Protection Act is amended by inserting 
+19
+after the item relating to section 123 the following: 
+20
+‘‘Sec. 124. Data standards.’’. 
+SEC. 102. OPEN DATA PUBLICATION BY THE DEPARTMENT 
+21
+OF THE TREASURY. 
+22
+Section 124 of the Financial Stability Act of 2010, 
+23
+as added by section 101, is amended by adding at the end 
+24
+the following: 
+25
+23:58 Jun 02, 2021
+H2989
+7 
+•HR 2989 IH
+‘‘(d) OPEN DATA PUBLICATION.—All public informa-
+1
+tion published by the Secretary of the Treasury under this 
+2
+subtitle shall be made available as an open Government 
+3
+data asset (as defined under section 3502 of title 44, 
+4
+United States Code), freely available for download in bulk, 
+5
+and rendered in a human-readable format and accessible 
+6
+via application programming interface where appro-
+7
+priate.’’. 
+8
+SEC. 103. RULEMAKING. 
+9
+Not later than the end of the 2-year period beginning 
+10
+on the date of the enactment of this Act, the Secretary 
+11
+of the Treasury shall issue the regulations required under 
+12
+the amendments made by this title. The Secretary may 
+13
+delegate the functions required under the amendments 
+14
+made by this title to an appropriate office within the De-
+15
+partment of the Treasury. 
+16
+SEC. 104. CLASSIFIED AND PROTECTED INFORMATION. 
+17
+Nothing in this title or the amendments made by this 
+18
+title shall require the disclosure to the public of— 
+19
+(1) information that would be exempt from dis-
+20
+closure under section 552 of title 5, United States 
+21
+Code (commonly known as the ‘‘Freedom of Infor-
+22
+mation Act’’); or 
+23
+(2) information protected under section 552a of 
+24
+title 5, United States Code (commonly known as the 
+25
+23:58 Jun 02, 2021
+H2989
+8 
+•HR 2989 IH
+‘‘Privacy Act of 1974’’), or section 6103 of the In-
+1
+ternal Revenue Code of 1986. 
+2
+SEC. 105. NO NEW DISCLOSURE REQUIREMENTS. 
+3
+Nothing in this title or the amendments made by this 
+4
+title shall be construed to require the Secretary of the 
+5
+Treasury to collect additional information under the stat-
+6
+utes amended by this title, beyond information that was 
+7
+collected under such statutes before the date of the enact-
+8
+ment of this Act. 
+9
+SEC. 106. REPORT. 
+10
+Not later than 1 year after the end of the 2-year pe-
+11
+riod described in section 103, the Comptroller General of 
+12
+the United States shall submit to Congress a report on 
+13
+the feasibility, costs, and potential benefits of building 
+14
+upon the taxonomy established by this Act to arrive at 
+15
+a Federal Government-wide regulatory compliance stand-
+16
+ardization mechanism similar to Standard Business Re-
+17
+porting. 
+18
+SEC. 107. CONFORMING AMENDMENTS TO THE OFFICE OF 
+19
+FINANCIAL RESEARCH. 
+20
+Section 153 of the Financial Stability Act of 2010 
+21
+(12 U.S.C. 5343) is amended— 
+22
+(1) in subsection (a)— 
+23
+(A) by striking paragraph (2); and 
+24
+23:58 Jun 02, 2021
+H2989
+9 
+•HR 2989 IH
+(B) 
+by 
+redesignating 
+paragraphs 
+(3) 
+1
+through (7) as paragraphs (2) through (6), re-
+2
+spectively; and 
+3
+(2) by amending subsection (c) to read as fol-
+4
+lows: 
+5
+‘‘(c) RULEMAKING AUTHORITY.—The Office, in con-
+6
+sultation with the Chairperson, shall issue rules, regula-
+7
+tions, and orders only to the extent necessary to carry out 
+8
+the purposes and duties described in paragraphs (1) and 
+9
+(6) of subsection (a).’’. 
+10
+TITLE II—SECURITIES AND 
+11
+EXCHANGE COMMISSION 
+12
+SEC. 201. DATA STANDARDS REQUIREMENTS FOR THE SE-
+13
+CURITIES AND EXCHANGE COMMISSION. 
+14
+(a) DATA STANDARDS FOR INVESTMENT ADVISERS’ 
+15
+REPORTS UNDER THE INVESTMENT ADVISERS ACT OF 
+16
+1940.—Section 204 of the Investment Advisers Act of 
+17
+1940 (15 U.S.C. 80b–4) is amended— 
+18
+(1) by redesignating the second subsection (d) 
+19
+(relating to Records of Persons With Custody of 
+20
+Use) as subsection (e); and 
+21
+(2) by adding at the end the following: 
+22
+‘‘(f) DATA STANDARDS FOR REPORTS FILED UNDER 
+23
+THIS SECTION.— 
+24
+23:58 Jun 02, 2021
+H2989
+10 
+•HR 2989 IH
+‘‘(1) REQUIREMENT.—The Commission shall, 
+1
+by rule, adopt data standards for all reports filed by 
+2
+investment advisers with the Commission under this 
+3
+section. 
+4
+‘‘(2) CHARACTERISTICS.—The data standards 
+5
+required by paragraph (1) shall, to the extent prac-
+6
+ticable— 
+7
+‘‘(A) render data fully searchable and ma-
+8
+chine-readable (as defined under section 3502 
+9
+of title 44, United States Code); 
+10
+‘‘(B) enable high quality data through 
+11
+schemas, with accompanying metadata (as de-
+12
+fined under section 3502 of title 44, United 
+13
+States Code) documented in machine-readable 
+14
+taxonomy or ontology models, which clearly de-
+15
+fine the data’s semantic meaning as defined by 
+16
+the underlying regulatory information collection 
+17
+requirements; 
+18
+‘‘(C) assure that a data element or data 
+19
+asset that exists to satisfy an underlying regu-
+20
+latory information collection requirement be 
+21
+consistently identified as such in associated ma-
+22
+chine-readable metadata; 
+23
+23:58 Jun 02, 2021
+H2989
+11 
+•HR 2989 IH
+‘‘(D) be nonproprietary or made available 
+1
+under an open license (as defined under section 
+2
+3502 of title 44, United States Code); 
+3
+‘‘(E) incorporate standards developed and 
+4
+maintained by voluntary consensus standards 
+5
+bodies; and 
+6
+‘‘(F) use, be consistent with, and imple-
+7
+ment applicable accounting and reporting prin-
+8
+ciples. 
+9
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+10
+adopting data standards by rule under this sub-
+11
+section, the Commission shall incorporate all applica-
+12
+ble data standards promulgated by the Secretary of 
+13
+the Treasury.’’. 
+14
+(b) DATA STANDARDS FOR REGISTRATION STATE-
+15
+MENTS AND REPORTS UNDER THE INVESTMENT COM-
+16
+PANY ACT OF 1940.—The Investment Company Act of 
+17
+1940 (15 U.S.C. 80a–1 et seq.) is amended— 
+18
+(1) in section 8, by adding at the end the fol-
+19
+lowing: 
+20
+‘‘(g) DATA STANDARDS FOR REGISTRATION STATE-
+21
+MENTS.— 
+22
+‘‘(1) REQUIREMENT.—The Commission shall, 
+23
+by rule, adopt data standards for all registration 
+24
+statements required to be filed with the Commission 
+25
+23:58 Jun 02, 2021
+H2989
+12 
+•HR 2989 IH
+under this section, except that the Commission may 
+1
+exempt exhibits, signatures, and certifications from 
+2
+such data standards. 
+3
+‘‘(2) CHARACTERISTICS.—The data standards 
+4
+required by paragraph (1) shall, to the extent prac-
+5
+ticable— 
+6
+‘‘(A) render data fully searchable and ma-
+7
+chine-readable (as defined under section 3502 
+8
+of title 44, United States Code); 
+9
+‘‘(B) enable high quality data through 
+10
+schemas, with accompanying metadata (as de-
+11
+fined under section 3502 of title 44, United 
+12
+States Code) documented in machine-readable 
+13
+taxonomy or ontology models, which clearly de-
+14
+fine the data’s semantic meaning as defined by 
+15
+the underlying regulatory information collection 
+16
+requirements; 
+17
+‘‘(C) assure that a data element or data 
+18
+asset that exists to satisfy an underlying regu-
+19
+latory information collection requirement be 
+20
+consistently identified as such in associated ma-
+21
+chine-readable metadata; 
+22
+‘‘(D) be nonproprietary or made available 
+23
+under an open license (as defined under section 
+24
+3502 of title 44, United States Code); 
+25
+23:58 Jun 02, 2021
+H2989
+13 
+•HR 2989 IH
+‘‘(E) incorporate standards developed and 
+1
+maintained by voluntary consensus standards 
+2
+bodies; and 
+3
+‘‘(F) use, be consistent with, and imple-
+4
+ment applicable accounting and reporting prin-
+5
+ciples. 
+6
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+7
+adopting data standards by rule under this sub-
+8
+section, the Commission shall incorporate all applica-
+9
+ble data standards promulgated by the Secretary of 
+10
+the Treasury.’’; and 
+11
+(2) in section 30, by adding at the end the fol-
+12
+lowing: 
+13
+‘‘(k) DATA STANDARDS FOR REPORTS.— 
+14
+‘‘(1) REQUIREMENT.—The Commission shall, 
+15
+by rule, adopt data standards for all reports re-
+16
+quired to be filed with the Commission under this 
+17
+section, except that the Commission may exempt ex-
+18
+hibits, signatures, and certifications from such data 
+19
+standards. 
+20
+‘‘(2) CHARACTERISTICS.—The data standards 
+21
+required by paragraph (1) shall, to the extent prac-
+22
+ticable— 
+23
+23:58 Jun 02, 2021
+H2989
+14 
+•HR 2989 IH
+‘‘(A) render data fully searchable and ma-
+1
+chine-readable (as defined under section 3502 
+2
+of title 44, United States Code); 
+3
+‘‘(B) enable high quality data through 
+4
+schemas, with accompanying metadata (as de-
+5
+fined under section 3502 of title 44, United 
+6
+States Code) documented in machine-readable 
+7
+taxonomy or ontology models, which clearly de-
+8
+fine the data’s semantic meaning as defined by 
+9
+the underlying regulatory information collection 
+10
+requirements; 
+11
+‘‘(C) assure that a data element or data 
+12
+asset that exists to satisfy an underlying regu-
+13
+latory information collection requirement be 
+14
+consistently identified as such in associated ma-
+15
+chine-readable metadata; 
+16
+‘‘(D) be nonproprietary or made available 
+17
+under an open license (as defined under section 
+18
+3502 of title 44, United States Code); 
+19
+‘‘(E) incorporate standards developed and 
+20
+maintained by voluntary consensus standards 
+21
+bodies; and 
+22
+‘‘(F) use, be consistent with, and imple-
+23
+ment applicable accounting and reporting prin-
+24
+ciples. 
+25
+23:58 Jun 02, 2021
+H2989
+15 
+•HR 2989 IH
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+1
+adopting data standards by rule under this sub-
+2
+section, the Commission shall incorporate all applica-
+3
+ble data standards promulgated by the Secretary of 
+4
+the Treasury.’’. 
+5
+(c) DATA STANDARDS FOR INFORMATION REQUIRED 
+6
+TO BE SUBMITTED OR PUBLISHED BY NATIONALLY REC-
+7
+OGNIZED STATISTICAL RATING ORGANIZATIONS.—Section 
+8
+15E of the Securities Exchange Act of 1934 (15 U.S.C. 
+9
+78o–7) is amended by adding at the end the following: 
+10
+‘‘(w) DATA STANDARDS
+FOR INFORMATION RE-
+11
+QUIRED TO BE SUBMITTED OR PUBLISHED UNDER THIS 
+12
+SECTION.— 
+13
+‘‘(1) REQUIREMENT.—The Commission shall, 
+14
+by rule, adopt data standards for all information re-
+15
+quired to be submitted or published by a nationally 
+16
+recognized statistical rating organization under this 
+17
+section. 
+18
+‘‘(2) CHARACTERISTICS.—The data standards 
+19
+required by paragraph (1) shall, to the extent prac-
+20
+ticable— 
+21
+‘‘(A) render data fully searchable and ma-
+22
+chine-readable (as defined under section 3502 
+23
+of title 44, United States Code); 
+24
+23:58 Jun 02, 2021
+H2989
+16 
+•HR 2989 IH
+‘‘(B) enable high quality data through 
+1
+schemas, with accompanying metadata (as de-
+2
+fined under section 3502 of title 44, United 
+3
+States Code) documented in machine-readable 
+4
+taxonomy or ontology models, which clearly de-
+5
+fine the data’s semantic meaning as defined by 
+6
+the underlying regulatory information collection 
+7
+requirements; 
+8
+‘‘(C) assure that a data element or data 
+9
+asset that exists to satisfy an underlying regu-
+10
+latory information collection requirement be 
+11
+consistently identified as such in associated ma-
+12
+chine-readable metadata; 
+13
+‘‘(D) be nonproprietary or made available 
+14
+under an open license (as defined under section 
+15
+3502 of title 44, United States Code); 
+16
+‘‘(E) incorporate standards developed and 
+17
+maintained by voluntary consensus standards 
+18
+bodies; and 
+19
+‘‘(F) use, be consistent with, and imple-
+20
+ment applicable accounting and reporting prin-
+21
+ciples. 
+22
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+23
+adopting data standards by rule under this sub-
+24
+section, the Commission shall incorporate all applica-
+25
+23:58 Jun 02, 2021
+H2989
+17 
+•HR 2989 IH
+ble data standards promulgated by the Secretary of 
+1
+the Treasury.’’. 
+2
+(d) DATA STANDARDS FOR ASSET-BACKED SECURI-
+3
+TIES DISCLOSURES.—Section 7(c) of the Securities Act of 
+4
+1933 (15 U.S.C. 77g(c)) is amended by adding at the end 
+5
+the following: 
+6
+‘‘(3) DATA STANDARDS FOR ASSET-BACKED SE-
+7
+CURITIES DISCLOSURES.— 
+8
+‘‘(A) 
+REQUIREMENT.—The 
+Commission 
+9
+shall, by rule, adopt data standards for all dis-
+10
+closures required under this subsection. 
+11
+‘‘(B) CHARACTERISTICS.—The data stand-
+12
+ards required by subparagraph (A) shall, to the 
+13
+extent practicable— 
+14
+‘‘(i) render data fully searchable and 
+15
+machine-readable (as defined under section 
+16
+3502 of title 44, United States Code); 
+17
+‘‘(ii) enable high quality data through 
+18
+schemas, with accompanying metadata (as 
+19
+defined under section 3502 of title 44, 
+20
+United States Code) documented in ma-
+21
+chine-readable taxonomy or ontology mod-
+22
+els, which clearly define the data’s seman-
+23
+tic meaning as defined by the underlying 
+24
+23:58 Jun 02, 2021
+H2989
+18 
+•HR 2989 IH
+regulatory information collection require-
+1
+ments; 
+2
+‘‘(iii) assure that a data element or 
+3
+data asset that exists to satisfy an under-
+4
+lying regulatory information collection re-
+5
+quirement be consistently identified as 
+6
+such 
+in 
+associated 
+machine-readable 
+7
+metadata; 
+8
+‘‘(iv) be nonproprietary or made avail-
+9
+able under an open license (as defined 
+10
+under section 3502 of title 44, United 
+11
+States Code); 
+12
+‘‘(v) incorporate standards developed 
+13
+and maintained by voluntary consensus 
+14
+standards bodies; and 
+15
+‘‘(vi) use, be consistent with, and im-
+16
+plement applicable accounting and report-
+17
+ing principles. 
+18
+‘‘(C) INCORPORATION OF STANDARDS.—In 
+19
+adopting data standards by rule under this 
+20
+paragraph, the Commission shall incorporate all 
+21
+applicable data standards promulgated by the 
+22
+Secretary of the Treasury.’’. 
+23
+(e) DATA STANDARDS
+FOR CORPORATE DISCLO-
+24
+SURES UNDER THE SECURITIES ACT OF 1933.—Section 
+25
+23:58 Jun 02, 2021
+H2989
+19 
+•HR 2989 IH
+7 of the Securities Act of 1933 (15 U.S.C. 77g) is amend-
+1
+ed by adding at the end the following: 
+2
+‘‘(e) DATA STANDARDS.— 
+3
+‘‘(1) REQUIREMENT.—The Commission shall, 
+4
+by rule, adopt data standards for all registration 
+5
+statements and for all prospectuses included in reg-
+6
+istration statements required to be filed with the 
+7
+Commission under this title, except that the Com-
+8
+mission may exempt exhibits, signatures, and certifi-
+9
+cations from such data standards. 
+10
+‘‘(2) CHARACTERISTICS.—The data standards 
+11
+required by paragraph (1) shall, to the extent prac-
+12
+ticable— 
+13
+‘‘(A) render data fully searchable and ma-
+14
+chine-readable (as defined under section 3502 
+15
+of title 44, United States Code); 
+16
+‘‘(B) enable high quality data through 
+17
+schemas, with accompanying metadata (as de-
+18
+fined under section 3502 of title 44, United 
+19
+States Code) documented in machine-readable 
+20
+taxonomy or ontology models, which clearly de-
+21
+fine the data’s semantic meaning as defined by 
+22
+the underlying regulatory information collection 
+23
+requirements; 
+24
+23:58 Jun 02, 2021
+H2989
+20 
+•HR 2989 IH
+‘‘(C) assure that a data element or data 
+1
+asset that exists to satisfy an underlying regu-
+2
+latory information collection requirement be 
+3
+consistently identified as such in associated ma-
+4
+chine-readable metadata; 
+5
+‘‘(D) be nonproprietary or made available 
+6
+under an open license (as defined under section 
+7
+3502 of title 44, United States Code); 
+8
+‘‘(E) incorporate standards developed and 
+9
+maintained by voluntary consensus standards 
+10
+bodies; and 
+11
+‘‘(F) use, be consistent with, and imple-
+12
+ment applicable accounting and reporting prin-
+13
+ciples. 
+14
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+15
+adopting data standards by rule under this sub-
+16
+section, the Commission shall incorporate all applica-
+17
+ble data standards promulgated by the Secretary of 
+18
+the Treasury.’’. 
+19
+(f) DATA STANDARDS FOR PERIODIC AND CURRENT 
+20
+CORPORATE DISCLOSURES UNDER THE SECURITIES EX-
+21
+CHANGE ACT OF 1934.—Section 13 of the Securities Ex-
+22
+change Act of 1934 (15 U.S.C. 78m) is amended by add-
+23
+ing at the end the following: 
+24
+‘‘(s) DATA STANDARDS.— 
+25
+23:58 Jun 02, 2021
+H2989
+21 
+•HR 2989 IH
+‘‘(1) REQUIREMENT.—The Commission shall, 
+1
+by rule, adopt data standards for all information 
+2
+contained in periodic and current reports required to 
+3
+be filed or furnished under this section or under sec-
+4
+tion 15(d), except that the Commission may exempt 
+5
+exhibits, signatures, and certifications from such 
+6
+data standards. 
+7
+‘‘(2) CHARACTERISTICS.—The data standards 
+8
+required by paragraph (1) shall, to the extent prac-
+9
+ticable— 
+10
+‘‘(A) render data fully searchable and ma-
+11
+chine-readable (as defined under section 3502 
+12
+of title 44, United States Code); 
+13
+‘‘(B) enable high quality data through 
+14
+schemas, with accompanying metadata (as de-
+15
+fined under section 3502 of title 44, United 
+16
+States Code) documented in machine-readable 
+17
+taxonomy or ontology models, which clearly de-
+18
+fine the data’s semantic meaning as defined by 
+19
+the underlying regulatory information collection 
+20
+requirements; 
+21
+‘‘(C) assure that a data element or data 
+22
+asset that exists to satisfy an underlying regu-
+23
+latory information collection requirement be 
+24
+23:58 Jun 02, 2021
+H2989
+22 
+•HR 2989 IH
+consistently identified as such in associated ma-
+1
+chine-readable metadata; 
+2
+‘‘(D) be nonproprietary or made available 
+3
+under an open license (as defined under section 
+4
+3502 of title 44, United States Code); 
+5
+‘‘(E) incorporate standards developed and 
+6
+maintained by voluntary consensus standards 
+7
+bodies; and 
+8
+‘‘(F) use, be consistent with, and imple-
+9
+ment applicable accounting and reporting prin-
+10
+ciples. 
+11
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+12
+adopting data standards by rule under this sub-
+13
+section, the Commission shall incorporate all applica-
+14
+ble data standards promulgated by the Secretary of 
+15
+the Treasury.’’. 
+16
+(g) DATA STANDARDS FOR CORPORATE PROXY AND 
+17
+CONSENT SOLICITATION MATERIALS UNDER THE SECU-
+18
+RITIES EXCHANGE ACT OF 1934.—Section 14 of the Se-
+19
+curities Exchange Act of 1934 (15 U.S.C. 78n) is amend-
+20
+ed by adding at the end the following: 
+21
+‘‘(k) DATA STANDARDS FOR PROXY AND CONSENT 
+22
+SOLICITATION MATERIALS.— 
+23
+‘‘(1) REQUIREMENT.—The Commission shall, 
+24
+by rule, adopt data standards for all information 
+25
+23:58 Jun 02, 2021
+H2989
+23 
+•HR 2989 IH
+contained in any proxy or consent solicitation mate-
+1
+rial prepared by an issuer for an annual meeting of 
+2
+the shareholders of the issuer, except that the Com-
+3
+mission may exempt exhibits, signatures, and certifi-
+4
+cations from such data standards. 
+5
+‘‘(2) CHARACTERISTICS.—The data standards 
+6
+required by paragraph (1) shall, to the extent prac-
+7
+ticable— 
+8
+‘‘(A) render data fully searchable and ma-
+9
+chine-readable (as defined under section 3502 
+10
+of title 44, United States Code); 
+11
+‘‘(B) enable high quality data through 
+12
+schemas, with accompanying metadata (as de-
+13
+fined under section 3502 of title 44, United 
+14
+States Code) documented in machine-readable 
+15
+taxonomy or ontology models, which clearly de-
+16
+fine the data’s semantic meaning as defined by 
+17
+the underlying regulatory information collection 
+18
+requirements; 
+19
+‘‘(C) assure that a data element or data 
+20
+asset that exists to satisfy an underlying regu-
+21
+latory information collection requirement be 
+22
+consistently identified as such in associated ma-
+23
+chine-readable metadata; 
+24
+23:58 Jun 02, 2021
+H2989
+24 
+•HR 2989 IH
+‘‘(D) be nonproprietary or made available 
+1
+under an open license (as defined under section 
+2
+3502 of title 44, United States Code); 
+3
+‘‘(E) incorporate standards developed and 
+4
+maintained by voluntary consensus standards 
+5
+bodies; and 
+6
+‘‘(F) use, be consistent with, and imple-
+7
+ment applicable accounting and reporting prin-
+8
+ciples. 
+9
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+10
+adopting data standards by rule under this sub-
+11
+section, the Commission shall incorporate all applica-
+12
+ble data standards promulgated by the Secretary of 
+13
+the Treasury.’’. 
+14
+(h) DATA STANDARDS FOR SECURITY-BASED SWAP 
+15
+REPORTING.—Section 15F of the Securities Exchange Act 
+16
+of 1934 (15 U.S.C. 78o–10) is amended by adding at the 
+17
+end the following: 
+18
+‘‘(m) DATA STANDARDS FOR SECURITY-BASED SWAP 
+19
+REPORTING.— 
+20
+‘‘(1) REQUIREMENT.—The Commission shall, 
+21
+by rule, adopt data standards for all reports related 
+22
+to security-based swaps that are required under this 
+23
+Act. 
+24
+23:58 Jun 02, 2021
+H2989
+25 
+•HR 2989 IH
+‘‘(2) CHARACTERISTICS.—The data standards 
+1
+required by paragraph (1) shall, to the extent prac-
+2
+ticable— 
+3
+‘‘(A) render data fully searchable and ma-
+4
+chine-readable (as defined under section 3502 
+5
+of title 44, United States Code); 
+6
+‘‘(B) enable high quality data through 
+7
+schemas, with accompanying metadata (as de-
+8
+fined under section 3502 of title 44, United 
+9
+States Code) documented in machine-readable 
+10
+taxonomy or ontology models, which clearly de-
+11
+fine the data’s semantic meaning as defined by 
+12
+the underlying regulatory information collection 
+13
+requirements; 
+14
+‘‘(C) assure that a data element or data 
+15
+asset that exists to satisfy an underlying regu-
+16
+latory information collection requirement be 
+17
+consistently identified as such in associated ma-
+18
+chine-readable metadata; 
+19
+‘‘(D) be nonproprietary or made available 
+20
+under an open license (as defined under section 
+21
+3502 of title 44, United States Code); 
+22
+‘‘(E) incorporate standards developed and 
+23
+maintained by voluntary consensus standards 
+24
+bodies; and 
+25
+23:58 Jun 02, 2021
+H2989
+26 
+•HR 2989 IH
+‘‘(F) use, be consistent with, and imple-
+1
+ment applicable accounting and reporting prin-
+2
+ciples. 
+3
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+4
+adopting data standards by rule under this sub-
+5
+section, the Commission shall incorporate all applica-
+6
+ble data standards promulgated by the Secretary of 
+7
+the Treasury.’’. 
+8
+(i) RULEMAKING.— 
+9
+(1) IN GENERAL.—Not later than the end of 
+10
+the 2-year period beginning on the date of the enact-
+11
+ment of this Act, the Securities and Exchange Com-
+12
+mission shall issue the regulations required under 
+13
+the amendments made by this section. 
+14
+(2) 
+SCALING
+OF
+REGULATORY
+REQUIRE-
+15
+MENTS.—In issuing the regulations required under 
+16
+the amendments made by this section, the Securities 
+17
+and Exchange Commission may scale data reporting 
+18
+requirements in order to reduce any unjustified bur-
+19
+den on emerging growth companies, lending institu-
+20
+tions, accelerated filers, smaller reporting companies, 
+21
+and other smaller issuers, as determined by the 
+22
+study required under section 205(c), while still pro-
+23
+viding searchable information to investors. 
+24
+23:58 Jun 02, 2021
+H2989
+27 
+•HR 2989 IH
+(3) MINIMIZING DISRUPTION.—In issuing the 
+1
+regulations required under the amendments made by 
+2
+this section, the Securities and Exchange Commis-
+3
+sion shall seek to minimize disruptive changes to the 
+4
+persons affected by such regulations. 
+5
+SEC. 202. OPEN DATA PUBLICATION BY THE SECURITIES 
+6
+AND EXCHANGE COMMISSION. 
+7
+Section 4 of the Securities Exchange Act of 1934 (15 
+8
+U.S.C. 78d) is amended by adding at the end the fol-
+9
+lowing: 
+10
+‘‘(k) OPEN DATA PUBLICATION.—All public informa-
+11
+tion published by the Commission under the securities 
+12
+laws and the Dodd-Frank Wall Street Reform and Con-
+13
+sumer Protection Act shall be made available as an open 
+14
+Government data asset (as defined under section 3502 of 
+15
+title 44, United States Code), freely available for download 
+16
+in bulk and rendered in a human-readable format and ac-
+17
+cessible via application programming interface where ap-
+18
+propriate.’’. 
+19
+SEC. 203. DATA TRANSPARENCY AT THE MUNICIPAL SECU-
+20
+RITIES RULEMAKING BOARD. 
+21
+(a) IN GENERAL.—Section 15B(b) of the Securities 
+22
+Exchange Act of 1934 (15 U.S.C. 78o–4(b)) is amended 
+23
+by adding at the end the following: 
+24
+‘‘(8) DATA STANDARDS.— 
+25
+23:58 Jun 02, 2021
+H2989
+28 
+•HR 2989 IH
+‘‘(A) REQUIREMENT.—If the Board establishes 
+1
+information systems under paragraph (3), the Board 
+2
+shall adopt data standards for information sub-
+3
+mitted via such systems. 
+4
+‘‘(B) CHARACTERISTICS.—The data standards 
+5
+required by subparagraph (A) shall, to the extent 
+6
+practicable— 
+7
+‘‘(i) render data fully searchable and ma-
+8
+chine-readable (as defined under section 3502 
+9
+of title 44, United States Code); 
+10
+‘‘(ii) enable high quality data through 
+11
+schemas, with accompanying metadata (as de-
+12
+fined under section 3502 of title 44, United 
+13
+States Code) documented in machine-readable 
+14
+taxonomy or ontology models, which clearly de-
+15
+fine the data’s semantic meaning as defined by 
+16
+the underlying regulatory information collection 
+17
+requirements; 
+18
+‘‘(iii) assure that a data element or data 
+19
+asset that exists to satisfy an underlying regu-
+20
+latory information collection requirement be 
+21
+consistently identified as such in associated ma-
+22
+chine-readable metadata; 
+23
+23:58 Jun 02, 2021
+H2989
+29 
+•HR 2989 IH
+‘‘(iv) be nonproprietary or made available 
+1
+under an open license (as defined under section 
+2
+3502 of title 44, United States Code); 
+3
+‘‘(v) incorporate standards developed and 
+4
+maintained by voluntary consensus standards 
+5
+bodies; and 
+6
+‘‘(vi) use, be consistent with, and imple-
+7
+ment applicable accounting and reporting prin-
+8
+ciples. 
+9
+‘‘(C) 
+INCORPORATION
+OF
+STANDARDS.—In 
+10
+adopting data standards under this paragraph, the 
+11
+Board shall incorporate all applicable data standards 
+12
+promulgated by the Secretary of the Treasury.’’. 
+13
+(b) RULEMAKING.— 
+14
+(1) IN GENERAL.—Not later than the end of 
+15
+the 2-year period beginning on the date of the enact-
+16
+ment of this Act, the Municipal Securities Rule-
+17
+making Board shall issue the regulations required 
+18
+under the amendments made by this section. 
+19
+(2) 
+SCALING
+OF
+REGULATORY
+REQUIRE-
+20
+MENTS.—In issuing the regulations required under 
+21
+the amendments made by this section, the Municipal 
+22
+Securities Rulemaking Board may scale data report-
+23
+ing requirements in order to reduce any unjustified 
+24
+burden on smaller regulated entities. 
+25
+23:58 Jun 02, 2021
+H2989
+30 
+•HR 2989 IH
+(3) MINIMIZING DISRUPTION.—In issuing the 
+1
+regulations required under the amendments made by 
+2
+this section, the Municipal Securities Rulemaking 
+3
+Board shall seek to minimize disruptive changes to 
+4
+the persons affected by such regulations. 
+5
+SEC. 204. DATA TRANSPARENCY AT NATIONAL SECURITIES 
+6
+ASSOCIATIONS. 
+7
+(a) IN GENERAL.—Section 15A of the Securities Ex-
+8
+change Act of 1934 (15 U.S.C. 78o–3) is amended by add-
+9
+ing at the end the following: 
+10
+‘‘(n) DATA STANDARDS.— 
+11
+‘‘(1) REQUIREMENT.—A national securities as-
+12
+sociation registered pursuant to subsection (a) shall 
+13
+adopt data standards for all information that is reg-
+14
+ularly filed with or submitted to the association. 
+15
+‘‘(2) CHARACTERISTICS.—The data standards 
+16
+required by paragraph (1) shall, to the extent prac-
+17
+ticable— 
+18
+‘‘(A) render data fully searchable and ma-
+19
+chine-readable (as defined under section 3502 
+20
+of title 44, United States Code); 
+21
+‘‘(B) enable high quality data through 
+22
+schemas, with accompanying metadata (as de-
+23
+fined under section 3502 of title 44, United 
+24
+States Code) documented in machine-readable 
+25
+23:58 Jun 02, 2021
+H2989
+31 
+•HR 2989 IH
+taxonomy or ontology models, which clearly de-
+1
+fine the data’s semantic meaning as defined by 
+2
+the underlying regulatory information collection 
+3
+requirements; 
+4
+‘‘(C) assure that a data element or data 
+5
+asset that exists to satisfy an underlying regu-
+6
+latory information collection requirement be 
+7
+consistently identified as such in associated ma-
+8
+chine-readable metadata; 
+9
+‘‘(D) be nonproprietary or made available 
+10
+under an open license (as defined under section 
+11
+3502 of title 44, United States Code); 
+12
+‘‘(E) incorporate standards developed and 
+13
+maintained by voluntary consensus standards 
+14
+bodies; and 
+15
+‘‘(F) use, be consistent with, and imple-
+16
+ment applicable accounting and reporting prin-
+17
+ciples. 
+18
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+19
+adopting data standards under this subsection, the 
+20
+association shall incorporate all applicable data 
+21
+standards promulgated by the Secretary of the 
+22
+Treasury.’’. 
+23
+(b) RULEMAKING.— 
+24
+23:58 Jun 02, 2021
+H2989
+32 
+•HR 2989 IH
+(1) IN GENERAL.—Not later than the end of 
+1
+the 2-year period beginning on the date of the enact-
+2
+ment of this Act, a national securities association 
+3
+shall adopt the standards required under the amend-
+4
+ments made by this section. 
+5
+(2) 
+SCALING
+OF
+REGULATORY
+REQUIRE-
+6
+MENTS.—In adopting the standards required under 
+7
+the amendments made by this section, a national se-
+8
+curities association may scale data reporting require-
+9
+ments in order to reduce any unjustified burden on 
+10
+smaller regulated entities. 
+11
+(3) MINIMIZING DISRUPTION.—In adopting the 
+12
+standards required under the amendments made by 
+13
+this section, a national securities association shall 
+14
+seek to minimize disruptive changes to the persons 
+15
+affected by such standards. 
+16
+SEC. 205. SHORTER-TERM BURDEN REDUCTION AND DIS-
+17
+CLOSURE SIMPLIFICATION AT THE SECURI-
+18
+TIES AND EXCHANGE COMMISSION; SUNSET. 
+19
+(a) BETTER ENFORCEMENT OF THE QUALITY OF 
+20
+CORPORATE FINANCIAL DATA SUBMITTED TO THE SECU-
+21
+RITIES AND EXCHANGE COMMISSION.— 
+22
+(1) DATA QUALITY IMPROVEMENT PROGRAM.— 
+23
+Within six months after the date of the enactment 
+24
+of this Act, the Commission shall establish a pro-
+25
+23:58 Jun 02, 2021
+H2989
+33 
+•HR 2989 IH
+gram to improve the quality of corporate financial 
+1
+data filed or furnished by issuers under the Securi-
+2
+ties Act of 1933, the Securities Exchange Act of 
+3
+1934, and the Investment Company Act of 1940. 
+4
+The program shall include the following: 
+5
+(A) The designation of an official in the 
+6
+Office of the Chairman responsible for the im-
+7
+provement of the quality of data filed with or 
+8
+furnished to the Commission by issuers. 
+9
+(B) The issuance by the Division of Cor-
+10
+poration Finance of comment letters requiring 
+11
+correction of errors in data filings and submis-
+12
+sions, where necessary. 
+13
+(2) GOALS.—In establishing the program under 
+14
+this section, the Commission shall seek to— 
+15
+(A) improve the quality of data filed with 
+16
+or furnished to the Commission to a commer-
+17
+cially acceptable level; and 
+18
+(B) make data filed with or furnished to 
+19
+the Commission useful to investors. 
+20
+(b) REPORT ON THE USE OF MACHINE-READABLE 
+21
+DATA FOR CORPORATE DISCLOSURES.— 
+22
+(1) IN GENERAL.—Not later than six months 
+23
+after the date of the enactment of this Act, and 
+24
+every six months thereafter, the Commission shall 
+25
+23:58 Jun 02, 2021
+H2989
+34 
+•HR 2989 IH
+issue a report to the Committee on Financial Serv-
+1
+ices of the House of Representatives and the Com-
+2
+mittee on Banking, Housing, and Urban Affairs of 
+3
+the Senate on the public and internal use of ma-
+4
+chine-readable data for corporate disclosures. 
+5
+(2) CONTENT.—Each report required under 
+6
+paragraph (1) shall include— 
+7
+(A) an identification of which corporate 
+8
+disclosures required under section 7 of the Se-
+9
+curities Act of 1933, section 13 of the Securi-
+10
+ties Exchange Act of 1934, or section 14 of the 
+11
+Securities Exchange Act of 1934 are expressed 
+12
+as machine-readable data and which are not; 
+13
+(B) an analysis of the costs and benefits of 
+14
+the use of machine-readable data in corporate 
+15
+disclosure to investors, markets, the Commis-
+16
+sion, and issuers; 
+17
+(C) a summary of enforcement actions that 
+18
+result from the use or analysis of machine-read-
+19
+able data collected under section 7 of the Secu-
+20
+rities Act of 1933, section 13 of the Securities 
+21
+Exchange Act of 1934, or section 14 of the Se-
+22
+curities Exchange Act of 1934; and 
+23
+23:58 Jun 02, 2021
+H2989
+35 
+•HR 2989 IH
+(D) an analysis of how the Commission is 
+1
+itself using the machine-readable data collected 
+2
+by the Commission. 
+3
+(c) SUNSET.—On and after the end of the 7-year pe-
+4
+riod beginning on the date of the enactment of this Act, 
+5
+this section shall have no force or effect. 
+6
+SEC. 206. NO NEW DISCLOSURE REQUIREMENTS. 
+7
+Nothing in this title or the amendments made by this 
+8
+title shall be construed to require the Securities and Ex-
+9
+change Commission, the Municipal Securities Rulemaking 
+10
+Board, or a national securities association to collect addi-
+11
+tional information under the statutes amended by this 
+12
+title, beyond information that was collected under such 
+13
+statutes before the date of the enactment of this Act. 
+14
+TITLE III—FEDERAL DEPOSIT 
+15
+INSURANCE CORPORATION 
+16
+SEC. 301. DATA STANDARDS REQUIREMENTS FOR THE FED-
+17
+ERAL DEPOSIT INSURANCE CORPORATION. 
+18
+The Federal Deposit Insurance Act (12 U.S.C. 1811 
+19
+et seq.) is amended by adding at the end the following: 
+20
+‘‘SEC. 52. DATA STANDARDS. 
+21
+‘‘(a) REQUIREMENT.—The Corporation shall, by rule, 
+22
+adopt data standards for all information that the Corpora-
+23
+tion receives from any depository institution or financial 
+24
+23:58 Jun 02, 2021
+H2989
+36 
+•HR 2989 IH
+company under this Act or under title II of the Dodd- 
+1
+Frank Wall Street Reform and Consumer Protection Act. 
+2
+‘‘(b) CHARACTERISTICS.—The data standards re-
+3
+quired by subsection (a) shall, to the extent practicable— 
+4
+‘‘(1) render data fully searchable and machine- 
+5
+readable (as defined under section 3502 of title 44, 
+6
+United States Code); 
+7
+‘‘(2) enable high quality data through schemas, 
+8
+with accompanying metadata (as defined under sec-
+9
+tion 3502 of title 44, United States Code) docu-
+10
+mented in machine-readable taxonomy or ontology 
+11
+models, which clearly define the data’s semantic 
+12
+meaning as defined by the underlying regulatory in-
+13
+formation collection requirements; 
+14
+‘‘(3) assure that a data element or data asset 
+15
+that exists to satisfy an underlying regulatory infor-
+16
+mation collection requirement be consistently identi-
+17
+fied 
+as 
+such 
+in 
+associated 
+machine-readable 
+18
+metadata; 
+19
+‘‘(4) be nonproprietary or made available under 
+20
+an open license (as defined under section 3502 of 
+21
+title 44, United States Code); 
+22
+‘‘(5) incorporate standards developed and main-
+23
+tained by voluntary consensus standards bodies; and 
+24
+23:58 Jun 02, 2021
+H2989
+37 
+•HR 2989 IH
+‘‘(6) use, be consistent with, and implement ap-
+1
+plicable accounting and reporting principles. 
+2
+‘‘(c) INCORPORATION OF STANDARDS.—In adopting 
+3
+data standards by rule under this section, the Corporation 
+4
+shall incorporate all applicable data standards promul-
+5
+gated by the Secretary of the Treasury. 
+6
+‘‘(d) FINANCIAL COMPANY DEFINED.—For purposes 
+7
+of this section, the term ‘financial company’ has the mean-
+8
+ing given that term under section 201(a) of the Dodd- 
+9
+Frank Wall Street Reform and Consumer Protection Act 
+10
+(12 U.S.C. 5381(a)).’’. 
+11
+SEC. 302. OPEN DATA PUBLICATION BY THE FEDERAL DE-
+12
+13
+The Federal Deposit Insurance Act (12 U.S.C. 1811 
+14
+et seq.), as amended by section 301, is further amended 
+15
+by adding at the end the following: 
+16
+‘‘SEC. 53. OPEN DATA PUBLICATION. 
+17
+‘‘All public information published by the Corporation 
+18
+under this Act or under the Dodd-Frank Wall Street Re-
+19
+form and Consumer Protection Act shall be made available 
+20
+as an open Government data asset (as defined under sec-
+21
+tion 3502 of title 44, United States Code), freely available 
+22
+for download in bulk and rendered in a human-readable 
+23
+format and accessible via application programming inter-
+24
+face where appropriate.’’. 
+25
+23:58 Jun 02, 2021
+H2989
+38 
+•HR 2989 IH
+SEC. 303. RULEMAKING. 
+1
+(a) IN GENERAL.—Not later than the end of the 2- 
+2
+year period beginning on the date of the enactment of this 
+3
+Act, the Federal Deposit Insurance Corporation shall 
+4
+issue the regulations required under the amendments 
+5
+made by this title. 
+6
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+7
+issuing the regulations required under the amendments 
+8
+made by this title, the Federal Deposit Insurance Corpora-
+9
+tion may scale data reporting requirements in order to re-
+10
+duce any unjustified burden on smaller regulated entities. 
+11
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+12
+tions required under the amendments made by this title, 
+13
+the Federal Deposit Insurance Corporation shall seek to 
+14
+minimize disruptive changes to the persons affected by 
+15
+such regulations. 
+16
+SEC. 304. NO NEW DISCLOSURE REQUIREMENTS. 
+17
+Nothing in this title or the amendments made by this 
+18
+title shall be construed to require the Federal Deposit In-
+19
+surance Corporation to collect additional information 
+20
+under the statutes amended by this title, beyond informa-
+21
+tion that was collected under such statutes before the date 
+22
+of the enactment of this Act. 
+23
+23:58 Jun 02, 2021
+H2989
+39 
+•HR 2989 IH
+TITLE 
+IV—OFFICE 
+OF 
+THE 
+1
+COMPTROLLER OF THE CUR-
+2
+RENCY 
+3
+SEC. 401. DATA STANDARDS AND OPEN DATA PUBLICATION 
+4
+REQUIREMENTS FOR THE OFFICE OF THE 
+5
+COMPTROLLER OF THE CURRENCY. 
+6
+The Revised Statutes of the United States is amend-
+7
+ed by inserting after section 332 (12 U.S.C. 14) the fol-
+8
+lowing: 
+9
+‘‘SEC. 333. DATA STANDARDS; OPEN DATA PUBLICATION. 
+10
+‘‘(a) DATA STANDARDS.— 
+11
+‘‘(1) REQUIREMENT.—The Comptroller of the 
+12
+Currency shall, by rule, adopt data standards for all 
+13
+information that is regularly filed with or submitted 
+14
+to the Comptroller of the Currency by any entity 
+15
+with respect to which the Office of the Comptroller 
+16
+of the Currency is the appropriate Federal banking 
+17
+agency (as defined under section 3 of the Federal 
+18
+Deposit Insurance Act). 
+19
+‘‘(2) CHARACTERISTICS.—The data standards 
+20
+required by paragraph (1) shall, to the extent prac-
+21
+ticable— 
+22
+‘‘(A) render data fully searchable and ma-
+23
+chine-readable (as defined under section 3502 
+24
+of title 44, United States Code); 
+25
+23:58 Jun 02, 2021
+H2989
+40 
+•HR 2989 IH
+‘‘(B) enable high quality data through 
+1
+schemas, with accompanying metadata (as de-
+2
+fined under section 3502 of title 44, United 
+3
+States Code) documented in machine-readable 
+4
+taxonomy or ontology models, which clearly de-
+5
+fine the data’s semantic meaning as defined by 
+6
+the underlying regulatory information collection 
+7
+requirements; 
+8
+‘‘(C) assure that a data element or data 
+9
+asset that exists to satisfy an underlying regu-
+10
+latory information collection requirement be 
+11
+consistently identified as such in associated ma-
+12
+chine-readable metadata; 
+13
+‘‘(D) be nonproprietary or made available 
+14
+under an open license (as defined under section 
+15
+3502 of title 44, United States Code); 
+16
+‘‘(E) incorporate standards developed and 
+17
+maintained by voluntary consensus standards 
+18
+bodies; and 
+19
+‘‘(F) use, be consistent with, and imple-
+20
+ment applicable accounting and reporting prin-
+21
+ciples. 
+22
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+23
+adopting data standards by rule under this sub-
+24
+section, the Comptroller of the Currency shall incor-
+25
+23:58 Jun 02, 2021
+H2989
+41 
+•HR 2989 IH
+porate all applicable data standards promulgated by 
+1
+the Secretary of the Treasury. 
+2
+‘‘(b) OPEN DATA PUBLICATION.—All public informa-
+3
+tion published by the Comptroller of the Currency under 
+4
+title LXII or the Dodd-Frank Wall Street Reform and 
+5
+Consumer Protection Act shall be made available as an 
+6
+open Government data asset (as defined under section 
+7
+3502 of title 44, United States Code), freely available for 
+8
+download in bulk and rendered in a human-readable for-
+9
+mat and accessible via application programming interface 
+10
+where appropriate.’’. 
+11
+SEC. 402. RULEMAKING. 
+12
+(a) IN GENERAL.—Not later than the end of the 2- 
+13
+year period beginning on the date of the enactment of this 
+14
+Act, the Comptroller of the Currency shall issue the regu-
+15
+lations required under the amendments made by this title. 
+16
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+17
+issuing the regulations required under the amendments 
+18
+made by this title, the Comptroller of the Currency may 
+19
+scale data reporting requirements in order to reduce any 
+20
+unjustified burden on smaller regulated entities. 
+21
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+22
+tions required under the amendments made by this title, 
+23
+the Comptroller of the Currency shall seek to minimize 
+24
+23:58 Jun 02, 2021
+H2989
+42 
+•HR 2989 IH
+disruptive changes to the persons affected by such regula-
+1
+tions. 
+2
+SEC. 403. NO NEW DISCLOSURE REQUIREMENTS. 
+3
+Nothing in this title or the amendments made by this 
+4
+title shall be construed to require the Comptroller of the 
+5
+Currency to collect additional information under the stat-
+6
+utes amended by this title, beyond information that was 
+7
+collected under such statutes before the date of the enact-
+8
+ment of this Act. 
+9
+TITLE 
+V—BUREAU 
+OF 
+CON-
+10
+SUMER FINANCIAL PROTEC-
+11
+TION 
+12
+SEC. 501. DATA STANDARDS AND OPEN DATA PUBLICATION 
+13
+REQUIREMENTS FOR THE BUREAU OF CON-
+14
+SUMER FINANCIAL PROTECTION. 
+15
+(a) IN GENERAL.—The Consumer Financial Protec-
+16
+tion Act of 2010 (12 U.S.C. 5481 et seq.) is amended by 
+17
+inserting after section 1018 the following: 
+18
+‘‘SEC. 1019. DATA STANDARDS. 
+19
+‘‘(a) REQUIREMENT.—The Bureau shall, by rule, 
+20
+adopt data standards for all information that is regularly 
+21
+filed with or submitted to the Bureau under this title. 
+22
+‘‘(b) CHARACTERISTICS.—The data standards re-
+23
+quired by subsection (a) shall, to the extent practicable— 
+24
+23:58 Jun 02, 2021
+H2989
+43 
+•HR 2989 IH
+‘‘(1) render data fully searchable and machine- 
+1
+readable (as defined under section 3502 of title 44, 
+2
+United States Code); 
+3
+‘‘(2) enable high quality data through schemas, 
+4
+with accompanying metadata (as defined under sec-
+5
+tion 3502 of title 44, United States Code) docu-
+6
+mented in machine-readable taxonomy or ontology 
+7
+models, which clearly define the data’s semantic 
+8
+meaning as defined by the underlying regulatory in-
+9
+formation collection requirements; 
+10
+‘‘(3) assure that a data element or data asset 
+11
+that exists to satisfy an underlying regulatory infor-
+12
+mation collection requirement be consistently identi-
+13
+fied 
+as 
+such 
+in 
+associated 
+machine-readable 
+14
+metadata; 
+15
+‘‘(4) be nonproprietary or made available under 
+16
+an open license (as defined under section 3502 of 
+17
+title 44, United States Code); 
+18
+‘‘(5) incorporate standards developed and main-
+19
+tained by voluntary consensus standards bodies; and 
+20
+‘‘(6) use, be consistent with, and implement ap-
+21
+plicable accounting and reporting principles. 
+22
+‘‘(c) INCORPORATION OF STANDARDS.—In adopting 
+23
+data standards by rule under this section, the Bureau 
+24
+23:58 Jun 02, 2021
+H2989
+44 
+•HR 2989 IH
+shall incorporate all applicable data standards promul-
+1
+gated by the Secretary of the Treasury. 
+2
+‘‘SEC. 1020. OPEN DATA PUBLICATION. 
+3
+‘‘All public information published by the Bureau 
+4
+under this title shall be made available as an open Govern-
+5
+ment data asset (as defined under section 3502 of title 
+6
+44, United States Code), freely available for download in 
+7
+bulk and rendered in a human-readable format and acces-
+8
+sible via application programming interface where appro-
+9
+priate.’’. 
+10
+(b) CLERICAL AMENDMENT.—The table of contents 
+11
+under section 1(b) of the Dodd-Frank Wall Street Reform 
+12
+and Consumer Protection Act is amended by inserting 
+13
+after the item relating to section 1018 the following: 
+14
+‘‘Sec. 1019. Data standards. 
+‘‘Sec. 1020. Open data publication.’’. 
+SEC. 502. RULEMAKING. 
+15
+(a) IN GENERAL.—Not later than the end of the 2- 
+16
+year period beginning on the date of the enactment of this 
+17
+Act, the Bureau of Consumer Financial Protection shall 
+18
+issue the regulations required under the amendments 
+19
+made by this title. 
+20
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+21
+issuing the regulations required under the amendments 
+22
+made by this title, the Bureau of Consumer Financial Pro-
+23
+tection may scale data reporting requirements in order to 
+24
+23:58 Jun 02, 2021
+H2989
+45 
+•HR 2989 IH
+reduce any unjustified burden on smaller regulated enti-
+1
+ties. 
+2
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+3
+tions required under the amendments made by this title, 
+4
+the Bureau of Consumer Financial Protection shall seek 
+5
+to minimize disruptive changes to the persons affected by 
+6
+such regulations. 
+7
+SEC. 503. NO NEW DISCLOSURE REQUIREMENTS. 
+8
+Nothing in this title or the amendments made by this 
+9
+title shall be construed to require the Bureau of Consumer 
+10
+Financial Protection to collect additional information 
+11
+under the statutes amended by this title, beyond informa-
+12
+tion that was collected under such statutes before the date 
+13
+of the enactment of this Act. 
+14
+TITLE VI—FEDERAL RESERVE 
+15
+SYSTEM 
+16
+SEC. 601. DATA STANDARDS REQUIREMENTS FOR THE 
+17
+BOARD OF GOVERNORS OF THE FEDERAL RE-
+18
+SERVE SYSTEM. 
+19
+(a) DATA STANDARDS FOR INFORMATION FILED OR 
+20
+SUBMITTED BY NONBANK FINANCIAL COMPANIES.—Sec-
+21
+tion 161(a) of the Financial Stability Act of 2010 (12 
+22
+U.S.C. 5361(a)) is amended by adding at the end the fol-
+23
+lowing: 
+24
+23:58 Jun 02, 2021
+H2989
+46 
+•HR 2989 IH
+‘‘(4) DATA STANDARDS FOR REPORTS UNDER 
+1
+THIS SUBSECTION.— 
+2
+‘‘(A) IN
+GENERAL.—The Board of Gov-
+3
+ernors shall adopt data standards for all finan-
+4
+cial data that is regularly filed with or sub-
+5
+mitted to the Board of Governors by any 
+6
+nonbank financial company pursuant to this 
+7
+subsection. 
+8
+‘‘(B) CHARACTERISTICS.—The data stand-
+9
+ards required by this section shall, to the extent 
+10
+practicable— 
+11
+‘‘(i) render data fully searchable and 
+12
+machine-readable (as defined under section 
+13
+3502 of title 44, United States Code); 
+14
+‘‘(ii) enable high quality data through 
+15
+schemas, with accompanying metadata (as 
+16
+defined under section 3502 of title 44, 
+17
+United States Code) documented in ma-
+18
+chine-readable taxonomy or ontology mod-
+19
+els, which clearly define the data’s seman-
+20
+tic meaning as defined by the underlying 
+21
+regulatory information collection require-
+22
+ments; 
+23
+‘‘(iii) assure that a data element or 
+24
+data asset that exists to satisfy an under-
+25
+23:58 Jun 02, 2021
+H2989
+47 
+•HR 2989 IH
+lying regulatory information collection re-
+1
+quirement be consistently identified as 
+2
+such 
+in 
+associated 
+machine-readable 
+3
+metadata; 
+4
+‘‘(iv) be nonproprietary or made avail-
+5
+able under an open license (as defined 
+6
+under section 3502 of title 44, United 
+7
+States Code); 
+8
+‘‘(v) incorporate standards developed 
+9
+and maintained by voluntary consensus 
+10
+standards bodies; and 
+11
+‘‘(vi) use, be consistent with, and im-
+12
+plement applicable accounting and report-
+13
+ing principles. 
+14
+‘‘(C) INCORPORATION OF STANDARDS.—In 
+15
+adopting data standards by rule under this 
+16
+paragraph, the Board of Governors shall incor-
+17
+porate all applicable data standards promul-
+18
+gated by the Secretary of the Treasury.’’. 
+19
+(b) DATA STANDARDS FOR INFORMATION FILED OR 
+20
+SUBMITTED BY SAVINGS AND LOAN HOLDING COMPA-
+21
+NIES.—Section 10 of the Home Owners’ Loan Act (12 
+22
+U.S.C. 1467a) is amended by adding at the end the fol-
+23
+lowing: 
+24
+‘‘(u) DATA STANDARDS.— 
+25
+23:58 Jun 02, 2021
+H2989
+48 
+•HR 2989 IH
+‘‘(1) REQUIREMENT.—The Board shall adopt 
+1
+data standards for all information that is regularly 
+2
+filed with or submitted to the Board by any savings 
+3
+and loan holding company, or subsidiary of a savings 
+4
+and loan holding company, other than a depository 
+5
+institution, under this section. 
+6
+‘‘(2) CHARACTERISTICS.—The data standards 
+7
+required by this subsection shall, to the extent prac-
+8
+ticable— 
+9
+‘‘(A) render data fully searchable and ma-
+10
+chine-readable (as defined under section 3502 
+11
+of title 44, United States Code); 
+12
+‘‘(B) enable high quality data through 
+13
+schemas, with accompanying metadata (as de-
+14
+fined under section 3502 of title 44, United 
+15
+States Code) documented in machine-readable 
+16
+taxonomy or ontology models, which clearly de-
+17
+fine the data’s semantic meaning as defined by 
+18
+the underlying regulatory information collection 
+19
+requirements; 
+20
+‘‘(C) assure that a data element or data 
+21
+asset that exists to satisfy an underlying regu-
+22
+latory information collection requirement be 
+23
+consistently identified as such in associated ma-
+24
+chine-readable metadata; 
+25
+23:58 Jun 02, 2021
+H2989
+49 
+•HR 2989 IH
+‘‘(D) be nonproprietary or made available 
+1
+under an open license (as defined under section 
+2
+3502 of title 44, United States Code); 
+3
+‘‘(E) incorporate standards developed and 
+4
+maintained by voluntary consensus standards 
+5
+bodies; and 
+6
+‘‘(F) use, be consistent with, and imple-
+7
+ment applicable accounting and reporting prin-
+8
+ciples. 
+9
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+10
+adopting data standards by rule under this section, 
+11
+the Board of Governors shall incorporate all applica-
+12
+ble data standards promulgated by the Secretary of 
+13
+the Treasury.’’. 
+14
+(c) DATA STANDARDS FOR INFORMATION FILED OR 
+15
+SUBMITTED BY BANK HOLDING COMPANIES.—Section 5 
+16
+of the Bank Holding Company Act of 1956 (12 U.S.C. 
+17
+1844) is amended by adding at the end the following: 
+18
+‘‘(h) DATA STANDARDS.— 
+19
+‘‘(1) REQUIREMENT.—The Board shall adopt 
+20
+data standards for all information that is regularly 
+21
+filed with or submitted to the Board by any bank 
+22
+holding company in a report under subsection (c). 
+23
+23:58 Jun 02, 2021
+H2989
+50 
+•HR 2989 IH
+‘‘(2) CHARACTERISTICS.—The data standards 
+1
+required by this subsection shall, to the extent prac-
+2
+ticable— 
+3
+‘‘(A) render data fully searchable and ma-
+4
+chine-readable (as defined under section 3502 
+5
+of title 44, United States Code); 
+6
+‘‘(B) enable high quality data through 
+7
+schemas, with accompanying metadata (as de-
+8
+fined under section 3502 of title 44, United 
+9
+States Code) documented in machine-readable 
+10
+taxonomy or ontology models, which clearly de-
+11
+fine the data’s semantic meaning as defined by 
+12
+the underlying regulatory information collection 
+13
+requirements; 
+14
+‘‘(C) assure that a data element or data 
+15
+asset that exists to satisfy an underlying regu-
+16
+latory information collection requirement be 
+17
+consistently identified as such in associated ma-
+18
+chine-readable metadata; 
+19
+‘‘(D) be nonproprietary or made available 
+20
+under an open license (as defined under section 
+21
+3502 of title 44, United States Code); 
+22
+‘‘(E) incorporate standards developed and 
+23
+maintained by voluntary consensus standards 
+24
+bodies; and 
+25
+23:58 Jun 02, 2021
+H2989
+51 
+•HR 2989 IH
+‘‘(F) use, be consistent with, and imple-
+1
+ment applicable accounting and reporting prin-
+2
+ciples. 
+3
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+4
+adopting data standards under this subsection, the 
+5
+Board shall incorporate all applicable data standards 
+6
+promulgated by the Secretary of the Treasury.’’. 
+7
+(d) DATA STANDARDS
+FOR INFORMATION SUB-
+8
+MITTED BY FINANCIAL MARKET UTILITIES OR INSTITU-
+9
+TIONS UNDER THE PAYMENT, CLEARING, AND SETTLE-
+10
+MENT SUPERVISION ACT OF 2010.—Section 809 of the 
+11
+Payment, Clearing, and Settlement Supervision Act of 
+12
+2010 (12 U.S.C. 5468) is amended by adding at the end 
+13
+the following: 
+14
+‘‘(h) DATA STANDARDS.— 
+15
+‘‘(1) REQUIREMENT.—The Board of Governors 
+16
+shall adopt data standards for all information that 
+17
+is regularly filed with or submitted to the Board by 
+18
+any financial market utility or financial institution 
+19
+under subsection (a) or (b). 
+20
+‘‘(2) CHARACTERISTICS.—The data standards 
+21
+required by this subsection shall, to the extent prac-
+22
+ticable— 
+23
+23:58 Jun 02, 2021
+H2989
+52 
+•HR 2989 IH
+‘‘(A) render data fully searchable and ma-
+1
+chine-readable (as defined under section 3502 
+2
+of title 44, United States Code); 
+3
+‘‘(B) enable high quality data through 
+4
+schemas, with accompanying metadata (as de-
+5
+fined under section 3502 of title 44, United 
+6
+States Code) documented in machine-readable 
+7
+taxonomy or ontology models, which clearly de-
+8
+fine the data’s semantic meaning as defined by 
+9
+the underlying regulatory information collection 
+10
+requirements; 
+11
+‘‘(C) assure that a data element or data 
+12
+asset that exists to satisfy an underlying regu-
+13
+latory information collection requirement be 
+14
+consistently identified as such in associated ma-
+15
+chine-readable metadata; 
+16
+‘‘(D) be nonproprietary or made available 
+17
+under an open license (as defined under section 
+18
+3502 of title 44, United States Code); 
+19
+‘‘(E) incorporate standards developed and 
+20
+maintained by voluntary consensus standards 
+21
+bodies; and 
+22
+‘‘(F) use, be consistent with, and imple-
+23
+ment applicable accounting and reporting prin-
+24
+ciples. 
+25
+23:58 Jun 02, 2021
+H2989
+53 
+•HR 2989 IH
+‘‘(3) 
+INCORPORATION
+OF
+STANDARDS.—In 
+1
+adopting data standards under this subsection, the 
+2
+Board of Governors shall incorporate all applicable 
+3
+data standards promulgated by the Secretary of the 
+4
+Treasury.’’. 
+5
+SEC. 602. OPEN DATA PUBLICATION BY THE BOARD OF 
+6
+GOVERNORS OF THE FEDERAL RESERVE SYS-
+7
+TEM. 
+8
+The Federal Reserve Act (12 U.S.C. 226 et seq.) is 
+9
+amended by adding at the end the following: 
+10
+‘‘SEC. 32. OPEN DATA PUBLICATION BY THE BOARD OF 
+11
+GOVERNORS. 
+12
+‘‘All public information published by the Board of 
+13
+Governors under this Act, the Bank Holding Company Act 
+14
+of 1956, the Financial Stability Act of 2010, the Home 
+15
+Owners’ Loan Act, the Payment, Clearing, and Settlement 
+16
+Supervision Act of 2010, or the Enhancing Financial In-
+17
+stitution Safety and Soundness Act of 2010 shall be made 
+18
+available as an open Government data asset (as defined 
+19
+under section 3502 of title 44, United States Code), freely 
+20
+available for download in bulk and rendered in a human- 
+21
+readable format and accessible via application program-
+22
+ming interface where appropriate.’’. 
+23
+23:58 Jun 02, 2021
+H2989
+54 
+•HR 2989 IH
+SEC. 603. RULEMAKING. 
+1
+(a) IN GENERAL.—Not later than the end of the 2- 
+2
+year period beginning on the date of the enactment of this 
+3
+Act, the Board of Governors of the Federal Reserve Sys-
+4
+tem shall issue the regulations required under the amend-
+5
+ments made by this title. 
+6
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+7
+issuing the regulations required under the amendments 
+8
+made by this title, the Board of Governors of the Federal 
+9
+Reserve System may scale data reporting requirements in 
+10
+order to reduce any unjustified burden on smaller regu-
+11
+lated entities. 
+12
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+13
+tions required under the amendments made by this title, 
+14
+the Board of Governors of the Federal Reserve System 
+15
+shall seek to minimize disruptive changes to the persons 
+16
+affected by such regulations. 
+17
+SEC. 604. NO NEW DISCLOSURE REQUIREMENTS. 
+18
+Nothing in this title or the amendments made by this 
+19
+title shall be construed to require the Board of Governors 
+20
+of the Federal Reserve System to collect additional infor-
+21
+mation under the statutes amended by this title, beyond 
+22
+information that was collected under such statutes before 
+23
+the date of the enactment of this Act. 
+24
+23:58 Jun 02, 2021
+H2989
+55 
+•HR 2989 IH
+TITLE 
+VII—COMMODITY 
+FU-
+1
+TURES 
+TRADING 
+COMMIS-
+2
+SION 
+3
+SEC. 701. DATA STANDARDS. 
+4
+The Commodity Exchange Act (7 U.S.C. 1 et seq.) 
+5
+is amended by adding at the end the following: 
+6
+‘‘SEC. 24. DATA STANDARDS. 
+7
+‘‘(a) REQUIREMENT.—The Commission shall, by rule, 
+8
+adopt data standards for all information that is regularly 
+9
+filed with or submitted to the Commission under this Act, 
+10
+all information that is required to be reported to a reg-
+11
+istered swap data repository under this Act, and all infor-
+12
+mation that is required to be publicly disclosed by parties 
+13
+to a swap under this Act. 
+14
+‘‘(b) CHARACTERISTICS.—The data standards re-
+15
+quired by subsection (a) shall, to the extent practicable— 
+16
+‘‘(1) render data fully searchable and machine- 
+17
+readable (as defined under section 3502 of title 44, 
+18
+United States Code); 
+19
+‘‘(2) enable high quality data through schemas, 
+20
+with accompanying metadata (as defined under sec-
+21
+tion 3502 of title 44, United States Code) docu-
+22
+mented in machine-readable taxonomy or ontology 
+23
+models, which clearly define the data’s semantic 
+24
+23:58 Jun 02, 2021
+H2989
+56 
+•HR 2989 IH
+meaning as defined by the underlying regulatory in-
+1
+formation collection requirements; 
+2
+‘‘(3) assure that a data element or data asset 
+3
+that exists to satisfy an underlying regulatory infor-
+4
+mation collection requirement be consistently identi-
+5
+fied 
+as 
+such 
+in 
+associated 
+machine-readable 
+6
+metadata; 
+7
+‘‘(4) be nonproprietary or made available under 
+8
+an open license (as defined under section 3502 of 
+9
+title 44, United States Code); 
+10
+‘‘(5) incorporate standards developed and main-
+11
+tained by voluntary consensus standards bodies; and 
+12
+‘‘(6) use, be consistent with, and implement ap-
+13
+plicable accounting and reporting principles. 
+14
+‘‘(c) INCORPORATION OF STANDARDS.—In adopting 
+15
+data standards by rule under this section, the Commission 
+16
+shall incorporate all applicable data standards promul-
+17
+gated by the Secretary of the Treasury.’’. 
+18
+SEC. 702. OPEN DATA PUBLICATION BY THE COMMODITY 
+19
+FUTURES TRADING COMMISSION. 
+20
+The Commodity Exchange Act (7 U.S.C. 1 et seq.), 
+21
+as amended by section 701, is further amended by adding 
+22
+at the end the following: 
+23
+23:58 Jun 02, 2021
+H2989
+57 
+•HR 2989 IH
+‘‘SEC. 25. OPEN DATA PUBLICATION. 
+1
+‘‘All public information published by the Commission 
+2
+under this Act shall be made available as an open Govern-
+3
+ment data asset (as defined under section 3502 of title 
+4
+44, United States Code), freely available for download in 
+5
+bulk and rendered in a human-readable format and acces-
+6
+sible via application programming interface where appro-
+7
+priate.’’. 
+8
+SEC. 703. RULEMAKING. 
+9
+(a) IN GENERAL.—Not later than the end of the 2- 
+10
+year period beginning on the date of the enactment of this 
+11
+Act, the Commodity Futures Trading Commission shall 
+12
+issue the regulations required under the amendments 
+13
+made by this title. 
+14
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+15
+issuing the regulations required under the amendments 
+16
+made by this title, the Commodity Futures Trading Com-
+17
+mission may scale data reporting requirements in order 
+18
+to reduce any unjustified burden on smaller regulated en-
+19
+tities. 
+20
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+21
+tions required under the amendments made by this title, 
+22
+the Commodity Futures Trading Commission shall seek 
+23
+to minimize disruptive changes to the persons affected by 
+24
+such regulations. 
+25
+23:58 Jun 02, 2021
+H2989
+58 
+•HR 2989 IH
+SEC. 704. NO NEW DISCLOSURE REQUIREMENTS. 
+1
+Nothing in this title or the amendments made by this 
+2
+title shall be construed to require the Commodity Futures 
+3
+Trading Commission to collect additional information 
+4
+under the statutes amended by this title, beyond informa-
+5
+tion that was collected under such statutes before the date 
+6
+of the enactment of this Act. 
+7
+TITLE VIII—NATIONAL CREDIT 
+8
+UNION ADMINISTRATION 
+9
+SEC. 801. DATA STANDARDS. 
+10
+Title I of the Federal Credit Union Act (12 U.S.C. 
+11
+1752 et seq.) is amended by adding at the end the fol-
+12
+lowing: 
+13
+‘‘SEC. 132. DATA STANDARDS. 
+14
+‘‘(a) REQUIREMENT.—The Board shall, by rule, 
+15
+adopt data standards for all information and reports regu-
+16
+larly filed with or submitted to the Administration under 
+17
+this Act. 
+18
+‘‘(b) CHARACTERISTICS.—The data standards re-
+19
+quired by subsection (a) shall, to the extent practicable— 
+20
+‘‘(1) render data fully searchable and machine- 
+21
+readable (as defined under section 3502 of title 44, 
+22
+United States Code); 
+23
+‘‘(2) enable high quality data through schemas, 
+24
+with accompanying metadata (as defined under sec-
+25
+tion 3502 of title 44, United States Code) docu-
+26
+23:58 Jun 02, 2021
+H2989
+59 
+•HR 2989 IH
+mented in machine-readable taxonomy or ontology 
+1
+models, which clearly define the data’s semantic 
+2
+meaning as defined by the underlying regulatory in-
+3
+formation collection requirements; 
+4
+‘‘(3) assure that a data element or data asset 
+5
+that exists to satisfy an underlying regulatory infor-
+6
+mation collection requirement be consistently identi-
+7
+fied 
+as 
+such 
+in 
+associated 
+machine-readable 
+8
+metadata; 
+9
+‘‘(4) be nonproprietary or made available under 
+10
+an open license (as defined under section 3502 of 
+11
+title 44, United States Code); 
+12
+‘‘(5) incorporate standards developed and main-
+13
+tained by voluntary consensus standards bodies; and 
+14
+‘‘(6) use, be consistent with, and implement ap-
+15
+plicable accounting and reporting principles. 
+16
+‘‘(c) INCORPORATION OF STANDARDS.—In adopting 
+17
+data standards by rule under this section, the Board shall 
+18
+incorporate all applicable data standards promulgated by 
+19
+the Secretary of the Treasury.’’. 
+20
+SEC. 802. OPEN DATA PUBLICATION BY THE NATIONAL 
+21
+CREDIT UNION ADMINISTRATION. 
+22
+Title I of the Federal Credit Union Act (12 U.S.C. 
+23
+1752 et seq.), as amended by section 801, is further 
+24
+amended by adding at the end the following: 
+25
+23:58 Jun 02, 2021
+H2989
+60 
+•HR 2989 IH
+‘‘SEC. 133. OPEN DATA PUBLICATION. 
+1
+‘‘All public information published by the Administra-
+2
+tion under this title shall be made available as an open 
+3
+Government data asset (as defined under section 3502 of 
+4
+title 44, United States Code), freely available for download 
+5
+in bulk and rendered in a human-readable format and ac-
+6
+cessible via application programming interface where ap-
+7
+propriate.’’. 
+8
+SEC. 803. RULEMAKING. 
+9
+(a) IN GENERAL.—Not later than the end of the 2- 
+10
+year period beginning on the date of the enactment of this 
+11
+Act, the National Credit Union Administration Board 
+12
+shall issue the regulations required under the amendments 
+13
+made by this title. 
+14
+(b) SCALING OF REGULATORY REQUIREMENTS.—In 
+15
+issuing the regulations required under the amendments 
+16
+made by this title, the National Credit Union Administra-
+17
+tion Board may scale data reporting requirements in order 
+18
+to reduce any unjustified burden on smaller regulated en-
+19
+tities. 
+20
+(c) MINIMIZING DISRUPTION.—In issuing the regula-
+21
+tions required under the amendments made by this title, 
+22
+the National Credit Union Administration Board shall 
+23
+seek to minimize disruptive changes to the persons af-
+24
+fected by such regulations. 
+25
+23:58 Jun 02, 2021
+H2989
+61 
+•HR 2989 IH
+SEC. 804. NO NEW DISCLOSURE REQUIREMENTS. 
+1
+Nothing in this title or the amendments made by this 
+2
+title shall be construed to require the National Credit 
+3
+Union Administration Board to collect additional informa-
+4
+tion under the statutes amended by this title, beyond in-
+5
+formation that was collected under such statutes before 
+6
+the date of the enactment of this Act. 
+7
+TITLE IX—FEDERAL HOUSING 
+8
+FINANCE AGENCY 
+9
+SEC. 901. DATA STANDARDS REQUIREMENTS FOR THE FED-
+10
+ERAL HOUSING FINANCE AGENCY. 
+11
+Part 1 of subtitle A of the Federal Housing Enter-
+12
+prises Financial Safety and Soundness Act of 1992 (12 
+13
+U.S.C. 4501 et seq.) is amended by adding at the end 
+14
+the following: 
+15
+‘‘SEC. 1319H. DATA STANDARDS. 
+16
+‘‘(a) REQUIREMENT.—The Agency shall, by rule, 
+17
+adopt data standards for all information that is regularly 
+18
+filed with or submitted to the Agency under this Act. 
+19
+‘‘(b) CHARACTERISTICS.—The data standards re-
+20
+quired by subsection (a) shall, to the extent practicable— 
+21
+‘‘(1) render data fully searchable and machine- 
+22
+readable (as defined under section 3502 of title 44, 
+23
+United States Code); 
+24
+‘‘(2) enable high quality data through schemas, 
+25
+with accompanying metadata (as defined under sec-
+26
+23:58 Jun 02, 2021
+H2989
+62 
+•HR 2989 IH
+tion 3502 of title 44, United States Code) docu-
+1
+mented in machine-readable taxonomy or ontology 
+2
+models, which clearly define the data’s semantic 
+3
+meaning as defined by the underlying regulatory in-
+4
+formation collection requirements; 
+5
+‘‘(3) assure that a data element or data asset 
+6
+that exists to satisfy an underlying regulatory infor-
+7
+mation collection requirement be consistently identi-
+8
+fied 
+as 
+such 
+in 
+associated 
+machine-readable 
+9
+metadata; 
+10
+‘‘(4) be nonproprietary or made available under 
+11
+an open license (as defined under section 3502 of 
+12
+title 44, United States Code); 
+13
+‘‘(5) incorporate standards developed and main-
+14
+tained by voluntary consensus standards bodies; and 
+15
+‘‘(6) use, be consistent with, and implement ap-
+16
+plicable accounting and reporting principles. 
+17
+‘‘(c) INCORPORATION OF STANDARDS.—In adopting 
+18
+data standards by rule under this section, the Agency shall 
+19
+incorporate all applicable data standards promulgated by 
+20
+the Secretary of the Treasury.’’. 
+21
+SEC. 902. OPEN DATA PUBLICATION BY THE FEDERAL 
+22
+HOUSING FINANCE AGENCY. 
+23
+Part 1 of subtitle A of the Federal Housing Enter-
+24
+prises Financial Safety and Soundness Act of 1992 (12 
+25
+23:58 Jun 02, 2021
+H2989
+63 
+•HR 2989 IH
+U.S.C. 4501 et seq.), as amended by section 901, is fur-
+1
+ther amended by adding at the end the following: 
+2
+‘‘SEC. 1319I. OPEN DATA PUBLICATION. 
+3
+‘‘All public information published by the Agency 
+4
+under this Act shall be made available as an open Govern-
+5
+ment data asset (as defined under section 3502 of title 
+6
+44, United States Code), freely available for download in 
+7
+bulk and rendered in a human-readable format and acces-
+8
+sible via application programming interface where appro-
+9
+priate.’’. 
+10
+SEC. 903. RULEMAKING. 
+11
+(a) IN GENERAL.—Not later than the end of the 2- 
+12
+year period beginning on the date of the enactment of this 
+13
+Act, the Federal Housing Finance Agency shall issue the 
+14
+regulations required under the amendments made by this 
+15
+title. 
+16
+(b) MINIMIZING DISRUPTION.—In issuing the regula-
+17
+tions required under the amendments made by this title, 
+18
+the Federal Housing Finance Agency shall seek to mini-
+19
+mize disruptive changes to the persons affected by such 
+20
+regulations. 
+21
+SEC. 904. NO NEW DISCLOSURE REQUIREMENTS. 
+22
+Nothing in this title or the amendments made by this 
+23
+title shall be construed to require the Federal Housing Fi-
+24
+nance Agency to collect additional information under the 
+25
+23:58 Jun 02, 2021
+H2989
+64 
+•HR 2989 IH
+statutes amended by this title, beyond information that 
+1
+was collected under such statutes before the date of the 
+2
+enactment of this Act. 
+3
+TITLE X—MISCELLANEOUS 
+4
+SEC. 1001. RULE OF CONSTRUCTION. 
+5
+Nothing in this Act or the amendments made by this 
+6
+Act may be construed to alter the existing legal protec-
+7
+tions of copyrighted material or other intellectual property 
+8
+rights of any non-Federal person. 
+9
+Æ 
+23:58 Jun 02, 2021
+H2989

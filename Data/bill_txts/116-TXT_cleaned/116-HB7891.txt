@@ -1,0 +1,2744 @@
+A BILL 
+To improve the ability of law enforcement agencies to access 
+encrypted data, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Lawful Access to 
+4
+Encrypted Data Act’’. 
+5
+SEC. 2. TABLE OF CONTENTS. 
+6
+The table of contents for this Act is as follows: 
+7
+Sec. 1. Short title. 
+Sec. 2. Table of contents. 
+04:30 Aug 22, 2020
+H7891
+2 
+•HR 7891 IH
+TITLE I—DATA AT REST 
+Sec. 101. Data at rest. 
+TITLE II—DATA IN MOTION 
+Sec. 201. Assistance. 
+Sec. 202. Capability. 
+Sec. 203. CALEA amendment. 
+TITLE III—ASSISTANCE CAPABILITY DIRECTIVES 
+Sec. 301. Assistance capability directives. 
+TITLE IV—PEN REGISTER AND TRAP AND TRACE AMENDMENTS 
+Sec. 401. Capability requirements. 
+Sec. 402. Defining technical assistance. 
+TITLE V—FISA AMENDMENTS 
+Sec. 501. Electronic surveillance within the United States for foreign intel-
+ligence purposes. 
+Sec. 502. Physical searches within the United States for foreign intelligence 
+purposes. 
+Sec. 503. Pen register; trap and trace. 
+Sec. 504. Business records. 
+Sec. 505. Certain acquisitions inside the United States targeting United States 
+persons outside the United States. 
+TITLE VI—PRIZE COMPETITION 
+Sec. 601. Findings. 
+Sec. 602. Definitions. 
+Sec. 603. Prize competition. 
+Sec. 604. Implementation. 
+Sec. 605. Judges. 
+Sec. 606. Report to Congress. 
+Sec. 607. Authorization of appropriations. 
+Sec. 608. Termination of authority. 
+TITLE VII—LAWFUL ACCESS TRAINING 
+Sec. 701. Lawful access training program. 
+TITLE VIII—EFFECTIVE DATE 
+Sec. 801. Effective date. 
+TITLE I—DATA AT REST 
+1
+SEC. 101. DATA AT REST. 
+2
+(a) IN GENERAL.—Chapter 205 of title 18, United 
+3
+States Code, is amended by adding at the end the fol-
+4
+lowing: 
+5
+04:30 Aug 22, 2020
+H7891
+3 
+•HR 7891 IH
+‘‘§ 3119. Assistance orders to third parties and capa-
+1
+bility requirements 
+2
+‘‘(a) DEFINITIONS.—In this section— 
+3
+‘‘(1) the term ‘consumer electronic device’ 
+4
+means a device that— 
+5
+‘‘(A) may be purchased by a member of 
+6
+the general public; and 
+7
+‘‘(B) can be configured to store 1 gigabyte 
+8
+of data or more; 
+9
+‘‘(2) the term ‘court of competent jurisdiction’ 
+10
+means— 
+11
+‘‘(A) a district court of the United States 
+12
+(including a magistrate judge of such a court) 
+13
+or a United States court of appeals; and 
+14
+‘‘(B) a court of general criminal jurisdic-
+15
+tion of a State authorized by the law of that 
+16
+State to issue search warrants; 
+17
+‘‘(3) the term ‘device manufacturer’ means a 
+18
+person who designs, manufactures, fabricates, or as-
+19
+sembles a finished consumer electronic device; 
+20
+‘‘(4) the term ‘governmental entity’ has the 
+21
+meaning given the term in section 2711; 
+22
+‘‘(5) the term ‘operating system provider’ 
+23
+means a person who designs, markets, or sells soft-
+24
+ware that— 
+25
+04:30 Aug 22, 2020
+H7891
+4 
+•HR 7891 IH
+‘‘(A) controls the operation of a consumer 
+1
+electronic device; and 
+2
+‘‘(B) directs the processing of programs on 
+3
+the consumer electronic device (such as by as-
+4
+signing storage space in memory and control-
+5
+ling input and output functions); 
+6
+‘‘(6) the term ‘remote computing service’ has 
+7
+the meaning given the term in section 2711; and 
+8
+‘‘(7) the term ‘State’ means any State of the 
+9
+United States, the District of Columbia, the Com-
+10
+monwealth of Puerto Rico, and any territory or pos-
+11
+session of the United States. 
+12
+‘‘(b) COURT ORDER FOR ASSISTANCE.— 
+13
+‘‘(1) IN GENERAL.—A court of competent juris-
+14
+diction, in support of a search warrant based upon 
+15
+probable cause issued by the court that authorizes 
+16
+the search of an electronic device or remotely stored 
+17
+electronic information, shall, upon receiving a mo-
+18
+tion described in paragraph (3) that states reason-
+19
+able grounds to believe that the assistance required 
+20
+by the order will aid in the execution of the warrant, 
+21
+order a device manufacturer, an operating system 
+22
+provider, a provider of remote computing service, or 
+23
+another person to furnish all information, facilities, 
+24
+and assistance necessary to access information 
+25
+04:30 Aug 22, 2020
+H7891
+5 
+•HR 7891 IH
+stored on an electronic device or to access remotely 
+1
+stored electronic information, as authorized by the 
+2
+search warrant. 
+3
+‘‘(2) ASSISTANCE.—The information, facilities, 
+4
+and assistance ordered to be furnished under para-
+5
+graph (1) shall include— 
+6
+‘‘(A) isolating the information authorized 
+7
+to be searched; 
+8
+‘‘(B) decrypting or decoding information 
+9
+on the electronic device or remotely stored elec-
+10
+tronic information that is authorized to be 
+11
+searched, or otherwise providing such informa-
+12
+tion in an intelligible format, unless the inde-
+13
+pendent actions of an unaffiliated entity make 
+14
+it technically impossible to do so; and 
+15
+‘‘(C) providing technical support as nec-
+16
+essary to ensure effective execution of the war-
+17
+rant for the electronic devices particularly de-
+18
+scribed by the warrant. 
+19
+‘‘(3) MOTION.—An attorney for a governmental 
+20
+entity may move that the court issue an order under 
+21
+this subsection— 
+22
+‘‘(A) after a search warrant that author-
+23
+izes the search of an electronic device or re-
+24
+04:30 Aug 22, 2020
+H7891
+6 
+•HR 7891 IH
+motely stored electronic information has been 
+1
+issued; or 
+2
+‘‘(B) concurrently with an application for a 
+3
+search warrant described in subparagraph (A). 
+4
+‘‘(4) COMPENSATION AND EXEMPTION FROM LI-
+5
+ABILITY.— 
+6
+‘‘(A) IN
+GENERAL.—Subject to subpara-
+7
+graph (B), a device manufacturer, operating 
+8
+system provider, provider of remote computing 
+9
+service, or other person furnishing information, 
+10
+facilities, or assistance pursuant to an order 
+11
+issued under this subsection— 
+12
+‘‘(i) shall be compensated for reason-
+13
+able expenses directly incurred in com-
+14
+plying with the order; and 
+15
+‘‘(ii) may not be held civilly liable to 
+16
+any party for any action taken that is rea-
+17
+sonably necessary to comply with the 
+18
+order. 
+19
+‘‘(B) LIMITATION.—Reasonable expenses 
+20
+under subparagraph (A) may not exceed $300. 
+21
+‘‘(c) CAPABILITY TO ASSIST.— 
+22
+‘‘(1) DEVICE MANUFACTURERS.—A device man-
+23
+ufacturer that sold more than 1,000,000 consumer 
+24
+electronic devices in the United States in 2016 or 
+25
+04:30 Aug 22, 2020
+H7891
+7 
+•HR 7891 IH
+any calendar year thereafter, or that has received an 
+1
+assistance capability directive under section 3513, 
+2
+shall ensure that the manufacturer has the ability to 
+3
+provide the assistance described in subsection (b)(2) 
+4
+for any consumer electronic device that the manufac-
+5
+turer— 
+6
+‘‘(A) designs, manufactures, fabricates, or 
+7
+assembles; and 
+8
+‘‘(B) intends for sale or distribution in the 
+9
+United States. 
+10
+‘‘(2) PROVIDERS OF REMOTE COMPUTING SERV-
+11
+ICE; OPERATING SYSTEM PROVIDERS.—A provider of 
+12
+remote computing service or operating system pro-
+13
+vider that provided service to more than 1,000,000 
+14
+subscribers or users in the United States in 2016 or 
+15
+any calendar year thereafter, or that has received an 
+16
+assistance capability directive under section 3513, 
+17
+shall ensure that the provider has the ability to pro-
+18
+vide the assistance described in subparagraphs (A) 
+19
+and (B) of subsection (b)(2) for any remotely stored 
+20
+data that the provider processes or stores. 
+21
+‘‘(3) CONTRACTING
+AUTHORIZED.—A device 
+22
+manufacturer, provider of remote computing service, 
+23
+or operating system provider may satisfy the obliga-
+24
+tions under this subsection by contracting with any 
+25
+04:30 Aug 22, 2020
+H7891
+8 
+•HR 7891 IH
+other United States person or entity to provide the 
+1
+required assistance. 
+2
+‘‘(4) COSTS.—A device manufacturer, provider 
+3
+of remote computing service, or operating system 
+4
+provider to which this subsection applies shall bear 
+5
+the costs associated with the development of the ca-
+6
+pability required under this subsection, including 
+7
+any contracting costs incurred by the device manu-
+8
+facturer, provider of remote computing service, or 
+9
+operating system provider under paragraph (3), un-
+10
+less the manufacturer or provider has received an 
+11
+assistance capability directive under section 3513.’’. 
+12
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+13
+The table of sections for chapter 205 of title 18, United 
+14
+States Code, is amended by adding at the end the fol-
+15
+lowing: 
+16
+‘‘3119. Assistance orders to third parties and capability requirements.’’. 
+(c) APPLICABILITY.—The obligation under section 
+17
+3119(c)(1) of title 18, United States Code, as added by 
+18
+subsection (a), shall apply with respect to a consumer elec-
+19
+tronic device manufactured on or after the effective date 
+20
+in section 801 of this Act. 
+21
+TITLE II—DATA IN MOTION 
+22
+SEC. 201. ASSISTANCE. 
+23
+Section 2518(4) of title 18, United States Code, is 
+24
+amended, in the undesignated matter following paragraph 
+25
+04:30 Aug 22, 2020
+H7891
+9 
+•HR 7891 IH
+(e), by striking ‘‘with a minimum of interference with the 
+1
+services that such service provider, landlord, custodian, or 
+2
+person is according the person whose communications are 
+3
+to be intercepted. Any provider of wire or electronic com-
+4
+munication service, landlord, custodian or other person 
+5
+furnishing such facilities or technical assistance shall be 
+6
+compensated therefor by the applicant for reasonable ex-
+7
+penses incurred in providing such facilities or assistance.’’ 
+8
+and inserting the following: ‘‘in a manner designed to up-
+9
+hold 
+the 
+nondisclosure 
+obligations 
+under 
+section 
+10
+2511(2)(a)(ii). 
+11
+Such furnishing of information, facilities, and technical as-
+12
+sistance shall include— 
+13
+‘‘(i) isolating all communications au-
+14
+thorized to be intercepted; 
+15
+‘‘(ii) decrypting, decoding, or other-
+16
+wise providing in an intelligible format the 
+17
+communications authorized to be inter-
+18
+cepted, unless the independent actions of 
+19
+an unaffiliated entity make it technically 
+20
+impossible to do so; and 
+21
+‘‘(iii) delivering all communications 
+22
+authorized to be intercepted securely, reli-
+23
+ably, and concurrently with their trans-
+24
+mission. 
+25
+04:30 Aug 22, 2020
+H7891
+10 
+•HR 7891 IH
+Any provider of wire or electronic communication service, 
+1
+landlord, custodian, or other person furnishing such infor-
+2
+mation, facilities, or technical assistance shall be com-
+3
+pensated therefor by the applicant for reasonable expenses 
+4
+directly incurred in providing such information, facilities, 
+5
+or assistance.’’. 
+6
+SEC. 202. CAPABILITY. 
+7
+(a) IN GENERAL.—Chapter 119 of title 18, United 
+8
+States Code, is amended by adding at the end the fol-
+9
+lowing: 
+10
+‘‘§ 2524. Capability requirements 
+11
+‘‘(a) IN GENERAL.—A provider of wire or electronic 
+12
+communication service that had more than 1,000,000 
+13
+monthly active users in the United States in January 2016 
+14
+or any month thereafter, or has received an assistance ca-
+15
+pability directive under section 3513, shall ensure that the 
+16
+provider has the ability to provide the information, facili-
+17
+ties, and technical assistance described in section 2518(4). 
+18
+‘‘(b) CALCULATION OF MONTHLY ACTIVE USERS.— 
+19
+For purposes of subsection (a), the number of monthly 
+20
+active users of a wire or electronic communication service 
+21
+shall be calculated by taking the average of the number 
+22
+of individual users or subscribers of the service that are 
+23
+active per month in any calendar year. 
+24
+04:30 Aug 22, 2020
+H7891
+11 
+•HR 7891 IH
+‘‘(c) COSTS.—A provider of wire or electronic commu-
+1
+nication service to which subsection (a) applies shall bear 
+2
+any costs associated with the development of the capability 
+3
+required under that subsection, unless the provider has re-
+4
+ceived an assistance capability directive under section 
+5
+3513.’’. 
+6
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+7
+The table of sections for chapter 119 of title 18, United 
+8
+States Code, is amended by adding at the end the fol-
+9
+lowing: 
+10
+‘‘2524. Capability requirements.’’. 
+SEC. 203. CALEA AMENDMENT. 
+11
+(a) IN GENERAL.—Section 103(b)(3) of the Commu-
+12
+nications Assistance for Law Enforcement Act (47 U.S.C. 
+13
+1002(b)(3)) is amended— 
+14
+(1) by striking ‘‘, or ensuring the government’s 
+15
+ability to decrypt,’’; 
+16
+(2) by striking ‘‘the encryption was provided’’ 
+17
+and inserting ‘‘the means of encryption or other en-
+18
+coding was implemented by or facilitated’’; and 
+19
+(3) by striking ‘‘and the carrier possesses the 
+20
+information necessary to decrypt the communica-
+21
+tion’’. 
+22
+04:30 Aug 22, 2020
+H7891
+12 
+•HR 7891 IH
+TITLE III—ASSISTANCE 
+1
+CAPABILITY DIRECTIVES 
+2
+SEC. 301. ASSISTANCE CAPABILITY DIRECTIVES. 
+3
+(a) IN GENERAL.—Chapter 223 of title 18, United 
+4
+States Code, is amended by adding at the end the fol-
+5
+lowing: 
+6
+‘‘§ 3513. Assistance capability directives 
+7
+‘‘(a) DEFINITIONS.—The definitions in sections 2510 
+8
+and 3119 shall apply to this section. 
+9
+‘‘(b) CONTENTS OF DIRECTIVES AND PROCEDURE 
+10
+FOR ISSUING.— 
+11
+‘‘(1) AUTHORITY.— 
+12
+‘‘(A) IN GENERAL.—If the Attorney Gen-
+13
+eral makes the applicable finding with respect 
+14
+to a person under paragraph (3), the Attorney 
+15
+General may direct the person to create or 
+16
+maintain any of the assistance capabilities de-
+17
+scribed in section 2518, 2524, 3119, 3127, or 
+18
+3128. 
+19
+‘‘(B) WRITTEN
+DIRECTIVE.—A directive 
+20
+issued under subparagraph (A) shall be in writ-
+21
+ing. 
+22
+‘‘(2) REQUIRED
+REPORTING.—Not later than 
+23
+30 days after the date on which a person receives a 
+24
+directive from the Attorney General under para-
+25
+04:30 Aug 22, 2020
+H7891
+13 
+•HR 7891 IH
+graph (1), the person shall report to the Attorney 
+1
+General, or a designee of the Attorney General, on, 
+2
+at a minimum— 
+3
+‘‘(A) any technical capabilities that the 
+4
+person knows or expects to be necessary to im-
+5
+plement and comply with an anticipated court 
+6
+order or other lawful authorization under sec-
+7
+tion 2518, 3119, or 3123; and 
+8
+‘‘(B) the timeline of the person for devel-
+9
+oping and deploying the technical capabilities 
+10
+described in subparagraph (A). 
+11
+‘‘(3) FINDINGS.—The Attorney General may 
+12
+issue a directive to a person under paragraph (1) 
+13
+only if the Attorney General finds— 
+14
+‘‘(A) in the case of assistance capabilities 
+15
+described in section 2518, 2524, or 3128 that 
+16
+during the preceding calendar year, communica-
+17
+tions occurring over services the person offers, 
+18
+provides, or has access to were subject to not 
+19
+fewer than 5 court orders issued under— 
+20
+‘‘(i) chapter 119 of this title; or 
+21
+‘‘(ii) the Foreign Intelligence Surveil-
+22
+lance Act of 1978 (50 U.S.C. 1801 et 
+23
+seq.); or 
+24
+04:30 Aug 22, 2020
+H7891
+14 
+•HR 7891 IH
+‘‘(B) in the case of assistance capabilities 
+1
+described in section 3119, that, during the pre-
+2
+ceding calendar year, data stored in any device, 
+3
+service, or operating system sold or licensed by 
+4
+the person was subject to not fewer than 5 Fed-
+5
+eral or State search warrants. 
+6
+‘‘(4) RELEASE
+FROM
+LIABILITY.—No civil 
+7
+cause of action shall lie in any court against a per-
+8
+son who receives a directive under paragraph (1) for 
+9
+any action or omission reasonably necessary to com-
+10
+ply with the directive. 
+11
+‘‘(5) EFFECTIVE DATE AND EXPIRATION DATE 
+12
+OF DIRECTIVES.— 
+13
+‘‘(A) IN
+GENERAL.—Subject to subpara-
+14
+graph (B), a directive issued under paragraph 
+15
+(1) shall contain— 
+16
+‘‘(i) a date on which the directive 
+17
+takes effect; and 
+18
+‘‘(ii) a date when the directive expires. 
+19
+‘‘(B) LIMITS.—A directive issued under 
+20
+paragraph (1) may not— 
+21
+‘‘(i) take effect earlier than 180 days 
+22
+after the date on which the directive is 
+23
+issued; or 
+24
+04:30 Aug 22, 2020
+H7891
+15 
+•HR 7891 IH
+‘‘(ii) expire later than 2 years after 
+1
+the date on which the directive takes ef-
+2
+fect. 
+3
+‘‘(6) REPORTING.—Not later than 30 days after 
+4
+the date on which a directive issued under para-
+5
+graph (1) takes effect, the Attorney General shall 
+6
+submit to the Committee on the Judiciary of the 
+7
+Senate and the Committee on the Judiciary of the 
+8
+House of Representatives a copy of the directive. 
+9
+‘‘(7) NO
+TECHNICAL
+DEMANDS.—A directive 
+10
+issued to a person under paragraph (1) may not 
+11
+specify technical means by which the person is re-
+12
+quired to implement the required capabilities. 
+13
+‘‘(c) CHALLENGES OF DIRECTIVES AND APPEAL.— 
+14
+‘‘(1) PETITION.—Not later than 30 days after 
+15
+the date on which the Attorney General issues a di-
+16
+rective to a person under subsection (b), the person 
+17
+may file a petition to modify or set aside the direc-
+18
+tive in the United States District Court for the Dis-
+19
+trict of Columbia. 
+20
+‘‘(2) CONSIDERATION OF PETITION.— 
+21
+‘‘(A) GRANT.—The court may grant a pe-
+22
+tition filed under paragraph (1) only if— 
+23
+‘‘(i) the directive does not meet the 
+24
+requirements of this section; 
+25
+04:30 Aug 22, 2020
+H7891
+16 
+•HR 7891 IH
+‘‘(ii) the person filing the petition 
+1
+demonstrates, by clear and convincing evi-
+2
+dence, that it is technically impossible for 
+3
+the person to make any change to the way 
+4
+the hardware, software, or other property 
+5
+of the person behaves in order to comply 
+6
+with the directive; or 
+7
+‘‘(iii) the directive is otherwise unlaw-
+8
+ful. 
+9
+‘‘(B) DENIAL.—If none of the bases for 
+10
+granting a petition under subparagraph (A) are 
+11
+met, the court shall deny the petition. 
+12
+‘‘(C) EX PARTE REVIEW.— 
+13
+‘‘(i) IN GENERAL.—In considering a 
+14
+petition filed under paragraph (1), the 
+15
+court may review any information that the 
+16
+Attorney General, upon filing an affidavit 
+17
+under oath that disclosure of the informa-
+18
+tion would harm the national security of 
+19
+the United States or harm the enforcement 
+20
+of criminal law, chooses to provide to the 
+21
+court solely for ex parte review. 
+22
+‘‘(ii) NO WAIVER OF PRIVILEGE.—The 
+23
+exercise of the authority under clause (i) 
+24
+does not waive any applicable privilege. 
+25
+04:30 Aug 22, 2020
+H7891
+17 
+•HR 7891 IH
+‘‘(3) INITIAL REVIEW.— 
+1
+‘‘(A) DEADLINE.—Not later than 30 days 
+2
+after the date on which a petition is filed under 
+3
+paragraph (1), the court shall conduct an initial 
+4
+review of the petition. 
+5
+‘‘(B) REVIEW.—If the court determines 
+6
+that the petition does not consist of claims, de-
+7
+fenses, or other legal contentions that are war-
+8
+ranted by existing law or by a non-frivolous ar-
+9
+gument for extending, modifying, or reversing 
+10
+existing law or for establishing new law, the 
+11
+court shall immediately— 
+12
+‘‘(i) deny the petition; 
+13
+‘‘(ii) affirm the directive or any part 
+14
+of the directive that is the subject of the 
+15
+petition; and 
+16
+‘‘(iii) order the recipient to comply 
+17
+with the directive or part thereof. 
+18
+‘‘(C) WRITTEN STATEMENT.—Upon mak-
+19
+ing a determination under subparagraph (B) or 
+20
+promptly thereafter, the court shall provide a 
+21
+written statement for the record of the reasons 
+22
+for the determination. 
+23
+‘‘(4) PLENARY REVIEW.— 
+24
+04:30 Aug 22, 2020
+H7891
+18 
+•HR 7891 IH
+‘‘(A) DEADLINE.—If the court determines 
+1
+that a petition filed under paragraph (1) re-
+2
+quires plenary review— 
+3
+‘‘(i) not later than 60 days after the 
+4
+petition is filed, the court shall affirm, 
+5
+modify, or set aside the directive that is 
+6
+the subject of the petition; or 
+7
+‘‘(ii) if the court does not set aside 
+8
+the directive by the date specified under 
+9
+clause (i), the court shall immediately, or 
+10
+in any event not later than 5 days there-
+11
+after— 
+12
+‘‘(I) affirm or affirm with modi-
+13
+fications the directive; and 
+14
+‘‘(II) order the person who re-
+15
+ceived the directive to comply with the 
+16
+directive in its entirety or as modified. 
+17
+‘‘(B) WRITTEN STATEMENT.—Upon mak-
+18
+ing a determination under subparagraph (A) or 
+19
+promptly thereafter, the court shall provide a 
+20
+written statement for the record of the reasons 
+21
+for the determination. 
+22
+‘‘(5) APPEALS.— 
+23
+‘‘(A) RIGHT
+OF
+APPEAL.—The Attorney 
+24
+General or a person who receives a directive 
+25
+04:30 Aug 22, 2020
+H7891
+19 
+•HR 7891 IH
+under subsection (b) may appeal a final order 
+1
+of the district court under this subsection not 
+2
+later than 30 days after entry of the order. 
+3
+‘‘(B) PROCEDURE.—The United States 
+4
+Court of Appeals for the District of Columbia 
+5
+Circuit shall expedite the consideration of any 
+6
+appeal brought under this paragraph, and the 
+7
+expense or effort required to comply with a di-
+8
+rective issued under subsection (b) shall not be 
+9
+a basis for staying a final order of the district 
+10
+court under this subsection pending appeal. 
+11
+‘‘(d) ENFORCEMENT OF DIRECTIVES.— 
+12
+‘‘(1) FAILURE TO COMPLY.—If a person fails to 
+13
+comply with a directive issued under subsection (b), 
+14
+the Attorney General may file a petition for an order 
+15
+to compel the person to comply with the directive in 
+16
+the United States District Court for the District of 
+17
+Columbia, which shall have jurisdiction to review the 
+18
+petition. 
+19
+‘‘(2) EX PARTE REVIEW.— 
+20
+‘‘(A) IN GENERAL.—In considering a peti-
+21
+tion filed under paragraph (1), the court may 
+22
+review any information that the Attorney Gen-
+23
+eral, upon filing an affidavit under oath that 
+24
+disclosure of the information would harm the 
+25
+04:30 Aug 22, 2020
+H7891
+20 
+•HR 7891 IH
+national security of the United States or harm 
+1
+the enforcement of criminal law, chooses to pro-
+2
+vide to the court solely for ex parte review. 
+3
+‘‘(B) NO WAIVER OF PRIVILEGE.—The ex-
+4
+ercise of the authority under subparagraph (A) 
+5
+does not waive any applicable privilege. 
+6
+‘‘(3) ORDER TO COMPLY.— 
+7
+‘‘(A) IN
+GENERAL.—Not later than 30 
+8
+days after a petition is filed under paragraph 
+9
+(1), the court shall issue an order requiring the 
+10
+person to comply with the directive or any part 
+11
+of the directive, as issued or as modified, if the 
+12
+court finds that the directive meets the require-
+13
+ments of this section and is otherwise lawful. 
+14
+‘‘(B) WRITTEN STATEMENT.—Upon mak-
+15
+ing a determination under subparagraph (A) or 
+16
+promptly thereafter, the court shall provide a 
+17
+written statement for the record of the reasons 
+18
+for the determination. 
+19
+‘‘(4) PENALTY.—Failure to obey an order 
+20
+issued under paragraph (3) shall constitute con-
+21
+tempt of court. 
+22
+‘‘(5) PROCESS.—Any process under this sub-
+23
+section may be served in any judicial district in 
+24
+which the recipient may be found or does business. 
+25
+04:30 Aug 22, 2020
+H7891
+21 
+•HR 7891 IH
+‘‘(6) APPEALS.— 
+1
+‘‘(A) RIGHT
+OF
+APPEAL.—The Attorney 
+2
+General or a person who receives a directive 
+3
+under subsection (b) may appeal a final order 
+4
+of the district court under this subsection not 
+5
+later than 30 days after entry of the order. 
+6
+‘‘(B) PROCEDURE.—The United States 
+7
+Court of Appeals for the District of Columbia 
+8
+Circuit shall expedite the consideration of any 
+9
+appeal brought under this paragraph, and the 
+10
+expense or effort required to comply with a di-
+11
+rective issued under subsection (b) shall not be 
+12
+a basis for staying a final order of the district 
+13
+court order under this subsection pending ap-
+14
+peal. 
+15
+‘‘(e) COST REIMBURSEMENT.— 
+16
+‘‘(1) IN GENERAL.—Subject to paragraph (3), a 
+17
+person who receives a directive under subsection (b) 
+18
+shall be compensated therefor by the United States 
+19
+for reasonable expenses directly incurred in com-
+20
+plying with the directive. 
+21
+‘‘(2) AMOUNT.—The amount of compensation 
+22
+provided under paragraph (1)— 
+23
+04:30 Aug 22, 2020
+H7891
+22 
+•HR 7891 IH
+‘‘(A) shall be mutually agreed upon by the 
+1
+Attorney General and the person complying 
+2
+with the directive; or 
+3
+‘‘(B) in the absence of an agreement under 
+4
+subparagraph (A), shall be determined by the 
+5
+United States District Court for the District of 
+6
+Columbia.’’. 
+7
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+8
+The table of sections for chapter 223 of title 18, United 
+9
+States Code, is amended by adding at the end the fol-
+10
+lowing: 
+11
+‘‘3513. Assistance capability directives.’’. 
+TITLE IV—PEN REGISTER AND 
+12
+TRAP AND TRACE AMENDMENTS 
+13
+SEC. 401. CAPABILITY REQUIREMENTS. 
+14
+(a) IN GENERAL.—Chapter 206 of title 18, United 
+15
+States Code, is amended by adding at the end the fol-
+16
+lowing: 
+17
+‘‘§ 3128. Capability requirements 
+18
+‘‘(a) PEN REGISTER CAPABILITY.— 
+19
+‘‘(1) IN GENERAL.—A wire or electronic com-
+20
+munication service provider that had more than 
+21
+1,000,000 monthly active users in the United States 
+22
+in January 2016 or any month thereafter shall en-
+23
+sure that the provider has the ability to provide the 
+24
+information described in paragraphs (3) and (7) of 
+25
+04:30 Aug 22, 2020
+H7891
+23 
+•HR 7891 IH
+section 3127 directly to law enforcement agencies in 
+1
+an intelligible format unobtrusively and in a manner 
+2
+designed to uphold the nondisclosure obligations 
+3
+under section 3123(d)(2). 
+4
+‘‘(2) 
+CALCULATION
+OF
+MONTHLY
+ACTIVE 
+5
+USERS.—For purposes of paragraph (1), the number 
+6
+of monthly active users of a wire or electronic com-
+7
+munication service shall be calculated by taking the 
+8
+average of the number of individual users or sub-
+9
+scribers of the service that are active per month in 
+10
+any calendar year. 
+11
+‘‘(b) TRAP AND TRACE CAPABILITY.— 
+12
+‘‘(1) IN GENERAL.—A provider of wire or elec-
+13
+tronic communication service that had more than 
+14
+1,000,000 monthly users in the United States in 
+15
+January 2016 or any month thereafter shall ensure 
+16
+that the provider has the ability to provide the infor-
+17
+mation described in paragraphs (4) and (7) of sec-
+18
+tion 3127 directly to law enforcement agencies in an 
+19
+intelligible format unobtrusively and in a manner de-
+20
+signed to uphold the nondisclosure obligations under 
+21
+section 3123(d)(2). 
+22
+‘‘(2) 
+CALCULATION
+OF
+MONTHLY
+ACTIVE 
+23
+USERS.—For purposes of paragraph (1), the number 
+24
+of monthly active users of a wire or electronic com-
+25
+04:30 Aug 22, 2020
+H7891
+24 
+•HR 7891 IH
+munication service shall be calculated by taking the 
+1
+average of the number of individual users or sub-
+2
+scribers of the service that are active per month in 
+3
+any calendar year. 
+4
+‘‘(c) COMPENSATION.— 
+5
+‘‘(1) IN GENERAL.—Subject to paragraph (2), a 
+6
+provider of wire or electronic communication service 
+7
+that provides the information described in paragraph 
+8
+(3), (4), or (7) of section 3127 directly to a law en-
+9
+forcement agency shall be compensated for reason-
+10
+able expenses directly incurred in providing the in-
+11
+formation. 
+12
+‘‘(2) LIMITATION.—Reasonable expenses under 
+13
+paragraph (1) may not exceed $150.’’. 
+14
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+15
+The table of sections for chapter 206 of title 18, United 
+16
+States Code, is amended by adding at the end the fol-
+17
+lowing: 
+18
+‘‘3128. Capability requirements.’’. 
+SEC. 402. DEFINING TECHNICAL ASSISTANCE. 
+19
+Section 3127 of title 18, United States Code, is 
+20
+amended— 
+21
+(1) in paragraph (5), by striking ‘‘and’’ at the 
+22
+end; 
+23
+(2) in paragraph (6), by striking the period at 
+24
+the end and inserting ‘‘; and’’; and 
+25
+04:30 Aug 22, 2020
+H7891
+25 
+•HR 7891 IH
+(3) by adding at the end the following: 
+1
+‘‘(7) the term ‘technical assistance’ includes— 
+2
+‘‘(A) isolating all dialing, routing, address-
+3
+ing, and signaling information authorized to be 
+4
+acquired; 
+5
+‘‘(B) decrypting, decoding, or otherwise 
+6
+providing in an intelligible format the dialing, 
+7
+routing, addressing, and signaling information 
+8
+authorized to be acquired, unless the inde-
+9
+pendent actions of an unaffiliated entity make 
+10
+it technically impossible to do so; and 
+11
+‘‘(C) delivering all dialing, routing, ad-
+12
+dressing, and signaling information authorized 
+13
+to be acquired securely, reliably, and concur-
+14
+rently with its transmission.’’. 
+15
+TITLE V—FISA AMENDMENTS 
+16
+SEC. 
+501. 
+ELECTRONIC 
+SURVEILLANCE 
+WITHIN 
+THE 
+17
+UNITED 
+STATES 
+FOR 
+FOREIGN 
+INTEL-
+18
+LIGENCE PURPOSES. 
+19
+Title I of the Foreign Intelligence Surveillance Act 
+20
+of 1978 (50 U.S.C. 1801 et seq.) is amended— 
+21
+(1) in section 101 (50 U.S.C. 1801), by adding 
+22
+at the end the following: 
+23
+‘‘(q) ‘Technical assistance’ includes— 
+24
+04:30 Aug 22, 2020
+H7891
+26 
+•HR 7891 IH
+‘‘(1) isolating all communications or informa-
+1
+tion authorized to be acquired; 
+2
+‘‘(2) decrypting, decoding, or otherwise pro-
+3
+viding in an intelligible format the communications 
+4
+or information authorized to be acquired, unless the 
+5
+independent actions of an unaffiliated entity make it 
+6
+technically impossible to do so; and 
+7
+‘‘(3) delivering all communications or informa-
+8
+tion authorized to be acquired securely, reliably, and 
+9
+concurrently with their transmission.’’; and 
+10
+(2) 
+in 
+section 
+105(c)(2)(B), 
+by 
+striking 
+11
+‘‘produce a minimum of interference with the serv-
+12
+ices that such carrier, landlord, custodian, or other 
+13
+person is providing that target of electronic surveil-
+14
+lance’’ and inserting ‘‘in a manner designed to mini-
+15
+mize the possibility of alerting the target whose com-
+16
+munications are to be intercepted’’. 
+17
+SEC. 502. PHYSICAL SEARCHES WITHIN THE UNITED 
+18
+STATES FOR FOREIGN INTELLIGENCE PUR-
+19
+20
+Title III of the Foreign Intelligence Surveillance Act 
+21
+of 1978 (50 U.S.C. 1821 et seq.) is amended— 
+22
+(1) in section 301 (50 U.S.C. 1821), by adding 
+23
+at the end the following: 
+24
+‘‘(6) ‘Assistance’ includes— 
+25
+04:30 Aug 22, 2020
+H7891
+27 
+•HR 7891 IH
+‘‘(A) isolating all information, material, or 
+1
+property to be seized, reproduced, or altered; 
+2
+‘‘(B) decrypting, decoding, or otherwise 
+3
+providing in an intelligible format the informa-
+4
+tion, material, or property to be seized, repro-
+5
+duced, or altered, unless the independent ac-
+6
+tions of an unaffiliated entity make it tech-
+7
+nically impossible to do so; and 
+8
+‘‘(C) providing technical support as nec-
+9
+essary to ensure effective execution of an order 
+10
+under this title.’’; and 
+11
+(2) 
+in 
+section 
+304(c)(2)(B) 
+(50 
+U.S.C. 
+12
+1824(c)(2)(B)), by striking ‘‘produce a minimum of 
+13
+interference with the services that such landlord, 
+14
+custodian, or other person is providing the target of 
+15
+the physical search’’ and inserting ‘‘in a manner de-
+16
+signed to minimize the possibility of alerting the tar-
+17
+get of the physical search’’. 
+18
+SEC. 503. PEN REGISTER; TRAP AND TRACE. 
+19
+Section 401 of the Foreign Intelligence Surveillance 
+20
+Act of 1978 (50 U.S.C. 1841) is amended by adding at 
+21
+the end the following: 
+22
+‘‘(5) The term ‘technical assistance’ includes— 
+23
+04:30 Aug 22, 2020
+H7891
+28 
+•HR 7891 IH
+‘‘(A) isolating all dialing, routing, address-
+1
+ing, and signaling information authorized to be 
+2
+acquired; 
+3
+‘‘(B) decrypting, decoding, or otherwise 
+4
+providing in an intelligible format the dialing, 
+5
+routing, addressing, and signaling information 
+6
+authorized to be acquired, unless the inde-
+7
+pendent actions of an unaffiliated entity make 
+8
+it technically impossible to do so; and 
+9
+‘‘(C) delivering all dialing, routing, ad-
+10
+dressing, and signaling information authorized 
+11
+to be acquired securely, reliably, and concur-
+12
+rently with its transmission.’’. 
+13
+SEC. 504. BUSINESS RECORDS. 
+14
+Section 501(k) of the Foreign Intelligence Surveil-
+15
+lance Act of 1978 (50 U.S.C. 1861(k)) is amended by add-
+16
+ing at the end the following: 
+17
+‘‘(5) TECHNICAL ASSISTANCE.—The term ‘tech-
+18
+nical assistance’ includes— 
+19
+‘‘(A) isolating the tangible things (includ-
+20
+ing call detail records) required to be produced; 
+21
+‘‘(B) decrypting, decoding, or otherwise 
+22
+providing in an intelligible format the tangible 
+23
+things required to be produced, unless the inde-
+24
+04:30 Aug 22, 2020
+H7891
+29 
+•HR 7891 IH
+pendent actions of an unaffiliated entity make 
+1
+it technically impossible to do so; and 
+2
+‘‘(C) delivering all tangible things required 
+3
+to be produced securely, reliably, and no later 
+4
+than the date on which an order under this title 
+5
+requires their production.’’. 
+6
+SEC. 505. CERTAIN ACQUISITIONS INSIDE THE UNITED 
+7
+STATES TARGETING UNITED STATES PER-
+8
+SONS OUTSIDE THE UNITED STATES. 
+9
+Section 703 of the Foreign Intelligence Surveillance 
+10
+Act of 1978 (50 U.S.C. 1881b) is amended by adding at 
+11
+the end the following: 
+12
+‘‘(h) ASSISTANCE DEFINED.— For purposes of this 
+13
+section, the term ‘assistance’ includes— 
+14
+‘‘(1) isolating all communications or informa-
+15
+tion authorized to be acquired; 
+16
+‘‘(2) decrypting, decoding, or otherwise pro-
+17
+viding in an intelligible format the communications 
+18
+or information authorized to be acquired, unless the 
+19
+independent actions of an unaffiliated entity make it 
+20
+technically impossible to do so; 
+21
+‘‘(3) delivering the communications or informa-
+22
+tion authorized to be acquired securely, reliably, and 
+23
+concurrently with their transmission; and 
+24
+04:30 Aug 22, 2020
+H7891
+30 
+•HR 7891 IH
+‘‘(4) providing technical support as necessary to 
+1
+ensure effective execution of an order under this sec-
+2
+tion.’’. 
+3
+TITLE VI—PRIZE COMPETITION 
+4
+SEC. 601. FINDINGS. 
+5
+Congress finds the following: 
+6
+(1) The rapidly growing use of warrant-proof 
+7
+encryption in everyday devices, platforms, and sys-
+8
+tems allows illegal actors engaged in dangerous 
+9
+criminal activity—including child sexual abuse, ter-
+10
+rorism, and international narcotics trafficking—to 
+11
+use encryption to shield their illicit activities from 
+12
+authorities. 
+13
+(2) Because of warrant-proof encryption, the 
+14
+government often cannot obtain the electronic evi-
+15
+dence and intelligence necessary to investigate and 
+16
+prosecute threats to public safety and national secu-
+17
+rity, even with a warrant or court order. This pro-
+18
+vides a ‘‘lawless space’’ that criminals, terrorists, 
+19
+and other bad actors can exploit for their nefarious 
+20
+ends. 
+21
+(3) Many service providers, device manufactur-
+22
+ers, and application developers who use encryption 
+23
+fail to implement technology that would allow the 
+24
+government to obtain electronic evidence necessary 
+25
+04:30 Aug 22, 2020
+H7891
+31 
+•HR 7891 IH
+to investigate and prosecute threats to public safety 
+1
+and national security. 
+2
+(4) The Fourth Amendment to the Constitution 
+3
+of the United States strikes a balance between the 
+4
+individual citizen’s reasonable expectation of privacy 
+5
+on one hand, and on the other, the legitimate need 
+6
+for the government to gain access to the most inti-
+7
+mate spaces in citizens’ lives in order to protect the 
+8
+public from criminal actors. 
+9
+(5) The Framers of the Constitution provided 
+10
+specific barriers to government intrusion into the in-
+11
+dividual’s private, intimate space—namely, that the 
+12
+government must show by probable cause that evi-
+13
+dence of a crime exists in that intimate space, and 
+14
+must have a neutral magistrate, detached from the 
+15
+law enforcement interest, approve law enforcement’s 
+16
+request and issue a warrant. 
+17
+(6) Once the government satisfies the burden of 
+18
+showing probable cause to a neutral magistrate, the 
+19
+government is entitled to search and seize evidence 
+20
+of a crime in an individual’s private space. 
+21
+(7) That careful balancing of interests estab-
+22
+lished by the Framers has continued to be calibrated 
+23
+throughout the history of the United States as dif-
+24
+ferent challenges have arisen, including, most nota-
+25
+04:30 Aug 22, 2020
+H7891
+32 
+•HR 7891 IH
+bly, technological advances in daily life. For exam-
+1
+ple, Congress has imposed additional statutory re-
+2
+quirements that the government must meet and that 
+3
+a judge must find satisfied before a court can au-
+4
+thorize interception of communications. But the in-
+5
+dividual’s right to privacy has never been absolute. 
+6
+(8) If not addressed, criminal anonymity actu-
+7
+ated by end-to-end encryption technology will con-
+8
+tinue to pose a serious risk to the public. 
+9
+(9) Nevertheless, advances in technology con-
+10
+tinue without due consideration of issues of lawful 
+11
+access. 
+12
+(10) Moreover, very little, if any, resources 
+13
+from the private sector or from educational and re-
+14
+search institutions are devoted to finding techno-
+15
+logical solutions to providing lawful access within 
+16
+different encrypted technological platforms. 
+17
+(11) More resources should be devoted to 
+18
+incentivizing the best minds in the United States to 
+19
+research the issues described in this section and de-
+20
+cide how to best provide the most secure products 
+21
+and services to customers while also providing law 
+22
+enforcement access to information the government 
+23
+needs to investigate criminals seeking to do the pub-
+24
+lic harm and to protect national security. 
+25
+04:30 Aug 22, 2020
+H7891
+33 
+•HR 7891 IH
+SEC. 602. DEFINITIONS. 
+1
+In this title: 
+2
+(1) APPLICANT.—The term ‘‘applicant’’ means 
+3
+an individual, group of individuals, organization, 
+4
+nonprofit, or university that applies to participate in 
+5
+the prize competition under this title. 
+6
+(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+7
+TEES.—The term ‘‘appropriate congressional com-
+8
+mittees’’ means the Committee on the Judiciary of 
+9
+the Senate and the Committee on the Judiciary of 
+10
+the House of Representatives. 
+11
+(3) ATTORNEY GENERAL.—Except as otherwise 
+12
+provided, the term ‘‘Attorney General’’ means the 
+13
+Attorney General, acting through the Director of the 
+14
+National Institute of Justice. 
+15
+(4) PRIZE.—The term ‘‘prize’’ means a cash 
+16
+prize. 
+17
+(5) PRIZE
+COMPETITION.—The term ‘‘prize 
+18
+competition’’ means the prize competition estab-
+19
+lished under section 603. 
+20
+SEC. 603. PRIZE COMPETITION. 
+21
+(a) ESTABLISHMENT.—Not later than 180 days after 
+22
+the date of enactment of this Act, the Attorney General 
+23
+shall, subject to the availability of funds appropriated 
+24
+under this title, establish in accordance with section 24 
+25
+04:30 Aug 22, 2020
+H7891
+34 
+•HR 7891 IH
+of the Stevenson-Wydler Technology Innovation Act of 
+1
+1980 (15 U.S.C. 3719) a prize competition— 
+2
+(1) to incentivize and encourage research and 
+3
+innovation into solutions providing law enforcement 
+4
+access to encrypted data pursuant to legal process; 
+5
+and 
+6
+(2) to award one or more prizes, not later than 
+7
+1 year after the establishment of the prize competi-
+8
+tion, for technological solutions that provide law en-
+9
+forcement access to encrypted data pursuant to legal 
+10
+process. 
+11
+(b) REQUIREMENTS.—Technological solutions de-
+12
+scribed in subsection (a)(2) shall include— 
+13
+(1) providing maximum security for the device, 
+14
+platform, or system, consistent with the lawful ac-
+15
+cess solution, to reduce the opportunity for unlawful 
+16
+hacking; and 
+17
+(2) reducing or eliminating broad surveillance 
+18
+capabilities not targeted at specified facilities or in-
+19
+dividuals pursuant to a warrant or order within the 
+20
+lawful access solution. 
+21
+(c) ELIGIBILITY.— 
+22
+(1) IN GENERAL.—To be eligible to win a prize 
+23
+under the prize competition, an applicant— 
+24
+(A) shall have complied with— 
+25
+04:30 Aug 22, 2020
+H7891
+35 
+•HR 7891 IH
+(i) the requirements of the competi-
+1
+tion as described in the announcement for 
+2
+the competition; and 
+3
+(ii) subsections (g), (h), and (i) of sec-
+4
+tion 24 of the Stevenson-Wydler Tech-
+5
+nology Innovation Act of 1980 (15 U.S.C. 
+6
+3719) (relating to eligibility); 
+7
+(B) in the case of a private entity, shall be 
+8
+incorporated in the United States and maintain 
+9
+a primary place of business in the United 
+10
+States; and 
+11
+(C) in the case of an individual, whether 
+12
+participating singly or in a group, shall be a cit-
+13
+izen of, or an alien lawfully admitted for perma-
+14
+nent residence in, the United States. 
+15
+(2) EXCLUSIONS.—The following entities and 
+16
+individuals shall not be eligible to win a prize under 
+17
+the prize competition: 
+18
+(A) A Federal entity. 
+19
+(B) A Federal employee acting within the 
+20
+scope of employment. 
+21
+(d) PRIORITIZATION.—In selecting the winner or win-
+22
+ners of the prize competition, the Attorney General shall 
+23
+give priority to projects that— 
+24
+04:30 Aug 22, 2020
+H7891
+36 
+•HR 7891 IH
+(1) incorporate a robust proof of concept model 
+1
+demonstrating the feasibility of the proposed tech-
+2
+nology achieving the intended goals of the competi-
+3
+tion as described in paragraph (a); and 
+4
+(2) include a strategy, submitted with the appli-
+5
+cation or proposal, to move the new technology, 
+6
+hardware, or other processes to market-scale deploy-
+7
+ment. 
+8
+SEC. 604. IMPLEMENTATION. 
+9
+(a) DUTIES.—In implementing the prize competition, 
+10
+the Attorney General shall— 
+11
+(1) advertise the prize competition; 
+12
+(2) solicit participants; 
+13
+(3) use amounts made available under section 
+14
+607(a)— 
+15
+(A) to administer the prize competition; 
+16
+and 
+17
+(B) to award one or more prizes; 
+18
+(4) develop criteria for the selection of winners; 
+19
+(5) select judges under section 605 based on 
+20
+criteria developed by the Attorney General; 
+21
+(6) announce, and award a prize to, one or 
+22
+more winners; 
+23
+04:30 Aug 22, 2020
+H7891
+37 
+•HR 7891 IH
+(7) protect against unauthorized use or disclo-
+1
+sure of any trade secret or confidential business in-
+2
+formation of a participant; and 
+3
+(8) promulgate any rules and regulations nec-
+4
+essary to carry out this title, including rules and 
+5
+regulations for submitting and reviewing applica-
+6
+tions. 
+7
+(b) AWARD.— 
+8
+(1) RECOMMENDATION BY JUDGES.—After con-
+9
+ducting a thorough review of each of the applicant 
+10
+submissions for the prize competition, the judges ap-
+11
+pointed under section 605 shall— 
+12
+(A) submit in writing to the Attorney Gen-
+13
+eral a recommendation for an award to one or 
+14
+more winners of the prize competition; or 
+15
+(B) if the judges determine that none of 
+16
+the applicant submissions merit an award, sub-
+17
+mit in writing to the Attorney General a rec-
+18
+ommendation that no applicant be awarded a 
+19
+prize, including a detailed explanation stating 
+20
+the reasons why no applicant merits an award. 
+21
+(2) SELECTION BY ATTORNEY GENERAL.— 
+22
+(A) IN GENERAL.—Not later than 1 year 
+23
+after the date on which the Attorney General 
+24
+establishes the prize competition, and after re-
+25
+04:30 Aug 22, 2020
+H7891
+38 
+•HR 7891 IH
+viewing the recommendation submitted under 
+1
+paragraph (1), the Attorney General shall select 
+2
+one or more winners of the prize competition 
+3
+and award a prize to each winner. 
+4
+(B) RECOMMENDATION OF NO PRIZE.—If 
+5
+the judges recommend under paragraph (1)(B) 
+6
+that no applicant be awarded a prize, the Attor-
+7
+ney General may— 
+8
+(i) select one or more award winners, 
+9
+notwithstanding the recommendation of 
+10
+the judges, and award a prize to each win-
+11
+ner; or 
+12
+(ii) award no prize to any applicant. 
+13
+(C) NOTIFICATION OF NO PRIZE.—If the 
+14
+Attorney General determines not to award a 
+15
+prize to any applicant under subparagraph 
+16
+(B)(ii), the Attorney General shall notify the 
+17
+appropriate congressional committees not later 
+18
+than 90 days after that determination. 
+19
+(c) ASSISTANCE FROM OTHER PARTIES.— 
+20
+(1) ADMINISTRATION BY THIRD-PARTY ORGANI-
+21
+ZATION.— 
+22
+(A) IN GENERAL.—The Attorney General 
+23
+may enter into an agreement, including a grant, 
+24
+contract, or cooperative agreement, with a non- 
+25
+04:30 Aug 22, 2020
+H7891
+39 
+•HR 7891 IH
+profit or for-profit third-party organization, 
+1
+under which the third-party organization ad-
+2
+ministers the prize competition. 
+3
+(B) CONSULTATION; DIVISION OF AUTHOR-
+4
+ITY.—If the Attorney General enters into a con-
+5
+tract with a third-party organization under sub-
+6
+paragraph (A), the third-party organization 
+7
+shall consult with the Attorney General on, and 
+8
+the Attorney General shall have the authority to 
+9
+make the final decision with respect to— 
+10
+(i) the development of criteria for the 
+11
+selection of prize competition winners 
+12
+under subsection (a)(4); and 
+13
+(ii) the selection of judges under sec-
+14
+tion 605. 
+15
+(2) NON-FEDERAL FUNDS.—The Attorney Gen-
+16
+eral may solicit and receive non-Federal funds to ad-
+17
+minister the prize competition and award a prize. 
+18
+SEC. 605. JUDGES. 
+19
+(a) APPOINTMENT.— The Attorney General shall ap-
+20
+point not fewer than 3 judges who shall, except as pro-
+21
+vided in section 604(b)(1)(B), recommend one or more 
+22
+winners of the prize competition. 
+23
+(b) QUALIFICATIONS.—Each judge appointed under 
+24
+subsection (a) shall— 
+25
+04:30 Aug 22, 2020
+H7891
+40 
+•HR 7891 IH
+(1) have subject matter expertise in cryptology 
+1
+and encryption-related technology, including relevant 
+2
+devices, platforms, and systems; 
+3
+(2) have an understanding of— 
+4
+(A) protections afforded to United States 
+5
+citizens by the Constitution of the United 
+6
+States against unreasonable searches and sei-
+7
+zures by the government; and 
+8
+(B) the legal authorities that permit the 
+9
+government to search and seize the personal ef-
+10
+fects of United States citizens, particularly with 
+11
+respect to— 
+12
+(i) the search and seizure of individ-
+13
+uals’ data from technological devices, plat-
+14
+forms, or systems; and 
+15
+(ii) the interception of communica-
+16
+tions over technological devices, platforms, 
+17
+or systems; and 
+18
+(3) have experience with law enforcement capa-
+19
+bilities for lawful access to data and limitations on 
+20
+lawful access to data across various technological de-
+21
+vices, platforms, and systems that use encrypted 
+22
+technology. 
+23
+04:30 Aug 22, 2020
+H7891
+41 
+•HR 7891 IH
+SEC. 606. REPORT TO CONGRESS. 
+1
+Not later than 90 days after the date on which the 
+2
+Attorney General awards one or more prizes under section 
+3
+604(b)(2), the Attorney General shall submit to the appro-
+4
+priate congressional committees a report on the prize com-
+5
+petition that includes— 
+6
+(1) a statement by the Attorney General that 
+7
+describes the activities carried out by the Attorney 
+8
+General with respect to the duties described in sec-
+9
+tion 604(a); 
+10
+(2) if the Attorney General has entered into an 
+11
+agreement with a third-party organization under sec-
+12
+tion 604(c)(1), a statement by the Attorney General 
+13
+that describes the activities carried out by the third- 
+14
+party organization with respect to the duties de-
+15
+scribed in section 604(c); and 
+16
+(3) a statement by the Attorney General ex-
+17
+plaining the basis on which each winner of the prize 
+18
+competition was selected. 
+19
+SEC. 607. AUTHORIZATION OF APPROPRIATIONS. 
+20
+(a) AUTHORIZATION.— 
+21
+(1) IN GENERAL.—There are authorized to be 
+22
+appropriated such sums as may be necessary, not to 
+23
+exceed $50,000,000, to carry out this title. 
+24
+(2) MINIMIZATION
+OF
+ADMINISTRATIVE
+EX-
+25
+PENSES.—The Attorney General shall make all rea-
+26
+04:30 Aug 22, 2020
+H7891
+42 
+•HR 7891 IH
+sonable efforts to control the administrative ex-
+1
+penses of the prize competition so that the majority 
+2
+of the amounts made available under paragraph (1) 
+3
+are used for the prize or prizes awarded to the win-
+4
+ner or winners of the prize competition under section 
+5
+603. 
+6
+(b) APPROVAL OF CERTAIN AWARDS.—The value of 
+7
+a prize awarded to a winner of the prize competition under 
+8
+section 603 may not exceed $1,000,000 without the ap-
+9
+proval of the Attorney General or the Director of the Na-
+10
+tional Institute of Justice. 
+11
+(c) REIMBURSEMENT OF EXPENSES.—A judge ap-
+12
+pointed under section 605 shall serve without pay, but 
+13
+may be reimbursed for actual and necessary traveling and 
+14
+subsistence expenses. 
+15
+SEC. 608. TERMINATION OF AUTHORITY. 
+16
+The prize competition and all authority provided 
+17
+under this title shall terminate on December 31, 2022. 
+18
+TITLE VII—LAWFUL ACCESS 
+19
+TRAINING 
+20
+SEC. 701. LAWFUL ACCESS TRAINING PROGRAM. 
+21
+(a) DEFINITIONS.—In this section: 
+22
+(1) COOPERATIVE AGREEMENT.—The term ‘‘co-
+23
+operative agreement’’ means a legal instrument of fi-
+24
+nancial assistance between a Federal awarding agen-
+25
+04:30 Aug 22, 2020
+H7891
+43 
+•HR 7891 IH
+cy or pass-through entity and a non-Federal entity, 
+1
+consistent with sections 6302 and 6305 of title 31, 
+2
+United States Code. 
+3
+(2) PROVIDER.—The term ‘‘provider’’ means— 
+4
+(A) a device manufacturer, an operating 
+5
+system provider, and a provider of remote com-
+6
+puting service, as those terms are defined in 
+7
+section 3119 of title 18, United States Code, as 
+8
+added by title I of this Act; and 
+9
+(B) a provider of electronic communication 
+10
+service, as defined in section 2510 of title 18, 
+11
+United States Code. 
+12
+(3) TRAINING PROGRAM.—The term ‘‘Training 
+13
+Program’’ means the lawful access training and as-
+14
+sistance program established under subsection (b). 
+15
+(b) ESTABLISHMENT.—The Attorney General shall 
+16
+establish a lawful access training and real-time assistance 
+17
+program that draws upon the resources of the National 
+18
+Domestic Communications Center (commonly known as 
+19
+the ‘‘NDCAC’’) and other relevant components of the De-
+20
+partment of Justice as appropriate. 
+21
+(c) ACTIVITIES.— 
+22
+(1) TRAINING.— 
+23
+(A) IN GENERAL.—The primary purpose of 
+24
+the Training Program shall be to provide train-
+25
+04:30 Aug 22, 2020
+H7891
+44 
+•HR 7891 IH
+ing and assistance for law enforcement per-
+1
+sonnel, with a particular emphasis on State and 
+2
+local personnel, on relevant technology and 
+3
+communications platforms, including how to 
+4
+submit appropriately tailored applications for 
+5
+digital evidence, consistent with existing legal 
+6
+requirements and protections for privacy and 
+7
+civil liberties. 
+8
+(B) CONSULTATION.—The Attorney Gen-
+9
+eral may consult with providers regarding the 
+10
+training and assistance under subparagraph 
+11
+(A). 
+12
+(C) CONTENTS.—Training and assistance 
+13
+under the Training Program shall include— 
+14
+(i) designing and providing training to 
+15
+distribute knowledge and expertise, includ-
+16
+ing— 
+17
+(I) consulting with the most 
+18
+qualified experts in law enforcement 
+19
+and the technology industry to assist 
+20
+in the development of all Training 
+21
+Program materials; 
+22
+(II) identifying current effective 
+23
+law enforcement training programs 
+24
+and tools; 
+25
+04:30 Aug 22, 2020
+H7891
+45 
+•HR 7891 IH
+(III) identifying gaps in current 
+1
+law enforcement training programs 
+2
+and tools; 
+3
+(IV) producing and maintaining 
+4
+training materials and curricula that 
+5
+will be used in classroom training ses-
+6
+sions as well as for distribution to law 
+7
+enforcement agencies for reference; 
+8
+(V) in coordination with pro-
+9
+viders, delivering information and 
+10
+guidance on accessing digital evidence 
+11
+from specific providers to improve 
+12
+outcomes with regard to particular 
+13
+technology devices, platforms, or sys-
+14
+tems; and 
+15
+(VI) establishing and promoting 
+16
+the use of a consistent set of clear 
+17
+standards for securing and minimizing 
+18
+data collected by law enforcement; 
+19
+(ii) serving as a centralized repository 
+20
+of knowledge and expertise about provider 
+21
+systems and procedures for submitting re-
+22
+quests for data; 
+23
+(iii) coordinating with Federal, State, 
+24
+and international training programs, as 
+25
+04:30 Aug 22, 2020
+H7891
+46 
+•HR 7891 IH
+well as any private-sector and nonprofit 
+1
+initiatives; 
+2
+(iv) building and maintaining analytic 
+3
+and forensic tools to assist law enforce-
+4
+ment agencies in interpreting data that has 
+5
+been obtained from service providers and 
+6
+devices; 
+7
+(v) hiring and employing technical 
+8
+specialists that can help develop and main-
+9
+tain analytic and forensic tools; 
+10
+(vi) conducting relevant research and 
+11
+analysis to identify the greatest challenges 
+12
+with respect to the ability of law enforce-
+13
+ment agencies to access and analyze digital 
+14
+evidence; and 
+15
+(vii) providing a call center for law en-
+16
+forcement officials to seek advice and as-
+17
+sistance regarding accessing and analyzing 
+18
+digital evidence. 
+19
+(2) OTHER FUNCTIONS.—In carrying out the 
+20
+Training Program, the Attorney General shall de-
+21
+velop and coordinate additional functions to improve 
+22
+lawful access to digital evidence, including the fol-
+23
+lowing: 
+24
+04:30 Aug 22, 2020
+H7891
+47 
+•HR 7891 IH
+(A) IDENTIFYING
+AND
+PROVIDING
+RE-
+1
+SOURCES.—The Attorney General shall— 
+2
+(i) work with the Office of Justice 
+3
+Programs to identify grants and other 
+4
+grant-making bodies to support law en-
+5
+forcement access to digital evidence; and 
+6
+(ii) include programs in the training 
+7
+activities that inform law enforcement 
+8
+agencies of the grants described in clause 
+9
+(i) and other resources that support— 
+10
+(I) training programs; 
+11
+(II) development and distribution 
+12
+of analytical tools; and 
+13
+(III) maintenance of crime labs. 
+14
+(B) DEVELOPMENT OF AUTHENTICATION 
+15
+SYSTEM.—The Attorney General shall work 
+16
+with providers and law enforcement agencies 
+17
+from Federal, State, and local systems to iden-
+18
+tify options for, and develop, a system for 
+19
+verifying that an individual requesting data 
+20
+from a provider is a law enforcement official en-
+21
+titled to such access pursuant to lawful author-
+22
+ity. 
+23
+04:30 Aug 22, 2020
+H7891
+48 
+•HR 7891 IH
+(C) COORDINATING
+INTERNATIONAL
+EF-
+1
+FORTS.—The Attorney General shall coordinate 
+2
+with international partners to— 
+3
+(i) help set baseline standards and 
+4
+practices to lawfully access digital evi-
+5
+dence; 
+6
+(ii) promote standards to ensure the 
+7
+protection of privacy and civil liberties, and 
+8
+to the extent practical and helpful, har-
+9
+monize efforts across borders. 
+10
+(D) DEVELOPING
+MASTER
+DATABASE.— 
+11
+The Attorney General shall— 
+12
+(i) develop a master database to track 
+13
+investigations in the United States in 
+14
+which a law enforcement agency secured 
+15
+the legal authority to access digital data 
+16
+but otherwise cannot gain access to that 
+17
+data in an intelligible format due to 
+18
+encryption; and 
+19
+(ii) through the training activities de-
+20
+scribed in paragraph (1), encourage the ro-
+21
+bust participation from State and local au-
+22
+thorities that is necessary to populate the 
+23
+database described in clause (i) of this sub-
+24
+paragraph. 
+25
+04:30 Aug 22, 2020
+H7891
+49 
+•HR 7891 IH
+(E) OTHER
+ACTIVITIES.—The Attorney 
+1
+General, in carrying out the Training Program, 
+2
+shall provide any additional activities and serv-
+3
+ices determined appropriate by the Attorney 
+4
+General. 
+5
+(d) FUNDING.— 
+6
+(1) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+7
+There is authorized to be appropriated to the Attor-
+8
+ney General to carry out this section $50,000,000 
+9
+for fiscal year 2020, which shall remain available 
+10
+until expended. 
+11
+(2) LIMITATION.—Not more than 5 percent of 
+12
+the amount appropriated under paragraph (1) may 
+13
+be used to carry out activities under subsection 
+14
+(e)(2). 
+15
+(e) COOPERATIVE AGREEMENT.— 
+16
+(1) ASSISTANCE.—The Attorney General may 
+17
+enter into a cooperative agreement with providers or 
+18
+other persons to— 
+19
+(A) provide regular training to law enforce-
+20
+ment agencies through the Training Program 
+21
+on information that is potentially available from 
+22
+devices, operating systems, remote computing 
+23
+services, or electronic communication services, 
+24
+and on provider policies, in order to facilitate 
+25
+04:30 Aug 22, 2020
+H7891
+50 
+•HR 7891 IH
+tailored and specific applications from law en-
+1
+forcement agencies; 
+2
+(B) maintain up-to-date and comprehen-
+3
+sive guidance for law enforcement agencies re-
+4
+garding accessing information from providers; 
+5
+(C) develop or maintain online mechanisms 
+6
+to— 
+7
+(i) receive law enforcement requests 
+8
+for data; and 
+9
+(ii) provide dated, electronic confirma-
+10
+tion of receipt of a request described in 
+11
+clause (i); and 
+12
+(D) assist with other tasks as determined 
+13
+necessary by the NDCAC. 
+14
+(2) DONATIONS.— 
+15
+(A) IN GENERAL.—The NDCAC may so-
+16
+licit and accept donations for the Training Pro-
+17
+gram from providers or other persons to be 
+18
+used to carry out this section. 
+19
+(B) PRIVATE
+FUNDING
+REQUIREMENT.— 
+20
+The NDCAC may not carry out the Training 
+21
+Program during a fiscal year, including fiscal 
+22
+year 2020, unless and until the NDCAC has re-
+23
+ceived funding for that fiscal year under sub-
+24
+paragraph (A) in an amount equal to the 
+25
+04:30 Aug 22, 2020
+H7891
+51 
+•HR 7891 IH
+amount authorized to be appropriated for fiscal 
+1
+year 2020 under subsection (d)(1). 
+2
+(f) REPORT.— 
+3
+(1) IN GENERAL.—Not later than 1 year after 
+4
+the effective date in section 801 of this Act, and 
+5
+once thereafter not later than 2 years after that ef-
+6
+fective date, the NDCAC shall submit to the Com-
+7
+mittee on the Judiciary of the Senate and the Com-
+8
+mittee on the Judiciary of the House of Representa-
+9
+tives a report on the Training Program. 
+10
+(2) CONTENTS.—The report submitted under 
+11
+paragraph (1) shall include— 
+12
+(A) ongoing efforts to identify and respond 
+13
+to gaps in training and distribution of technical 
+14
+tools; 
+15
+(B) the state of cooperation with providers; 
+16
+(C) novel uses of legal authorities; 
+17
+(D) any new policies and best practices 
+18
+being seriously considered or adopted; and 
+19
+(E) funding contributed by private individ-
+20
+uals, organizations, and entities. 
+21
+04:30 Aug 22, 2020
+H7891
+52 
+•HR 7891 IH
+TITLE VIII—EFFECTIVE DATE 
+1
+SEC. 801. EFFECTIVE DATE. 
+2
+Titles I through V of this Act, and the amendments 
+3
+made by those titles, shall take effect 1 year after the date 
+4
+of enactment of this Act. 
+5
+Æ 
+04:30 Aug 22, 2020
+H7891

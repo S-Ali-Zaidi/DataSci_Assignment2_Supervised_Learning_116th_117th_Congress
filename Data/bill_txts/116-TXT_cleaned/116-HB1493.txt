@@ -1,0 +1,1073 @@
+A BILL 
+To address state-sponsored cyber activities against the 
+United States, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cyber Deterrence and 
+4
+Response Act of 2019’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+20:21 Mar 20, 2019
+H1493
+2 
+•HR 1493 IH
+(1) On February 13, 2018, the Director of Na-
+1
+tional Intelligence stated in his testimony before the 
+2
+Senate Select Committee on Intelligence that ‘‘Rus-
+3
+sia, China, Iran, and North Korea will pose the 
+4
+greatest cyber threats to the United States during 
+5
+the next year’’ through the use of cyber operations 
+6
+as low-cost tools of statecraft, and assessed that 
+7
+these states would ‘‘work to use cyber operations to 
+8
+achieve strategic objectives unless they face clear re-
+9
+percussions for their cyber operations’’. 
+10
+(2) The 2017 Worldwide Threat Assessment of 
+11
+the United States Intelligence Community stated 
+12
+that ‘‘The potential for surprise in the cyber realm 
+13
+will increase in the next year and beyond as billions 
+14
+more digital devices are connected—with relatively 
+15
+little built-in security—and both nation states and 
+16
+malign actors become more emboldened and better 
+17
+equipped in the use of increasingly widespread cyber 
+18
+toolkits. The risk is growing that some adversaries 
+19
+will conduct cyber attacks—such as data deletion or 
+20
+localized and temporary disruptions of critical infra-
+21
+structure—against the United States in a crisis 
+22
+short of war.’’. 
+23
+(3) On March 29, 2017, President Donald J. 
+24
+Trump deemed it necessary to continue the national 
+25
+20:21 Mar 20, 2019
+H1493
+3 
+•HR 1493 IH
+emergency declared in Executive Order No. 13694 
+1
+as ‘‘Significant malicious cyber-enabled activities 
+2
+originating from, or directed by persons located, in 
+3
+whole or in substantial part, outside the United 
+4
+States, continue to pose an unusual and extraor-
+5
+dinary threat to the national security, foreign policy, 
+6
+and economy of the United States.’’. 
+7
+(4) On January 5, 2017, former Director of 
+8
+National Intelligence, James Clapper, former Under-
+9
+secretary of Defense for Intelligence, Marcel Lettre, 
+10
+and the Commander of the United States Cyber 
+11
+Command, Admiral Michael Rogers, submitted joint 
+12
+testimony to the Committee on Armed Services of 
+13
+the Senate that stated ‘‘As of late 2016 more than 
+14
+30 nations are developing offensive cyber attack ca-
+15
+pabilities’’ and that ‘‘Protecting critical infrastruc-
+16
+ture, such as crucial energy, financial, manufac-
+17
+turing, transportation, communication, and health 
+18
+systems, will become an increasingly complex na-
+19
+tional security challenge.’’. 
+20
+(5) There is significant evidence that hackers 
+21
+affiliated with foreign governments have conducted 
+22
+cyber operations targeting companies and critical in-
+23
+frastructure sectors in the United States as the De-
+24
+20:21 Mar 20, 2019
+H1493
+4 
+•HR 1493 IH
+partment of Justice and the Department of the 
+1
+Treasury have announced that— 
+2
+(A) on March 15, 2018, five Russian enti-
+3
+ties and 19 Russian individuals were designated 
+4
+under the Countering America’s Adversaries 
+5
+Through Sanctions Act, as well as pursuant to 
+6
+Executive Order No. 13694, for interference in 
+7
+the 2016 United States elections and other ma-
+8
+licious cyber-enabled activities; 
+9
+(B) on March 24, 2016, seven Iranians 
+10
+working for Iran’s Revolutionary Guard Corps- 
+11
+affiliated entities were indicted for conducting 
+12
+distributed denial of service attacks against the 
+13
+financial sector in the United States from 2012 
+14
+to 2013; and 
+15
+(C) on May 19, 2014, five Chinese military 
+16
+hackers were charged for hacking United States 
+17
+companies in the nuclear power, metals, and 
+18
+solar products industries, and engaging in eco-
+19
+nomic espionage. 
+20
+(6) In May 2017, North Korea released 
+21
+‘‘WannaCry’’ pseudo-ransomware, which posed a sig-
+22
+nificant risk to the economy, national security, and 
+23
+the citizens of the United States and the world, as 
+24
+it resulted in the infection of over 300,000 computer 
+25
+20:21 Mar 20, 2019
+H1493
+5 
+•HR 1493 IH
+systems in more than 150 countries, including in the 
+1
+healthcare sector of the United Kingdom, dem-
+2
+onstrating the global reach and cost of cyber-enabled 
+3
+malicious activity. 
+4
+(7) In June 2017, Russia carried out the most 
+5
+destructive cyber-enabled operation in history, re-
+6
+leasing the NotPetya malware that caused billions of 
+7
+dollars’ worth of damage within Ukraine and across 
+8
+Europe, Asia, and the Americas. 
+9
+(8) In May 2018, the Department of State, 
+10
+pursuant to section 3(b) of Executive Order No. 
+11
+13800, prepared recommendations to the President 
+12
+on Deterring Adversaries and Better Protecting the 
+13
+American People From Cyber Threats, which stated 
+14
+‘‘With respect to activities below the threshold of the 
+15
+use of force, the United States should, working with 
+16
+likeminded partners when possible, adopt an ap-
+17
+proach of imposing swift, costly, and transparent 
+18
+consequences on foreign governments responsible for 
+19
+significant malicious cyber activities aimed at harm-
+20
+ing U.S. national interests.’’. 
+21
+SEC. 3. ACTIONS TO ADDRESS STATE-SPONSORED CYBER 
+22
+ACTIVITIES AGAINST THE UNITED STATES. 
+23
+(a) DESIGNATION AS A CRITICAL CYBER THREAT 
+24
+ACTOR.— 
+25
+20:21 Mar 20, 2019
+H1493
+6 
+•HR 1493 IH
+(1) 
+IN
+GENERAL.—The 
+President, 
+acting 
+1
+through the Secretary of State, and in coordination 
+2
+with other relevant Federal agency heads, shall des-
+3
+ignate as a critical cyber threat actor— 
+4
+(A) each foreign person and each agency 
+5
+or instrumentality of a foreign state that the 
+6
+President determines to be knowingly respon-
+7
+sible for or complicit in, or have engaged in, di-
+8
+rectly or indirectly, state-sponsored cyber activi-
+9
+ties that are reasonably likely to result in, or 
+10
+have contributed to, a significant threat to the 
+11
+national security, foreign policy, or economic 
+12
+health or financial stability of the United States 
+13
+and that have the purpose or effect of— 
+14
+(i) causing a significant disruption to 
+15
+the availability of a computer or network 
+16
+of computers; 
+17
+(ii) harming, or otherwise significantly 
+18
+compromising the provision of service by, a 
+19
+computer or network of computers that 
+20
+support one or more entities in a critical 
+21
+infrastructure sector; 
+22
+(iii) significantly compromising the 
+23
+provision of services by one or more enti-
+24
+ties in a critical infrastructure sector; 
+25
+20:21 Mar 20, 2019
+H1493
+7 
+•HR 1493 IH
+(iv) causing a significant misappro-
+1
+priation of funds or economic resources, 
+2
+trade secrets, personal identifiers, or finan-
+3
+cial information for commercial or competi-
+4
+tive advantage or private financial gain; 
+5
+(v) destabilizing the financial sector of 
+6
+the United States by tampering with, alter-
+7
+ing, or causing a misappropriation of data; 
+8
+or 
+9
+(vi) interfering with or undermining 
+10
+election processes or institutions by tam-
+11
+pering with, altering, or causing misappro-
+12
+priation of data; 
+13
+(B) each foreign person that the President 
+14
+has determined to have knowingly, significantly, 
+15
+and materially assisted, sponsored, or provided 
+16
+financial, material, or technological support for, 
+17
+or goods or services to or in support of, any ac-
+18
+tivities described in subparagraph (A) by a for-
+19
+eign person or agency or instrumentality of a 
+20
+foreign state designated as a critical cyber 
+21
+threat actor under subparagraph (A); and 
+22
+(C) each agency or instrumentality of a 
+23
+foreign state that the President has determined 
+24
+to have significantly and materially assisted, 
+25
+20:21 Mar 20, 2019
+H1493
+8 
+•HR 1493 IH
+sponsored, or provided financial, material, or 
+1
+technological support for, or goods or services 
+2
+to or in support of, any activities described in 
+3
+subparagraph (A) by a foreign person or agency 
+4
+or instrumentality of a foreign state designated 
+5
+as a critical cyber threat actor under subpara-
+6
+graph (A). 
+7
+(2) TRANSMISSION
+TO
+CONGRESS.—Not later 
+8
+than 7 days after designating a foreign person or 
+9
+agency or instrumentality of a foreign state as a 
+10
+critical cyber threat actor, the President shall trans-
+11
+mit to the appropriate congressional committees in 
+12
+classified or unclassified form a report identifying 
+13
+the designee. 
+14
+(b) NON-TRAVEL-RELATED SANCTIONS.— 
+15
+(1) IN GENERAL.—The President shall impose 
+16
+one or more of the applicable sanctions described in 
+17
+paragraph (2) with respect to each foreign person 
+18
+and each agency or instrumentality of a foreign 
+19
+state designated as a critical cyber threat actor 
+20
+under subsection (a). 
+21
+(2) SANCTIONS DESCRIBED.—The sanctions de-
+22
+scribed in this paragraph are the following: 
+23
+(A) The President may provide for the 
+24
+withdrawal, limitation, or suspension of non-hu-
+25
+20:21 Mar 20, 2019
+H1493
+9 
+•HR 1493 IH
+manitarian United States development assist-
+1
+ance under chapter 1 of part I of the Foreign 
+2
+Assistance Act of 1961. 
+3
+(B) The President may provide for the 
+4
+withdrawal, limitation, or suspension of United 
+5
+States security assistance under part II of the 
+6
+Foreign Assistance Act of 1961. 
+7
+(C) The President may direct the United 
+8
+States executive director to each international 
+9
+financial institution to use the voice and vote of 
+10
+the United States to oppose any loan from the 
+11
+international financial institution that would 
+12
+benefit the designated foreign person or the 
+13
+designated agency or instrumentality of a for-
+14
+eign state. 
+15
+(D) The President may direct the Overseas 
+16
+Private Investment Corporation, the United 
+17
+States International Development Finance Cor-
+18
+poration, or any other United States Govern-
+19
+ment agency not to approve the issuance of any 
+20
+(or a specified number of) guarantees, insur-
+21
+ance, extensions of credit, or participations in 
+22
+the extension of credit. 
+23
+(E) The President may, pursuant to such 
+24
+regulations or guidelines as the President may 
+25
+20:21 Mar 20, 2019
+H1493
+10 
+•HR 1493 IH
+prescribe, prohibit any United States person 
+1
+from investing in or purchasing significant 
+2
+amounts of equity or debt instruments of the 
+3
+designated foreign person. 
+4
+(F) The President may, pursuant to proce-
+5
+dures the President shall prescribe, which shall 
+6
+include the opportunity to appeal actions under 
+7
+this subparagraph, prohibit any United States 
+8
+agency or instrumentality from procuring, or 
+9
+entering into any contract for the procurement 
+10
+of, any goods, technology, or services, or classes 
+11
+of goods, technology, or services, from the des-
+12
+ignated foreign person or the designated agency 
+13
+or instrumentality of a foreign state. 
+14
+(G) The President may order the heads of 
+15
+the appropriate United States agencies to not 
+16
+issue any (or a specified number of) specific li-
+17
+censes, and to not grant any other specific au-
+18
+thority (or a specified number of authorities), to 
+19
+export any goods or technology to the des-
+20
+ignated foreign person or the designated agency 
+21
+or instrumentality of a foreign state under— 
+22
+(i) the Export Control Reform Act of 
+23
+2018; 
+24
+(ii) the Arms Export Control Act; 
+25
+20:21 Mar 20, 2019
+H1493
+11 
+•HR 1493 IH
+(iii) the Atomic Energy Act of 1954; 
+1
+or 
+2
+(iv) any other statute that requires 
+3
+the prior review and approval of the 
+4
+United States Government as a condition 
+5
+for the export or re-export of goods or 
+6
+services. 
+7
+(H)(i) The President may exercise all of 
+8
+the powers granted to the President under the 
+9
+International Emergency Economic Powers Act 
+10
+(50 U.S.C. 1701 et seq.) (except that the re-
+11
+quirements of section 202 of such Act (50 
+12
+U.S.C. 1701) shall not apply) to the extent nec-
+13
+essary to block and prohibit all transactions in 
+14
+property and interests in property of the des-
+15
+ignated foreign person if such property and in-
+16
+terests in property are in the United States, 
+17
+come within the United States, or are or come 
+18
+within the possession or control of a United 
+19
+States person. 
+20
+(ii) The penalties provided for in sub-
+21
+sections (b) and (c) of section 206 of the Inter-
+22
+national Emergency Economic Powers Act (50 
+23
+U.S.C. 1705) shall apply to a person that vio-
+24
+lates, attempts to violate, conspires to violate, 
+25
+20:21 Mar 20, 2019
+H1493
+12 
+•HR 1493 IH
+or causes a violation of regulations prescribed 
+1
+under clause (i) to the same extent that such 
+2
+penalties apply to a person that commits an un-
+3
+lawful act described in subsection (a) of such 
+4
+section 206. 
+5
+(I) The President may, pursuant to such 
+6
+regulations as the President may prescribe, pro-
+7
+hibit any transfers of credit or payments be-
+8
+tween one or more financial institutions or by, 
+9
+through, or to any financial institution, to the 
+10
+extent that such transfers or payments are sub-
+11
+ject to the jurisdiction of the United States and 
+12
+involve any interest of the designated foreign 
+13
+person. 
+14
+(c) TRAVEL-RELATED SANCTIONS.— 
+15
+(1) ALIENS INELIGIBLE FOR VISAS, ADMISSION, 
+16
+OR PAROLE.—An alien who is designated as a crit-
+17
+ical cyber threat actor under subsection (a) is— 
+18
+(A) inadmissible to the United States; 
+19
+(B) ineligible to receive a visa or other doc-
+20
+umentation to enter the United States; and 
+21
+(C) otherwise ineligible to be admitted or 
+22
+paroled into the United States or to receive any 
+23
+other benefit under the Immigration and Na-
+24
+tionality Act (8 U.S.C. 1101 et seq.). 
+25
+20:21 Mar 20, 2019
+H1493
+13 
+•HR 1493 IH
+(2) CURRENT
+VISAS
+REVOKED.—The issuing 
+1
+consular officer, the Secretary of State, or the Sec-
+2
+retary of Homeland Security (or a designee of either 
+3
+such Secretaries) shall revoke any visa or other 
+4
+entry documentation issued to the foreign person 
+5
+designated as a critical cyber threat actor under sub-
+6
+section (a) regardless of when issued. A revocation 
+7
+under this clause shall take effect immediately and 
+8
+shall automatically cancel any other valid visa or 
+9
+entry documentation that is in the possession of 
+10
+such foreign person. 
+11
+(d) ADDITIONAL SANCTIONS WITH RESPECT
+TO 
+12
+FOREIGN STATES.— 
+13
+(1) IN GENERAL.—The President may impose 
+14
+any of the sanctions described in paragraph (2) with 
+15
+respect to the government of each foreign state that 
+16
+the President has determined aided, abetted, or di-
+17
+rected a foreign person or agency or instrumentality 
+18
+of a foreign state designated as a critical cyber 
+19
+threat actor under subsection (a). 
+20
+(2) SANCTIONS DESCRIBED.—The sanctions re-
+21
+ferred to in paragraph (1) are the following: 
+22
+(A) The President may provide for the 
+23
+withdrawal, limitation, or suspension of non-hu-
+24
+manitarian 
+or 
+non-trade-related 
+assistance 
+25
+20:21 Mar 20, 2019
+H1493
+14 
+•HR 1493 IH
+United States development assistance under 
+1
+chapter 1 of part I of the Foreign Assistance 
+2
+Act of 1961. 
+3
+(B) The President may provide for the 
+4
+withdrawal, limitation, or suspension of United 
+5
+States security assistance under part II of the 
+6
+Foreign Assistance Act of 1961. 
+7
+(C) The President may instruct the United 
+8
+States Executive Director to each appropriate 
+9
+international financial institution to oppose, and 
+10
+vote against the extension by such institution of 
+11
+any loan or financial assistance to the govern-
+12
+ment of the foreign state. 
+13
+(D) No item on the United States Muni-
+14
+tions List (established pursuant to section 38 of 
+15
+the Arms Export Control Act (22 U.S.C. 
+16
+2778)) or the Commerce Control List set forth 
+17
+in Supplement No. 1 to part 774 of title 15, 
+18
+Code of Federal Regulations, may be exported 
+19
+to the government of the foreign state. 
+20
+(e) IMPLEMENTATION.—The President may exercise 
+21
+all authorities provided under sections 203 and 205 of the 
+22
+International Emergency Economic Powers Act (50 
+23
+U.S.C. 1702 and 1704) to carry out this section. 
+24
+(f) COORDINATION.—To the extent practicable— 
+25
+20:21 Mar 20, 2019
+H1493
+15 
+•HR 1493 IH
+(1) actions taken by the President pursuant to 
+1
+this section should be coordinated with United 
+2
+States allies and partners; and 
+3
+(2) the Secretary of State should work with 
+4
+United States allies and partners, on a voluntary 
+5
+basis, to lead an international diplomatic initiative 
+6
+to— 
+7
+(A) deter critical cyber threat actors and 
+8
+state-sponsored cyber activities; and 
+9
+(B) provide mutual support to such allies 
+10
+and partners participating in such initiative to 
+11
+respond to such state-sponsored cyber activities. 
+12
+(g) EXEMPTIONS, WAIVERS, AND REMOVALS
+OF 
+13
+SANCTIONS AND DESIGNATIONS.— 
+14
+(1) MANDATORY EXEMPTIONS.—The following 
+15
+activities shall be exempt from sanctions under sub-
+16
+sections (b), (c), and (d): 
+17
+(A) Activities subject to the reporting re-
+18
+quirements of title V of the National Security 
+19
+Act of 1947 (50 U.S.C. 413 et seq.), or to any 
+20
+authorized intelligence activities of the United 
+21
+States. 
+22
+(B) Any transaction necessary to comply 
+23
+with United States obligations under the Agree-
+24
+ment between the United Nations and the 
+25
+20:21 Mar 20, 2019
+H1493
+16 
+•HR 1493 IH
+United States of America regarding the Head-
+1
+quarters of the United Nations, signed June 
+2
+26, 1947, and entered into force on November 
+3
+21, 1947, or under the Vienna Convention on 
+4
+Consular Relations, signed April 24, 1963, and 
+5
+entered into force on March 19, 1967, or under 
+6
+other international obligations. 
+7
+(2) WAIVER.—The President may waive the im-
+8
+position of sanctions described in this section for a 
+9
+period of not more than 1 year, and may renew such 
+10
+waiver for additional periods of not more than 1 
+11
+year, if the President transmits to the appropriate 
+12
+congressional committees a written determination 
+13
+that such waiver meets one or more of the following 
+14
+requirements: 
+15
+(A) Such waiver is in the national interests 
+16
+of the United States. 
+17
+(B) Such waiver will further the enforce-
+18
+ment of this Act or is for an important law en-
+19
+forcement purpose. 
+20
+(C) Such waiver is for an important hu-
+21
+manitarian purpose. 
+22
+(3) REMOVALS OF SANCTIONS AND DESIGNA-
+23
+TIONS.—The President may prescribe rules and reg-
+24
+ulations for the removal of sanctions under sub-
+25
+20:21 Mar 20, 2019
+H1493
+17 
+•HR 1493 IH
+sections (b), (c), and (d) and the removal of designa-
+1
+tions under subsection (a) if the President deter-
+2
+mines that a foreign person, agency or instrumen-
+3
+tality of a foreign state, or government of a foreign 
+4
+state subject to such sanctions or such designations, 
+5
+as the case may be, has verifiably ceased its partici-
+6
+pation in any of the conduct with respect to which 
+7
+such foreign person, agency or instrumentality of a 
+8
+foreign state, or government of a foreign state was 
+9
+subject to such sanctions or designation, as the case 
+10
+may be, under this section, and has given assurances 
+11
+that such foreign person, agency or instrumentality 
+12
+of a foreign state, or government of a foreign state, 
+13
+as the case may be, will no longer participate in such 
+14
+conduct. 
+15
+(4) EXCEPTION TO COMPLY WITH UNITED NA-
+16
+TIONS
+HEADQUARTERS
+AGREEMENT.—Sanctions 
+17
+under subsection (c) shall not apply to a foreign per-
+18
+son if admitting such foreign person into the United 
+19
+States is necessary to permit the United States to 
+20
+comply with the Agreement regarding the Head-
+21
+quarters of the United Nations, signed at Lake Suc-
+22
+cess June 26, 1947, and entered into force Novem-
+23
+ber 21, 1947, between the United Nations and the 
+24
+20:21 Mar 20, 2019
+H1493
+18 
+•HR 1493 IH
+United States, or other applicable international obli-
+1
+gations. 
+2
+(h) RULE OF CONSTRUCTION.—Nothing in this sec-
+3
+tion may be construed to limit the authority of the Presi-
+4
+dent under the International Emergency Economic Powers 
+5
+Act (50 U.S.C. 1701 et seq.) or any other provision of 
+6
+law to impose sanctions to address critical cyber threat 
+7
+actors and malicious state-sponsored cyber activities. 
+8
+(i) DEFINITIONS.—In this section: 
+9
+(1) ADMITTED; ALIEN.—The terms ‘‘admitted’’ 
+10
+and ‘‘alien’’ have the meanings given such terms in 
+11
+section 101 of the Immigration and Nationality Act 
+12
+(8 U.S.C. 1101). 
+13
+(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+14
+TEES.—The term ‘‘appropriate congressional com-
+15
+mittees’’ means— 
+16
+(A) the Committee on Foreign Affairs, the 
+17
+Committee on Financial Services, the Com-
+18
+mittee on the Judiciary, the Committee on 
+19
+Oversight and Reform, and the Committee on 
+20
+Homeland Security of the House of Representa-
+21
+tives; and 
+22
+(B) the Committee on Foreign Relations, 
+23
+the Committee on Banking, Housing, and 
+24
+Urban Affairs, the Committee on the Judiciary, 
+25
+20:21 Mar 20, 2019
+H1493
+19 
+•HR 1493 IH
+and the Committee on Homeland Security and 
+1
+Governmental Affairs of the Senate. 
+2
+(3) AGENCY OR INSTRUMENTALITY OF A FOR-
+3
+EIGN STATE.—The term ‘‘agency or instrumentality 
+4
+of a foreign state’’ has the meaning given such term 
+5
+in section 1603(b) of title 28, United States Code. 
+6
+(4) CRITICAL INFRASTRUCTURE SECTOR.—The 
+7
+term ‘‘critical infrastructure sector’’ means any of 
+8
+the designated critical infrastructure sectors identi-
+9
+fied in the Presidential Policy Directive entitled 
+10
+‘‘Critical Infrastructure Security and Resilience’’, 
+11
+numbered 21, and dated February 12, 2013. 
+12
+(5) FOREIGN PERSON.—The term ‘‘foreign per-
+13
+son’’ means a person that is not a United States 
+14
+person. 
+15
+(6) FOREIGN STATE.—The term ‘‘foreign state’’ 
+16
+has the meaning given such term in section 1603(a) 
+17
+of title 28, United States Code. 
+18
+(7) KNOWINGLY.—The term ‘‘knowingly’’, with 
+19
+respect to conduct, a circumstance, or a result, 
+20
+means that a person has actual knowledge, or should 
+21
+have known, of the conduct, the circumstance, or the 
+22
+result. 
+23
+(8) MISAPPROPRIATION.—The term ‘‘misappro-
+24
+priation’’ means taking or obtaining by improper 
+25
+20:21 Mar 20, 2019
+H1493
+20 
+•HR 1493 IH
+means, without permission or consent, or under false 
+1
+pretenses. 
+2
+(9) STATE-SPONSORED
+CYBER
+ACTIVITIES.— 
+3
+The term ‘‘state-sponsored cyber activities’’ means 
+4
+any malicious cyber-enabled activities that— 
+5
+(A) are carried out by a government of a 
+6
+foreign state or an agency or instrumentality of 
+7
+a foreign state; or 
+8
+(B) are carried out by a foreign person 
+9
+that is aided, abetted, or directed by a govern-
+10
+ment of a foreign state or an agency or instru-
+11
+mentality of a foreign state. 
+12
+(10) UNITED
+STATES
+PERSON.—The term 
+13
+‘‘United States person’’ means— 
+14
+(A) a United States citizen or an alien law-
+15
+fully admitted for permanent residence to the 
+16
+United States; or 
+17
+(B) an entity organized under the laws of 
+18
+the United States or of any jurisdiction within 
+19
+the United States, including a foreign branch of 
+20
+such an entity. 
+21
+SEC. 4. CYBERSECURITY COOPERATION UNDER ASIA REAS-
+22
+SURANCE INITIATIVE ACT OF 2018. 
+23
+The Administration is encouraged to fully implement 
+24
+section 215 of the Asia Reassurance Initiative Act of 2018 
+25
+20:21 Mar 20, 2019
+H1493
+21 
+•HR 1493 IH
+(Public Law 115–409) with regard to robust cybersecurity 
+1
+cooperation between the United States and nations in the 
+2
+Indo-Pacific region. 
+3
+Æ 
+20:21 Mar 20, 2019
+H1493

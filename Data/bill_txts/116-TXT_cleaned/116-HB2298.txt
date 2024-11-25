@@ -1,0 +1,1303 @@
+A BILL 
+To amend the Communications Act of 1934 to expand and 
+clarify the prohibition on misleading or inaccurate caller 
+identification information and to require providers of 
+telephone service to offer technology to subscribers to 
+reduce the incidence of unwanted telephone calls and 
+text messages, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+03:13 Apr 23, 2019
+H2298
+2 
+•HR 2298 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Repeated Objectionable 
+2
+Bothering Of Consumers On Phones Act’’ or the 
+3
+‘‘ROBOCOP Act’’. 
+4
+SEC. 2. FINDINGS. 
+5
+Congress finds the following: 
+6
+(1) The incidence of unwanted telephone calls 
+7
+and text messages is a nationwide nuisance. 
+8
+(2) The Federal Trade Commission received al-
+9
+most 5,800,000 complaints about unwanted tele-
+10
+phone calls in fiscal year 2018. 
+11
+(3) Telephone scammers target vulnerable con-
+12
+sumers, particularly the elderly. 
+13
+(4) The national ‘‘do-not-call’’ registry has ef-
+14
+fectively addressed unwanted telephone calls from le-
+15
+gitimate companies, but consumers continue to be 
+16
+subject to unwanted calls originating from sources 
+17
+outside the United States and illegitimate operators. 
+18
+(5) Telemarketing fraud cost consumers an es-
+19
+timated $350,000,000 in 2011. 
+20
+(6) Existing Federal law is inadequate to ad-
+21
+dress this problem. 
+22
+(7) Preventing unwanted telephone calls and 
+23
+text messages from reaching consumers requires 2 
+24
+approaches: 
+25
+20:26 Apr 25, 2019
+H2298
+3 
+•HR 2298 IH
+(A) Identifying unwanted calls and text 
+1
+messages. 
+2
+(B) Giving the consumers the ability to 
+3
+block or filter unwanted calls and text mes-
+4
+sages. 
+5
+SEC. 3. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) CALLER
+IDENTIFICATION
+INFORMATION; 
+8
+TEXT
+MESSAGE.—The terms ‘‘caller identification 
+9
+information’’ and ‘‘text message’’ have the meanings 
+10
+given those terms in section 227(a) of the Commu-
+11
+nications Act of 1934 (47 U.S.C. 227(a)), as amend-
+12
+ed by this Act. 
+13
+(2) COMMISSION.—The term ‘‘Commission’’ 
+14
+means the Federal Communications Commission. 
+15
+SEC. 4. EXPANDING AND CLARIFYING PROHIBITION ON 
+16
+MISLEADING OR INACCURATE CALLER ID IN-
+17
+FORMATION. 
+18
+(a) DEFINITIONS.—Section 227 of the Communica-
+19
+tions Act of 1934 (47 U.S.C. 227), as amended by section 
+20
+503(a) of division P of the Consolidated Appropriations 
+21
+Act, 2018 (Public Law 115–141), is amended— 
+22
+(1) in subsection (a)— 
+23
+03:13 Apr 23, 2019
+H2298
+4 
+•HR 2298 IH
+(A) by redesignating paragraphs (2), (3), 
+1
+(4), and (5) as paragraphs (4), (5), (6), and 
+2
+(9), respectively; 
+3
+(B) by inserting after paragraph (1) the 
+4
+following: 
+5
+‘‘(2) The term ‘caller identification information’ 
+6
+means information provided by a caller identification 
+7
+service regarding the telephone number of, or other 
+8
+information regarding the origination of— 
+9
+‘‘(A) a call made using a voice service; or 
+10
+‘‘(B) a text message sent using a text mes-
+11
+saging service. 
+12
+‘‘(3) The term ‘caller identification service’— 
+13
+‘‘(A) means any service or device designed 
+14
+to provide the user of the service or device with 
+15
+the telephone number of, or other information 
+16
+regarding the origination of— 
+17
+‘‘(i) a call made using a voice service; 
+18
+or 
+19
+‘‘(ii) a text message sent using a text 
+20
+messaging service; and 
+21
+‘‘(B) includes automatic number identifica-
+22
+tion services.’’; 
+23
+(C) by inserting after paragraph (6), as so 
+24
+redesignated, the following: 
+25
+03:13 Apr 23, 2019
+H2298
+5 
+•HR 2298 IH
+‘‘(7) The term ‘text message’— 
+1
+‘‘(A) means a real-time or near real-time 
+2
+digital message consisting of text, images, 
+3
+sounds, or other information that is transmitted 
+4
+from or received by a device that is identified 
+5
+as the transmitting or receiving device by 
+6
+means of a telephone number; 
+7
+‘‘(B) includes— 
+8
+‘‘(i) a short message service (com-
+9
+monly referred to as ‘SMS’) message; 
+10
+‘‘(ii) an enhanced message service 
+11
+(commonly referred to as ‘EMS’) message; 
+12
+and 
+13
+‘‘(iii) a multimedia message service 
+14
+(commonly referred to as ‘MMS’) message; 
+15
+and 
+16
+‘‘(C) does not include a real-time, 2-way 
+17
+voice or video communication. 
+18
+‘‘(8) The term ‘text messaging service’ means a 
+19
+service that permits the transmission or receipt of a 
+20
+text message, including a service provided as part of 
+21
+or in connection with a voice service.’’; and 
+22
+(D) by adding at the end the following: 
+23
+‘‘(10) The term ‘voice service’ means any serv-
+24
+ice that— 
+25
+03:13 Apr 23, 2019
+H2298
+6 
+•HR 2298 IH
+‘‘(A) is interconnected with the public 
+1
+switched telephone network; and 
+2
+‘‘(B) furnishes voice communications to an 
+3
+end user using resources from the North Amer-
+4
+ican Numbering Plan or any successor to the 
+5
+North American Numbering Plan adopted by 
+6
+the Commission under section 251(e)(1).’’; and 
+7
+(2) in subsection (e)— 
+8
+(A) by striking paragraph (8); and 
+9
+(B) by redesignating paragraph (9) as 
+10
+paragraph (8). 
+11
+(b) REGULATIONS.—Not later than 18 months after 
+12
+the date of enactment of this Act, the Commission shall 
+13
+prescribe regulations to implement the amendments made 
+14
+by this section. 
+15
+(c) EFFECTIVE DATE.—The amendments made by 
+16
+this section shall take effect on the date that is 180 days 
+17
+after the date on which the Commission prescribes regula-
+18
+tions under subsection (b). 
+19
+SEC. 5. TECHNOLOGY REQUIREMENTS. 
+20
+(a) IN GENERAL.—Section 227(d) of the Commu-
+21
+nications Act of 1934 (47 U.S.C. 227(d)) is amended by 
+22
+adding at the end the following: 
+23
+‘‘(4) TECHNOLOGY OFFERED BY PROVIDERS.— 
+24
+‘‘(A) DEFINITIONS.—In this paragraph: 
+25
+03:13 Apr 23, 2019
+H2298
+7 
+•HR 2298 IH
+‘‘(i) ORIGINATING
+PROVIDER.—The 
+1
+term ‘originating provider’ means a pro-
+2
+vider of a voice service or text messaging 
+3
+service that permits a subscriber to origi-
+4
+nate a call or text message that may be 
+5
+transmitted on the public switched tele-
+6
+phone network. 
+7
+‘‘(ii) ORIGINATING SUBSCRIBER.—The 
+8
+term ‘originating subscriber’ means a sub-
+9
+scriber to a voice service or text messaging 
+10
+service that originates a call or text mes-
+11
+sage that may be transmitted on the public 
+12
+switched telephone network. 
+13
+‘‘(iii) 
+RECEIVING
+PROVIDER.—The 
+14
+term ‘receiving provider’ means a provider 
+15
+of a voice service or text messaging service 
+16
+that permits a subscriber to receive a call 
+17
+or text message originating, or that may be 
+18
+transmitted, on the public switched tele-
+19
+phone network. 
+20
+‘‘(iv) RECEIVING
+SUBSCRIBER.—The 
+21
+term ‘receiving subscriber’ means a sub-
+22
+scriber to a voice service or text messaging 
+23
+service that receives, or is the intended re-
+24
+cipient of, a call or text message origi-
+25
+03:13 Apr 23, 2019
+H2298
+8 
+•HR 2298 IH
+nating, or that may be transmitted, on the 
+1
+public switched telephone network. 
+2
+‘‘(B) REQUIREMENTS
+TO
+OFFER
+TECH-
+3
+NOLOGY.— 
+4
+‘‘(i) ORIGINATING
+PROVIDERS.—The 
+5
+Commission shall by regulation establish 
+6
+technical and procedural standards to re-
+7
+quire an originating provider to enable, for 
+8
+each originating subscriber of the provider 
+9
+and for no additional charge, and to re-
+10
+quire the originating subscriber to use, 
+11
+technology that verifies, for any call or text 
+12
+message originated by the originating sub-
+13
+scriber, that the caller identification infor-
+14
+mation indicated for the call or text mes-
+15
+sage accurately identifies the originating 
+16
+subscriber unless— 
+17
+‘‘(I) the call or text message is 
+18
+exempted, under regulations described 
+19
+in clause (ii) or (iii) of subsection 
+20
+(e)(3)(B), from the prohibition under 
+21
+subsection (e)(1); or 
+22
+‘‘(II) the originating subscriber 
+23
+requests that the originating provider 
+24
+not display caller identification that 
+25
+03:13 Apr 23, 2019
+H2298
+9 
+•HR 2298 IH
+accurately identifies the originating 
+1
+subscriber for a call or text message 
+2
+originated by the originating sub-
+3
+scriber, in which case the caller identi-
+4
+fication information shall state, ‘Call-
+5
+er ID Blocked’. 
+6
+‘‘(ii) 
+RECEIVING
+PROVIDERS.—The 
+7
+Commission shall by regulation establish 
+8
+technical and procedural standards to re-
+9
+quire any receiving provider, for each re-
+10
+ceiving subscriber of the provider and for 
+11
+no additional charge— 
+12
+‘‘(I) to enable, and to offer to the 
+13
+receiving subscriber the option to dis-
+14
+able, technology that— 
+15
+‘‘(aa) determines that an in-
+16
+coming call or text message is 
+17
+verified by the technology enabled 
+18
+in accordance with clause (i) as 
+19
+providing caller identification in-
+20
+formation in accordance with 
+21
+that clause, whether by— 
+22
+‘‘(AA) accurately iden-
+23
+tifying the originating sub-
+24
+03:13 Apr 23, 2019
+H2298
+10 
+•HR 2298 IH
+scriber that originated the 
+1
+call or text message; 
+2
+‘‘(BB) 
+lawfully 
+pro-
+3
+viding misleading or inac-
+4
+curate caller identification; 
+5
+or 
+6
+‘‘(CC) displaying ‘Call-
+7
+er ID Blocked’; or 
+8
+‘‘(bb) if an incoming call or 
+9
+text message is not verified as 
+10
+described in item (aa), prevents 
+11
+the receiving subscriber from re-
+12
+ceiving the call or text message; 
+13
+‘‘(II) to offer to the receiving 
+14
+subscriber the option to enable tech-
+15
+nology that— 
+16
+‘‘(aa) identifies an incoming 
+17
+call or text message as origi-
+18
+nating or probably originating 
+19
+from an automatic telephone di-
+20
+aling system; and 
+21
+‘‘(bb) prevents the receiving 
+22
+subscriber from receiving a call 
+23
+or text message identified as de-
+24
+scribed in item (aa) unless— 
+25
+03:13 Apr 23, 2019
+H2298
+11 
+•HR 2298 IH
+‘‘(AA) the call or text 
+1
+message is made or sent by 
+2
+a public safety entity, in-
+3
+cluding a public safety an-
+4
+swering point (as defined in 
+5
+section 222(h)), emergency 
+6
+operations center, or law en-
+7
+forcement agency; or 
+8
+‘‘(BB) 
+the 
+receiving 
+9
+subscriber 
+has 
+provided 
+10
+prior express consent to re-
+11
+ceive the call or text mes-
+12
+sage and has not revoked 
+13
+that consent; and 
+14
+‘‘(III) to offer to the receiving 
+15
+subscriber the ability to request that 
+16
+the receiving provider prevent the re-
+17
+ceiving subscriber from receiving calls 
+18
+and text messages originating from a 
+19
+particular originating subscriber. 
+20
+‘‘(C) COMMISSION OVERSIGHT.— 
+21
+‘‘(i) APPEALS PROCESS RELATING TO 
+22
+ALLEGED
+AUTODIALERS.—The standards 
+23
+established under subparagraph (B)(ii)(II) 
+24
+03:13 Apr 23, 2019
+H2298
+12 
+•HR 2298 IH
+shall provide for an appeals process under 
+1
+which— 
+2
+‘‘(I) an originating subscriber 
+3
+may notify the Commission that the 
+4
+technology offered under that sub-
+5
+paragraph by a receiving provider is— 
+6
+‘‘(aa) incorrectly identifying 
+7
+the calls or text messages of the 
+8
+originating subscriber as origi-
+9
+nating or probably originating 
+10
+from an automatic telephone di-
+11
+aling system; or 
+12
+‘‘(bb) preventing receiving 
+13
+subscribers from receiving calls 
+14
+or text messages originated by 
+15
+the originating subscriber that 
+16
+are permitted under item (bb) of 
+17
+that subparagraph; 
+18
+‘‘(II) if the Commission finds 
+19
+that the circumstance about which the 
+20
+originating subscriber notified the 
+21
+Commission exists, the Commission 
+22
+shall— 
+23
+‘‘(aa) notify the receiving 
+24
+provider of the finding; and 
+25
+03:13 Apr 23, 2019
+H2298
+13 
+•HR 2298 IH
+‘‘(bb) take such action as is 
+1
+reasonably necessary to correct 
+2
+the circumstance; and 
+3
+‘‘(III) if the receiving provider is 
+4
+preventing a receiving subscriber from 
+5
+receiving calls or text messages origi-
+6
+nated by the originating subscriber 
+7
+because the receiving subscriber has 
+8
+requested that prevention, whether di-
+9
+rectly or through a call-blocking serv-
+10
+ice, the Commission— 
+11
+‘‘(aa) may not require the 
+12
+receiving provider to stop pre-
+13
+venting the calls or text messages 
+14
+unless the receiving subscriber 
+15
+provides affirmative consent; and 
+16
+‘‘(bb) shall require the re-
+17
+ceiving provider to notify the re-
+18
+ceiving subscriber of the exist-
+19
+ence of the circumstances de-
+20
+scribed in subclause (II) of this 
+21
+clause. 
+22
+‘‘(ii) WHITELISTING.— 
+23
+‘‘(I) REQUEST.—An originating 
+24
+subscriber that offers essential serv-
+25
+03:13 Apr 23, 2019
+H2298
+14 
+•HR 2298 IH
+ices (referred to in this clause as an 
+1
+‘essential services subscriber’) may re-
+2
+quest that the Commission require 
+3
+each receiving provider to allow receiv-
+4
+ing subscribers of the receiving pro-
+5
+vider to receive calls or text messages 
+6
+originating from the essential services 
+7
+subscriber. 
+8
+‘‘(II) GRANT.—If the Commis-
+9
+sion, through a rigorous vetting proc-
+10
+ess using the unblocking system es-
+11
+tablished under clause (iii), confirms 
+12
+the identity of an essential services 
+13
+subscriber described in subclause (I) 
+14
+of this clause, the Commission shall 
+15
+require each receiving provider to 
+16
+allow each receiving subscriber of the 
+17
+receiving provider to receive calls or 
+18
+text messages originating from the es-
+19
+sential services subscriber unless the 
+20
+receiving subscriber has requested 
+21
+under subparagraph (B)(ii)(III) that 
+22
+the receiving provider prevent the re-
+23
+ceiving subscriber from receiving calls 
+24
+03:13 Apr 23, 2019
+H2298
+15 
+•HR 2298 IH
+and text messages originating from 
+1
+that essential services subscriber. 
+2
+‘‘(III) DEFINITION
+OF
+ESSEN-
+3
+TIAL
+SERVICES.—The 
+Commission 
+4
+shall by regulation define the term 
+5
+‘essential services’ for purposes of this 
+6
+clause. 
+7
+‘‘(iii) 
+UNBLOCKING
+SYSTEM
+AND 
+8
+DATABASE.— 
+9
+‘‘(I) IN GENERAL.—In order to 
+10
+carry out this subparagraph and en-
+11
+sure that consumers are in control of 
+12
+the calls and text messages they re-
+13
+ceive, the Commission shall establish 
+14
+a nationwide unblocking system that 
+15
+includes a database, to be known as 
+16
+the ‘Unblocking Database’, of origi-
+17
+nating subscribers whose identity the 
+18
+Commission 
+has 
+confirmed 
+under 
+19
+clause (ii)(II). 
+20
+‘‘(II) FUNDING.—The Commis-
+21
+sion shall— 
+22
+‘‘(aa) assess a fee on any 
+23
+originating subscriber that wishes 
+24
+03:13 Apr 23, 2019
+H2298
+16 
+•HR 2298 IH
+to participate in the nationwide 
+1
+unblocking system; and 
+2
+‘‘(bb) use amounts collected 
+3
+under item (aa) to fund the oper-
+4
+ation 
+of 
+the 
+nationwide 
+5
+unblocking system. 
+6
+‘‘(D) PRIVATE RIGHT OF ACTION.— 
+7
+‘‘(i) IN
+GENERAL.—A person ag-
+8
+grieved by a violation of the regulations 
+9
+prescribed under clause (i) or (ii) of sub-
+10
+paragraph (B) may bring an action in an 
+11
+appropriate district court of the United 
+12
+States, or, if otherwise permitted by the 
+13
+laws or rules of court of a State, in an ap-
+14
+propriate court of that State, to— 
+15
+‘‘(I) enjoin the violation; or 
+16
+‘‘(II) recover the greater of— 
+17
+‘‘(aa) actual damages; or 
+18
+‘‘(bb) $500 per violation. 
+19
+‘‘(ii) ENHANCED
+AWARDS.—If the 
+20
+court finds in an action brought under 
+21
+clause (i) that the defendant willfully or 
+22
+knowingly violated the regulations de-
+23
+scribed in that clause, the court may in-
+24
+crease the amount of the award to an 
+25
+03:13 Apr 23, 2019
+H2298
+17 
+•HR 2298 IH
+amount equal to not more than 3 times the 
+1
+amount available under subclause (II) of 
+2
+that clause. 
+3
+‘‘(E) RULES OF CONSTRUCTION.— 
+4
+‘‘(i) PREVENTION OF CALLS OR TEXT 
+5
+MESSAGES.—For purposes of a regulation 
+6
+prescribed under this paragraph, a call or 
+7
+text message attempted to be made or sent 
+8
+to a receiving subscriber shall be consid-
+9
+ered to be prevented if, in accordance with 
+10
+the express consent of the receiving sub-
+11
+scriber, the call or text message is recorded 
+12
+or redirected in a manner that allows the 
+13
+receiving subscriber to— 
+14
+‘‘(I) be notified of the attempt to 
+15
+make the call or send the text mes-
+16
+sage; or 
+17
+‘‘(II) have access to— 
+18
+‘‘(aa) a message left by the 
+19
+calling party; or 
+20
+‘‘(bb) the text message. 
+21
+‘‘(ii) BLOCKING CALLER IDENTIFICA-
+22
+TION
+INFORMATION.—Nothing 
+in 
+this 
+23
+paragraph may be construed to require an 
+24
+originating provider to prevent or restrict 
+25
+03:13 Apr 23, 2019
+H2298
+18 
+•HR 2298 IH
+any person from blocking the capability of 
+1
+any caller identification service to transmit 
+2
+caller identification information.’’. 
+3
+(b) EXEMPTIONS
+FROM
+MISLEADING
+OR
+INAC-
+4
+CURATE CALLER ID PROHIBITION.—Section 227(e)(3)(B) 
+5
+of the Communications Act of 1934 (47 U.S.C. 
+6
+227(e)(3)(B)) is amended by adding at the end the fol-
+7
+lowing: 
+8
+‘‘(iii) EXEMPTION PROCESS FOR LE-
+9
+GITIMATE
+NEED.—The 
+regulations 
+re-
+10
+quired under subparagraph (A) shall pro-
+11
+vide for a process under which a person 
+12
+may demonstrate that the person has a le-
+13
+gitimate need to provide misleading or in-
+14
+accurate information for certain calls or 
+15
+text messages, such as a call made or text 
+16
+message sent to conduct an activity of a 
+17
+domestic violence shelter or medical prac-
+18
+tice.’’. 
+19
+(c) ACTIONS BY STATES.—Section 227(g)(1) of the 
+20
+Communications Act of 1934 (47 U.S.C. 227(g)(1)) is 
+21
+amended— 
+22
+(1) by inserting after ‘‘regulations prescribed 
+23
+under this section,’’ the following: ‘‘a pattern or 
+24
+practice of failure to provide the technology required 
+25
+03:13 Apr 23, 2019
+H2298
+19 
+•HR 2298 IH
+under subsection (d)(4)(B)(i) that threatens or ad-
+1
+versely affects an interest of such residents, or a 
+2
+pattern or practice of failure to provide to such resi-
+3
+dents the technology or the options, as applicable, 
+4
+required under subsection (d)(4)(B)(ii),’’; and 
+5
+(2) by inserting after ‘‘to enjoin such calls’’ the 
+6
+following: ‘‘or such a failure’’. 
+7
+(d) REGULATIONS.—The Commission shall prescribe 
+8
+the regulations required under the amendments made by 
+9
+subsections (a) and (b) not later than 18 months after 
+10
+the date of enactment of this Act. 
+11
+(e) EFFECTIVE DATE.—The amendments made by 
+12
+this section shall take effect on the date that is 180 days 
+13
+after the date on which the Commission prescribes regula-
+14
+tions under subsection (d). 
+15
+SEC. 6. INTENTIONAL INTERFERENCE WITH CALL-BLOCK-
+16
+ING TECHNOLOGY. 
+17
+(a) IN GENERAL.—Section 227 of the Communica-
+18
+tions Act of 1934 (47 U.S.C. 227) is amended by adding 
+19
+at the end the following: 
+20
+‘‘(i) INTENTIONAL
+INTERFERENCE
+WITH
+CALL- 
+21
+BLOCKING TECHNOLOGY.— 
+22
+‘‘(1) IN GENERAL.—It shall be unlawful for any 
+23
+person within the United States, or any person out-
+24
+side the United States if the recipient is within the 
+25
+03:13 Apr 23, 2019
+H2298
+20 
+•HR 2298 IH
+United States, with the intent to cause harm, to 
+1
+take any action that causes the technology offered 
+2
+under subsection (d)(4)(B)(ii)(II) to— 
+3
+‘‘(A) incorrectly identify calls or text mes-
+4
+sages as originating or probably originating 
+5
+from an automatic telephone dialing system; or 
+6
+‘‘(B) prevent (as that term is used in sub-
+7
+section (d)(4)) the called party from receiving a 
+8
+call, or the intended recipient from receiving a 
+9
+text message— 
+10
+‘‘(i) that is made or sent by a public 
+11
+safety entity, including a— 
+12
+‘‘(I) 
+public 
+safety 
+answering 
+13
+point (as defined in section 222(h)); 
+14
+‘‘(II) emergency operations cen-
+15
+ter; or 
+16
+‘‘(III) law enforcement agency; or 
+17
+‘‘(ii) to which the called party or in-
+18
+tended recipient has provided prior express 
+19
+consent. 
+20
+‘‘(2) PENALTIES; ACTIONS
+BY
+STATES.—Any 
+21
+person who violates this subsection or the regula-
+22
+tions prescribed under this subsection shall be sub-
+23
+ject to the penalties under paragraph (5) of sub-
+24
+section (e), and to actions by States under para-
+25
+03:13 Apr 23, 2019
+H2298
+21 
+•HR 2298 IH
+graph (6) of that subsection, in the same manner 
+1
+and to the same extent as if the person had violated 
+2
+that subsection or the regulations prescribed under 
+3
+that subsection.’’. 
+4
+(b) DEADLINE FOR REGULATIONS.—The Commis-
+5
+sion shall prescribe regulations to implement subsection 
+6
+(i) of section 227 of the Communications Act of 1934 (47 
+7
+U.S.C. 227), as added by this section, not later than 18 
+8
+months after the date of enactment of this Act. 
+9
+(c) EFFECTIVE DATE.—The amendment made by 
+10
+this section shall take effect on the date that is 180 days 
+11
+after the date on which the Commission prescribes regula-
+12
+tions under subsection (b). 
+13
+SEC. 7. RULE OF CONSTRUCTION. 
+14
+Nothing in this Act or the amendments made by this 
+15
+Act shall be construed to limit any authority of the Com-
+16
+mission to determine that, for purposes of section 227 of 
+17
+the Communications Act of 1934 (47 U.S.C. 227), a call 
+18
+includes a text message or any similar message. 
+19
+SEC. 8. REPORTS TO CONGRESS. 
+20
+(a) CALLER NAME FALSIFICATION.—Not later than 
+21
+180 days after the date of enactment of this Act, the Com-
+22
+mission shall, in consultation with the Federal Trade 
+23
+Commission, submit to Congress and make available on 
+24
+a public website a report containing the findings and con-
+25
+03:13 Apr 23, 2019
+H2298
+22 
+•HR 2298 IH
+clusions of a study determining how to minimize the extent 
+1
+to which the names of persons making calls or sending 
+2
+text messages are falsified in caller identification name 
+3
+databases. 
+4
+(b) TECHNOLOGY REQUIREMENTS.— 
+5
+(1) IN GENERAL.—Not later than 4 years after 
+6
+the date of enactment of this Act, and every 4 years 
+7
+thereafter until the date of termination described in 
+8
+paragraph (2), the Commission shall submit to Con-
+9
+gress and make available on a public website a re-
+10
+port that contains the following information: 
+11
+(A) The extent to which subscribers con-
+12
+tinue to receive calls or text messages with mis-
+13
+leading or inaccurate caller identification infor-
+14
+mation (except for calls or text messages ex-
+15
+empted under clause (ii) of section 227(e)(3)(B) 
+16
+of the Communications Act of 1934 (47 U.S.C. 
+17
+227(e)(3)(B)) or clause (iii) of that section (as 
+18
+added by section 5)), including a quantitative 
+19
+assessment of the difference between the num-
+20
+ber of complaints made to the Commission re-
+21
+garding such calls and text messages— 
+22
+(i) before the effective date of the reg-
+23
+ulations required under paragraph (4)(B) 
+24
+03:13 Apr 23, 2019
+H2298
+23 
+•HR 2298 IH
+of section 227(d) of that Act, as added by 
+1
+section 5; and 
+2
+(ii) after the effective date described 
+3
+in clause (i). 
+4
+(B) The extent to which subscribers that 
+5
+choose to enable technology offered under para-
+6
+graph (4)(B)(ii)(II) of section 227(d) of the 
+7
+Communications Act of 1934 (47 U.S.C. 
+8
+227(d)), as added by section 5, continue to re-
+9
+ceive calls or text messages originating from an 
+10
+automatic telephone dialing system (except for 
+11
+calls or text messages from a public safety enti-
+12
+ty and calls or text messages to which sub-
+13
+scribers have provided prior express consent), 
+14
+including a quantitative assessment of the dif-
+15
+ference between the number of complaints made 
+16
+to the Commission regarding such calls and text 
+17
+messages— 
+18
+(i) before the effective date of the reg-
+19
+ulations required under that paragraph; 
+20
+and 
+21
+(ii) after the effective date described 
+22
+in clause (i). 
+23
+(C) An assessment of— 
+24
+03:13 Apr 23, 2019
+H2298
+24 
+•HR 2298 IH
+(i) whether the standards set forth in 
+1
+the regulations required under paragraph 
+2
+(4)(B) of section 227(d) of the Commu-
+3
+nications Act of 1934 (47 U.S.C. 227(d)), 
+4
+as added by section 5, have been successful 
+5
+in reducing the number of the calls and 
+6
+text messages described in each of sub-
+7
+paragraphs (A) and (B) of this paragraph 
+8
+received by subscribers; and 
+9
+(ii) whether there have been any prob-
+10
+lems with the standards described in clause 
+11
+(i) or the technology required by those 
+12
+standards, such as the prevention of calls 
+13
+or text messages— 
+14
+(I) from public safety entities; or 
+15
+(II) to which subscribers have 
+16
+provided prior express consent. 
+17
+(D) Any recommendations for legislative or 
+18
+regulatory action to improve the standards de-
+19
+scribed in subparagraph (C). 
+20
+(2) TERMINATION.—The date of termination 
+21
+described in this paragraph is the date on which the 
+22
+Commission, in consultation with the Federal Trade 
+23
+Commission, determines that the report required 
+24
+under paragraph (1) is no longer necessary because 
+25
+03:13 Apr 23, 2019
+H2298
+25 
+•HR 2298 IH
+of a substantial reduction in the number of calls and 
+1
+text messages described in each of subparagraphs 
+2
+(A) and (B) of that paragraph. 
+3
+Æ 
+03:13 Apr 23, 2019
+H2298

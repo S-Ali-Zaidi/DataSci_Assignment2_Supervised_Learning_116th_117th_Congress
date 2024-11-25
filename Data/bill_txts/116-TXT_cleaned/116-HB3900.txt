@@ -1,0 +1,2774 @@
+A BILL 
+To amend the Children’s Online Privacy Protection Act of 
+1998 to strengthen protections relating to the online 
+collection, use, and disclosure of personal information 
+of children and minors, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. TABLE OF CONTENTS. 
+3
+The table of contents for this Act is as follows: 
+4
+Sec. 1. Table of contents. 
+Sec. 2. Definitions. 
+Sec. 3. Online collection, use, and disclosure of personal information of children 
+and minors. 
+Sec. 4. Fair Information Practices Principles. 
+Sec. 5. Digital Marketing Bill of Rights for Minors. 
+Sec. 6. Targeted marketing to children or minors. 
+Sec. 7. Removal of content. 
+Sec. 8. Privacy dashboard for connected devices for children and minors. 
+22:08 Aug 06, 2019
+H3900
+2 
+•HR 3900 IH
+Sec. 9. Prohibition on sale of connected devices for children and minors that 
+fail to meet appropriate cybersecurity and data security stand-
+ards. 
+Sec. 10. Rule for treatment of users of websites, services, and applications di-
+rected to children or minors. 
+Sec. 11. Study of mobile and online application oversight. 
+Sec. 12. Youth Privacy and Marketing Division. 
+Sec. 13. Enforcement and applicability. 
+SEC. 2. DEFINITIONS. 
+1
+(a) IN GENERAL.—In this Act: 
+2
+(1) COMMISSION.—The term ‘‘Commission’’ 
+3
+means the Federal Trade Commission. 
+4
+(2) STANDARDS.—The term ‘‘standards’’ means 
+5
+benchmarks, guidelines, best practices, methodolo-
+6
+gies, procedures, and processes. 
+7
+(b) OTHER DEFINITIONS.—The definitions set forth 
+8
+in section 1302 of the Children’s Online Privacy Protec-
+9
+tion Act of 1998 (15 U.S.C. 6501), as amended by section 
+10
+3(a) of this Act, shall apply in this Act, except to the ex-
+11
+tent the Commission provides otherwise by regulations 
+12
+issued under section 553 of title 5, United States Code. 
+13
+SEC. 3. ONLINE COLLECTION, USE, AND DISCLOSURE OF 
+14
+PERSONAL INFORMATION OF CHILDREN AND 
+15
+MINORS. 
+16
+(a) DEFINITIONS.—Section 1302 of the Children’s 
+17
+Online Privacy Protection Act of 1998 (15 U.S.C. 6501) 
+18
+is amended— 
+19
+(1) by amending paragraph (2) to read as fol-
+20
+lows: 
+21
+22:08 Aug 06, 2019
+H3900
+3 
+•HR 3900 IH
+‘‘(2) OPERATOR.—The term ‘operator’— 
+1
+‘‘(A) means any person— 
+2
+‘‘(i) who, for commercial purposes, in 
+3
+interstate or foreign commerce operates or 
+4
+provides a website on the internet, an on-
+5
+line service, an online application, or a mo-
+6
+bile application; and 
+7
+‘‘(ii) who— 
+8
+‘‘(I) collects or maintains, either 
+9
+directly or through a service provider, 
+10
+personal information from or about 
+11
+the users of that website, service, ap-
+12
+plication, or connected device; 
+13
+‘‘(II) allows another person to 
+14
+collect personal information directly 
+15
+from users of that website, service, 
+16
+application, or connected device (in 
+17
+which case, the operator is deemed to 
+18
+have collected the information); or 
+19
+‘‘(III) 
+allows 
+users 
+of 
+that 
+20
+website, service, application, or con-
+21
+nected device to publicly disclose per-
+22
+sonal information (in which case, the 
+23
+operator is deemed to have collected 
+24
+the information); and 
+25
+22:08 Aug 06, 2019
+H3900
+4 
+•HR 3900 IH
+‘‘(B) does not include any nonprofit entity 
+1
+that would otherwise be exempt from coverage 
+2
+under section 5 of the Federal Trade Commis-
+3
+sion Act (15 U.S.C. 45).’’; 
+4
+(2) in paragraph (4)— 
+5
+(A) by amending subparagraph (A) to read 
+6
+as follows: 
+7
+‘‘(A) the release of personal information 
+8
+collected from a child or minor for any purpose, 
+9
+except where the personal information is pro-
+10
+vided to a person other than an operator who— 
+11
+‘‘(i) provides support for the internal 
+12
+operations of the website, online service, 
+13
+online application, or mobile application of 
+14
+the operator, excluding any activity relat-
+15
+ing to targeted marketing directed to chil-
+16
+dren, minors, or connected devices; and 
+17
+‘‘(ii) does not disclose or use that per-
+18
+sonal information for any other purpose; 
+19
+and’’; and 
+20
+(B) in subparagraph (B)— 
+21
+(i) by inserting ‘‘or minor’’ after 
+22
+‘‘child’’ each place the term appears; 
+23
+(ii) by inserting ‘‘or minors’’ after 
+24
+‘‘children’’; and 
+25
+22:08 Aug 06, 2019
+H3900
+5 
+•HR 3900 IH
+(iii) by striking ‘‘website or online 
+1
+service’’ and inserting ‘‘website, online 
+2
+service, online application, or mobile appli-
+3
+cation’’; 
+4
+(3) in paragraph (8), by striking subparagraphs 
+5
+(F) and (G) and inserting the following: 
+6
+‘‘(F) geolocation information; 
+7
+‘‘(G) information used for biometric identi-
+8
+fication, as defined in section 70123 of title 46, 
+9
+United States Code, of an individual; 
+10
+‘‘(H) information reasonably associated 
+11
+with or attributed to an individual; 
+12
+‘‘(I) information (including an internet 
+13
+protocol address) that permits the identification 
+14
+of— 
+15
+‘‘(i) an individual; or 
+16
+‘‘(ii) any device used by an individual 
+17
+to directly or indirectly access the internet 
+18
+or an online service, online application, or 
+19
+mobile application; or 
+20
+‘‘(J) information concerning a child or 
+21
+minor or the parents of that child or minor (in-
+22
+cluding any unique or substantially unique iden-
+23
+tifier, such as a customer number) that an op-
+24
+erator collects online from the child or minor 
+25
+22:08 Aug 06, 2019
+H3900
+6 
+•HR 3900 IH
+and combines with an identifier described in 
+1
+this paragraph.’’; 
+2
+(4) by amending paragraph (9) to read as fol-
+3
+lows: 
+4
+‘‘(9) 
+VERIFIABLE
+CONSENT.—The 
+term 
+5
+‘verifiable consent’ means any reasonable effort (tak-
+6
+ing into consideration available technology), includ-
+7
+ing a request for authorization for future collection, 
+8
+use, and disclosure described in the notice, to ensure 
+9
+that, in the case of a child, a parent of the child, 
+10
+or, in the case of a minor, the minor— 
+11
+‘‘(A) receives specific notice of the personal 
+12
+information collection, use, and disclosure prac-
+13
+tices of the operator; and 
+14
+‘‘(B) before the personal information of the 
+15
+child or minor is collected, freely and unambig-
+16
+uously authorizes— 
+17
+‘‘(i) the collection, use, and disclosure, 
+18
+as applicable, of that personal information; 
+19
+and 
+20
+‘‘(ii) any subsequent use of that per-
+21
+sonal information.’’; 
+22
+(5) by striking paragraph (10) and redesig-
+23
+nating paragraphs (11) and (12) as paragraphs (10) 
+24
+and (11), respectively; and 
+25
+22:08 Aug 06, 2019
+H3900
+7 
+•HR 3900 IH
+(6) by adding at the end the following: 
+1
+‘‘(12) CONNECTED
+DEVICE.—The term ‘con-
+2
+nected device’ means a device that is capable of con-
+3
+necting to the internet, directly or indirectly, or to 
+4
+another connected device. 
+5
+‘‘(13) ONLINE.—The term ‘online’ means— 
+6
+‘‘(A) connected to or compatible with the 
+7
+internet; or 
+8
+‘‘(B) via the internet. 
+9
+‘‘(14) ONLINE APPLICATION.—The term ‘online 
+10
+application’— 
+11
+‘‘(A) means an internet-connected software 
+12
+program; and 
+13
+‘‘(B) includes a service or application of-
+14
+fered via a connected device. 
+15
+‘‘(15) ONLINE
+SERVICE.—The term ‘online 
+16
+service’— 
+17
+‘‘(A) means broadband internet access 
+18
+service, as defined in the Report and Order on 
+19
+Remand, Declaratory Ruling, and Order in the 
+20
+matter of protecting and promoting the open 
+21
+internet, adopted by the Federal Communica-
+22
+tions Commission on February 26, 2015 (FCC 
+23
+15–24); and 
+24
+22:08 Aug 06, 2019
+H3900
+8 
+•HR 3900 IH
+‘‘(B) includes a service or application of-
+1
+fered via a connected device. 
+2
+‘‘(16) DIRECTED TO A CHILD OR MINOR.— 
+3
+‘‘(A) IN GENERAL.—The terms ‘directed to 
+4
+a child’ or ‘directed to a minor’ means, with re-
+5
+spect to a website, online service, online applica-
+6
+tion, or mobile application, the website, online 
+7
+service, online application, or mobile application 
+8
+is targeted to children or minors, as the case 
+9
+may be, as demonstrated by— 
+10
+‘‘(i) the subject matter of the website, 
+11
+online service, online application, or mobile 
+12
+application; 
+13
+‘‘(ii) the visual content of the website, 
+14
+online service, online application, or mobile 
+15
+application; 
+16
+‘‘(iii) the use of animated characters 
+17
+or child-oriented activities for children, or 
+18
+the use of minor-oriented characters or 
+19
+minor-oriented activities for minors, and 
+20
+related incentives on the website, online 
+21
+service, online application, or mobile appli-
+22
+cation; 
+23
+22:08 Aug 06, 2019
+H3900
+9 
+•HR 3900 IH
+‘‘(iv) the music or other audio content 
+1
+on the website, online service, online appli-
+2
+cation, or mobile application; 
+3
+‘‘(v) the age of models on the website, 
+4
+online service, online application, or mobile 
+5
+application; 
+6
+‘‘(vi) the presence, on the website, on-
+7
+line service, online application, or mobile 
+8
+application, of— 
+9
+‘‘(I) child celebrities; 
+10
+‘‘(II) celebrities who appeal to 
+11
+children; 
+12
+‘‘(III) teen celebrities; or 
+13
+‘‘(IV) celebrities who appeal to 
+14
+minors; 
+15
+‘‘(vii) the language used on the 
+16
+website, online service, online application, 
+17
+or mobile application; 
+18
+‘‘(viii) advertising content used on, or 
+19
+used to advertise, the website, online serv-
+20
+ice, online application, or mobile applica-
+21
+tion; or 
+22
+‘‘(ix) reliable empirical evidence relat-
+23
+ing to— 
+24
+22:08 Aug 06, 2019
+H3900
+10 
+•HR 3900 IH
+‘‘(I) the composition of the audi-
+1
+ence of the website, online service, on-
+2
+line application, or mobile application; 
+3
+and 
+4
+‘‘(II) the intended audience of 
+5
+the website, online service, online ap-
+6
+plication, or mobile application. 
+7
+‘‘(B) RULES OF CONSTRUCTION.— 
+8
+‘‘(i) SERVICES DEEMED DIRECTED TO 
+9
+CHILDREN OR MINORS.—For the purposes 
+10
+of this title, a website, online service, on-
+11
+line application, or mobile application shall 
+12
+be deemed to be directed to children or mi-
+13
+nors if the operator of the website, online 
+14
+service, online application, or mobile appli-
+15
+cation has actual knowledge that the 
+16
+website, online service, online application, 
+17
+or mobile application collects personal in-
+18
+formation directly from users of any other 
+19
+website, online service, online application, 
+20
+or mobile application that is directed to 
+21
+children or minors under the criteria de-
+22
+scribed in subparagraph (A). 
+23
+‘‘(ii) SERVICES DEEMED DIRECTED TO 
+24
+MIXED AUDIENCES.— 
+25
+22:08 Aug 06, 2019
+H3900
+11 
+•HR 3900 IH
+‘‘(I) IN
+GENERAL.—A website, 
+1
+online service, online application, or 
+2
+mobile application that is directed to 
+3
+children or minors under the criteria 
+4
+described in subparagraph (A), but 
+5
+that does not target children or mi-
+6
+nors as the primary audience of the 
+7
+website, online service, online applica-
+8
+tion, or mobile application, shall not 
+9
+be deemed to be directed to children 
+10
+or minors for purposes of this title if 
+11
+the website, online service, online ap-
+12
+plication, or mobile application— 
+13
+‘‘(aa) does not collect per-
+14
+sonal information from any user 
+15
+of the website, online service, on-
+16
+line application, or mobile appli-
+17
+cation before verifying age infor-
+18
+mation of the user; and 
+19
+‘‘(bb) does not, without first 
+20
+complying with any relevant no-
+21
+tice and consent provision under 
+22
+this title, collect, use, or disclose 
+23
+personal information of any user 
+24
+who identifies themselves to the 
+25
+22:08 Aug 06, 2019
+H3900
+12 
+•HR 3900 IH
+website, online service, online ap-
+1
+plication, or mobile application as 
+2
+an individual who is under the 
+3
+age of 16. 
+4
+‘‘(II) USE OF CERTAIN TOOLS.— 
+5
+For purposes of this title, a website, 
+6
+online service, online application, or 
+7
+mobile 
+application, 
+shall 
+not 
+be 
+8
+deemed directed to children or minors 
+9
+solely because the website, online serv-
+10
+ice, online application, or mobile appli-
+11
+cation refers or links to any other 
+12
+website, online service, online applica-
+13
+tion, or mobile application directed to 
+14
+children or minors by using informa-
+15
+tion location tools, including— 
+16
+‘‘(aa) a directory; 
+17
+‘‘(bb) an index; 
+18
+‘‘(cc) a reference; 
+19
+‘‘(dd) a pointer; or 
+20
+‘‘(ee) a hypertext link. 
+21
+‘‘(17) MOBILE APPLICATION.—The term ‘mo-
+22
+bile application’— 
+23
+‘‘(A) means a software program that runs 
+24
+on the operating system of— 
+25
+22:08 Aug 06, 2019
+H3900
+13 
+•HR 3900 IH
+‘‘(i) a cellular telephone; 
+1
+‘‘(ii) a tablet computer; or 
+2
+‘‘(iii) a similar portable computing de-
+3
+vice that transmits data over a wireless 
+4
+connection; and 
+5
+‘‘(B) includes a service or application of-
+6
+fered via a connected device. 
+7
+‘‘(18) GEOLOCATION INFORMATION.—The term 
+8
+‘geolocation information’ means information suffi-
+9
+cient to identify a street name and name of a city 
+10
+or town. 
+11
+‘‘(19) MINOR.—The term ‘minor’ means an in-
+12
+dividual over the age of 12 and under the age of 16. 
+13
+‘‘(20) TARGETED MARKETING.—The term ‘tar-
+14
+geted marketing’ means advertising or any other ef-
+15
+fort to market a product or service that is directed 
+16
+to a specific individual or device— 
+17
+‘‘(A) based on— 
+18
+‘‘(i) the personal information of— 
+19
+‘‘(I) the individual; or 
+20
+‘‘(II) a group of individuals who 
+21
+are similar in gender, age, income 
+22
+level, race, or ethnicity to the specific 
+23
+individual to whom the product or 
+24
+service is marketed; 
+25
+22:08 Aug 06, 2019
+H3900
+14 
+•HR 3900 IH
+‘‘(ii) psychological profiling; or 
+1
+‘‘(iii) a unique identifier of the device; 
+2
+and 
+3
+‘‘(B) as a result of use by the individual, 
+4
+access by any device of the individual, or use by 
+5
+a group of individuals who are similar to the 
+6
+specific individual, of— 
+7
+‘‘(i) a website; 
+8
+‘‘(ii) an online service; 
+9
+‘‘(iii) an online application; 
+10
+‘‘(iv) a mobile application; or 
+11
+‘‘(v) an operating system.’’. 
+12
+(b) ONLINE COLLECTION, USE, AND DISCLOSURE OF 
+13
+PERSONAL INFORMATION OF CHILDREN AND MINORS.— 
+14
+Section 1303 of the Children’s Online Privacy Protection 
+15
+Act of 1998 (15 U.S.C. 6502) is amended— 
+16
+(1) by striking the heading and inserting the 
+17
+following: ‘‘ONLINE COLLECTION, USE, AND DIS-
+18
+CLOSURE
+OF
+PERSONAL
+INFORMATION
+OF 
+19
+CHILDREN AND MINORS.’’; 
+20
+(2) in subsection (a)— 
+21
+(A) by amending paragraph (1) to read as 
+22
+follows: 
+23
+‘‘(1) IN GENERAL.—It is unlawful for an oper-
+24
+ator of a website, online service, online application, 
+25
+22:08 Aug 06, 2019
+H3900
+15 
+•HR 3900 IH
+or mobile application directed to a child or minor, or 
+1
+an operator having constructive knowledge that per-
+2
+sonal information being collected is from a child or 
+3
+minor, to collect personal information from a child 
+4
+or minor in a manner that violates the regulations 
+5
+prescribed under subsection (b).’’; and 
+6
+(B) in paragraph (2)— 
+7
+(i) by striking ‘‘of such a website or 
+8
+online service’’; and 
+9
+(ii) 
+by 
+striking 
+‘‘subsection 
+10
+(b)(1)(B)(iii) to the parent of a child’’ and 
+11
+inserting ‘‘subsection (b)(1)(A)(iii) to the 
+12
+parent of a child or under subsection 
+13
+(b)(1)(A)(iv) to a minor’’; and 
+14
+(3) in subsection (b)— 
+15
+(A) by amending paragraph (1) to read as 
+16
+follows: 
+17
+‘‘(1) REGULATIONS.— 
+18
+‘‘(A) IN GENERAL.—Not later than 1 year 
+19
+after the date of the enactment of the Act enti-
+20
+tled ‘An Act to amend the Children’s Online 
+21
+Privacy Protection Act of 1998 to strengthen 
+22
+protections relating to the online collection, use, 
+23
+and disclosure of personal information of chil-
+24
+dren and minors, and for other purposes’, the 
+25
+22:08 Aug 06, 2019
+H3900
+16 
+•HR 3900 IH
+Commission shall promulgate, under section 
+1
+553 of title 5, United States Code, regulations 
+2
+to require an operator of a website, online serv-
+3
+ice, online application, or mobile application di-
+4
+rected to children or minors, or an operator 
+5
+having constructive knowledge that personal in-
+6
+formation being collected is from a child or 
+7
+minor— 
+8
+‘‘(i) to provide clear and conspicuous 
+9
+notice in clear and plain language of— 
+10
+‘‘(I) the types of personal infor-
+11
+mation the operator collects; 
+12
+‘‘(II) how the operator uses the 
+13
+information; 
+14
+‘‘(III) whether and why the oper-
+15
+ator discloses the information; and 
+16
+‘‘(IV) the procedures or mecha-
+17
+nisms the operator uses to ensure that 
+18
+personal information is not collected 
+19
+from children or minors except in ac-
+20
+cordance with the regulations promul-
+21
+gated under this paragraph; 
+22
+‘‘(ii) to obtain verifiable consent for 
+23
+the collection, use, or disclosure of personal 
+24
+information of a child or minor; 
+25
+22:08 Aug 06, 2019
+H3900
+17 
+•HR 3900 IH
+‘‘(iii) to provide to a parent whose 
+1
+child has provided personal information to 
+2
+the operator, upon request by and proper 
+3
+identification of the parent— 
+4
+‘‘(I) a description of the specific 
+5
+types of personal information collected 
+6
+from the child by the operator; 
+7
+‘‘(II) the opportunity at any time 
+8
+to delete personal information col-
+9
+lected from the child; and 
+10
+‘‘(III) a means that is reasonable 
+11
+under the circumstances for the par-
+12
+ent to obtain any personal information 
+13
+collected from the child, if such infor-
+14
+mation is available to the operator at 
+15
+the time the parent makes the re-
+16
+quest; 
+17
+‘‘(iv) to provide to a minor who has 
+18
+provided personal information to the oper-
+19
+ator, upon request by and proper identi-
+20
+fication of the minor— 
+21
+‘‘(I) a description of the specific 
+22
+types of personal information collected 
+23
+from the minor by the operator; 
+24
+22:08 Aug 06, 2019
+H3900
+18 
+•HR 3900 IH
+‘‘(II) the opportunity at any time 
+1
+to delete personal information col-
+2
+lected from the minor; and 
+3
+‘‘(III) a means that is reasonable 
+4
+under the circumstances for the minor 
+5
+to obtain any personal information 
+6
+collected from the minor, if such in-
+7
+formation is available to the operator 
+8
+at the time the minor makes the re-
+9
+quest; 
+10
+‘‘(v) not to condition participation in 
+11
+a game, or use of a website, service, or ap-
+12
+plication, by a child or minor on the provi-
+13
+sion by the child or minor of more personal 
+14
+information than is reasonably required to 
+15
+participate in the game or use the website, 
+16
+service, or application; and 
+17
+‘‘(vi) to establish and maintain rea-
+18
+sonable procedures to protect the confiden-
+19
+tiality, security, and integrity of personal 
+20
+information collected from children and mi-
+21
+nors. 
+22
+‘‘(B) UPDATES.—Not less frequently than 
+23
+once every 4 years after the date on which reg-
+24
+ulations are promulgated under subparagraph 
+25
+22:08 Aug 06, 2019
+H3900
+19 
+•HR 3900 IH
+(A), the Commission shall update those regula-
+1
+tions as necessary.’’; 
+2
+(B) in paragraph (2)— 
+3
+(i) in the matter preceding subpara-
+4
+graph (A), by striking ‘‘verifiable parental 
+5
+consent’’ and inserting ‘‘verifiable con-
+6
+sent’’; 
+7
+(ii) in subparagraph (A)— 
+8
+(I) by inserting ‘‘or minor’’ after 
+9
+‘‘collected from a child’’; 
+10
+(II) by inserting ‘‘or minor’’ after 
+11
+‘‘request from the child’’; and 
+12
+(III) by inserting ‘‘or minor or to 
+13
+contact a different child or minor’’ 
+14
+after ‘‘to recontact the child’’; 
+15
+(iii) in subparagraph (B)— 
+16
+(I) by striking ‘‘parent or child’’ 
+17
+and 
+inserting 
+‘‘parent, 
+child, 
+or 
+18
+minor’’; and 
+19
+(II) by striking ‘‘parental con-
+20
+sent’’ each place the term appears and 
+21
+inserting ‘‘verifiable consent’’; 
+22
+(iv) in subparagraph (C)— 
+23
+22:08 Aug 06, 2019
+H3900
+20 
+•HR 3900 IH
+(I) in the matter preceding clause 
+1
+(i), by inserting ‘‘or minor’’ after 
+2
+‘‘child’’ each place the term appears; 
+3
+(II) in clause (i)— 
+4
+(aa) by inserting ‘‘or minor’’ 
+5
+after ‘‘child’’ each place the term 
+6
+appears; and 
+7
+(bb) by inserting ‘‘or minor, 
+8
+as applicable,’’ after ‘‘parent’’ 
+9
+each place the term appears; and 
+10
+(III) in clause (ii)— 
+11
+(aa) by inserting ‘‘or minor, 
+12
+as applicable,’’ after ‘‘parent’’; 
+13
+and 
+14
+(bb) by inserting ‘‘or minor’’ 
+15
+after ‘‘child’’ each place the term 
+16
+appears; and 
+17
+(v) in subparagraph (D)— 
+18
+(I) in the matter preceding clause 
+19
+(i), by inserting ‘‘or minor’’ after 
+20
+‘‘child’’ each place the term appears; 
+21
+(II) in clause (ii), by inserting 
+22
+‘‘or minor’’ after ‘‘child’’; and 
+23
+(III) in the flush text following 
+24
+clause (iii)— 
+25
+22:08 Aug 06, 2019
+H3900
+21 
+•HR 3900 IH
+(aa) by inserting ‘‘or minor, 
+1
+as applicable,’’ after ‘‘parent’’ 
+2
+each place the term appears; and 
+3
+(bb) by inserting ‘‘or minor’’ 
+4
+after ‘‘child’’; and 
+5
+(C) by amending paragraph (3) to read as 
+6
+follows: 
+7
+‘‘(3) CONTINUATION OF SERVICE.—The regula-
+8
+tions shall prohibit an operator from discontinuing 
+9
+service provided to a child or minor on the basis of 
+10
+a request by the parent of the child or by the minor, 
+11
+under the regulations prescribed under clauses 
+12
+(iii)(II) and (iv)(II), respectively, of paragraph 
+13
+(1)(A) to delete personal information collected from 
+14
+the child or minor, to the extent that the operator 
+15
+is capable of providing such service without such in-
+16
+formation.’’. 
+17
+(c) SAFE HARBORS.—Section 1304 of the Children’s 
+18
+Online Privacy Protection Act of 1998 (15 U.S.C. 6503) 
+19
+is amended— 
+20
+(1) in subsection (b)(1), by inserting ‘‘and mi-
+21
+nors’’ after ‘‘children’’; and 
+22
+(2) by adding at the end the following: 
+23
+‘‘(d) PUBLICATION.—The Commission shall publish 
+24
+on the internet website of the Commission any report or 
+25
+22:08 Aug 06, 2019
+H3900
+22 
+•HR 3900 IH
+documentation required by regulation to be submitted to 
+1
+the Commission to carry out this section, except to the 
+2
+extent that the report or documentation contains propri-
+3
+etary information, which the Commission may in its dis-
+4
+cretion redact.’’. 
+5
+(d) ADMINISTRATION AND APPLICABILITY OF ACT.— 
+6
+Section 1306 of the Children’s Online Privacy Protection 
+7
+Act of 1998 (15 U.S.C. 6505) is amended— 
+8
+(1) in subsection (b)— 
+9
+(A) in paragraph (1), by striking ‘‘, in the 
+10
+case of’’ and all that follows and inserting the 
+11
+following: ‘‘by the appropriate Federal banking 
+12
+agency, with respect to any insured depository 
+13
+institution (as those terms are defined in sec-
+14
+tion 3 of that Act (12 U.S.C. 1813));’’; and 
+15
+(B) by striking paragraph (2) and redesig-
+16
+nating paragraphs (3) through (6) as para-
+17
+graphs (2) through (5), respectively; and 
+18
+(2) by adding at the end the following new sub-
+19
+section: 
+20
+‘‘(f) TELECOMMUNICATIONS CARRIERS AND CABLE 
+21
+OPERATORS.— 
+22
+‘‘(1) ENFORCEMENT
+BY
+COMMISSION.—Not-
+23
+withstanding section 5(a)(2) of the Federal Trade 
+24
+Commission Act (15 U.S.C. 45(a)(2)), compliance 
+25
+22:08 Aug 06, 2019
+H3900
+23 
+•HR 3900 IH
+with the requirements imposed under this title shall 
+1
+be enforced by the Commission with respect to any 
+2
+telecommunications carrier (as defined in section 3 
+3
+of the Communications Act of 1934 (47 U.S.C. 
+4
+153)). 
+5
+‘‘(2) RELATIONSHIP TO OTHER LAW.—To the 
+6
+extent that section 222, 338(i), or 631 of the Com-
+7
+munications Act of 1934 (47 U.S.C. 222; 338(i); 
+8
+551) is inconsistent with this title, this title con-
+9
+trols.’’. 
+10
+SEC. 4. FAIR INFORMATION PRACTICES PRINCIPLES. 
+11
+The Fair Information Practices Principles described 
+12
+in this section are the following: 
+13
+(1) COLLECTION LIMITATION PRINCIPLE.—Ex-
+14
+cept as provided in paragraph (3), personal informa-
+15
+tion should be collected from a child or minor only 
+16
+when collection of the personal information is— 
+17
+(A) consistent with the context of a par-
+18
+ticular transaction or service or the relationship 
+19
+of the child or minor with the operator, includ-
+20
+ing collection necessary to fulfill a transaction 
+21
+or provide a service requested by the child or 
+22
+minor; or 
+23
+(B) required or specifically authorized by 
+24
+law. 
+25
+22:08 Aug 06, 2019
+H3900
+24 
+•HR 3900 IH
+(2) DATA QUALITY PRINCIPLE.—The personal 
+1
+information of a child or minor should be accurate, 
+2
+complete, and kept up-to-date to the extent nec-
+3
+essary to fulfill the purposes described in subpara-
+4
+graphs (A) through (D) of paragraph (3). 
+5
+(3) PURPOSE SPECIFICATION PRINCIPLE.—The 
+6
+purposes for which personal information is collected 
+7
+should be specified to the parent of a child or to a 
+8
+minor not later than at the time of the collection of 
+9
+the information. The subsequent use or disclosure of 
+10
+the information should be limited to— 
+11
+(A) fulfillment of the transaction or service 
+12
+requested by the child or minor; 
+13
+(B) support for the internal operations of 
+14
+the website, service, or application, as described 
+15
+in section 312.2 of title 16, Code of Federal 
+16
+Regulations, excluding any activity relating to 
+17
+targeted marketing directed to children, minors, 
+18
+or a device of a child or minor; 
+19
+(C) compliance with legal process or other 
+20
+purposes expressly authorized under specific 
+21
+legal authority; or 
+22
+(D) other purposes— 
+23
+(i) that are specified in a notice to the 
+24
+child or minor; and 
+25
+22:08 Aug 06, 2019
+H3900
+25 
+•HR 3900 IH
+(ii) to which the child or minor has 
+1
+consented under paragraph (7) before the 
+2
+information is used or disclosed for such 
+3
+other purposes. 
+4
+(4) RETENTION LIMITATION PRINCIPLE.— 
+5
+(A) IN GENERAL.—The personal informa-
+6
+tion of a child or minor should not be retained 
+7
+for longer than is necessary to fulfill a trans-
+8
+action or provide a service requested by the 
+9
+child or minor or such other purposes specified 
+10
+in subparagraphs (A) through (D) of paragraph 
+11
+(3). 
+12
+(B) DATA DISPOSAL.—The operator should 
+13
+implement a reasonable and appropriate data 
+14
+disposal policy based on the nature and sensi-
+15
+tivity of personal information described in sub-
+16
+paragraph (A). 
+17
+(5) SECURITY
+SAFEGUARDS
+PRINCIPLE.—The 
+18
+personal information of a child or minor should be 
+19
+protected by reasonable and appropriate security 
+20
+safeguards against risks such as loss or unauthor-
+21
+ized access, destruction, use, modification, or disclo-
+22
+sure. 
+23
+(6) OPENNESS PRINCIPLE.— 
+24
+22:08 Aug 06, 2019
+H3900
+26 
+•HR 3900 IH
+(A) GENERAL
+PRINCIPLE.—The operator 
+1
+should maintain a general policy of openness 
+2
+about developments, practices, and policies with 
+3
+respect to the personal information of a child or 
+4
+minor. 
+5
+(B) PROVISION
+OF
+INFORMATION.—The 
+6
+operator should provide to each parent of a 
+7
+child, or to each minor, using the website, on-
+8
+line service, online application, or mobile appli-
+9
+cation of the operator with a clear and promi-
+10
+nent means— 
+11
+(i) to identify and contact the oper-
+12
+ator, by, at a minimum, disclosing, clearly 
+13
+and prominently, the identity of the oper-
+14
+ator and— 
+15
+(I) in the case of an operator 
+16
+who is an individual, the address of 
+17
+the principal residence of the operator 
+18
+and an email address and telephone 
+19
+number for the operator; or 
+20
+(II) in the case of any other op-
+21
+erator, the address of the principal 
+22
+place of business of the operator and 
+23
+an email address and telephone num-
+24
+ber for the operator; 
+25
+22:08 Aug 06, 2019
+H3900
+27 
+•HR 3900 IH
+(ii) to determine whether the operator 
+1
+possesses any personal information of the 
+2
+child or minor, the nature of any such in-
+3
+formation, and the purposes for which the 
+4
+information was collected and is being re-
+5
+tained; 
+6
+(iii) to obtain any personal informa-
+7
+tion of the child or minor that is in the 
+8
+possession of the operator from the oper-
+9
+ator, or from a person specified by the op-
+10
+erator, within a reasonable time after mak-
+11
+ing a request, at a charge (if any) that is 
+12
+not excessive, in a reasonable manner, and 
+13
+in a form that is readily intelligible to the 
+14
+child or minor; 
+15
+(iv) to challenge the accuracy of per-
+16
+sonal information of the child or minor 
+17
+that is in the possession of the operator; 
+18
+(v) to determine if the child or minor 
+19
+has established the inaccuracy of personal 
+20
+information in a challenge under clause 
+21
+(iv) in order to have such information 
+22
+erased, corrected, completed, or otherwise 
+23
+amended; and 
+24
+22:08 Aug 06, 2019
+H3900
+28 
+•HR 3900 IH
+(vi) to determine the method by which 
+1
+the operator obtains data relevant to the 
+2
+child or minor. 
+3
+(C) LIMITATION.—Nothing in this para-
+4
+graph shall be construed to permit an operator 
+5
+to erase or otherwise modify personal informa-
+6
+tion requested by a law enforcement agency 
+7
+pursuant to legal authority. 
+8
+(7) INDIVIDUAL
+PARTICIPATION
+PRINCIPLE.— 
+9
+The operator should— 
+10
+(A) obtain consent from a parent of a child 
+11
+or from a minor before using or disclosing the 
+12
+personal information of the child or minor for 
+13
+any purpose other than the purposes described 
+14
+in subparagraphs (A) through (C) of paragraph 
+15
+(3); and 
+16
+(B) obtain affirmative express consent 
+17
+from a parent of a child or from a minor before 
+18
+using or disclosing previously collected personal 
+19
+information of the child or minor for purposes 
+20
+that constitute a material change in practice 
+21
+from the original purposes specified to the child 
+22
+or minor under paragraph (3). 
+23
+(8) RACIAL AND SOCIOECONOMIC PROFILING.— 
+24
+The personal information of a child or minor shall 
+25
+22:08 Aug 06, 2019
+H3900
+29 
+•HR 3900 IH
+not be used to direct content to the child or minor, 
+1
+or a group of individuals similar to the child or 
+2
+minor, on the basis of race, socioeconomic factors, or 
+3
+any proxy thereof. 
+4
+SEC. 5. DIGITAL MARKETING BILL OF RIGHTS FOR MINORS. 
+5
+(a) ACTS PROHIBITED.— 
+6
+(1) PROHIBITION.— 
+7
+(A) IN GENERAL.—Except as provided in 
+8
+subparagraph (B), it shall be unlawful for an 
+9
+operator of a website, online service, online ap-
+10
+plication, or mobile application to collect per-
+11
+sonal information from a minor if— 
+12
+(i)(I) the minor is a user of the 
+13
+website, online service, online application, 
+14
+or mobile application; and 
+15
+(II) the operator has constructive 
+16
+knowledge that the minor is a minor; or 
+17
+(ii) the website, online service, online 
+18
+application, or mobile application is di-
+19
+rected to minors. 
+20
+(B) EXCEPTION.—Subparagraph (A) shall 
+21
+not apply to an operator that has adopted and 
+22
+complies with a Digital Marketing Bill of 
+23
+Rights for Minors that is consistent with the 
+24
+22:08 Aug 06, 2019
+H3900
+30 
+•HR 3900 IH
+Fair Information Practices Principles described 
+1
+in section 4. 
+2
+(2) EFFECTIVE
+DATE.—This subsection shall 
+3
+take effect on the date that is 180 days after the 
+4
+promulgation of regulations under subsection (b). 
+5
+(b) REGULATIONS.— 
+6
+(1) IN GENERAL.—Not later than 1 year after 
+7
+the date of enactment of this Act, the Commission 
+8
+shall promulgate, under section 553 of title 5, 
+9
+United States Code, regulations to implement this 
+10
+section, including regulations further defining the 
+11
+Fair Information Practices Principles described in 
+12
+section 4. 
+13
+(2) UPDATES.—Not less frequently than once 
+14
+every 4 years after the date on which regulations are 
+15
+promulgated under paragraph (1), the Commission 
+16
+shall update those regulations as necessary. 
+17
+SEC. 6. TARGETED MARKETING TO CHILDREN OR MINORS. 
+18
+(a) ACTS PROHIBITED.— 
+19
+(1) CHILDREN.—It shall be unlawful for an op-
+20
+erator of a website, online service, online application, 
+21
+or mobile application to use, disclose to third par-
+22
+ties, or compile personal information of a child for 
+23
+purposes of targeted marketing if— 
+24
+22:08 Aug 06, 2019
+H3900
+31 
+•HR 3900 IH
+(A)(i) the child is a user of the website, 
+1
+online service, online application, or mobile ap-
+2
+plication; and 
+3
+(ii) the operator has constructive knowl-
+4
+edge that the child is a child; or 
+5
+(B) the website, online service, online ap-
+6
+plication, or mobile application is directed to a 
+7
+child. 
+8
+(2) MINORS.— 
+9
+(A) PROHIBITION.—Except as provided in 
+10
+subparagraph (B), it shall be unlawful for an 
+11
+operator of a website, online service, online ap-
+12
+plication, or mobile application to use, disclose 
+13
+to third parties, or compile personal informa-
+14
+tion of a minor for purposes of targeted mar-
+15
+keting if— 
+16
+(i)(I) the minor is a user of the 
+17
+website, online service, online application, 
+18
+or mobile application; and 
+19
+(II) the operator has constructive 
+20
+knowledge that the minor is a minor; or 
+21
+(ii) the website, online service, online 
+22
+application, or mobile application is di-
+23
+rected to a minor. 
+24
+22:08 Aug 06, 2019
+H3900
+32 
+•HR 3900 IH
+(B) EXCEPTION.—Subparagraph (A) shall 
+1
+not apply to an operator that has obtained the 
+2
+verifiable consent of the relevant minor. 
+3
+(3) EFFECTIVE
+DATE.—This subsection shall 
+4
+take effect on the date that is 180 days after the 
+5
+promulgation of regulations under subsection (b). 
+6
+(b) REGULATIONS.— 
+7
+(1) IN GENERAL.—Not later than 1 year after 
+8
+the date of enactment of this Act, the Commission 
+9
+shall promulgate, under section 553 of title 5, 
+10
+United States Code, regulations to implement this 
+11
+section. 
+12
+(2) UPDATES.—Not less frequently than once 
+13
+every 4 years after the date on which regulations are 
+14
+promulgated under paragraph (1), the Commission 
+15
+shall update those regulations as necessary. 
+16
+SEC. 7. REMOVAL OF CONTENT. 
+17
+(a) ACTS PROHIBITED.—It is unlawful for an oper-
+18
+ator to make publicly available through a website, online 
+19
+service, online application, or mobile application content 
+20
+or information that contains or displays personal informa-
+21
+tion of children or minors in a manner that violates sub-
+22
+section (b). 
+23
+(b) REQUIREMENT.— 
+24
+22:08 Aug 06, 2019
+H3900
+33 
+•HR 3900 IH
+(1) IN GENERAL.—An operator, to the extent 
+1
+technologically feasible, shall— 
+2
+(A) implement mechanisms that permit a 
+3
+user of the website, online service, online appli-
+4
+cation, or mobile application of the operator to 
+5
+erase or otherwise eliminate content or informa-
+6
+tion that is— 
+7
+(i) submitted to the website, online 
+8
+service, online application, or mobile appli-
+9
+cation by that user; 
+10
+(ii) publicly available through the 
+11
+website, online service, online application, 
+12
+or mobile application; and 
+13
+(iii) contains or displays personal in-
+14
+formation of children or minors; and 
+15
+(B) take appropriate steps to— 
+16
+(i) make users aware of the mecha-
+17
+nisms described in subparagraph (A); and 
+18
+(ii) provide notice to users that the 
+19
+mechanisms described in subparagraph (A) 
+20
+do not necessarily provide comprehensive 
+21
+removal of the content or information sub-
+22
+mitted by users. 
+23
+(2) EXCEPTIONS.—Paragraph (1) shall not be 
+24
+construed to require an operator or third party to 
+25
+22:08 Aug 06, 2019
+H3900
+34 
+•HR 3900 IH
+erase or otherwise eliminate content or information 
+1
+that— 
+2
+(A) any other provision of Federal or State 
+3
+law requires the operator or third party to 
+4
+maintain; or 
+5
+(B) was submitted to the website, online 
+6
+service, online application, or mobile application 
+7
+of the operator by any person other than the 
+8
+user who is attempting to erase or otherwise 
+9
+eliminate the content or information, including 
+10
+content or information submitted by the user 
+11
+that was republished or resubmitted by another 
+12
+person. 
+13
+(c) LIMITATION.—Nothing in this section shall be 
+14
+construed to limit the authority of a law enforcement 
+15
+agency to obtain any content or information from an oper-
+16
+ator as authorized by law or pursuant to an order of a 
+17
+court of competent jurisdiction. 
+18
+(d) EFFECTIVE DATE.—This section shall take effect 
+19
+on the date that is 180 days after the date of enactment 
+20
+of this Act. 
+21
+SEC. 8. PRIVACY DASHBOARD FOR CONNECTED DEVICES 
+22
+FOR CHILDREN AND MINORS. 
+23
+(a) IN GENERAL.—A manufacturer of a connected 
+24
+device directed to a child or minor shall prominently dis-
+25
+22:08 Aug 06, 2019
+H3900
+35 
+•HR 3900 IH
+play on the packaging for the connected device a standard-
+1
+ized and easy-to-understand privacy dashboard, detailing 
+2
+whether, what, and how personal information of a child 
+3
+or minor is— 
+4
+(1) collected from the connected device; 
+5
+(2) transmitted from the connected device; 
+6
+(3) retained on the connected device; 
+7
+(4) retained by the manufacturer or affiliated 
+8
+person; 
+9
+(5) used by the manufacturer or affiliated per-
+10
+son; and 
+11
+(6) protected. 
+12
+(b) FEATURES.—A privacy dashboard under sub-
+13
+section (a) shall inform a consumer of— 
+14
+(1) the extent to which the connected device 
+15
+meets the highest cybersecurity and data security 
+16
+standards, including if and how to obtain security 
+17
+patches; 
+18
+(2) the extent to which the connected device 
+19
+gives— 
+20
+(A) a parent meaningful control over the 
+21
+information of a child of the parent; and 
+22
+(B) a minor meaningful control over the 
+23
+information of the minor; 
+24
+22:08 Aug 06, 2019
+H3900
+36 
+•HR 3900 IH
+(3) the extent to which the device minimizes the 
+1
+collection, retention, and use of information from a 
+2
+child or minor; 
+3
+(4) the location of privacy policies; 
+4
+(5) the type of personal information the con-
+5
+nected device may collect; 
+6
+(6) the minimum length of time during which 
+7
+a connected device will received security patches and 
+8
+software updates; 
+9
+(7) whether the connected device can be used 
+10
+without being connected to the internet; and 
+11
+(8) any other information as the Commission 
+12
+considers appropriate. 
+13
+(c) REGULATIONS.— 
+14
+(1) IN GENERAL.—Not later than 1 year after 
+15
+the date of enactment of this Act, the Commission 
+16
+shall promulgate, under section 553 of title 5, 
+17
+United States Code, regulations to implement this 
+18
+section. 
+19
+(2) UPDATES.—Not less frequently than once 
+20
+every 4 years after the date on which regulations are 
+21
+promulgated under paragraph (1), the Commission 
+22
+shall update those regulations as necessary. 
+23
+22:08 Aug 06, 2019
+H3900
+37 
+•HR 3900 IH
+(d) EFFECTIVE DATE.—Subsections (a) and (b) shall 
+1
+take effect on the date that is 180 days after the promul-
+2
+gation of regulations under subsection (c). 
+3
+SEC. 9. PROHIBITION ON SALE OF CONNECTED DEVICES 
+4
+FOR CHILDREN AND MINORS THAT FAIL TO 
+5
+MEET APPROPRIATE CYBERSECURITY AND 
+6
+DATA SECURITY STANDARDS. 
+7
+(a) PROHIBITION.—Beginning 1 year after the date 
+8
+of enactment of this Act, no person may sell a connected 
+9
+device unless the connected device meets appropriate cy-
+10
+bersecurity and data security standards established by the 
+11
+Commission. 
+12
+(b) CYBERSECURITY AND DATA SECURITY STAND-
+13
+ARDS.— 
+14
+(1) IN GENERAL.—The Commission shall pro-
+15
+mulgate, under section 553 of title 5, United States 
+16
+Code, cybersecurity and data security standards de-
+17
+scribed in subsection (a). 
+18
+(2) CONSIDERATIONS.—In promulgating cyber-
+19
+security and data security standards under para-
+20
+graph (1), the Commission shall— 
+21
+(A) create cybersecurity and data security 
+22
+standards for different subsets of connected de-
+23
+vices based on the varying degrees of— 
+24
+22:08 Aug 06, 2019
+H3900
+38 
+•HR 3900 IH
+(i) cybersecurity and data security 
+1
+risk associated with each subset of con-
+2
+nected device; 
+3
+(ii) sensitivity of information collected, 
+4
+stored, or transmitted by each subset of 
+5
+connected device; and 
+6
+(iii) functionality of each subset of 
+7
+connected device; 
+8
+(B) consider incorporating, to the extent 
+9
+practicable, existing cybersecurity and data se-
+10
+curity standards; and 
+11
+(C) ensure that the cybersecurity and data 
+12
+security standards— 
+13
+(i) are consistent with Fair Informa-
+14
+tion Practice Principles described in sec-
+15
+tion 4; and 
+16
+(ii) promote data minimization. 
+17
+SEC. 10. RULE FOR TREATMENT OF USERS OF WEBSITES, 
+18
+SERVICES, AND APPLICATIONS DIRECTED TO 
+19
+CHILDREN OR MINORS. 
+20
+For the purposes of this Act, an operator of a 
+21
+website, online service, online application, or mobile appli-
+22
+cation that is directed to children or minors shall treat 
+23
+each user of that website, online service, online applica-
+24
+tion, or mobile application as a child or minor, except as 
+25
+22:08 Aug 06, 2019
+H3900
+39 
+•HR 3900 IH
+permitted by the Commission pursuant to a regulation 
+1
+promulgated under this Act. 
+2
+SEC. 11. STUDY OF MOBILE AND ONLINE APPLICATION 
+3
+OVERSIGHT. 
+4
+Not later than 2 years after the date of enactment 
+5
+of this Act, the Commission shall submit to each com-
+6
+mittee of the Senate and each committee of the House 
+7
+of Representatives that has jurisdiction over the Commis-
+8
+sion a report on the processes of platforms that offer mo-
+9
+bile and online applications for ensuring that, of those ap-
+10
+plications that are directed to children or minors, the ap-
+11
+plications operate in accordance with— 
+12
+(1) this Act, the amendments made by this Act, 
+13
+and rules promulgated under this Act; 
+14
+(2) rules promulgated by the Commission under 
+15
+section 5 of the Federal Trade Commission Act (15 
+16
+U.S.C. 45) relating to unfair or deceptive acts or 
+17
+practices in marketing; and 
+18
+(3) any other Federal or State law relating to 
+19
+the privacy of children or minors. 
+20
+SEC. 12. YOUTH PRIVACY AND MARKETING DIVISION. 
+21
+(a) ESTABLISHMENT.—There is established within 
+22
+the Commission a division to be known as the Youth Pri-
+23
+vacy and Marketing Division. 
+24
+22:08 Aug 06, 2019
+H3900
+40 
+•HR 3900 IH
+(b) DIRECTOR.—The Youth Privacy and Marketing 
+1
+Division shall be headed by a Director, who shall be ap-
+2
+pointed by the Chairman of the Commission. 
+3
+(c) DUTIES.—The Youth Privacy and Marketing Di-
+4
+vision established under subsection (a) shall be responsible 
+5
+for addressing, as it relates to this Act and the amend-
+6
+ments made by this Act— 
+7
+(1) the privacy of children and minors; and 
+8
+(2) marketing directed at children and minors. 
+9
+(d) STAFF.—The Director of the Youth Privacy and 
+10
+Marketing Division shall hire adequate staff to carry out 
+11
+the duties under subsection (c), including individuals who 
+12
+are experts in data protection, digital advertising, data 
+13
+analytics, and youth development. 
+14
+(e) REPORTS.—Not later than 1 year after the date 
+15
+of enactment of this Act, and each year thereafter, the 
+16
+Director of the Youth and Privacy Marketing Division 
+17
+shall submit to the Committee on Commerce, Science, and 
+18
+Transportation of the Senate and the Committee on En-
+19
+ergy and Commerce of the House of Representatives a re-
+20
+port that includes— 
+21
+(1) a description of the work of the Youth Pri-
+22
+vacy and Marketing Division on emerging concerns 
+23
+relating to youth privacy and marketing practices; 
+24
+and 
+25
+22:08 Aug 06, 2019
+H3900
+41 
+•HR 3900 IH
+(2) an assessment of how effectively the Com-
+1
+mission has, during the period for which the report 
+2
+is submitted, addressed youth privacy and marketing 
+3
+practices. 
+4
+SEC. 13. ENFORCEMENT AND APPLICABILITY. 
+5
+(a) ENFORCEMENT BY THE COMMISSION.— 
+6
+(1) IN
+GENERAL.—Except as otherwise pro-
+7
+vided, this Act and the regulations prescribed under 
+8
+this Act shall be enforced by the Commission under 
+9
+the Federal Trade Commission Act (15 U.S.C. 41 et 
+10
+seq.). 
+11
+(2) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+12
+TICES.—Subject to subsection (b), a violation of this 
+13
+Act or a regulation prescribed under this Act shall 
+14
+be treated as a violation of a rule defining an unfair 
+15
+or deceptive act or practice prescribed under section 
+16
+18(a)(1)(B) of the Federal Trade Commission Act 
+17
+(15 U.S.C. 57a(a)(1)(B)). 
+18
+(3) ACTIONS BY THE COMMISSION.— 
+19
+(A) IN GENERAL.—Subject to subsection 
+20
+(b), and except as provided in subsection (d)(1), 
+21
+the Commission shall prevent any person from 
+22
+violating this Act or a regulation prescribed 
+23
+under this Act in the same manner, by the 
+24
+same means, and with the same jurisdiction, 
+25
+22:08 Aug 06, 2019
+H3900
+42 
+•HR 3900 IH
+powers, and duties as though all applicable 
+1
+terms and provisions of the Federal Trade 
+2
+Commission Act (15 U.S.C. 41 et seq.) were in-
+3
+corporated into and made a part of this Act, 
+4
+and any person who violates this Act or such 
+5
+regulation shall be subject to the penalties and 
+6
+entitled to the privileges and immunities pro-
+7
+vided in the Federal Trade Commission Act. 
+8
+(B) VIOLATIONS.— 
+9
+(i) 
+IN
+GENERAL.—In 
+an 
+action 
+10
+brought by the Commission to enforce this 
+11
+Act and the regulations prescribed under 
+12
+this Act, each connected device that fails to 
+13
+meet a standard promulgated under this 
+14
+Act shall be treated as a separate violation. 
+15
+(ii) 
+CIVIL
+PENALTY.—Notwith-
+16
+standing section 5(m) of the Federal Trade 
+17
+Commission Act (15 U.S.C. 45(m)), a civil 
+18
+penalty recovered for a violation of this Act 
+19
+or a regulation prescribed under this Act 
+20
+may be in excess of the amounts provided 
+21
+for in that section as the court finds ap-
+22
+propriate to deter violations of this Act 
+23
+and regulations prescribed under this Act. 
+24
+22:08 Aug 06, 2019
+H3900
+43 
+•HR 3900 IH
+(iii) FIRST VIOLATIONS.—In an action 
+1
+brought by the Commission to enforce this 
+2
+Act and the regulations prescribed under 
+3
+this Act, the Commission may seek a civil 
+4
+penalty for any violation of this Act or reg-
+5
+ulation prescribed under this Act, including 
+6
+any violation that is the first violation of 
+7
+this Act or a regulation prescribed under 
+8
+this Act that a person against whom the 
+9
+action is brought has committed. 
+10
+(b) ENFORCEMENT
+BY CERTAIN OTHER AGEN-
+11
+CIES.—Notwithstanding subsection (a), compliance with 
+12
+the requirements imposed under this Act shall be enforced 
+13
+as follows: 
+14
+(1) Under section 8 of the Federal Deposit In-
+15
+surance Act (12 U.S.C. 1818) by the appropriate 
+16
+Federal banking agency, with respect to an insured 
+17
+depository institution (as such terms are defined in 
+18
+section 3 of such Act (12 U.S.C. 1813)). 
+19
+(2) Under the Federal Credit Union Act (12 
+20
+U.S.C. 1751 et seq.) by the National Credit Union 
+21
+Administration Board, with respect to any Federal 
+22
+credit union. 
+23
+(3) Under part A of subtitle VII of title 49, 
+24
+United States Code, by the Secretary of Transpor-
+25
+22:08 Aug 06, 2019
+H3900
+44 
+•HR 3900 IH
+tation, with respect to any air carrier or foreign air 
+1
+carrier subject to such part. 
+2
+(4) Under the Packers and Stockyards Act, 
+3
+1921 (7 U.S.C. 181 et seq.) (except as provided in 
+4
+section 406 of that Act (7 U.S.C. 226; 227)) by the 
+5
+Secretary of Agriculture, with respect to any activi-
+6
+ties subject to that Act. 
+7
+(5) Under the Farm Credit Act of 1971 (12 
+8
+U.S.C. 2001 et seq.) by the Farm Credit Adminis-
+9
+tration, with respect to any Federal land bank, Fed-
+10
+eral land bank association, Federal intermediate 
+11
+credit bank, or production credit association. 
+12
+(c) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+13
+ERAL.— 
+14
+(1) IN GENERAL.— 
+15
+(A) CIVIL ACTIONS.—In any case in which 
+16
+the attorney general of a State has reason to 
+17
+believe that an interest of the residents of that 
+18
+State has been or is threatened or adversely af-
+19
+fected by the engagement of any person in a 
+20
+practice that violates this Act or a regulation 
+21
+prescribed under this Act, the State, as parens 
+22
+patriae, may bring a civil action on behalf of 
+23
+the residents of the State in a district court of 
+24
+22:08 Aug 06, 2019
+H3900
+45 
+•HR 3900 IH
+the United States of appropriate jurisdiction 
+1
+to— 
+2
+(i) enjoin that practice; 
+3
+(ii) enforce compliance with this Act 
+4
+or such regulation; 
+5
+(iii) obtain damages, restitution, or 
+6
+other compensation on behalf of residents 
+7
+of the State; or 
+8
+(iv) obtain such other relief as the 
+9
+court may consider to be appropriate. 
+10
+(B) NOTICE.— 
+11
+(i) IN GENERAL.—Before filing an ac-
+12
+tion under subparagraph (A), the attorney 
+13
+general of the State involved shall provide 
+14
+to the Commission— 
+15
+(I) written notice of that action; 
+16
+and 
+17
+(II) a copy of the complaint for 
+18
+that action. 
+19
+(ii) EXEMPTION.— 
+20
+(I) IN
+GENERAL.—Clause (i) 
+21
+shall not apply with respect to the fil-
+22
+ing of an action by an attorney gen-
+23
+eral of a State under this paragraph 
+24
+if the attorney general of the State 
+25
+22:08 Aug 06, 2019
+H3900
+46 
+•HR 3900 IH
+determines that it is not feasible to 
+1
+provide the notice described in that 
+2
+clause before the filing of the action. 
+3
+(II) NOTIFICATION.—In an ac-
+4
+tion described in subclause (I), the at-
+5
+torney general of a State shall provide 
+6
+notice and a copy of the complaint to 
+7
+the Commission at the same time as 
+8
+the attorney general files the action. 
+9
+(2) INTERVENTION.— 
+10
+(A) IN
+GENERAL.—On receiving notice 
+11
+under paragraph (1)(B), the Commission shall 
+12
+have the right to intervene in the action that is 
+13
+the subject of the notice. 
+14
+(B) EFFECT
+OF
+INTERVENTION.—If the 
+15
+Commission intervenes in an action under para-
+16
+graph (1), it shall have the right— 
+17
+(i) to be heard with respect to any 
+18
+matter that arises in that action; and 
+19
+(ii) to file a petition for appeal. 
+20
+(3) CONSTRUCTION.—For purposes of bringing 
+21
+any civil action under paragraph (1), nothing in this 
+22
+Act shall be construed to prevent an attorney gen-
+23
+eral of a State from exercising the powers conferred 
+24
+22:08 Aug 06, 2019
+H3900
+47 
+•HR 3900 IH
+on the attorney general by the laws of that State 
+1
+to— 
+2
+(A) conduct investigations; 
+3
+(B) administer oaths or affirmations; or 
+4
+(C) compel the attendance of witnesses or 
+5
+the production of documentary and other evi-
+6
+dence. 
+7
+(4) ACTIONS
+BY
+THE
+COMMISSION.—In any 
+8
+case in which an action is instituted by or on behalf 
+9
+of the Commission for violation of this Act or a reg-
+10
+ulation prescribed under this Act, no State may, 
+11
+during the pendency of that action, institute an ac-
+12
+tion under paragraph (1) against any defendant 
+13
+named in the complaint in the action instituted by 
+14
+or on behalf of the Commission for that violation. 
+15
+(5) VENUE; SERVICE OF PROCESS.— 
+16
+(A) VENUE.—Any action brought under 
+17
+paragraph (1) may be brought in the district 
+18
+court of the United States that meets applicable 
+19
+requirements relating to venue under section 
+20
+1391 of title 28, United States Code. 
+21
+(B) SERVICE OF PROCESS.—In an action 
+22
+brought under paragraph (1), process may be 
+23
+served in any district in which the defendant— 
+24
+(i) is an inhabitant; or 
+25
+22:08 Aug 06, 2019
+H3900
+48 
+•HR 3900 IH
+(ii) may be found. 
+1
+(d) TELECOMMUNICATIONS CARRIERS AND CABLE 
+2
+OPERATORS.— 
+3
+(1) ENFORCEMENT BY COMMISSION.—Notwith-
+4
+standing section 5(a)(2) of the Federal Trade Com-
+5
+mission Act (15 U.S.C. 45(a)(2)), compliance with 
+6
+the requirements imposed under this Act shall be en-
+7
+forced by the Commission with respect to any tele-
+8
+communications carrier (as defined in section 3 of 
+9
+the Communications Act of 1934 (47 U.S.C. 153)). 
+10
+(2) RELATIONSHIP TO OTHER LAWS.—To the 
+11
+extent that section 222, 338(i), or 631 of the Com-
+12
+munications Act of 1934 (47 U.S.C. 222; 338(i); 
+13
+551) is inconsistent with this Act, this Act controls. 
+14
+(e) SAFE HARBORS.— 
+15
+(1) DEFINITION.—In this subsection— 
+16
+(A) the term ‘‘applicable section’’ means 
+17
+section 5, 6, 7, 8, or 9 of this Act; 
+18
+(B) the term ‘‘covered operator’’ means an 
+19
+operator subject to guidelines approved under 
+20
+paragraph (2); 
+21
+(C) the term ‘‘requesting entity’’ means an 
+22
+entity that submits a safe harbor request to the 
+23
+Commission; and 
+24
+22:08 Aug 06, 2019
+H3900
+49 
+•HR 3900 IH
+(D) the term ‘‘safe harbor request’’ means 
+1
+a request to have self-regulatory guidelines de-
+2
+scribed in paragraph (2)(A) approved under 
+3
+that paragraph. 
+4
+(2) GUIDELINES.— 
+5
+(A) IN GENERAL.—An operator may sat-
+6
+isfy the requirements of regulations issued 
+7
+under an applicable section by following a set of 
+8
+self-regulatory guidelines, issued by representa-
+9
+tives of the marketing or online industries, or 
+10
+by other persons, that, after notice and an op-
+11
+portunity for comment, are approved by the 
+12
+Commission upon making a determination that 
+13
+the guidelines meet the requirements of the reg-
+14
+ulations issued under that applicable section. 
+15
+(B) 
+EXPEDITED
+RESPONSE
+TO
+RE-
+16
+QUESTS.—Not later than 180 days after the 
+17
+date on which a safe harbor request is filed 
+18
+under subparagraph (A), the Commission shall 
+19
+act upon the request set forth in writing the 
+20
+conclusions of the Commission with regard to 
+21
+the request. 
+22
+(C) APPEALS.—A requesting entity may 
+23
+appeal the final action of the Commission under 
+24
+subparagraph (B), or a failure by the Commis-
+25
+22:08 Aug 06, 2019
+H3900
+50 
+•HR 3900 IH
+sion to act in the period described in that para-
+1
+graph, to a district court of the United States 
+2
+of appropriate jurisdiction, as provided for in 
+3
+section 706 of title 5, United States Code. 
+4
+(3) INCENTIVES.— 
+5
+(A) SELF-REGULATORY
+INCENTIVES.—In 
+6
+prescribing regulations under an applicable sec-
+7
+tion, the Commission shall provide incentives 
+8
+for self-regulation by covered operators to im-
+9
+plement the protections afforded children and 
+10
+minors, as applicable, under the regulatory re-
+11
+quirements described in those sections. 
+12
+(B) DEEMED
+COMPLIANCE.—The incen-
+13
+tives under subparagraph (A) shall include pro-
+14
+visions for ensuring that a covered operator will 
+15
+be deemed to be in compliance with the require-
+16
+ments of the regulations under an applicable 
+17
+section if that person complies with guidelines 
+18
+approved under paragraph (2). 
+19
+(4) REGULATIONS.—In prescribing regulations 
+20
+relating to safe harbor guidelines under an applica-
+21
+ble section, the Commission shall— 
+22
+(A) establish criteria for the approval of 
+23
+guidelines that will ensure that a covered oper-
+24
+ator provides substantially the same or greater 
+25
+22:08 Aug 06, 2019
+H3900
+51 
+•HR 3900 IH
+protections for children and minors, as applica-
+1
+ble, as those contained in the regulations issued 
+2
+under the applicable section; and 
+3
+(B) require that any report or documenta-
+4
+tion required to be submitted to the Commis-
+5
+sion by a covered operator or requesting entity 
+6
+will be published on the internet website of the 
+7
+Commission, except to the extent that the re-
+8
+port or documentation contains proprietary in-
+9
+formation, which the Commission may in its 
+10
+discretion redact. 
+11
+(5) REPORT BY THE INSPECTOR GENERAL.— 
+12
+(A) IN GENERAL.—Not later than 2 years 
+13
+after the date of enactment of this Act, and 
+14
+once each 2 years thereafter, the Inspector Gen-
+15
+eral of the Commission shall submit to the 
+16
+Commission and each committee of the Senate 
+17
+and each committee of the House of Represent-
+18
+atives that has jurisdiction over the Commission 
+19
+a report regarding the safe harbor provisions 
+20
+under this subparagraph, which shall include— 
+21
+(i) an analysis of whether the safe 
+22
+harbor provisions are— 
+23
+(I) operating fairly and effec-
+24
+tively; and 
+25
+22:08 Aug 06, 2019
+H3900
+52 
+•HR 3900 IH
+(II) effectively protecting the in-
+1
+terests of children and minors; and 
+2
+(ii) proposals for policy changes that 
+3
+would improve the effectiveness of the safe 
+4
+harbor provisions. 
+5
+(B) PUBLICATION.—Not later than 10 
+6
+days after the date on which a report under 
+7
+subparagraph (A) is submitted, the Commission 
+8
+shall publish the report on the internet website 
+9
+of the Commission. 
+10
+(f) EFFECTIVE DATE.—This section shall take effect 
+11
+on the date that is 90 days after the date of enactment 
+12
+of this Act. 
+13
+Æ 
+22:08 Aug 06, 2019
+H3900

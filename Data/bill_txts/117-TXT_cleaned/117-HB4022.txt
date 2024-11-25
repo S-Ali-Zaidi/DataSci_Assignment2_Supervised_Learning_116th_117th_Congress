@@ -1,0 +1,1994 @@
+A BILL 
+To amend title 18, United States Code, to regulate the 
+use of cell-site simulators, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cell-Site Simulator 
+4
+Warrant Act of 2021’’. 
+5
+01:31 Jul 15, 2021
+H4022
+2 
+•HR 4022 IH
+SEC. 2. PROHIBITION ON CELL-SITE SIMULATOR USE. 
+1
+(a) PROHIBITION.—Chapter 205 of title 18, United 
+2
+States Code, is amended by adding at the end the fol-
+3
+lowing: 
+4
+‘‘§ 3119. Cell-site simulators 
+5
+‘‘(a) PROHIBITION OF USE.— 
+6
+‘‘(1) IN GENERAL.—Except as provided in sub-
+7
+section (d), it shall be unlawful— 
+8
+‘‘(A) for any individual or entity to know-
+9
+ingly use a cell-site simulator in the United 
+10
+States; or 
+11
+‘‘(B) for an element of the intelligence 
+12
+community to use a cell-site simulator outside 
+13
+the United States if the subject of the surveil-
+14
+lance is a United States person. 
+15
+‘‘(2) RULE
+OF
+CONSTRUCTION.—Nothing in 
+16
+paragraph (1) shall be construed to authorize a law 
+17
+enforcement agency of a governmental entity to use 
+18
+a cell-site simulator outside the United States. 
+19
+‘‘(b) PENALTY.—Any individual or entity that vio-
+20
+lates subsection (a)(1) shall be fined not more than 
+21
+$250,000. 
+22
+‘‘(c) PROHIBITION OF USE AS EVIDENCE.— 
+23
+‘‘(1) IN GENERAL.—Except as provided in para-
+24
+graph (2), no information acquired through the use 
+25
+of a cell-site simulator in violation of subsection 
+26
+01:31 Jul 15, 2021
+H4022
+3 
+•HR 4022 IH
+(a)(1), and no evidence derived therefrom, may be 
+1
+received in evidence in any trial, hearing, or other 
+2
+proceeding in or before any court, grand jury, de-
+3
+partment, officer, agency, regulatory body, legislative 
+4
+committee, or other authority of the United States, 
+5
+a State, or a political subdivision thereof. 
+6
+‘‘(2) EXCEPTION
+FOR
+ENFORCEMENT.—Infor-
+7
+mation acquired through the use of a cell-site simu-
+8
+lator in violation of subsection (a)(1) by a person, 
+9
+and evidence derived therefrom, may be received in 
+10
+evidence in any trial, hearing, or other proceeding 
+11
+described in paragraph (1) of this subsection relat-
+12
+ing to the alleged violation of subsection (a)(1) in 
+13
+connection with such use. 
+14
+‘‘(d) EXCEPTIONS.— 
+15
+‘‘(1) IN GENERAL.— 
+16
+‘‘(A) WARRANT.— 
+17
+‘‘(i) IN GENERAL.—Subsection (a)(1) 
+18
+shall not apply to the use of a cell-site sim-
+19
+ulator by a law enforcement agency of a 
+20
+governmental entity under a warrant 
+21
+issued— 
+22
+‘‘(I) in accordance with this sub-
+23
+paragraph; and 
+24
+01:31 Jul 15, 2021
+H4022
+4 
+•HR 4022 IH
+‘‘(II) using the procedures de-
+1
+scribed in, and in accordance with the 
+2
+requirements for executing and re-
+3
+turning a warrant under, the Federal 
+4
+Rules of Criminal Procedure (or, in 
+5
+the case of a State court, issued using 
+6
+State warrant and execution and re-
+7
+turn procedures and, in the case of a 
+8
+court-martial 
+or 
+other 
+proceeding 
+9
+under chapter 47 of title 10 (the Uni-
+10
+form Code of Military Justice), issued 
+11
+under section 846 of that title and in 
+12
+accordance with the requirements for 
+13
+executing and returning such a war-
+14
+rant, in accordance with regulations 
+15
+prescribed by the President) by a 
+16
+court of competent jurisdiction. 
+17
+‘‘(ii) REQUIREMENTS.—A court may 
+18
+issue a warrant described in clause (i) (ex-
+19
+cept, with respect to a State court, to the 
+20
+extent use of a cell-site simulator by a law 
+21
+enforcement agency of a governmental en-
+22
+tity is prohibited by the law of the State) 
+23
+only if the law enforcement agency— 
+24
+01:31 Jul 15, 2021
+H4022
+5 
+•HR 4022 IH
+‘‘(I) demonstrates that other in-
+1
+vestigative procedures, including elec-
+2
+tronic location tracking methods that 
+3
+solely collect records of the investiga-
+4
+tive target— 
+5
+‘‘(aa) have been tried and 
+6
+have failed; or 
+7
+‘‘(bb) reasonably appear to 
+8
+be— 
+9
+‘‘(AA) unlikely to suc-
+10
+ceed if tried; or 
+11
+‘‘(BB) too dangerous; 
+12
+‘‘(II) specifies the likely area of 
+13
+effect of the cell-site simulator to be 
+14
+used and the time that the cell-site 
+15
+simulator will be in operation; 
+16
+‘‘(III) certifies that the requested 
+17
+area of effect and time of operation 
+18
+are the narrowest reasonably possible 
+19
+to obtain the necessary information; 
+20
+and 
+21
+‘‘(IV) demonstrates that the re-
+22
+quested use of a cell-site simulator 
+23
+would be in compliance with applica-
+24
+ble provisions of the Communications 
+25
+01:31 Jul 15, 2021
+H4022
+6 
+•HR 4022 IH
+Act of 1934 (47 U.S.C. 151 et seq.) 
+1
+and the rules of the Federal Commu-
+2
+nications Commission. 
+3
+‘‘(iii) CONSIDERATIONS.—In consid-
+4
+ering an application for a warrant de-
+5
+scribed in clause (i), the court shall— 
+6
+‘‘(I) weigh the need of the gov-
+7
+ernment to enforce the law and appre-
+8
+hend criminals against the likelihood 
+9
+and impact of any potential negative 
+10
+side effects disclosed by the govern-
+11
+ment under subparagraph (C); and 
+12
+‘‘(II) not grant a request for a 
+13
+warrant that would put public safety 
+14
+at risk or unreasonably inconvenience 
+15
+the community. 
+16
+‘‘(iv) PERIOD OF INITIAL AUTHORIZA-
+17
+TION.—No warrant described in clause (i) 
+18
+may authorize the use of a cell site simu-
+19
+lator for any period longer than is nec-
+20
+essary to achieve the objective of the au-
+21
+thorization, nor in any event for longer 
+22
+than 30 days. 
+23
+‘‘(v) EXTENSIONS.— 
+24
+01:31 Jul 15, 2021
+H4022
+7 
+•HR 4022 IH
+‘‘(I) IN GENERAL.—A court may 
+1
+grant extensions of a warrant de-
+2
+scribed in clause (i), but only upon 
+3
+application for an extension made in 
+4
+accordance with clause (i) and the 
+5
+court considering the factors described 
+6
+in clause (iii) and determining the re-
+7
+quirements under clause (ii) are met. 
+8
+‘‘(II) PERIOD OF EXTENSION.— 
+9
+The period of an extension of a war-
+10
+rant shall be no longer than the au-
+11
+thorizing judge determines necessary 
+12
+to achieve the purposes for which the 
+13
+extension was granted, nor in any 
+14
+event for longer than 30 days. 
+15
+‘‘(vi) 
+TERMINATION
+PROVISION.— 
+16
+Each warrant described in clause (i), and 
+17
+each extension thereof, shall contain a pro-
+18
+vision that the authorization to use the cell 
+19
+site simulator shall be executed as soon as 
+20
+practicable and shall terminate upon at-
+21
+tainment of the authorized objective, or in 
+22
+any event in 30 days. 
+23
+‘‘(vii) START OF 30-DAY PERIODS.— 
+24
+The 30-day periods described in clauses 
+25
+01:31 Jul 15, 2021
+H4022
+8 
+•HR 4022 IH
+(iv), (v)(II), and (vi) shall begin on the 
+1
+earlier of— 
+2
+‘‘(I) the date on which a law en-
+3
+forcement agency first begins to use 
+4
+the cell site simulator as authorized 
+5
+by the warrant, or extension thereof; 
+6
+or 
+7
+‘‘(II) the date that is 10 days 
+8
+after the warrant, or extension there-
+9
+of, is issued. 
+10
+‘‘(B) EMERGENCY.— 
+11
+‘‘(i) IN GENERAL.—Subject to clause 
+12
+(ii), subsection (a)(1) shall not apply to the 
+13
+use of a cell-site simulator by a law en-
+14
+forcement agency of a governmental entity, 
+15
+or use of a cell-site simulator as part of as-
+16
+sistance provided by a component of the 
+17
+Department of Defense or an Armed Force 
+18
+to such a law enforcement agency, if— 
+19
+‘‘(I) the governmental entity rea-
+20
+sonably determines an emergency ex-
+21
+ists that— 
+22
+‘‘(aa) involves— 
+23
+01:31 Jul 15, 2021
+H4022
+9 
+•HR 4022 IH
+‘‘(AA) immediate dan-
+1
+ger of death or serious phys-
+2
+ical injury to any person; 
+3
+‘‘(BB) 
+conspiratorial 
+4
+activities characteristic of 
+5
+organized crime; or 
+6
+‘‘(CC) 
+an 
+immediate 
+7
+threat to a national security 
+8
+interest; and 
+9
+‘‘(bb) requires use of a cell- 
+10
+site simulator before a warrant 
+11
+described in subparagraph (A) 
+12
+can, with due diligence, be ob-
+13
+tained; and 
+14
+‘‘(II) except in an instance in 
+15
+which the governmental entity is try-
+16
+ing to locate a lost or missing person, 
+17
+locate someone believed to have been 
+18
+abducted or kidnapped, or find vic-
+19
+tims, dead or alive, in an area where 
+20
+a natural disaster, terrorist attack, or 
+21
+other mass casualty event has taken 
+22
+place— 
+23
+‘‘(aa) there are grounds 
+24
+upon which a warrant described 
+25
+01:31 Jul 15, 2021
+H4022
+10 
+•HR 4022 IH
+in subparagraph (A) could be en-
+1
+tered to authorize such use; and 
+2
+‘‘(bb) the governmental enti-
+3
+ty applies for a warrant described 
+4
+in subparagraph (A) approving 
+5
+such use not later than 48 hours 
+6
+after such use begins, and takes 
+7
+such steps to expedite the consid-
+8
+eration of such application as 
+9
+may be possible. 
+10
+‘‘(ii) TERMINATION
+OF
+EMERGENCY 
+11
+USE.— 
+12
+‘‘(I) IN
+GENERAL.—A law en-
+13
+forcement agency of a governmental 
+14
+entity shall immediately terminate use 
+15
+of a cell-site simulator under clause 
+16
+(i) of this subparagraph at the earlier 
+17
+of the time the information sought is 
+18
+obtained or the time the application 
+19
+for a warrant described in subpara-
+20
+graph (A) is denied. 
+21
+‘‘(II) WARRANT DENIED.—If an 
+22
+application for a warrant described in 
+23
+clause (i)(II)(bb) is denied— 
+24
+01:31 Jul 15, 2021
+H4022
+11 
+•HR 4022 IH
+‘‘(aa) any information or 
+1
+evidence derived from use of the 
+2
+cell-site simulator shall be— 
+3
+‘‘(AA) subject to sub-
+4
+section (c); and 
+5
+‘‘(BB) 
+promptly 
+de-
+6
+stroyed by the applicable law 
+7
+enforcement agency; and 
+8
+‘‘(bb) the applicable law en-
+9
+forcement agency shall serve an 
+10
+inventory on each person named 
+11
+in the application. 
+12
+‘‘(C) DISCLOSURES REQUIRED IN APPLICA-
+13
+TION.—In any application for a warrant au-
+14
+thorizing the use of a cell-site simulator under 
+15
+subparagraph (A) or (B), the governmental en-
+16
+tity shall include the following: 
+17
+‘‘(i) A disclosure of any potential dis-
+18
+ruption of the ability of the subject of the 
+19
+surveillance or bystanders to use commer-
+20
+cial mobile radio services or private mobile 
+21
+services, including using advanced commu-
+22
+nications services, to make or receive, as 
+23
+applicable— 
+24
+01:31 Jul 15, 2021
+H4022
+12 
+•HR 4022 IH
+‘‘(I) emergency calls (including 
+1
+9–1–1 calls); 
+2
+‘‘(II) calls to the universal tele-
+3
+phone number within the United 
+4
+States for the purpose of the national 
+5
+suicide prevention and mental health 
+6
+crisis hotline system under designated 
+7
+under paragraph (4) of section 251(e) 
+8
+of the Communications Act of 1934 
+9
+(47 U.S.C. 251(e)), as added by the 
+10
+National Suicide Hotline Designation 
+11
+Act of 2020 (Public Law 116–172; 
+12
+134 Stat. 832); 
+13
+‘‘(III) calls to the nationwide toll- 
+14
+free number for the poison control 
+15
+centers established under section 1271 
+16
+of the Public Health Service Act (42 
+17
+U.S.C. 300d–71); 
+18
+‘‘(IV) calls using telecommuni-
+19
+cations relay services; or 
+20
+‘‘(V) any other communications 
+21
+or transmissions. 
+22
+‘‘(ii) A certification that the specific 
+23
+model of the cell-site simulator to be used 
+24
+has been inspected by a third party that is 
+25
+01:31 Jul 15, 2021
+H4022
+13 
+•HR 4022 IH
+an accredited testing laboratory recognized 
+1
+by the Federal Communications Commis-
+2
+sion to verify the accuracy of the disclosure 
+3
+under clause (i). 
+4
+‘‘(iii) A disclosure of the methods and 
+5
+precautions that will be used to minimize 
+6
+disruption, including— 
+7
+‘‘(I) any limit on the length of 
+8
+time the cell-site simulator can be in 
+9
+continuous operation; and 
+10
+‘‘(II) any user-defined limit on 
+11
+the transmission range of the cell-site 
+12
+simulator. 
+13
+‘‘(iv) A disclosure as to whether the 
+14
+cell-site simulator will primarily be used at 
+15
+a gathering where constitutionally pro-
+16
+tected activity, including speech, will occur. 
+17
+‘‘(D) NOTICE.— 
+18
+‘‘(i) IN GENERAL.—Within a reason-
+19
+able time, but, subject to clause (ii), not 
+20
+later than 90 days after the filing of an 
+21
+application for a warrant authorizing the 
+22
+use of a cell-site simulator which is denied 
+23
+or the termination of the period of such a 
+24
+warrant, or extensions thereof, the issuing 
+25
+01:31 Jul 15, 2021
+H4022
+14 
+•HR 4022 IH
+or denying judge shall cause to be served 
+1
+on the persons named in the warrant or 
+2
+the application, and, as the judge may de-
+3
+termine, in the discretion of the judge, is 
+4
+in the interest of justice, other persons 
+5
+about whose devices the government ob-
+6
+tained information with the cell site simu-
+7
+lator, an inventory which shall include no-
+8
+tice of— 
+9
+‘‘(I) the fact of the entry of the 
+10
+warrant or the application; 
+11
+‘‘(II) the date of the entry and 
+12
+the period of authorized, approved or 
+13
+disapproved use of a cell-site simu-
+14
+lator, or the denial of the application; 
+15
+and 
+16
+‘‘(III) whether, during the pe-
+17
+riod— 
+18
+‘‘(aa) 
+information 
+about 
+19
+their device was, or was not, ob-
+20
+tained by the government; 
+21
+‘‘(bb) their location was, or 
+22
+was not, tracked; and 
+23
+‘‘(cc) their communications 
+24
+were, or were not, intercepted. 
+25
+01:31 Jul 15, 2021
+H4022
+15 
+•HR 4022 IH
+‘‘(ii) DELAY OF NOTICE.—On an ex 
+1
+parte showing of good cause to a court of 
+2
+competent jurisdiction, the serving of the 
+3
+inventory required under clause (i) may be 
+4
+postponed. 
+5
+‘‘(2) 
+FOREIGN
+INTELLIGENCE
+SURVEIL-
+6
+LANCE.—Use of a cell-site simulator by an element 
+7
+of the intelligence community shall not be subject to 
+8
+subsection (a)(1) if it is conducted in a manner that 
+9
+is in accordance with— 
+10
+‘‘(A) title I of the Foreign Intelligence 
+11
+Surveillance Act of 1978 (50 U.S.C. 1801 et 
+12
+seq.) (including testing or training authorized 
+13
+under paragraph (1) or (3) of section 105(g) of 
+14
+such Act (50 U.S.C. 1805(g)) (including such 
+15
+testing or training conducted in conjunction 
+16
+with a component of the Department of De-
+17
+fense or an Armed Force), if any information 
+18
+obtained during such testing or training (in-
+19
+cluding metadata) is destroyed after its use for 
+20
+such testing or training); or 
+21
+‘‘(B) section 704(c)(1)(E) of such Act (50 
+22
+U.S.C. 1881c(c)(1)(E)). 
+23
+‘‘(3) RESEARCH.—Subsection (a)(1) shall not 
+24
+apply to the use of a cell-site simulator in order to 
+25
+01:31 Jul 15, 2021
+H4022
+16 
+•HR 4022 IH
+engage, in good-faith, in research or teaching by a 
+1
+person that is not— 
+2
+‘‘(A) a law enforcement agency of a gov-
+3
+ernmental entity; 
+4
+‘‘(B) an element of the intelligence commu-
+5
+nity; or 
+6
+‘‘(C) acting as an agent thereof. 
+7
+‘‘(4) PROTECTIVE SERVICES.— 
+8
+‘‘(A) IN
+GENERAL.—Subsection (a)(1) 
+9
+shall not apply to the use of a cell-site simu-
+10
+lator in the performance of protective duties 
+11
+pursuant to section 3056 of this title, or as oth-
+12
+erwise authorized by law. 
+13
+‘‘(B) PROHIBITION
+ON
+USE
+AS
+EVI-
+14
+DENCE.—No information acquired through the 
+15
+use of a cell-site simulator under the authority 
+16
+under subparagraph (A), and no evidence de-
+17
+rived therefrom, may be received in evidence in 
+18
+any trial, hearing, or other proceeding in or be-
+19
+fore any court, grand jury, department, officer, 
+20
+agency, regulatory body, legislative committee, 
+21
+or other authority of the United States, a State, 
+22
+or a political subdivision thereof. 
+23
+‘‘(C) NO
+BAR
+TO
+OTHER
+AUTHORIZED 
+24
+USE.—Nothing in subparagraph (A) or (B) 
+25
+01:31 Jul 15, 2021
+H4022
+17 
+•HR 4022 IH
+shall be construed to prohibit the United States 
+1
+Secret Service from using a cell-site simulator 
+2
+in accordance with a provision of this section 
+3
+other than subparagraph (A). 
+4
+‘‘(5) CONTRABAND INTERDICTION BY CORREC-
+5
+TIONAL
+FACILITIES.—Subsection (a)(1) shall not 
+6
+apply to the use of a contraband interdiction system 
+7
+if the correctional facility or the entity operating the 
+8
+contraband interdiction system for the benefit of the 
+9
+correctional facility— 
+10
+‘‘(A) has— 
+11
+‘‘(i) taken reasonable steps to restrict 
+12
+transmissions by the contraband interdic-
+13
+tion system to cellular devices physically lo-
+14
+cated within the property of the correc-
+15
+tional facility; 
+16
+‘‘(ii) posted signs around the correc-
+17
+tional facility informing visitors and staff 
+18
+that the correctional facility employs such 
+19
+a contraband interdiction system; and 
+20
+‘‘(iii) complied with any relevant regu-
+21
+lations promulgated by the Federal Com-
+22
+munications Commission and, as applica-
+23
+ble, policies issued by the National Tele-
+24
+01:31 Jul 15, 2021
+H4022
+18 
+•HR 4022 IH
+communications and Information Adminis-
+1
+tration; 
+2
+‘‘(B) annually tests and evaluates compli-
+3
+ance with subparagraph (A) in accordance with 
+4
+best practices, which shall be issued by the Fed-
+5
+eral Communications Commission; and 
+6
+‘‘(C) not later than 10 business days after 
+7
+identifying an issue relating to the use of the 
+8
+contraband interdiction system, whether in the 
+9
+course of normal business operations or con-
+10
+ducting testing and evaluation, submits to the 
+11
+Federal Communications Commission a report 
+12
+describing the issues identified and the steps 
+13
+taken to address the issues. 
+14
+‘‘(6) TESTING
+AND
+TRAINING
+BY
+LAW
+EN-
+15
+FORCEMENT.—Subsection (a)(1) shall not apply to 
+16
+the use of a cell-site simulator by a law enforcement 
+17
+agency of a governmental entity in the normal 
+18
+course of official duties that is not targeted against 
+19
+the communications of any particular person or per-
+20
+sons, under procedures approved by the Attorney 
+21
+General, solely to— 
+22
+‘‘(A) test the capability of electronic equip-
+23
+ment, if— 
+24
+01:31 Jul 15, 2021
+H4022
+19 
+•HR 4022 IH
+‘‘(i) it is not reasonable to obtain the 
+1
+consent of the persons incidentally sub-
+2
+jected to the surveillance; 
+3
+‘‘(ii) the test is limited in extent and 
+4
+duration to that necessary to determine to 
+5
+capability of the equipment; 
+6
+‘‘(iii) any information obtained during 
+7
+such testing (including metadata) is re-
+8
+tained and used only for the purpose of de-
+9
+termining the capability of the equipment, 
+10
+is disclosed only to test personnel, and is 
+11
+destroyed before or immediately upon com-
+12
+pletion of the test; and 
+13
+‘‘(iv) the test is for a period of not 
+14
+longer than 90 days, unless the law en-
+15
+forcement agency obtains the prior ap-
+16
+proval of the Attorney General; or 
+17
+‘‘(B) train law enforcement personnel in 
+18
+the use of electronic surveillance equipment, 
+19
+if— 
+20
+‘‘(i) it is not reasonable to— 
+21
+‘‘(I) obtain the consent of the 
+22
+persons incidentally subjected to the 
+23
+surveillance; 
+24
+01:31 Jul 15, 2021
+H4022
+20 
+•HR 4022 IH
+‘‘(II) train persons in the course 
+1
+of otherwise authorized law enforce-
+2
+ment activities; or 
+3
+‘‘(III) train persons in the use of 
+4
+such equipment without engaging in 
+5
+surveillance; 
+6
+‘‘(ii) such surveillance is limited in ex-
+7
+tent and duration to that necessary to 
+8
+train the personnel in the use of the equip-
+9
+ment; and 
+10
+‘‘(iii) any information obtained during 
+11
+such training (including metadata) is de-
+12
+stroyed after its use for such training. 
+13
+‘‘(7) FCC TESTING.—Subsection (a)(1) shall 
+14
+not apply to the use of a cell-site simulator by the 
+15
+Federal Communications Commission, or an accred-
+16
+ited testing laboratory recognized by the Federal 
+17
+Communications Commission, in order to test the 
+18
+cell-site simulator. 
+19
+‘‘(8) RULE
+OF
+CONSTRUCTION.—Nothing in 
+20
+this subsection shall be construed to exempt a State 
+21
+or local government from complying with regulations 
+22
+promulgated by the Federal Communications Com-
+23
+mission, including the requirement to obtain author-
+24
+01:31 Jul 15, 2021
+H4022
+21 
+•HR 4022 IH
+ization to transmit on spectrum regulated by the 
+1
+Federal Communications Commission. 
+2
+‘‘(e) LIMIT ON CERTAIN USE NOT CONDUCTED PUR-
+3
+SUANT TO WARRANTS AND ORDERS.—The use of a cell- 
+4
+site simulator under subsection (d)(1)(B) of this section 
+5
+(which shall not include such a use by a component of 
+6
+the Department of Defense or an Armed Force providing 
+7
+assistance to a law enforcement agency of a governmental 
+8
+entity under such subsection (d)(1)(B)), under section 
+9
+105(e) of the Foreign Intelligence Surveillance Act of 
+10
+1978 (50 U.S.C. 1805(e)), or under clause (i) or (ii) of 
+11
+section 102(a)(1)(A) of the Foreign Intelligence Surveil-
+12
+lance Act of 1978 (50 U.S.C. 1802(a)(1)(A)) may only 
+13
+be carried out lawfully using a specific model of a cell- 
+14
+site simulator for which the disclosures required under 
+15
+clauses (i) and (ii) of subsection (d)(1)(C) were included 
+16
+with respect to the specific model in connection with— 
+17
+‘‘(1) for use by an element of the intelligence 
+18
+community under title I of the Foreign Intelligence 
+19
+Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), 
+20
+an application for an order under such Act that was 
+21
+approved; or 
+22
+‘‘(2) for use by a law enforcement agency of a 
+23
+governmental entity, an application for a warrant— 
+24
+01:31 Jul 15, 2021
+H4022
+22 
+•HR 4022 IH
+‘‘(A) under the Federal Rules of Criminal 
+1
+Procedure that was approved by a judge of the 
+2
+judicial district in which the law enforcement 
+3
+agency intends to use the cell-site simulator; or 
+4
+‘‘(B) using State warrant procedures that 
+5
+was approved by a judge of the State in which 
+6
+the law enforcement agency intends to use the 
+7
+cell-site simulator. 
+8
+‘‘(f) MINIMIZATION.— 
+9
+‘‘(1) IN GENERAL.—The Attorney General shall 
+10
+adopt specific procedures that are reasonably de-
+11
+signed to minimize the acquisition and retention, 
+12
+and prohibit the dissemination, of information ob-
+13
+tained through the use of a cell-site simulator under 
+14
+an exception under paragraph (1) or (2) of sub-
+15
+section (d) that pertains to any person who is not 
+16
+an authorized subject of the use. 
+17
+‘‘(2) PUBLICATION.—The Attorney General 
+18
+shall make publicly available on the website of the 
+19
+Department of Justice the procedures adopted under 
+20
+paragraph (1) and any revisions to such procedures. 
+21
+‘‘(3) USE BY AGENCIES.—If a law enforcement 
+22
+agency of a governmental entity or element of the 
+23
+intelligence community acquires information per-
+24
+taining to a person who is not an authorized subject 
+25
+01:31 Jul 15, 2021
+H4022
+23 
+•HR 4022 IH
+of the use of a cell-site simulator under an exception 
+1
+under paragraph (1) or (2) of subsection (d), the 
+2
+law enforcement agency or element of the intel-
+3
+ligence community shall— 
+4
+‘‘(A) minimize the acquisition and reten-
+5
+tion, and prohibit the dissemination, of the in-
+6
+formation in accordance with the procedures 
+7
+adopted under paragraph (1); and 
+8
+‘‘(B) destroy the information (including 
+9
+metadata) at the earliest possible opportunity. 
+10
+‘‘(g) DISCLOSURE TO DEFENDANT.—Any informa-
+11
+tion acquired through the operation of a cell-site simu-
+12
+lator, or derived from such information, shall be disclosed 
+13
+to the defendant in any action in which the information 
+14
+is introduced into evidence. 
+15
+‘‘(h) SCOPE OF COLLECTION.— 
+16
+‘‘(1) AUTHORIZED USE.—Information collected 
+17
+under this section may only include information 
+18
+identifying nearby electronic devices communicating 
+19
+with the cell-site simulator and the strength and di-
+20
+rection of transmissions from those electronic de-
+21
+vices. 
+22
+‘‘(2) COMPLIANCE
+WITH
+WIRETAPPING
+RE-
+23
+QUIREMENTS TO OBTAIN CONTENTS.—In the case of 
+24
+01:31 Jul 15, 2021
+H4022
+24 
+•HR 4022 IH
+any interception of a wire or electronic communica-
+1
+tion by the cell-site simulator— 
+2
+‘‘(A) with respect to an interception by a 
+3
+law enforcement agency of a governmental enti-
+4
+ty, the provisions of chapter 119 shall apply in 
+5
+addition to the provisions of this section; and 
+6
+‘‘(B) with respect to an interception by an 
+7
+element of the intelligence community, the ele-
+8
+ment of the intelligence community may only 
+9
+conduct the surveillance using the cell-site sim-
+10
+ulator in accordance with an order authorizing 
+11
+the use issued in accordance with title I of the 
+12
+Foreign Intelligence Surveillance Act of 1978 
+13
+(50 U.S.C. 1801 et seq.), in addition to com-
+14
+plying with the provisions of this section. 
+15
+‘‘(3) COMPLIANCE WITH TRACKING DEVICE RE-
+16
+QUIREMENTS.— 
+17
+‘‘(A) IN GENERAL.—If a cell-site simulator 
+18
+is to be used by a law enforcement agency of 
+19
+a governmental entity to locate or track the 
+20
+movement of a person or object, the provisions 
+21
+of section 3117 and rule 41 of the Federal 
+22
+Rules of Criminal Procedure shall apply in ad-
+23
+dition to the provisions of this section. 
+24
+01:31 Jul 15, 2021
+H4022
+25 
+•HR 4022 IH
+‘‘(B) COURT.—For purposes of applying 
+1
+section 3117 and rule 41 of the Federal Rules 
+2
+of Criminal Procedure to the use of a cell-site 
+3
+simulator, a court may authorize such use with-
+4
+in the jurisdiction of the court, and outside that 
+5
+jurisdiction if— 
+6
+‘‘(i) the use commences within that 
+7
+jurisdiction; or 
+8
+‘‘(ii) at the time the application is 
+9
+presented to the court, the governmental 
+10
+entity certifies that it has probable cause 
+11
+to believe that the target is physically lo-
+12
+cated within that jurisdiction. 
+13
+‘‘(i) CIVIL ACTION.—Any person subject to an unlaw-
+14
+ful operation of a cell-site simulator may bring a civil ac-
+15
+tion for appropriate relief (including declaratory and in-
+16
+junctive relief, actual damages, statutory damages of not 
+17
+more than $500 for each violation, and attorney fees) 
+18
+against the person, including a governmental entity, that 
+19
+conducted that unlawful operation before a court of com-
+20
+petent jurisdiction. 
+21
+‘‘(j) ADMINISTRATIVE DISCIPLINE.—If a court or ap-
+22
+propriate department or agency determines that the 
+23
+United States or any of its departments or agencies has 
+24
+violated any provision of this section, and the court or ap-
+25
+01:31 Jul 15, 2021
+H4022
+26 
+•HR 4022 IH
+propriate department or agency finds that the cir-
+1
+cumstances surrounding the violation raise serious ques-
+2
+tions about whether or not an officer or employee of the 
+3
+United States acted willfully or intentionally with respect 
+4
+to the violation, the department or agency shall, upon re-
+5
+ceipt of a true and correct copy of the decision and find-
+6
+ings of the court or appropriate department or agency 
+7
+promptly initiate a proceeding to determine whether dis-
+8
+ciplinary action against the officer or employee is war-
+9
+ranted. If the head of the department or agency involved 
+10
+determines that disciplinary action is not warranted, he 
+11
+or she shall notify the Inspector General with jurisdiction 
+12
+over the department or agency concerned and shall provide 
+13
+the Inspector General with the reasons for such deter-
+14
+mination. 
+15
+‘‘(k) DEFINITIONS.—As used in this section— 
+16
+‘‘(1) the terms defined in section 2711 have, re-
+17
+spectively, the definitions given such terms in that 
+18
+section; 
+19
+‘‘(2) the term ‘advanced communications serv-
+20
+ices’ has the meaning given that term in section 3 
+21
+of the Communications Act of 1934 (47 U.S.C. 
+22
+153); 
+23
+‘‘(3) the term ‘cell-site simulator’ means any 
+24
+device that functions as or simulates a base station 
+25
+01:31 Jul 15, 2021
+H4022
+27 
+•HR 4022 IH
+for commercial mobile services or private mobile 
+1
+services in order to identify, locate, or intercept 
+2
+transmissions from cellular devices for purposes 
+3
+other than providing ordinary commercial mobile 
+4
+services or private mobile services; 
+5
+‘‘(4) the term ‘commercial mobile radio service’ 
+6
+has the meaning given that term in section 20.3 of 
+7
+title 47, Code of Federal Regulations, or any suc-
+8
+cessor thereto; 
+9
+‘‘(5) the term ‘contraband interdiction system’ 
+10
+means any device that functions as or simulates a 
+11
+base station for commercial mobile services or pri-
+12
+vate mobile services for purposes of identifying, lo-
+13
+cating, or intercepting transmissions from contra-
+14
+band cellular devices in correctional facilities; 
+15
+‘‘(6) the term ‘derived’ means, with respect to 
+16
+information or evidence, that the government would 
+17
+not have originally possessed the information or evi-
+18
+dence but for the use of a cell-site simulator, and re-
+19
+gardless of any claim that the information or evi-
+20
+dence is attenuated from the surveillance would in-
+21
+evitably have been discovered, or was subsequently 
+22
+reobtained through other means; 
+23
+‘‘(7) the term ‘electronic communication’ has 
+24
+the meaning given that term in section 2510; 
+25
+01:31 Jul 15, 2021
+H4022
+28 
+•HR 4022 IH
+‘‘(8) the term ‘electronic device’ has the mean-
+1
+ing given the term ‘computer’ in section 1030(e); 
+2
+‘‘(9) the term ‘emergency call’ has the meaning 
+3
+given that term in section 6001 of the Middle Class 
+4
+Tax Relief and Job Creation Act of 2012 (47 U.S.C. 
+5
+1401); 
+6
+‘‘(10) the term ‘intelligence community’ has the 
+7
+meaning given that term in section 3 of the National 
+8
+Security Act of 1947 (50 U.S.C. 3003); 
+9
+‘‘(11) the term ‘mitigation’ means the deletion 
+10
+of all information collected about a person who is 
+11
+not the subject of the warrant or investigation; 
+12
+‘‘(12) the term ‘private mobile service’ has the 
+13
+meaning given that term in section 332 of the Com-
+14
+munications Act of 1934 (47 U.S.C. 332); 
+15
+‘‘(13) the term ‘telecommunications relay serv-
+16
+ice’ has the meaning given that term in section 225 
+17
+of the Communications Act of 1934 (47 U.S.C. 
+18
+225); and 
+19
+‘‘(14) the term ‘United States person’ has the 
+20
+meaning given that term in section 101 of the For-
+21
+eign Intelligence Surveillance Act of 1978 (50 
+22
+U.S.C. 1801).’’. 
+23
+01:31 Jul 15, 2021
+H4022
+29 
+•HR 4022 IH
+(b) FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 
+1
+1978 REQUIREMENTS.—The Foreign Intelligence Surveil-
+2
+lance Act of 1978 (50 U.S.C. 1801 et seq.) is amended— 
+3
+(1) in section 101 (50 U.S.C. 1801), by adding 
+4
+at the end the following: 
+5
+‘‘(q) ‘Cell-site simulator’ has the meaning given that 
+6
+term in section 3119 of title 18, United States Code.’’; 
+7
+(2) in section 102(a) (50 U.S.C. 1802(a)), by 
+8
+adding at the end the following: 
+9
+‘‘(5) The Government may only use a cell-site simu-
+10
+lator pursuant to the authority under clause (i) or (ii) of 
+11
+paragraph (1)(A) without obtaining an order under this 
+12
+title authorizing such use if the Government has imple-
+13
+mented measures that are reasonably likely to limit the 
+14
+collection activities to— 
+15
+‘‘(A) means of communications used exclusively 
+16
+between or among foreign powers, as defined in 
+17
+paragraph (1), (2), or (3) of section 101(a); or 
+18
+‘‘(B) property or premises under the open and 
+19
+exclusive control of a foreign power, as defined in 
+20
+paragraph (1), (2), or (3) of section 101(a).’’; 
+21
+(3) in section 105 (50 U.S.C. 1805), by adding 
+22
+at the end the following: 
+23
+01:31 Jul 15, 2021
+H4022
+30 
+•HR 4022 IH
+‘‘(k)(1) A judge having jurisdiction under section 103 
+1
+may issue an order under this section that authorizes the 
+2
+use of a cell-site simulator only if the applicant— 
+3
+‘‘(A) demonstrates that other investigative pro-
+4
+cedures, including electronic location tracking meth-
+5
+ods that solely collect records of the investigative 
+6
+target— 
+7
+‘‘(i) have been tried and have failed; or 
+8
+‘‘(ii) reasonably appear to be— 
+9
+‘‘(I) unlikely to succeed if tried; or 
+10
+‘‘(II) too dangerous; 
+11
+‘‘(B) specifies the likely area of effect of the 
+12
+cell-site simulator to be used and the time that the 
+13
+cell-site simulator will be in operation; 
+14
+‘‘(C) certifies that the requested area of effect 
+15
+and time of operation are the narrowest reasonably 
+16
+possible to obtain the necessary information; and 
+17
+‘‘(D) demonstrates that the requested use of a 
+18
+cell-site simulator would be in compliance with appli-
+19
+cable provisions of the Communications Act of 1934 
+20
+(47 U.S.C. 151 et seq.) and the rules of the Federal 
+21
+Communications Commission. 
+22
+‘‘(2) In any application for an order under this sec-
+23
+tion authorizing the use of a cell-site simulator, the appli-
+24
+cant shall include the following: 
+25
+01:31 Jul 15, 2021
+H4022
+31 
+•HR 4022 IH
+‘‘(A) A disclosure of any potential disruption of 
+1
+the ability of the subject of the surveillance or by-
+2
+standers to use commercial mobile radio services or 
+3
+private mobile services, including using advanced 
+4
+communications services, to make or receive, as ap-
+5
+plicable— 
+6
+‘‘(i) emergency calls (including 9–1–1 
+7
+calls); 
+8
+‘‘(ii) calls to the universal telephone num-
+9
+ber within the United States for the purpose of 
+10
+the national suicide prevention and mental 
+11
+health crisis hotline system under designated 
+12
+under paragraph (4) of section 251(e) of the 
+13
+Communications Act of 1934 (47 U.S.C. 
+14
+251(e)), as added by the National Suicide Hot-
+15
+line Designation Act of 2020 (Public Law 116– 
+16
+172; 134 Stat. 832); 
+17
+‘‘(iii) calls to the nationwide toll-free num-
+18
+ber for the poison control centers established 
+19
+under section 1271 of the Public Health Service 
+20
+Act (42 U.S.C. 300d–71); 
+21
+‘‘(iv) calls using telecommunications relay 
+22
+services; or 
+23
+‘‘(v) any other communications or trans-
+24
+missions. 
+25
+01:31 Jul 15, 2021
+H4022
+32 
+•HR 4022 IH
+‘‘(B) A certification that the specific model of 
+1
+the cell-site simulator to be used has been inspected 
+2
+by a third party that is an accredited testing labora-
+3
+tory recognized by the Federal Communications 
+4
+Commission to verify the accuracy of the disclosure 
+5
+under paragraph (1). 
+6
+‘‘(C) A disclosure of the methods and pre-
+7
+cautions that will be used to minimize disruption, in-
+8
+cluding— 
+9
+‘‘(i) any limit on the length of time the 
+10
+cell-site simulator can be in continuous oper-
+11
+ation; and 
+12
+‘‘(ii) any user-defined limit on the trans-
+13
+mission range of the cell-site simulator. 
+14
+‘‘(D) A disclosure as to whether the cell-site 
+15
+simulator will primarily be used at a gathering 
+16
+where constitutionally protected activity, including 
+17
+speech, will occur. 
+18
+‘‘(3) In considering an application for an order under 
+19
+this section that authorizes the use of a cell-site simulator, 
+20
+the court shall— 
+21
+‘‘(A) weigh the need of the Government to ob-
+22
+tain the information sought against the likelihood 
+23
+and impact of any potential negative side effects dis-
+24
+closed by the Government under paragraph (2); and 
+25
+01:31 Jul 15, 2021
+H4022
+33 
+•HR 4022 IH
+‘‘(B) not grant a request for an order that 
+1
+would put public safety at risk or unreasonably in-
+2
+convenience the community.’’; and 
+3
+(4) 
+in 
+section 
+704(c)(1) 
+(50 
+U.S.C. 
+4
+1881c(c)(1))— 
+5
+(A) in subparagraph (C), by striking 
+6
+‘‘and’’ at the end; 
+7
+(B) in subparagraph (D), by striking the 
+8
+period at the end and inserting ‘‘; and’’; and 
+9
+(C) by adding at the end the following: 
+10
+‘‘(E) if the applicant is seeking to use a 
+11
+cell-site simulator (as defined in section 101), 
+12
+the requirements that would apply for the use 
+13
+of a cell-site simulator in the United States 
+14
+under section 105(k) have been satisfied.’’. 
+15
+(c) CONFORMING AMENDMENT.—Section 3127 of 
+16
+title 18, United States Code, is amended— 
+17
+(1) in paragraph (3) by striking ‘‘but such term 
+18
+does not include any’’ and inserting ‘‘except such 
+19
+term does not include any cell-site simulator, as that 
+20
+term is defined in section 3119, or’’; and 
+21
+(2) in paragraph (4) by striking ‘‘of any com-
+22
+munication’’ and inserting ‘‘of any communication, 
+23
+except such term does not include any cell-site simu-
+24
+lator, as that term is defined in section 3119’’. 
+25
+01:31 Jul 15, 2021
+H4022
+34 
+•HR 4022 IH
+(d) INSPECTOR GENERAL REPORTS.— 
+1
+(1) DEFINITION.—In this subsection, the term 
+2
+‘‘covered Federal entity’’ means— 
+3
+(A) a law enforcement agency of a depart-
+4
+ment or agency of the Federal Government; and 
+5
+(B) an element of the intelligence commu-
+6
+nity (as defined in section 3 of the National Se-
+7
+curity Act of 1947 (50 U.S.C. 3003)). 
+8
+(2) REPORTS.—The Inspector General of the 
+9
+Department of Justice, the Inspector General of the 
+10
+Department of Homeland Security, the Inspector 
+11
+General of the Department of Defense, and the In-
+12
+spector General of the Intelligence Community shall 
+13
+annually submit to Congress a joint report, and pub-
+14
+lish an unclassified version of the report on the 
+15
+website of each such inspector general, on— 
+16
+(A) the overall compliance of covered Fed-
+17
+eral entities with this Act and the amendments 
+18
+made by this Act; 
+19
+(B) the number of applications by covered 
+20
+Federal entities for use of a cell-site simulator 
+21
+that were applied for and the number that were 
+22
+granted; 
+23
+(C) the number of emergency uses of a 
+24
+cell-site simulator under section 3119(d)(1)(B) 
+25
+01:31 Jul 15, 2021
+H4022
+35 
+•HR 4022 IH
+of title 18, United States Code, as added by 
+1
+this Act; 
+2
+(D) the number of such emergency uses 
+3
+for which a court subsequently issued a warrant 
+4
+authorizing the use and the number of such 
+5
+emergency uses in which an application for a 
+6
+warrant was denied; 
+7
+(E) the number of devices that were tar-
+8
+geted with a cell-site simulator, which shall be 
+9
+provided separately for targeting conducted 
+10
+pursuant to a warrant or court order and tar-
+11
+geting conducted pursuant to an authority to 
+12
+use a cell-site simulator without a warrant or 
+13
+order; 
+14
+(F) the number of devices that were not 
+15
+the target of the use of a cell-site simulator 
+16
+about which information was obtained with the 
+17
+cell-site simulator, which shall— 
+18
+(i) be provided separately for use con-
+19
+ducted pursuant to a warrant or court 
+20
+order and use conducted pursuant to an 
+21
+authority to use a cell-site simulator with-
+22
+out a warrant or order; and 
+23
+(ii) include the number of such de-
+24
+vices about which the information was not 
+25
+01:31 Jul 15, 2021
+H4022
+36 
+•HR 4022 IH
+destroyed as a result of the minimization 
+1
+requirements under section 3119(f) of title 
+2
+18, United States Code, as added by this 
+3
+section, which shall be provided separately 
+4
+for use conducted pursuant to a warrant or 
+5
+court order and use conducted pursuant to 
+6
+an authority to use a cell-site simulator 
+7
+without a warrant or order; 
+8
+(G) which components of a law enforce-
+9
+ment agency of a department or agency of the 
+10
+Federal Government are using cell-site simula-
+11
+tors and how many are available to that compo-
+12
+nent; and 
+13
+(H) instances in which a law enforcement 
+14
+agency of a department or agency of the Fed-
+15
+eral Government made cell-site simulators avail-
+16
+able to a State or unit of local government. 
+17
+(3) FORM
+OF
+REPORTS.—Each report sub-
+18
+mitted under paragraph (2) shall be submitted in 
+19
+unclassified form, but may include a classified 
+20
+annex. 
+21
+(e) FCC REGULATIONS.— 
+22
+(1) IN
+GENERAL.—Not later than 180 days 
+23
+after the date of enactment of this Act, the Federal 
+24
+Communications Commission shall initiate any pro-
+25
+01:31 Jul 15, 2021
+H4022
+37 
+•HR 4022 IH
+ceeding that may be necessary to promulgate or 
+1
+modify regulations promulgated by the Federal Com-
+2
+munications Commission to implement this Act and 
+3
+the amendments made by this Act. 
+4
+(2) CONSTRUCTION.—Nothing in this Act or an 
+5
+amendment made by this Act shall be construed to 
+6
+expand or contract the authority of the Federal 
+7
+Communications Commission. 
+8
+(f) EFFECTIVE DATE.— 
+9
+(1) IN GENERAL.—Except as provided in para-
+10
+graph (2), subsections (a), (b), (c), and (d) of this 
+11
+section, and the amendments made by such sub-
+12
+sections, shall apply on and after the date that is 2 
+13
+years after the date of enactment of this Act. 
+14
+(2) EXCEPTIONS.— 
+15
+(A) DEFINITION.—In this paragraph, the 
+16
+term ‘‘cell-site simulator’’ has the meaning 
+17
+given that term in section 3119 of title 18, 
+18
+United States Code, as added by subsection (a). 
+19
+(B) EXTENSION FOR EXISTING CELL-SITE 
+20
+SIMULATORS.—For any model of a cell-site sim-
+21
+ulator in use before the date of enactment of 
+22
+this Act, including such use in a contraband 
+23
+interdiction system at a correctional facility, if 
+24
+the Attorney General certifies that additional 
+25
+01:31 Jul 15, 2021
+H4022
+38 
+•HR 4022 IH
+time is necessary to obtain independent tests of 
+1
+the model of cell-site simulator, subsections (a), 
+2
+(b), (c), and (d) of this section, and the amend-
+3
+ments made by such subsections, shall apply to 
+4
+the use of the model of cell-site simulator on 
+5
+and after the date that is 3 years after the date 
+6
+of enactment of this Act. 
+7
+Æ 
+01:31 Jul 15, 2021
+H4022

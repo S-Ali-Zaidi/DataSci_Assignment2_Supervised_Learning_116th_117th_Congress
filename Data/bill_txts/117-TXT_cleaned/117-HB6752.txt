@@ -1,0 +1,1231 @@
+A BILL 
+To establish a centralized system to allow individuals to 
+request the simultaneous deletion of their personal identi-
+fiers across certain data brokers, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Data Elimination and 
+4
+Limiting Extensive Tracking and Exchange Act’’ or the 
+5
+‘‘DELETE Act’’. 
+6
+SEC. 2. DATA DELETION REQUIREMENTS. 
+7
+(a) DATA BROKER ANNUAL REGISTRATION.— 
+8
+03:11 Feb 24, 2022
+H6752
+2 
+•HR 6752 IH
+(1) IN GENERAL.—Not later than 1 year after 
+1
+the date of enactment of this section, the Commis-
+2
+sion shall promulgate regulations to require any data 
+3
+broker to— 
+4
+(A) not later than 18 months after the 
+5
+date of enactment of this section, and annually 
+6
+thereafter, register with the Commission; and 
+7
+(B) provide the following information with 
+8
+such registration: 
+9
+(i) The name and primary physical, 
+10
+email, and uniform resource locator (URL) 
+11
+addresses of the data broker. 
+12
+(ii) If the data broker permits an indi-
+13
+vidual to opt out of the data broker’s col-
+14
+lection or use of personal information, cer-
+15
+tain sales of such information, or its data-
+16
+bases— 
+17
+(I) the method for requesting an 
+18
+opt-out; 
+19
+(II) any limitations on the type 
+20
+of data collection, uses, or sales for 
+21
+which an individual may opt out; and 
+22
+(III) whether the data broker 
+23
+permits an individual to authorize a 
+24
+03:11 Feb 24, 2022
+H6752
+3 
+•HR 6752 IH
+third party to perform the opt-out on 
+1
+the individual’s behalf. 
+2
+(iii) A response to a standardized 
+3
+form (as issued by the Commission) speci-
+4
+fying the types of information the data 
+5
+broker collects or obtains and the sources 
+6
+from which the data broker obtains data. 
+7
+(iv) A statement as to whether the 
+8
+data broker implements a credentialing 
+9
+process and, if so, a description of that 
+10
+process. 
+11
+(v) Any additional information or ex-
+12
+planation the data broker chooses to pro-
+13
+vide concerning its data collection prac-
+14
+tices. 
+15
+(vi) Any other information determined 
+16
+appropriate by the Commission. 
+17
+(2) PUBLIC AVAILABILITY.— 
+18
+(A) IN GENERAL.—The Commission shall 
+19
+make the information described in paragraph 
+20
+(1) publicly available in a downloadable and 
+21
+machine-readable format, except in the event 
+22
+that the Commission— 
+23
+03:11 Feb 24, 2022
+H6752
+4 
+•HR 6752 IH
+(i) determines that the risk of making 
+1
+such information available is not in the in-
+2
+terest of public safety or welfare; and 
+3
+(ii) provides a justification for such 
+4
+determination. 
+5
+(B) DISCLAIMER.—The Commission shall 
+6
+include on the website of the Commission a dis-
+7
+claimer that— 
+8
+(i) the Commission cannot confirm 
+9
+the accuracy of the responses provided by 
+10
+the data brokers in the registration de-
+11
+scribed in paragraph (1); and 
+12
+(ii) individuals may contact such data 
+13
+brokers at their own risk. 
+14
+(b) CENTRALIZED DATA DELETION SYSTEM.— 
+15
+(1) ESTABLISHMENT.— 
+16
+(A) IN GENERAL.—Not later than 1 year 
+17
+after the date of enactment of this section, the 
+18
+Commission shall promulgate regulations to es-
+19
+tablish a centralized system that— 
+20
+(i) implements and maintains reason-
+21
+able security procedures and practices (in-
+22
+cluding administrative, physical, and tech-
+23
+nical safeguards) appropriate to the nature 
+24
+of the information and the purposes for 
+25
+03:11 Feb 24, 2022
+H6752
+5 
+•HR 6752 IH
+which the personal information will be 
+1
+used, to protect individuals’ personal infor-
+2
+mation from unauthorized use, disclosure, 
+3
+access, destruction, or modification; and 
+4
+(ii) allows an individual, through a 
+5
+single submission, to request that every 
+6
+data broker who is registered under sub-
+7
+section (a) and who maintains any per-
+8
+sistent identifiers (as described in subpara-
+9
+graph (B)(iii)) delete any personal infor-
+10
+mation related to such individual held by 
+11
+such data broker or affiliated legal entity 
+12
+of the data broker. 
+13
+(B) REQUIREMENTS.—The centralized sys-
+14
+tem established in subparagraph (A) shall meet 
+15
+the following requirements: 
+16
+(i) Subject to the regulations promul-
+17
+gated 
+in 
+accordance 
+with 
+paragraph 
+18
+(2)(B)(ii), the centralized system shall 
+19
+allow an individual to request the deletion 
+20
+of all personal information related to such 
+21
+individual through a single deletion re-
+22
+quest. 
+23
+03:11 Feb 24, 2022
+H6752
+6 
+•HR 6752 IH
+(ii) The centralized system shall pro-
+1
+vide a standardized form to allow an indi-
+2
+vidual to make such request. 
+3
+(iii) Such standardized form shall in-
+4
+clude the individual’s email, phone number, 
+5
+physical address, and any other persistent 
+6
+identifier determined by the Commission to 
+7
+aid in the deletion request. 
+8
+(iv) The centralized system shall auto-
+9
+matically hash all submitted information 
+10
+and allow the Commission to maintain 
+11
+independent hashed registries of each type 
+12
+of information obtained through such form. 
+13
+(v) The centralized system shall only 
+14
+permit data brokers who are registered 
+15
+with the Commission to submit hashed 
+16
+queries to the independent hashed reg-
+17
+istries described in clause (iv). 
+18
+(vi) The centralized system shall allow 
+19
+an individual to make such request using 
+20
+an internet website operated by the Com-
+21
+mission. 
+22
+(vii) The centralized system shall not 
+23
+charge the individual to make such re-
+24
+quest. 
+25
+03:11 Feb 24, 2022
+H6752
+7 
+•HR 6752 IH
+(viii) The centralized system shall 
+1
+automatically delete any individual data 
+2
+field stored in the system once such data 
+3
+field has been stored in the centralized sys-
+4
+tem for 2 years. The Commission shall in-
+5
+form the individual of this automatic dele-
+6
+tion period when the individual makes a 
+7
+deletion request. Beginning 4 years after 
+8
+the date of enactment of this Act, the 
+9
+Commission may promulgate rules to ad-
+10
+just such retention period or enable auto-
+11
+matic renewal of requests if it determines 
+12
+that such adjustment or automatic renewal 
+13
+would better protect individual privacy or 
+14
+the public interest. 
+15
+(C) TRANSITION.— 
+16
+(i) IN GENERAL.—Not later than 8 
+17
+months after the effective date of the regu-
+18
+lations promulgated under subparagraph 
+19
+(A), each data broker shall— 
+20
+(I) not less than once every 31 
+21
+days, access the hashed registries 
+22
+maintained by the Commission as de-
+23
+scribed in subparagraph (B)(iv); and 
+24
+03:11 Feb 24, 2022
+H6752
+8 
+•HR 6752 IH
+(II) process any deletion request 
+1
+associated with a match between such 
+2
+hashed registries and the records of 
+3
+the data broker. 
+4
+(ii) FTC GUIDANCE.—Not later than 
+5
+6 months after the effective date of the 
+6
+regulations promulgated under subpara-
+7
+graph (A), the Commission shall publish 
+8
+guidance on the process and standards to 
+9
+which a data broker must adhere in car-
+10
+rying out clause (i). 
+11
+(2) DELETION.— 
+12
+(A) INFORMATION DELETION.— 
+13
+(i) IN
+GENERAL.—Subject to clause 
+14
+(ii), not later than 31 days after accessing 
+15
+the hashed registries described in para-
+16
+graph (1)(B)(iv), a data broker and any 
+17
+associated legal entity shall delete all per-
+18
+sonal information in its possession related 
+19
+to the individual making the request. Im-
+20
+mediately following the deletion, the data 
+21
+broker shall send an affirmative represen-
+22
+tation to the Commission with the number 
+23
+of records deleted pursuant to each match 
+24
+with a value in the hashed registries. 
+25
+03:11 Feb 24, 2022
+H6752
+9 
+•HR 6752 IH
+(ii) EXCLUSIONS.—In carrying out 
+1
+clause (i), a data broker may retain, where 
+2
+required, the following information: 
+3
+(I) Any personal information that 
+4
+is processed or maintained solely as 
+5
+part of human subjects research con-
+6
+ducted in compliance with any legal 
+7
+requirements for the protection of 
+8
+human subjects. 
+9
+(II) Any personal information 
+10
+necessary to comply with a warrant, 
+11
+subpoena, court order, rule, or other 
+12
+applicable law. 
+13
+(III) Any personal information 
+14
+related to the suppression list de-
+15
+scribed in subparagraph (B)(ii). 
+16
+(IV) Any information necessary 
+17
+for an activity described in subsection 
+18
+(e)(3)(B), provided that the retained 
+19
+information is used solely for any 
+20
+such activity. 
+21
+(iii) USE OF INFORMATION.—Any per-
+22
+sonal information excluded under clause 
+23
+(ii) may only be used for the purpose de-
+24
+scribed in the applicable subclause of 
+25
+03:11 Feb 24, 2022
+H6752
+10 
+•HR 6752 IH
+clause (ii), and may not be used for any 
+1
+other purpose, including marketing pur-
+2
+poses. 
+3
+(B) DO
+NOT
+TRACK
+LIST; SUPPRESSION 
+4
+LIST.— 
+5
+(i) DO NOT TRACK LIST.—Not later 
+6
+than 18 months after the date of enact-
+7
+ment of this section, the Commission shall 
+8
+promulgate regulations to prohibit any 
+9
+data broker registered under subsection (a) 
+10
+from collecting or retaining personal infor-
+11
+mation on any individual who has sub-
+12
+mitted a deletion request through the cen-
+13
+tralized system established in paragraph 
+14
+(1)(A), unless such data collection is re-
+15
+quested by the individual. 
+16
+(ii) SUPPRESSION
+LIST.—Not later 
+17
+than 18 months after the date of enact-
+18
+ment of this section, the Commission shall 
+19
+promulgate regulations to ensure that— 
+20
+(I) any individual who submits a 
+21
+deletion request through the central-
+22
+ized system established in paragraph 
+23
+(1) shall be included on the Do Not 
+24
+Track list described in clause (i); and 
+25
+03:11 Feb 24, 2022
+H6752
+11 
+•HR 6752 IH
+(II) each data broker registered 
+1
+under subsection (a)— 
+2
+(aa) may not collect or re-
+3
+tain more personal information 
+4
+than is necessary to identify an 
+5
+individual who is included on the 
+6
+Do Not Track list; and 
+7
+(bb) in the case that unnec-
+8
+essary personal information is 
+9
+collected or retained, shall imme-
+10
+diately delete any personal infor-
+11
+mation not required to comply 
+12
+with the regulations promulgated 
+13
+under this subparagraph. 
+14
+(C) ANNUAL REPORT.—Each data broker 
+15
+registered under subsection (a) shall submit to 
+16
+the Commission, on an annual basis, a report 
+17
+on— 
+18
+(i) the completion rate with respect to 
+19
+the completion of deletion requests under 
+20
+subparagraph (A); and 
+21
+(ii) the effectiveness of the suppres-
+22
+sion list under subparagraph (B)(ii), in-
+23
+cluding— 
+24
+03:11 Feb 24, 2022
+H6752
+12 
+•HR 6752 IH
+(I) the number of times the data 
+1
+broker collected personal information 
+2
+related to an individual included on 
+3
+the suppression list; 
+4
+(II) the number of times the data 
+5
+broker collected data resulting in a 
+6
+match with the hashed registries 
+7
+maintained by the Commission as de-
+8
+scribed in paragraph (1)(B)(iv); and 
+9
+(III) whether the regulations pro-
+10
+mulgated under subparagraph (B) 
+11
+and the structure or format of the 
+12
+hashed registries promote efficient 
+13
+comparison of the suppression list 
+14
+with information collected or retained 
+15
+by the data broker. 
+16
+(D) AUDIT.— 
+17
+(i) IN GENERAL.—Not later than 3 
+18
+years after the date of enactment of this 
+19
+section, and every 3 years thereafter, each 
+20
+data broker registered under subsection (a) 
+21
+shall undergo an independent third party 
+22
+audit to determine compliance with this 
+23
+subsection. 
+24
+03:11 Feb 24, 2022
+H6752
+13 
+•HR 6752 IH
+(ii) AUDIT REPORT.—Not later than 6 
+1
+months after the completion of any audit 
+2
+under clause (i), each such data broker 
+3
+shall submit to the Commission any report 
+4
+produced as a result of the audit, along 
+5
+with any related materials. 
+6
+(iii) MAINTAIN RECORDS.—Each such 
+7
+data broker shall maintain the materials 
+8
+described in clause (ii) for a period of not 
+9
+less than 6 years. 
+10
+(3) ANNUAL FEE.— 
+11
+(A) IN
+GENERAL.—Subject to subpara-
+12
+graph (B), each data broker registered under 
+13
+subsection (a) and who maintains any per-
+14
+sistent identifiers (as described in paragraph 
+15
+(1)(B)(iii)) shall pay to the Commission, on an 
+16
+annual basis, a subscription fee determined by 
+17
+the Commission to access the database. 
+18
+(B) LIMIT.—The amount of the subscrip-
+19
+tion fee under subparagraph (A) may not ex-
+20
+ceed 1 percent of the expected annual cost of 
+21
+operating the centralized system and hashed 
+22
+registries described in paragraph (1), as deter-
+23
+mined by the Commission. 
+24
+03:11 Feb 24, 2022
+H6752
+14 
+•HR 6752 IH
+(C) AVAILABILITY.—Any amounts col-
+1
+lected by the Commission pursuant to this 
+2
+paragraph shall be available without further ap-
+3
+propriation to the Commission for the purpose 
+4
+of enforcing and administering this Act, includ-
+5
+ing the implementation and maintenance of 
+6
+such centralized system and hashed registries 
+7
+and the promotion of public awareness of the 
+8
+centralized system. 
+9
+(c) ENFORCEMENT BY THE COMMISSION.— 
+10
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+11
+TICES.—A violation of subsection (a) or (b) or a reg-
+12
+ulation promulgated under this Act shall be treated 
+13
+as a violation of a rule defining an unfair or decep-
+14
+tive act or practice under section 18(a)(1)(B) of the 
+15
+Federal 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+16
+57a(a)(1)(B)). 
+17
+(2) POWERS OF THE COMMISSION.— 
+18
+(A) IN GENERAL.—The Commission shall 
+19
+enforce this section in the same manner, by the 
+20
+same means, and with the same jurisdiction, 
+21
+powers, and duties as though all applicable 
+22
+terms and provisions of the Federal Trade 
+23
+Commission Act (15 U.S.C. 41 et seq.) were in-
+24
+corporated into and made a part of this Act. 
+25
+03:11 Feb 24, 2022
+H6752
+15 
+•HR 6752 IH
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+1
+person who violates subsection (a) or (b) or a 
+2
+regulation promulgated under this Act shall be 
+3
+subject to the penalties and entitled to the 
+4
+privileges and immunities provided in the Fed-
+5
+eral Trade Commission Act (15 U.S.C. 41 et 
+6
+seq.). 
+7
+(C) AUTHORITY PRESERVED.—Nothing in 
+8
+this section shall be construed to limit the au-
+9
+thority of the Commission under any other pro-
+10
+vision of law. 
+11
+(D) RULEMAKING.—The Commission shall 
+12
+promulgate in accordance with section 553 of 
+13
+title 5, United States Code, such rules as may 
+14
+be necessary to carry out this section. 
+15
+(d) STUDY AND REPORT.— 
+16
+(1) STUDY.—The Commission shall conduct a 
+17
+study on the implementation and enforcement of this 
+18
+section. Such study shall include— 
+19
+(A) an analysis of the effectiveness of the 
+20
+centralized system established in subsection 
+21
+(b)(1)(A); 
+22
+(B) the number deletion requests sub-
+23
+mitted annually using such centralized system; 
+24
+03:11 Feb 24, 2022
+H6752
+16 
+•HR 6752 IH
+(C) an analysis of the progress of coordi-
+1
+nating the operation and enforcement of such 
+2
+requests with similar systems established and 
+3
+maintained by the various States; and 
+4
+(D) any other area determined appropriate 
+5
+by the Commission. 
+6
+(2) REPORT.—Not later than 3 years after the 
+7
+date of enactment of this section, and annually 
+8
+thereafter for each of the next 4 years, the Commis-
+9
+sion shall submit to the Committee on Commerce, 
+10
+Science, and Transportation of the Senate and the 
+11
+Committee on Energy and Commerce of the House 
+12
+of Representatives a report containing— 
+13
+(A) the results of the study conducted 
+14
+under paragraph (1); 
+15
+(B) a summary of any enforcement actions 
+16
+taken pursuant to this Act; and 
+17
+(C) recommendations for such legislation 
+18
+and administrative action as the Commission 
+19
+determines appropriate. 
+20
+(e) DEFINITIONS.—In this section: 
+21
+(1) COMMISSION.—The term ‘‘Commission’’ 
+22
+means the Federal Trade Commission. 
+23
+03:11 Feb 24, 2022
+H6752
+17 
+•HR 6752 IH
+(2) 
+CREDENTIALING
+PROCESS.—The 
+term 
+1
+‘‘credentialing process’’ means the practice of taking 
+2
+reasonable steps to confirm— 
+3
+(A) the identity of the entity with whom 
+4
+the data broker has a direct relationship; 
+5
+(B) that any data disclosed to the entity 
+6
+by such data broker will be used for the de-
+7
+scribed purpose of such disclosure; and 
+8
+(C) that such data will not be used for un-
+9
+lawful purposes. 
+10
+(3) DATA BROKER.— 
+11
+(A) 
+IN
+GENERAL.—The 
+term 
+‘‘data 
+12
+broker’’ means an entity that knowingly collects 
+13
+or obtains the personal information of an indi-
+14
+vidual with whom the entity does not have a di-
+15
+rect relationship and then— 
+16
+(i) uses the personal information to 
+17
+perform a service for a third party; or 
+18
+(ii) sells, licenses, trades, provides for 
+19
+consideration, or is otherwise compensated 
+20
+for disclosing personal information to a 
+21
+third party. 
+22
+(B) EXCLUSION.—The term ‘‘data broker’’ 
+23
+does not include an entity who solely uses, sells, 
+24
+licenses, trades, provides for consideration, or is 
+25
+03:11 Feb 24, 2022
+H6752
+18 
+•HR 6752 IH
+otherwise compensated for disclosing personal 
+1
+information for one or more of the following ac-
+2
+tivities: 
+3
+(i) Providing 411 directory assistance 
+4
+or directory information services, including 
+5
+name, address, and telephone number, on 
+6
+behalf of or as a function of a tele-
+7
+communications carrier. 
+8
+(ii) Providing an individual’s publicly 
+9
+available information if the information is 
+10
+being used by the recipient as it relates to 
+11
+that individual’s business or profession. 
+12
+(iii) Providing or using personal infor-
+13
+mation in a manner that is regulated 
+14
+under another Federal or State law, in-
+15
+cluding the Fair Credit Reporting Act, the 
+16
+Gramm-Leach-Bliley Act, or the Health 
+17
+Insurance Portability and Accountability 
+18
+Act. 
+19
+(iv) Providing personal information to 
+20
+a third party at the express direction of 
+21
+the individual for a clearly disclosed single- 
+22
+use purpose. 
+23
+(v) Providing or using personal infor-
+24
+mation for assessing, verifying, or authen-
+25
+03:11 Feb 24, 2022
+H6752
+19 
+•HR 6752 IH
+ticating an individual’s identity, or for in-
+1
+vestigating or preventing actual or poten-
+2
+tial fraud. 
+3
+(vi) Gathering, preparing, collecting, 
+4
+photographing, recording, writing, editing, 
+5
+reporting, or publishing news or informa-
+6
+tion that concerns local, national, or inter-
+7
+national events or other matters of public 
+8
+interest for dissemination to the public. 
+9
+(C) EXCLUSION FROM SALE.— 
+10
+(i) IN
+GENERAL.—For purposes of 
+11
+this paragraph, the term ‘‘sells’’ does not 
+12
+include a one-time or occasional sale of as-
+13
+sets of an entity as part of a transfer of 
+14
+control of those assets that is not part of 
+15
+the ordinary conduct of the entity. 
+16
+(ii) NOTICE REQUIRED.—To meet the 
+17
+exclusion criteria described in clause (i), an 
+18
+entity must provide notice to the Commis-
+19
+sion, in the manner determined appro-
+20
+priate by the Commission, of any such one- 
+21
+time or occasional sale of assets. 
+22
+(4) DELETE.—The term ‘‘delete’’ means to re-
+23
+move or destroy information such that the informa-
+24
+tion is not maintained in human- or machine-read-
+25
+03:11 Feb 24, 2022
+H6752
+20 
+•HR 6752 IH
+able form and cannot be retrieved or utilized in such 
+1
+form in the normal course of business. 
+2
+(5) DIRECT RELATIONSHIP.— 
+3
+(A) IN GENERAL.—The term ‘‘direct rela-
+4
+tionship’’ means a relationship between an indi-
+5
+vidual and an entity where the individual— 
+6
+(i) is a current customer; 
+7
+(ii) has obtained a good or service 
+8
+from the entity within the prior 18 
+9
+months; or 
+10
+(iii) has made an inquiry about the 
+11
+products or services of the entity within 
+12
+the prior 90 days. 
+13
+(B) EXCLUSION.—The term ‘‘direct rela-
+14
+tionship’’ does not include a relationship be-
+15
+tween an individual and a data broker where 
+16
+the individual’s only connection to the data 
+17
+broker is based on the individual’s request— 
+18
+(i) for the data broker to delete the 
+19
+personal information of the individual; or 
+20
+(ii) to opt out of the data broker’s col-
+21
+lection or use of personal information, cer-
+22
+tain sales of such information, or its data-
+23
+bases. 
+24
+03:11 Feb 24, 2022
+H6752
+21 
+•HR 6752 IH
+(6) HASH.—The term ‘‘hash’’ means to input 
+1
+data to a cryptographic, one-way, collision resistant 
+2
+function that maps a bit string of arbitrary length 
+3
+to a fixed-length bit string to produce a cryp-
+4
+tographically secure value. 
+5
+(7) HASHED.—The term ‘‘hashed’’ means the 
+6
+type of value produced by hashing data. 
+7
+(8) HUMAN SUBJECTS RESEARCH.—The term 
+8
+‘‘human subjects research’’ means research that— 
+9
+(A) an investigator (whether professional 
+10
+or student) conducts on a living individual; and 
+11
+(B) either— 
+12
+(i) obtains information or biospeci-
+13
+mens through intervention or interaction 
+14
+with the individual, and uses, studies, or 
+15
+analyzes the information or biospecimens; 
+16
+or 
+17
+(ii) obtains, uses, studies, analyzes, or 
+18
+generates personal information or identifi-
+19
+able biospecimens. 
+20
+(9) PERSONAL INFORMATION.— 
+21
+(A) IN GENERAL.—The term ‘‘personal in-
+22
+formation’’ means any information held by a 
+23
+data broker, regardless of how the information 
+24
+is collected, inferred, created, or obtained, that 
+25
+03:11 Feb 24, 2022
+H6752
+22 
+•HR 6752 IH
+is linked or reasonably linkable by the data 
+1
+broker to a particular individual or consumer 
+2
+device, including the following information: 
+3
+(i) Financial information, including 
+4
+any bank account number, credit card 
+5
+number, debit card number, or insurance 
+6
+policy number. 
+7
+(ii) A name, alias, home or other 
+8
+physical address, online identifier, Internet 
+9
+Protocol address, email address, account 
+10
+name, State identification card number, 
+11
+driver’s license number, passport number, 
+12
+or an identifying number on a government- 
+13
+issued identification. 
+14
+(iii) Geolocation information. 
+15
+(iv) Biometric information. 
+16
+(v) The contents of, attachments to, 
+17
+or parties to information, including with 
+18
+respect to email, text messages, picture 
+19
+messages, voicemails, audio conversations, 
+20
+or video conversations. 
+21
+(vi) Web browsing history, including 
+22
+any search query. 
+23
+(vii) Genetic sequencing information. 
+24
+03:11 Feb 24, 2022
+H6752
+23 
+•HR 6752 IH
+(viii) A device identifier, online identi-
+1
+fier, 
+persistent 
+identifier, 
+or 
+digital 
+2
+fingerprinting information. 
+3
+(ix) Any inference drawn from any of 
+4
+the information described in this para-
+5
+graph that is used to create a profile about 
+6
+an individual that reflects such individual’s 
+7
+preferences, characteristics, psychological 
+8
+trends, predispositions, behavior, attitudes, 
+9
+intelligence, abilities, or aptitudes. 
+10
+(x) Any other information determined 
+11
+appropriate by the Commission. 
+12
+(B) LINKED OR REASONABLY LINKABLE.— 
+13
+For purposes of subparagraph (A), information 
+14
+is ‘‘linked or reasonably linkable’’ to a par-
+15
+ticular individual or consumer device if the in-
+16
+formation can be used on its own or in com-
+17
+bination with other information held by or read-
+18
+ily accessible to a data broker to identify a par-
+19
+ticular individual or consumer device. 
+20
+(10) PROCESS.—The term ‘‘process’’ means to 
+21
+perform or direct the performance of an operation 
+22
+on personal information, including the collection, 
+23
+transmission, use, disclosure, analysis, prediction, or 
+24
+03:11 Feb 24, 2022
+H6752
+24 
+•HR 6752 IH
+modification of such personal information, whether 
+1
+or not by automated means. 
+2
+(11) UNIFORM RESOURCE LOCATOR; URL.—The 
+3
+term ‘‘uniform resource locator’’ or ‘‘URL’’ means a 
+4
+short string containing an address that refers to an 
+5
+object on the web. 
+6
+Æ 
+03:11 Feb 24, 2022
+H6752

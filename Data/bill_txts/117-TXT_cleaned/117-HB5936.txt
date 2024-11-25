@@ -1,0 +1,592 @@
+A BILL 
+To include requirements relating to ransomware attack deter-
+rence for a covered U.S. financial institution in the Con-
+solidated Appropriations Act, 2021, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Ransomware and Fi-
+4
+nancial Stability Act of 2021’’. 
+5
+SEC. 2. RANSOMWARE ATTACK DETERRENCE. 
+6
+(a) IN GENERAL.—Section 108 of title I of division 
+7
+Q of the Consolidated Appropriations Act, 2021 (Public 
+8
+03:34 Nov 12, 2021
+H5936
+2 
+•HR 5936 IH
+Law 116–260; 135 Stat. 2173; 12 U.S.C. 1811 note) is 
+1
+amended— 
+2
+(1) in the subsection heading, by striking ‘‘RE-
+3
+4
+(2) by redesignating subsections (d) and (e) as 
+5
+subsections (e) and (f), respectively; 
+6
+(3) by inserting the following after subsection 
+7
+(c): 
+8
+‘‘(d) RANSOMWARE ATTACK DETERRENCE.— 
+9
+‘‘(1) REQUIREMENTS.— 
+10
+‘‘(A) IN GENERAL.—A covered U.S. finan-
+11
+cial institution subject to a ransomware attack 
+12
+may not make a ransomware payment in re-
+13
+sponse to such ransomware attack— 
+14
+‘‘(i) before submitting the notification 
+15
+described in paragraph (2); and 
+16
+‘‘(ii) in an amount greater than 
+17
+$100,000, unless the payment is subject to 
+18
+a ransomware payment authorization. 
+19
+‘‘(B) RULE OF CONSTRUCTION.—Nothing 
+20
+in this subsection shall be construed to permit 
+21
+a ransomware payment that is otherwise pro-
+22
+hibited by law. 
+23
+‘‘(2) NOTIFICATION DESCRIBED.— 
+24
+03:34 Nov 12, 2021
+H5936
+3 
+•HR 5936 IH
+‘‘(A) IN
+GENERAL.—The notification de-
+1
+scribed in this paragraph shall be submitted by 
+2
+a covered U.S. financial institution to the Di-
+3
+rector of the Financial Crimes Enforcement 
+4
+Network and shall include— 
+5
+‘‘(i) a determination by such institu-
+6
+tion that such institution is subject to a 
+7
+ransomware attack; and 
+8
+‘‘(ii) a description of the ransomware 
+9
+attack and any associated ransomware 
+10
+payment demanded. 
+11
+‘‘(B) CONTENTS.—To ensure efficient noti-
+12
+fication and resolution of a ransomware attack, 
+13
+the Secretary of the Treasury— 
+14
+‘‘(i) shall, in consultation with inter-
+15
+ested persons, issue guidance specifying in-
+16
+formation required to be included in the 
+17
+notification described in this paragraph; 
+18
+and 
+19
+‘‘(ii) may not require, to be included 
+20
+in such notification, information that is 
+21
+unavailable to a covered U.S. financial in-
+22
+stitution, based on good-faith efforts of 
+23
+such institution to provide information. 
+24
+03:34 Nov 12, 2021
+H5936
+4 
+•HR 5936 IH
+‘‘(3) WAIVER.—The President may waive the 
+1
+requirements of paragraph (2) with respect to a cov-
+2
+ered U.S. financial institution if the President deter-
+3
+mines that the waiver is in the national interest of 
+4
+the United States and notifies such institution and 
+5
+the appropriate members of Congress of such waiv-
+6
+er. 
+7
+‘‘(4) 
+SAFE
+HARBOR
+WITH
+RESPECT
+TO 
+8
+RANSOMWARE
+PAYMENT
+AUTHORIZATIONS
+AND 
+9
+GOOD-FAITH DETERMINATIONS.— 
+10
+‘‘(A) IN
+GENERAL.—With respect to a 
+11
+ransomware payment made under paragraph 
+12
+(2)(B) or a waiver issued under paragraph 
+13
+(3)— 
+14
+‘‘(i) a U.S. financial institution shall 
+15
+not be liable under subchapter II of chap-
+16
+ter 53 of title 31, United States Code, or 
+17
+chapter 2 of title I of Public Law 91–508 
+18
+(12 U.S.C. 1951 et seq.) for making a 
+19
+ransomware payment consistent with the 
+20
+parameters and timing of a ransomware 
+21
+payment authorization; and 
+22
+‘‘(ii) no Federal or State department 
+23
+or agency may take any adverse super-
+24
+visory action with respect to the U.S. fi-
+25
+03:34 Nov 12, 2021
+H5936
+5 
+•HR 5936 IH
+nancial institution solely for making a 
+1
+ransomware payment consistent with the 
+2
+parameters and timing of the authoriza-
+3
+tion. 
+4
+‘‘(B) GOOD-FAITH
+EFFORTS
+TO
+ASSESS 
+5
+RANSOMWARE ATTACKS.—A covered U.S. finan-
+6
+cial institution may not be held liable for defi-
+7
+ciencies in describing a ransomware attack in a 
+8
+notification described under paragraph (2) if 
+9
+such institution engaged in good-faith efforts to 
+10
+determine the nature of the ransomware attack. 
+11
+‘‘(C) RULE OF CONSTRUCTION.—Nothing 
+12
+in this paragraph may be construed— 
+13
+‘‘(i) to prevent a Federal or State de-
+14
+partment or agency from verifying the va-
+15
+lidity of a ransomware payment authoriza-
+16
+tion with the law enforcement agency sub-
+17
+mitting that authorization; 
+18
+‘‘(ii) to relieve a U.S. financial institu-
+19
+tion from complying with any other provi-
+20
+sion of law, including the reporting of sus-
+21
+picious transactions under section 5318(g) 
+22
+of title 31, United States Code; or 
+23
+03:34 Nov 12, 2021
+H5936
+6 
+•HR 5936 IH
+‘‘(iii) to extend the safe harbor de-
+1
+scribed in this paragraph to any actions 
+2
+taken by the U.S. financial institution— 
+3
+‘‘(I) before the date of issuance 
+4
+of ransomware payment authorization; 
+5
+or 
+6
+‘‘(II) after any termination date 
+7
+stated in the ransomware payment au-
+8
+thorization 
+9
+‘‘(D) RANSOMWARE PAYMENT AUTHORIZA-
+10
+TION
+TERMINATION
+DATE.—Any ransomware 
+11
+payment authorization submitted under this 
+12
+subsection shall include a termination date after 
+13
+which that authorization shall no longer apply. 
+14
+‘‘(E) RECORDS.—Any Federal law enforce-
+15
+ment agency that submits to a U.S. financial 
+16
+institution a ransomware payment authorization 
+17
+shall, not later than 2 business days after the 
+18
+date on which the authorization is submitted to 
+19
+the U.S. financial institution— 
+20
+‘‘(i) submit to the Director of the Fi-
+21
+nancial Crimes Enforcement Network a 
+22
+copy of the authorization; and 
+23
+03:34 Nov 12, 2021
+H5936
+7 
+•HR 5936 IH
+‘‘(ii) alert the Director as to whether 
+1
+the U.S. financial institution has imple-
+2
+mented the request. 
+3
+‘‘(F) GUIDANCE.—The Secretary of the 
+4
+Treasury, in coordination with the Attorney 
+5
+General, shall issue guidance on the required 
+6
+elements of a ransomware payment authoriza-
+7
+tion. 
+8
+‘‘(5) CONFIDENTIALITY OF INFORMATION.— 
+9
+‘‘(A) IN GENERAL.—Except as provided in 
+10
+paragraph (2), any information or document 
+11
+provided by a U.S. financial institution to a 
+12
+Federal law enforcement agency pursuant to 
+13
+this subsection— 
+14
+‘‘(i) shall be exempt from disclosure 
+15
+under section 552 of title 5, United States 
+16
+Code; and 
+17
+‘‘(ii) may not be made publicly avail-
+18
+able. 
+19
+‘‘(B) EXCEPTIONS.—Paragraph (1) shall 
+20
+not prohibit the disclosure of the following: 
+21
+‘‘(i) Information relevant to any ad-
+22
+ministrative or judicial action or pro-
+23
+ceeding. 
+24
+03:34 Nov 12, 2021
+H5936
+8 
+•HR 5936 IH
+‘‘(ii) Information requested by the ap-
+1
+propriate members of Congress or other-
+2
+wise required to be submitted to Congress. 
+3
+‘‘(iii) Information required for Federal 
+4
+law enforcement or intelligence purposes 
+5
+(as determined by the Attorney General), 
+6
+in consultation with the Director of the Fi-
+7
+nancial Crimes Enforcement Network to be 
+8
+disclosed to a domestic governmental entity 
+9
+or to a governmental entity of a United 
+10
+States ally or partner, only to the extent 
+11
+necessary for such purposes, and subject to 
+12
+appropriate confidentiality and classifica-
+13
+tion requirements. 
+14
+‘‘(iv) Anonymized information re-
+15
+quired for the production of aggregate data 
+16
+or statistical analyses. 
+17
+‘‘(v) Information that the U.S. finan-
+18
+cial institution has consented to be dis-
+19
+closed to third parties. 
+20
+‘‘(6) DEFINITIONS.—In this subsection: 
+21
+‘‘(A) COVERED U.S. FINANCIAL INSTITU-
+22
+TION.—The term ‘covered U.S. financial insti-
+23
+tution’ means— 
+24
+03:34 Nov 12, 2021
+H5936
+9 
+•HR 5936 IH
+‘‘(i) any financial market utility that 
+1
+the Financial Stability Oversight Council 
+2
+has designated as systemically important 
+3
+under section 804 of the Dodd-Frank Wall 
+4
+Street Reform and Consumer Protection 
+5
+Act; 
+6
+‘‘(ii) any exchange registered under 
+7
+section 6 of the Securities Exchange Act of 
+8
+1934 that facilitates trading in any na-
+9
+tional market system security, as defined 
+10
+in section 242.600 of title 17, Code of 
+11
+Federal Regulations (or any successor reg-
+12
+ulation), and which exchange during at 
+13
+least four of the preceding six calendar 
+14
+months had— 
+15
+‘‘(I) with respect to all national 
+16
+market system securities that are not 
+17
+options, 10 percent or more of the av-
+18
+erage daily dollar volume reported by 
+19
+applicable transaction reporting plans; 
+20
+or 
+21
+‘‘(II) with respect to all listed op-
+22
+tions, 15 percent or more of the aver-
+23
+age daily dollar volume reported by 
+24
+applicable national market system 
+25
+03:34 Nov 12, 2021
+H5936
+10 
+•HR 5936 IH
+plans for reporting transactions in 
+1
+listed options; and 
+2
+‘‘(iii) any technology service provider 
+3
+in the Significant Service Provider Pro-
+4
+gram of the Financial Institutions Exam-
+5
+ination Council that provides core proc-
+6
+essing services that is determined by the 
+7
+Council to be a significant technology serv-
+8
+ice provider. 
+9
+‘‘(B) MALICIOUS
+SOFTWARE.—The term 
+10
+‘malicious software’ means software that, when 
+11
+deployed, results in the loss of access to data or 
+12
+the loss of functionality of an information and 
+13
+communications system or network of a U.S. fi-
+14
+nancial institution. 
+15
+‘‘(C) RANSOMWARE
+ATTACK.—The term 
+16
+‘ransomware attack’ means the deployment of 
+17
+malicious software for the purpose of demand-
+18
+ing payment in exchange for restoring critical 
+19
+access to, or the critical functionality of, an in-
+20
+formation and communications system or net-
+21
+work. 
+22
+‘‘(D) RANSOMWARE PAYMENT.—The term 
+23
+‘ransomware payment’ means a payment made 
+24
+by a U.S. financial institution (including a pay-
+25
+03:34 Nov 12, 2021
+H5936
+11 
+•HR 5936 IH
+ment made through use of digital currency) to, 
+1
+at the request of, or for the benefit of a person 
+2
+responsible for a ransomware attack in ex-
+3
+change for restoration of the access or 
+4
+functionality of an information and communica-
+5
+tions system or network of the institution. 
+6
+‘‘(E) RANSOMWARE PAYMENT AUTHORIZA-
+7
+TION.—The term ‘ransomware payment author-
+8
+ization’ means, with respect to a ransomware 
+9
+payment made by a U.S. financial institution, a 
+10
+written notice from a Federal law enforcement 
+11
+agency to authorize such ransomware pay-
+12
+ment.’’; 
+13
+(4) in subsection (f), as so redesignated, by 
+14
+striking ‘‘after the date of enactment of this Act’’ 
+15
+and inserting ‘‘after the date of enactment of the 
+16
+Ransomware and Financial Stability Act of 2021’’; 
+17
+and 
+18
+(5) by adding at the end the following new sub-
+19
+section: 
+20
+‘‘(g) SHORT TITLE.—This section may be cited as the 
+21
+‘Cybersecurity and Financial System Resilience Act’.’’. 
+22
+(b) APPLICABILITY.— 
+23
+(1) IN GENERAL.—The amendments made by 
+24
+this Act shall apply to a covered U.S. financial insti-
+25
+03:34 Nov 12, 2021
+H5936
+12 
+•HR 5936 IH
+tution (as defined in subsection (d) of the Cyberse-
+1
+curity and Financial System Resilience Act (Public 
+2
+Law 116–260; 135 Stat. 2173; 12 U.S.C. 1811 
+3
+note), as added by this Act) beginning on the earlier 
+4
+of the date that is— 
+5
+(A) 30 days after publication in the Fed-
+6
+eral Register of rules implementing this Act; or 
+7
+(B) 1 year after the date of the enactment 
+8
+of this Act. 
+9
+(c) SUNSET.—This Act and the amendments made 
+10
+by this Act shall be repealed 10 years after the applica-
+11
+bility date described in subsection (b). 
+12
+Æ 
+03:34 Nov 12, 2021
+H5936

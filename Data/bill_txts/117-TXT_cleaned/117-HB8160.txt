@@ -1,0 +1,486 @@
+A BILL 
+To prohibit providers of email services from using filtering 
+algorithms to flag emails from political campaigns that 
+consumers have elected to receive as spam. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Political Bias In Algo-
+4
+rithm Sorting Emails Act of 2022’’ or the ‘‘Political BIAS 
+5
+Emails Act of 2022’’. 
+6
+03:28 Jun 30, 2022
+H8160
+2 
+•HR 8160 IH
+SEC. 2. UNFAIR AND DECEPTIVE ACTS AND PRACTICES RE-
+1
+LATING TO FILTERING POLITICAL EMAILS 
+2
+THAT A CONSUMER HAS ELECTED TO RE-
+3
+CEIVE. 
+4
+(a) CONDUCT PROHIBITED.— 
+5
+(1) IN GENERAL.—It shall be unlawful for an 
+6
+operator of an email service to use a filtering algo-
+7
+rithm to apply a label to an email sent to an email 
+8
+account from a political campaign unless the owner 
+9
+or user of the account took action to apply such a 
+10
+label. 
+11
+(2) EFFECTIVE DATE.—The prohibition under 
+12
+subsection (1) shall take effect on the date that is 
+13
+3 months after the date of enactment of this Act. 
+14
+(b) QUARTERLY TRANSPARENCY REPORT.— 
+15
+(1) IN
+GENERAL.—Beginning with the first 
+16
+year that begins on or after the date that is 120 
+17
+days after the date of enactment of this Act, each 
+18
+operator of an email service shall be required to 
+19
+make publicly available, on a quarterly basis, a 
+20
+transparency report that meets the requirements of 
+21
+this subsection. 
+22
+(2) CONTENT OF REPORT.—Each quarterly re-
+23
+port by an operator of an email service required 
+24
+under this subsection shall include the following: 
+25
+03:28 Jun 30, 2022
+H8160
+3 
+•HR 8160 IH
+(A) The total number of instances during 
+1
+the previous quarter in which emails from polit-
+2
+ical campaigns were flagged as spam. 
+3
+(B) The number of instances during the 
+4
+previous quarter in which emails from political 
+5
+campaigns were flagged as spam by a filtering 
+6
+algorithm without direction from the email ac-
+7
+count owner or user. 
+8
+(C) The total number of instances during 
+9
+the previous quarter when emails from political 
+10
+campaigns of candidates belonging to the Re-
+11
+publican Party were flagged as spam. 
+12
+(D) The percentage of emails during the 
+13
+previous quarter of the year flagged as spam 
+14
+from political campaigns of candidates belong-
+15
+ing to the Republican party. 
+16
+(E) The number of instances during the 
+17
+previous quarter in which emails from political 
+18
+campaigns of candidates belonging to the Re-
+19
+publican Party were flagged as spam by a fil-
+20
+tering algorithm without direction from the 
+21
+email account owner or user. 
+22
+(F) The percentage of emails during the 
+23
+previous quarter of the year flagged as spam by 
+24
+a filtering algorithm without direction from the 
+25
+03:28 Jun 30, 2022
+H8160
+4 
+•HR 8160 IH
+email account owner or user for emails from po-
+1
+litical campaigns of candidates belonging to the 
+2
+Republican Party. 
+3
+(G) The total number of instances during 
+4
+the previous quarter when emails from political 
+5
+campaigns of candidates belonging to the 
+6
+Democratic Party were flagged as spam. 
+7
+(H) The percentage of emails during the 
+8
+previous quarter of the year flagged as spam 
+9
+from political campaigns of candidates belong-
+10
+ing to the Democratic party. 
+11
+(I) The number of instances during the 
+12
+previous quarter in which emails from political 
+13
+campaigns of candidates belonging to the 
+14
+Democratic Party were flagged as spam by a 
+15
+filtering algorithm without direction from the 
+16
+email account owner or user. 
+17
+(J) The percentage of emails during the 
+18
+previous quarter of the year flagged as spam by 
+19
+a filtering algorithm without direction from the 
+20
+email account owner or user for emails from po-
+21
+litical campaigns of candidates belonging to the 
+22
+Democratic party. 
+23
+(K) A descriptive summary of the kinds of 
+24
+tools, practices, actions, and techniques used by 
+25
+03:46 Jul 01, 2022
+H8160
+5 
+•HR 8160 IH
+an operator of an email service during the pre-
+1
+vious quarter in determining which emails from 
+2
+political campaigns to flag as spam. 
+3
+(3) PUBLICATION AND FORMAT.—The operator 
+4
+of an email service shall publish each quarterly re-
+5
+port required under this subsection with an open li-
+6
+cense, in a machine-readable and open format, and 
+7
+in a location that is easily accessible to consumers. 
+8
+(c) DISCLOSURE FOR POLITICAL CAMPAIGNS.— 
+9
+(1) IN GENERAL.—Beginning 3 months after 
+10
+the date of the enactment of this Act, each operator 
+11
+of an email service shall be required to disclose to 
+12
+a political campaign, upon the request of the cam-
+13
+paign and subject to paragraph (3), a report that in-
+14
+cludes any of the information described in paragraph 
+15
+(2) that is requested by the campaign. 
+16
+(2) CONTENT OF THE DISCLOSURE.—The infor-
+17
+mation described in this paragraph is the following: 
+18
+(A) The number of instances during the 
+19
+previous quarter when emails from the political 
+20
+campaign requesting the information were 
+21
+flagged as spam. 
+22
+(B) The percentage of emails sent from 
+23
+the political campaign requesting the informa-
+24
+03:28 Jun 30, 2022
+H8160
+6 
+•HR 8160 IH
+tion that were flagged as spam during the pre-
+1
+vious quarter. 
+2
+(C) The number of instances during the 
+3
+previous calendar quarter when emails from the 
+4
+political campaign requesting the information 
+5
+were flagged as spam by a filtering algorithm. 
+6
+(D) The total number of emails sent from 
+7
+the political campaign requesting the informa-
+8
+tion that reached the intended recipient’s pri-
+9
+mary inbox. 
+10
+(E) The percentage of emails sent from 
+11
+the political campaign requesting the informa-
+12
+tion that reached the intended recipient’s pri-
+13
+mary inbox. 
+14
+(F) A descriptive summary as to why an 
+15
+email from the political campaign requesting 
+16
+the information did not reach the intended re-
+17
+cipient’s primary inbox. 
+18
+(3) FREQUENCY
+OF
+REQUESTS.—A political 
+19
+campaign may not request that an operator of an 
+20
+email service provide a report containing any of the 
+21
+information described in paragraph (2) more than— 
+22
+(A) once per week during election years; 
+23
+(B) twice per month during non-election 
+24
+years; and 
+25
+03:28 Jun 30, 2022
+H8160
+7 
+•HR 8160 IH
+(C) once a week in the 12 months pre-
+1
+ceding the date of a special election in which a 
+2
+candidate associated with the political campaign 
+3
+is seeking election. 
+4
+(4) BEST PRACTICES.—An operator of an email 
+5
+service shall provide to a political campaign, upon 
+6
+request, best practices on steps the political cam-
+7
+paign should take to increase the number of emails 
+8
+from the political campaign that reach the intended 
+9
+recipient’s primary inbox. 
+10
+(5) DEADLINE FOR PROVIDING DISCLOSURE TO 
+11
+CAMPAIGNS.—An operator of an email 
+12
+service that receives a request from a political cam-
+13
+paign for a disclosure report described in paragraph 
+14
+(1) or best practices described in paragraph (4) shall 
+15
+provide such report or best practices to the political 
+16
+campaign not later than 4 days after the operator 
+17
+receives the request. 
+18
+(d) ENFORCEMENT BY THE FEDERAL TRADE COM-
+19
+MISSION.— 
+20
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+21
+TICES.—A violation of subsection (a), (b), or (c) 
+22
+shall be treated as a violation of a rule defining an 
+23
+unfair or a deceptive act or practice under section 
+24
+03:28 Jun 30, 2022
+H8160
+8 
+•HR 8160 IH
+18(a)(1)(B) of the Federal Trade Commission Act 
+1
+(15 U.S.C. 57a(a)(1)(B)). 
+2
+(2) POWERS OF COMMISSION.— 
+3
+(A) IN
+GENERAL.—The Federal Trade 
+4
+Commission shall enforce this section in the 
+5
+same manner, by the same means, and with the 
+6
+same jurisdiction, powers, and duties as though 
+7
+all applicable terms and provisions of the Fed-
+8
+eral Trade Commission Act (15 U.S.C. 41 et 
+9
+seq.) were incorporated into and made a part of 
+10
+this section. 
+11
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+12
+person who violates subsection (a) shall be sub-
+13
+ject to the penalties and entitled to the privi-
+14
+leges and immunities provided in the Federal 
+15
+Trade Commission Act (15 U.S.C. 41 et seq.). 
+16
+(C) AUTHORITY PRESERVED.—Nothing in 
+17
+this section shall be construed to limit the au-
+18
+thority of the Federal Trade Commission under 
+19
+any other provision of law. 
+20
+SEC. 3. DEFINITIONS. 
+21
+In this Act: 
+22
+(1) FILTERING
+ALGORITHM.—The term ‘‘fil-
+23
+tering algorithm’’ means a computational process, 
+24
+including one derived from algorithmic decision mak-
+25
+03:28 Jun 30, 2022
+H8160
+9 
+•HR 8160 IH
+ing, machine learning, statistical analysis, or other 
+1
+data processing or artificial intelligence techniques, 
+2
+used by an email service to identify and filter emails 
+3
+sent to an email account. 
+4
+(2) OPERATOR.— 
+5
+(A) IN
+GENERAL.—The term ‘‘operator’’ 
+6
+means any person who operates an email serv-
+7
+ice and includes any person that wholly owns a 
+8
+subsidiary entity that operates an email service. 
+9
+(B) EXCLUSIONS.—Such term shall not in-
+10
+clude any person who operates an email service 
+11
+if such service is wholly owned, controlled, and 
+12
+operated by a person that— 
+13
+(i) for the most recent 6-month pe-
+14
+riod, did not employ more than 500 em-
+15
+ployees; and 
+16
+(ii) for the most recent 12-month pe-
+17
+riod, averaged less than $5,000,000,000 in 
+18
+annual gross receipts. 
+19
+(3) POLITICAL CAMPAIGN.—The term ‘‘political 
+20
+campaign’’ includes— 
+21
+(A) an individual who is a candidate (as 
+22
+such term is defined in section 301(2) of the 
+23
+Federal Election Campaign Act of 1971 (52 
+24
+U.S.C. 30101(2))); 
+25
+03:46 Jul 01, 2022
+H8160
+10 
+•HR 8160 IH
+(B) an authorized committee (as such term 
+1
+is defined in section 301(6) of such Act); 
+2
+(C) a connected organization (as such term 
+3
+is defined in section 301(7) of such Act); 
+4
+(D) a national committee (as such term is 
+5
+defined in section 301(15) of such Act); 
+6
+(E) a State committee (as such term is de-
+7
+fined in section 301(15) of such Act); and 
+8
+(F) a joint fundraising committee that in-
+9
+cludes any entity described in subparagraphs 
+10
+(A) through (E). 
+11
+Æ 
+03:28 Jun 30, 2022
+H8160

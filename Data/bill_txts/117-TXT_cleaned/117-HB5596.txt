@@ -1,0 +1,196 @@
+A BILL 
+To amend section 230 of the Communications Act of 1934 
+to limit the liability protection provided by such section 
+when a provider of an interactive computer service knew 
+or should have known such provider was making a per-
+sonalized recommendation of third-party information or 
+recklessly made a personalized recommendation of such 
+information, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+21:12 Oct 29, 2021
+H5596
+2 
+•HR 5596 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Justice Against Mali-
+2
+cious Algorithms Act of 2021’’. 
+3
+SEC. 2. PERSONALIZED RECOMMENDATION OF THIRD- 
+4
+PARTY INFORMATION. 
+5
+(a) IN GENERAL.—Section 230 of the Communica-
+6
+tions Act of 1934 (47 U.S.C. 230) is amended— 
+7
+(1) by redesignating subsection (f) as sub-
+8
+section (g); 
+9
+(2) by inserting after subsection (e) the fol-
+10
+lowing: 
+11
+‘‘(f) PERSONALIZED RECOMMENDATION OF INFOR-
+12
+MATION PROVIDED BY ANOTHER INFORMATION CONTENT 
+13
+PROVIDER.— 
+14
+‘‘(1) IN GENERAL.—Subsection (c)(1) does not 
+15
+apply to a provider of an interactive computer serv-
+16
+ice with respect to information provided through 
+17
+such service by another information content provider 
+18
+if— 
+19
+‘‘(A) such provider of such service— 
+20
+‘‘(i) knew or should have known such 
+21
+provider of such service was making a per-
+22
+sonalized recommendation of such informa-
+23
+tion; or 
+24
+‘‘(ii) recklessly made a personalized 
+25
+recommendation of such information; and 
+26
+21:12 Oct 29, 2021
+H5596
+3 
+•HR 5596 IH
+‘‘(B) such recommendation materially con-
+1
+tributed to a physical or severe emotional injury 
+2
+to any person. 
+3
+‘‘(2) EXEMPTIONS.— 
+4
+‘‘(A) SMALL BUSINESSES.—Paragraph (1) 
+5
+of this subsection does not apply to an inter-
+6
+active computer service that (in combination 
+7
+with each subsidiary and affiliate of the service) 
+8
+has 5,000,000 or fewer unique monthly visitors 
+9
+or users for not fewer than 3 of the preceding 
+10
+12 months. 
+11
+‘‘(B) 
+USER-SPECIFIED
+SEARCH.—Para-
+12
+graph (1) of this subsection does not apply to 
+13
+a provider of an interactive computer service to 
+14
+the extent that the recommendation was made 
+15
+directly in response to a user-specified search. 
+16
+‘‘(C) INTERNET INFRASTRUCTURE.—Para-
+17
+graph (1) of this subsection does not apply to 
+18
+a provider of an interactive computer service to 
+19
+the extent that the service, system, or access 
+20
+software of such provider is used by another 
+21
+interactive computer service for the manage-
+22
+ment, control, or operation of such other inter-
+23
+active computer service, including for— 
+24
+‘‘(i) web hosting; 
+25
+21:12 Oct 29, 2021
+H5596
+4 
+•HR 5596 IH
+‘‘(ii) domain registration; 
+1
+‘‘(iii) content delivery networks; 
+2
+‘‘(iv) caching; 
+3
+‘‘(v) data storage; and 
+4
+‘‘(vi) cybersecurity.’’; and 
+5
+(3) in subsection (g) (as so redesignated), by 
+6
+adding at the end the following: 
+7
+‘‘(5) PERSONALIZED RECOMMENDATION.—The 
+8
+term ‘personalized recommendation’ means, with re-
+9
+spect to information, the material enhancement, 
+10
+using a personalized algorithm, of the prominence of 
+11
+such information with respect to other information. 
+12
+‘‘(6) PERSONALIZED
+ALGORITHM.—The term 
+13
+‘personalized algorithm’ means an algorithm that re-
+14
+lies on information specific to an individual. 
+15
+‘‘(7) ALGORITHM.—The term ‘algorithm’ means 
+16
+any computational process, model, or other auto-
+17
+mated means of processing to rank, order, promote, 
+18
+recommend, amplify, or similarly alter the delivery 
+19
+or display of information (including any text, image, 
+20
+audio, or video post and any page, group, account, 
+21
+channel, or affiliation).’’. 
+22
+(b) CONFORMING AMENDMENT.—Section 223(h)(2) 
+23
+of the Communications Act of 1934 (47 U.S.C. 223(h)(2)) 
+24
+21:12 Oct 29, 2021
+H5596
+5 
+•HR 5596 IH
+is amended by striking ‘‘section 230(f)(2)’’ and inserting 
+1
+‘‘section 230(g)(2)’’. 
+2
+(c) APPLICABILITY.—The amendments made by this 
+3
+section shall apply with respect to recommendations made 
+4
+after the date that is 180 days after the date of the enact-
+5
+ment of this Act. 
+6
+Æ 
+21:12 Oct 29, 2021
+H5596

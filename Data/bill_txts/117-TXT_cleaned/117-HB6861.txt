@@ -1,0 +1,653 @@
+A BILL 
+To amend the Homeland Security Act of 2002 to provide 
+for congressional notification regarding major acquisition 
+program breaches, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Reducing Costs of 
+4
+DHS Acquisitions Act’’. 
+5
+SEC. 2. CONGRESSIONAL NOTIFICATION FOR MAJOR AC-
+6
+QUISITION PROGRAM BREACH. 
+7
+(a) DEFINITIONS.— 
+8
+00:58 Mar 01, 2022
+H6861
+2 
+•HR 6861 IH
+(1) IN GENERAL.—Subtitle D of title VIII of 
+1
+the Homeland Security Act of 2002 (6 U.S.C. 391 
+2
+et seq.) is amended by inserting before section 831 
+3
+the following new section: 
+4
+‘‘SEC. 830. DEFINITIONS. 
+5
+‘‘In this subtitle: 
+6
+‘‘(1) ACQUISITION.—The term ‘acquisition’ has 
+7
+the meaning given such term in section 131 of title 
+8
+41, United States Code. 
+9
+‘‘(2) ACQUISITION DECISION AUTHORITY.—The 
+10
+term ‘acquisition decision authority’ means the au-
+11
+thority, in addition to the authorities and functions 
+12
+specified in subsection (b) of section 1702 of title 
+13
+41, United States Code, held by the Secretary acting 
+14
+through the Under Secretary for Management to— 
+15
+‘‘(A) ensure compliance with Federal law, 
+16
+the Federal Acquisition Regulation, and De-
+17
+partment acquisition management directives; 
+18
+‘‘(B) review (including approving, pausing, 
+19
+modifying, or canceling) an acquisition program 
+20
+throughout the life-cycle of such program; 
+21
+‘‘(C) ensure that acquisition program man-
+22
+agers have the resources necessary to success-
+23
+fully execute an approved acquisition program; 
+24
+00:58 Mar 01, 2022
+H6861
+3 
+•HR 6861 IH
+‘‘(D) ensure appropriate acquisition pro-
+1
+gram management of cost, schedule, risk, and 
+2
+system or service performance of the acquisition 
+3
+program at issue, including assessing acquisi-
+4
+tion program baseline breaches and directing 
+5
+any corrective action for such breaches; 
+6
+‘‘(E) ensure that acquisition program man-
+7
+agers, on an ongoing basis, monitor cost, sched-
+8
+ule, and performance against established base-
+9
+lines and use tools to assess risks to an acquisi-
+10
+tion program at all phases of the life-cycle of 
+11
+such program; and 
+12
+‘‘(F) establish policies and procedures for 
+13
+major acquisition programs of the Department. 
+14
+‘‘(3) ACQUISITION DECISION MEMORANDUM.— 
+15
+The term ‘acquisition decision memorandum’, with 
+16
+respect to an acquisition, means the official docu-
+17
+mented record of decisions, including the rationale 
+18
+for such decisions and any assigned actions for such 
+19
+acquisition, as determined by the individual exer-
+20
+cising acquisition decision authority for such acquisi-
+21
+tion. 
+22
+‘‘(4) ACQUISITION PROGRAM.—The term ‘acqui-
+23
+sition program’ means the conceptualization, initi-
+24
+ation, design, development, test, contracting, produc-
+25
+00:58 Mar 01, 2022
+H6861
+4 
+•HR 6861 IH
+tion, deployment, logistics support, modification, or 
+1
+disposal of systems, supplies, or services (including 
+2
+construction) to satisfy the Department’s needs. 
+3
+‘‘(5) ACQUISITION
+PROGRAM
+BASELINE.—The 
+4
+term ‘acquisition program baseline’, with respect to 
+5
+an acquisition program, means the cost, schedule, 
+6
+and performance parameters, expressed in standard, 
+7
+measurable, quantitative terms, which shall be satis-
+8
+fied to accomplish the goals of such program. 
+9
+‘‘(6) APPROPRIATE
+COMMITTEES
+OF
+CON-
+10
+GRESS.—The term ‘appropriate committees of Con-
+11
+gress’ means— 
+12
+‘‘(A) the Committee on Homeland Security 
+13
+and the Committee on Appropriations of the 
+14
+House of Representatives and the Committee 
+15
+on Homeland Security and Governmental Af-
+16
+fairs and the Committee on Appropriations of 
+17
+the Senate; and 
+18
+‘‘(B) in the case of notice or a report relat-
+19
+ing to the Coast Guard or the Transportation 
+20
+Security Administration, the committees speci-
+21
+fied in subparagraph (A) and the Committee on 
+22
+Transportation and Infrastructure of the House 
+23
+of Representatives and the Committee on Com-
+24
+00:58 Mar 01, 2022
+H6861
+5 
+•HR 6861 IH
+merce, Science, and Transportation of the Sen-
+1
+ate. 
+2
+‘‘(7) BREACH.—The term ‘breach’, with respect 
+3
+to a major acquisition program, means a failure to 
+4
+satisfy any cost, schedule, or performance threshold 
+5
+specified in the most recently approved acquisition 
+6
+program baseline. 
+7
+‘‘(8) CHIEF ACQUISITION OFFICER.—The term 
+8
+‘Chief Acquisition Officer’ means the Chief Acquisi-
+9
+tion Officer pursuant to section 1702 of title 41, 
+10
+United States Code. 
+11
+‘‘(9) COMPONENT ACQUISITION EXECUTIVE.— 
+12
+The term ‘Component Acquisition Executive’ means 
+13
+the senior acquisition official within a component 
+14
+who is designated in writing by the Under Secretary 
+15
+for Management, in consultation with the component 
+16
+head, with authority and responsibility for leading a 
+17
+process and staff to provide acquisition and program 
+18
+management oversight, policy, and guidance to en-
+19
+sure that statutory, regulatory, and higher level pol-
+20
+icy requirements are fulfilled, including compliance 
+21
+with Federal law, the Federal Acquisition Regula-
+22
+tion, and Department acquisition management direc-
+23
+tives established by the Under Secretary for Man-
+24
+agement. 
+25
+00:58 Mar 01, 2022
+H6861
+6 
+•HR 6861 IH
+‘‘(10) LIFE-CYCLE COST.—The term ‘life-cycle 
+1
+cost’ means the total ownership cost of an acquisi-
+2
+tion, including all relevant costs related to acquiring, 
+3
+deploying, operating, maintaining, supporting, and 
+4
+(if applicable) disposing of the system, project, or 
+5
+product at issue over a specified period of time. 
+6
+‘‘(11) MAJOR
+ACQUISITION
+PROGRAM.—The 
+7
+term ‘major acquisition program’ means a Depart-
+8
+ment capital asset, service, or hybrid acquisition pro-
+9
+gram that is estimated by the Secretary to require 
+10
+an 
+eventual 
+total 
+expenditure 
+of 
+at 
+least 
+11
+$300,000,000 (based on fiscal year 2022 constant 
+12
+dollars) over the life-cycle cost of the program, or an 
+13
+acquisition program identified by the Chief Acquisi-
+14
+tion Officer as a program of special interest.’’. 
+15
+(2) CLERICAL AMENDMENT.—The table of con-
+16
+tents in section 1(b) of the Homeland Security Act 
+17
+of 2002 is amended by inserting before the item re-
+18
+lating to section 831 the following new item: 
+19
+‘‘Sec. 830. Definitions.’’. 
+(b) CONGRESSIONAL NOTIFICATION FOR MAJOR AC-
+20
+QUISITION PROGRAM BREACH.— 
+21
+(1) IN GENERAL.—Subtitle D of title VIII of 
+22
+the Homeland Security Act of 2002 (6 U.S.C. 391 
+23
+et seq.) is amended by adding at the end the fol-
+24
+lowing new section: 
+25
+00:58 Mar 01, 2022
+H6861
+7 
+•HR 6861 IH
+‘‘SEC. 836. CONGRESSIONAL NOTIFICATION AND OTHER RE-
+1
+QUIREMENTS FOR MAJOR ACQUISITION PRO-
+2
+GRAM BREACH. 
+3
+‘‘(a) NOTIFICATIONS
+WITHIN
+DEPARTMENT
+IN 
+4
+EVENT OF BREACH.— 
+5
+‘‘(1) NOTIFICATION OF BREACH.—If a breach 
+6
+occurs, or is expected to occur, in a major acquisi-
+7
+tion program, the program manager for such pro-
+8
+gram shall notify the Component Acquisition Execu-
+9
+tive for such program, the head of the component 
+10
+concerned, and the Executive Director of the Pro-
+11
+gram Accountability and Risk Management office in 
+12
+writing not later than 30 calendar days after the 
+13
+date on which such breach is identified. 
+14
+‘‘(2) NOTIFICATION TO UNDER SECRETARY.— 
+15
+Not later than five business days after receipt of a 
+16
+notification pursuant to paragraph (1), the Compo-
+17
+nent Acquisition Executive for the major acquisition 
+18
+program at issue shall notify the Under Secretary 
+19
+for Management in writing of the breach that is the 
+20
+subject of such notification. 
+21
+‘‘(3) PAUSING ACTIVITIES.—Upon notification 
+22
+to the Under Secretary under paragraph (2), the 
+23
+major acquisition program that is the subject of the 
+24
+breach at issue shall pause all activities relating to 
+25
+such program except those activities necessary to de-
+26
+00:58 Mar 01, 2022
+H6861
+8 
+•HR 6861 IH
+velop the remediation plan required under subsection 
+1
+(b) until the Under Secretary for Management ap-
+2
+proves such plan or provides alternative corrective 
+3
+actions for such program pursuant to subsection (c). 
+4
+‘‘(b) NOTIFICATION
+TO CONGRESS
+IN EVENT
+OF 
+5
+BREACH.—Not later than 30 days after the date on which 
+6
+a notification to the Under Secretary for Management is 
+7
+made under subsection (a)(1) relating to a breach in a 
+8
+major acquisition program, the Under Secretary shall no-
+9
+tify in writing the appropriate committees of Congress of 
+10
+such breach. 
+11
+‘‘(c) REMEDIATION PLAN AND ROOT CAUSE ANAL-
+12
+YSIS.— 
+13
+‘‘(1) IN GENERAL.—If a breach occurs, or is ex-
+14
+pected to occur, in a major acquisition program, the 
+15
+program manager for such program shall, in coordi-
+16
+nation with the Component Acquisition Executive for 
+17
+such program, submit in writing to the head of the 
+18
+component concerned, the Executive Director of the 
+19
+Program Accountability and Risk Management of-
+20
+fice, and the Under Secretary for Management, at a 
+21
+date established by the Under Secretary, a remedi-
+22
+ation plan and root cause analysis relating to such 
+23
+breach and program. 
+24
+00:58 Mar 01, 2022
+H6861
+9 
+•HR 6861 IH
+‘‘(2) REMEDIATION
+PLAN.—The remediation 
+1
+plan required under subparagraph (A) shall— 
+2
+‘‘(A) explain the circumstances of the 
+3
+breach at issue; 
+4
+‘‘(B) provide prior cost estimating informa-
+5
+tion; 
+6
+‘‘(C) include a root cause analysis that de-
+7
+termines the underlying cause or causes of such 
+8
+breach, including— 
+9
+‘‘(i) unrealistic performance expecta-
+10
+tions; 
+11
+‘‘(ii) unrealistic baseline estimates for 
+12
+cost or schedule or changes in program re-
+13
+quirements; 
+14
+‘‘(iii) immature technologies or exces-
+15
+sive manufacturing or integration risk; 
+16
+‘‘(iv) unanticipated design, engineer-
+17
+ing, manufacturing, or technology integra-
+18
+tion issues arising during program per-
+19
+formance; 
+20
+‘‘(v) inadequate program funding or 
+21
+changes in planned out-year funding from 
+22
+one five-year funding plan to the next five- 
+23
+year funding plan as outlined in the Fu-
+24
+00:58 Mar 01, 2022
+H6861
+10 
+•HR 6861 IH
+ture Years Homeland Security Program 
+1
+required under section 874; 
+2
+‘‘(vi) legislative, legal, or regulatory 
+3
+changes; 
+4
+‘‘(vii) inadequate program manage-
+5
+ment personnel, including lack of sufficient 
+6
+number of staff, training, credentials, or 
+7
+certifications; or 
+8
+‘‘(viii) inadequate assessment or miti-
+9
+gation of program risk; 
+10
+‘‘(C) propose corrective action to address 
+11
+the underlying cause or causes of the breach 
+12
+identified pursuant to subparagraph (C); 
+13
+‘‘(D) explain the rationale for why a pro-
+14
+posed corrective action is recommended com-
+15
+pared to other options considered; and 
+16
+‘‘(E) identify the estimated impact on pro-
+17
+gram cost, schedule, or performance goals of 
+18
+implementing such proposed corrective action, 
+19
+and the extent to which funding from other ac-
+20
+quisition programs would need to be reduced to 
+21
+cover the cost growth of the major acquisition 
+22
+program at issue. 
+23
+‘‘(d) REVIEW OF REMEDIATION PLANS.— 
+24
+00:58 Mar 01, 2022
+H6861
+11 
+•HR 6861 IH
+‘‘(1) IN
+GENERAL.—Not later than 30 days 
+1
+after the date on which the Under Secretary for 
+2
+Management receives a remediation plan pursuant to 
+3
+subsection (c)(1), the Under Secretary shall review 
+4
+such plan and either approve such plan for continu-
+5
+ation or provide an alternative proposed corrective 
+6
+action, including cancelling the major acquisition 
+7
+program at issue. 
+8
+‘‘(2) DOCUMENTATION.— 
+9
+‘‘(A) 
+ACQUISITION
+DECISION
+MEMO-
+10
+RANDUM.—The Under Secretary for Manage-
+11
+ment shall document the review under para-
+12
+graph (1) in an acquisition decision memo-
+13
+randum. 
+14
+‘‘(B) 
+PROGRAM
+CONTINUATION
+AP-
+15
+PROVAL.—If the Under Secretary for Manage-
+16
+ment approves a major acquisition program 
+17
+pursuant to paragraph (1) for continuation or 
+18
+alternate proposed corrective action rather than 
+19
+cancellation, the Under Secretary shall certify 
+20
+in the acquisition decision memorandum re-
+21
+quired under subparagraph (A) that— 
+22
+‘‘(i) such program is essential to the 
+23
+mission of the Department; 
+24
+00:58 Mar 01, 2022
+H6861
+12 
+•HR 6861 IH
+‘‘(ii) there are no alternatives to the 
+1
+capability or asset provided by such pro-
+2
+gram that will provide equal or greater ca-
+3
+pability in a more cost-effective and timely 
+4
+manner; 
+5
+‘‘(iii) the estimated impact on pro-
+6
+gram cost, schedule, or performance goals 
+7
+are reasonable of continuing or imple-
+8
+menting the alternative proposed corrective 
+9
+action, as the case may be; and 
+10
+‘‘(iv) the management structure for 
+11
+such program is adequate to manage and 
+12
+control cost, schedule, or performance. 
+13
+‘‘(3) SUBMISSION
+TO
+CONGRESS.—Not later 
+14
+than 30 days after the date on which the Under Sec-
+15
+retary for Management completes a review of a re-
+16
+mediation plan under paragraph (1), the Under Sec-
+17
+retary shall submit to the appropriate committees of 
+18
+Congress— 
+19
+‘‘(A) a copy of such remediation plan; and 
+20
+‘‘(B) a statement describing the corrective 
+21
+action or actions in such remediation plan in 
+22
+accordance with such paragraph for the major 
+23
+acquisition program at issue, with a justifica-
+24
+00:58 Mar 01, 2022
+H6861
+13 
+•HR 6861 IH
+tion for each such action in accordance with 
+1
+paragraph (2).’’. 
+2
+(2) CLERICAL AMENDMENT.—The table of con-
+3
+tents in section 1(b) of the Homeland Security Act 
+4
+of 2002 is amended by inserting after the item relat-
+5
+ing to section 835 the following new item: 
+6
+‘‘Sec. 836. Congressional notification and other requirements for major acquisi-
+tion program breach.’’. 
+Æ 
+00:58 Mar 01, 2022
+H6861

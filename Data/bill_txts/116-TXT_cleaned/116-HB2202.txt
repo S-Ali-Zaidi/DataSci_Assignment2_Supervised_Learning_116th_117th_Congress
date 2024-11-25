@@ -1,0 +1,1478 @@
+A BILL 
+To establish a coordinated Federal initiative to accelerate 
+artificial intelligence research and development for the 
+economic and national security of the United States, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Growing Artificial Intelligence Through Research Act’’ 
+5
+or the ‘‘GrAITR Act’’. 
+6
+(b) TABLE OF CONTENTS.—The table of contents for 
+7
+this Act is as follows: 
+8
+18:39 Apr 19, 2019
+H2202
+2 
+•HR 2202 IH
+Sec. 1. Short title; table of contents. 
+Sec. 2. Sense of Congress. 
+Sec. 3. Definitions. 
+TITLE I—NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE 
+Sec. 101. National Artificial Intelligence Initiative. 
+Sec. 102. National Artificial Intelligence Coordination Office. 
+Sec. 103. Interagency Committee. 
+Sec. 104. Advisory Committee. 
+TITLE II—NATIONAL INSTITUTE OF STANDARDS AND 
+TECHNOLOGY ARTIFICIAL INTELLIGENCE ACTIVITIES 
+Sec. 201. In general. 
+TITLE III—NATIONAL SCIENCE FOUNDATION AND MULTIDISCI-
+PLINARY CENTERS FOR ARTIFICIAL INTELLIGENCE RESEARCH 
+AND EDUCATION 
+Sec. 301. Artificial intelligence research and education program. 
+Sec. 302. Multidisciplinary centers for artificial intelligence research and edu-
+cation. 
+TITLE IV—DEPARTMENT OF ENERGY ARTIFICIAL INTELLIGENCE 
+RESEARCH PROGRAM 
+Sec. 401. In general. 
+SEC. 2. SENSE OF CONGRESS. 
+1
+It is the sense of Congress that— 
+2
+(1) there is a need for a National Artificial In-
+3
+telligence Initiative, including a comprehensive artifi-
+4
+cial intelligence research and development strategy 
+5
+and coordination across agencies; 
+6
+(2) there are currently several committees 
+7
+working on related tasks with respect to artificial in-
+8
+telligence and many agency representatives serve on 
+9
+multiple such committees with similar goals with re-
+10
+spect to artificial intelligence; and 
+11
+18:39 Apr 19, 2019
+H2202
+3 
+•HR 2202 IH
+(3) the reporting structure of such committees 
+1
+could be simplified to address efficiently the goals of 
+2
+the Initiative. 
+3
+SEC. 3. DEFINITIONS. 
+4
+In this Act: 
+5
+(1) ARTIFICIAL INTELLIGENCE.—The term ‘‘ar-
+6
+tificial intelligence’’— 
+7
+(A) means intelligent machines that use al-
+8
+gorithms, computer programs, and other tech-
+9
+niques to behave in ways commonly thought to 
+10
+require intelligence; and 
+11
+(B) includes forms such as machine learn-
+12
+ing, computer vision, and natural language 
+13
+processing. 
+14
+(2) ADVISORY COMMITTEE.—The term ‘‘Advi-
+15
+sory Committee’’ means the committee established 
+16
+or designated under section 104. 
+17
+(3) EMERGING RESEARCH INSTITUTION.—The 
+18
+term ‘‘emerging research institution’’ means an in-
+19
+stitution of higher education that— 
+20
+(A) receives less than $20,000,000 in Fed-
+21
+eral research funding annually; and 
+22
+(B) may grant a doctoral degree. 
+23
+18:39 Apr 19, 2019
+H2202
+4 
+•HR 2202 IH
+(4) INDUSTRY.—The term ‘‘industry’’ means 
+1
+entities in industries relevant to artificial intel-
+2
+ligence. 
+3
+(5) INITIATIVE.—The term ‘‘Initiative’’ means 
+4
+the National Artificial Intelligence Initiative estab-
+5
+lished under section 101. 
+6
+(6) INSTITUTIONS
+OF
+HIGHER
+EDUCATION.— 
+7
+The term ‘‘institutions of higher education’’ has the 
+8
+meaning given the term in section 101 of the Higher 
+9
+Education Act of 1965 (20 U.S.C. 1001). 
+10
+(7) 
+INTERAGENCY
+COMMITTEE.—The 
+term 
+11
+‘‘Interagency Committee’’ means the committee es-
+12
+tablished or designated under section 104(a). 
+13
+(8) K–12 EDUCATION.—The term ‘‘K–12 edu-
+14
+cation’’ means elementary school and secondary edu-
+15
+cation, as such terms are defined in section 8101 of 
+16
+the Elementary and Secondary Education Act of 
+17
+1965 (20 U.S.C. 7801). 
+18
+(9) MACHINE LEARNING.—The term ‘‘machine 
+19
+learning’’ means a subfield of artificial intelligence 
+20
+that is characterized by giving computers the auton-
+21
+omous ability to progressively optimize performance 
+22
+of a specific task based on data without being explic-
+23
+itly programmed. 
+24
+18:39 Apr 19, 2019
+H2202
+5 
+•HR 2202 IH
+TITLE I—NATIONAL ARTIFICIAL 
+1
+INTELLIGENCE INITIATIVE 
+2
+SEC. 101. NATIONAL ARTIFICIAL INTELLIGENCE INITIA-
+3
+TIVE. 
+4
+The President shall establish and implement an ini-
+5
+tiative with respect to artificial intelligence, to be known 
+6
+as the ‘‘National Artificial Intelligence Initiative’’. In car-
+7
+rying out the Initiative, the President shall, acting through 
+8
+appropriate Federal entities, including the Networking 
+9
+and Information Technology Research and Development 
+10
+Program— 
+11
+(1) establish the objectives, priorities, and 
+12
+metrics for the strategic plans under section 103 to 
+13
+accelerate development of artificial intelligence 
+14
+science and technology applications in the United 
+15
+States; 
+16
+(2) invest in artificial intelligence science and 
+17
+technology research, development, demonstration, 
+18
+application to analysis and modeling, and other ac-
+19
+tivities; 
+20
+(3) support the development of an artificial in-
+21
+telligence science and technology workforce pipeline 
+22
+by making strategic investments to— 
+23
+(A) expand the number of researchers, 
+24
+educators, and students with training in artifi-
+25
+18:39 Apr 19, 2019
+H2202
+6 
+•HR 2202 IH
+cial intelligence science and technology to de-
+1
+velop a workforce pipeline; 
+2
+(B) increase the number of skilled and 
+3
+trained workers from underrepresented groups 
+4
+who can contribute to the development of artifi-
+5
+cial intelligence technologies, diversify the work-
+6
+force, and expand the workforce pipeline; 
+7
+(C) promote the development and inclusion 
+8
+of multidisciplinary curricula and research op-
+9
+portunities for artificial intelligence science and 
+10
+engineering, including advanced technological 
+11
+education, during the primary, secondary, un-
+12
+dergraduate, 
+graduate, 
+postdoctoral, 
+adult 
+13
+learning, and career retraining stages of edu-
+14
+cation; and 
+15
+(D) equip workers with the knowledge and 
+16
+skill sets required to operate effectively in occu-
+17
+pations and workplaces that will be increasingly 
+18
+influenced by artificial intelligence; 
+19
+(4) facilitate coordination of efforts and collabo-
+20
+ration with respect to artificial intelligence among 
+21
+Government, Federal and national laboratories, non-
+22
+profit organizations, institutions of higher education, 
+23
+and industry; 
+24
+18:39 Apr 19, 2019
+H2202
+7 
+•HR 2202 IH
+(5) leverage existing Federal investments, and 
+1
+partner with industry and institutions of higher edu-
+2
+cation to leverage knowledge and resources, to ad-
+3
+vance objectives and priorities of the Initiative; 
+4
+(6) strengthen research, development, dem-
+5
+onstration, and application in the fields of artificial 
+6
+intelligence science and technology by— 
+7
+(A) addressing basic research knowledge 
+8
+gaps with respect to artificial intelligence 
+9
+through research; 
+10
+(B) promoting the further development of 
+11
+facilities and centers available for artificial in-
+12
+telligence science and technology research, test-
+13
+ing, and education; 
+14
+(C) stimulating research on, and pro-
+15
+moting more rapid development and commer-
+16
+cialization of, artificial intelligence-based tech-
+17
+nologies; 
+18
+(D) promoting research into the effects of 
+19
+artificial intelligence and applications of artifi-
+20
+cial intelligence on society, the workforce and 
+21
+workplace, and individuals, including those from 
+22
+underrepresented groups; 
+23
+(E) promoting data sharing among the 
+24
+Federal Government, academic researchers, the 
+25
+18:39 Apr 19, 2019
+H2202
+8 
+•HR 2202 IH
+private sector, and other practitioners of artifi-
+1
+cial intelligence; 
+2
+(F) identifying and minimizing inappro-
+3
+priate bias in data sets, algorithms, and other 
+4
+aspects of artificial intelligence; and 
+5
+(G) supporting efforts to create metrics to 
+6
+assess safety, security, and reliability of applica-
+7
+tions of artificial intelligence science and tech-
+8
+nology; and 
+9
+(7) ensure that artificial intelligence research, 
+10
+development, demonstration, and application efforts 
+11
+create measurable benefits for all individuals in the 
+12
+United States, including members of disadvantaged 
+13
+and underrepresented groups. 
+14
+SEC. 102. NATIONAL ARTIFICIAL INTELLIGENCE COORDI-
+15
+NATION OFFICE. 
+16
+(a) IN GENERAL.—The Director of the Office of 
+17
+Science and Technology Policy, in consultation with the 
+18
+Director of the National Science Foundation, the Sec-
+19
+retary of Energy, and the Secretary of Commerce shall 
+20
+establish or designate, and appoint a director of, an office 
+21
+to be known as the ‘‘National Artificial Intelligence Co-
+22
+ordination Office’’. 
+23
+(b) DUTIES.—The National Artificial Intelligence Co-
+24
+ordination Office shall— 
+25
+18:39 Apr 19, 2019
+H2202
+9 
+•HR 2202 IH
+(1) provide technical and administrative support 
+1
+to the Advisory Committee; 
+2
+(2) serve as the point of contact on Federal ar-
+3
+tificial intelligence activities for government organi-
+4
+zations, academia, industry, professional societies, 
+5
+State artificial intelligence programs, interested cit-
+6
+izen groups, and others to exchange technical and 
+7
+programmatic information; 
+8
+(3) conduct public outreach, including dissemi-
+9
+nation of findings and recommendations of the Advi-
+10
+sory Committee, as appropriate; and 
+11
+(4) promote access to and early application of 
+12
+the technologies, innovations, and expertise derived 
+13
+from Initiative activities to agency missions and sys-
+14
+tems across the Federal Government, and to United 
+15
+States industry, including startup companies. 
+16
+(c) FUNDING.—The National Artificial Intelligence 
+17
+Coordination Office shall be funded through interagency 
+18
+funding. 
+19
+(d) REPORT.—Within 90 days after the date of en-
+20
+actment of this Act, the Director of the Office of Science 
+21
+and Technology Policy shall report to the Senate Com-
+22
+mittee on Commerce, Science, and Transportation, and 
+23
+the House of Representatives Committee on Science, 
+24
+18:39 Apr 19, 2019
+H2202
+10 
+•HR 2202 IH
+Space, and Technology on the funding of the Artificial In-
+1
+telligence Coordination Office. The report shall include— 
+2
+(1) the amount of funding required to ade-
+3
+quately fund the Office; 
+4
+(2) the adequacy of existing mechanisms to 
+5
+fund this Office; and 
+6
+(3) the actions taken by the Director to ensure 
+7
+stable funding of this Office. 
+8
+SEC. 103. INTERAGENCY COMMITTEE. 
+9
+(a) IN GENERAL.—The Director of the Office of 
+10
+Science and Technology Policy shall establish or designate 
+11
+an Interagency Committee on Artificial Intelligence. 
+12
+(b) DUTIES.—The Interagency Committee, in con-
+13
+sultation with the Advisory Committee, shall— 
+14
+(1) coordinate the artificial intelligence and 
+15
+technology research and education activities and pro-
+16
+grams of the Federal agencies; 
+17
+(2) establish objectives and priorities of the Ini-
+18
+tiative, consistent with the goals in section 3, based 
+19
+on identified knowledge and workforce gaps and 
+20
+other national needs; 
+21
+(3) assess and recommend Federal infrastruc-
+22
+ture needs to support the Initiative; and 
+23
+18:39 Apr 19, 2019
+H2202
+11 
+•HR 2202 IH
+(4) evaluate opportunities for international co-
+1
+operation with strategic allies on research and devel-
+2
+opment in artificial intelligence and technology. 
+3
+(c) CHAIRS.—The Interagency Committee shall be 
+4
+jointly chaired by the Director of the National Institute 
+5
+of Standards and Technology, the Director of the National 
+6
+Science Foundation, and the Secretary of Energy. 
+7
+(d) STRATEGIC PLAN.—Not later than 1 year after 
+8
+the date of enactment of this Act, the Advisory Committee 
+9
+shall develop a 5-year strategic plan, and 6 years after 
+10
+enactment of the Act develop an additional 5-year stra-
+11
+tegic plan, with periodic updates as appropriate to guide 
+12
+the activities of the Initiative, meet Initiative goals and 
+13
+priorities, and anticipate outcomes at the participating 
+14
+agencies. In carrying out this subsection, the Interagency 
+15
+Committee should take in to consideration the reports 
+16
+from the Advisory Committee, as described below. 
+17
+(e) COMPOSITION.—The Interagency Committee shall 
+18
+be comprised of representatives from— 
+19
+(1) the National Institute of Standards and 
+20
+Technology; 
+21
+(2) the National Science Foundation; 
+22
+(3) the Department of Energy; 
+23
+(4) the National Aeronautics and Space Admin-
+24
+istration; 
+25
+18:39 Apr 19, 2019
+H2202
+12 
+•HR 2202 IH
+(5) the Department of Defense; 
+1
+(6) the Office of the Director of National Intel-
+2
+ligence; 
+3
+(7) the Office of Management and Budget; 
+4
+(8) the Office of Science and Technology Policy; 
+5
+(9) the National Institutes of Health; and 
+6
+(10) any other Federal agency as considered 
+7
+appropriate by the Director of the Office of Science 
+8
+and Technology Policy. 
+9
+SEC. 104. ADVISORY COMMITTEE. 
+10
+(a) IN GENERAL.—The Director of the Office of 
+11
+Science and Technology Policy (in this section referred to 
+12
+as the ‘‘Director’’) shall establish or designate an National 
+13
+Artificial Intelligence Advisory Committee. 
+14
+(b) QUALIFICATIONS.—The Director shall appoint 
+15
+members to the Advisory Committee who are qualified to 
+16
+provide advice and information on artificial intelligence 
+17
+and technology research, development, demonstrations, 
+18
+education, infrastructure, technology transfer, commercial 
+19
+applications, or concerns of a national security, social, or 
+20
+economic nature. The set of appointees shall collectively 
+21
+have expertise on a wide range of defense and non-defense 
+22
+Artificial Intelligence applications. 
+23
+(c) DUTIES.—The Advisory Committee shall advise 
+24
+the Director of the Office of Science and Technology Pol-
+25
+18:39 Apr 19, 2019
+H2202
+13 
+•HR 2202 IH
+icy on matters relating to the Initiative, including assess-
+1
+ing— 
+2
+(1) trends and developments in artificial intel-
+3
+ligence, including the current and near future state 
+4
+of artificial intelligence systems and forecasting; 
+5
+(2) progress made in implementing the Initia-
+6
+tive; 
+7
+(3) the need to revise the Initiative; 
+8
+(4) the balance among the components of the 
+9
+Initiative, including funding levels for the Initiative 
+10
+component areas; 
+11
+(5) whether the Initiative component areas, pri-
+12
+orities, and technical goals are helping to maintain 
+13
+United States leadership in artificial intelligence and 
+14
+technology; 
+15
+(6) the management, coordination, implementa-
+16
+tion, and activities of the Initiative; and 
+17
+(7) whether societal, ethical, legal, environ-
+18
+mental, and workforce concerns are adequately ad-
+19
+dressed by the Initiative. 
+20
+(d) REPORTS.—Not later than 4 years after the date 
+21
+of the most recent assessment under subsection (c), and 
+22
+quadrennially thereafter, the Advisory Committee shall 
+23
+submit to the Director of the Office of Science and Tech-
+24
+nology Policy, the Committee on Commerce, Science, and 
+25
+18:39 Apr 19, 2019
+H2202
+14 
+•HR 2202 IH
+Transportation of the Senate, and the Committee on 
+1
+Science, Space, and Technology of the House of Rep-
+2
+resentatives a report of its assessments under subsection 
+3
+(c) and its recommendations for ways to improve the Ini-
+4
+tiative. 
+5
+(e) TRAVEL EXPENSES
+OF NON-FEDERAL MEM-
+6
+BERS.—Non-Federal members of the Advisory Committee, 
+7
+while attending meetings of the Advisory Committee or 
+8
+while otherwise serving at the request of the head of the 
+9
+Advisory Committee away from their homes or regular 
+10
+places of business, may be allowed travel expenses, includ-
+11
+ing per diem in lieu of subsistence, as authorized by sec-
+12
+tion 5703 of title 5, United States Code, for individuals 
+13
+in the government serving without pay. Nothing in this 
+14
+subsection shall be construed to prohibit members of the 
+15
+Advisory Committee who are officers or employees of the 
+16
+United States from being allowed travel expenses, includ-
+17
+ing per diem in lieu of subsistence, in accordance with ex-
+18
+isting law. 
+19
+(f) EXEMPTION FROM SUNSET.—Section 14 of the 
+20
+Federal Advisory Committee Act shall not apply to the 
+21
+Advisory Committee. 
+22
+18:39 Apr 19, 2019
+H2202
+15 
+•HR 2202 IH
+TITLE II—NATIONAL INSTITUTE 
+1
+OF STANDARDS AND TECH-
+2
+NOLOGY ARTIFICIAL INTEL-
+3
+LIGENCE ACTIVITIES 
+4
+SEC. 201. IN GENERAL. 
+5
+(a) NATIONAL
+INSTITUTE
+OF
+STANDARDS
+AND 
+6
+TECHNOLOGY ACTIVITIES.—As part of the Initiative, the 
+7
+Director of the National Institute of Standards and Tech-
+8
+nology (in this section, referred to as the ‘‘Director’’) 
+9
+shall— 
+10
+(1) carry out the Initiative, as appropriate; 
+11
+(2) support the development of measurements 
+12
+and standards necessary to advance commercial de-
+13
+velopment of artificial intelligence applications, in-
+14
+cluding by— 
+15
+(A) developing measurements and stand-
+16
+ards; and 
+17
+(B) supporting the efforts to develop meas-
+18
+urements and consensus standards by stand-
+19
+ards development organizations; 
+20
+(3) establish and support collaborative ventures 
+21
+or consortia with public or private sector entities, in-
+22
+cluding institutions of higher education, National 
+23
+Laboratories, and industry, for the purpose of ad-
+24
+18:39 Apr 19, 2019
+H2202
+16 
+•HR 2202 IH
+vancing fundamental and applied artificial intel-
+1
+ligence research and development; and 
+2
+(4) use existing authorities to award contracts 
+3
+as necessary to carry out the Initiative, including co-
+4
+operative agreements and other similar transactions. 
+5
+(b) ARTIFICIAL INTELLIGENCE OUTREACH.— 
+6
+(1) IN GENERAL.—The Director shall conduct 
+7
+outreach— 
+8
+(A) to receive input from stakeholders on 
+9
+the development of a plan to address future 
+10
+measurements and standards related to artifi-
+11
+cial intelligence; and 
+12
+(B) to provide an opportunity for public 
+13
+comment on any such measurements or stand-
+14
+ards. 
+15
+(2) MEETINGS.— 
+16
+(A) IN GENERAL.—Not later than 1 year 
+17
+after the date of the enactment of this Act, and 
+18
+a periodic basis thereafter, as the Director de-
+19
+termines appropriate, the Director shall convene 
+20
+one or more meetings of stakeholders, including 
+21
+technical expert representatives from govern-
+22
+ment organizations, industry, and institutions 
+23
+of higher education to discuss topics described 
+24
+in subparagraph (B). 
+25
+18:39 Apr 19, 2019
+H2202
+17 
+•HR 2202 IH
+(B) TOPICS.—Meetings under subpara-
+1
+graph (A) may cover topics that the Director 
+2
+determines to be important to the development 
+3
+of standards and measurements with respect to 
+4
+artificial intelligence, including— 
+5
+(i) cybersecurity; 
+6
+(ii) algorithm accountability; 
+7
+(iii) algorithm explainability; 
+8
+(iv) algorithm trustworthiness; and 
+9
+(v) the establishment of a common 
+10
+lexicon of artificial intelligence. 
+11
+(C) PURPOSE.—The purpose of the meet-
+12
+ings under this subsection shall be— 
+13
+(i) to assess the contemporary re-
+14
+search on the topic determined by the Di-
+15
+rector under subparagraph (B); 
+16
+(ii) to evaluate the research gaps re-
+17
+lating to such topic; and 
+18
+(iii) to provide an opportunity for 
+19
+stakeholders to provide recommendations 
+20
+on what the current research needs are 
+21
+that the National Institute of Standards 
+22
+and Technology and the Initiative may ad-
+23
+dress. 
+24
+18:39 Apr 19, 2019
+H2202
+18 
+•HR 2202 IH
+(3) REPORT TO CONGRESS.—Not later than 2 
+1
+years after the date of enactment of this Act, the 
+2
+Director shall transmit to the Committee on Science, 
+3
+Space, and Technology of the House of Representa-
+4
+tives and the Committee on Commerce, Science, and 
+5
+Transportation of the Senate a summary report con-
+6
+taining a description of the results of outreach and 
+7
+meetings conducted under this section. 
+8
+(c) APPROPRIATION.—There are authorized to be ap-
+9
+propriated $90,000,000 for each of fiscal years 2020 
+10
+through 2024 to carry out this section. 
+11
+TITLE III—NATIONAL SCIENCE 
+12
+FOUNDATION 
+AND 
+MULTI-
+13
+DISCIPLINARY CENTERS FOR 
+14
+ARTIFICIAL 
+INTELLIGENCE 
+15
+RESEARCH AND EDUCATION 
+16
+SEC. 301. ARTIFICIAL INTELLIGENCE RESEARCH AND EDU-
+17
+CATION PROGRAM. 
+18
+(a) IN GENERAL.—As part of the Initiative, the Di-
+19
+rector of the National Science Foundation (in this section, 
+20
+referred to as the ‘‘Director’’) shall establish and imple-
+21
+ment a research and education program on artificial intel-
+22
+ligence and engineering. 
+23
+18:39 Apr 19, 2019
+H2202
+19 
+•HR 2202 IH
+(b) PROGRAM COMPONENTS.—In carrying out the 
+1
+program required under subsection (a), the Director shall 
+2
+carry out the Initiative as appropriate and shall— 
+3
+(1) continue to support interdisciplinary re-
+4
+search on, and human resources development in, all 
+5
+aspects of artificial intelligence science and engineer-
+6
+ing, including— 
+7
+(A) algorithm accountability; 
+8
+(B) minimization of inappropriate bias in 
+9
+training data sets or algorithmic feature selec-
+10
+tion; 
+11
+(C) qualitative and quantitative forecasting 
+12
+of future capabilities and applications; and 
+13
+(D) the societal and ethical implications of 
+14
+artificial intelligence; 
+15
+(2) use existing authorities and programs and 
+16
+collaborate with other Federal agencies— 
+17
+(A) to improve the teaching and learning 
+18
+of artificial intelligence science and engineering 
+19
+during the primary, secondary, undergraduate, 
+20
+graduate, postgraduate, adult learning, and ca-
+21
+reer retraining stages of education; 
+22
+(B) to increase participation in the artifi-
+23
+cial intelligence fields, including by individuals 
+24
+identified in sections 33 and 34 of the Science 
+25
+18:39 Apr 19, 2019
+H2202
+20 
+•HR 2202 IH
+and Engineering Equal Opportunities Act (42 
+1
+U.S.C. 1885a; 42 U.S.C. 1885b); 
+2
+(C) to formulate goals for education activi-
+3
+ties related to artificial intelligence engineering 
+4
+and research to be supported by the National 
+5
+Science Foundation related to topics important 
+6
+to the Initiative, including— 
+7
+(i) algorithm accountability; 
+8
+(ii) algorithm explainability; 
+9
+(iii) consumer data privacy; 
+10
+(iv) the assessment and minimization 
+11
+of inappropriate bias in training data and 
+12
+output; 
+13
+(v) the societal and ethical implica-
+14
+tions of the use of artificial intelligence; 
+15
+(vi) algorithm trustworthiness; and 
+16
+(vii) algorithmic forecasting; 
+17
+(D) to engage with institutions of higher 
+18
+education, 
+research 
+communities, 
+potential 
+19
+users of information produced under this sec-
+20
+tion, entities in the private sector, and non-Fed-
+21
+eral entities— 
+22
+(i) to leverage the collective body of 
+23
+knowledge from existing artificial intel-
+24
+18:39 Apr 19, 2019
+H2202
+21 
+•HR 2202 IH
+ligence and engineering research and edu-
+1
+cation activities; and 
+2
+(ii) to support partnerships among in-
+3
+stitutions of higher education and industry 
+4
+that facilitate collaborative research, per-
+5
+sonnel exchanges, and workforce develop-
+6
+ment; 
+7
+(E) to coordinate research efforts funded 
+8
+through existing programs across the direc-
+9
+torates of the National Science Foundation; and 
+10
+(F) to ensure adequate access to artificial 
+11
+intelligence and engineering research and edu-
+12
+cation infrastructure, including through devel-
+13
+opment of hardware and facilitation of the use 
+14
+of computing resources, including cloud-based 
+15
+computing services. 
+16
+(c) GRADUATE TRAINEESHIPS.—In carrying out the 
+17
+program required under subsection (a), the Director may 
+18
+provide traineeships to graduate students at institutions 
+19
+of higher education who— 
+20
+(1) are United States nationals or aliens law-
+21
+fully admitted for permanent residence in the United 
+22
+States; and 
+23
+(2) who choose to pursue masters or doctoral 
+24
+degrees in artificial intelligence. 
+25
+18:39 Apr 19, 2019
+H2202
+22 
+•HR 2202 IH
+SEC. 302. MULTIDISCIPLINARY CENTERS FOR ARTIFICIAL 
+1
+INTELLIGENCE RESEARCH AND EDUCATION. 
+2
+(a) IN GENERAL.—The Director of the National 
+3
+Science Foundation (in this section, referred to as the 
+4
+‘‘Director’’), in consultation with other Federal agencies 
+5
+as appropriate, shall award grants to eligible entities to 
+6
+establish up to 5 research and education centers (in this 
+7
+section, referred to as ‘‘Centers’’) to conduct research and 
+8
+education activities in support of the Initiative, to be 
+9
+known as ‘‘Multidisciplinary Centers for Artificial Intel-
+10
+ligence Research and Education’’. 
+11
+(b) ELIGIBLE ENTITIES.—In this section, the term 
+12
+‘‘eligible entity’’ means— 
+13
+(1) an institution of higher education; 
+14
+(2) a relevant nonprofit or private sector orga-
+15
+nization; 
+16
+(3) a State or local government; and 
+17
+(4) a consortium of entities that consists of en-
+18
+tities described in paragraphs (1) through (3). 
+19
+(c) K–12 EDUCATION.—Not less than 1 grant under 
+20
+this section must be for a Center with the primary purpose 
+21
+of integrating artificial intelligence into K–12 education. 
+22
+(d) APPLICATION.—An eligible entity seeking funding 
+23
+under this section shall submit an application to the Direc-
+24
+tor at such time, in such manner, and containing such 
+25
+18:39 Apr 19, 2019
+H2202
+23 
+•HR 2202 IH
+information as the Director may require. The application 
+1
+shall include— 
+2
+(1) a plan for the proposed Center— 
+3
+(A) to work with other research institu-
+4
+tions, emerging research institutions, and in-
+5
+dustry to leverage expertise in artificial intel-
+6
+ligence, education and curricula development, 
+7
+and technology transfer; 
+8
+(B) to promote active collaboration among 
+9
+researchers in multiple disciplines and across 
+10
+multiple institutions involved in artificial intel-
+11
+ligence research including physics, engineering, 
+12
+mathematical sciences, computer and informa-
+13
+tion science, biological and cognitive sciences, 
+14
+material science, education, social and behav-
+15
+ioral sciences, such as industrial-organizational 
+16
+psychology; 
+17
+(C) to integrate into the activities of the 
+18
+Center consideration of the ethics of artificial 
+19
+intelligence development, technology usage, and 
+20
+data collection, storage, and sharing, including 
+21
+training data sets; 
+22
+(D) to support long-term and short-term 
+23
+workforce development in the artificial intel-
+24
+18:39 Apr 19, 2019
+H2202
+24 
+•HR 2202 IH
+ligence field, including broadening participation 
+1
+of underrepresented groups; and 
+2
+(E) to support an innovation ecosystem to 
+3
+work with industry to translate Center research 
+4
+into applications and products; and 
+5
+(2) a description of the anticipated long-term 
+6
+impact of the Center beyond the termination of sup-
+7
+port under this section. 
+8
+(e) SELECTION AND DURATION.— 
+9
+(1) IN GENERAL.—A Center established using a 
+10
+grant under this section may receive funding under 
+11
+this section for a period of 5 years. 
+12
+(2) EXTENSION.—Such a Center may apply for, 
+13
+and the Director may grant, an extension of a grant 
+14
+under this section for an additional 5-year period. 
+15
+(3) TERMINATION.—The Director may termi-
+16
+nate funding under this section for an underper-
+17
+forming Center for cause. 
+18
+(f) AUTHORIZATION.—There are authorized to be ap-
+19
+propriated $10,000,000 for each Center established under 
+20
+this section for each of fiscal years 2020 through 2024. 
+21
+18:39 Apr 19, 2019
+H2202
+25 
+•HR 2202 IH
+TITLE IV—DEPARTMENT OF EN-
+1
+ERGY 
+ARTIFICIAL 
+INTEL-
+2
+LIGENCE 
+RESEARCH 
+PRO-
+3
+GRAM 
+4
+SEC. 401. IN GENERAL. 
+5
+(a) PROGRAM.—As a part of the Initiative, the Sec-
+6
+retary of Energy (in this section, referred to as the ‘‘Sec-
+7
+retary’’) shall carry out a research program on artificial 
+8
+intelligence. 
+9
+(b) COMPONENTS.—In carrying out the program re-
+10
+quired under subsection (a), the Secretary shall— 
+11
+(1) formulate objectives for artificial intelligence 
+12
+research to be supported by the Department of En-
+13
+ergy that are consistent with the Initiative; 
+14
+(2) leverage the collective body of knowledge 
+15
+from existing artificial intelligence research; 
+16
+(3) coordinate research efforts funded through 
+17
+existing programs across the Office of Science; 
+18
+(4) engage with other Federal agencies, re-
+19
+search communities, and potential users of informa-
+20
+tion produced under this section; and 
+21
+(5) build, maintain, and, to the extent prac-
+22
+ticable, make available for use by academic, govern-
+23
+ment, and private sector researchers, the computing 
+24
+18:39 Apr 19, 2019
+H2202
+26 
+•HR 2202 IH
+hardware and software necessary to carry out a re-
+1
+search program in artificial intelligence science. 
+2
+(c) RESEARCH CENTERS.— 
+3
+(1) GRANTS.—In carrying out this section, the 
+4
+Secretary may award grants to eligible entities to es-
+5
+tablish and operate up to 5 artificial intelligence re-
+6
+search centers (in this section, referred to as ‘‘Cen-
+7
+ters’’) for the purpose described in paragraph (3). 
+8
+(2) SELECTION.— 
+9
+(A) IN GENERAL.—Such grants shall be 
+10
+awarded through a competitive, merit-reviewed 
+11
+process, and consider applications from Na-
+12
+tional Laboratories, institutions of higher edu-
+13
+cation including emerging research institutions, 
+14
+research centers, multi-institutional collabora-
+15
+tions, and other appropriate entities. 
+16
+(B) ELIGIBLE ENTITIES.—In this section, 
+17
+the term ‘‘eligible entity’’ means— 
+18
+(i) an institution of higher education; 
+19
+(ii) a relevant nonprofit or private sec-
+20
+tor organization; 
+21
+(iii) a State or local government; 
+22
+(iv) a National Laboratory or a feder-
+23
+ally funded research and development cen-
+24
+ter; and 
+25
+18:39 Apr 19, 2019
+H2202
+27 
+•HR 2202 IH
+(v) a consortium of entities that con-
+1
+sists of entities described in clauses (i) 
+2
+through (iv). 
+3
+(3) PURPOSE.—The purpose of the Centers es-
+4
+tablished under this section is— 
+5
+(A) to serve the needs of the Department 
+6
+of Energy and academic, educational, and pri-
+7
+vate sector entities that the Secretary deter-
+8
+mines appropriate; 
+9
+(B) to advance research and education in 
+10
+artificial intelligence and improving the com-
+11
+petitiveness of the United States; and 
+12
+(C) to provide access to computing re-
+13
+sources to promote scientific progress and en-
+14
+able users from institutions of higher education, 
+15
+educational institutions, the National Labora-
+16
+tories, and industry— 
+17
+(i) to make scientific discoveries rel-
+18
+evant to artificial intelligence research; 
+19
+(ii) to conduct research to accelerate 
+20
+scientific breakthroughs in artificial intel-
+21
+ligence science and technology; 
+22
+(iii) to support research conducted 
+23
+under this section; and 
+24
+18:39 Apr 19, 2019
+H2202
+28 
+•HR 2202 IH
+(iv) to increase the distribution of re-
+1
+search infrastructure and broaden the 
+2
+spectrum of students exposed to the artifi-
+3
+cial intelligence research at institutions of 
+4
+higher education, including emerging re-
+5
+search institutions. 
+6
+(4) COORDINATION.—The Secretary shall en-
+7
+sure the coordination of, and avoid unnecessary du-
+8
+plication of, the activities of each Center with the ac-
+9
+tivities of— 
+10
+(A) other research entities of the Depart-
+11
+ment, including the Nanoscale Science Research 
+12
+Centers, the Energy Frontier Research Centers, 
+13
+and the Energy Innovation Hubs; and 
+14
+(B) industry. 
+15
+(5) DURATION.— 
+16
+(A) IN GENERAL.—Any center selected and 
+17
+established under this section is authorized to 
+18
+carry out activities for a period of 5 years. 
+19
+(B) EXTENSION.—Such a Center may 
+20
+apply for, and the Director may grant, an ex-
+21
+tension of a grant under this section for an ad-
+22
+ditional 5-year period. 
+23
+(C) TERMINATION.—Consistent with the 
+24
+existing authorities of the Department, the Sec-
+25
+18:39 Apr 19, 2019
+H2202
+29 
+•HR 2202 IH
+retary may terminate an underperforming Cen-
+1
+ter for cause during the performance period. 
+2
+(d) APPROPRIATIONS.— 
+3
+(1) IN GENERAL.—There are authorized to be 
+4
+appropriated $225,000,000 for each of fiscal years 
+5
+2020 through 2024 to the Office of Science of the 
+6
+Department of Energy to carry out this section. 
+7
+(2) LIMIT.—Not less than $100,000,000 of 
+8
+funds appropriated under paragraph (1) shall be 
+9
+used to carry out subsections (a) and (b). 
+10
+Æ 
+18:39 Apr 19, 2019
+H2202

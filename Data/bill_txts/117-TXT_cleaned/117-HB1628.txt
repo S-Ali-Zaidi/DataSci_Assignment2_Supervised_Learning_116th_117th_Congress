@@ -1,0 +1,673 @@
+A BILL 
+To amend the Securities Act of 1933 and the Securities 
+Exchange Act of 1934 to exclude digital tokens from 
+the definition of a security, to direct the Securities and 
+Exchange Commission to enact certain regulatory 
+changes regarding digital units secured through public 
+key cryptography, to adjust taxation of virtual currencies 
+held in individual retirement accounts, to create a tax 
+exemption for exchanges of one virtual currency for an-
+other, to create a de minimis exemption from taxation 
+04:53 Apr 30, 2021
+H1628
+2 
+•HR 1628 IH
+for gains realized from the sale or exchange of virtual 
+currency for other than cash, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Token Taxonomy Act 
+4
+of 2021’’. 
+5
+SEC. 2. SECURITIES ACT OF 1933. 
+6
+(a) DEFINITION OF DIGITAL TOKEN.—Section 2(a) 
+7
+of the Securities Act of 1933 (15 U.S.C. 77b(a)) is amend-
+8
+ed by adding at the end the following: 
+9
+‘‘(20) DIGITAL
+TOKEN.—The term ‘digital 
+10
+token’ means a digital unit— 
+11
+‘‘(A) that is created— 
+12
+‘‘(i) in response to the verification or 
+13
+collection of proposed transactions; 
+14
+‘‘(ii) pursuant to rules for the digital 
+15
+unit’s creation and supply that cannot be 
+16
+altered by any single person or persons 
+17
+under common control; or 
+18
+‘‘(iii) as an initial allocation of digital 
+19
+units that will otherwise be created in ac-
+20
+cordance with clause (i) or (ii); 
+21
+‘‘(B) that has a transaction history that— 
+22
+‘‘(i) is recorded in a distributed, dig-
+23
+ital ledger or digital data structure in 
+24
+04:53 Apr 30, 2021
+H1628
+3 
+•HR 1628 IH
+which consensus is achieved through a 
+1
+mathematically verifiable process; and 
+2
+‘‘(ii) after consensus is reached, re-
+3
+sists modification or tampering by any sin-
+4
+gle person or group of persons under com-
+5
+mon control; 
+6
+‘‘(C) that is capable of being transferred 
+7
+between persons without an intermediate custo-
+8
+dian; and 
+9
+‘‘(D) that is not a representation of a fi-
+10
+nancial interest in a company or partnership, 
+11
+including an ownership interest or revenue 
+12
+share. 
+13
+‘‘(21) DIGITAL UNIT.—The term ‘digital unit’ 
+14
+means a representation of economic, proprietary, or 
+15
+access rights that is stored in a computer-readable 
+16
+format.’’. 
+17
+(b) DEFINITION OF SECURITY.—Section 2(a)(1) of 
+18
+the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) is 
+19
+amended— 
+20
+(1) by inserting ‘‘(A)’’ after ‘‘(1)’’; and 
+21
+(2) by adding at the end the following: 
+22
+‘‘(B) Such term does not include a digital 
+23
+token.’’. 
+24
+04:53 Apr 30, 2021
+H1628
+4 
+•HR 1628 IH
+(c) EXEMPTION.—Section 4(a) of the Securities Act 
+1
+of 1933 (15 U.S.C. 77d(a)) is amended by adding at the 
+2
+end the following: 
+3
+‘‘(8) Transactions involving the offer, pro-
+4
+motion, or sale of a digital unit if— 
+5
+‘‘(A) the person offering, promoting, or 
+6
+selling the digital unit has a reasonable and 
+7
+good faith belief that such digital unit is a dig-
+8
+ital token; and 
+9
+‘‘(B) within ninety days following a written 
+10
+notification from the Commission to such per-
+11
+son that such digital unit has been determined 
+12
+by the Commission to be a security, posts pub-
+13
+lic notice of such notification and takes reason-
+14
+able efforts to cease all sales and return all pro-
+15
+ceeds from any sales of such digital unit, ex-
+16
+cluding funds reasonably spent on the develop-
+17
+ment of technology associated with the digital 
+18
+unit.’’. 
+19
+(d) PREEMPTION OF STATE LAW.—Section 18 of the 
+20
+Securities Act of 1933 (15 U.S.C. 77r) is amended— 
+21
+(1) by redesignating subsection (d) as sub-
+22
+section (e); and 
+23
+(2) by inserting after subsection (c) the fol-
+24
+lowing: 
+25
+04:53 Apr 30, 2021
+H1628
+5 
+•HR 1628 IH
+‘‘(d) DIGITAL TOKENS.— 
+1
+‘‘(1) IN GENERAL.—No law, rule, regulation, or 
+2
+order, or other administrative action of any State or 
+3
+any political subdivision thereof— 
+4
+‘‘(A) requiring, or with respect to, registra-
+5
+tion or qualification of securities, or registration 
+6
+or qualification of securities transactions, shall 
+7
+directly or indirectly apply to a digital token; 
+8
+‘‘(B) shall directly or indirectly prohibit, 
+9
+limit, or impose any conditions upon the use 
+10
+of— 
+11
+‘‘(i) with respect to a digital token, 
+12
+any disclosure document concerning an 
+13
+offer or sale of a digital token that is pre-
+14
+pared by or on behalf of a person devel-
+15
+oping, offering, or selling a digital token; 
+16
+or 
+17
+‘‘(ii) any proxy statement, report to 
+18
+digital token-holders, or other disclosure 
+19
+document relating to a digital token or a 
+20
+person developing, offering, or selling a 
+21
+digital token; 
+22
+‘‘(C) shall directly or indirectly prohibit, 
+23
+limit, or impose conditions, based on the merits 
+24
+of a digital token offering or a person devel-
+25
+04:53 Apr 30, 2021
+H1628
+6 
+•HR 1628 IH
+oping, offering, or selling a digital token, upon 
+1
+the offer or sale of any digital token; or 
+2
+‘‘(D) shall directly or indirectly require the 
+3
+filing of any notices or other documents, or the 
+4
+assessment of any fees, with respect to digital 
+5
+tokens or digital token transactions. 
+6
+‘‘(2) PRESERVATION OF FRAUD AUTHORITY.— 
+7
+States and political subdivisions thereof shall retain 
+8
+jurisdiction under the laws of such State to inves-
+9
+tigate and bring enforcement actions with respect to 
+10
+fraud or deceit, or unlawful conduct by any person, 
+11
+in connection with digital tokens or digital token 
+12
+transactions.’’. 
+13
+SEC. 3. SECURITIES EXCHANGE ACT OF 1934. 
+14
+(a) DEFINITION OF BANK.—Section 3(a)(6)(C) of 
+15
+the Securities Exchange Act of 1934 (15 U.S.C. 
+16
+78c(a)(6)(C)) is amended— 
+17
+(1) by inserting ‘‘or trust company,’’ after 
+18
+‘‘Home Owners’ Loan Act,’’; and 
+19
+(2) by striking ‘‘receiving deposits or exercising 
+20
+fiduciary powers’’ and inserting ‘‘receiving deposits, 
+21
+providing custodial services, or exercising fiduciary 
+22
+powers’’. 
+23
+04:53 Apr 30, 2021
+H1628
+7 
+•HR 1628 IH
+(b) DEFINITION OF SECURITY.—Section 3(a)(10) of 
+1
+the Securities Exchange Act of 1934 (15 U.S.C. 
+2
+78c(a)(10)) is amended— 
+3
+(1) by inserting ‘‘(A)’’ after ‘‘(1)’’; and 
+4
+(2) by adding at the end the following: 
+5
+‘‘(B) Such term does not include a digital 
+6
+token.’’. 
+7
+(c) DEFINITION OF DIGITAL TOKEN.—Section 3(a) 
+8
+of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) 
+9
+is amended by adding at the end the following: 
+10
+‘‘(82) DIGITAL
+TOKEN.—The term ‘digital 
+11
+token’ has the meaning given to it in section 2(a) of 
+12
+the Securities Act of 1933.’’. 
+13
+(d) CLERICAL AMENDMENTS.—Section 3(a) of the 
+14
+Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is 
+15
+amended— 
+16
+(1) by moving paragraph (79) so as to appear 
+17
+after paragraph (78); and 
+18
+(2) by redesignating the second paragraph (80) 
+19
+(relating to ‘‘Funding portal’’) as paragraph (81). 
+20
+SEC. 4. INVESTMENT ADVISERS ACT OF 1940. 
+21
+(a) DEFINITION
+OF
+DIGITAL
+TOKEN.—Section 
+22
+202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 
+23
+80b–2(a)) is amended— 
+24
+04:53 Apr 30, 2021
+H1628
+8 
+•HR 1628 IH
+(1) by redesignating the second paragraph (29) 
+1
+as paragraph (31); and 
+2
+(2) by adding at the end the following: 
+3
+‘‘(32) The term ‘digital token’ has the meaning 
+4
+given to it in section 2(a) of the Securities Act of 
+5
+1933.’’. 
+6
+(b) DEFINITION OF SECURITY.—Section 202(a)(18) 
+7
+of the Investment Advisers Act of 1940 (15 U.S.C. 80b– 
+8
+2(a)(18)) is amended— 
+9
+(1) by inserting ‘‘(A)’’ after ‘‘(18)’’; and 
+10
+(2) by adding at the end the following: 
+11
+‘‘(B) Such term does not include a digital 
+12
+token.’’. 
+13
+(c) DEFINITION OF BANK.—Section 202(a)(2)(C) of 
+14
+the Investment Advisers Act of 1940 (15 U.S.C. 80b– 
+15
+2(a)(2)(C)) is amended by striking ‘‘receiving deposits or 
+16
+exercising fiduciary powers’’ and inserting ‘‘receiving de-
+17
+posits, providing custodial services, or exercising fiduciary 
+18
+powers’’. 
+19
+SEC. 5. INVESTMENT COMPANY ACT OF 1940. 
+20
+(a) DEFINITION
+OF
+DIGITAL
+TOKEN.—Section 
+21
+202(a) of the Investment Company Act of 1940 (15 
+22
+U.S.C. 80a–2(a)) is amended by adding at the end the 
+23
+following: 
+24
+04:53 Apr 30, 2021
+H1628
+9 
+•HR 1628 IH
+‘‘(55) The term ‘digital token’ has the meaning 
+1
+given to it in section 2(a) of the Securities Act of 
+2
+1933.’’. 
+3
+(b) DEFINITION OF SECURITY.—Section 202(a)(36) 
+4
+of the Investment Company Act of 1940 (15 U.S.C. 80a– 
+5
+2(a)(36)) is amended— 
+6
+(1) by inserting ‘‘(A)’’ after ‘‘(36)’’; and 
+7
+(2) by adding at the end the following: 
+8
+‘‘(B) Such term does not include a digital 
+9
+token.’’. 
+10
+(c) DEFINITION OF BANK.—Section 2(a)(5) of the 
+11
+Investment Company Act of 1940 (15 U.S.C. 80a– 
+12
+2(a)(5)) is amended by striking ‘‘receiving deposits or ex-
+13
+ercising fiduciary powers’’ and inserting ‘‘receiving depos-
+14
+its, providing custodial services, or exercising fiduciary 
+15
+powers’’. 
+16
+SEC. 6. RULE OF CONSTRUCTION WITH RESPECT TO CFTC 
+17
+AND FTC. 
+18
+Nothing in this Act or the amendments made by this 
+19
+Act shall be construed to limit the application of the Com-
+20
+modity Exchange Act or the Federal Trade Commission 
+21
+Act. 
+22
+04:53 Apr 30, 2021
+H1628
+10 
+•HR 1628 IH
+SEC. 7. SATISFACTORY CONTROL LOCATION REQUIRE-
+1
+MENT. 
+2
+Not later than 90 days after the date of the enact-
+3
+ment of this Act, the Commission shall amend section 
+4
+240.15c3–3 of title 17, Code of Federal Regulations, to 
+5
+provide that the requirement for a satisfactory control lo-
+6
+cation for any digital unit (as defined under section 2(a) 
+7
+of the Securities Act of 1933) that is a security is fulfilled 
+8
+by protecting the digital unit using public key cryptog-
+9
+raphy and by following commercially reasonable cybersecu-
+10
+rity practices to maintain the privacy and accessibility of 
+11
+sufficient private key material to solely be able to sign on 
+12
+behalf of such digital unit. 
+13
+SEC. 8. INDIVIDUAL RETIREMENT ACCOUNT INVESTMENTS 
+14
+IN 
+CERTAIN 
+VIRTUAL 
+CURRENCIES 
+NOT 
+15
+TREATED AS DISTRIBUTIONS. 
+16
+(a) IN GENERAL.—Section 408(m) of the Internal 
+17
+Revenue Code of 1986 is amended— 
+18
+(1) in paragraph (3)— 
+19
+(A) in the heading of the paragraph, by 
+20
+striking ‘‘AND BULLION’’ and inserting ‘‘, BUL-
+21
+LION, AND VIRTUAL CURRENCIES’’; 
+22
+(B) in subparagraph (A)(iv), by striking 
+23
+‘‘or’’; 
+24
+(C) in subparagraph (B), by inserting ‘‘or’’ 
+25
+after ‘‘futures contract,’’; 
+26
+04:53 Apr 30, 2021
+H1628
+11 
+•HR 1628 IH
+(D) by inserting after subparagraph (B) 
+1
+the following: 
+2
+‘‘(C) virtual currency.’’; and 
+3
+(E) by striking ‘‘if such bullion’’ and in-
+4
+serting ‘‘This paragraph shall only apply to bul-
+5
+lion which’’; and 
+6
+(2) by adding at the end the following: 
+7
+‘‘(4) VIRTUAL CURRENCY DEFINED.—For pur-
+8
+poses of this subsection, the term ‘virtual currency’ 
+9
+means a digital representation of value that is used 
+10
+as a medium of exchange and is not currency (with-
+11
+in the meaning of section 988).’’. 
+12
+(b) EFFECTIVE DATE.—The amendments made by 
+13
+this section shall apply to sales or exchanges on or after 
+14
+January 1, 2021. 
+15
+SEC. 9. CERTAIN EXCHANGES OF VIRTUAL CURRENCY 
+16
+TREATED AS NON-TAXABLE EXCHANGES. 
+17
+(a) IN GENERAL.—Section 1031 of the Internal Rev-
+18
+enue Code of 1986 is amended— 
+19
+(1) in the heading, by striking ‘‘REAL PROP-
+20
+ERTY’’ and inserting ‘‘CERTAIN PROPERTY’’; and 
+21
+(2) in subsection (a), by adding at the end the 
+22
+following new paragraph: 
+23
+‘‘(4) EXCHANGE OF VIRTUAL CURRENCY.—An 
+24
+exchange of virtual currency (as defined under sec-
+25
+01:50 May 05, 2021
+H1628
+12 
+•HR 1628 IH
+tion 408(m)) shall be treated as if such exchange 
+1
+were an exchange of real property under this sec-
+2
+tion.’’. 
+3
+(b) CLERICAL AMENDMENT.—The table of parts for 
+4
+part III of subchapter O of chapter 1 of such Code is 
+5
+amended by striking ‘‘Exchange of real property’’ and in-
+6
+serting ‘‘Exchange of certain property’’. 
+7
+(c) EFFECTIVE DATE.—The amendments made by 
+8
+this section shall apply to exchanges made on or after Jan-
+9
+uary 1, 2021. 
+10
+SEC. 10. GAIN FROM SALE OR EXCHANGE OF VIRTUAL CUR-
+11
+RENCY. 
+12
+(a) IN GENERAL.—Part III of subchapter B of chap-
+13
+ter 1 of the Internal Revenue Code of 1986 is amended 
+14
+by inserting after section 139H the following new section: 
+15
+‘‘SEC. 139I. GAIN FROM SALE OR EXCHANGE OF VIRTUAL 
+16
+CURRENCY. 
+17
+‘‘(a) IN GENERAL.—Gross income shall not include 
+18
+gain from the sale or exchange of virtual currency (as de-
+19
+fined under section 408(m)) for other than cash or cash 
+20
+equivalents. 
+21
+‘‘(b) LIMITATION.— 
+22
+‘‘(1) IN GENERAL.—The amount of gain ex-
+23
+cluded from gross income under subsection (a) with 
+24
+04:53 Apr 30, 2021
+H1628
+13 
+•HR 1628 IH
+respect to a sale or exchange of virtual currency 
+1
+shall not exceed $600. 
+2
+‘‘(2) AGGREGATION
+RULE.—For purposes of 
+3
+this subsection, all sales or exchanges which are part 
+4
+of the same transaction (or a series of related trans-
+5
+actions) shall be treated as one sale or exchange. 
+6
+‘‘(c) INFLATION ADJUSTMENT.—In the case of any 
+7
+taxable year beginning in a calendar year after 2022, the 
+8
+dollar amount in subsection (b) shall be increased by an 
+9
+amount equal to— 
+10
+‘‘(1) such dollar amount, multiplied by 
+11
+‘‘(2) the cost-of-living adjustment determined 
+12
+under section 1(f)(3) for the calendar year in which 
+13
+the taxable year begins, determined by substituting 
+14
+‘calendar year 2022’ for ‘calendar year 2016’ in sub-
+15
+paragraph (A)(ii) thereof. 
+16
+Any increase determined under the preceding sentence 
+17
+shall be rounded to the nearest multiple of $50.’’. 
+18
+(b) CLERICAL AMENDMENT.—The table of sections 
+19
+for part III of subchapter B of chapter 1 of such Code 
+20
+is amended by inserting after the item relating to section 
+21
+139H the following new item: 
+22
+‘‘Sec. 139I. Gain from sale or exchange of virtual currency.’’. 
+(c) REPORTING OF GAINS OR LOSSES.—The Sec-
+23
+retary of the Treasury shall issue regulations providing for 
+24
+information returns on transactions in virtual currency (as 
+25
+04:53 Apr 30, 2021
+H1628
+14 
+•HR 1628 IH
+defined under section 408(m) of the Internal Revenue 
+1
+Code of 1986) for which gain or loss is recognized. 
+2
+(d) EFFECTIVE DATE.—The amendments made by 
+3
+this section shall apply with respect to transactions en-
+4
+tered into on or after January 1, 2021. 
+5
+Æ 
+04:53 Apr 30, 2021
+H1628

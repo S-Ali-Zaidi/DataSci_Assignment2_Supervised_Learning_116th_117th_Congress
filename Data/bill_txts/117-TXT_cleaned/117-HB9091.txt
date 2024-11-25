@@ -1,0 +1,304 @@
+A BILL 
+To authorize the Secretary of Veterans Affairs to carry out 
+an information technology system to manage supply 
+chains for medical facilities of Department of Veterans 
+Affairs. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘VA Supply Chain Man-
+4
+agement System Authorization Act’’. 
+5
+04:21 Oct 19, 2022
+H9091
+2 
+•HR 9091 IH
+SEC. 2. MANAGEMENT OF SUPPLY CHAINS FOR MEDICAL 
+1
+FACILITIES OF DEPARTMENT OF VETERANS 
+2
+AFFAIRS. 
+3
+(a) AUTHORITY.— 
+4
+(1) IN GENERAL.—Except as provided by para-
+5
+graph (2), the Secretary of Veterans Affairs may 
+6
+only carry out a covered information technology sys-
+7
+tem if— 
+8
+(A) the system meets the requirements 
+9
+under subsection (b); and 
+10
+(B) the system does not require the use of 
+11
+a specific contract to procure supplies. 
+12
+(2) EXCEPTION.—Paragraph (1) shall not 
+13
+apply with respect to information technology systems 
+14
+used by the Secretary at joint facilities of the De-
+15
+partment of Veterans Affairs and the Department of 
+16
+Defense. 
+17
+(b) REQUIREMENTS.—The Secretary shall ensure 
+18
+that a covered information technology system meets the 
+19
+following requirements: 
+20
+(1) The system shall be cloud-based. 
+21
+(2) With respect to the items covered by the 
+22
+system— 
+23
+(A) the system shall include— 
+24
+(i) medical supplies; 
+25
+(ii) surgical equipment and supplies; 
+26
+04:21 Oct 19, 2022
+H9091
+3 
+•HR 9091 IH
+(iii) laboratory equipment and sup-
+1
+plies; 
+2
+(iv) supplies and capital equipment 
+3
+pertaining to facilities or real property; 
+4
+(v) biomedical equipment; 
+5
+(vi) textiles and apparel; 
+6
+(vii) dental equipment and supplies; 
+7
+and 
+8
+(viii) equipment and supplies relating 
+9
+to the treatment of sleep apnea; 
+10
+(B) the system may include (but, if not so 
+11
+included in the system itself, the system shall 
+12
+include through an interface with an external 
+13
+information technology system)— 
+14
+(i) prosthetic appliances requiring ex-
+15
+tensive customization or fitting; 
+16
+(ii) prosthetic appliances not requiring 
+17
+extensive customization or fitting; 
+18
+(iii) pharmaceuticals; 
+19
+(iv) reusable medical equipment; and 
+20
+(v) eyeglasses; and 
+21
+(C) the system may not include— 
+22
+(i) high-tech medical equipment; 
+23
+(ii) surgical implants; 
+24
+(iii) information technology; 
+25
+04:21 Oct 19, 2022
+H9091
+4 
+•HR 9091 IH
+(iv) equipment and supplies of the 
+1
+National Cemetery Administration that are 
+2
+not used by the Veterans Health Adminis-
+3
+tration; and 
+4
+(v) equipment and supplies of the Vet-
+5
+erans Benefits Administration that are not 
+6
+used by the Veterans Health Administra-
+7
+tion. 
+8
+(3) The system shall include functions relating 
+9
+to— 
+10
+(A) inventory management of both expend-
+11
+able and nonexpendable items covered by the 
+12
+system, with respect to both— 
+13
+(i) physical inventory; and 
+14
+(ii) perpetual inventory; 
+15
+(B) management of the receipt of such 
+16
+items, with respect to— 
+17
+(i) intake; 
+18
+(ii) returns; and 
+19
+(iii) the identification of such items 
+20
+that are recalled; 
+21
+(C) management of the storage of such 
+22
+items, with respect to— 
+23
+(i) local storage; and 
+24
+04:21 Oct 19, 2022
+H9091
+5 
+•HR 9091 IH
+(ii) centralized storage at a medical 
+1
+facility or warehousing at a different loca-
+2
+tion for one or more medical facilities; 
+3
+(D) management of the distribution such 
+4
+items; 
+5
+(E) the generation and scanning of 
+6
+barcodes or the use of radio frequency identi-
+7
+fication technology or other similar inventory 
+8
+tracking technology; and 
+9
+(F) reporting, consisting of— 
+10
+(i) standard or preexisting reports; 
+11
+and 
+12
+(ii) customizable or custom-generated 
+13
+reports. 
+14
+(4) The system shall include (either in the sys-
+15
+tem itself or through an interface with an external 
+16
+information technology system) functions relating 
+17
+to— 
+18
+(A) capital asset management; 
+19
+(B) ordering of items covered by the sys-
+20
+tem; 
+21
+(C) maintenance of a catalog of available 
+22
+supplies; and 
+23
+(D) lifecycle tracking from acquisition of 
+24
+such items through the disposal of such items. 
+25
+04:21 Oct 19, 2022
+H9091
+6 
+•HR 9091 IH
+(5) The system shall have existing interfaces 
+1
+with or the capability to interface with— 
+2
+(A) the Integrated Financial and Acquisi-
+3
+tion Management System of the Department of 
+4
+Veterans Affairs; and 
+5
+(B) the electronic health record systems of 
+6
+the Department, including— 
+7
+(i) the Veterans Health Information 
+8
+Systems and Technology Architecture and 
+9
+Computerized Patient Record System; and 
+10
+(ii) the electronic health record system 
+11
+established under the Electronic Health 
+12
+Record Modernization Program (as defined 
+13
+in section 503 of Veterans Benefits and 
+14
+Transition Act of 2018 (Public Law 115– 
+15
+407; 38 U.S.C. 5701 note prec.)). 
+16
+(6) The system shall have the capacity to ac-
+17
+commodate not fewer than 50,000 users. 
+18
+(7) The system shall include any other func-
+19
+tions, capabilities, or components as determined by 
+20
+the Secretary. 
+21
+(c) COMPLETION OF IMPLEMENTATION.—The Sec-
+22
+retary shall complete the implementation of a covered in-
+23
+formation technology system by not later than three years 
+24
+after the date of the enactment of this Act. 
+25
+04:21 Oct 19, 2022
+H9091
+7 
+•HR 9091 IH
+(d) COVERED INFORMATION TECHNOLOGY SYSTEM 
+1
+DEFINED.—In this section, the term ‘‘covered information 
+2
+technology system’’ means an information technology sys-
+3
+tem, or a system of systems, for the management of supply 
+4
+chains, including with respect to inventory and other func-
+5
+tions. 
+6
+Æ 
+04:21 Oct 19, 2022
+H9091

@@ -1,0 +1,295 @@
+A BILL 
+To encourage the migration of Federal Government informa-
+tion technology systems to quantum-resistant cryptog-
+raphy, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Quantum Computing 
+4
+Cybersecurity Preparedness Act’’. 
+5
+SEC. 2. FINDINGS; SENSE OF CONGRESS. 
+6
+(a) FINDINGS.—The Congress finds the following: 
+7
+(1) Cryptography is essential for our national 
+8
+security and the functioning of our economy. 
+9
+18:05 May 09, 2022
+H7535
+2 
+•HR 7535 IH
+(2) The most widespread encryption protocols 
+1
+today rely on computational limits of classical com-
+2
+puters to provide cybersecurity. 
+3
+(3) Quantum computers might one day have the 
+4
+ability to push computational boundaries, allowing 
+5
+us to solve problems that have been intractable thus 
+6
+far, such as integer factorization, which is important 
+7
+for encryption. 
+8
+(4) The rapid progress of quantum computing 
+9
+suggests the potential for adversaries to steal sen-
+10
+sitive encrypted data today using classical com-
+11
+puters, and wait until sufficiently powerful quantum 
+12
+systems are available to decrypt it. 
+13
+(b) SENSE OF CONGRESS.—It is the sense of Con-
+14
+gress that— 
+15
+(1) a strategy for the migration of information 
+16
+technology systems of the Federal Government to 
+17
+post-quantum cryptography is needed; and 
+18
+(2) the Governmentwide and industrywide ap-
+19
+proach 
+to 
+post-quantum 
+cryptography 
+should 
+20
+prioritize developing applications, hardware intellec-
+21
+tual property (IP), and software that can be easily 
+22
+updated to support developing cryptographic agility. 
+23
+SEC. 3. MIGRATION TO POST-QUANTUM CRYPTOGRAPHY. 
+24
+(a) MIGRATION AND ASSESSMENT.— 
+25
+18:05 May 09, 2022
+H7535
+3 
+•HR 7535 IH
+(1) MIGRATION TO POST-QUANTUM CRYPTOG-
+1
+RAPHY.—Not later than 1 year after the date on 
+2
+which the Director of NIST has issued post-quan-
+3
+tum cryptography standards, the Director of OMB, 
+4
+in consultation with the Chief Information Officers 
+5
+Council, shall begin to prioritize the migration to 
+6
+post-quantum cryptography and assessment of infor-
+7
+mation technology systems of executive agencies that 
+8
+does not use post-quantum cryptography, including 
+9
+digital signatures. 
+10
+(2) DESIGNATION
+OF
+SYSTEMS
+FOR
+MIGRA-
+11
+TION.—Not later than 1 year after the date on 
+12
+which post-quantum cryptography standards have 
+13
+been set by NIST and on an ongoing basis there-
+14
+after, the Director of OMB, in consultation with the 
+15
+Chief Information Officers Council, shall designate 
+16
+and prioritize for migration to post-quantum cryp-
+17
+tography information technology systems of execu-
+18
+tive agencies based on the risk of systems that do 
+19
+not use post-quantum cryptography. 
+20
+(b) REPORT ON POST-QUANTUM CRYPTOGRAPHY.— 
+21
+Not later than 1 year after the date of the enactment of 
+22
+this section, the Director of OMB shall submit to Congress 
+23
+a report on the following: 
+24
+18:05 May 09, 2022
+H7535
+4 
+•HR 7535 IH
+(1) A strategy to address the risk posed by the 
+1
+vulnerabilities of information technology systems of 
+2
+executive agencies to weakened encryption due to the 
+3
+potential and possible capability of a quantum com-
+4
+puter to breach such encryption. 
+5
+(2) The funding necessary to secure such infor-
+6
+mation technology systems from the threat posed by 
+7
+adversarial access to quantum computers. 
+8
+(3) A description and analysis of ongoing co-
+9
+ordination efforts, including any framework and 
+10
+timeline, with international standards development 
+11
+organizations and consortia (such as the Inter-
+12
+national Organization for Standardization) to de-
+13
+velop standards for post-quantum cryptography, in-
+14
+cluding any Federal Information Processing Stand-
+15
+ards developed under chapter 35 of title 44, United 
+16
+States Code. 
+17
+(c) REPORT
+ON MIGRATION
+TO POST-QUANTUM 
+18
+CRYPTOGRAPHY
+IN INFORMATION TECHNOLOGY SYS-
+19
+TEMS.—Not later than 1 year after the date on which the 
+20
+Director of NIST has issued post-quantum cryptography 
+21
+standards, and annually thereafter until the date that is 
+22
+9 years after the date on which such standards are issued, 
+23
+the Director of OMB shall submit to Congress a report 
+24
+18:05 May 09, 2022
+H7535
+5 
+•HR 7535 IH
+on the progress of the Federal Government in 
+1
+transitioning to post-quantum cryptography standards. 
+2
+(d) DEFINITIONS.—In this section: 
+3
+(1) CLASSICAL
+COMPUTER.—The term ‘‘clas-
+4
+sical computer’’ means a device that accepts digital 
+5
+data and manipulates the information based on a 
+6
+program or sequence of instructions for how data is 
+7
+to be processed and encodes information in binary 
+8
+bits that can either be 0s or 1s. 
+9
+(2) DIRECTOR OF NIST.—The term ‘‘Director 
+10
+of NIST’’ means the Director of the National Insti-
+11
+tute for Standards and Technology. 
+12
+(3) DIRECTOR OF OMB.—The term ‘‘Director of 
+13
+OMB’’ means the Director of the Office of Manage-
+14
+ment and Budget. 
+15
+(4) EXECUTIVE AGENCY.—The term ‘‘executive 
+16
+agency’’ has the meaning given the term ‘‘Executive 
+17
+agency’’ in section 105 of title 5, United States 
+18
+Code. 
+19
+(5) INFORMATION
+TECHNOLOGY.—The term 
+20
+‘‘information technology’’ has the meaning given 
+21
+that term in section 11101 of title 40, United States 
+22
+Code. 
+23
+18:05 May 09, 2022
+H7535
+6 
+•HR 7535 IH
+(6) 
+CRYPTOGRAPHY.—The 
+1
+term ‘‘post-quantum cryptography’’ means a cryp-
+2
+tographic system that— 
+3
+(A) is secure against decryption attempts 
+4
+using a quantum computer or classical com-
+5
+puter; and 
+6
+(B) can interoperate with existing commu-
+7
+nications protocols and networks. 
+8
+(7) QUANTUM COMPUTER.—The term ‘‘quan-
+9
+tum computer’’ means a device for computation that 
+10
+uses quantum mechanics like superposition and en-
+11
+tanglement to perform computational operations on 
+12
+data. 
+13
+(8) SUPERPOSITION.—The term ‘‘superposi-
+14
+tion’’ refers to the ability of quantum systems to 
+15
+exist in two or more states simultaneously. 
+16
+(9) ENTANGLEMENT.—The term ‘‘entangle-
+17
+ment’’ is a property where two or more quantum ob-
+18
+jects in a system can be intrinsically linked such 
+19
+that the measurement of one dictates the possible 
+20
+measurement outcomes for another, regardless of 
+21
+how far apart the objects are. 
+22
+Æ 
+18:05 May 09, 2022
+H7535

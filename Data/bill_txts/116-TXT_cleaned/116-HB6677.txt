@@ -1,0 +1,594 @@
+A BILL 
+To provide for greater transparency in and user control 
+over the treatment of data collected by mobile applica-
+tions and to enhance the security of such data. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Application Privacy, 
+4
+Protection, and Security Act of 2020’’ or the ‘‘APPS Act 
+5
+of 2020’’. 
+6
+SEC. 2. TRANSPARENCY, USER CONTROL, AND SECURITY. 
+7
+(a) CONSENT TO TERMS AND CONDITIONS.— 
+8
+18:28 May 08, 2020
+H6677
+2 
+•HR 6677 IH
+(1) IN GENERAL.—Before a mobile application 
+1
+collects personal data about a user of the applica-
+2
+tion, the developer of the application shall— 
+3
+(A) provide the user with notice of the 
+4
+terms and conditions governing the collection, 
+5
+use, storage, and sharing of the personal data; 
+6
+and 
+7
+(B) obtain the consent of the user to such 
+8
+terms and conditions. 
+9
+(2) REQUIRED CONTENT.—The notice required 
+10
+by paragraph (1)(A) shall include the following: 
+11
+(A) The categories of personal data that 
+12
+will be collected. 
+13
+(B) The categories of purposes for which 
+14
+the personal data will be used. 
+15
+(C) The categories of third parties with 
+16
+which the personal data will be shared. 
+17
+(D) A data retention policy that governs 
+18
+the length for which the personal data will be 
+19
+stored and the terms and conditions applicable 
+20
+to storage, including a description of the rights 
+21
+of the user under subsection (b) and the proc-
+22
+ess by which the user may exercise such rights. 
+23
+(3) ADDITIONAL SPECIFICATIONS AND FLEXI-
+24
+BILITY.—The Commission shall by regulation specify 
+25
+18:28 May 08, 2020
+H6677
+3 
+•HR 6677 IH
+the format, manner, and timing of the notice re-
+1
+quired by paragraph (1)(A). In promulgating the 
+2
+regulations, the Commission shall consider how to 
+3
+ensure the most effective and efficient communica-
+4
+tion to the user regarding the treatment of personal 
+5
+data. 
+6
+(4) DIRECT ACCESS TO DATA BY THIRD PAR-
+7
+TIES.—For purposes of this Act, if the developer of 
+8
+a mobile application allows a third party to access 
+9
+personal data collected by the application, such per-
+10
+sonal data shall be considered to be shared with the 
+11
+third party, whether or not such personal data are 
+12
+first transmitted to the developer. 
+13
+(b) WITHDRAWAL OF CONSENT.—The developer of a 
+14
+mobile application shall— 
+15
+(1) provide a user of the application with a 
+16
+means of— 
+17
+(A) notifying the developer that the user 
+18
+intends to stop using the application; and 
+19
+(B) requesting the developer— 
+20
+(i) to refrain from any further collec-
+21
+tion of personal data through the applica-
+22
+tion; and 
+23
+(ii) at the option of the user, either— 
+24
+18:28 May 08, 2020
+H6677
+4 
+•HR 6677 IH
+(I) to the extent practicable, to 
+1
+delete any personal data collected by 
+2
+the application that is stored by the 
+3
+developer; or 
+4
+(II) to refrain from any further 
+5
+use or sharing of such data; and 
+6
+(2) within a reasonable and appropriate time 
+7
+after receiving a request under paragraph (1)(B), 
+8
+comply with such request. 
+9
+(c) SECURITY OF PERSONAL DATA AND DE-IDENTI-
+10
+FIED DATA.—The developer of a mobile application shall 
+11
+take reasonable and appropriate measures to prevent un-
+12
+authorized access to personal data and de-identified data 
+13
+collected by the application. 
+14
+(d) EXCEPTION.—Nothing in this Act prohibits the 
+15
+developer of a mobile application from disclosing or pre-
+16
+serving personal data or de-identified data as required 
+17
+by— 
+18
+(1) other Federal law (including a court order); 
+19
+or 
+20
+(2) except as provided in section 6, the law of 
+21
+a State or a political subdivision of a State (includ-
+22
+ing a court order). 
+23
+18:28 May 08, 2020
+H6677
+5 
+•HR 6677 IH
+SEC. 3. APPLICATION AND ENFORCEMENT. 
+1
+(a) GENERAL APPLICATION.—The requirements of 
+2
+this Act and the regulations promulgated under this Act 
+3
+apply, according to their terms, to those persons, partner-
+4
+ships, and corporations over which the Commission has 
+5
+authority pursuant to section 5(a)(2) of the Federal Trade 
+6
+Commission Act (15 U.S.C. 45(a)(2)). 
+7
+(b) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+8
+SION.— 
+9
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+10
+TICES.—A violation of this Act or a regulation pro-
+11
+mulgated under this Act shall be treated as a viola-
+12
+tion of a regulation under section 18(a)(1)(B) of the 
+13
+Federal 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+14
+57a(a)(1)(B)) regarding unfair or deceptive acts or 
+15
+practices. 
+16
+(2) POWERS
+OF
+COMMISSION.—The Commis-
+17
+sion shall enforce this Act and the regulations pro-
+18
+mulgated under this Act in the same manner, by the 
+19
+same means, and with the same jurisdiction, powers, 
+20
+and duties as though all applicable terms and provi-
+21
+sions of the Federal Trade Commission Act (15 
+22
+U.S.C. 41 et seq.) were incorporated into and made 
+23
+a part of this Act. Any person who violates this Act 
+24
+or a regulation promulgated under this Act shall be 
+25
+subject to the penalties and entitled to the privileges 
+26
+18:28 May 08, 2020
+H6677
+6 
+•HR 6677 IH
+and immunities provided in the Federal Trade Com-
+1
+mission Act. 
+2
+(c) ACTIONS BY STATES.— 
+3
+(1) IN GENERAL.—In any case in which the at-
+4
+torney general of a State, or an official or agency of 
+5
+a State, has reason to believe that an interest of the 
+6
+residents of such State has been or is threatened or 
+7
+adversely affected by an act or practice in violation 
+8
+of this Act or a regulation promulgated under this 
+9
+Act, the State, as parens patriae, may bring a civil 
+10
+action on behalf of the residents of the State in an 
+11
+appropriate district court of the United States to— 
+12
+(A) enjoin such act or practice; 
+13
+(B) enforce compliance with this Act or 
+14
+such regulation; 
+15
+(C) obtain damages, restitution, or other 
+16
+compensation on behalf of residents of the 
+17
+State; or 
+18
+(D) obtain such other legal and equitable 
+19
+relief as the court may consider to be appro-
+20
+priate. 
+21
+(2) NOTICE.—Before filing an action under this 
+22
+subsection, the attorney general, official, or agency 
+23
+of the State involved shall provide to the Commis-
+24
+sion a written notice of such action and a copy of 
+25
+18:28 May 08, 2020
+H6677
+7 
+•HR 6677 IH
+the complaint for such action. If the attorney gen-
+1
+eral, official, or agency determines that it is not fea-
+2
+sible to provide the notice described in this para-
+3
+graph before the filing of the action, the attorney 
+4
+general, official, or agency shall provide written no-
+5
+tice of the action and a copy of the complaint to the 
+6
+Commission immediately upon the filing of the ac-
+7
+tion. 
+8
+(3) AUTHORITY OF COMMISSION.— 
+9
+(A) IN
+GENERAL.—On receiving notice 
+10
+under paragraph (2) of an action under this 
+11
+subsection, the Commission shall have the 
+12
+right— 
+13
+(i) to intervene in the action; 
+14
+(ii) upon so intervening, to be heard 
+15
+on all matters arising therein; and 
+16
+(iii) to file petitions for appeal. 
+17
+(B) LIMITATION ON STATE ACTION WHILE 
+18
+FEDERAL ACTION IS PENDING.—If the Commis-
+19
+sion or the Attorney General of the United 
+20
+States has instituted a civil action for violation 
+21
+of this Act or a regulation promulgated under 
+22
+this Act (referred to in this subparagraph as 
+23
+the ‘‘Federal action’’), no State attorney gen-
+24
+eral, official, or agency may bring an action 
+25
+18:28 May 08, 2020
+H6677
+8 
+•HR 6677 IH
+under this subsection during the pendency of 
+1
+the Federal action against any defendant 
+2
+named in the complaint in the Federal action 
+3
+for any violation of this Act or such regulation 
+4
+alleged in such complaint. 
+5
+(4) RULE OF CONSTRUCTION.—For purposes of 
+6
+bringing a civil action under this subsection, nothing 
+7
+in this Act shall be construed to prevent an attorney 
+8
+general, official, or agency of a State from exercising 
+9
+the powers conferred on the attorney general, offi-
+10
+cial, or agency by the laws of such State to conduct 
+11
+investigations, administer oaths and affirmations, or 
+12
+compel the attendance of witnesses or the production 
+13
+of documentary and other evidence. 
+14
+SEC. 4. REGULATIONS. 
+15
+Not later than 1 year after the date of the enactment 
+16
+of this Act, the Commission shall promulgate regulations 
+17
+in accordance with section 553 of title 5, United States 
+18
+Code, to implement and enforce this Act. 
+19
+SEC. 5. SAFE HARBOR. 
+20
+(a) IN GENERAL.—The developer of a mobile applica-
+21
+tion may satisfy the requirements of this Act and the regu-
+22
+lations promulgated under this Act by adopting and fol-
+23
+lowing a code of conduct for consumer data privacy (inso-
+24
+18:28 May 08, 2020
+H6677
+9 
+•HR 6677 IH
+far as such code relates to data collected by a mobile appli-
+1
+cation) that— 
+2
+(1) was developed in a multistakeholder process 
+3
+convened by the National Telecommunications and 
+4
+Information Administration, as described in the doc-
+5
+ument issued by the President on February 23, 
+6
+2012, entitled ‘‘Consumer Data Privacy in a 
+7
+Networked World: A Framework for Protecting Pri-
+8
+vacy and Promoting Innovation in the Global Digital 
+9
+Economy’’; and 
+10
+(2) the Commission has approved as meeting 
+11
+the requirements of the regulations promulgated 
+12
+under section 4. 
+13
+(b) REGULATIONS.—The Commission shall promul-
+14
+gate regulations in accordance with section 553 of title 
+15
+5, United States Code, to govern the consideration and 
+16
+approval of codes of conduct under subsection (a)(2). 
+17
+SEC. 6. RELATIONSHIP TO STATE LAW. 
+18
+This Act and the regulations promulgated under this 
+19
+Act supercede a provision of law of a State or a political 
+20
+subdivision of a State only to the extent that such provi-
+21
+sion— 
+22
+(1) conflicts with this Act or such regulations, 
+23
+as determined without regard to section 2(d)(2); 
+24
+18:28 May 08, 2020
+H6677
+10 
+•HR 6677 IH
+(2) specifically relates to the treatment of per-
+1
+sonal data or de-identified data; and 
+2
+(3) provides a level of transparency, user con-
+3
+trol, or security in the treatment of personal data or 
+4
+de-identified data that is less than the level provided 
+5
+by this Act and such regulations. 
+6
+SEC. 7. PRESERVATION OF FTC AUTHORITY. 
+7
+Nothing in this Act may be construed in any way to 
+8
+limit or affect the authority of the Commission under any 
+9
+other provision of law. 
+10
+SEC. 8. DEFINITIONS. 
+11
+In this Act: 
+12
+(1) COMMISSION.—The term ‘‘Commission’’ 
+13
+means the Federal Trade Commission. 
+14
+(2) DE-IDENTIFIED DATA.—The term ‘‘de-iden-
+15
+tified data’’ means data that cannot reasonably be 
+16
+used to identify or infer information about, or other-
+17
+wise be linked to, a particular individual or mobile 
+18
+device, as determined with a reasonable level of jus-
+19
+tified confidence based on the available methods and 
+20
+technologies, the nature of the data at issue, and the 
+21
+purposes for which the data will be used. 
+22
+(3) DEVELOPER.—The term ‘‘developer’’ shall 
+23
+have the meaning given such term by the Commis-
+24
+sion by regulation. 
+25
+18:28 May 08, 2020
+H6677
+11 
+•HR 6677 IH
+(4) MOBILE APPLICATION.—The term ‘‘mobile 
+1
+application’’ means a software program that— 
+2
+(A) runs on the operating system of a mo-
+3
+bile device; and 
+4
+(B) collects data from a user. 
+5
+(5) MOBILE
+DEVICE.—The term ‘‘mobile de-
+6
+vice’’ means a smartphone, tablet computer, or simi-
+7
+lar portable computing device that transmits data 
+8
+over a wireless connection. 
+9
+(6) PERSONAL
+DATA.—The term ‘‘personal 
+10
+data’’ shall have the meaning given such term by the 
+11
+Commission by regulation, except that such term 
+12
+shall not include de-identified data. 
+13
+(7) STATE.—The term ‘‘State’’ means each of 
+14
+the several States, the District of Columbia, each 
+15
+commonwealth, territory, or possession of the United 
+16
+States, and each federally recognized Indian Tribe. 
+17
+(8) THIRD
+PARTY.—The term ‘‘third party’’ 
+18
+means, with respect to the developer of an applica-
+19
+tion, an entity that holds itself out to the public as 
+20
+separate from the developer such that a user of the 
+21
+application 
+acting 
+reasonably 
+under 
+the 
+cir-
+22
+cumstances would not expect the entity to be related 
+23
+to the developer or to have access to personal data 
+24
+the user provides to the developer. Such term in-
+25
+18:28 May 08, 2020
+H6677
+12 
+•HR 6677 IH
+cludes an affiliate of the developer unless the affili-
+1
+ation is reasonably clear to users of the application. 
+2
+SEC. 9. EFFECTIVE DATE. 
+3
+This Act shall apply with respect to any collection, 
+4
+use, storage, or sharing of personal data or de-identified 
+5
+data that occurs after the date that is 30 days after the 
+6
+promulgation of final regulations under section 4. 
+7
+Æ 
+18:28 May 08, 2020
+H6677

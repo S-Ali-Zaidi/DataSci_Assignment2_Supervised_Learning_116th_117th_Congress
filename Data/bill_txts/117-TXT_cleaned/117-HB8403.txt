@@ -1,0 +1,807 @@
+A BILL 
+To encourage and improve Federal proactive cybersecurity 
+initiatives, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Proactive Cyber Initiatives Act of 2022’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+Sec. 3. Increasing proactive cybersecurity initiatives. 
+Sec. 4. Strengthening Office of National Cyber Director. 
+06:00 Jul 21, 2022
+H8403
+2 
+•HR 8403 IH
+Sec. 5. Penetration testing reports. 
+Sec. 6. Report on active defense techniques. 
+Sec. 7. Study on innovative uses of proactive cybersecurity initiatives. 
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) ACTIVE DEFENSE TECHNIQUE.—The term 
+3
+‘‘active defense technique’’ means an action taken on 
+4
+an information system of an agency to increase the 
+5
+security of such system against an attacker, includ-
+6
+ing— 
+7
+(A) the use of a deception technology or 
+8
+other purposeful feeding of false or misleading 
+9
+information to an attacker accessing such sys-
+10
+tem; and 
+11
+(B) proportional action taken in response 
+12
+to an unlawful breach. 
+13
+(2) AGENCY.—The term ‘‘agency’’ means any 
+14
+Government corporation, Government-controlled cor-
+15
+poration, or other establishment of the executive 
+16
+branch of the Government (including the Executive 
+17
+Office of the President), or any independent regu-
+18
+latory agency, but does not include the following: 
+19
+(A) The Government Accountability Office. 
+20
+(B) The Federal Election Commission. 
+21
+(C) The governments of the District of Co-
+22
+lumbia and of the territories and possessions of 
+23
+06:00 Jul 21, 2022
+H8403
+3 
+•HR 8403 IH
+the United States, and their various subdivi-
+1
+sions. 
+2
+(D) Government-owned contractor-oper-
+3
+ated facilities, including laboratories engaged in 
+4
+national defense research and production activi-
+5
+ties. 
+6
+(3) 
+CONTINUOUS
+MONITORING.—The 
+term 
+7
+‘‘continuous monitoring’’ means continuous experi-
+8
+mentation conducted by an agency on an informa-
+9
+tion system of such agency to evaluate the resilience 
+10
+of such system against a malicious attack or condi-
+11
+tion that could compromise such system for the pur-
+12
+pose of improving design, resilience, or incident re-
+13
+sponse with respect to such system. 
+14
+(4) DECEPTION TECHNOLOGY.—The term ‘‘de-
+15
+ception technology’’ means an isolated digital envi-
+16
+ronment, system, or platform containing a replica-
+17
+tion of an active information system with realistic 
+18
+data flows used to attract, mislead, or observe an 
+19
+attacker. 
+20
+(5) DEPARTMENT.—The term ‘‘department’’ 
+21
+means the following: 
+22
+(A) The Department of State. 
+23
+(B) The Department of the Treasury. 
+24
+(C) The Department of Defense. 
+25
+06:00 Jul 21, 2022
+H8403
+4 
+•HR 8403 IH
+(D) The Department of Justice. 
+1
+(E) The Department of the Interior. 
+2
+(F) The Department of Agriculture. 
+3
+(G) The Department of Commerce. 
+4
+(H) The Department of Labor. 
+5
+(I) The Department of Health and Human 
+6
+Services. 
+7
+(J) The Department of Housing and 
+8
+Urban Development. 
+9
+(K) The Department of Transportation. 
+10
+(L) The Department of Energy. 
+11
+(M) The Department of Education. 
+12
+(N) The Department of Veterans Affairs. 
+13
+(O) The Department of Homeland Secu-
+14
+rity. 
+15
+(6) DIRECTOR.—The term ‘‘Director’’ means 
+16
+the Director of the Cybersecurity and Infrastructure 
+17
+Security Agency of the Department of Homeland Se-
+18
+curity. 
+19
+(7) INFORMATION SYSTEM.—The term ‘‘infor-
+20
+mation system’’ has the meaning given the term in 
+21
+section 3502 of title 44, United States Code. 
+22
+(8) NATIONAL LABORATORY.—The term ‘‘na-
+23
+tional laboratory’’ has the meaning given the term in 
+24
+06:00 Jul 21, 2022
+H8403
+5 
+•HR 8403 IH
+section 2 of the Energy Policy Act of 2005 (42 
+1
+U.S.C. 15801). 
+2
+(9) PENETRATION TEST; PENETRATION TEST-
+3
+ING.—The terms ‘‘penetration test’’ and ‘‘penetra-
+4
+tion testing’’ mean an assessment conducted on an 
+5
+information system of an agency that emulates an 
+6
+attack or other exploitation capability to identify and 
+7
+test vulnerabilities that could be exploited. 
+8
+(10) RULES
+OF
+ENGAGEMENT.—The term 
+9
+‘‘rules of engagement’’ means a set of rules estab-
+10
+lished by an agency for use during penetration test-
+11
+ing. 
+12
+SEC. 3. INCREASING PROACTIVE CYBERSECURITY INITIA-
+13
+TIVES. 
+14
+(a) PENETRATION TESTING.— 
+15
+(1) IN GENERAL.—The head of each depart-
+16
+ment or agency shall carry out the following: 
+17
+(A) Conduct regular penetration testing on 
+18
+the information systems (as described in para-
+19
+graph (2)) of such department or agency. 
+20
+(B) Provide to the Director, the National 
+21
+Cyber Director, and the Director of the Office 
+22
+of Management and Budget a report on the re-
+23
+sults of such testing, including— 
+24
+06:00 Jul 21, 2022
+H8403
+6 
+•HR 8403 IH
+(i) an identification of any risks dis-
+1
+covered; and 
+2
+(ii) a description of how cybersecurity 
+3
+at such department or agency may be im-
+4
+proved. 
+5
+(2) INFORMATION SYSTEMS DESCRIBED.—For 
+6
+purposes of paragraph (1)(A), an information sys-
+7
+tem of an agency to be tested is one described as 
+8
+moderate- or high-impact in the document titled 
+9
+‘‘Risk Management Framework for Information Sys-
+10
+tems and Organizations: A System Life Cycle Ap-
+11
+proach for Security and Privacy’’ (National Institute 
+12
+of Standards and Technology Special Publication 
+13
+800–37, Revision 2; December 2018) or in a suc-
+14
+cessor document. 
+15
+(b) GUIDANCE.—Not later than one year after the 
+16
+date of the enactment of this Act, the Director, in con-
+17
+sultation with the Secretary of Defense, the National 
+18
+Cyber Director, the Director of National Intelligence, the 
+19
+Secretary of Homeland Security, and the head of any 
+20
+other department or agency the Director determines ap-
+21
+propriate, shall issue guidance to facilitate the implemen-
+22
+tation of subsection (a), which shall include the following: 
+23
+(1) Information regarding how departments and 
+24
+agencies are to utilize independent penetration test-
+25
+06:00 Jul 21, 2022
+H8403
+7 
+•HR 8403 IH
+ing carried out by another department or agency, a 
+1
+national laboratory, or a private entity. 
+2
+(2) Recommendations regarding how best to 
+3
+utilize, within the budget of an agency, penetration 
+4
+testing, including independent penetration testing. 
+5
+(3) Recommendations for minimum rules of en-
+6
+gagement. 
+7
+(c) REPORT.— 
+8
+(1) IN
+GENERAL.—Not later than one year 
+9
+after the date of the enactment of this Act, the Di-
+10
+rector shall submit to the appropriate congressional 
+11
+committees a report that includes the following: 
+12
+(A) An analysis of whether increased en-
+13
+gagement is needed from national laboratories 
+14
+and the private sector to assist with the protec-
+15
+tion of the information systems of agencies 
+16
+through the use of the following: 
+17
+(i) Active defense techniques. 
+18
+(ii) Deception technologies. 
+19
+(iii) Penetration testing. 
+20
+(B) An analysis of the feasibility and bene-
+21
+fits of consolidating within the Cybersecurity 
+22
+and Infrastructure Security Agency of the De-
+23
+partment of Homeland Security proactive cyber-
+24
+security initiatives. 
+25
+06:00 Jul 21, 2022
+H8403
+8 
+•HR 8403 IH
+(C) An analysis of whether the Director re-
+1
+quires additional authorities or resources to 
+2
+carry out proactive cybersecurity initiatives for 
+3
+agencies. 
+4
+(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+5
+TEES DEFINED.—In this subsection, the term ‘‘ap-
+6
+propriate congressional committees’’ means— 
+7
+(A) with respect to the House of Rep-
+8
+resentatives— 
+9
+(i) the Committee on Appropriations; 
+10
+(ii) the Committee on Armed Services; 
+11
+(iii) the Committee on Homeland Se-
+12
+curity; 
+13
+(iv) the Committee on the Judiciary; 
+14
+(v) the Committee on Oversight and 
+15
+Reform; and 
+16
+(vi) the Permanent Select Committee 
+17
+on Intelligence; and 
+18
+(B) with respect to the Senate— 
+19
+(i) the Committee on Appropriations; 
+20
+(ii) the Committee on Armed Services; 
+21
+(iii) the Committee on Homeland Se-
+22
+curity and Governmental Affairs; 
+23
+(iv) the Committee on the Judiciary; 
+24
+and 
+25
+06:00 Jul 21, 2022
+H8403
+9 
+•HR 8403 IH
+(v) the Select Committee on Intel-
+1
+ligence. 
+2
+SEC. 4. STRENGTHENING THE OFFICE OF THE NATIONAL 
+3
+CYBER DIRECTOR. 
+4
+(a) DECONFLICTION.—Section 1752(c)(1)(D) of the 
+5
+William M. (Mac) Thornberry National Defense Author-
+6
+ization Act for Fiscal Year 2021 (6 U.S.C. 1500(c)(1)(D)) 
+7
+is amended— 
+8
+(1) in clause (iii), by striking ‘‘and’’ at the end; 
+9
+(2) in clause (iv), by inserting ‘‘and’’ at the 
+10
+end; and 
+11
+(3) by adding at the end the following: 
+12
+‘‘(v) deconflicting overlapping jurisdic-
+13
+tion between agencies regarding cybersecu-
+14
+rity activities and authority to mitigate 
+15
+risks;’’. 
+16
+(b) INFORMATION SHARING.—Section 1752(c)(1) of 
+17
+the William M. (Mac) Thornberry National Defense Au-
+18
+thorization Act for Fiscal Year 2021 (6 U.S.C. 
+19
+1500(c)(1)) is amended— 
+20
+(1) in subparagraph (C)(vi), by inserting ‘‘the 
+21
+Secretary of Homeland Security, the Director of the 
+22
+Office of Management and Budget,’’ after ‘‘the As-
+23
+sistant to the President for National Security Af-
+24
+fairs,’’; and 
+25
+06:00 Jul 21, 2022
+H8403
+10 
+•HR 8403 IH
+(2) in subparagraph (G), by inserting ‘‘the Sec-
+1
+retary of Homeland Security, the Director of the Of-
+2
+fice of Management and Budget, and’’ after ‘‘annu-
+3
+ally report to’’. 
+4
+SEC. 5. PENETRATION TESTING REPORTS. 
+5
+(a) CYBERSECURITY AND INFRASTRUCTURE SECU-
+6
+RITY AGENCY.— 
+7
+(1) AGGREGATION OF PENETRATION TESTING 
+8
+RESULTS.—Not later than one year after the date of 
+9
+the enactment of this Act and annually thereafter, 
+10
+the Director shall aggregate and review the results 
+11
+of the penetration testing provided to the Director 
+12
+under section 3(a)(1)(B). 
+13
+(2) INTERAGENCY
+REPORTS.—Not later than 
+14
+180 days after each review under paragraph (1), the 
+15
+Director, based on such review, shall provide to each 
+16
+agency a report containing the following: 
+17
+(A) A summary of the results of such re-
+18
+view, including an identification of risks and 
+19
+other results common across agencies. 
+20
+(B) An assessment, based on the document 
+21
+entitled ‘‘Risk Management Framework for In-
+22
+formation Systems and Organizations: A Sys-
+23
+tem Life Cycle Approach for Security and Pri-
+24
+vacy’’ (National Institute of Standards and 
+25
+06:00 Jul 21, 2022
+H8403
+11 
+•HR 8403 IH
+Technology Special Publication 800–37, Revi-
+1
+sion 2; December 2018) or a successor docu-
+2
+ment, of the severity of risks identified under 
+3
+subparagraph (A). 
+4
+(C) An analysis of the duration of time 
+5
+that such risks have existed. 
+6
+(D) Recommendations for mitigating such 
+7
+risks, which prioritize risks assessed as the 
+8
+highest severity pursuant to subparagraph (B). 
+9
+(3) CONGRESSIONAL REPORT.—Not later than 
+10
+180 days after each report provided under para-
+11
+graph (2), the Director shall submit to Congress a 
+12
+report that contains— 
+13
+(A) a summary of the report provided 
+14
+under such paragraph; and 
+15
+(B) recommendations for legislative action 
+16
+relating to the matters referred to in such para-
+17
+graph. 
+18
+(b) GOVERNMENT ACCOUNTABILITY OFFICE.—Not 
+19
+later than 180 days after the date of the enactment of 
+20
+this Act, the Comptroller General of the United States 
+21
+shall submit to Congress a report on penetration testing, 
+22
+which shall include the following: 
+23
+(1) An identification of which departments or 
+24
+agencies are obligating and expending funds on pen-
+25
+06:00 Jul 21, 2022
+H8403
+12 
+•HR 8403 IH
+etration testing and how such funds are being used, 
+1
+including whether such funds are being used on 
+2
+independent penetration testing. 
+3
+(2) Recommendations for legislative action re-
+4
+garding additional authority or resources needed by 
+5
+departments or agencies to conduct penetration test-
+6
+ing more effectively, including with respect to inde-
+7
+pendent penetration testing. 
+8
+SEC. 6. REPORT ON ACTIVE DEFENSE TECHNIQUES. 
+9
+(a) REPORT.—Not later than 18 months after the 
+10
+date of the enactment of this Act, the Director, in con-
+11
+sultation with the National Cyber Director and represent-
+12
+atives of appropriate private sector entities, shall submit 
+13
+to the appropriate congressional committees a report re-
+14
+garding active defense techniques. 
+15
+(b) CONTENTS.—The report described in subsection 
+16
+(a) shall include the following: 
+17
+(1) An assessment of the effectiveness of active 
+18
+defense techniques to protect the information sys-
+19
+tems of departments or agencies. 
+20
+(2) Recommendations regarding how such tech-
+21
+niques can be better utilized to protect such systems, 
+22
+including best practices with respect to such tech-
+23
+niques. 
+24
+06:00 Jul 21, 2022
+H8403
+13 
+•HR 8403 IH
+(3) An analysis of whether there are legislative, 
+1
+regulatory, or resource burdens that prevent such 
+2
+techniques from being effectively utilized, including 
+3
+the resources necessary to implement such tech-
+4
+niques. 
+5
+(4) An identification of resources necessary to 
+6
+carry out the recommendations under paragraph (2). 
+7
+(5) An identification of other techniques that 
+8
+should be evaluated to protect such systems. 
+9
+(c) APPROPRIATE CONGRESSIONAL COMMITTEES DE-
+10
+FINED.—In this subsection, the term ‘‘appropriate con-
+11
+gressional committees’’ means— 
+12
+(1) with respect to the House of Representa-
+13
+tives— 
+14
+(A) the Committee on Appropriations; 
+15
+(B) the Committee on Armed Services; 
+16
+(C) the Committee on Homeland Security; 
+17
+(D) the Committee on the Judiciary; 
+18
+(E) the Committee on Oversight and Re-
+19
+form; and 
+20
+(F) the Permanent Select Committee on 
+21
+Intelligence; and 
+22
+(2) with respect to the Senate— 
+23
+(A) the Committee on Appropriations; 
+24
+(B) the Committee on Armed Services; 
+25
+06:00 Jul 21, 2022
+H8403
+14 
+•HR 8403 IH
+(C) the Committee on Homeland Security 
+1
+and Governmental Affairs; 
+2
+(D) the Committee on the Judiciary; and 
+3
+(E) the Select Committee on Intelligence. 
+4
+SEC. 7. STUDY ON INNOVATIVE USES OF PROACTIVE CY-
+5
+BERSECURITY INITIATIVES. 
+6
+(a) STUDY.—The Secretary of Defense, in consulta-
+7
+tion with the Director of National Intelligence, the Sec-
+8
+retary of Homeland Security, the Attorney General, and 
+9
+the head of any other department or agency the Director 
+10
+determines appropriate, shall conduct a study on innova-
+11
+tive uses of proactive cybersecurity initiatives, including 
+12
+the following: 
+13
+(1) The use of deception technologies. 
+14
+(2) The use of continuous monitoring to gen-
+15
+erate evidence regarding how an information sys-
+16
+tem— 
+17
+(A) operates under normal or intended use; 
+18
+and 
+19
+(B) behaves under a variety of adverse 
+20
+conditions or scenarios. 
+21
+(3) The feasibility of department or agency 
+22
+adoption of a set of continuous monitoring proce-
+23
+dures. 
+24
+(b) REPORTS.— 
+25
+06:00 Jul 21, 2022
+H8403
+15 
+•HR 8403 IH
+(1) CLASSIFIED REPORT.—Not later than two 
+1
+years after the date of the enactment of this Act, the 
+2
+Secretary of Defense shall submit to the Permanent 
+3
+Select Committee on Intelligence of the House of 
+4
+Representatives and the Select Committee on Intel-
+5
+ligence of the Senate a classified report describing 
+6
+the results of the study required under subsection 
+7
+(a), including examples of any successes against 
+8
+attackers who unlawfully breached an information 
+9
+system of a department or agency. 
+10
+(2) UNCLASSIFIED
+REPORT.—Not later than 
+11
+two years after the date of the enactment of this 
+12
+Act, the Secretary shall submit to the appropriate 
+13
+congressional committees an unclassified report de-
+14
+scribing the results of the study required under sub-
+15
+section (a), including legislative recommendations re-
+16
+lating thereto. 
+17
+(c) APPROPRIATE CONGRESSIONAL COMMITTEES DE-
+18
+FINED.—In this section, the term ‘‘appropriate congres-
+19
+sional committees’’ means— 
+20
+(1) with respect to the House of Representa-
+21
+tives— 
+22
+(A) the Committee on Armed Services; 
+23
+(B) the Committee on Homeland Security; 
+24
+(C) the Committee on the Judiciary; 
+25
+06:00 Jul 21, 2022
+H8403
+16 
+•HR 8403 IH
+(D) the Committee on Oversight and Re-
+1
+form; and 
+2
+(E) the Permanent Select Committee on 
+3
+Intelligence; and 
+4
+(2) with respect to the Senate— 
+5
+(A) the Committee on Armed Services; 
+6
+(B) the Committee on Homeland Security 
+7
+and Governmental Affairs; 
+8
+(C) the Committee on the Judiciary; and 
+9
+(D) the Select Committee on Intelligence. 
+10
+Æ 
+06:00 Jul 21, 2022
+H8403

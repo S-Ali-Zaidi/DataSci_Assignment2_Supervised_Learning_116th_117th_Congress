@@ -1,0 +1,433 @@
+A BILL 
+To provide for fundamental research programs in advanced 
+scientific computing at the Department of Energy, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Next Generation Com-
+4
+puting Research and Development Act of 2021’’. 
+5
+SEC. 2. ADVANCED SCIENTIFIC COMPUTING RESEARCH. 
+6
+(a) IN GENERAL.—Section 304 of the Department of 
+7
+Energy Research and Innovation Act (42 U.S.C. 18642) 
+8
+is amended— 
+9
+22:20 Jun 15, 2021
+H3284
+2 
+•HR 3284 IH
+(1) by redesignating subsections (b) and (c) as 
+1
+subsections (c) and (d), respectively; and 
+2
+(2) by inserting after subsection (a) the fol-
+3
+lowing: 
+4
+‘‘(b) PROGRAM.—The Director shall carry out a re-
+5
+search, development, and demonstration program to ad-
+6
+vance computational and networking capabilities to ana-
+7
+lyze, model, simulate, and predict complex phenomena rel-
+8
+evant to the development of new energy technologies and 
+9
+the competitiveness of the United States.’’. 
+10
+(b) ADDITIONAL PROGRAMS.—Section 304 of the De-
+11
+partment of Energy Research and Innovation Act (42 
+12
+U.S.C. 18642) is further amended by adding at the end 
+13
+the following: 
+14
+‘‘(e) BEYOND EXASCALE COMPUTING PROGRAM.— 
+15
+‘‘(1) IN GENERAL.—The Secretary shall estab-
+16
+lish a program to develop and implement a strategy 
+17
+for achieving computing systems with capabilities be-
+18
+yond exascale computing systems. In establishing 
+19
+this program, the Secretary shall— 
+20
+‘‘(A) maintain foundational research pro-
+21
+grams in mathematical, computational, and 
+22
+computer sciences focused on new and emerging 
+23
+computing needs within the mission of the De-
+24
+partment, including but not limited to post- 
+25
+22:20 Jun 15, 2021
+H3284
+3 
+•HR 3284 IH
+Moore’s law computing architectures, novel ap-
+1
+proaches to modeling and simulation, artificial 
+2
+intelligence and scientific machine learning, 
+3
+quantum computing, and extreme heterogeneity; 
+4
+and 
+5
+‘‘(B) retain best practices and maintain 
+6
+support for essential hardware and software ele-
+7
+ments of the Exascale Computing Project that 
+8
+are necessary for sustaining the vitality of a 
+9
+long-term exascale ecosystem. 
+10
+‘‘(2) REPORT.—Not later than one year after 
+11
+the date of the enactment of the Next Generation 
+12
+Computing Research and Development Act of 2021, 
+13
+the Secretary shall submit to the Committee on 
+14
+Science, Space, and Technology of the House of 
+15
+Representatives, and the Committee on Energy and 
+16
+Natural Resources of the Senate, a report on the de-
+17
+velopment and implementation of the strategy out-
+18
+lined in paragraph (1). 
+19
+‘‘(f) ENERGY EFFICIENT COMPUTING PROGRAM.— 
+20
+‘‘(1) IN GENERAL.—The Secretary shall sup-
+21
+port a program of fundamental research, develop-
+22
+ment, and demonstration of energy efficient com-
+23
+puting technologies relevant to advanced computing 
+24
+22:20 Jun 15, 2021
+H3284
+4 
+•HR 3284 IH
+applications in high performance computing, artifi-
+1
+cial intelligence, and scientific machine learning. 
+2
+‘‘(2) EXECUTION.— 
+3
+‘‘(A) PROGRAM.—In carrying out the pro-
+4
+gram, the Secretary shall— 
+5
+‘‘(i) establish a partnership for Na-
+6
+tional Laboratories, industry partners, and 
+7
+institutions of higher education for co-
+8
+design of energy efficient hardware, tech-
+9
+nology, software, and applications across 
+10
+all applicable program offices of the De-
+11
+partment; 
+12
+‘‘(ii) develop hardware and software 
+13
+technologies that decrease the energy needs 
+14
+of advanced computing practices; 
+15
+‘‘(iii) consider multiple heterogeneous 
+16
+computing architectures, including neuro-
+17
+morphic computing, persistent computing, 
+18
+and ultrafast networking; and 
+19
+‘‘(iv) provide, as appropriate, on a 
+20
+competitive, merit-reviewed basis, access 
+21
+for researchers from institutions of higher 
+22
+education, National Laboratories, industry, 
+23
+and other Federal agencies to the energy 
+24
+22:20 Jun 15, 2021
+H3284
+5 
+•HR 3284 IH
+efficient computing technologies developed 
+1
+pursuant to clause (i). 
+2
+‘‘(B) SELECTION
+OF
+PARTNERS.—In se-
+3
+lecting participants for the partnership estab-
+4
+lished under subparagraph (A)(i), the Secretary 
+5
+shall select participants through a competitive, 
+6
+merit-review process. 
+7
+‘‘(3) REPORT.—Not later than one year after 
+8
+the date of the enactment of the Next Generation 
+9
+Computing Research and Development Act of 2021, 
+10
+the Secretary shall submit to the Committee on 
+11
+Science, Space, and Technology of the House of 
+12
+Representatives, and the Committee on Energy and 
+13
+Natural Resources of the Senate, a report on— 
+14
+‘‘(A) the activities conducted under para-
+15
+graph (2)(A); and 
+16
+‘‘(B) the coordination and management of 
+17
+the Program to ensure an integrated research 
+18
+program across the Department. 
+19
+‘‘(g) ENERGY SCIENCES NETWORK.— 
+20
+‘‘(1) IN GENERAL.—The Secretary shall provide 
+21
+for an upgrade to the Energy Sciences Network user 
+22
+facility in order to meet Federal research needs for 
+23
+highly reliable data transport capabilities optimized 
+24
+for the requirements of large-scale science. 
+25
+22:20 Jun 15, 2021
+H3284
+6 
+•HR 3284 IH
+‘‘(2) CAPABILITIES.—In carrying out paragraph 
+1
+(1), the Secretary shall ensure the following capabili-
+2
+ties: 
+3
+‘‘(A) To provide high bandwidth scientific 
+4
+networking across the continental United States 
+5
+and the Atlantic Ocean. 
+6
+‘‘(B) To maximize network reliability. 
+7
+‘‘(C) To protect the network and data from 
+8
+cyber-attacks. 
+9
+‘‘(D) To support exponentially increasing 
+10
+levels of data from the Department’s scientific 
+11
+user facilities, experiments, and sensors. 
+12
+‘‘(E) To integrate heterogeneous com-
+13
+puting frameworks and systems. 
+14
+‘‘(h) WORKFORCE DEVELOPMENT.—The Director of 
+15
+the Office of Advanced Scientific Computing Research 
+16
+shall support the development of a computational science 
+17
+workforce through a program that— 
+18
+‘‘(1) facilitates collaboration between university 
+19
+students and researchers at the National Labora-
+20
+tories; and 
+21
+‘‘(2) endeavors to advance science in areas rel-
+22
+evant to the mission of the Department through the 
+23
+application of computational science.’’. 
+24
+22:20 Jun 15, 2021
+H3284
+7 
+•HR 3284 IH
+(c) COMPUTATIONAL SCIENCE GRADUATE FELLOW-
+1
+SHIP.— 
+2
+(1) IN GENERAL.—Section 304 of the Depart-
+3
+ment of Energy Research and Innovation Act (42 
+4
+U.S.C. 18642) is further amended by adding at the 
+5
+end the following: 
+6
+‘‘(i) COMPUTATIONAL SCIENCE GRADUATE FELLOW-
+7
+SHIP.— 
+8
+‘‘(1) IN GENERAL.—The Secretary shall sup-
+9
+port the Computational Science Graduate Fellowship 
+10
+program in order to facilitate collaboration between 
+11
+graduate students and researchers at the National 
+12
+Laboratories, and contribute to the development of 
+13
+a computational workforce to help advance research 
+14
+in areas relevant to the mission of the Department. 
+15
+‘‘(2) ELIGIBILITY.—Recipients of fellowships 
+16
+under the Computational Science Graduate Fellow-
+17
+ship program described in paragraph (1) shall be se-
+18
+lected from among citizens, nationals, and lawfully 
+19
+admitted permanent resident aliens of the United 
+20
+States.’’. 
+21
+(2) FUNDING.—From the funds authorized to 
+22
+be appropriated for the Advanced Scientific Com-
+23
+puting Research program of the Department’s Office 
+24
+of Science, the Secretary shall make available for 
+25
+22:20 Jun 15, 2021
+H3284
+8 
+•HR 3284 IH
+carrying out the activities under section 304(i) of 
+1
+the Department of Energy Research and Innovation 
+2
+Act (42 U.S.C. 18642(i))— 
+3
+(A) $21,000,000 for fiscal year 2022; 
+4
+(B) $22,050,000 for fiscal year 2023; 
+5
+(C) $23,152,500 for fiscal year 2024; and 
+6
+(D) 24,310,125 for fiscal year 2025. 
+7
+(d) APPLIED MATHEMATICS AND SOFTWARE DEVEL-
+8
+OPMENT.—Section 304(d) of the Department of Energy 
+9
+Research and Innovation Act (42 U.S.C. 18642(d)), as re-
+10
+designated by subsection (a)(1), is amended to read as fol-
+11
+lows: 
+12
+‘‘(d) APPLIED MATHEMATICS AND SOFTWARE DE-
+13
+VELOPMENT FOR HIGH-END COMPUTING SYSTEMS, COM-
+14
+PUTATIONAL, AND COMPUTER SCIENCES RESEARCH.— 
+15
+‘‘(1) IN GENERAL.—The Director shall carry 
+16
+out activities to develop, test, and support— 
+17
+‘‘(A) mathematics, models, statistics, and 
+18
+algorithms for modeling complex systems on ad-
+19
+vanced computing architectures; and 
+20
+‘‘(B) tools, languages, programming envi-
+21
+ronments, and operations for high-end com-
+22
+puting systems (as defined in section 2 of the 
+23
+American Super Computing Leadership Act (15 
+24
+U.S.C. 5541)). 
+25
+22:20 Jun 15, 2021
+H3284
+9 
+•HR 3284 IH
+‘‘(2) PORTFOLIO BALANCE.—The Director shall 
+1
+maintain a balanced portfolio within the advanced 
+2
+scientific computing research and development pro-
+3
+gram established under section 976 of the Energy 
+4
+Policy Act of 2005 (42 U.S.C. 16316) that supports 
+5
+robust investment in— 
+6
+‘‘(A) applied mathematical, computational, 
+7
+and computer sciences research needs relevant 
+8
+to the mission of the Department, including ac-
+9
+tivities related to data science, artificial intel-
+10
+ligence, scientific machine learning, quantum 
+11
+information science, and other emerging areas; 
+12
+and 
+13
+‘‘(B) associated high-performance com-
+14
+puting hardware and facilities.’’. 
+15
+Æ 
+22:20 Jun 15, 2021
+H3284

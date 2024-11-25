@@ -1,0 +1,970 @@
+A BILL 
+To amend the Internal Revenue Code of 1986 to establish 
+a border carbon adjustment for the importation of cer-
+tain goods. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Fair, Affordable, Inno-
+4
+vative, and Resilient Transition and Competition Act’’ or 
+5
+the ‘‘FAIR Transition and Competition Act’’. 
+6
+01:25 Jul 31, 2021
+H4534
+2 
+•HR 4534 IH
+SEC. 2. BORDER CARBON ADJUSTMENT. 
+1
+The Internal Revenue Code of 1986 is amended by 
+2
+adding at the end the following new subtitle: 
+3
+‘‘Subtitle L—Border Carbon 
+4
+Adjustment 
+5
+‘‘CHAPTER 101—BORDER CARBON ADJUSTMENT 
+‘‘CHAPTER 101—BORDER CARBON 
+6
+ADJUSTMENT 
+7
+‘‘Sec. 9901. Definitions. 
+‘‘Sec. 9902. Determination of domestic environmental cost incurred. 
+‘‘Sec. 9903. Determination of emissions for each sector. 
+‘‘Sec. 9904. Border carbon adjustment. 
+‘‘Sec. 9905. Administration of border carbon adjustment. 
+‘‘Sec. 9906. Allocation of carbon border fee adjustment revenues. 
+‘‘SEC. 9901. DEFINITIONS. 
+8
+‘‘For purposes of this subtitle: 
+9
+‘‘(1) ADMINISTRATOR.—The term ‘Adminis-
+10
+trator’ means the Administrator of the Environ-
+11
+mental Protection Agency. 
+12
+‘‘(2) BASELINE EMISSIONS.—The term ‘baseline 
+13
+emissions’ means the average greenhouse gas emis-
+14
+sions of a company’s relevant sector, as determined 
+15
+under section 9903(a). 
+16
+‘‘(3) 
+BENCHMARK
+EMISSIONS.—The 
+term 
+17
+‘benchmark emissions’ means the greenhouse gas 
+18
+emissions of the highest emitting sites within a com-
+19
+pany’s relevant sector in the United States, as deter-
+20
+mined under section 9903(b). 
+21
+01:25 Jul 31, 2021
+H4534
+3 
+•HR 4534 IH
+‘‘(4) BORDER
+CARBON
+ADJUSTMENT.—The 
+1
+term ‘border carbon adjustment’ means the fee im-
+2
+posed pursuant to section 9904. 
+3
+‘‘(5) CO2-e.—The term ‘CO2-e’ means the num-
+4
+ber of metric tons of carbon dioxide emissions with 
+5
+the same global warming potential as one metric ton 
+6
+of another greenhouse gas. 
+7
+‘‘(6) COVERED FUEL.—The term ‘covered fuel’ 
+8
+means natural gas, petroleum, coal, or any other 
+9
+product derived from natural gas, petroleum, or coal 
+10
+that is used or may be used so as to emit green-
+11
+house gases to the atmosphere. 
+12
+‘‘(7) COVERED GOOD.—The term ‘covered good’ 
+13
+means a covered fuel or a product produced within 
+14
+a sector. 
+15
+‘‘(8) DOMESTIC
+ENVIRONMENTAL
+COST
+IN-
+16
+CURRED.—The term ‘domestic environmental cost 
+17
+incurred’ means the amount determined under sec-
+18
+tion 9902. 
+19
+‘‘(9) GREENHOUSE GAS.—The term ‘greenhouse 
+20
+gas’ has the same meaning given such term under 
+21
+paragraph (3) of section 901 of the Energy Inde-
+22
+pendence and Security Act of 2007 (42 U.S.C. 
+23
+17321). 
+24
+01:25 Jul 31, 2021
+H4534
+4 
+•HR 4534 IH
+‘‘(10) GREENHOUSE GAS CONTENT.—The term 
+1
+‘greenhouse gas content’ means the amount of 
+2
+greenhouse gases, expressed in metric tons of CO2- 
+3
+e, which would be emitted to the atmosphere by the 
+4
+use of a covered fuel. 
+5
+‘‘(11) IMPORTED.—Irrespective of any other 
+6
+definition in law or treaty, the term ‘imported’ 
+7
+means to have landed on, brought into, or intro-
+8
+duced into any place subject to the jurisdiction of 
+9
+the United States from a person or place outside the 
+10
+United States. 
+11
+‘‘(12) IMPORTER.—The term ‘importer’ means 
+12
+a person who, for any reason, brings a product from 
+13
+a foreign country into the United States for con-
+14
+sumption, use, or warehousing. 
+15
+‘‘(13) PRODUCTION
+GREENHOUSE
+GAS
+EMIS-
+16
+SIONS.—The term ‘production greenhouse gas emis-
+17
+sions’ means the quantity of greenhouse gases, ex-
+18
+pressed in metric tons of CO2-e, emitted to the at-
+19
+mosphere resulting from the production, manufac-
+20
+ture, or assembly of a product, as determined under 
+21
+section 9905. 
+22
+‘‘(14) 
+SECRETARY.—The 
+term 
+‘Secretary’ 
+23
+means the Secretary of the Treasury, or the Sec-
+24
+retary’s delegate. 
+25
+01:25 Jul 31, 2021
+H4534
+5 
+•HR 4534 IH
+‘‘(15) SECTOR.—The term ‘sector’ means in-
+1
+dustrial facilities which produce one of the following 
+2
+products: 
+3
+‘‘(A) Steel. 
+4
+‘‘(B) Aluminum. 
+5
+‘‘(C) Cement. 
+6
+‘‘(D) Iron. 
+7
+‘‘(E) Any product identified pursuant to 
+8
+section 9905(e). 
+9
+‘‘(F) Any product for which greater than 
+10
+50 percent the composition of such product con-
+11
+sist of a product described in subparagraphs 
+12
+(A) through (E). 
+13
+‘‘(16) STATE.—The term ‘State’ means any of 
+14
+the 50 States, the District of Columbia, or the Com-
+15
+monwealth of Puerto Rico. 
+16
+‘‘(17) UPSTREAM
+GREENHOUSE
+GAS
+EMIS-
+17
+SIONS.—The term ‘upstream greenhouse gas emis-
+18
+sions’ means the quantity of greenhouse gases, ex-
+19
+pressed in metric tons of CO2-e, emitted to the at-
+20
+mosphere resulting from the extraction, processing, 
+21
+transportation, financing, or other preparation of a 
+22
+covered fuel for use, as determined under section 
+23
+9905. 
+24
+01:25 Jul 31, 2021
+H4534
+6 
+•HR 4534 IH
+‘‘SEC. 9902. DETERMINATION OF DOMESTIC ENVIRON-
+1
+MENTAL COST INCURRED. 
+2
+‘‘Not later than July 1, 2023, and annually there-
+3
+after, the Secretary (in coordination with the Director of 
+4
+the Office of Management and Budget, the Secretary of 
+5
+Commerce, the Secretary of Energy, the Administrator, 
+6
+the Secretary of Agriculture, the Secretary of Transpor-
+7
+tation, the United States Trade Representative, and the 
+8
+Secretary of the Interior) shall determine the domestic en-
+9
+vironmental cost incurred for each sector, and for the pro-
+10
+duction of each covered fuel, based on the average cost 
+11
+incurred by companies within such sector (or, in the case 
+12
+of a covered fuel, the average cost incurred to produce 
+13
+such fuel) to comply with any Federal, State, regional, or 
+14
+local law, regulation, policy or program which is— 
+15
+‘‘(1) in effect at the time of such determination, 
+16
+including any such law, regulation, policy, or pro-
+17
+gram which is implemented after the date of enact-
+18
+ment of the FAIR Transition and Competition Act, 
+19
+and 
+20
+‘‘(2) designed to limit or reduce greenhouse gas 
+21
+emissions, including— 
+22
+‘‘(A) the Clean Air Act (42 U.S.C. 7401), 
+23
+‘‘(B) greenhouse gas emissions standards 
+24
+for passenger cars and light trucks, and 
+25
+01:25 Jul 31, 2021
+H4534
+7 
+•HR 4534 IH
+‘‘(C) any State, regional, or local law, reg-
+1
+ulation, policy, or program that imposes a cap- 
+2
+and-trade system with respect to, or a tax or 
+3
+fee on, carbon dioxide. 
+4
+‘‘SEC. 9903. DETERMINATION OF EMISSIONS FOR EACH SEC-
+5
+TOR. 
+6
+‘‘(a) BASELINE EMISSIONS.—Not later than July 1, 
+7
+2023, and annually thereafter, the Administrator shall de-
+8
+termine and publish the average greenhouse gas emissions 
+9
+of each sector during the prior calendar year in order to 
+10
+demonstrate the amount of progress made in reducing 
+11
+greenhouse gas emissions in the United States. 
+12
+‘‘(b) BENCHMARK EMISSIONS.—Not later than July 
+13
+1, 2023, and annually thereafter, the Administrator shall 
+14
+determine and publish the production greenhouse gas 
+15
+emissions for the top 1 percent of the emitting production 
+16
+sites within each sector in the United States during the 
+17
+prior calendar year. 
+18
+‘‘SEC. 9904. BORDER CARBON ADJUSTMENT. 
+19
+‘‘(a) BORDER CARBON ADJUSTMENT.—Beginning on 
+20
+January 1, 2024, in the case of any importer that imports 
+21
+a covered good into the United States, there shall be im-
+22
+posed a fee— 
+23
+‘‘(1) in the case of a covered fuel, in an amount 
+24
+equal to the product of— 
+25
+01:25 Jul 31, 2021
+H4534
+8 
+•HR 4534 IH
+‘‘(A) the domestic environmental cost in-
+1
+curred in the production of such fuel, multiplied 
+2
+by 
+3
+‘‘(B) the upstream greenhouse gas emis-
+4
+sions of such fuel, 
+5
+‘‘(2) in the case of a product produced within 
+6
+a sector which is not a covered fuel, in an amount 
+7
+equal to the product of— 
+8
+‘‘(A) the domestic environmental cost in-
+9
+curred for the sector in which such product was 
+10
+produced, multiplied by 
+11
+‘‘(B) the production greenhouse gas emis-
+12
+sions of the product, or 
+13
+‘‘(3) in the case of a product produced within 
+14
+a sector for which reliable data with respect to the 
+15
+production greenhouse gas emissions of such product 
+16
+is not available, in an amount equal to the product 
+17
+of— 
+18
+‘‘(A) the benchmark emissions for the sec-
+19
+tor which produced such product, multiplied by 
+20
+‘‘(B) the domestic environmental cost in-
+21
+curred for the sector in which such product was 
+22
+produced. 
+23
+‘‘(b) EXEMPTIONS.— 
+24
+01:25 Jul 31, 2021
+H4534
+9 
+•HR 4534 IH
+‘‘(1) IN
+GENERAL.—Not later than July 1, 
+1
+2023, and annually thereafter, the Secretary shall 
+2
+publish an annual report which identifies all applica-
+3
+ble countries, with any covered good imported from 
+4
+an applicable country during the calendar year be-
+5
+ginning after the date of publication of such report 
+6
+to be exempt from the border carbon adjustment. 
+7
+‘‘(2) APPLICABLE
+COUNTRIES.—For purposes 
+8
+of this subsection, the term ‘applicable country’ 
+9
+means— 
+10
+‘‘(A) any country included on the list of 
+11
+Least Developed Countries on the most recent 
+12
+Development Assistance Committee List of Of-
+13
+ficial Development Assistance Recipients pub-
+14
+lished by the Organisation for Economic Co-op-
+15
+eration and Development, and 
+16
+‘‘(B) any country which— 
+17
+‘‘(i) does not impose a border carbon 
+18
+adjustment on products produced or manu-
+19
+factured in the United States, and 
+20
+‘‘(ii) the Secretary (in coordination 
+21
+with the Secretary of State, the United 
+22
+States Trade Representative, the Secretary 
+23
+of Commerce, the Secretary of Energy, the 
+24
+Administrator, the Secretary of Agri-
+25
+01:25 Jul 31, 2021
+H4534
+10 
+•HR 4534 IH
+culture, the Secretary of Transportation, 
+1
+and the Secretary of the Interior) deter-
+2
+mines enforces laws and regulations de-
+3
+signed to limit or reduce greenhouse gas 
+4
+emissions that are at least as ambitious as 
+5
+Federal laws and regulations designed to 
+6
+limit or reduce greenhouse gas emissions. 
+7
+‘‘SEC. 9905. ADMINISTRATION OF BORDER CARBON ADJUST-
+8
+MENT. 
+9
+‘‘(a) IN GENERAL.—The Secretary (in consultation 
+10
+with the Administrator, the United States Trade Rep-
+11
+resentative, and the Secretary of Homeland Security) shall 
+12
+prescribe regulations and guidance to implement the bor-
+13
+der carbon adjustment. 
+14
+‘‘(b) METHODOLOGY.—In determining the production 
+15
+greenhouse gas emissions of a covered good, the Secretary 
+16
+shall use reliable methodologies which— 
+17
+‘‘(1) as may be necessary or convenient— 
+18
+‘‘(A) distinguish between different types of 
+19
+covered fuels, 
+20
+‘‘(B) distinguish between a covered fuel’s 
+21
+greenhouse gas content and that covered fuel’s 
+22
+upstream greenhouse gas emissions, 
+23
+‘‘(C) distinguish between the different 
+24
+types of greenhouse gas emissions which com-
+25
+01:25 Jul 31, 2021
+H4534
+11 
+•HR 4534 IH
+pose a covered fuel’s upstream greenhouse gas 
+1
+emissions, as well as the various processes 
+2
+which produced those emissions, and 
+3
+‘‘(D) distinguish between the different 
+4
+types of greenhouse gas emissions which com-
+5
+pose a covered good’s production greenhouse 
+6
+gas emissions, as well as the various processes 
+7
+which produced those emissions, 
+8
+‘‘(2) ensure that no covered good has the bor-
+9
+der carbon adjustment imposed upon it more than 
+10
+once, and 
+11
+‘‘(3) are consistent with international treaties 
+12
+and agreements, including free trade agreements. 
+13
+‘‘(c) PETITION PROCEDURE.—The Secretary shall es-
+14
+tablish fair, timely, impartial, and, to the extent necessary, 
+15
+confidential procedures by which the importer of any cov-
+16
+ered good may petition the Secretary to revise the Sec-
+17
+retary’s determination of the production greenhouse gas 
+18
+emissions of that importer’s covered good. 
+19
+‘‘(d) INTERNATIONAL
+NEGOTIATIONS.—The Sec-
+20
+retary of State and the United States Trade Representa-
+21
+tive shall engage with other countries regarding reducing 
+22
+global greenhouse gas emissions through trade and ensur-
+23
+ing fairness in the application of emissions-based tariffs. 
+24
+01:25 Jul 31, 2021
+H4534
+12 
+•HR 4534 IH
+‘‘(e) ADDITIONAL SECTORS.—The Secretary (in con-
+1
+sultation with the Director of the Office of Management 
+2
+and Budget, the Secretary of Commerce, the Secretary of 
+3
+Energy, the Administrator, the Secretary of Agriculture, 
+4
+the Secretary of Transportation, the Secretary of the Inte-
+5
+rior, and the United States Trade Representative) shall, 
+6
+for purposes of section 9901(15)(C), annually identify any 
+7
+product for which the Secretary determines— 
+8
+‘‘(1) there is reliable data for determining the 
+9
+production greenhouse gas emissions of such prod-
+10
+uct, and 
+11
+‘‘(2) that it is in the interest of the United 
+12
+States to include such product under section 
+13
+9901(15) for purposes of application of the border 
+14
+carbon adjustment with respect to such product. 
+15
+‘‘SEC. 9906. ALLOCATION OF CARBON BORDER FEE ADJUST-
+16
+MENT REVENUES. 
+17
+‘‘With respect to the revenues collected under section 
+18
+9904— 
+19
+‘‘(1) such revenues shall be used to supplement 
+20
+appropriations made available in fiscal year 2024 
+21
+and each fiscal year thereafter to U.S. Customs and 
+22
+Border Protection, in such amounts as are necessary 
+23
+to administer the border carbon adjustment, and 
+24
+01:25 Jul 31, 2021
+H4534
+13 
+•HR 4534 IH
+‘‘(2) from any amounts remaining following any 
+1
+supplemental appropriation made with respect to 
+2
+amounts described in paragraph (1)— 
+3
+‘‘(A) 50 percent of such amounts remain-
+4
+ing shall be used to provide grants to States as 
+5
+prescribed in section 3 of the FAIR Transition 
+6
+and Competition Act, and 
+7
+‘‘(B) 50 percent of such amounts remain-
+8
+ing shall be available, as provided by appropria-
+9
+tion Acts, for making expenditures to support 
+10
+the high-impact research, development, dem-
+11
+onstration, technology transfer, commercializa-
+12
+tion, and export of technologies that reduce or 
+13
+eliminate greenhouse gas emissions.’’. 
+14
+SEC. 3. RESILIENT COMMUNITIES GRANT PROGRAM. 
+15
+(a) IN GENERAL.—The Secretary shall provide to 
+16
+each State a Resilient Communities Grant no later than 
+17
+April 1, 2025, and each calendar year thereafter, in an 
+18
+amount determined under subsection (c). 
+19
+(b) ELIGIBLE PURPOSES.—A State receiving a Resil-
+20
+ient Communities Grant under this section shall use the 
+21
+amount of each such grant as follows: 
+22
+(1) To provide job training and worker transi-
+23
+tion assistance, with priority given to workers and 
+24
+former workers in fossil fuel-related industries. 
+25
+01:25 Jul 31, 2021
+H4534
+14 
+•HR 4534 IH
+(2) To assist municipalities, counties, or other 
+1
+political subdivisions of the State in— 
+2
+(A) developing climate vulnerability assess-
+3
+ments and adaptation plans to help build resil-
+4
+ience to rapid-onset and slow-onset climate haz-
+5
+ards; and 
+6
+(B) implementing such plans, which may 
+7
+include but are not limited to such projects as 
+8
+climate-smart infrastructure, agricultural cli-
+9
+mate solutions, and natural climate solutions to 
+10
+build climate resilience and support carbon se-
+11
+questration. 
+12
+(3) To directly assist frontline communities who 
+13
+are experiencing the earliest, most severe threats 
+14
+from climate change with technical assistance and 
+15
+resources to undertake efforts to build climate resil-
+16
+ience. 
+17
+(4) Alleviate historical burdens imposed upon 
+18
+communities of color, low-income communities, Trib-
+19
+al and Indigenous communities, fossil fuel-dependent 
+20
+communities, and other vulnerable populations that 
+21
+have been historically under-resourced due to inequi-
+22
+ties in resource allocation or disproportionately bur-
+23
+dened by environmental hazards, including exposure 
+24
+01:25 Jul 31, 2021
+H4534
+15 
+•HR 4534 IH
+to climate risks and polluted air, waterways, and 
+1
+landscapes. 
+2
+(5) To provide relocation assistance to individ-
+3
+uals and populations when climate change or the en-
+4
+ergy transition threatens their health, well-being, or 
+5
+livelihood. 
+6
+(6) To assist small businesses that are dis-
+7
+proportionately impacted by the border carbon ad-
+8
+justment imposed under subtitle L of the Internal 
+9
+Revenue Code of 1986 (as added by section 2 of this 
+10
+Act). 
+11
+(c) AMOUNT OF GRANT.— 
+12
+(1) IN GENERAL.—The amount of the Resilient 
+13
+Communities Grant made to any State for any cal-
+14
+endar year shall be equal to the product of— 
+15
+(A) the total amount made available under 
+16
+section 9906(2)(A) of the Internal Revenue 
+17
+Code of 1986 (as added by this Act) based on 
+18
+revenue collected in the prior calendar year; and 
+19
+(B) the State allocation percentage for the 
+20
+State (as determined under paragraph (2)). 
+21
+(2) STATE
+ALLOCATION
+PERCENTAGE.—Not 
+22
+later than December 1, 2024, and each calendar 
+23
+year thereafter, the Secretary (in coordination with 
+24
+the Administrator of the Environmental Protection 
+25
+01:25 Jul 31, 2021
+H4534
+16 
+•HR 4534 IH
+Agency, the Secretary of Commerce, the Secretary of 
+1
+Labor, the Secretary of Homeland Security, the Sec-
+2
+retary of Transportation, the Secretary of Agri-
+3
+culture, and the Secretary of Energy) shall establish 
+4
+the formula for determining the State allocation per-
+5
+centage for the following calendar year, which, for 
+6
+each State, shall take into account— 
+7
+(A) the percentage of the population of the 
+8
+United States residing in such State; 
+9
+(B) the vulnerability of such state to cli-
+10
+mate change; and 
+11
+(C) the percentage of the total United 
+12
+States workforce employed in fossil fuel related 
+13
+industries who are employed in such industries 
+14
+in such State. 
+15
+(3) CLIMATE VULNERABILITY.—In accounting 
+16
+for the vulnerability of each State to climate change 
+17
+under paragraph (2)(B) for the purposes of deter-
+18
+mining the State allocation percentage, the parties 
+19
+identified in paragraph (2) shall— 
+20
+(A) at a minimum, consider the potential 
+21
+risks from rapid-onset and slow-onset climate 
+22
+hazards to— 
+23
+(i) human health and safety; 
+24
+01:25 Jul 31, 2021
+H4534
+17 
+•HR 4534 IH
+(ii) infrastructure and other physical 
+1
+assets; and 
+2
+(iii) natural and agricultural systems; 
+3
+(B) account for the disproportionate im-
+4
+pact of climate change on socially vulnerable 
+5
+communities; 
+6
+(C) ensure the methods for determining 
+7
+climate vulnerability do not result in a formula 
+8
+for State allocation that inequitably allocates 
+9
+resources to specific communities based on race, 
+10
+socioeconomic status, or other such characteris-
+11
+tics; and 
+12
+(D) utilize relevant components of existing 
+13
+metrics and indicators of climate vulnerability 
+14
+in the United States wherever possible, includ-
+15
+ing but not limited to— 
+16
+(i) the FEMA National Risk Index; 
+17
+and 
+18
+(ii) over the past 5 years, the State’s 
+19
+proportion of— 
+20
+(I) National Flood Insurance 
+21
+Program claims; 
+22
+(II) Fire Mitigation Assistance 
+23
+Grants; and 
+24
+01:25 Jul 31, 2021
+H4534
+18 
+•HR 4534 IH
+(III) USDA fast track drought 
+1
+designations. 
+2
+(4) MINIMUM
+STATE
+ALLOCATION.—For pur-
+3
+poses of subparagraph (B), the State allocation per-
+4
+centage for any State shall not be less than 1 per-
+5
+cent. 
+6
+(5) VERIFICATION.—The Secretary shall verify 
+7
+the State use of grants under this subsection to en-
+8
+sure such uses comply with the requirements of this 
+9
+section. The Secretary may withhold a grant under 
+10
+this subsection if the Secretary determines that a 
+11
+State has not complied with such requirements. 
+12
+(d) DEFINITIONS.—In this section: 
+13
+(1) SECRETARY.—The term ‘‘Secretary’’ means 
+14
+the Secretary of the Treasury or the Secretary’s del-
+15
+egate. 
+16
+(2) SLOW-ONSET CLIMATE HAZARD.—The term 
+17
+‘‘slow-onset climate hazard’’ means a threat from 
+18
+climate change that evolves gradually due to incre-
+19
+mental change or because of an increasing frequency 
+20
+or intensity of recurring climate impacts, includ-
+21
+ing— 
+22
+(A) sea level rise; 
+23
+(B) desertification; 
+24
+(C) biodiversity loss; 
+25
+01:25 Jul 31, 2021
+H4534
+19 
+•HR 4534 IH
+(D) increasing temperatures; 
+1
+(E) ocean acidification; 
+2
+(F) soil salinization; 
+3
+(G) drought; 
+4
+(H) land and natural resource degradation; 
+5
+(I) glacial retreat or reduced snow pack, 
+6
+and related impacts; and 
+7
+(J) permafrost thaw. 
+8
+(3) STATE.—The term ‘‘State’’ means any of 
+9
+the 50 States, the District of Columbia, or the Com-
+10
+monwealth of Puerto Rico. 
+11
+Æ 
+01:25 Jul 31, 2021
+H4534

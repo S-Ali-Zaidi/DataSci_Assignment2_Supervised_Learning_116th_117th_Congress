@@ -1,0 +1,575 @@
+A BILL 
+To amend title 38, United States Code, to improve the 
+management of information technology projects and in-
+vestments of the Department of Veterans Affairs, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Department of Vet-
+4
+erans Affairs Information Technology Reform Act of 
+5
+2021’’. 
+6
+23:16 Jun 21, 2021
+H2250
+2 
+•HR 2250 IH
+SEC. 2. MANAGEMENT OF MAJOR INFORMATION TECH-
+1
+NOLOGY PROJECTS. 
+2
+(a) IN GENERAL.—Chapter 81 of title 38, United 
+3
+States Code, is amended by adding at the end the fol-
+4
+lowing new subchapter: 
+5
+‘‘SUBCHAPTER VI—INFORMATION 
+6
+TECHNOLOGY PROJECTS AND ACTIVITIES 
+7
+‘‘§ 8171. Definitions 
+8
+‘‘In this subchapter: 
+9
+‘‘(1) The term ‘appropriate congressional com-
+10
+mittees’ means— 
+11
+‘‘(A) the Committees on Veterans’ Affairs 
+12
+of the House of Representatives and the Sen-
+13
+ate; and 
+14
+‘‘(B) the Subcommittees on Military Con-
+15
+struction, Veterans Affairs and Related Agen-
+16
+cies of the House of Representatives and the 
+17
+Senate. 
+18
+‘‘(2) The term ‘information technology’ has the 
+19
+meaning given that term in section 11101 of title 
+20
+40. 
+21
+‘‘(3) The term ‘life cycle costs’ means all direct 
+22
+and indirect costs to acquire, implement, operate, 
+23
+and maintain an information technology system. 
+24
+‘‘(4) The term ‘major information technology 
+25
+project’ means a project or program of the Depart-
+26
+23:16 Jun 21, 2021
+H2250
+3 
+•HR 2250 IH
+ment of Veterans Affairs (including a project or pro-
+1
+gram of any element of the Department) for, or in-
+2
+cluding, the acquisition or implementation of an in-
+3
+formation technology system if— 
+4
+‘‘(A) the project or program is des-
+5
+ignated— 
+6
+‘‘(i) by the Secretary of Veterans Af-
+7
+fairs or the Chief Information Officer of 
+8
+the Department as a major information 
+9
+technology project; or 
+10
+‘‘(ii) by the Director of the Office of 
+11
+Management and Budget as a major infor-
+12
+mation technology investment, as defined 
+13
+in section 11302 of title 40; 
+14
+‘‘(B) the dollar value of the project or pro-
+15
+gram is estimated by the Secretary to exceed— 
+16
+‘‘(i) $50,000,000 (as adjusted for in-
+17
+flation pursuant to section 1908 of title 
+18
+41) for all project or program costs in a 
+19
+single fiscal year; 
+20
+‘‘(ii) $200,000,000 (as adjusted for 
+21
+inflation pursuant to section 1908 of title 
+22
+41) for all project acquisition or implemen-
+23
+tation costs for the duration of the project 
+24
+or program; or 
+25
+23:16 Jun 21, 2021
+H2250
+4 
+•HR 2250 IH
+‘‘(iii) $500,000,000 (as adjusted for 
+1
+inflation pursuant to section 1908 of title 
+2
+41) for the total life cycle costs of the 
+3
+project or program; or 
+4
+‘‘(C) any increment of the project or pro-
+5
+gram separately meets the requirements of sub-
+6
+paragraphs (A) or (B). 
+7
+‘‘§ 8172. Management of major information tech-
+8
+nology projects 
+9
+‘‘(a) COST, SCHEDULE, AND PERFORMANCE INFOR-
+10
+MATION.—The Secretary of Veterans Affairs may not obli-
+11
+gate or expend funds for any major information tech-
+12
+nology project that begins after the date of the enactment 
+13
+of this section unless the Secretary, acting through the 
+14
+Chief Information Officer, submits to the appropriate con-
+15
+gressional committees a report containing information on 
+16
+the cost, schedule, and performance of such project. Each 
+17
+such report shall include, with respect to such project, the 
+18
+following: 
+19
+‘‘(1) An estimate of acquisition, implementa-
+20
+tion, and life cycle costs. 
+21
+‘‘(2) An intended implementation schedule indi-
+22
+cating significant milestones, initial operating capa-
+23
+bility, and full operating capability or completion. 
+24
+23:16 Jun 21, 2021
+H2250
+5 
+•HR 2250 IH
+‘‘(3) Key business, functional, or performance 
+1
+objectives. 
+2
+‘‘(b) BASELINE.—(1) The Secretary shall use the in-
+3
+formation on the cost, schedule, and performance of a 
+4
+major information technology project included in the re-
+5
+port under subsection (a) as the baseline against which 
+6
+changes or variances are measured during the life cycle 
+7
+of such project. 
+8
+‘‘(2) The Secretary shall— 
+9
+‘‘(A) annually update the baseline of a major 
+10
+information technology project pursuant to sub-
+11
+section (c); and 
+12
+‘‘(B) include such updated baseline in the docu-
+13
+ments providing detailed information on the budget 
+14
+for the Department that the Secretary submits to 
+15
+Congress in conjunction with the President’s budget 
+16
+submission pursuant to section 1105 of title 31. 
+17
+‘‘(c) CHANGES AND VARIANCES.—(1) Not later than 
+18
+60 days after the date on which the Secretary identifies 
+19
+a change or variance described in paragraph (2) in the 
+20
+cost, schedule, or performance of a major information 
+21
+technology project, the Secretary, acting through the Chief 
+22
+Information Officer, shall submit to the appropriate con-
+23
+gressional committees a notification of such change or 
+24
+23:16 Jun 21, 2021
+H2250
+6 
+•HR 2250 IH
+variance, including a description and explanation for such 
+1
+change or variance. 
+2
+‘‘(2) A change or variance in the cost, schedule, or 
+3
+performance of a major information technology project de-
+4
+scribed in this paragraph is— 
+5
+‘‘(A) with respect to the acquisition, implemen-
+6
+tation, or life cycle cost of the project, or an incre-
+7
+ment therein, a change or variance that is 10 per-
+8
+cent or greater compared to the baseline; 
+9
+‘‘(B) with respect to the schedule for achieving 
+10
+a significant milestone, initial operating capability, 
+11
+or final completion of the project, a change or vari-
+12
+ance that is 180 days or greater compared to the 
+13
+baseline; or 
+14
+‘‘(C) with respect to the performance, an in-
+15
+stance where a key business, functional, or perform-
+16
+ance objective is not attained, or is not anticipated 
+17
+to be attained, in whole or in part. 
+18
+‘‘(d) MANAGEMENT.—The Secretary shall ensure 
+19
+that each major information technology project is man-
+20
+aged by an interdisciplinary team including the following: 
+21
+‘‘(1) A project manager who is— 
+22
+‘‘(A) certified in project management at 
+23
+level three by the Department or the Depart-
+24
+ment of Defense pursuant to section 1701a of 
+25
+23:16 Jun 21, 2021
+H2250
+7 
+•HR 2250 IH
+title 10, or who holds an equivalent certification 
+1
+by a private sector project management certifi-
+2
+cation organization, as determined appropriate 
+3
+by the Secretary; and 
+4
+‘‘(B) an employee of the Office of Informa-
+5
+tion and Technology of the Department or an 
+6
+employee of an element of the Department at 
+7
+which the project originates. 
+8
+‘‘(2) A functional lead who is an employee of 
+9
+the element of the Department at which the project 
+10
+originates. 
+11
+‘‘(3) A technical lead who is an employee of the 
+12
+Office of Information and Technology of the Depart-
+13
+ment. 
+14
+‘‘(4) A contracting officer. 
+15
+‘‘(5) Sufficient other project management, func-
+16
+tional, technical, and procurement personnel as the 
+17
+Secretary determines appropriate. 
+18
+‘‘§ 8173. Information technology activities of the Fi-
+19
+nancial Services Center 
+20
+‘‘(a) MANAGEMENT.—Consistent with sections 11302 
+21
+and 11319 of title 40— 
+22
+‘‘(1) the Chief Information Officer of the De-
+23
+partment shall— 
+24
+23:16 Jun 21, 2021
+H2250
+8 
+•HR 2250 IH
+‘‘(A) exercise authority over the manage-
+1
+ment, governance, and oversight processes relat-
+2
+ing to information technology of the Financial 
+3
+Services Center of the Department, or such suc-
+4
+cessor office; and 
+5
+‘‘(B) supervise the information technology 
+6
+employees and contractors of the Financial 
+7
+Services Center; and 
+8
+‘‘(2) the Director of the Financial Services Cen-
+9
+ter of the Department, or the head of such successor 
+10
+office, may not enter into a contract or other agree-
+11
+ment for information technology or information tech-
+12
+nology services unless the contract or other agree-
+13
+ment has been reviewed and approved by the Chief 
+14
+Information Officer. 
+15
+‘‘(b) OVERSIGHT.—The Chief Information Officer 
+16
+shall have oversight and operational authority over all in-
+17
+formation security practices of the Financial Services Cen-
+18
+ter of the Department. 
+19
+‘‘§ 8174. Submission of annual reviews of information 
+20
+technology 
+21
+‘‘The Secretary, acting through the Chief Informa-
+22
+tion Officer, shall submit to the appropriate congressional 
+23
+committees each annual review of the information tech-
+24
+nology portfolio of the Department conducted pursuant to 
+25
+23:16 Jun 21, 2021
+H2250
+9 
+•HR 2250 IH
+section 11319(d)(3) of title 40. The first such annual re-
+1
+view so submitted shall include a copy of each previous 
+2
+annual review conducted under such section.’’. 
+3
+(b) CLERICAL AMENDMENT.—The table of sections 
+4
+at the beginning of such chapter is amended by adding 
+5
+at the end the following: 
+6
+‘‘SUBCHAPTER VI—INFORMATION TECHNOLOGY PROJECTS AND ACTIVITIES 
+‘‘8171. Definitions. 
+‘‘8172. Management of major information technology projects. 
+‘‘8173. Information technology activities of the Financial Services Center. 
+‘‘8174. Submission of annual reviews of information technology.’’. 
+(c) APPLICATION; REPORT.— 
+7
+(1) CURRENT AND NEW PROJECTS.—Except as 
+8
+specifically provided in subsection (a) of section 
+9
+8172 of title 38, United States Code, as added by 
+10
+subsection (a) of this section, such section 8172 
+11
+shall apply with respect to major information tech-
+12
+nology projects that begin before, on, or after the 
+13
+date of the enactment of this Act. 
+14
+(2) REPORT ON CURRENT PROJECTS.— 
+15
+(A) REQUIREMENT.—Not later than 90 
+16
+days after the date of the enactment of this 
+17
+Act, the Secretary of Veterans Affairs shall 
+18
+submit to the appropriate congressional com-
+19
+mittees a report on each major information 
+20
+technology project that the Secretary is car-
+21
+rying out as of the date of the report. The re-
+22
+23:16 Jun 21, 2021
+H2250
+10 
+•HR 2250 IH
+port shall contain, with respect to each such 
+1
+project, information on the cost, schedule, and 
+2
+performance of such project as described in 
+3
+subsection (a) of such section 8172. 
+4
+(B) DEFINITIONS.—In this subsection, the 
+5
+terms ‘‘appropriate congressional committees’’ 
+6
+and ‘‘major information technology project’’ 
+7
+have the meanings given those terms in section 
+8
+8171 of title 38, United States Code, as added 
+9
+by subsection (a) of this section. 
+10
+SEC. 3. ASSESSMENT OF SUITABILITY OF CLOUD MIGRA-
+11
+TION INVESTMENTS. 
+12
+(a) ASSESSMENT.—Not later than one year after the 
+13
+date of the enactment of this Act, the Secretary of Vet-
+14
+erans Affairs, acting through the Chief Information Offi-
+15
+cer of the Department of Veterans Affairs, shall conduct 
+16
+an assessment, in accordance with guidance from the Of-
+17
+fice of Management and Budget, of all information tech-
+18
+nology investments of the Department of Veterans Affairs 
+19
+to determine the suitability of the investments for migra-
+20
+tion to a cloud computing service. 
+21
+(b) CONSISTENT MECHANISM.—The Secretary, act-
+22
+ing through the Chief Information Officer, shall establish 
+23
+a consistent and repeatable mechanism to track savings 
+24
+and cost avoidances from the— 
+25
+23:16 Jun 21, 2021
+H2250
+11 
+•HR 2250 IH
+(1) migration of information technology invest-
+1
+ments to cloud computing services; and 
+2
+(2) deployment of cloud computing services. 
+3
+SEC. 4. REPORT ON INFORMATION TECHNOLOGY DASH-
+4
+BOARD INFORMATION. 
+5
+(a) REPORT.—Not later than 90 days after the date 
+6
+of the enactment of this Act, the Secretary, acting through 
+7
+the Chief Information Officer, shall submit to the appro-
+8
+priate congressional committees a report containing— 
+9
+(1) an explanation of the ratings, rankings, and 
+10
+risk categorizations used by the Chief Information 
+11
+Officer pursuant to subparagraph (C) of section 
+12
+11302(c)(3) of title 40, United States Code, with re-
+13
+spect to the information technology dashboard of the 
+14
+Office of Management and Budget developed under 
+15
+such section; and 
+16
+(2) copies of supporting or explanatory informa-
+17
+tion provided by the Chief Information Officer to the 
+18
+Office of Management and Budget with respect to 
+19
+submissions by the Chief Information Officer to the 
+20
+information technology dashboard for the fiscal year 
+21
+in which the report is submitted (other than infor-
+22
+mation not otherwise made public pursuant to such 
+23
+section). 
+24
+23:16 Jun 21, 2021
+H2250
+12 
+•HR 2250 IH
+(b) APPROPRIATE
+CONGRESSIONAL
+COMMITTEES 
+1
+DEFINED.—In section, the term ‘‘appropriate congres-
+2
+sional committees’’ means— 
+3
+(1) the Committees on Veterans’ Affairs of the 
+4
+House of Representatives and the Senate; and 
+5
+(2) the Subcommittees on Military Construc-
+6
+tion, Veterans Affairs and Related Agencies of the 
+7
+House of Representatives and the Senate. 
+8
+Æ 
+23:16 Jun 21, 2021
+H2250

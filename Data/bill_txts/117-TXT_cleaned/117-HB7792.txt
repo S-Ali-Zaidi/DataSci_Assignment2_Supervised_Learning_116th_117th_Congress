@@ -1,0 +1,854 @@
+A BILL 
+To provide for a national water data framework, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Water Data Act’’. 
+4
+SEC. 2. DEFINITIONS. 
+5
+In this Act: 
+6
+03:51 May 20, 2022
+H7792
+2 
+•HR 7792 IH
+(1) ADVISORY COMMITTEE.—The term ‘‘Advi-
+1
+sory Committee’’ means the Advisory Committee on 
+2
+Water Information established by section 5(a). 
+3
+(2) COUNCIL.—The term ‘‘Council’’ means the 
+4
+Water Data Council established under section 4(a). 
+5
+(3) DATA STANDARDS.—The term ‘‘data stand-
+6
+ards’’ means standards relating to the manner in 
+7
+which data are to be structured, populated, and en-
+8
+coded in machine-readable formats, and made inter-
+9
+operable for data exchange. 
+10
+(4) DEPARTMENTS.—The term ‘‘Departments’’ 
+11
+means each of the following: 
+12
+(A) The Department of Agriculture. 
+13
+(B) The Department of Commerce. 
+14
+(C) The Department of Defense. 
+15
+(D) The Department of Energy. 
+16
+(E) The Department of Health and 
+17
+Human Services. 
+18
+(F) The Department of Homeland Secu-
+19
+rity. 
+20
+(G) The Department of the Interior. 
+21
+(H) The Environmental Protection Agency. 
+22
+(I) The National Aeronautics and Space 
+23
+Administration. 
+24
+03:51 May 20, 2022
+H7792
+3 
+•HR 7792 IH
+(5) INDIAN TRIBE.—The term ‘‘Indian Tribe’’ 
+1
+has the meaning given the term in section 4 of the 
+2
+Indian Self-Determination and Education Assistance 
+3
+Act (25 U.S.C. 5304). 
+4
+(6) NATIONAL
+WATER
+DATA
+FRAMEWORK.— 
+5
+The term ‘‘National Water Data Framework’’ means 
+6
+the national water data framework developed under 
+7
+section 3. 
+8
+(7) SECRETARY.—The term ‘‘Secretary’’ means 
+9
+the Secretary of the Interior. 
+10
+(8) WATER
+DATA.—The term ‘‘water data’’ 
+11
+means measurements of basic properties relating to 
+12
+the planning and management of water resources, 
+13
+including streamflow, precipitation, groundwater, 
+14
+soil moisture, snow, evaporation, water quality, and 
+15
+water use in agriculture, industry, natural systems, 
+16
+and municipal uses. 
+17
+(9) WATER DATA GRANT PROGRAM.—The term 
+18
+‘‘Water Data Grant Program’’ means the water data 
+19
+grant program established under section 6(a). 
+20
+(10) WATER
+DATA
+INFRASTRUCTURE.—The 
+21
+term ‘‘water data infrastructure’’ means an inte-
+22
+grated system of information technologies that in-
+23
+cludes common standards, formats, and tools to 
+24
+03:51 May 20, 2022
+H7792
+4 
+•HR 7792 IH
+make water data easy to find, access, and share on-
+1
+line. 
+2
+SEC. 3. NATIONAL WATER DATA FRAMEWORK. 
+3
+(a) IN GENERAL.—For the purpose of improving 
+4
+water resources management and access across the United 
+5
+States, including addressing drought, floods, and other 
+6
+water management challenges, the heads of the Depart-
+7
+ments shall jointly develop and implement a national water 
+8
+data framework for integrating, sharing, and using water 
+9
+data. 
+10
+(b) REQUIREMENTS.—In developing and imple-
+11
+menting the National Water Data Framework, the De-
+12
+partments shall— 
+13
+(1) identify and prioritize key water data need-
+14
+ed to support water resources management and 
+15
+planning, including— 
+16
+(A) water data sets, types, and associated 
+17
+metadata; and 
+18
+(B) 
+water 
+data 
+infrastructure, 
+tech-
+19
+nologies, and tools; 
+20
+(2) develop and adopt common national water 
+21
+data standards for collecting, sharing, and inte-
+22
+grating water data, infrastructure, technologies, and 
+23
+tools in consultation with States, Indian Tribes, local 
+24
+governments, and relevant bodies; 
+25
+03:51 May 20, 2022
+H7792
+5 
+•HR 7792 IH
+(3) ensure that Federal water data are made 
+1
+findable, accessible, interoperable, and reusable in 
+2
+accordance with the standards developed and adopt-
+3
+ed pursuant to this Act; 
+4
+(4) integrate water data and tools through com-
+5
+mon approaches to data infrastructure, platforms, 
+6
+models, and tool development; 
+7
+(5) establish a common, national geospatial 
+8
+index for publishing and linking water data from 
+9
+Federal, State, Tribal, and other non-Federal 
+10
+sources for online discovery; 
+11
+(6) harmonize and align policies, programs, pro-
+12
+tocols, budgets, and funding programs relating to 
+13
+water data to achieve the purposes of this Act to the 
+14
+maximum extent practicable; 
+15
+(7) participate in and coordinate water data ac-
+16
+tivities with the Council; and 
+17
+(8) support the adoption of new technologies 
+18
+and the development of tools for water data collec-
+19
+tion, sharing, and standardization by Federal, State, 
+20
+Tribal, local, and other entities. 
+21
+SEC. 4. WATER DATA COUNCIL. 
+22
+(a) IN GENERAL.—The heads of the Departments 
+23
+shall establish an interagency Council, to be known as the 
+24
+03:51 May 20, 2022
+H7792
+6 
+•HR 7792 IH
+‘‘Water Data Council’’, to support the development and 
+1
+implementation of the National Water Data Framework. 
+2
+(b) MEMBERSHIP.— 
+3
+(1) DUTIES
+OF
+SECRETARY.—The Secretary 
+4
+shall— 
+5
+(A) serve as the Chair of the Council; 
+6
+(B) in collaboration with the Office of 
+7
+Science and Technology Policy, convene the 
+8
+Council not less frequently than 4 times each 
+9
+year; and 
+10
+(C) provide staff support for the Council 
+11
+through the United States Geological Survey. 
+12
+(2) MEMBERS.—Council Members shall include 
+13
+the heads of the following entities: 
+14
+(A) The Departments. 
+15
+(B) Bureaus and offices of the Depart-
+16
+ments that have a significant role or interest in 
+17
+water data, including— 
+18
+(i) the Corps of Engineers; 
+19
+(ii) the Bureau of Indian Affairs; 
+20
+(iii) the Bureau of Reclamation; 
+21
+(iv) the Federal Emergency Manage-
+22
+ment Agency; 
+23
+(v) the Federal Energy Regulatory 
+24
+Commission; 
+25
+03:51 May 20, 2022
+H7792
+7 
+•HR 7792 IH
+(vi) the United States Fish and Wild-
+1
+life Service; 
+2
+(vii) the Indian Health Service; 
+3
+(viii) the Forest Service; 
+4
+(ix) the National Laboratories; 
+5
+(x) the Natural Resources Conserva-
+6
+tion Service; 
+7
+(xi) the National Oceanic and Atmos-
+8
+pheric Administration; 
+9
+(xii) the Rural Development program 
+10
+of the Department of Agriculture; and 
+11
+(xiii) the United States Geological 
+12
+Survey. 
+13
+(C) Offices of the Executive Office of the 
+14
+President, including— 
+15
+(i) the Council on Environmental 
+16
+Quality; 
+17
+(ii) the Office of Management and 
+18
+Budget; and 
+19
+(iii) the Office of Science and Tech-
+20
+nology Policy. 
+21
+(D) Other Federal entities that the Chair 
+22
+and a majority of the members of the Council 
+23
+described in subparagraphs (A) through (C) de-
+24
+termine to be appropriate. 
+25
+03:51 May 20, 2022
+H7792
+8 
+•HR 7792 IH
+(c) DUTIES.—The Council shall— 
+1
+(1) support the development and implementa-
+2
+tion of the National Water Data Framework; and 
+3
+(2) facilitate communication and collaboration 
+4
+among members of the Council— 
+5
+(A) to establish, adopt, and implement 
+6
+common national water data standards; 
+7
+(B) to promote water data sharing and in-
+8
+tegration across Federal departments and agen-
+9
+cies, including— 
+10
+(i) water data collection, documenta-
+11
+tion, maintenance, distribution, and preser-
+12
+vation strategies; and 
+13
+(ii) development and use of water data 
+14
+infrastructure, tools, and technologies to 
+15
+support water management and planning; 
+16
+(C) to align the policies, programs, proto-
+17
+cols, budgets, and funding programs relating to 
+18
+water data of the members of the Council; and 
+19
+(D) to promote partnerships across Fed-
+20
+eral entities and non-Federal entities— 
+21
+(i) to advance innovation and solu-
+22
+tions in water data, technology, tools, plan-
+23
+ning, and management; and 
+24
+03:51 May 20, 2022
+H7792
+9 
+•HR 7792 IH
+(ii) to develop guidelines for data 
+1
+sharing and protecting data privacy. 
+2
+(d) WATER DATA COUNCIL REPORTS.—Not later 
+3
+than 180 days after the date of enactment of this Act, 
+4
+and annually thereafter, in conjunction with the annual 
+5
+budget submission of the President to Congress under sec-
+6
+tion 1105(a) of title 31, United States Code, the Sec-
+7
+retary, acting on behalf of the Council, shall submit to 
+8
+members of the Council and the appropriate committees 
+9
+of Congress and make available publicly online a report 
+10
+that describes— 
+11
+(1) the National Water Data Framework; 
+12
+(2) the actions undertaken by the Departments 
+13
+to implement this Act pursuant to section 3; 
+14
+(3) key water data sets, types, and infrastruc-
+15
+ture needed to support water management and plan-
+16
+ning; 
+17
+(4) goals, targets, and actions to carry out the 
+18
+National Water Data Framework in the subsequent 
+19
+fiscal year; 
+20
+(5) a summary and evaluation of the progress 
+21
+of the Departments in achieving any prior goals, tar-
+22
+gets, and actions to carry out the National Water 
+23
+Data Framework; 
+24
+03:51 May 20, 2022
+H7792
+10 
+•HR 7792 IH
+(6) actions needed to align policies, programs, 
+1
+and budgetary resources to carry out the National 
+2
+Water Data Framework in the subsequent fiscal 
+3
+year; 
+4
+(7) grants and assistance provided to State, 
+5
+Tribal, and local entities toward the development 
+6
+and adoption of new technologies and tools; 
+7
+(8) opportunities to develop and incentivize the 
+8
+deployment of promising next-generation tech-
+9
+nologies, including new water data technologies and 
+10
+tools, in partnership with the private sector and oth-
+11
+ers to accomplish the purposes of this Act; and 
+12
+(9) metrics for achieving the National Water 
+13
+Data Framework. 
+14
+SEC. 5. ADVISORY COMMITTEE ON WATER INFORMATION. 
+15
+(a) ESTABLISHMENT.—There is established within 
+16
+the Department of the Interior an advisory committee, to 
+17
+be known as the ‘‘Advisory Committee on Water Informa-
+18
+tion’’, to advise the Secretary, Departments, and Council 
+19
+on the development and implementation of the National 
+20
+Water Data Framework. 
+21
+(b) MEMBERSHIP.— 
+22
+(1) COMPOSITION.—The Advisory Committee 
+23
+shall be composed of members, to be appointed by 
+24
+the Secretary in a manner that provides for— 
+25
+03:51 May 20, 2022
+H7792
+11 
+•HR 7792 IH
+(A) balanced representation among various 
+1
+entities involved in water-related activities; and 
+2
+(B) consideration for a geographic balance 
+3
+of individuals representing localities across the 
+4
+United States. 
+5
+(2) SELECTION.—Members of the Advisory 
+6
+Committee shall be selected by the Secretary from 
+7
+among entities involved in water-related activities, 
+8
+including— 
+9
+(A) States; 
+10
+(B) Indian Tribes; 
+11
+(C) local governments; 
+12
+(D) Federal entities; 
+13
+(E) water agencies, utilities, conservation 
+14
+districts, irrigation districts, acequias, and 
+15
+other water user associations; 
+16
+(F) organizations that facilitate collabora-
+17
+tion across States and multi-state instrumental-
+18
+ities; 
+19
+(G) educational institutions; 
+20
+(H) professional organizations; 
+21
+(I) water data and technology-related ex-
+22
+perts, professionals, and industries; 
+23
+(J) private sector entities; and 
+24
+(K) nonprofit organizations. 
+25
+03:51 May 20, 2022
+H7792
+12 
+•HR 7792 IH
+(3) TERM.—Members of the Advisory Com-
+1
+mittee shall be appointed by the Secretary for a 
+2
+term not to exceed 4 years. 
+3
+(c) CHAIR.—The Secretary shall serve as the Chair 
+4
+of the Advisory Committee. 
+5
+(d) STAFF SUPPORT.—The United States Geological 
+6
+Survey shall provide support services for the Advisory 
+7
+Committee. 
+8
+(e) MEETINGS.—The Advisory Committee shall meet 
+9
+at the call of the Chair, but not less frequently than 4 
+10
+times each year. 
+11
+(f) DUTIES.—The duties of the Advisory Committee 
+12
+are to advise the Secretary, Departments, and Council 
+13
+on— 
+14
+(1) the development and implementation of the 
+15
+National Water Data Framework; 
+16
+(2) efforts to operate a cost-effective national 
+17
+network of water data collection and analysis that 
+18
+meets the priority water information needs of the 
+19
+Federal Government and, to the extent practicable 
+20
+using available resources, the needs of the non-Fed-
+21
+eral community that are tied to national interests; 
+22
+(3) efforts to develop uniform standards, guide-
+23
+lines, and procedures for the collection, analysis, 
+24
+management, and dissemination of water informa-
+25
+03:51 May 20, 2022
+H7792
+13 
+•HR 7792 IH
+tion to improve quality, consistency, and accessibility 
+1
+nationwide; and 
+2
+(4) the effectiveness of existing water informa-
+3
+tion programs and recommended modifications need-
+4
+ed to respond to changes in legislation, technology, 
+5
+and other conditions. 
+6
+(g) APPLICABILITY OF FACA.— 
+7
+(1) IN GENERAL.—Except as provided in para-
+8
+graph (2), the Federal Advisory Committee Act (5 
+9
+U.S.C. App.) shall apply to the Advisory Committee. 
+10
+(2) NO TERMINATION.—Section 14(a)(2) of the 
+11
+Federal Advisory Committee Act (5 U.S.C. App.) 
+12
+shall not apply to the Advisory Committee. 
+13
+SEC. 6. WATER DATA GRANT PROGRAM. 
+14
+(a) IN GENERAL.—The Secretary shall establish a 
+15
+water data grant program under which the Secretary shall 
+16
+award grants— 
+17
+(1) to support non-Federal entities in making 
+18
+water data sets findable, accessible, interoperable, 
+19
+and reusable in accordance with the water data 
+20
+standards established under this Act; 
+21
+(2) to advance the development of water data 
+22
+infrastructure, tools, and technologies to facilitate 
+23
+the sharing and use of water data; 
+24
+03:51 May 20, 2022
+H7792
+14 
+•HR 7792 IH
+(3) to support programs and projects that fa-
+1
+cilitate water data sharing and use in water re-
+2
+sources management and the implementation of the 
+3
+National Water Data Framework; and 
+4
+(4) to provide a prize for accelerating innova-
+5
+tion and developing next-generation water data tools 
+6
+and technologies. 
+7
+(b) COORDINATION WITH THE COUNCIL.—The Sec-
+8
+retary shall consult and coordinate with the Council in cre-
+9
+ating and implementing the Water Data Grant Program 
+10
+to ensure that— 
+11
+(1) the Water Data Grant Program is aligned 
+12
+with and carries out the purposes of this Act; and 
+13
+(2) grants and programs are harmonized across 
+14
+the Departments and members of the Council to 
+15
+achieve the purposes of this Act. 
+16
+(c) ELIGIBLE ENTITIES.—An entity eligible for a 
+17
+grant under the Water Data Grant Program— 
+18
+(1) shall demonstrate significant needs or capa-
+19
+bilities for advancing water data sharing and tools 
+20
+with a significant public benefit; and 
+21
+(2) may include— 
+22
+(A) a State, multistate instrumentality, In-
+23
+dian Tribe, or other unit of local government; 
+24
+03:51 May 20, 2022
+H7792
+15 
+•HR 7792 IH
+(B) a water agency, utility, conservation 
+1
+district, irrigation district, acequia, mutual do-
+2
+mestic association, or other entity organized 
+3
+pursuant to Federal, Tribal, or local laws for 
+4
+the purpose of water-related activities; 
+5
+(C) an educational institution or nonprofit 
+6
+organization; and 
+7
+(D) in the case of carrying out activities 
+8
+described in subsection (a)(4)— 
+9
+(i) an individual who is a citizen or 
+10
+legal resident of the United States; or 
+11
+(ii) an entity that is incorporated and 
+12
+maintains the primary place of business of 
+13
+the entity in the United States. 
+14
+(d) REQUIREMENTS.— 
+15
+(1) DATA
+SHARING
+AND
+STANDARDS.—Any 
+16
+project funded through the Water Data Grant Pro-
+17
+gram shall be implemented in accordance with the 
+18
+water data standards established under section 3. 
+19
+(2) USE
+OF
+EXISTING
+WATER
+DATA
+INFRA-
+20
+STRUCTURE.—The recipient of a grant shall, to the 
+21
+extent practicable, leverage existing water data and 
+22
+water data infrastructure. 
+23
+(e) REPORT.—Not later than 1 year after the date 
+24
+of enactment of this Act, and annually thereafter, in con-
+25
+03:51 May 20, 2022
+H7792
+16 
+•HR 7792 IH
+junction with the annual budget submission of the Presi-
+1
+dent to Congress under section 1105(a) of title 31, United 
+2
+States Code, the Secretary shall submit to Congress a re-
+3
+port that describes the implementation of the Water Data 
+4
+Grant Program, including— 
+5
+(1) a description of the use and deployment of 
+6
+amounts made available under the Water Data 
+7
+Grant Program; 
+8
+(2) an accounting of all grants awarded under 
+9
+the Water Data Grant Program, including a descrip-
+10
+tion of— 
+11
+(A) each grant recipient; and 
+12
+(B) each project funded under the Water 
+13
+Data Grant Program; 
+14
+(3) an assessment of the success of the Water 
+15
+Data Grant Program in advancing the purposes of 
+16
+this Act; and 
+17
+(4) a plan for the subsequent fiscal year to 
+18
+achieve the purposes of this Act. 
+19
+(f) AUTHORIZATION OF APPROPRIATIONS.—There is 
+20
+authorized to be appropriated to the Secretary to carry 
+21
+out the Water Data Grant Program $25,000,000 for each 
+22
+of fiscal years 2023 through 2027, to remain available 
+23
+until expended. 
+24
+03:51 May 20, 2022
+H7792
+17 
+•HR 7792 IH
+(g) ADMINISTRATIVE COSTS.—Of the funds author-
+1
+ized to be appropriated under subsection (f), not more 
+2
+than 3 percent may be used by the Secretary for adminis-
+3
+trative costs. 
+4
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS. 
+5
+There is authorized to be appropriated to the Sec-
+6
+retary to carry out sections 3 through 5 $15,000,000 for 
+7
+each of fiscal years 2023 through 2027, to remain avail-
+8
+able until expended. 
+9
+Æ 
+03:51 May 20, 2022
+H7792

@@ -1,0 +1,261 @@
+A BILL 
+To direct the Secretary of Defense to establish a framework 
+relating to risks to the defense supply chain, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. DEFENSE SUPPLY CHAIN RISK ASSESSMENT 
+3
+FRAMEWORK. 
+4
+(a) IN GENERAL.—Not later than one year after the 
+5
+date of the enactment of this Act, the Secretary of Defense 
+6
+shall establish a framework, which may be included as part 
+7
+of a framework developed under section 2509 of title 10, 
+8
+United States Code, and pursuant to recommendations 
+9
+provided under section 5 of Executive Order 14017 (86 
+10
+23:08 Dec 16, 2021
+H6169
+2 
+•HR 6169 IH
+Fed. Reg. 11849, relating to America’s supply chains), to 
+1
+consolidate the information relating to risks to the defense 
+2
+supply chain that is collected by the elements of the De-
+3
+partment of Defense to— 
+4
+(1) enable Department-wide risk assessments of 
+5
+the defense supply chain; and 
+6
+(2) support the development of strategies to 
+7
+mitigate risks to the defense supply chain. 
+8
+(b) FRAMEWORK REQUIREMENTS.—The framework 
+9
+established under subsection (a) shall— 
+10
+(1) provide for the collection, management, and 
+11
+storage of data from the supply chain risk manage-
+12
+ment processes of the Department of Defense; 
+13
+(2) provide for the collection of reports on sup-
+14
+ply chain risk management from the military depart-
+15
+ments and Defense Agencies, and the dissemination 
+16
+of such reports to the components of the military de-
+17
+partments and Defense Agencies involved in the 
+18
+management of supply chain risk; 
+19
+(3) enable all elements of the Department to 
+20
+analyze the information collected by such framework 
+21
+to identify risks to the defense supply chain; 
+22
+(4) enable the Department to— 
+23
+(A) assess the capabilities of foreign adver-
+24
+saries (as defined in section 8(c) of the Secure 
+25
+23:08 Dec 16, 2021
+H6169
+3 
+•HR 6169 IH
+and Trusted Communications Networks Act of 
+1
+2019 (47 U.S.C. 1607(c))) to affect the defense 
+2
+supply chain; 
+3
+(B) analyze the ability of the industrial 
+4
+base of the United States to meet the needs of 
+5
+the defense supply chain; 
+6
+(C) track global technology trends that 
+7
+could affect the defense supply chain, as deter-
+8
+mined by the Secretary of Defense; and 
+9
+(D) assess the risks posed by emerging 
+10
+threats to the defense supply chain; 
+11
+(5) support the identification of technology in 
+12
+which the Department may invest to reduce risks to 
+13
+the defense supply chain, including by improving the 
+14
+resilience of the defense supply; and 
+15
+(6) provide for— 
+16
+(A) a map of the supply chains for major 
+17
+end items that supports analysis, monitoring, 
+18
+and reporting with respect to high-risk sub-
+19
+contractors and risks to such supply chain; and 
+20
+(B) the use of a covered application de-
+21
+scribed in subsection (c) in the creation of such 
+22
+map to assess risks to the supply chain for 
+23
+major end items by business sector, vendor, 
+24
+program, part, or technology. 
+25
+23:08 Dec 16, 2021
+H6169
+4 
+•HR 6169 IH
+(c) COVERED APPLICATION DESCRIBED.—The cov-
+1
+ered application described in this subsection is a covered 
+2
+application that includes the following elements: 
+3
+(1) A centralized database that consolidates 
+4
+multiple disparate data sources into a single reposi-
+5
+tory to ensure the consistent availability of data. 
+6
+(2) Centralized reporting to allow for efficient 
+7
+mitigation and remediation of identified supply chain 
+8
+vulnerabilities. 
+9
+(3) Broad interoperability with other software 
+10
+and systems to ensure support for the analytical ca-
+11
+pabilities of users across the Department. 
+12
+(4) Scalable technology to support multiple 
+13
+users, access controls for security, and functionality 
+14
+designed for information-sharing and collaboration. 
+15
+(d) GUIDANCE.—Not later than 180 days after the 
+16
+framework required under subsection (a) is established, 
+17
+and regularly thereafter, the Secretary of Defense shall 
+18
+issue guidance on mitigating risks to the defense supply 
+19
+chain. 
+20
+(e) REPORTS.— 
+21
+(1) PROGRESS REPORT.—Not later than 180 
+22
+days after the date of the enactment of this Act, the 
+23
+Secretary of Defense shall submit to the congres-
+24
+sional defense committees a report on the progress 
+25
+23:08 Dec 16, 2021
+H6169
+5 
+•HR 6169 IH
+of establishing the framework as required under sub-
+1
+section (a). 
+2
+(2) FINAL REPORT.—Not later than one year 
+3
+after the date of the enactment of this Act, the Sec-
+4
+retary of Defense shall submit to the congressional 
+5
+defense committees a report describing the frame-
+6
+work established under subsection (a) and the orga-
+7
+nizational structure to manage and oversee the 
+8
+framework. 
+9
+(f) DEFINITIONS.—In this section: 
+10
+(1) COVERED APPLICATION.—The term ‘‘cov-
+11
+ered application’’ means a software-as-a-service ap-
+12
+plication that uses decision science, commercial data, 
+13
+and machine learning techniques. 
+14
+(2) DEFENSE
+AGENCY; 
+MILITARY
+DEPART-
+15
+MENT.—The terms ‘‘Defense Agency’’ and ‘‘military 
+16
+department’’ have the meanings given such terms in 
+17
+section 101 of title 10, United States Code. 
+18
+(3) HIGH-RISK
+SUBCONTRACTORS.—The term 
+19
+‘‘high-risk subcontractor’’ means a subcontractor at 
+20
+any tier that supplies major end items for the De-
+21
+partment of Defense. 
+22
+(4) MAJOR END ITEM.—The term ‘‘major end 
+23
+item’’ means an item subject to a unique item-level 
+24
+traceability requirement at any time in the life cycle 
+25
+23:08 Dec 16, 2021
+H6169
+6 
+•HR 6169 IH
+of such item under Department of Defense Instruc-
+1
+tion 8320.04, titled ‘‘Item Unique Identification 
+2
+(IUID) Standards for Tangible Personal Property’’ 
+3
+and dated September 3, 2015, or any successor in-
+4
+struction. 
+5
+Æ 
+23:08 Dec 16, 2021
+H6169

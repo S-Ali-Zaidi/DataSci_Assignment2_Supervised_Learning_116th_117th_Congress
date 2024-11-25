@@ -1,0 +1,687 @@
+A BILL 
+To amend the Internal Revenue Code of 1986 to impose 
+a tax on certain trading transactions. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Wall Street Tax Act 
+4
+of 2021’’. 
+5
+SEC. 2. TRANSACTION TAX. 
+6
+(a) IN GENERAL.—Chapter 36 of the Internal Rev-
+7
+enue Code of 1986 is amended by inserting after sub-
+8
+chapter B the following new subchapter: 
+9
+23:26 Feb 06, 2021
+H328
+2 
+•HR 328 IH
+‘‘Subchapter C—Tax on Trading Transactions 
+1
+‘‘Sec. 4475. Tax on trading transactions. 
+‘‘Sec. 4476. Derivative defined. 
+‘‘SEC. 4475. TAX ON TRADING TRANSACTIONS. 
+2
+‘‘(a) IMPOSITION OF TAX.—There is hereby imposed 
+3
+a tax on each covered transaction with respect to any secu-
+4
+rity. 
+5
+‘‘(b) RATE OF TAX.—The tax imposed under sub-
+6
+section (a) with respect to any covered transaction shall 
+7
+be 0.1 percent of the specified base amount with respect 
+8
+to such covered transaction. 
+9
+‘‘(c) SPECIFIED BASE AMOUNT.—For purposes of 
+10
+this section, the term ‘specified base amount’ means— 
+11
+‘‘(1) except as provided in paragraph (2), the 
+12
+fair market value of a security (determined as of the 
+13
+time of the covered transaction), and 
+14
+‘‘(2) in the case of any payment with respect to 
+15
+a derivative, the amount of such payment. 
+16
+‘‘(d) COVERED TRANSACTION.—For purposes of this 
+17
+section— 
+18
+‘‘(1) IN GENERAL.—The term ‘covered trans-
+19
+action’ means— 
+20
+‘‘(A) except as provided in subparagraph 
+21
+(B), any purchase if— 
+22
+23:26 Feb 06, 2021
+H328
+3 
+•HR 328 IH
+‘‘(i) such purchase occurs on, or is 
+1
+subject to the rules of, a qualified board or 
+2
+exchange located in the United States, or 
+3
+‘‘(ii) the purchaser or seller is a 
+4
+United States person, and 
+5
+‘‘(B) any transaction with respect to a de-
+6
+rivative if— 
+7
+‘‘(i) such derivative is traded on, or is 
+8
+subject to the rules of, a qualified board or 
+9
+exchange located in the United States, or 
+10
+‘‘(ii) any party with rights under such 
+11
+derivative is a United States person. 
+12
+‘‘(2) EXCEPTION FOR INITIAL ISSUES.—No tax 
+13
+shall be imposed under subsection (a) on any cov-
+14
+ered transaction with respect to the initial issuance 
+15
+of any security described in subparagraph (A), (B), 
+16
+or (C) of subsection (e)(1). 
+17
+‘‘(e) DEFINITIONS AND SPECIAL RULES.—For pur-
+18
+poses of this section— 
+19
+‘‘(1) SECURITY.—For purposes of this section, 
+20
+the term ‘security’ means— 
+21
+‘‘(A) any share of stock in a corporation, 
+22
+‘‘(B) any partnership or beneficial owner-
+23
+ship interest in a partnership or trust, 
+24
+23:26 Feb 06, 2021
+H328
+4 
+•HR 328 IH
+‘‘(C) except as provided in paragraph (2), 
+1
+any note, bond, debenture, or other evidence of 
+2
+indebtedness, and 
+3
+‘‘(D) any derivative (as defined in section 
+4
+4476). 
+5
+‘‘(2) EXCEPTION FOR CERTAIN TRADED SHORT- 
+6
+TERM INDEBTEDNESS.—A note, bond, debenture, or 
+7
+other evidence of indebtedness which— 
+8
+‘‘(A) is traded on, or is subject to the rules 
+9
+of, a qualified board or exchange located in the 
+10
+United States, and 
+11
+‘‘(B) has a fixed maturity of not more 
+12
+than 100 days, 
+13
+shall not be treated as described in paragraph 
+14
+(1)(C). 
+15
+‘‘(3) QUALIFIED BOARD OR EXCHANGE.—The 
+16
+term ‘qualified board or exchange’ has the meaning 
+17
+given such term by section 1256(g)(7). 
+18
+‘‘(f) BY WHOM PAID.— 
+19
+‘‘(1) IN GENERAL.—The tax imposed by this 
+20
+section shall be paid by— 
+21
+‘‘(A) in the case of a transaction which oc-
+22
+curs on, or is subject to the rules of, a qualified 
+23
+board or exchange located in the United States, 
+24
+such qualified board or exchange, and 
+25
+23:26 Feb 06, 2021
+H328
+5 
+•HR 328 IH
+‘‘(B) in the case of a purchase not de-
+1
+scribed in subparagraph (A) which is executed 
+2
+by a broker (as defined in section 6045(c)(1)) 
+3
+which is a United States person, such broker. 
+4
+‘‘(2) SPECIAL
+RULES
+FOR
+DIRECT, 
+ETC., 
+5
+TRANSACTIONS.—In the case of any transaction to 
+6
+which paragraph (1) does not apply, the tax imposed 
+7
+by this section shall be paid by— 
+8
+‘‘(A) in the case of a transaction described 
+9
+in subsection (d)(1)(A)— 
+10
+‘‘(i) the purchaser if the purchaser is 
+11
+a United States person, and 
+12
+‘‘(ii) the seller if the purchaser is not 
+13
+a United States person, and 
+14
+‘‘(B) in the case of a transaction described 
+15
+in subsection (d)(1)(B)— 
+16
+‘‘(i) the payor if the payor is a United 
+17
+States person, and 
+18
+‘‘(ii) the payee if the payor is not a 
+19
+United States person. 
+20
+‘‘(g) TREATMENT OF EXCHANGES AND PAYMENTS 
+21
+WITH RESPECT TO DERIVATIVES.—For purposes of this 
+22
+section— 
+23
+‘‘(1) TREATMENT OF EXCHANGES.— 
+24
+23:26 Feb 06, 2021
+H328
+6 
+•HR 328 IH
+‘‘(A) IN GENERAL.—An exchange shall be 
+1
+treated as the sale of the property transferred 
+2
+and a purchase of the property received by each 
+3
+party to the exchange. 
+4
+‘‘(B) CERTAIN DEEMED EXCHANGES.—In 
+5
+the case of a distribution treated as an ex-
+6
+change for stock under section 302 or 331, the 
+7
+corporation making such distribution shall be 
+8
+treated as having purchased such stock for pur-
+9
+poses of this section. 
+10
+‘‘(2) PAYMENTS
+WITH
+RESPECT
+TO
+DERIVA-
+11
+TIVES TREATED AS SEPARATE TRANSACTIONS.—Ex-
+12
+cept as otherwise provided by the Secretary, any 
+13
+payment with respect to any derivative shall be 
+14
+treated as a separate transaction for purposes of 
+15
+this section. 
+16
+‘‘(h) APPLICATION
+TO
+TRANSACTIONS
+BY
+CON-
+17
+TROLLED FOREIGN CORPORATIONS.— 
+18
+‘‘(1) IN GENERAL.—For purposes of this sec-
+19
+tion, a controlled foreign corporation shall be treated 
+20
+as a United States person. 
+21
+‘‘(2) SPECIAL RULES FOR PAYMENT OF TAX ON 
+22
+DIRECT, ETC., TRANSACTIONS.—In the case of any 
+23
+transaction which is a covered transaction solely by 
+24
+23:26 Feb 06, 2021
+H328
+7 
+•HR 328 IH
+reason of paragraph (1) and which is not described 
+1
+in subsection (f)(1)— 
+2
+‘‘(A) PAYMENT BY UNITED STATES SHARE-
+3
+HOLDERS.—Any tax which would (but for this 
+4
+paragraph) be payable under subsection (f)(2) 
+5
+by the controlled foreign corporation shall, in 
+6
+lieu thereof, be paid by the United States 
+7
+shareholders of such controlled foreign corpora-
+8
+tion as provided in subparagraph (B). 
+9
+‘‘(B) PRO
+RATA
+SHARES.—Each such 
+10
+United States shareholder shall pay the same 
+11
+proportion of such tax as— 
+12
+‘‘(i) the stock which such United 
+13
+States shareholder owns (within the mean-
+14
+ing of section 958(a)) in such controlled 
+15
+foreign corporation, bears to 
+16
+‘‘(ii) the stock so owned by all United 
+17
+States shareholders in such controlled for-
+18
+eign corporation. 
+19
+‘‘(C) DEFINITIONS.—For purposes of this 
+20
+subsection, the terms ‘United States share-
+21
+holder’ and ‘controlled foreign corporation’ have 
+22
+the meanings given such terms in sections 
+23
+951(b) and 957(a), respectively. 
+24
+23:26 Feb 06, 2021
+H328
+8 
+•HR 328 IH
+‘‘(i) ADMINISTRATION.—The Secretary shall carry 
+1
+out this section in consultation with the Securities and Ex-
+2
+change Commission and the Commodity Futures Trading 
+3
+Commission. 
+4
+‘‘(j) GUIDANCE; REGULATIONS.—The Secretary 
+5
+shall— 
+6
+‘‘(1) provide guidance regarding such informa-
+7
+tion reporting concerning covered transactions as the 
+8
+Secretary deems appropriate, and 
+9
+‘‘(2) prescribe such regulations as are necessary 
+10
+or appropriate to prevent avoidance of the purposes 
+11
+of this section, including the use of non-United 
+12
+States persons in such transactions. 
+13
+‘‘SEC. 4476. DERIVATIVE DEFINED. 
+14
+‘‘(a) IN GENERAL.—For purposes of this subchapter, 
+15
+except as otherwise provided in this section, the term ‘de-
+16
+rivative’ means any contract (including any option, for-
+17
+ward contract, futures contract, short position, swap, or 
+18
+similar contract) the value of which, or any payment or 
+19
+other transfer with respect to which, is (directly or indi-
+20
+rectly) determined by reference to one or more of the fol-
+21
+lowing: 
+22
+‘‘(1) Any share of stock in a corporation. 
+23
+‘‘(2) Any partnership or beneficial ownership 
+24
+interest in a partnership or trust. 
+25
+23:26 Feb 06, 2021
+H328
+9 
+•HR 328 IH
+‘‘(3) Any evidence of indebtedness. 
+1
+‘‘(4) Except as provided in subsection (b)(1), 
+2
+any real property. 
+3
+‘‘(5) Any commodity which is actively traded 
+4
+(within the meaning of section 1092(d)(1)). 
+5
+‘‘(6) Any currency. 
+6
+‘‘(7) Any rate, price, amount, index, formula, or 
+7
+algorithm. 
+8
+‘‘(8) Any other item as the Secretary may pre-
+9
+scribe. 
+10
+Except as provided in regulations prescribed by the Sec-
+11
+retary to prevent the avoidance of the purposes of this 
+12
+subchapter, such term shall not include any item described 
+13
+in paragraphs (1) through (8). 
+14
+‘‘(b) EXCEPTIONS.— 
+15
+‘‘(1) CERTAIN REAL PROPERTY.— 
+16
+‘‘(A) IN GENERAL.—For purposes of this 
+17
+subchapter, the term ‘derivative’ shall not in-
+18
+clude any contract with respect to interests in 
+19
+real 
+property 
+(as 
+defined 
+in 
+section 
+20
+856(c)(5)(C)) if such contract requires physical 
+21
+delivery of such real property. 
+22
+‘‘(B) OPTIONS TO SETTLE IN CASH.— 
+23
+‘‘(i) IN
+GENERAL.—For purposes of 
+24
+subparagraph (A), a contract which pro-
+25
+23:26 Feb 06, 2021
+H328
+10 
+•HR 328 IH
+vides for an option of cash settlement shall 
+1
+not be treated as requiring physical deliv-
+2
+ery of real property unless the option is— 
+3
+‘‘(I) not exercisable uncondition-
+4
+ally, and 
+5
+‘‘(II) exercisable only in unusual 
+6
+and exceptional circumstances. 
+7
+‘‘(ii) 
+OPTION
+OF
+CASH
+SETTLE-
+8
+MENT.—For purposes of clause (i), a con-
+9
+tract provides an option of cash settlement 
+10
+if the contract settles in (or could be set-
+11
+tled in) cash or property other than the 
+12
+underlying real property. 
+13
+‘‘(2) SECURITIES LENDING, SALE-REPURCHASE, 
+14
+AND
+SIMILAR
+FINANCING
+TRANSACTIONS.—To the 
+15
+extent provided by the Secretary, for purposes of 
+16
+this subchapter, the term ‘derivative’ shall not in-
+17
+clude the right to the return of the same or substan-
+18
+tially identical securities transferred in a securities 
+19
+lending transaction, sale-repurchase transaction, or 
+20
+similar financing transaction. 
+21
+‘‘(3) OPTIONS RECEIVED IN CONNECTION WITH 
+22
+THE PERFORMANCE OF SERVICES.—For purposes of 
+23
+this subchapter, the term ‘derivative’ shall not in-
+24
+clude any option described in section 83(e)(3) re-
+25
+23:26 Feb 06, 2021
+H328
+11 
+•HR 328 IH
+ceived in connection with the performance of serv-
+1
+ices. 
+2
+‘‘(4) INSURANCE CONTRACTS, ANNUITIES, AND 
+3
+ENDOWMENTS.—For purposes of this subchapter, 
+4
+the term ‘derivative’ shall not include any insurance, 
+5
+annuity, or endowment contract issued by an insur-
+6
+ance company to which subchapter L applies (or 
+7
+issued by any foreign corporation to which such sub-
+8
+chapter would apply if such foreign corporation were 
+9
+a domestic corporation). 
+10
+‘‘(5) DERIVATIVES WITH RESPECT TO STOCK 
+11
+OF
+MEMBERS
+OF
+SAME
+WORLDWIDE
+AFFILIATED 
+12
+GROUP.—For purposes of this subchapter, the term 
+13
+‘derivative’ shall not include any derivative (deter-
+14
+mined without regard to this paragraph) with re-
+15
+spect to stock issued by any member of the same 
+16
+worldwide affiliated group (as defined in section 
+17
+864(f)) in which the taxpayer is a member. 
+18
+‘‘(6) COMMODITIES USED IN NORMAL COURSE 
+19
+OF TRADE OR BUSINESS.—For purposes of this sub-
+20
+chapter, the term ‘derivative’ shall not include any 
+21
+contract with respect to any commodity if— 
+22
+‘‘(A) such contract requires physical deliv-
+23
+ery with the option of cash settlement only in 
+24
+unusual and exceptional circumstances, and 
+25
+23:26 Feb 06, 2021
+H328
+12 
+•HR 328 IH
+‘‘(B) such commodity is used (and is used 
+1
+in quantities with respect to which such deriva-
+2
+tive relates) in the normal course of the tax-
+3
+payer’s trade or business (or, in the case of an 
+4
+individual, for personal consumption). 
+5
+‘‘(c) CONTRACTS WITH EMBEDDED DERIVATIVE 
+6
+COMPONENTS.— 
+7
+‘‘(1) IN GENERAL.—If a contract has derivative 
+8
+and nonderivative components, then each derivative 
+9
+component shall be treated as a derivative for pur-
+10
+poses of this subchapter. If the derivative component 
+11
+cannot be separately valued, then the entire contract 
+12
+shall be treated as a derivative for purposes of this 
+13
+subchapter. 
+14
+‘‘(2) EXCEPTION FOR CERTAIN EMBEDDED DE-
+15
+RIVATIVE COMPONENTS OF DEBT INSTRUMENTS.—A 
+16
+debt instrument shall not be treated as having a de-
+17
+rivative component merely because— 
+18
+‘‘(A) such debt instrument is denominated 
+19
+in a nonfunctional currency (as defined in sec-
+20
+tion 988(c)(1)(C)(ii)), or 
+21
+‘‘(B) payments with respect to such debt 
+22
+instrument are determined by reference to the 
+23
+value of a nonfunctional currency (as so de-
+24
+fined). 
+25
+23:26 Feb 06, 2021
+H328
+13 
+•HR 328 IH
+‘‘(d) TREATMENT OF AMERICAN DEPOSITORY RE-
+1
+CEIPTS AND SIMILAR INSTRUMENTS.—Except as other-
+2
+wise provided by the Secretary, for purposes of this sub-
+3
+chapter, American depository receipts (and similar instru-
+4
+ments) with respect to shares of stock in foreign corpora-
+5
+tions shall be treated as shares of stock in such foreign 
+6
+corporations.’’. 
+7
+(b) INFORMATION REPORTING WITH RESPECT TO 
+8
+CONTROLLED
+FOREIGN
+CORPORATIONS.—Section 
+9
+6038(a)(1)(B) of such Code is amended by inserting ‘‘and 
+10
+transactions which are covered transactions for purposes 
+11
+of section 4475 by reason of the application of section 
+12
+4475(h)(1) to such corporation’’ before the semicolon at 
+13
+the end. 
+14
+(c) CONFORMING AMENDMENT.—The table of sub-
+15
+chapters for chapter 36 of such Code is amended by in-
+16
+serting after the item relating to subchapter B the fol-
+17
+lowing new item: 
+18
+‘‘SUBCHAPTER C. TAX ON TRADING TRANSACTIONS’’. 
+(d) EFFECTIVE DATE.—The amendments made by 
+19
+this section shall apply to transactions after December 31, 
+20
+2021. 
+21
+Æ 
+23:26 Feb 06, 2021
+H328

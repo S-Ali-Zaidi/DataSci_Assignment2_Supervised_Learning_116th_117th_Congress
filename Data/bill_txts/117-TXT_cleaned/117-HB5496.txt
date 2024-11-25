@@ -1,0 +1,973 @@
+A BILL 
+To amend the Securities Act of 1933 to provide a safe 
+harbor for transactions in certain tokens, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Clarity for Digital To-
+4
+kens Act of 2021’’. 
+5
+SEC. 2. TOKEN SAFE HARBOR. 
+6
+(a) IN GENERAL.—The Securities Act of 1933 (15 
+7
+U.S.C. 77d) is amended by inserting after section 4A the 
+8
+following: 
+9
+03:00 Oct 07, 2021
+H5496
+2 
+•HR 5496 IH
+‘‘SEC. 4B. TOKEN SAFE HARBOR. 
+1
+‘‘(a) IN GENERAL.—Except as provided under sub-
+2
+section (d), this title does not apply to any offer, sale, or 
+3
+other transaction involving a token if the following condi-
+4
+tions are satisfied by the initial development team of such 
+5
+token: 
+6
+‘‘(1) The initial development team intends for 
+7
+the network on which the token functions to reach 
+8
+network maturity not later than the later of— 
+9
+‘‘(A) the date that is three years after the 
+10
+first sale of such token; or 
+11
+‘‘(B) the date that is three years after the 
+12
+effective date of this section. 
+13
+‘‘(2) The token is offered and sold for the pur-
+14
+pose of facilitating access to, participation on, or the 
+15
+development of the network. 
+16
+‘‘(3) The initial development team complies 
+17
+with— 
+18
+‘‘(A) the disclosure requirements under 
+19
+subsection (b); 
+20
+‘‘(B) the notice of reliance on the safe har-
+21
+bor filing requirements under subsection (c); 
+22
+and 
+23
+‘‘(C) the exit report filing requirements 
+24
+under subsection (f). 
+25
+03:00 Oct 07, 2021
+H5496
+3 
+•HR 5496 IH
+‘‘(b) DISCLOSURE REQUIREMENTS.—The initial de-
+1
+velopment team shall disclose the following information on 
+2
+a freely accessible public website: 
+3
+‘‘(1) INITIAL DISCLOSURES.—Prior to filing a 
+4
+notice of reliance under subsection (c), and with 
+5
+such information updated as soon as practicable 
+6
+after any material change: 
+7
+‘‘(A) SOURCE
+CODE.—A text listing of 
+8
+commands to be compiled or assembled into an 
+9
+executable computer program used by network 
+10
+participants to access the network, and confirm 
+11
+transactions. 
+12
+‘‘(B) TRANSACTION HISTORY.—A narrative 
+13
+description of the steps necessary to independ-
+14
+ently access, search, and verify the transaction 
+15
+history of the network. 
+16
+‘‘(C) TOKEN ECONOMICS.—A narrative de-
+17
+scription of the purpose of the network, the 
+18
+protocol, and its operation, including— 
+19
+‘‘(i) information explaining the launch 
+20
+and supply process, including the number 
+21
+of tokens to be issued in an initial alloca-
+22
+tion, the total number of tokens to be cre-
+23
+ated, the release schedule for the tokens, 
+24
+03:00 Oct 07, 2021
+H5496
+4 
+•HR 5496 IH
+and the total number of tokens out-
+1
+standing; 
+2
+‘‘(ii) information detailing any appli-
+3
+cable consensus mechanism or process for 
+4
+validating transactions, method of gener-
+5
+ating or mining tokens, and any process 
+6
+for burning or destroying tokens on the 
+7
+network; 
+8
+‘‘(iii) an explanation of governance 
+9
+mechanisms for implementing changes to 
+10
+the network or protocol; and 
+11
+‘‘(iv) sufficient information for a third 
+12
+party to create a tool for verifying the 
+13
+transaction history of the token. 
+14
+‘‘(D) PLAN OF DEVELOPMENT.—The cur-
+15
+rent state and timeline for the development of 
+16
+the network to show how and when the initial 
+17
+development team intends to achieve network 
+18
+maturity. 
+19
+‘‘(E) PRIOR
+TOKEN
+SALES.—For token 
+20
+sales completed prior to filing a notice of reli-
+21
+ance under subsection (c), the date of sale, 
+22
+number of tokens sold, number of token pur-
+23
+chasers, any limitations or restrictions on the 
+24
+transferability of tokens sold, price per token, 
+25
+03:00 Oct 07, 2021
+H5496
+5 
+•HR 5496 IH
+and the type and amount of consideration re-
+1
+ceived. 
+2
+‘‘(F) INITIAL
+DEVELOPMENT
+TEAM
+AND 
+3
+CERTAIN TOKEN HOLDERS.— 
+4
+‘‘(i) The names and relevant experi-
+5
+ence, qualifications, attributes, and skills 
+6
+of each person who is a member of the ini-
+7
+tial development team. 
+8
+‘‘(ii) The number of tokens or rights 
+9
+to tokens owned by each member of the 
+10
+initial development team and a description 
+11
+of any limitations or restrictions on the 
+12
+transferability of tokens held by such per-
+13
+sons. 
+14
+‘‘(iii) If any member of the initial de-
+15
+velopment team or related person has a 
+16
+right to obtain tokens in the future, in a 
+17
+manner that is distinct from how any third 
+18
+party could obtain tokens, the identity of 
+19
+such person and a description of how such 
+20
+tokens may be obtained. 
+21
+‘‘(G) TRADING PLATFORMS.—The name of 
+22
+any secondary trading platforms on which the 
+23
+token trades, to the extent known. 
+24
+03:00 Oct 07, 2021
+H5496
+6 
+•HR 5496 IH
+‘‘(H) RELATED PERSON TRANSACTIONS.— 
+1
+A description of any material transaction, or 
+2
+any proposed material transaction, in which the 
+3
+initial development team is a participant and in 
+4
+which one or more related persons participate 
+5
+and had or will have a direct or indirect mate-
+6
+rial interest. The description shall identify the 
+7
+nature of the transaction, the related persons, 
+8
+the basis on which the persons are related per-
+9
+sons, and the approximate value of the amount 
+10
+involved in the transaction. 
+11
+‘‘(I) WARNING TO TOKEN PURCHASERS.— 
+12
+A statement that the purchase of tokens in-
+13
+volves a high degree of risk and the potential 
+14
+loss of money. 
+15
+‘‘(2) SEMIANNUAL DISCLOSURES.— 
+16
+‘‘(A) IN GENERAL.—Every six months, an 
+17
+updated plan of development described under 
+18
+paragraph (1)(D). 
+19
+‘‘(B) TIMING OF DISCLOSURES.—Each dis-
+20
+closure required under subparagraph (A) shall 
+21
+be made— 
+22
+‘‘(i) within 30 calendar days after the 
+23
+end of the applicable semiannual period; 
+24
+and 
+25
+03:00 Oct 07, 2021
+H5496
+7 
+•HR 5496 IH
+‘‘(ii) until the earlier of— 
+1
+‘‘(I) the safe harbor end date; or 
+2
+‘‘(II) the date on which the ini-
+3
+tial development team determines that 
+4
+network maturity has been reached. 
+5
+‘‘(3) 
+TOKEN
+SALE
+DISCLO-
+6
+SURES.—For token sales completed after filing a no-
+7
+tice of reliance under subsection (c), the date of sale, 
+8
+number of tokens sold, number of token purchasers, 
+9
+any limitations or restrictions on the transferability 
+10
+of tokens sold, price per token, and the type and 
+11
+amount of consideration received. 
+12
+‘‘(4) ONGOING DISCLOSURES WITH RESPECT TO 
+13
+SALES
+OF
+TOKENS
+BY
+INITIAL
+DEVELOPMENT 
+14
+TEAM.—Each time a member of the initial develop-
+15
+ment team sells at least five percent of the member’s 
+16
+tokens that were disclosed pursuant to paragraph 
+17
+(1)(F)(ii) over any period of time before the safe 
+18
+harbor end date, a disclosure of the date of the sale, 
+19
+the number of tokens sold, and the identity of the 
+20
+seller. 
+21
+‘‘(c) NOTICE OF RELIANCE ON SAFE HARBOR FIL-
+22
+ING REQUIREMENTS.— 
+23
+‘‘(1) IN
+GENERAL.—The initial development 
+24
+team shall file with the Commission a notice of reli-
+25
+03:00 Oct 07, 2021
+H5496
+8 
+•HR 5496 IH
+ance on the safe harbor provided under this section 
+1
+prior to the date of the first token sold in reliance 
+2
+on the safe harbor, except as expressly provided 
+3
+under subsection (h) with respect to tokens sold be-
+4
+fore the date on which this section takes effect. 
+5
+‘‘(2) CONTENTS.—The notice described under 
+6
+paragraph (1) shall contain the following informa-
+7
+tion: 
+8
+‘‘(A) The name of each person on the ini-
+9
+tial development team. 
+10
+‘‘(B) An attestation by a person duly au-
+11
+thorized by the initial development team that 
+12
+the initial development team have complied with 
+13
+the requirements of this section. 
+14
+‘‘(C) The website where disclosure required 
+15
+under subsection (b) may be accessed. 
+16
+‘‘(D) An email address at which the initial 
+17
+development team can be contacted. 
+18
+‘‘(d) LIMITATION.—This section shall have no effect 
+19
+on the application of section 12(a)(2) or 17. 
+20
+‘‘(e) DURATION OF EXEMPTION.—With respect to to-
+21
+kens, the relief provided by this section shall expire on 
+22
+the later of— 
+23
+‘‘(1) the date that is three years after the date 
+24
+of the first sale of the tokens; or 
+25
+03:00 Oct 07, 2021
+H5496
+9 
+•HR 5496 IH
+‘‘(2) the date that is three years after the effec-
+1
+tive date of this section. 
+2
+‘‘(f) EXIT REPORT FILING REQUIREMENTS.—On or 
+3
+before the safe harbor end date, the initial development 
+4
+team shall file an exit report with the Commission con-
+5
+taining the following: 
+6
+‘‘(1) DECENTRALIZED NETWORKS.—If the ini-
+7
+tial development team determines that network ma-
+8
+turity has been reached for a decentralized network, 
+9
+a legal analysis that includes— 
+10
+‘‘(A) a description of the extent to which 
+11
+decentralization has been reached across a 
+12
+number of dimensions, including voting power, 
+13
+development efforts, and network participation 
+14
+and, if applicable— 
+15
+‘‘(i) examples of material engagement 
+16
+on network development and governance 
+17
+matters by parties unaffiliated with the ini-
+18
+tial development team; and 
+19
+‘‘(ii) 
+explanations 
+of 
+quantitative 
+20
+measurements of decentralization; and 
+21
+‘‘(B) an explanation of how the initial de-
+22
+velopment team’s pre-network maturity activi-
+23
+ties are distinguishable from the team’s ongoing 
+24
+involvement with the network, including— 
+25
+23:44 Oct 12, 2021
+H5496
+10 
+•HR 5496 IH
+‘‘(i) a discussion of the extent to 
+1
+which the initial development team’s con-
+2
+tinuing activities are more limited in na-
+3
+ture and cannot reasonably be expected 
+4
+uniquely to drive an increase in the value 
+5
+of the tokens; 
+6
+‘‘(ii) a confirmation that the initial 
+7
+development team has no material infor-
+8
+mation about the network that is not pub-
+9
+licly available; and 
+10
+‘‘(iii) a description of the steps taken 
+11
+to communicate to the network the nature 
+12
+and scope of the initial development team’s 
+13
+continuing activities. 
+14
+‘‘(2) FUNCTIONAL
+NETWORKS.—If the initial 
+15
+development team determines that network maturity 
+16
+has been reached for a functional network, a legal 
+17
+analysis that includes— 
+18
+‘‘(A) a description of the holders’ use of to-
+19
+kens— 
+20
+‘‘(i) for the transmission and storage 
+21
+of value on the network; 
+22
+‘‘(ii) for the participation in an appli-
+23
+cation running on the network; or 
+24
+03:00 Oct 07, 2021
+H5496
+11 
+•HR 5496 IH
+‘‘(iii) otherwise in a manner consistent 
+1
+with the utility of the network; and 
+2
+‘‘(B) an explanation of how the initial de-
+3
+velopment team’s pre-network maturity mar-
+4
+keting efforts and the team’s ongoing efforts 
+5
+will continue to be focused on the token’s con-
+6
+sumptive use, and not on token price apprecia-
+7
+tion. 
+8
+‘‘(3) NO NETWORK MATURITY.—If the initial 
+9
+development team determines that network maturity 
+10
+has not been reached— 
+11
+‘‘(A) a description of the status of the 
+12
+project network and the next steps the initial 
+13
+development team intends to take; 
+14
+‘‘(B) contact information for the initial de-
+15
+velopment team that can be used by holders to 
+16
+communicate with the initial development team; 
+17
+and 
+18
+‘‘(C) a statement acknowledging that the 
+19
+initial development team will register the tokens 
+20
+as a class of securities under section 12(g) of 
+21
+the Securities Exchange Act of 1934 within 120 
+22
+days of the filing of the report under this sub-
+23
+section. 
+24
+03:00 Oct 07, 2021
+H5496
+12 
+•HR 5496 IH
+‘‘(g) TRANSITION PERIOD
+FOR TRADING PLAT-
+1
+FORMS.—No trading platform shall be subject to the re-
+2
+quirements of section 6 of the Securities Exchange Act 
+3
+of 1934 due to activity related to the trading of tokens 
+4
+subject to a determination described under subsection 
+5
+(f)(3), if the trading platform prohibits such trading with-
+6
+in six months of such determination. 
+7
+‘‘(h) TOKENS PREVIOUSLY SOLD.—If, before the 
+8
+date on which this section takes effect, an initial develop-
+9
+ment team sold tokens (including such tokens sold pursu-
+10
+ant to a valid exemption from registration or in violation 
+11
+of section 5 (as determined in a Commission order pursu-
+12
+ant to section 8A that does not identify any other viola-
+13
+tions of the Federal securities laws)), the initial develop-
+14
+ment team may make use of the safe harbor provided 
+15
+under this section, if the initial development team files the 
+16
+notice of reliance described under subsection (c) as soon 
+17
+as practicable. 
+18
+‘‘(i) DEFINITION OF QUALIFIED PURCHASER.—For 
+19
+purposes of section 18(b)(3), a ‘qualified purchaser’ in-
+20
+cludes any person to whom tokens are offered or sold in 
+21
+reliance on this section. 
+22
+‘‘(j) DISQUALIFICATIONS.—This section shall not 
+23
+apply to tokens if the initial development team, or any in-
+24
+dividual member of the initial development team, would 
+25
+03:00 Oct 07, 2021
+H5496
+13 
+•HR 5496 IH
+be subject to disqualification under Rule 506(d) (17 
+1
+C.F.R. 230.506(d)). 
+2
+‘‘(k) DEFINITIONS.—In this subsection: 
+3
+‘‘(1) INITIAL DEVELOPMENT TEAM.—The term 
+4
+‘initial development team’ means each person, group 
+5
+of persons, or entity that provides the essential man-
+6
+agerial efforts for the development of a network 
+7
+prior to reaching network maturity. 
+8
+‘‘(2) NETWORK.—The term ‘network’ means a 
+9
+system of devices connected to each other to create 
+10
+and validate a ledger of transactions occurring with-
+11
+in the system, including a system of devices access-
+12
+ing and operating a protocol that utilizes an existing 
+13
+network for transaction creation and validation. 
+14
+‘‘(3) NETWORK MATURITY.—The term ‘network 
+15
+maturity’ means the status of a decentralized or 
+16
+functional network that is achieved when the net-
+17
+work meets either of the following: 
+18
+‘‘(A) CONTROL.—The network is not eco-
+19
+nomically or operationally controlled and is not 
+20
+reasonably likely to be economically or oper-
+21
+ationally controlled or unilaterally changed by 
+22
+any single person, entity, or group of persons or 
+23
+entities under common control. A network with 
+24
+respect to which the initial development team 
+25
+03:00 Oct 07, 2021
+H5496
+14 
+•HR 5496 IH
+owns more than 20 percent of tokens or owns 
+1
+more than 20 percent of the means of deter-
+2
+mining network consensus does not meet the re-
+3
+quirements of this subparagraph. 
+4
+‘‘(B) FUNCTIONAL.—The network is func-
+5
+tional, as demonstrated by the use of the tokens 
+6
+by token holders for the transmission and stor-
+7
+age of value on the network, the participation 
+8
+in an application running on the network, or 
+9
+otherwise in a manner consistent with the util-
+10
+ity of the network. 
+11
+‘‘(4) RELATED
+PERSON.—The term ‘related 
+12
+person’ means— 
+13
+‘‘(A) the initial development team; 
+14
+‘‘(B) directors or advisors to the initial de-
+15
+velopment team; and 
+16
+‘‘(C) immediate family members of the in-
+17
+dividuals described under subparagraph (A) or 
+18
+(B). 
+19
+‘‘(5) SAFE HARBOR END DATE.—The term ‘safe 
+20
+harbor end date’ means the date that is the end of 
+21
+the 3-year period described under subsection (e). 
+22
+‘‘(6) TOKEN.—The term ‘token’ means a digital 
+23
+representation of value or rights that— 
+24
+‘‘(A) has a transaction history that— 
+25
+03:00 Oct 07, 2021
+H5496
+15 
+•HR 5496 IH
+‘‘(i) is recorded on a distributed ledg-
+1
+er, blockchain, or other publicly accessible 
+2
+and auditable digital data structure; 
+3
+‘‘(ii) 
+has 
+transactions 
+confirmed 
+4
+through an independently verifiable proc-
+5
+ess; and 
+6
+‘‘(iii) cannot be easily modified, and 
+7
+where any modification is subject to the 
+8
+network consensus rules; 
+9
+‘‘(B) is capable of being transferred be-
+10
+tween persons without an intermediary party; 
+11
+and 
+12
+‘‘(C) does not represent a financial interest 
+13
+in a centralized company, partnership, or fund, 
+14
+including an ownership or debt interest, revenue 
+15
+share, or entitlement to any interest or dividend 
+16
+payment.’’. 
+17
+(b) AMENDMENTS TO THE SECURITIES EXCHANGE 
+18
+ACT OF 1934.— 
+19
+(1) 
+DEFINITION
+OF
+EXCHANGE.—Section 
+20
+3(a)(1) of the Securities Exchange Act of 1934 (15 
+21
+U.S.C. 78c(a)(1)) is amended by adding at the end 
+22
+the following: ‘‘The term ‘exchange’ does not include 
+23
+a person, organization, association, or group of per-
+24
+sons to the extent such person, organization, asso-
+25
+03:00 Oct 07, 2021
+H5496
+16 
+•HR 5496 IH
+ciation, or group of persons constitutes, maintains, 
+1
+or provides a marketplace or facilitates bringing to-
+2
+gether purchasers and sellers of tokens subject to a 
+3
+safe harbor under section 4B of the Securities Act 
+4
+of 1933, or otherwise performs with respect to such 
+5
+tokens the functions commonly performed by a stock 
+6
+exchange as that term is generally understood.’’. 
+7
+(2) DEFINITION OF BROKER.—Section 3(a)(4) 
+8
+of the Securities Exchange Act of 1934 (15 U.S.C. 
+9
+78c(a)(4)) is amended by adding at the end the fol-
+10
+lowing: 
+11
+‘‘(G) EXCEPTION WITH RESPECT TO CER-
+12
+TAIN TOKENS.—The term ‘broker’ does not in-
+13
+clude a person to the extent the person engages 
+14
+in the business of effecting transactions in to-
+15
+kens subject to a safe harbor under section 4B 
+16
+of the Securities Act of 1933 for the account of 
+17
+others.’’. 
+18
+(3) DEFINITION OF DEALER.—Section 3(a)(5) 
+19
+of the Securities Exchange Act of 1934 (15 U.S.C. 
+20
+78c(a)(5)) is amended by adding at the end the fol-
+21
+lowing: 
+22
+‘‘(D) EXCEPTION WITH RESPECT TO CER-
+23
+TAIN TOKENS.—The term ‘dealer’ does not in-
+24
+clude a person to the extent the person engages 
+25
+03:00 Oct 07, 2021
+H5496
+17 
+•HR 5496 IH
+in the business of buying and selling tokens 
+1
+subject to a safe harbor under section 4B of the 
+2
+Securities Act of 1933 for such person’s own 
+3
+account through a broker or otherwise.’’. 
+4
+(4) DEFINITION OF CLEARING AGENCY.—Sec-
+5
+tion 3(a)(23)(B) of the Securities Exchange Act of 
+6
+1934 (15 U.S.C. 78c(a)(23)(B)) is amended— 
+7
+(A) by striking ‘‘, or (vi)’’ and inserting ‘‘; 
+8
+(vi)’’; and 
+9
+(B) by striking the period at the end and 
+10
+inserting ‘‘; or (vii) a person, organization, as-
+11
+sociation, or group of persons with respect to 
+12
+activities specified in subparagraph (A) involv-
+13
+ing tokens subject to a safe harbor under sec-
+14
+tion 4B of the Securities Act of 1933.’’. 
+15
+(5) DEFINITION
+OF
+TRANSFER
+AGENT.—Sec-
+16
+tion 3(a)(25) of the Securities Exchange Act of 
+17
+1934 (15 U.S.C. 78c(a)(25)) is amended— 
+18
+(A) by striking ‘‘or any registered clearing 
+19
+agency’’ and inserting ‘‘, any registered clearing 
+20
+agency’’; and 
+21
+(B) by striking the period at the end and 
+22
+inserting ‘‘, or any person, organization, asso-
+23
+ciation, or group of persons who performs such 
+24
+functions solely with respect to tokens subject 
+25
+03:00 Oct 07, 2021
+H5496
+18 
+•HR 5496 IH
+to a safe harbor under section 4B of the Securi-
+1
+ties Act of 1933.’’. 
+2
+(6) 
+REGISTRATION
+EXEMPTION.—Section 
+3
+12(g)(2) of the Securities Exchange Act of 1934 (15 
+4
+U.S.C. 78l(g)(2)) is amended by adding at the end 
+5
+the following: 
+6
+‘‘(I) any token offered and sold in reliance on 
+7
+a safe harbor under section 4B of the Securities Act 
+8
+of 1933.’’. 
+9
+(c) AMENDMENT
+TO
+THE INVESTMENT ADVISERS 
+10
+ACT OF 1940.—Section 202(a)(11) of the Investment Ad-
+11
+visers Act of 1940 (15 U.S.C. 80b–2(a)(11)) is amended 
+12
+by adding at the end the following: ‘‘The term ‘investment 
+13
+adviser’ does not include a person to the extent the person 
+14
+advises others with respect to, or issues or promulgates 
+15
+analyses or reports concerning, tokens subject to a safe 
+16
+harbor under section 4B of the Securities Act of 1933.’’. 
+17
+(d) RULEMAKING.—Not later than the end of the 1- 
+18
+year period beginning on the date of enactment of this 
+19
+Act, the Securities and Exchange Commission shall issue 
+20
+rules to carry out the amendments made by this Act. 
+21
+(e) EFFECTIVE DATE.—The provisions of law added 
+22
+by the amendments made by this Act shall take effect 
+23
+03:00 Oct 07, 2021
+H5496
+19 
+•HR 5496 IH
+after the end of the 1-year period beginning on the date 
+1
+of enactment of this Act. 
+2
+Æ 
+03:00 Oct 07, 2021
+H5496

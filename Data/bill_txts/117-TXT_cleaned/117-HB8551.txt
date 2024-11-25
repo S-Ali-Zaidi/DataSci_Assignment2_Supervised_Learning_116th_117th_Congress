@@ -1,0 +1,827 @@
+A BILL 
+To improve air quality management and the safety of com-
+munities using the best available monitoring technology 
+and data. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Technology Assess-
+4
+ment for Air Quality Management Act of 2022’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds that— 
+7
+(1) the Environmental Protection Agency can 
+8
+further strengthen air quality planning and manage-
+9
+03:59 Aug 09, 2022
+H8551
+2 
+•HR 8551 IH
+ment by consistently gathering information on local 
+1
+air quality monitoring systems across the United 
+2
+States; 
+3
+(2) newer air sensor technologies create the 
+4
+possibility for enhanced, community-scale air pollu-
+5
+tion data; 
+6
+(3) despite national progress in reducing air 
+7
+pollution, more than 40 percent of people in the 
+8
+United States live in places with unhealthy levels of 
+9
+ozone or particle pollution; 
+10
+(4) people of color, Indigenous people, and low- 
+11
+income communities bear disproportionately higher 
+12
+exposures and health burdens due to air pollution; 
+13
+(5) air quality can vary up to 800 percent from 
+14
+block to block within a single neighborhood; and 
+15
+(6) existing methods that are prescribed for 
+16
+basin-wide air quality monitoring are cost-prohibitive 
+17
+for monitoring community-scale air quality. 
+18
+SEC. 3. DEFINITIONS. 
+19
+In this Act: 
+20
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+21
+trator’’ means the Administrator of the Environ-
+22
+mental Protection Agency. 
+23
+03:59 Aug 09, 2022
+H8551
+3 
+•HR 8551 IH
+(2) AIR POLLUTANT.—The term ‘‘air pollutant’’ 
+1
+has the meaning given such term in section 302(g) 
+2
+of the Clean Air Act (42 U.S.C. 7602(g)). 
+3
+(3) AREA SOURCE.—The term ‘‘area source’’ 
+4
+has the meaning given the term in section 112(a) of 
+5
+the Clean Air Act (42 U.S.C. 7412(a)). 
+6
+(4) ENVIRONMENTAL JUSTICE.—The term ‘‘en-
+7
+vironmental justice’’ means the fair treatment and 
+8
+meaningful involvement of all people, regardless of 
+9
+race, color, culture, national origin, or income, in the 
+10
+development, implementation, and enforcement of 
+11
+environmental laws (including regulations) and poli-
+12
+cies to ensure that each person enjoys— 
+13
+(A) the same degree of protection from en-
+14
+vironmental and health hazards; and 
+15
+(B) equal access to any Federal agency ac-
+16
+tion relating to the development, implementa-
+17
+tion, and enforcement of environmental laws 
+18
+(including regulations) and policies for the pur-
+19
+pose of having a healthy environment in which 
+20
+to live, learn, work, and recreate. 
+21
+(5) ENVIRONMENTAL
+JUSTICE
+COMMUNITY.— 
+22
+The term ‘‘environmental justice community’’ means 
+23
+a community with significant representation of com-
+24
+munities of color, low-income communities, or Tribal 
+25
+03:59 Aug 09, 2022
+H8551
+4 
+•HR 8551 IH
+and Indigenous communities, that experiences, or is 
+1
+at risk of experiencing, higher or more adverse 
+2
+human health or environmental effects, as compared 
+3
+to other communities. 
+4
+(6) HYBRID
+METHOD.—The term ‘‘hybrid 
+5
+method’’ means a method for monitoring air pollut-
+6
+ants that combines information from multiple 
+7
+sources, including monitors at ground level, mod-
+8
+eling, and satellites, to aid in calculating the ex-
+9
+pected number of exceedances per year and the de-
+10
+sign values for air pollutants for purposes of deter-
+11
+mining compliance or non-compliance with the na-
+12
+tional ambient air quality standards for those pollut-
+13
+ants. 
+14
+(7) HYPERLOCAL
+AIR
+QUALITY
+MONITORING 
+15
+SYSTEM.—The term ‘‘hyperlocal air quality moni-
+16
+toring system’’ means a system of monitoring air 
+17
+pollutants that— 
+18
+(A) yields frequently repeated, ongoing 
+19
+measurements of air pollutants at a geographic 
+20
+scale that is— 
+21
+(i) as small as practicable to identify 
+22
+communities; and 
+23
+(ii) not larger than that of a census 
+24
+tract; and 
+25
+03:59 Aug 09, 2022
+H8551
+5 
+•HR 8551 IH
+(B) identifies hotspots of persistent ele-
+1
+vated levels of air pollutants localized to, and 
+2
+caused by the characteristics of, a specific geo-
+3
+graphic location. 
+4
+(8) HYPERLOCAL DATA.— 
+5
+(A) IN GENERAL.—The term ‘‘hyperlocal 
+6
+data’’ means the data returned by a hyperlocal 
+7
+air quality monitoring system. 
+8
+(B) INCLUSIONS.—The term ‘‘hyperlocal 
+9
+data’’ may include data on— 
+10
+(i) the health impacts of air pollution; 
+11
+and 
+12
+(ii) sources of air pollutants. 
+13
+(9) INDIRECT
+SOURCE.—The term ‘‘indirect 
+14
+source’’ has the meaning given the term in section 
+15
+110(a)(5)(C) of the Clean Air Act (42 U.S.C. 
+16
+7410(a)(5)(C)). 
+17
+(10) 
+MAJOR
+SOURCE.—The 
+term 
+‘‘major 
+18
+source’’ has the meaning given the term in section 
+19
+501 of the Clean Air Act (42 U.S.C. 7661). 
+20
+(11) REFERENCE
+METHOD.—The term ‘‘ref-
+21
+erence method’’ has the meaning given such term in 
+22
+section 50.1 of title 40, Code of Federal Regula-
+23
+tions, as in effect on the date of enactment of this 
+24
+Act. 
+25
+03:59 Aug 09, 2022
+H8551
+6 
+•HR 8551 IH
+(12) RELEVANT COMMITTEES OF CONGRESS.— 
+1
+The term ‘‘relevant committees of Congress’’ 
+2
+means— 
+3
+(A) the Committee on Environment and 
+4
+Public Works of the Senate; and 
+5
+(B) the Committee on Energy and Com-
+6
+merce of the House of Representatives. 
+7
+SEC. 4. COMPENDIUM OF AIR QUALITY MONITORING TECH-
+8
+NOLOGIES AND USES OF AIR QUALITY IN-
+9
+SIGHTS. 
+10
+Not later than 1 year after the date of enactment 
+11
+of this Act, and annually thereafter, the Administrator 
+12
+shall update the Air Sensor Toolbox of the Environmental 
+13
+Protection Agency or an equivalent online, publicly avail-
+14
+able compendium— 
+15
+(1) to describe all types of common air quality 
+16
+monitor technologies, which may include— 
+17
+(A) Federal Reference Method or Federal 
+18
+Equivalent Method monitors; 
+19
+(B) mobile monitoring platforms; 
+20
+(C) low-cost stationary monitors; 
+21
+(D) satellite sensors and surface monitors; 
+22
+(E) fenceline monitoring instruments; 
+23
+(F) high-resolution cameras; and 
+24
+03:59 Aug 09, 2022
+H8551
+7 
+•HR 8551 IH
+(G) other technologies, as determined to be 
+1
+appropriate by the Administrator; 
+2
+(2) to describe the uses of the data associated 
+3
+with the types of common air quality monitor tech-
+4
+nologies described under paragraph (1); 
+5
+(3) to update and describe the advantages of 
+6
+monitoring technologies with respect to different air 
+7
+quality management applications, which may in-
+8
+clude— 
+9
+(A) the costs and ease of purchase, instal-
+10
+lation, operation, and maintenance of monitors; 
+11
+(B) air pollutant or air pollutants mon-
+12
+itored; 
+13
+(C) spatial resolution; 
+14
+(D) temporal resolution; 
+15
+(E) frequency of data collection by mon-
+16
+itors; 
+17
+(F) data quality and data processing 
+18
+needs; and 
+19
+(G) compatibility, accessibility, and ease of 
+20
+use of a type of monitor with online databases; 
+21
+(4) to describe— 
+22
+(A) potential incongruities between air 
+23
+quality monitor measurements from reference 
+24
+methods and hybrid methods; and 
+25
+03:59 Aug 09, 2022
+H8551
+8 
+•HR 8551 IH
+(B) relevant insights from data returned 
+1
+from hybrid methods, despite the potential in-
+2
+congruities described in subparagraph (A); 
+3
+(5) to describe the availability of, and how to 
+4
+access, data on— 
+5
+(A) the location and nature of likely 
+6
+sources of air pollution, including major 
+7
+sources, area sources, and indirect sources; and 
+8
+(B) potential health impacts that may re-
+9
+sult from air pollution exposure; 
+10
+(6) to connect and integrate the Air Sensor 
+11
+Toolbox 
+or 
+equivalent 
+compendium 
+with 
+the 
+12
+EJSCREEN mapping tool of the Environmental 
+13
+Protection Agency, the Environmental Information 
+14
+Exchange Network, and other relevant Federal, 
+15
+State, and local environmental justice mapping and 
+16
+screening tools— 
+17
+(A) to inform communities and local air 
+18
+agencies of local air pollution concerns; and 
+19
+(B) to help communities understand and 
+20
+describe— 
+21
+(i) the multiple and cumulative expo-
+22
+sures identified in environmental human 
+23
+health analyses under section 3–301(b) of 
+24
+Executive Order 12898 (42 U.S.C. 4321 
+25
+03:59 Aug 09, 2022
+H8551
+9 
+•HR 8551 IH
+note; relating to Federal actions to address 
+1
+environmental justice in minority popu-
+2
+lations and low-income populations); and 
+3
+(ii) any exclusion from participation 
+4
+in, denial of and the benefits of, or dis-
+5
+crimination under programs and activities 
+6
+receiving Federal financial assistance on 
+7
+the ground of race, color, or national ori-
+8
+gin, as prohibited under section 601 of the 
+9
+Civil Rights Act of 1964 (42 U.S.C. 
+10
+2000d); and 
+11
+(7) to describe how to integrate air quality 
+12
+monitoring technologies and data across spatial and 
+13
+temporal scales to improve quantitative use of low- 
+14
+cost sensors, satellite sensors, and other tech-
+15
+nologies. 
+16
+SEC. 5. AIR QUALITY TECHNOLOGY WORKING GROUP. 
+17
+(a) ESTABLISHMENT.— 
+18
+(1) IN
+GENERAL.—Not later than 180 days 
+19
+after the date of enactment of this Act, the Adminis-
+20
+trator shall establish an Air Quality Technology 
+21
+Working Group (referred to in this section as the 
+22
+‘‘Working Group’’). 
+23
+(2) MEMBERSHIP.—The Working Group shall 
+24
+consist of 30 members, including— 
+25
+03:59 Aug 09, 2022
+H8551
+10 
+•HR 8551 IH
+(A) 1 representative from each Regional 
+1
+Office of the Environmental Protection Agency; 
+2
+(B) not less than 1 representative with a 
+3
+demonstrated record of experience with device 
+4
+installation, operation, maintenance, and cali-
+5
+bration of different air quality monitoring ap-
+6
+proaches; 
+7
+(C) not less than 3 representatives with 
+8
+demonstrated records of experience in data 
+9
+science as it pertains to using measurements 
+10
+from monitoring technologies to develop air 
+11
+quality insights for environmental justice and 
+12
+associated air quality monitoring applications; 
+13
+(D) not less than 3 representatives of envi-
+14
+ronmental justice community-based organiza-
+15
+tions, coalitions, networks, or alliances with ex-
+16
+perience in using new technologies to assess and 
+17
+address air pollution in the communities of 
+18
+those environmental justice community-based 
+19
+organizations, coalitions, networks, or alliances; 
+20
+(E) not less than 1 representative with a 
+21
+demonstrated record of experience in outreach 
+22
+and engagement with environmental justice 
+23
+communities; 
+24
+03:59 Aug 09, 2022
+H8551
+11 
+•HR 8551 IH
+(F) not less than 1 representative from the 
+1
+national headquarters of the Environmental 
+2
+Protection Agency; 
+3
+(G) not less than 1 representative from a 
+4
+State air agency; 
+5
+(H) not less than 1 representative from a 
+6
+local air agency; 
+7
+(I) not less than 1 representative from a 
+8
+Tribal air agency; 
+9
+(J) not less than 2 representatives who— 
+10
+(i) are— 
+11
+(I) from public health depart-
+12
+ments; or 
+13
+(II) public health scientists; and 
+14
+(ii) have a demonstrated record of ex-
+15
+perience with translating information col-
+16
+lected from monitoring technologies into 
+17
+health insights for environmental justice 
+18
+applications and air quality management; 
+19
+and 
+20
+(K) not less than 1 representative from the 
+21
+air quality technology industry. 
+22
+(b) MONITORING SYSTEM TEMPLATE.—Not later 
+23
+than 1 year after the date on which the Working Group 
+24
+is established under subsection (a)(1), the Working Group 
+25
+03:59 Aug 09, 2022
+H8551
+12 
+•HR 8551 IH
+shall develop and submit to the relevant committees of 
+1
+Congress a report that includes— 
+2
+(1) templates for integrated air quality moni-
+3
+toring systems ranging in cost estimates, population 
+4
+sizes of communities served, atmospheric dispersion 
+5
+dynamics of air pollutants, and other relevant pa-
+6
+rameters, as determined to be appropriate by the 
+7
+Working Group, that provide a holistic under-
+8
+standing of local air pollutant measurements across 
+9
+time, which may incorporate— 
+10
+(A) 1 or more in-situ monitors; 
+11
+(B) 1 or more satellite sensors; 
+12
+(C) computer modeling; 
+13
+(D) multipollutant monitoring options; 
+14
+(E) single pollutant monitoring options; 
+15
+and 
+16
+(F) data collection, interpretation, and re-
+17
+porting to relevant Federal, State, local, and 
+18
+Tribal air agencies; 
+19
+(2) a description of the costs and capacity 
+20
+needs associated with the integrated air quality mon-
+21
+itoring systems described under paragraph (1), in-
+22
+cluding— 
+23
+(A) costs of purchase, operation, mainte-
+24
+nance, and calibration of monitor technologies; 
+25
+03:59 Aug 09, 2022
+H8551
+13 
+•HR 8551 IH
+(B) workforce needs; 
+1
+(C) data infrastructure needs; and 
+2
+(D) any other needs, as determined to be 
+3
+appropriate by the Administrator; and 
+4
+(3) technology modernization targets for up-
+5
+grades to integrated air quality monitoring stations. 
+6
+(c) HYPERLOCAL MONITORING SUPPORT.—Not later 
+7
+than 360 days after the date on which the Working Group 
+8
+is established under subsection (a)(1), the Working Group 
+9
+shall develop and submit to Congress a report that in-
+10
+cludes— 
+11
+(1) recommendations for how the Administrator 
+12
+can consider data returned from hybrid methods in 
+13
+designations pursuant to section 107 of the Clean 
+14
+Air Act (42 U.S.C. 7407); and 
+15
+(2) recommendations for dedicated staffing at 
+16
+the Environmental Protection Agency to robustly 
+17
+support communities interested in hyperlocal data, 
+18
+for example, assistance with grant applications, co- 
+19
+location of low-cost monitors with Federal reference 
+20
+monitors, and data analysis. 
+21
+SEC. 6. NATIONAL INFRASTRUCTURE INVENTORY. 
+22
+(a) IN GENERAL.—Not later than 180 days after the 
+23
+date of enactment of this Act, the Comptroller General 
+24
+of the United States, in coordination with the Environ-
+25
+03:59 Aug 09, 2022
+H8551
+14 
+•HR 8551 IH
+mental Protection Agency, shall carry out a study to in-
+1
+ventory national air quality monitoring infrastructure by 
+2
+documenting— 
+3
+(1) locations, operation statuses, frequencies of 
+4
+data return, and dates of installation of Federal air 
+5
+quality monitors; 
+6
+(2) the number of people living within 1⁄2 mile 
+7
+of Federal air quality monitors that continuously re-
+8
+turn data; 
+9
+(3) in coordination with Regional Offices of the 
+10
+Environmental Protection Agency, and State, local, 
+11
+and Tribal air agencies, the locations, operation 
+12
+statuses, and dates of installation of additional air 
+13
+quality monitors that are managed by State, local, 
+14
+and Tribal air agencies; 
+15
+(4) data infrastructure and online platforms 
+16
+that are associated with datasets collected by Fed-
+17
+eral, State, local, and Tribal air quality monitors 
+18
+that are documented under paragraphs (1) and (3); 
+19
+and 
+20
+(5) existing workforce capacity and needs for 
+21
+air quality monitoring, analysis and State and local 
+22
+engagement across Federal, State, local, and Tribal 
+23
+levels. 
+24
+03:59 Aug 09, 2022
+H8551
+15 
+•HR 8551 IH
+(b) REPORT.—Not later than 2 years after the date 
+1
+of enactment of this Act, the Administrator shall submit 
+2
+to the relevant committees of Congress a report that in-
+3
+cludes— 
+4
+(1) a description of the study carried out under 
+5
+subsection (a); 
+6
+(2) a description of the results of that study; 
+7
+(3) a map of high-priority areas for air quality 
+8
+monitor deployment, based on factors such as prox-
+9
+imity to or effects on environmental justice commu-
+10
+nities, discrepancies between monitor readings and 
+11
+satellite or low-cost sensor readings, proliferation of 
+12
+air pollution sources, and the lack of existing Fed-
+13
+eral Reference Method or Federal Equivalent Meth-
+14
+od monitors; and 
+15
+(4) recommendations for legislative and regu-
+16
+latory action that would facilitate more effective and 
+17
+targeted air quality management across scales, 
+18
+which may include— 
+19
+(A) monitor placement; 
+20
+(B) monitor accuracy; 
+21
+(C) integration of monitor, modeling, and 
+22
+satellite technologies; 
+23
+(D) 
+Federal 
+Equivalent 
+Methods 
+for 
+24
+hyperlocal monitoring; 
+25
+03:59 Aug 09, 2022
+H8551
+16 
+•HR 8551 IH
+(E) information gathering and sharing; 
+1
+and 
+2
+(F) maintenance and regular upgrades to 
+3
+monitors and data infrastructure. 
+4
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS. 
+5
+There is authorized to be appropriated to the Admin-
+6
+istrator $11,000,000 for each of fiscal years 2023 through 
+7
+2027 for the purposes of— 
+8
+(1) carrying out this Act; and 
+9
+(2) funding 8 new full-time equivalent positions 
+10
+to assist the Administrator in carrying out this Act. 
+11
+SEC. 8. SAVINGS CLAUSE. 
+12
+Nothing in this Act shall be construed as altering, 
+13
+limiting, revising, or weakening existing Federal law to 
+14
+protect public health or welfare from air pollution. 
+15
+Æ 
+03:59 Aug 09, 2022
+H8551

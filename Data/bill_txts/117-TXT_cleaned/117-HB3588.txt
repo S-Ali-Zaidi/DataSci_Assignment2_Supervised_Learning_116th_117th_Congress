@@ -1,0 +1,741 @@
+A BILL 
+To coordinate Federal research and development efforts fo-
+cused on modernizing mathematics in STEM education 
+through mathematical and statistical modeling, including 
+data-driven 
+and 
+computational 
+thinking, 
+problem, 
+project, and performance-based learning and assessment, 
+interdisciplinary exploration, and career connections, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Mathematical and Sta-
+4
+tistical Modeling Education Act’’. 
+5
+05:28 Jun 24, 2021
+H3588
+2 
+•HR 3588 IH
+SEC. 2. MATHEMATICAL AND STATISTICAL MODELING EDU-
+1
+CATION. 
+2
+(a) FINDINGS.—Congress finds the following: 
+3
+(1) The mathematics taught in schools, includ-
+4
+ing statistical problem solving and data science, is 
+5
+not keeping pace with the rapidly evolving needs of 
+6
+the public and private sector, resulting in a STEM 
+7
+skills shortage and employers needing to expend re-
+8
+sources to train and upskill employees. 
+9
+(2) According to the Bureau of Labor Statis-
+10
+tics, the United States will need 1,000,000 addi-
+11
+tional STEM professionals than it is on track to 
+12
+produce in the coming decade. 
+13
+(3) The field of data science, which is relevant 
+14
+in almost every workplace, relies on the ability to 
+15
+work in teams and use computational tools to do 
+16
+mathematical and statistical problem solving. 
+17
+(4) Many STEM occupations offer higher 
+18
+wages, more opportunities for advancement, and a 
+19
+higher degree of job security than non-STEM jobs. 
+20
+(5) The STEM workforce relies on computa-
+21
+tional and data-driven discovery, decision making, 
+22
+and predictions, from models that often must quan-
+23
+tify uncertainty, as in weather predictions, spread of 
+24
+disease, or financial forecasting. 
+25
+05:28 Jun 24, 2021
+H3588
+3 
+•HR 3588 IH
+(6) Most fields, including analytics, science, eco-
+1
+nomics, publishing, marketing, actuarial science, op-
+2
+erations research, engineering, and medicine, require 
+3
+data savvy, including the ability to select reliable 
+4
+sources of data, identify and remove errors in data, 
+5
+recognize and quantify uncertainty in data, visualize 
+6
+and analyze data, and use data to develop under-
+7
+standing or make predictions. 
+8
+(7) Rapidly emerging fields, such as artificial 
+9
+intelligence, machine learning, quantum computing 
+10
+and quantum information, all rely on mathematical 
+11
+and statistical concepts, which are critical to prove 
+12
+under what circumstances an algorithm or experi-
+13
+ment will work and when it will fail. 
+14
+(8) Military academies have a long tradition in 
+15
+teaching mathematical modeling and would benefit 
+16
+from the ability to recruit students with this exper-
+17
+tise from their other school experiences. 
+18
+(9) Mathematical modeling has been a strong 
+19
+educational priority globally, especially in China, 
+20
+where participation in United States mathematical 
+21
+modeling challenges in high school and higher edu-
+22
+cation is orders of magnitude higher than in the 
+23
+United States, and Chinese teams are taking a ma-
+24
+jority of the prizes. 
+25
+05:28 Jun 24, 2021
+H3588
+4 
+•HR 3588 IH
+(10) Girls participate in mathematical modeling 
+1
+challenges at all levels at similar levels as boys, while 
+2
+in traditional mathematical competitions girls par-
+3
+ticipate less and drop out at every stage. Students 
+4
+cite opportunity for teamwork, using mathematics 
+5
+and statistics in meaningful contexts, ability to use 
+6
+computation, and emphasis on communication as 
+7
+reasons for continued participation in modeling chal-
+8
+lenges. 
+9
+(b) DEFINITIONS.—In this section: 
+10
+(1) DIRECTOR.—The term ‘‘Director’’ means 
+11
+the Director of the National Science Foundation. 
+12
+(2) FEDERAL LABORATORY.—The term ‘‘Fed-
+13
+eral laboratory’’ has the meaning given such term in 
+14
+section 4 of the Stevenson-Wydler Technology Inno-
+15
+vation Act of 1980 (15 U.S.C. 3703). 
+16
+(3) FOUNDATION.—The term ‘‘Foundation’’ 
+17
+means the National Science Foundation. 
+18
+(4) INSTITUTION OF HIGHER EDUCATION.—The 
+19
+term ‘‘institution of higher education’’ has the 
+20
+meaning given such term in section 101(a) of the 
+21
+Higher Education Act of 1965 (20 U.S.C. 1001(a)). 
+22
+(5) MATHEMATICAL
+MODELING.—The term 
+23
+‘‘mathematical modeling’’ has the meaning given the 
+24
+term in the 2019 Guidelines to Assessment and In-
+25
+05:28 Jun 24, 2021
+H3588
+5 
+•HR 3588 IH
+struction in Mathematical Modeling Education 
+1
+(GAIMME) report, 2nd edition. 
+2
+(6) OPERATIONS RESEARCH.—The term ‘‘oper-
+3
+ations research’’ means the application of scientific 
+4
+methods to the management and administration of 
+5
+organized military, governmental, commercial, and 
+6
+industrial processes to maximize operational effi-
+7
+ciency. 
+8
+(7) STATISTICAL MODELING.—The term ‘‘sta-
+9
+tistical modeling’’ has the meaning given the term in 
+10
+the 2021 Guidelines to Assessment and Instruction 
+11
+in Statistical Education (GAISE II) report. 
+12
+(8) STEM.—The term ‘‘STEM’’ means the aca-
+13
+demic and professional disciplines of science, tech-
+14
+nology, engineering, and mathematics. 
+15
+(c) PREPARING EDUCATORS TO ENGAGE STUDENTS 
+16
+IN MATHEMATICAL AND STATISTICAL MODELING.—The 
+17
+Director shall provide grants on a merit-reviewed, com-
+18
+petitive basis to institutions of higher education, and non-
+19
+profit organizations (or a consortium thereof) for research 
+20
+and development to advance innovative approaches to sup-
+21
+port and sustain high-quality mathematical modeling edu-
+22
+cation in schools operated by local education agencies, in-
+23
+cluding statistical modeling, data science, operations re-
+24
+search, and computational thinking. The Director shall en-
+25
+05:28 Jun 24, 2021
+H3588
+6 
+•HR 3588 IH
+courage applicants to form partnerships to address critical 
+1
+transitions, such as middle school to high school, high 
+2
+school to college, and school to internships and jobs. 
+3
+(d) APPLICATION.—An entity seeking a grant under 
+4
+subsection (c) shall submit an application at such time, 
+5
+in such manner, and containing such information as the 
+6
+Director may require. The application shall include the fol-
+7
+lowing: 
+8
+(1) A description of the target population to be 
+9
+served by the research activity for which such grant 
+10
+is sought, including student subgroups described in 
+11
+section 1111(b)(2)(B)(xi) of the Elementary and 
+12
+Secondary Education Act of 1965 (20 U.S.C. 
+13
+6311(b)(2)(B)(xi)), and students experiencing home-
+14
+lessness and children and youth in foster care. 
+15
+(2) A description of the process for recruitment 
+16
+and selection of students, educators, or local edu-
+17
+cational agencies to participate in such research ac-
+18
+tivity. 
+19
+(3) A description of how such research activity 
+20
+may inform efforts to promote the engagement and 
+21
+achievement of students in prekindergarten through 
+22
+grade 12 in mathematical modeling and statistical 
+23
+modeling using problem-based learning with contex-
+24
+tualized data and computational tools. 
+25
+05:28 Jun 24, 2021
+H3588
+7 
+•HR 3588 IH
+(4) In the case of a proposal consisting of a 
+1
+partnership or partnerships with 1 or more local 
+2
+educational agencies and 1 or more researchers, a 
+3
+plan for establishing a sustained partnership that is 
+4
+jointly developed and managed, draws from the ca-
+5
+pacities of each partner, and is mutually beneficial. 
+6
+(e) PARTNERSHIPS.—In awarding grants under sub-
+7
+section (c), the Director shall encourage applications that 
+8
+include— 
+9
+(1) partnership with a nonprofit organization or 
+10
+an institution of higher education that has extensive 
+11
+experience and expertise in increasing the participa-
+12
+tion of students in prekindergarten through grade 
+13
+12 in mathematical modeling and statistical mod-
+14
+eling; 
+15
+(2) partnership with a local educational agency, 
+16
+a consortium of local educational agencies, or Tribal 
+17
+educational agencies; 
+18
+(3) an assurance from school leaders to making 
+19
+reforms and activities proposed by the applicant a 
+20
+priority; 
+21
+(4) ways to address critical transitions, such as 
+22
+middle school to high school, high school to college, 
+23
+and school to internships and jobs; 
+24
+05:28 Jun 24, 2021
+H3588
+8 
+•HR 3588 IH
+(5) input from education researchers and cog-
+1
+nitive scientists, as well as practitioners in research 
+2
+and industry, so that what is being taught is up-to- 
+3
+date in terms of content and pedagogy; 
+4
+(6) a communications strategy for early con-
+5
+versations with parents, school leaders, school 
+6
+boards, community members, employers, and other 
+7
+stakeholders; and 
+8
+(7) resources for parents, school leaders, school 
+9
+boards, community members, and other stakeholders 
+10
+to build skills in modeling and analytics. 
+11
+(f) USE OF FUNDS.—An entity that receives a grant 
+12
+under this section shall use the grant funds for research 
+13
+and development activities to advance innovative ap-
+14
+proaches to support and sustain high-quality mathe-
+15
+matical modeling education in public schools, including 
+16
+statistical modeling, data science, operations research, and 
+17
+computational thinking, which may include— 
+18
+(1) engaging prekindergarten through grade 12 
+19
+educators in professional learning opportunities to 
+20
+enhance mathematical modeling and statistical prob-
+21
+lem solving knowledge, and developing training and 
+22
+best practices to provide more interdisciplinary 
+23
+learning opportunities; 
+24
+05:28 Jun 24, 2021
+H3588
+9 
+•HR 3588 IH
+(2) conducting research on curricula and teach-
+1
+ing practices that empower students to choose the 
+2
+mathematical, statistical, computational, and techno-
+3
+logical tools that they will apply to a problem, as is 
+4
+required in life and the workplace, rather than pre-
+5
+scribing a particular approach or method; 
+6
+(3) providing students with opportunities to ex-
+7
+plore and analyze real data sets from contexts that 
+8
+are meaningful to the students, which may include— 
+9
+(A) missing or incorrect values; 
+10
+(B) quantities of data that require choice 
+11
+and use of appropriate technology; 
+12
+(C) multiple data sets that require choices 
+13
+about which data are relevant to the current 
+14
+problem; and 
+15
+(D) data of various types including quan-
+16
+tities, words, and images; 
+17
+(4) taking a school or district-wide approach to 
+18
+professional development in mathematical modeling 
+19
+and statistical modeling; 
+20
+(5) engaging rural local agencies; 
+21
+(6) supporting research on effective mathe-
+22
+matical modeling and statistical modeling teaching 
+23
+practices, including problem- and project-based 
+24
+learning, universal design for accessibility, and ru-
+25
+05:28 Jun 24, 2021
+H3588
+10 
+•HR 3588 IH
+brics and mastery-based grading practices to assess 
+1
+student performance; 
+2
+(7) designing and developing pre-service and in- 
+3
+service training resources to assist educators in 
+4
+adopting transdisciplinary teaching practices within 
+5
+mathematics and statistics courses; 
+6
+(8) coordinating with local partners to adapt 
+7
+mathematics and statistics teaching practices to le-
+8
+verage local natural, business, industry, and commu-
+9
+nity assets in order to support community-based 
+10
+learning; 
+11
+(9) providing hands-on training and research 
+12
+opportunities for mathematics and statistics edu-
+13
+cators at Federal laboratories, institutions of higher 
+14
+education, or in industry; 
+15
+(10) developing mechanisms for partnerships 
+16
+between educators and employers to help educators 
+17
+and students make connections between their mathe-
+18
+matics and statistics projects and topics of relevance 
+19
+in today’s world; 
+20
+(11) designing and implementing professional 
+21
+development courses and experiences, including men-
+22
+toring for educators, that combine face-to-face and 
+23
+online experiences; 
+24
+05:28 Jun 24, 2021
+H3588
+11 
+•HR 3588 IH
+(12) addressing critical transitions, such as 
+1
+middle school to high school, high school to college, 
+2
+and school to internships and jobs; and 
+3
+(13) any other activity the Director determines 
+4
+will accomplish the goals of this section. 
+5
+(g) EVALUATIONS.—All proposals for grants under 
+6
+this section shall include an evaluation plan that includes 
+7
+the use of outcome oriented measures to assess the impact 
+8
+and efficacy of the grant. Each recipient of a grant under 
+9
+this section shall include results from these evaluative ac-
+10
+tivities in annual and final projects. 
+11
+(h) ACCOUNTABILITY AND DISSEMINATION.— 
+12
+(1) EVALUATION
+REQUIRED.—The Director 
+13
+shall evaluate the portfolio of grants awarded under 
+14
+this section. Such evaluation shall— 
+15
+(A) use a common set of benchmarks and 
+16
+tools to assess the results of research conducted 
+17
+under such grants and identify best practices; 
+18
+and 
+19
+(B) to the extent practicable, integrate the 
+20
+findings of research resulting from the activities 
+21
+funded through such grants with the findings of 
+22
+other research on student’s pursuit of degrees 
+23
+or careers in STEM. 
+24
+05:28 Jun 24, 2021
+H3588
+12 
+•HR 3588 IH
+(2) REPORT ON EVALUATIONS.—Not later than 
+1
+180 days after the completion of the evaluation 
+2
+under paragraph (1), the Director shall submit to 
+3
+Congress and make widely available to the public a 
+4
+report that includes— 
+5
+(A) the results of the evaluation; and 
+6
+(B) any recommendations for administra-
+7
+tive and legislative action that could optimize 
+8
+the effectiveness of the grants awarded under 
+9
+this section. 
+10
+(i) AUTHORIZATION OF APPROPRIATIONS.—For each 
+11
+of fiscal years 2022 through 2026, there are authorized 
+12
+out of funds appropriated to the National Science Founda-
+13
+tion, $10,000,000 to carry out the activities under this 
+14
+section. 
+15
+SEC. 3. NASEM REPORT ON MATHEMATICAL AND STATIS-
+16
+TICAL 
+MODELING 
+EDUCATION 
+IN 
+PRE-
+17
+KINDERGARTEN THROUGH 12TH GRADE. 
+18
+(a) STUDY.—Not later than 60 days after the date 
+19
+of enactment of this Act, the Director shall seek to enter 
+20
+into an agreement with the National Academies of 
+21
+Sciences, Engineering and Medicine (in this section re-
+22
+ferred to as ‘‘NASEM’’) (or if NASEM declines to enter 
+23
+into such an agreement, another appropriate entity) under 
+24
+05:28 Jun 24, 2021
+H3588
+13 
+•HR 3588 IH
+which NASEM, or such other appropriate entity, agrees 
+1
+to conduct a study on the following: 
+2
+(1) Factors that enhance or barriers to the im-
+3
+plementation of mathematical modeling and statis-
+4
+tical modeling in elementary and secondary edu-
+5
+cation, including opportunities for and barriers to 
+6
+use modeling to integrate mathematical and statis-
+7
+tical ideas across the curriculum, including the fol-
+8
+lowing: 
+9
+(A) Pathways in mathematical modeling 
+10
+and statistical problem solving from kinder-
+11
+garten to the workplace so that students are 
+12
+able to identify opportunities to use their school 
+13
+mathematics and statistics in a variety of jobs 
+14
+and life situations and so that employers can 
+15
+benefit from students’ school learning of data 
+16
+science, computational thinking, mathematics, 
+17
+statistics, and related subjects. 
+18
+(B) The role of community-based prob-
+19
+lems, service-based learning. and internships for 
+20
+connecting students with career preparatory ex-
+21
+periences. 
+22
+(C) Best practices in problem-, project-, 
+23
+performance-based learning and assessment. 
+24
+05:28 Jun 24, 2021
+H3588
+14 
+•HR 3588 IH
+(2) Characteristics of teacher education pro-
+1
+grams that successfully prepare teachers to engage 
+2
+students in mathematical modeling and statistical 
+3
+modeling, as well as gaps and suggestions for build-
+4
+ing capacity in the pre-service and in-service teacher 
+5
+workforce. 
+6
+(3) Mechanisms for communication with stake-
+7
+holders, including parents, administrators, and the 
+8
+public, to promote understanding and knowledge of 
+9
+the value of mathematical modeling and statistical 
+10
+modeling in education. 
+11
+(b) PUBLIC STAKEHOLDER MEETING.—In the course 
+12
+of completing the study described in subsection (a), 
+13
+NASEM or such other appropriate entity shall hold not 
+14
+less than one public meeting to obtain stakeholder input 
+15
+on the topics of such study. 
+16
+(c) REPORT.—The agreement under subsection (a) 
+17
+shall require NASEM, or such other appropriate entity, 
+18
+not later than 24 months after the effective date of such 
+19
+agreement, to submit to the Secretary of Education and 
+20
+the appropriate committees of jurisdiction of Congress a 
+21
+report containing— 
+22
+(1) the results of the study conducted under 
+23
+subsection (a); 
+24
+05:28 Jun 24, 2021
+H3588
+15 
+•HR 3588 IH
+(2) recommendations to modernize the proc-
+1
+esses described in subsection (a)(1); and 
+2
+(3) recommendations for such legislative and 
+3
+administrative action as NASEM, or such other ap-
+4
+propriate entity, determines appropriate. 
+5
+(d) AUTHORIZATION OF APPROPRIATIONS.—For the 
+6
+fiscal year 2022, there are authorized out of funds appro-
+7
+priated to the National Science Foundation, $1,000,000 
+8
+to carry out the activities under this section. 
+9
+Æ 
+05:28 Jun 24, 2021
+H3588

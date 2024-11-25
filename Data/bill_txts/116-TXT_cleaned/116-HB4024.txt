@@ -1,0 +1,967 @@
+A BILL 
+To improve the collection and distribution of broadband 
+availability data. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Broadband Trans-
+4
+parency and Accountability Act of 2019’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+(a) IN GENERAL.—In this Act— 
+7
+(1) the term ‘‘affordable broadband service’’— 
+8
+(A) except as provided in subparagraph 
+9
+(B), with respect to a covered household, means 
+10
+broadband service at the baseline speed with an 
+11
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+2 
+•HR 4024 IH
+annual cost of not more than 1.5 percent of the 
+1
+annual median household income for the county 
+2
+in which the covered household is located; and 
+3
+(B) with respect to a covered household lo-
+4
+cated in a county in which the annual median 
+5
+household income exceeds the annual median 
+6
+household income for the United States, means 
+7
+broadband service at the baseline speed with an 
+8
+annual cost of not more than 1.5 percent of the 
+9
+annual median household income for the United 
+10
+States; 
+11
+(2) the term ‘‘annual median household in-
+12
+come’’ means annual median household income as 
+13
+reported by the Bureau of the Census; 
+14
+(3) the term ‘‘baseline speed’’, with respect to 
+15
+broadband service, means the highest download and 
+16
+upload speeds available to a majority of urban sub-
+17
+scribers to broadband service, as determined by the 
+18
+Commission; 
+19
+(4) the term ‘‘Broadband Map’’ means the map 
+20
+developed and maintained by the Commission under 
+21
+section 4; 
+22
+(5) the term ‘‘broadband service’’— 
+23
+(A) subject to subsection (b), has the 
+24
+meaning given the term ‘‘advanced tele-
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+3 
+•HR 4024 IH
+communications capability’’ in section 706 of 
+1
+the Telecommunications Act of 1996 (47 
+2
+U.S.C. 1302); and 
+3
+(B) does not include mobile service or sat-
+4
+ellite-based service; 
+5
+(6) the term ‘‘Commission’’ means the Federal 
+6
+Communications Commission; 
+7
+(7) the term ‘‘county’’, in the case of a State 
+8
+that does not have a local county system of govern-
+9
+ance, means an equivalent political subdivision as 
+10
+determined by the Commission, consistent with State 
+11
+law; 
+12
+(8) the term ‘‘covered entity’’ means an entity 
+13
+that— 
+14
+(A) is required to report data to the Com-
+15
+mission under the Form 477 Program; and 
+16
+(B) provides broadband service; 
+17
+(9) the term ‘‘covered household’’— 
+18
+(A) means a household; and 
+19
+(B) includes a farm, a ranch, a business, 
+20
+and a public facility, without regard to whether 
+21
+any such entity serves as a residence; 
+22
+(10) the term ‘‘Form 477 Program’’ means the 
+23
+program carried out by the Commission under sub-
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+4 
+•HR 4024 IH
+part V of part 1 of title 47, Code of Federal Regula-
+1
+tions, or any successor regulation; 
+2
+(11) the term ‘‘has access to broadband serv-
+3
+ice’’, with respect to a covered household, means af-
+4
+fordable broadband service— 
+5
+(A) is being provided to the covered house-
+6
+hold; or 
+7
+(B) could be provided to the covered 
+8
+household not later than 10 days after the date 
+9
+on which the covered household chooses to sub-
+10
+scribe to such service, if the household so choos-
+11
+es; 
+12
+(12) the term ‘‘qualified technology’’— 
+13
+(A) means a technology that delivers 
+14
+broadband service at not less than the baseline 
+15
+speed; and 
+16
+(B) does not include any technology— 
+17
+(i) used to provide broadband service 
+18
+to fewer than 5 percent of urban sub-
+19
+scribers to broadband service in the United 
+20
+States; or 
+21
+(ii) that is experimental or specula-
+22
+tive, until a provider of the technology has 
+23
+proven through consumer choices to be a 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+5 
+•HR 4024 IH
+competitor in the marketplace, as deter-
+1
+mined by the Commission; and 
+2
+(13) the term ‘‘State’’ has the meaning given 
+3
+the term in section 3 of the Communications Act of 
+4
+1934 (47 U.S.C. 153). 
+5
+(b) UPDATES TO DEFINITION OF BROADBAND SERV-
+6
+ICE.—Not less frequently than once every 2 years, the 
+7
+Commission shall update the definition of the term 
+8
+‘‘broadband service’’. 
+9
+SEC. 3. COLLECTION OF DATA. 
+10
+(a) FORM 477 PROGRAM.— 
+11
+(1) COLLECTION OF MORE GRANULAR DATA.— 
+12
+In collecting data from a covered entity under the 
+13
+Form 477 Program, the Commission shall require 
+14
+the covered entity to report data for each covered 
+15
+household in a census block. 
+16
+(2) DATA COLLECTION.— 
+17
+(A) TYPES OF DATA.—In collecting data 
+18
+from a covered entity under the Form 477 Pro-
+19
+gram, the Commission shall require the covered 
+20
+entity to report data that reflects the average 
+21
+speed and other characteristics of broadband 
+22
+service, including— 
+23
+(i) price and affordability, including, 
+24
+with respect to price, the total monthly 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+6 
+•HR 4024 IH
+price charged to a covered household for 
+1
+each distinct broadband service plan or tier 
+2
+of standalone broadband service, net of any 
+3
+promotional discount, including mandatory 
+4
+equipment charges, usage-based fees, and 
+5
+fees for early termination of required con-
+6
+tracts; 
+7
+(ii) latency, including latency— 
+8
+(I) internal to the network, as 
+9
+measured on the backbone; and 
+10
+(II) from the backbone out to the 
+11
+entire internet routing table, reported 
+12
+as an average based on a measure-
+13
+ment of latency against 10 anchor 
+14
+sites selected by the Commission from 
+15
+among the most popular websites in 
+16
+the United States; 
+17
+(iii) denials of service and the reason 
+18
+for such denials, such as— 
+19
+(I) insufficient bandwidth capac-
+20
+ity to serve additional customers; or 
+21
+(II) the inability to reach a loca-
+22
+tion; and 
+23
+(iv) the type of broadband technology 
+24
+available. 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+7 
+•HR 4024 IH
+(B) CHARACTERISTICS
+OF
+BROADBAND 
+1
+SERVICE AS ADVERTISED, AS AGREED TO, AND 
+2
+AS DELIVERED.—In collecting data from a cov-
+3
+ered entity under the Form 477 Program, the 
+4
+Commission shall require the covered entity to 
+5
+report data that measures the characteristics of 
+6
+broadband service reported under subparagraph 
+7
+(A)— 
+8
+(i) as advertised by the covered entity; 
+9
+(ii) as subscribed to by the consumer; 
+10
+and 
+11
+(iii) that the covered entity actually 
+12
+delivers to subscribers during high-volume 
+13
+hours, which shall be defined by the Com-
+14
+mission based on the type of broadband 
+15
+service usage in a particular area, includ-
+16
+ing whether the usage is primarily— 
+17
+(I) commercial or industrial; or 
+18
+(II) residential. 
+19
+(3) 
+UPDATES
+TO
+REPORTING
+REQUIRE-
+20
+MENTS.— 
+21
+(A) IN
+GENERAL.—Not less frequently 
+22
+than once every 3 years, the Commission shall 
+23
+update the reporting requirements for covered 
+24
+entities under the Form 477 Program. 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+8 
+•HR 4024 IH
+(B) RULE OF CONSTRUCTION.—Nothing in 
+1
+subparagraph (A) shall be construed to author-
+2
+ize the Commission to collect less granular data 
+3
+than is required under this subsection. 
+4
+(b) GOVERNMENT SOURCES.—The Commission shall 
+5
+collect data relating to broadband service from— 
+6
+(1) each Federal agency that has such data, in-
+7
+cluding the Department of Agriculture; and 
+8
+(2) each State or local governmental entity that 
+9
+is willing to share such data. 
+10
+(c) CONSOLIDATION OF DATA.— 
+11
+(1) IN GENERAL.—The Commission shall con-
+12
+solidate all data relating to broadband service that 
+13
+is collected under the Form 477 Program or under 
+14
+subsection (b) into a single database. 
+15
+(2) USAC.—The Commission may enter into a 
+16
+contract with the Universal Service Administrative 
+17
+Company to administer the database described in 
+18
+paragraph (1). 
+19
+SEC. 4. DISTRIBUTION OF DATA. 
+20
+(a) AVAILABILITY OF DATA.—Subject to subsection 
+21
+(b), the Commission shall make all data relating to 
+22
+broadband service collected under the Form 477 Program 
+23
+or from governmental entities under section 3(b) available 
+24
+in native electronic format to— 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+9 
+•HR 4024 IH
+(1) other Federal agencies; 
+1
+(2) a broadband office, public utility commis-
+2
+sion, 
+broadband 
+mapping 
+program, 
+or 
+other 
+3
+broadband program of a State, in the case of data 
+4
+pertaining to the needs of that State; 
+5
+(3) a unit of local government, in the case of 
+6
+data pertaining to the needs of that locality; 
+7
+(4) a nonprofit organization; and 
+8
+(5) an individual conducting research for non- 
+9
+commercial purposes. 
+10
+(b) PROTECTION OF DATA.— 
+11
+(1) IN GENERAL.—The Commission may not 
+12
+share any data described in subsection (a) with an 
+13
+entity or individual described in that subsection un-
+14
+less the Commission has determined that the receiv-
+15
+ing entity or individual has the capability and intent 
+16
+to protect any personally identifiable information 
+17
+contained in the data. 
+18
+(2) DETERMINATION OF PERSONALLY IDENTI-
+19
+FIABLE INFORMATION.—The Commission— 
+20
+(A) shall define the term ‘‘personally iden-
+21
+tifiable information’’, for purposes of paragraph 
+22
+(1), through notice and comment rulemaking; 
+23
+and 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+10 
+•HR 4024 IH
+(B) may not share any data under sub-
+1
+section (a) before completing the rulemaking 
+2
+under subparagraph (A) of this paragraph. 
+3
+(3) BALANCING ACCESS AND PROTECTION.—If 
+4
+the Commission is unable to determine under para-
+5
+graph (1) that an entity or individual requesting ac-
+6
+cess to data under subsection (a) has the capability 
+7
+to protect personally identifiable information con-
+8
+tained in the data, the Commission shall make as 
+9
+much of the data available as possible in a format 
+10
+that does not compromise personally identifiable in-
+11
+formation, through methods such as anonymization. 
+12
+(c) MAP.— 
+13
+(1) IN GENERAL.—The Commission, in coordi-
+14
+nation with the Secretary of Commerce, the Sec-
+15
+retary of Agriculture, and State and local stake-
+16
+holders, shall develop and maintain a searchable, 
+17
+interactive, and comprehensive nationwide inventory 
+18
+map of existing broadband service capability and 
+19
+availability in the United States that depicts the ge-
+20
+ographic extent to which broadband service is de-
+21
+ployed and available from a commercial provider or 
+22
+public provider throughout each State. 
+23
+(2) PARAMETERS.—Not later than 180 days 
+24
+after the date of enactment of this Act, the Commis-
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+11 
+•HR 4024 IH
+sion shall establish parameters for, and make avail-
+1
+able to the public, the map required under para-
+2
+graph (1). 
+3
+(3) REVISIONS.—Not less frequently than every 
+4
+2 years, the Commission shall revise the parameters 
+5
+established under paragraph (2). 
+6
+(4) REPLACEMENT OF PRIOR MAPS.—The map 
+7
+developed by the Commission under paragraph (1) 
+8
+shall replace any broadband deployment map main-
+9
+tained by the Commission before the date of enact-
+10
+ment of this Act. 
+11
+(d) GRADATED OR TIERED MAPPING.— 
+12
+(1) IN GENERAL.—In producing the Broadband 
+13
+Map, the Commission shall— 
+14
+(A) create, at a minimum— 
+15
+(i) a map that indicates the percent-
+16
+age of covered households in each census 
+17
+block that have access to broadband service 
+18
+at the baseline speed during peak usage 
+19
+hours; 
+20
+(ii) a map that indicates the percent-
+21
+age of covered households in each census 
+22
+block that have access to broadband service 
+23
+delivered using a qualified technology; 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+12 
+•HR 4024 IH
+(iii) a map that layers the types of 
+1
+telecommunications technology available to 
+2
+deliver broadband service in each census 
+3
+block; and 
+4
+(iv) a map that indicates the relative 
+5
+affordability of broadband service in each 
+6
+census block; and 
+7
+(B) enable users of the Broadband Map 
+8
+to— 
+9
+(i) layer the maps described in sub-
+10
+paragraph (A); and 
+11
+(ii) filter the maps described in sub-
+12
+paragraph (A) by broadband provider. 
+13
+(2) TIERS.—The Commission shall display the 
+14
+percentage of covered households in a census block 
+15
+that have access to broadband service or technology 
+16
+under paragraph (1) by reference to one of the fol-
+17
+lowing tiers: 
+18
+(A) Less than 20 percent. 
+19
+(B) Not less than 20 percent and less than 
+20
+40 percent. 
+21
+(C) Not less than 40 percent and less than 
+22
+60 percent. 
+23
+(D) Not less than 60 percent and less than 
+24
+80 percent. 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+13 
+•HR 4024 IH
+(E) Not less than 80 percent and less than 
+1
+90 percent. 
+2
+(F) Not less than 90 percent and less than 
+3
+95 percent. 
+4
+(G) Not less than 95 percent. 
+5
+(e) UPDATES.—Not later than 180 days after col-
+6
+lecting data relating to broadband service under the Form 
+7
+477 Program, the Commission, in consultation with the 
+8
+Secretary of Agriculture, the Secretary of Commerce, and 
+9
+State and local stakeholders, shall— 
+10
+(1) update the Broadband Map with the data, 
+11
+and with any data collected from a governmental en-
+12
+tity under section 3(b) since the last update to the 
+13
+Broadband Map; and 
+14
+(2) make the data described in paragraph (1) 
+15
+available under subsection (a). 
+16
+SEC. 
+5. 
+REPORT 
+ON 
+BROADBAND 
+LAST-MILE 
+TECH-
+17
+NOLOGIES. 
+18
+Section 706 of the Telecommunications Act of 1996 
+19
+(47 U.S.C. 1302) is amended— 
+20
+(1) by redesignating subsection (d) as sub-
+21
+section (e); 
+22
+(2) in subsection (e), as so redesignated, in the 
+23
+matter preceding paragraph (1), by striking ‘‘sub-
+24
+section’’ and inserting ‘‘section’’; and 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+14 
+•HR 4024 IH
+(3) by inserting after subsection (c) the fol-
+1
+lowing: 
+2
+‘‘(d) BROADBAND LAST-MILE TECHNOLOGIES.— 
+3
+‘‘(1) DEFINITIONS.—In this subsection— 
+4
+‘‘(A) the term ‘broadband service’ has the 
+5
+meaning given the term ‘advanced telecommuni-
+6
+cations capability’ in subsection (e); 
+7
+‘‘(B) the terms ‘covered entity’ and ‘cov-
+8
+ered household’ have the meanings given those 
+9
+terms in section 2 of the Broadband Trans-
+10
+parency and Accountability Act of 2019; and 
+11
+‘‘(C) the term ‘last-mile technology’ means 
+12
+the technology used to transmit broadband 
+13
+service from the backbone network into a cov-
+14
+ered household. 
+15
+‘‘(2) ANNUAL REPORT.—As part of the inquiry 
+16
+required under subsection (b), the Commission shall 
+17
+report on the number of covered households that 
+18
+subscribe to broadband service, categorized by the 
+19
+type of last-mile technology, as reported by covered 
+20
+entities under the Form 477 Program and by gov-
+21
+ernmental entities under section 3(b) of the 
+22
+Broadband Transparency and Accountability Act of 
+23
+2019. 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+15 
+•HR 4024 IH
+‘‘(3) TECHNOLOGY CATEGORIES.—In reporting 
+1
+the information under paragraph (2), the Commis-
+2
+sion shall indicate whether the type of last-mile tech-
+3
+nology is— 
+4
+‘‘(A) fiber; 
+5
+‘‘(B) hybrid fiber coax; 
+6
+‘‘(C) copper-based service; 
+7
+‘‘(D) copper-fiber hybrid service; 
+8
+‘‘(E) spectrum-based service; 
+9
+‘‘(F) mobile service; 
+10
+‘‘(G) satellite-based service; and 
+11
+‘‘(H) any other type of technology that the 
+12
+Commission determines appropriate. 
+13
+‘‘(4) GEOGRAPHIC CATEGORIES.— 
+14
+‘‘(A) IN GENERAL.—In reporting the infor-
+15
+mation under paragraph (2), the Commission 
+16
+shall categorize a covered household whose 
+17
+broadband service is provided using a particular 
+18
+type of last-mile technology according to wheth-
+19
+er the covered household is in a census block 
+20
+that is— 
+21
+‘‘(i) urban; 
+22
+‘‘(ii) suburban; or 
+23
+‘‘(iii) rural, insular, or high-cost. 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+16 
+•HR 4024 IH
+‘‘(B) DEFINITIONS.—The Commission, in 
+1
+consultation with the Bureau of the Census, 
+2
+shall define the terms ‘insular’ and ‘high-cost’, 
+3
+with respect to census blocks, for purposes of 
+4
+subparagraph (A). 
+5
+‘‘(5) TRIBAL LAND.—Nothing in this subsection 
+6
+shall be construed to authorize the Commission to 
+7
+exclude covered households located on Tribal land 
+8
+from the information reported under paragraph (2), 
+9
+including the categorization under paragraph (3).’’. 
+10
+SEC. 6. MAP ACCOUNTABILITY. 
+11
+(a) VERIFICATION PROCESS.— 
+12
+(1) IN GENERAL.—Not later than 1 year after 
+13
+the date of enactment of this Act, the Commission 
+14
+shall conduct a rulemaking to establish a process to 
+15
+use data relating to broadband service capability and 
+16
+availability in the United States (referred to in this 
+17
+section as ‘‘coverage data’’) that is reported by con-
+18
+sumers, businesses, and State and local governments 
+19
+to verify the data used in the Broadband Map. 
+20
+(2) TIME
+PERIOD
+FOR
+VERIFICATION.—The 
+21
+Commission, and any other Federal agency, may not 
+22
+use a new version of the Broadband Map to dis-
+23
+tribute support for broadband service unless the 
+24
+Commission has used the process established under 
+25
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+17 
+•HR 4024 IH
+paragraph (1) for a period of not less than 60 days 
+1
+to verify the data used in the new Broadband Map. 
+2
+(3) SOURCES OF COVERAGE DATA.—The Com-
+3
+mission shall include in the process established 
+4
+under paragraph (1) a mechanism to incorporate 
+5
+coverage data obtained from— 
+6
+(A) any reputable application through 
+7
+which consumers report coverage data, as deter-
+8
+mined by the Commission; 
+9
+(B) State, local, or Tribal government enti-
+10
+ties that are primarily responsible for mapping 
+11
+or tracking broadband service capability and 
+12
+availability for a State, unit of local govern-
+13
+ment, or Indian Tribe, as applicable; and 
+14
+(C) any other source that the Commission 
+15
+determines appropriate. 
+16
+(b) CHALLENGE PROCESS.— 
+17
+(1) IN GENERAL.—Not later than 1 year after 
+18
+the date of enactment of this Act, the Commission 
+19
+shall establish, in addition to the process established 
+20
+under subsection (a), an evidence-based process by 
+21
+which a consumer, business, or State or local gov-
+22
+ernment may challenge data used in the Broadband 
+23
+Map. 
+24
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS
+18 
+•HR 4024 IH
+(2) RESPONSIBILITY OF COVERED ENTITIES.— 
+1
+In carrying out the evidence-based challenge process 
+2
+under paragraph (1), the Commission shall require 
+3
+the covered entity that reported the data being chal-
+4
+lenged through the process to bear the burden of 
+5
+proving that the data is accurate. 
+6
+(c) RULE OF CONSTRUCTION.—Nothing in this sec-
+7
+tion shall be construed to affect any determination made 
+8
+by the Commission before the date of enactment of this 
+9
+Act with respect to the distribution of support for 
+10
+broadband service. 
+11
+SEC. 7. APPLICABILITY OF OTHER LAWS. 
+12
+(a) OMB REVIEW.—Notwithstanding any other pro-
+13
+vision of law, any rulemaking or information collection 
+14
+conducted by the Commission under this Act or an amend-
+15
+ment made by this Act shall be exempt from review by 
+16
+the Office of Management and Budget. 
+17
+(b) PAPERWORK REDUCTION ACT.—Chapter 35 of 
+18
+title 44, United States Code (commonly known as the ‘‘Pa-
+19
+perwork Reduction Act’’), shall not apply to any rule-
+20
+making or information collection conducted by the Com-
+21
+mission under this Act or an amendment made by this 
+22
+Act. 
+23
+Æ 
+17:53 Aug 03, 2019
+H4024
+Pbinns on DSK79D2C42PROD with BILLS

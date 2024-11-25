@@ -1,0 +1,2010 @@
+A BILL 
+To amend title 49, United States Code, regarding the author-
+ity of the National Highway Traffic Safety Administra-
+tion over highly automated vehicles, to provide safety 
+measures for such vehicles, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Safely Ensuring Lives Future Deployment and Research 
+5
+In Vehicle Evolution Act’’ or the ‘‘SELF DRIVE Act’’. 
+6
+00:45 Oct 09, 2020
+H8350
+2 
+•HR 8350 IH
+(b) TABLE OF CONTENTS.—The table of contents for 
+1
+this Act is as follows: 
+2
+Sec. 1. Short title; table of contents. 
+Sec. 2. Purpose. 
+Sec. 3. NHTSA authority and State preemption for autonomous motor vehicles. 
+Sec. 4. Updated or new motor vehicle safety standards for highly automated ve-
+hicles. 
+Sec. 5. Cybersecurity of automated driving systems. 
+Sec. 6. General exemptions. 
+Sec. 7. Motor vehicle testing or evaluation. 
+Sec. 8. Information on highly automated driving systems made available to pro-
+spective buyers. 
+Sec. 9. Highly Automated Vehicle Advisory Council. 
+Sec. 10. Rear seat occupant alert system. 
+Sec. 11. Headlamps. 
+Sec. 12. Privacy plan required for highly automated vehicles. 
+Sec. 13. Definitions. 
+SEC. 2. PURPOSE. 
+3
+The purpose of this Act is to clarify the Federal role 
+4
+in ensuring the safety of highly automated vehicles as it 
+5
+relates to design, construction, and performance, by en-
+6
+couraging the testing and deployment of such vehicles. 
+7
+SEC. 3. NHTSA AUTHORITY AND STATE PREEMPTION FOR 
+8
+AUTONOMOUS MOTOR VEHICLES. 
+9
+Section 30103 of title 49, United States Code, is 
+10
+amended— 
+11
+(1) by amending subsection (b) to read as fol-
+12
+lows: 
+13
+‘‘(b) PREEMPTION.— 
+14
+‘‘(1) 
+HIGHLY
+AUTOMATED
+VEHICLES.—No 
+15
+State or political subdivision of a State may main-
+16
+tain, enforce, prescribe, or continue in effect any law 
+17
+or regulation regarding the design, construction, or 
+18
+00:45 Oct 09, 2020
+H8350
+3 
+•HR 8350 IH
+performance of highly automated vehicles, auto-
+1
+mated driving systems, or components of automated 
+2
+driving systems unless such law or regulation is 
+3
+identical to a standard prescribed under this chap-
+4
+ter. 
+5
+‘‘(2) MOTOR
+VEHICLE
+STANDARD.—When a 
+6
+motor vehicle safety standard is in effect under this 
+7
+chapter, a State or political subdivision of a State 
+8
+may prescribe or continue in effect a standard appli-
+9
+cable to the same aspect of performance of a motor 
+10
+vehicle or motor vehicle equipment only if the stand-
+11
+ard is identical to the standard prescribed under this 
+12
+chapter. 
+13
+‘‘(3) RULES OF CONSTRUCTION.— 
+14
+‘‘(A) IN GENERAL.—Nothing in this sub-
+15
+section may be construed to prohibit a State or 
+16
+a political subdivision of a State from maintain-
+17
+ing, enforcing, prescribing, or continuing in ef-
+18
+fect any law or regulation regarding registra-
+19
+tion, licensing, driving education and training, 
+20
+insurance, law enforcement, crash investiga-
+21
+tions, safety and emissions inspections, conges-
+22
+tion management of vehicles on the street with-
+23
+in a State or political subdivision of a State, or 
+24
+traffic unless the law or regulation is an unrea-
+25
+00:45 Oct 09, 2020
+H8350
+4 
+•HR 8350 IH
+sonable restriction on the design, construction, 
+1
+or performance of highly automated vehicles, 
+2
+automated driving systems, or components of 
+3
+automated driving systems. 
+4
+‘‘(B) MOTOR VEHICLE DEALERS.—Nothing 
+5
+in this subsection may be construed to prohibit 
+6
+a State or political subdivision of a State from 
+7
+maintaining, enforcing, prescribing, or con-
+8
+tinuing in effect any law or regulation regard-
+9
+ing the sale, distribution, repair, or service of 
+10
+highly automated vehicles, automated driving 
+11
+systems, or components of automated driving 
+12
+systems by a dealer, manufacturer, or dis-
+13
+tributor. 
+14
+‘‘(C) CONFORMITY WITH FEDERAL LAW.— 
+15
+Nothing in this subsection shall be construed to 
+16
+preempt, restrict, or limit a State or political 
+17
+subdivision of a State from acting in accordance 
+18
+with any other Federal law. 
+19
+‘‘(4) HIGHER PERFORMANCE REQUIREMENT.— 
+20
+However, the United States Government, a State, or 
+21
+a political subdivision of a State may prescribe a 
+22
+standard for a motor vehicle, motor vehicle equip-
+23
+ment, highly automated vehicle, or automated driv-
+24
+ing system obtained for its own use that imposes a 
+25
+00:45 Oct 09, 2020
+H8350
+5 
+•HR 8350 IH
+higher performance requirement than that required 
+1
+by the otherwise applicable standard under this 
+2
+chapter. 
+3
+‘‘(5) STATE ENFORCEMENT.—A State may en-
+4
+force a standard that is identical to a standard pre-
+5
+scribed under this chapter.’’; 
+6
+(2) by amending subsection (e) to read as fol-
+7
+lows: 
+8
+‘‘(e) COMMON LAW LIABILITY.— 
+9
+‘‘(1) IN GENERAL.—Compliance with a motor 
+10
+vehicle safety standard prescribed under this chapter 
+11
+does not exempt a person from liability at common 
+12
+law. 
+13
+‘‘(2) RULE
+OF
+CONSTRUCTION.—Nothing in 
+14
+this section shall be construed to preempt common 
+15
+law claims.’’; and 
+16
+(3) by adding at the end the following: 
+17
+‘‘(f) LICENSING.—A State may not issue a motor ve-
+18
+hicle operator’s license for the operation or use of a dedi-
+19
+cated highly automated vehicle in a manner that discrimi-
+20
+nates on the basis of disability (as defined in section 3 
+21
+of the Americans with Disabilities Act of 1990 (42 U.S.C. 
+22
+12102)).’’. 
+23
+21:31 Oct 09, 2020
+H8350
+6 
+•HR 8350 IH
+SEC. 4. UPDATED OR NEW MOTOR VEHICLE SAFETY STAND-
+1
+ARDS FOR HIGHLY AUTOMATED VEHICLES. 
+2
+(a) IN GENERAL.—Chapter 301 of subtitle VI of title 
+3
+49, United States Code, is amended by inserting after sec-
+4
+tion 30128 the following new section: 
+5
+‘‘§ 30129. Updated or new motor vehicle safety stand-
+6
+ards for highly automated vehicles 
+7
+‘‘(a) SAFETY ASSESSMENT CERTIFICATION.— 
+8
+‘‘(1) FINAL RULE.—Not later than 24 months 
+9
+after the date of the enactment of this section, the 
+10
+Secretary of Transportation shall issue a final rule 
+11
+requiring the submission of safety assessment certifi-
+12
+cations regarding how safety is being addressed by 
+13
+each entity developing a highly automated vehicle or 
+14
+an automated driving system. Such rule shall in-
+15
+clude— 
+16
+‘‘(A) a specification of which entities are 
+17
+required to submit such certifications; 
+18
+‘‘(B) a clear description of the relevant test 
+19
+results, data, and other contents required to be 
+20
+submitted by such entity, in order to dem-
+21
+onstrate that such entity’s vehicles are likely to 
+22
+maintain safety, and function as intended and 
+23
+contain fail safe features, to be included in such 
+24
+certifications; and 
+25
+00:45 Oct 09, 2020
+H8350
+7 
+•HR 8350 IH
+‘‘(C) a specification of the circumstances 
+1
+under which such certifications are required to 
+2
+be updated or resubmitted. 
+3
+‘‘(2) INTERIM REQUIREMENT.—Until the final 
+4
+rule issued under paragraph (1) takes effect, safety 
+5
+assessment letters shall be submitted to the National 
+6
+Highway Traffic Safety Administration as con-
+7
+templated by the Federal Automated Vehicles Policy 
+8
+issued in September 2016, or any successor guid-
+9
+ance issued on highly automated vehicles requiring a 
+10
+safety assessment letter. 
+11
+‘‘(3) PERIODIC REVIEW AND UPDATING.—Not 
+12
+later than 5 years after the date on which the final 
+13
+rule is issued under paragraph (1), and not less fre-
+14
+quently than every 5 years thereafter, the Secretary 
+15
+shall— 
+16
+‘‘(A) review such rule; and 
+17
+‘‘(B) update such rule if the Secretary con-
+18
+siders it necessary. 
+19
+‘‘(4) RULES OF CONSTRUCTION.— 
+20
+‘‘(A) NO CONDITIONS ON DEPLOYMENT.— 
+21
+Nothing in this subsection may be construed to 
+22
+limit or affect the Secretary’s authority under 
+23
+any other provision of law. The Secretary may 
+24
+not condition deployment or testing of highly 
+25
+00:45 Oct 09, 2020
+H8350
+8 
+•HR 8350 IH
+automated vehicles on review of safety assess-
+1
+ment certifications. 
+2
+‘‘(B) NO NEW AUTHORITIES.—No new au-
+3
+thorities are granted to the Secretary under 
+4
+this section other than the promulgation of the 
+5
+rule pursuant to paragraph (1). 
+6
+‘‘(5) REVIEW AND RESEARCH.—To accommo-
+7
+date the development and deployment of highly auto-
+8
+mated vehicles and to ensure the safety and security 
+9
+of highly automated vehicles and motor vehicles and 
+10
+others that will share the roads with highly auto-
+11
+mated vehicles, not later than 180 days after the 
+12
+date of the enactment of this section, the Secretary 
+13
+shall— 
+14
+‘‘(A) initiate or continue a review of the 
+15
+Federal motor vehicle safety standards in effect 
+16
+on such date of enactment; and 
+17
+‘‘(B) initiate or continue research regard-
+18
+ing new Federal motor vehicle safety standards. 
+19
+‘‘(b) RULEMAKING AND SAFETY PRIORITY PLAN.— 
+20
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+21
+the date of enactment of this section, the Secretary 
+22
+shall make available to the public and submit to the 
+23
+Committee on Energy and Commerce of the House 
+24
+of Representatives and the Committee on Commerce, 
+25
+00:45 Oct 09, 2020
+H8350
+9 
+•HR 8350 IH
+Science, and Transportation of the Senate a rule-
+1
+making and safety priority plan, as necessary to ac-
+2
+commodate the development and deployment of high-
+3
+ly automated vehicles and to ensure the safety and 
+4
+security of highly automated vehicles and motor ve-
+5
+hicles and others that will share the roads with high-
+6
+ly automated vehicles, to— 
+7
+‘‘(A) update the motor vehicle safety 
+8
+standards in effect on such date of enactment; 
+9
+‘‘(B) issue new motor vehicle safety stand-
+10
+ards; and 
+11
+‘‘(C) consider how objective ranges in per-
+12
+formance standards could be used to test motor 
+13
+vehicle safety standards, which safety standards 
+14
+would be appropriate for such testing, and 
+15
+whether additional authority would facilitate 
+16
+such testing. 
+17
+‘‘(2) INCLUSION OF PRIORITIES.— 
+18
+‘‘(A) PRIORITIES.—The plan required by 
+19
+paragraph (1) shall detail the overall priorities 
+20
+of the National Highway Traffic Safety Admin-
+21
+istration for the 5 years following the issuance 
+22
+of the plan, including both priorities with re-
+23
+spect to highly automated vehicles and priorities 
+24
+with respect to other safety initiatives of the 
+25
+00:45 Oct 09, 2020
+H8350
+10 
+•HR 8350 IH
+Administration, in order to meet the Nation’s 
+1
+motor vehicle safety challenges. 
+2
+‘‘(B) IDENTIFICATION OF ELEMENTS THAT 
+3
+MAY REQUIRE STANDARDS.—For highly auto-
+4
+mated vehicles, the National Highway Traffic 
+5
+Safety Administration should identify elements 
+6
+that may require performance standards includ-
+7
+ing human machine interface, sensors, and ac-
+8
+tuators, and consider process and procedure 
+9
+standards for software and cybersecurity as 
+10
+necessary. 
+11
+‘‘(3) PERIODIC UPDATING.—The plan required 
+12
+by paragraph (1) shall be updated every 2 years, or 
+13
+more frequently if the Secretary considers it nec-
+14
+essary. 
+15
+‘‘(4) RULEMAKING PROCEEDINGS ON UPDATED 
+16
+OR NEW MOTOR VEHICLE SAFETY STANDARDS.— 
+17
+‘‘(A) IN
+GENERAL.—Not later than 18 
+18
+months after the date of enactment of this sec-
+19
+tion, the Secretary shall initiate the first rule-
+20
+making proceeding in accordance with the rule-
+21
+making and safety priority plan required by 
+22
+paragraph (1). 
+23
+‘‘(B) PRIORITIZATION
+OF
+SUBSEQUENT 
+24
+PROCEEDINGS.—The Secretary shall continue 
+25
+00:45 Oct 09, 2020
+H8350
+11 
+•HR 8350 IH
+initiating rulemaking proceedings in accordance 
+1
+with such plan. The Secretary may change at 
+2
+any time those priorities to address matters the 
+3
+Secretary considers of greater priority. If the 
+4
+Secretary makes such a change, the Secretary 
+5
+shall complete an interim update of the priority 
+6
+plan, make such update available to the public, 
+7
+and submit such update to the Committee on 
+8
+Energy and Commerce of the House of Rep-
+9
+resentatives and the Committee on Commerce, 
+10
+Science, and Transportation of the Senate.’’. 
+11
+(b) CLERICAL AMENDMENT.—The analysis for chap-
+12
+ter 301 of subtitle VI of title 49, United States Code, is 
+13
+amended by inserting after the item relating to section 
+14
+30128 the following new item: 
+15
+‘‘30129. Updated or new motor vehicle safety standards for highly auto-
+mated vehicles.’’. 
+SEC. 5. CYBERSECURITY OF AUTOMATED DRIVING SYS-
+16
+TEMS. 
+17
+(a) IN GENERAL.—Chapter 301 of subtitle VI of title 
+18
+49, United States Code, is amended by inserting after sec-
+19
+tion 30129 (as added by section 4) the following new sec-
+20
+tion: 
+21
+‘‘§ 30130. Cybersecurity of automated driving systems 
+22
+‘‘(a) CYBERSECURITY PLAN.—A manufacturer may 
+23
+not sell, offer for sale, introduce or deliver for introduction 
+24
+00:45 Oct 09, 2020
+H8350
+12 
+•HR 8350 IH
+into commerce, or import into the United States, any high-
+1
+ly automated vehicle, vehicle that performs partial driving 
+2
+automation, or automated driving system unless such 
+3
+manufacturer has developed a cybersecurity plan that in-
+4
+cludes the following: 
+5
+‘‘(1) A written cybersecurity policy with respect 
+6
+to the practices of the manufacturer for detecting 
+7
+and responding to cyber attacks, unauthorized intru-
+8
+sions, and false and spurious messages or vehicle 
+9
+control commands. This policy shall include— 
+10
+‘‘(A) a process for identifying, assessing, 
+11
+and 
+mitigating 
+reasonably 
+foreseeable 
+12
+vulnerabilities from cyber attacks or unauthor-
+13
+ized intrusions, including false and spurious 
+14
+messages and malicious vehicle control com-
+15
+mands; and 
+16
+‘‘(B) a process for taking preventive and 
+17
+corrective 
+action 
+to 
+mitigate 
+against 
+18
+vulnerabilities in a highly automated vehicle or 
+19
+a vehicle that performs partial driving automa-
+20
+tion, including incident response plans, intru-
+21
+sion detection and prevention systems that safe-
+22
+guard key controls, systems, and procedures 
+23
+through testing or monitoring, and updates to 
+24
+such process based on changed circumstances. 
+25
+00:45 Oct 09, 2020
+H8350
+13 
+•HR 8350 IH
+‘‘(2) The identification of an officer or other in-
+1
+dividual of the manufacturer as the point of contact 
+2
+with responsibility for the management of cybersecu-
+3
+rity. 
+4
+‘‘(3) A process for limiting access to automated 
+5
+driving systems. 
+6
+‘‘(4) A process for employee training and super-
+7
+vision for implementation and maintenance of the 
+8
+policies and procedures required by this section, in-
+9
+cluding controls on employee access to automated 
+10
+driving systems. 
+11
+‘‘(b) EFFECTIVE DATE.—This section shall take ef-
+12
+fect 180 days after the date of enactment of this section.’’. 
+13
+(b) 
+ENFORCEMENT
+AUTHORITY.—Section 
+14
+30165(a)(1) of title 49, United States Code, is amended 
+15
+by inserting ‘‘30130,’’ after ‘‘30127,’’. 
+16
+(c) CLERICAL AMENDMENT.—The analysis for chap-
+17
+ter 301 of subtitle VI of title 49, United States Code, is 
+18
+amended by inserting after the item relating to section 
+19
+30129 (as added by section 4) the following new item: 
+20
+‘‘30130. Cybersecurity of automated driving systems.’’. 
+SEC. 6. GENERAL EXEMPTIONS. 
+21
+Section 30113 of title 49, United States Code, is 
+22
+amended— 
+23
+(1) in subsection (b)(3)(B)— 
+24
+00:45 Oct 09, 2020
+H8350
+14 
+•HR 8350 IH
+(A) in clause (iii), by striking ‘‘; or’’ and 
+1
+inserting a semicolon; 
+2
+(B) in clause (iv), by striking the period at 
+3
+the end and inserting ‘‘; or’’; and 
+4
+(C) by adding at the end the following: 
+5
+‘‘(v) the exemption would make easier the devel-
+6
+opment or field evaluation of— 
+7
+‘‘(I) a feature of a highly automated vehi-
+8
+cle providing a safety level at least equal to the 
+9
+safety level of the standard for which exemption 
+10
+is sought; or 
+11
+‘‘(II) a highly automated vehicle providing 
+12
+an overall safety level at least equal to the over-
+13
+all safety level of nonexempt vehicles; 
+14
+‘‘(vi) the exemption would promote transpor-
+15
+tation access for individuals with disabilities (as de-
+16
+fined in section 3 of the Americans with Disabilities 
+17
+Act of 1990 (42 U.S.C. 12102)) and would pro-
+18
+vide— 
+19
+‘‘(I) a safety level at least equal to the 
+20
+safety level of the standard for which the ex-
+21
+emption is sought; or 
+22
+‘‘(II) an overall safety level at least equal 
+23
+to the overall safety level of nonexempt vehi-
+24
+cles.’’; 
+25
+00:45 Oct 09, 2020
+H8350
+15 
+•HR 8350 IH
+(2) in subsection (c), by adding at the end the 
+1
+following: 
+2
+‘‘(5) if the application is made under subsection 
+3
+(b)(3)(B)(v) or (vi)— 
+4
+‘‘(A) such development, testing, and other 
+5
+data necessary to demonstrate that the motor 
+6
+vehicle is a highly automated vehicle; and 
+7
+‘‘(B) a detailed analysis that includes sup-
+8
+porting test data, including both on-road and 
+9
+validation and testing data showing (as applica-
+10
+ble) that— 
+11
+‘‘(i) the safety level of the feature at 
+12
+least equals the safety level of the standard 
+13
+for which exemption is sought; or 
+14
+‘‘(ii) the vehicle provides an overall 
+15
+safety level at least equal to the overall 
+16
+safety level of nonexempt vehicles.’’; 
+17
+(3) in subsection (d), by striking ‘‘A manufac-
+18
+turer is eligible’’ and all that follows and inserting 
+19
+the following: 
+20
+‘‘(1) 
+ELIGIBILITY
+UNDER
+SUBSECTION 
+21
+(b)(3)(B)(i).—A manufacturer is eligible for an ex-
+22
+emption under subsection (b)(3)(B)(i) of this section 
+23
+(including 
+an 
+exemption 
+under 
+subsection 
+24
+(b)(3)(B)(i) relating to a bumper standard referred 
+25
+00:45 Oct 09, 2020
+H8350
+16 
+•HR 8350 IH
+to in subsection (b)(1)) only if the Secretary deter-
+1
+mines that the manufacturer’s total motor vehicle 
+2
+production in the most recent year of production is 
+3
+not more than 10,000. 
+4
+‘‘(2) 
+ELIGIBILITY
+UNDER
+SUBSECTION 
+5
+(b)(3)(B)(iii).—A manufacturer is eligible for an ex-
+6
+emption under subsection (b)(3)(B)(iii) of this sec-
+7
+tion only if the Secretary determines the exemption 
+8
+is for not more than 2,500 vehicles to be sold in the 
+9
+United States in any 12-month period. 
+10
+‘‘(3) 
+ELIGIBILITY
+UNDER
+SUBSECTION 
+11
+(b)(3)(B)(ii), (iv), or (v).—A manufacturer is eligi-
+12
+ble for an exemption under subsection (b)(3)(B)(ii), 
+13
+(iv), or (v) of this section only if the Secretary deter-
+14
+mines the exemption is for not more than 100,000 
+15
+vehicles per manufacturer to be sold, leased, or oth-
+16
+erwise introduced into commerce in the United 
+17
+States in any 12-month period. 
+18
+‘‘(4) LIMITATION
+ON
+NUMBER
+OF
+VEHICLES 
+19
+EXEMPTED.—All exemptions granted to a manufac-
+20
+turer under subsections (b)(3)(B)(i) through (v) 
+21
+shall not exceed a total of (i) 25,000 vehicles manu-
+22
+factured within the first 12-month period, (ii) 
+23
+50,000 vehicles manufactured within the second 12- 
+24
+month period, (iii) 100,000 vehicles manufactured 
+25
+00:45 Oct 09, 2020
+H8350
+17 
+•HR 8350 IH
+within the third 12-month period, and, (iv) 100,000 
+1
+vehicles manufactured within the fourth 12-month 
+2
+period. Any renewals under subsections (b)(3)(B)(i) 
+3
+through (v) shall not exceed a total of 100,000 vehi-
+4
+cles manufactured within a 12-month period.’’; 
+5
+(4) in subsection (e), by striking ‘‘An exemption 
+6
+or renewal’’ and all that follows and inserting the 
+7
+following: 
+8
+‘‘(1) 
+EXEMPTION
+UNDER
+SUBSECTION 
+9
+(b)(3)(B)(i).—An exemption or renewal under sub-
+10
+section (b)(3)(B)(i) of this section may be granted 
+11
+for not more than 3 years. 
+12
+‘‘(2) 
+EXEMPTION
+UNDER
+SUBSECTION 
+13
+(b)(3)(B)(iii).—An exemption or renewal under sub-
+14
+section (b)(3)(B)(iii) of this section may be granted 
+15
+for not more than 2 years. 
+16
+‘‘(3) 
+EXEMPTION
+UNDER
+SUBSECTION 
+17
+(b)(3)(B)(ii), (iv), or (v).—An exemption or renewal 
+18
+under subsection (b)(3)(B)(ii), (iv), or (v) of this 
+19
+section may be granted for not more than 4 years.’’; 
+20
+and 
+21
+(5) by adding at the end the following: 
+22
+‘‘(i) LIMITATION ON CERTAIN EXEMPTIONS.—No ex-
+23
+emption from crashworthiness standards of motor vehicle 
+24
+safety standards shall be granted under subsection 
+25
+21:31 Oct 09, 2020
+H8350
+18 
+•HR 8350 IH
+(b)(3)(B)(v) until the Secretary issues the safety assess-
+1
+ment certification rule pursuant to section 30129(a) and 
+2
+the rulemaking and safety priority plan pursuant to sec-
+3
+tion 30129(b) and one year has passed from the date by 
+4
+which the Secretary has issued both such rule and such 
+5
+plan. This subsection shall not apply to exemptions from 
+6
+occupant protection standards if the exemption is for a 
+7
+vehicle that will not carry its operator or passengers. This 
+8
+subsection shall not apply to exemptions from crash-
+9
+worthiness standards if the exemption sought is for a 
+10
+standard addressing the steering control system and it is 
+11
+for a vehicle that— 
+12
+‘‘(1) will not have a steering control system; 
+13
+‘‘(2) provides impact protection to an occupant 
+14
+in the front left seat at a level at least equal to the 
+15
+level provided in nonexempt vehicles; and 
+16
+‘‘(3) provides a safety level at least equal to the 
+17
+safety level of the standard for which the exemption 
+18
+is sought. 
+19
+‘‘(j) REPORTING REQUIREMENT.—A manufacturer 
+20
+granted an exemption under subsection (b)(3)(B)(ii), (iv), 
+21
+or (v), shall provide information about all crashes of which 
+22
+it has actual knowledge involving such exempted vehicles, 
+23
+regardless of whether a claim is submitted to the manufac-
+24
+00:45 Oct 09, 2020
+H8350
+19 
+•HR 8350 IH
+turer, in accordance with part 579 of title 49, Code of 
+1
+Federal Regulations. 
+2
+‘‘(k) PROCESS AND ANALYSIS.— 
+3
+‘‘(1) IN GENERAL.—Not later than 180 days 
+4
+after the date of enactment of this subsection, the 
+5
+Secretary of Transportation shall publish in the 
+6
+Federal Register a notice that details the process 
+7
+and analysis used for the consideration of exemption 
+8
+or 
+renewal 
+applications 
+under 
+subsection 
+9
+(b)(3)(B)(v). 
+10
+‘‘(2) PERIODIC REVIEW AND UPDATING.—The 
+11
+notice required by paragraph (1) shall be reviewed 
+12
+every 5 years and updated if the Secretary considers 
+13
+it necessary. 
+14
+‘‘(l) EXEMPTION DATABASE.— 
+15
+‘‘(1) IN GENERAL.—The Secretary shall estab-
+16
+lish a publicly available and searchable electronic 
+17
+database of each motor vehicle for which an exemp-
+18
+tion from motor vehicle safety standards prescribed 
+19
+under this chapter or a bumper standard prescribed 
+20
+under chapter 325 has been granted. 
+21
+‘‘(2) VEHICLE IDENTIFICATION NUMBER.—The 
+22
+database established under paragraph (1) shall be 
+23
+searchable by Vehicle Identification Number and 
+24
+00:45 Oct 09, 2020
+H8350
+20 
+•HR 8350 IH
+shall include no information identifying the vehicle 
+1
+owner.’’. 
+2
+SEC. 7. MOTOR VEHICLE TESTING OR EVALUATION. 
+3
+Section 30112(b)(10) of title 49, United States Code, 
+4
+is amended— 
+5
+(1) by striking ‘‘that prior to the date of enact-
+6
+ment of this paragraph’’; 
+7
+(2) in subparagraph (A), by striking ‘‘motor ve-
+8
+hicles into the United States that are certified’’ and 
+9
+inserting ‘‘into the United States motor vehicles that 
+10
+are certified, or motor vehicle equipment utilized in 
+11
+a motor vehicle that is certified,’’; 
+12
+(3) in subparagraph (C), by striking the period 
+13
+at the end and inserting ‘‘; or’’; 
+14
+(4) by redesignating subparagraphs (A) through 
+15
+(C) as clauses (i) through (iii), respectively, and 
+16
+moving their margins 2 ems to the right; 
+17
+(5) by striking ‘‘evaluation by a manufacturer 
+18
+that agrees not to sell or offer for sale’’ and insert-
+19
+ing the following: ‘‘evaluation by— 
+20
+‘‘(A) a manufacturer that agrees not to sell 
+21
+or lease or offer for sale or lease’’; and 
+22
+(6) by adding at the end the following: 
+23
+‘‘(B) a manufacturer of highly automated 
+24
+vehicles, automated driving systems, or compo-
+25
+00:45 Oct 09, 2020
+H8350
+21 
+•HR 8350 IH
+nents of automated driving systems that agrees 
+1
+not to sell or lease or offer for sale or lease the 
+2
+highly automated vehicles, automated driving 
+3
+systems, or components of automated driving 
+4
+systems at the conclusion of the testing or eval-
+5
+uation and— 
+6
+‘‘(i) has submitted to the Secretary— 
+7
+‘‘(I) the name of the individual, 
+8
+partnership, corporation, or institu-
+9
+tion of higher education and a point 
+10
+of contact; 
+11
+‘‘(II) the residence address of the 
+12
+individual, partnership, corporation, 
+13
+or institution of higher education and 
+14
+State of incorporation if applicable; 
+15
+‘‘(III) a description of each type 
+16
+of motor vehicle used during develop-
+17
+ment of highly automated vehicles, 
+18
+automated driving systems, or compo-
+19
+nents of automated driving systems 
+20
+manufactured by the individual, part-
+21
+nership, corporation, or institution of 
+22
+higher education; and 
+23
+‘‘(IV) proof of insurance for any 
+24
+State in which the individual, partner-
+25
+00:45 Oct 09, 2020
+H8350
+22 
+•HR 8350 IH
+ship, corporation, or institution of 
+1
+higher education intends to test or 
+2
+evaluate highly automated vehicles; 
+3
+and 
+4
+‘‘(ii) if applicable, has identified an 
+5
+agent for service of process in accordance 
+6
+with part 551 of title 49, Code of Federal 
+7
+Regulations.’’. 
+8
+SEC. 8. INFORMATION ON HIGHLY AUTOMATED DRIVING 
+9
+SYSTEMS MADE AVAILABLE TO PROSPECTIVE 
+10
+BUYERS. 
+11
+(a) RESEARCH.—Not later than 3 years after the 
+12
+date of enactment of this Act, the Secretary of Transpor-
+13
+tation shall complete research to determine the most effec-
+14
+tive method and terminology for informing consumers for 
+15
+each highly automated vehicle or a vehicle that performs 
+16
+partial driving automation about the capabilities and limi-
+17
+tations of that vehicle. The Secretary shall determine 
+18
+whether such information is based upon or includes the 
+19
+terminology as defined by SAE International in Rec-
+20
+ommended Practice Report J3016 (published September 
+21
+2016) or whether such description should include alter-
+22
+native terminology. 
+23
+(b) RULEMAKING.—After the completion of the study 
+24
+required under subsection (a), the Secretary shall initiate 
+25
+00:45 Oct 09, 2020
+H8350
+23 
+•HR 8350 IH
+a rulemaking proceeding to require manufacturers to in-
+1
+form consumers of the capabilities and limitations of a ve-
+2
+hicle’s driving automation system or feature for any highly 
+3
+automated vehicle or any vehicle that performs partial 
+4
+driving automation. 
+5
+SEC. 9. HIGHLY AUTOMATED VEHICLE ADVISORY COUNCIL. 
+6
+(a) ESTABLISHMENT.—Subject to the availability of 
+7
+appropriations, not later than 6 months after the date of 
+8
+enactment of this Act, the Secretary of Transportation 
+9
+shall establish in the National Highway Traffic Safety Ad-
+10
+ministration a Highly Automated Vehicle Advisory Council 
+11
+(hereinafter referred to as the ‘‘Council’’). 
+12
+(b) MEMBERSHIP.—Members of the Council shall in-
+13
+clude a diverse group representative of business (including 
+14
+motor vehicle manufacturers, mobility service providers, 
+15
+and motor vehicle dealers), academia and independent re-
+16
+searchers, State and local authorities, safety and con-
+17
+sumer advocates, disability organizations, engineers, labor 
+18
+organizations, environmental experts, a representative of 
+19
+the National Highway Traffic Safety Administration, and 
+20
+other members determined to be appropriate by the Sec-
+21
+retary. Any subcommittee of the Council shall be com-
+22
+posed of not less than 15 and not more than 30 members 
+23
+appointed by the Secretary. 
+24
+00:45 Oct 09, 2020
+H8350
+24 
+•HR 8350 IH
+(c) TERMS.—Members of the Council shall be ap-
+1
+pointed by the Secretary of Transportation and shall serve 
+2
+for a term of three years. 
+3
+(d) VACANCIES.—Any vacancy occurring in the mem-
+4
+bership of the Council shall be filled in the same manner 
+5
+as the original appointment for the position being vacated. 
+6
+The vacancy shall not affect the power of the remaining 
+7
+members to execute the duties of the Council. 
+8
+(e) DUTIES
+AND SUBCOMMITTEES.—The Council 
+9
+may form subcommittees as needed to undertake informa-
+10
+tion gathering activities, develop technical advice, and 
+11
+present best practices or recommendations to the Sec-
+12
+retary regarding— 
+13
+(1) advancing mobility access for the disabled 
+14
+community with respect to the deployment of auto-
+15
+mated driving systems to identify impediments to 
+16
+their use and ensure an awareness of the needs of 
+17
+the disabled community as these vehicles are being 
+18
+designed for distribution in commerce; 
+19
+(2) mobility access for senior citizens and popu-
+20
+lations underserved by traditional public transpor-
+21
+tation services and educational outreach efforts with 
+22
+respect to the testing and distribution of highly 
+23
+automated vehicles in commerce; 
+24
+00:45 Oct 09, 2020
+H8350
+25 
+•HR 8350 IH
+(3) cybersecurity for the testing, deployment, 
+1
+and updating of automated driving systems with re-
+2
+spect to supply chain risk management, interactions 
+3
+with Information Sharing and Analysis Centers and 
+4
+Information Sharing and Analysis Organizations, 
+5
+and a framework for identifying and implementing 
+6
+recalls of motor vehicles or motor vehicle equipment; 
+7
+(4) the development of a framework that allows 
+8
+manufacturers of highly automated vehicles to share 
+9
+with each other and the National Highway Traffic 
+10
+Safety Administration relevant, situational informa-
+11
+tion related to any testing or deployment event on 
+12
+public streets resulting or that reasonably could have 
+13
+resulted in damage to the vehicle or any occupant 
+14
+thereof and validation of such vehicles in a manner 
+15
+that does not risk public disclosure of such informa-
+16
+tion or disclosure of confidential business informa-
+17
+tion; 
+18
+(5) labor and employment issues that may be 
+19
+affected by the deployment of highly automated vehi-
+20
+cles; 
+21
+(6) the environmental impacts of the deploy-
+22
+ment of highly automated vehicles, and the develop-
+23
+ment and deployment of alternative fuel infrastruc-
+24
+00:45 Oct 09, 2020
+H8350
+26 
+•HR 8350 IH
+ture alongside the development and deployment of 
+1
+highly automated vehicles; 
+2
+(7) protection of consumer privacy and security 
+3
+of information collected by highly automated vehi-
+4
+cles; 
+5
+(8) cabin safety for highly automated vehicle 
+6
+passengers, and how automated driving systems may 
+7
+impact collision vectors, overall crashworthiness, and 
+8
+the use and placement of airbags, seatbelts, anchor 
+9
+belts, head restraints, and other protective features 
+10
+in the cabin; 
+11
+(9) the testing and deployment of highly auto-
+12
+mated vehicles and automated driving systems in 
+13
+areas that are rural, remote, mountainous, insular, 
+14
+or unmapped to evaluate operational limitations 
+15
+caused by natural geographical or man-made fea-
+16
+tures, or adverse weather conditions, and to enhance 
+17
+the safety and reliability of highly automated vehi-
+18
+cles and automated driving systems used in such 
+19
+areas with such features or conditions; and 
+20
+(10) independent verification and validation 
+21
+procedures for highly automated vehicles that may 
+22
+be useful to safeguard motor vehicle safety. 
+23
+(f) REPORT TO CONGRESS.—The recommendations 
+24
+of the Council shall also be reported to the Committee on 
+25
+00:45 Oct 09, 2020
+H8350
+27 
+•HR 8350 IH
+Energy and Commerce of the House of Representatives 
+1
+and the Committee on Commerce, Science, and Transpor-
+2
+tation of the Senate. 
+3
+(g) FEDERAL ADVISORY COMMITTEE ACT.—The es-
+4
+tablishment and operation of the Council and any sub-
+5
+committees of the Council shall conform to the require-
+6
+ments of the Federal Advisory Committee Act (5 U.S.C. 
+7
+App.). 
+8
+(h) TECHNICAL ASSISTANCE.—On request of the 
+9
+Council, the Secretary shall provide such technical assist-
+10
+ance to the Council as the Secretary determines to be nec-
+11
+essary to carry out the Council’s duties. 
+12
+(i) DETAIL OF FEDERAL EMPLOYEES.—On the re-
+13
+quest of the Council, the Secretary may detail, with or 
+14
+without reimbursement, any of the personnel of the De-
+15
+partment of Transportation to the Council to assist the 
+16
+Council in carrying out its duties. Any detail shall not in-
+17
+terrupt or otherwise affect the civil service status or privi-
+18
+leges of the Federal employee. 
+19
+(j) PAYMENT
+AND EXPENSES.—Members of the 
+20
+Council shall serve without pay, except travel and per diem 
+21
+will be paid each member for meetings called by the Sec-
+22
+retary. 
+23
+00:45 Oct 09, 2020
+H8350
+28 
+•HR 8350 IH
+(k) TERMINATION.—The Council and any sub-
+1
+committees of the Council shall terminate 6 years after 
+2
+the date of enactment of this Act. 
+3
+SEC. 10. REAR SEAT OCCUPANT ALERT SYSTEM. 
+4
+(a) IN GENERAL.—Chapter 301 of subtitle VI of title 
+5
+49, United States Code, is amended by inserting after sec-
+6
+tion 30130 (as added by section 5) the following new sec-
+7
+tion: 
+8
+‘‘§ 30131. Rear seat occupant alert system 
+9
+‘‘(a) RULEMAKING REQUIRED.—Not later than 2 
+10
+years after the date of enactment of this section, the Sec-
+11
+retary shall issue a final rule requiring all new passenger 
+12
+motor vehicles weighing less than 10,000 pounds gross ve-
+13
+hicle weight to be equipped with an alarm system to alert 
+14
+the operator to check rear designated seating positions 
+15
+after the vehicle motor or engine is deactivated by the op-
+16
+erator. 
+17
+‘‘(b) PHASE-IN.—The rule issued pursuant to sub-
+18
+section (a) shall require full compliance with the rule be-
+19
+ginning on September 1st of the calendar year that begins 
+20
+2 years after the date on which the final rule is issued. 
+21
+‘‘(c) DEFINITIONS.—For purposes of this section— 
+22
+‘‘(1) the term ‘passenger motor vehicle’ has the 
+23
+meaning given that term in section 32101; and 
+24
+00:45 Oct 09, 2020
+H8350
+29 
+•HR 8350 IH
+‘‘(2) the term ‘rear designated seating position’ 
+1
+means any designated seating position that is rear-
+2
+ward of the front seat.’’. 
+3
+(b) CLERICAL AMENDMENT.—The analysis for chap-
+4
+ter 301 of subtitle VI of title 49, United States Code, is 
+5
+amended by inserting after the item relating to section 
+6
+30130 (as added by section 5) the following new item: 
+7
+‘‘30131. Rear seat occupant alert system.’’. 
+SEC. 11. HEADLAMPS. 
+8
+(a) SAFETY RESEARCH INITIATIVE.—Not later than 
+9
+2 years after the date of enactment of this Act, the Sec-
+10
+retary of Transportation shall complete research into the 
+11
+development of updated motor vehicle safety standards or 
+12
+performance requirements for motor vehicle headlamps 
+13
+that would improve the performance of headlamps and im-
+14
+prove overall safety. 
+15
+(b) RULEMAKING OR REPORT.— 
+16
+(1) RULEMAKING.—After the completion of the 
+17
+research required by subsection (a), the Secretary 
+18
+shall initiate a rulemaking proceeding to revise the 
+19
+motor vehicle safety standards regarding headlamps 
+20
+if the Secretary determines that a revision of the 
+21
+standards meets the requirements and consider-
+22
+ations set forth in subsections (a) and (b) of section 
+23
+30111 of title 49, United States Code. 
+24
+00:45 Oct 09, 2020
+H8350
+30 
+•HR 8350 IH
+(2) REPORT.—If the Secretary determines that 
+1
+a revision to the standard described in paragraph 
+2
+(1) does not meet the requirements and consider-
+3
+ations set forth in such subsections, the Secretary 
+4
+shall submit a report describing the reasons for not 
+5
+revising the standard to the Committee on Energy 
+6
+and Commerce of the House of Representatives and 
+7
+the Committee on Commerce, Science, and Trans-
+8
+portation of the Senate. 
+9
+SEC. 12. PRIVACY PLAN REQUIRED FOR HIGHLY AUTO-
+10
+MATED VEHICLES. 
+11
+(a) PRIVACY PLAN.—A manufacturer may not sell, 
+12
+offer for sale, introduce or deliver for introduction in inter-
+13
+state commerce, or import into the United States, any 
+14
+highly automated vehicle, vehicle that performs partial 
+15
+driving automation, or automated driving system unless 
+16
+the manufacturer has developed a privacy plan that in-
+17
+cludes the following: 
+18
+(1) A written privacy plan with respect to the 
+19
+collection, use, sharing, and storage of information 
+20
+about vehicle owners or occupants collected by a 
+21
+highly automated vehicle, vehicle that performs par-
+22
+tial driving automation, or automated driving sys-
+23
+tem. Such policy shall include the following: 
+24
+00:45 Oct 09, 2020
+H8350
+31 
+•HR 8350 IH
+(A) The practices of the manufacturer with 
+1
+respect to the way that information about vehi-
+2
+cle owners or occupants is collected, used, 
+3
+shared, or stored. 
+4
+(B) The practices of the manufacturer 
+5
+with respect to the choices offered to vehicle 
+6
+owners or occupants regarding the collection, 
+7
+use, sharing, and storage of such information. 
+8
+(C) The practices of the manufacturer with 
+9
+respect to the data minimization, de-identifica-
+10
+tion, and retention of information about vehicle 
+11
+owners or occupants. 
+12
+(D) The practices of the manufacturer 
+13
+with respect to extending its privacy plan to the 
+14
+entities it shares such information with. 
+15
+(2) A method for providing notice to vehicle 
+16
+owners or occupants about the privacy policy. 
+17
+(3) If information about vehicle owners or occu-
+18
+pants is altered or combined so that the information 
+19
+can no longer reasonably be linked to the highly 
+20
+automated vehicle, vehicle that performs partial driv-
+21
+ing automation, or automated driving system from 
+22
+which the information is retrieved, the vehicle owner, 
+23
+or occupants, the manufacturer is not required to in-
+24
+00:45 Oct 09, 2020
+H8350
+32 
+•HR 8350 IH
+clude the process or practices regarding that infor-
+1
+mation in the privacy policy. 
+2
+(4) If information about an occupant is 
+3
+anonymized or encrypted the manufacturer is not re-
+4
+quired to include the process or practices regarding 
+5
+that information in the privacy policy. 
+6
+(b) STUDY.—The Federal Trade Commission shall 
+7
+conduct a study and submit a report to the Committee 
+8
+on Energy and Commerce of the House of Representatives 
+9
+and the Committee on Commerce, Science, and Transpor-
+10
+tation of the Senate on the highly automated vehicle mar-
+11
+ketplace, including an examination of the following issues: 
+12
+(1) Which entities in the ecosystem have access 
+13
+to vehicle owner or occupant data. 
+14
+(2) Which entities in the highly automated vehi-
+15
+cle marketplace have privacy plans. 
+16
+(3) What are the terms and disclosures made in 
+17
+such privacy plans, including regarding the collec-
+18
+tion, use, sharing, and storage of vehicle owner or 
+19
+occupant data. 
+20
+(4) What disclosures are made to consumers 
+21
+about such privacy plans. 
+22
+(5) What methods are available to enable dele-
+23
+tion of information about vehicle owners or occu-
+24
+pants from any data storage system within the vehi-
+25
+00:45 Oct 09, 2020
+H8350
+33 
+•HR 8350 IH
+cle (other than a system that is critical to the safety 
+1
+or operation of the vehicle) before the vehicle is sold, 
+2
+leased, or rented, or otherwise occupied by a new 
+3
+owner or occupant. 
+4
+(c) FEDERAL TRADE COMMISSION ENFORCEMENT.— 
+5
+A violation of subsection (a) shall be treated as an unfair 
+6
+or deceptive act or practice within the meaning of section 
+7
+5(a)(1) of the Federal Trade Commission Act (15 U.S.C. 
+8
+45(a)(1)). The Federal Trade Commission shall enforce 
+9
+this section in the same manner, by the same means, and 
+10
+with the same jurisdiction, powers, and duties as though 
+11
+all applicable terms and provisions of the Federal Trade 
+12
+Commission Act were incorporated into and made a part 
+13
+of this Act. 
+14
+(d) EFFECTIVE DATE.—This section shall take effect 
+15
+180 days after the date of enactment of this section and 
+16
+shall only apply to highly automated vehicles, vehicles that 
+17
+perform partial driving automation, or automated driving 
+18
+systems first introduced after the effective date of this sec-
+19
+tion. 
+20
+SEC. 13. DEFINITIONS. 
+21
+(a) AMENDMENTS TO TITLE 49, UNITED STATES 
+22
+CODE.—Section 30102 of title 49, United States Code, 
+23
+is amended— 
+24
+(1) in subsection (a)— 
+25
+21:31 Oct 09, 2020
+H8350
+34 
+•HR 8350 IH
+(A) 
+by 
+redesignating 
+paragraphs 
+(1) 
+1
+through (13) as paragraphs (2), (4), (5), (6), 
+2
+(9), (10), (11), (12), (13), (14), (16), (17), and 
+3
+(18), respectively; 
+4
+(B) by inserting before paragraph (2) (as 
+5
+so redesignated) the following: 
+6
+‘‘(1) ‘automated driving system’ means the 
+7
+hardware and software that are collectively capable 
+8
+of performing the entire dynamic driving task on a 
+9
+sustained basis, regardless of whether such system is 
+10
+limited to a specific operational design domain.’’; 
+11
+(C) by inserting before paragraph (3) (as 
+12
+so redesignated) the following: 
+13
+‘‘(3) ‘‘dedicated highly automated vehicle’’ 
+14
+means a highly automated vehicle designed to be op-
+15
+erated exclusively by a Level 4 or 5 automated driv-
+16
+ing system (as defined by the SAE International 
+17
+standard J3016, published on September 30, 2016, 
+18
+or subsequently adopted by the Secretary) for all 
+19
+trips.’’; 
+20
+(D) by inserting after paragraph (5) (as so 
+21
+redesignated) the following: 
+22
+‘‘(7) ‘dynamic driving task’ means all of the 
+23
+real time operational and tactical functions required 
+24
+to operate a vehicle in on-road traffic, excluding the 
+25
+21:31 Oct 09, 2020
+H8350
+35 
+•HR 8350 IH
+strategic functions such as trip scheduling and selec-
+1
+tion of destinations and waypoints, and including— 
+2
+‘‘(A) lateral vehicle motion control via 
+3
+steering; 
+4
+‘‘(B) longitudinal vehicle motion control 
+5
+via acceleration and deceleration; 
+6
+‘‘(C) monitoring the driving environment 
+7
+via object and event detection, recognition, clas-
+8
+sification, and response preparation; 
+9
+‘‘(D) object and event response execution; 
+10
+‘‘(E) maneuver planning; and 
+11
+‘‘(F) enhancing conspicuity via lighting, 
+12
+signaling, and gesturing; and 
+13
+‘‘(8) ‘highly automated vehicle’— 
+14
+‘‘(A) means a motor vehicle equipped with 
+15
+an automated driving system; and 
+16
+‘‘(B) does not include a commercial motor 
+17
+vehicle (as defined in section 31101).’’; 
+18
+(E) by inserting after paragraph (13) (as 
+19
+so redesignated) the following: 
+20
+‘‘(15) ‘operational design domain’ means the 
+21
+specific conditions under which a given driving auto-
+22
+mation system or feature thereof is designed to func-
+23
+tion.’’; and 
+24
+(F) by adding at the end the following: 
+25
+00:45 Oct 09, 2020
+H8350
+36 
+•HR 8350 IH
+‘‘(19) ‘vehicle that performs partial driving au-
+1
+tomation’ does not include a commercial motor vehi-
+2
+cle (as defined in section 31101).’’; and 
+3
+(2) by adding at the end the following: 
+4
+‘‘(c) REVISIONS TO CERTAIN DEFINITIONS.— 
+5
+‘‘(1) If SAE International (or its successor or-
+6
+ganization) revises the definition of any of the terms 
+7
+defined in paragraph (1), (6), or (14) of subsection 
+8
+(a) in Recommended Practice Report J3016, it shall 
+9
+notify the Secretary of the revision. The Secretary 
+10
+shall publish a notice in the Federal Register to in-
+11
+form the public of the new definition unless, within 
+12
+90 days after receiving notice of the new definition 
+13
+and after opening a period for public comment on 
+14
+the new definition, the Secretary notifies SAE Inter-
+15
+national (or its successor organization) that the Sec-
+16
+retary has determined that the new definition does 
+17
+not meet the need for motor vehicle safety, or is oth-
+18
+erwise inconsistent with the purposes of this chapter. 
+19
+If the Secretary so notifies SAE International (or its 
+20
+successor organization), the existing definition in 
+21
+subsection (a) shall remain in effect. 
+22
+‘‘(2) If the Secretary does not reject a defini-
+23
+tion revised by SAE International (or its successor 
+24
+organization) as described in paragraph (1), the Sec-
+25
+00:45 Oct 09, 2020
+H8350
+37 
+•HR 8350 IH
+retary shall promptly make any conforming amend-
+1
+ments to the regulations and standards of the Sec-
+2
+retary that are necessary. The revised definition 
+3
+shall apply for purposes of this chapter. The require-
+4
+ments of section 553 of title 5 shall not apply to the 
+5
+making of any such conforming amendments. 
+6
+‘‘(3) Pursuant to section 553 of title 5, the Sec-
+7
+retary may update any of the definitions in para-
+8
+graph (1), (6), or (14) of subsection (a) if the Sec-
+9
+retary determines that materially changed cir-
+10
+cumstances regarding highly automated vehicles 
+11
+have impacted motor vehicle safety such that the 
+12
+definitions need to be updated to reflect such cir-
+13
+cumstances.’’. 
+14
+(b) DEFINITIONS IN THIS ACT.—As used in this 
+15
+Act— 
+16
+(1) the term ‘‘automated driving system’’ has 
+17
+the meaning given such term in subsection (a) of 
+18
+section 30102 of title 49, United States Code, sub-
+19
+ject to any revisions made to the definition of such 
+20
+term pursuant to subsection (c) of such section; 
+21
+(2) the term ‘‘highly automated vehicle’’ has the 
+22
+meaning given such term in subsection (a) of section 
+23
+30102 of title 49, United States Code, not subject 
+24
+00:45 Oct 09, 2020
+H8350
+38 
+•HR 8350 IH
+to any revision under subsection (c) of such section; 
+1
+and 
+2
+(3) the term ‘‘vehicle that performs partial driv-
+3
+ing automation’’ has the meaning given such term in 
+4
+subsection (a) of section 30102 of title 49, United 
+5
+States Code, not subject to any revision under sub-
+6
+section (c) of such section. 
+7
+Æ 
+00:45 Oct 09, 2020
+H8350

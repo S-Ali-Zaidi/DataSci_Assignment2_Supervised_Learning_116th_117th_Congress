@@ -1,0 +1,1471 @@
+AN ACT 
+To amend chapter 36 of title 44, United States Code, to 
+improve the cybersecurity of the Federal Government, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+2 
+•HR 8956 EH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘FedRAMP Authoriza-
+2
+tion Act’’. 
+3
+SEC. 2. FINDINGS. 
+4
+Congress finds the following: 
+5
+(1) Ensuring that the Federal Government can 
+6
+securely leverage cloud computing products and serv-
+7
+ices is key to expediting the modernization of legacy 
+8
+information technology systems, increasing cyberse-
+9
+curity within and across departments and agencies, 
+10
+and supporting the continued leadership of the 
+11
+United States in technology innovation and job cre-
+12
+ation. 
+13
+(2) According to independent analysis, as of 
+14
+calendar year 2019, the size of the cloud computing 
+15
+market had tripled since 2004, enabling more than 
+16
+2,000,000 
+jobs 
+and 
+adding 
+more 
+than 
+17
+$200,000,000,000 to the gross domestic product of 
+18
+the United States. 
+19
+(3) The Federal Government, across multiple 
+20
+presidential administrations and Congresses, has 
+21
+continued to support the ability of agencies to move 
+22
+to the cloud, including through— 
+23
+(A) President Barack Obama’s ‘‘Cloud 
+24
+First Strategy’’; 
+25
+3 
+•HR 8956 EH
+(B) President Donald Trump’s ‘‘Cloud 
+1
+Smart Strategy’’; 
+2
+(C) the prioritization of cloud security in 
+3
+Executive Order No. 14028 (86 Fed. Reg. 
+4
+26633; relating to improving the nation’s cyber-
+5
+security), which was issued by President Joe 
+6
+Biden; and 
+7
+(D) more than a decade of appropriations 
+8
+and authorization legislation that provides 
+9
+agencies with relevant authorities and appro-
+10
+priations to modernize on-premises information 
+11
+technology systems and more readily adopt 
+12
+cloud computing products and services. 
+13
+(4) Since it was created in 2011, the Federal 
+14
+Risk and Authorization Management Program (re-
+15
+ferred to in this section as ‘‘FedRAMP’’) at the 
+16
+General Services Administration has made steady 
+17
+and sustained improvements in supporting the se-
+18
+cure authorization and reuse of cloud computing 
+19
+products and services within the Federal Govern-
+20
+ment, including by reducing the costs and burdens 
+21
+on both agencies and cloud companies to quickly and 
+22
+securely enter the Federal market. 
+23
+(5) According to data from the General Services 
+24
+Administration, as of the end of fiscal year 2021, 
+25
+4 
+•HR 8956 EH
+there were 239 cloud providers with FedRAMP au-
+1
+thorizations, and those authorizations had been re-
+2
+used more than 2,700 times across various agencies. 
+3
+(6) Providing a legislative framework for 
+4
+FedRAMP and new authorities to the General Serv-
+5
+ices Administration, the Office of Management and 
+6
+Budget, and Federal agencies will— 
+7
+(A) improve the speed at which new cloud 
+8
+computing products and services can be se-
+9
+curely authorized; 
+10
+(B) enhance the ability of agencies to ef-
+11
+fectively evaluate FedRAMP authorized pro-
+12
+viders for reuse; 
+13
+(C) reduce the costs and burdens to cloud 
+14
+providers seeking a FedRAMP authorization; 
+15
+and 
+16
+(D) provide for more robust transparency 
+17
+and dialogue between industry and the Federal 
+18
+Government to drive stronger adoption of se-
+19
+cure cloud capabilities, create jobs, and reduce 
+20
+wasteful legacy information technology. 
+21
+SEC. 3. TITLE 44 AMENDMENTS. 
+22
+(a) AMENDMENT.—Chapter 36 of title 44, United 
+23
+States Code, is amended by adding at the end the fol-
+24
+lowing: 
+25
+5 
+•HR 8956 EH
+‘‘§ 3607. Definitions 
+1
+‘‘(a) IN GENERAL.—Except as provided under sub-
+2
+section (b), the definitions under sections 3502 and 3552 
+3
+apply to this section through section 3616. 
+4
+‘‘(b) ADDITIONAL DEFINITIONS.—In this section 
+5
+through section 3616: 
+6
+‘‘(1) ADMINISTRATOR.—The term ‘Adminis-
+7
+trator’ means the Administrator of General Services. 
+8
+‘‘(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+9
+TEES.—The term ‘appropriate congressional com-
+10
+mittees’ means the Committee on Homeland Secu-
+11
+rity and Governmental Affairs of the Senate and the 
+12
+Committee on Oversight and Reform of the House 
+13
+of Representatives. 
+14
+‘‘(3) AUTHORIZATION TO OPERATE; FEDERAL 
+15
+INFORMATION.—The terms ‘authorization to oper-
+16
+ate’ and ‘Federal information’ have the meaning 
+17
+given those term in Circular A–130 of the Office of 
+18
+Management and Budget entitled ‘Managing Infor-
+19
+mation as a Strategic Resource’, or any successor 
+20
+document. 
+21
+‘‘(4) CLOUD
+COMPUTING.—The term ‘cloud 
+22
+computing’ has the meaning given the term in Spe-
+23
+cial Publication 800–145 of the National Institute of 
+24
+Standards and Technology, or any successor docu-
+25
+ment. 
+26
+6 
+•HR 8956 EH
+‘‘(5) CLOUD
+SERVICE
+PROVIDER.—The term 
+1
+‘cloud service provider’ means an entity offering 
+2
+cloud computing products or services to agencies. 
+3
+‘‘(6) 
+FEDRAMP.—The 
+term 
+‘FedRAMP’ 
+4
+means the Federal Risk and Authorization Manage-
+5
+ment Program established under section 3608. 
+6
+‘‘(7) FEDRAMP AUTHORIZATION.—The term 
+7
+‘FedRAMP authorization’ means a certification that 
+8
+a cloud computing product or service has— 
+9
+‘‘(A) completed a FedRAMP authorization 
+10
+process, as determined by the Administrator; or 
+11
+‘‘(B) received a FedRAMP provisional au-
+12
+thorization to operate, as determined by the 
+13
+FedRAMP Board. 
+14
+‘‘(8) FEDRAMP
+AUTHORIZATION
+PACKAGE.— 
+15
+The term ‘FedRAMP authorization package’ means 
+16
+the essential information that can be used by an 
+17
+agency to determine whether to authorize the oper-
+18
+ation of an information system or the use of a des-
+19
+ignated set of common controls for all cloud com-
+20
+puting 
+products 
+and 
+services 
+authorized 
+by 
+21
+FedRAMP. 
+22
+‘‘(9) FEDRAMP BOARD.—The term ‘FedRAMP 
+23
+Board’ means the board established under section 
+24
+3610. 
+25
+7 
+•HR 8956 EH
+‘‘(10) INDEPENDENT ASSESSMENT SERVICE.— 
+1
+The term ‘independent assessment service’ means a 
+2
+third-party organization accredited by the Adminis-
+3
+trator to undertake conformity assessments of cloud 
+4
+service providers and the products or services of 
+5
+cloud service providers. 
+6
+‘‘(11) 
+SECRETARY.—The 
+term 
+‘Secretary’ 
+7
+means the Secretary of Homeland Security. 
+8
+‘‘§ 3608. Federal Risk and Authorization Management 
+9
+Program 
+10
+‘‘There is established within the General Services Ad-
+11
+ministration the Federal Risk and Authorization Manage-
+12
+ment Program. The Administrator, subject to section 
+13
+3614, shall establish a Government-wide program that 
+14
+provides a standardized, reusable approach to security as-
+15
+sessment and authorization for cloud computing products 
+16
+and services that process unclassified information used by 
+17
+agencies. 
+18
+‘‘§ 3609. Roles and responsibilities of the General 
+19
+Services Administration 
+20
+‘‘(a) ROLES AND RESPONSIBILITIES.—The Adminis-
+21
+trator shall— 
+22
+‘‘(1) in consultation with the Secretary, develop, 
+23
+coordinate, and implement a process to support 
+24
+agency review, reuse, and standardization, where ap-
+25
+8 
+•HR 8956 EH
+propriate, of security assessments of cloud com-
+1
+puting products and services, including, as appro-
+2
+priate, oversight of continuous monitoring of cloud 
+3
+computing products and services, pursuant to guid-
+4
+ance issued by the Director pursuant to section 
+5
+3614; 
+6
+‘‘(2) establish processes and identify criteria 
+7
+consistent with guidance issued by the Director 
+8
+under section 3614 to make a cloud computing prod-
+9
+uct or service eligible for a FedRAMP authorization 
+10
+and validate whether a cloud computing product or 
+11
+service has a FedRAMP authorization; 
+12
+‘‘(3) develop and publish templates, best prac-
+13
+tices, technical assistance, and other materials to 
+14
+support the authorization of cloud computing prod-
+15
+ucts and services and increase the speed, effective-
+16
+ness, and transparency of the authorization process, 
+17
+consistent with standards and guidelines established 
+18
+by the Director of the National Institute of Stand-
+19
+ards and Technology and relevant statutes; 
+20
+‘‘(4) establish and update guidance on the 
+21
+boundaries of FedRAMP authorization packages to 
+22
+enhance the security and protection of Federal infor-
+23
+mation and promote transparency for agencies and 
+24
+9 
+•HR 8956 EH
+users as to which services are included in the scope 
+1
+of a FedRAMP authorization; 
+2
+‘‘(5) grant FedRAMP authorizations to cloud 
+3
+computing products and services consistent with the 
+4
+guidance and direction of the FedRAMP Board; 
+5
+‘‘(6) establish and maintain a public comment 
+6
+process for proposed guidance and other FedRAMP 
+7
+directives that may have a direct impact on cloud 
+8
+service providers and agencies before the issuance of 
+9
+such guidance or other FedRAMP directives; 
+10
+‘‘(7) coordinate with the FedRAMP Board, the 
+11
+Director of the Cybersecurity and Infrastructure Se-
+12
+curity Agency, and other entities identified by the 
+13
+Administrator, with the concurrence of the Director 
+14
+and the Secretary, to establish and regularly update 
+15
+a framework for continuous monitoring under sec-
+16
+tion 3553; 
+17
+‘‘(8) provide a secure mechanism for storing 
+18
+and sharing necessary data, including FedRAMP 
+19
+authorization packages, to enable better reuse of 
+20
+such packages across agencies, including making 
+21
+available any information and data necessary for 
+22
+agencies to fulfill the requirements of section 3613; 
+23
+‘‘(9) provide regular updates to applicant cloud 
+24
+service providers on the status of any cloud com-
+25
+10 
+•HR 8956 EH
+puting product or service during an assessment 
+1
+process; 
+2
+‘‘(10) regularly review, in consultation with the 
+3
+FedRAMP Board— 
+4
+‘‘(A) the costs associated with the inde-
+5
+pendent assessment services described in section 
+6
+3611; and 
+7
+‘‘(B) the information relating to foreign in-
+8
+terests submitted pursuant to section 3612; 
+9
+‘‘(11) in coordination with the Director of the 
+10
+National Institute of Standards and Technology, the 
+11
+Director, the Secretary, and other stakeholders, as 
+12
+appropriate, determine the sufficiency of underlying 
+13
+standards and requirements to identify and assess 
+14
+the provenance of the software in cloud services and 
+15
+products; 
+16
+‘‘(12) support the Federal Secure Cloud Advi-
+17
+sory Committee established pursuant to section 
+18
+3616; and 
+19
+‘‘(13) take such other actions as the Adminis-
+20
+trator may determine necessary to carry out 
+21
+FedRAMP. 
+22
+‘‘(b) WEBSITE.— 
+23
+‘‘(1) IN
+GENERAL.—The Administrator shall 
+24
+maintain a public website to serve as the authori-
+25
+11 
+•HR 8956 EH
+tative repository for FedRAMP, including the timely 
+1
+publication and updates for all relevant information, 
+2
+guidance, determinations, and other materials re-
+3
+quired under subsection (a). 
+4
+‘‘(2) CRITERIA
+AND
+PROCESS
+FOR
+FEDRAMP 
+5
+AUTHORIZATION
+PRIORITIES.—The Administrator 
+6
+shall develop and make publicly available on the 
+7
+website described in paragraph (1) the criteria and 
+8
+process for prioritizing and selecting cloud com-
+9
+puting products and services that will receive a 
+10
+FedRAMP authorization, in consultation with the 
+11
+FedRAMP Board and the Chief Information Offi-
+12
+cers Council. 
+13
+‘‘(c) EVALUATION OF AUTOMATION PROCEDURES.— 
+14
+‘‘(1) IN GENERAL.—The Administrator, in co-
+15
+ordination with the Secretary, shall assess and 
+16
+evaluate available automation capabilities and proce-
+17
+dures to improve the efficiency and effectiveness of 
+18
+the issuance of FedRAMP authorizations, including 
+19
+continuous monitoring of cloud computing products 
+20
+and services. 
+21
+‘‘(2) MEANS FOR AUTOMATION.—Not later than 
+22
+1 year after the date of enactment of this section, 
+23
+and updated regularly thereafter, the Administrator 
+24
+12 
+•HR 8956 EH
+shall establish a means for the automation of secu-
+1
+rity assessments and reviews. 
+2
+‘‘(d) METRICS FOR AUTHORIZATION.—The Adminis-
+3
+trator shall establish annual metrics regarding the time 
+4
+and quality of the assessments necessary for completion 
+5
+of a FedRAMP authorization process in a manner that 
+6
+can be consistently tracked over time in conjunction with 
+7
+the periodic testing and evaluation process pursuant to 
+8
+section 3554 in a manner that minimizes the agency re-
+9
+porting burden. 
+10
+‘‘§ 3610. FedRAMP Board 
+11
+‘‘(a) ESTABLISHMENT.—There is established a 
+12
+FedRAMP Board to provide input and recommendations 
+13
+to the Administrator regarding the requirements and 
+14
+guidelines for, and the prioritization of, security assess-
+15
+ments of cloud computing products and services. 
+16
+‘‘(b) MEMBERSHIP.—The FedRAMP Board shall 
+17
+consist of not more than 7 senior officials or experts from 
+18
+agencies appointed by the Director, in consultation with 
+19
+the Administrator, from each of the following: 
+20
+‘‘(1) The Department of Defense. 
+21
+‘‘(2) The Department of Homeland Security. 
+22
+‘‘(3) The General Services Administration. 
+23
+‘‘(4) Such other agencies as determined by the 
+24
+Director, in consultation with the Administrator. 
+25
+13 
+•HR 8956 EH
+‘‘(c) QUALIFICATIONS.—Members of the FedRAMP 
+1
+Board appointed under subsection (b) shall have technical 
+2
+expertise in domains relevant to FedRAMP, such as— 
+3
+‘‘(1) cloud computing; 
+4
+‘‘(2) cybersecurity; 
+5
+‘‘(3) privacy; 
+6
+‘‘(4) risk management; and 
+7
+‘‘(5) other competencies identified by the Direc-
+8
+tor to support the secure authorization of cloud serv-
+9
+ices and products. 
+10
+‘‘(d) DUTIES.—The FedRAMP Board shall— 
+11
+‘‘(1) in consultation with the Administrator, 
+12
+serve as a resource for best practices to accelerate 
+13
+the process for obtaining a FedRAMP authorization; 
+14
+‘‘(2) establish and regularly update require-
+15
+ments and guidelines for security authorizations of 
+16
+cloud computing products and services, consistent 
+17
+with standards and guidelines established by the Di-
+18
+rector of the National Institute of Standards and 
+19
+Technology, to be used in the determination of 
+20
+FedRAMP authorizations; 
+21
+‘‘(3) monitor and oversee, to the greatest extent 
+22
+practicable, the processes and procedures by which 
+23
+agencies determine and validate requirements for a 
+24
+FedRAMP authorization, including periodic review 
+25
+14 
+•HR 8956 EH
+of the agency determinations described in section 
+1
+3613(b); 
+2
+‘‘(4) ensure consistency and transparency be-
+3
+tween agencies and cloud service providers in a man-
+4
+ner that minimizes confusion and engenders trust; 
+5
+and 
+6
+‘‘(5) perform such other roles and responsibil-
+7
+ities as the Director may assign, with concurrence 
+8
+from the Administrator. 
+9
+‘‘(e) DETERMINATIONS
+OF DEMAND
+FOR CLOUD 
+10
+COMPUTING PRODUCTS AND SERVICES.—The FedRAMP 
+11
+Board may consult with the Chief Information Officers 
+12
+Council to establish a process, which may be made avail-
+13
+able on the website maintained under section 3609(b), for 
+14
+prioritizing and accepting the cloud computing products 
+15
+and services to be granted a FedRAMP authorization. 
+16
+‘‘§ 3611. Independent assessment 
+17
+‘‘The 
+Administrator 
+may 
+determine 
+whether 
+18
+FedRAMP may use an independent assessment service to 
+19
+analyze, validate, and attest to the quality and compliance 
+20
+of security assessment materials provided by cloud service 
+21
+providers during the course of a determination of whether 
+22
+to use a cloud computing product or service. 
+23
+15 
+•HR 8956 EH
+‘‘§ 3612. Declaration of foreign interests 
+1
+‘‘(a) IN GENERAL.—An independent assessment serv-
+2
+ice that performs services described in section 3611 shall 
+3
+annually submit to the Administrator information relating 
+4
+to any foreign interest, foreign influence, or foreign con-
+5
+trol of the independent assessment service. 
+6
+‘‘(b) UPDATES.—Not later than 48 hours after there 
+7
+is a change in foreign ownership or control of an inde-
+8
+pendent assessment service that performs services de-
+9
+scribed in section 3611, the independent assessment serv-
+10
+ice shall submit to the Administrator an update to the in-
+11
+formation submitted under subsection (a). 
+12
+‘‘(c) CERTIFICATION.—The Administrator may re-
+13
+quire a representative of an independent assessment serv-
+14
+ice to certify the accuracy and completeness of any infor-
+15
+mation submitted under this section. 
+16
+‘‘§ 3613. Roles and responsibilities of agencies 
+17
+‘‘(a) IN GENERAL.—In implementing the require-
+18
+ments of FedRAMP, the head of each agency shall, con-
+19
+sistent with guidance issued by the Director pursuant to 
+20
+section 3614— 
+21
+‘‘(1) promote the use of cloud computing prod-
+22
+ucts and services that meet FedRAMP security re-
+23
+quirements and other risk-based performance re-
+24
+quirements as determined by the Director, in con-
+25
+sultation with the Secretary; 
+26
+16 
+•HR 8956 EH
+‘‘(2) confirm whether there is a FedRAMP au-
+1
+thorization in the secure mechanism provided under 
+2
+section 3609(a)(8) before beginning the process of 
+3
+granting a FedRAMP authorization for a cloud com-
+4
+puting product or service; 
+5
+‘‘(3) to the extent practicable, for any cloud 
+6
+computing product or service the agency seeks to au-
+7
+thorize that has received a FedRAMP authorization, 
+8
+use the existing assessments of security controls and 
+9
+materials within any FedRAMP authorization pack-
+10
+age for that cloud computing product or service; and 
+11
+‘‘(4) provide to the Director data and informa-
+12
+tion required by the Director pursuant to section 
+13
+3614 to determine how agencies are meeting metrics 
+14
+established by the Administrator. 
+15
+‘‘(b) ATTESTATION.—Upon completing an assess-
+16
+ment or authorization activity with respect to a particular 
+17
+cloud computing product or service, if an agency deter-
+18
+mines that the information and data the agency has re-
+19
+viewed under paragraph (2) or (3) of subsection (a) is 
+20
+wholly or substantially deficient for the purposes of per-
+21
+forming an authorization of the cloud computing product 
+22
+or service, the head of the agency shall document as part 
+23
+of the resulting FedRAMP authorization package the rea-
+24
+sons for this determination. 
+25
+17 
+•HR 8956 EH
+‘‘(c) SUBMISSION OF AUTHORIZATIONS TO OPERATE 
+1
+REQUIRED.—Upon issuance of an agency authorization to 
+2
+operate based on a FedRAMP authorization, the head of 
+3
+the agency shall provide a copy of its authorization to op-
+4
+erate letter and any supplementary information required 
+5
+pursuant to section 3609(a) to the Administrator. 
+6
+‘‘(d) SUBMISSION
+OF POLICIES REQUIRED.—Not 
+7
+later than 180 days after the date on which the Director 
+8
+issues guidance in accordance with section 3614(1), the 
+9
+head of each agency, acting through the chief information 
+10
+officer of the agency, shall submit to the Director all agen-
+11
+cy policies relating to the authorization of cloud computing 
+12
+products and services. 
+13
+‘‘(e) PRESUMPTION OF ADEQUACY.— 
+14
+‘‘(1) IN GENERAL.—The assessment of security 
+15
+controls and materials within the authorization 
+16
+package for a FedRAMP authorization shall be pre-
+17
+sumed adequate for use in an agency authorization 
+18
+to operate cloud computing products and services. 
+19
+‘‘(2) 
+INFORMATION
+SECURITY
+REQUIRE-
+20
+MENTS.—The presumption under paragraph (1) 
+21
+does not modify or alter— 
+22
+‘‘(A) the responsibility of any agency to en-
+23
+sure compliance with subchapter II of chapter 
+24
+18 
+•HR 8956 EH
+35 for any cloud computing product or service 
+1
+used by the agency; or 
+2
+‘‘(B) the authority of the head of any 
+3
+agency to make a determination that there is a 
+4
+demonstrable need for additional security re-
+5
+quirements beyond the security requirements 
+6
+included in a FedRAMP authorization for a 
+7
+particular control implementation. 
+8
+‘‘§ 3614. Roles and responsibilities of the Office of 
+9
+Management and Budget 
+10
+‘‘The Director shall— 
+11
+‘‘(1) in consultation with the Administrator and 
+12
+the Secretary, issue guidance that— 
+13
+‘‘(A) specifies the categories or characteris-
+14
+tics of cloud computing products and services 
+15
+that are within the scope of FedRAMP; 
+16
+‘‘(B) includes requirements for agencies to 
+17
+obtain a FedRAMP authorization when oper-
+18
+ating a cloud computing product or service de-
+19
+scribed in subparagraph (A) as a Federal infor-
+20
+mation system; and 
+21
+‘‘(C) encompasses, to the greatest extent 
+22
+practicable, all necessary and appropriate cloud 
+23
+computing products and services; 
+24
+19 
+•HR 8956 EH
+‘‘(2) issue guidance describing additional re-
+1
+sponsibilities of FedRAMP and the FedRAMP 
+2
+Board to accelerate the adoption of secure cloud 
+3
+computing products and services by the Federal 
+4
+Government; 
+5
+‘‘(3) in consultation with the Administrator, es-
+6
+tablish a process to periodically review FedRAMP 
+7
+authorization packages to support the secure author-
+8
+ization and reuse of secure cloud products and serv-
+9
+ices; 
+10
+‘‘(4) oversee the effectiveness of FedRAMP and 
+11
+the FedRAMP Board, including the compliance by 
+12
+the FedRAMP Board with the duties described in 
+13
+section 3610(d); and 
+14
+‘‘(5) to the greatest extent practicable, encour-
+15
+age and promote consistency of the assessment, au-
+16
+thorization, adoption, and use of secure cloud com-
+17
+puting products and services within and across agen-
+18
+cies. 
+19
+‘‘§ 3615. Reports to Congress; GAO report 
+20
+‘‘(a) REPORTS TO CONGRESS.—Not later than 1 year 
+21
+after the date of enactment of this section, and annually 
+22
+thereafter, the Director shall submit to the appropriate 
+23
+congressional committees a report that includes the fol-
+24
+lowing: 
+25
+20 
+•HR 8956 EH
+‘‘(1) During the preceding year, the status, effi-
+1
+ciency, and effectiveness of the General Services Ad-
+2
+ministration under section 3609 and agencies under 
+3
+section 3613 and in supporting the speed, effective-
+4
+ness, sharing, reuse, and security of authorizations 
+5
+to operate for secure cloud computing products and 
+6
+services. 
+7
+‘‘(2) Progress towards meeting the metrics re-
+8
+quired under section 3609(d). 
+9
+‘‘(3) Data on FedRAMP authorizations. 
+10
+‘‘(4) The average length of time to issue 
+11
+FedRAMP authorizations. 
+12
+‘‘(5) The number of FedRAMP authorizations 
+13
+submitted, issued, and denied for the preceding year. 
+14
+‘‘(6) A review of progress made during the pre-
+15
+ceding year in advancing automation techniques to 
+16
+securely automate FedRAMP processes and to accel-
+17
+erate reporting under this section. 
+18
+‘‘(7) The number and characteristics of author-
+19
+ized cloud computing products and services in use at 
+20
+each agency consistent with guidance provided by 
+21
+the Director under section 3614. 
+22
+‘‘(8) A review of FedRAMP measures to ensure 
+23
+the security of data stored or processed by cloud 
+24
+service providers, which may include— 
+25
+21 
+•HR 8956 EH
+‘‘(A) geolocation restrictions for provided 
+1
+products or services; 
+2
+‘‘(B) disclosures of foreign elements of 
+3
+supply chains of acquired products or services; 
+4
+‘‘(C) continued disclosures of ownership of 
+5
+cloud service providers by foreign entities; and 
+6
+‘‘(D) encryption for data processed, stored, 
+7
+or transmitted by cloud service providers. 
+8
+‘‘(b) GAO REPORT.—Not later than 180 days after 
+9
+the date of enactment of this section, the Comptroller 
+10
+General of the United States shall report to the appro-
+11
+priate congressional committees an assessment of the fol-
+12
+lowing: 
+13
+‘‘(1) The costs incurred by agencies and cloud 
+14
+service providers relating to the issuance of 
+15
+FedRAMP authorizations. 
+16
+‘‘(2) The extent to which agencies have proc-
+17
+esses in place to continuously monitor the implemen-
+18
+tation of cloud computing products and services op-
+19
+erating as Federal information systems. 
+20
+‘‘(3) How often and for which categories of 
+21
+products and services agencies use FedRAMP au-
+22
+thorizations. 
+23
+‘‘(4) The unique costs and potential burdens in-
+24
+curred by cloud computing companies that are small 
+25
+22 
+•HR 8956 EH
+business concerns (as defined in section 3(a) of the 
+1
+Small Business Act (15 U.S.C. 632(a)) as a part of 
+2
+the FedRAMP authorization process. 
+3
+‘‘§ 3616. Federal Secure Cloud Advisory Committee 
+4
+‘‘(a) ESTABLISHMENT, PURPOSES, AND DUTIES.— 
+5
+‘‘(1) ESTABLISHMENT.—There is established a 
+6
+Federal Secure Cloud Advisory Committee (referred 
+7
+to in this section as the ‘Committee’) to ensure ef-
+8
+fective and ongoing coordination of agency adoption, 
+9
+use, authorization, monitoring, acquisition, and secu-
+10
+rity of cloud computing products and services to en-
+11
+able agency mission and administrative priorities. 
+12
+‘‘(2) PURPOSES.—The purposes of the Com-
+13
+mittee are the following: 
+14
+‘‘(A) 
+To 
+examine 
+the 
+operations 
+of 
+15
+FedRAMP and determine ways that authoriza-
+16
+tion processes can continuously be improved, in-
+17
+cluding the following: 
+18
+‘‘(i) Measures to increase agency 
+19
+reuse of FedRAMP authorizations. 
+20
+‘‘(ii) Proposed actions that can be 
+21
+adopted to reduce the burden, confusion, 
+22
+and cost associated with FedRAMP au-
+23
+thorizations for cloud service providers. 
+24
+23 
+•HR 8956 EH
+‘‘(iii) Measures to increase the num-
+1
+ber of FedRAMP authorizations for cloud 
+2
+computing products and services offered by 
+3
+small businesses concerns (as defined by 
+4
+section 3(a) of the Small Business Act (15 
+5
+U.S.C. 632(a)). 
+6
+‘‘(iv) Proposed actions that can be 
+7
+adopted to reduce the burden and cost of 
+8
+FedRAMP authorizations for agencies. 
+9
+‘‘(B) Collect information and feedback on 
+10
+agency compliance with and implementation of 
+11
+FedRAMP requirements. 
+12
+‘‘(C) Serve as a forum that facilitates com-
+13
+munication 
+and 
+collaboration 
+among 
+the 
+14
+FedRAMP stakeholder community. 
+15
+‘‘(3) DUTIES.—The duties of the Committee in-
+16
+clude providing advice and recommendations to the 
+17
+Administrator, the FedRAMP Board, and agencies 
+18
+on technical, financial, programmatic, and oper-
+19
+ational matters regarding secure adoption of cloud 
+20
+computing products and services. 
+21
+‘‘(b) MEMBERS.— 
+22
+‘‘(1) COMPOSITION.—The Committee shall be 
+23
+comprised of not more than 15 members who are 
+24
+qualified representatives from the public and private 
+25
+24 
+•HR 8956 EH
+sectors, appointed by the Administrator, in consulta-
+1
+tion with the Director, as follows: 
+2
+‘‘(A) The Administrator or the Administra-
+3
+tor’s designee, who shall be the Chair of the 
+4
+Committee. 
+5
+‘‘(B) At least 1 representative each from 
+6
+the Cybersecurity and Infrastructure Security 
+7
+Agency and the National Institute of Standards 
+8
+and Technology. 
+9
+‘‘(C) At least 2 officials who serve as the 
+10
+Chief Information Security Officer within an 
+11
+agency, who shall be required to maintain such 
+12
+a position throughout the duration of their serv-
+13
+ice on the Committee. 
+14
+‘‘(D) At least 1 official serving as Chief 
+15
+Procurement Officer (or equivalent) in an agen-
+16
+cy, who shall be required to maintain such a po-
+17
+sition throughout the duration of their service 
+18
+on the Committee. 
+19
+‘‘(E) At least 1 individual representing an 
+20
+independent assessment service. 
+21
+‘‘(F) At least 5 representatives from 
+22
+unique businesses that primarily provide cloud 
+23
+computing services or products, including at 
+24
+least 2 representatives from a small business 
+25
+25 
+•HR 8956 EH
+concern (as defined by section 3(a) of the Small 
+1
+Business Act (15 U.S.C. 632(a))). 
+2
+‘‘(G) At least 2 other representatives of the 
+3
+Federal Government as the Administrator de-
+4
+termines necessary to provide sufficient balance, 
+5
+insights, or expertise to the Committee. 
+6
+‘‘(2) DEADLINE
+FOR
+APPOINTMENT.—Each 
+7
+member of the Committee shall be appointed not 
+8
+later than 90 days after the date of enactment of 
+9
+this section. 
+10
+‘‘(3) PERIOD OF APPOINTMENT; VACANCIES.— 
+11
+‘‘(A) IN
+GENERAL.—Each non-Federal 
+12
+member of the Committee shall be appointed 
+13
+for a term of 3 years, except that the initial 
+14
+terms for members may be staggered 1-, 2-, or 
+15
+3-year terms to establish a rotation in which 
+16
+one-third of the members are selected each 
+17
+year. Any such member may be appointed for 
+18
+not more than 2 consecutive terms. 
+19
+‘‘(B) VACANCIES.—Any vacancy in the 
+20
+Committee shall not affect its powers, but shall 
+21
+be filled in the same manner in which the origi-
+22
+nal appointment was made. Any member ap-
+23
+pointed to fill a vacancy occurring before the 
+24
+expiration of the term for which the member’s 
+25
+26 
+•HR 8956 EH
+predecessor was appointed shall be appointed 
+1
+only for the remainder of that term. A member 
+2
+may serve after the expiration of that member’s 
+3
+term until a successor has taken office. 
+4
+‘‘(c) MEETINGS AND RULES OF PROCEDURES.— 
+5
+‘‘(1) MEETINGS.—The Committee shall hold 
+6
+not fewer than 3 meetings in a calendar year, at 
+7
+such time and place as determined by the Chair. 
+8
+‘‘(2) INITIAL
+MEETING.—Not later than 120 
+9
+days after the date of enactment of this section, the 
+10
+Committee shall meet and begin the operations of 
+11
+the Committee. 
+12
+‘‘(3) RULES OF PROCEDURE.—The Committee 
+13
+may establish rules for the conduct of the business 
+14
+of the Committee if such rules are not inconsistent 
+15
+with this section or other applicable law. 
+16
+‘‘(d) EMPLOYEE STATUS.— 
+17
+‘‘(1) IN
+GENERAL.—A member of the Com-
+18
+mittee (other than a member who is appointed to the 
+19
+Committee in connection with another Federal ap-
+20
+pointment) shall not be considered an employee of 
+21
+the Federal Government by reason of any service as 
+22
+such a member, except for the purposes of section 
+23
+5703 of title 5, relating to travel expenses. 
+24
+27 
+•HR 8956 EH
+‘‘(2) PAY NOT PERMITTED.—A member of the 
+1
+Committee covered by paragraph (1) may not receive 
+2
+pay by reason of service on the Committee. 
+3
+‘‘(e) APPLICABILITY TO THE FEDERAL ADVISORY 
+4
+COMMITTEE ACT.—Section 14 of the Federal Advisory 
+5
+Committee Act (5 U.S.C. App.) shall not apply to the 
+6
+Committee. 
+7
+‘‘(f) DETAIL OF EMPLOYEES.—Any Federal Govern-
+8
+ment employee may be detailed to the Committee without 
+9
+reimbursement from the Committee, and such detailee 
+10
+shall retain the rights, status, and privileges of his or her 
+11
+regular employment without interruption. 
+12
+‘‘(g) POSTAL SERVICES.—The Committee may use 
+13
+the United States mails in the same manner and under 
+14
+the same conditions as agencies. 
+15
+‘‘(h) REPORTS.— 
+16
+‘‘(1) INTERIM REPORTS.—The Committee may 
+17
+submit to the Administrator and Congress interim 
+18
+reports containing such findings, conclusions, and 
+19
+recommendations as have been agreed to by the 
+20
+Committee. 
+21
+‘‘(2) ANNUAL REPORTS.—Not later than 540 
+22
+days after the date of enactment of this section, and 
+23
+annually thereafter, the Committee shall submit to 
+24
+the Administrator and Congress a report containing 
+25
+28 
+•HR 8956 EH
+such findings, conclusions, and recommendations as 
+1
+have been agreed to by the Committee.’’. 
+2
+(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+3
+The table of sections for chapter 36 of title 44, United 
+4
+States Code, is amended by adding at the end the fol-
+5
+lowing new items: 
+6
+‘‘3607. Definitions. 
+‘‘3608. Federal Risk and Authorization Management Program. 
+‘‘3609. Roles and responsibilities of the General Services Administration. 
+‘‘3610. FedRAMP Board. 
+‘‘3611. Independent assessment. 
+‘‘3612. Declaration of foreign interests. 
+‘‘3613. Roles and responsibilities of agencies. 
+‘‘3614. Roles and responsibilities of the Office of Management and Budget. 
+‘‘3615. Reports to Congress; GAO report. 
+‘‘3616. Federal Secure Cloud Advisory Committee.’’. 
+(c) SUNSET.— 
+7
+(1) IN GENERAL.—Effective on the date that is 
+8
+5 years after the date of enactment of this Act, 
+9
+chapter 36 of title 44, United States Code, is 
+10
+amended by striking sections 3607 through 3616. 
+11
+(2) CONFORMING
+AMENDMENT.—Effective on 
+12
+the date that is 5 years after the date of enactment 
+13
+of this Act, the table of sections for chapter 36 of 
+14
+title 44, United States Code, is amended by striking 
+15
+the items relating to sections 3607 through 3616. 
+16
+(d) RULE OF CONSTRUCTION.—Nothing in this sec-
+17
+tion or any amendment made by this section shall be con-
+18
+strued as altering or impairing the authorities of the Di-
+19
+rector of the Office of Management and Budget or the 
+20
+29 
+•HR 8956 EH
+Secretary of Homeland Security under subchapter II of 
+1
+chapter 35 of title 44, United States Code. 
+2
+Passed the House of Representatives September 29, 
+2022. 
+Attest: 
+Clerk. 
+117TH CONGRESS 
+2D SESSION 
+H. R. 8956 
+AN ACT 
+To amend chapter 36 of title 44, United States 
+Code, to improve the cybersecurity of the Federal 
+Government, and for other purposes. 

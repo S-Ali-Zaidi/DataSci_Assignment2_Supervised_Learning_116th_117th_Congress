@@ -1,0 +1,688 @@
+A BILL 
+To require the Federal Energy Regulatory Commission to 
+certify an Energy Product Reliability Organization which 
+shall, subject to Commission review, establish and enforce 
+energy product reliability standards, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Energy Product Reli-
+4
+ability Act’’. 
+5
+SEC. 2. ENERGY PRODUCT RELIABILITY STANDARDS. 
+6
+(a) DEFINITIONS.—In this section: 
+7
+23:25 Dec 08, 2021
+H6084
+2 
+•HR 6084 IH
+(1) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Federal Energy Regulatory Commission. 
+2
+(2) CYBERSECURITY INCIDENT.—The term ‘‘cy-
+3
+bersecurity incident’’ means a malicious act or sus-
+4
+picious event that disrupts, or was an attempt to 
+5
+disrupt, the operation of programmable electronic 
+6
+devices and communication networks, including 
+7
+hardware, software, and data, that are essential to 
+8
+the reliable delivery of an energy product through an 
+9
+energy pipeline. 
+10
+(3) ENERGY
+PIPELINE.—The term ‘‘energy 
+11
+pipeline’’ means a pipeline for the delivery of an en-
+12
+ergy product, including any facility or control system 
+13
+necessary for the operation of such a pipeline. 
+14
+(4) ENERGY
+PRODUCT.—The term ‘‘energy 
+15
+product’’ includes natural gas, hydrogen, petroleum, 
+16
+and a petroleum product. 
+17
+(5) ENERGY
+PRODUCT
+RELIABILITY
+STAND-
+18
+ARD.—The term ‘‘energy product reliability stand-
+19
+ard’’ means a requirement approved, established, or 
+20
+modified by the Commission under this section to 
+21
+provide for the reliable delivery of an energy product 
+22
+through an energy pipeline. 
+23
+(6) ENERGY PRODUCT RELIABILITY ORGANIZA-
+24
+TION; EPRO.—The terms ‘‘Energy Product Reli-
+25
+23:25 Dec 08, 2021
+H6084
+3 
+•HR 6084 IH
+ability Organization’’ and ‘‘EPRO’’ mean the orga-
+1
+nization certified by the Commission under sub-
+2
+section (d) to establish and enforce energy product 
+3
+reliability standards, subject to Commission review. 
+4
+(b) JURISDICTION AND APPLICABILITY.— 
+5
+(1) JURISDICTION.—The Commission shall have 
+6
+jurisdiction, within the United States, over the En-
+7
+ergy Product Reliability Organization certified by 
+8
+the Commission under subsection (d) and all users, 
+9
+owners, and operators of energy pipelines, for pur-
+10
+poses of approving energy product reliability stand-
+11
+ards established under this section and enforcing 
+12
+compliance with this section. 
+13
+(2) APPLICABILITY.—All users, owners, and op-
+14
+erators of energy pipelines shall comply with energy 
+15
+product reliability standards that take effect under 
+16
+this section. 
+17
+(c) RULE.—Not later than 270 days after the date 
+18
+of enactment of this section, the Commission, in consulta-
+19
+tion with the Administrator of the Transportation Secu-
+20
+rity Administration, the Secretary of Energy, the Sec-
+21
+retary of Transportation, the Electric Reliability Organi-
+22
+zation (as defined in section 215 of the Federal Power 
+23
+Act (16 U.S.C. 824o)), and any other Federal agency or 
+24
+23:25 Dec 08, 2021
+H6084
+4 
+•HR 6084 IH
+organization the Commission determines appropriate, 
+1
+shall issue a final rule to implement this section. 
+2
+(d) CERTIFICATION.— 
+3
+(1) APPLICATION.—Following the issuance of a 
+4
+final rule under subsection (c), any person may sub-
+5
+mit an application to the Commission for certifi-
+6
+cation as the Energy Product Reliability Organiza-
+7
+tion. 
+8
+(2) CERTIFICATION.—Not later than 2 years 
+9
+after the date of enactment of this Act, the Commis-
+10
+sion shall certify one Energy Product Reliability Or-
+11
+ganization if the Commission determines that such 
+12
+Energy Product Reliability Organization— 
+13
+(A) has the ability to develop and enforce 
+14
+energy product reliability standards; and 
+15
+(B) has established rules that— 
+16
+(i) ensure its independence from the 
+17
+users, owners, and operators of energy 
+18
+pipelines, while ensuring fair stakeholder 
+19
+representation in the selection of its direc-
+20
+tors and balanced decisionmaking in any 
+21
+Energy Product Reliability Organization 
+22
+committee or subordinate organizational 
+23
+structure; 
+24
+23:25 Dec 08, 2021
+H6084
+5 
+•HR 6084 IH
+(ii) equitably allocate reasonable dues, 
+1
+fees, and other charges among end users 
+2
+for all activities under this section; 
+3
+(iii) provide fair and impartial proce-
+4
+dures for enforcement of energy product 
+5
+reliability standards through the imposition 
+6
+of penalties in accordance with subsection 
+7
+(g) (including limitations on activities, 
+8
+functions, or operations, or other appro-
+9
+priate sanctions); 
+10
+(iv) provide for reasonable notice and 
+11
+opportunity for public comment, due proc-
+12
+ess, openness, and balance of interests in 
+13
+developing energy product reliability stand-
+14
+ards and otherwise exercising its duties; 
+15
+and 
+16
+(v) provide for taking, after certifi-
+17
+cation, appropriate steps to gain recogni-
+18
+tion in Canada and Mexico. 
+19
+(e) ENERGY PRODUCT RELIABILITY STANDARDS.— 
+20
+(1) FILING.—The Energy Product Reliability 
+21
+Organization shall file each energy product reliability 
+22
+standard, or modification to an energy product reli-
+23
+ability standard, that is proposed to be made effec-
+24
+tive under this section with the Commission. 
+25
+23:25 Dec 08, 2021
+H6084
+6 
+•HR 6084 IH
+(2) APPROVAL.—The Commission may approve, 
+1
+by rule or order, a proposed energy product reli-
+2
+ability standard, or modification to an energy prod-
+3
+uct reliability standard, if it determines that the en-
+4
+ergy product reliability standard is just, reasonable, 
+5
+not unduly discriminatory or preferential, and in the 
+6
+public interest. 
+7
+(3) INCLUDED
+STANDARDS.—In carrying out 
+8
+this section, the Energy Product Reliability Organi-
+9
+zation shall, at a minimum, establish energy product 
+10
+reliability standards relating to— 
+11
+(A) cybersecurity, including protocols for 
+12
+the reporting of cybersecurity incidents; 
+13
+(B) physical security; and 
+14
+(C) coordination of delivery and availability 
+15
+of energy products to ensure reliable electricity 
+16
+generation, including electricity generation that 
+17
+is needed to maintain electric transmission sys-
+18
+tem reliability. 
+19
+(4) CONSULTATION.—The Energy Product Re-
+20
+liability Organization shall consult with the Adminis-
+21
+trator of the Transportation Security Administration 
+22
+and the Secretary of Energy in developing energy 
+23
+product reliability standards relating to cybersecu-
+24
+rity for energy pipelines. 
+25
+23:25 Dec 08, 2021
+H6084
+7 
+•HR 6084 IH
+(5) TECHNICAL EXPERTISE.—The Commission 
+1
+shall give due weight to the technical expertise of the 
+2
+Energy Product Reliability Organization with re-
+3
+spect to the content of a proposed energy product 
+4
+reliability standard or modification to an energy 
+5
+product reliability standard, but shall not defer with 
+6
+respect to the effect of an energy product reliability 
+7
+standard on competition. 
+8
+(6) EFFECT.—A proposed energy product reli-
+9
+ability standard or modification to an energy prod-
+10
+uct reliability standard shall take effect upon ap-
+11
+proval by the Commission. 
+12
+(7) REMAND.—The Commission shall remand 
+13
+to the Energy Product Reliability Organization for 
+14
+further consideration a proposed energy product reli-
+15
+ability standard or a modification to an energy prod-
+16
+uct reliability standard that the Commission dis-
+17
+approves in whole or in part. 
+18
+(8) COMMISSION
+ORDER.—The Commission, 
+19
+upon its own motion or upon complaint, may order 
+20
+the Energy Product Reliability Organization to sub-
+21
+mit to the Commission a proposed energy product 
+22
+reliability standard or a modification to an energy 
+23
+product reliability standard that addresses a specific 
+24
+matter if the Commission considers such a new or 
+25
+23:25 Dec 08, 2021
+H6084
+8 
+•HR 6084 IH
+modified energy product reliability standard appro-
+1
+priate to carry out this section. 
+2
+(f) EMERGENCY ENERGY PRODUCT RELIABILITY 
+3
+STANDARDS.— 
+4
+(1) IN GENERAL.—The Commission may estab-
+5
+lish or modify an energy product reliability standard 
+6
+to address continuing or foreseeable emergency con-
+7
+ditions if the Commission determines that— 
+8
+(A) the energy product reliability stand-
+9
+ards approved under subsection (e) do not ade-
+10
+quately provide for the reliable delivery of en-
+11
+ergy products through energy pipelines under 
+12
+such emergency conditions; and 
+13
+(B) the use of the process for developing 
+14
+energy product reliability standards pursuant to 
+15
+subsection (e) would not result in the establish-
+16
+ment or modification of an energy product reli-
+17
+ability standard that provides for the reliable 
+18
+delivery of energy products through energy 
+19
+pipelines under such conditions in a timely 
+20
+manner. 
+21
+(2) CONSULTATION.—Not later than 6 months 
+22
+after the effective date of an energy product reli-
+23
+ability standard established or modified under this 
+24
+subsection, the Commission shall consult with the 
+25
+23:25 Dec 08, 2021
+H6084
+9 
+•HR 6084 IH
+Energy Product Reliability Organization, the Admin-
+1
+istrator of the Transportation Security Administra-
+2
+tion, and any other Federal agency the Commission 
+3
+determines appropriate to determine whether such 
+4
+energy product reliability standard should remain in 
+5
+effect or be modified. 
+6
+(g) ENFORCEMENT.— 
+7
+(1) IN GENERAL.—The Energy Product Reli-
+8
+ability Organization may impose a penalty on a user, 
+9
+owner, or operator of an energy pipeline for a viola-
+10
+tion of an energy product reliability standard ap-
+11
+proved by the Commission under subsection (e) if 
+12
+the Energy Product Reliability Organization, after 
+13
+notice and an opportunity for a hearing— 
+14
+(A) finds that the user, owner, or operator 
+15
+has violated an energy product reliability stand-
+16
+ard approved by the Commission under sub-
+17
+section (e); and 
+18
+(B) files notice and the record of the pro-
+19
+ceeding with the Commission. 
+20
+(2) PROCEDURES.—A penalty imposed under 
+21
+paragraph (1) may take effect not earlier than the 
+22
+31st day after the Energy Product Reliability Orga-
+23
+nization files with the Commission notice of the pen-
+24
+alty and the record of proceedings. Such penalty 
+25
+23:25 Dec 08, 2021
+H6084
+10 
+•HR 6084 IH
+shall be subject to review by the Commission, on its 
+1
+own motion or upon application by the user, owner, 
+2
+or operator that is the subject of the penalty filed 
+3
+within 30 days after the date such notice is filed 
+4
+with the Commission. Application to the Commission 
+5
+for review, or the initiation of review by the Commis-
+6
+sion on its own motion, shall not operate as a stay 
+7
+of such penalty unless the Commission otherwise or-
+8
+ders upon its own motion or upon application by the 
+9
+user, owner, or operator that is the subject of such 
+10
+penalty. In any proceeding to review a penalty im-
+11
+posed under paragraph (1), the Commission, after 
+12
+notice and opportunity for hearing (which hearing 
+13
+may consist solely of the record before the Energy 
+14
+Product Reliability Organization and opportunity for 
+15
+the presentation of supporting reasons to affirm, 
+16
+modify, or set aside the penalty), shall by order af-
+17
+firm, set aside, reinstate, or modify the penalty, and, 
+18
+if appropriate, remand to the Energy Product Reli-
+19
+ability Organization for further proceedings. The 
+20
+Commission shall implement expedited procedures 
+21
+for such hearings. 
+22
+(3) COMMISSION ENFORCEMENT.—On its own 
+23
+motion or upon complaint, the Commission may 
+24
+order compliance with an energy product reliability 
+25
+23:25 Dec 08, 2021
+H6084
+11 
+•HR 6084 IH
+standard and may impose a penalty against a user, 
+1
+owner, or operator of an energy pipeline if the Com-
+2
+mission finds, after notice and opportunity for a 
+3
+hearing, that the user, owner, or operator of the en-
+4
+ergy pipeline has engaged or is about to engage in 
+5
+any acts or practices that constitute or will con-
+6
+stitute a violation of an energy product reliability 
+7
+standard. 
+8
+(4) PROTECTION OF INFORMATION.—Any no-
+9
+tice of enforcement or record pertaining to a viola-
+10
+tion of an energy product reliability standard relat-
+11
+ing to cybersecurity submitted to the Commission 
+12
+shall be deemed to be critical electric infrastructure 
+13
+information (as defined in section 215A of the Fed-
+14
+eral Power Act (16 U.S.C. 824o–1)). 
+15
+(5) EPRO 
+COMPLIANCE.—The Commission 
+16
+may take such action as is necessary or appropriate 
+17
+against the Energy Product Reliability Organization 
+18
+to ensure compliance with an energy product reli-
+19
+ability standard or any Commission order affecting 
+20
+the Energy Product Reliability Organization. 
+21
+(6) CONSIDERATIONS.—Any penalty imposed 
+22
+under this section shall bear a reasonable relation to 
+23
+the seriousness of the violation and shall take into 
+24
+23:25 Dec 08, 2021
+H6084
+12 
+•HR 6084 IH
+consideration the efforts of the user, owner, or oper-
+1
+ator to remedy the violation in a timely manner. 
+2
+(h) CHANGES IN EPRO RULES.—The Energy Prod-
+3
+uct Reliability Organization shall, with respect to the rules 
+4
+of the Energy Product Reliability Organization, file with 
+5
+the Commission for approval any proposed rule or pro-
+6
+posed rule change, accompanied by an explanation of its 
+7
+basis and purpose. The Commission, upon its own motion 
+8
+or complaint, may propose a change to the rules of the 
+9
+Energy Product Reliability Organization. A proposed rule 
+10
+or proposed rule change shall take effect upon a finding 
+11
+by the Commission, after notice and opportunity for com-
+12
+ment, that the change is just, reasonable, not unduly dis-
+13
+criminatory or preferential, is in the public interest, and 
+14
+satisfies the requirements of subsection (d). 
+15
+(i) RELIABILITY REPORTS.—The Energy Product 
+16
+Reliability Organization shall conduct and submit to the 
+17
+Committee on Energy and Commerce of the House of 
+18
+Representatives and the Committee on Energy and Nat-
+19
+ural Resources of the Senate periodic assessments of the 
+20
+reliable delivery of energy products through energy pipe-
+21
+lines in North America. 
+22
+(j) SAVINGS PROVISIONS.— 
+23
+(1) CONSTRUCTION.—This section does not au-
+24
+thorize the Energy Product Reliability Organization 
+25
+23:25 Dec 08, 2021
+H6084
+13 
+•HR 6084 IH
+or the Commission to order the construction of addi-
+1
+tional energy pipelines or to set and enforce compli-
+2
+ance with standards for adequacy or safety of energy 
+3
+pipelines or services. 
+4
+(2) STATE AUTHORITY.— 
+5
+(A) IN GENERAL.—Nothing in this section 
+6
+shall be construed to preempt any authority of 
+7
+any State to take action to ensure the reliable 
+8
+delivery of energy products through energy 
+9
+pipelines within that State, as long as such ac-
+10
+tion is not inconsistent with any energy product 
+11
+reliability standard. 
+12
+(B) STATE
+ACTION.—Not later than 90 
+13
+days after the application of the Energy Prod-
+14
+uct Reliability Organization or other affected 
+15
+party, and after notice and opportunity for 
+16
+comment, the Commission shall issue a final 
+17
+order determining whether a State action is in-
+18
+consistent with an energy product reliability 
+19
+standard, taking into consideration any rec-
+20
+ommendation of the Energy Product Reliability 
+21
+Organization. 
+22
+(C) STAY OF EFFECTIVENESS.—The Com-
+23
+mission, after consultation with the Energy 
+24
+Product Reliability Organization and the State 
+25
+23:25 Dec 08, 2021
+H6084
+14 
+•HR 6084 IH
+taking action, may stay the effectiveness of any 
+1
+State 
+action, 
+pending 
+the 
+Commission’s 
+2
+issuance of a final order. 
+3
+Æ 
+23:25 Dec 08, 2021
+H6084

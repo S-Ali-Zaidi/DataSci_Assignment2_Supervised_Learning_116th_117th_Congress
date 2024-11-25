@@ -1,0 +1,448 @@
+A BILL 
+To establish the National Artificial Intelligence Research 
+Resource Task Force, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘National AI Research 
+4
+Resource Task Force Act of 2020’’. 
+5
+SEC. 2. NATIONAL AI RESEARCH RESOURCE TASK FORCE. 
+6
+(a) DEFINITIONS.—In this section: 
+7
+(1) NATIONAL ARTIFICIAL INTELLIGENCE RE-
+8
+SEARCH RESOURCE.—The term ‘‘national artificial 
+9
+intelligence research resource’’ mean a system that 
+10
+05:18 Jun 27, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+2 
+•HR 7096 IH
+provides researchers and students across scientific 
+1
+fields and disciplines with access to compute re-
+2
+sources, co-located with publicly available, artificial 
+3
+intelligence-ready government and nongovernment 
+4
+data sets and a research environment with appro-
+5
+priate educational tools and user support. 
+6
+(2) OWNERSHIP.—The term ‘‘ownership’’, with 
+7
+respect to a national artificial intelligence research 
+8
+resource, means responsibility and accountability 
+9
+for— 
+10
+(A) the implementation, deployment, and 
+11
+ongoing development of the resource; and 
+12
+(B) providing staff to support such imple-
+13
+mentation, deployment, and ongoing develop-
+14
+ment. 
+15
+(b) ESTABLISHMENT OF TASK FORCE.— 
+16
+(1) ESTABLISHMENT.— 
+17
+(A) IN
+GENERAL.—The Director of the 
+18
+National Science Foundation, in coordination 
+19
+with the Director of the Office of Science and 
+20
+Technology Policy, shall establish a task 
+21
+force— 
+22
+(i) to investigate the feasibility and 
+23
+advisability of establishing a national arti-
+24
+ficial intelligence research resource; and 
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+3 
+•HR 7096 IH
+(ii) to propose a roadmap detailing 
+1
+how such resource should be established 
+2
+and sustained. 
+3
+(B) DESIGNATION.—The task force estab-
+4
+lished by subparagraph (A) shall be known as 
+5
+the ‘‘National Artificial Intelligence Research 
+6
+Resource Task Force’’ (in this section referred 
+7
+to as the ‘‘Task Force’’). 
+8
+(2) MEMBERSHIP.— 
+9
+(A) COMPOSITION.—The Task Force shall 
+10
+be composed of 12 members selected by the co- 
+11
+chairpersons of the Task Force from among 
+12
+technical experts in artificial intelligence or re-
+13
+lated subjects, of whom— 
+14
+(i) 4 shall be representatives from the 
+15
+Federal Government, including the co- 
+16
+chairpersons of the Task Force; 
+17
+(ii) 4 shall be representatives from in-
+18
+stitutions of higher educations (as such 
+19
+term is defined in section 101 of the High-
+20
+er Education Act of 1965 (20 U.S.C. 
+21
+1001)); and 
+22
+(iii) 4 shall be representatives from 
+23
+private organizations. 
+24
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+4 
+•HR 7096 IH
+(B) APPOINTMENT.—Not later than 120 
+1
+days after enactment of this Act, the co-chair-
+2
+persons of the Task Force shall appoint mem-
+3
+bers to the Task Force pursuant to subpara-
+4
+graph (A). 
+5
+(C) TERM OF APPOINTMENT.—Members of 
+6
+the Task Force shall be appointed for the life 
+7
+of the Task Force. 
+8
+(D) VACANCY.—Any vacancy occurring in 
+9
+the membership of the Task Force shall be 
+10
+filled in the same manner in which the original 
+11
+appointment was made. 
+12
+(E) CO-CHAIRPERSONS.—The Director of 
+13
+the Office of Science and Technology Policy and 
+14
+the Director of the National Sciences Founda-
+15
+tion, or their designees, shall be the co-chair-
+16
+persons of the Task Force. If the role of the 
+17
+Director of the National Science Foundation is 
+18
+vacant, the Chair of the National Science Board 
+19
+shall act as a co-chairperson of the Task Force 
+20
+in lieu of the Director of the National Science 
+21
+Foundation. 
+22
+(F) EXPENSES FOR NON-FEDERAL MEM-
+23
+BERS.—Non-Federal members of the Task 
+24
+Force shall be allowed travel expenses, includ-
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+5 
+•HR 7096 IH
+ing per diem in lieu of subsistence, at rates au-
+1
+thorized for employees under subchapter I of 
+2
+chapter 57 of title 5, United States Code, while 
+3
+away from their homes or regular places of 
+4
+business in the performance of services for the 
+5
+Task Force. 
+6
+(c) ROADMAP AND IMPLEMENTATION PLAN.— 
+7
+(1) IN GENERAL.—The Task Force shall de-
+8
+velop a coordinated roadmap and implementation 
+9
+plan for establishing and sustaining a national artifi-
+10
+cial intelligence research resource. 
+11
+(2) CONTENTS.—The roadmap and plan re-
+12
+quired by paragraph (1) shall include the following: 
+13
+(A) Goals for establishment and sustain-
+14
+ment of a national artificial intelligence re-
+15
+search resource and metrics for success. 
+16
+(B) A plan for ownership and administra-
+17
+tion of such resource, including— 
+18
+(i) an appropriate agency or organiza-
+19
+tion responsible for the implementation, 
+20
+deployment, and administration of the re-
+21
+source; and 
+22
+(ii) a governance structure for the re-
+23
+source, including oversight and decision-
+24
+making authorities. 
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+6 
+•HR 7096 IH
+(C) A model for governance and oversight 
+1
+to establish strategic direction, make pro-
+2
+grammatic decisions, and manage the allocation 
+3
+of resources. 
+4
+(D) Capabilities required to create and 
+5
+maintain a shared computing infrastructure to 
+6
+facilitate access to computing resources for re-
+7
+searchers across the country, including scalabil-
+8
+ity, secured access control, resident data engi-
+9
+neering and curation expertise, provision of 
+10
+curated, data sets, compute resources, edu-
+11
+cational tools and services, and a user interface 
+12
+portal. 
+13
+(E) An assessment of, and recommend so-
+14
+lutions to, barriers to the dissemination and use 
+15
+of high-quality government data sets as part of 
+16
+the national artificial intelligence research re-
+17
+source. 
+18
+(F) An assessment of security require-
+19
+ments associated with the national artificial in-
+20
+telligence research resource and its research 
+21
+and a recommendation for a framework for the 
+22
+management of access controls. 
+23
+(G) An assessment of privacy and civil lib-
+24
+erties requirements associated with the national 
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+7 
+•HR 7096 IH
+artificial intelligence research resource and its 
+1
+research. 
+2
+(H) A plan for sustaining the national ar-
+3
+tificial intelligence research resource, including 
+4
+through Federal funding and partnerships with 
+5
+the private sector. 
+6
+(I) The parameters for the establishment 
+7
+and sustainment of the national artificial intel-
+8
+ligence research resource, including roles and 
+9
+responsibilities for Federal agencies and mile-
+10
+stones to establish and sustain the resource. 
+11
+(d) CONSULTATIONS.—In carrying out subsection (c), 
+12
+the Task Force shall consult with the following: 
+13
+(1) The National Science Foundation. 
+14
+(2) The Office of Science and Technology Pol-
+15
+icy. 
+16
+(3) The National Academies of Sciences, Engi-
+17
+neering, and Medicine. 
+18
+(4) The National Institute of Standards and 
+19
+Technology. 
+20
+(5) The Defense Advanced Research Projects 
+21
+Agency. 
+22
+(6) 
+The 
+Intelligence 
+Advanced 
+Research 
+23
+Projects Activity. 
+24
+(7) The Department of Energy. 
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+8 
+•HR 7096 IH
+(8) The Department of Defense. 
+1
+(9) The General Services Administration. 
+2
+(10) Private industry. 
+3
+(11) Institutions of higher education. 
+4
+(12) Such other persons as the Task Force con-
+5
+siders appropriate. 
+6
+(e) STAFF.—Staff of the Task Force shall comprise 
+7
+detailees with expertise in artificial intelligence, or related 
+8
+fields from the Office of Science and Technology Policy, 
+9
+the National Science Foundation, or any other Federal 
+10
+agency the co-chairpersons consider appropriate, with the 
+11
+consent of the head of the Federal agency. The co-chair-
+12
+persons may hire staff from outside the Federal govern-
+13
+ment for the duration of the task force. 
+14
+(f) TASK FORCE REPORTS.— 
+15
+(1) INITIAL REPORT.—Not later than 6 months 
+16
+after the date on which all of the appointments have 
+17
+been made under subsection (b)(2)(B), the Task 
+18
+Force shall submit to Congress and the President an 
+19
+interim report containing the findings, conclusions, 
+20
+and recommendations of the Task Force. The report 
+21
+shall include specific recommendations regarding 
+22
+steps the Task Force believes necessary for the es-
+23
+tablishment and sustainment of a national artificial 
+24
+intelligence research resource. 
+25
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS
+9 
+•HR 7096 IH
+(2) FINAL REPORT.—Not later than 3 months 
+1
+after the submittal of the interim report under para-
+2
+graph (1), the Task Force shall submit to Congress 
+3
+and the President a final report containing the find-
+4
+ings, conclusions, and recommendations of the Task 
+5
+Force, including the specific recommendations devel-
+6
+oped under subsection (c). 
+7
+(g) TERMINATION.— 
+8
+(1) IN GENERAL.—The Task Force shall termi-
+9
+nate 90 days after the date on which it submits the 
+10
+final report under subsection (f)(2). 
+11
+(2) RECORDS.—Upon termination of the Task 
+12
+Force, all of its records shall become the records of 
+13
+the National Archives and Records Administration. 
+14
+Æ 
+04:12 Jun 24, 2020
+H7096
+ctelli on DSK30NT082PROD with BILLS

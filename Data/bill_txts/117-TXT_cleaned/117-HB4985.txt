@@ -1,0 +1,1545 @@
+A BILL 
+To implement certain recommendations of the National 
+Security Commission on Artificial Intelligence. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Digital Defense Leadership Act’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. National strategy relating to the global information domain. 
+Sec. 3. Artificial intelligence readiness goals. 
+02:51 Aug 13, 2021
+H4985
+2 
+•HR 4985 IH
+Sec. 4. Role of intelligence community in steering committee on emerging tech-
+nology. 
+Sec. 5. Resourcing plan for digital ecosystem. 
+Sec. 6. Integrating digital skill sets and computational thinking into military 
+junior leader education. 
+Sec. 7. Integration of material on emerging technologies into professional mili-
+tary education. 
+Sec. 8. Short course on emerging technologies for senior personnel of the De-
+partment of Defense. 
+Sec. 9. Emerging technology-coded billets within the Department of Defense. 
+Sec. 10. Agile contracting mechanism for software acquisition. 
+Sec. 11. Enhanced role of Under Secretary of Defense for Research and Engi-
+neering on the Joint Requirements Oversight Council. 
+Sec. 12. Artificial Intelligence Development and Prototyping Fund. 
+Sec. 13. Enhanced authority to enter into cooperative research and development 
+agreements with international partners. 
+Sec. 14. Role of Director of Science and Technology as Chief Technology Offi-
+cer for the intelligence community. 
+Sec. 15. Establishment of Artificial Intelligence Critical Applications Fund. 
+Sec. 16. Artificial intelligence technology roadmap and funding plan for the in-
+telligence community. 
+Sec. 17. Digital expertise recruiting offices. 
+Sec. 18. Occupational series relating to artificial intelligence and digital career 
+fields. 
+Sec. 19. Military career fields for software development, data science, and arti-
+ficial intelligence. 
+SEC. 2. NATIONAL STRATEGY RELATING TO THE GLOBAL 
+1
+INFORMATION DOMAIN. 
+2
+(a) IN GENERAL.—Not later than 270 days after the 
+3
+date of the enactment of this section, the President shall 
+4
+transmit to Congress a national strategy relating to the 
+5
+global information domain to— 
+6
+(1) address such domain as a component of the 
+7
+national security of the United States; and 
+8
+(2) ensure the United States leads in the devel-
+9
+opment of technologies and tactics applicable to such 
+10
+domain. 
+11
+(b) ELEMENTS.—The strategy required under sub-
+12
+section (a) shall, at a minimum— 
+13
+02:51 Aug 13, 2021
+H4985
+3 
+•HR 4985 IH
+(1) prioritize the global information domain as 
+1
+an area for international competition with respect to 
+2
+foreign adversaries; 
+3
+(2) detail how such adversaries, as well as 
+4
+nonstate actors, are attempting to influence and con-
+5
+trol such domain to shape global opinion and achieve 
+6
+strategic advantage; 
+7
+(3) account for the critical role of artificial in-
+8
+telligence-enabled malign information in the activi-
+9
+ties of such adversaries and nonstate actors referred 
+10
+to in paragraph (2); 
+11
+(4) identify and prioritize actions to defend, 
+12
+counter, and compete in such domain, including rec-
+13
+ommendations with respect to— 
+14
+(A) changing the priorities of the national 
+15
+security agencies of the United States; and 
+16
+(B) establishing new national security 
+17
+agencies to prioritize such actions; and 
+18
+(5) provide recommendations, including any 
+19
+suggestions for legislation, with respect to updat-
+20
+ing— 
+21
+(A) critical infrastructure designations; 
+22
+and 
+23
+02:51 Aug 13, 2021
+H4985
+4 
+•HR 4985 IH
+(B) sector-specific plans to account for 
+1
+emerging technologies, including artificial intel-
+2
+ligence. 
+3
+(c) DEFINITIONS.—In this section: 
+4
+(1) ARTIFICIAL INTELLIGENCE.—The term ‘‘ar-
+5
+tificial intelligence’’ has the meaning given such 
+6
+term in section 238(g) of the John S. McCain Na-
+7
+tional Defense Authorization Act for Fiscal Year 
+8
+2019 (Public Law 115–232; 10 U.S.C. 2358 note). 
+9
+(2) ARTIFICIAL
+INTELLIGENCE-ENABLED
+MA-
+10
+LIGN
+INFORMATION.—The term ‘‘artificial intel-
+11
+ligence-enabled malign information’’ refers to a 
+12
+broad range of applications in which artificial intel-
+13
+ligence is used to generate, spread, or target 
+14
+disinformation, or otherwise control or manipulate 
+15
+the flow and substance of information in the global 
+16
+information domain. 
+17
+(3) CRITICAL
+INFRASTRUCTURE.—The term 
+18
+‘‘critical infrastructure’’ has the meaning given such 
+19
+term in section 1016(e) of Public Law 107–56 (42 
+20
+U.S.C. 5195c(e)). 
+21
+(4) FOREIGN ADVERSARY.—The term ‘‘foreign 
+22
+adversary’’ means a foreign government engaged in 
+23
+a long-term pattern or serious instances of conduct 
+24
+significantly adverse to the national security of the 
+25
+02:51 Aug 13, 2021
+H4985
+5 
+•HR 4985 IH
+United States or security and safety of United 
+1
+States persons. 
+2
+(5) GLOBAL INFORMATION DOMAIN.—The term 
+3
+‘‘global information domain’’ means a sphere of stra-
+4
+tegic competition in which foreign adversaries and 
+5
+nonstate actors create, obtain, fuse, analyze, distort, 
+6
+transfer, exchange, or disseminate information, 
+7
+overtly or covertly, to influence public opinion for 
+8
+national security, geopolitical, or economic purposes. 
+9
+SEC. 3. ARTIFICIAL INTELLIGENCE READINESS GOALS. 
+10
+(a) IN GENERAL.—Not later than one year after the 
+11
+date of the enactment of this Act, the Secretary of Defense 
+12
+shall— 
+13
+(1) review the potential applications of artificial 
+14
+intelligence and digital technology to the platforms, 
+15
+processes, and operations of the Department of De-
+16
+fense; and 
+17
+(2) establish performance objectives and accom-
+18
+panying metrics for the incorporation of artificial in-
+19
+telligence and digital readiness into such platforms, 
+20
+processes, and operations. 
+21
+(b) SKILLS GAPS.—As a part of the review required 
+22
+by subsection (a), the Secretary shall direct the military 
+23
+departments and other relevant organizations and ele-
+24
+ments of the Department of Defense to— 
+25
+02:51 Aug 13, 2021
+H4985
+6 
+•HR 4985 IH
+(1) conduct a comprehensive review of skill 
+1
+gaps in the fields of software development, software 
+2
+engineering, knowledge management, data science, 
+3
+and artificial intelligence; 
+4
+(2) assess the number and qualifications of ci-
+5
+vilian personnel needed for both management and 
+6
+specialist tracks in such fields; 
+7
+(3) assess the number of military personnel (in-
+8
+cluding officers and enlisted members of the Armed 
+9
+Forces) needed for both management and specialist 
+10
+tracks in such fields; and 
+11
+(4) establish recruiting, training, and talent 
+12
+management goals to achieve and maintain the staff-
+13
+ing levels needed to fill identified gaps and meet the 
+14
+Department’s needs for skilled personnel. 
+15
+(c) REPORT TO CONGRESS.—Not later than 120 days 
+16
+after the completion of the review required by subsection 
+17
+(a), the Secretary of Defense shall submit to Congress a 
+18
+report on the findings of the review and any actions taken 
+19
+or proposed to be taken by the Secretary to address such 
+20
+findings. 
+21
+02:51 Aug 13, 2021
+H4985
+7 
+•HR 4985 IH
+SEC. 4. ROLE OF INTELLIGENCE COMMUNITY IN STEERING 
+1
+COMMITTEE ON EMERGING TECHNOLOGY. 
+2
+Section 236 of the William M. (Mac) Thornberry Na-
+3
+tional Defense Authorization Act for Fiscal Year 2021 
+4
+(Public Law 116–283), is amended— 
+5
+(1) in subsection (b)— 
+6
+(A) by redesignating paragraph (8) as 
+7
+paragraph (9); and 
+8
+(B) by inserting after paragraph (7) the 
+9
+following new paragraph: 
+10
+‘‘(8) One or more representatives of the intel-
+11
+ligence community (as defined in section 3 of the 
+12
+National Security Act of 1947 (50 U.S.C. 3003)), 
+13
+which shall include, at a minimum, the Principal 
+14
+Deputy Director of National Intelligence.’’; 
+15
+(2) by redesignating subsection (c) as sub-
+16
+section (d); and 
+17
+(3) by inserting after subsection (b) the fol-
+18
+lowing new subsection: 
+19
+‘‘(c) CHAIRPERSONS.—The Deputy Secretary of De-
+20
+fense, the Vice Chairman of the Joint Chiefs of Staff, and 
+21
+the Principal Deputy Director of National Intelligence 
+22
+shall serve as Co-Chairpersons of the Steering Com-
+23
+mittee.’’. 
+24
+03:51 Aug 18, 2021
+H4985
+8 
+•HR 4985 IH
+SEC. 5. RESOURCING PLAN FOR DIGITAL ECOSYSTEM. 
+1
+(a) IN GENERAL.—Not later than one year after the 
+2
+date of the enactment of this Act, the Secretary of Defense 
+3
+shall develop a plan for the development of a modern dig-
+4
+ital ecosystem that uses state-of-the-art tools and modern 
+5
+processes to enable the development, testing, fielding, and 
+6
+continuous updating of artificial intelligence-powered ap-
+7
+plications at speed and scale from headquarters to the tac-
+8
+tical edge. 
+9
+(b) CONTENTS OF PLAN.—At a minimum, the plan 
+10
+required by subsection (a) shall include— 
+11
+(1) an open architecture and an evolving ref-
+12
+erence design and guidance for needed technical in-
+13
+vestments in the proposed ecosystem that address 
+14
+issues including common interfaces, authentication, 
+15
+applications, platforms, software, hardware, and 
+16
+data infrastructure; and 
+17
+(2) a governance structure, together with asso-
+18
+ciated policies and guidance, to drive the implemen-
+19
+tation of the reference throughout the Department 
+20
+on a federated basis. 
+21
+SEC. 6. INTEGRATING DIGITAL SKILL SETS AND COMPUTA-
+22
+TIONAL THINKING INTO MILITARY JUNIOR 
+23
+LEADER EDUCATION. 
+24
+(a) IN GENERAL.—Not later than 270 days after the 
+25
+date of the enactment of this Act, the Chiefs of the Armed 
+26
+02:51 Aug 13, 2021
+H4985
+9 
+•HR 4985 IH
+Forces shall expand the curriculum for military junior 
+1
+leader education to include the following: 
+2
+(1) Problem definition and curation. 
+3
+(2) A conceptual understanding of the artificial 
+4
+intelligence lifecycle. 
+5
+(3) Data collection and management. 
+6
+(4) Probabilistic reasoning and data visualiza-
+7
+tion. 
+8
+(5) Data-informed decision making. 
+9
+(b) RESOURCES.—In carrying out subsection (a), the 
+10
+Chiefs shall use existing artificial intelligence-enabled sys-
+11
+tems and tools to the extent possible. 
+12
+SEC. 7. INTEGRATION OF MATERIAL ON EMERGING TECH-
+13
+NOLOGIES INTO PROFESSIONAL MILITARY 
+14
+EDUCATION. 
+15
+Not later than one year after the date of the enact-
+16
+ment of this Act, the Secretary of Defense, in consultation 
+17
+with the Joint Chiefs of Staff, shall ensure that the cur-
+18
+riculum for professional military education for each Armed 
+19
+Force under the jurisdiction of the Secretary of a military 
+20
+department includes periodic courses on militarily signifi-
+21
+cant emerging technologies that expand the knowledge 
+22
+base, vocabulary, and skills necessary to intelligently ana-
+23
+lyze and use emerging technologies in the tactical, oper-
+24
+03:40 Aug 18, 2021
+H4985
+10 
+•HR 4985 IH
+ational, and strategic levels of warfighting and warfighting 
+1
+support. 
+2
+SEC. 8. SHORT COURSE ON EMERGING TECHNOLOGIES FOR 
+3
+SENIOR PERSONNEL OF THE DEPARTMENT 
+4
+OF DEFENSE. 
+5
+(a) ESTABLISHMENT.—Not later than one year after 
+6
+the date of the enactment of this Act, the Secretary of 
+7
+Defense shall establish a short course on emerging tech-
+8
+nologies for covered personnel. The short course shall be 
+9
+taught on an iterative, two-year cycle and shall address 
+10
+how the most recent and relevant technologies may be ap-
+11
+plied to military and business outcomes in the Department 
+12
+of Defense. 
+13
+(b) OBJECTIVES.—In assessing participation in the 
+14
+short course under subsection (a), the Secretary shall en-
+15
+sure that— 
+16
+(1) in the first year that the course is offered, 
+17
+at least 20 percent of covered personnel pass the 
+18
+short course; and 
+19
+(2) in each subsequent year, an additional 10 
+20
+percent of covered personnel pass the such course, 
+21
+until 80 percent of covered personnel have passed. 
+22
+(c) COVERED PERSONNEL DEFINED.—In this sec-
+23
+tion, the term ‘‘covered personnel’’ means— 
+24
+(1) officers in— 
+25
+02:51 Aug 13, 2021
+H4985
+11 
+•HR 4985 IH
+(A) each Armed Force under the jurisdic-
+1
+tion of the Secretary of a military department; 
+2
+and 
+3
+(B) a grade above O-6; and 
+4
+(2) civilian employees of the Department of De-
+5
+fense in the Senior Executive Service. 
+6
+SEC. 9. EMERGING TECHNOLOGY-CODED BILLETS WITHIN 
+7
+THE DEPARTMENT OF DEFENSE. 
+8
+(a) IN GENERAL.—Not later than one year after the 
+9
+date of the enactment of this Act, the Secretary of Defense 
+10
+shall ensure that each Armed Force under the jurisdiction 
+11
+of the Secretary of a military department— 
+12
+(1) develop a process to qualify officers on 
+13
+emerging technology; and 
+14
+(2) establishes billets for officers qualified 
+15
+under such process; and 
+16
+(b) QUALIFICATION PROCESS.—The process under 
+17
+subsection (a)(1) shall be modeled on a streamlined 
+18
+version of the joint qualification process and may include 
+19
+credit for serving in the following: 
+20
+(1) Fellowships focused on emerging tech-
+21
+nology. 
+22
+(2) Talent exchanges focused on emerging tech-
+23
+nology. 
+24
+03:40 Aug 18, 2021
+H4985
+12 
+•HR 4985 IH
+(3) Federal occupations focused on emerging 
+1
+technology. 
+2
+(4) Educational courses focused on emerging 
+3
+technologies. 
+4
+(c) APPROPRIATE
+BILLETS.—Billets under sub-
+5
+section (a)(2) may include the following duties: 
+6
+(1) Acquisition of emerging technologies. 
+7
+(2) Integrating technology into field units. 
+8
+(3) Developing organizational and operational 
+9
+concepts. 
+10
+(4) Developing training and educational plans. 
+11
+(5) Operational and tactical leadership. 
+12
+SEC. 10. AGILE CONTRACTING MECHANISM FOR SOFTWARE 
+13
+ACQUISITION. 
+14
+(a) IN GENERAL.—Not later than 270 days after the 
+15
+date of the enactment of this Act, the Secretary of Defense 
+16
+shall establish an agile contracting mechanism to support 
+17
+any software acquisition pathway developed pursuant to 
+18
+section 800 of the National Defense Authorization Act for 
+19
+Fiscal Year 2020 (10 U.S.C. 2223a note). 
+20
+(b) CHARACTERISTICS.—The agile contracting mech-
+21
+anism established pursuant to subsection (a) shall author-
+22
+ize processes pursuant to which— 
+23
+(1) a contract is awarded on the basis of state-
+24
+ments of qualifications and past performance data 
+25
+02:51 Aug 13, 2021
+H4985
+13 
+•HR 4985 IH
+submitted by offerors, supplemented by discussions 
+1
+with two or more offerors determined to be the most 
+2
+highly qualified offerors, without regard to price; 
+3
+(2) the contract terms identify the persons to 
+4
+be engaged for the work, and substitutions shall not 
+5
+be made during the base contract period without the 
+6
+advance written consent of the contracting officer; 
+7
+(3) the contractor reviews existing software in 
+8
+consultation with the user community and utilizes 
+9
+user feedback to define and prioritize software re-
+10
+quirements, and to design and implement new soft-
+11
+ware and software upgrades, as appropriate; 
+12
+(4) an independent cost estimate is developed in 
+13
+parallel with engineering of the software; and 
+14
+(5) performance metrics based on the value of 
+15
+the software to be acquired are established to ad-
+16
+dress issues such as development, delivery, and de-
+17
+ployment rates of software and software updates, 
+18
+and assessment and estimation of the size and com-
+19
+plexity of the life cycle of such software. 
+20
+03:40 Aug 18, 2021
+H4985
+14 
+•HR 4985 IH
+SEC. 11. ENHANCED ROLE OF UNDER SECRETARY OF DE-
+1
+FENSE FOR RESEARCH AND ENGINEERING 
+2
+ON THE JOINT REQUIREMENTS OVERSIGHT 
+3
+COUNCIL. 
+4
+Section 181 of title 10, United States Code, is 
+5
+amended— 
+6
+(1) in subsection (b)— 
+7
+(A) in the matter preceding paragraph (1), 
+8
+by inserting ‘‘the Secretary of Defense and’’ be-
+9
+fore ‘‘the Chairman of the Joint Chiefs of 
+10
+Staff’’; 
+11
+(B) 
+by 
+redesignating 
+paragraphs 
+(2) 
+12
+through (6) as paragraphs (3) through (7); 
+13
+(C) by inserting after paragraph (1) the 
+14
+following new paragraph: 
+15
+‘‘(2) leveraging awareness of global technology 
+16
+trends, threats, and adversary capabilities to address 
+17
+gaps in joint military capabilities and validate the 
+18
+technical feasibility of requirements developed by the 
+19
+armed forces;’’; 
+20
+(D) in paragraph (4)(B), as so redesig-
+21
+nated, by inserting ‘‘the Secretary of Defense 
+22
+and’’ before ‘‘the Chairman of the Joint Chiefs 
+23
+of Staff’’; and 
+24
+(E) in paragraph (5), as so redesignated, 
+25
+by inserting ‘‘the Secretary of Defense and’’ be-
+26
+02:51 Aug 13, 2021
+H4985
+15 
+•HR 4985 IH
+fore ‘‘the Chairman of the Joint Chiefs of 
+1
+Staff’’; 
+2
+(2) in subsection (c)— 
+3
+(A) in paragraph (1)— 
+4
+(i) in subparagraph (A), by striking 
+5
+‘‘Chairman of the Joint Chiefs of Staff for 
+6
+making recommendations about’’ and in-
+7
+serting ‘‘Council for’’; 
+8
+(ii) by redesignating subparagraphs 
+9
+(B) through (F) as subparagraphs (C) 
+10
+through (G), respectively; and 
+11
+(iii) by inserting after subparagraph 
+12
+(A) the following new subparagraph: 
+13
+‘‘(B) The Under Secretary of Defense for 
+14
+Research and Engineering, who is the Co-Chair 
+15
+of the Council and is the chief science advisor 
+16
+to the Council.’’; 
+17
+(B) in paragraph (2), by striking ‘‘(B), 
+18
+(C), (D), and (E)’’ and inserting ‘‘(C), (D), 
+19
+(E), and (F)’’; and 
+20
+(C) by amending paragraph (3) to read as 
+21
+follows: 
+22
+‘‘(3) In making any recommendation to the 
+23
+Secretary of Defense and the Chairman of the Joint 
+24
+Chiefs of Staff pursuant to this section, the Co- 
+25
+03:40 Aug 18, 2021
+H4985
+16 
+•HR 4985 IH
+Chairs of the Council shall provide any dissenting 
+1
+view of members of the Council with respect to such 
+2
+recommendation.’’; and 
+3
+(3) in subsection (d)(1)— 
+4
+(A) by striking subparagraph (D); and 
+5
+(B) by redesignating subparagraphs (E) 
+6
+through (H) as paragraphs (D) through (G), 
+7
+respectively. 
+8
+SEC. 12. ARTIFICIAL INTELLIGENCE DEVELOPMENT AND 
+9
+PROTOTYPING FUND. 
+10
+(a) IN GENERAL.—The Secretary of Defense shall es-
+11
+tablish a fund to be known as the ‘‘Artificial Intelligence 
+12
+Development and Prototyping Fund’’ to support oper-
+13
+ational prototyping and speed the transition of artificial 
+14
+intelligence-enabled applications into both service-specific 
+15
+and joint mission capabilities, with priority given to joint 
+16
+mission capabilities for combatant commanders. The Fund 
+17
+shall be managed by the Under Secretary of Defense for 
+18
+Research and Engineering, in consultation with the Direc-
+19
+tor of the Joint Artificial Intelligence Center, the head of 
+20
+the Joint Staff, and the Chief of each Armed Force. 
+21
+(b) TRANSFER AUTHORITY.—Amounts available in 
+22
+the Fund may be transferred to the Secretary of a military 
+23
+department for the purpose of carrying out a development 
+24
+or prototyping program selected by the Under Secretary 
+25
+02:51 Aug 13, 2021
+H4985
+17 
+•HR 4985 IH
+of Defense for Research and Engineering for the purposes 
+1
+described in subsection (a). Any amount so transferred 
+2
+shall be credited to the account to which it is transferred. 
+3
+The transfer authority provided in this subsection is in 
+4
+addition to any other transfer authority available to the 
+5
+Department of Defense. 
+6
+(c) NOTICE TO CONGRESS.—The Under Secretary of 
+7
+Defense for Research and Development shall notify the 
+8
+congressional defense committees (as defined in section 
+9
+101(a)(16) of title 10, United States Code) of all transfers 
+10
+under subsection (b). Each notification shall specify the 
+11
+amount transferred, the purpose of the transfer, and the 
+12
+total projected cost and estimated cost to complete the ac-
+13
+quisition program to which the funds were transferred. 
+14
+SEC. 13. ENHANCED AUTHORITY TO ENTER INTO COOPERA-
+15
+TIVE RESEARCH AND DEVELOPMENT AGREE-
+16
+MENTS WITH INTERNATIONAL PARTNERS. 
+17
+(a) AUTHORITY OF SECRETARY OF DEFENSE.—Sec-
+18
+tion 2350a of title 10, United States Code, is amended— 
+19
+(1) in subsection (a)— 
+20
+(A) in paragraph (2), by adding at the end 
+21
+the following: 
+22
+‘‘(F) Any business, academic institution, re-
+23
+search institution, or other nongovernmental entity 
+24
+organized pursuant to the laws of a country referred 
+25
+02:51 Aug 13, 2021
+H4985
+18 
+•HR 4985 IH
+to in subparagraphs (C), (D), and (E), subject to 
+1
+the consent of the country involved.’’; 
+2
+(B) in paragraph (3), by striking ‘‘a coun-
+3
+try referred to in subparagraph (E) of para-
+4
+graph (2),’’ and inserting ‘‘a country referred to 
+5
+in subparagraph (E) of paragraph (2) or a non-
+6
+governmental entity referred to in subpara-
+7
+graph (F) of such paragraph,’’; and 
+8
+(C) by adding at the end the following: 
+9
+‘‘(4) The Secretary may delegate the authority to 
+10
+enter memoranda of understanding pursuant to this sec-
+11
+tion to the secretary of a military department, the Direc-
+12
+tor of the Joint Artificial Intelligence Center, and the Di-
+13
+rector of the Defense Advanced Research Projects Agency, 
+14
+subject to such terms and conditions as may be necessary 
+15
+to ensure that any agreements entered are consistent with 
+16
+the foreign policy and defense policy of the United 
+17
+States.’’; 
+18
+(2) in subsection (b)(1), by striking ‘‘will im-
+19
+prove, through the application of emerging tech-
+20
+nology,’’ and inserting ‘‘is likely to improve, through 
+21
+the application or enhancement of emerging tech-
+22
+nology,’’; and 
+23
+(3) in subsection (c)(3), by inserting at the end 
+24
+the following: ‘‘If a foreign partner is expected to 
+25
+02:51 Aug 13, 2021
+H4985
+19 
+•HR 4985 IH
+contribute significantly to the development of a new 
+1
+or novel capability, full consideration shall be given 
+2
+to nonmonetary contributions, including the value of 
+3
+research and development capabilities and the stra-
+4
+tegic partnerships.’’. 
+5
+(b) AUTHORITY OF THE PRESIDENT.—Section 2767 
+6
+of title 22, United States Code, is amended— 
+7
+(1) in subsection (c), by adding at the end the 
+8
+following: ‘‘If a foreign partner is expected to con-
+9
+tribute significantly to the development of a new or 
+10
+novel capability, full consideration shall be given to 
+11
+non-monetary contributions, including the value of 
+12
+research and development capabilities and the stra-
+13
+tegic partnerships.’’; 
+14
+(2) in subsection (f)(4), by inserting ‘‘(and a 
+15
+description of any nonmonetary contributions made 
+16
+by such participants)’’ before the semicolon; and 
+17
+(3) in subsection (j)— 
+18
+(A) by amending the subsection heading to 
+19
+read as follows: ‘‘COOPERATIVE
+PROJECT 
+20
+AGREEMENTS
+WITH
+FRIENDLY
+FOREIGN 
+21
+COUNTRIES NOT MEMBERS
+OF NATO AND 
+22
+WITH NONGOVERNMENTAL ORGANIZATIONS IN 
+23
+NATO AND IN FRIENDLY NON-NATO COUN-
+24
+TRIES’’; and 
+25
+02:51 Aug 13, 2021
+H4985
+20 
+•HR 4985 IH
+(B) by amending paragraph (2) to read as 
+1
+follows: 
+2
+‘‘(2) The President may enter into a coopera-
+3
+tive project agreement with any business, academic 
+4
+institution, research institution, or other nongovern-
+5
+mental entity organized pursuant to the laws of a 
+6
+NATO member or a friendly foreign country that is 
+7
+not a member of NATO, subject to the consent of 
+8
+the country involved.’’. 
+9
+SEC. 14. ROLE OF DIRECTOR OF SCIENCE AND TECH-
+10
+NOLOGY AS CHIEF TECHNOLOGY OFFICER 
+11
+FOR THE INTELLIGENCE COMMUNITY. 
+12
+Section 103E(c) of the National Security Act of 1947 
+13
+(50 U.S.C. 3030(c)) is amended— 
+14
+(1) by redesignating paragraphs (2) through 
+15
+(5) as paragraphs (5) through (8), respectively; and 
+16
+(2) by inserting after paragraph (1) the fol-
+17
+lowing new paragraphs: 
+18
+‘‘(2) serve as the Chief Technology Officer for 
+19
+the intelligence community; 
+20
+‘‘(3) establish policies for the intelligence com-
+21
+munity on research and engineering, technology de-
+22
+velopment, technology transition, prototyping activi-
+23
+ties, experimentation, and developmental testing, 
+24
+and oversee the implementation of such policies; 
+25
+02:51 Aug 13, 2021
+H4985
+21 
+•HR 4985 IH
+‘‘(4) establish common technical standards and 
+1
+policies necessary to rapidly scale artificial intel-
+2
+ligence-enabled applications across the intelligence 
+3
+community;’’. 
+4
+SEC. 15. ESTABLISHMENT OF ARTIFICIAL INTELLIGENCE 
+5
+CRITICAL APPLICATIONS FUND. 
+6
+(a) ESTABLISHMENT.—The Director of National In-
+7
+telligence shall establish in the Treasury a fund, to be 
+8
+known as the ‘‘Artificial Intelligence Critical Applications 
+9
+Fund’’, for the purposes of supporting the development 
+10
+and acquisition of applications enabled by artificial intel-
+11
+ligence for use by the intelligence community. 
+12
+(b) MANAGEMENT.—The Director of Science and 
+13
+Technology appointed under section 103E of the National 
+14
+Security Act of 1947 (50 U.S.C. 3030), in consultation 
+15
+with the Director of National Intelligence Science and 
+16
+Technology Committee specified in such section, shall be 
+17
+responsible for the management of the Artificial Intel-
+18
+ligence Critical Applications Fund. 
+19
+(c) AUTHORITY TO TRANSFER AMOUNTS.— 
+20
+(1) TRANSFER
+AUTHORITY.—The Director of 
+21
+National Intelligence may transfer amounts from the 
+22
+Artificial Intelligence Critical Applications Fund to 
+23
+the head of any element of the intelligence commu-
+24
+nity, to be merged with amounts otherwise available 
+25
+02:51 Aug 13, 2021
+H4985
+22 
+•HR 4985 IH
+under the account to which transferred, for the pur-
+1
+pose of carrying out a program selected by the Di-
+2
+rector of Science and Technology for the purposes 
+3
+described in subsection (a). Any amount so trans-
+4
+ferred shall be credited to the account to which it 
+5
+was transferred. 
+6
+(2) ADDITIONAL TRANSFER AUTHORITY.—The 
+7
+transfer authority in paragraph (1) is in addition to 
+8
+any other transfer authority provided to the Director 
+9
+of National Intelligence or the head of any element 
+10
+of the intelligence community. 
+11
+(d) CONGRESSIONAL NOTIFICATION.—Upon making 
+12
+a transfer pursuant to subsection (c), the Director of Na-
+13
+tional Intelligence shall submit to the appropriate congres-
+14
+sional committees a notification of the transfer. Each noti-
+15
+fication shall include an identification of the following: 
+16
+(1) The amount transferred. 
+17
+(2) The purpose of the transfer. 
+18
+(3) The total projected cost and estimated cost 
+19
+to complete the program for which the transferred 
+20
+amounts will be used. 
+21
+(e) DEFINITIONS.—In this section: 
+22
+(1) The term ‘‘appropriate congressional com-
+23
+mittees’’ means— 
+24
+02:51 Aug 13, 2021
+H4985
+23 
+•HR 4985 IH
+(A) the congressional intelligence commit-
+1
+tees; and 
+2
+(B) the Committees on Appropriations of 
+3
+the House of Representatives and the Senate. 
+4
+(2) The term ‘‘artificial intelligence’’ has the 
+5
+meaning given such term in section 238 of the John 
+6
+S. McCain National Defense Authorization Act for 
+7
+Fiscal Year 2019 (10 U.S.C. 2358 note). 
+8
+(3) The terms ‘‘congressional intelligence com-
+9
+mittees’’ and ‘‘intelligence community’’ have the 
+10
+meaning given those term in section 3 of the Na-
+11
+tional Security Act of 1947 (50 U.S.C. 3003). 
+12
+SEC. 16. ARTIFICIAL INTELLIGENCE TECHNOLOGY ROAD-
+13
+MAP AND FUNDING PLAN FOR THE INTEL-
+14
+LIGENCE COMMUNITY. 
+15
+(a) IN GENERAL.—Not later than 180 days after the 
+16
+date of the enactment of this Act, the Director of National 
+17
+Intelligence, in consultation with the Secretary of Defense, 
+18
+shall develop a technology annex to the National Intel-
+19
+ligence Strategy and a 10-year plan to provide long-term, 
+20
+predictable funding of up to $1,000,000,000 to implement 
+21
+the steps identified in such annex. 
+22
+(b) CONTENTS OF TECHNOLOGY ANNEX.—The tech-
+23
+nology annex under subsection (a) shall provide a tech-
+24
+nology roadmap for the adoption of artificial intelligence- 
+25
+02:51 Aug 13, 2021
+H4985
+24 
+•HR 4985 IH
+enabled applications to solve operational intelligence re-
+1
+quirements, including— 
+2
+(1) a description of challenges faced in the ef-
+3
+forts of the intelligence community to analyze the 
+4
+global environment and monitor technological ad-
+5
+vancements, adversarial capability development, and 
+6
+emerging threats; 
+7
+(2) identification of technical capabilities, in-
+8
+cluding artificial intelligence capabilities, needed to 
+9
+enable steps to address each challenge; 
+10
+(3) a prioritized, time-phased plan for devel-
+11
+oping or acquiring such technical capabilities, that 
+12
+takes into account research and development 
+13
+timelines, a strategy for public private partnerships, 
+14
+and a strategy for connecting researchers to end 
+15
+users for early prototyping, experimentation, and 
+16
+iteration; 
+17
+(4) any additional or revised acquisition policies 
+18
+and workforce training requirements that may be 
+19
+needed to enable personnel of the intelligence com-
+20
+munity to identify, procure, integrate, and operate 
+21
+the technologies identified in the annex; 
+22
+(5) identification of infrastructure requirements 
+23
+for developing and deploying technical capabilities, 
+24
+including— 
+25
+02:51 Aug 13, 2021
+H4985
+25 
+•HR 4985 IH
+(A) data, compute, storage, and network 
+1
+needs; 
+2
+(B) a resourced and prioritized plan for es-
+3
+tablishing such infrastructure; and 
+4
+(C) an analysis of the testing, evaluation, 
+5
+verification, and validation requirements to sup-
+6
+port prototyping and experimentation and a 
+7
+resourced plan to implement them, including 
+8
+standards, testbeds, and red-teams for testing 
+9
+artificial intelligence systems against digital 
+10
+‘‘denial and deception’’ attacks; 
+11
+(6) consideration of human factor elements as-
+12
+sociated with priority technical capabilities, including 
+13
+innovative human-centric approaches to user inter-
+14
+face, human-machine teaming, and workflow integra-
+15
+tion; 
+16
+(7) consideration of interoperability with allies 
+17
+and partners of the United States, including areas 
+18
+for sharing of data, tools, and intelligence products; 
+19
+and 
+20
+(8) flexibility to adapt and iterate annex imple-
+21
+mentation at the speed of technological advance-
+22
+ment. 
+23
+(c) INTELLIGENCE COMMUNITY DEFINED.—In this 
+24
+section, the term ‘‘intelligence community’’ has the mean-
+25
+02:51 Aug 13, 2021
+H4985
+26 
+•HR 4985 IH
+ing given that term in section 3 of the National Security 
+1
+Act of 1947 (50 U.S.C. 3003). 
+2
+SEC. 17. DIGITAL EXPERTISE RECRUITING OFFICES. 
+3
+(a) DIGITAL EXPERTISE RECRUITING FOR THE DE-
+4
+PARTMENT OF DEFENSE.— 
+5
+(1) ESTABLISHMENT.—Not later than 270 days 
+6
+after the date of the enactment of this Act, the Sec-
+7
+retary of Defense shall designate a chief digital re-
+8
+cruiting officer within the office of the Under Sec-
+9
+retary of Defense for Personnel and Readiness to 
+10
+oversee a digital recruiting office to carry out the re-
+11
+sponsibilities set forth in paragraph (2). 
+12
+(2) DUTIES.—The chief digital recruiting offi-
+13
+cer shall be responsible for— 
+14
+(A) identifying needs within the Depart-
+15
+ment of Defense for specific types of digital ex-
+16
+pertise; 
+17
+(B) recruiting technologists in partnership 
+18
+with the heads of elements of the Department, 
+19
+including by attending conferences and career 
+20
+fairs, and actively recruiting on university cam-
+21
+puses and from the private sector; 
+22
+(C) integrating Federal scholarship for 
+23
+service programs into civilian recruiting; 
+24
+02:51 Aug 13, 2021
+H4985
+27 
+•HR 4985 IH
+(D) offering recruitment and referral bo-
+1
+nuses; and 
+2
+(E) partnering with human resource teams 
+3
+in the elements of the Department to use di-
+4
+rect-hire authorities to accelerate hiring. 
+5
+(3) RESOURCES.—The Secretary of Defense 
+6
+shall ensure that the chief digital recruiting officer 
+7
+is provided with personnel and resources sufficient 
+8
+to maintain an office and to carry out the duties set 
+9
+forth in paragraph (2). 
+10
+(b) DIGITAL EXPERTISE RECRUITING FOR THE IN-
+11
+TELLIGENCE COMMUNITY.— 
+12
+(1) ESTABLISHMENT.—Not later than 270 days 
+13
+after the date of the enactment of this Act, the Di-
+14
+rector of National Intelligence shall designate a chief 
+15
+digital recruiting officer to oversee a digital recruit-
+16
+ing office to carry out the responsibilities set forth 
+17
+in paragraph (2). 
+18
+(2) DUTIES.—The chief digital recruiting offi-
+19
+cer shall be responsible for— 
+20
+(A) identifying needs within the intel-
+21
+ligence community for specific types of digital 
+22
+expertise; 
+23
+(B) recruiting technologists, in partnership 
+24
+with the heads of the elements of the intel-
+25
+02:51 Aug 13, 2021
+H4985
+28 
+•HR 4985 IH
+ligence community, including by attending con-
+1
+ferences and career fairs, and actively recruit-
+2
+ing on university campuses and from the pri-
+3
+vate sector; 
+4
+(C) integrating Federal scholarship for 
+5
+service programs into intelligence community 
+6
+recruiting; 
+7
+(D) offering recruitment and referral bo-
+8
+nuses; and 
+9
+(E) partnering with human resource teams 
+10
+in the elements of the intelligence community to 
+11
+use direct-hire authorities to accelerate hiring. 
+12
+(3) RESOURCES.—The Director of National In-
+13
+telligence shall ensure that the chief digital recruit-
+14
+ing officer is provided with personnel and resources 
+15
+sufficient to maintain an office and to carry out the 
+16
+duties set forth in paragraph (2). 
+17
+(4) INTELLIGENCE COMMUNITY DEFINED.—In 
+18
+this subsection, the term ‘‘intelligence community’’ 
+19
+has the meaning given that term in section 3 of the 
+20
+National Security Act of 1947 (50 U.S.C. 3003). 
+21
+02:51 Aug 13, 2021
+H4985
+29 
+•HR 4985 IH
+SEC. 18. OCCUPATIONAL SERIES RELATING TO ARTIFICIAL 
+1
+INTELLIGENCE 
+AND 
+DIGITAL 
+CAREER 
+2
+FIELDS. 
+3
+(a) DIGITAL CAREER FIELDS.—Not later than 270 
+4
+days after the date of the enactment of this Act, the Direc-
+5
+tor of the Office of Personnel Management shall exercise 
+6
+the authority of the Director under section 5105 of title 
+7
+5, United States Code, to establish one or more new occu-
+8
+pational series and associated policies covering Federal 
+9
+Government positions in the fields of software develop-
+10
+ment, software engineering, data science, and knowledge 
+11
+management. 
+12
+(b) ARTIFICIAL INTELLIGENCE FIELDS.—Not later 
+13
+than 270 days after the date of the enactment of this Act, 
+14
+the Director of the Office of Personnel Management shall 
+15
+exercise the authority of the Director under section 5105 
+16
+of title 5, United States Code, to establish a new occupa-
+17
+tional series and associated policies covering Federal Gov-
+18
+ernment positions in the field of artificial intelligence. 
+19
+SEC. 19. MILITARY CAREER FIELDS FOR SOFTWARE DEVEL-
+20
+OPMENT, DATA SCIENCE, AND ARTIFICIAL IN-
+21
+TELLIGENCE. 
+22
+Section 230 of the National Defense Authorization 
+23
+Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 
+24
+501 note prec.) is amended by adding at the end the fol-
+25
+lowing new subsection: 
+26
+02:51 Aug 13, 2021
+H4985
+30 
+•HR 4985 IH
+‘‘(d) CAREER FIELDS.—Not later than 270 days 
+1
+after the date of the enactment of the Digital Defense 
+2
+Leadership Act, each Chief of an Armed Force shall estab-
+3
+lish new military career fields— 
+4
+‘‘(1) for software development, data science, 
+5
+and artificial intelligence for members and officers 
+6
+under the jurisdiction of such Chief; and 
+7
+‘‘(2) that are designated competitive categories 
+8
+for promotion under subchapter VI of chapter 36 of 
+9
+title 10, United States Code.’’. 
+10
+Æ 
+02:51 Aug 13, 2021
+H4985

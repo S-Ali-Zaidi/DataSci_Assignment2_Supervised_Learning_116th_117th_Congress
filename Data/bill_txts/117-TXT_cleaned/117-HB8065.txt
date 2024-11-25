@@ -1,0 +1,831 @@
+A BILL 
+To authorize the development of a national strategy for the 
+research and development of distributed ledger tech-
+nologies and their applications, to authorize awards to 
+support research on distributed ledger technologies and 
+their applications, and to authorize an applied research 
+project on distributed ledger technologies in commerce. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘National R & D Strat-
+4
+egy for Distributed Ledger Technology Act of 2022’’. 
+5
+03:22 Jun 17, 2022
+H8065
+2 
+•HR 8065 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) DIRECTOR.—Except as otherwise expressly 
+3
+provided, the term ‘‘Director’’ means the Director of 
+4
+the Office of Science and Technology Policy. 
+5
+(2) DISTRIBUTED LEDGER.—The term ‘‘distrib-
+6
+uted ledger’’ means a ledger that— 
+7
+(A) is shared across a set of distributed 
+8
+nodes, which are devices or processes, that par-
+9
+ticipate in a network and store a complete or 
+10
+partial replica of the ledger; 
+11
+(B) is synchronized between the nodes; 
+12
+(C) has data appended to it by following 
+13
+the ledger’s specified consensus mechanism; 
+14
+(D) may be accessible to anyone (public) 
+15
+or restricted to a subset of participants (pri-
+16
+vate); and 
+17
+(E) may require participants to have au-
+18
+thorization 
+to 
+perform 
+certain 
+actions 
+19
+(permissioned) or require no authorization 
+20
+(permissionless). 
+21
+(3) DISTRIBUTED LEDGER TECHNOLOGY.—The 
+22
+term ‘‘distributed ledger technology’’ means tech-
+23
+nology that enables the operation and use of distrib-
+24
+uted ledgers. 
+25
+03:22 Jun 17, 2022
+H8065
+3 
+•HR 8065 IH
+(4) INSTITUTION OF HIGHER EDUCATION.—The 
+1
+term ‘‘institution of higher education’’ has the 
+2
+meaning given the term in section 101 of the Higher 
+3
+Education Act of 1965 (20 U.S.C. 1001). 
+4
+(5) 
+RELEVANT
+CONGRESSIONAL
+COMMIT-
+5
+TEES.—The term ‘‘relevant congressional commit-
+6
+tees’’ means— 
+7
+(A) the Committee on Commerce, Science, 
+8
+and Transportation of the Senate; and 
+9
+(B) the Committee on Science, Space, and 
+10
+Technology of the House of Representatives. 
+11
+(6) SMART CONTRACT.—The term ‘‘smart con-
+12
+tract’’ means a computer program stored in a dis-
+13
+tributed ledger system that is executed when certain 
+14
+predefined conditions are satisfied and wherein the 
+15
+outcome of any execution of the program may be re-
+16
+corded on the distributed ledger. 
+17
+SEC. 3. NATIONAL DISTRIBUTED LEDGER TECHNOLOGY 
+18
+R&D STRATEGY. 
+19
+(a) IN GENERAL.—The Director, or a designee of the 
+20
+Director, shall, in coordination with the National Science 
+21
+and Technology Council, and the heads of such other rel-
+22
+evant Federal agencies and entities as the Director con-
+23
+siders appropriate, which may include the National Acad-
+24
+emies, and in consultation with such nongovernmental en-
+25
+03:22 Jun 17, 2022
+H8065
+4 
+•HR 8065 IH
+tities as the Director considers appropriate, develop a na-
+1
+tional strategy for the research and development of dis-
+2
+tributed ledger technologies and their applications, includ-
+3
+ing applications of public and permissionless distributed 
+4
+ledgers. In developing the national strategy, the Director 
+5
+shall consider the following: 
+6
+(1) Current efforts and coordination by Federal 
+7
+agencies to invest in the research and development 
+8
+of distributed ledger technologies and their applica-
+9
+tions, including through programs like the Small 
+10
+Business Innovation Research program, the Small 
+11
+Business Technology Transfer program, and the Na-
+12
+tional Science Foundation’s Innovation Corps pro-
+13
+grams. 
+14
+(2)(A) The potential benefits and risks of appli-
+15
+cations of distributed ledger technologies across dif-
+16
+ferent industry sectors, including their potential to— 
+17
+(i) lower transactions costs and facilitate 
+18
+new types of commercial transactions; 
+19
+(ii) protect privacy and increase individ-
+20
+uals’ data sovereignty; 
+21
+(iii) reduce friction to the interoperability 
+22
+of digital systems; 
+23
+03:22 Jun 17, 2022
+H8065
+5 
+•HR 8065 IH
+(iv) increase the accessibility, auditability, 
+1
+security, efficiency, and transparency of digital 
+2
+services; 
+3
+(v) increase market competition in the pro-
+4
+vision of digital services; 
+5
+(vi) enable dynamic contracting and con-
+6
+tract execution through smart contracts; 
+7
+(vii) enable participants to collaborate in 
+8
+trustless and disintermediated environments; 
+9
+(viii) enable the operations and governance 
+10
+of distributed organizations; 
+11
+(ix) create new ownership models for dig-
+12
+ital items; and 
+13
+(x) increase participation of populations 
+14
+historically underrepresented in the technology, 
+15
+business, and financial sectors. 
+16
+(B) In consideration of the potential risks of 
+17
+applications of distributed ledger technologies under 
+18
+subparagraph (A), the Director shall take into ac-
+19
+count, where applicable— 
+20
+(i) additional risks that may emerge from 
+21
+distributed ledger technologies, as identified in 
+22
+reports submitted to the President pursuant to 
+23
+Executive Order 14067, that may be addressed 
+24
+by research and development; 
+25
+03:22 Jun 17, 2022
+H8065
+6 
+•HR 8065 IH
+(ii) software vulnerabilities in distributed 
+1
+ledger technologies and smart contracts; 
+2
+(iii) limited consumer literacy on engaging 
+3
+with applications of distributed ledger tech-
+4
+nologies in a secure way; 
+5
+(iv) the use of distributed ledger tech-
+6
+nologies in illicit finance and their use in com-
+7
+bating illicit finance; 
+8
+(v) manipulative, deceptive, and fraudulent 
+9
+practices that harm consumers engaging with 
+10
+applications of distributed ledger technologies; 
+11
+(vi) the implications of different consensus 
+12
+mechanisms for digital ledgers and governance 
+13
+and accountability mechanisms for applications 
+14
+of distributed ledger technologies, which may 
+15
+include decentralized networks; 
+16
+(vii) foreign activities in the development 
+17
+and deployment of distributed ledger tech-
+18
+nologies and their associated tools and infra-
+19
+structure; and 
+20
+(viii) environmental, sustainability, and 
+21
+economic impacts of the computational re-
+22
+sources required for distributed ledger tech-
+23
+nologies. 
+24
+03:22 Jun 17, 2022
+H8065
+7 
+•HR 8065 IH
+(3) Potential uses for distributed ledger tech-
+1
+nologies that could improve the operations and deliv-
+2
+ery of services by Federal agencies, taking into ac-
+3
+count the potential of digital ledger technologies 
+4
+to— 
+5
+(A) improve the efficiency and effectiveness 
+6
+of privacy-preserving data sharing among Fed-
+7
+eral agencies and with State, local, territorial, 
+8
+and Tribal governments; 
+9
+(B) promote government transparency by 
+10
+improving data sharing with the public; 
+11
+(C) introduce or mitigate risks that may 
+12
+threaten individuals’ rights or broad access to 
+13
+Federal services; 
+14
+(D) automate and modernize processes for 
+15
+assessing and ensuring regulatory compliance; 
+16
+and 
+17
+(E) facilitate broad access to financial 
+18
+services for underserved and underbanked popu-
+19
+lations. 
+20
+(4) Ways to support public and private sector 
+21
+dialogue on areas of research that could enhance the 
+22
+efficiency, scalability, interoperability, security, and 
+23
+privacy of applications using distributed ledger tech-
+24
+nologies. 
+25
+03:22 Jun 17, 2022
+H8065
+8 
+•HR 8065 IH
+(5) The need for increased coordination of the 
+1
+public and private sectors on the development of vol-
+2
+untary standards in order to promote research and 
+3
+development, including standards regarding security, 
+4
+smart contracts, cryptographic protocols, virtual 
+5
+routing and forwarding, interoperability, zero-knowl-
+6
+edge proofs, and privacy, for distributed ledger tech-
+7
+nologies and their applications. 
+8
+(6) Applications of distributed ledger tech-
+9
+nologies that could positively benefit society but that 
+10
+receive relatively little private sector investment. 
+11
+(7) The United States position in global leader-
+12
+ship and competitiveness across research, develop-
+13
+ment, and deployment of distributed ledger tech-
+14
+nologies. 
+15
+(b) CONSULTATION.— 
+16
+(1) IN GENERAL.—In carrying out the Direc-
+17
+tor’s duties under this section, the Director shall 
+18
+consult with the following: 
+19
+(A) Private industry. 
+20
+(B) Institutions of higher education, in-
+21
+cluding minority-serving institutions. 
+22
+(C) Nonprofit organizations, including 
+23
+foundations dedicated to supporting distributed 
+24
+ledger technologies and their applications. 
+25
+03:22 Jun 17, 2022
+H8065
+9 
+•HR 8065 IH
+(D) State governments. 
+1
+(E) Such other persons as the Director 
+2
+considers appropriate. 
+3
+(2) REPRESENTATION.—The Director shall en-
+4
+sure consultations with the following: 
+5
+(A) Rural and urban stakeholders from 
+6
+across the Nation. 
+7
+(B) Small, medium, and large businesses. 
+8
+(C) Subject matter experts representing 
+9
+multiple industrial sectors. 
+10
+(D) A demographically diverse set of stake-
+11
+holders. 
+12
+(c) COORDINATION.—In carrying out this section, the 
+13
+Director shall, for purposes of avoiding duplication of ac-
+14
+tivities, consult, cooperate, and coordinate with the pro-
+15
+grams and policies of other relevant Federal agencies, in-
+16
+cluding the interagency process outlined in section 3 of 
+17
+Executive Order 14067 (87 Fed. Reg. 14143; relating en-
+18
+suring responsible development of digital assets). 
+19
+(d) NATIONAL STRATEGY.—Not later than 1 year 
+20
+after the date of enactment of this Act, the Director shall 
+21
+submit to the relevant congressional committees and the 
+22
+President a national strategy that includes the following: 
+23
+03:22 Jun 17, 2022
+H8065
+10 
+•HR 8065 IH
+(1) Priorities for the research and development 
+1
+of distributed ledger technologies and their applica-
+2
+tions. 
+3
+(2) Plans to support public and private sector 
+4
+investment and partnerships in research and tech-
+5
+nology development for societally beneficial applica-
+6
+tions of distributed ledger technologies. 
+7
+(3) Plans to mitigate the risks of distributed 
+8
+ledger technologies and their applications. 
+9
+(4) An identification of additional resources, ad-
+10
+ministrative 
+action, 
+or 
+legislative 
+action 
+rec-
+11
+ommended to assist with the implementation of such 
+12
+strategy. 
+13
+(e) RESEARCH AND DEVELOPMENT FUNDING.—The 
+14
+Director shall, as the Director considers necessary, consult 
+15
+with the Director of the Office of Management and Budget 
+16
+and with the heads of such other elements of the Executive 
+17
+Office of the President as the Director considers appro-
+18
+priate, to ensure that the recommendations and priorities 
+19
+with respect to research and development funding, as ex-
+20
+pressed in the national strategy developed under this sec-
+21
+tion, are incorporated in the development of annual budget 
+22
+requests for Federal research agencies. 
+23
+03:22 Jun 17, 2022
+H8065
+11 
+•HR 8065 IH
+SEC. 4. DISTRIBUTED LEDGER TECHNOLOGY RESEARCH. 
+1
+(a) IN GENERAL.—The Director of the National 
+2
+Science Foundation shall make awards, on a competitive 
+3
+basis, to institutions of higher education, including minor-
+4
+ity-serving institutions, or nonprofit organizations (or con-
+5
+sortia of such institutions or organizations) to support re-
+6
+search, including interdisciplinary research, on distributed 
+7
+ledger technologies, their applications, and other issues 
+8
+that impact or are caused by distributed ledger tech-
+9
+nologies, which may include research on— 
+10
+(1) the implications on trust, transparency, pri-
+11
+vacy, accessibility, accountability, and energy con-
+12
+sumption of different consensus mechanisms and 
+13
+hardware choices, and approaches for addressing 
+14
+these implications; 
+15
+(2) approaches for improving the security, pri-
+16
+vacy, resiliency, interoperability, performance, and 
+17
+scalability of distributed ledger technologies and 
+18
+their applications, which may include decentralized 
+19
+networks; 
+20
+(3) approaches for identifying and addressing 
+21
+vulnerabilities and improving the performance and 
+22
+expressive power of smart contracts; 
+23
+(4) the implications of quantum computing on 
+24
+applications of distributed ledger technologies, in-
+25
+cluding long-term protection of sensitive information 
+26
+03:22 Jun 17, 2022
+H8065
+12 
+•HR 8065 IH
+(such as medical or digital property), and techniques 
+1
+to address them; 
+2
+(5) game theory, mechanism design, and eco-
+3
+nomics underpinning and facilitating the operations 
+4
+and governance of decentralized networks enabled by 
+5
+distributed ledger technologies; 
+6
+(6) the social behaviors of participants in decen-
+7
+tralized networks enabled by distributed ledger tech-
+8
+nologies; 
+9
+(7) human-centric design approaches to make 
+10
+distributed ledger technologies and their applications 
+11
+more usable and accessible; 
+12
+(8) use cases for distributed ledger technologies 
+13
+across various industry sectors and government, in-
+14
+cluding applications pertaining to— 
+15
+(A) digital identity, including trusted iden-
+16
+tity and identity management; 
+17
+(B) digital property rights; 
+18
+(C) delivery of public services; 
+19
+(D) supply chain transparency; 
+20
+(E) medical information management; 
+21
+(F) inclusive financial services; 
+22
+(G) community governance; 
+23
+(H) charitable giving; 
+24
+(I) public goods funding; 
+25
+03:22 Jun 17, 2022
+H8065
+13 
+•HR 8065 IH
+(J) digital credentials; 
+1
+(K) regulatory compliance; 
+2
+(L) infrastructure resilience, including 
+3
+against natural disasters; and 
+4
+(M) peer-to-peer transactions; and 
+5
+(9) the social, behavioral, and economic implica-
+6
+tions associated with the growth of applications of 
+7
+distributed ledger technologies, including decen-
+8
+tralization in business, financial, and economic sys-
+9
+tems. 
+10
+(b) ACCELERATING INNOVATION.—The Director of 
+11
+the National Science Foundation shall consider continuing 
+12
+to support startups that are in need of funding, would de-
+13
+velop in and contribute to the economy of the United 
+14
+States, leverage distributed ledger technologies, have the 
+15
+potential to positively benefit society, and have the poten-
+16
+tial for commercial viability, through programs like the 
+17
+Small Business Innovation Research program, the Small 
+18
+Business Technology Transfer program, and, as appro-
+19
+priate, other programs that promote broad and diverse 
+20
+participation. 
+21
+(c) CONSIDERATION
+OF NATIONAL DISTRIBUTED 
+22
+LEDGER TECHNOLOGY RESEARCH AND DEVELOPMENT 
+23
+STRATEGY.—In making awards under subsection (a), the 
+24
+Director of the National Science Foundation shall take 
+25
+03:22 Jun 17, 2022
+H8065
+14 
+•HR 8065 IH
+into account the national strategy, as described in section 
+1
+3(d). 
+2
+(d) FUNDAMENTAL RESEARCH.—The Director of the 
+3
+National Science Foundation shall consider continuing to 
+4
+make awards supporting fundamental research in areas 
+5
+related to distributed ledger technologies and their appli-
+6
+cations, such as applied cryptography and distributed sys-
+7
+tems. 
+8
+SEC. 5. DISTRIBUTED LEDGER TECHNOLOGY APPLIED RE-
+9
+SEARCH PROJECT. 
+10
+(a) APPLIED RESEARCH PROJECT.—Subject to the 
+11
+availability of appropriations, the Director of the National 
+12
+Institute of Standards and Technology may carry out an 
+13
+applied research project to study and demonstrate the po-
+14
+tential benefits and unique capabilities of distributed ledg-
+15
+er technologies. 
+16
+(b) ACTIVITIES.—In carrying out the applied re-
+17
+search project, the Director of the National Institute of 
+18
+Standards and Technology shall— 
+19
+(1) identify potential applications of distributed 
+20
+ledger technologies, including those that could ben-
+21
+efit activities at the Department of Commerce or at 
+22
+other Federal agencies, considering applications that 
+23
+could— 
+24
+03:22 Jun 17, 2022
+H8065
+15 
+•HR 8065 IH
+(A) improve the privacy and interoper-
+1
+ability of digital identity and access manage-
+2
+ment solutions; 
+3
+(B) increase the integrity and transparency 
+4
+of supply chains through the secure and limited 
+5
+sharing of relevant supplier information; 
+6
+(C) facilitate increased interoperability 
+7
+across healthcare information systems and con-
+8
+sumer control over the movement of their med-
+9
+ical data; 
+10
+(D) facilitate broader participation in dis-
+11
+tributed ledger technologies of populations his-
+12
+torically underrepresented in technology, busi-
+13
+ness, and financial sectors; or 
+14
+(E) be of benefit to the public or private 
+15
+sectors, as determined by the Director in con-
+16
+sultation with relevant stakeholders; 
+17
+(2) solicit and provide the opportunity for pub-
+18
+lic comment relevant to potential projects; 
+19
+(3) consider, in the selection of a project, 
+20
+whether the project addresses a pressing need not 
+21
+already addressed by another organization or Fed-
+22
+eral agency; 
+23
+03:22 Jun 17, 2022
+H8065
+16 
+•HR 8065 IH
+(4) establish plans to mitigate potential risks, 
+1
+including those outlined in section 3(a)(2)(B), if ap-
+2
+plicable, of potential projects; 
+3
+(5) produce an example solution leveraging dis-
+4
+tributed ledger technologies for 1 of the applications 
+5
+identified in paragraph (1); 
+6
+(6) hold a competitive process to select private 
+7
+sector partners, if they are engaged, to support the 
+8
+implementation of the example solution; 
+9
+(7) consider hosting the project at the National 
+10
+Cybersecurity Center of Excellence; and 
+11
+(8) ensure that cybersecurity best practices con-
+12
+sistent with the Cybersecurity Framework of the Na-
+13
+tional Institute of Standards and Technology are 
+14
+demonstrated in the project. 
+15
+(c) BRIEFINGS TO CONGRESS.—Not later than 1 year 
+16
+after the date of enactment of this Act, the Director of 
+17
+the National Institute of Standards and Technology shall 
+18
+offer a briefing to the relevant congressional committees 
+19
+on the progress and current findings from the project 
+20
+under this section. 
+21
+(d) PUBLIC REPORT.—Not later than 12 months 
+22
+after the completion of the project under this section, the 
+23
+Director of the National Institute of Standards and Tech-
+24
+03:22 Jun 17, 2022
+H8065
+17 
+•HR 8065 IH
+nology shall make public a report on the results and find-
+1
+ings from the project. 
+2
+Æ 
+03:22 Jun 17, 2022
+H8065

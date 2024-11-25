@@ -1,0 +1,422 @@
+A BILL 
+To amend the Energy Independence and Security Act of 
+2007 to promote energy efficiency via information and 
+computing technologies, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Energy Efficient Gov-
+4
+ernment Technology Act’’. 
+5
+SEC. 2. ENERGY-EFFICIENT AND ENERGY-SAVING INFOR-
+6
+MATION TECHNOLOGIES. 
+7
+(a) IN GENERAL.—Subtitle C of title V of the Energy 
+8
+Independence and Security Act of 2007 (Public Law 110– 
+9
+04:03 Mar 13, 2019
+H1420
+2 
+•HR 1420 IH
+140; 121 Stat. 1661) is amended by adding at the end 
+1
+the following: 
+2
+‘‘SEC. 530. ENERGY-EFFICIENT AND ENERGY-SAVING INFOR-
+3
+MATION TECHNOLOGIES. 
+4
+‘‘(a) DEFINITIONS.—In this section: 
+5
+‘‘(1) DIRECTOR.—The term ‘Director’ means 
+6
+the Director of the Office of Management and Budg-
+7
+et. 
+8
+‘‘(2) INFORMATION
+TECHNOLOGY.—The term 
+9
+‘information technology’ has the meaning given that 
+10
+term in section 11101 of title 40, United States 
+11
+Code. 
+12
+‘‘(b) DEVELOPMENT OF IMPLEMENTATION STRAT-
+13
+EGY.—Not later than 1 year after the date of enactment 
+14
+of this section, each Federal agency shall coordinate with 
+15
+the Director, the Secretary, and the Administrator of the 
+16
+Environmental Protection Agency to develop an implemen-
+17
+tation strategy (that includes best practices and measure-
+18
+ment and verification techniques) for the maintenance, 
+19
+purchase, and use by the Federal agency of energy-effi-
+20
+cient and energy-saving information technologies at or for 
+21
+federally owned and operated facilities, taking into consid-
+22
+eration the performance goals established under sub-
+23
+section (d). 
+24
+04:03 Mar 13, 2019
+H1420
+3 
+•HR 1420 IH
+‘‘(c) ADMINISTRATION.—In developing an implemen-
+1
+tation strategy under subsection (b), each Federal agency 
+2
+shall consider— 
+3
+‘‘(1) advanced metering infrastructure; 
+4
+‘‘(2) energy-efficient data center strategies and 
+5
+methods of increasing asset and infrastructure utili-
+6
+zation; 
+7
+‘‘(3) advanced power management tools; 
+8
+‘‘(4) building information modeling, including 
+9
+building energy management; 
+10
+‘‘(5) secure telework and travel substitution 
+11
+tools; and 
+12
+‘‘(6) mechanisms to ensure that the agency re-
+13
+alizes the energy cost savings brought about through 
+14
+increased efficiency and utilization. 
+15
+‘‘(d) PERFORMANCE GOALS.— 
+16
+‘‘(1) IN GENERAL.—Not later than 180 days 
+17
+after the date of enactment of this section, the Di-
+18
+rector, in consultation with the Secretary, shall es-
+19
+tablish performance goals for evaluating the efforts 
+20
+of Federal agencies in improving the maintenance, 
+21
+purchase, and use of energy-efficient and energy-sav-
+22
+ing information technology at or for federally owned 
+23
+and operated facilities. 
+24
+04:03 Mar 13, 2019
+H1420
+4 
+•HR 1420 IH
+‘‘(2) BEST PRACTICES.—The Chief Information 
+1
+Officers Council established under section 3603 of 
+2
+title 44, United States Code, shall recommend best 
+3
+practices for the attainment of the performance 
+4
+goals, which shall include Federal agency consider-
+5
+ation of, to the extent applicable by law, the use 
+6
+of— 
+7
+‘‘(A) energy savings performance con-
+8
+tracting; and 
+9
+‘‘(B) utility energy services contracting. 
+10
+‘‘(e) REPORTS.— 
+11
+‘‘(1) AGENCY REPORTS.—Each Federal agency 
+12
+shall include in the report of the agency under sec-
+13
+tion 527 a description of the efforts and results of 
+14
+the agency under this section. 
+15
+‘‘(2) OMB GOVERNMENT EFFICIENCY REPORTS 
+16
+AND
+SCORECARDS.—Effective beginning not later 
+17
+than October 1, 2019, the Director shall include in 
+18
+the annual report and scorecard of the Director re-
+19
+quired under section 528 a description of the efforts 
+20
+and results of Federal agencies under this section.’’. 
+21
+(b) CONFORMING AMENDMENT.—The table of con-
+22
+tents for the Energy Independence and Security Act of 
+23
+2007 is amended by adding after the item relating to sec-
+24
+tion 529 the following: 
+25
+‘‘Sec. 530. Energy-efficient and energy-saving information technologies.’’. 
+04:03 Mar 13, 2019
+H1420
+5 
+•HR 1420 IH
+SEC. 3. ENERGY EFFICIENT DATA CENTERS. 
+1
+Section 453 of the Energy Independence and Security 
+2
+Act of 2007 (42 U.S.C. 17112) is amended— 
+3
+(1) in subsection (b)— 
+4
+(A) in paragraph (2)(D)(iv), by striking 
+5
+‘‘determined by the organization’’ and inserting 
+6
+‘‘proposed by the stakeholders’’; and 
+7
+(B) by striking paragraph (3); and 
+8
+(2) by striking subsections (c) through (g) and 
+9
+inserting the following: 
+10
+‘‘(c) STAKEHOLDER INVOLVEMENT.—The Secretary 
+11
+and the Administrator shall carry out subsection (b) in 
+12
+collaboration with information technology industry and 
+13
+other key stakeholders, with the goal of producing results 
+14
+that accurately reflect the most relevant and useful infor-
+15
+mation. In such collaboration, the Secretary and the Ad-
+16
+ministrator shall pay particular attention to organizations 
+17
+that— 
+18
+‘‘(1) have members with expertise in energy ef-
+19
+ficiency and in the development, operation, and 
+20
+functionality of data centers, information technology 
+21
+equipment, and software, such as representatives of 
+22
+hardware manufacturers, data center operators, and 
+23
+facility managers; 
+24
+‘‘(2) obtain and address input from Department 
+25
+of Energy National Laboratories or any college, uni-
+26
+04:03 Mar 13, 2019
+H1420
+6 
+•HR 1420 IH
+versity, research institution, industry association, 
+1
+company, or public interest group with applicable ex-
+2
+pertise; 
+3
+‘‘(3) follow— 
+4
+‘‘(A) commonly accepted procedures for 
+5
+the development of specifications; and 
+6
+‘‘(B) accredited standards development 
+7
+processes; and 
+8
+‘‘(4) have a mission to promote energy effi-
+9
+ciency for data centers and information technology. 
+10
+‘‘(d) MEASUREMENTS
+AND SPECIFICATIONS.—The 
+11
+Secretary and the Administrator shall consider and assess 
+12
+the adequacy of the specifications, measurements, best 
+13
+practices, and benchmarks described in subsection (b) for 
+14
+use by the Federal Energy Management Program, the En-
+15
+ergy Star Program, and other efficiency programs of the 
+16
+Department of Energy or the Environmental Protection 
+17
+Agency. 
+18
+‘‘(e) STUDY.—The Secretary, in collaboration with 
+19
+the Administrator, shall, not later than 4 years after the 
+20
+date of enactment of the Energy Efficient Government 
+21
+Technology Act, make available to the public an update 
+22
+to the report of the Lawrence Berkeley National Labora-
+23
+tory entitled ‘United States Data Center Energy Usage 
+24
+Report’ and dated June, 2016 (prepared as an update to 
+25
+04:03 Mar 13, 2019
+H1420
+7 
+•HR 1420 IH
+the Report to Congress on Server and Data Center Energy 
+1
+Efficiency, published on August 2, 2007, under section 1 
+2
+of Public Law 109–431 (120 Stat. 2920)), that includes— 
+3
+‘‘(1) a comparison and gap analysis of the esti-
+4
+mates and projections contained in the report with 
+5
+new data regarding the period from 2015 through 
+6
+2019; 
+7
+‘‘(2) an analysis considering the impact of in-
+8
+formation technologies, including virtualization and 
+9
+cloud computing, in the public and private sectors; 
+10
+‘‘(3) an evaluation of the impact of the com-
+11
+bination of cloud platforms, mobile devices, social 
+12
+media, and big data on data center energy usage; 
+13
+‘‘(4) an evaluation of water usage in data cen-
+14
+ters and recommendations for reductions in such 
+15
+water usage; and 
+16
+‘‘(5) updated projections and recommendations 
+17
+for best practices through fiscal year 2025. 
+18
+‘‘(f) DATA CENTER ENERGY PRACTITIONER PRO-
+19
+GRAM.—The Secretary, in collaboration with key stake-
+20
+holders and the Director of the Office of Management and 
+21
+Budget, shall maintain a data center energy practitioner 
+22
+program that leads to the certification of energy practi-
+23
+tioners qualified to evaluate the energy usage and effi-
+24
+ciency opportunities in federally owned and operated data 
+25
+04:03 Mar 13, 2019
+H1420
+8 
+•HR 1420 IH
+centers. Each Federal agency shall consider having the 
+1
+data centers of the agency evaluated every 4 years, in ac-
+2
+cordance with section 543(f) of the National Energy Con-
+3
+servation Policy Act, by energy practitioners certified pur-
+4
+suant to such program. 
+5
+‘‘(g) OPEN DATA INITIATIVE.—The Secretary, in col-
+6
+laboration with key stakeholders and the Office of Man-
+7
+agement and Budget, shall establish an open data initia-
+8
+tive relating to energy usage at federally owned and oper-
+9
+ated data centers, with the purpose of making such data 
+10
+available and accessible in a manner that encourages fur-
+11
+ther data center innovation, optimization, and consolida-
+12
+tion. In establishing the initiative, the Secretary shall con-
+13
+sider the use of the online Data Center Maturity Model. 
+14
+‘‘(h) 
+INTERNATIONAL
+SPECIFICATIONS
+AND 
+15
+METRICS.—The Secretary, in collaboration with key 
+16
+stakeholders, shall actively participate in efforts to har-
+17
+monize global specifications and metrics for data center 
+18
+energy and water efficiency. 
+19
+‘‘(i) DATA CENTER UTILIZATION METRIC.—The Sec-
+20
+retary, in collaboration with key stakeholders, shall facili-
+21
+tate in the development of an efficiency metric that meas-
+22
+ures the energy efficiency of a data center (including 
+23
+equipment and facilities). 
+24
+04:03 Mar 13, 2019
+H1420
+9 
+•HR 1420 IH
+‘‘(j) PROTECTION OF PROPRIETARY INFORMATION.— 
+1
+The Secretary and the Administrator shall not disclose 
+2
+any proprietary information or trade secrets provided by 
+3
+any individual or company for the purposes of carrying 
+4
+out this section or the programs and initiatives established 
+5
+under this section.’’. 
+6
+Æ 
+04:03 Mar 13, 2019
+H1420

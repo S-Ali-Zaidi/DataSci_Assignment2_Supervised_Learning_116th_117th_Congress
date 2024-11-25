@@ -1,0 +1,138 @@
+A BILL 
+To direct the Secretary of Defense to carry out activities 
+to develop, secure, and effectively implement fifth genera-
+tion information and communications technology within 
+the Department of Defense. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. TELECOMMUNICATIONS SECURITY PROGRAM. 
+3
+(a) PROGRAM REQUIRED.—The Secretary of Defense 
+4
+shall carry out a program to identify and mitigate 
+5
+vulnerabilities in the telecommunications infrastructure of 
+6
+the Department of Defense. 
+7
+03:15 Jul 11, 2020
+H7257
+2 
+•HR 7257 IH
+(b) ELEMENTS.—In carrying out the program under 
+1
+subsection (a), the Secretary shall— 
+2
+(1) develop a capability to communicate clearly 
+3
+and authoritatively about threats by foreign actors; 
+4
+(2) conduct independent red-team security anal-
+5
+ysis of Department of Defense systems, subsystems, 
+6
+devices, and components including no-knowledge 
+7
+testing and testing with limited or full knowledge of 
+8
+expected functionalities; 
+9
+(3) verify the integrity of personnel who are 
+10
+tasked with design fabrication, integration, configu-
+11
+ration, storage, test, and documentation of non-
+12
+commercial 5G technology to be used by the Depart-
+13
+ment of Defense; 
+14
+(4) verify the efficacy of the physical security 
+15
+measures used at Department of Defense locations 
+16
+where system design, fabrication, integration, con-
+17
+figuration, storage, test, and documentation of 5G 
+18
+technology occurs; 
+19
+(5) direct the Chief Information Officer of the 
+20
+Department of Defense to use the Federal Risk and 
+21
+Authorization Management Program (commonly 
+22
+known as ‘‘FedRAMP’’) moderate or high cloud 
+23
+standard baselines, supplemented with the Depart-
+24
+ment’s FedRAMP cloud standard controls and con-
+25
+03:15 Jul 11, 2020
+H7257
+3 
+•HR 7257 IH
+trol enhancements, to assess 5G core service pro-
+1
+viders whose services will be used by the Department 
+2
+of Defense through the Department’s provisional au-
+3
+thorization process; and 
+4
+(6) direct the Defense Information Systems 
+5
+Agency and the United States Cyber Command to 
+6
+Develop a capability for continuous, independent 
+7
+monitoring of packet streams for 5G data on fre-
+8
+quencies assigned to the Department of Defense to 
+9
+validate availability, confidentiality, and integrity of 
+10
+Department of Defense communications systems. 
+11
+(c) IMPLEMENTATION PLAN.—Not later than 90 
+12
+days after the date of the enactment of this Act, the Sec-
+13
+retary of Defense shall submit to Congress a plan for the 
+14
+implementation of the program under subsection (a). 
+15
+(d) REPORT REQUIRED.—Not later than 180 days 
+16
+after submitting the plan under subsection (c), the Sec-
+17
+retary of Defense shall submit to Congress a report that 
+18
+includes— 
+19
+(1) a comprehensive assessment of the findings 
+20
+and conclusions of the program under subsection 
+21
+(a); 
+22
+(2) recommendations on how to mitigate 
+23
+vulnerabilities in the Department of Defense tele-
+24
+communications infrastructure; and 
+25
+03:15 Jul 11, 2020
+H7257
+4 
+•HR 7257 IH
+(3) an explanation of how the Department of 
+1
+Defense plans to implement such recommendations. 
+2
+Æ 
+03:15 Jul 11, 2020
+H7257

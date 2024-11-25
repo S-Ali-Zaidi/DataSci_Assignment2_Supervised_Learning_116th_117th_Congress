@@ -1,0 +1,651 @@
+A BILL 
+To require an interagency study on the environmental and 
+energy impacts of crypto-asset mining, to assess crypto- 
+asset mining compliance with the Clean Air Act, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Crypto-Asset Environ-
+4
+mental Transparency Act of 2022’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds that— 
+7
+23:11 Dec 10, 2022
+H9457
+2 
+•HR 9457 IH
+(1) human activity is the dominant cause of ob-
+1
+served climate change in the past century; 
+2
+(2) climate change is increasing the frequency 
+3
+and intensity of wildfires, droughts, severe storms, 
+4
+heat waves, rising of sea levels, and severe weather 
+5
+events; 
+6
+(3) the Federal Government has— 
+7
+(A) committed under the decision of the 
+8
+21st Conference of Parties of the United Na-
+9
+tions 
+Framework 
+Convention 
+on 
+Climate 
+10
+Change, adopted in Paris, France, December 
+11
+12, 2015 (commonly referred to as the ‘‘Paris 
+12
+Agreement’’), to reduce greenhouse gas emis-
+13
+sions by 50 to 52 percent by 2030; and 
+14
+(B) a responsibility to mitigate current and 
+15
+future impacts of climate change to protect the 
+16
+health, safety, and welfare of individuals of the 
+17
+United States; 
+18
+(4) crypto-asset mining operations— 
+19
+(A) can be energy intensive; and 
+20
+(B) unlike most other technologies, are 
+21
+often designed to generally increase computing 
+22
+requirements over time, which can lead to in-
+23
+creased energy consumption; 
+24
+23:11 Dec 10, 2022
+H9457
+3 
+•HR 9457 IH
+(5) a crypto-asset network, Bitcoin, consumes 
+1
+more energy annually than countries such as Chile 
+2
+or Bangladesh consume; 
+3
+(6) crypto-asset mining operations often rely on 
+4
+fossil fuels for power, which contributes to green-
+5
+house gas emissions; 
+6
+(7) the carbon dioxide emissions of the United 
+7
+States from Bitcoin mining were estimated at 21 to 
+8
+35 megatons per year in 2022, which is equivalent 
+9
+to the annual emissions from more than 4,500,000 
+10
+to 7,500,000 gasoline-powered cars driven for 1 
+11
+year; 
+12
+(8) crypto-asset mining can also cause local 
+13
+noise and water pollution; 
+14
+(9) the number of crypto-asset mining facilities 
+15
+in the United States is increasing, and the share of 
+16
+the United States of global Bitcoin mining rose from 
+17
+3.5 percent in 2020 to 38 percent in 2022; 
+18
+(10) crypto-asset mining is an emergent indus-
+19
+try, and the potential of crypto-asset mining to exac-
+20
+erbate systemic racial, social, environmental, and 
+21
+economic injustices is not sufficiently understood; 
+22
+(11) there is no comprehensive, independent 
+23
+study of crypto-asset mining operations in the 
+24
+United States, including the energy use, resource 
+25
+23:11 Dec 10, 2022
+H9457
+4 
+•HR 9457 IH
+mix, and greenhouse gas emissions of those crypto- 
+1
+asset mining operations; and 
+2
+(12) one of the primary recommendations of the 
+3
+report of the Office of Science and Technology Pol-
+4
+icy entitled ‘‘Climate and Energy Implications of 
+5
+Crypto-Assets in the United States’’ and dated Sep-
+6
+tember 2022 was to obtain detailed data on energy 
+7
+use and emissions from crypto-asset activity. 
+8
+SEC. 3. DEFINITIONS. 
+9
+In this Act: 
+10
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+11
+trator’’ means the Administrator of the Environ-
+12
+mental Protection Agency. 
+13
+(2) AIR POLLUTANT.—The term ‘‘air pollutant’’ 
+14
+has the meaning given the term in section 302 of the 
+15
+Clean Air Act (42 U.S.C. 7602). 
+16
+(3) BLOCK.—The term ‘‘block’’ means a group 
+17
+of data stored as a single record in a blockchain. 
+18
+(4) 
+BLOCKCHAIN.—The 
+term 
+‘‘blockchain’’ 
+19
+means a distributed ledger technology in which— 
+20
+(A) the data are shared across a network 
+21
+that creates a digital ledger of verified trans-
+22
+actions or information among network partici-
+23
+pants; and 
+24
+23:11 Dec 10, 2022
+H9457
+5 
+•HR 9457 IH
+(B) the data are typically linked using 
+1
+cryptography to maintain the integrity of the 
+2
+ledger and execute other functions, including 
+3
+transfer of ownership or value. 
+4
+(5) CONSENSUS MECHANISM.—The term ‘‘con-
+5
+sensus mechanism’’ means a process to achieve 
+6
+agreement among network participants on the cur-
+7
+rent state of a blockchain. 
+8
+(6) CRYPTO-ASSET.—The term ‘‘crypto-asset’’ 
+9
+means a digital asset, which may be a medium of ex-
+10
+change, a representation of value, or both, for which 
+11
+generation or ownership records of the digital asset 
+12
+are recorded in a distributed ledger technology that 
+13
+relies on cryptography. 
+14
+(7) CRYPTO-ASSET MINING.—The term ‘‘crypto- 
+15
+asset mining’’ means the process of performing com-
+16
+putations to add a valid block of data to the 
+17
+blockchain, typically in exchange for a reward or fee. 
+18
+(8) POWER
+LOAD.—The term ‘‘power load’’ 
+19
+means the amount of electrical power, in megawatts, 
+20
+that can be consumed by a qualifying crypto-asset 
+21
+mining operation. 
+22
+(9) QUALIFYING CRYPTO-ASSET MINING OPER-
+23
+ATION.—The term ‘‘qualifying crypto-asset mining 
+24
+operation’’ means— 
+25
+23:11 Dec 10, 2022
+H9457
+6 
+•HR 9457 IH
+(A) an individual crypto-asset mining facil-
+1
+ity that has a power load that is greater than 
+2
+or equal to 5 megawatts; or 
+3
+(B) multiple crypto-asset mining facilities 
+4
+that— 
+5
+(i) are owned by the same company; 
+6
+and 
+7
+(ii)(I) each have a power load that is 
+8
+less than 5 megawatts; but 
+9
+(II) have a cumulative power load 
+10
+that is greater than or equal to 5 
+11
+megawatts. 
+12
+(10) SCOPE 1 EMISSIONS.—The term ‘‘scope 1 
+13
+emissions’’ means greenhouse gas emissions directly 
+14
+from sources that are operated, controlled, or owned 
+15
+by an individual or entity performing a qualifying 
+16
+crypto-asset mining operation. 
+17
+(11) SCOPE 2 EMISSIONS.—The term ‘‘scope 2 
+18
+emissions’’ means indirect greenhouse gas emissions 
+19
+associated with the purchase of electricity, steam, 
+20
+heat, or cooling by an individual or entity per-
+21
+forming a qualifying crypto-asset mining operation. 
+22
+(12) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+23
+means the Secretary of Energy. 
+24
+23:11 Dec 10, 2022
+H9457
+7 
+•HR 9457 IH
+SEC. 4. COMPLIANCE WITH THE CLEAN AIR ACT. 
+1
+(a) RULEMAKING REQUIRED.— 
+2
+(1) PROPOSED REGULATION.—Not later than 1 
+3
+year after the date of enactment of this Act, the Ad-
+4
+ministrator shall issue a notice of proposed rule-
+5
+making to revise part 98 of title 40, Code of Federal 
+6
+Regulations (as in effect on the date of enactment 
+7
+of this Act)— 
+8
+(A) to require qualifying crypto-asset min-
+9
+ing operations to report as covered facilities 
+10
+under subpart A of that part; 
+11
+(B) to add a new subpart to that part that 
+12
+includes qualifying crypto-asset mining oper-
+13
+ations as a source category; 
+14
+(C) to include in the new subpart created 
+15
+under subparagraph (B) appropriate calculation 
+16
+methodologies, reporting guidelines, and moni-
+17
+toring operations of, with respect to qualifying 
+18
+crypto-asset mining operations, scope 1 emis-
+19
+sions and scope 2 emissions; and 
+20
+(D) to designate the qualifying crypto- 
+21
+asset mining operations source category estab-
+22
+lished pursuant to subparagraph (B) as a 
+23
+source category that is subject to greenhouse 
+24
+gas reporting requirements and related moni-
+25
+toring, recordkeeping, and reporting require-
+26
+23:11 Dec 10, 2022
+H9457
+8 
+•HR 9457 IH
+ments under section 98.2 of that title, regard-
+1
+less of whether a qualifying crypto-asset mining 
+2
+operation emits at least 25,000 metric tons of 
+3
+carbon dioxide-equivalent. 
+4
+(2) FINAL
+RULE.—Not later than 180 days 
+5
+after the date on which the public comment period 
+6
+on the proposed rule under paragraph (1) closes, the 
+7
+Administrator shall issue a final rule revising part 
+8
+98 of title 40, Code of Federal Regulations. 
+9
+(b) ASSESSMENT.—Not later than 1 year after the 
+10
+date on which the Administrator finalizes the rule required 
+11
+under subsection (a), the Administrator shall, pursuant to 
+12
+section 114(a) of the Clean Air Act (42 U.S.C. 7414(a)), 
+13
+issue requests for information for the purpose of con-
+14
+ducting an assessment of, with respect to qualifying 
+15
+crypto-asset mining operations, the permit programs 
+16
+under the Clean Air Act (42 U.S.C. 7401 et seq.), which 
+17
+shall include identifying the extent to which any qualifying 
+18
+crypto-asset mining operations are improperly operating 
+19
+without a valid and current permit under that Act. 
+20
+(c) AUTHORIZATION OF APPROPRIATIONS.—There is 
+21
+authorized to be appropriated to the Administrator to 
+22
+carry out this section $5,000,000 for fiscal year 2023, to 
+23
+remain available until expended. 
+24
+23:11 Dec 10, 2022
+H9457
+9 
+•HR 9457 IH
+(d) SAVINGS PROVISION.—Nothing in this section 
+1
+limits the ability of the Administrator to require the re-
+2
+porting of emissions of any type in another source cat-
+3
+egory. 
+4
+SEC. 5. IMPACT STUDY. 
+5
+(a) IN GENERAL.—Not later than 1 year after the 
+6
+date of enactment of this Act, the Administrator, in con-
+7
+sultation with the Secretary, the Administrator of the En-
+8
+ergy Information Administration, the Federal Energy 
+9
+Regulatory Commission, and the head of any other Fed-
+10
+eral agency the Administrator or the Secretary determines 
+11
+appropriate, shall conduct a study on the environmental 
+12
+impacts of crypto-asset mining in the United States. 
+13
+(b) STUDY REQUIREMENTS.—The study required 
+14
+under subsection (a) shall include— 
+15
+(1) the number and location of any existing or 
+16
+planned qualifying crypto-asset mining operation; 
+17
+(2) the amount of greenhouse gas emissions 
+18
+and other air pollutants that are— 
+19
+(A) released by an onsite energy source; 
+20
+and 
+21
+(B) attributable to offsite-generated elec-
+22
+tricity, steam, heat, or cooling provided to a 
+23
+qualifying crypto-asset mining operation; 
+24
+23:11 Dec 10, 2022
+H9457
+10 
+•HR 9457 IH
+(3) the anticipated increase of new, and expan-
+1
+sion of existing, qualifying crypto-asset mining oper-
+2
+ations; 
+3
+(4) the potential impacts of electric energy con-
+4
+sumption by qualifying crypto-asset mining oper-
+5
+ations, including by prolonging the use of fossil fuel 
+6
+generators, on the ability of the United States to 
+7
+achieve the greenhouse gas emission reductions nec-
+8
+essary to keep global warming below 1.5 degrees 
+9
+Celsius compared to pre-industrial levels; 
+10
+(5) the ecological impacts, including ecological 
+11
+impacts associated with electronic waste generation 
+12
+and the use or discharge of cooling water, caused by 
+13
+qualifying crypto-asset mining operations; 
+14
+(6) the potential public health impacts due to 
+15
+the reduced air and water quality and increased 
+16
+water stress on communities near qualifying crypto- 
+17
+asset mining operations; 
+18
+(7) the potential public health impacts from 
+19
+greenhouse gas emissions released by qualifying 
+20
+crypto-asset mining operations; 
+21
+(8) the potential public health and ecological 
+22
+impacts from noise generated by qualifying crypto- 
+23
+asset mining operations; 
+24
+23:11 Dec 10, 2022
+H9457
+11 
+•HR 9457 IH
+(9) the amount of electric energy consumed by 
+1
+each qualifying crypto-asset mining operation, in-
+2
+cluding the time of use of electricity and the poten-
+3
+tial grid stress posed by the power load of the quali-
+4
+fying crypto-asset mining operation; 
+5
+(10) the source of electric energy consumed by 
+6
+each qualifying crypto-asset mining operation; 
+7
+(11) the aggregated energy-use statistics and 
+8
+greenhouse gas emissions statistics for qualifying 
+9
+crypto-asset mining operations in the United States; 
+10
+(12) an analysis of energy use and greenhouse 
+11
+gas emissions by type of consensus mechanism; 
+12
+(13) an analysis of demand-response programs 
+13
+negotiated between qualifying crypto-asset mining 
+14
+operations and electric utilities; 
+15
+(14) an analysis of potential rate-design meas-
+16
+ures that could be implemented by State and local 
+17
+regulators to reduce the energy consumption and de-
+18
+pendence on fossil fuel energy sources of crypto- 
+19
+asset mining operations; 
+20
+(15) a geospatial assessment of the extent to 
+21
+which crypto-asset mining operations are located 
+22
+within environmental justice communities, as defined 
+23
+by the Administrator or within the Climate and Eco-
+24
+23:11 Dec 10, 2022
+H9457
+12 
+•HR 9457 IH
+nomic Justice Screening Tool of the Council on En-
+1
+vironmental Quality; and 
+2
+(16) an identification of, and recommendations 
+3
+for, best practices for data types, data sources, and 
+4
+methodologies for accurately measuring, modeling, 
+5
+and tracking the environmental impacts of crypto- 
+6
+asset mining operations in the United States in the 
+7
+future. 
+8
+(c) PUBLIC COMMENT.—Before conducting the study 
+9
+required by subsection (a), the Administrator shall provide 
+10
+an opportunity for public comment and advice relevant to 
+11
+conducting the study. 
+12
+(d) REPORT
+TO CONGRESS.—Not later than 18 
+13
+months after the date of enactment of this Act, the Ad-
+14
+ministrator shall submit to the Committees on Energy and 
+15
+Commerce and Science, Space, and Technology of the 
+16
+House of Representatives and the Committees on Environ-
+17
+ment and Public Works and Energy and Natural Re-
+18
+sources of the Senate, and publish on the public websites 
+19
+of the Environmental Protection Agency and the Depart-
+20
+ment of Energy, a report that contains the results of the 
+21
+study required by subsection (a). 
+22
+(e) AUTHORIZATION OF APPROPRIATIONS.—There is 
+23
+authorized to be appropriated to the Administrator to 
+24
+23:11 Dec 10, 2022
+H9457
+13 
+•HR 9457 IH
+carry out this section $5,000,000 for fiscal year 2023, to 
+1
+remain available until expended. 
+2
+SEC. 6. ENERGY EFFICIENCY OF DATA CENTER BUILDINGS. 
+3
+Section 453(a)(1) of the Energy Independence and 
+4
+Security Act of 2007 (42 U.S.C. 17112(a)(1)) is amend-
+5
+ed— 
+6
+(1) in subparagraph (A), by striking ‘‘or’’ at 
+7
+the end after the semicolon; 
+8
+(2) in subparagraph (B), by striking the period 
+9
+at the end and inserting ‘‘; or’’; and 
+10
+(3) by adding at the end the following: 
+11
+‘‘(C) a facility in which 2 or more com-
+12
+puters perform logical operations to mine or 
+13
+create crypto-asset (as defined in section 3 of 
+14
+the Crypto-Asset Environmental Transparency 
+15
+Act of 2022).’’. 
+16
+Æ 
+23:11 Dec 10, 2022
+H9457

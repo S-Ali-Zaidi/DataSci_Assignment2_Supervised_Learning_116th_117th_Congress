@@ -1,0 +1,1236 @@
+A BILL 
+To modernize the technology for delivering unemployment 
+compensation, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Unemployment Insur-
+4
+ance Technology Modernization Act of 2021’’. 
+5
+SEC. 2. MODERNIZATION OF TECHNOLOGY FOR DELIV-
+6
+ERING UNEMPLOYMENT COMPENSATION. 
+7
+(a) ESTABLISHMENT.— 
+8
+03:28 Apr 15, 2021
+H1458
+2 
+•HR 1458 IH
+(1) IN GENERAL.—Not later than 2 years after 
+1
+the date of enactment of this section, the Secretary 
+2
+shall develop, operate, and maintain a modular set 
+3
+of technology capabilities to modernize the delivery 
+4
+of unemployment compensation (in this section re-
+5
+ferred to as the ‘‘technology capabilities’’). 
+6
+(2) PURPOSES.—The purposes of developing 
+7
+the technology capabilities are the following: 
+8
+(A) For such capabilities to be utilized for 
+9
+any Federal administrative function associated 
+10
+with the provision of unemployment compensa-
+11
+tion. 
+12
+(B) To provide States with modular, open 
+13
+system technology capabilities and shared serv-
+14
+ices to administer their unemployment com-
+15
+pensation programs. 
+16
+(3) CONSULTATION.—In developing, operating, 
+17
+and maintaining the technology capabilities under 
+18
+paragraph (1), the Secretary shall— 
+19
+(A) coordinate with the Administrator; and 
+20
+(B) consult, design, and conduct usability 
+21
+testing with— 
+22
+(i) current and former claimants; 
+23
+(ii) employers that participate in un-
+24
+employment compensation programs; 
+25
+03:28 Apr 15, 2021
+H1458
+3 
+•HR 1458 IH
+(iii) employees of State workforce 
+1
+agencies; 
+2
+(iv) experts in technology and user ex-
+3
+perience; 
+4
+(v) Federal administrators of unem-
+5
+ployment compensation; 
+6
+(vi) any other potential user of the 
+7
+technology capabilities; and 
+8
+(vii) subject matter experts as deemed 
+9
+appropriate by the Secretary. 
+10
+(b) REQUIREMENTS.— 
+11
+(1) IN GENERAL.—The technology capabilities 
+12
+shall— 
+13
+(A) incorporate a modular open systems 
+14
+approach and include modular components for 
+15
+each function necessary to administer an unem-
+16
+ployment compensation program, including— 
+17
+(i) receiving, processing, and paying 
+18
+claims for unemployment compensation, in-
+19
+cluding disaster benefits; 
+20
+(ii) online claim filing; 
+21
+(iii) the determination of claimant eli-
+22
+gibility; 
+23
+(iv) the collection of unemployment 
+24
+taxes; 
+25
+03:28 Apr 15, 2021
+H1458
+4 
+•HR 1458 IH
+(v) the submission of employer wage 
+1
+records; 
+2
+(vi) the appeals and adjudication 
+3
+processes for claimants and employers; 
+4
+(vii) sharing relevant data among 
+5
+States and the Secretary; and 
+6
+(viii) any other functionality that ad-
+7
+dresses the issues and goals identified dur-
+8
+ing the pre-development study described in 
+9
+subsection (c)(1); 
+10
+(B) comply with best practices and stand-
+11
+ards for privacy and cybersecurity, including 
+12
+digital identity proofing services, identified in 
+13
+consultation with the Director of the National 
+14
+Institute of Standards and Technology (NIST) 
+15
+and the Director of the Cybersecurity and In-
+16
+frastructure Security Agency (CISA); 
+17
+(C) prioritize end-to-end user experience 
+18
+for claimants, employers, and administrators of 
+19
+unemployment compensation programs; 
+20
+(D) include centralized Federal technology 
+21
+capabilities that allow for the storage, exposure, 
+22
+and exchange of data required by States to ad-
+23
+minister their unemployment compensation pro-
+24
+grams (with the respective States retaining pos-
+25
+03:28 Apr 15, 2021
+H1458
+5 
+•HR 1458 IH
+session of such data without regard to the stor-
+1
+age, exposure, or exchange of such data in the 
+2
+Federal technology capabilities); 
+3
+(E) provide States with the option to use 
+4
+only some of the modular components of the 
+5
+Federal technology capabilities while continuing 
+6
+to utilize State technology capabilities to store 
+7
+any data required to administer their unemploy-
+8
+ment compensation program in a State data-
+9
+base, provided that the State database meets 
+10
+any guidelines established by the Secretary that 
+11
+enable machine-to-machine interfaces to facili-
+12
+tate communication among States and between 
+13
+such State and the Federal Government; 
+14
+(F) allow States to easily adapt the mod-
+15
+ular components of the Federal technology ca-
+16
+pabilities to meet the requirements of their 
+17
+unique unemployment compensation programs; 
+18
+(G) ensure the timely and accurate pay-
+19
+ment of benefits, including measures to mini-
+20
+mize susceptibility to attacks by organized 
+21
+criminal networks seeking to defraud State or 
+22
+Federal unemployment compensation programs; 
+23
+and 
+24
+03:28 Apr 15, 2021
+H1458
+6 
+•HR 1458 IH
+(H) to the extent practicable, be made 
+1
+available (along with any associated data pro-
+2
+duced under this section) to support other 
+3
+interagency and intergovernmental activities as 
+4
+appropriate. 
+5
+(2) ACCESSIBILITY
+REQUIREMENTS
+FOR
+ON-
+6
+LINE
+CLAIM
+FILING.—With respect to the online 
+7
+claim filing component described in paragraph 
+8
+(1)(A)(ii), such component shall— 
+9
+(A) ensure that the process of filing initial 
+10
+and continuing claims for unemployment com-
+11
+pensation can be readily understood and accom-
+12
+plished by the vast majority of claimants, in-
+13
+cluding individuals with limited English pro-
+14
+ficiency, individuals with disabilities (in compli-
+15
+ance with section 508 of the Rehabilitation Act 
+16
+of 1973 (29 U.S.C. 794d)), older individuals, 
+17
+and individuals with literacy challenges; 
+18
+(B) be available in any language spoken by 
+19
+more than 1 percent of the national population 
+20
+or any State’s population (with such trans-
+21
+lations completed by human translators rather 
+22
+than translation software) and comply with the 
+23
+requirements of the Plain Writing Act of 2010 
+24
+(5 U.S.C. 301 note); 
+25
+03:28 Apr 15, 2021
+H1458
+7 
+•HR 1458 IH
+(C) be accessible and optimized for all 
+1
+commonly used desktop computers, tablets, and 
+2
+mobile devices and operating systems such that 
+3
+any features of the online claim filing compo-
+4
+nent (such as the ability to upload documenta-
+5
+tion) that are available in the desktop version 
+6
+of the online claim filing component are also 
+7
+available in the tablet and mobile versions; 
+8
+(D) allow for electronic submission of doc-
+9
+umentation required to support a claim, includ-
+10
+ing the ability of claimants to scan or photo-
+11
+graph and submit documentation using a tablet 
+12
+or mobile device; 
+13
+(E) be available 24 hours a day, 7 days a 
+14
+week, with the exception of scheduled and emer-
+15
+gency maintenance that the State conducts, to 
+16
+the extent practicable, at nonpeak hours; 
+17
+(F) provide self-service account recovery 
+18
+that can be completed online; and 
+19
+(G) deploy multiple methods of commu-
+20
+nication with claimants, such as short message 
+21
+service (SMS) message, email, postal mail, live 
+22
+chat, or chatbots. 
+23
+(3) REQUIREMENTS
+REGARDING
+HIGH-RISK 
+24
+AUTOMATED DECISION SYSTEMS.— 
+25
+03:28 Apr 15, 2021
+H1458
+8 
+•HR 1458 IH
+(A) IN GENERAL.—The technology capa-
+1
+bilities shall not rely solely on a high-risk auto-
+2
+mated decision system to deny a claim for un-
+3
+employment compensation, reduce the amount 
+4
+of unemployment compensation for which a 
+5
+claimant is eligible, or deny the right of a 
+6
+claimant to appeal an unemployment compensa-
+7
+tion decision. 
+8
+(B) PARTIAL RELIANCE.— 
+9
+(i) IN GENERAL.—If any of the tech-
+10
+nology capabilities rely on a high-risk auto-
+11
+mated decision system to determine that a 
+12
+claimant is ineligible for unemployment 
+13
+compensation, to reduce the amount of un-
+14
+employment compensation for which a 
+15
+claimant is eligible, or to deny the right of 
+16
+a claimant to appeal an unemployment 
+17
+compensation 
+decision, 
+the 
+Secretary 
+18
+shall— 
+19
+(I) require that an employee of a 
+20
+State workforce agency review the de-
+21
+termination before— 
+22
+(aa) the claim for unemploy-
+23
+ment 
+compensation 
+of 
+such 
+24
+claimant may be denied; 
+25
+03:28 Apr 15, 2021
+H1458
+9 
+•HR 1458 IH
+(bb) the amount of unem-
+1
+ployment compensation for which 
+2
+such claimant is eligible may be 
+3
+reduced; or 
+4
+(cc) the right of such claim-
+5
+ant to appeal an unemployment 
+6
+compensation decision may be de-
+7
+nied; 
+8
+(II) consult with experts in the 
+9
+Federal Government (including the 
+10
+Director of the National Institute of 
+11
+Standards and Technology and the 
+12
+Director of the National Science 
+13
+Foundation), regarding the potential 
+14
+benefits and risks of partial reliance 
+15
+on a high-risk automated decision sys-
+16
+tem; 
+17
+(III) prior to utilizing such part 
+18
+of the technology capabilities that re-
+19
+lies on a high-risk automated decision 
+20
+system— 
+21
+(aa) establish clear methods 
+22
+to measure the accuracy of such 
+23
+part of the technology capabili-
+24
+ties; and 
+25
+03:28 Apr 15, 2021
+H1458
+10 
+•HR 1458 IH
+(bb) ensure that such part 
+1
+of the technology capabilities 
+2
+minimizes the occurrence of bi-
+3
+ased results based on race, gen-
+4
+der, ethnicity, disability status, 
+5
+income, occupation, or other per-
+6
+sonal characteristics as deter-
+7
+mined by the Secretary, and pre-
+8
+vents any increase in such bias; 
+9
+(IV) develop algorithmic impact 
+10
+assessments, 
+incorporating 
+public 
+11
+feedback and expert agency review, to 
+12
+proactively assess the necessity of ad-
+13
+ditional formal policies and safeguards 
+14
+to mitigate risks; and 
+15
+(V) establish transparency re-
+16
+quirements that include an annual 
+17
+public disclosure of any use of a high- 
+18
+risk automated decision system, a 
+19
+plain language explanation of the de-
+20
+cision making structure of such high- 
+21
+risk automated decision system, and 
+22
+the details regarding such use and re-
+23
+lated outcomes. 
+24
+03:28 Apr 15, 2021
+H1458
+11 
+•HR 1458 IH
+(ii) TRAINING.—The Secretary shall 
+1
+establish best practices for training any 
+2
+relevant employee of the Department or a 
+3
+State workforce agency to reduce the im-
+4
+pact of automation bias. 
+5
+(C) MONITORING.—The Secretary shall 
+6
+continuously monitor claim determinations that 
+7
+rely, in part, on the use of a high-risk auto-
+8
+mated decision system to ensure that biased re-
+9
+sults based on the characteristics described in 
+10
+subparagraph (B)(i)(III)(bb) do not occur. 
+11
+(c) PRE-DEVELOPMENT STUDY AND REPORT.— 
+12
+(1) STUDY.—Prior to the development of the 
+13
+technology capabilities under subsection (a) or the 
+14
+procurement of such technology capabilities under 
+15
+subsection (g), the Secretary, in coordination with 
+16
+the Administrator, shall conduct a study assessing 
+17
+the technology needs of Federal and State unem-
+18
+ployment compensation programs. Such study shall 
+19
+consider the following: 
+20
+(A) The Federal and State capabilities 
+21
+that need to be upgraded or replaced to ensure 
+22
+the smooth administration of their respective 
+23
+unemployment compensation programs. 
+24
+03:28 Apr 15, 2021
+H1458
+12 
+•HR 1458 IH
+(B) How to design and develop a federally 
+1
+maintained system that serves the needs of both 
+2
+the Federal Government and each of the State 
+3
+unemployment compensation programs. 
+4
+(C) The features necessary to effectively 
+5
+respond to rapid changes in volume in times of 
+6
+emergency, including features that enable easy 
+7
+adaptation of, and updates to, such technology 
+8
+capabilities in order to implement new rules or 
+9
+benefits. 
+10
+(D) The features necessary to ensure the 
+11
+technology capabilities have the capacity to han-
+12
+dle an increased number of claims during peri-
+13
+ods of high unemployment. 
+14
+(E) How the technology capabilities can 
+15
+prioritize claimant experience and ensure acces-
+16
+sibility, including by soliciting feedback from 
+17
+claimants and claimant representatives during 
+18
+the development process. 
+19
+(F) How the technology capabilities can 
+20
+ensure effective and equitable benefit delivery, 
+21
+including the following: 
+22
+(i) The standardization of data collec-
+23
+tion and reporting across States to facili-
+24
+tate administration and interoperability. 
+25
+03:28 Apr 15, 2021
+H1458
+13 
+•HR 1458 IH
+(ii) The features that will facilitate ac-
+1
+curate and timely delivery of benefits and 
+2
+reduce the time from successful unemploy-
+3
+ment compensation claim to benefit deliv-
+4
+ery. 
+5
+(iii) The features that will help to 
+6
+identify and prevent organized fraud 
+7
+schemes without causing unreasonable 
+8
+delays for legitimate claimants or penal-
+9
+izing mistakes. 
+10
+(iv) The appropriate level of ongoing 
+11
+audit and analysis needed to evaluate the 
+12
+effectiveness and equitability of benefit de-
+13
+livery. 
+14
+(v) How privacy-protective data expo-
+15
+sure and exchange between government en-
+16
+tities and privacy-protective public report-
+17
+ing could be utilized to improve and ensure 
+18
+effective and equitable benefit delivery. 
+19
+(G) How the technology capabilities can 
+20
+improve the employer experience, including tax 
+21
+payment, the submission of wage information, 
+22
+and the verification of claim information. 
+23
+03:28 Apr 15, 2021
+H1458
+14 
+•HR 1458 IH
+(H) How the technology capabilities can 
+1
+improve processes for employees of State work-
+2
+force agencies. 
+3
+(I) The information security measures nec-
+4
+essary to protect claimants’ personal data while 
+5
+enabling auditing and research, including rec-
+6
+ommendations for privacy-protective technolo-
+7
+gies, such as secure multi-party computation, 
+8
+that can enable such auditing and research in 
+9
+a manner that does not involve sharing data on 
+10
+individual claimants. 
+11
+(J) How the technology capabilities can 
+12
+improve data sharing among States and the 
+13
+Federal Government with respect to recipiency, 
+14
+benefit levels, timeliness, and accuracy. 
+15
+(K) How the technology capabilities can 
+16
+minimize disparities in unemployment com-
+17
+pensation recipiency by race, gender, ethnicity, 
+18
+disability status, income, or occupation, and 
+19
+prevent any increase in such disparities. 
+20
+(L) Potential approaches for development 
+21
+or procurement of the technology capabilities, 
+22
+including, for each approach presented, range 
+23
+estimates for development, implementation, and 
+24
+03:28 Apr 15, 2021
+H1458
+15 
+•HR 1458 IH
+operational costs, and range estimates of capa-
+1
+bility delivery schedules. 
+2
+(2) REPORT.—Not later than 4 months after 
+3
+the date of enactment of this section, the Secretary, 
+4
+in coordination with the Administrator, shall submit 
+5
+to Congress a report containing the results of the 
+6
+study conducted under paragraph (1), together with 
+7
+the Department’s strategy for development and pro-
+8
+curement of the technology capabilities, including 
+9
+any recommendations for such legislation and ad-
+10
+ministrative action as the Secretary determines ap-
+11
+propriate. 
+12
+(d) DIGITAL SERVICES TEAM.— 
+13
+(1) ESTABLISHMENT.—The Secretary, in co-
+14
+ordination with the Administrator, shall establish in 
+15
+the Department a Digital Services Team (in this 
+16
+section referred to as the ‘‘Team’’). 
+17
+(2) MEMBERSHIP.—The Team shall include— 
+18
+(A) technology experts; 
+19
+(B) user experience experts; 
+20
+(C) an experienced technical team leader 
+21
+with experience in human-centered design and 
+22
+modern software development practices; and 
+23
+(D) any other member deemed appropriate 
+24
+by the Secretary. 
+25
+03:28 Apr 15, 2021
+H1458
+16 
+•HR 1458 IH
+(3) DUTIES.—The Team shall carry out the fol-
+1
+lowing duties: 
+2
+(A) Assist the Secretary in the develop-
+3
+ment, operation, and maintenance of the tech-
+4
+nology capabilities under subsection (a). 
+5
+(B) After the development and deployment 
+6
+of the technology capabilities under subsection 
+7
+(a) is complete, assist the Secretary in oper-
+8
+ating and overseeing the maintenance and con-
+9
+tinued improvement of the technology capabili-
+10
+ties, including by providing technological assist-
+11
+ance— 
+12
+(i) to State workforce agencies; and 
+13
+(ii) to States seeking to adapt their 
+14
+State databases to interface with the feder-
+15
+ally provided modular and open systems 
+16
+technology capabilities described in sub-
+17
+section (b)(1)(E). 
+18
+(C) Ensure the Department has sufficient 
+19
+in-house technical expertise and procurement 
+20
+support. 
+21
+(D) Assist the Department with technology 
+22
+needs. 
+23
+(E) Engage in such other activities deemed 
+24
+appropriate by the Secretary. 
+25
+20:37 Apr 16, 2021
+H1458
+17 
+•HR 1458 IH
+(4) STAFF
+AND
+RESOURCES.—The Secretary 
+1
+shall ensure that the Team has such staff, resources, 
+2
+and access to information as may be necessary to 
+3
+carry out the duties of the Team. 
+4
+(5) DIGITAL SERVICES TEAM FUNDING.—Out of 
+5
+any money in the Treasury not otherwise appro-
+6
+priated, there are appropriated to the Secretary 
+7
+$5,000,000 to carry out this subsection. Amounts 
+8
+appropriated under the preceding sentence shall re-
+9
+main available until expended. 
+10
+(e) PILOT PROGRAM.—Prior to the deployment of the 
+11
+technology capabilities to all States, the Secretary shall 
+12
+select not fewer than 4 States to participate in a pilot pro-
+13
+gram to test the technology capabilities and demonstrate 
+14
+that such technology capabilities meet the requirements 
+15
+and end-to-end user experience needs established by this 
+16
+Act, including those identified in the pre-development 
+17
+study described in subsection (c)(1). 
+18
+(f) DATA SHARING.—To enable the storage, expo-
+19
+sure, and exchange of data required by States to admin-
+20
+ister their unemployment compensation programs, the 
+21
+Secretary shall— 
+22
+(1) establish Computer Matching Agreements in 
+23
+accordance with the Computer Matching and Pri-
+24
+vacy Protection Act of 1988 (5 U.S.C. 552a note) 
+25
+03:28 Apr 15, 2021
+H1458
+18 
+•HR 1458 IH
+to obtain information necessary to verify a claim-
+1
+ant’s eligibility for unemployment compensation; 
+2
+(2) determine appropriate aggregate data to 
+3
+share on a regular basis with the public through the 
+4
+Data.gov internet website pursuant to the Founda-
+5
+tions for Evidence-Based Policy Making Act of 2018 
+6
+(5 U.S.C. 101 note); 
+7
+(3) establish appropriate controls and moni-
+8
+toring to make available only the data necessary for 
+9
+States to administer their unemployment compensa-
+10
+tion programs; and 
+11
+(4) establish a data retention policy for retain-
+12
+ing or archiving historical unemployment compensa-
+13
+tion program data as deemed appropriate. 
+14
+(g) PROCUREMENT AND CONTRACTS WITH PRIVATE 
+15
+VENDORS.—If the Secretary contracts with a private ven-
+16
+dor to procure or develop or assist with the development 
+17
+of the technology capabilities under subsection (a), the 
+18
+Secretary shall— 
+19
+(1) ensure that any agreement with such pri-
+20
+vate vendor stipulates that the resulting technology 
+21
+capabilities and associated research, applications, 
+22
+automated processes, and associated metadata shall 
+23
+be the proprietary information of the Federal Gov-
+24
+ernment; 
+25
+03:28 Apr 15, 2021
+H1458
+19 
+•HR 1458 IH
+(2) follow best practices for Government IT 
+1
+procurement to de-risk projects; and 
+2
+(3) provide funding based on program outcomes 
+3
+rather than volume. 
+4
+(h) OVERSIGHT.— 
+5
+(1) OVERSIGHT.—During and after the develop-
+6
+ment of the technology capabilities under subsection 
+7
+(a), the Secretary shall— 
+8
+(A) respond to requests from Congress for 
+9
+updates on the development of the technology 
+10
+capabilities; and 
+11
+(B) participate in oversight hearings and 
+12
+demonstrations of the technology capabilities as 
+13
+requested by Congress. 
+14
+(2) PUBLICLY AVAILABLE STATUS.—Not later 
+15
+than 6 months after the date of enactment of this 
+16
+section, the Secretary shall establish and maintain 
+17
+publicly available content, available on the internet 
+18
+website of the Department, that provides the status 
+19
+of— 
+20
+(A) the technology capabilities being devel-
+21
+oped under this section; 
+22
+(B) the metrics of success for such devel-
+23
+opment; 
+24
+03:28 Apr 15, 2021
+H1458
+20 
+•HR 1458 IH
+(C) the results from piloting and testing of 
+1
+such technology capabilities; and 
+2
+(D) deployment of such technology capa-
+3
+bilities in each of the States and the Federal 
+4
+Government. 
+5
+(i) TECHNOLOGY
+CAPABILITIES
+MODERNIZATION 
+6
+FUNDING.—Out of any money in the Treasury not other-
+7
+wise appropriated, there are appropriated to the Secretary 
+8
+$500,000,000 to carry out this section (other than sub-
+9
+section (d)). Amounts appropriated under the preceding 
+10
+sentence shall remain available until expended. 
+11
+(j) DEFINITIONS.—In this section: 
+12
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+13
+trator’’ means the Administrator of the United 
+14
+States Digital Service. 
+15
+(2) AUTOMATED DECISION SYSTEM.—The term 
+16
+‘‘automated decision system’’ means a computational 
+17
+process, including one derived from machine learn-
+18
+ing, statistics, or other data processing or artificial 
+19
+intelligence techniques, that makes a decision or fa-
+20
+cilitates human decision making that impacts claim-
+21
+ants. 
+22
+(3) AUTOMATION BIAS.—The term ‘‘automation 
+23
+bias’’ means the tendency for humans to over-rely on 
+24
+the recommendation of an automated decision sys-
+25
+03:28 Apr 15, 2021
+H1458
+21 
+•HR 1458 IH
+tem, to place overconfidence in such recommendation 
+1
+based on perceived superiority to analog or human 
+2
+processes, or to ignore evidence that would indicate 
+3
+the automated decision system has made an error. 
+4
+(4) CLAIMANT.—The term ‘‘claimant’’ means a 
+5
+claimant for unemployment compensation. 
+6
+(5) DEPARTMENT.—The term ‘‘Department’’ 
+7
+means the Department of Labor. 
+8
+(6) HIGH-RISK
+AUTOMATED
+DECISION
+SYS-
+9
+TEM.—The term ‘‘high-risk automated decision sys-
+10
+tem’’ means an automated decision system that— 
+11
+(A) poses a significant risk— 
+12
+(i) to the privacy or security of per-
+13
+sonal information of claimants; or 
+14
+(ii) of resulting in or contributing to 
+15
+inaccurate, unfair, biased, or discrimina-
+16
+tory decisions impacting claimants; 
+17
+(B) makes decisions, or facilitates human 
+18
+decision making, based on systematic evalua-
+19
+tions of current and historical claimant data, 
+20
+including attempts to analyze or predict sen-
+21
+sitive aspects of claimants’ lives or characteris-
+22
+tics or activities that may affect their eligibility 
+23
+for unemployment compensation, such as their 
+24
+reason for separation from employment, avail-
+25
+03:28 Apr 15, 2021
+H1458
+22 
+•HR 1458 IH
+ability for work, work search activities, work 
+1
+performance, economic situation, health, per-
+2
+sonal preferences, interests, behavior, location, 
+3
+or movements, that— 
+4
+(i) alter legal rights of the claimants; 
+5
+or 
+6
+(ii) otherwise significantly impact the 
+7
+claimants; 
+8
+(C) involves the personal information of a 
+9
+significant number of claimants regarding race, 
+10
+color, national origin, political opinions, reli-
+11
+gion, trade union membership, genetic data, bi-
+12
+ometric data, health, gender, gender identity, 
+13
+sexuality, sexual orientation, disability status, 
+14
+criminal convictions, or arrests; or 
+15
+(D) meets any other criteria deemed ap-
+16
+propriate by the Secretary. 
+17
+(7) MODULAR OPEN SYSTEMS APPROACH.—The 
+18
+term ‘‘modular open systems approach’’ means an 
+19
+integrated business and technical strategy that— 
+20
+(A) employs a modular design that uses 
+21
+system interfaces between a system platform 
+22
+and a system component, between system com-
+23
+ponents, or between system platforms; 
+24
+03:28 Apr 15, 2021
+H1458
+23 
+•HR 1458 IH
+(B) is subjected to verification to ensure 
+1
+system interfaces comply with, if available and 
+2
+suitable, widely supported and consensus-based 
+3
+standards; and 
+4
+(C) uses a system architecture that allows 
+5
+severable system platforms or components at 
+6
+the appropriate level to be incrementally added, 
+7
+removed, or replaced throughout the life cycle 
+8
+of a system platform or component while yield-
+9
+ing— 
+10
+(i) significant cost savings or avoid-
+11
+ance; 
+12
+(ii) schedule reduction; 
+13
+(iii) opportunities for technical up-
+14
+grades; 
+15
+(iv) increased interoperability; or 
+16
+(v) other benefits during the sustain-
+17
+ment phase. 
+18
+(8) SECRETARY.—The term ‘‘Secretary’’ means 
+19
+the Secretary of Labor. 
+20
+(9) SECURE MULTI-PARTY COMPUTATION.—The 
+21
+term ‘‘secure multi-party computation’’ means a 
+22
+computerized system that enables different partici-
+23
+pating entities in possession of private sets of data 
+24
+to link and aggregate their data sets for the exclu-
+25
+03:28 Apr 15, 2021
+H1458
+24 
+•HR 1458 IH
+sive purpose of performing a finite number of pre- 
+1
+approved computations without transferring or oth-
+2
+erwise revealing any private data to each other or 
+3
+anyone else. 
+4
+(10) STATE.—The term ‘‘State’’ means each of 
+5
+the several States, the District of Columbia, the 
+6
+Commonwealth of Puerto Rico, and the United 
+7
+States Virgin Islands. 
+8
+Æ 
+03:28 Apr 15, 2021
+H1458

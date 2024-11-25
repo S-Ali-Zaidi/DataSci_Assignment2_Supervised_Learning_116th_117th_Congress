@@ -1,0 +1,570 @@
+A BILL 
+To authorize the Secretary of Education to carry out a 
+program to increase access to prekindergarten through 
+grade 12 computer science education. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Computer Science for 
+4
+All Act of 2019’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds that: 
+7
+22:56 Mar 20, 2019
+H1485
+2 
+•HR 1485 IH
+(1) Computer science is transforming industry, 
+1
+creating new fields of commerce, driving innovation, 
+2
+and bolstering productivity. It is projected that com-
+3
+puting will make up 2⁄3 of new science and engineer-
+4
+ing jobs. 
+5
+(2) However, the more than 500,000 computing 
+6
+jobs unfilled in the United States suggests that our 
+7
+students are not being prepared to meet the de-
+8
+mands of a 21st century economy. It is projected 
+9
+that there will be 1,400,000 new jobs in the tech-
+10
+nology sector by 2020; however, 70 percent of those 
+11
+jobs will be unfulfilled at the rate American univer-
+12
+sities are producing qualified graduates. 
+13
+(3) Knowledge of computer science and use of 
+14
+technology is increasingly essential for all individ-
+15
+uals, not just those working or planning to work in 
+16
+the technology sector. 
+17
+(4) Providing students with computer science 
+18
+education in elementary school and secondary school 
+19
+is critical for student success, and strengthening the 
+20
+workforce of a 21st century economy. 
+21
+(5) While an estimated 90 percent of parents 
+22
+want computer science taught in their children’s 
+23
+schools, just 25 percent of all elementary schools 
+24
+and secondary schools offer high-quality computer 
+25
+22:56 Mar 20, 2019
+H1485
+3 
+•HR 1485 IH
+science instruction that includes programming and 
+1
+coding. 
+2
+(6) Black and Hispanic workers in the science 
+3
+and engineering workforce continue to be underrep-
+4
+resented. Black employees represent 11 percent of 
+5
+the U.S. workforce, but only 9 percent of the science 
+6
+and engineering workforce. Hispanic employees rep-
+7
+resent 16 percent of the U.S. workforce, but only 7 
+8
+percent of the science and engineering workforce. 
+9
+(7) While underrepresented minority students 
+10
+overall face an opportunity gap in STEAM edu-
+11
+cation, women of color particularly face an achieve-
+12
+ment gap in science and engineering education. In 
+13
+2015, while women were conferred nearly a third of 
+14
+all science and engineering degrees, women of color 
+15
+received only 13 percent (Black: 3.2 percent; His-
+16
+panic: 3.9 percent; Native American or Alaskan Na-
+17
+tive: 0.2 percent; Asian or Pacific Islander: 4.5 per-
+18
+cent; and multi-racial: 1.2 percent). 
+19
+(8) Women overall face challenges in accessing 
+20
+computer science education. Only 18 percent of all 
+21
+bachelor’s degrees conferred in computer science 
+22
+went to women in 2015, and women of color received 
+23
+only 9 percent of degrees (Black: 3 percent; His-
+24
+panic: 2 percent; Native American or Alaska Native: 
+25
+22:56 Mar 20, 2019
+H1485
+4 
+•HR 1485 IH
+0.8 percent; and Asian or Pacific islander: 3 per-
+1
+cent). 
+2
+(9) Disparities in enrollment and academic 
+3
+achievement start early. In 2018, only 28 percent of 
+4
+students taking either AP Computer Science exams 
+5
+were women, and just 21 percent were African 
+6
+American, or Latino. 
+7
+(10) Nationwide, only 88 Native American stu-
+8
+dents took the AP Computer Science exam in 2016, 
+9
+a decrease from 2015. This means that while Native 
+10
+Americans make up about 1.1 percent of the U.S. 
+11
+student population, they made up 1⁄5 of a percent of 
+12
+students who took AP Computer Science exams in 
+13
+2016. 
+14
+SEC. 3. DEFINITIONS. 
+15
+In this Act: 
+16
+(1) COMPUTATIONAL
+THINKING.—The term 
+17
+‘‘computational thinking’’ aims to capture the wide 
+18
+range of creative processes that go into formulating 
+19
+problems and their solutions in such a way that the 
+20
+solutions can be carried out by a computer, and may 
+21
+involve some understanding of software and hard-
+22
+ware design, logic and the use of abstraction and 
+23
+representation, algorithm design, algorithm expres-
+24
+sion, problem decomposition, modularity, program-
+25
+22:56 Mar 20, 2019
+H1485
+5 
+•HR 1485 IH
+ming paradigms and languages, issues of informa-
+1
+tion security and privacy, the application of com-
+2
+putation across a wide range of disciplines, and the 
+3
+societal impact of computing. Programming is a 
+4
+hands-on, inquiry-based way in which computational 
+5
+thinking may be learned. 
+6
+(2) COMPUTER
+SCIENCE
+EDUCATION.—The 
+7
+term ‘‘computer science education’’ includes any of 
+8
+the following: computational thinking; software de-
+9
+sign; hardware architecture and organization; theo-
+10
+retical foundations; use of abstraction and represen-
+11
+tation in problem solving; logic; algorithm design 
+12
+and implementation; the limits of computation; pro-
+13
+gramming paradigms and languages; parallel and 
+14
+distributed computing; information security and pri-
+15
+vacy; computing systems and networks; graphics and 
+16
+visualization; databases and information retrieval; 
+17
+the relationship between computing and mathe-
+18
+matics; artificial intelligence; applications of com-
+19
+puting across a broad range of disciplines and prob-
+20
+lems; and the social impacts and professional prac-
+21
+tices of computing. 
+22
+(3) ELIGIBLE TRIBAL SCHOOL.—The term ‘‘eli-
+23
+gible Tribal school’’ means— 
+24
+22:56 Mar 20, 2019
+H1485
+6 
+•HR 1485 IH
+(A) a school operated by the Bureau of In-
+1
+dian Education; 
+2
+(B) a school operated pursuant to the In-
+3
+dian Self-Determination and Education Assist-
+4
+ance Act (25 U.S.C. 450 et seq.); or 
+5
+(C) a tribally controlled school (as defined 
+6
+in section 5212 of the Tribally Controlled 
+7
+Schools Act of 1988 (25 U.S.C. 2511)). 
+8
+(4) INSTITUTION OF HIGHER EDUCATION.—The 
+9
+term ‘‘institution of higher education’’ has the 
+10
+meaning given the term in section 102 of the Higher 
+11
+Education Act of 1965 (20 U.S.C. 1002). 
+12
+(5) LOCAL EDUCATIONAL AGENCY.—The term 
+13
+‘‘local educational agency’’ has the meaning given 
+14
+the term in section 8101 of the Elementary and Sec-
+15
+ondary Education Act of 1965 (20 U.S.C. 8101). 
+16
+(6) POVERTY LINE.—The term ‘‘poverty line’’ 
+17
+has the meaning given the term in section 8101 of 
+18
+the Elementary and Secondary Education Act of 
+19
+1965 (20 U.S.C. 8101). 
+20
+(7) SECRETARY.—The term ‘‘Secretary’’ means 
+21
+the Secretary of Education. 
+22
+(8) STEAM.—The term ‘‘STEAM’’ means the 
+23
+subjects of science, technology, engineering, arts, 
+24
+and mathematics, including computer science. 
+25
+22:56 Mar 20, 2019
+H1485
+7 
+•HR 1485 IH
+SEC. 4. GRANTS TO STATES, LOCAL EDUCATIONAL AGEN-
+1
+CIES, AND ELIGIBLE TRIBAL SCHOOLS. 
+2
+(a) GRANTS
+TO
+STATES, LOCAL
+EDUCATIONAL 
+3
+AGENCIES, AND ELIGIBLE TRIBAL SCHOOLS.— 
+4
+(1) IN GENERAL.—The Secretary shall award 
+5
+grants to States, local educational agencies, and eli-
+6
+gible Tribal schools— 
+7
+(A) that demonstrate an ability to carry 
+8
+out an ambitious computer science education 
+9
+expansion effort for all students served by the 
+10
+State, agency, or school, including traditionally 
+11
+underrepresented students; and 
+12
+(B) to serve as models for national replica-
+13
+tion of computer science education expansion 
+14
+efforts. 
+15
+(2) CONSORTIA AND PARTNERSHIPS.—A State, 
+16
+local educational agency, or eligible Tribal school 
+17
+may apply for a grant under this section as part of 
+18
+a consortium or in partnership with a State edu-
+19
+cational agency or other partner. 
+20
+(3) DURATION.—Grants awarded under this 
+21
+section shall be for a period of not more than 5 
+22
+years. 
+23
+(b) APPLICATION REQUIREMENTS.—A State, local 
+24
+educational agency, or eligible Tribal school that desires 
+25
+a grant under this section shall submit an application to 
+26
+22:56 Mar 20, 2019
+H1485
+8 
+•HR 1485 IH
+the Secretary at such time, in such manner, and con-
+1
+taining such information as the Secretary may require, in-
+2
+cluding, at a minimum, plans for the following: 
+3
+(1) Every high school student served by the 
+4
+State, local educational agency, or eligible Tribal 
+5
+school to have access to computer science education 
+6
+not later than 5 years after receipt of grant funds. 
+7
+(2) All students served by the State, local edu-
+8
+cational agency, or eligible Tribal school to have ac-
+9
+cess to a progression of computer science education 
+10
+from prekindergarten through middle school that 
+11
+prepares students for high school computer science 
+12
+education. 
+13
+(3) Expansion of overall access to rigorous 
+14
+STEAM classes, utilizing computer science as a cat-
+15
+alyst for increased interest in STEAM more broadly, 
+16
+and reducing the enrollment and academic achieve-
+17
+ment gap for underrepresented groups such as mi-
+18
+norities, girls, and youth from families living at, or 
+19
+below, the poverty line. 
+20
+(4) Continuous monitoring and evaluation of 
+21
+project activities. 
+22
+(5) Effectively sustaining project activities after 
+23
+the grant period ends, and the length of time which 
+24
+the applicant plans to sustain the project activities. 
+25
+22:56 Mar 20, 2019
+H1485
+9 
+•HR 1485 IH
+(c) USE OF GRANT FUNDS.— 
+1
+(1) REQUIRED ACTIVITIES.—A State, local edu-
+2
+cational agency, or eligible Tribal school that re-
+3
+ceives a grant under this section shall use the grant 
+4
+funds for the following activities: 
+5
+(A) Training teachers to teach computer 
+6
+science. 
+7
+(B) Expanding access to high-quality 
+8
+learning materials and online learning options. 
+9
+(C) Creating plans for expanding overall 
+10
+access to rigorous STEAM classes, utilizing 
+11
+computer science as a catalyst for increased in-
+12
+terest in STEAM more broadly, and reducing 
+13
+course equity gaps for all students, including 
+14
+underrepresented groups such as minorities, 
+15
+girls, and youth from low-income families. 
+16
+(D) Ensuring additional support and re-
+17
+sources, which may include mentoring for stu-
+18
+dents traditionally underrepresented in STEAM 
+19
+fields. 
+20
+(2) PERMISSIBLE ACTIVITIES.—A State, local 
+21
+educational agency, or eligible Tribal school that re-
+22
+ceives a grant under this section may use the grant 
+23
+funds for the following activities: 
+24
+22:56 Mar 20, 2019
+H1485
+10 
+•HR 1485 IH
+(A) Building effective regional collabora-
+1
+tions with industry, nonprofit organizations, 2- 
+2
+year and 4-year degree granting institutions of 
+3
+higher education (including community colleges, 
+4
+Historically Black Colleges and Universities, 
+5
+Hispanic-serving institutions, Asian American 
+6
+and Native American Pacific Islander-serving 
+7
+institutions, American Indian Tribally con-
+8
+trolled colleges and universities, Alaska Native 
+9
+and Native Hawaiian-serving institutions, Pre-
+10
+dominantly Black Institutions, Native Amer-
+11
+ican-serving, Nontribal institutions, and other 
+12
+minority-serving institutions), and out-of-school 
+13
+providers. 
+14
+(B) Recruiting and hiring instructional 
+15
+personnel as needed, including curriculum spe-
+16
+cialists. 
+17
+(C) Preparations for effectively sustaining 
+18
+project activities after the grant period ends. 
+19
+(D) Disseminating information about effec-
+20
+tive practices. 
+21
+(3) LIMITATION.—Not more than 15 percent of 
+22
+a grant may be used to purchase equipment. 
+23
+(d) NATIONAL ACTIVITIES.—The Secretary may re-
+24
+serve not more than 2.5 percent of funds available for 
+25
+22:56 Mar 20, 2019
+H1485
+11 
+•HR 1485 IH
+grants under this section for national activities, including 
+1
+technical assistance, evaluation, and dissemination. 
+2
+(e) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+3
+are authorized to be appropriated to carry out this section 
+4
+a total of $250,000,000 for fiscal year 2020 and the suc-
+5
+ceeding 4 fiscal years. 
+6
+SEC. 5. REPORTING REQUIREMENTS. 
+7
+(a) GRANTEE REPORTS.—Each State, local edu-
+8
+cational agency, and eligible Tribal school that receives a 
+9
+grant under this Act shall submit to the Secretary a re-
+10
+port, not less than twice a year during the grant period, 
+11
+on the use of grant funds that shall include data on the 
+12
+numbers of students served through activities funded 
+13
+under this Act, disaggregated by race (for Asian and Na-
+14
+tive Hawaiian or Pacific Islander students using the same 
+15
+race response categories as the decennial census of the 
+16
+population), ethnicity, gender, and eligibility to receive a 
+17
+free or reduced price lunch under the Richard B. Russell 
+18
+National School Lunch Act (42 U.S.C. 1751 et seq.). 
+19
+(b) REPORT BY THE SECRETARY.—Not later than 5 
+20
+years after the first grant is awarded under this Act, the 
+21
+Secretary shall submit to Congress a report based on the 
+22
+analysis of reports received under subsection (a) with a 
+23
+22:56 Mar 20, 2019
+H1485
+12 
+•HR 1485 IH
+recommendation on how to expand the program under this 
+1
+Act. 
+2
+Æ 
+22:56 Mar 20, 2019
+H1485

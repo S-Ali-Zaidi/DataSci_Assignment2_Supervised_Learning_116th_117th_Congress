@@ -1,0 +1,1561 @@
+A BILL 
+To facilitate the installation of broadband infrastructure, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Nationwide Dig Once 
+4
+Act of 2021’’. 
+5
+SEC. 2. DIG ONCE FOR BROADBAND INFRASTRUCTURE DE-
+6
+PLOYMENT. 
+7
+(a) DEFINITIONS.—In this section: 
+8
+(1) APPROPRIATE STATE AGENCY.—The term 
+9
+‘‘appropriate State agency’’ means a State govern-
+10
+01:59 Jul 13, 2021
+H3703
+2 
+•HR 3703 IH
+mental agency that is recognized by the executive 
+1
+branch of the State as having the experience nec-
+2
+essary to evaluate and facilitate the installation and 
+3
+operation of broadband infrastructure within the 
+4
+State. 
+5
+(2) BROADBAND.—The term ‘‘broadband’’ has 
+6
+the meaning given the term ‘‘advanced telecommuni-
+7
+cations capability’’ in section 706 of the Tele-
+8
+communications Act of 1996 (47 U.S.C. 1302). 
+9
+(3) 
+BROADBAND
+CONDUIT.—The 
+term 
+10
+‘‘broadband conduit’’ means a conduit or innerduct 
+11
+for fiber optic cables (or successor technology of 
+12
+greater quality and speed) that supports the provi-
+13
+sion of broadband. 
+14
+(4) BROADBAND INFRASTRUCTURE.—The term 
+15
+‘‘broadband infrastructure’’ means any buried or un-
+16
+derground facility and any wireless or wireline con-
+17
+nection that enables the provision of broadband. 
+18
+(5) 
+BROADBAND
+PROVIDER.—The 
+term 
+19
+‘‘broadband provider’’ means an entity that provides 
+20
+broadband to any person, including, with respect to 
+21
+such entity— 
+22
+(A) a corporation, company, association, 
+23
+firm, partnership, nonprofit organization, or 
+24
+any other private entity; 
+25
+01:59 Jul 13, 2021
+H3703
+3 
+•HR 3703 IH
+(B) a State or local broadband provider; 
+1
+(C) an Indian Tribe; and 
+2
+(D) a partnership between any of the enti-
+3
+ties described in subparagraphs (A), (B), and 
+4
+(C). 
+5
+(6) 
+COVERED
+HIGHWAY
+CONSTRUCTION 
+6
+PROJECT.— 
+7
+(A) IN
+GENERAL.—The term ‘‘covered 
+8
+highway construction project’’ means, without 
+9
+regard to ownership of a highway, a project 
+10
+funded under title 23, United States Code, and 
+11
+administered by a State department of trans-
+12
+portation to construct a new highway or an ad-
+13
+ditional lane for an existing highway, to recon-
+14
+struct an existing highway, or new construction, 
+15
+including construction of a paved shoulder. 
+16
+(B) EXCLUSIONS.—The term ‘‘covered 
+17
+highway construction project’’ excludes any 
+18
+project— 
+19
+(i) awarded before the date on which 
+20
+regulations required under subsection (b) 
+21
+take effect; 
+22
+(ii) that does not include work beyond 
+23
+the edge of pavement or current paved 
+24
+shoulder; 
+25
+01:59 Jul 13, 2021
+H3703
+4 
+•HR 3703 IH
+(iii) that is less than a mile in length; 
+1
+or 
+2
+(iv) that is— 
+3
+(I) a project primarily for resur-
+4
+facing, restoration, rehabilitation, or 
+5
+maintenance; 
+6
+(II) a bicycle, pedestrian, trans-
+7
+portation alternatives, sidewalk, rec-
+8
+reational trails, or safe routes to 
+9
+school project; 
+10
+(III) an operational improvement 
+11
+(as such term is defined in section 
+12
+101 of title 23, United States Code); 
+13
+(IV) a project primarily to install 
+14
+signage; or 
+15
+(V) a culvert project. 
+16
+(7) DIG ONCE REQUIREMENT.—The term ‘‘dig 
+17
+once requirement’’ means a requirement designed to 
+18
+reduce the cost and accelerate the deployment of 
+19
+broadband by minimizing the number and scale of 
+20
+repeated excavations for the installation and mainte-
+21
+nance of broadband conduit or broadband infrastruc-
+22
+ture in rights-of-way. 
+23
+(8) INDIAN TRIBE.—The term ‘‘Indian Tribe’’ 
+24
+has the meaning given such term in section 4(e) of 
+25
+01:59 Jul 13, 2021
+H3703
+5 
+•HR 3703 IH
+the Indian Self-Determination and Education Assist-
+1
+ance Act (25 U.S.C. 5304(e)). 
+2
+(9) NTIA ADMINISTRATOR.—The term ‘‘NTIA 
+3
+Administrator’’ means the Assistant Secretary of 
+4
+Commerce for Communications and Information. 
+5
+(10) PROJECT.—The term ‘‘project’’ has the 
+6
+meaning given such term in section 101 of title 23, 
+7
+United States Code. 
+8
+(11) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+9
+means the Secretary of Transportation. 
+10
+(12) STATE.—The term ‘‘State’’ has the mean-
+11
+ing given such term in section 401 of title 23, 
+12
+United States Code. 
+13
+(13) STATE
+OR
+LOCAL
+BROADBAND
+PRO-
+14
+VIDER.—The term ‘‘State or local broadband pro-
+15
+vider’’ means a State or political subdivision thereof, 
+16
+or any agency, authority, or instrumentality of a 
+17
+State or political subdivision thereof, that provides 
+18
+broadband to any person or facilitates the provision 
+19
+of broadband to any person in such State. 
+20
+(b) DIG ONCE REQUIREMENT.—Not later than 12 
+21
+months after the date of enactment of this Act, to facili-
+22
+tate the installation of broadband infrastructure, the Sec-
+23
+retary shall issue such regulations as may be necessary 
+24
+to ensure that each State that receives funds under chap-
+25
+01:59 Jul 13, 2021
+H3703
+6 
+•HR 3703 IH
+ter 1 of title 23, United States Code, complies with the 
+1
+following provisions: 
+2
+(1) BROADBAND PLANNING AND NOTICE.—The 
+3
+State department of transportation, in consultation 
+4
+with appropriate State agencies, shall— 
+5
+(A) review existing State broadband plans, 
+6
+including existing dig once requirements of the 
+7
+State, 
+municipal 
+governments 
+incorporated 
+8
+under State law, and Indian tribes within the 
+9
+State, to determine opportunities to coordinate 
+10
+covered highway construction projects occurring 
+11
+within or across highway rights-of-way with 
+12
+planned broadband infrastructure projects; 
+13
+(B) identify a broadband coordinator, who 
+14
+may have additional responsibilities in the State 
+15
+department of transportation or in another 
+16
+State agency, that is responsible for facilitating 
+17
+the broadband infrastructure right-of-way ef-
+18
+forts within the State; and 
+19
+(C) establish a process— 
+20
+(i) for the registration of broadband 
+21
+providers that seek to be included in the 
+22
+advance notification of, and opportunity to 
+23
+participate in, broadband infrastructure 
+24
+01:59 Jul 13, 2021
+H3703
+7 
+•HR 3703 IH
+right-of-way facilitation efforts within the 
+1
+State; and 
+2
+(ii) 
+to 
+electronically 
+notify 
+all 
+3
+broadband 
+providers 
+registered 
+under 
+4
+clause (i)— 
+5
+(I) of the State transportation 
+6
+improvement program on at least an 
+7
+annual basis; and 
+8
+(II) of covered highway construc-
+9
+tion projects within the highway right- 
+10
+of-way for which Federal funding is 
+11
+expected to be obligated in the subse-
+12
+quent fiscal year. 
+13
+(2) COORDINATION AND COMPLIANCE.— 
+14
+(A) MOBILE NOW ACT.—A State depart-
+15
+ment of transportation shall be considered to 
+16
+meet the requirements of subparagraphs (B) 
+17
+and (C) of paragraph (1) if such State depart-
+18
+ment of transportation has been determined to 
+19
+be in compliance with the requirements estab-
+20
+lished under section 607 of division P of the 
+21
+Consolidated Appropriations Act, 2018 (47 
+22
+U.S.C. 1504). 
+23
+(B) WEBSITE.—A State department of 
+24
+transportation shall be considered to meet the 
+25
+01:59 Jul 13, 2021
+H3703
+8 
+•HR 3703 IH
+requirements of paragraph (1)(C) if the State 
+1
+publishes on a public website— 
+2
+(i) the State transportation improve-
+3
+ment program on at least an annual basis; 
+4
+and 
+5
+(ii) 
+covered 
+highway 
+construction 
+6
+projects within the highway right-of-way 
+7
+for which Federal funding is expected to be 
+8
+obligated in the subsequent fiscal year. 
+9
+(C) COORDINATION.—The State depart-
+10
+ment of transportation, in consultation with ap-
+11
+propriate State agencies, shall by rule or regu-
+12
+lation establish a process for a broadband pro-
+13
+vider to commit to installing broadband conduit 
+14
+or broadband infrastructure as part of any cov-
+15
+ered highway construction project. 
+16
+(D) APPROPRIATE
+STATE
+AGENCY.—In 
+17
+lieu of the State department of transportation, 
+18
+at the discretion of the State, an appropriate 
+19
+State agency, in consultation with the State de-
+20
+partment of transportation, may carry out the 
+21
+requirements of paragraph (1). 
+22
+(3) REQUIRED INSTALLATION OF BROADBAND 
+23
+CONDUIT.— 
+24
+01:59 Jul 13, 2021
+H3703
+9 
+•HR 3703 IH
+(A) IN GENERAL.—The State department 
+1
+of transportation shall install broadband con-
+2
+duit, in accordance with this paragraph (except 
+3
+as described in subparagraph (F)), as part of 
+4
+any covered highway construction project, un-
+5
+less a broadband provider has committed to in-
+6
+stall broadband conduit or broadband infra-
+7
+structure as part of such project in a process 
+8
+described under paragraph (2)(C). 
+9
+(B) INSTALLATION
+REQUIREMENTS.—In 
+10
+installing broadband conduit or broadband in-
+11
+frastructure as part of a covered highway con-
+12
+struction project, the State department of 
+13
+transportation shall ensure that— 
+14
+(i) installation pursuant to this para-
+15
+graph of broadband conduit, broadband in-
+16
+frastructure, and means or points of access 
+17
+to such conduit or infrastructure (such as 
+18
+poles, hand holes, manholes, pull tape, or 
+19
+ducts) shall provide for the current and fu-
+20
+ture safe operation of the traveled way, is 
+21
+consistent with part 645 of title 23, Code 
+22
+of Federal Regulations, and any accommo-
+23
+dation policies of the State under such 
+24
+part to reasonably enable deployment of 
+25
+01:59 Jul 13, 2021
+H3703
+10 
+•HR 3703 IH
+such conduit, infrastructure, and means or 
+1
+points of access, and any Damage Preven-
+2
+tion and Underground Facilities Protection 
+3
+or related requirements of the State; 
+4
+(ii) 
+an 
+appropriate 
+number 
+of 
+5
+broadband conduits, as determined in con-
+6
+sultation with the appropriate State agen-
+7
+cies, are installed along the right-of-way of 
+8
+a covered highway construction project to 
+9
+accommodate 
+multiple 
+broadband 
+pro-
+10
+viders, with consideration given to the 
+11
+availability of existing broadband conduits; 
+12
+(iii) the size of each broadband con-
+13
+duit is consistent with industry best prac-
+14
+tices, consistent with the requirements of 
+15
+part 645 of title 23, Code of Federal Regu-
+16
+lations, and sufficient to accommodate an-
+17
+ticipated demand, as determined in con-
+18
+sultation with the appropriate State agen-
+19
+cies; 
+20
+(iv) any hand holes and manholes nec-
+21
+essary for fiber access and pulling with re-
+22
+spect to such conduit are placed at inter-
+23
+vals consistent with standards determined 
+24
+in consultation with the appropriate State 
+25
+01:59 Jul 13, 2021
+H3703
+11 
+•HR 3703 IH
+agencies (which may differ by type of road, 
+1
+topologies, and rurality) the requirements 
+2
+of part 645 of title 23, Code of Federal 
+3
+Regulations, and other applicable safety re-
+4
+quirements; 
+5
+(v) each broadband conduit installed 
+6
+pursuant to this paragraph includes a pull 
+7
+tape and is capable of supporting fiber 
+8
+optic cable placement techniques consistent 
+9
+with best practices and the requirements of 
+10
+part 645 of title 23, Code of Federal Regu-
+11
+lations; 
+12
+(vi) broadband conduit is placed at a 
+13
+depth consistent with requirements of the 
+14
+covered highway construction project and 
+15
+best practices and that, in determining the 
+16
+depth of placement, consideration is given 
+17
+to the location of existing utilities and 
+18
+cable separation requirements of State and 
+19
+local electrical codes; and 
+20
+(vii) installation of broadband conduit 
+21
+shall not preclude the installation of other 
+22
+specific socially, environmentally, or eco-
+23
+nomically beneficial uses of the right-of- 
+24
+01:59 Jul 13, 2021
+H3703
+12 
+•HR 3703 IH
+way, such as planned energy transmission 
+1
+or renewable energy generation projects. 
+2
+(C) PROGRAMMATIC REVIEW.—The State 
+3
+department of transportation may make deter-
+4
+minations on the implementation of the require-
+5
+ments described in subparagraph (B) on a pro-
+6
+grammatic basis. 
+7
+(D) ACCESS.— 
+8
+(i) IN GENERAL.—The State depart-
+9
+ment of transportation shall ensure that 
+10
+any requesting broadband provider has ac-
+11
+cess to each broadband conduit installed by 
+12
+the State pursuant to this paragraph, on a 
+13
+competitively 
+neutral 
+and 
+nondiscrim-
+14
+inatory basis and in accordance with State 
+15
+permitting, licensing, leasing, or other 
+16
+similar laws and regulations. 
+17
+(ii) SOCIALLY BENEFICIAL USE.—The 
+18
+installation of broadband conduit as part 
+19
+of a covered highway construction project 
+20
+shall be considered a socially-beneficial use 
+21
+of the right-of-way under section 156(b) of 
+22
+title 23, United States Code. 
+23
+(iii) IN-KIND
+COMPENSATION.—The 
+24
+State department of transportation may 
+25
+01:59 Jul 13, 2021
+H3703
+13 
+•HR 3703 IH
+negotiate in-kind compensation with any 
+1
+broadband provider requesting access to 
+2
+broadband conduit installed under the pro-
+3
+visions of this paragraph. 
+4
+(iv) SAFETY
+CONSIDERATIONS.—The 
+5
+State department of transportation shall 
+6
+provide for a process for a broadband pro-
+7
+vider to safely access to the highway right- 
+8
+of-way during installation and on-going 
+9
+maintenance of the broadband conduit and 
+10
+broadband infrastructure, including a traf-
+11
+fic control safety plan. 
+12
+(v) COMMUNICATION.—A broadband 
+13
+provider with access to the conduit in-
+14
+stalled pursuant to this subsection shall 
+15
+notify, and receive permission from, the 
+16
+relevant agencies of State responsible for 
+17
+the installation of such broadband conduit 
+18
+prior to accessing any highway or highway 
+19
+right-of-way, in accordance with applicable 
+20
+Federal requirements. 
+21
+(E) TREATMENT OF PROJECTS.—Notwith-
+22
+standing any other provision of law, broadband 
+23
+conduit and broadband infrastructure installa-
+24
+tion projects installed by a State under this 
+25
+01:59 Jul 13, 2021
+H3703
+14 
+•HR 3703 IH
+paragraph shall comply with section 113(a) of 
+1
+title 23, United States Code. 
+2
+(F) WAIVER AUTHORITY.— 
+3
+(i) IN GENERAL.—A State department 
+4
+of transportation may waive the required 
+5
+installation of broadband conduit for part 
+6
+or all of any covered highway construction 
+7
+project under this paragraph if, in the de-
+8
+termination of the State department of 
+9
+transportation— 
+10
+(I) broadband infrastructure, ter-
+11
+restrial broadband infrastructure, aer-
+12
+ial 
+broadband 
+fiber 
+cables, 
+or 
+13
+broadband conduit is present near a 
+14
+majority of the length of the covered 
+15
+highway construction project; 
+16
+(II) installation of terrestrial or 
+17
+aerial broadband fiber cables associ-
+18
+ated with the covered highway con-
+19
+struction project is more appropriate 
+20
+for the context or a more cost-effec-
+21
+tive means to facilitate broadband 
+22
+service to an area not adequately 
+23
+served by broadband and such instal-
+24
+lation is present or planned; 
+25
+01:59 Jul 13, 2021
+H3703
+15 
+•HR 3703 IH
+(III) 
+the 
+installation 
+of 
+1
+broadband conduit increases overall 
+2
+costs of a covered highway construc-
+3
+tion project by 1.5 percent or greater; 
+4
+(IV) 
+the 
+installation 
+of 
+5
+broadband conduit associated with the 
+6
+covered highway construction project 
+7
+is not reasonably expected to be uti-
+8
+lized 
+or 
+connected 
+to 
+future 
+9
+broadband infrastructure in the 20 
+10
+years following the date on which such 
+11
+determination is made, as determined 
+12
+by the State department of transpor-
+13
+tation, in consultation with appro-
+14
+priate State agencies and potentially 
+15
+affected local governments and Indian 
+16
+tribes; 
+17
+(V) the requirements of this 
+18
+paragraph would require installation 
+19
+of conduit redundant with a dig once 
+20
+requirement of a local government or 
+21
+Indian tribe; 
+22
+(VI) there exists a circumstance 
+23
+involving force majeure; or 
+24
+01:59 Jul 13, 2021
+H3703
+16 
+•HR 3703 IH
+(VII) the installation of conduit 
+1
+is not appropriate based on other rel-
+2
+evant factors established by the Sec-
+3
+retary in consultation with the NTIA 
+4
+Administrator through regulation. 
+5
+(ii) CONTENTS OF WAIVER.—A waiver 
+6
+authorized 
+under 
+this 
+subparagraph 
+7
+shall— 
+8
+(I) identify the covered highway 
+9
+construction project; and 
+10
+(II) include a brief description of 
+11
+the determination of the State for 
+12
+issuing such waiver. 
+13
+(iii) AVAILABILITY OF WAIVER.—Noti-
+14
+fication of a waiver authorized under this 
+15
+subparagraph shall be made publicly avail-
+16
+able, such as on a public website of the 
+17
+State department of transportation de-
+18
+scribed in paragraph (2)(B). 
+19
+(iv) WAIVER DETERMINATION.— 
+20
+(I) IN GENERAL.—The State de-
+21
+partment of transportation shall be 
+22
+responsible for the waiver determina-
+23
+tion described under this paragraph, 
+24
+consistent with the regulation issued 
+25
+01:59 Jul 13, 2021
+H3703
+17 
+•HR 3703 IH
+pursuant to this subsection, and may 
+1
+grant a programmatic waiver for cat-
+2
+egories of projects excluded under this 
+3
+subparagraph. 
+4
+(II) NO PRIVATE CAUSE OF AC-
+5
+TION.—The waiver determination de-
+6
+scribed under this paragraph shall be 
+7
+final and conclusive. Nothing in this 
+8
+section shall provide a private right or 
+9
+cause of action to challenge such de-
+10
+termination in any court of law. 
+11
+(4) PRIORITY.—If a State provides for the in-
+12
+stallation of broadband infrastructure or broadband 
+13
+conduit in the right-of-way of a covered highway 
+14
+construction project, the State department of trans-
+15
+portation, along with appropriate State agencies, 
+16
+shall carry out appropriate measures to ensure that 
+17
+an existing broadband provider is afforded access 
+18
+that is non-discriminatory, competitively neutral, 
+19
+and equal in opportunity, as compared to other 
+20
+broadband providers, with respect to the program 
+21
+under this subsection. 
+22
+(c) 
+GUIDANCE
+FOR
+THE
+INSTALLATION
+OF 
+23
+BROADBAND CONDUIT.—The Secretary, in consultation 
+24
+with the NTIA Administrator, shall issue guidance for 
+25
+01:59 Jul 13, 2021
+H3703
+18 
+•HR 3703 IH
+best practices related to the installation of broadband con-
+1
+duit as described in subsection (b)(2) and of conduit and 
+2
+similar infrastructure for intelligent transportation sys-
+3
+tems (as such term is defined in section 501 of title 23, 
+4
+United States Code) that may utilize broadband conduit 
+5
+installed pursuant to subsection (b)(2). 
+6
+(d) CONSULTATION.— 
+7
+(1) IN
+GENERAL.—In issuing regulations re-
+8
+quired by this subsection or to implement any part 
+9
+of this section, the Secretary shall consult— 
+10
+(A) the NTIA Administrator; 
+11
+(B) the Federal Communications Commis-
+12
+sion; 
+13
+(C) State departments of transportation; 
+14
+(D) appropriate State agencies; 
+15
+(E) agencies of local governments respon-
+16
+sible for transportation and rights-of-way, utili-
+17
+ties, and telecommunications and broadband; 
+18
+(F) Indian tribes; 
+19
+(G) broadband providers; and 
+20
+(H) manufacturers of optical fiber, con-
+21
+duit, pull tape, and related items. 
+22
+(2) BROADBAND USERS.—The Secretary shall 
+23
+ensure that the entities consulted under subpara-
+24
+graphs (C) through (F) of paragraph (1) include en-
+25
+01:59 Jul 13, 2021
+H3703
+19 
+•HR 3703 IH
+tities that have expertise with rural areas and popu-
+1
+lations with limited access to broadband infrastruc-
+2
+ture. 
+3
+(3) BROADBAND
+PROVIDERS.—The Secretary 
+4
+shall ensure that the entities consulted under sub-
+5
+paragraph (G) of paragraph (1) include entities that 
+6
+provide broadband to rural areas and populations 
+7
+with limited access to broadband infrastructure. 
+8
+(e) OVERSIGHT.— 
+9
+(1) IN GENERAL.—The Secretary shall periodi-
+10
+cally review compliance with the regulations issued 
+11
+pursuant to this section and ensure that State waiv-
+12
+er determinations are consistent with such regula-
+13
+tions. 
+14
+(2) EFFICIENT REVIEW.—The review described 
+15
+under paragraph (1) may be carried out through the 
+16
+risk-based stewardship and oversight program de-
+17
+scribed under section 106(g) of title 23, United 
+18
+States Code. 
+19
+(3) EFFECT OF SUBSECTION.—Nothing in this 
+20
+subsection shall affect or discharge any oversight re-
+21
+sponsibility of the Secretary specifically provided for 
+22
+under title 23, United States Code, or any other 
+23
+Federal law. 
+24
+(f) ADDITIONAL PROVISIONS.— 
+25
+01:59 Jul 13, 2021
+H3703
+20 
+•HR 3703 IH
+(1) APPLICABILITY.— 
+1
+(A) IN GENERAL.—The portion of the reg-
+2
+ulation issued pursuant to subsection (b) relat-
+3
+ing to the provisions under paragraph (3) of 
+4
+such subsection shall not take effect until a 
+5
+source of dedicated funding for the installation 
+6
+and long term maintenance of broadband con-
+7
+duit described in subsection (g)(2) is estab-
+8
+lished. 
+9
+(B) APPLICABILITY
+DATE.—Paragraphs 
+10
+(2) through (4) of subsection (b) and subsection 
+11
+(d) shall apply only to covered highway con-
+12
+struction projects for which Federal obligations 
+13
+or expenditures are initially approved on or 
+14
+after the date on which regulations required 
+15
+under this subsection take effect. 
+16
+(2) RULES OF CONSTRUCTION.— 
+17
+(A) STATE
+LAW.—Nothing in this sub-
+18
+section shall be construed to require a State to 
+19
+install or allow the installation of broadband 
+20
+conduit or broadband infrastructure— 
+21
+(i) that is otherwise inconsistent with 
+22
+what is allowable under State law; or 
+23
+(ii) where the State lacks the author-
+24
+ity for such installation, such as any prop-
+25
+01:59 Jul 13, 2021
+H3703
+21 
+•HR 3703 IH
+erty right or easement necessary for such 
+1
+installation. 
+2
+(B) NO REQUIREMENT FOR INSTALLATION 
+3
+OF MOBILE SERVICES EQUIPMENT.—Nothing in 
+4
+this section shall be construed to require a 
+5
+State, a municipal government incorporated 
+6
+under State law, or an Indian Tribe to install 
+7
+or allow for the installation of equipment essen-
+8
+tial for the provision of commercial mobile serv-
+9
+ices (as defined in section 332(d) of the Com-
+10
+munications Act of 1934 (47 U.S.C. 332(d))) 
+11
+or commercial mobile data service (as defined in 
+12
+section 6001 of the Middle Class Tax Relief 
+13
+and Job Creation Act of 2012 (47 U.S.C. 
+14
+1401)), other than broadband conduit and asso-
+15
+ciated 
+equipment 
+described 
+in 
+paragraph 
+16
+(3)(B). 
+17
+(3) RELATION TO STATE DIG ONCE REQUIRE-
+18
+MENTS.—Nothing in subsections (b), (c), (d), or (e) 
+19
+or any regulations issued pursuant to subsection (b) 
+20
+shall be construed to alter or supersede any provi-
+21
+sion of a State law or regulation that provides for 
+22
+a dig once requirement that includes similar or more 
+23
+stringent requirements to the provisions of sub-
+24
+01:59 Jul 13, 2021
+H3703
+22 
+•HR 3703 IH
+sections (b), (c), (d), or (e) and any regulations pro-
+1
+mulgated under subsection (b). 
+2
+(g) DIG ONCE FUNDING TASK FORCE.— 
+3
+(1) ESTABLISHMENT.—The Secretary and the 
+4
+NTIA Administrator shall jointly establish an inde-
+5
+pendent task force on funding the nationwide dig 
+6
+once requirement described in this section to be 
+7
+known as the ‘‘Dig Once Funding Task Force’’ 
+8
+(hereinafter referred to as the ‘‘Task Force’’). 
+9
+(2) DUTIES.—The duties of the Task Force 
+10
+shall be to— 
+11
+(A) estimate the annual cost for imple-
+12
+menting, administering, and maintaining a na-
+13
+tionwide dig once requirement; 
+14
+(B) propose and evaluate options for fund-
+15
+ing a nationwide dig once requirement described 
+16
+in this section that includes— 
+17
+(i) a discussion of the role and poten-
+18
+tial share of costs of— 
+19
+(I) the Federal Government; 
+20
+(II) State and local governments 
+21
+and Indian tribes; and 
+22
+(III) broadband providers install-
+23
+ing broadband conduit or broadband 
+24
+infrastructure under this section; 
+25
+01:59 Jul 13, 2021
+H3703
+23 
+•HR 3703 IH
+(ii) consideration of the role of exist-
+1
+ing dig once requirements on States, local 
+2
+governments, and Indian tribes and the 
+3
+role of private broadband investment, with 
+4
+a goal to not discourage or disincentivize 
+5
+such dig once requirements or such invest-
+6
+ment; and 
+7
+(iii) evaluating the appropriate entity 
+8
+or entities responsible for maintaining the 
+9
+broadband infrastructure and conduit in-
+10
+stalled pursuant to a dig once requirement; 
+11
+and 
+12
+(C) propose a cost-based model fee sched-
+13
+ule for a State to charge a broadband provider 
+14
+to access and use conduit installed by such 
+15
+State pursuant to this section that— 
+16
+(i) shall consider costs (including ad-
+17
+ministrative costs) associated with installa-
+18
+tion and long-term maintenance of the 
+19
+broadband conduit installed pursuant to 
+20
+this section; 
+21
+(ii) may vary by topography, location, 
+22
+type of road, rurality, and other factors; 
+23
+and 
+24
+01:59 Jul 13, 2021
+H3703
+24 
+•HR 3703 IH
+(iii) may consider financial and mar-
+1
+ket incentives for expanding broadband in-
+2
+frastructure. 
+3
+(3) REPORTS.— 
+4
+(A) INTERIM
+REPORT
+AND
+BRIEFING.— 
+5
+Not later than 9 months after the appointment 
+6
+of Members to the Task Force under paragraph 
+7
+(4)(D), the Task Force shall— 
+8
+(i) submit to Congress an interim re-
+9
+port on the findings of the Task Force; 
+10
+and 
+11
+(ii) provide briefings for Congress on 
+12
+the findings of the Task Force. 
+13
+(B) FINAL
+REPORT.—Not later than 3 
+14
+months after the submission of the interim re-
+15
+port under subparagraph (A), the Task Force 
+16
+shall submit to Congress a final report on the 
+17
+findings of the Task Force. 
+18
+(4) MEMBERS.— 
+19
+(A) APPOINTMENTS.—The Task Force 
+20
+shall consist of 14 members, comprising— 
+21
+(i) 2 co-chairs described in subpara-
+22
+graph (B); 
+23
+(ii) 6 members jointly appointed by 
+24
+the Speaker and minority leader of the 
+25
+01:59 Jul 13, 2021
+H3703
+25 
+•HR 3703 IH
+House of Representatives, in consultation 
+1
+with the respective Chairs and Ranking 
+2
+Members of— 
+3
+(I) the Committee on Transpor-
+4
+tation and Infrastructure of the 
+5
+House of Representatives; 
+6
+(II) the Committee on Energy 
+7
+and Commerce of the House of Rep-
+8
+resentatives; and 
+9
+(III) the Committee on Appro-
+10
+priations of the House of Representa-
+11
+tives; and 
+12
+(iii) 6 members jointly appointed by 
+13
+the majority leader and minority leader of 
+14
+the Senate, in consultation with the respec-
+15
+tive Chairs and Ranking Members of— 
+16
+(I) the Committee on Environ-
+17
+ment and Public Works of the Senate; 
+18
+(II) the Committee on Com-
+19
+merce, Science, and Transportation of 
+20
+the Senate; and 
+21
+(III) the Committee on Appro-
+22
+priations of the Senate. 
+23
+(B) CO-CHAIRS.—The Task Force shall be 
+24
+co-chaired by the Secretary and the NTIA Ad-
+25
+01:59 Jul 13, 2021
+H3703
+26 
+•HR 3703 IH
+ministrator, or the designees of the Secretary 
+1
+and NTIA Administrator. 
+2
+(C) COMPOSITION.—The Task Force shall 
+3
+include at least— 
+4
+(i) 1 representative from a State de-
+5
+partment of transportation; 
+6
+(ii) 1 representative from a local gov-
+7
+ernment; 
+8
+(iii) 1 representative from an Indian 
+9
+tribe; 
+10
+(iv) 
+1 
+representative 
+from 
+a 
+11
+broadband provider; 
+12
+(v) 1 representative from a State or 
+13
+local broadband provider; 
+14
+(vi) 1 representative from a labor 
+15
+union; and 
+16
+(vii) 1 representative from a public in-
+17
+terest organization. 
+18
+(D) APPOINTMENT
+DEADLINE.—Members 
+19
+shall be appointed to the Task Force not later 
+20
+than 60 days after the date of enactment of 
+21
+this Act. 
+22
+(E) TERMS.—Members shall be appointed 
+23
+for the life of the Task Force. A vacancy in the 
+24
+Task Force shall not affect the powers of the 
+25
+01:59 Jul 13, 2021
+H3703
+27 
+•HR 3703 IH
+Task Force and the vacancy shall be filled in 
+1
+the same manner as the initial appointment was 
+2
+made. 
+3
+(5) CONSULTATIONS.—In carrying out the du-
+4
+ties required under this subsection, the Task Force 
+5
+shall consult, at a minimum— 
+6
+(A) the Federal Communications Commis-
+7
+sion; 
+8
+(B) agencies of States including— 
+9
+(i) State departments of transpor-
+10
+tation; and 
+11
+(ii) appropriate State agencies; 
+12
+(C) agencies of local governments respon-
+13
+sible for transportation and rights-of-way, utili-
+14
+ties, and telecommunications and broadband; 
+15
+(D) Indian tribes; 
+16
+(E) broadband providers and other tele-
+17
+communications providers; 
+18
+(F) labor unions; and 
+19
+(G) State or local broadband providers and 
+20
+Indian tribes that act as broadband providers. 
+21
+(6) ADDITIONAL PROVISIONS.— 
+22
+(A) EXPENSES FOR NON-FEDERAL MEM-
+23
+BERS.—Non-Federal members of the Task 
+24
+Force shall be allowed travel expenses, includ-
+25
+01:59 Jul 13, 2021
+H3703
+28 
+•HR 3703 IH
+ing per diem in lieu of subsistence, at rates au-
+1
+thorized for employees under subchapter I of 
+2
+chapter 57 of title 5, United States Code, while 
+3
+away from the homes or regular places of busi-
+4
+ness of such members in the performance of 
+5
+services for the Task Force. 
+6
+(B) STAFF.—Staff of the Task Force shall 
+7
+comprise detailees with relevant expertise from 
+8
+the Department of Transportation and the Na-
+9
+tional Telecommunications and Information Ad-
+10
+ministration, or another Federal agency that 
+11
+the co-chairpersons consider appropriate, with 
+12
+the consent of the head of the Federal agency, 
+13
+and such detailees shall retain the rights, sta-
+14
+tus, and privileges of the regular employment of 
+15
+such detailees without interruption. 
+16
+(C) ADMINISTRATIVE
+ASSISTANCE.—The 
+17
+Secretary and NTIA Administrator shall pro-
+18
+vide to the Task Force on a reimbursable basis 
+19
+administrative support and other services for 
+20
+the performance of the functions of the Task 
+21
+Force. 
+22
+01:59 Jul 13, 2021
+H3703
+29 
+•HR 3703 IH
+(7) TERMINATION.—The Task Force shall ter-
+1
+minate not later than 90 days after submission of 
+2
+the final report required under paragraph (3)(B). 
+3
+Æ 
+01:59 Jul 13, 2021
+H3703

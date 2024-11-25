@@ -1,0 +1,1869 @@
+A BILL 
+To provide for a comprehensive interdisciplinary research, 
+development, and demonstration initiative to strengthen 
+the capacity of the energy sector to prepare for and 
+withstand cyber and physical attacks, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Grid Security Research 
+4
+and Development Act’’. 
+5
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+2 
+•HR 4939 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) The Nation, and every critical infrastruc-
+3
+ture sector, depends on reliable electricity. 
+4
+(2) Intelligent electronic devices, advanced ana-
+5
+lytics, and information systems used across the en-
+6
+ergy sector are essential to maintaining reliable op-
+7
+eration of the electric grid. 
+8
+(3) The cybersecurity threat landscape is con-
+9
+stantly changing and attacker capabilities are ad-
+10
+vancing rapidly, requiring ongoing modifications, ad-
+11
+vancements, and investments in technologies, proce-
+12
+dures, and workforce development to maintain secu-
+13
+rity. 
+14
+(4) It is in the national interest for Federal 
+15
+agencies to invest in innovative cybersecurity re-
+16
+search that informs and facilitates private sector in-
+17
+vestment and use of new and advanced cybersecurity 
+18
+tools and procedures to protect information systems. 
+19
+(5) The number of devices and systems con-
+20
+necting to the electric grid is increasing, and inte-
+21
+grating cybersecurity protections into information 
+22
+systems when they are designed and built is more ef-
+23
+fective than modifying products after installation to 
+24
+meet cybersecurity goals. 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+3 
+•HR 4939 IH
+(6) An understanding of human factors can be 
+1
+leveraged to understand the behavior of cyber threat 
+2
+actors, develop strategies to counter threat actors, 
+3
+improve cybersecurity training programs, optimize 
+4
+the design of human-machine interfaces and cyberse-
+5
+curity tools, and increase the capacity of the energy 
+6
+sector workforce to prevent unauthorized access to 
+7
+critical systems. 
+8
+SEC. 3. AMENDMENT TO DIVISION Z OF THE CONSOLI-
+9
+DATED APPROPRIATIONS ACT, 2021. 
+10
+Title VIII of division Z of the Consolidated Appro-
+11
+priations Act, 2021 (Public Law 116–260) is amended by 
+12
+inserting after section 8012 the following: 
+13
+‘‘SEC. 8013. ENERGY SECTOR SECURITY RESEARCH, DEVEL-
+14
+OPMENT, AND DEMONSTRATION PROGRAM. 
+15
+‘‘(a) IN GENERAL.—The Secretary, in coordination 
+16
+with appropriate Federal agencies, the Electricity Sub-
+17
+sector Coordinating Council, the Electric Reliability Orga-
+18
+nization, State, tribal, local, and territorial governments, 
+19
+the private sector, and other relevant stakeholders, shall 
+20
+carry out a research, development, and demonstration pro-
+21
+gram to protect the electric grid and energy systems, in-
+22
+cluding assets connected to the distribution grid, and asso-
+23
+ciated supply chains, from cyber and physical attacks by 
+24
+increasing the cyber and physical security capabilities of 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+4 
+•HR 4939 IH
+the energy sector and accelerating the development of rel-
+1
+evant technologies and tools. 
+2
+‘‘(b) DEPARTMENT OF ENERGY.—As part of the ini-
+3
+tiative described in subsection (a), the Secretary shall 
+4
+award research, development, and demonstration grants 
+5
+to— 
+6
+‘‘(1) identify cybersecurity risks to information 
+7
+technology and operational technology within, and 
+8
+impacting, the electricity sector, energy systems, and 
+9
+energy infrastructure; 
+10
+‘‘(2) develop methods and tools to rapidly detect 
+11
+cyber intrusions and cyber incidents, including 
+12
+through the use of data and big data analytics tech-
+13
+niques, such as intrusion detection, and security in-
+14
+formation and event management systems, to vali-
+15
+date and verify system behavior; 
+16
+‘‘(3) assess emerging cybersecurity capabilities 
+17
+that could be applied to energy systems and develop 
+18
+technologies that integrate cybersecurity features 
+19
+and procedures into the design and development of 
+20
+existing and emerging grid technologies, including 
+21
+renewable energy, storage, and demand-side manage-
+22
+ment technologies; 
+23
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+5 
+•HR 4939 IH
+‘‘(4) identify existing vulnerabilities in intel-
+1
+ligent electronic devices, advanced analytics systems, 
+2
+and information systems; 
+3
+‘‘(5) work with relevant entities to develop tech-
+4
+nologies or concepts that build or retrofit cybersecu-
+5
+rity features and procedures into— 
+6
+‘‘(A) information and energy management 
+7
+system devices, components, software, firmware, 
+8
+and hardware, including distributed control and 
+9
+management systems, and building manage-
+10
+ment systems; 
+11
+‘‘(B) data storage systems, data manage-
+12
+ment systems, and data analysis processes; 
+13
+‘‘(C) automated and manually controlled 
+14
+devices and equipment for monitoring and sta-
+15
+bilizing the electric grid; 
+16
+‘‘(D) technologies used to synchronize time 
+17
+and develop guidance for operational contin-
+18
+gency plans when time synchronization tech-
+19
+nologies, are compromised; 
+20
+‘‘(E) power system delivery and end user 
+21
+systems and devices that connect to the grid, 
+22
+including— 
+23
+‘‘(i) 
+meters, 
+phasor 
+measurement 
+24
+units, and other sensors; 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+6 
+•HR 4939 IH
+‘‘(ii) distribution automation tech-
+1
+nologies, smart inverters, and other grid 
+2
+control technologies; 
+3
+‘‘(iii) distributed generation, energy 
+4
+storage, and other distributed energy tech-
+5
+nologies; 
+6
+‘‘(iv) demand response technologies; 
+7
+‘‘(v) home and building energy man-
+8
+agement and control systems; 
+9
+‘‘(vi) electric and plug-in hybrid vehi-
+10
+cles and electric vehicle charging systems; 
+11
+and 
+12
+‘‘(vii) other relevant devices, software, 
+13
+firmware, and hardware; and 
+14
+‘‘(F) the supply chain of electric grid man-
+15
+agement system components; 
+16
+‘‘(6) develop technologies, including information 
+17
+technologies and operational technologies, that im-
+18
+prove the physical security of the electric grid, in-
+19
+cluding remote assets; 
+20
+‘‘(7) integrate human factors research into the 
+21
+design and development of advanced tools and proc-
+22
+esses for dynamic monitoring, detection, protection, 
+23
+mitigation, response, and cyber situational aware-
+24
+ness; 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+7 
+•HR 4939 IH
+‘‘(8) evaluate and understand the potential con-
+1
+sequences of practices used to maintain the cyberse-
+2
+curity of information systems and intelligent elec-
+3
+tronic devices; 
+4
+‘‘(9) develop or expand the capabilities of exist-
+5
+ing cybersecurity test beds to simulate impacts of 
+6
+cyber attacks and combined cyber-physical attacks 
+7
+on information systems and electronic devices, in-
+8
+cluding by increasing access to existing and emerg-
+9
+ing test beds for cooperative utilities, utilities owned 
+10
+by a political subdivision of a State, such as munici-
+11
+pally owned electric utilities, and other relevant 
+12
+stakeholders; and 
+13
+‘‘(10) develop technologies that reduce the cost 
+14
+of implementing effective cybersecurity technologies 
+15
+and tools, including updates to these technologies 
+16
+and tools, in the energy sector. 
+17
+‘‘(c) NATIONAL SCIENCE FOUNDATION.—The Na-
+18
+tional Science Foundation, in coordination with other Fed-
+19
+eral agencies as appropriate, shall through its cybersecu-
+20
+rity research and development programs— 
+21
+‘‘(1) support basic research to advance knowl-
+22
+edge, 
+applications, 
+technologies, 
+and 
+tools 
+to 
+23
+strengthen the cybersecurity of information systems 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+8 
+•HR 4939 IH
+that support the electric grid and energy systems, 
+1
+including interdisciplinary research in— 
+2
+‘‘(A) evolutionary systems, theories, mathe-
+3
+matics, and models; 
+4
+‘‘(B) economic and financial theories, 
+5
+mathematics, and models; and 
+6
+‘‘(C) big data analytical methods, mathe-
+7
+matics, computer coding, and algorithms; and 
+8
+‘‘(2) support cybersecurity education and train-
+9
+ing focused on information systems for the electric 
+10
+grid and energy workforce, including through the 
+11
+Advanced Technological Education program, the 
+12
+Cybercorps program, graduate research fellowships, 
+13
+and other appropriate programs. 
+14
+‘‘(d) 
+DEPARTMENT
+OF
+HOMELAND
+SECURITY 
+15
+SCIENCE AND TECHNOLOGY DIRECTORATE.—The Science 
+16
+and Technology Directorate of the Department of Home-
+17
+land Security shall coordinate with the Department of En-
+18
+ergy, the private sector, and other relevant stakeholders, 
+19
+to research existing cybersecurity technologies and tools 
+20
+used in the defense industry in order to— 
+21
+‘‘(1) identify technologies and tools that may 
+22
+meet civilian energy sector cybersecurity needs; 
+23
+‘‘(2) develop a research strategy that incor-
+24
+porates human factors research findings to guide the 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+9 
+•HR 4939 IH
+modification of defense industry cybersecurity tools 
+1
+for use in the civilian sector; 
+2
+‘‘(3) develop a strategy to accelerate efforts to 
+3
+bring modified defense industry cybersecurity tools 
+4
+to the civilian market; and 
+5
+‘‘(4) carry out other activities the Secretary of 
+6
+Homeland Security considers appropriate to meet 
+7
+the goals of this subsection. 
+8
+‘‘SEC. 8014. GRID RESILIENCE AND EMERGENCY RESPONSE. 
+9
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+10
+the enactment of the Grid Security Research and Develop-
+11
+ment Act, the Secretary shall establish a research, devel-
+12
+opment, and demonstration program to enhance resilience 
+13
+and strengthen emergency response and management per-
+14
+taining to the energy sector. 
+15
+‘‘(b) GRANTS.—The Secretary shall award grants to 
+16
+eligible entities under subsection (d) on a competitive basis 
+17
+to conduct research and development with the purpose of 
+18
+improving the resilience and reliability of the electric grid 
+19
+by— 
+20
+‘‘(1) developing methods to improve community 
+21
+and governmental preparation for and emergency re-
+22
+sponse to large-area, long-duration electricity inter-
+23
+ruptions, including through the use of energy effi-
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+10 
+•HR 4939 IH
+ciency, storage, and distributed generation tech-
+1
+nologies; 
+2
+‘‘(2) developing tools to help utilities and com-
+3
+munities ensure the continuous delivery of electricity 
+4
+to critical facilities; 
+5
+‘‘(3) developing tools to improve coordination 
+6
+between utilities and relevant Federal agencies to 
+7
+enable communication, information-sharing, and sit-
+8
+uational awareness in the event of a physical or 
+9
+cyber-attack on the electric grid; 
+10
+‘‘(4) developing technologies and capabilities to 
+11
+withstand and address the current and projected im-
+12
+pact of the changing climate on energy sector infra-
+13
+structure, including extreme weather events, other 
+14
+natural disasters, and wildfires; 
+15
+‘‘(5) developing technologies capable of early 
+16
+detection of malfunctioning electrical equipment on 
+17
+the transmission and distribution grid, including de-
+18
+tection of spark ignition causing wildfires and risks 
+19
+of vegetation contact; 
+20
+‘‘(6) assessing upgrades and additions needed 
+21
+to energy sector infrastructure due to projected 
+22
+changes in the energy generation mix and energy de-
+23
+mand; 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+11 
+•HR 4939 IH
+‘‘(7) upgrading tools used to estimate the costs 
+1
+of outages longer than 24 hours; and 
+2
+‘‘(8) developing tools and technologies to assist 
+3
+with the planning, safe execution of, and safe and 
+4
+timely restoration of power after cyber and physical 
+5
+attacks, natural disasters, and emergency power 
+6
+shut offs, such as those conducted to reduce risks of 
+7
+wildfires started by grid infrastructure. 
+8
+‘‘(c) CONCURRENT AND CO-LOCATED DISASTERS.— 
+9
+In carrying out the program under subsection (a), the Sec-
+10
+retary shall support research and development on tools, 
+11
+techniques, and technologies for improving electric grid 
+12
+and energy sector safety and resilience in the event of mul-
+13
+tiple simultaneous or co-located weather or climate events 
+14
+leading to extreme conditions, such as extreme wind, 
+15
+wildfires, extreme cold, and extreme heat. 
+16
+‘‘(d) ELIGIBLE ENTITIES.—The entities eligible to 
+17
+receive grants under this section include— 
+18
+‘‘(1) an institution of higher education, includ-
+19
+ing a historically Black college or university or a mi-
+20
+nority-serving institution; 
+21
+‘‘(2) a nonprofit organization; 
+22
+‘‘(3) a National Laboratory; 
+23
+‘‘(4) a unit of State, local, or tribal government; 
+24
+‘‘(5) an electric utility or electric cooperative; 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+12 
+•HR 4939 IH
+‘‘(6) a retail service provider of electricity; 
+1
+‘‘(7) a private commercial entity; 
+2
+‘‘(8) a partnership or consortium of 2 or more 
+3
+entities described in paragraphs (1) through (7); and 
+4
+‘‘(9) any other entities the Secretary deems ap-
+5
+propriate. 
+6
+‘‘(e) RELEVANT ACTIVITIES.—Grants awarded under 
+7
+subsection (b) shall include funding for research and de-
+8
+velopment activities related to the purpose described in 
+9
+subsection (b), such as— 
+10
+‘‘(1) development of technologies to use distrib-
+11
+uted energy resources, such as solar photovoltaics, 
+12
+energy storage systems, electric vehicles, and micro-
+13
+grids, to improve grid and critical end-user resil-
+14
+ience; 
+15
+‘‘(2) analysis of non-technical barriers to great-
+16
+er integration and use of technologies on the dis-
+17
+tribution grid; 
+18
+‘‘(3) analysis of past large-area, long-duration 
+19
+electricity interruptions to identify common elements 
+20
+and best practices for electricity restoration, mitiga-
+21
+tion, and prevention of future disruptions; 
+22
+‘‘(4) development of— 
+23
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+13 
+•HR 4939 IH
+‘‘(A) advanced monitoring, analytics, oper-
+1
+ation, and controls of electric grid systems to 
+2
+improve electric grid resilience; and 
+3
+‘‘(B) independent verification and valida-
+4
+tion methodologies, in coordination with the 
+5
+National Institute of Standards and Tech-
+6
+nology, to address the potential cybersecurity 
+7
+vulnerabilities of the technologies identified in 
+8
+subparagraph (A) of this paragraph; 
+9
+‘‘(5) analysis of technologies, methods, and con-
+10
+cepts that can improve community resilience and 
+11
+survivability of frequent or long-duration power out-
+12
+ages; 
+13
+‘‘(6) development of methodologies to maintain 
+14
+cybersecurity during restoration of energy sector in-
+15
+frastructure and operation; 
+16
+‘‘(7) development of advanced power flow con-
+17
+trol systems and components to improve electric grid 
+18
+resilience; and 
+19
+‘‘(8) any other relevant activities determined by 
+20
+the Secretary. 
+21
+‘‘(f) TECHNICAL ASSISTANCE.— 
+22
+‘‘(1) IN GENERAL.—The Secretary shall provide 
+23
+technical assistance to eligible entities for the com-
+24
+mercial application of technologies to improve the re-
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+14 
+•HR 4939 IH
+silience of the electric grid and commercial applica-
+1
+tion of technologies to help entities develop plans for 
+2
+preventing and recovering from various power out-
+3
+age scenarios at the local, regional, and State level. 
+4
+‘‘(2) TECHNICAL ASSISTANCE PROGRAM.—The 
+5
+commercial application technical assistance program 
+6
+established in paragraph (1) shall include assistance 
+7
+to eligible entities for— 
+8
+‘‘(A) the commercial application of tech-
+9
+nologies developed from the grant program es-
+10
+tablished in subsection (b), including coopera-
+11
+tive utilities and utilities owned by a political 
+12
+subdivision of a State, such as municipally 
+13
+owned electric utilities; 
+14
+‘‘(B) the development of methods to 
+15
+strengthen or otherwise mitigate adverse im-
+16
+pacts on electric grid infrastructure against 
+17
+natural hazards; 
+18
+‘‘(C) the use of Department data and mod-
+19
+eling tools for various purposes; 
+20
+‘‘(D) a resource assessment and analysis of 
+21
+future demand and distribution requirements, 
+22
+including development of advanced grid archi-
+23
+tectures and risk analysis; 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+15 
+•HR 4939 IH
+‘‘(E) the development of tools and tech-
+1
+nologies to coordinate data across relevant enti-
+2
+ties to promote resilience and wildfire preven-
+3
+tion in the planning, design, construction, oper-
+4
+ation, and maintenance of transmission infra-
+5
+structure; 
+6
+‘‘(F) analysis to predict the likelihood of 
+7
+extreme weather events to inform the planning, 
+8
+design, construction, operation, and mainte-
+9
+nance of transmission infrastructure in con-
+10
+sultation with the National Oceanic and Atmos-
+11
+pheric Administration; and 
+12
+‘‘(G) the commercial application of rel-
+13
+evant technologies, such as distributed energy 
+14
+resources, microgrids, or other energy tech-
+15
+nologies, to establish backup power for users or 
+16
+facilities affected by emergency power shutoffs. 
+17
+‘‘(3) ELIGIBLE ENTITIES.—The entities eligible 
+18
+to receive technical assistance for commercial appli-
+19
+cation of technologies under this subsection in-
+20
+clude— 
+21
+‘‘(A) representatives of all sectors of the 
+22
+electric power industry, including electric utili-
+23
+ties, trade organizations, and transmission and 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+16 
+•HR 4939 IH
+distribution system organizations, owners, and 
+1
+operators; 
+2
+‘‘(B) State and local governments and reg-
+3
+ulatory authorities, including public utility com-
+4
+missions; 
+5
+‘‘(C) tribal and Alaska Native govern-
+6
+mental entities; 
+7
+‘‘(D) partnerships among entities under 
+8
+subparagraphs (A) through (C); 
+9
+‘‘(E) regional partnerships; and 
+10
+‘‘(F) any other entities the Secretary 
+11
+deems appropriate. 
+12
+‘‘(4) AUTHORITY.—Nothing in this subsection 
+13
+shall authorize the Secretary to require any entity to 
+14
+adopt any model, tool, technology, plan, analysis, or 
+15
+assessment. 
+16
+‘‘SEC. 8015. BEST PRACTICES AND GUIDANCE DOCUMENTS 
+17
+FOR ENERGY SECTOR CYBERSECURITY RE-
+18
+SEARCH. 
+19
+‘‘(a) IN GENERAL.—The Secretary, in coordination 
+20
+with appropriate Federal agencies, the Electricity Sub-
+21
+sector Coordinating Council, standards development orga-
+22
+nizations, State, tribal, local, and territorial governments, 
+23
+the private sector, public utility commissions, and other 
+24
+relevant stakeholders, shall coordinate the development of 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+17 
+•HR 4939 IH
+guidance documents for research, development, and dem-
+1
+onstration activities to improve the cybersecurity capabili-
+2
+ties of the energy sector through participating agencies. 
+3
+As part of these activities, the Secretary, in consultation 
+4
+with relevant Federal agencies, shall— 
+5
+‘‘(1) facilitate stakeholder involvement to up-
+6
+date— 
+7
+‘‘(A) the Roadmap to Achieve Energy De-
+8
+livery Systems Cybersecurity; 
+9
+‘‘(B) the Cybersecurity Procurement Lan-
+10
+guage for Energy Delivery Systems, including 
+11
+developing guidance for— 
+12
+‘‘(i) contracting with third parties to 
+13
+conduct vulnerability testing for informa-
+14
+tion systems used across the energy pro-
+15
+duction, delivery, storage, and end use sys-
+16
+tems; 
+17
+‘‘(ii) contracting with third parties 
+18
+that utilize transient devices to access in-
+19
+formation systems; and 
+20
+‘‘(iii) managing supply chain risks; 
+21
+and 
+22
+‘‘(C) the Electricity Subsector Cybersecu-
+23
+rity Capability Maturity Model, including the 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+18 
+•HR 4939 IH
+development of metrics to measure changes in 
+1
+cybersecurity readiness; and 
+2
+‘‘(2) develop voluntary guidance to improve dig-
+3
+ital forensic analysis capabilities, including— 
+4
+‘‘(A) developing standardized terminology 
+5
+and monitoring processes; and 
+6
+‘‘(B) utilizing human factors research to 
+7
+develop more effective procedures for logging 
+8
+incident events; and 
+9
+‘‘(3) work with the National Science Founda-
+10
+tion, Department of Homeland Security, and stake-
+11
+holders to develop a mechanism to anonymize, ag-
+12
+gregate, and share the testing results from cyberse-
+13
+curity test beds to facilitate technology improve-
+14
+ments by public and private sector researchers. 
+15
+‘‘(b) BEST PRACTICES.—The Secretary, in collabora-
+16
+tion with the Director of the National Institute of Stand-
+17
+ards and Technology, the Director of the Cybersecurity 
+18
+and Infrastructure Security Agency, and other appropriate 
+19
+Federal agencies, shall convene relevant stakeholders and 
+20
+facilitate the development of— 
+21
+‘‘(1) consensus-based best practices to improve 
+22
+cybersecurity for— 
+23
+‘‘(A) emerging energy technologies; 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+19 
+•HR 4939 IH
+‘‘(B) distributed generation and storage 
+1
+technologies, and other distributed energy re-
+2
+sources; 
+3
+‘‘(C) electric vehicles and electric vehicle 
+4
+charging stations; and 
+5
+‘‘(D) other technologies and devices that 
+6
+connect to the electric grid; 
+7
+‘‘(2) recommended cybersecurity designs and 
+8
+technical requirements that can be used by the pri-
+9
+vate sector to design and build interoperable cyber-
+10
+security features into technologies that connect to 
+11
+the electric grid, including networked devices and 
+12
+components on distribution systems; and 
+13
+‘‘(3) technical analysis that can be used by the 
+14
+private sector in developing best practices for test 
+15
+beds and test bed methodologies that will enable re-
+16
+producible testing of cybersecurity protections for in-
+17
+formation systems, electronic devices, and other rel-
+18
+evant components, software, and hardware across 
+19
+test beds. 
+20
+‘‘(c) REGULATORY AUTHORITY.—None of the activi-
+21
+ties authorized in this section shall be construed to author-
+22
+ize regulatory actions. Additionally, the voluntary stand-
+23
+ards developed under this section shall not duplicate or 
+24
+conflict with mandatory reliability standards. 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+20 
+•HR 4939 IH
+‘‘SEC. 8016. VULNERABILITY TESTING AND TECHNICAL AS-
+1
+SISTANCE TO IMPROVE CYBERSECURITY. 
+2
+‘‘The Secretary shall— 
+3
+‘‘(1) coordinate with appropriate Federal agen-
+4
+cies and energy sector asset owners and operators, 
+5
+leveraging the research facilities and expertise of the 
+6
+National Laboratories, to assist entities in devel-
+7
+oping testing capabilities by— 
+8
+‘‘(A) utilizing a range of methods to iden-
+9
+tify vulnerabilities in physical and cyber sys-
+10
+tems; 
+11
+‘‘(B) developing cybersecurity risk assess-
+12
+ment tools and providing analyses and rec-
+13
+ommendations to participating stakeholders; 
+14
+and 
+15
+‘‘(C) working with appropriate Federal 
+16
+agencies and stakeholders to develop methods to 
+17
+share anonymized and aggregated test results 
+18
+to assist relevant stakeholders in the energy 
+19
+sector, researchers, and the private sector to 
+20
+advance cybersecurity efforts, technologies, and 
+21
+tools; 
+22
+‘‘(2) collaborate with relevant stakeholders, in-
+23
+cluding public utility commissions, to— 
+24
+‘‘(A) identify information, research, staff 
+25
+training, and analytical tools needed to evaluate 
+26
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+21 
+•HR 4939 IH
+cybersecurity issues and challenges in the en-
+1
+ergy sector; and 
+2
+‘‘(B) facilitate the sharing of information 
+3
+and the development of tools identified under 
+4
+subparagraph (A); 
+5
+‘‘(3) coordinate with tribal governments to iden-
+6
+tify information, research, and analysis tools needed 
+7
+by tribal governments to increase the cybersecurity 
+8
+of energy assets within their jurisdiction. 
+9
+‘‘SEC. 8017. CYBERSECURITY EDUCATION AND WORKFORCE 
+10
+TRAINING RESEARCH AND STANDARDS. 
+11
+‘‘(a) IN GENERAL.—The Secretary shall support the 
+12
+development of a cybersecurity workforce through a pro-
+13
+gram that— 
+14
+‘‘(1) facilitates collaboration between under-
+15
+graduate and graduate students, researchers at the 
+16
+National Laboratories, and the private sector; 
+17
+‘‘(2) prioritizes science and technology in areas 
+18
+relevant to the mission of the Department of Energy 
+19
+through the design and application of cybersecurity 
+20
+technologies for the energy sector; 
+21
+‘‘(3) develops, or facilitates private sector devel-
+22
+opment of, voluntary cybersecurity training and re-
+23
+training standards, lessons, and recommendations 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+22 
+•HR 4939 IH
+for the energy sector that minimize duplication of 
+1
+cybersecurity compliance training programs; and 
+2
+‘‘(4) maintains a public database of energy sec-
+3
+tor cybersecurity education, training, and certifi-
+4
+cation programs. 
+5
+‘‘(b) GRID RESILIENCE TECHNOLOGY TRAINING.— 
+6
+The Secretary shall support the development of the grid 
+7
+workforce through a training program that prioritizes ac-
+8
+tivities that enhance the resilience of the electric grid and 
+9
+energy sector infrastructure, including training on the use 
+10
+of tools, technologies, and methods developed under the 
+11
+grant program established in section 1311(b). 
+12
+‘‘(c) COLLABORATION.—In carrying out the program 
+13
+authorized in subsection (a) and (b), the Secretary shall 
+14
+coordinate with appropriate Federal agencies and leverage 
+15
+programs and activities carried out across the Department 
+16
+of Energy, other relevant Federal agencies, institutions of 
+17
+higher education, and other appropriate entities best suit-
+18
+ed to provide national leadership on cybersecurity and grid 
+19
+resilience-related issues. 
+20
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+23 
+•HR 4939 IH
+‘‘SEC. 8018. INTERAGENCY COORDINATION AND STRATEGIC 
+1
+PLAN FOR ENERGY SECTOR CYBERSECURITY 
+2
+RESEARCH. 
+3
+‘‘(a) DUTIES.—The Secretary, in coordination with 
+4
+appropriate Federal agencies and the Energy Sector Gov-
+5
+ernment Coordinating Council, shall— 
+6
+‘‘(1) review the most recent versions of the 
+7
+Roadmap to Achieve Energy Delivery Systems Cy-
+8
+bersecurity and the Multi-Year Program Plan for 
+9
+Energy Sector Cybersecurity to identify crosscutting 
+10
+energy sector cybersecurity research needs and op-
+11
+portunities for collaboration among Federal agencies 
+12
+and other relevant stakeholders; 
+13
+‘‘(2) identify interdisciplinary research, tech-
+14
+nology, and tools that can be applied to cybersecu-
+15
+rity challenges in the energy sector; 
+16
+‘‘(3) identify technology transfer opportunities 
+17
+to accelerate the development and commercial appli-
+18
+cation of novel cybersecurity technologies, systems, 
+19
+and processes in the energy sector; and 
+20
+‘‘(4) develop a coordinated Interagency Stra-
+21
+tegic Plan for research to advance cybersecurity ca-
+22
+pabilities used in the energy sector that builds on 
+23
+the Roadmap to Achieve Energy Delivery Systems in 
+24
+Cybersecurity and the Multi-Year Program Plan for 
+25
+Energy Sector Cybersecurity. 
+26
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+24 
+•HR 4939 IH
+‘‘(b) INTERAGENCY STRATEGIC PLAN.— 
+1
+‘‘(1) SUBMITTAL.—The Interagency Strategic 
+2
+Plan developed under subsection (a)(4) shall be sub-
+3
+mitted to Congress and made public within 12 
+4
+months after the date of enactment of the Grid Se-
+5
+curity Research and Development Act. 
+6
+‘‘(2) CONTENTS.—The Interagency Strategic 
+7
+Plan shall include— 
+8
+‘‘(A) an analysis of how existing cybersecu-
+9
+rity research efforts across the Federal Govern-
+10
+ment are advancing the goals of the Roadmap 
+11
+to Achieve Energy Delivery Systems Cybersecu-
+12
+rity and the Multi-Year Program Plan for En-
+13
+ergy Sector Cybersecurity; 
+14
+‘‘(B) recommendations for research areas 
+15
+that may advance the cybersecurity of the en-
+16
+ergy sector; 
+17
+‘‘(C) an overview of existing and proposed 
+18
+public and private sector research efforts that 
+19
+address the topics outlined in paragraph (3); 
+20
+and 
+21
+‘‘(D) an overview of needed support for 
+22
+workforce training in cybersecurity for the en-
+23
+ergy sector. 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+25 
+•HR 4939 IH
+‘‘(3) 
+CONSIDERATIONS.—In 
+developing 
+the 
+1
+Interagency Strategic Plan, the Secretary, in coordi-
+2
+nation with appropriate Federal agencies and the 
+3
+Energy Sector Government Coordinating Council, 
+4
+shall consider— 
+5
+‘‘(A) opportunities for human factors re-
+6
+search to improve the design and effectiveness 
+7
+of cybersecurity devices, technologies, tools, 
+8
+processes, and training programs; 
+9
+‘‘(B) contributions of other disciplines to 
+10
+the development of innovative cybersecurity pro-
+11
+cedures, devices, components, technologies, and 
+12
+tools; 
+13
+‘‘(C) opportunities for technology transfer 
+14
+programs to facilitate private sector develop-
+15
+ment of cybersecurity procedures, devices, com-
+16
+ponents, technologies, and tools for the energy 
+17
+sector; 
+18
+‘‘(D) broader applications of the work done 
+19
+by relevant Federal agencies to advance the cy-
+20
+bersecurity of information systems and data 
+21
+analytics systems for the energy sector; and 
+22
+‘‘(E) activities called for in the Federal cy-
+23
+bersecurity research and development strategic 
+24
+plan required by section 201(a)(1) of the Cy-
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+26 
+•HR 4939 IH
+bersecurity Enhancement Act of 2014 (15 
+1
+U.S.C. 7431(a)(1)). 
+2
+‘‘(c) PARTICIPATION.—For the purposes of carrying 
+3
+out this section, the Energy Sector Government Coordi-
+4
+nating Council shall include representatives from Federal 
+5
+agencies with expertise in the energy sector, information 
+6
+systems, data analytics, cyber and physical systems, engi-
+7
+neering, human factors research, human-machine inter-
+8
+faces, high performance computing, big data and data 
+9
+analytics, or other disciplines considered appropriate by 
+10
+the Council Chair. 
+11
+‘‘SEC. 8019. REPORT TO CONGRESS. 
+12
+‘‘(a) STUDY.—The Secretary, in collaboration with 
+13
+the National Institute of Standards and Technology, other 
+14
+Federal agencies, and energy sector stakeholders, in order 
+15
+to provide recommendations for additional research, devel-
+16
+opment, demonstration, and commercial application activi-
+17
+ties, shall— 
+18
+‘‘(1) analyze physical and cyber attacks on en-
+19
+ergy sector infrastructure and information systems 
+20
+and identify cost-effective opportunities to improve 
+21
+physical and cybersecurity; and 
+22
+‘‘(2) examine the risks associated with increas-
+23
+ing penetration of digital technologies in grid net-
+24
+works, particularly on the distribution grid. 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+27 
+•HR 4939 IH
+‘‘(b) CONTENT.—The study shall— 
+1
+‘‘(1) analyze processes, operational procedures, 
+2
+and other factors common among cyber attacks; 
+3
+‘‘(2) identify areas where human behavior plays 
+4
+a critical role in maintaining or compromising the 
+5
+security of a system; 
+6
+‘‘(3) recommend— 
+7
+‘‘(A) changes to the design of devices, 
+8
+human-machine interfaces, technologies, tools, 
+9
+processes, or procedures to optimize security 
+10
+that do not require a change in human behav-
+11
+ior; and 
+12
+‘‘(B) training techniques to increase the 
+13
+capacity of employees to actively identify, pre-
+14
+vent, or neutralize the impact of cyber attacks; 
+15
+‘‘(4) evaluate existing engineering and technical 
+16
+design criteria and guidelines that incorporate 
+17
+human factors research findings, and recommend 
+18
+criteria and guidelines for cybersecurity tools that 
+19
+can be used to develop display systems for cyberse-
+20
+curity monitoring, such as alarms, user-friendly dis-
+21
+plays, and layouts; 
+22
+‘‘(5) evaluate the cybersecurity risks and bene-
+23
+fits of various design and architecture options for 
+24
+energy sector systems, networked grid systems and 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+28 
+•HR 4939 IH
+components, and automation systems, including con-
+1
+sideration of— 
+2
+‘‘(A) designs that include both digital and 
+3
+analog control devices and technologies; 
+4
+‘‘(B) different communication technologies 
+5
+used to transfer information and data between 
+6
+control system devices, technologies, and system 
+7
+operators; 
+8
+‘‘(C) automated and human-in-the-loop de-
+9
+vices and technologies; 
+10
+‘‘(D) programmable versus nonprogram-
+11
+mable devices and technologies; 
+12
+‘‘(E) increased redundancy using dissimilar 
+13
+cybersecurity technologies; and 
+14
+‘‘(F) grid architectures that use autono-
+15
+mous functions to limit control vulnerabilities; 
+16
+and 
+17
+‘‘(6) recommend methods or metrics to docu-
+18
+ment changes in risks associated with system de-
+19
+signs and architectures. 
+20
+‘‘(c) CONSULTATION.—In conducting the study, the 
+21
+Secretary shall consult with energy sector stakeholders, 
+22
+academic researchers, the private sector, and other rel-
+23
+evant stakeholders. 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+29 
+•HR 4939 IH
+‘‘(d) REPORT.—Not later than 24 months after the 
+1
+date of enactment of the Grid Security Research and De-
+2
+velopment Act, the Secretary shall submit the study to the 
+3
+Committee on Science, Space, and Technology of the 
+4
+House of Representatives and the Committee on Energy 
+5
+and Natural Resources of the Senate. 
+6
+‘‘SEC. 8020. CRITICAL INFRASTRUCTURE RESEARCH AND 
+7
+CONSTRUCTION. 
+8
+‘‘(a) IN GENERAL.—The Secretary shall carry out a 
+9
+program of research, development, and demonstration of 
+10
+technologies and tools to help ensure the resilience and 
+11
+security of critical integrated grid infrastructures. 
+12
+‘‘(b) CRITICAL INFRASTRUCTURE DEFINED.—In this 
+13
+section, the term ‘critical infrastructure’ means infrastruc-
+14
+ture that the Secretary determines to be vital to socio-
+15
+economic activities such that, if destroyed or damaged, 
+16
+such destruction or damage could cause substantial dis-
+17
+ruption to such socioeconomic activities. 
+18
+‘‘(c) COORDINATION.—In carrying out the program 
+19
+under subsection (a), the Secretary shall leverage expertise 
+20
+and resources of and facilitate collaboration and coordina-
+21
+tion between— 
+22
+‘‘(1) relevant programs and activities across the 
+23
+Department; 
+24
+‘‘(2) the Department of Defense; and 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+30 
+•HR 4939 IH
+‘‘(3) the Department of Homeland Security. 
+1
+‘‘(d) ENERGY SECTOR CRITICAL INFRASTRUCTURE 
+2
+TEST FACILITY.—In carrying out the program under sub-
+3
+section (a), the Secretary, in consultation with other ap-
+4
+propriate Federal agencies, shall establish and operate an 
+5
+Energy Sector Critical Infrastructure Test Facility (re-
+6
+ferred to in this section as the ‘Test Facility’) that allows 
+7
+for scalable physical and cyber performance testing to be 
+8
+conducted on industry-scale energy sector critical infra-
+9
+structure systems. This facility shall include a focus on— 
+10
+‘‘(1) cybersecurity test beds; and 
+11
+‘‘(2) electric grid test beds. 
+12
+‘‘(e) SELECTION.—The Secretary shall select the 
+13
+Test Facility under this section on a competitive, merit- 
+14
+reviewed basis. The Secretary shall consider applications 
+15
+from National Laboratories, institutions of higher edu-
+16
+cation, multi-institutional collaborations, and other appro-
+17
+priate entities. 
+18
+‘‘(f) DURATION.—The Test Facility established 
+19
+under this section shall receive support for a period of not 
+20
+more than 5 years, subject to the availability of appropria-
+21
+tions. 
+22
+‘‘(g) RENEWAL.—Upon the expiration of any period 
+23
+of support of the Test Facility, the Secretary may renew 
+24
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+31 
+•HR 4939 IH
+support for the Test Facility, on a merit-reviewed basis, 
+1
+for a period of not more than 5 years. 
+2
+‘‘(h) TERMINATION.—Consistent with the existing 
+3
+authorities of the Department, the Secretary may termi-
+4
+nate the Test Facility for cause during the performance 
+5
+period. 
+6
+‘‘SEC. 8021. DEFINITIONS. 
+7
+‘‘In this title: 
+8
+‘‘(1) BIG DATA.—The term ‘big data’ means 
+9
+datasets that require advanced analytical methods 
+10
+for their transformation into useful information. 
+11
+‘‘(2) CYBERSECURITY.—The term ‘cybersecu-
+12
+rity’ means protecting an information system or in-
+13
+formation that is stored on, processed by, or 
+14
+transiting an information system from a cybersecu-
+15
+rity threat or security vulnerability. 
+16
+‘‘(3) CYBERSECURITY THREAT.—The term ‘cy-
+17
+bersecurity threat’ has the meaning given the term 
+18
+in section 102 of the Cybersecurity Information 
+19
+Sharing Act of (6 U.S.C. 1501). 
+20
+‘‘(4) DEPARTMENT.—The term ‘Department’ 
+21
+means the Department Of Energy. 
+22
+‘‘(5) ELECTRICITY SUBSECTOR COORDINATING 
+23
+COUNCIL.—The term ‘Electricity Subsector Coordi-
+24
+nating Council’ means the self-organized, self-gov-
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+32 
+•HR 4939 IH
+erned council consisting of senior industry represent-
+1
+atives to serve as the principal liaison between the 
+2
+Federal Government and the electric power sector 
+3
+and to carry out the role of the Sector Coordinating 
+4
+Council as established in the National Infrastructure 
+5
+Protection Plan for the electricity subsector. 
+6
+‘‘(6) ENERGY
+SECTOR
+GOVERNMENT
+COORDI-
+7
+NATING COUNCIL.—The term ‘Energy Sector Gov-
+8
+ernment Coordinating Council’ means the council 
+9
+consisting of representatives from relevant Federal 
+10
+Government agencies to provide effective coordina-
+11
+tion of energy sector efforts to ensure a secure, reli-
+12
+able, and resilient energy infrastructure and to carry 
+13
+out the role of the Government Coordinating Council 
+14
+as established in the National Infrastructure Protec-
+15
+tion Plan for the energy sector. 
+16
+‘‘(7) HISTORICALLY BLACK COLLEGE OR UNI-
+17
+VERSITY.—The term ‘historically Black college or 
+18
+university’ has the meaning given the term ‘part B 
+19
+institution’ in section 322(2) of the Higher Edu-
+20
+cation Act of 1965 (29 U.S.C. 106(2)). 
+21
+‘‘(8) HUMAN FACTORS RESEARCH.—The term 
+22
+‘human factors research’ means research on human 
+23
+performance in social and physical environments, 
+24
+and on the integration and interaction of humans 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+33 
+•HR 4939 IH
+with physical systems and computer hardware and 
+1
+software. 
+2
+‘‘(9) HUMAN-MACHINE INTERFACES.—The term 
+3
+‘human-machine interfaces’ means technologies that 
+4
+present information to an operator or user about the 
+5
+state of a process or system, or accept human in-
+6
+structions to implement an action, including visual-
+7
+ization displays such as a graphical user interface. 
+8
+‘‘(10) INFORMATION SYSTEM.—The term ‘infor-
+9
+mation system’— 
+10
+‘‘(A) has the meaning given the term in 
+11
+section 102 of the Cybersecurity Information 
+12
+Sharing Act of 2015 (6 U.S.C. 1501); and 
+13
+‘‘(B) includes operational technology, infor-
+14
+mation technology, and communications. 
+15
+‘‘(11) MINORITY-SERVING
+INSTITUTION.—The 
+16
+term ‘minority-serving institution’ means an eligible 
+17
+institution under section 371(a) of the Higher Edu-
+18
+cation Act of 1965 (20 U.S.C. 1067q(a)). 
+19
+‘‘(12) NATIONAL LABORATORY.—The term ‘na-
+20
+tional laboratory’ has the meaning given the term in 
+21
+section 2 of the Energy Policy Act of 2005 (42 
+22
+U.S.C. 15801). 
+23
+‘‘(13) 
+SECRETARY.—The 
+term 
+‘Secretary’ 
+24
+means the Secretary of Energy. 
+25
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+34 
+•HR 4939 IH
+‘‘(14) SECURITY
+VULNERABILITY.—The term 
+1
+‘security vulnerability’ has the meaning given the 
+2
+term in section 102 of the Cybersecurity Information 
+3
+Sharing Act of 2015 (6 U.S.C. 1501). 
+4
+‘‘(15) TRANSIENT DEVICES.—The term ‘tran-
+5
+sient devices’ means removable media, including 
+6
+floppy disks, compact disks, USB flash drives, exter-
+7
+nal hard drives, mobile devices, and other devices 
+8
+that utilize wireless connections.’’. 
+9
+SEC. 4. AUTHORIZATION OF APPROPRIATIONS. 
+10
+Section 8012 of division Z of the Consolidated Appro-
+11
+priations Act, 2021 (Public Law 116–260) is amended by 
+12
+striking subsection (b)(1) and inserting the following: 
+13
+‘‘(1) to carry out sections 8006, 8013, 8014, 
+14
+8015, 8016, 8017, 8018, 8019, 8020 and the 
+15
+amendments made by sections 8001, 8002, and 
+16
+8005 of this title— 
+17
+‘‘(A) $371,000,000 for fiscal year 2022; 
+18
+‘‘(B) $385,550,000 for fiscal year 2023; 
+19
+‘‘(C) $400,577,500 for fiscal year 2024; 
+20
+‘‘(D) $420,606,375 for fiscal year 2025; 
+21
+and 
+22
+‘‘(E) $441,636,694 for fiscal year 2026.’’. 
+23
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS
+35 
+•HR 4939 IH
+SEC. 5. CONFORMING AMENDMENTS. 
+1
+(a) Section 101(b) of the division Z of the Consoli-
+2
+dated Appropriations Act, 2021 (Public Law 116–260) is 
+3
+amended in the table of contents— 
+4
+(1) in the matter relating to 8013, by striking 
+5
+‘‘8013’’ and inserting ‘‘8022’’; 
+6
+(2) in the matter relating to 8014, by striking 
+7
+‘‘8014’’ and inserting ‘‘8023’’; 
+8
+(3) in the matter relating to 8015, by striking 
+9
+‘‘8015’’ and inserting ‘‘8024’’; 
+10
+(4) by adding after the matter relating to sec-
+11
+tion 8012 the following: 
+12
+‘‘Sec. 8013. Energy sector security research, development, and demonstration 
+program. 
+‘‘Sec. 8014. Grid resilience and emergency response. 
+‘‘Sec. 8015. Best practices and guidance documents for energy sector cyberse-
+curity research. 
+‘‘Sec. 8016. Vulnerability testing and technical assistance to improve cybersecu-
+rity. 
+‘‘Sec. 8017. Cybersecurity education and workforce training research and 
+standards. 
+‘‘Sec. 8018. Interagency coordination and strategic plan for energy sector cy-
+bersecurity research. 
+‘‘Sec. 8019. Report to Congress. 
+‘‘Sec. 8020. Critical infrastructure research and construction. 
+‘‘Sec. 8021. Definitions.’’. 
+(b) Sections 8013 through 8015 of division Z of the 
+13
+Consolidated Appropriations Act, 2021 (Public Law 116– 
+14
+260) are redesignated as sections 8022 through 8024, re-
+15
+spectively. 
+16
+Æ 
+23:39 Aug 18, 2021
+H4939
+ctelli on DSK11ZRN23PROD with BILLS

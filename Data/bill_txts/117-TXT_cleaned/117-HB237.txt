@@ -1,0 +1,773 @@
+A BILL 
+To amend the Help America Vote Act of 2002 to allow 
+all eligible voters to vote by mail in Federal elections, 
+to amend the National Voter Registration Act of 1993 
+to provide for automatic voter registration, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+22:35 Feb 04, 2021
+H237
+2 
+•HR 237 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Vote at Home Act of 
+2
+2021’’. 
+3
+SEC. 2. FINDINGS. 
+4
+Congress finds the following: 
+5
+(1) An inequity of voting rights exists in the 
+6
+United States because voters in some States have 
+7
+the universal right to vote by mail while voters in 
+8
+other States do not. 
+9
+(2) Many voters often have work, family, or 
+10
+other commitments that make getting to polls and 
+11
+waiting in line on the date of an election difficult or 
+12
+impossible. Many citizens with disabilities are phys-
+13
+ically unable to vote due to long lines, inadequate 
+14
+parking, no curb cuts, steep ramps, and large 
+15
+crowds. In 2012, 30 percent of voters with disabil-
+16
+ities had difficulty voting, and in 2016, nearly two- 
+17
+thirds of the 137 polling places inspected on Elec-
+18
+tion Day had at least one impediment to people with 
+19
+disabilities. Under current State laws, many of these 
+20
+voters are not permitted to vote by mail. 
+21
+(3) In 2020, despite a global pandemic, the 
+22
+general election saw record high turnout as a result 
+23
+of increased vote by mail options, which allowed vot-
+24
+ers to cast a ballot and stay safe at the same time. 
+25
+22:35 Feb 04, 2021
+H237
+3 
+•HR 237 IH
+(4) 34 States and the District of Columbia cur-
+1
+rently allow universal absentee voting (also known as 
+2
+‘‘no-excuse’’ absentee voting), which permits any 
+3
+voter to request a mail-in ballot without providing a 
+4
+reason for the request. No State which has imple-
+5
+mented no-excuse absentee voting has repealed it. 
+6
+(5) 5 States currently hold elections entirely by 
+7
+mail. At least 22 States currently allow some elec-
+8
+tions to be conducted by mail, especially in large and 
+9
+rural jurisdictions where voting by mail is especially 
+10
+convenient. Polling stations in rural jurisdictions 
+11
+tend to have higher costs per voter, smaller staffs, 
+12
+and limited resources. Transportation is often a cru-
+13
+cial barrier for rural voters. 
+14
+(6) In 2020, in order to provide greater accessi-
+15
+bility and to protect the public health, 30 States 
+16
+adopted or changed their laws for the general elec-
+17
+tion to allow voters to cast their ballots from home. 
+18
+These changes included removing strict excuse re-
+19
+quirements or allowing COVID-19 concerns to be a 
+20
+valid excuse to vote absentee, allowing ballot drop 
+21
+boxes, offering prepaid postage on election mail and 
+22
+proactively sending all active registered voters appli-
+23
+cations to request an absentee ballot, with some even 
+24
+skipping that step and sending the actual ballots. 
+25
+04:18 Feb 09, 2021
+H237
+4 
+•HR 237 IH
+(7) Voting by mail gives voters more time to 
+1
+consider their choices, which is especially important 
+2
+as many ballots contain greater numbers of ques-
+3
+tions about complex issues than in the past due to 
+4
+the expanded use of the initiative and referendum 
+5
+process in many States. 
+6
+(8) Voting by mail is cost effective. After the 
+7
+State of Oregon adopted vote by mail for all voters 
+8
+in 1996, the cost to administer an election in the 
+9
+State dropped by nearly 30 percent over the next 
+10
+few elections, from $3.07 per voter to $2.21 per 
+11
+voter. After Colorado implemented all-mail balloting 
+12
+in 2013, voting administration costs decreased by an 
+13
+average of 40 percent. The cost of conducting vote- 
+14
+by-mail elections is generally one-third to one-half 
+15
+less than conducting polling place elections. Voting 
+16
+by mail also saves a substantial amount by getting 
+17
+rid of the temporary labor costs of hiring poll work-
+18
+ers. In addition to that cost, many jurisdictions have 
+19
+been facing difficulty in obtaining sufficient numbers 
+20
+of poll workers. 
+21
+(9) Allowing all voters the option to vote by 
+22
+mail can reduce waiting times for those voters who 
+23
+choose to vote at the polls. In 2016, voters in Ari-
+24
+zona reported waiting in line from 1 to 5 hours to 
+25
+22:35 Feb 04, 2021
+H237
+5 
+•HR 237 IH
+vote; in New York, voters reported that stations ran 
+1
+out of ballots and did not have staff during all of 
+2
+the hours scheduled for voting. 
+3
+(10) Voting by mail is preferable to many vot-
+4
+ers as an alternative to going to the polls. In 2018, 
+5
+25.3 percent of ballots in the United States were 
+6
+cast by mail, up from 10 percent in 2000. Voting by 
+7
+mail has become increasingly popular with voters 
+8
+who want to be certain that they are able to vote no 
+9
+matter what comes up on Election Day, as it re-
+10
+duces the physical obstacles and eases the time con-
+11
+straints connected with the act of voting. 
+12
+(11) Despite attempts to claim that voting by 
+13
+mail is susceptible to fraud, it is not. Strategies such 
+14
+as the tracking systems for ballots and Postal Serv-
+15
+ice cooperation in preventing ballots from being de-
+16
+livered to names not recognized as receiving mail at 
+17
+an address nearly eliminate the potential for fraud 
+18
+in vote by mail elections. Evidence of undue influ-
+19
+ence or voter coercion after vote-by-mail implementa-
+20
+tion in Oregon has been nonexistent to minimal. 
+21
+(12) Many of the reasons which voters in many 
+22
+States are required to provide in order to vote by 
+23
+mail require the revelation of personal information 
+24
+about health, travel plans, or religious activities, 
+25
+22:35 Feb 04, 2021
+H237
+6 
+•HR 237 IH
+which violate voters’ privacy while doing nothing to 
+1
+prevent voter fraud. 
+2
+(13) State laws which require voters to obtain 
+3
+a notary signature to vote by mail only add cost and 
+4
+inconvenience to voters without increasing security. 
+5
+(14) Many voters choose to cast ballots early 
+6
+when they have the option (over 50 percent in Ari-
+7
+zona, Arkansas, California, Colorado, Florida, Geor-
+8
+gia, Hawaii, Montana, Nevada, New Mexico, North 
+9
+Carolina, Oregon, Tennessee, Texas, Utah, and 
+10
+Washington). More than 40 percent of voters in the 
+11
+2016 election cast their ballot before Election Day. 
+12
+In Oregon, 7 years after vote-by-mail election imple-
+13
+mentation, over 80 percent of voters favored the 
+14
+vote-by-mail system. 
+15
+(15) Vote-by-mail typically increases turnout in 
+16
+all elections, but can be particularly effective in in-
+17
+creasing voter participation in special elections and 
+18
+primary elections. Oregon, Washington, and Colo-
+19
+rado, 3 of the 5 States with entirely vote by mail 
+20
+systems, continue to have consistently high voter 
+21
+turnout rates. In the 2016 Presidential election, 
+22
+while the percentage of registered voters who cast a 
+23
+ballot nationally was 68.1 percent, Oregon’s was 
+24
+22:35 Feb 04, 2021
+H237
+7 
+•HR 237 IH
+80.3 percent, Washington’s was 78.76 percent, and 
+1
+Colorado’s was 74.3 percent. 
+2
+(16) A crucial component of a modern voting 
+3
+system is making it easy, affordable, and accessible 
+4
+to register to vote. Twenty states and the District of 
+5
+Columbia have enacted automatic voter registration 
+6
+policies, with Oregon and California becoming the 
+7
+first to automatically register their citizens to vote 
+8
+when they apply for a driver’s license. Automatic, 
+9
+permanent voter registration has the potential to in-
+10
+crease participation, protect election integrity, and 
+11
+reduce registration costs. 
+12
+SEC. 3. PROMOTING ABILITY OF VOTERS TO VOTE BY MAIL 
+13
+IN FEDERAL ELECTIONS. 
+14
+(a) VOTING BY MAIL IN FEDERAL ELECTIONS.— 
+15
+(1) IN GENERAL.—Subtitle A of title III of the 
+16
+Help America Vote Act of 2002 (52 U.S.C. 21081 
+17
+et seq.) is amended by inserting after section 303 
+18
+the following new section: 
+19
+‘‘SEC. 303A. PROMOTING ABILITY OF VOTERS TO VOTE BY 
+20
+MAIL. 
+21
+‘‘(a) IN GENERAL.—If an individual in a State is eli-
+22
+gible to cast a vote in an election for Federal office, the 
+23
+State may not impose any additional conditions or require-
+24
+ments on the eligibility of the individual to cast the vote 
+25
+22:35 Feb 04, 2021
+H237
+8 
+•HR 237 IH
+in such election by mail, except to the extent that the 
+1
+State imposes a deadline for requesting the ballot and re-
+2
+lated voting materials from the appropriate State or local 
+3
+election official and for returning the ballot to the appro-
+4
+priate State or local election official. 
+5
+‘‘(b) PROVISION OF BALLOT MATERIALS.—Not later 
+6
+than 2 weeks before the date of any election for Federal 
+7
+office, each State shall mail ballots to individuals who are 
+8
+registered to vote in such election. 
+9
+‘‘(c) ACCESSIBILITY FOR INDIVIDUALS WITH DIS-
+10
+ABILITIES.—All ballots provided under this section shall 
+11
+be accessible to individuals with disabilities in a manner 
+12
+that provides the same opportunity for access and partici-
+13
+pation (including for privacy and independence) as for 
+14
+other voters. 
+15
+‘‘(d) RULE OF CONSTRUCTION.—Nothing in this sec-
+16
+tion shall be construed to affect the authority of States 
+17
+to conduct elections for Federal office through the use of 
+18
+polling places at which individuals cast ballots. 
+19
+‘‘(e) EFFECTIVE DATE.—A State shall be required 
+20
+to comply with the requirements of this section with re-
+21
+spect to elections for Federal office held in years beginning 
+22
+with 2022.’’. 
+23
+(2) CONFORMING
+AMENDMENT
+RELATING
+TO 
+24
+ENFORCEMENT.—Section 401 of such Act (52 
+25
+22:35 Feb 04, 2021
+H237
+9 
+•HR 237 IH
+U.S.C. 21111) is amended by striking ‘‘and 303’’ 
+1
+and inserting ‘‘303, and 303A’’. 
+2
+(3) CLERICAL AMENDMENT.—The table of con-
+3
+tents for such Act is amended by inserting after the 
+4
+item relating to section 303 the following new item: 
+5
+‘‘Sec. 303A. Promoting ability of voters to vote by mail.’’. 
+(b) FREE POSTAGE FOR VOTING BY MAIL.— 
+6
+(1) IN
+GENERAL.—Chapter 34 of title 39, 
+7
+United States Code, is amended by adding at the 
+8
+end the following: 
+9
+‘‘§ 3407. Ballots provided for voting in Federal elec-
+10
+tions 
+11
+‘‘Blank ballots mailed pursuant to section 303A(b) 
+12
+of the Help America Vote Act of 2002 which are mailed 
+13
+by a State or local election official (individually or in bulk) 
+14
+to a voter, and voted ballots which are mailed by a voter 
+15
+to an election official, shall be carried expeditiously and 
+16
+free of postage.’’. 
+17
+(2) TECHNICAL
+AND
+CONFORMING
+AMEND-
+18
+MENTS.— 
+19
+(A) TABLE OF SECTIONS.—The table of 
+20
+sections for chapter 34 of title 39, United 
+21
+States Code, is amended by adding at the end 
+22
+the following: 
+23
+‘‘3407. Ballots provided for voting in Federal elections.’’. 
+22:35 Feb 04, 2021
+H237
+10 
+•HR 237 IH
+(B) 
+AUTHORIZATION
+OF
+APPROPRIA-
+1
+TIONS.—Section 2401(c) of title 39, United 
+2
+States Code, is amended by striking ‘‘3403 
+3
+through 3406’’ and inserting ‘‘3403 through 
+4
+3407’’. 
+5
+SEC. 4. AUTOMATIC VOTER REGISTRATION THROUGH 
+6
+STATE MOTOR VEHICLE AUTHORITIES. 
+7
+(a) AUTOMATIC VOTER REGISTRATION.—Section 5 
+8
+of the National Voter Registration Act of 1993 (52 U.S.C. 
+9
+20504) is amended to read as follows: 
+10
+‘‘SEC. 5. VOTER REGISTRATION THROUGH MOTOR VEHICLE 
+11
+AUTHORITY. 
+12
+‘‘(a) SIMULTANEOUS APPLICATION FOR VOTER REG-
+13
+ISTRATION
+AND APPLICATION
+FOR MOTOR VEHICLE 
+14
+DRIVER’S LICENSE.— 
+15
+‘‘(1) TRANSMISSION OF INFORMATION TO ELEC-
+16
+TION OFFICIALS.—Each State’s motor vehicle au-
+17
+thority, upon receiving any of the identifying infor-
+18
+mation described in paragraph (2) with respect to 
+19
+any applicable individual, shall securely transmit the 
+20
+identifying information to the appropriate State elec-
+21
+tion official. 
+22
+‘‘(2) IDENTIFYING INFORMATION DESCRIBED.— 
+23
+The identifying information described in this para-
+24
+graph with respect to any individual is as follows: 
+25
+22:35 Feb 04, 2021
+H237
+11 
+•HR 237 IH
+‘‘(A) The individual’s legal name. 
+1
+‘‘(B) The individual’s age. 
+2
+‘‘(C) The individual’s residence. 
+3
+‘‘(D) The individual’s citizenship status. 
+4
+‘‘(E) The individual’s electronic signature. 
+5
+‘‘(b) DUTIES OF OFFICIALS RECEIVING INFORMA-
+6
+TION.— 
+7
+‘‘(1) IN GENERAL.—Upon receiving the identi-
+8
+fying information with respect to an applicable indi-
+9
+vidual under subsection (a), the appropriate State 
+10
+election official shall determine— 
+11
+‘‘(A) whether such individual is eligible to 
+12
+vote in an election for Federal office; and 
+13
+‘‘(B) whether such individual is currently 
+14
+registered to vote in elections for Federal office 
+15
+at the address provided in such identifying in-
+16
+formation. 
+17
+‘‘(2) NOTIFICATION TO INDIVIDUALS.— 
+18
+‘‘(A) ELIGIBLE
+UNREGISTERED
+INDIVID-
+19
+UALS.—In the case of an applicable individual 
+20
+who is eligible to vote in an election for Federal 
+21
+office and who is not currently registered to 
+22
+vote, the appropriate State election official shall 
+23
+issue a notification to the individual con-
+24
+taining— 
+25
+22:35 Feb 04, 2021
+H237
+12 
+•HR 237 IH
+‘‘(i) a statement that, unless the indi-
+1
+vidual notifies the election official prior to 
+2
+the expiration of the 21-calendar day pe-
+3
+riod which begins on the date the official 
+4
+issued the notification that the individual 
+5
+declines to be registered to vote in elections 
+6
+for Federal office held in the State, the in-
+7
+dividual’s records and signature will con-
+8
+stitute a completed registration for the in-
+9
+dividual; and 
+10
+‘‘(ii) a description of the process by 
+11
+which the individual may decline to be reg-
+12
+istered to vote in elections for Federal of-
+13
+fice in the State. 
+14
+‘‘(B) ELIGIBLE INDIVIDUALS REGISTERED 
+15
+AT A DIFFERENT ADDRESS.—In the case of an 
+16
+applicable individual who is eligible to vote in 
+17
+an election for Federal office and who is reg-
+18
+istered to vote in such election at a different 
+19
+address than the address provided in the identi-
+20
+fying information, the appropriate State elec-
+21
+tion official shall issue a notification to the indi-
+22
+vidual containing— 
+23
+‘‘(i) a statement that, unless the indi-
+24
+vidual notifies the election official prior to 
+25
+22:35 Feb 04, 2021
+H237
+13 
+•HR 237 IH
+the expiration of the 21-calendar day pe-
+1
+riod which begins on the date the official 
+2
+issued the notification that the address 
+3
+provided in the identifying information 
+4
+should not be used for voter registration 
+5
+purposes, the address provided in the iden-
+6
+tifying information shall be used as the in-
+7
+dividual’s address for voter registration 
+8
+purposes; and 
+9
+‘‘(ii) a description of the process by 
+10
+which the individual may decline a change 
+11
+of address for voter registration purposes. 
+12
+‘‘(c) AUTOMATIC REGISTRATION OF ELIGIBLE INDI-
+13
+VIDUALS; AUTOMATIC CHANGE OF ADDRESS.— 
+14
+‘‘(1) REGISTRATION.—Upon the expiration of 
+15
+the 21-calendar day period which begins on the date 
+16
+the appropriate State election official issues a notifi-
+17
+cation to an individual under subsection (b)(2)(A), 
+18
+the official shall ensure that the individual is reg-
+19
+istered to vote in elections for Federal office held in 
+20
+the State unless— 
+21
+‘‘(A) the official later determines that the 
+22
+individual does not meet the eligibility require-
+23
+ments for registering to vote in such elections; 
+24
+or 
+25
+22:35 Feb 04, 2021
+H237
+14 
+•HR 237 IH
+‘‘(B) prior to the expiration of such 21-cal-
+1
+endar day period, the individual notifies the of-
+2
+ficial that the individual declines to be reg-
+3
+istered to vote in such elections. 
+4
+‘‘(2) CHANGE OF ADDRESS.—Upon the expira-
+5
+tion of the 21-calendar day period which begins on 
+6
+the date the appropriate State election official issues 
+7
+a notification to an individual under subsection 
+8
+(b)(2)(B), the official shall ensure that the indi-
+9
+vidual is registered to vote in elections for Federal 
+10
+office at the address provided in the identifying in-
+11
+formation unless— 
+12
+‘‘(A) the official later determines that the 
+13
+individual does not meet the eligibility require-
+14
+ments for registering to vote in such elections; 
+15
+or 
+16
+‘‘(B) prior to the expiration of such 21-cal-
+17
+endar day period, the individual notifies the of-
+18
+ficial that the individual declines a change of 
+19
+address for voter registration purposes. 
+20
+‘‘(d) APPLICABLE INDIVIDUAL.—For purposes of this 
+21
+section, the term ‘applicable individual’ means any indi-
+22
+vidual who seeks assistance from, receives benefits from, 
+23
+or receives service or assistance from a State motor vehicle 
+24
+authority that issues motor vehicle driver’s licenses.’’. 
+25
+22:35 Feb 04, 2021
+H237
+15 
+•HR 237 IH
+(b) CONFORMING AMENDMENT RELATING TO TIM-
+1
+ING OF REGISTRATION PRIOR TO ELECTIONS.—Section 
+2
+8(a)(1)(A) of such Act (52 U.S.C. 20507(a)(1)(A)) is 
+3
+amended to read as follows: 
+4
+‘‘(A) in the case of registration through a 
+5
+motor vehicle authority under section 5, if the 
+6
+identifying information with respect to the indi-
+7
+vidual is transmitted by the authority to the ap-
+8
+propriate State election official under section 
+9
+5(a)(1) not later than the lesser of 30 days, or 
+10
+the period provided by State law, before the 
+11
+date of the election;’’. 
+12
+(c) OTHER
+CONFORMING
+AMENDMENT.—Section 
+13
+4(a)(1) of such Act (52 U.S.C. 20503(a)(1)) is amended 
+14
+to read as follows: 
+15
+‘‘(1) through the State motor vehicle authority 
+16
+pursuant to section 5;’’. 
+17
+(d) EFFECTIVE DATE.—The amendments made by 
+18
+this section shall take effect upon the expiration of the 
+19
+180-day period which begins on the date of the enactment 
+20
+of this Act. 
+21
+Æ 
+22:35 Feb 04, 2021
+H237

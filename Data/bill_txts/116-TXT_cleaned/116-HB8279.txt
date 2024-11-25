@@ -1,0 +1,317 @@
+A BILL 
+To establish and support a quantum network infrastructure 
+research and development program at the Department 
+of Energy, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Quantum Network In-
+4
+frastructure Act of 2020’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+Section 2 of the National Quantum Initiative Act (15 
+7
+U.S.C. 8801) is amended— 
+8
+(1) by redesignating paragraph (7) as para-
+9
+graph (8); and 
+10
+02:08 Oct 03, 2020
+H8279
+2 
+•HR 8279 IH
+(2) by inserting after paragraph (6) the fol-
+1
+lowing: 
+2
+‘‘(7) QUANTUM NETWORK INFRASTRUCTURE.— 
+3
+The term ‘quantum network infrastructure’ means 
+4
+any facility, expertise, or capability that is necessary 
+5
+to enable the development and deployment of scal-
+6
+able and diverse quantum network technologies.’’. 
+7
+SEC. 3. DEPARTMENT OF ENERGY QUANTUM NETWORK IN-
+8
+FRASTRUCTURE RESEARCH AND DEVELOP-
+9
+MENT PROGRAM. 
+10
+Title IV of the National Quantum Initiative Act (15 
+11
+U.S.C. 8851 et seq.) is amended by adding at the end 
+12
+the following: 
+13
+‘‘SEC. 403. DEPARTMENT OF ENERGY QUANTUM NETWORK 
+14
+INFRASTRUCTURE RESEARCH AND DEVELOP-
+15
+MENT PROGRAM. 
+16
+‘‘(a) IN GENERAL.—The Secretary of Energy (re-
+17
+ferred to in this section as the ‘Secretary’) shall carry out 
+18
+a research, development, and demonstration program to 
+19
+accelerate innovation in quantum network infrastructure 
+20
+in order to— 
+21
+‘‘(1) facilitate the advancement of distributed 
+22
+quantum computing systems through the internet 
+23
+and intranet; 
+24
+02:08 Oct 03, 2020
+H8279
+3 
+•HR 8279 IH
+‘‘(2) improve the precision of measurements of 
+1
+scientific phenomena and physical imaging tech-
+2
+nologies; and 
+3
+‘‘(3) develop secure national quantum commu-
+4
+nications technologies and strategies. 
+5
+‘‘(b) PROGRAM.—In carrying out this section, the 
+6
+Secretary shall— 
+7
+‘‘(1) coordinate with— 
+8
+‘‘(A) the Director of the National Science 
+9
+Foundation; 
+10
+‘‘(B) the Director of the National Institute 
+11
+of Standards and Technology; 
+12
+‘‘(C) the Chair of the Subcommittee on 
+13
+Quantum Information Science of the National 
+14
+Science and Technology Council established 
+15
+under section 103(a); and 
+16
+‘‘(D) the Chair of the Subcommittee on the 
+17
+Economic and Security Implications of Quan-
+18
+tum Science; 
+19
+‘‘(2) conduct cooperative research with indus-
+20
+try, National Laboratories, institutions of higher 
+21
+education, and other research institutions to facili-
+22
+tate new quantum infrastructure methods and tech-
+23
+nologies, including— 
+24
+02:08 Oct 03, 2020
+H8279
+4 
+•HR 8279 IH
+‘‘(A) quantum-limited detectors, ultra-low 
+1
+loss optical channels, space-to-ground connec-
+2
+tions, and classical networking and cybersecu-
+3
+rity protocols; 
+4
+‘‘(B) entanglement and hyper-entangled 
+5
+state sources and transmission, control, and 
+6
+measurement of quantum states; 
+7
+‘‘(C) quantum interconnects that allow 
+8
+short range local connections between quantum 
+9
+processors; 
+10
+‘‘(D) transducers for quantum sources and 
+11
+signals between optical and telecommunications 
+12
+regimes and quantum computer-relevant do-
+13
+mains, including microwaves; 
+14
+‘‘(E) development of quantum memory 
+15
+buffers and small-scale quantum computers 
+16
+that are compatible with photon-based quantum 
+17
+bits in the optical or telecommunications wave-
+18
+lengths; 
+19
+‘‘(F) long-range entanglement distribution 
+20
+at both the terrestrial and space-based level 
+21
+using quantum repeaters, allowing entangle-
+22
+ment-based protocols between small- and large- 
+23
+scale quantum processors; 
+24
+02:08 Oct 03, 2020
+H8279
+5 
+•HR 8279 IH
+‘‘(G) quantum routers, multiplexers, re-
+1
+peaters, and related technologies necessary to 
+2
+create secure long-distance quantum commu-
+3
+nication; and 
+4
+‘‘(H) integration of systems across the 
+5
+quantum technology stack into traditional com-
+6
+puting networks, including the development of 
+7
+remote controlled, high performance, and reli-
+8
+able implementations of key quantum network 
+9
+components; 
+10
+‘‘(3) engage with the Quantum Economic De-
+11
+velopment Consortium (QED–C) to transition com-
+12
+ponent technologies to help facilitate as appropriate 
+13
+the development of a quantum supply chain for 
+14
+quantum network technologies; 
+15
+‘‘(4) advance basic research in advanced sci-
+16
+entific computing and material science to enhance 
+17
+the understanding, prediction, and manipulation of 
+18
+materials and processes relevant to quantum net-
+19
+work infrastructure; 
+20
+‘‘(5) develop experimental tools and testbeds 
+21
+necessary to support cross-cutting fundamental re-
+22
+search and development activities with diverse stake-
+23
+holders from industry and institutions of higher edu-
+24
+cation; and 
+25
+02:08 Oct 03, 2020
+H8279
+6 
+•HR 8279 IH
+‘‘(6) consider quantum network infrastructure 
+1
+applications that span the Department of Energy’s 
+2
+missions in energy, environment, and national secu-
+3
+rity. 
+4
+‘‘(c) LEVERAGING.—In carrying out this section, the 
+5
+Secretary shall leverage resources, infrastructure, and ex-
+6
+pertise across the Department of Energy and from— 
+7
+‘‘(1) the National Institute of Standards and 
+8
+Technology; 
+9
+‘‘(2) the National Science Foundation; 
+10
+‘‘(3) the National Aeronautics and Space Ad-
+11
+ministration; 
+12
+‘‘(4) other relevant Federal agencies; 
+13
+‘‘(5) the National Laboratories; 
+14
+‘‘(6) industry stakeholders; 
+15
+‘‘(7) institutions of higher education; and 
+16
+‘‘(8) 
+the 
+National 
+Quantum 
+Information 
+17
+Science Research Centers. 
+18
+‘‘(d) RESEARCH PLAN.—Not later than 180 days 
+19
+after the date of the enactment of the Quantum Network 
+20
+Infrastructure Act of 2020, the Secretary shall submit to 
+21
+the Committee on Science, Space, and Technology of the 
+22
+House of Representatives and the Committee on Energy 
+23
+and Natural Resources of the Senate, a 4-year research 
+24
+02:08 Oct 03, 2020
+H8279
+7 
+•HR 8279 IH
+plan that identifies and prioritizes basic research needs re-
+1
+lating to quantum network infrastructure. 
+2
+‘‘(e) STANDARD OF REVIEW.—The Secretary shall 
+3
+review activities carried out under this section to deter-
+4
+mine the achievement of technical milestones. 
+5
+‘‘(f) FUNDING.—Funds authorized to be appro-
+6
+priated for the Department of Energy’s Office of Science, 
+7
+there shall be made available to the Secretary to carry out 
+8
+the activities under this section, $100,000,000 for each 
+9
+of fiscal years 2021 through 2025.’’. 
+10
+Æ 
+02:08 Oct 03, 2020
+H8279

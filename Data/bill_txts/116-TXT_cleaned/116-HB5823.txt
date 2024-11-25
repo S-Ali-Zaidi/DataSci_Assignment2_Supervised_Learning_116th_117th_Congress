@@ -1,0 +1,1426 @@
+A BILL 
+To establish a program to make grants to States to address 
+cybersecurity risks and cybersecurity threats to informa-
+tion systems of State, local, Tribal, or territorial govern-
+ments, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘State and Local Cyber-
+4
+security Improvement Act’’. 
+5
+01:47 Feb 11, 2020
+H5823
+2 
+•HR 5823 IH
+SEC. 2. STATE AND LOCAL CYBERSECURITY GRANT PRO-
+1
+GRAM. 
+2
+(a) IN GENERAL.—Subtitle A of title XXII of the 
+3
+Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) 
+4
+is amended by adding at the end the following new section: 
+5
+‘‘SEC. 2215. STATE AND LOCAL CYBERSECURITY GRANT 
+6
+PROGRAM. 
+7
+‘‘(a) 
+ESTABLISHMENT.—The 
+Secretary, 
+acting 
+8
+through the Director, shall establish a program to make 
+9
+grants to States to address cybersecurity risks and cyber-
+10
+security threats to information systems of State, local, 
+11
+Tribal, or territorial governments (referred to as the 
+12
+‘State and Local Cybersecurity Grant Program’ in this 
+13
+section). 
+14
+‘‘(b) BASELINE REQUIREMENTS.—A grant awarded 
+15
+under this section shall be used in compliance with the 
+16
+following: 
+17
+‘‘(1) The Cybersecurity Plan required under 
+18
+subsection (d) and approved pursuant to subsection 
+19
+(g). 
+20
+‘‘(2) The Homeland Security Strategy to Im-
+21
+prove the Cybersecurity of State, Local, Tribal, and 
+22
+Territorial Governments required in accordance with 
+23
+section 2210, when issued. 
+24
+‘‘(c) ADMINISTRATION.—The State and Local Cyber-
+25
+security Grant Program shall be administered in the same 
+26
+01:47 Feb 11, 2020
+H5823
+3 
+•HR 5823 IH
+program office that administers grants made under sec-
+1
+tions 2003 and 2004. 
+2
+‘‘(d) ELIGIBILITY.— 
+3
+‘‘(1) IN
+GENERAL.—A State applying for a 
+4
+grant under the State and Local Cybersecurity 
+5
+Grant Program shall submit to the Secretary a Cy-
+6
+bersecurity Plan for approval. Such plan shall— 
+7
+‘‘(A) incorporate, to the extent practicable, 
+8
+any existing plans of such State to protect 
+9
+against cybersecurity risks and cybersecurity 
+10
+threats to information systems of State, local, 
+11
+Tribal, or territorial governments; 
+12
+‘‘(B) describe, to the extent practicable, 
+13
+how such State shall— 
+14
+‘‘(i) enhance the preparation, re-
+15
+sponse, and resiliency of information sys-
+16
+tems owned or operated by such State or, 
+17
+if appropriate, by local, Tribal, or terri-
+18
+torial governments, against cybersecurity 
+19
+risks and cybersecurity threats; 
+20
+‘‘(ii) implement a process of contin-
+21
+uous cybersecurity vulnerability assess-
+22
+ments and threat mitigation practices 
+23
+prioritized by degree of risk to address cy-
+24
+bersecurity risks and cybersecurity threats 
+25
+01:47 Feb 11, 2020
+H5823
+4 
+•HR 5823 IH
+in information systems of such State, local, 
+1
+Tribal, or territorial governments; 
+2
+‘‘(iii) ensure that State, local, Tribal, 
+3
+and territorial governments that own or 
+4
+operate information systems within the 
+5
+State adopt best practices and methodolo-
+6
+gies to enhance cybersecurity, such as the 
+7
+practices set forth in the cybersecurity 
+8
+framework developed by the National Insti-
+9
+tute of Standards and Technology; 
+10
+‘‘(iv) mitigate any identified gaps in 
+11
+the State, local, Tribal, or territorial gov-
+12
+ernment cybersecurity workforces, enhance 
+13
+recruitment and retention efforts for such 
+14
+workforces, and bolster the knowledge, 
+15
+skills, and abilities of State, local, Tribal, 
+16
+and territorial government personnel to ad-
+17
+dress cybersecurity risks and cybersecurity 
+18
+threats; 
+19
+‘‘(v) ensure continuity of communica-
+20
+tions and data networks within such State 
+21
+between such State and local, Tribal, and 
+22
+territorial governments that own or operate 
+23
+information systems within such State in 
+24
+the event of an incident involving such 
+25
+01:47 Feb 11, 2020
+H5823
+5 
+•HR 5823 IH
+communications or data networks within 
+1
+such State; 
+2
+‘‘(vi) assess and mitigate, to the 
+3
+greatest 
+degree 
+possible, 
+cybersecurity 
+4
+risks and cybersecurity threats related to 
+5
+critical infrastructure and key resources, 
+6
+the degradation of which may impact the 
+7
+performance of information systems within 
+8
+such State; 
+9
+‘‘(vii) enhance capability to share 
+10
+cyber threat indicators and related infor-
+11
+mation between such State and local, Trib-
+12
+al, and territorial governments that own or 
+13
+operate information systems within such 
+14
+State; and 
+15
+‘‘(viii) develop and coordinate strate-
+16
+gies to address cybersecurity risks in con-
+17
+sultation with— 
+18
+‘‘(I) local, Tribal, and territorial 
+19
+governments within the State; and 
+20
+‘‘(II) as applicable— 
+21
+‘‘(aa) neighboring States or, 
+22
+as appropriate, members of an 
+23
+information sharing and analysis 
+24
+organization; and 
+25
+01:47 Feb 11, 2020
+H5823
+6 
+•HR 5823 IH
+‘‘(bb) neighboring countries; 
+1
+and 
+2
+‘‘(C) include, to the extent practicable, an 
+3
+inventory of the information technology de-
+4
+ployed on the information systems owned or op-
+5
+erated by such State or by local, Tribal, or ter-
+6
+ritorial governments within such State, includ-
+7
+ing legacy information technology that is no 
+8
+longer supported by the manufacturer. 
+9
+‘‘(e) PLANNING COMMITTEES.— 
+10
+‘‘(1) IN
+GENERAL.—A State applying for a 
+11
+grant under this section shall establish a cybersecu-
+12
+rity planning committee to assist in the following: 
+13
+‘‘(A) The development, implementation, 
+14
+and revision of such State’s Cybersecurity Plan 
+15
+required under subsection (d). 
+16
+‘‘(B) The determination of effective fund-
+17
+ing priorities for such grant in accordance with 
+18
+subsection (f). 
+19
+‘‘(2) 
+COMPOSITION.—Cybersecurity 
+planning 
+20
+committees described in paragraph (1) shall be com-
+21
+prised of representatives from counties, cities, towns, 
+22
+and Tribes within the State receiving a grant under 
+23
+this section, including, as appropriate, representa-
+24
+01:47 Feb 11, 2020
+H5823
+7 
+•HR 5823 IH
+tives of rural, suburban, and high-population juris-
+1
+dictions. 
+2
+‘‘(3) RULE OF CONSTRUCTION REGARDING EX-
+3
+ISTING
+PLANNING
+COMMITTEES.—Nothing in this 
+4
+subsection may be construed to require that any 
+5
+State establish a cybersecurity planning committee if 
+6
+such State has established and uses a multijuris-
+7
+dictional planning committee or commission that 
+8
+meets the requirements of this paragraph. 
+9
+‘‘(f) USE OF FUNDS.—A State that receives a grant 
+10
+under this section shall use the grant to implement such 
+11
+State’s Cybersecurity Plan, or to assist with activities de-
+12
+termined by the Secretary, in consultation with the Direc-
+13
+tor, to be integral to address cybersecurity risks and cy-
+14
+bersecurity threats to information systems of State, local, 
+15
+Tribal, or territorial governments, as the case may be. 
+16
+‘‘(g) APPROVAL OF PLANS.— 
+17
+‘‘(1) APPROVAL AS CONDITION OF GRANT.—Be-
+18
+fore a State may receive a grant under this section, 
+19
+the Secretary, acting through the Director, shall re-
+20
+view and approve such State’s Cybersecurity Plan 
+21
+required under subsection (d). 
+22
+‘‘(2) PLAN
+REQUIREMENTS.—In approving a 
+23
+Cybersecurity Plan under this subsection, the Direc-
+24
+tor shall ensure such Plan— 
+25
+01:47 Feb 11, 2020
+H5823
+8 
+•HR 5823 IH
+‘‘(A) meets the requirements specified in 
+1
+subsection (d); and 
+2
+‘‘(B) upon issuance of the Homeland Secu-
+3
+rity Strategy to Improve the Cybersecurity of 
+4
+State, Local, Tribal, and Territorial Govern-
+5
+ments authorized pursuant to section 2210, 
+6
+complies, as appropriate, with the goals and ob-
+7
+jectives of such Strategy. 
+8
+‘‘(3) APPROVAL OF REVISIONS.—The Secretary, 
+9
+acting through the Director, may approve revisions 
+10
+to a Cybersecurity Plan as the Director determines 
+11
+appropriate. 
+12
+‘‘(4) EXCEPTION.—Notwithstanding the re-
+13
+quirement under subsection (d) to submit a Cyberse-
+14
+curity Plan as a condition of apply for a grant under 
+15
+this section, such a grant may be awarded to a State 
+16
+that has not so submitted a Cybersecurity Plan to 
+17
+the Secretary if— 
+18
+‘‘(A) such State certifies to the Secretary 
+19
+that it will submit to the Secretary a Cyberse-
+20
+curity Plan for approval by September 30, 
+21
+2022; 
+22
+‘‘(B) such State certifies to the Secretary 
+23
+that the activities that will be supported by 
+24
+01:47 Feb 11, 2020
+H5823
+9 
+•HR 5823 IH
+such grant are integral to the development of 
+1
+such Cybersecurity Plan; or 
+2
+‘‘(C) such State certifies to the Secretary, 
+3
+and the Director confirms, that the activities 
+4
+that will be supported by the grant will address 
+5
+imminent cybersecurity risks or cybersecurity 
+6
+threats to the information systems of such 
+7
+State or of a local, Tribal, or territorial govern-
+8
+ment in such State. 
+9
+‘‘(h) LIMITATIONS ON USES OF FUNDS.— 
+10
+‘‘(1) IN
+GENERAL.—A State that receives a 
+11
+grant under this section may not use such grant— 
+12
+‘‘(A) to supplant State, local, Tribal, or 
+13
+territorial funds; 
+14
+‘‘(B) for any recipient cost-sharing con-
+15
+tribution; 
+16
+‘‘(C) to pay a demand for ransom in an at-
+17
+tempt to regain access to information or an in-
+18
+formation system of such State or of a local, 
+19
+Tribal, or territorial government in such State; 
+20
+‘‘(D) for recreational or social purposes; or 
+21
+‘‘(E) for any purpose that does not directly 
+22
+address cybersecurity risks or cybersecurity 
+23
+threats on an information systems of such State 
+24
+01:47 Feb 11, 2020
+H5823
+10 
+•HR 5823 IH
+or of a local, Tribal, or territorial government 
+1
+in such State. 
+2
+‘‘(2) PENALTIES.—In addition to other rem-
+3
+edies available, the Secretary may take such actions 
+4
+as are necessary to ensure that a recipient of a 
+5
+grant under this section is using such grant for the 
+6
+purposes for which such grant was awarded. 
+7
+‘‘(i) OPPORTUNITY TO AMEND APPLICATIONS.—In 
+8
+considering applications for grants under this section, the 
+9
+Secretary shall provide applicants with a reasonable op-
+10
+portunity to correct defects, if any, in such applications 
+11
+before making final awards. 
+12
+‘‘(j) APPORTIONMENT.—For fiscal year 2020 and 
+13
+each fiscal year thereafter, the Secretary shall apportion 
+14
+amounts appropriated to carry out this section among 
+15
+States as follows: 
+16
+‘‘(1) BASELINE AMOUNT.—The Secretary shall 
+17
+first apportion 0.25 percent of such amounts to each 
+18
+of American Samoa, the Commonwealth of the 
+19
+Northern Mariana Islands, Guam, and the Virgin Is-
+20
+lands, and 0.75 percent of such amounts to each of 
+21
+the remaining States. 
+22
+‘‘(2) REMAINDER.—The Secretary shall appor-
+23
+tion the remainder of such amounts in the ratio 
+24
+that— 
+25
+02:53 Feb 11, 2020
+H5823
+11 
+•HR 5823 IH
+‘‘(A) the population of each State; bears to 
+1
+‘‘(B) the population of all States. 
+2
+‘‘(k) FEDERAL SHARE.—The Federal share of the 
+3
+cost of an activity carried out using funds made available 
+4
+under the program may not exceed the following percent-
+5
+ages: 
+6
+‘‘(1) For fiscal year 2021, 90 percent. 
+7
+‘‘(2) For fiscal year 2022, 80 percent. 
+8
+‘‘(3) For fiscal year 2023, 70 percent. 
+9
+‘‘(4) For fiscal year 2024, 60 percent. 
+10
+‘‘(5) For fiscal year 2025 and each subsequent 
+11
+fiscal year, 50 percent. 
+12
+‘‘(l) STATE RESPONSIBILITIES.— 
+13
+‘‘(1) CERTIFICATION.—Each State that receives 
+14
+a grant under this section shall certify to the Sec-
+15
+retary that the grant will be used for the purpose for 
+16
+which the grant is awarded and in compliance with 
+17
+the Cybersecurity Plan or other purpose approved by 
+18
+the Secretary under subsection (g). 
+19
+‘‘(2) AVAILABILITY OF FUNDS TO LOCAL, TRIB-
+20
+AL, AND
+TERRITORIAL
+GOVERNMENTS.—Not later 
+21
+than 45 days after a State receives a grant under 
+22
+this section, such State shall, without imposing un-
+23
+reasonable or unduly burdensome requirements as a 
+24
+condition of receipt, obligate or otherwise make 
+25
+01:47 Feb 11, 2020
+H5823
+12 
+•HR 5823 IH
+available to local, Tribal, and territorial governments 
+1
+in such State, consistent with the applicable Cyber-
+2
+security Plan— 
+3
+‘‘(A) not less than 80 percent of funds 
+4
+available under such grant; 
+5
+‘‘(B) with the consent of such local, Tribal, 
+6
+and territorial governments, items, services, ca-
+7
+pabilities, or activities having a value of not less 
+8
+than 80 percent of the amount of the grant; or 
+9
+‘‘(C) with the consent of the local, Tribal, 
+10
+and territorial governments, grant funds com-
+11
+bined with other items, services, capabilities, or 
+12
+activities having the total value of not less than 
+13
+80 percent of the amount of the grant. 
+14
+‘‘(3) CERTIFICATIONS
+REGARDING
+DISTRIBU-
+15
+TION OF GRANT FUNDS TO LOCAL, TRIBAL, TERRI-
+16
+TORIAL GOVERNMENTS.—A State shall certify to the 
+17
+Secretary that the State has made the distribution 
+18
+to local, Tribal, and territorial governments required 
+19
+under paragraph (2). 
+20
+‘‘(4) EXTENSION OF PERIOD.—A State may re-
+21
+quest in writing that the Secretary extend the period 
+22
+of time specified in paragraph (2) for an additional 
+23
+period of time. The Secretary may approve such a 
+24
+request if the Secretary determines such extension is 
+25
+01:47 Feb 11, 2020
+H5823
+13 
+•HR 5823 IH
+necessary to ensure the obligation and expenditure 
+1
+of grant funds align with the purpose of the grant 
+2
+program. 
+3
+‘‘(5) EXCEPTION.—Paragraph (2) shall not 
+4
+apply to the District of Columbia, the Common-
+5
+wealth of Puerto Rico, American Samoa, the Com-
+6
+monwealth of the Northern Mariana Islands, Guam, 
+7
+or the Virgin Islands. 
+8
+‘‘(6) DIRECT FUNDING.—If a State does not 
+9
+make the distribution to local, Tribal, or territorial 
+10
+governments in such State required under paragraph 
+11
+(2), such a local, Tribal, or territorial government 
+12
+may petition the Secretary. 
+13
+‘‘(7) PENALTIES.—In addition to other rem-
+14
+edies available to the Secretary, the Secretary may 
+15
+terminate or reduce the amount of a grant awarded 
+16
+under this section to a State or transfer grant funds 
+17
+previously awarded to such State directly to the ap-
+18
+propriate local, Tribal, or territorial government if 
+19
+such State violates a requirement of this subsection. 
+20
+‘‘(m) ADVISORY COMMITTEE.— 
+21
+‘‘(1) ESTABLISHMENT.—The Director shall es-
+22
+tablish a State and Local Cybersecurity Resiliency 
+23
+Committee to provide State, local, Tribal, and terri-
+24
+torial stakeholder expertise, situational awareness, 
+25
+01:47 Feb 11, 2020
+H5823
+14 
+•HR 5823 IH
+and recommendations to the Director, as appro-
+1
+priate, regarding how to— 
+2
+‘‘(A) address cybersecurity risks and cyber-
+3
+security threats to information systems of 
+4
+State, local, Tribal, or territorial governments; 
+5
+and 
+6
+‘‘(B) improve the ability of such govern-
+7
+ments to prevent, protect against, respond, 
+8
+mitigate, and recover from cybersecurity risks 
+9
+and cybersecurity threats. 
+10
+‘‘(2) DUTIES.—The State and Local Cybersecu-
+11
+rity Resiliency Committee shall— 
+12
+‘‘(A) submit to the Director recommenda-
+13
+tions that may inform guidance for applicants 
+14
+for grants under this section; 
+15
+‘‘(B) upon the request of the Director, pro-
+16
+vide to the Director technical assistance to in-
+17
+form the review of Cybersecurity Plans sub-
+18
+mitted by applicants for grants under this sec-
+19
+tion, and, as appropriate, submit to the Direc-
+20
+tor recommendations to improve such Plans 
+21
+prior to the Director’s determination regarding 
+22
+whether to approve such Plans; 
+23
+‘‘(C) advise and provide to the Director 
+24
+input regarding the Homeland Security Strat-
+25
+01:47 Feb 11, 2020
+H5823
+15 
+•HR 5823 IH
+egy to Improve Cybersecurity for State, Local, 
+1
+Tribal, and Territorial Governments required 
+2
+under section 2210; and 
+3
+‘‘(D) upon the request of the Director, pro-
+4
+vide to the Director recommendations, as ap-
+5
+propriate, regarding how to— 
+6
+‘‘(i) address cybersecurity risks and 
+7
+cybersecurity threats on information sys-
+8
+tems of State, local, Tribal, or territorial 
+9
+governments; 
+10
+‘‘(ii) and improve the cybersecurity re-
+11
+silience of such governments. 
+12
+‘‘(3) MEMBERSHIP.— 
+13
+‘‘(A) NUMBER
+AND
+APPOINTMENT.—The 
+14
+State and Local Cybersecurity Resiliency Com-
+15
+mittee shall be composed of 15 members ap-
+16
+pointed by the Director, as follows: 
+17
+‘‘(i) Two individuals recommended to 
+18
+the Director by the National Governors As-
+19
+sociation. 
+20
+‘‘(ii) Two individuals recommended to 
+21
+the Director by the National Association of 
+22
+State Chief Information Officers. 
+23
+01:47 Feb 11, 2020
+H5823
+16 
+•HR 5823 IH
+‘‘(iii) One individual recommended to 
+1
+the Director by the National Guard Bu-
+2
+reau. 
+3
+‘‘(iv) Two individuals recommended to 
+4
+the Director by the National Association of 
+5
+Counties. 
+6
+‘‘(v) Two individuals recommended to 
+7
+the Director by the National League of 
+8
+Cities. 
+9
+‘‘(vi) One individual recommended to 
+10
+the Director by the United States Con-
+11
+ference of Mayors. 
+12
+‘‘(vii) One individual recommended to 
+13
+the Director by the Multi-State Informa-
+14
+tion Sharing and Analysis Center. 
+15
+‘‘(viii) Four individuals who have edu-
+16
+cational and professional experience related 
+17
+to cybersecurity analysis or policy. 
+18
+‘‘(B) TERMS.—Each member of the State 
+19
+and Local Cybersecurity Resiliency Committee 
+20
+shall be appointed for a term of two years, ex-
+21
+cept that such term shall be three years only in 
+22
+the case of members who are appointed initially 
+23
+to the Committee upon the establishment of the 
+24
+Committee. Any member appointed to fill a va-
+25
+01:47 Feb 11, 2020
+H5823
+17 
+•HR 5823 IH
+cancy occurring before the expiration of the 
+1
+term for which the member’s predecessor was 
+2
+appointed shall be appointed only for the re-
+3
+mainder of such term. A member may serve 
+4
+after the expiration of such member’s term 
+5
+until a successor has taken office. A vacancy in 
+6
+the Commission shall be filled in the manner in 
+7
+which the original appointment was made. 
+8
+‘‘(C) PAY.—Members of the State and 
+9
+Local Cybersecurity Resiliency Committee shall 
+10
+serve without pay. 
+11
+‘‘(4) CHAIRPERSON; VICE CHAIRPERSON.—The 
+12
+members of the State and Local Cybersecurity Resil-
+13
+iency Committee shall select a chairperson and vice 
+14
+chairperson from among Committee members. 
+15
+‘‘(5) FEDERAL
+ADVISORY
+COMMITTEE
+ACT.— 
+16
+The Federal Advisory Committee Act (5 U.S.C. 
+17
+App.) shall not apply to the State and Local Cyber-
+18
+security Resilience Committee. 
+19
+‘‘(n) REPORTS.— 
+20
+‘‘(1) ANNUAL REPORTS BY STATE GRANT RE-
+21
+CIPIENTS.—A State that receives a grant under this 
+22
+section shall annually submit to the Secretary a re-
+23
+port on the progress of the State in implementing 
+24
+the Cybersecurity Plan approved pursuant to sub-
+25
+01:47 Feb 11, 2020
+H5823
+18 
+•HR 5823 IH
+section (g). If the State does not have a Cybersecu-
+1
+rity Plan approved pursuant to subsection (g), the 
+2
+State shall submit to the Secretary a report describ-
+3
+ing how grant funds were obligated and expended to 
+4
+develop a Cybersecurity Plan or improve the cyberse-
+5
+curity of information systems owned or operated by 
+6
+State, local, Tribal, or territorial governments in 
+7
+such State. The Secretary, acting through the Direc-
+8
+tor, shall make each such report publicly available, 
+9
+including by making each such report available on 
+10
+the internet website of the Agency, subject to any 
+11
+redactions the Director determines necessary to pro-
+12
+tect classified or other sensitive information. 
+13
+‘‘(2) ANNUAL
+REPORTS
+TO
+CONGRESS.—At 
+14
+least once each year, the Secretary, acting through 
+15
+the Director, shall submit to Congress a report on 
+16
+the use of grants awarded under this section and 
+17
+any progress made toward the following: 
+18
+‘‘(A) Achieving the objectives set forth in 
+19
+the Homeland Security Strategy to Improve the 
+20
+Cybersecurity of State, Local, Tribal, and Ter-
+21
+ritorial 
+Governments, 
+upon 
+the 
+strategy’s 
+22
+issuance under section 2210. 
+23
+‘‘(B) Developing, implementing, or revising 
+24
+Cybersecurity Plans. 
+25
+01:47 Feb 11, 2020
+H5823
+19 
+•HR 5823 IH
+‘‘(C) Reducing cybersecurity risks and cy-
+1
+bersecurity threats to information systems 
+2
+owned or operated by State, local, Tribal, and 
+3
+territorial governments as a result of the award 
+4
+of such grants. 
+5
+‘‘(o) AUTHORIZATION OF APPROPRIATIONS.—There 
+6
+are authorized to be appropriated for grants under this 
+7
+section— 
+8
+‘‘(1) for each of fiscal years 2021 through 
+9
+2025, $400,000,000; and 
+10
+‘‘(2) for each subsequent fiscal year, such sums 
+11
+as may be necessary. 
+12
+‘‘(p) DEFINITIONS.—In this section: 
+13
+‘‘(1) CRITICAL
+INFRASTRUCTURE.—The term 
+14
+‘critical infrastructure’ has the meaning given that 
+15
+term in section 2. 
+16
+‘‘(2) CYBER
+THREAT
+INDICATOR.—The term 
+17
+‘cyber threat indicator’ has the meaning given such 
+18
+term in section 102 of the Cybersecurity Act of 
+19
+2015. 
+20
+‘‘(3) CYBERSECURITY RISK.—The term ‘cyber-
+21
+security risk’ has the meaning given such term in 
+22
+section 2209. 
+23
+01:47 Feb 11, 2020
+H5823
+20 
+•HR 5823 IH
+‘‘(4) DIRECTOR.—The term ‘Director’ means 
+1
+the Director of the Cybersecurity and Infrastructure 
+2
+Security Agency. 
+3
+‘‘(5) INCIDENT.—The term ‘incident’ has the 
+4
+meaning given such term in section 2209. 
+5
+‘‘(6) INFORMATION SHARING AND ANALYSIS OR-
+6
+GANIZATION.—The term ‘information sharing and 
+7
+analysis organization’ has the meaning given such 
+8
+term in section 2222. 
+9
+‘‘(7) INFORMATION SYSTEM.—The term ‘infor-
+10
+mation system’ has the meaning given such term in 
+11
+section 102(9) of the Cybersecurity Act of 2015 (6 
+12
+U.S.C. 1501(9)). 
+13
+‘‘(8) KEY
+RESOURCES.—The term ‘key re-
+14
+sources’ has the meaning given that term in section 
+15
+2. 
+16
+‘‘(9) STATE.—The term ‘State’— 
+17
+‘‘(A) means each of the several States, the 
+18
+District of Colombia, and the territories and 
+19
+possessions of the United States; and 
+20
+‘‘(B) includes any federally recognized In-
+21
+dian tribe that notifies the Secretary, not later 
+22
+than 120 days after the date of the enactment 
+23
+of this section or not later than 120 days before 
+24
+the start of any fiscal year in which a grant 
+25
+01:47 Feb 11, 2020
+H5823
+21 
+•HR 5823 IH
+under this section is awarded, that the tribe in-
+1
+tends to develop a Cybersecurity Plan and 
+2
+agrees to forfeit any distribution under sub-
+3
+section (l)(2).’’. 
+4
+(b) CLERICAL AMENDMENT.—The table of contents 
+5
+in section 1(b) of the Homeland Security Act of 2002 is 
+6
+amended by inserting after the item relating to section 
+7
+2214 the following new item: 
+8
+‘‘Sec. 2215. State and Local Cybersecurity Grant Program.’’. 
+SEC. 3. STRATEGY. 
+9
+(a) HOMELAND SECURITY STRATEGY TO IMPROVE 
+10
+THE CYBERSECURITY OF STATE, LOCAL, TRIBAL, AND 
+11
+TERRITORIAL
+GOVERNMENTS.—Section 2210 of the 
+12
+Homeland Security Act of 2002 (6 U.S.C. 660) is amend-
+13
+ed by adding at the end the following new subsection: 
+14
+‘‘(e) HOMELAND SECURITY STRATEGY TO IMPROVE 
+15
+THE CYBERSECURITY OF STATE, LOCAL, TRIBAL, AND 
+16
+TERRITORIAL GOVERNMENTS.— 
+17
+‘‘(1) IN GENERAL.—Not later than 270 days 
+18
+after the date of the enactment of this subsection, 
+19
+the Secretary, acting through the Director, shall, in 
+20
+coordination with appropriate Federal departments 
+21
+and agencies, State, local, Tribal, and territorial 
+22
+governments, the State and Local Cybersecurity Re-
+23
+silience Committee (established under section 2215), 
+24
+and other stakeholders, as appropriate, develop and 
+25
+02:53 Feb 11, 2020
+H5823
+22 
+•HR 5823 IH
+make publicly available a Homeland Security Strat-
+1
+egy to Improve the Cybersecurity of State, Local, 
+2
+Tribal, and Territorial Governments that provides 
+3
+recommendations regarding how the Federal Gov-
+4
+ernment should support and promote the ability 
+5
+State, local, Tribal, and territorial governments to 
+6
+identify, prepare for, detect, protect against, respond 
+7
+to, and recover from cybersecurity risks, cybersecu-
+8
+rity threats, and incidents (as such term is defined 
+9
+in section 2209) and establishes baseline require-
+10
+ments and principles to which Cybersecurity Plans 
+11
+under such section shall be aligned. 
+12
+‘‘(2) 
+CONTENTS.—The 
+Homeland 
+Security 
+13
+Strategy to Improve the Cybersecurity of State, 
+14
+Local, Tribal, and Territorial Governments required 
+15
+under paragraph (1) shall— 
+16
+‘‘(A) identify capability gaps in the ability 
+17
+of State, local, Tribal, and territorial govern-
+18
+ments to identify, prepare for, detect, protect 
+19
+against, respond to, and recover from cyberse-
+20
+curity risks, cybersecurity threats, and inci-
+21
+dents; 
+22
+‘‘(B) identify Federal resources and capa-
+23
+bilities that are available or could be made 
+24
+available to State, local, Tribal, and territorial 
+25
+01:47 Feb 11, 2020
+H5823
+23 
+•HR 5823 IH
+governments to help such governments identify, 
+1
+prepare for, detect, protect against, respond to, 
+2
+and recover from cybersecurity risks, cybersecu-
+3
+rity threats, and incidents; 
+4
+‘‘(C) identify and assess the limitations of 
+5
+Federal resources and capabilities available to 
+6
+State, local, Tribal, and territorial governments 
+7
+to help such governments identify, prepare for, 
+8
+detect, protect against, respond to, and recover 
+9
+from cybersecurity risks, cybersecurity threats, 
+10
+and incidents, and make recommendations to 
+11
+address such limitations; 
+12
+‘‘(D) identify opportunities to improve the 
+13
+Agency’s coordination with Federal and non- 
+14
+Federal entities, such as the Multi-State Infor-
+15
+mation Sharing and Analysis Center, to im-
+16
+prove incident exercises, information sharing 
+17
+and incident notification procedures, the ability 
+18
+for State, local, Tribal, and territorial govern-
+19
+ments to voluntarily adapt and implement guid-
+20
+ance in Federal binding operational directives, 
+21
+and opportunities to leverage Federal schedules 
+22
+for cybersecurity investments under section 502 
+23
+of title 40, United States Code; 
+24
+01:47 Feb 11, 2020
+H5823
+24 
+•HR 5823 IH
+‘‘(E) recommend new initiatives the Fed-
+1
+eral Government should undertake to improve 
+2
+the ability of State, local, Tribal, and territorial 
+3
+governments to help such governments identify, 
+4
+prepare for, detect, protect against, respond to, 
+5
+and recover from cybersecurity risks, cybersecu-
+6
+rity threats, and incidents; 
+7
+‘‘(F) set short-term and long-term goals 
+8
+that will improve the ability of State, local, 
+9
+Tribal, and territorial governments to help such 
+10
+governments identify, prepare for, detect, pro-
+11
+tect against, respond to, and recover from cy-
+12
+bersecurity risks, cybersecurity threats, and in-
+13
+cidents; and 
+14
+‘‘(G) set dates, including interim bench-
+15
+marks, as appropriate for State, local, Tribal, 
+16
+territorial governments to establish baseline ca-
+17
+pabilities to identify, prepare for, detect, protect 
+18
+against, respond to, and recover from cyberse-
+19
+curity risks, cybersecurity threats, and inci-
+20
+dents. 
+21
+‘‘(3) 
+CONSIDERATIONS.—In 
+developing 
+the 
+22
+Homeland Security Strategy to Improve the Cyber-
+23
+security of State, Local, Tribal, and Territorial Gov-
+24
+ernments required under paragraph (1), the Direc-
+25
+01:47 Feb 11, 2020
+H5823
+25 
+•HR 5823 IH
+tor, in coordination with appropriate Federal depart-
+1
+ments and agencies, State, local, Tribal, and terri-
+2
+torial governments, the State and Local Cybersecu-
+3
+rity Resilience Committee, and other stakeholders, 
+4
+as appropriate, shall consider— 
+5
+‘‘(A) lessons learned from incidents that 
+6
+have affected State, local, Tribal, and territorial 
+7
+governments, and exercises with Federal and 
+8
+non-Federal entities; 
+9
+‘‘(B) the impact of incidents that have af-
+10
+fected State, local, Tribal, and territorial gov-
+11
+ernments, including the resulting costs to such 
+12
+governments; 
+13
+‘‘(C) the information related to the interest 
+14
+and ability of state and non-state threat actors 
+15
+to compromise information systems owned or 
+16
+operated by State, local, Tribal, and territorial 
+17
+governments; 
+18
+‘‘(D) emerging cybersecurity risks to State, 
+19
+local, Tribal, and territorial governments result-
+20
+ing from the deployment of new technologies; 
+21
+and 
+22
+‘‘(E) recommendations made by the State 
+23
+and 
+Local 
+Cybersecurity 
+Resilience 
+Com-
+24
+mittee.’’. 
+25
+01:47 Feb 11, 2020
+H5823
+26 
+•HR 5823 IH
+(b) RESPONSIBILITIES OF THE DIRECTOR OF THE 
+1
+CYBERSECURITY AND INFRASTRUCTURE SECURITY AGEN-
+2
+CY.—Subsection (c) of section 2202 of the Homeland Se-
+3
+curity Act of 2002 (6 U.S.C. 652) is amended— 
+4
+(1) by redesignating paragraphs (6) through 
+5
+(11) as paragraphs (10) through (15), respectively; 
+6
+and 
+7
+(2) by inserting after paragraph (5) the fol-
+8
+lowing new paragraphs: 
+9
+‘‘(6) develop program guidance, in consultation 
+10
+with the State and Local Government Cybersecurity 
+11
+Resiliency Committee established under section 
+12
+2215, for the State and Local Cybersecurity Grant 
+13
+Program under such section or any other homeland 
+14
+security assistance administered by the Department 
+15
+to improve cybersecurity; 
+16
+‘‘(7) review, in consultation with the State and 
+17
+Local Cybersecurity Resiliency Committee, all cyber-
+18
+security plans of State, local, Tribal, and territorial 
+19
+governments developed pursuant to any homeland 
+20
+security assistance administered by the Department 
+21
+to improve cybersecurity; 
+22
+‘‘(8) provide expertise and technical assistance 
+23
+to State, local, Tribal, and territorial government of-
+24
+ficials with respect to cybersecurity; 
+25
+01:47 Feb 11, 2020
+H5823
+27 
+•HR 5823 IH
+‘‘(9) provide education, training, and capacity 
+1
+development to enhance the security and resilience 
+2
+of cybersecurity and infrastructure security;’’. 
+3
+(c) FEASIBILITY STUDY.—Not later than 180 days 
+4
+after the date of the enactment of this Act, the Director 
+5
+of the Cybersecurity and Infrastructure Security Agency 
+6
+of the Department of Homeland Security shall conduct a 
+7
+study to assess the feasibility of implementing a short- 
+8
+term rotational program for the detail of approved State, 
+9
+local, Tribal, and territorial government employees in 
+10
+cyber workforce positions to the Agency. 
+11
+Æ 
+01:47 Feb 11, 2020
+H5823

@@ -1,0 +1,667 @@
+A BILL 
+To promote competition and reduce gatekeeper power in the 
+app economy, increase choice, improve quality, and re-
+duce costs for consumers. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Open App Markets 
+4
+Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) APP.—The term ‘‘app’’ means a software 
+8
+application or electronic service that may be run or 
+9
+21:37 Mar 13, 2022
+H7030
+2 
+•HR 7030 IH
+directed by a user on a computer, a mobile device, 
+1
+or any other general purpose computing device. 
+2
+(2) APP STORE.—The term ‘‘app store’’ means 
+3
+a publicly available website, software application, or 
+4
+other electronic service that distributes apps from 
+5
+third-party developers to users of a computer, a mo-
+6
+bile device, or any other general purpose computing 
+7
+device. 
+8
+(3) COVERED
+COMPANY.—The term ‘‘covered 
+9
+company’’ means any person that owns or controls 
+10
+an app store for which users in the United States 
+11
+exceed 50,000,000. 
+12
+(4) DEVELOPER.—The term ‘‘developer’’ means 
+13
+a person that owns or controls an app or an app 
+14
+store. 
+15
+(5) IN-APP PAYMENT SYSTEM.—The term ‘‘in- 
+16
+app payment system’’ means an application, service, 
+17
+or user interface to manage billing or process the 
+18
+payments from users of an app. 
+19
+(6) NONPUBLIC BUSINESS INFORMATION.—The 
+20
+term ‘‘nonpublic business information’’ means non-
+21
+public data that is— 
+22
+(A) derived from a developer or an app or 
+23
+app store owned or controlled by a developer, 
+24
+21:37 Mar 13, 2022
+H7030
+3 
+•HR 7030 IH
+including interactions between users and the 
+1
+app or app store of the developer; and 
+2
+(B) collected by a covered company in the 
+3
+course of operating an app store or providing 
+4
+an operating system. 
+5
+SEC. 3. PROTECTING A COMPETITIVE APP MARKET. 
+6
+(a) EXCLUSIVITY AND TYING.—A covered company 
+7
+shall not— 
+8
+(1) require developers to use or enable an in- 
+9
+app payment system owned or controlled by the cov-
+10
+ered company or any of its business partners as a 
+11
+condition of the distribution of an app on an app 
+12
+store or accessible on an operating system; 
+13
+(2) require as a term of distribution on an app 
+14
+store that pricing terms or conditions of sale be 
+15
+equal to or more favorable on its app store than the 
+16
+terms or conditions under another app store; or 
+17
+(3) take punitive action or otherwise impose 
+18
+less favorable terms and conditions against a devel-
+19
+oper for using or offering different pricing terms or 
+20
+conditions of sale through another in-app payment 
+21
+system or on another app store. 
+22
+(b) INTERFERENCE WITH LEGITIMATE BUSINESS 
+23
+COMMUNICATIONS.—A covered company shall not impose 
+24
+restrictions on communications of developers with the 
+25
+21:37 Mar 13, 2022
+H7030
+4 
+•HR 7030 IH
+users of an app of the developer through the app or direct 
+1
+outreach to a user concerning legitimate business offers, 
+2
+such as pricing terms and product or service offerings. 
+3
+Nothing in this subsection shall prohibit a covered com-
+4
+pany from providing a user the option to offer consent 
+5
+prior to the collection and sharing of the data of the user 
+6
+by an app. 
+7
+(c) NONPUBLIC BUSINESS INFORMATION.—A cov-
+8
+ered company shall not use nonpublic business information 
+9
+derived from a third-party app for the purpose of com-
+10
+peting with that app. 
+11
+(d) INTEROPERABILITY.—A covered company that 
+12
+controls the operating system or operating system configu-
+13
+ration on which its app store operates shall allow and pro-
+14
+vide readily accessible means for users of that operating 
+15
+system to— 
+16
+(1) choose third-party apps or app stores as de-
+17
+faults for categories appropriate to the app or app 
+18
+store; 
+19
+(2) install third-party apps or app stores 
+20
+through means other than its app store; and 
+21
+(3) hide or delete apps or app stores provided 
+22
+or preinstalled by the app store owner or any of its 
+23
+business partners. 
+24
+(e) SELF-PREFERENCING IN SEARCH.— 
+25
+21:37 Mar 13, 2022
+H7030
+5 
+•HR 7030 IH
+(1) IN GENERAL.—A covered company shall not 
+1
+provide unequal treatment of apps in an app store 
+2
+through unreasonably preferencing or ranking the 
+3
+apps of the covered company or any of its business 
+4
+partners over those of other apps in organic search 
+5
+results. 
+6
+(2) 
+CONSIDERATIONS.—Unreasonably 
+7
+preferencing— 
+8
+(A) includes applying ranking schemes or 
+9
+algorithms that prioritize apps based on a cri-
+10
+terion of ownership interest by the covered com-
+11
+pany or its business partners; and 
+12
+(B) does not include clearly disclosed ad-
+13
+vertising. 
+14
+(f) OPEN APP DEVELOPMENT.—A covered company 
+15
+shall provide access to operating system interfaces, devel-
+16
+opment information, and hardware and software features 
+17
+to developers on a timely basis and on terms that are 
+18
+equivalent or functionally equivalent to the terms for ac-
+19
+cess by similar apps or functions provided by the covered 
+20
+company or to its business partners. 
+21
+SEC. 4. PROTECTING THE SECURITY AND PRIVACY OF 
+22
+USERS. 
+23
+(a) IN GENERAL.— 
+24
+21:37 Mar 13, 2022
+H7030
+6 
+•HR 7030 IH
+(1) NO VIOLATION.—Subject to section (b), a 
+1
+covered company shall not be in violation of section 
+2
+3 for an action that is— 
+3
+(A) necessary to achieve user privacy, secu-
+4
+rity, or digital safety; 
+5
+(B) taken to prevent spam or fraud; 
+6
+(C) necessary to prevent unlawful infringe-
+7
+ment of preexisting intellectual property; or 
+8
+(D) taken to prevent a violation of, or 
+9
+comply with, Federal or State law. 
+10
+(2) PRIVACY AND SECURITY PROTECTIONS.—In 
+11
+paragraph (1), the term ‘‘necessary to achieve user 
+12
+privacy, security, or digital safety’’ includes— 
+13
+(A) allowing an end user to opt in, and 
+14
+providing information regarding the reasonable 
+15
+risks, prior to enabling installation of the third- 
+16
+party apps or app stores; 
+17
+(B) removing malicious or fraudulent apps 
+18
+or app stores from an end user device; 
+19
+(C) providing an end user with the tech-
+20
+nical means to verify the authenticity and origin 
+21
+of third-party apps or app stores; and 
+22
+(D) providing an end user with option to 
+23
+limit the collection sharing of the data of the 
+24
+user with third-party apps or app stores. 
+25
+21:37 Mar 13, 2022
+H7030
+7 
+•HR 7030 IH
+(b) REQUIREMENTS.—Subsection (a) shall only apply 
+1
+if the covered company establishes by a preponderance of 
+2
+the evidence that the action described in that subsection 
+3
+is— 
+4
+(1) applied on a demonstrably consistent basis 
+5
+to— 
+6
+(A) apps of the covered company or its 
+7
+business partners; and 
+8
+(B) other apps; 
+9
+(2) not used as a pretext to exclude, or impose 
+10
+unnecessary or discriminatory terms on, third-party 
+11
+apps, in-app payment systems, or app stores; and 
+12
+(3) narrowly tailored and could not be achieved 
+13
+through a less discriminatory and technically pos-
+14
+sible means. 
+15
+SEC. 5. ENFORCEMENT. 
+16
+(a) ENFORCEMENT.— 
+17
+(1) IN GENERAL.—The Federal Trade Commis-
+18
+sion, the Attorney General, and any attorney general 
+19
+of a State subject to the requirements in paragraph 
+20
+(3) shall enforce this Act in the same manner, by 
+21
+the same means, and with the same jurisdiction, 
+22
+powers, and duties as though all applicable terms 
+23
+and provisions of the Federal Trade Commission Act 
+24
+(15 U.S.C. 41 et seq.), the Sherman Act (15 U.S.C. 
+25
+21:37 Mar 13, 2022
+H7030
+8 
+•HR 7030 IH
+1 et seq.), the Clayton Act (15 U.S.C. 12 et seq.), 
+1
+and Antitrust Civil Process Act (15 U.S.C. 1311 et 
+2
+seq.), as appropriate, were incorporated into and 
+3
+made a part of this Act. 
+4
+(2) 
+FEDERAL
+TRADE
+COMMISSION
+INDE-
+5
+PENDENT LITIGATION AUTHORITY.—If the Federal 
+6
+Trade Commission has reason to believe that a cov-
+7
+ered company violated this Act, the Federal Trade 
+8
+Commission may commence a civil action, in its own 
+9
+name by any of its attorneys designated by it for 
+10
+such purpose, to recover a civil penalty and seek 
+11
+other appropriate relief in a district court of the 
+12
+United States against the covered company. 
+13
+(3) PARENS PATRIAE.—Any attorney general of 
+14
+a State may bring a civil action in the name of such 
+15
+State for a violation of this Act as parens patriae on 
+16
+behalf of natural persons residing in such State, in 
+17
+any district court of the United States having juris-
+18
+diction of the defendant, and may secure any form 
+19
+of relief provided for in this section. 
+20
+(b) SUITS BY DEVELOPERS INJURED.— 
+21
+(1) IN GENERAL.—Except as provided in para-
+22
+graph (3), any developer injured by reason of any-
+23
+thing forbidden in this Act may sue therefor in any 
+24
+district court of the United States in the district in 
+25
+21:37 Mar 13, 2022
+H7030
+9 
+•HR 7030 IH
+which the defendant resides or is found or has an 
+1
+agent, without respect to the amount in controversy, 
+2
+and shall recover threefold the damages by the devel-
+3
+oper sustained and the cost of suit, including a rea-
+4
+sonable attorney’s fee. The court may award under 
+5
+this paragraph, pursuant to a motion by such devel-
+6
+oper promptly made, simple interest on actual dam-
+7
+ages for the period beginning on the date of service 
+8
+of the pleading of the developer setting forth a claim 
+9
+under this Act and ending on the date of judgment, 
+10
+or for any shorter period therein, if the court finds 
+11
+that the award of such interest for such period is 
+12
+just in the circumstances. In determining whether 
+13
+an award of interest under this paragraph for any 
+14
+period is just in the circumstances, the court shall 
+15
+consider only— 
+16
+(A) whether the developer or the opposing 
+17
+party, or either party’s representative, made 
+18
+motions or asserted claims or defenses so lack-
+19
+ing in merit as to show that such party or rep-
+20
+resentative acted intentionally for delay or oth-
+21
+erwise acted in bad faith; 
+22
+(B) whether, in the course of the action in-
+23
+volved, the developer or the opposing party, or 
+24
+either party’s representative, violated any appli-
+25
+21:37 Mar 13, 2022
+H7030
+10 
+•HR 7030 IH
+cable rule, statute, or court order providing for 
+1
+sanctions for dilatory behavior or otherwise pro-
+2
+viding for expeditious proceedings; and 
+3
+(C) whether the developer or the opposing 
+4
+party, or either party’s representative, engaged 
+5
+in conduct primarily for the purpose of delaying 
+6
+the litigation or increasing the cost thereof. 
+7
+(2) INJUNCTIVE RELIEF.—Except as provided 
+8
+in paragraph (3), any developer shall be entitled to 
+9
+sue for and have injunctive relief, in any court of the 
+10
+United States having jurisdiction over the parties, 
+11
+against threatened loss or damage by a violation of 
+12
+this Act, when and under the same conditions and 
+13
+principles as injunctive relief against threatened con-
+14
+duct that will cause loss or damage is granted by 
+15
+courts of equity, under the rules governing such pro-
+16
+ceedings, and upon the execution of proper bond 
+17
+against damages for an injunction improvidently 
+18
+granted and a showing that the danger of irrep-
+19
+arable loss or damage is immediate, a preliminary 
+20
+injunction may issue. In any action under this para-
+21
+graph in which the plaintiff substantially prevails, 
+22
+the court shall award the cost of suit, including a 
+23
+reasonable attorney’s fee, to such plaintiff. 
+24
+21:37 Mar 13, 2022
+H7030
+11 
+•HR 7030 IH
+(3) FOREIGN STATE-OWNED ENTERPRISES.—A 
+1
+developer of an app that is owned by, or under the 
+2
+control of, a foreign state may not bring an action 
+3
+under this subsection. 
+4
+SEC. 6. REPORTING. 
+5
+Not later than 3 years after the date of enactment 
+6
+of this Act, the Federal Trade Commission, the Comp-
+7
+troller General of the United States, and the Antitrust Di-
+8
+vision of the Department of Justice shall each separately 
+9
+review and provide an in-depth analysis of the impact of 
+10
+this Act on competition, innovation, barriers to entry, and 
+11
+concentrations of market power or market share after the 
+12
+date of enactment of this Act. 
+13
+SEC. 7. RULE OF CONSTRUCTION. 
+14
+Nothing in this Act may be construed— 
+15
+(1) to limit— 
+16
+(A) any authority of the Attorney General 
+17
+or the Federal Trade Commission under the 
+18
+antitrust laws (as defined in the first section of 
+19
+the Clayton Act (15 U.S.C. 12), the Federal 
+20
+Trade Commission Act (15 U.S.C. 41 et seq.), 
+21
+or any other provision of law; or 
+22
+(B) the application of any law; 
+23
+(2) to require— 
+24
+21:37 Mar 13, 2022
+H7030
+12 
+•HR 7030 IH
+(A) a covered company to provide service 
+1
+under a hardware or software warranty for 
+2
+damage caused by third-party apps or app 
+3
+stores installed through means other than the 
+4
+app store of the covered company; or 
+5
+(B) customer service for the installation or 
+6
+operation of third-party apps or app stores de-
+7
+scribed in subparagraph (A); 
+8
+(3) to prevent an action taken by a covered 
+9
+company that is reasonably tailored to protect the 
+10
+rights of third parties under section 106, 1101, 
+11
+1201, or 1401 of title 17, United States Code, or 
+12
+rights actionable under sections 32 or 43 of the Act 
+13
+entitled ‘‘An Act to provide for the registration and 
+14
+protection of trademarks used in commerce, to carry 
+15
+out the provisions of certain international conven-
+16
+tions, and for other purposes’’, approved July 5, 
+17
+1946 (commonly known as the ‘‘Lanham Act’’ or the 
+18
+‘‘Trademark Act of 1946’’) (15 U.S.C. 1114, 1125), 
+19
+or corollary State law; 
+20
+(4) to require a covered company to license any 
+21
+intellectual property, including any trade secrets, 
+22
+owned by or licensed to the covered company; 
+23
+(5) to prevent a covered company from assert-
+24
+ing preexisting rights of the covered company under 
+25
+21:37 Mar 13, 2022
+H7030
+13 
+•HR 7030 IH
+intellectual property law to prevent the unlawful use 
+1
+of any intellectual property owned by or duly li-
+2
+censed to the covered company; or 
+3
+(6) to require a covered company to inter-
+4
+operate or share data with persons or business users 
+5
+that— 
+6
+(A) are on any list maintained by the Fed-
+7
+eral Government by which entities are identified 
+8
+as limited or prohibited from engaging in eco-
+9
+nomic transactions as part of United States 
+10
+sanctions or export control regimes; or 
+11
+(B) have been identified by the Federal 
+12
+Government as national security, intelligence, or 
+13
+law enforcement risks. 
+14
+SEC. 8. SEVERABILITY. 
+15
+If any provision of this Act, or the application of such 
+16
+a provision to any person or circumstance, is held to be 
+17
+unconstitutional, the remaining provisions of this Act, and 
+18
+the application of such provisions to any person or cir-
+19
+cumstance shall not be affected thereby. 
+20
+SEC. 9. EFFECTIVE DATE. 
+21
+This Act shall take effect on the date that is 180 days 
+22
+after the date of enactment of this Act. 
+23
+Æ 
+21:37 Mar 13, 2022
+H7030

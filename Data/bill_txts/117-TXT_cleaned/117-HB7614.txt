@@ -1,0 +1,3823 @@
+A BILL 
+To provide for orderly and secure digital commodity exchange 
+markets, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Digital Commodity Ex-
+4
+change Act of 2022’’. 
+5
+SEC. 2. AMENDMENTS TO THE COMMODITY EXCHANGE 
+6
+ACT. 
+7
+(a) DEFINITIONS.—Section 1a of the Commodity Ex-
+8
+change Act (7 U.S.C. 1a) is amended— 
+9
+(1) in paragraph (28)(A)(i)— 
+10
+03:24 Apr 30, 2022
+H7614
+2 
+•HR 7614 IH
+(A) in subclause (I)— 
+1
+(i) in item (aa)— 
+2
+(I) by striking ‘‘or’’ at the end of 
+3
+subitem (EE); and 
+4
+(II) by adding at the end the fol-
+5
+lowing: 
+6
+‘‘(GG) the purchase or 
+7
+sale of a unit of a digital 
+8
+commodity that is traded on 
+9
+or subject to the rules of a 
+10
+registered entity;’’; 
+11
+(ii) in item (bb), by striking ‘‘and’’ 
+12
+and inserting ‘‘or’’; and 
+13
+(iii) by adding at the end the fol-
+14
+lowing: 
+15
+‘‘(cc) 
+acting 
+as 
+a 
+16
+counterparty to any cash or spot 
+17
+agreement, contract, or trans-
+18
+action involving a digital com-
+19
+modity with a person who is not 
+20
+an eligible contract participant, 
+21
+unless the activity is— 
+22
+‘‘(AA) 
+conducted 
+in 
+23
+compliance with the laws of 
+24
+03:24 Apr 30, 2022
+H7614
+3 
+•HR 7614 IH
+the State in which the activ-
+1
+ity occurs; 
+2
+‘‘(BB) subject to regu-
+3
+lation by another Federal 
+4
+authority; or 
+5
+‘‘(CC) separately regu-
+6
+lated under this Act; and’’; 
+7
+and 
+8
+(B) in subclause (II), by striking ‘‘(aa) or 
+9
+(bb)’’ and inserting ‘‘(aa), (bb), or (cc)’’; 
+10
+(2) in paragraph (40)— 
+11
+(A) in subparagraph (E), by striking 
+12
+‘‘and’’ at the end; and 
+13
+(B) by redesignating subparagraph (F) as 
+14
+subparagraph (G) and inserting after subpara-
+15
+graph (E) the following: 
+16
+‘‘(F) a digital commodity exchange reg-
+17
+istered under section 5i; and’’; and 
+18
+(3) by adding at the end the following: 
+19
+‘‘(52) DIGITAL COMMODITY.— 
+20
+‘‘(A) IN GENERAL.—The term ‘digital com-
+21
+modity’ means any form of fungible intangible 
+22
+personal property that can be exclusively pos-
+23
+sessed and transferred person to person without 
+24
+necessary reliance on an intermediary. 
+25
+03:24 Apr 30, 2022
+H7614
+4 
+•HR 7614 IH
+‘‘(B) EXCLUSIONS.—The term ‘digital 
+1
+commodity’ does not include any asset that con-
+2
+veys— 
+3
+‘‘(i) an equity or debt interest in a 
+4
+company, partnership, or fund; 
+5
+‘‘(ii) a profit or revenue share derived 
+6
+solely from the managerial efforts of oth-
+7
+ers; or 
+8
+‘‘(iii) an entitlement to any interest or 
+9
+dividend payment. 
+10
+‘‘(C) FURTHER EXCLUSIONS.—The Com-
+11
+mission, by rule or regulation, may exclude 
+12
+from the term ‘digital commodity’ any intan-
+13
+gible personal property that can be exclusively 
+14
+possessed and transferred person to person 
+15
+without necessary reliance on an intermediary 
+16
+that is not of the nature of a digital asset, if 
+17
+the Commission determines that the rule or reg-
+18
+ulation will effectuate the purposes of this Act. 
+19
+‘‘(53) DIGITAL COMMODITY CUSTODIAN.—The 
+20
+term ‘digital commodity custodian’ means an entity 
+21
+that holds, maintains, or safeguards digital commod-
+22
+ities and other assets on behalf of digital commodity 
+23
+market participants. 
+24
+03:24 Apr 30, 2022
+H7614
+5 
+•HR 7614 IH
+‘‘(54) DIGITAL
+COMMODITY
+EXCHANGE.—The 
+1
+term ‘digital commodity exchange’ means a trading 
+2
+facility that lists for trading at least one digital com-
+3
+modity. 
+4
+‘‘(55) DIGITAL
+COMMODITY
+PRESALE.—The 
+5
+term ‘digital commodity presale’ means the delivery 
+6
+of a unit of a digital commodity, or any promise or 
+7
+right to a future unit of a digital commodity, before 
+8
+the listing of the digital commodity for trading on 
+9
+a registered digital commodity exchange, to— 
+10
+‘‘(A) a participant in a securities offering 
+11
+that is— 
+12
+‘‘(i) intended to finance the develop-
+13
+ment of the digital commodity; and 
+14
+‘‘(ii) conducted in compliance with the 
+15
+Securities Act of 1933; 
+16
+‘‘(B) a founder, promoter, developer, man-
+17
+ager, affiliated organization, or other person di-
+18
+rectly associated with the development of the 
+19
+digital commodity; or 
+20
+‘‘(C) any other person the Commission de-
+21
+termines has personal knowledge of the activi-
+22
+ties of individuals directly associated with the 
+23
+development of the digital commodity.’’. 
+24
+03:24 Apr 30, 2022
+H7614
+6 
+•HR 7614 IH
+(b) COMMISSION JURISDICTION OVER RETAIL DIG-
+1
+ITAL COMMODITY TRANSACTIONS.— 
+2
+(1) IN GENERAL.—Section 2(c)(2) of such Act 
+3
+(7 U.S.C. 2(c)(2)) is amended— 
+4
+(A) in subparagraph (D)(ii)— 
+5
+(i) in subclause (III), in the matter 
+6
+that precedes item (aa), by inserting ‘‘of a 
+7
+commodity, other than a digital com-
+8
+modity,’’ before ‘‘that’’; and 
+9
+(ii) by redesignating subclauses (IV) 
+10
+and (V) as subclauses (V) and (VI) and in-
+11
+serting after subclause (III) the following: 
+12
+‘‘(IV) a contract of sale of a dig-
+13
+ital commodity that— 
+14
+‘‘(aa) results in actual deliv-
+15
+ery within 2 days or such other 
+16
+period as the Commission may 
+17
+determine by rule or regulation 
+18
+based upon the typical commer-
+19
+cial practice in cash or spot mar-
+20
+kets for the digital commodity in-
+21
+volved; or 
+22
+‘‘(bb) is executed on or sub-
+23
+ject to the rules of a registered 
+24
+digital commodity exchange or 
+25
+03:24 Apr 30, 2022
+H7614
+7 
+•HR 7614 IH
+with a registered futures commis-
+1
+sion merchant;’’; and 
+2
+(B) by adding at the end the following: 
+3
+‘‘(F) COMMISSION JURISDICTION OVER DIGITAL 
+4
+COMMODITY TRANSACTIONS.— 
+5
+‘‘(i) IN GENERAL.—Subject to sections 6d and 
+6
+12(e), the Commission shall have exclusive jurisdic-
+7
+tion over any agreement, contract, or transaction in-
+8
+volving a contract of sale of a digital commodity in 
+9
+interstate commerce. 
+10
+‘‘(ii) WITHHOLDING OF RULEMAKING AUTHOR-
+11
+ITY
+OVER
+CERTAIN
+TRANSACTIONS.—Notwith-
+12
+standing clause (i), this subparagraph shall not be 
+13
+interpreted to permit the Commission to issue any 
+14
+rule or regulation regarding any agreement, con-
+15
+tract, or transaction that is not offered, solicited, 
+16
+traded, facilitated, executed, cleared, reported, or 
+17
+otherwise dealt in— 
+18
+‘‘(I) on or subject to the rules of a reg-
+19
+istered entity; 
+20
+‘‘(II) by any other entity registered by the 
+21
+Commission; or 
+22
+‘‘(III) for the purpose of transferring a 
+23
+digital commodity, or any promise or right to a 
+24
+future unit of a digital commodity, obtained 
+25
+03:24 Apr 30, 2022
+H7614
+8 
+•HR 7614 IH
+through a digital commodity presale and subject 
+1
+to section 4c(h). 
+2
+‘‘(iii) LIMITATIONS.—Clause (i) shall not apply 
+3
+with respect to— 
+4
+‘‘(I) custodial or depository activities for a 
+5
+digital commodity, or custodial or depository ac-
+6
+tivities for any promise or right to a future dig-
+7
+ital commodity, of an entity regulated by a 
+8
+State or other Federal regulatory agency; or 
+9
+‘‘(II) a securities offering or transaction 
+10
+associated with— 
+11
+‘‘(aa) a digital commodity presale; or 
+12
+‘‘(bb) a sale described in section 
+13
+4c(h)(3)(A).’’. 
+14
+(2) 
+CONFORMING
+AMENDMENT.—Section 
+15
+2(a)(1)(A) of such Act (7 U.S.C. 2(a)(1)(A)) is 
+16
+amended in the 1st sentence by inserting ‘‘sub-
+17
+section (c)(2)(F) of this section or’’ before ‘‘section 
+18
+19’’. 
+19
+(c) PROHIBITED TRANSACTIONS.—Section 4c of such 
+20
+Act (7 U.S.C. 6c) is amended by adding at the end the 
+21
+following: 
+22
+‘‘(h) PROHIBITED
+DIGITAL
+COMMODITY
+TRANS-
+23
+ACTIONS.— 
+24
+03:24 Apr 30, 2022
+H7614
+9 
+•HR 7614 IH
+‘‘(1) IN GENERAL.—It shall be a violation of 
+1
+this Act for any person who owns or controls a unit 
+2
+of a digital commodity, or any promise or right to 
+3
+a future unit of a digital commodity, obtained 
+4
+through a digital commodity presale and subject to 
+5
+the restrictions in this subsection, to offer to enter 
+6
+into, to enter into, or to execute a contract for the 
+7
+purchase or sale of the unit, promise, or right, ex-
+8
+cept as provided in paragraph (3). 
+9
+‘‘(2) UNLAWFUL FACILITATION OF PROHIBITED 
+10
+TRANSACTIONS.—It shall be a violation of this Act 
+11
+for any person willfully to execute, confirm the exe-
+12
+cution of, or conduct any office or business for the 
+13
+purpose of soliciting, accepting any order for, or oth-
+14
+erwise dealing in, any transaction in, or in connec-
+15
+tion with, a contract for the purchase or sale of a 
+16
+unit of a digital commodity, or any promise or right 
+17
+to a future unit of a digital commodity, which such 
+18
+person has reason to believe is obtained through a 
+19
+digital commodity presale and subject to the restric-
+20
+tions in this subsection, except as provided in para-
+21
+graph (3). 
+22
+‘‘(3) EXCEPTIONS.— 
+23
+‘‘(A) OFF-EXCHANGE TRANSACTIONS.— 
+24
+03:24 Apr 30, 2022
+H7614
+10 
+•HR 7614 IH
+‘‘(i) SALE OF A PROMISE OR RIGHT.— 
+1
+A promise or right to a future unit of a 
+2
+digital commodity obtained through a dig-
+3
+ital commodity presale may be sold pursu-
+4
+ant to a securities transaction conducted in 
+5
+compliance with the Securities Act of 
+6
+1933. 
+7
+‘‘(ii) SALE
+OF
+A
+DIGITAL
+COM-
+8
+MODITY.—A unit of a digital commodity 
+9
+obtained through a digital commodity 
+10
+presale may be sold— 
+11
+‘‘(I) pursuant to a securities 
+12
+transaction conducted in compliance 
+13
+with the Securities Act of 1933; or 
+14
+‘‘(II) to an accredited investor 
+15
+(as defined in section 2(a)(15) of such 
+16
+Act). 
+17
+‘‘(iii) TREATMENT.—For purposes of 
+18
+this subsection, a unit of a digital com-
+19
+modity or any promise or right to a future 
+20
+unit of a digital commodity obtained 
+21
+through a transaction utilizing this excep-
+22
+tion shall continue to be considered to be 
+23
+obtained through a digital commodity 
+24
+presale. 
+25
+03:24 Apr 30, 2022
+H7614
+11 
+•HR 7614 IH
+‘‘(B) ON-EXCHANGE TRANSACTIONS.— 
+1
+‘‘(i) IN GENERAL.—A unit of a digital 
+2
+commodity that is obtained through a dig-
+3
+ital commodity presale or a transaction de-
+4
+scribed in subparagraph (A) may be of-
+5
+fered for sale or exchange on a registered 
+6
+digital commodity exchange, subject to any 
+7
+limitations imposed by the exchange. 
+8
+‘‘(ii) TREATMENT.—For purposes of 
+9
+this subsection, a unit of a digital com-
+10
+modity obtained through a transaction uti-
+11
+lizing this exception shall not be considered 
+12
+to be obtained though a digital commodity 
+13
+presale. 
+14
+‘‘(C) UTILIZATION
+OF
+PRESOLD
+DIGITAL 
+15
+COMMODITIES.— 
+16
+‘‘(i) IN GENERAL.—A unit of a digital 
+17
+commodity that is obtained through a dig-
+18
+ital commodity presale may be— 
+19
+‘‘(I) utilized for the purposes of 
+20
+receiving the non-financial rights or 
+21
+services associated with the digital 
+22
+commodity; or 
+23
+‘‘(II) exchanged or sold in such 
+24
+limited quantities as the Commission 
+25
+03:24 Apr 30, 2022
+H7614
+12 
+•HR 7614 IH
+determines support the public use and 
+1
+functioning of services and rights as-
+2
+sociated with the digital commodity. 
+3
+‘‘(ii) TREATMENT.—For purposes of 
+4
+this subsection, a unit of a digital com-
+5
+modity obtained through a transaction uti-
+6
+lizing this exception shall not be considered 
+7
+to be obtained though a digital commodity 
+8
+presale. 
+9
+‘‘(D) PRIOR
+DIGITAL
+COMMODITIES.—A 
+10
+unit of a digital commodity shall not be subject 
+11
+to this subsection if, before the date of the en-
+12
+actment of this subsection, the digital com-
+13
+modity was publicly available for trading on a 
+14
+trading facility licensed as a money services 
+15
+business with the Department of the Treasury. 
+16
+‘‘(4) TRANSITION RULES.— 
+17
+‘‘(A) IN GENERAL.—For the purpose of a 
+18
+transaction described in paragraph (3)(B), the 
+19
+Commission shall consider a trading facility to 
+20
+be a registered digital commodity exchange if— 
+21
+‘‘(i) the trading facility— 
+22
+‘‘(I) has been continuously li-
+23
+censed as a money services business 
+24
+03:24 Apr 30, 2022
+H7614
+13 
+•HR 7614 IH
+with the Department of the Treasury 
+1
+since August 1, 2019; 
+2
+‘‘(II) is a registered designated 
+3
+contract market; or 
+4
+‘‘(III) is a registered swap execu-
+5
+tion facility; 
+6
+‘‘(ii) the trading facility submits a no-
+7
+tice to the Commission containing— 
+8
+‘‘(I) 
+documentation 
+dem-
+9
+onstrating its licensing referred to in 
+10
+clause (i)(I); and 
+11
+‘‘(II) an assessment of the digital 
+12
+commodity and all units of the digital 
+13
+commodity to be permitted to trade, 
+14
+in accordance with section 5i(c)(3); 
+15
+and 
+16
+‘‘(iii) the Commission has not issued a 
+17
+notice of disapproval. 
+18
+‘‘(B) DISAPPROVAL PROCESS.—In making 
+19
+a disapproval under subparagraph (A), the 
+20
+Commission shall— 
+21
+‘‘(i) issue any disapproval within 20 
+22
+business days after receipt of a completed 
+23
+notice; and 
+24
+03:24 Apr 30, 2022
+H7614
+14 
+•HR 7614 IH
+‘‘(ii) identify the specific deficiencies 
+1
+with the notice that necessitated the dis-
+2
+approval. 
+3
+‘‘(C) EXTENSIONS.—The Commission may 
+4
+extend the time for consideration under sub-
+5
+paragraph (B)— 
+6
+‘‘(i) once, for 20 business days, 
+7
+through written notice to the digital com-
+8
+modity exchange; and 
+9
+‘‘(ii) once, for an additional 90 busi-
+10
+ness days, through notice to the digital 
+11
+commodity exchange which includes a de-
+12
+scription of any deficiencies with the listing 
+13
+notice, including any— 
+14
+‘‘(I) novel or complex issues 
+15
+which require additional time to ana-
+16
+lyze; 
+17
+‘‘(II) missing information or in-
+18
+adequate explanations; or 
+19
+‘‘(III) potential inconsistencies 
+20
+with this Act. 
+21
+‘‘(D) EXPIRATION.—The authority pro-
+22
+vided by this subparagraph shall expire 1 year 
+23
+after the date of the final promulgation of the 
+24
+digital commodity exchange registration re-
+25
+03:24 Apr 30, 2022
+H7614
+15 
+•HR 7614 IH
+quirements, or on the first registration of a dig-
+1
+ital commodity exchange, whichever occurs ear-
+2
+lier.’’. 
+3
+(d) SEGREGATION OF DIGITAL COMMODITIES.—Sec-
+4
+tion 4d of such Act (7 U.S.C. 6d) is amended by adding 
+5
+at the end the following: 
+6
+‘‘(i) SEGREGATION OF DIGITAL COMMODITIES.— 
+7
+‘‘(1) HOLDING OF CUSTOMER ASSETS.— 
+8
+‘‘(A) IN GENERAL.—Each futures commis-
+9
+sion merchant shall hold customer money, as-
+10
+sets, and property in a manner to minimize the 
+11
+customer’s risk of loss or unreasonable delay in 
+12
+the access to the money, assets, and property of 
+13
+the customer. 
+14
+‘‘(B) QUALIFIED
+DIGITAL
+COMMODITY 
+15
+CUSTODIAN.—A futures commission merchant 
+16
+shall hold in a qualified digital commodity cus-
+17
+todian each unit of a digital commodity that 
+18
+is— 
+19
+‘‘(i) the property of a customer of the 
+20
+futures commission merchant; or 
+21
+‘‘(ii) otherwise so required by the 
+22
+Commission to reasonably protect cus-
+23
+tomers or promote the public interest. 
+24
+‘‘(2) SEGREGATION OF FUNDS.— 
+25
+03:24 Apr 30, 2022
+H7614
+16 
+•HR 7614 IH
+‘‘(A) IN GENERAL.—A futures commission 
+1
+merchant shall treat and deal with all money, 
+2
+assets, and property of any digital commodity 
+3
+customer received as belonging to the customer. 
+4
+‘‘(B) COMMINGLING PROHIBITED.—Money, 
+5
+assets, and property of a customer described in 
+6
+subparagraph (A) shall be separately accounted 
+7
+for, and shall not be commingled with the funds 
+8
+of the futures commission merchant or be used 
+9
+to margin, secure, or guarantee any trades or 
+10
+accounts of any customer or person other than 
+11
+the person for whom the same are held. 
+12
+‘‘(C) DIGITAL COMMODITY CUSTOMER DE-
+13
+FINED.—For the purposes of this paragraph, 
+14
+the term ‘digital commodity customer’ means a 
+15
+customer involved in a cash or spot, leveraged, 
+16
+margined, or financed digital commodity trans-
+17
+action in which the futures commission mer-
+18
+chant is acting as the counterparty. 
+19
+‘‘(3) EXCEPTIONS.— 
+20
+‘‘(A) USE OF FUNDS.— 
+21
+‘‘(i) IN
+GENERAL.—Notwithstanding 
+22
+paragraph (2), money, assets, and property 
+23
+of customers of a futures commission mer-
+24
+chant described in paragraph (2) may, for 
+25
+03:24 Apr 30, 2022
+H7614
+17 
+•HR 7614 IH
+convenience, be commingled and deposited 
+1
+in the same account or accounts with any 
+2
+bank, trust company, derivatives clearing 
+3
+organization, or qualified digital com-
+4
+modity custodian. 
+5
+‘‘(ii) WITHDRAWAL.—Notwithstanding 
+6
+paragraph (2), the share of the money, as-
+7
+sets, and property described in clause (i) 
+8
+as in the normal course of business shall 
+9
+be necessary to margin, guarantee, secure, 
+10
+transfer, adjust, or settle a digital com-
+11
+modity transaction with a registered entity 
+12
+may be withdrawn and applied to such 
+13
+purposes, including the payment of com-
+14
+missions, brokerage, interest, taxes, stor-
+15
+age, and other charges, lawfully accruing 
+16
+in connection with the digital commodity 
+17
+transaction. 
+18
+‘‘(B) 
+COMMISSION
+ACTION.—Notwith-
+19
+standing paragraph (2), in accordance with 
+20
+such terms and conditions as the Commission 
+21
+may prescribe by rule, regulation, or order, any 
+22
+money, assets, or property of the customers of 
+23
+a futures commission merchant described in 
+24
+paragraph (2) may be commingled and depos-
+25
+03:24 Apr 30, 2022
+H7614
+18 
+•HR 7614 IH
+ited in customer accounts with any other 
+1
+money, assets, or property received by the fu-
+2
+tures commission merchant and required by the 
+3
+Commission to be separately accounted for and 
+4
+treated and dealt with as belonging to the cus-
+5
+tomer of the futures commission merchant. 
+6
+‘‘(4) PERMITTED
+INVESTMENTS.—Money de-
+7
+scribed in paragraph (2) may be invested in obliga-
+8
+tions of the United States, in general obligations of 
+9
+any State or of any political subdivision of a State, 
+10
+and in obligations fully guaranteed as to principal 
+11
+and interest by the United States, or in any other 
+12
+investment that the Commission may by rule or reg-
+13
+ulation prescribe, and the investments shall be made 
+14
+in accordance with such rules and regulations and 
+15
+subject to such conditions as the Commission may 
+16
+prescribe. 
+17
+‘‘(5) PROHIBITION.—It shall be unlawful for 
+18
+any person, including any derivatives clearing orga-
+19
+nization or depository institution that has received 
+20
+any money, securities, or property for deposit in a 
+21
+separate account or accounts as provided in para-
+22
+graph (2) to hold, dispose of, or use any of the 
+23
+money, assets, or property that belongs to the depos-
+24
+iting futures commission merchant or any person 
+25
+03:24 Apr 30, 2022
+H7614
+19 
+•HR 7614 IH
+other than the digital commodity customer of the fu-
+1
+tures commission merchant. 
+2
+‘‘(6) CUSTOMER RIGHT TO OPT OUT.— 
+3
+‘‘(A) IN GENERAL.—A customer shall have 
+4
+the right to waive the restrictions in this sub-
+5
+section, by affirmatively electing, in writing to 
+6
+the futures commission merchant, to waive the 
+7
+restrictions. 
+8
+‘‘(B) 
+LIMITATIONS.—The 
+Commission 
+9
+may, by rule, establish notice and disclosure re-
+10
+quirements, segregation requirements, invest-
+11
+ment limitations, and other rules related to the 
+12
+waiving of any restrictions under this sub-
+13
+section that are reasonably necessary to protect 
+14
+customers, including eligible contract partici-
+15
+pants, non-eligible contract participants, or any 
+16
+other class of customers. 
+17
+‘‘(7) CUSTOMER
+PROTECTION
+DURING
+BANK-
+18
+RUPTCY.— 
+19
+‘‘(A) CUSTOMER
+PROPERTY.—All money, 
+20
+assets, or property described in paragraph (2) 
+21
+shall be considered customer property for pur-
+22
+poses of section 761 of title 11, United States 
+23
+Code. 
+24
+03:24 Apr 30, 2022
+H7614
+20 
+•HR 7614 IH
+‘‘(B) TRANSACTIONS.—A cash or spot, le-
+1
+veraged, margined, or financed digital com-
+2
+modity transaction in which the futures com-
+3
+mission merchant is acting as the counterparty 
+4
+shall be considered a ‘contract for the purchase 
+5
+or sale of a commodity for future delivery on, 
+6
+or subject to the rules of, a contract market or 
+7
+board of trade’ for purposes of the definition of 
+8
+‘commodity contract’ in section 761 of title 11, 
+9
+United States Code. 
+10
+‘‘(C) ASSETS
+REMOVED
+FROM
+SEGREGA-
+11
+TION.—Assets removed from segregation due to 
+12
+a customer election under paragraph (6) shall 
+13
+not be considered customer property for pur-
+14
+poses of section 761 of title 11, United States 
+15
+Code.’’. 
+16
+(e) LIMITATION
+ON FUTURES COMMISSION MER-
+17
+CHANT ACTING AS A COUNTERPARTY IN DIGITAL COM-
+18
+MODITY TRANSACTIONS.—Section 4d of such Act (7 
+19
+U.S.C. 6d) is further amended by adding at the end the 
+20
+following: 
+21
+‘‘(j) LIMITATION ON FUTURES COMMISSION MER-
+22
+CHANT ACTING AS A COUNTERPARTY IN DIGITAL COM-
+23
+MODITY TRANSACTIONS.—A registered futures commis-
+24
+sion merchant shall not act as a counterparty in any 
+25
+03:24 Apr 30, 2022
+H7614
+21 
+•HR 7614 IH
+agreement, contract, or transaction involving a digital 
+1
+commodity that has not been listed for trading on a reg-
+2
+istered digital commodity exchange.’’. 
+3
+(f) COMMON PROVISIONS APPLICABLE
+TO REG-
+4
+ISTERED ENTITIES.—Section 5c of such Act (7 U.S.C. 
+5
+7a–2) is amended— 
+6
+(1) in subsection (a), by striking ‘‘5(d) and 
+7
+5b(c)(2)’’ and inserting ‘‘5(d), 5b(c)(2), and 5i(c)’’; 
+8
+(2) in subsection (b)— 
+9
+(A) in each of paragraphs (1) and (2), by 
+10
+inserting ‘‘digital commodity exchange,’’ before 
+11
+‘‘derivatives’’; and 
+12
+(B) in paragraph (3), by inserting ‘‘digital 
+13
+commodity exchange,’’ before ‘‘derivatives’’ each 
+14
+place it appears; and 
+15
+(3) in subsection (c)— 
+16
+(A) in paragraph (2), by inserting ‘‘or par-
+17
+ticipants’’ before ‘‘(in’’; 
+18
+(B) in paragraph (4)(B), by striking 
+19
+‘‘1a(10)’’ and inserting ‘‘1a(9)’’; and 
+20
+(C) in paragraph (5), by adding at the end 
+21
+the following: 
+22
+‘‘(D) SPECIAL RULES FOR THE LISTING OF 
+23
+CERTAIN DIGITAL COMMODITIES.— 
+24
+03:24 Apr 30, 2022
+H7614
+22 
+•HR 7614 IH
+‘‘(i) IN GENERAL.—In the case of list-
+1
+ing a digital commodity for trading which 
+2
+has not yet been listed for trading on an-
+3
+other registered entity, paragraphs (2) and 
+4
+(3) shall apply as if the listing were a rule, 
+5
+and paragraph (2) shall be applied by sub-
+6
+stituting ‘20 business days’ for ‘10 busi-
+7
+ness days’. 
+8
+‘‘(ii) TRANSITIONAL
+EXTENSION.— 
+9
+For 1 year after the registration of the 
+10
+first digital commodity exchange, the Com-
+11
+mission shall have an additional 20 busi-
+12
+ness days to review any certification under 
+13
+clause (i). 
+14
+‘‘(iii) 
+DIGITAL
+COMMODITY 
+15
+PRESALES.— 
+16
+‘‘(I) IN
+GENERAL.—In conjunc-
+17
+tion with listing a digital commodity 
+18
+in which any unit of the digital com-
+19
+modity was obtained through a digital 
+20
+commodity presale, a registered entity 
+21
+shall prohibit any transaction with 
+22
+any unit of the digital commodity ob-
+23
+tained in violation of section 4c(h). 
+24
+03:24 Apr 30, 2022
+H7614
+23 
+•HR 7614 IH
+‘‘(II) RELIANCE ON DISCLOSURE 
+1
+BY
+REGISTERED
+DEVELOPER.—In 
+2
+complying with subclause (I), a reg-
+3
+istered entity may rely on the records 
+4
+and disclosures of a registered digital 
+5
+commodity developer submitted to the 
+6
+Commission or its designee under sec-
+7
+tion 4v in determining whether a unit 
+8
+of a digital commodity was obtained 
+9
+in violation of section 4c(h). 
+10
+‘‘(iv) 
+CONSIDERATION
+OF
+COM-
+11
+MENTS.—In conducting a review under 
+12
+clause (i), the Commission shall consider 
+13
+any comments provided by the Securities 
+14
+and Exchange Commission regarding any 
+15
+inconsistencies with this Act posed by the 
+16
+potential listing of an asset that is not a 
+17
+digital commodity.’’. 
+18
+(g) REGISTRATION
+OF DIGITAL COMMODITY EX-
+19
+CHANGES; 
+QUALIFIED
+DIGITAL
+COMMODITY 
+20
+CUSTODIANS.— 
+21
+(1) IN GENERAL.—The Commodity Exchange 
+22
+Act (7 U.S.C. 1 et seq.) is amended by inserting 
+23
+after section 5h the following: 
+24
+03:24 Apr 30, 2022
+H7614
+24 
+•HR 7614 IH
+‘‘SEC. 5i. REGISTRATION OF DIGITAL COMMODITY EX-
+1
+CHANGES. 
+2
+‘‘(a) IN GENERAL.— 
+3
+‘‘(1) REGISTRATION.— 
+4
+‘‘(A) IN
+GENERAL.—Any trading facility 
+5
+that offers or seeks to offer a market in digital 
+6
+commodities may register with the Commission 
+7
+as a digital commodity exchange. 
+8
+‘‘(B) APPLICATION.—A person desiring to 
+9
+register as a digital commodity exchange shall 
+10
+submit to the Commission an application in 
+11
+such form and containing such information as 
+12
+the Commission may require for the purpose of 
+13
+making the determinations required for ap-
+14
+proval under subsections (c) and (e). 
+15
+‘‘(2) DEEMED
+REGISTRATION.—A registered 
+16
+designated contract market or registered swap exe-
+17
+cution facility which fulfills the requirements of this 
+18
+section may elect to be considered a registered dig-
+19
+ital commodity exchange, in such form and manner 
+20
+as the Commission shall prescribe. 
+21
+‘‘(3) ADDITIONAL
+REGISTRATIONS.—A reg-
+22
+istered digital commodity exchange shall be— 
+23
+‘‘(A) a member of a registered futures as-
+24
+sociation; and 
+25
+03:24 Apr 30, 2022
+H7614
+25 
+•HR 7614 IH
+‘‘(B) registered with the Secretary of the 
+1
+Treasury as a Money Services Business. 
+2
+‘‘(b) TRADING.— 
+3
+‘‘(1) IN
+GENERAL.—A digital commodity ex-
+4
+change that is registered under subsection (a) may 
+5
+make available for trading any digital commodity 
+6
+that is not readily susceptible to manipulation, sub-
+7
+ject to this subsection. 
+8
+‘‘(2) RULES GOVERNING MARGINED OR LEVER-
+9
+AGED TRADING.—The Commission may make, pro-
+10
+mulgate, and enforce such additional rules governing 
+11
+margined, leveraged, or financed transactions as are 
+12
+reasonably necessary to protect market participants 
+13
+and promote the orderly settlement of transactions 
+14
+with respect to— 
+15
+‘‘(A) disclosure; 
+16
+‘‘(B) recordkeeping; 
+17
+‘‘(C) capital, margin, and other financial 
+18
+resources; 
+19
+‘‘(D) reporting; 
+20
+‘‘(E) business conduct; 
+21
+‘‘(F) documentation; and 
+22
+‘‘(G) such other matters as the Commis-
+23
+sion demonstrates to be necessary. 
+24
+03:24 Apr 30, 2022
+H7614
+26 
+•HR 7614 IH
+‘‘(3) PROHIBITION ON CERTAIN TRADING PRAC-
+1
+TICES.—Sections 4b, 4c, and 6(c) shall apply to any 
+2
+agreement, contract, or transaction in a digital com-
+3
+modity as if the agreement, contract, or transaction 
+4
+were a contract of sale of a commodity for future de-
+5
+livery. 
+6
+‘‘(4) PROHIBITION ON TRADING DERIVATIVES 
+7
+PRODUCTS.—Registration as a digital commodity ex-
+8
+change shall not permit a trading facility to offer 
+9
+any contract of sale of a commodity for future deliv-
+10
+ery, option, or swap for trading without also being 
+11
+registered as a designated contract market or swap 
+12
+execution facility. 
+13
+‘‘(5) 
+RULES
+FOR
+DIGITAL
+COMMODITY 
+14
+PRESALES.—The digital commodity exchange shall 
+15
+have in place such rules as may be necessary to rea-
+16
+sonably ensure the orderly sale of any unit of a dig-
+17
+ital commodity obtained through a digital commodity 
+18
+presale. 
+19
+‘‘(c) CORE PRINCIPLES FOR DIGITAL COMMODITY 
+20
+EXCHANGES.— 
+21
+‘‘(1) COMPLIANCE WITH CORE PRINCIPLES.— 
+22
+‘‘(A) IN GENERAL.—To be registered, and 
+23
+maintain registration, as a digital commodity 
+24
+03:24 Apr 30, 2022
+H7614
+27 
+•HR 7614 IH
+exchange, the digital commodity exchange shall 
+1
+comply with— 
+2
+‘‘(i) the core principles described in 
+3
+this subsection; and 
+4
+‘‘(ii) any requirement that the Com-
+5
+mission may impose by rule or regulation 
+6
+pursuant to section 8a(5). 
+7
+‘‘(B) REASONABLE DISCRETION OF A DIG-
+8
+ITAL
+COMMODITY
+EXCHANGE.—Unless other-
+9
+wise determined by the Commission by rule or 
+10
+regulation, a digital commodity exchange de-
+11
+scribed in subparagraph (A) shall have reason-
+12
+able discretion in establishing the manner in 
+13
+which the digital commodity exchange complies 
+14
+with the core principles described in this sub-
+15
+section. 
+16
+‘‘(2) COMPLIANCE
+WITH
+RULES.—A digital 
+17
+commodity exchange shall— 
+18
+‘‘(A) establish and enforce compliance with 
+19
+any rule of the digital commodity exchange, in-
+20
+cluding— 
+21
+‘‘(i) the terms and conditions of the 
+22
+trades traded or processed on or through 
+23
+the digital commodity exchange; and 
+24
+03:24 Apr 30, 2022
+H7614
+28 
+•HR 7614 IH
+‘‘(ii) any limitation on access to the 
+1
+digital commodity exchange; 
+2
+‘‘(B) establish and enforce trading, trade 
+3
+processing, and participation rules that will 
+4
+deter abuses and have the capacity to detect, 
+5
+investigate, and enforce those rules, including 
+6
+means— 
+7
+‘‘(i) to provide market participants 
+8
+with impartial access to the market; and 
+9
+‘‘(ii) to capture information that may 
+10
+be used in establishing whether rule viola-
+11
+tions have occurred; and 
+12
+‘‘(C) establish rules governing the oper-
+13
+ation of the exchange, including rules specifying 
+14
+trading procedures to be used in entering and 
+15
+executing orders traded or posted on the facil-
+16
+ity. 
+17
+‘‘(3) DIGITAL COMMODITIES NOT READILY SUS-
+18
+CEPTIBLE TO MANIPULATION.— 
+19
+‘‘(A) IN GENERAL.—The digital commodity 
+20
+exchange shall permit trading in only digital 
+21
+commodities that are not readily susceptible to 
+22
+manipulation. 
+23
+03:24 Apr 30, 2022
+H7614
+29 
+•HR 7614 IH
+‘‘(B) LISTING
+RESTRICTIONS.—A digital 
+1
+commodity exchange shall not permit trading 
+2
+in— 
+3
+‘‘(i) a unit of a digital commodity, if 
+4
+it is reasonably likely that the transaction 
+5
+history of the digital commodity can be 
+6
+fraudulently altered by any person or 
+7
+group of persons acting collectively; or 
+8
+‘‘(ii) a unit of a digital commodity 
+9
+subject to the restrictions in section 4c(h), 
+10
+if 
+it 
+is 
+reasonably 
+likely 
+that 
+the 
+11
+functionality or operation of the digital 
+12
+commodity can be materially altered by 
+13
+any person or group of persons under com-
+14
+mon control. 
+15
+‘‘(C) CONSIDERATIONS.—In assessing a 
+16
+digital commodity under this paragraph, the ex-
+17
+change shall consider, with respect to the digital 
+18
+commodity— 
+19
+‘‘(i) its purpose and use; 
+20
+‘‘(ii) its unit creation or release proc-
+21
+ess; 
+22
+‘‘(iii) its consensus mechanism; 
+23
+‘‘(iv) its governance structure; 
+24
+‘‘(v) its participation and distribution; 
+25
+03:24 Apr 30, 2022
+H7614
+30 
+•HR 7614 IH
+‘‘(vi) 
+its 
+current 
+and 
+proposed 
+1
+functionality; and 
+2
+‘‘(vii) any other factor required by the 
+3
+Commission. 
+4
+‘‘(D) RULES
+FOR
+FIXED-VALUE
+DIGITAL 
+5
+COMMODITIES.—A 
+fixed-value 
+digital 
+com-
+6
+modity shall be determined to be not readily 
+7
+susceptible to manipulation under this section if 
+8
+the issuer of the fixed-value digital commodity 
+9
+is registered as a fixed-value digital commodity 
+10
+operator or subject to comparable, comprehen-
+11
+sive supervision and regulation by another Fed-
+12
+eral regulator or an appropriate government au-
+13
+thority in the home country of the fixed-value 
+14
+digital commodity operator. 
+15
+‘‘(4) TREATMENT OF CUSTOMER ASSETS.— 
+16
+‘‘(A) REQUIRED STANDARDS AND PROCE-
+17
+DURES.—Each digital commodity exchange 
+18
+shall establish standards and procedures that 
+19
+are designed to protect and ensure the safety of 
+20
+customer money, assets, and property. 
+21
+‘‘(B) HOLDING OF CUSTOMER ASSETS.— 
+22
+‘‘(i) IN GENERAL.—Each digital com-
+23
+modity exchange shall hold customer 
+24
+money, assets, and property in a manner 
+25
+03:24 Apr 30, 2022
+H7614
+31 
+•HR 7614 IH
+to minimize the customer’s risk of loss or 
+1
+unreasonable delay in the access to the 
+2
+money, assets, and property of the cus-
+3
+tomer. 
+4
+‘‘(ii) SEGREGATION OF FUNDS.— 
+5
+‘‘(I) IN
+GENERAL.—A digital 
+6
+commodity exchange shall treat and 
+7
+deal with all money, assets, and prop-
+8
+erty of any customer received as be-
+9
+longing to the customer. 
+10
+‘‘(II) 
+COMMINGLING
+PROHIB-
+11
+ITED.—Money, assets, and property of 
+12
+a customer described in subclause (I) 
+13
+shall be separately accounted for and 
+14
+shall not be commingled with the 
+15
+funds of the digital commodity ex-
+16
+change or be used to margin, secure, 
+17
+or guarantee any trades or accounts 
+18
+of any customer or person other than 
+19
+the person for whom the same are 
+20
+held. 
+21
+‘‘(iii) EXCEPTIONS.— 
+22
+‘‘(I) USE OF FUNDS.— 
+23
+‘‘(aa) IN
+GENERAL.—Not-
+24
+withstanding clause (ii), money, 
+25
+03:24 Apr 30, 2022
+H7614
+32 
+•HR 7614 IH
+assets, and property of customers 
+1
+of a digital commodity exchange 
+2
+described in clause (ii) may, for 
+3
+convenience, be commingled and 
+4
+deposited in the same account or 
+5
+accounts with any bank, trust 
+6
+company, 
+or 
+qualified 
+digital 
+7
+commodity custodian. 
+8
+‘‘(bb) WITHDRAWAL.—Not-
+9
+withstanding clause (ii), such 
+10
+share of the money, assets, and 
+11
+property described in item (aa) 
+12
+as in the normal course of busi-
+13
+ness shall be necessary to mar-
+14
+gin, guarantee, secure, transfer, 
+15
+adjust, or settle a digital com-
+16
+modity transaction with a reg-
+17
+istered entity may be withdrawn 
+18
+and applied to such purposes, in-
+19
+cluding the payment of commis-
+20
+sions, brokerage, interest, taxes, 
+21
+storage, and other charges, law-
+22
+fully accruing in connection with 
+23
+the 
+digital 
+commodity 
+trans-
+24
+action. 
+25
+03:24 Apr 30, 2022
+H7614
+33 
+•HR 7614 IH
+‘‘(II) 
+COMMISSION
+ACTION.— 
+1
+Notwithstanding clause (ii), in accord-
+2
+ance with such terms and conditions 
+3
+as the Commission may prescribe by 
+4
+rule, regulation, or order, any money, 
+5
+assets, or property of the customers of 
+6
+a digital commodity exchange de-
+7
+scribed in clause (ii) may be commin-
+8
+gled and deposited in customer ac-
+9
+counts with any other money, assets, 
+10
+or property received by the digital 
+11
+commodity exchange and required by 
+12
+the Commission to be separately ac-
+13
+counted for and treated and dealt 
+14
+with as belonging to the customer of 
+15
+the digital commodity exchange. 
+16
+‘‘(C) PERMITTED
+INVESTMENTS.—Money 
+17
+described in clause (ii) may be invested in obli-
+18
+gations of the United States, in general obliga-
+19
+tions of any State or of any political subdivision 
+20
+of a State, and in obligations fully guaranteed 
+21
+as to principal and interest by the United 
+22
+States, or in any other investment that the 
+23
+Commission may by rule or regulation pre-
+24
+scribe, and such investments shall be made in 
+25
+03:24 Apr 30, 2022
+H7614
+34 
+•HR 7614 IH
+accordance with such rules and regulations and 
+1
+subject to such conditions as the Commission 
+2
+may prescribe. 
+3
+‘‘(D) CUSTOMER
+PROTECTION
+DURING 
+4
+BANKRUPTCY.— 
+5
+‘‘(i) CUSTOMER
+PROPERTY.—All as-
+6
+sets held on behalf of a customer by a dig-
+7
+ital commodity exchange registered under 
+8
+section 5i of this Act, and all money, as-
+9
+sets, and property of any customer re-
+10
+ceived by a digital commodity exchange 
+11
+registered under section 5i of this Act for 
+12
+trading or custody, or to facilitate, margin, 
+13
+guarantee, or secure digital commodity 
+14
+transactions (including money, assets, or 
+15
+property accruing to the customer as the 
+16
+result of the transactions), shall be consid-
+17
+ered customer property for purposes of sec-
+18
+tion 761 of title 11, United States Code. 
+19
+‘‘(ii) TRANSACTIONS.—A transaction 
+20
+involving a unit of a digital commodity oc-
+21
+curring on or subject to the rules of a dig-
+22
+ital commodity exchange registered under 
+23
+section 5i of this Act shall be considered a 
+24
+‘contract for the purchase or sale of a com-
+25
+03:24 Apr 30, 2022
+H7614
+35 
+•HR 7614 IH
+modity for future delivery, on or subject to 
+1
+the rules of, a contract market or board of 
+2
+trade’ for the purposes of the definition of 
+3
+a ‘commodity contract’ in section 761 of 
+4
+title 11, United States Code. 
+5
+‘‘(iii) EXCHANGES.—A digital com-
+6
+modity exchange registered under section 
+7
+5i of this Act shall be considered a futures 
+8
+commission merchant for purposes of sec-
+9
+tion 761 of title 11, United States Code. 
+10
+‘‘(iv) ASSETS
+REMOVED
+FROM
+SEG-
+11
+REGATION.—Notwithstanding clause (i), 
+12
+assets that have been removed from seg-
+13
+regation due to a customer election under 
+14
+subparagraph (F) shall not be considered 
+15
+customer property for purposes of section 
+16
+761 of title 11, United States Code. 
+17
+‘‘(E) MISUSE OF CUSTOMER PROPERTY.— 
+18
+It shall be unlawful— 
+19
+‘‘(i) for any digital commodity ex-
+20
+change that has received any customer 
+21
+money, assets, or property for custody to 
+22
+dispose of, or use any such money, assets, 
+23
+or property as belonging to the digital 
+24
+commodity exchange; or 
+25
+03:24 Apr 30, 2022
+H7614
+36 
+•HR 7614 IH
+‘‘(ii) for any other person, including 
+1
+any depository, other digital commodity ex-
+2
+change, or digital commodity custodian 
+3
+that has received any customer money, as-
+4
+sets, or property for deposit, to hold, dis-
+5
+pose of, or use any such money, assets, or 
+6
+property as belonging to the depositing 
+7
+digital commodity exchange or any person 
+8
+other than the customers of the digital 
+9
+commodity exchange. 
+10
+‘‘(F) CUSTOMER RIGHT TO OPT OUT.— 
+11
+‘‘(i) IN GENERAL.—A customer shall 
+12
+have the right to waive the restrictions in 
+13
+subparagraph (B), by affirmatively elect-
+14
+ing, in writing to the digital commodity ex-
+15
+change, to waive the restrictions. 
+16
+‘‘(ii) LIMITATIONS.—The Commission 
+17
+may, by rule, establish notice and disclo-
+18
+sure requirements, segregation require-
+19
+ments, investment limitations, and other 
+20
+rules related to the waiving of any restric-
+21
+tions under this paragraph that are rea-
+22
+sonably necessary to protect customers, in-
+23
+cluding eligible contract participants, non- 
+24
+03:24 Apr 30, 2022
+H7614
+37 
+•HR 7614 IH
+eligible contract participants, or any other 
+1
+class of customers. 
+2
+‘‘(5) MONITORING
+OF
+TRADING
+AND
+TRADE 
+3
+PROCESSING.— 
+4
+‘‘(A) IN GENERAL.—The digital commodity 
+5
+exchange shall provide a competitive, open, and 
+6
+efficient market and mechanism for executing 
+7
+transactions that protects the price discovery 
+8
+process of trading on the exchange. 
+9
+‘‘(B) PROTECTION OF MARKETS AND MAR-
+10
+KET PARTICIPANTS.—The digital commodity ex-
+11
+change shall establish and enforce rules— 
+12
+‘‘(i) to protect markets and market 
+13
+participants from abusive practices com-
+14
+mitted by any party, including abusive 
+15
+practices committed by a party acting as 
+16
+an agent for a participant; and 
+17
+‘‘(ii) to promote fair and equitable 
+18
+trading on the exchange. 
+19
+‘‘(C) The digital commodity exchange 
+20
+shall— 
+21
+‘‘(i) establish and enforce rules or 
+22
+terms and conditions defining, or specifica-
+23
+tions detailing— 
+24
+03:24 Apr 30, 2022
+H7614
+38 
+•HR 7614 IH
+‘‘(I) trading procedures to be 
+1
+used in entering and executing orders 
+2
+traded on or through the facilities of 
+3
+the digital commodity exchange; and 
+4
+‘‘(II) procedures for trade proc-
+5
+essing of digital commodities on or 
+6
+through the facilities of the digital 
+7
+commodity exchange; and 
+8
+‘‘(ii) monitor trading in digital com-
+9
+modities to prevent manipulation, price 
+10
+distortion, and disruptions of the delivery 
+11
+or cash settlement process through surveil-
+12
+lance, compliance, and disciplinary prac-
+13
+tices and procedures, including methods 
+14
+for conducting real-time monitoring of 
+15
+trading and comprehensive and accurate 
+16
+trade reconstructions. 
+17
+‘‘(6) ABILITY TO OBTAIN INFORMATION.—The 
+18
+digital commodity exchange shall— 
+19
+‘‘(A) establish and enforce rules that will 
+20
+allow the facility to obtain any necessary infor-
+21
+mation to perform any of the functions de-
+22
+scribed in this section; 
+23
+‘‘(B) provide the information to the Com-
+24
+mission on request; and 
+25
+03:24 Apr 30, 2022
+H7614
+39 
+•HR 7614 IH
+‘‘(C) have the capacity to carry out such 
+1
+international information-sharing agreements as 
+2
+the Commission may require. 
+3
+‘‘(7) EMERGENCY
+AUTHORITY.—The digital 
+4
+commodity exchange shall adopt rules to provide for 
+5
+the exercise of emergency authority, in consultation 
+6
+or cooperation with the Commission or a registered 
+7
+entity, as is necessary and appropriate, including the 
+8
+authority to facilitate the liquidation or transfer of 
+9
+open positions in any digital commodity or to sus-
+10
+pend or curtail trading in a digital commodity. 
+11
+‘‘(8) REPORTING REQUIREMENTS.— 
+12
+‘‘(A) DUTY OF DIGITAL COMMODITY EX-
+13
+CHANGE.—Each digital commodity exchange 
+14
+shall provide to the Commission all information 
+15
+that is determined by the Commission to be 
+16
+necessary to perform each responsibility of the 
+17
+Commission under this Act. 
+18
+‘‘(B) TIMELY
+PUBLICATION
+OF
+TRADING 
+19
+INFORMATION.— 
+20
+‘‘(i) IN GENERAL.—The digital com-
+21
+modity exchange shall make public timely 
+22
+information on price, trading volume, and 
+23
+other trading data on digital commodities 
+24
+03:24 Apr 30, 2022
+H7614
+40 
+•HR 7614 IH
+to the extent prescribed by the Commis-
+1
+sion. 
+2
+‘‘(ii) CAPACITY
+OF
+DIGITAL
+COM-
+3
+MODITY
+EXCHANGE.—The digital com-
+4
+modity exchange shall be required to have 
+5
+the capacity to electronically capture and 
+6
+transmit trade information with respect to 
+7
+transactions executed on the exchange. 
+8
+‘‘(9) RECORDKEEPING AND REPORTING.— 
+9
+‘‘(A) IN GENERAL.—A digital commodity 
+10
+exchange shall— 
+11
+‘‘(i) maintain records of all activities 
+12
+relating to the business of the facility, in-
+13
+cluding a complete audit trail, in a form 
+14
+and manner acceptable to the Commission 
+15
+for a period of 5 years; 
+16
+‘‘(ii) report to the Commission, in a 
+17
+form and manner acceptable to the Com-
+18
+mission, such information as the Commis-
+19
+sion determines to be necessary or appro-
+20
+priate for the Commission to perform the 
+21
+duties of the Commission under this Act; 
+22
+and 
+23
+‘‘(iii) keep any such records of digital 
+24
+commodities which relate to a security 
+25
+03:24 Apr 30, 2022
+H7614
+41 
+•HR 7614 IH
+open to inspection and examination by the 
+1
+Securities and Exchange Commission. 
+2
+‘‘(B) INFORMATION-SHARING.—Subject to 
+3
+section 8, and on request, the Commission shall 
+4
+share information collected under subparagraph 
+5
+(A) with— 
+6
+‘‘(i) the Board; 
+7
+‘‘(ii) the Securities and Exchange 
+8
+Commission; 
+9
+‘‘(iii) each appropriate Federal bank-
+10
+ing agency; 
+11
+‘‘(iv) each appropriate State bank su-
+12
+pervisor (within the meaning of section 3 
+13
+of the Federal Deposit Insurance Act); 
+14
+‘‘(v) the Financial Stability Oversight 
+15
+Council; 
+16
+‘‘(vi) the Department of Justice; and 
+17
+‘‘(vii) any other person that the Com-
+18
+mission determines to be appropriate, in-
+19
+cluding— 
+20
+‘‘(I) foreign financial supervisors 
+21
+(including foreign futures authorities); 
+22
+‘‘(II) foreign central banks; and 
+23
+‘‘(III) foreign ministries. 
+24
+03:24 Apr 30, 2022
+H7614
+42 
+•HR 7614 IH
+‘‘(C) CONFIDENTIALITY AGREEMENT.—Be-
+1
+fore the Commission may share information 
+2
+with any entity described in subparagraph (B), 
+3
+the Commission shall receive a written agree-
+4
+ment from each entity stating that the entity 
+5
+shall abide by the confidentiality requirements 
+6
+described in section 8 relating to the informa-
+7
+tion on digital commodity transactions that is 
+8
+provided. 
+9
+‘‘(D) 
+PROVIDING
+INFORMATION.—Each 
+10
+digital commodity exchange shall provide to the 
+11
+Commission (including any designee of the 
+12
+Commission) information under subparagraph 
+13
+(A) in such form and at such frequency as is 
+14
+required by the Commission. 
+15
+‘‘(10) ANTITRUST
+CONSIDERATIONS.—Unless 
+16
+necessary or appropriate to achieve the purposes of 
+17
+this Act, the digital commodity exchange shall not— 
+18
+‘‘(A) adopt any rules or take any actions 
+19
+that result in any unreasonable restraint of 
+20
+trade; or 
+21
+‘‘(B) impose any material anticompetitive 
+22
+burden on trading. 
+23
+‘‘(11) CONFLICTS OF INTEREST.—The digital 
+24
+commodity exchange shall— 
+25
+03:24 Apr 30, 2022
+H7614
+43 
+•HR 7614 IH
+‘‘(A) establish and enforce rules to mini-
+1
+mize conflicts of interest in its decision-making 
+2
+process; and 
+3
+‘‘(B) establish a process for resolving the 
+4
+conflicts of interest. 
+5
+‘‘(12) FINANCIAL RESOURCES.— 
+6
+‘‘(A) IN
+GENERAL.—Each digital com-
+7
+modity exchange shall have adequate financial, 
+8
+operational, and managerial resources, as deter-
+9
+mined by the Commission, to discharge each re-
+10
+sponsibility of the digital commodity exchange. 
+11
+‘‘(B) MINIMUM AMOUNT OF FINANCIAL RE-
+12
+SOURCES.—Each digital commodity exchange 
+13
+shall possess financial resources that, at a min-
+14
+imum, exceed the total amount that would en-
+15
+able the digital commodity exchange to conduct 
+16
+an orderly wind-down of its activities. 
+17
+‘‘(C) ADDITIONAL FINANCIAL RESOURCES 
+18
+FOR
+LEVERAGE
+TRADING.—The Commission 
+19
+may require such additional financial resources 
+20
+as are necessary to enable a digital commodity 
+21
+exchange which offers margined, leveraged, or 
+22
+financed transactions to fulfill its customer obli-
+23
+gations. 
+24
+‘‘(13) GOVERNANCE FITNESS STANDARDS.— 
+25
+03:24 Apr 30, 2022
+H7614
+44 
+•HR 7614 IH
+‘‘(A) 
+GOVERNANCE
+ARRANGEMENTS.— 
+1
+Each digital commodity exchange shall establish 
+2
+governance arrangements that are transparent 
+3
+to fulfill public interest requirements. 
+4
+‘‘(B) FITNESS STANDARDS.—Each digital 
+5
+commodity exchange shall establish and enforce 
+6
+appropriate fitness standards for— 
+7
+‘‘(i) directors; 
+8
+‘‘(ii) any individual or entity with di-
+9
+rect access to the settlement activities of 
+10
+the digital commodity exchange; 
+11
+‘‘(iii) any individual or entity with di-
+12
+rect access to any affiliated digital com-
+13
+modity custodian; 
+14
+‘‘(iv) any entity offering affiliated 
+15
+services for the digital commodity ex-
+16
+change; and 
+17
+‘‘(v) any party affiliated with any in-
+18
+dividual or entity described in this clause. 
+19
+‘‘(14) SYSTEM SAFEGUARDS.—The digital com-
+20
+modity exchange shall— 
+21
+‘‘(A) establish and maintain a program of 
+22
+risk analysis and oversight to identify and mini-
+23
+mize sources of operational and security risks, 
+24
+03:24 Apr 30, 2022
+H7614
+45 
+•HR 7614 IH
+through the development of appropriate controls 
+1
+and procedures, and automated systems, that— 
+2
+‘‘(i) are reliable and secure; and 
+3
+‘‘(ii) have adequate scalable capacity; 
+4
+‘‘(B) establish and maintain emergency 
+5
+procedures, backup facilities, and a plan for dis-
+6
+aster recovery that allow for— 
+7
+‘‘(i) the timely recovery and resump-
+8
+tion of operations; and 
+9
+‘‘(ii) the fulfillment of the responsibil-
+10
+ities and obligations of the digital com-
+11
+modity exchange; and 
+12
+‘‘(C) periodically conduct tests to verify 
+13
+that the backup resources of the digital com-
+14
+modity exchange are sufficient to ensure contin-
+15
+ued— 
+16
+‘‘(i) 
+order 
+processing 
+and 
+trade 
+17
+matching; 
+18
+‘‘(ii) price reporting; 
+19
+‘‘(iii) market surveillance; and 
+20
+‘‘(iv) maintenance of a comprehensive 
+21
+and accurate audit trail. 
+22
+‘‘(d) APPOINTMENT OF TRUSTEE.— 
+23
+‘‘(1) IN GENERAL.—If a proceeding under sec-
+24
+tion 5e results in the suspension or revocation of the 
+25
+03:24 Apr 30, 2022
+H7614
+46 
+•HR 7614 IH
+registration of a digital commodity exchange, or if a 
+1
+digital commodity exchange withdraws from registra-
+2
+tion, the Commission, on notice to the digital com-
+3
+modity exchange, may apply to the appropriate 
+4
+United States district court where the digital com-
+5
+modity exchange is located for the appointment of a 
+6
+trustee. 
+7
+‘‘(2) ASSUMPTION
+OF
+JURISDICTION.—If the 
+8
+Commission applies for appointment of a trustee 
+9
+under paragraph (1)— 
+10
+‘‘(A) the court may take exclusive jurisdic-
+11
+tion over the digital commodity exchange and 
+12
+the records and assets of the digital commodity 
+13
+exchange, wherever located; and 
+14
+‘‘(B) if the court takes jurisdiction under 
+15
+subparagraph (A), the court shall appoint the 
+16
+Commission, or a person designated by the 
+17
+Commission, as trustee with power to take pos-
+18
+session and continue to operate or terminate 
+19
+the operations of the digital commodity ex-
+20
+change in an orderly manner for the protection 
+21
+of customers subject to such terms and condi-
+22
+tions as the court may prescribe. 
+23
+‘‘(e) QUALIFIED
+DIGITAL
+COMMODITY
+CUSTO-
+24
+DIAN.—A digital commodity exchange shall hold in a 
+25
+03:24 Apr 30, 2022
+H7614
+47 
+•HR 7614 IH
+qualified digital commodity custodian each unit of a digital 
+1
+commodity that is— 
+2
+‘‘(1) the property of a customer of the digital 
+3
+commodity exchange; 
+4
+‘‘(2) required to be held by the digital com-
+5
+modity exchange under subsection (b)(2) or (c)(12) 
+6
+of this section; or 
+7
+‘‘(3) otherwise so required by the Commission 
+8
+to reasonably protect customers or promote the pub-
+9
+lic interest. 
+10
+‘‘(f) EXEMPTIONS.—In order to promote responsible 
+11
+economic or financial innovation and fair competition, or 
+12
+protect customers, the Commission may (on its own initia-
+13
+tive or on application of the registered digital commodity 
+14
+exchange) exempt, either unconditionally or on stated 
+15
+terms or conditions or for stated periods and either retro-
+16
+actively or prospectively, or both, a registered digital com-
+17
+modity exchange from the requirements of this section, if 
+18
+the Commission determines that— 
+19
+‘‘(1)(A) the exemption would be consistent with 
+20
+the public interest and the purposes of this Act; and 
+21
+‘‘(B) the exemption will not have a material ad-
+22
+verse effect on the ability of the Commission or the 
+23
+digital commodity exchange to discharge regulatory 
+24
+or self-regulatory duties under this Act; or 
+25
+03:24 Apr 30, 2022
+H7614
+48 
+•HR 7614 IH
+‘‘(2) the digital commodity exchange is subject 
+1
+to comparable, comprehensive supervision and regu-
+2
+lation by the appropriate government authorities in 
+3
+the home country of the organization. 
+4
+‘‘(g) CUSTOMER DEFINED.—In this section, the term 
+5
+‘customer’ means any person that maintains an account 
+6
+for the trading of digital commodities directly with a dig-
+7
+ital commodity exchange (other than a person that is 
+8
+owned or controlled, directly or indirectly, by the digital 
+9
+commodity exchange) for its own behalf or on behalf of 
+10
+other any person. 
+11
+‘‘(h) FEDERAL PREEMPTION.—Notwithstanding any 
+12
+other provision of law, the Commission shall have exclusive 
+13
+jurisdiction over any digital commodity exchange reg-
+14
+istered under this section. 
+15
+‘‘SEC. 5j. QUALIFIED DIGITAL COMMODITY CUSTODIANS. 
+16
+‘‘(a) IN GENERAL.—The Commission shall designate 
+17
+a digital commodity custodian as a qualified digital com-
+18
+modity custodian, if— 
+19
+‘‘(1) the Commission finds the digital com-
+20
+modity custodian is subject to adequate supervision 
+21
+and appropriate regulation by the Commission, the 
+22
+Securities and Exchange Commission, an appro-
+23
+priate Federal banking agency, a State bank super-
+24
+visor (within the meaning of section 3 of the Federal 
+25
+03:24 Apr 30, 2022
+H7614
+49 
+•HR 7614 IH
+Deposit Insurance Act), or an appropriate foreign 
+1
+governmental authority in the home country of the 
+2
+digital commodity custodian; and 
+3
+‘‘(2) the digital commodity custodian agrees to 
+4
+such regular and periodic sharing of information as 
+5
+the Commission determines by rule shall be reason-
+6
+ably necessary to effectuate any of the provisions, or 
+7
+to accomplish any of the purposes, of this Act. 
+8
+‘‘(b) RULEMAKING AUTHORITY.—For purposes of 
+9
+subsection (a), the Commission, by rule or order, shall de-
+10
+fine ‘adequate supervision’ and ‘appropriate regulation’ as 
+11
+any regulatory regime which meets such minimum stand-
+12
+ards for supervision and regulation as the Commission de-
+13
+termines are reasonably necessary to protect the property 
+14
+of customers of a registered digital commodity exchange, 
+15
+including minimum standards relating to— 
+16
+‘‘(1) accessibility of customer assets; 
+17
+‘‘(2) financial resources; 
+18
+‘‘(3) risk management requirements; 
+19
+‘‘(4) governance arrangements; 
+20
+‘‘(5) fitness standards; 
+21
+‘‘(6) recordkeeping; 
+22
+‘‘(7) information-sharing; and 
+23
+‘‘(8) conflicts of interest. 
+24
+03:24 Apr 30, 2022
+H7614
+50 
+•HR 7614 IH
+‘‘(c) 
+AUTHORITY
+TO
+TEMPORARILY
+SUSPEND 
+1
+STANDARDS.—The Commission may, by rule or order, 
+2
+temporarily suspend, in whole or in part, any requirement 
+3
+imposed under, or any standard referred to in, this section 
+4
+if the Commission determines that the suspension would 
+5
+be consistent with the public interest and the purposes of 
+6
+this Act.’’. 
+7
+(2) CERTAIN DIGITAL COMMODITY EXCHANGE 
+8
+FUNCTIONS NOT SUFFICIENT TO TRIGGER REQUIRE-
+9
+MENT TO REGISTER AS FUTURES COMMISSION MER-
+10
+CHANT.—Section 4f(c) of the Commodity Exchange 
+11
+Act (7 U.S.C. 6f(c)) is amended by adding at the 
+12
+end the following: 
+13
+‘‘(12) CLARIFICATION OF SCOPE OF REGISTRA-
+14
+TION
+REQUIREMENT.—A registered digital com-
+15
+modity exchange shall not be required to register as 
+16
+a futures commission merchant for any activity for 
+17
+which the exchange is regulated under section 5i.’’. 
+18
+(h) REGISTRATION
+AND REGULATION
+OF FIXED- 
+19
+VALUE DIGITAL COMMODITY OPERATORS.— 
+20
+(1) DEFINITIONS.—Section 1a of the Com-
+21
+modity Exchange Act (7 U.S.C. 1a) is further 
+22
+amended by adding at the end the following: 
+23
+‘‘(56) FIXED-VALUE DIGITAL COMMODITY.— 
+24
+03:24 Apr 30, 2022
+H7614
+51 
+•HR 7614 IH
+‘‘(A) IN GENERAL.—The term ‘fixed-value 
+1
+digital commodity’ means a digital commodity 
+2
+which is redeemable for a fixed amount of fiat 
+3
+currency or another commodity, or the value 
+4
+thereof. 
+5
+‘‘(B) FURTHER
+DEFINITION.—The Com-
+6
+mission, by rule or regulation, may include 
+7
+within, or exclude from, the term ‘fixed-value 
+8
+digital commodity’ any digital commodity if the 
+9
+Commission determines that the rule or regula-
+10
+tion will effectuate the purposes of this Act. 
+11
+‘‘(57) FIXED-VALUE DIGITAL COMMODITY OP-
+12
+ERATOR.— 
+13
+‘‘(A) IN GENERAL.—The term ‘fixed-value 
+14
+digital commodity operator’ means any per-
+15
+son— 
+16
+‘‘(i) engaged in a business that solic-
+17
+its, accepts, or receives funds, property, or 
+18
+other assets from others for the purpose of 
+19
+issuing units of a fixed-value digital com-
+20
+modity; or 
+21
+‘‘(ii) who is registered with the Com-
+22
+mission as a fixed-value digital commodity 
+23
+operator. 
+24
+03:24 Apr 30, 2022
+H7614
+52 
+•HR 7614 IH
+‘‘(B) FURTHER
+DEFINITION.—The Com-
+1
+mission, by rule or regulation, may include 
+2
+within, or exclude from, the term ‘fixed-value 
+3
+digital commodity operator’ any person engaged 
+4
+in a business of issuing fixed-value digital com-
+5
+modities, if the Commission determines that the 
+6
+rule or regulation will effectuate the purposes of 
+7
+this Act.’’. 
+8
+(2) REGISTRATION
+AND
+REGULATION.—The 
+9
+Commodity Exchange Act (7 U.S.C. 1 et seq.) is 
+10
+amended by inserting after section 4t the following: 
+11
+‘‘SEC. 4u. REGISTRATION AND REGULATION OF FIXED- 
+12
+VALUE DIGITAL COMMODITY OPERATORS. 
+13
+‘‘(a) REGISTRATION.— 
+14
+‘‘(1) IN GENERAL.—A person may register with 
+15
+the Commission as a fixed-value digital commodity 
+16
+operator. 
+17
+‘‘(2) FILING REQUIREMENT.—A person desiring 
+18
+to register with the Commission as a fixed-value dig-
+19
+ital commodity operator shall file with the Commis-
+20
+sion a registration application, in such form and 
+21
+manner as is prescribed by the Commission. 
+22
+‘‘(3) APPLICATION CONTENTS.—The application 
+23
+shall include— 
+24
+03:24 Apr 30, 2022
+H7614
+53 
+•HR 7614 IH
+‘‘(A) a description of the operation of the 
+1
+fixed-value digital commodity, including the 
+2
+process for issuing, redeeming, and calculating 
+3
+the value of the outstanding redeemable units 
+4
+of the fixed-value digital commodity; 
+5
+‘‘(B) the process by which the fixed-value 
+6
+digital commodity operator would wind-down its 
+7
+business, including— 
+8
+‘‘(i) transferring the funds and prop-
+9
+erty available for the redemption of units 
+10
+of the fixed-value digital commodity to an-
+11
+other fixed-value digital commodity oper-
+12
+ator; or 
+13
+‘‘(ii) redeeming outstanding units of 
+14
+the fixed-value digital commodity in an or-
+15
+derly manner; and 
+16
+‘‘(C) such other information as the Com-
+17
+mission considers necessary concerning the 
+18
+business in which the applicant is or will be en-
+19
+gaged. 
+20
+‘‘(b) PROHIBITIONS; ENFORCEMENT.— 
+21
+‘‘(1) STATUTORY
+DISQUALIFICATION.—Except 
+22
+to the extent otherwise specifically provided by rule, 
+23
+regulation, or order, it shall be unlawful for a reg-
+24
+istered fixed-value digital commodity operator to 
+25
+03:24 Apr 30, 2022
+H7614
+54 
+•HR 7614 IH
+permit any person who is associated with the oper-
+1
+ator and is subject to a statutory disqualification, to 
+2
+take any action in relation to the fixed-value digital 
+3
+commodity on behalf of the operator, if the operator 
+4
+knew, or in the exercise of reasonable care should 
+5
+have known, of the statutory disqualification. 
+6
+‘‘(2) REVOCATION.— 
+7
+‘‘(A) IN GENERAL.—The failure of a reg-
+8
+istered fixed-value digital commodity operator 
+9
+to comply with any provision of this Act or any 
+10
+regulation or order of the Commission under 
+11
+this Act shall be cause for the suspension for a 
+12
+period not to exceed 180 days, or revocation, of 
+13
+the registration of the operator as a fixed-value 
+14
+digital commodity operator, in accordance with 
+15
+the procedures and subject to the judicial re-
+16
+view provided in section 6(b). 
+17
+‘‘(B) TRUSTEE.—If a proceeding under 
+18
+subparagraph (A) results in the suspension or 
+19
+revocation of the registration of a fixed-value 
+20
+digital commodity operator, or if such an oper-
+21
+ator withdraws from registration, the Commis-
+22
+sion, on notice to the operator, may apply to 
+23
+the appropriate United States district court for 
+24
+03:24 Apr 30, 2022
+H7614
+55 
+•HR 7614 IH
+the judicial district in which the operator is lo-
+1
+cated for the appointment of a trustee. 
+2
+‘‘(C) ASSUMPTION
+OF
+JURISDICTION.—If 
+3
+the Commission applies for appointment of a 
+4
+trustee under subparagraph (B)— 
+5
+‘‘(i) the court may take exclusive ju-
+6
+risdiction over the fixed-value digital com-
+7
+modity operator and the records and assets 
+8
+of the operator, wherever located; and 
+9
+‘‘(ii) if the court takes jurisdiction 
+10
+under clause (i), the court shall appoint 
+11
+the Commission, or a person designated by 
+12
+the Commission, as trustee with power to 
+13
+take possession and continue to operate or 
+14
+terminate the operations of the fixed-value 
+15
+digital commodity operator in an orderly 
+16
+manner for the protection of participants, 
+17
+subject to such terms and conditions as the 
+18
+court may prescribe. 
+19
+‘‘(c) DUTIES OF A REGISTERED FIXED-VALUE DIG-
+20
+ITAL COMMODITY OPERATOR.—A registered fixed-value 
+21
+digital commodity operator shall comply, in such manner 
+22
+as the Commission shall by rule or order determine, with 
+23
+the following requirements: 
+24
+03:24 Apr 30, 2022
+H7614
+56 
+•HR 7614 IH
+‘‘(1) DISCLOSURE
+OF
+GENERAL
+INFORMA-
+1
+TION.—For each fixed-value digital commodity it op-
+2
+erates, such an operator shall— 
+3
+‘‘(A) disclose to the Commission informa-
+4
+tion concerning— 
+5
+‘‘(i) the terms and conditions of the 
+6
+fixed-value digital commodity transactions; 
+7
+‘‘(ii) the fixed-value digital commodity 
+8
+operations, mechanisms, and practices; 
+9
+‘‘(iii) the process for the issuance and 
+10
+redemption of units of the fixed-value dig-
+11
+ital commodity; 
+12
+‘‘(iv) the financial integrity protec-
+13
+tions relating to the fixed-value digital 
+14
+commodity; and 
+15
+‘‘(v) other information relevant to 
+16
+transacting in the fixed-value digital com-
+17
+modity; and 
+18
+‘‘(B) continue to submit to the Commission 
+19
+reports that contain such information per-
+20
+taining to the business of the operator as the 
+21
+Commission may require. 
+22
+‘‘(2) PUBLICLY
+AVAILABLE
+INFORMATION.— 
+23
+For each fixed-value digital commodity it operates, 
+24
+03:24 Apr 30, 2022
+H7614
+57 
+•HR 7614 IH
+such an operator shall make available to the public, 
+1
+information concerning— 
+2
+‘‘(A) the fixed-value digital commodity op-
+3
+erations, mechanisms, and practices; 
+4
+‘‘(B) the process for the issuance and re-
+5
+demption of the units of the fixed-value digital 
+6
+commodity; 
+7
+‘‘(C) information about the material risks 
+8
+and characteristics of the fixed-value digital 
+9
+commodity; 
+10
+‘‘(D) the total value of the outstanding 
+11
+units of the fixed-value digital commodity; 
+12
+‘‘(E) the total value of funds and other 
+13
+property held by the operator for redemption; 
+14
+‘‘(F) any material incentives or conflicts of 
+15
+interest that the operator may have in connec-
+16
+tion with the fixed-value digital commodity; and 
+17
+‘‘(G) any other information the Commis-
+18
+sion determines is relevant to the public’s un-
+19
+derstanding of the operation of the fixed-value 
+20
+digital commodity. 
+21
+‘‘(3) RECORD OF ASSETS AND LIABILITIES.— 
+22
+For each fixed-value digital commodity it operates, 
+23
+such an operator shall maintain daily redemption 
+24
+fund records reflecting the total amount of funds or 
+25
+03:24 Apr 30, 2022
+H7614
+58 
+•HR 7614 IH
+property held by the operator for redemption and 
+1
+the total value of outstanding redeemable units of 
+2
+the fixed-value digital commodity. 
+3
+‘‘(4) ABILITY TO OBTAIN INFORMATION.—Such 
+4
+an operator shall— 
+5
+‘‘(A) establish and enforce internal systems 
+6
+and procedures to obtain any necessary infor-
+7
+mation to perform any of the functions de-
+8
+scribed in this section; and 
+9
+‘‘(B) provide the information to the Com-
+10
+mission, as applicable, on request. 
+11
+‘‘(5) CONFLICTS OF INTEREST.—Such an oper-
+12
+ator shall implement conflict-of-interest systems and 
+13
+procedures that address such issues as the Commis-
+14
+sion determines to be appropriate. 
+15
+‘‘(6) RISK MANAGEMENT PROCEDURES.—Such 
+16
+an operator shall establish robust and professional 
+17
+risk management systems adequate for managing 
+18
+the day-to-day business of the operator. 
+19
+‘‘(7) REPORTING AND RECORDKEEPING.—Such 
+20
+an operator shall— 
+21
+‘‘(A) make such reports as are required by 
+22
+the Commission by rule or regulation regarding 
+23
+the issuance and redemption transactions, and 
+24
+03:24 Apr 30, 2022
+H7614
+59 
+•HR 7614 IH
+positions and financial condition of the reg-
+1
+istered fixed-value digital commodity operator; 
+2
+‘‘(B) keep books and records in such form 
+3
+and manner and for such period as may be pre-
+4
+scribed by the Commission by rule or regula-
+5
+tion; and 
+6
+‘‘(C) keep the books and records referred 
+7
+to in subparagraph (B) open to inspection and 
+8
+examination by any representative of the Com-
+9
+mission. 
+10
+‘‘(8) BUSINESS
+CONDUCT
+STANDARDS.—Such 
+11
+an operator shall conform with such business con-
+12
+duct standards as the Commission may prescribe, re-
+13
+lated to— 
+14
+‘‘(A) fraud, manipulation, and other abu-
+15
+sive practices involving the issuance and re-
+16
+demption of any unit of the fixed-value digital 
+17
+commodity; 
+18
+‘‘(B) diligent supervision of the business of 
+19
+the operator; 
+20
+‘‘(C) communicating with the public in a 
+21
+fair and balanced manner based on principles of 
+22
+fair dealing and good faith; and 
+23
+‘‘(D) such other standards and require-
+24
+ments as the Commission may determine are 
+25
+03:24 Apr 30, 2022
+H7614
+60 
+•HR 7614 IH
+appropriate in the public interest, for the pro-
+1
+tection of participants in the fixed-value digital 
+2
+commodity, or otherwise in furtherance of the 
+3
+purposes of this section. 
+4
+‘‘(9) REQUIREMENTS FOR ISSUANCE AND RE-
+5
+DEMPTION TRANSACTION RECORDS.— 
+6
+‘‘(A) IN GENERAL.—For each fixed-value 
+7
+digital commodity it operates, such an operator 
+8
+shall maintain daily transaction records of the 
+9
+units of the fixed-value digital commodity 
+10
+issued or redeemed by the operator for such pe-
+11
+riod as may be required by the Commission by 
+12
+rule or regulation. 
+13
+‘‘(B) COUNTERPARTY RECORDS.—For each 
+14
+fixed-value digital commodity it operates, such 
+15
+an operator shall maintain daily transaction 
+16
+records for each counterparty to an issuance or 
+17
+redemption transaction in a manner and form 
+18
+that is identifiable with each fixed-value digital 
+19
+commodity transaction. 
+20
+‘‘(C) AUDIT TRAIL.—For each fixed-value 
+21
+digital commodity it operates, such an operator 
+22
+shall maintain a complete audit trail for con-
+23
+ducting comprehensive and accurate issuance 
+24
+and redemption transaction reconstructions. 
+25
+03:24 Apr 30, 2022
+H7614
+61 
+•HR 7614 IH
+‘‘(D) 
+INFORMATION
+REQUIREMENTS.— 
+1
+Such a daily transaction record shall include 
+2
+such information as the Commission shall re-
+3
+quire by rule or regulation. 
+4
+‘‘(d) FUNDS HELD FOR REDEMPTION.— 
+5
+‘‘(1) AMOUNT OF FUNDS.—For each fixed-value 
+6
+digital commodity it operates, a registered fixed- 
+7
+value digital commodity operator shall maintain 
+8
+funds or other property equal to the total value of 
+9
+any outstanding redeemable fixed-value digital com-
+10
+modities issued by the operator, as determined in ac-
+11
+cordance with such requirements and limitations on 
+12
+valuation as the Commission shall, by rule, pre-
+13
+scribe. 
+14
+‘‘(2) SEGREGATION REQUIREMENTS.— 
+15
+‘‘(A) FUNDS
+HELD
+FOR
+REDEMPTION.— 
+16
+For each fixed-value digital commodity it oper-
+17
+ates, a registered fixed-value digital commodity 
+18
+operator shall— 
+19
+‘‘(i) segregate the funds or other 
+20
+property held for redemption; and 
+21
+‘‘(ii) in accordance with such rules 
+22
+and regulations as the Commission may 
+23
+promulgate, maintain the funds or other 
+24
+property in a segregated account separate 
+25
+03:24 Apr 30, 2022
+H7614
+62 
+•HR 7614 IH
+from the assets and other interests of the 
+1
+operator. 
+2
+‘‘(B) APPLICABILITY.—Subparagraph (A) 
+3
+shall not preclude any commercial arrangement 
+4
+regarding the investment of segregated funds or 
+5
+other property that may only be invested in 
+6
+such investments as the Commission may per-
+7
+mit by rule or regulation. 
+8
+‘‘(C) CUSTODIANS.—The segregated ac-
+9
+count referred to in subparagraph (A) shall be 
+10
+carried by a qualified digital commodity custo-
+11
+dian for any digital commodity held for redemp-
+12
+tion. 
+13
+‘‘(e) FINANCIAL RESOURCES.— 
+14
+‘‘(1) IN
+GENERAL.—A registered fixed-value 
+15
+digital commodity operator shall meet such min-
+16
+imum capital requirements as the Commission shall 
+17
+by rule or regulation prescribe, pursuant to the 
+18
+standards in paragraph (2). 
+19
+‘‘(2) STANDARDS
+FOR
+CAPITAL
+REQUIRE-
+20
+MENTS.— 
+21
+‘‘(A) The requirements imposed under 
+22
+paragraph (1) shall— 
+23
+03:24 Apr 30, 2022
+H7614
+63 
+•HR 7614 IH
+‘‘(i) help ensure the safety and sound-
+1
+ness of the fixed-value digital commodity 
+2
+operator; 
+3
+‘‘(ii) be appropriate for the risk asso-
+4
+ciated with the funds for redemption held 
+5
+by such an operator; and 
+6
+‘‘(iii) be sufficient for the operator to 
+7
+comply with its plan for an orderly wind- 
+8
+down of its activities. 
+9
+‘‘(B) ADJUSTMENTS.—In setting capital 
+10
+requirements for a registered fixed-value digital 
+11
+commodity operator, the Commission shall take 
+12
+into account— 
+13
+‘‘(i) the risks associated with other ac-
+14
+tivities conducted by the operator or affili-
+15
+ated entity for activities not subject to reg-
+16
+ulations providing for a minimum capital 
+17
+standard; and 
+18
+‘‘(ii) any other capital requirement 
+19
+imposed on the operator or affiliated entity 
+20
+for activities subject to regulations pro-
+21
+viding for a minimum capital standard. 
+22
+‘‘(f) EXEMPTIONS.—In order to promote responsible 
+23
+economic or financial innovation and fair competition, or 
+24
+protect customers, the Commission may (on its own initia-
+25
+03:24 Apr 30, 2022
+H7614
+64 
+•HR 7614 IH
+tive or on application of the registered fixed-value digital 
+1
+commodity operator) exempt, either unconditionally or on 
+2
+stated terms or conditions or for stated periods and either 
+3
+retroactively or prospectively, or both, a registered fixed- 
+4
+value digital commodity operator from the requirements 
+5
+of this section, if the Commission determines that— 
+6
+‘‘(1) the exemption would be consistent with the 
+7
+public interest and the purposes of this Act; and 
+8
+‘‘(2) the exemption will not have a material ad-
+9
+verse effect on the ability of the Commission or the 
+10
+operator to discharge any duty of the Commission or 
+11
+the operator, respectively, under this Act. 
+12
+‘‘(g) RULEMAKING.— 
+13
+‘‘(1) IN
+GENERAL.—The Commission shall 
+14
+adopt rules for registered fixed-value digital com-
+15
+modity operators and to effectuate the requirements 
+16
+of this section. 
+17
+‘‘(2) PROHIBITION
+ON
+THE
+COLLECTION
+OF 
+18
+CERTAIN INFORMATION.—This section shall not be 
+19
+construed to— 
+20
+‘‘(A) require a registered fixed-value digital 
+21
+commodity operator to solicit, collect, maintain, 
+22
+report, or otherwise make available to the Com-
+23
+mission, any other State or Federal agency, or 
+24
+any foreign authority, any record or informa-
+25
+03:24 Apr 30, 2022
+H7614
+65 
+•HR 7614 IH
+tion relating to any person, counterparty, 
+1
+amount, or account utilizing a unit of the fixed- 
+2
+value digital commodity in a transaction which 
+3
+does not involve the issuance or redemption of 
+4
+a unit of the fixed-value digital commodity, or 
+5
+to cause any other person to do the same; or 
+6
+‘‘(B) permit the Commission to require 
+7
+such an operator to solicit, collect, maintain, re-
+8
+port, or otherwise make available to the Com-
+9
+mission, any other State or Federal agency, or 
+10
+any foreign authority, any record or informa-
+11
+tion relating to any person, counterparty, 
+12
+amount, or account utilizing a unit of the fixed- 
+13
+value digital commodity in a transaction which 
+14
+does not involve the issuance or redemption of 
+15
+a unit of the fixed-value digital commodity, or 
+16
+to cause any other person to do the same.’’. 
+17
+(i) VOLUNTARY REGISTRATION AND DISCLOSURES 
+18
+BY DIGITAL COMMODITY DEVELOPERS.— 
+19
+(1) DEFINITION.—Section 1a of the Commodity 
+20
+Exchange Act (7 U.S.C. 1a) is further amended by 
+21
+adding at the end the following: 
+22
+‘‘(58) DIGITAL COMMODITY DEVELOPER.—The 
+23
+term ‘digital commodity developer’ means a person 
+24
+who creates or develops a digital commodity.’’. 
+25
+03:24 Apr 30, 2022
+H7614
+66 
+•HR 7614 IH
+(2) REGISTRATION
+AND
+DISCLOSURES.—The 
+1
+Commodity Exchange Act (7 U.S.C. 1 et seq.), as 
+2
+amended by subsection (f)(2) of this section, is fur-
+3
+ther amended by inserting after section 4t the fol-
+4
+lowing: 
+5
+‘‘SEC. 4v. REGISTRATION AND DISCLOSURES BY DIGITAL 
+6
+COMMODITY DEVELOPERS. 
+7
+‘‘(a) REGISTRATION.—Any person may register with 
+8
+the Commission as a digital commodity developer by filing 
+9
+a registration application with the Commission. 
+10
+‘‘(b) REQUIREMENTS.— 
+11
+‘‘(1) IN
+GENERAL.—The application shall be 
+12
+made in such form and manner as prescribed by the 
+13
+Commission, and shall contain such information, as 
+14
+the Commission determines by rule is necessary to 
+15
+effectuate the purposes of this Act. 
+16
+‘‘(2) MEMBERSHIP.—Any person registered as 
+17
+a digital commodity developer shall be a member of 
+18
+a registered futures association for the duration of 
+19
+the registration. 
+20
+‘‘(3) EXPIRATION.—Each registration under 
+21
+this section shall expire— 
+22
+‘‘(A) when the applicant withdraws from 
+23
+registration; 
+24
+03:24 Apr 30, 2022
+H7614
+67 
+•HR 7614 IH
+‘‘(B) when the applicant fails to comply 
+1
+with the requirements of this section; or 
+2
+‘‘(C) at such other time as the Commission 
+3
+may prescribe by rule or regulation. 
+4
+‘‘(c) DISCLOSURES.—For each digital commodity, a 
+5
+registered digital commodity developer shall submit to the 
+6
+Commission or its designee, and maintain on a publicly 
+7
+available website, in such form and manner as prescribed 
+8
+by the Commission, the following: 
+9
+‘‘(1) INITIAL DISCLOSURES.— 
+10
+‘‘(A) PROJECT DISCLOSURES.—A general 
+11
+description of the digital commodity, includ-
+12
+ing— 
+13
+‘‘(i) its purpose and use; 
+14
+‘‘(ii) its unit creation or release proc-
+15
+ess; 
+16
+‘‘(iii) its consensus mechanism; 
+17
+‘‘(iv) its governance structure; 
+18
+‘‘(v) its participation and distribution; 
+19
+‘‘(vi) 
+its 
+current 
+and 
+proposed 
+20
+functionality; and 
+21
+‘‘(vii) any other such information the 
+22
+Commission determines will effectuate the 
+23
+purposes of this Act. 
+24
+03:24 Apr 30, 2022
+H7614
+68 
+•HR 7614 IH
+‘‘(B) 
+DEVELOPMENT
+DISCLOSURES.—A 
+1
+list of all individuals who are— 
+2
+‘‘(i) participants in a related digital 
+3
+commodity presale; 
+4
+‘‘(ii) holders of units of the digital 
+5
+commodity subject to the limitations in 
+6
+section 4c(h); 
+7
+‘‘(iii) holders of rights or promises to 
+8
+future units of the digital commodity; or 
+9
+‘‘(iv) compensated in any fashion for 
+10
+providing material support for the develop-
+11
+ment of the digital commodity. 
+12
+‘‘(C) TECHNICAL
+DISCLOSURES.—Tech-
+13
+nical documentation related to the digital com-
+14
+modity, including any— 
+15
+‘‘(i) whitepaper; 
+16
+‘‘(ii) source code; 
+17
+‘‘(iii) development guide; or 
+18
+‘‘(iv) other similar material. 
+19
+‘‘(2) PERIODIC
+DISCLOSURES.—The digital 
+20
+commodity developer shall periodically update the 
+21
+disclosures made pursuant to subsection (c)(1), at 
+22
+such frequency as prescribed by the Commission. 
+23
+‘‘(3) POST-FILING
+DIGITAL
+COMMODITY
+SALE 
+24
+DISCLOSURES.— 
+25
+03:24 Apr 30, 2022
+H7614
+69 
+•HR 7614 IH
+‘‘(A) IN GENERAL.—The digital commodity 
+1
+developer shall publicly disclose the sale or 
+2
+transfer of any unit, or any promise or right to 
+3
+any future unit, of the digital commodity, that 
+4
+is subject to the restrictions in section 4c(h). 
+5
+‘‘(B) CONTENTS.—Each disclosure re-
+6
+quired under subparagraph (A) shall include 
+7
+the date of sale, number of digital commodities 
+8
+sold, number of purchasers if identifiable, any 
+9
+limitations or restrictions on the transferability 
+10
+of the digital commodities sold, price per digital 
+11
+commodity, and the type and amount of consid-
+12
+eration received. 
+13
+‘‘(4) SUBSTITUTE
+DISCLOSURES.—The Com-
+14
+mission may exempt, conditionally or uncondition-
+15
+ally, a digital commodity developer from the disclo-
+16
+sure requirements under this section if the Commis-
+17
+sion determines that the digital commodity developer 
+18
+complies with the comparable disclosure require-
+19
+ments of another federal regulator. 
+20
+‘‘(d) NO REQUIREMENT TO REGISTER.—The creator 
+21
+or developer of a digital commodity shall not be required 
+22
+to be registered under this section in order for a digital 
+23
+commodity created or developed by the creator or devel-
+24
+03:24 Apr 30, 2022
+H7614
+70 
+•HR 7614 IH
+oper to be listed for trading on a registered digital com-
+1
+modity exchange.’’. 
+2
+Æ 
+03:24 Apr 30, 2022
+H7614

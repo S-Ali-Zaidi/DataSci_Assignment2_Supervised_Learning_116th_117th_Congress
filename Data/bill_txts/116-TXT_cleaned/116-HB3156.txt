@@ -1,0 +1,672 @@
+A BILL 
+To promote the use of smart technologies and systems in 
+communities, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Smart Technologies Advancing Reliable Transportation 
+5
+Act’’ or the ‘‘START Act’’. 
+6
+(b) TABLE OF CONTENTS.—The table of contents for 
+7
+this Act is as follows: 
+8
+Sec. 1. Short title; table of contents. 
+Sec. 2. Purpose. 
+Sec. 3 Definitions. 
+Sec. 4 Smart city and community transportation resource guide. 
+Sec. 5. Smart Cities Challenge grant extension program. 
+01:02 Jun 13, 2019
+H3156
+2 
+•HR 3156 IH
+Sec. 6. GAO study. 
+Sec. 7. Reports to Secretary of Transportation and Congress. 
+SEC. 2. PURPOSE. 
+1
+The purpose of this Act is to promote smart tech-
+2
+nologies and systems to reduce transportation costs, traf-
+3
+fic congestion, air pollution, energy use, and carbon emis-
+4
+sions, and enhance security resiliency for communities of 
+5
+all sizes by— 
+6
+(1) creating a smart city and community trans-
+7
+portation resource guide; 
+8
+(2) promoting the quality and performance of 
+9
+smart city technologies while protecting— 
+10
+(A) the physical and cyber security of data 
+11
+and smart city technology systems; and 
+12
+(B) privacy; and 
+13
+(3) providing assistance to local governments 
+14
+interested in implementing smart city or community 
+15
+transportation technologies. 
+16
+SEC. 3 DEFINITIONS. 
+17
+In this Act: 
+18
+(1) 
+APPROPRIATE
+COMMITTEES
+OF
+CON-
+19
+GRESS.—The term ‘‘appropriate committees of Con-
+20
+gress’’ means— 
+21
+(A) the Committee on Commerce, Science, 
+22
+and Transportation of the Senate; and 
+23
+01:02 Jun 13, 2019
+H3156
+3 
+•HR 3156 IH
+(B) the Committee on Transportation and 
+1
+Infrastructure and the Committee on Energy 
+2
+and Commerce of the House of Representatives. 
+3
+(2) DATA.—The term ‘‘data’’ includes informa-
+4
+tion and images. 
+5
+(3) LARGE-SIZED CITY.—The term ‘‘large-sized 
+6
+city’’ means a beneficiary city with a population of 
+7
+850,000 or greater, according to the most recent an-
+8
+nual estimates of resident population by the Bureau 
+9
+of the Census. 
+10
+(4) MEDIUM-SIZED CITY.—The term ‘‘medium- 
+11
+sized city’’ means a beneficiary city with a popu-
+12
+lation between 200,000 and 850,000, according to 
+13
+the most recent annual estimates of resident popu-
+14
+lation by the Bureau of the Census. 
+15
+(5) RURAL
+AREA.—The term ‘‘rural area’’ 
+16
+means a beneficiary jurisdiction with a population 
+17
+between 10,000 and 75,000 people, not located with-
+18
+in an urbanized area or cluster, according to the 
+19
+most recent annual estimates of resident population 
+20
+by the Bureau of the Census. 
+21
+(6) SECRETARIES.—The term ‘‘Secretaries’’ 
+22
+means the Secretary, acting in coordination with— 
+23
+(A) the Secretary of Energy; 
+24
+04:43 Jun 14, 2019
+H3156
+4 
+•HR 3156 IH
+(B) the Secretary of Housing and Urban 
+1
+Development; and 
+2
+(C) the Director of the National Science 
+3
+Foundation. 
+4
+(7) SECRETARY.—The term ‘‘Secretary’’ means 
+5
+the Secretary of Transportation. 
+6
+(8) SECURITY SOLUTIONS.—The term ‘‘security 
+7
+solutions’’ means video camera equipment, emer-
+8
+gency light and panic alarms, information technology 
+9
+and information systems. 
+10
+(9) SMALL CITY.—The term ‘‘small city’’ means 
+11
+a beneficiary city with a population between 75,000 
+12
+and 200,000, according to the most recent annual 
+13
+estimates of resident population by the Bureau of 
+14
+the Census. 
+15
+(10) SMART CITY OR COMMUNITY.— 
+16
+(A) IN GENERAL.—The term ‘‘smart city 
+17
+or community’’ means a community in which 
+18
+innovative, advanced, secure, and reliable infor-
+19
+mation and communication technologies and re-
+20
+lated mechanisms are applied— 
+21
+(i) to improve the quality of life for 
+22
+residents; 
+23
+01:02 Jun 13, 2019
+H3156
+5 
+•HR 3156 IH
+(ii) to reduce resource consumption by 
+1
+increasing the efficiency and cost effective-
+2
+ness of civic operations and services; 
+3
+(iii) to promote economic growth; and 
+4
+(iv) to create a community that is 
+5
+safer and more secure, sustainable, resil-
+6
+ient, livable, and workable. 
+7
+(B) INCLUSIONS.—The term ‘‘smart city 
+8
+or community’’ includes a local jurisdiction that 
+9
+installs smart city technology that— 
+10
+(i) gathers and incorporates data from 
+11
+systems, devices, and sensors embedded in 
+12
+civic systems and infrastructure to improve 
+13
+the effectiveness and efficiency of civic op-
+14
+erations and services; 
+15
+(ii) aggregates and analyzes gathered 
+16
+data; 
+17
+(iii) communicates the analysis and 
+18
+data in a variety of formats; 
+19
+(iv) makes corresponding improve-
+20
+ments to civic systems and services based 
+21
+on gathered data; and 
+22
+(v) integrates measures— 
+23
+(I) to ensure the resilience of 
+24
+civic systems against cybersecurity 
+25
+01:02 Jun 13, 2019
+H3156
+6 
+•HR 3156 IH
+threats 
+and 
+physical 
+and 
+social 
+1
+vulnerabilities and breaches; 
+2
+(II) to protect the private data of 
+3
+residents; and 
+4
+(III) to measure the impact of 
+5
+smart city or community technologies 
+6
+on the effectiveness and efficiency 
+7
+civic operations and services. 
+8
+(11) SMART
+CITY
+TECHNOLOGY.—The term 
+9
+‘‘smart city technology’’ means technology and sys-
+10
+tems that gather and incorporate data from systems, 
+11
+devices, and sensors embedded in civic systems, se-
+12
+curity systems, transportation and traffic manage-
+13
+ment systems, and infrastructure to improve the ef-
+14
+fectiveness and efficiency of civic operations by— 
+15
+(A) aggregating and analyzing collected 
+16
+data; 
+17
+(B) communicating the analysis and data 
+18
+in a variety of forms; 
+19
+(C) corresponding improvements to civic 
+20
+systems and services based on gathered data; 
+21
+(D) providing innovative services in mul-
+22
+tiple modes of transport and traffic manage-
+23
+ment to enable users to be safer, better coordi-
+24
+nated and connected, and better informed; and 
+25
+01:02 Jun 13, 2019
+H3156
+7 
+•HR 3156 IH
+(E) integrating measures— 
+1
+(i) to protect private data of residents; 
+2
+and 
+3
+(ii) to measure the impact of smart 
+4
+city or community technologies on the ef-
+5
+fectiveness and efficiency of civic oper-
+6
+ations and services. 
+7
+(12) STATE.—The term ‘‘State’’ means— 
+8
+(A) a State; 
+9
+(B) the District of Columbia; 
+10
+(C) the Commonwealth of Puerto Rico; 
+11
+and 
+12
+(D) any other territory or possession of the 
+13
+United States. 
+14
+(13) URBAN
+AREA.—The term ‘‘urban area’’ 
+15
+means a area designated as an urbanized area by 
+16
+the Bureau of the Census with a population of 
+17
+50,000 residents or more. 
+18
+SEC. 4 SMART CITY AND COMMUNITY TRANSPORTATION 
+19
+RESOURCE GUIDE. 
+20
+(a) PUBLICATION.— 
+21
+(1) IN GENERAL.—The Secretaries, in coordina-
+22
+tion with the heads of any other applicable Federal 
+23
+agencies, shall create, publish, and maintain a re-
+24
+source guide designed to assist States, communities, 
+25
+01:02 Jun 13, 2019
+H3156
+8 
+•HR 3156 IH
+and cities in developing and implementing smart city 
+1
+or community programs. 
+2
+(2) INFORMATION INCLUDED.—The Secretaries, 
+3
+in coordination with representatives of cities, com-
+4
+munities, and industry entities, shall determine what 
+5
+information shall be included in the guide described 
+6
+in paragraph (1). 
+7
+(b) REQUIREMENTS.—The guide published under 
+8
+subsection (a)— 
+9
+(1) shall be maintained electronically on a 
+10
+website; 
+11
+(2) shall be provided as an electronic reference 
+12
+guide available to the public free of charge; and 
+13
+(3) may include— 
+14
+(A) available examples of local govern-
+15
+ments engaging private sector entities in order 
+16
+to implement smart city or community solu-
+17
+tions, including public-private partnership mod-
+18
+els, that could be used to leverage private sector 
+19
+funding, reduce transportation costs, and en-
+20
+hance security resiliency; 
+21
+(B) best practices and lessons learned from 
+22
+technology demonstrations, including return on 
+23
+investment and performance information to help 
+24
+01:02 Jun 13, 2019
+H3156
+9 
+•HR 3156 IH
+cities decide how to initiate integration of smart 
+1
+technologies; 
+2
+(C) Federal best practices for safeguarding 
+3
+cybersecurity and physical security, and ensur-
+4
+ing appropriate data management and data pri-
+5
+vacy; and 
+6
+(D) such other topics as are determined to 
+7
+be necessary by the Secretaries. 
+8
+(c) EXISTING GUIDES.—In creating, publishing, and 
+9
+maintaining the guide under subsection (a), the Secre-
+10
+taries shall consider Federal guides published before, on, 
+11
+or after the date of enactment of this Act relating to smart 
+12
+city or community goals, activities, and best practices— 
+13
+(1) to prevent duplication of efforts by the Fed-
+14
+eral Government; and 
+15
+(2) to leverage existing complementary efforts. 
+16
+SEC. 5. SMART CITIES CHALLENGE GRANT EXTENSION 
+17
+PROGRAM. 
+18
+(a) IN GENERAL.—Not later than 12 months after 
+19
+the date of enactment of this Act, the Secretary of Trans-
+20
+portation shall develop and implement an additional round 
+21
+to the Smart Cities Challenge under which the Secretary 
+22
+shall provide grants on a competitive basis to small- and 
+23
+medium-sized communities to implement smart transpor-
+24
+tation proposals. 
+25
+01:02 Jun 13, 2019
+H3156
+10 
+•HR 3156 IH
+(b) ELIGIBILITY.—To be eligible to receive a grant 
+1
+under this section, an entity shall be— 
+2
+(1) a State or local government; 
+3
+(2) a tribal government; 
+4
+(3) a transit agency or authority; 
+5
+(4) a public toll authority; 
+6
+(5) a metropolitan planning organization; 
+7
+(6) any other subdivision of a State or local 
+8
+government; or 
+9
+(7) a multijurisdictional group applying through 
+10
+a single lead applicant. 
+11
+(c) APPLICATIONS.—An eligible entity seeking a 
+12
+grant under this section shall submit to the Secretary an 
+13
+application at the time, in such manner, and containing 
+14
+such information as the Secretary may require. An eligible 
+15
+entity may only submit 1 application. 
+16
+(d) PRIORITY.—In selecting eligible entities to receive 
+17
+grants under this section, the Secretary shall prioritize ap-
+18
+plicants that— 
+19
+(1) identify transportation challenges and de-
+20
+scribe how smart city technologies and systems can 
+21
+address such challenges; 
+22
+(2) determine what technologies have the most 
+23
+potential to address the challenges identified; 
+24
+01:02 Jun 13, 2019
+H3156
+11 
+•HR 3156 IH
+(3) identify what data may be collected and 
+1
+analyzed using these technologies and how such data 
+2
+would be used to continue to address identified 
+3
+transportation challenges; 
+4
+(4) incorporate relevant security solutions based 
+5
+on the scope and necessity for such smart city 
+6
+project; and 
+7
+(5) comply with any other requirements that 
+8
+the Secretary may identify. 
+9
+(e) NON-FEDERAL SHARE.—The non-Federal share 
+10
+of the cost of a project for which a grant is awarded under 
+11
+this section shall be a minimum of 25 percent of the total 
+12
+cost. 
+13
+(f) AMOUNT OF GRANTS.—The amount of a grant 
+14
+awarded under this section shall be a minimum of 
+15
+$20,000,000 and a maximum of $40,000,000. The total 
+16
+amount of funds awarded under this section shall not ex-
+17
+ceed $100,000,000 for one calendar year. 
+18
+(g) AUTHORIZATION OF APPROPRIATIONS.—There is 
+19
+authorized to be appropriated to carry out this section 
+20
+$100,000,000 for each of fiscal years 2020 through 2024. 
+21
+Additionally, the Secretary may reallocate unobligated 
+22
+funds to carry out this section. 
+23
+01:02 Jun 13, 2019
+H3156
+12 
+•HR 3156 IH
+SEC. 6. GAO STUDY. 
+1
+Not later than 1 year after the date of enactment 
+2
+of this Act, the Comptroller General of the United States 
+3
+shall conduct a study to identify— 
+4
+(1) financial and procurement mechanisms cur-
+5
+rently available to public and private entities to fund 
+6
+smart city or community activities and associated 
+7
+demonstration projects, including ‘‘pay for perform-
+8
+ance’’ financing that could deliver measurable and 
+9
+verifiable market and non-market values to smart 
+10
+cities or communities; 
+11
+(2) new, innovative financial and procurement 
+12
+mechanisms under development or used experi-
+13
+mentally that may be available, in the near term, to 
+14
+public and private entities to fund smart city or 
+15
+community activities and associated demonstration 
+16
+projects; 
+17
+(3) barriers to creative financing solutions for 
+18
+those activities and projects, including procurement 
+19
+barriers faced by State and local governments; and 
+20
+(4) ways to leverage private sector investments 
+21
+in smart cities and communities. 
+22
+SEC. 7. REPORTS TO SECRETARY OF TRANSPORTATION 
+23
+AND CONGRESS. 
+24
+(a) QUARTERLY
+REPORT.—Each recipient of a 
+25
+Smart Cities Challenge grant under section 5 shall submit 
+26
+01:02 Jun 13, 2019
+H3156
+13 
+•HR 3156 IH
+a quarterly report to the Secretary regarding the develop-
+1
+ment, implementation, and operation of the project. 
+2
+(b) REPORT TO CONGRESS.—Not later than 2 years 
+3
+after the date of enactment of this Act the Secretary shall 
+4
+submit to the appropriate committees of Congress a report 
+5
+that includes— 
+6
+(1) pertinent updates regarding the develop-
+7
+ment, list of recipients, implementation, and oper-
+8
+ation of projects funded under Smart Cities Chal-
+9
+lenge; 
+10
+(2) the impact of such projects on the transpor-
+11
+tation systems within the area served by the project 
+12
+and review of appropriate security protocols inte-
+13
+grated into the project; 
+14
+(3) the impact of such projects on frontline 
+15
+communities, 
+including 
+communities 
+of 
+color, 
+16
+women, veterans, and the elderly; 
+17
+(4) the extent to which the goals of the grant 
+18
+program have been met; and 
+19
+(5) any recommendations for revisions or im-
+20
+provements to the Smart Cities Challenge to guide 
+21
+future deployment activities. 
+22
+Æ 
+04:43 Jun 14, 2019
+H3156

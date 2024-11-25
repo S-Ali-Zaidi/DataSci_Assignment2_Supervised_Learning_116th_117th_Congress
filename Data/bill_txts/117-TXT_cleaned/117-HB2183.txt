@@ -1,0 +1,1028 @@
+A BILL 
+To amend the Communications Act of 1934 to provide fund-
+ing to States for extending broadband service to unserved 
+areas in partnership with broadband service providers, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Eliminate the Digital 
+4
+Divide Act of 2021’’. 
+5
+01:04 May 21, 2021
+H2183
+2 
+•HR 2183 IH
+SEC. 2. EXPANSION OF BROADBAND ACCESS IN UNSERVED 
+1
+AREAS. 
+2
+(a) IN GENERAL.—The Communications Act of 1934 
+3
+(47 U.S.C. 151 et seq.) is amended— 
+4
+(1) in title I (47 U.S.C. 151 et seq.), by adding 
+5
+at the end the following: 
+6
+‘‘SEC. 14. EXPANSION AND ADOPTION OF BROADBAND 
+7
+SERVICE THROUGH STATE FUNDING. 
+8
+‘‘(a) DEFINITIONS.—In this section: 
+9
+‘‘(1) BROADBAND
+FUNDING
+PARTNER.—The 
+10
+term ‘broadband funding partner’ means an eligible 
+11
+entity that receives funding for a project under this 
+12
+section. 
+13
+‘‘(2) 
+BROADBAND
+SERVICE.—The 
+term 
+14
+‘broadband service’— 
+15
+‘‘(A) means a mass-market retail service 
+16
+by wire or radio that provides the capability to 
+17
+transmit data to and receive data from all or 
+18
+substantially all internet endpoints, including 
+19
+any capabilities that are incidental to and en-
+20
+able the operation of the communications serv-
+21
+ice; 
+22
+‘‘(B) includes any service that is a func-
+23
+tional equivalent of the service described in sub-
+24
+paragraph (A); and 
+25
+01:04 May 21, 2021
+H2183
+3 
+•HR 2183 IH
+‘‘(C) does not include dial-up internet ac-
+1
+cess service. 
+2
+‘‘(3) ELIGIBLE ENTITY.—The term ‘eligible en-
+3
+tity’ means a private provider of broadband service, 
+4
+or a public-private partnership or cooperative (in-
+5
+cluding a subsidiary of a cooperative) that provides 
+6
+broadband service, that has submitted to the Com-
+7
+mission, in addition to any data required to be sub-
+8
+mitted under section 802, data regarding the service 
+9
+option described in subsection (f)(2) that the entity 
+10
+would offer if the entity were to receive funding 
+11
+under this section. 
+12
+‘‘(4) HIGH COST AREA.—The term ‘high cost 
+13
+area’ means an unserved area in which the cost of 
+14
+building out broadband service is higher, as com-
+15
+pared with the average such cost in the United 
+16
+States (and as determined by the Commission), be-
+17
+cause of— 
+18
+‘‘(A) the remote location of the area; 
+19
+‘‘(B) the population density of the area; 
+20
+‘‘(C) the unique topography of the area; 
+21
+‘‘(D) a high rate of poverty in the area; or 
+22
+‘‘(E) any other factor that contributes to 
+23
+the cost of building out that service. 
+24
+01:04 May 21, 2021
+H2183
+4 
+•HR 2183 IH
+‘‘(5) LOCATION.—The term ‘location’ has the 
+1
+meaning given the term by the Commission under 
+2
+rules and guidance that are in effect, as of the date 
+3
+of enactment of this section. 
+4
+‘‘(6) PROJECT.—The term ‘project’ means an 
+5
+undertaking by a broadband funding partner under 
+6
+this section to construct and deploy infrastructure 
+7
+for the provision of broadband service. 
+8
+‘‘(7) UNSERVED
+AREA.—The term ‘unserved 
+9
+area’ means an area that— 
+10
+‘‘(A) is of a standard size, as established 
+11
+by the Commission; and 
+12
+‘‘(B) as determined in accordance with the 
+13
+maps created under section 802(c)(1)— 
+14
+‘‘(i) has no access to broadband serv-
+15
+ice; or 
+16
+‘‘(ii) 
+does 
+not 
+have 
+access 
+to 
+17
+broadband service offered— 
+18
+‘‘(I) with a download speed of at 
+19
+least 25 megabits per second and an 
+20
+upload speed of at least 3 megabits 
+21
+per second; or 
+22
+‘‘(II) with download and upload 
+23
+speeds that are established as bench-
+24
+01:04 May 21, 2021
+H2183
+5 
+•HR 2183 IH
+marks by the Commission after the 
+1
+date of enactment of this section. 
+2
+‘‘(b) PROGRAM ESTABLISHED.— 
+3
+‘‘(1) IN GENERAL.—Not later than 100 days 
+4
+after the date of enactment of this section, or the 
+5
+date on which the maps created under section 
+6
+802(c)(1) are made public, whichever is later, the 
+7
+Commission shall establish a program for States to 
+8
+expand access to broadband service in unserved 
+9
+areas. 
+10
+‘‘(2) RELATIONSHIP TO UNIVERSAL SERVICE.— 
+11
+The program established under paragraph (1) shall 
+12
+be separate from any universal service program es-
+13
+tablished under section 254. 
+14
+‘‘(c) STATE PROGRAM REQUIREMENTS.—A State 
+15
+seeking funding under the program established under sub-
+16
+section (b) shall create a program that— 
+17
+‘‘(1) implements the requirements of this sec-
+18
+tion; 
+19
+‘‘(2) does not favor the use of any particular 
+20
+technology or any particular eligible entity; 
+21
+‘‘(3) encourages all eligible entities, including 
+22
+small broadband providers, to participate in the pro-
+23
+gram through streamlined regulatory requirements 
+24
+for all broadband funding partners; 
+25
+01:04 May 21, 2021
+H2183
+6 
+•HR 2183 IH
+‘‘(4) takes into account— 
+1
+‘‘(A) the size and scope of each unserved 
+2
+area, and the number of locations, proposed to 
+3
+be served by each project carried out using the 
+4
+funds; 
+5
+‘‘(B) the speed of the broadband service 
+6
+provided by eligible entities seeking funding for 
+7
+projects under the program; and 
+8
+‘‘(C) the ability of the eligible entities that 
+9
+would receive funding for projects under the 
+10
+program to complete the proposed deployment 
+11
+and provision of broadband service under those 
+12
+projects in the areas served by the projects; 
+13
+‘‘(5) may take into account— 
+14
+‘‘(A) the size and proportion of the match-
+15
+ing funds proposed to be committed by the eli-
+16
+gible entities seeking funding for projects under 
+17
+the program, which may not be provided from 
+18
+any funds derived from government grants, 
+19
+loans, or subsidies; 
+20
+‘‘(B) the speed with which the eligible enti-
+21
+ties seeking funding for projects under the pro-
+22
+gram can complete the proposed deployment 
+23
+and provision of broadband service to house-
+24
+holds under those projects, which may include 
+25
+01:04 May 21, 2021
+H2183
+7 
+•HR 2183 IH
+a review of the topographical effects on the 
+1
+areas being served those projects as a result of 
+2
+the technology to be deployed under those 
+3
+projects; and 
+4
+‘‘(C) whether an eligible entity seeking 
+5
+funding for a project under the program has 
+6
+the ability to leverage nearby or adjacent 
+7
+broadband service provided by the eligible entity 
+8
+to facilitate the deployment and provision of 
+9
+broadband service proposed under that project; 
+10
+‘‘(6) establishes— 
+11
+‘‘(A) periodic buildout milestones, report-
+12
+ing 
+requirements, 
+and 
+certification 
+by 
+13
+broadband funding partners; and 
+14
+‘‘(B) a maximum buildout timeframe for a 
+15
+broadband funding partner of 3 years, begin-
+16
+ning on the date on which funding is provided 
+17
+to the broadband funding partner to undertake 
+18
+a project, except that the State may extend that 
+19
+timeframe if the broadband funding partner es-
+20
+tablishes that the failure to complete the project 
+21
+within that timeframe is due to— 
+22
+‘‘(i) delays by third parties, including 
+23
+governmental entities, in providing nec-
+24
+01:04 May 21, 2021
+H2183
+8 
+•HR 2183 IH
+essary permits, approvals, or access to (or 
+1
+construction of) poles; or 
+2
+‘‘(ii) a State or federally declared dis-
+3
+aster; 
+4
+‘‘(7) contains sufficient notice, transparency, 
+5
+accountability, and oversight measures to— 
+6
+‘‘(A) provide the public and broadband 
+7
+funding partners with notice of the funding pro-
+8
+vided under this section; and 
+9
+‘‘(B) deter waste, fraud, and abuse of pro-
+10
+gram funds; 
+11
+‘‘(8) establishes procedures for the recovery of 
+12
+funds, in whole or in part, from a broadband fund-
+13
+ing partner if the broadband funding partner— 
+14
+‘‘(A) defaults or fails to comply with the 
+15
+buildout 
+requirements 
+established 
+for 
+the 
+16
+project with respect to which the funding re-
+17
+lates; and 
+18
+‘‘(B) has not received an extension under 
+19
+paragraph (6)(B); 
+20
+‘‘(9) establishes procedures for expedited ap-
+21
+proval for all necessary access to (or construction of) 
+22
+poles, State and local rights-of-way permits, or other 
+23
+approvals in the areas of the State served by 
+24
+projects under the program; 
+25
+01:04 May 21, 2021
+H2183
+9 
+•HR 2183 IH
+‘‘(10) provides that broadband funding partners 
+1
+are not required to be designated as eligible tele-
+2
+communications carriers under section 214(e); 
+3
+‘‘(11) provides that an eligible entity shall grant 
+4
+access to poles, ducts, conduits, and rights-of-way 
+5
+that the eligible entity owns or controls within the 
+6
+State at rates, terms, and conditions regulated by 
+7
+the Commission under, or the State consistent with, 
+8
+section 224 and the rules of the Commission, with-
+9
+out regard to whether that section otherwise applies 
+10
+with respect to those items; and 
+11
+‘‘(12) except as otherwise explicitly provided in 
+12
+this section, does not require, or include consider-
+13
+ation of, the imposition of any new or additional reg-
+14
+ulatory obligations on broadband funding partners 
+15
+beyond those required under applicable law. 
+16
+‘‘(d) DISTRIBUTION OF FUNDS TO STATES.— 
+17
+‘‘(1) COMMISSION DISTRIBUTIONS.— 
+18
+‘‘(A) IN
+GENERAL.—Not later than 200 
+19
+days after the date of enactment of this section, 
+20
+or the date on which the maps created under 
+21
+section 802(c)(1) are made public, whichever is 
+22
+later, the Commission, under the program es-
+23
+tablished under subsection (b), and in accord-
+24
+ance with the requirements of this section, 
+25
+01:04 May 21, 2021
+H2183
+10 
+•HR 2183 IH
+shall, with respect to the amounts made avail-
+1
+able to carry out this section— 
+2
+‘‘(i) reserve 10 percent of those 
+3
+amounts for distributions under subpara-
+4
+graph (B) to States that have established 
+5
+programs under subsection (c); and 
+6
+‘‘(ii) of the amounts not reserved 
+7
+under clause (i), make distributions under 
+8
+paragraph (2) to States that have estab-
+9
+lished programs under subsection (c). 
+10
+‘‘(B) DISTRIBUTIONS
+FOR
+HIGH
+COST 
+11
+AREAS.—The amount of a distribution to a 
+12
+State under this subparagraph shall be cal-
+13
+culated as follows: 
+14
+‘‘(i) Divide the number of high cost 
+15
+areas in the State by the total number of 
+16
+high cost areas in the United States. 
+17
+‘‘(ii) Multiply the quotient obtained 
+18
+under clause (i) by the total amount re-
+19
+served under subparagraph (A)(i). 
+20
+‘‘(2) AMOUNT OF DISTRIBUTIONS FOR PROJECT 
+21
+AWARDS.—The amount of a distribution to a State 
+22
+under paragraph (1) shall be calculated as follows: 
+23
+‘‘(A) Divide the number of locations in 
+24
+unserved areas in the State by the total number 
+25
+01:04 May 21, 2021
+H2183
+11 
+•HR 2183 IH
+of locations in unserved areas in the United 
+1
+States, as determined in accordance with the 
+2
+maps created under section 802(c)(1). 
+3
+‘‘(B) Multiply the quotient obtained under 
+4
+subparagraph (A) of this paragraph by the 
+5
+amount described in paragraph (1)(A)(ii). 
+6
+‘‘(3) STATE ENTITLEMENT.—With respect to a 
+7
+State that has established a program under sub-
+8
+section (c), the State shall receive a distribution 
+9
+under both of paragraphs (1)(B) and (2) of this sub-
+10
+section. 
+11
+‘‘(e) STATE USE OF PROGRAM FUNDS.— 
+12
+‘‘(1) IN GENERAL.—Not later than 120 days 
+13
+after the date on which a State receives funds under 
+14
+subsection (d), and subject to paragraph (2), the 
+15
+State shall make awards to eligible entities through 
+16
+the program established by the State under sub-
+17
+section (c). 
+18
+‘‘(2) FUNDS
+USED
+SOLELY
+FOR
+UNSERVED 
+19
+AREAS.—A State to which funds are distributed 
+20
+under subsection (d)— 
+21
+‘‘(A) may not— 
+22
+‘‘(i) use any portion of those funds for 
+23
+a project in any area that is not an 
+24
+unserved area; or 
+25
+01:04 May 21, 2021
+H2183
+12 
+•HR 2183 IH
+‘‘(ii) use more than 5 percent of those 
+1
+funds to administer the program estab-
+2
+lished by the State under subsection (c); 
+3
+and 
+4
+‘‘(B) shall— 
+5
+‘‘(i) before making any awards de-
+6
+scribed in paragraph (1), consult the maps 
+7
+created under section 802(c)(1), as up-
+8
+dated through the resolution of any chal-
+9
+lenges brought under section 802(b)(5), to 
+10
+create a list of areas within the State that 
+11
+are unserved areas, which the State shall 
+12
+make publicly available; 
+13
+‘‘(ii) from the list created under 
+14
+clause (i), remove any area in the State 
+15
+that— 
+16
+‘‘(I) has been awarded funding— 
+17
+‘‘(aa) in the Rural Digital 
+18
+Opportunity Fund Phase I auc-
+19
+tion provided for in the Report 
+20
+and Order in the matter of Rural 
+21
+Digital Opportunity Fund and 
+22
+Connect America Fund adopted 
+23
+by the Commission on January 
+24
+30, 2020 (FCC 20–5); or 
+25
+01:04 May 21, 2021
+H2183
+13 
+•HR 2183 IH
+‘‘(bb) under subpart D of 
+1
+part 54 of title 47, Code of Fed-
+2
+eral Regulations, or any suc-
+3
+cessor regulations; 
+4
+‘‘(II) has been awarded funding 
+5
+through any Rural Utilities Service 
+6
+broadband funding program with a 
+7
+minimum speed commitment of 25 
+8
+megabits per second for downloads 
+9
+and 3 megabits per second for 
+10
+uploads; 
+11
+‘‘(III) has been awarded funding 
+12
+through any existing program estab-
+13
+lished by the State with minimum 
+14
+speed commitments described in sub-
+15
+clause (II); or 
+16
+‘‘(IV) is the subject of an en-
+17
+forceable commitment by a broadband 
+18
+provider to serve the area with min-
+19
+imum speed commitments described in 
+20
+subclause (II), even if, in any such 
+21
+areas, the service is not yet available, 
+22
+provided that the broadband provider 
+23
+is meeting any applicable build-out 
+24
+deadlines; 
+25
+01:04 May 21, 2021
+H2183
+14 
+•HR 2183 IH
+‘‘(iii) establish a streamlined process 
+1
+that allows a broadband service provider, 
+2
+the State, or a unit of local government 
+3
+within the State not less than 30 days 
+4
+after the date on which the list created 
+5
+under clause (i), as updated under clause 
+6
+(ii), is made publicly available to bring a 
+7
+challenge regarding whether an area on 
+8
+that final list is an unserved area; 
+9
+‘‘(iv) provide a written notice regard-
+10
+ing how each challenge brought under 
+11
+clause (iii) was decided, including the rea-
+12
+sons for that decision; 
+13
+‘‘(v) update the list created under 
+14
+clause (i) to reflect the results of chal-
+15
+lenges brought under clause (iii); 
+16
+‘‘(vi) not later than 10 years after the 
+17
+date of enactment of this section, return 
+18
+any unused portion of those funds to the 
+19
+Commission; and 
+20
+‘‘(vii) not later than 2 years after the 
+21
+date on which the funds are distributed to 
+22
+the State, and biennially thereafter, submit 
+23
+to the Commission a report— 
+24
+01:04 May 21, 2021
+H2183
+15 
+•HR 2183 IH
+‘‘(I) regarding how the State 
+1
+spent those funds during the period 
+2
+covered by the report, which shall in-
+3
+clude a description of each award 
+4
+made with those funds; and 
+5
+‘‘(II) that contains a certification 
+6
+that the State has complied with the 
+7
+requirements of this section during 
+8
+the period covered by the report. 
+9
+‘‘(f) PROJECT REQUIREMENTS.—Any project funded 
+10
+through the program established under subsection (b) 
+11
+shall— 
+12
+‘‘(1) adhere to the same quality-of-service 
+13
+standards established by the Commission with re-
+14
+spect to the Rural Digital Opportunity Fund set 
+15
+forth in subpart J of part 54 of title 47, Code of 
+16
+Federal Regulations (or any successor regulations); 
+17
+and 
+18
+‘‘(2) offer a low-cost broadband service option 
+19
+for low-income subscribers with eligibility for the 
+20
+service 
+option 
+determined 
+by 
+the 
+applicable 
+21
+broadband funding partner. 
+22
+‘‘(g) PROMOTING BROADBAND DEPLOYMENT.—Not 
+23
+later than 1 year after the date on which a State receives 
+24
+funding under this section, the State shall publish on a 
+25
+01:04 May 21, 2021
+H2183
+16 
+•HR 2183 IH
+publicly available website of the State a report that ana-
+1
+lyzes the following: 
+2
+‘‘(1) The process by which the State, or any 
+3
+local authority within the State, acts on a new re-
+4
+quest to access poles, ducts, conduits, or rights-of- 
+5
+way, which shall include an analysis of— 
+6
+‘‘(A) the speed with which the State or 
+7
+local authority, as applicable, responds to such 
+8
+a request; and 
+9
+‘‘(B) the impact that granting such a re-
+10
+quest not later than 30 days after the date on 
+11
+which the request is submitted would have on 
+12
+the speed at which broadband service is de-
+13
+ployed in the State. 
+14
+‘‘(2) The process by which the State, or any 
+15
+local authority within the State, acts on a non-
+16
+emergency request for authorization to place, con-
+17
+struct, or modify facilities with respect to broadband 
+18
+service that are supported through access to poles, 
+19
+ducts, conduits, or rights-of-way, which shall include 
+20
+an analysis of— 
+21
+‘‘(A) the speed with which the State or 
+22
+local authority, as applicable, responds to such 
+23
+a request; and 
+24
+01:04 May 21, 2021
+H2183
+17 
+•HR 2183 IH
+‘‘(B) the impact that granting such a re-
+1
+quest not later than 30 days after the date on 
+2
+which the request is submitted would have on 
+3
+the speed at which broadband service is de-
+4
+ployed in the State. 
+5
+‘‘(3) The impact on the deployment of 
+6
+broadband service within the State of not requiring 
+7
+a permit or other authorization for emergency work 
+8
+performed in the rights-of-way if a broadband facil-
+9
+ity supported through access to poles, ducts, con-
+10
+duits, or rights-of-way notifies the State, or the ap-
+11
+plicable local authority within the State, regarding 
+12
+the emergency and the associated work. 
+13
+‘‘(4) The impact on the deployment of 
+14
+broadband service within the State of requiring the 
+15
+State, or any instrumentality of the State, whenever 
+16
+the State or instrumentality intends to modify or 
+17
+alter a pole, duct, conduit, or right-of-way, or con-
+18
+duct road work in which there will be open trenches, 
+19
+to provide prior written notification of that action to 
+20
+any broadband service provider, or other entity, that 
+21
+has obtained an attachment to a pole, duct, or con-
+22
+duit, or right-of-way that may be affected, so that 
+23
+the applicable entity may have a reasonable oppor-
+24
+01:04 May 21, 2021
+H2183
+18 
+•HR 2183 IH
+tunity to add to or modify its existing attachment or 
+1
+facilities. 
+2
+‘‘(h) GUIDANCE.—The Commission may provide 
+3
+guidance to States with respect to service obligations, pro-
+4
+cedures, reporting requirements, and other requirements 
+5
+in carrying out programs established under this section. 
+6
+‘‘(i) RULE OF CONSTRUCTION.—Nothing in this sec-
+7
+tion may be construed to permit the Commission to use 
+8
+any data submitted by a provider of broadband service 
+9
+under this section to issue or establish additional regu-
+10
+latory requirements with respect to that provider.’’; and 
+11
+(2) in section 802(c) (47 U.S.C. 642(c))— 
+12
+(A) in paragraph (1)(A)— 
+13
+(i) in clause (i), by striking ‘‘and’’ at 
+14
+the end; 
+15
+(ii) in clause (ii), by adding ‘‘and’’ 
+16
+after the semicolon at the end; and 
+17
+(iii) by adding at the end the fol-
+18
+lowing: 
+19
+‘‘(iii) the areas of the United States in 
+20
+which options described in section 14(f)(2) 
+21
+are available;’’; 
+22
+(B) in paragraph (5), by striking ‘‘and’’ at 
+23
+the end; 
+24
+(C) in paragraph (6)— 
+25
+01:04 May 21, 2021
+H2183
+19 
+•HR 2183 IH
+(i) in the matter preceding subpara-
+1
+graph (A), by inserting ‘‘, including on a 
+2
+publicly available website,’’ after ‘‘make 
+3
+public’’; and 
+4
+(ii) in subparagraph (B), by striking 
+5
+the period at the end and inserting ‘‘; 
+6
+and’’; and 
+7
+(D) by adding at the end the following: 
+8
+‘‘(7) beginning not later than 18 months after 
+9
+the date of enactment of the Eliminate the Digital 
+10
+Divide Act of 2021, ensure that the publicly avail-
+11
+able website described in paragraph (6)— 
+12
+‘‘(A) allows a consumer to determine, 
+13
+based on financial information entered by the 
+14
+consumer, whether the consumer is eligible— 
+15
+‘‘(i) to receive a Federal or State sub-
+16
+sidy with respect to broadband internet ac-
+17
+cess service; or 
+18
+‘‘(ii) to qualify for a low-income plan 
+19
+with respect to broadband internet access 
+20
+service; and 
+21
+‘‘(B) with respect to a consumer who is eli-
+22
+gible under clause (i) or (ii) of subparagraph 
+23
+(A), contains information regarding how to 
+24
+apply for the applicable benefit.’’. 
+25
+01:04 May 21, 2021
+H2183
+20 
+•HR 2183 IH
+(b) DIRECT APPROPRIATION.—There is appropriated 
+1
+to the Federal Communications Commission, out of any 
+2
+money in the Treasury not otherwise appropriated, 
+3
+$10,000,000,000 for fiscal year 2021 to carry out section 
+4
+14 of the Communications Act of 1934, as added by sub-
+5
+section (a)(1), which shall remain available through fiscal 
+6
+year 2030. 
+7
+Æ 
+01:04 May 21, 2021
+H2183

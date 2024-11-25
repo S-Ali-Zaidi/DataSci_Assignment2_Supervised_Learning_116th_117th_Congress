@@ -1,0 +1,600 @@
+A BILL 
+To amend title XVIII of the Social Security Act to establish 
+requirements with respect to the use of prior authoriza-
+tion under Medicare Advantage plans, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improving Seniors’ 
+4
+Timely Access to Care Act of 2019’’. 
+5
+16:51 Jun 12, 2019
+H3107
+2 
+•HR 3107 IH
+SEC. 2. SENSE OF CONGRESS. 
+1
+It is the sense of Congress that— 
+2
+(1) use of prior authorization should be stream-
+3
+lined through electronic transmissions for coverage 
+4
+of covered services for individuals enrolled in feder-
+5
+ally funded programs such as Medicare, Medicaid, 
+6
+and federally contracted managed care plans to im-
+7
+prove patient access to medically appropriate serv-
+8
+ices and reduce administrative burden through auto-
+9
+mation informed by clinical decision support; 
+10
+(2) there should be increased transparency for 
+11
+beneficiaries and providers and increased oversight 
+12
+by the Centers for Medicare & Medicaid Services on 
+13
+the processes used for prior authorization; and 
+14
+(3) prior authorization is a tool that can be 
+15
+used to responsibly prevent unnecessary care and 
+16
+promote safe and evidence-based care. 
+17
+SEC. 3. ESTABLISHING REQUIREMENTS WITH RESPECT TO 
+18
+THE USE OF PRIOR AUTHORIZATION UNDER 
+19
+MEDICARE ADVANTAGE PLANS. 
+20
+(a) IN GENERAL.—Section 1852 of the Social Secu-
+21
+rity Act (42 U.S.C. 1395w–22) is amended by adding at 
+22
+the end the following new subsection: 
+23
+‘‘(o) PRIOR AUTHORIZATION REQUIREMENTS.— 
+24
+‘‘(1) IN GENERAL.—In the case of a Medicare 
+25
+Advantage plan that imposes any prior authorization 
+26
+16:51 Jun 12, 2019
+H3107
+3 
+•HR 3107 IH
+requirement with respect to any benefit, such plan 
+1
+shall, beginning with the first plan year beginning 
+2
+on or after the date of the enactment of this sub-
+3
+section— 
+4
+‘‘(A) comply with the prohibition described 
+5
+in paragraph (2); 
+6
+‘‘(B) establish the electronic prior author-
+7
+ization program described in paragraph (3); 
+8
+‘‘(C) meet the transparency requirements 
+9
+specified in paragraph (4); and 
+10
+‘‘(D) meet the beneficiary protection stand-
+11
+ards specified pursuant to paragraph (5). 
+12
+‘‘(2) PROHIBITION ON PRIOR AUTHORIZATION 
+13
+WITH RESPECT TO CERTAIN ITEMS AND SERVICES.— 
+14
+A Medicare Advantage plan may not impose any ad-
+15
+ditional prior authorization requirement with respect 
+16
+to any surgical procedure or otherwise invasive pro-
+17
+cedure (as defined by the Secretary), and any item 
+18
+furnished as part of such surgical or invasive proce-
+19
+dure, if such procedure (or item) is furnished during 
+20
+the peroperative period of a procedure for which— 
+21
+‘‘(A) prior authorization was received from 
+22
+such plan before such surgical or otherwise 
+23
+invasive procedure (or item furnished as part of 
+24
+16:51 Jun 12, 2019
+H3107
+4 
+•HR 3107 IH
+such surgical or otherwise invasive procedure) 
+1
+was furnished; or 
+2
+‘‘(B) prior authorization was not required 
+3
+by such plan. 
+4
+‘‘(3) ELECTRONIC PRIOR AUTHORIZATION PRO-
+5
+GRAM.— 
+6
+‘‘(A) IN GENERAL.—For purposes of para-
+7
+graph (1)(B), the electronic prior authorization 
+8
+program described in this paragraph is a prior 
+9
+authorization process implemented by a Medi-
+10
+care Advantage plan that provides for the se-
+11
+cure electronic transmission of— 
+12
+‘‘(i) a prior authorization request 
+13
+from a health care professional to such 
+14
+plan with respect to an item or service to 
+15
+be furnished to an individual, including 
+16
+such clinical information as the profes-
+17
+sional determines appropriate to support 
+18
+the furnishing of such item or service to 
+19
+such individual; and 
+20
+‘‘(ii) a response, in accordance with 
+21
+this paragraph, from such plan to such 
+22
+professional. 
+23
+‘‘(B) ELECTRONIC TRANSMISSION.— 
+24
+16:51 Jun 12, 2019
+H3107
+5 
+•HR 3107 IH
+‘‘(i) EXCLUSIONS.—For purposes of 
+1
+this paragraph, a facsimile, a proprietary 
+2
+payer portal that does not meet standards 
+3
+specified by the Secretary, or an electronic 
+4
+form shall not be treated as an electronic 
+5
+transmission described in subparagraph 
+6
+(A). 
+7
+‘‘(ii) STANDARDS.— 
+8
+‘‘(I) IN GENERAL.—In order to 
+9
+ensure appropriate clinical outcome 
+10
+for individuals, for purposes of this 
+11
+paragraph, an electronic transmission 
+12
+described in subparagraph (A) shall 
+13
+comply 
+with 
+technical 
+standards 
+14
+adopted by the Secretary in consulta-
+15
+tion with standard-setting organiza-
+16
+tions determined appropriate by the 
+17
+Secretary, health care professionals, 
+18
+MA organizations, and health infor-
+19
+mation technology software vendors. 
+20
+In adopting such standards, the Sec-
+21
+retary shall ensure that such trans-
+22
+missions support attachments con-
+23
+taining applicable clinical information 
+24
+and shall prioritize the adoption of 
+25
+16:51 Jun 12, 2019
+H3107
+6 
+•HR 3107 IH
+standards that encourage integration 
+1
+of the electronic prior authorization 
+2
+program into established electronic 
+3
+health record systems. 
+4
+‘‘(II) 
+TRANSACTION
+STAND-
+5
+ARD.—The Secretary shall include in 
+6
+the standards adopted under sub-
+7
+clause (I) a standard with respect to 
+8
+the transmission of attachments de-
+9
+scribed in such subclause, and data 
+10
+elements and operating rules for such 
+11
+transmission, consistent with health 
+12
+care industry standards. 
+13
+‘‘(C) REAL-TIME DECISIONS.— 
+14
+‘‘(i) IN GENERAL.—The program de-
+15
+scribed in subparagraph (A) shall provide 
+16
+for real-time decisions (as defined by the 
+17
+Secretary) with respect to requests identi-
+18
+fied by the Secretary pursuant to clause 
+19
+(ii) for a plan year if such requests contain 
+20
+all information required by an MA plan to 
+21
+evaluate the criteria described in para-
+22
+graph (4)(A)(iii)(II). 
+23
+‘‘(ii) 
+IDENTIFICATION
+OF
+RE-
+24
+QUESTS.—For purposes of clause (i) and 
+25
+16:51 Jun 12, 2019
+H3107
+7 
+•HR 3107 IH
+with respect to a plan year, the Secretary 
+1
+shall identify, not later than the date on 
+2
+which the initial announcement described 
+3
+in section 1853(b)(1)(B)(i) for such plan 
+4
+year is required to be announced, items 
+5
+and services for which prior authorization 
+6
+requests are routinely approved. 
+7
+‘‘(iii) DATA
+COLLECTION
+AND
+CON-
+8
+SULTATION
+WITH
+RELEVANT
+ELIGIBLE 
+9
+PROFESSIONAL ORGANIZATIONS AND REL-
+10
+EVANT STAKEHOLDERS.—In identifying re-
+11
+quests for a year under clause (ii), the Sec-
+12
+retary shall use the information described 
+13
+in paragraph (4)(A) (if available) and shall 
+14
+issue a request for information from pro-
+15
+viders, suppliers, patient advocacy organi-
+16
+zations, and other stakeholders. 
+17
+‘‘(4) TRANSPARENCY REQUIREMENTS.— 
+18
+‘‘(A) IN GENERAL.—For purposes of para-
+19
+graph (1)(C), the transparency requirements 
+20
+specified in this paragraph are, with respect to 
+21
+a Medicare Advantage plan, the following: 
+22
+‘‘(i) The plan, not less frequently than 
+23
+annually and at a time and in a manner 
+24
+16:51 Jun 12, 2019
+H3107
+8 
+•HR 3107 IH
+specified by the Secretary, shall submit to 
+1
+the Secretary the following information: 
+2
+‘‘(I) A list of all items and serv-
+3
+ices that are described in subsection 
+4
+(a)(1)(B) that are subject to a prior 
+5
+authorization requirement under the 
+6
+plan. 
+7
+‘‘(II) The percentage of prior au-
+8
+thorization requests approved during 
+9
+the previous plan year by the plan 
+10
+with respect to each such item and 
+11
+service. 
+12
+‘‘(III) The percentage of such re-
+13
+quests that were initially denied and 
+14
+that were subsequently appealed, and 
+15
+the percentage of such appealed re-
+16
+quests that were overturned, with re-
+17
+spect to each such item and service. 
+18
+‘‘(IV) The average and the me-
+19
+dian amount of time (in hours) that 
+20
+elapsed during the previous plan year 
+21
+between the submission of such a re-
+22
+quest to the plan and a determination 
+23
+by the plan with respect to such re-
+24
+quest for each such item and service, 
+25
+16:51 Jun 12, 2019
+H3107
+9 
+•HR 3107 IH
+excluding any such requests that did 
+1
+not contain all information required to 
+2
+be submitted by the plan. 
+3
+‘‘(V) Such other information as 
+4
+the Secretary determines appropriate 
+5
+after consultation with and comment 
+6
+from stakeholders. 
+7
+‘‘(ii) The plan shall publish the infor-
+8
+mation described in clause (i) annually be-
+9
+fore open enrollment on a publicly available 
+10
+website. Such plan shall provide the ad-
+11
+dress of such website in any enrollment 
+12
+materials distributed by the plan and shall 
+13
+update such website in a timely manner. 
+14
+‘‘(iii) The plan shall provide— 
+15
+‘‘(I) along with contract mate-
+16
+rials for any provider or supplier who 
+17
+seeks to participate under the plan, 
+18
+the list described in clause (i)(I) and 
+19
+any policies or procedures used by the 
+20
+plan for making determinations with 
+21
+respect to prior authorization re-
+22
+quests; and 
+23
+‘‘(II) to each provider and sup-
+24
+plier participating under the plan, ac-
+25
+04:42 Jun 14, 2019
+H3107
+10 
+•HR 3107 IH
+cess to the criteria used by the plan 
+1
+for making such determinations, in-
+2
+cluding an itemization of the medical 
+3
+or other documentation required to be 
+4
+submitted by a provider or supplier 
+5
+with respect to such a request, except 
+6
+to the extent that provision of access 
+7
+to such criteria would disclose propri-
+8
+etary information of such plan, as de-
+9
+termined by the Secretary. 
+10
+‘‘(B) REPORT
+TO
+CONGRESS.—Not later 
+11
+than the end of the second plan year beginning 
+12
+on or after the date of the enactment of this 
+13
+subsection, and biennially thereafter, the Sec-
+14
+retary shall submit to Congress a report de-
+15
+scribing the information submitted under sub-
+16
+paragraph (A)(i) with respect to— 
+17
+‘‘(i) in the case of the first such re-
+18
+port, the first plan year beginning on or 
+19
+after such date; and 
+20
+‘‘(ii) in the case of a subsequent re-
+21
+port, the 2 full plan years preceding the 
+22
+date of the submission of such report. 
+23
+‘‘(5) BENEFICIARY PROTECTION STANDARDS.— 
+24
+The Secretary of Health and Human Services shall, 
+25
+16:51 Jun 12, 2019
+H3107
+11 
+•HR 3107 IH
+through notice and comment rulemaking, specify 
+1
+standards with respect to the use of prior authoriza-
+2
+tion by MA plans to ensure— 
+3
+‘‘(A) that such plans adopt transparent 
+4
+programs developed in consultation with pro-
+5
+viders and suppliers participating under the 
+6
+plans that promote the modification of such re-
+7
+quirements based on the performance of such 
+8
+providers and suppliers with respect to adher-
+9
+ence to evidence-based medical guidelines and 
+10
+other quality criteria; 
+11
+‘‘(B) that such plans conduct annual re-
+12
+views of items and services for which prior au-
+13
+thorization requirements are imposed under 
+14
+such plans through a process that takes into ac-
+15
+count input from participating providers and 
+16
+suppliers and is based on analysis of past prior 
+17
+authorization requests and current clinical cri-
+18
+teria; 
+19
+‘‘(C) continuity of care for individuals 
+20
+transitioning to, or between, coverage under 
+21
+such plans in order to minimize any disruption 
+22
+to ongoing treatment attributable to prior au-
+23
+thorization requirements under such plans; 
+24
+16:51 Jun 12, 2019
+H3107
+12 
+•HR 3107 IH
+‘‘(D) that such plans make timely prior au-
+1
+thorization determinations, provide rationales 
+2
+for denials, and ensure requests are reviewed by 
+3
+qualified medical personnel; and 
+4
+‘‘(E) that plans assist providers and sup-
+5
+pliers in submitting the information necessary 
+6
+to enable the plan to make a prior authorization 
+7
+determination in a timely manner.’’. 
+8
+(b) 
+DETERMINATION
+CLARIFICATION.—Section 
+9
+1852(g)(1)(A) of the Social Security Act (42 U.S.C. 
+10
+1392w–22(g)(1)(A)) is amended by inserting ‘‘(including 
+11
+any decision made with respect to a prior authorization 
+12
+request for such service)’’ after ‘‘section’’. 
+13
+Æ 
+16:51 Jun 12, 2019
+H3107

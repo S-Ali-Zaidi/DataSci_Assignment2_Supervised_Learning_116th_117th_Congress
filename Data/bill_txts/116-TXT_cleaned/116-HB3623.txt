@@ -1,0 +1,1357 @@
+A BILL 
+To amend the Securities Exchange Act of 1934 to require 
+issuers to disclose certain activities relating to climate 
+change, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Climate Risk Disclo-
+4
+sure Act of 2019’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act— 
+7
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+2 
+•HR 3623 IH
+(1) the term ‘‘appropriate climate principals’’ 
+1
+means— 
+2
+(A) the Administrator of the Environ-
+3
+mental Protection Agency; 
+4
+(B) the Secretary of Energy; 
+5
+(C) the Administrator of the National Oce-
+6
+anic and Atmospheric Administration; 
+7
+(D) the Director of the Office of Manage-
+8
+ment and Budget; and 
+9
+(E) the head of any other Federal agency 
+10
+determined appropriate by the Commission; 
+11
+(2) the term ‘‘appropriate congressional com-
+12
+mittees’’ means— 
+13
+(A) the Committee on Banking, Housing, 
+14
+and Urban Affairs of the Senate; and 
+15
+(B) the Committee on Financial Services 
+16
+of the House of Representatives; 
+17
+(3) the term ‘‘climate change’’ means a change 
+18
+of climate that is— 
+19
+(A) attributed directly or indirectly to 
+20
+human activity that alters the composition of 
+21
+the global atmosphere; and 
+22
+(B) in addition to natural climate varia-
+23
+bility observed over comparable time periods; 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+3 
+•HR 3623 IH
+(4) the term ‘‘Commission’’ means the Securi-
+1
+ties and Exchange Commission; 
+2
+(5) the term ‘‘covered issuer’’ has the meaning 
+3
+given the term in section 13(s) of the Securities Ex-
+4
+change Act of 1934, as added by section 5; 
+5
+(6) the term ‘‘1.5 degree scenario’’ means a 
+6
+widely recognized, publicly available analysis sce-
+7
+nario in which human interventions to combat global 
+8
+climate change are likely to prevent the global aver-
+9
+age temperature from reaching 1.5 degrees Celsius 
+10
+above pre-industrial levels; 
+11
+(7) the terms ‘‘appropriate climate principals’’ 
+12
+and ‘‘climate change’’ have the meanings given those 
+13
+terms in section 13(s) of the Securities Exchange 
+14
+Act of 1934; 
+15
+(8) the term ‘‘baseline scenario’’ means a widely 
+16
+recognized analysis scenario in which levels of green-
+17
+house gas emissions, as of the date on which the 
+18
+analysis is performed, continue to grow, resulting 
+19
+in— 
+20
+(A) an increase in the global average tem-
+21
+perature of 1.5 degrees Celsius or more above 
+22
+pre-industrial levels; and 
+23
+(B) the realization of physical risks relat-
+24
+ing to global climate change; 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+4 
+•HR 3623 IH
+(9) the term ‘‘carbon dioxide equivalent’’ means 
+1
+the number of metric tons of carbon dioxide emis-
+2
+sions with the same global warming potential as one 
+3
+metric ton of another greenhouse gas, as determined 
+4
+under table A–1 of subpart A of part 98 of title 40, 
+5
+Code of Federal Regulations, as in effect on the date 
+6
+of enactment of this subsection; 
+7
+(10) the term ‘‘commercial development of fos-
+8
+sil fuels’’ includes— 
+9
+(A) exploration, extraction, processing, ex-
+10
+porting, transporting, and any other significant 
+11
+action with respect to oil, natural gas, coal, or 
+12
+any byproduct thereof; and 
+13
+(B) acquiring a license for any activity de-
+14
+scribed in subparagraph (A); 
+15
+(11) the term ‘‘direct and indirect greenhouse 
+16
+gas emissions’’ includes, with respect to a covered 
+17
+issuer— 
+18
+(A) all direct greenhouse gas emissions re-
+19
+leased by the covered issuer; 
+20
+(B) all indirect greenhouse gas emissions 
+21
+with respect to electricity, heat, or steam pur-
+22
+chased by the covered issuer; 
+23
+(C) significant indirect emissions, other 
+24
+than the emissions described in subparagraph 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+5 
+•HR 3623 IH
+(B), that occur in the value chain of the covered 
+1
+issuer; and 
+2
+(D) all indirect greenhouse gas emissions 
+3
+that are attributable to assets owned or man-
+4
+aged, including assets that are partially owned 
+5
+or managed, by the covered issuer; 
+6
+(12) the term ‘‘fossil fuel reserves’’ means all 
+7
+producing assets, proved reserves, unproved re-
+8
+sources, and any other ownership stake in sources of 
+9
+fossil fuels; 
+10
+(13) the term ‘‘greenhouse gas’’— 
+11
+(A) means carbon dioxide, hydrofluorocar-
+12
+bons, methane, nitrous oxide, perfluorocarbons, 
+13
+sulfur hexafluoride, nitrogen triflouride, and 
+14
+chlorofluorocarbons; and 
+15
+(B) includes any other anthropogenically- 
+16
+emitted gas or particulate that the Adminis-
+17
+trator of the Environmental Protection Agency 
+18
+determines, after notice and comment, to con-
+19
+tribute to climate change; 
+20
+(14) the term ‘‘greenhouse gas emissions’’ 
+21
+means the emissions of greenhouse gas, expressed in 
+22
+terms of metric tons of carbon dioxide equivalent; 
+23
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+6 
+•HR 3623 IH
+(15) the term ‘‘physical risks’’ has meaning 
+1
+given the term in section 13(s) of the Securities Ex-
+2
+change Act of 1934; 
+3
+(16) the term ‘‘social cost of carbon’’ means the 
+4
+monetized present value, discounted at a 3 percent 
+5
+or lower discount rate, in dollars, per metric ton of 
+6
+carbon dioxide (or carbon dioxide equivalent), of the 
+7
+net global costs over 300 years caused by the emis-
+8
+sion of carbon dioxide (or carbon dioxide equivalent, 
+9
+as applicable) that result from— 
+10
+(A) changes in net agricultural produc-
+11
+tivity; 
+12
+(B) decreases in capital and labor produc-
+13
+tivity; 
+14
+(C) effects on human health; 
+15
+(D) property damage from increased sea- 
+16
+level rise, flooding, wildfires, and frequency and 
+17
+severity of extreme weather events; 
+18
+(E) the value of ecosystem services; and 
+19
+(F) any other type of economic, social, po-
+20
+litical, or natural disruption; 
+21
+(17) the term ‘‘transition risks’’ has meaning 
+22
+given the term in section 13(s) of the Securities Ex-
+23
+change Act of 1934; 
+24
+(18) the term ‘‘value chain’’— 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+7 
+•HR 3623 IH
+(A) means the total lifecycle of a product 
+1
+or service, both before and after production of 
+2
+the product or service, as applicable; and 
+3
+(B) may include the sourcing of materials, 
+4
+production, and disposal with respect to the 
+5
+product or service described in subparagraph 
+6
+(A); and 
+7
+(19) the term ‘‘well below 1.5 degrees scenario’’ 
+8
+means a widely recognized, publicly available anal-
+9
+ysis scenario in which human interventions to com-
+10
+bat global climate change are likely to prevent the 
+11
+global average temperature from reaching 1.5 de-
+12
+grees Celsius above pre-industrial levels. 
+13
+SEC. 3. SENSE OF CONGRESS. 
+14
+It is the sense of Congress that— 
+15
+(1) continued inaction in addressing climate 
+16
+change poses a significant and increasing threat to 
+17
+the growth and stability of the economy of the 
+18
+United States; 
+19
+(2) many sectors of the economy of the United 
+20
+States and many American businesses are exposed 
+21
+to multiple channels of climate-related risk, which 
+22
+may include exposure to— 
+23
+(A) the physical impacts of climate change, 
+24
+including the rise of the average global tem-
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+8 
+•HR 3623 IH
+perature, accelerating sea-level rise, desertifica-
+1
+tion, ocean acidification, intensification of 
+2
+storms, increase in heavy precipitation, more 
+3
+frequent and intense temperature extremes, 
+4
+more severe droughts, and longer wildfire sea-
+5
+sons; 
+6
+(B) the economic disruptions and security 
+7
+threats that result from the physical impacts 
+8
+described in subparagraph (A); and 
+9
+(C) the transition impacts that result as 
+10
+the global economy transitions to a clean and 
+11
+renewable energy, low-emissions economy, in-
+12
+cluding financial impacts as fossil fuel assets 
+13
+risk becoming stranded and it becomes uneco-
+14
+nomic for companies to develop fossil fuel assets 
+15
+as policymakers act to limit the worst impacts 
+16
+of climate change by keeping the average rise in 
+17
+global temperature to 1.5 degrees Celsius above 
+18
+pre-industrial levels; 
+19
+(3) assessing the potential impact of climate-re-
+20
+lated risks on national and international financial 
+21
+systems is an urgent concern; 
+22
+(4) companies have a duty to disclose financial 
+23
+risks that climate change presents to their investors, 
+24
+lenders, and insurers; 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+9 
+•HR 3623 IH
+(5) the Commission has a duty to promote a 
+1
+risk-informed securities market that is worthy of the 
+2
+trust of the public as families invest for their fu-
+3
+tures; 
+4
+(6) investors, lenders, and insurers are increas-
+5
+ingly demanding climate risk information that is 
+6
+consistent, comparable, reliable, and clear; 
+7
+(7) including standardized, material climate 
+8
+change risk and opportunity disclosure that is useful 
+9
+for decision makers in annual reports to the Com-
+10
+mission will increase transparency with respect to 
+11
+risk accumulation and exposure in financial markets; 
+12
+(8) requiring companies to disclose climate-re-
+13
+lated risk exposure and risk management strategies 
+14
+will encourage a smoother transition to a clean and 
+15
+renewable energy, low-emissions economy and guide 
+16
+capital allocation to mitigate, and adapt to, the ef-
+17
+fects of climate change and limit damages associated 
+18
+with climate-related events and disasters; and 
+19
+(9) a critical component in fighting climate 
+20
+change is a transparent accounting of the risks that 
+21
+climate change presents and the implications of con-
+22
+tinued inaction with respect to climate change. 
+23
+SEC. 4. FINDINGS. 
+24
+Congress finds that— 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+10 
+•HR 3623 IH
+(1) short-, medium-, and long-term financial 
+1
+and economic risks and opportunities relating to cli-
+2
+mate change, and the national and global reduction 
+3
+of greenhouse gas emissions, constitute information 
+4
+that issuers— 
+5
+(A) may reasonably expect to affect share-
+6
+holder decision making; and 
+7
+(B) should regularly identify, evaluate, and 
+8
+disclose; and 
+9
+(2) the disclosure of information described in 
+10
+paragraph (1) should— 
+11
+(A) identify, and evaluate— 
+12
+(i) material physical and transition 
+13
+risks posed by climate change; and 
+14
+(ii) the potential financial impact of 
+15
+such risks; 
+16
+(B) detail any implications such risks have 
+17
+on corporate strategy; 
+18
+(C) detail any board-level oversight of ma-
+19
+terial climate-related risks and opportunities; 
+20
+(D) allow for intra- and cross-industry 
+21
+comparison, to the extent practicable, of cli-
+22
+mate-related risk exposure through the inclu-
+23
+sion of standardized industry-specific and sec-
+24
+tor-specific disclosure metrics, as identified by 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+11 
+•HR 3623 IH
+the Commission, in consultation with the appro-
+1
+priate climate principals; 
+2
+(E) allow for tracking of performance over 
+3
+time with respect to mitigating climate risk ex-
+4
+posure; and 
+5
+(F) incorporate a price on greenhouse gas 
+6
+emissions in financial analyses that reflects, at 
+7
+minimum, the social cost of carbon that is at-
+8
+tributable to issuers. 
+9
+SEC. 5. DISCLOSURES RELATING TO CLIMATE CHANGE. 
+10
+(a) IN GENERAL.—Section 13 of the Securities Ex-
+11
+change Act of 1934 (15 U.S.C. 78m) is amended by add-
+12
+ing at the end the following: 
+13
+‘‘(s) 
+DISCLOSURES
+RELATING
+TO
+CLIMATE 
+14
+CHANGE.— 
+15
+‘‘(1) DEFINITIONS.—In this subsection— 
+16
+‘‘(A) the term ‘appropriate climate prin-
+17
+cipals’ means— 
+18
+‘‘(i) the Administrator of the Environ-
+19
+mental Protection Agency; 
+20
+‘‘(ii) the Secretary of Energy; 
+21
+‘‘(iii) the Administrator of the Na-
+22
+tional Oceanic and Atmospheric Adminis-
+23
+tration; 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+12 
+•HR 3623 IH
+‘‘(iv) the Director of the Office of 
+1
+Management and Budget; and 
+2
+‘‘(v) the head of any other Federal 
+3
+agency determined appropriate by the 
+4
+Commission; 
+5
+‘‘(B) the term ‘climate change’ means a 
+6
+change of climate that is— 
+7
+‘‘(i) attributed directly or indirectly to 
+8
+human activity that alters the composition 
+9
+of the global atmosphere; and 
+10
+‘‘(ii) in addition to natural climate 
+11
+variability observed over comparable time 
+12
+periods; 
+13
+‘‘(C) the term ‘covered issuer’ means an 
+14
+issuer that is required to file an annual report 
+15
+under subsection (a) or section 15(d); 
+16
+‘‘(D) the term ‘physical risks’ means finan-
+17
+cial risks to long-lived fixed assets, locations, 
+18
+operations, or value chains that result from ex-
+19
+posure to physical climate-related effects, in-
+20
+cluding— 
+21
+‘‘(i) increased average global tempera-
+22
+tures and increased frequency of tempera-
+23
+ture extremes; 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+13 
+•HR 3623 IH
+‘‘(ii) increased severity and frequency 
+1
+of extreme weather events; 
+2
+‘‘(iii) increased flooding; 
+3
+‘‘(iv) sea-level rise; 
+4
+‘‘(v) ocean acidification; 
+5
+‘‘(vi) increased frequency of wildfires; 
+6
+‘‘(vii) decreased arability of farmland; 
+7
+‘‘(viii) decreased availability of fresh 
+8
+water; and 
+9
+‘‘(ix) any other financial risks to long- 
+10
+lived fixed assets, locations, operations, or 
+11
+value chains determined appropriate by the 
+12
+Commission, in consultation with appro-
+13
+priate climate principals; 
+14
+‘‘(E) the term ‘transition risks’ means fi-
+15
+nancial risks that are attributable to climate 
+16
+change mitigation and adaptation, including ef-
+17
+forts to reduce greenhouse gas emissions and 
+18
+strengthen resilience to the impacts of climate 
+19
+change, including— 
+20
+‘‘(i) costs relating to— 
+21
+‘‘(I) international treaties and 
+22
+agreements; 
+23
+‘‘(II) Federal, State, and local 
+24
+policy; 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+14 
+•HR 3623 IH
+‘‘(III) new technologies; 
+1
+‘‘(IV) changing markets; 
+2
+‘‘(V) reputational impacts rel-
+3
+evant to changing consumer behavior; 
+4
+and 
+5
+‘‘(VI) litigation; and 
+6
+‘‘(ii) assets that may lose value or be-
+7
+come stranded due to any of the costs de-
+8
+scribed in subclauses (I) through (VI) of 
+9
+clause (i); 
+10
+‘‘(2) DISCLOSURE.—Each covered issuer, in any 
+11
+annual report filed by the covered issuer under sub-
+12
+section (a) or section 15(d), shall, in accordance 
+13
+with any rules issued by the Commission pursuant 
+14
+to the Climate Risk Disclosure Act of 2019, include 
+15
+in each such report information regarding— 
+16
+‘‘(A) the identification of, the evaluation of 
+17
+potential financial impacts of, and any risk- 
+18
+management strategies relating to— 
+19
+‘‘(i) physical risks posed to the cov-
+20
+ered issuer by climate change; and 
+21
+‘‘(ii) transition risks posed to the cov-
+22
+ered issuer by climate change; 
+23
+‘‘(B) a description of any established cor-
+24
+porate governance processes and structures to 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+15 
+•HR 3623 IH
+identify, assess, and manage climate-related 
+1
+risks; and 
+2
+‘‘(C) a description of specific actions that 
+3
+the covered issuer is taking to mitigate identi-
+4
+fied risks. 
+5
+‘‘(3) RULE
+OF
+CONSTRUCTION.—Nothing in 
+6
+paragraph (2) may be construed as precluding a cov-
+7
+ered issuer from including, in an annual report sub-
+8
+mitted under subsection (a) or section 15(d), any in-
+9
+formation not explicitly referenced in those para-
+10
+graphs.’’. 
+11
+SEC. 6. RULEMAKING. 
+12
+(a) CLIMATE RISK DISCLOSURE RULES.—The Com-
+13
+mission, in consultation with the appropriate climate prin-
+14
+cipals, shall not later than 2 years after the date of the 
+15
+enactment of this Act, issue rules with respect to the infor-
+16
+mation that a covered issuer is required to disclose pursu-
+17
+ant to section 13(s) of the Securities Exchange Act of 
+18
+1934 and such rules shall— 
+19
+(1) establish, in consultation with the appro-
+20
+priate climate principals, climate-related risk disclo-
+21
+sure guidance, which shall— 
+22
+(A) be, to the extent practicable, special-
+23
+ized for industries within specific sectors of the 
+24
+economy, which shall include— 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+16 
+•HR 3623 IH
+(i) the sectors of finance, insurance, 
+1
+transportation, electric power, mining, and 
+2
+non-renewable energy; and 
+3
+(ii) any other sector determined ap-
+4
+propriate by the Commission, in consulta-
+5
+tion with the appropriate climate prin-
+6
+cipals; 
+7
+(B) include reporting standards for esti-
+8
+mating and disclosing direct and indirect green-
+9
+house gas emissions by a covered issuer, and 
+10
+any affiliates of the covered issuer, which 
+11
+shall— 
+12
+(i) separate, to the extent practicable, 
+13
+total emissions of each specified green-
+14
+house gas by the covered issuer; and 
+15
+(ii) include greenhouse gas emissions 
+16
+by the covered issuer during the period 
+17
+covered by the disclosure; 
+18
+(C) include reporting standards for dis-
+19
+closing, with respect to a covered issuer— 
+20
+(i) the total amount of fossil fuel-re-
+21
+lated assets owned or managed by the cov-
+22
+ered issuer; and 
+23
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+17 
+•HR 3623 IH
+(ii) the percentage of fossil fuel-re-
+1
+lated assets as a percentage of total assets 
+2
+owned or managed by the covered issuer; 
+3
+(D) establish a minimum social cost of car-
+4
+bon, which— 
+5
+(i) shall be considered a minimum 
+6
+price with respect to costs associated with 
+7
+carbon emissions; 
+8
+(ii) a covered issuer shall use in pre-
+9
+paring climate-related disclosure state-
+10
+ments; and 
+11
+(iii) the Commission shall make pub-
+12
+licly available all assumptions and methods 
+13
+used in the calculations; 
+14
+(E) not preclude a covered issuer from 
+15
+using and disclosing, as compared with the 
+16
+price established under subparagraph (D), a 
+17
+higher price of greenhouse gas emissions; 
+18
+(F) specify requirements for, and the dis-
+19
+closure of, input parameters, assumptions, and 
+20
+analytical choices to be used in climate scenario 
+21
+analyses required under paragraph (2)(A), in-
+22
+cluding— 
+23
+(i) present value discount rates; 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+18 
+•HR 3623 IH
+(ii) time frames to consider, including 
+1
+5-, 10-, and 20-year time frames; and 
+2
+(iii) minimum pricing of greenhouse 
+3
+gas emissions, as established under sub-
+4
+paragraph (D) and subject to subpara-
+5
+graph (E); and 
+6
+(G) include, after consultation with the 
+7
+Administrator of the Environmental Protection 
+8
+Agency, the Secretary of Energy, the Secretary 
+9
+of the Interior, the Secretary of Agriculture, the 
+10
+Secretary of Transportation, the Chair of the 
+11
+Council on Environmental Quality, and the Di-
+12
+rector of the Office of Science and Technology 
+13
+Policy documentation standards and guidance 
+14
+with respect to the information required under 
+15
+paragraph (2)(C); 
+16
+(2) require that a covered issuer, with respect 
+17
+to a disclosure required under section 3(s) of the Se-
+18
+curities Exchange Act of 1934— 
+19
+(A) incorporate into such disclosure— 
+20
+(i) quantitative analysis to support 
+21
+any qualitative statement made by the cov-
+22
+ered issuer; 
+23
+(ii) the guidance established under 
+24
+paragraph (1); 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+19 
+•HR 3623 IH
+(iii) industry-specific metrics that 
+1
+comply with the requirements under para-
+2
+graph (1)(A); 
+3
+(iv) specific risk management actions 
+4
+that the covered issuer is taking to address 
+5
+identified risks; 
+6
+(v) a discussion of the short-, me-
+7
+dium-, and long-term resilience of any risk 
+8
+management strategy, and the evolution of 
+9
+applicable risk metrics, of the covered 
+10
+issuer under each scenario described in 
+11
+paragraph (1)(B); and 
+12
+(vi) the total cost of carbon attrib-
+13
+utable to the direct and indirect green-
+14
+house gas emissions of the covered issuer, 
+15
+using, at minimum, the social cost of car-
+16
+bon; 
+17
+(B) consider, when preparing any quali-
+18
+tative or quantitative risk analysis statement 
+19
+contained in the disclosure— 
+20
+(i) a baseline scenario that includes 
+21
+physical impacts of climate change; 
+22
+(ii) a well below 1.5 degrees scenario; 
+23
+and 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+20 
+•HR 3623 IH
+(iii) any additional climate analysis 
+1
+scenario considered appropriate by the 
+2
+Commission, in consultation with the ap-
+3
+propriate climate principals; 
+4
+(C) if the covered issuer engages in the 
+5
+commercial development of fossil fuels, include 
+6
+in the disclosure— 
+7
+(i) an estimate of the total and a 
+8
+disaggregated amount of direct and indi-
+9
+rect greenhouse gas emissions of the cov-
+10
+ered issuer that are attributable to— 
+11
+(I) combustion; 
+12
+(II) flared hydrocarbons; 
+13
+(III) process emissions; 
+14
+(IV) directly vented emissions; 
+15
+(V) fugitive emissions or leaks; 
+16
+and 
+17
+(VI) land use changes; 
+18
+(ii) a description of— 
+19
+(I) the sensitivity of fossil fuel re-
+20
+serve levels to future price projection 
+21
+scenarios that incorporate the social 
+22
+cost of carbon into hydrocarbon pric-
+23
+ing; 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+21 
+•HR 3623 IH
+(II) the percentage of the re-
+1
+serves of the covered issuer that will 
+2
+be developed under the scenarios es-
+3
+tablished in subparagraph (B), as well 
+4
+as a forecast for the development 
+5
+prospects of each reserve under the 
+6
+scenarios established in subparagraph 
+7
+(B); 
+8
+(III) the potential amount of di-
+9
+rect and indirect greenhouse gas emis-
+10
+sions that are embedded in proved 
+11
+and probable hydrocarbon reserves, 
+12
+with each such calculation presented 
+13
+as a total and in subdivided categories 
+14
+by the type of reserve; 
+15
+(IV) the methodology of the cov-
+16
+ered issuer for detecting and miti-
+17
+gating fugitive methane emissions, 
+18
+which shall include the frequency with 
+19
+which applicable assets of the covered 
+20
+issuer are observed for methane leaks, 
+21
+the processes and technology that the 
+22
+covered issuer uses to detect methane 
+23
+leaks, the percentage of assets of the 
+24
+covered issuer that the covered issuer 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+22 
+•HR 3623 IH
+inspects under that methodology, and 
+1
+quantitative and time-bound reduction 
+2
+goals of the issuer with respect to 
+3
+methane leaks; 
+4
+(V) the amount of water that the 
+5
+covered issuer withdraws from fresh-
+6
+water sources for use and consump-
+7
+tion in operations of the covered 
+8
+issuer; and 
+9
+(VI) the percentage of the water 
+10
+described in subclause (V) that comes 
+11
+from regions of water stress or that 
+12
+face wastewater management chal-
+13
+lenges; and 
+14
+(iii) any other information that the 
+15
+Commission, in consultation with the ap-
+16
+propriate climate principals and the Ad-
+17
+ministrator of the Environmental Protec-
+18
+tion Agency, the Secretary of Energy, the 
+19
+Secretary of the Interior, the Secretary of 
+20
+Agriculture determines is— 
+21
+(I) necessary; 
+22
+(II) appropriate to safeguard the 
+23
+public interest; or 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+23 
+•HR 3623 IH
+(III) directed at ensuring that in-
+1
+vestors are informed in accordance 
+2
+with the findings described in section 
+3
+4; 
+4
+(3) with respect to a disclosure required under 
+5
+section 13(s) of the Securities Exchange Act of 
+6
+1934, require that a covered issuer include in such 
+7
+disclosure any other information, or use any climate- 
+8
+related or greenhouse gas emissions metric, that the 
+9
+Commission, in consultation with the appropriate cli-
+10
+mate principals, determines is— 
+11
+(A) necessary; 
+12
+(B) appropriate to safeguard the public in-
+13
+terest; or 
+14
+(C) directed at ensuring that investors are 
+15
+informed in accordance with the findings de-
+16
+scribed in section 4; and 
+17
+(4) with respect to a disclosure required under 
+18
+section 13(s) of the Securities Exchange Act of 
+19
+1934, establish how and where the required disclo-
+20
+sures shall be addressed in the covered issuer’s an-
+21
+nual financial filing. 
+22
+(b) FORMATTING.—The Commission shall require 
+23
+issuers to disclose information in an interactive data for-
+24
+mat and shall develop standards for such format, which 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+24 
+•HR 3623 IH
+shall include electronic tags for information that the Com-
+1
+mission determines is— 
+2
+(1) necessary; 
+3
+(2) appropriate to safeguard the public interest; 
+4
+or 
+5
+(3) directed at ensuring that investors are in-
+6
+formed in accordance with the findings described in 
+7
+paragraph (2)(B). 
+8
+(c) PERIODIC UPDATE OF RULES.—The Commission 
+9
+shall periodically update the rules issued under this sec-
+10
+tion to ensure that such rules further the purposes de-
+11
+scribed in section 4(2). 
+12
+SEC. 7. COMPILATION OF INFORMATION DISCLOSED. 
+13
+The Commission shall, to the maximum extent prac-
+14
+ticable make a compilation of the information disclosed by 
+15
+issuers pursuant to section 13(s) of the Securities Ex-
+16
+change Act of 1934 publicly available on the website of 
+17
+the Commission; and update such compilation at least 
+18
+once each year. 
+19
+SEC. 8. BACKSTOP. 
+20
+If, 2 years after the date of the enactment of this 
+21
+Act, the Commission has not issued rules pursuant to sec-
+22
+tion 6, and until such rules are issued, a covered issuer 
+23
+shall be deemed in compliance with section 13(s) of the 
+24
+Securities Exchange Act of 1934 if disclosures set forth 
+25
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+25 
+•HR 3623 IH
+in the annual report of such issuer satisfy the rec-
+1
+ommendations of the Task Force on Climate-Related Fi-
+2
+nancial Disclosures of the Financial Stability Board as re-
+3
+ported in June 2017, or any successor report, and as sup-
+4
+plemented or adjusted by such rules, guidance, or other 
+5
+comments from the Commission. 
+6
+SEC. 9. REPORTS. 
+7
+(a) SECURITIES AND EXCHANGE COMMISSION.—The 
+8
+Commission shall— 
+9
+(1) conduct an annual assessment regarding the 
+10
+compliance of covered issuers with the requirements 
+11
+of section 13(s) of the Securities Exchange Act of 
+12
+1934, as added by section 5; 
+13
+(2) submit to the appropriate congressional 
+14
+committees a report that contains the results of each 
+15
+assessment conducted under paragraph (1); and 
+16
+(3) make each report submitted under para-
+17
+graph (2) accessible to the public. 
+18
+(b) GOVERNMENT ACCOUNTABILITY OFFICE.—The 
+19
+Comptroller General of the United States shall periodically 
+20
+evaluate, and report to the appropriate congressional com-
+21
+mittees on, the effectiveness of the Commission in carrying 
+22
+out and enforcing section 13(s) of the Securities Exchange 
+23
+Act of 1934, as added by section 5. 
+24
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS
+26 
+•HR 3623 IH
+SEC. 10. SEVERABILITY. 
+1
+If any provision of this Act, an amendment made by 
+2
+this Act, or the application of this Act (or an amendment 
+3
+made by this Act) to any person or circumstance is held 
+4
+to be invalid, that holding shall have no effect with respect 
+5
+to— 
+6
+(1) the remainder of this Act; and 
+7
+(2) the application of the provision or amend-
+8
+ment, as applicable, to any other person or cir-
+9
+cumstance. 
+10
+SEC. 11. AUTHORIZATION OF APPROPRIATIONS. 
+11
+There are authorized to be appropriated to the Com-
+12
+mission such sums as may be necessary to carry out this 
+13
+Act. 
+14
+Æ 
+22:29 Jul 11, 2019
+H3623
+tkelley on DSKBCP9HB2PROD with BILLS

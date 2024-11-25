@@ -1,0 +1,1348 @@
+A BILL 
+To amend the Communications Act of 1934 to provide 
+authority for certain licenses, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Satellite And Tele-
+4
+communications Streamlining Act of 2022’’ or the ‘‘SAT 
+5
+Streamlining Act of 2022’’. 
+6
+SEC. 2. AUTHORITY REGARDING CERTAIN LICENSES. 
+7
+(a) AMENDMENT.—Part I of title III of the Commu-
+8
+nications Act of 1934 (47 U.S.C. 301 et seq.) is amended 
+9
+by adding at the end the following new section: 
+10
+05:23 Dec 16, 2022
+H9463
+2 
+•HR 9463 IH
+‘‘SEC. 345. RADIOFREQUENCY LICENSING AUTHORITY RE-
+1
+GARDING CERTAIN OPERATIONS. 
+2
+‘‘(a) RULES.— 
+3
+‘‘(1) IN GENERAL.—Not later than 18 months 
+4
+after the date of the enactment of this section, the 
+5
+Commission shall issue rules to amend part 25, title 
+6
+47, Code of Federal Regulations, to establish for 
+7
+each license granted under subsection (b) or any re-
+8
+quest for a grant of market access granted under 
+9
+subsection (c)— 
+10
+‘‘(A) in accordance with paragraph (2), 
+11
+specific, measurable, and technology-neutral 
+12
+performance objectives for space safety and or-
+13
+bital debris; 
+14
+‘‘(B) specific modifications (or classes of 
+15
+modifications) to a license granted under sub-
+16
+section (b)(1) that warrant expedited treatment 
+17
+under subsection (g)(2); 
+18
+‘‘(C) specific actions taken by a licensee of 
+19
+a license granted under subsection (b)(1) or a 
+20
+grantee that has been granted market access 
+21
+under subsection (c)(1) that constitute a failure 
+22
+to coordinate in good faith; 
+23
+‘‘(D) a quantifiable level of protection re-
+24
+quired under subsection (h)(4); and 
+25
+05:23 Dec 16, 2022
+H9463
+3 
+•HR 9463 IH
+‘‘(E) the manner in which an applicant 
+1
+shall notify the Commission of a request to sub-
+2
+mit a modification under subsection (g)(5). 
+3
+‘‘(2) CONFLICT WITH INTERAGENCY STANDARD 
+4
+PRACTICES.—In the rules issued pursuant to para-
+5
+graph (1)(A), or any successor rule, the Commission 
+6
+may not establish performance objectives that con-
+7
+flict with any standard practice established in the 
+8
+Orbital Debris Mitigation Standard Practices adopt-
+9
+ed by the United States Government. 
+10
+‘‘(b) APPLICATION FOR LICENSE.— 
+11
+‘‘(1) NGSO DETERMINATION REQUIRED.—Not-
+12
+withstanding sections 4(i), 303(r), and 303(y) and 
+13
+the authority of the Commission to require such 
+14
+other information under section 308(b) and consider 
+15
+such other matters under section 309(a), and except 
+16
+as provided in paragraph (5), not later than 1 year 
+17
+after the date on which a written application is sub-
+18
+mitted to the Commission, the Commission shall 
+19
+make a determination whether to grant such appli-
+20
+cation for a license for— 
+21
+‘‘(A) a nongeostationary orbit space station 
+22
+or space-station constellation and an earth sta-
+23
+tion or earth stations; 
+24
+05:23 Dec 16, 2022
+H9463
+4 
+•HR 9463 IH
+‘‘(B) a nongeostationary orbit space sta-
+1
+tion and the blanket-licensed earth stations that 
+2
+will operate with the nongeostationary orbit 
+3
+space station; or 
+4
+‘‘(C) a nongeostationary orbit space-station 
+5
+constellation and the blanket-licensed earth sta-
+6
+tions that will operate with the nongeo-
+7
+stationary orbit space-station constellation. 
+8
+‘‘(2) GSO DETERMINATION
+REQUIRED.—Not 
+9
+later than 1 year after the date on which a written 
+10
+application is submitted to the Commission and ex-
+11
+cept as provided in paragraph (5), the Commission 
+12
+shall make a determination whether to grant such 
+13
+application for a license for a geostationary orbit 
+14
+space station or space-station constellation and earth 
+15
+stations. 
+16
+‘‘(3) CONTENTS OF APPLICATION.—In addition 
+17
+to the application requirements described in section 
+18
+308(b), an application submitted under paragraph 
+19
+(1) or (2) shall include the following: 
+20
+‘‘(A) Performance metrics with respect to 
+21
+the frequencies and transmission power to be 
+22
+used. 
+23
+‘‘(B) A description of compliance by the 
+24
+applicant with the performance objectives and 
+25
+05:23 Dec 16, 2022
+H9463
+5 
+•HR 9463 IH
+actions established under subparagraph (A) of 
+1
+subsection (a)(1) and, in the case of an applica-
+2
+tion submitted under paragraph (1) of this sub-
+3
+section, subparagraphs (C) and (D) of sub-
+4
+section (a)(1). 
+5
+‘‘(4) TERM OF INITIAL LICENSE.—The Com-
+6
+mission shall grant a license for a term not to exceed 
+7
+15 years for any application granted under this sub-
+8
+section. 
+9
+‘‘(5) EXCEPTIONS.—The deadline for the deter-
+10
+mination required in paragraphs (1) and (2) may be 
+11
+extended by the Commission for an application sub-
+12
+ject to review under section 310(d). 
+13
+‘‘(6) TIMELY
+GRANT
+OF
+CERTAIN
+APPLICA-
+14
+TIONS.— 
+15
+‘‘(A) 
+GRANT
+OF
+APPLICATION
+RE-
+16
+QUIRED.—Not later than 60 days after the date 
+17
+on which the Commission receives a written ap-
+18
+plication for a license described in paragraph 
+19
+(1) that the Commission determines meets the 
+20
+additional criteria described in subparagraph 
+21
+(B), the Commission shall grant such applica-
+22
+tion. 
+23
+05:23 Dec 16, 2022
+H9463
+6 
+•HR 9463 IH
+‘‘(B) CRITERIA
+DESCRIBED.—The addi-
+1
+tional criteria described in this subparagraph 
+2
+are as follows: 
+3
+‘‘(i) A limit on the number of space 
+4
+stations a constellation contains, as deter-
+5
+mined by the Commission. 
+6
+‘‘(ii) A limit on the total in-orbit life-
+7
+time for any individual space station, as 
+8
+determined by the Commission. 
+9
+‘‘(iii) For each space station, the fol-
+10
+lowing: 
+11
+‘‘(I) A limit on the orbital alti-
+12
+tude at which the space station may 
+13
+operate, as determined by the Com-
+14
+mission. 
+15
+‘‘(II) A requirement that the 
+16
+space station has a maneuverability 
+17
+capability and the ability to make col-
+18
+lision avoidance and deorbit maneu-
+19
+vers, as determined by the Commis-
+20
+sion. 
+21
+‘‘(III) A requirement that each 
+22
+space station is identifiable by a 
+23
+unique signal-based telemetry marker 
+24
+05:23 Dec 16, 2022
+H9463
+7 
+•HR 9463 IH
+that meets requirements issued by the 
+1
+Commission. 
+2
+‘‘(IV) A requirement that the 
+3
+space station releases no operational 
+4
+debris. 
+5
+‘‘(V) A requirement that the 
+6
+space station can be commanded by 
+7
+command originating from the ground 
+8
+to immediately cease transmissions 
+9
+and the applicant has the capability to 
+10
+eliminate harmful interference when 
+11
+required by the Commission. 
+12
+‘‘(iv) A requirement that the operator 
+13
+has assessed and limited the probability of 
+14
+an accidental explosion, including an explo-
+15
+sion that results from the conversion of en-
+16
+ergy sources on board any space station 
+17
+into energy that fragments the space sta-
+18
+tion. 
+19
+‘‘(v) A limit on the probability of a 
+20
+collision between each space station and 
+21
+any other large object, as determined by 
+22
+the Commission. 
+23
+‘‘(vi) A requirement that each space 
+24
+station is disposed of post-mission through 
+25
+05:23 Dec 16, 2022
+H9463
+8 
+•HR 9463 IH
+atmospheric re-entry and the probability of 
+1
+human casualty from such re-entry meets 
+2
+requirements issued by the Commission. 
+3
+‘‘(C) IMPLEMENTATION.—Not later than 
+4
+60 days after the date of the enactment of this 
+5
+subparagraph, the Commission shall— 
+6
+‘‘(i) issue rules to implement this 
+7
+paragraph; or 
+8
+‘‘(ii) make the finding described in 
+9
+subparagraph (D). 
+10
+‘‘(D) FINDING DESCRIBED.—If the Com-
+11
+mission finds that the rules of the Commission, 
+12
+as of the date of the enactment of this para-
+13
+graph, satisfy the requirements in this para-
+14
+graph, the Commission shall issue a public no-
+15
+tice stating such finding. 
+16
+‘‘(c) APPLICATION
+FOR GRANT
+OF MARKET AC-
+17
+CESS.— 
+18
+‘‘(1) DETERMINATION
+REQUIRED.—Notwith-
+19
+standing sections 4(i), 303(r), and 303(y) and the 
+20
+authority of the Commission to require such other 
+21
+information under section 308(b) and consider such 
+22
+other matters under section 309(a), the Commission 
+23
+shall make a determination whether to grant a writ-
+24
+05:23 Dec 16, 2022
+H9463
+9 
+•HR 9463 IH
+ten application submitted to the Commission for 
+1
+market access within the United States for— 
+2
+‘‘(A) a nongeostationary orbit space station 
+3
+or space-station constellation and an earth sta-
+4
+tion or earth stations; 
+5
+‘‘(B) a nongeostationary orbit space sta-
+6
+tion and the blanket-licensed earth stations that 
+7
+will operate with the nongeostationary orbit 
+8
+space station; or 
+9
+‘‘(C) a nongeostationary orbit space-station 
+10
+constellation and the blanket-licensed earth sta-
+11
+tions that will operate with the nongeo-
+12
+stationary orbit space-station constellation. 
+13
+‘‘(2) CONTENTS OF APPLICATION.—In addition 
+14
+to the application requirements described in section 
+15
+308(b), an application submitted under this sub-
+16
+section shall include the following: 
+17
+‘‘(A) Performance metrics with respect to 
+18
+the frequencies and transmission power to be 
+19
+used. 
+20
+‘‘(B) A description of compliance by the 
+21
+applicant with the performance objectives and 
+22
+actions established under subparagraphs (A), 
+23
+(C), and (D) of subsection (a)(1). 
+24
+05:23 Dec 16, 2022
+H9463
+10 
+•HR 9463 IH
+‘‘(3) TERM OF INITIAL GRANT OF MARKET AC-
+1
+CESS.—The Commission shall grant a grant of mar-
+2
+ket access for a term not to exceed 15 years for any 
+3
+application granted under this subsection. 
+4
+‘‘(d) EARTH STATION AUTHORIZATION.— 
+5
+‘‘(1) DETERMINATION
+REQUIRED.—Notwith-
+6
+standing sections 4(i), 303(r), 303(y), and 309(a) 
+7
+and subsections (a) through (c) and (e) through (j) 
+8
+of this section, not later than 1 year after the date 
+9
+on which a written application is submitted to the 
+10
+Commission, the Commission shall make a deter-
+11
+mination whether to grant such application for au-
+12
+thorization to use an earth station (including a gate-
+13
+way station) to receive a signal from— 
+14
+‘‘(A) a nongeostationary orbit satellite or 
+15
+nongeostationary orbit satellite system; or 
+16
+‘‘(B) a geostationary orbit satellite or geo-
+17
+stationary orbit satellite system. 
+18
+‘‘(2) DEEMED GRANTED.—If the Commission 
+19
+does not grant or deny a written application sub-
+20
+mitted under paragraph (1) within 60 days after the 
+21
+date on which the application is submitted to the 
+22
+Commission, except as provided in paragraph (3), 
+23
+the application shall be deemed granted on the date 
+24
+05:23 Dec 16, 2022
+H9463
+11 
+•HR 9463 IH
+on which the Commission receives a written notice of 
+1
+the failure by the applicant. 
+2
+‘‘(3) EXCEPTION.—The deadline for the deter-
+3
+mination required in paragraph (1) may be extended 
+4
+by the Commission for an application subject to re-
+5
+view under section 310(d). 
+6
+‘‘(e) DETERMINATION OF PUBLIC INTEREST, CON-
+7
+VENIENCE, AND NECESSITY.—Before making a deter-
+8
+mination to grant an application, renewal, or modification 
+9
+under subsection (b), (c), (d), (f), or (g) (as the case may 
+10
+be), the Commission shall determine if the license, grant, 
+11
+or authorization (as the case may be) serves the public 
+12
+interest, convenience, and necessity, including— 
+13
+‘‘(1) in the case of a license or grant to which 
+14
+subsection (h)(4) applies, the license or grant does 
+15
+not exceed the quantifiable level of protection estab-
+16
+lished in subsection (h)(4); and 
+17
+‘‘(2) in the case of a license or grant that is re-
+18
+quired to protect radio astronomy observatories by 
+19
+the International Telecommunication Union, the ap-
+20
+plication, renewal, or modification demonstrates that 
+21
+such protection will be provided. 
+22
+‘‘(f) RENEWAL OF LICENSE, GRANT OF MARKET AC-
+23
+CESS, OR AUTHORIZATION.— 
+24
+05:23 Dec 16, 2022
+H9463
+12 
+•HR 9463 IH
+‘‘(1) IN GENERAL.—Except as provided in sec-
+1
+tion 309(k)(2), the Commission shall grant a re-
+2
+newal for a license issued under subsection (b), a 
+3
+grant of market access under subsection (c), or an 
+4
+authorization granted under subsection (d), upon re-
+5
+quest by an applicant for a term not to exceed the 
+6
+length of the initial term beginning the day after the 
+7
+date on which the previous license, grant of market 
+8
+access, or authorization expires, if the Commission 
+9
+determines the requirements under subsection (e) 
+10
+and section 309(k) have been met. 
+11
+‘‘(2) DEADLINE
+FOR
+DETERMINATION.—Not 
+12
+later than 180 days after the date on which the 
+13
+Commission receives a request for renewal of a li-
+14
+cense issued under subsection (b), a grant of market 
+15
+access under subsection (c), or an authorization 
+16
+granted under subsection (d), the Commission 
+17
+shall— 
+18
+‘‘(A) grant or deny such renewal; or 
+19
+‘‘(B) make the determination described in 
+20
+section 309(k)(3). 
+21
+‘‘(g) MODIFICATION OF LICENSE; GRANT OF MAR-
+22
+KET ACCESS.— 
+23
+‘‘(1) MAJOR MODIFICATIONS.—Except as pro-
+24
+vided in paragraphs (2), (3), (5), and (6), and not 
+25
+05:23 Dec 16, 2022
+H9463
+13 
+•HR 9463 IH
+later than 1 year after the date on which the Com-
+1
+mission receives a request to modify an application 
+2
+granted under subsection (b)(1), the Commission 
+3
+shall grant the request if the Commission determines 
+4
+the modification meets the requirement of subsection 
+5
+(e). The Commission may grant a request to modify 
+6
+an application submitted under subsection (b)(2) or 
+7
+subsection (c) if the Commission determines the 
+8
+modification meets the requirement of subsection 
+9
+(e). 
+10
+‘‘(2) EXPEDITED
+TREATMENT
+FOR
+MINOR 
+11
+MODIFICATIONS.—Except as provided in paragraphs 
+12
+(3), (5), and (6), the Commission shall grant a re-
+13
+quest made by an applicant to modify an application 
+14
+granted under subsection (b)(1) not later than 90 
+15
+days after the date on which the Commission re-
+16
+ceives the request to modify if— 
+17
+‘‘(A) the request does not exceed the quan-
+18
+tifiable level of protection described in sub-
+19
+section (h)(4); and 
+20
+‘‘(B) the request is limited only to modi-
+21
+fications, or a class of modifications, that— 
+22
+‘‘(i) increase transmission capacity; 
+23
+‘‘(ii) improve spectral efficiency, such 
+24
+as by improving compression technologies; 
+25
+05:23 Dec 16, 2022
+H9463
+14 
+•HR 9463 IH
+‘‘(iii) improve the orbital variance effi-
+1
+ciency of the constellation; or 
+2
+‘‘(iv) otherwise do not substantially 
+3
+modify the constellation. 
+4
+‘‘(3) EMERGENCY MODIFICATION.—If the Com-
+5
+mission finds that there are extraordinary cir-
+6
+cumstances requiring temporary operations in the 
+7
+public interest and that delay in the institution of 
+8
+such temporary operations would seriously prejudice 
+9
+the public interest, the Commission— 
+10
+‘‘(A) may grant a license described in sub-
+11
+section (b), a grant of market access described 
+12
+in subsection (c), or an authorization described 
+13
+in subsection (d), a modification of such license, 
+14
+grant of market access, or authorization, or re-
+15
+newal of such license, grant of market access, 
+16
+or authorization for 180 days in a manner and 
+17
+upon the terms the Commission shall by rule 
+18
+prescribe in the case of an emergency found by 
+19
+the Commission involving— 
+20
+‘‘(i) danger to life or property; or 
+21
+‘‘(ii) an action that is necessary for 
+22
+the national defense or security of the 
+23
+United States; 
+24
+05:23 Dec 16, 2022
+H9463
+15 
+•HR 9463 IH
+‘‘(B) shall include with a grant made 
+1
+under this paragraph a statement of the rea-
+2
+sons of the Commission for making such grant; 
+3
+‘‘(C) may extend a grant made under this 
+4
+paragraph for periods not to exceed 180 days; 
+5
+and 
+6
+‘‘(D) shall give expeditious treatment to 
+7
+any timely filed petition to deny such applica-
+8
+tion and to any petition for rehearing of such 
+9
+grant filed under section 405. 
+10
+‘‘(4) EXCLUSION.—Paragraph (2) shall not 
+11
+apply to a request to modify a license for— 
+12
+‘‘(A) the addition of an ancillary terrestrial 
+13
+component; or 
+14
+‘‘(B) modifying the service offered under 
+15
+the initial license granted under subsection (b) 
+16
+between fixed and mobile service. 
+17
+‘‘(5) AUTOMATIC
+GRANT
+OF
+CERTAIN
+MODI-
+18
+FICATIONS.—Upon notification to the Commission, 
+19
+the Commission may automatically grant a request 
+20
+to modify an application granted under subsection 
+21
+(b), (c), or (d) or a covered authorization, to replace 
+22
+one space station (or component of such space sta-
+23
+tion) with a technically similar space station (or 
+24
+05:23 Dec 16, 2022
+H9463
+16 
+•HR 9463 IH
+component of such space station) previously ap-
+1
+proved by the Commission. 
+2
+‘‘(6) EXCEPTIONS.—The deadlines under para-
+3
+graphs (1) and (2) may be extended by the Commis-
+4
+sion for a request subject to review under section 
+5
+310(d). 
+6
+‘‘(h) SHARED SPECTRUM; PROTECTION FROM HARM-
+7
+FUL INTERFERENCE.— 
+8
+‘‘(1) GRANDFATHERED TREATMENT AND SUN-
+9
+SET OF CERTAIN AUTHORIZATIONS.—For the dura-
+10
+tion of the covered period— 
+11
+‘‘(A) a covered authorization shall not be 
+12
+treated as being granted under subsection 
+13
+(b)(1) or subsection (c)(1) (as the case may be); 
+14
+and 
+15
+‘‘(B) the Commission shall protect an enti-
+16
+ty with a covered authorization from harmful 
+17
+interference consistent with the terms of such 
+18
+protection afforded before the date of the enact-
+19
+ment of this section. 
+20
+‘‘(2) TRANSITIONAL RULE.—After the expira-
+21
+tion of the covered period, an entity with a covered 
+22
+authorization may seek renewal for a license or 
+23
+grant of market access under subsection (f). 
+24
+05:23 Dec 16, 2022
+H9463
+17 
+•HR 9463 IH
+‘‘(3) GOOD FAITH COORDINATION OF SHARED 
+1
+SPECTRUM.—Not later than the date on which the 
+2
+rules issued pursuant to subsection (a) take effect, 
+3
+a licensee of a license granted under subsection 
+4
+(b)(1), a grantee of market access granted under 
+5
+subsection (c)(1), or an entity with a covered author-
+6
+ization, in a spectrum band with service rules that 
+7
+require such licensees or grantees to share spectrum, 
+8
+shall make a good faith effort to coordinate the use 
+9
+of spectrum with any other licensee or grantee au-
+10
+thorized in the spectrum band in which another li-
+11
+cense was granted under subsection (b)(1), another 
+12
+grantee was granted under subsection (c)(1), or an-
+13
+other entity was granted authorization to use spec-
+14
+trum in such band. 
+15
+‘‘(4) PROTECTION
+FROM
+HARMFUL
+INTER-
+16
+FERENCE.—Not later than the date on which the 
+17
+rules issued pursuant to subsection (a) take effect, 
+18
+for any spectrum band in which the Commission 
+19
+grants a license under subsection (b)(1) or a grant 
+20
+of market access under subsection (c)(1), the Com-
+21
+mission shall establish a quantifiable level of protec-
+22
+tion that a licensee of a license granted under sub-
+23
+section (b)(1) or a grantee of market access granted 
+24
+under subsection (c)(1) shall afford to any other li-
+25
+05:23 Dec 16, 2022
+H9463
+18 
+•HR 9463 IH
+censee or grantee authorized in the spectrum band 
+1
+in which another license was granted under sub-
+2
+section (b)(1), another grantee was granted under 
+3
+subsection (c)(1), or another entity was granted au-
+4
+thorization to use spectrum in such band. 
+5
+‘‘(5) CONSIDERATION REQUIRED.—When estab-
+6
+lishing the quantifiable level of protection described 
+7
+in paragraph (4), the Commission shall ensure the 
+8
+benefit to improved coordination among licensees 
+9
+and grantees outweighs any costs associated with the 
+10
+implementation of such protection. 
+11
+‘‘(6) RELATION TO ITU RADIO REGULATIONS.— 
+12
+Nothing in this subsection shall be construed to re-
+13
+quire the Commission to adopt rules regarding the 
+14
+use of spectrum that contravene a requirement by 
+15
+the radio regulations of the International Tele-
+16
+communication Union. 
+17
+‘‘(7) RULE OF CONSTRUCTION.—An entity with 
+18
+a covered authorization shall not be required to sub-
+19
+mit additional information in order to retain such 
+20
+authorization, nor shall paragraph (1) affect any ob-
+21
+ligation of such entity under applicable law or regu-
+22
+lation until the end of the covered period. 
+23
+‘‘(i) STATE
+PREEMPTION
+OF
+MARKET
+ENTRY; 
+24
+RATES.—Notwithstanding any provision of law, no State 
+25
+05:23 Dec 16, 2022
+H9463
+19 
+•HR 9463 IH
+or local government shall have any authority to regulate 
+1
+the entry of or the rates charged by an applicant or li-
+2
+censee related to a license granted under subsection (b), 
+3
+an applicant or grantee related to a grant of market access 
+4
+granted under subsection (c), or an applicant or entity re-
+5
+lated to an authorization under subsection (d), except that 
+6
+this subsection shall not prohibit a State from regulating 
+7
+the other terms and conditions of such licensee, grantee, 
+8
+or entity. 
+9
+‘‘(j) REGULATORY RESTRAINT.— 
+10
+‘‘(1) 
+LIMITATION
+OF
+INFORMATION
+PRO-
+11
+VIDED.—In addition to the requirements described 
+12
+in section 307(c)(2), in performing any act, making 
+13
+any rule or regulation, or issuing any order nec-
+14
+essary to carry out this section, the Commission— 
+15
+‘‘(A) shall limit the information required to 
+16
+be furnished to the Commission; 
+17
+‘‘(B) shall demonstrate the Commission 
+18
+has taken every reasonable step to limit the in-
+19
+formation required to be furnished to the Com-
+20
+mission; and 
+21
+‘‘(C) may not request additional informa-
+22
+tion regarding the performance objectives estab-
+23
+lished in subsection (a)(1)(A) for any case in 
+24
+05:23 Dec 16, 2022
+H9463
+20 
+•HR 9463 IH
+which an applicant has demonstrated compli-
+1
+ance with such performance objectives. 
+2
+‘‘(2) DEADLINE
+FOR
+PETITION
+DETERMINA-
+3
+TION.—If an applicant for a license or a licensee 
+4
+under subsection (b) files a petition under part 1, 
+5
+title 47, Code of Federal Regulations (or any suc-
+6
+cessor regulation) relating to information required to 
+7
+be furnished to the Commission under this section, 
+8
+the Commission shall grant or deny the petition 
+9
+within 90 days after the date on which the petition 
+10
+is filed. 
+11
+‘‘(k) DEFINITIONS.—In this section: 
+12
+‘‘(1) COVERED APPLICATION.— The term ‘cov-
+13
+ered application’ means an application for a license 
+14
+or grant of market access to operate a system de-
+15
+scribed in subparagraphs (A) through (C) of sub-
+16
+section (b)(1) or subparagraphs (A) through (C) of 
+17
+subsection (c)(1) in a processing round established 
+18
+before December 31, 2022, that is pending on the 
+19
+date of the enactment of this section. 
+20
+‘‘(2) COVERED
+AUTHORIZATION.—The term 
+21
+‘covered authorization’ means— 
+22
+‘‘(A) a license or grant of market access 
+23
+granted by the Commission to operate a system 
+24
+described in subparagraphs (A) through (C) of 
+25
+05:23 Dec 16, 2022
+H9463
+21 
+•HR 9463 IH
+subsection (b)(1) or subparagraphs (A) through 
+1
+(C) of subsection (c)(1) in a processing round 
+2
+established before December 31, 2022, that has 
+3
+deployed a level of service commensurate with 
+4
+the terms of the license or grant of market ac-
+5
+cess; or 
+6
+‘‘(B) a license or grant of market access 
+7
+granted by Commission approval of a covered 
+8
+application. 
+9
+‘‘(3) COVERED PERIOD.—The term ‘covered pe-
+10
+riod’ means, with respect to a covered authorization, 
+11
+the period of time that begins on the date of the en-
+12
+actment of this section and ends on the earliest of— 
+13
+‘‘(A) the date on which the covered author-
+14
+ization expires; 
+15
+‘‘(B) the date that is 15 years after such 
+16
+date of enactment; or 
+17
+‘‘(C) the date on which the Commission 
+18
+grants a request to modify the covered author-
+19
+ization that would be a major modification 
+20
+under subsection (g) if the covered authoriza-
+21
+tion were a license granted under subsection 
+22
+(b)(1) or a grant of market access granted 
+23
+under subsection (c)(1). 
+24
+05:23 Dec 16, 2022
+H9463
+22 
+•HR 9463 IH
+‘‘(4) ORBITAL
+VARIANCE
+EFFICIENCY.—The 
+1
+term ‘orbital variance efficiency’ means the mean of 
+2
+the distance between the actual altitude of each 
+3
+space station and the authorized altitude for each 
+4
+space station authorized under subsection (b)(1).’’. 
+5
+(b) RELATION TO OTHER LAW AMENDMENTS.—The 
+6
+Communications Act of 1934 (47 U.S.C. 151 et seq.) is 
+7
+amended— 
+8
+(1) in section 309(j)(2)— 
+9
+(A) in the matter preceding subparagraph 
+10
+(A), by inserting ‘‘, grants of market access, 
+11
+authorizations,’’ after ‘‘licenses’’; 
+12
+(B) in subparagraph (B), by striking ‘‘; 
+13
+or’’ and inserting a semicolon; 
+14
+(C) by redesignating subparagraph (C) as 
+15
+subparagraph (D); and 
+16
+(D) by inserting after subparagraph (B) 
+17
+the following new subparagraph: 
+18
+‘‘(C) for licenses, grants of market access, 
+19
+or authorizations granted under section 345; 
+20
+or’’; 
+21
+(2) in section 309(k)— 
+22
+(A) in the heading, by striking ‘‘BROAD-
+23
+CAST STATION RENEWAL PROCEDURES’’ and 
+24
+05:23 Dec 16, 2022
+H9463
+23 
+•HR 9463 IH
+inserting ‘‘RENEWAL PROCEDURES FOR CER-
+1
+TAIN AUTHORIZATIONS’’; 
+2
+(B) in paragraph (1)— 
+3
+(i) in the matter preceding subpara-
+4
+graph (A)— 
+5
+(I) by inserting ‘‘, the licensee of 
+6
+a 
+license 
+granted 
+under 
+section 
+7
+345(b), the grantee of a grant of mar-
+8
+ket access granted under section 
+9
+345(c), or an entity with authoriza-
+10
+tion granted under section 345(d),’’ 
+11
+after ‘‘broadcast station’’; 
+12
+(II) by inserting ‘‘, grant, or au-
+13
+thorization’’ after ‘‘such license’’; 
+14
+(III) by striking ‘‘that station’’ 
+15
+and inserting ‘‘that licensee, grantee, 
+16
+or entity’’; and 
+17
+(IV) by inserting ‘‘, grant of 
+18
+market access, or authorization’’ after 
+19
+‘‘its license’’; 
+20
+(ii) in subparagraph (A), by striking 
+21
+‘‘the station’’ and inserting ‘‘in the case of 
+22
+a broadcast station, the station’’; 
+23
+05:23 Dec 16, 2022
+H9463
+24 
+•HR 9463 IH
+(iii) by redesignating subparagraphs 
+1
+(B) and (C) as subparagraphs (C) and 
+2
+(D), respectively; 
+3
+(iv) by inserting after subparagraph 
+4
+(A) the following: 
+5
+‘‘(B) in the case of a licensee of a license 
+6
+granted under section 345(b), a grantee of a 
+7
+grant of market access granted under section 
+8
+345(c), or an entity with authorization granted 
+9
+under section 345(d), the licensee, grantee, or 
+10
+entity has served the public interest, conven-
+11
+ience, and necessity in accordance with section 
+12
+345(e);’’; 
+13
+(v) in subparagraph (C), as so redes-
+14
+ignated, by inserting ‘‘, grantee, or entity’’ 
+15
+after ‘‘licensee’’; and 
+16
+(vi) in subparagraph (D), as so redes-
+17
+ignated, by inserting ‘‘, grantee, or entity’’ 
+18
+after ‘‘licensee’’; 
+19
+(C) in paragraph (2), by inserting ‘‘, or the 
+20
+licensee of a license granted under section 
+21
+345(b), the grantee of a grant of market access 
+22
+under section 345(c), or an entity with author-
+23
+ization granted under section 345(d),’’ after 
+24
+‘‘broadcast station’’; and 
+25
+05:23 Dec 16, 2022
+H9463
+25 
+•HR 9463 IH
+(D) in paragraph (3)— 
+1
+(i) in the matter preceding subpara-
+2
+graph (A), by striking ‘‘that a licensee’’ 
+3
+and inserting ‘‘that a broadcast station, a 
+4
+licensee of a license granted under section 
+5
+345(b), a grantee of market access granted 
+6
+under section 345(c), or an entity with au-
+7
+thorization granted under section 345(d)’’; 
+8
+(ii) in subparagraph (A), by inserting 
+9
+‘‘or 345’’ after ‘‘section 308’’; and 
+10
+(iii) in subparagraph (B), by inserting 
+11
+‘‘or under section 345 specifying the infor-
+12
+mation required by the Commission under 
+13
+section 345(b)(3), section 345(c)(2), or 
+14
+section 345(d)(1) (as the case may be) of 
+15
+the former licensee, grantee, or entity’’ 
+16
+after ‘‘former licensee’’; and 
+17
+(3) in section 310(b), by inserting ‘‘or license, 
+18
+grant of market access, or authorization granted 
+19
+under subsection (b), (c), or (d) of section 345’’ 
+20
+after ‘‘radio station license’’. 
+21
+(c) 
+APPLICABILITY.—The 
+requirements 
+in 
+the 
+22
+amendments made by this section apply with respect to 
+23
+any application submitted under subsection (b), (c), or (d) 
+24
+of section 345 of the Communications Act of 1934 and 
+25
+05:23 Dec 16, 2022
+H9463
+26 
+•HR 9463 IH
+any request for renewal or modification under such sec-
+1
+tion, as added by subsection (a), on or after the date of 
+2
+the enactment of this Act. 
+3
+Æ 
+05:23 Dec 16, 2022
+H9463

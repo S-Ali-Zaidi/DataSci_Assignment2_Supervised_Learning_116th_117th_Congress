@@ -1,0 +1,1680 @@
+A BILL 
+To require the Assistant Secretary of Commerce for Commu-
+nications and Information to carry out a grant and re-
+volving loan program to provide funding for projects 
+to increase the resiliency and energy efficiency of commu-
+nications networks, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Generating Resilient 
+4
+and Energy Efficient Network Communications Act’’ or 
+5
+the ‘‘GREEN Communications Act’’. 
+6
+16:31 Jul 03, 2022
+H8178
+2 
+•HR 8178 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) ASSISTANT SECRETARY.—The term ‘‘Assist-
+3
+ant Secretary’’ means the Assistant Secretary of 
+4
+Commerce for Communications and Information. 
+5
+(2) COMMISSION.—The term ‘‘Commission’’ 
+6
+means the Federal Communications Commission. 
+7
+(3) COMMUNICATIONS INFRASTRUCTURE.—The 
+8
+term ‘‘communications infrastructure’’ means any 
+9
+equipment, tower, support structure, facility, prod-
+10
+uct, or technology that is essential to the operation 
+11
+of a communications network. 
+12
+(4) COMMUNICATIONS
+NETWORK.—The term 
+13
+‘‘communications network’’ means— 
+14
+(A) a broadband network; 
+15
+(B) a cellular network; 
+16
+(C) a telephone network; 
+17
+(D) a cable system; 
+18
+(E) a network that is primarily used for 
+19
+public safety or first responder communications; 
+20
+or 
+21
+(F) a network that provides any other 
+22
+communications or telecommunications service. 
+23
+(5) COMMUNICATIONS NETWORK OUTAGE.—The 
+24
+term ‘‘communications network outage’’ means an 
+25
+outage with respect to a communications network 
+26
+16:31 Jul 03, 2022
+H8178
+3 
+•HR 8178 IH
+that results in the disruption of services provided by 
+1
+the communications network. 
+2
+(6) COVERED EFFICIENCY PROJECT.—The term 
+3
+‘‘covered efficiency project’’ means, with respect to 
+4
+action taken by an eligible entity— 
+5
+(A) the purchase or upgrading of equip-
+6
+ment or technology, including an electrical or 
+7
+thermal monitoring system, that is dem-
+8
+onstrated to increase the energy efficiency of 
+9
+communications infrastructure; 
+10
+(B) the installation or upgrading of perma-
+11
+nent solar panels, wind turbines, combined heat 
+12
+and power technology, or other renewable en-
+13
+ergy generators that are used in communica-
+14
+tions infrastructure, or at a data center, pro-
+15
+vided, operated, or owned by the eligible entity; 
+16
+(C) entering into a partnership with an en-
+17
+ergy utility company to purchase land for re-
+18
+newable energy infrastructure, or to construct 
+19
+renewable energy infrastructure, that will be 
+20
+used to power a data center, an internet ex-
+21
+change point, or communications infrastructure 
+22
+provided, operated, or owned by the eligible en-
+23
+tity; 
+24
+16:31 Jul 03, 2022
+H8178
+4 
+•HR 8178 IH
+(D) the reduction of water consumption for 
+1
+cooling a data center, or operating other com-
+2
+munications infrastructure, provided, operated, 
+3
+or owned by the eligible entity, in an area that 
+4
+is likely to experience drought; 
+5
+(E) the study of ways to make a commu-
+6
+nications network provided, operated, or owned 
+7
+by the eligible entity, or communications infra-
+8
+structure provided, operated, or owned by the 
+9
+eligible entity, more energy and resource effi-
+10
+cient; 
+11
+(F) the study, including through pilot 
+12
+projects, of green technologies to make a com-
+13
+munications network provided, operated, or 
+14
+owned by the eligible entity more energy and re-
+15
+source efficient; or 
+16
+(G) any other type of project carried out 
+17
+by the eligible entity that the Assistant Sec-
+18
+retary determines will promote the adoption of 
+19
+energy efficient, renewable energy, and carbon- 
+20
+neutral technologies and practices with respect 
+21
+to communications networks, or communica-
+22
+tions infrastructure, provided, operated, or 
+23
+owned by the eligible entity. 
+24
+16:31 Jul 03, 2022
+H8178
+5 
+•HR 8178 IH
+(7) COVERED RESILIENCY PROJECT.—The term 
+1
+‘‘covered resiliency project’’ means, with respect to 
+2
+action taken by an eligible entity— 
+3
+(A) the construction of communications in-
+4
+frastructure to be provided, operated, or owned 
+5
+by the eligible entity in a location that is not 
+6
+vulnerable to projected severe effects with re-
+7
+spect to extreme weather, natural disasters, or 
+8
+climate change-related events, including sea- 
+9
+level rise, flooding, and increased risk of wild-
+10
+fire; 
+11
+(B) the relocation of communications in-
+12
+frastructure provided, operated, or owned by 
+13
+the eligible entity to a location that is less vul-
+14
+nerable to projected severe effects with respect 
+15
+to extreme weather, natural disasters, or cli-
+16
+mate change-related events, including sea-level 
+17
+rise, flooding, and increased risk of wildfire; 
+18
+(C) the reinforcement, hardening, or re-
+19
+placement of communications infrastructure 
+20
+provided, operated, or owned by the eligible en-
+21
+tity in a location that is increasingly vulnerable 
+22
+to projected severe effects with respect to ex-
+23
+treme weather, natural disasters, or climate 
+24
+16:31 Jul 03, 2022
+H8178
+6 
+•HR 8178 IH
+change-related events, including sea-level rise, 
+1
+flooding, and increased risk of wildfire; 
+2
+(D) the construction of a fortification, such 
+3
+as a sea wall or embankment, or the develop-
+4
+ment of green infrastructure solutions, such as 
+5
+wetlands or drainage ponds, to protect commu-
+6
+nications infrastructure provided, operated, or 
+7
+owned by the eligible entity from projected se-
+8
+vere effects with respect to extreme weather, 
+9
+natural disasters, or climate change-related 
+10
+events, including sea-level rise, flooding, and in-
+11
+creased risk of wildfire; 
+12
+(E) the undertaking of research with re-
+13
+spect to communications infrastructure pro-
+14
+vided, operated, or owned by the eligible entity 
+15
+to identify vulnerabilities of that infrastructure 
+16
+to climate change based on the best available 
+17
+data, analysis, and projections regarding that 
+18
+change, including sea-level rise projections, 100- 
+19
+year floodplain maps, and heat and temperature 
+20
+projections; 
+21
+(F) the undertaking of research (using the 
+22
+best available data, analysis and projections re-
+23
+garding tectonic science and structural engi-
+24
+neering) with respect to communications infra-
+25
+16:31 Jul 03, 2022
+H8178
+7 
+•HR 8178 IH
+structure provided, operated, or owned by the 
+1
+eligible entity to identify vulnerabilities, or the 
+2
+susceptibility, of that communications infra-
+3
+structure to damage caused by natural disas-
+4
+ters; 
+5
+(G) the purchase of renewable energy or 
+6
+low-emission backup generators, fuel cells, or 
+7
+batteries to maximize the likelihood that com-
+8
+munications infrastructure provided, operated, 
+9
+or owned by the eligible entity can continue op-
+10
+erating in the event of an electrical system out-
+11
+age, without regard to whether the eligible enti-
+12
+ty is required to provide such backup power 
+13
+with respect to that communications infrastruc-
+14
+ture; 
+15
+(H) the purchase of cooling equipment or 
+16
+insulation, or the development of green infra-
+17
+structure, to protect communications infrastruc-
+18
+ture provided, operated, or owned by the eligible 
+19
+entity from extreme heat events; 
+20
+(I) the piloting of technologies to make a 
+21
+communications network provided, operated, or 
+22
+owned by the eligible entity more resilient 
+23
+through energy efficient and low carbon emis-
+24
+sion measures; 
+25
+16:31 Jul 03, 2022
+H8178
+8 
+•HR 8178 IH
+(J) in order to facilitate faster detection 
+1
+of, or response to, a communications network 
+2
+outage with respect to a communications net-
+3
+work provided, operated, or owned by the eligi-
+4
+ble entity— 
+5
+(i) the training of employees of the el-
+6
+igible entity relating to such a detection or 
+7
+response; 
+8
+(ii) the conducting of communications 
+9
+network outage tests or simulations; 
+10
+(iii) the participation in communica-
+11
+tions network outage tests or simulations, 
+12
+including those administered by local, 
+13
+State, or Federal governmental entities; or 
+14
+(iv) the purchase of equipment or 
+15
+technology relating to such a detection or 
+16
+response, including communications infra-
+17
+structure (including deployable commu-
+18
+nications infrastructure) that can expedite 
+19
+the restoration of communications or tele-
+20
+communications services after such a com-
+21
+munications network outage; 
+22
+(K) the undertaking of research to develop 
+23
+technologies that can expedite the restoration of 
+24
+communications or telecommunications services 
+25
+16:31 Jul 03, 2022
+H8178
+9 
+•HR 8178 IH
+after an outage with respect to communications 
+1
+infrastructure provided, operated, or owned by 
+2
+the eligible entity; 
+3
+(L) the construction, purchase, relocation, 
+4
+reinforcement, or replacement of communica-
+5
+tions infrastructure provided, operated, or 
+6
+owned by the eligible entity in order to mini-
+7
+mize the risk of a communications network out-
+8
+age caused by an affirmative power shut-off by 
+9
+a utility; or 
+10
+(M) any other type of project carried out 
+11
+by the eligible entity that the Assistant Sec-
+12
+retary determines will increase the resiliency of 
+13
+a communications network or communications 
+14
+infrastructure provided, operated, or owned by 
+15
+the eligible entity with respect to— 
+16
+(i) severe weather; 
+17
+(ii) natural disasters; and 
+18
+(iii) climate change-related events, in-
+19
+cluding extreme weather events, droughts, 
+20
+coastal and inland flooding, sea level rise, 
+21
+increased storm surge, wildfires, mudslides, 
+22
+and extreme temperatures. 
+23
+(8) DATA CENTER.—The term ‘‘data center’’ 
+24
+means a centralized location at which computing and 
+25
+16:31 Jul 03, 2022
+H8178
+10 
+•HR 8178 IH
+networking equipment is concentrated for the pur-
+1
+pose of collecting, storing, processing, distributing, 
+2
+or allowing access to large amounts of electronic 
+3
+data. 
+4
+(9) ELIGIBLE ENTITY.—The term ‘‘eligible enti-
+5
+ty’’ means any private or public entity, including a 
+6
+State, local, or Tribal government, that provides, op-
+7
+erates, or owns a communications network or com-
+8
+munications infrastructure. 
+9
+(10) NATURAL DISASTER.—The term ‘‘natural 
+10
+disaster’’ includes a natural event that is not related 
+11
+to climate change, including an earthquake, a tor-
+12
+nado, a hurricane, a volcanic eruption, a solar flare, 
+13
+a geomagnetic disturbance, and an electromagnetic 
+14
+pulse. 
+15
+(11) NTIA.—The term ‘‘NTIA’’ means the Na-
+16
+tional Telecommunications and Information Admin-
+17
+istration. 
+18
+SEC. 3. FINANCIAL ASSISTANCE FOR COMMUNICATIONS 
+19
+NETWORK RESILIENCY AND ENERGY EFFI-
+20
+CIENCY. 
+21
+(a) IN GENERAL.— 
+22
+(1) ESTABLISHMENT.—Not later than 1 year 
+23
+after the date of enactment of this Act, the Assist-
+24
+ant Secretary shall establish a program in the NTIA 
+25
+16:31 Jul 03, 2022
+H8178
+11 
+•HR 8178 IH
+(referred to in this section as the ‘‘Program’’) 
+1
+through which the Assistant Secretary, subject to 
+2
+the other provisions of this section, shall competi-
+3
+tively award grants and revolving loans to eligible 
+4
+entities to carry out covered efficiency projects and 
+5
+covered resiliency projects. 
+6
+(2) PRELIMINARY
+RULEMAKING.—Before ac-
+7
+cepting applications for a grant or a revolving loan 
+8
+under the Program, the Assistant Secretary shall, 
+9
+under section 553 of title 5, United States Code, 
+10
+and after consultation with eligible entities and the 
+11
+Secretary of Homeland Security, conduct a rule-
+12
+making to develop a process for— 
+13
+(A) identifying proprietary and confidential 
+14
+information contained in such an application; 
+15
+and 
+16
+(B) handling and protecting information 
+17
+described in subparagraph (A). 
+18
+(b) APPLICATION PROCESS.— 
+19
+(1) IN GENERAL.—Subject to paragraph (2), an 
+20
+eligible entity seeking a grant or a revolving loan 
+21
+under the Program shall submit to the Assistant 
+22
+Secretary an application at such time, in such man-
+23
+ner, and containing such information as the Assist-
+24
+ant Secretary may require. 
+25
+16:31 Jul 03, 2022
+H8178
+12 
+•HR 8178 IH
+(2) MINIMUM REQUIREMENTS.—An application 
+1
+submitted by an eligible entity under paragraph (1) 
+2
+shall contain, at a minimum, and to the extent appli-
+3
+cable— 
+4
+(A) with respect to a covered efficiency 
+5
+project— 
+6
+(i) an overview of the energy sourcing 
+7
+of the communications infrastructure or 
+8
+other equipment that is the subject of the 
+9
+project; and 
+10
+(ii) a description of how the grant or 
+11
+revolving loan sought by the eligible entity 
+12
+will improve the energy or resource effi-
+13
+ciency of the communications infrastruc-
+14
+ture or other equipment that is the subject 
+15
+of the project; and 
+16
+(B) with respect to a covered resiliency 
+17
+project— 
+18
+(i) a description of the current, as of 
+19
+the date on which the application is sub-
+20
+mitted, resiliency efforts of the eligible en-
+21
+tity with respect to the communications in-
+22
+frastructure or communications network 
+23
+that is the subject of the project; 
+24
+16:31 Jul 03, 2022
+H8178
+13 
+•HR 8178 IH
+(ii) a description of the specific vul-
+1
+nerability of, or threat of disruption to, the 
+2
+communications infrastructure or commu-
+3
+nications network that is the subject of the 
+4
+project; 
+5
+(iii) a description of how the grant or 
+6
+revolving loan sought by the eligible entity 
+7
+will improve the resiliency of the commu-
+8
+nications infrastructure or communications 
+9
+network that is the subject of the project; 
+10
+(iv) a statement that the project 
+11
+meets all applicable local, State, Tribal, 
+12
+and Federal zoning and environmental re-
+13
+quirements; and 
+14
+(v) a description of how the project 
+15
+will integrate with local or regional stra-
+16
+tegic planning efforts, if applicable. 
+17
+(c) FUNDING PRIORITIZATION.—In selecting projects 
+18
+for which funding will be provided under the Program, the 
+19
+Assistant Secretary shall give priority to— 
+20
+(1) covered efficiency projects that— 
+21
+(A) will be carried out in, or primarily ben-
+22
+efit, areas in which— 
+23
+16:31 Jul 03, 2022
+H8178
+14 
+•HR 8178 IH
+(i) the median household income is 
+1
+below 150 percent of the Federal poverty 
+2
+level; or 
+3
+(ii) a majority of the residents are 
+4
+members of a racial or ethnic minority 
+5
+group; 
+6
+(B) have the greatest demonstrated impact 
+7
+on energy efficiency; or 
+8
+(C) demonstrate the greatest overall pro-
+9
+jected reductions in greenhouse gas emissions; 
+10
+and 
+11
+(2) covered resiliency projects that— 
+12
+(A) will be carried out in, or primarily ben-
+13
+efit, areas— 
+14
+(i) in which the median household in-
+15
+come is below 150 percent of the Federal 
+16
+poverty level; 
+17
+(ii) in which a majority of the resi-
+18
+dents are members of a racial or ethnic mi-
+19
+nority group; 
+20
+(iii) in which rural features or sparse 
+21
+populations limit other investments with 
+22
+respect to the resiliency of communications 
+23
+networks; or 
+24
+16:31 Jul 03, 2022
+H8178
+15 
+•HR 8178 IH
+(iv) that are highly vulnerable to 
+1
+events relating to severe weather, natural 
+2
+disasters, or climate change-related events, 
+3
+as determined by the Assistant Secretary 
+4
+after— 
+5
+(I) consulting with the Adminis-
+6
+trators of the Federal Emergency 
+7
+Management Agency, the National 
+8
+Oceanic and Atmospheric Administra-
+9
+tion, and the Environmental Protec-
+10
+tion Agency, using the best data avail-
+11
+able to those officials; and 
+12
+(II) obtaining input from opera-
+13
+tors of communications networks re-
+14
+garding the types of events that are 
+15
+most or least impactful to those com-
+16
+munications networks; or 
+17
+(B) utilize green infrastructure or renew-
+18
+able energy solutions, including by piloting new 
+19
+green solutions that will affirmatively increase 
+20
+the resiliency of communications infrastructure 
+21
+or communications networks provided, operated, 
+22
+or owned by the eligible entity. 
+23
+(d) CONDITIONS ON FINANCIAL ASSISTANCE.— 
+24
+16:31 Jul 03, 2022
+H8178
+16 
+•HR 8178 IH
+(1) COVERED EFFICIENCY PROJECT.—An eligi-
+1
+ble entity to which funding is made available under 
+2
+the Program with respect to a covered efficiency 
+3
+project shall, to the extent applicable— 
+4
+(A) not later than 1 year after the date on 
+5
+which the eligible entity receives the funding, 
+6
+and annually thereafter until the completion of 
+7
+the covered efficiency project, submit to the As-
+8
+sistant Secretary a report that describes, for 
+9
+the year covered by the report, the electrical 
+10
+consumption, by source, of the communications 
+11
+infrastructure or other property that is the sub-
+12
+ject of the project, which shall identify the per-
+13
+centage of that consumption that comes from 
+14
+fossil fuels and from renewable energy sources; 
+15
+and 
+16
+(B) complete a clean energy review— 
+17
+(i) the components of which shall be 
+18
+established by the Secretary of Energy, in 
+19
+consultation with the Administrator of the 
+20
+Environmental Protection Agency— 
+21
+(I) through rulemaking under 
+22
+section 553 of title 5, United States 
+23
+Code; and 
+24
+16:31 Jul 03, 2022
+H8178
+17 
+•HR 8178 IH
+(II) after developing a process, in 
+1
+consultation 
+with 
+eligible 
+entities, 
+2
+for— 
+3
+(aa) identifying proprietary 
+4
+and confidential information con-
+5
+tained in such a review; and 
+6
+(bb) handling and protecting 
+7
+information described in item 
+8
+(aa); and 
+9
+(ii) which shall include— 
+10
+(I) the energy consumption pat-
+11
+terns of the eligible entity; and 
+12
+(II) the steps taken by the eligi-
+13
+ble entity, or the steps that the eligi-
+14
+ble entity will take, to achieve a goal 
+15
+of net-zero carbon emissions with re-
+16
+spect to the communications infra-
+17
+structure, and communications net-
+18
+works, provided, operated, or owned 
+19
+by the eligible entity. 
+20
+(2) COVERED RESILIENCY PROJECT.—An eligi-
+21
+ble entity to which funding is made available under 
+22
+the Program with respect to a covered resiliency 
+23
+project shall, to the extent applicable— 
+24
+16:31 Jul 03, 2022
+H8178
+18 
+•HR 8178 IH
+(A) beginning not later than 60 days after 
+1
+the date on which the eligible entity receives the 
+2
+funding, register and participate in the Disaster 
+3
+Information Reporting System operated by the 
+4
+Commission, including by subsequently report-
+5
+ing, during times of emergency, the operational 
+6
+status of communications infrastructure oper-
+7
+ated by the eligible entity; 
+8
+(B) not later than 1 year after the date on 
+9
+which the eligible entity receives the funding, 
+10
+and annually thereafter until the completion of 
+11
+the covered resiliency project, submit to the 
+12
+Commission a report that, to the extent applica-
+13
+ble, contains, with respect to communications 
+14
+infrastructure provided, operated, or owned by 
+15
+the eligible entity— 
+16
+(i) the number, duration, and fre-
+17
+quency of communications network outages 
+18
+experienced as a result of an outage with 
+19
+respect to, or other failure of, that infra-
+20
+structure within a certain time period, as 
+21
+determined by the Commission; 
+22
+(ii) the specific cause of each commu-
+23
+nications network outage described in 
+24
+clause (i); 
+25
+16:31 Jul 03, 2022
+H8178
+19 
+•HR 8178 IH
+(iii) the number of consumers affected 
+1
+by each communications network outage 
+2
+described in clause (i); 
+3
+(iv) the extent to which first respond-
+4
+ers were affected by each communications 
+5
+network outage described in clause (i); 
+6
+(v) the total number of communica-
+7
+tions network outages annually experienced 
+8
+with respect to that infrastructure that are 
+9
+attributable to severe weather, natural dis-
+10
+asters, and climate change-related events 
+11
+and the number of consumers affected by 
+12
+those outages; 
+13
+(vi) the extent of any reduction of 
+14
+communications 
+network 
+performance 
+15
+caused by a communications network out-
+16
+age with respect to that infrastructure; 
+17
+(vii) the amount of time between the 
+18
+start of each communications network out-
+19
+age with respect to that infrastructure and 
+20
+detection of the outage; 
+21
+(viii) the amount of time between the 
+22
+detection of each communications network 
+23
+outage with respect to that infrastructure 
+24
+16:31 Jul 03, 2022
+H8178
+20 
+•HR 8178 IH
+and the initiation of any response to miti-
+1
+gate the effects of the outage; 
+2
+(ix) the amount of time required to 
+3
+fully restore services after a communica-
+4
+tions network outage with respect to that 
+5
+infrastructure; and 
+6
+(x) any other information that the 
+7
+Commission determines is necessary to 
+8
+achieve the objectives described in section 
+9
+4(a)(2); and 
+10
+(C) complete a communications resiliency 
+11
+review— 
+12
+(i) the components of which shall be 
+13
+established by the Commission, in con-
+14
+sultation with the Assistant Secretary— 
+15
+(I) through rulemaking under 
+16
+section 553 of title 5, United States 
+17
+Code; and 
+18
+(II) after developing a process, in 
+19
+consultation 
+with 
+eligible 
+entities, 
+20
+for— 
+21
+(aa) identifying proprietary 
+22
+and confidential information con-
+23
+tained in such a review; and 
+24
+16:31 Jul 03, 2022
+H8178
+21 
+•HR 8178 IH
+(bb) handling and protecting 
+1
+information described in item 
+2
+(aa); and 
+3
+(ii) which shall include, to the extent 
+4
+applicable— 
+5
+(I) the analysis of the eligible en-
+6
+tity with respect to the vulnerabilities 
+7
+of communications infrastructure pro-
+8
+vided, operated, or owned by the eligi-
+9
+ble entity with respect to severe 
+10
+weather, natural disasters, and cli-
+11
+mate change-related events; 
+12
+(II) a description of steps taken 
+13
+by the eligible entity, or steps that the 
+14
+eligible entity will take, to address the 
+15
+vulnerabilities described in subclause 
+16
+(I); and 
+17
+(III) the number of projected po-
+18
+tential users of the communications 
+19
+network or communications infra-
+20
+structure provided, operated, or owned 
+21
+by the eligible entity that may be af-
+22
+fected by the vulnerabilities described 
+23
+in subclause (I). 
+24
+16:31 Jul 03, 2022
+H8178
+22 
+•HR 8178 IH
+(e) CONSULTATION WITH RELEVANT AGENCIES.—In 
+1
+establishing and carrying out the Program, the Assistant 
+2
+Secretary may consult and coordinate, as needed, with the 
+3
+Commission, the Secretary of Commerce, the Secretary of 
+4
+Energy, the Administrator of the Environmental Protec-
+5
+tion Agency, the Administrator of the Federal Emergency 
+6
+Management Agency, and the head of any other Federal 
+7
+agency with relevant subject matter expertise. 
+8
+(f) AUTHORIZATION OF APPROPRIATIONS; MINIMUM 
+9
+EXPENDITURES.— 
+10
+(1) IN GENERAL.—There are authorized to be 
+11
+appropriated 
+to 
+the 
+Assistant 
+Secretary 
+12
+$5,000,000,000 to carry out the Program, which 
+13
+shall remain available until expended. 
+14
+(2) MINIMUM EXPENDITURES; ADMINISTRATIVE 
+15
+COSTS.—Of the amounts made available to carry out 
+16
+the Program, the Assistant Secretary shall— 
+17
+(A) use not less than 25 percent to provide 
+18
+assistance to eligible entities to carry out cov-
+19
+ered efficiency projects; 
+20
+(B) use not less than 25 percent to provide 
+21
+assistance to eligible entities to carry out cov-
+22
+ered resiliency projects; and 
+23
+16:31 Jul 03, 2022
+H8178
+23 
+•HR 8178 IH
+(C) set aside not more than 2 percent to 
+1
+cover costs relating to administration, research, 
+2
+training, and staff, including— 
+3
+(i) the detailing of employees from 
+4
+other Federal agencies; and 
+5
+(ii) the appointment of experts in the 
+6
+fields of infrastructure resiliency, climate 
+7
+science, clean energy, and energy effi-
+8
+ciency. 
+9
+SEC. 4. REGULATORY FRAMEWORK. 
+10
+(a) 
+COMMUNICATIONS
+NETWORK
+RESILIENCY 
+11
+FRAMEWORK.— 
+12
+(1) ESTABLISHMENT.—The Commission, in 
+13
+consultation with the Assistant Secretary, the Ad-
+14
+ministrator of the Federal Emergency Management 
+15
+Agency, and the Director of the National Institute 
+16
+of Standards and Technology, shall issue rules under 
+17
+section 553 of title 5, United States Code, to estab-
+18
+lish a communications network resiliency framework 
+19
+to promote resiliency with respect to communications 
+20
+networks and communications infrastructure. 
+21
+(2) OBJECTIVES.—The objectives of the frame-
+22
+work established under paragraph (1) shall be the 
+23
+following: 
+24
+16:31 Jul 03, 2022
+H8178
+24 
+•HR 8178 IH
+(A) To minimize the number of commu-
+1
+nications network outages. 
+2
+(B) To minimize the length of communica-
+3
+tions network outages. 
+4
+(C) To minimize the number of consumers 
+5
+affected by communications network outages. 
+6
+(D) To mitigate the reduction in commu-
+7
+nications network performance caused by com-
+8
+munications network outages. 
+9
+(E) To encourage the adoption of equip-
+10
+ment, policies, and procedures to prepare for 
+11
+communications network outages. 
+12
+(F) To promote the detection of, and re-
+13
+sponse to, communications network outages in 
+14
+a timely manner. 
+15
+(G) To anticipate and prepare for long- 
+16
+term disruptions to communications networks 
+17
+that are caused by severe weather, natural dis-
+18
+asters, or climate change. 
+19
+(H) To support and address the commu-
+20
+nications needs of first responders involved in 
+21
+detecting, managing, and responding to— 
+22
+(i) severe weather events, natural dis-
+23
+asters, and climate change-related events; 
+24
+and 
+25
+16:31 Jul 03, 2022
+H8178
+25 
+•HR 8178 IH
+(ii) communications network outages 
+1
+caused by the events described in clause 
+2
+(i). 
+3
+(3) COMMISSION DISCRETION.—In carrying out 
+4
+this subsection, the Commission may, after providing 
+5
+public notice and an opportunity to comment, estab-
+6
+lish minimum performance criteria or target goals 
+7
+with respect to the resiliency of communications net-
+8
+works and communications infrastructure. 
+9
+(b) AGENCY RESPONSIBILITIES.— 
+10
+(1) FCC RESPONSIBILITIES.— 
+11
+(A) RESILIENCY MAPPING FEASIBILITY RE-
+12
+13
+(i) IN
+GENERAL.—The Commission 
+14
+shall— 
+15
+(I) in consultation with the As-
+16
+sistant Secretary and the Administra-
+17
+tors of the National Oceanic and At-
+18
+mospheric Administration, the Envi-
+19
+ronmental Protection Agency, and the 
+20
+Federal 
+Emergency 
+Management 
+21
+Agency, complete a study (and submit 
+22
+to Congress a report regarding) the 
+23
+feasibility of establishing and main-
+24
+taining a map that shows projected 
+25
+16:31 Jul 03, 2022
+H8178
+26 
+•HR 8178 IH
+risks to communications infrastruc-
+1
+ture as a result of events relating to 
+2
+severe weather, natural disasters, and 
+3
+climate change; and 
+4
+(II) include in the report re-
+5
+quired 
+under 
+subclause 
+(I) 
+rec-
+6
+ommendations regarding— 
+7
+(aa) which Federal agency, 
+8
+or combination of Federal agen-
+9
+cies, is best equipped to conduct 
+10
+the mapping described in that 
+11
+subclause; 
+12
+(bb) how the mapping de-
+13
+scribed in that subclause could— 
+14
+(AA) incorporate the 
+15
+information obtained from 
+16
+eligible entities under the 
+17
+program carried out under 
+18
+section 3; and 
+19
+(BB) 
+be 
+coordinated 
+20
+with, 
+and 
+connected 
+to, 
+21
+other broadband mapping 
+22
+efforts of the Commission; 
+23
+and 
+24
+16:31 Jul 03, 2022
+H8178
+27 
+•HR 8178 IH
+(cc) how to protect and se-
+1
+cure any sensitive information re-
+2
+lating to, or stemming from, the 
+3
+mapping described in that sub-
+4
+clause. 
+5
+(ii) AUTHORIZATION
+OF
+APPROPRIA-
+6
+TIONS.—There are authorized to be appro-
+7
+priated to the Commission such sums as 
+8
+may be necessary to carry out clause (i). 
+9
+(B) TECHNICAL ASSISTANCE.— 
+10
+(i) IN GENERAL.—The Commission, in 
+11
+consultation with the Assistant Secretary, 
+12
+shall provide technical assistance and re-
+13
+sources to— 
+14
+(I) any public or private domestic 
+15
+entity seeking to understand, with re-
+16
+spect to a communications network 
+17
+(or communications infrastructure) 
+18
+provided, operated, or owned by that 
+19
+entity, the vulnerability or suscepti-
+20
+bility of the network or infrastructure 
+21
+with respect to severe weather, nat-
+22
+ural disasters, or climate change; and 
+23
+(II) any State or local govern-
+24
+ment seeking to understand the vul-
+25
+16:31 Jul 03, 2022
+H8178
+28 
+•HR 8178 IH
+nerability or susceptibility with re-
+1
+spect to severe weather, natural disas-
+2
+ters, or climate change of a commu-
+3
+nications network that— 
+4
+(aa) is located within the ju-
+5
+risdiction of that government; 
+6
+and 
+7
+(bb) is not operated by that 
+8
+government. 
+9
+(ii) SCOPE OF ASSISTANCE.—In pro-
+10
+viding the technical assistance under clause 
+11
+(i), the Commission shall only provide 
+12
+technical assistance and resources related 
+13
+to mitigating vulnerabilities in a commu-
+14
+nications network (or communications in-
+15
+frastructure) and is not required to provide 
+16
+technical assistance or resources on sepa-
+17
+rate matters related to climate change. 
+18
+(C) NORS.—After providing public notice 
+19
+and an opportunity to comment, the Commis-
+20
+sion shall update the Network Outage Report-
+21
+ing System to include a broadband network out-
+22
+age as a required reporting incident. 
+23
+(2) NTIA RESPONSIBILITIES.— 
+24
+16:31 Jul 03, 2022
+H8178
+29 
+•HR 8178 IH
+(A) ENERGY AND EFFICIENCY BEST PRAC-
+1
+TICES.— 
+2
+(i) IN GENERAL.—The Assistant Sec-
+3
+retary, in consultation with other Federal 
+4
+agencies (including the Commission, the 
+5
+Department of Energy, the Environmental 
+6
+Protection Agency, and the Federal En-
+7
+ergy Regulatory Commission), and after 
+8
+obtaining input from communications serv-
+9
+ice providers and other interested members 
+10
+of the public, shall make available on a 
+11
+publicly available website a list of best 
+12
+practices for public and private partners to 
+13
+operate energy efficient and carbon-neutral 
+14
+communications infrastructure. 
+15
+(ii) CONTENTS.—The list of best 
+16
+practices described in clause (i) may in-
+17
+clude— 
+18
+(I) suggested technical standards 
+19
+for improving energy efficiency with 
+20
+respect to the use and transmission of 
+21
+electronic data, including the imple-
+22
+mentation of more efficient compres-
+23
+sion and transmission algorithms and 
+24
+signal types; 
+25
+16:31 Jul 03, 2022
+H8178
+30 
+•HR 8178 IH
+(II) renewable energy sourcing 
+1
+guidelines; and 
+2
+(III) guidelines for internet serv-
+3
+ice providers to report to consumers 
+4
+the energy consumption of those con-
+5
+sumers alongside the data use of 
+6
+those consumers. 
+7
+(B) REPORTING.—Not later than 1 year 
+8
+after the date of enactment of this Act, and an-
+9
+nually thereafter, the Assistant Secretary, in 
+10
+consultation with the Commission, the Adminis-
+11
+trator of the Federal Emergency Management 
+12
+Agency, and the Administrator of the Environ-
+13
+mental Protection Agency, and after providing 
+14
+public notice and an opportunity to comment, 
+15
+shall submit to Congress, and make available on 
+16
+a publicly available website, a report that, at a 
+17
+minimum— 
+18
+(i) contains data demonstrating, for 
+19
+the year covered by the report and the year 
+20
+preceding the year covered by the report— 
+21
+(I) the number of communica-
+22
+tions network outages that are attrib-
+23
+utable to severe weather, natural dis-
+24
+asters, and climate change-related 
+25
+16:31 Jul 03, 2022
+H8178
+31 
+•HR 8178 IH
+events (and the number of consumers 
+1
+affected by those communications net-
+2
+work outages); 
+3
+(II) any shifts in the energy con-
+4
+sumption patterns of communications 
+5
+networks and communications infra-
+6
+structure; and 
+7
+(III) any reduction in greenhouse 
+8
+gas emissions from communications 
+9
+networks and communications infra-
+10
+structure; and 
+11
+(ii) provides the most up-to-date pro-
+12
+jected risks to communications infrastruc-
+13
+ture because of severe weather, natural 
+14
+disasters, 
+and 
+climate 
+change-related 
+15
+events. 
+16
+(3) DEPARTMENT OF ENERGY.—Not later than 
+17
+1 year after the date of enactment of this Act, the 
+18
+Secretary of Energy, in consultation with the Ad-
+19
+ministrator of the Energy Information Administra-
+20
+tion, the Administrator of the Environmental Pro-
+21
+tection Agency, and the Federal Energy Regulatory 
+22
+Commission, shall submit to Congress a report 
+23
+that— 
+24
+16:31 Jul 03, 2022
+H8178
+32 
+•HR 8178 IH
+(A) indicates the projected growth of elec-
+1
+trical consumption by data centers in the 
+2
+United States; and 
+3
+(B) includes recommendations for imple-
+4
+menting energy efficiency standards for data 
+5
+centers that would— 
+6
+(i) limit the growth described in sub-
+7
+paragraph (A) to the greatest extent prac-
+8
+ticable without— 
+9
+(I) 
+reducing 
+the 
+rate 
+of 
+10
+broadband adoption and usage in the 
+11
+United States; or 
+12
+(II) limiting the development of 
+13
+new and improved technologies or 
+14
+services; and 
+15
+(ii) encourage the rapid adoption of 
+16
+renewable energy sources. 
+17
+Æ 
+16:31 Jul 03, 2022
+H8178

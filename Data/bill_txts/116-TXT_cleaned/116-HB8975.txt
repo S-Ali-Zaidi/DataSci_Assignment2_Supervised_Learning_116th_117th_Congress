@@ -1,0 +1,691 @@
+A BILL 
+To prohibit the usage of exploitative and deceptive practices 
+by large online operators and to promote consumer wel-
+fare in the use of behavioral research by such providers. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Deceptive Experiences 
+4
+To Online Users Reduction Act’’ or the ‘‘DETOUR Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act the following definition apply: 
+7
+(1) BEHAVIORAL OR PSYCHOLOGICAL EXPERI-
+8
+MENT, RESEARCH, OR STUDY.—The term ‘‘behav-
+9
+00:46 Dec 31, 2020
+H8975
+2 
+•HR 8975 IH
+ioral or psychological experiment, research, or 
+1
+study’’ means the study, including through human 
+2
+experimentation, of overt or observable actions and 
+3
+mental phenomena inferred from behavior, including 
+4
+interactions between and among individuals and the 
+5
+activities of social groups. 
+6
+(2) COMMISSION.—The term ‘‘Commission’’ 
+7
+means the Federal Trade Commission. 
+8
+(3) COMPULSIVE USAGE.—The term ‘‘compul-
+9
+sive usage’’ means any response stimulated by exter-
+10
+nal factors that causes an individual to engage in re-
+11
+petitive, purposeful, and intentional behavior causing 
+12
+psychological distress, loss of control, anxiety, de-
+13
+pression, or harmful stress responses. 
+14
+(4) INDEPENDENT REVIEW BOARD.—The term 
+15
+‘‘independent review board’’ means a board, com-
+16
+mittee, or other group that serves to protect the wel-
+17
+fare, rights, and privacy of users and is formally 
+18
+designated by a large online operator to review, ap-
+19
+prove the initiation of, and conduct periodic review 
+20
+of, any behavioral or psychological experiment, re-
+21
+search, or study, conducted by such an operator or 
+22
+by any entity directed by such an operator to con-
+23
+duct such behavioral or psychological experiment, re-
+24
+search, or study, involving human subjects. 
+25
+00:46 Dec 31, 2020
+H8975
+3 
+•HR 8975 IH
+(5) INFORMED CONSENT.—The term ‘‘informed 
+1
+consent’’— 
+2
+(A) means the express, affirmative consent 
+3
+freely given by a user immediately prior to any 
+4
+user data being collected from such user for any 
+5
+behavioral or psychological experiment, re-
+6
+search, or study, where such user is provided 
+7
+adequate and understandable information— 
+8
+(i) to allow for an informed decision 
+9
+about voluntary participation in such a be-
+10
+havioral or psychological experiment, re-
+11
+search, or study; and 
+12
+(ii) to ensure the understanding of 
+13
+such user of the information and any asso-
+14
+ciated benefits, risks, or consequences of 
+15
+participation prior to obtaining the vol-
+16
+untary agreement to participate by the 
+17
+user; and 
+18
+(B) does not include— 
+19
+(i) the consent of an individual under 
+20
+the age of 18; 
+21
+(ii) language that limits or purports 
+22
+to limit the liability of a large online oper-
+23
+ator; or 
+24
+00:46 Dec 31, 2020
+H8975
+4 
+•HR 8975 IH
+(iii) the consent to a provision con-
+1
+tained in a general contract or service 
+2
+agreement. 
+3
+(6) LARGE
+ONLINE
+OPERATOR.—The term 
+4
+‘‘large online operator’’ means any person that— 
+5
+(A) provides an online service; 
+6
+(B) has more than 100,000,000 authenti-
+7
+cated users of an online service in any 30-day 
+8
+period; and 
+9
+(C) is subject to the jurisdiction of the 
+10
+Commission under the Federal Trade Commis-
+11
+sion Act (15 U.S.C. 41 et seq.). 
+12
+(7) ONLINE SERVICE.—The term ‘‘online serv-
+13
+ice’’ means a website or interactive computer service, 
+14
+other than an internet access service, that is made 
+15
+available to the public over the internet and enables 
+16
+users to generate content that can be viewed by 
+17
+other users of the service or that connects users for 
+18
+the purpose of such users engaging in dialogue, 
+19
+sharing information, or otherwise interacting. 
+20
+(8) PARENTAL CONSENT.—The term ‘‘parental 
+21
+consent’’ means the verifiable consent of a parent or 
+22
+guardian for a child under the age of 18 who uses 
+23
+an online service. 
+24
+00:46 Dec 31, 2020
+H8975
+5 
+•HR 8975 IH
+(9) USER.—The term ‘‘user’’ means any indi-
+1
+vidual who uses an online service. 
+2
+(10) USER
+DATA.—The term ‘‘user data’’ 
+3
+means any information relating to an identified or 
+4
+identifiable individual user, whether directly sub-
+5
+mitted to the large online operator by the user or de-
+6
+rived from the observed activity of the user by the 
+7
+large online operator. Such term includes any such 
+8
+information purchased or otherwise obtained from 
+9
+third parties. 
+10
+(11) USER INTERFACE.—The term ‘‘user inter-
+11
+face’’ refers to any content accessible to a user of an 
+12
+online service or means by which a user interacts 
+13
+with such online service or engages with other users 
+14
+of an online service. 
+15
+(12) 
+VERIFIABLE
+CONSENT.—The 
+term 
+16
+‘‘verifiable consent’’ means the express, affirmative 
+17
+consent freely given by a user to be subjected to the 
+18
+intended effect or effects of a user interface for an 
+19
+online service that is— 
+20
+(A) specific, informed, and unambiguous; 
+21
+and 
+22
+(B) given without the exchange of any fi-
+23
+nancial or other incentives for such consent. 
+24
+00:46 Dec 31, 2020
+H8975
+6 
+•HR 8975 IH
+SEC. 3. UNFAIR AND DECEPTIVE ACTS AND PRACTICES RE-
+1
+LATING TO THE MANIPULATION OF USER 
+2
+INTERFACES. 
+3
+(a) CONDUCT PROHIBITED.— 
+4
+(1) IN GENERAL.—It shall be unlawful for any 
+5
+large online operator— 
+6
+(A) to design, modify, or manipulate a user 
+7
+interface of an online service with the purpose 
+8
+or substantial effect of obscuring, subverting, or 
+9
+impairing user autonomy, decision making, or 
+10
+choice to obtain consent or user data; 
+11
+(B) to conduct a behavioral or psycho-
+12
+logical experiment, research, or study of users 
+13
+of an online service, except with the informed 
+14
+consent of each user involved; 
+15
+(C) to design, modify, or manipulate a user 
+16
+interface of an online service with the purpose 
+17
+or substantial effect of cultivating compulsive 
+18
+usage, including video auto-play functions initi-
+19
+ated without verifiable consent of a user; or 
+20
+(D) to design, modify, or manipulate a 
+21
+user interface on an online service, or portion 
+22
+thereof, that is directed to an individual under 
+23
+the age of 18, with the purpose or substantial 
+24
+effect of increasing usage of an online service 
+25
+00:25 Jan 02, 2021
+H8975
+7 
+•HR 8975 IH
+through which a user interacts with other users 
+1
+without parental consent. 
+2
+(b) DUTIES OF LARGE ONLINE OPERATORS.—Any 
+3
+large online operator that engages in any form of behav-
+4
+ioral or psychological experiment, research, or study based 
+5
+on the activity or data of its users shall— 
+6
+(1) disclose, on a routine basis, but not less 
+7
+than once each 90 days, the general purpose of any 
+8
+such behavioral or psychological experiment, re-
+9
+search, or study to each user whose user data is or 
+10
+was during the previous 90-day period subject to or 
+11
+included in any such behavioral or psychological ex-
+12
+periment, research, or study; 
+13
+(2) state on its online platform and readily ac-
+14
+cessible to a user through its user interface, any be-
+15
+havioral or psychological experiment, research, or 
+16
+study whose purpose is to increase user engagement 
+17
+with the online service or to encourage users to take 
+18
+any action to convert such users into purchasers of 
+19
+any additional product or service offered by such on-
+20
+line service; 
+21
+(3) present the disclosures described in para-
+22
+graphs (1) and (2) in a manner that— 
+23
+(A) is clear, conspicuous, context-appro-
+24
+priate, and easily accessible; and 
+25
+00:25 Jan 02, 2021
+H8975
+8 
+•HR 8975 IH
+(B) is not deceptively obscured; 
+1
+(4) discontinue any behavioral or psychological 
+2
+experiment, research, or study, if informed consent 
+3
+or parental consent was determined by such large 
+4
+online operator to be inappropriately acquired, or 
+5
+has reason to believe that such consent was inappro-
+6
+priately acquired, and cannot obtain such consent 
+7
+within 48 hours of such determination, for the proc-
+8
+essing of user data for behavioral or psychological 
+9
+experiment, research, or study; 
+10
+(5) establish an independent review board for 
+11
+any behavioral or psychological research, of any pur-
+12
+pose, conducted on users or on the basis of user ac-
+13
+tivity or data, which shall review and have authority 
+14
+to approve, require modification in, or disapprove all 
+15
+behavioral or psychological experiments, research, or 
+16
+studies; and 
+17
+(6) ensure that such independent review board 
+18
+established under paragraph (5) shall register with 
+19
+the Commission, including providing to the Commis-
+20
+sion— 
+21
+(A) the names and resumes of every board 
+22
+member; 
+23
+00:25 Jan 02, 2021
+H8975
+9 
+•HR 8975 IH
+(B) the composition and reporting struc-
+1
+ture of the board to the management of the op-
+2
+erator; 
+3
+(C) the process by which the board is to be 
+4
+notified of proposed studies or modifications 
+5
+along with the processes by which the board is 
+6
+capable of vetoing or amending such proposals; 
+7
+(D) any compensation provided to board 
+8
+members; and 
+9
+(E) any conflict of interest that might 
+10
+exist concerning a board member’s participation 
+11
+in the board. 
+12
+(c) 
+REGISTERED
+PROFESSIONAL
+STANDARDS 
+13
+BODY.— 
+14
+(1) REGISTRATION.—An association of large 
+15
+online operators may register as a professional 
+16
+standards body by filing with the Commission an ap-
+17
+plication for registration in such form as the Com-
+18
+mission, by rule, may prescribe containing the rules 
+19
+of the association and such other information and 
+20
+documents as the Commission, by rule, may pre-
+21
+scribe as necessary or appropriate in the public in-
+22
+terest or for protecting the welfare of users of large 
+23
+online operators. 
+24
+00:46 Dec 31, 2020
+H8975
+10 
+•HR 8975 IH
+(2) DETERMINATION BY THE COMMISSION.—An 
+1
+association of large online operators may not reg-
+2
+ister as a professional standards body unless the 
+3
+Commission determines that— 
+4
+(A) the association is so organized and has 
+5
+the capacity to enforce compliance by its mem-
+6
+bers and persons associated with its members, 
+7
+with the provisions of this Act; 
+8
+(B) the rules of the association provide 
+9
+that any large online operator may become a 
+10
+member of such association; 
+11
+(C) the rules of the association assure a 
+12
+fair representation of its members in the selec-
+13
+tion of its directors and administration of its 
+14
+affairs and provide that one or more directors 
+15
+shall be representative of users and not be asso-
+16
+ciated with, or receive any direct or indirect 
+17
+funding from, a member of the association or 
+18
+any large online operator; 
+19
+(D) the rules of the association are de-
+20
+signed to prevent exploitative and manipulative 
+21
+acts or practices, to promote transparent and 
+22
+fair principles of technology development and 
+23
+design, to promote research in keeping with 
+24
+best practices for behavioral or psychological ex-
+25
+00:46 Dec 31, 2020
+H8975
+11 
+•HR 8975 IH
+periments, research, or studies or the designs of 
+1
+a user interfaces and informed consent, and to 
+2
+continually evaluate industry practices and 
+3
+issue binding guidance consistent with the ob-
+4
+jectives of this Act; 
+5
+(E) the rules of the association provide 
+6
+that its members and persons associated with 
+7
+its members shall be appropriately disciplined 
+8
+for violation of any provision of this Act, the 
+9
+rules or regulations thereunder, or the rules of 
+10
+the association, by expulsion, suspension, limi-
+11
+tation of activities or functions, fine, censure, 
+12
+being suspended or barred from being associ-
+13
+ated with a member, or any other appropriate 
+14
+sanction; and 
+15
+(F) the rules of the association are in ac-
+16
+cordance with the provisions of this Act, and, in 
+17
+general, provide a fair procedure for the dis-
+18
+ciplining of members and persons associated 
+19
+with members, the denial of membership to any 
+20
+person seeking membership therein, the barring 
+21
+of any person from becoming associated with a 
+22
+member thereof, and the prohibition or limita-
+23
+tion by the association of any person with re-
+24
+00:46 Dec 31, 2020
+H8975
+12 
+•HR 8975 IH
+spect to access to services offered by the asso-
+1
+ciation or a member thereof. 
+2
+(3) RESPONSIBILITIES
+AND
+ACTIVITIES.—Any 
+3
+association registered under paragraph (1) shall de-
+4
+velop, on a continuing basis, guidance and bright- 
+5
+line rules for the development and design of tech-
+6
+nology products of large online operators consistent 
+7
+with the duties of a large online operator described 
+8
+under subsection (b). 
+9
+(d) ENFORCEMENT BY THE COMMISSION.— 
+10
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+11
+TICE.—A violation of subsection (a) or (b) shall be 
+12
+treated as a violation of a rule defining an unfair or 
+13
+deceptive act or practice under section 18(a)(1)(B) 
+14
+of the Federal Trade Commission Act (15 U.S.C. 
+15
+57a(a)(1)(B)). 
+16
+(2) REGULATIONS.—Not later than one year 
+17
+after the date of enactment of this Act, the Commis-
+18
+sion shall prescribe regulations under section 553 of 
+19
+title 5, United States Code, that— 
+20
+(A) establish rules and procedures for ob-
+21
+taining the informed consent, verifiable consent, 
+22
+or parental consent of users; 
+23
+(B) establish rules for the registration, for-
+24
+mation, oversight, and management of the inde-
+25
+00:46 Dec 31, 2020
+H8975
+13 
+•HR 8975 IH
+pendent review boards, including standards that 
+1
+ensure effective independence of such entities 
+2
+from improper or undue influence by a large 
+3
+online operator; 
+4
+(C) establish rules for the registration, for-
+5
+mation, oversight, and management of profes-
+6
+sional standards bodies, including procedures 
+7
+for the regular oversight of such bodies and rev-
+8
+ocation of their designation; and 
+9
+(D) in consultation with each professional 
+10
+standards body that registers under subsection 
+11
+(c), define conduct that does not have the pur-
+12
+pose or substantial effect of subverting or im-
+13
+pairing user autonomy, decision making, or 
+14
+choice, or of cultivating compulsive usage for 
+15
+users or increasing the usage of an online serv-
+16
+ice by a child without parental consent, such 
+17
+as— 
+18
+(i) de minimis user interface changes 
+19
+derived from testing consumer preferences, 
+20
+including different styles, layouts, or text, 
+21
+where such changes are not done with the 
+22
+purpose of obtaining user consent or user 
+23
+data; 
+24
+00:25 Jan 02, 2021
+H8975
+14 
+•HR 8975 IH
+(ii) algorithms or data outputs outside 
+1
+the control of a large online operator or its 
+2
+affiliates; and 
+3
+(iii) establishing default settings that 
+4
+provide enhanced privacy protection to 
+5
+users or otherwise enhance their autonomy 
+6
+and decision-making ability. 
+7
+Æ 
+00:37 Jan 02, 2021
+H8975

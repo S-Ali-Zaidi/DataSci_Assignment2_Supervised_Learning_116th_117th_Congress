@@ -1,0 +1,565 @@
+A BILL 
+To provide for a comprehensive and integrative program 
+to accelerate microelectronics research and development 
+at the Department of Energy, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Microelectronics Re-
+4
+search for Energy Innovation Act’’ or the ‘‘Micro Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) DEPARTMENT.—The term ‘‘Department’’ 
+8
+means the Department of Energy. 
+9
+17:00 Dec 21, 2021
+H6291
+2 
+•HR 6291 IH
+(2) HISTORICALLY BLACK COLLEGE AND UNI-
+1
+VERSITY.—The term ‘‘historically Black college and 
+2
+university’’ has the meaning given the term ‘‘part B 
+3
+institution’’ in section 322 of the Higher Education 
+4
+Act of 1965 (20 U.S.C. 1061). 
+5
+(3) INSTITUTION OF HIGHER EDUCATION.—The 
+6
+term ‘‘institution of higher education’’ has the 
+7
+meaning given the term in section 101(a) of the 
+8
+Higher Education Act of 1965 (20 U.S.C. 1001(a)). 
+9
+(4) MINORITY
+SERVING
+INSTITUTION.—The 
+10
+term ‘‘minority serving institution’’ includes the en-
+11
+tities described in any of the paragraphs (1) through 
+12
+(7) of section 371(a) of the Higher Education Act 
+13
+of 1965 (20 U.S.C. 1067q(a)). 
+14
+(5) NATIONAL LABORATORY.—The term ‘‘Na-
+15
+tional Laboratory’’ has the meaning given the term 
+16
+in section 2 of the Energy Policy Act of 2005 (42 
+17
+U.S.C. 15801). 
+18
+(6) SECRETARY.—The term ‘‘Secretary’’ means 
+19
+the Secretary of Energy. 
+20
+(7) TRIBAL COLLEGE AND UNIVERSITY.—The 
+21
+term ‘‘Tribal College and University’’ has the mean-
+22
+ing given in section 316 of the Higher Education 
+23
+Act of 1965 (20 U.S.C. 1059c). 
+24
+17:00 Dec 21, 2021
+H6291
+3 
+•HR 6291 IH
+SEC. 3. FINDINGS. 
+1
+Congress finds that— 
+2
+(1) the coming end of Moore’s Law presents 
+3
+major technological challenges and opportunities for 
+4
+the United States and important implications for na-
+5
+tional security, economic competitiveness, and sci-
+6
+entific discovery; 
+7
+(2) future progress and innovation in microelec-
+8
+tronics, and maintaining a robust domestic micro-
+9
+electronics supply chain, will require an approach 
+10
+that advances relevant materials science, electronic 
+11
+and photonic device technologies, processing and 
+12
+packaging technologies, manufacturing technologies, 
+13
+circuit, chip, and system architecture, and software 
+14
+system and algorithm development in a co-design 
+15
+fashion; 
+16
+(3) the National Laboratories possess unique 
+17
+technical expertise and user facilities that are essen-
+18
+tial to overcoming foundational research challenges 
+19
+relevant to the topics described in paragraph (2), 
+20
+and translating and transferring research outcomes 
+21
+to industry; and 
+22
+(4) the assets described in paragraph (3) will 
+23
+enable the Department to drive advances in micro-
+24
+electronics that are essential to meeting future needs 
+25
+in areas critical to its mission as well as the future 
+26
+17:00 Dec 21, 2021
+H6291
+4 
+•HR 6291 IH
+competitiveness of the domestic microelectronics in-
+1
+dustry, 
+including 
+high-performance 
+computing, 
+2
+emerging data-centric computing approaches, and 
+3
+energy-efficient computing; optical sensors, sources, 
+4
+and wireless networks; and power electronics and 
+5
+electricity delivery systems. 
+6
+SEC. 4. MICROELECTRONICS RESEARCH PROGRAM. 
+7
+(a) IN GENERAL.—The Secretary shall carry out a 
+8
+cross-cutting program of research, development, and dem-
+9
+onstration of microelectronics relevant to the mission of 
+10
+the Department and in the service of the Nation’s global 
+11
+competitiveness in the field of microelectronics. 
+12
+(b) RESEARCH AREAS.—In carrying out the program 
+13
+under subsection (a), the Secretary shall award financial 
+14
+assistance to eligible entities under subsection (c) to carry 
+15
+out research projects in— 
+16
+(1) foundational science areas, including— 
+17
+(A) materials sciences, chemical sciences, 
+18
+and plasma science synthesis, and fabrication; 
+19
+(B) novel microelectronics devices, includ-
+20
+ing emerging memory and storage technologies; 
+21
+(C) diverse computing architectures and 
+22
+paradigms, including analog computing and 
+23
+edge computing; 
+24
+(D) data-driven modeling and simulation; 
+25
+03:38 Dec 22, 2021
+H6291
+5 
+•HR 6291 IH
+(E) integrated sensing, power harvesting, 
+1
+and communications; 
+2
+(F) component integration and subsystems; 
+3
+(G) photonic integration; and 
+4
+(H) development of co-design frameworks 
+5
+for all stages of microelectronics design, devel-
+6
+opment, fabrication, and application; 
+7
+(2) methods for leveraging advanced simulation, 
+8
+artificial intelligence, and machine learning to en-
+9
+hance co-design and discovery in microelectronics; 
+10
+(3) in consultation with the National Institute 
+11
+of Standards and Technology, fabrication and proc-
+12
+essing science and metrology associated with micro-
+13
+electronics manufacturing, including lithography, 
+14
+patterning, surface deposition, etching, and cleaning; 
+15
+(4) approaches for optimizing system-level ad-
+16
+vanced computing energy efficiency for the electrical 
+17
+grid, power electronics, and other energy infrastruc-
+18
+ture; 
+19
+(5) approaches for enhancing the durability and 
+20
+lifetime of radiation-hardened electronics; and 
+21
+(6) enhancement of microelectronics security, 
+22
+including the development of integrated devices, 
+23
+packages, and thermal management for severe envi-
+24
+ronments and national security. 
+25
+17:00 Dec 21, 2021
+H6291
+6 
+•HR 6291 IH
+(c) ELIGIBLE ENTITIES.—The entities eligible to re-
+1
+ceive financial assistance under this section include— 
+2
+(1) an institution of higher education, including 
+3
+historically Black colleges and universities, Tribal 
+4
+colleges and universities, and minority serving insti-
+5
+tutions; 
+6
+(2) a nonprofit research organization; 
+7
+(3) a State research agency; 
+8
+(4) a National Laboratory; 
+9
+(5) a private commercial entity; 
+10
+(6) a partnership or consortium of 2 or more 
+11
+entities described in paragraphs (1) through (5); and 
+12
+(7) any other entities the Secretary deems ap-
+13
+propriate. 
+14
+(d) TECHNOLOGY TRANSFER.—In carrying out the 
+15
+program described in subsection (a), the Secretary, in co-
+16
+ordination with the Director of the Office of Technology 
+17
+Transitions shall support translational research and trans-
+18
+fer of microelectronics technologies for the benefit of 
+19
+United States economic competitiveness. 
+20
+(e) EDUCATION AND OUTREACH.—In carrying out 
+21
+the program under subsection (a), the Secretary shall sup-
+22
+port education and outreach activities to disseminate in-
+23
+formation and promote public understanding of microelec-
+24
+tronics and the microelectronics workforce. 
+25
+17:00 Dec 21, 2021
+H6291
+7 
+•HR 6291 IH
+(f) REPORT.—Not less than 180 days after the enact-
+1
+ment of this Act, the Secretary shall submit to the Com-
+2
+mittee on Science, Space, and Technology of the House 
+3
+of Representatives, and the Committee on Energy and 
+4
+Natural Resources of the Senate, a report describing the 
+5
+goals, priorities, and anticipated outcomes of the program 
+6
+described in subsection (a). 
+7
+(g) FUNDING.—There are authorized to be appro-
+8
+priated to the Secretary to carry out the activities de-
+9
+scribed in this section— 
+10
+(1) $75,000,000 for fiscal year 2022; 
+11
+(2) $100,000,000 for fiscal year 2023; 
+12
+(3) $100,000,000 for fiscal year 2024; 
+13
+(4) $100,000,000 for fiscal year 2025; and 
+14
+(5) $100,000,000 for fiscal year 2026. 
+15
+SEC. 5. MICROELECTRONICS SCIENCE RESEARCH CEN-
+16
+TERS. 
+17
+(a) IN GENERAL.—In carrying out the program 
+18
+under section 4, the Secretary, acting through the Direc-
+19
+tor of the Office of Science, shall establish up to four 
+20
+Microelectronics Science Research Centers (referred to in 
+21
+this section as ‘‘Centers’’) to conduct mission-driven re-
+22
+search to address foundational challenges in the design, 
+23
+development, and fabrication of microelectronics and to fa-
+24
+cilitate the translation of research results to industry. 
+25
+03:38 Dec 22, 2021
+H6291
+8 
+•HR 6291 IH
+(b) ACTIVITIES.—The activities of the Centers au-
+1
+thorized under this section shall include research, develop-
+2
+ment, and demonstration activities for— 
+3
+(1) accelerating the development of new micro-
+4
+electronics science and technology, including mate-
+5
+rials, devices, circuits, systems, architectures, fab-
+6
+rication tools, processes, diagnostics, modeling, syn-
+7
+thesis, and metrology; 
+8
+(2) advancing the sustainability and energy effi-
+9
+ciency of new microelectronics devices, packages, and 
+10
+systems; 
+11
+(3) application-driven co-design and prototyping 
+12
+of novel devices to facilitate laboratory-to-fabrication 
+13
+transition; 
+14
+(4) advancing knowledge and experimental ca-
+15
+pabilities in surface and materials science, plasma 
+16
+science, and computational and theoretical methods, 
+17
+including artificial intelligence, machine learning, 
+18
+multi-scale co-design, and advanced supercomputing 
+19
+capabilities to invent and manufacture revolutionary 
+20
+microelectronic devices; 
+21
+(5) creating technology testbeds for prototyping 
+22
+platforms for validation and verification of new ca-
+23
+pabilities and sharing of ideas, intellectual property, 
+24
+and the unique facilities of the Department; and 
+25
+17:00 Dec 21, 2021
+H6291
+9 
+•HR 6291 IH
+(6) supporting long-term and short-term work-
+1
+force development in microelectronics. 
+2
+(c) REQUIREMENTS.— 
+3
+(1) SELECTION AND DURATION.—The Director 
+4
+of the Office of Science shall select Centers on a 
+5
+competitive, merit-reviewed basis for a period of not 
+6
+more than 5 years, subject to the availability of ap-
+7
+propriations, beginning on the date of establishment 
+8
+of that Center. 
+9
+(2) APPLICATIONS.—An eligible applicant under 
+10
+this subsection shall submit to the Director of the 
+11
+Office of Science an application at such time, in 
+12
+such manner, and containing such information as 
+13
+the Director deems appropriate. 
+14
+(3) ELIGIBLE
+APPLICANTS.—The Director of 
+15
+the Office of Science shall consider applications from 
+16
+National Laboratories, institutions of higher edu-
+17
+cation, research centers, or a consortia thereof, or 
+18
+any other entity that the Secretary of Energy deems 
+19
+appropriate. 
+20
+(4) RENEWAL.—After the end of either period 
+21
+described in paragraph (1), the Director of the Of-
+22
+fice of Science may renew support for the Center for 
+23
+a period of not more than 5 years on a merit-re-
+24
+viewed basis. For a Center in operation for 10 years 
+25
+17:00 Dec 21, 2021
+H6291
+10 
+•HR 6291 IH
+after its previous selection on a competitive, merit- 
+1
+reviewed basis, the Director may renew support for 
+2
+the center on a competitive, merit-reviewed basis for 
+3
+a period of not more than 5 years, and may subse-
+4
+quently provide an additional renewal on a merit-re-
+5
+viewed basis for a period of not more than 5 years. 
+6
+(5) TERMINATION.—Consistent with the exist-
+7
+ing authorities of the Department, the Director of 
+8
+the Office of Science may terminate an underper-
+9
+forming center for cause during the performance pe-
+10
+riod. 
+11
+(d) TECHNOLOGY TRANSFER.—The Director of the 
+12
+Office of Science, in coordination with the Director of the 
+13
+Office of Technology Transitions, shall implement part-
+14
+nerships with industry groups for the purpose of facili-
+15
+tating the translation and transfer of research results pro-
+16
+duced by the Centers. 
+17
+(e) COORDINATION.—The Secretary shall— 
+18
+(1) establish a coordinating network to coordi-
+19
+nate cross-cutting research and foster communica-
+20
+tion and collaboration among the Centers; and 
+21
+(2) ensure the coordination, and avoid unneces-
+22
+sary duplication, of the activities of each Center with 
+23
+the activities of— 
+24
+17:00 Dec 21, 2021
+H6291
+11 
+•HR 6291 IH
+(A) other research entities of the Depart-
+1
+ment, including— 
+2
+(i) the Nanoscale Science Research 
+3
+Centers; 
+4
+(ii) the National Quantum Informa-
+5
+tion Science Research Centers; 
+6
+(iii) the Energy Frontier Research 
+7
+Centers; 
+8
+(iv) the Energy Innovation Hubs; and 
+9
+(v) the National Laboratories; 
+10
+(B) the National Semiconductor Tech-
+11
+nology Center authorized in title XCIX of divi-
+12
+sion H of the William M. (Mac) Thornberry 
+13
+National Defense Authorization Act for Fiscal 
+14
+Year 2021 (Public Law 116–283); 
+15
+(C) institutions of higher education; 
+16
+(D) industry; and 
+17
+(E) research activities carried out by other 
+18
+Federal agencies. 
+19
+(f) FUNDING.—The Secretary of Energy shall allo-
+20
+cate up to $25,000,000 for each Center established under 
+21
+this section for each of fiscal years 2022 through 2026, 
+22
+subject to the availability of appropriations. 
+23
+Æ 
+17:00 Dec 21, 2021
+H6291

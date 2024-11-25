@@ -1,0 +1,265 @@
+A BILL 
+To provide for a pilot project for a nationwide network 
+of secure computing enclaves for federally funded re-
+search in universities, and other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Securing American Re-
+4
+search From Cyber Theft Act’’. 
+5
+20:29 Jul 10, 2019
+H3611
+2 
+•HR 3611 IH
+SEC. 2. PURPOSE. 
+1
+The purposes of this Act are to help institutions of 
+2
+higher education protect federally funded research from 
+3
+cyber theft and interference by— 
+4
+(1) directing the Networking and Information 
+5
+Technology Research and Development Program to 
+6
+provide for support and guidance on improving the 
+7
+security of academic computing and networking sys-
+8
+tems that process, store, and transmit federally 
+9
+funded research; and 
+10
+(2) establishing a pilot program to support re-
+11
+gional secure computing enclaves for academia to 
+12
+provide researchers with secure data storage and 
+13
+adequately protect Federal Government data. 
+14
+SEC. 3. NETWORKING AND INFORMATION TECHNOLOGY 
+15
+RESEARCH AND DEVELOPMENT UPDATE. 
+16
+Section 101 of the High-Performance Computing Act 
+17
+of 1991 (15 U.S.C. 5511) is amended— 
+18
+(1) by inserting after subparagraph (I) the fol-
+19
+lowing: 
+20
+‘‘(J) provide for improving the security, re-
+21
+liability, and resiliency of computing and net-
+22
+working systems used by institutions of higher 
+23
+education and other nonprofit research institu-
+24
+tions for the processing, storage and trans-
+25
+23:49 Jul 11, 2019
+H3611
+3 
+•HR 3611 IH
+mission of sensitive federally funded research 
+1
+and associated data;’’; and 
+2
+(2) by redesignating subparagraphs (J) through 
+3
+(O) as subparagraphs (K) through (P), respectively. 
+4
+SEC. 4. COMPUTING ENCLAVE PILOT PROGRAM. 
+5
+(a) IN GENERAL.—The Secretary of Defense, in co-
+6
+ordination with the Director of the National Institute of 
+7
+Standards and Technology, the Director of the National 
+8
+Science Foundation, and the Secretary of Energy, shall 
+9
+establish a pilot program to ensure the security of feder-
+10
+ally supported research data and to assist regional institu-
+11
+tions of higher education and their researchers in compli-
+12
+ance with regulations regarding the safeguarding of sen-
+13
+sitive information and other relevant regulations and Fed-
+14
+eral guidelines. 
+15
+(b) STRUCTURE.—In carrying out the pilot program 
+16
+established pursuant to subsection (a), the Secretary shall 
+17
+select three institutions of higher education from among 
+18
+institutions classified under the Indiana University Center 
+19
+for Postsecondary Research Carnegie Classification as a 
+20
+doctorate-granting university with a very high level of re-
+21
+search activity, and with a history of working with secure 
+22
+information for the development, installation, mainte-
+23
+nance, or sustainment of secure computing enclaves. 
+24
+(c) REGIONALIZATION.— 
+25
+20:29 Jul 10, 2019
+H3611
+4 
+•HR 3611 IH
+(1) In selecting universities pursuant to sub-
+1
+section (b), the Secretary of Defense shall give pref-
+2
+erence to institutions of higher education with the 
+3
+capability of serving other regional universities. 
+4
+(2) The enclaves should be geographically dis-
+5
+persed to better meet the needs of regional interests. 
+6
+(d) PROGRAM ELEMENTS.—The Department of De-
+7
+fense shall work with Institutions of Higher Education se-
+8
+lected pursuant to subsection (b) to— 
+9
+(1) develop an approved design blueprint for 
+10
+compliance with Federal data protection protocols; 
+11
+(2) develop a comprehensive and confidential 
+12
+list, or a bill of materials, of each binary component 
+13
+of the software, firmware, or product that is re-
+14
+quired to deploy additional secure computing en-
+15
+claves; 
+16
+(3) develop templates for all policies and proce-
+17
+dures required to operate the secure computing en-
+18
+clave in a research setting; 
+19
+(4) develop a system security plan template; 
+20
+and 
+21
+(5) develop a process for managing a plan of 
+22
+action and milestones for the secure computing en-
+23
+clave. 
+24
+20:29 Jul 10, 2019
+H3611
+5 
+•HR 3611 IH
+(e) DURATION.—The pilot program established pur-
+1
+suant to subsection (a) shall operate for not less than 3 
+2
+years. 
+3
+(f) REPORT.— 
+4
+(1) IN GENERAL.—The Secretary shall report 
+5
+to the Committee on Armed Services of the House, 
+6
+the Committee on Armed Services of the Senate, the 
+7
+Committee on Science, Space, and Technology of the 
+8
+House, and the Committee on Commerce, Science, 
+9
+and Transportation of the Senate not later than 6 
+10
+months after the completion of the pilot program 
+11
+under subsection (a). 
+12
+(2) CONTENTS.—The report required under 
+13
+subsection (f)(1) shall include— 
+14
+(A) an assessment of the pilot program 
+15
+under subsection (a), including an assessment 
+16
+of the security benefits provided by such secure 
+17
+computing enclaves; 
+18
+(B) recommendations related to the valued 
+19
+of expanding the network of secure computing 
+20
+enclaves; and 
+21
+(C) recommendations on the efficacy of the 
+22
+use of secure computing enclaves by other Fed-
+23
+eral agencies in a broader effort to expand se-
+24
+curity of Federal research. 
+25
+20:29 Jul 10, 2019
+H3611
+6 
+•HR 3611 IH
+(g) AUTHORIZATION OF APPROPRIATIONS.—There is 
+1
+authorized 
+to 
+be 
+appropriated 
+to 
+the 
+Secretary, 
+2
+$38,000,000 for fiscal years 2020 through 2022, to carry 
+3
+out the activities outlined in this section. 
+4
+SEC. 5. DEFINITIONS. 
+5
+In this Act: 
+6
+(1) INSTITUTION OF HIGHER EDUCATION.—The 
+7
+term ‘‘institution of higher education’’ has the 
+8
+meaning given such term in section 101 of the High-
+9
+er Education Act of 1965 (20 U.S.C. 1001). 
+10
+(2) SECRETARY.—The term ‘‘Secretary’’ means 
+11
+the Secretary of Defense. 
+12
+Æ 
+20:29 Jul 10, 2019
+H3611

@@ -1,0 +1,1532 @@
+A BILL 
+To require the Federal Trade Commission to promulgate 
+regulations related to sensitive personal information, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Information Trans-
+4
+parency & Personal Data Control Act’’. 
+5
+SEC. 2. SENSE OF CONGRESS. 
+6
+It is the Sense of Congress that— 
+7
+21:30 May 17, 2021
+H1816
+2 
+HR 1816 IH1S 
+(1) the United States must develop a balanced, 
+1
+high-standard digital privacy framework that com-
+2
+plements global standards; 
+3
+(2) a key element of this framework is a strong 
+4
+national standard that combats anti-consumer prac-
+5
+tices; 
+6
+(3) it is critical that the Federal Government 
+7
+provide guidance on the collection, processing, disclo-
+8
+sure, transmission and storage of sensitive data; 
+9
+(4) it is important to provide the Nation with 
+10
+fair and thoughtful digital consumer rights with re-
+11
+spect to such data; 
+12
+(5) it is important to ensure that enforcement 
+13
+authorities have the resources needed to protect con-
+14
+sumers from unlawful and deceptive acts of practices 
+15
+in the data privacy and security space; and 
+16
+(6) individuals have a right to— 
+17
+(A) exercise control over the personal data 
+18
+companies collect from them and how they use 
+19
+it; 
+20
+(B) easily understandable and accessible 
+21
+information about privacy and security prac-
+22
+tices; 
+23
+(C) expect that companies will collect, use, 
+24
+and disclose personal data in ways that are con-
+25
+21:30 May 17, 2021
+H1816
+3 
+HR 1816 IH1S 
+sistent with the context in which consumers 
+1
+provide the data; 
+2
+(D) secure and responsible handling of 
+3
+sensitive personal information; 
+4
+(E) access and correct persona data in us-
+5
+able formats, in a manner that is appropriate to 
+6
+the sensitivity of the data and the risk of ad-
+7
+verse consequences to consumers if the data is 
+8
+inaccurate; and 
+9
+(F) reasonable limits on the personal data 
+10
+that companies collect and retain. 
+11
+SEC. 3. REQUIREMENTS FOR SENSITIVE PERSONAL INFOR-
+12
+MATION. 
+13
+(a) REGULATIONS.—Not later than 18 months after 
+14
+the date of enactment of this Act, the Federal Trade Com-
+15
+mission shall promulgate regulations under section 553 of 
+16
+title 5, United States Code, to require, except as provided 
+17
+in subsection (b), controllers, processors, and third parties 
+18
+to make available to the public involving the collection, 
+19
+transmission, storage, processing, sale, sharing of sensitive 
+20
+personal information, or other use of sensitive personal in-
+21
+formation from persons operating in or persons located in 
+22
+the United States when the sensitive personal information 
+23
+is collected, transmitted, stored, processed, sold or shared 
+24
+to meet the following requirements: 
+25
+21:30 May 17, 2021
+H1816
+4 
+HR 1816 IH1S 
+(1) AFFIRMATIVE, EXPRESS, AND OPT-IN CON-
+1
+SENT.— 
+2
+(A) Any controller shall provide users 
+3
+whose personal information is collected, trans-
+4
+mitted, stored, process, sold, or otherwise 
+5
+shared with notice through a privacy and data 
+6
+use policy of a specific request to collect, trans-
+7
+mit, sell, share or otherwise disclose their sen-
+8
+sitive personal information and require that 
+9
+users provide affirmative, express consent to 
+10
+any functionality that involves the sale, sharing, 
+11
+or other disclosure of sensitive personal infor-
+12
+mation, including sharing sensitive personal in-
+13
+formation with third parties, if the sensitive 
+14
+personal information is to be used by the third 
+15
+party for purposes other than the purposes out-
+16
+lined in the notice. 
+17
+(B) The documented instruction from a 
+18
+controller to a processor or third party shall ad-
+19
+here to the limits of the consent granted in sub-
+20
+paragraph (A), and processors and third parties 
+21
+shall not use or disclose the sensitive personal 
+22
+information for any other purposes or in any 
+23
+way that exceeds the limits of the consent 
+24
+granted in subparagraph (A). 
+25
+21:30 May 17, 2021
+H1816
+5 
+HR 1816 IH1S 
+(C) Controllers and processors shall not be 
+1
+liable for the failure of another processor or 
+2
+third party to adhere to the limits of an opt-in 
+3
+consent granted under subparagraph (A). 
+4
+(2) PRIVACY AND DATA USE POLICY.—Control-
+5
+lers, processors, and third parties shall publicly 
+6
+maintain an up-to-date, transparent privacy, secu-
+7
+rity, and data use policy that meets general require-
+8
+ments, including that such policy, presented in the 
+9
+context where it applies— 
+10
+(A) is concise, intelligible, and uses plain 
+11
+language; 
+12
+(B) is clear and conspicuous consistent 
+13
+with the guidelines of the Federal Trade Com-
+14
+mission; 
+15
+(C) uses visualizations, where appropriate 
+16
+to make complex information understandable by 
+17
+the ordinary user; and 
+18
+(D) is provided free of charge. 
+19
+(3) ADDITIONAL REQUIREMENTS FOR PRIVACY 
+20
+AND DATA USE POLICY.—The privacy, security, and 
+21
+data use policy required under paragraph (2) shall 
+22
+include the following: 
+23
+21:30 May 17, 2021
+H1816
+6 
+HR 1816 IH1S 
+(A) Identity and contact information of the 
+1
+entity collecting or processing the sensitive per-
+2
+sonal information. 
+3
+(B) The purpose or use for collecting, stor-
+4
+ing, processing, selling, sharing, or otherwise 
+5
+using the sensitive personal information. 
+6
+(C) Categories of third parties with whom 
+7
+the sensitive personal information will be shared 
+8
+and for what general purposes. 
+9
+(D) The process by which individuals may 
+10
+withdraw consent to the collecting, storing, 
+11
+processing, selling, sharing, or other use of the 
+12
+sensitive personal information, including shar-
+13
+ing with third parties. 
+14
+(E) How a user, controller, or processor 
+15
+can view or obtain the sensitive personal infor-
+16
+mation that they have received or provided to a 
+17
+controller or processor, including whether it can 
+18
+be exported to other web-based platforms. 
+19
+(F) The categories of sensitive personal in-
+20
+formation that is collected by the controller or 
+21
+processor and shared with processors or third 
+22
+parties. 
+23
+21:30 May 17, 2021
+H1816
+7 
+HR 1816 IH1S 
+(G) How sensitive personal information is 
+1
+protected from unauthorized access or acquisi-
+2
+tion. 
+3
+(4) OPT-OUT CONSENT.— 
+4
+(A) For any collection, transmission, stor-
+5
+age, processing, selling, sharing, or other use of 
+6
+non-sensitive personal information, including 
+7
+sharing with third parties, controllers shall pro-
+8
+vide users with the ability to opt out at any 
+9
+time. 
+10
+(B) Controllers shall honor an opt out re-
+11
+quest from a user under subparagraph (A) to 
+12
+the extent of its role in any collection, trans-
+13
+mission, storage, processing, selling, sharing, or 
+14
+other use of non-sensitive personal information 
+15
+and shall communicate an opt-out request to 
+16
+the relevant processor or third party with which 
+17
+the controller has shared information regarding 
+18
+that user. 
+19
+(C) Processors or third parties receiving an 
+20
+opt out pursuant to subparagraph (A) and (B) 
+21
+shall comply with such opt out to the extent of 
+22
+their role in any collection, transmission, stor-
+23
+age, processing, selling, sharing, or other use of 
+24
+non-sensitive personal information. 
+25
+21:30 May 17, 2021
+H1816
+8 
+HR 1816 IH1S 
+(D) Any controller that communicates an 
+1
+opt out from a user as required by subpara-
+2
+graph (B) shall not be liable for the failure of 
+3
+a service provider or third party to comply with 
+4
+such opt out. 
+5
+(5) RELATIONSHIP
+BETWEEN
+CONTROLLER 
+6
+AND PROCESSOR.— 
+7
+(A) Processing by a processor must be gov-
+8
+erned by a contract between the controller and 
+9
+the processor that is binding on both parties 
+10
+and that sets the processor to processes the 
+11
+personal data only on documented instructions 
+12
+from the controller. 
+13
+(B) Processors shall share sensitive per-
+14
+sonal information with a subcontractor only for 
+15
+purposes of providing services and only after 
+16
+first providing the controller with an oppor-
+17
+tunity to object. 
+18
+(C) In no event may any contract or docu-
+19
+mented instructions relieve a controller or a 
+20
+processor from the obligations and liabilities im-
+21
+posed on them by this Act. 
+22
+(6) PRIVACY AUDITS.— 
+23
+(A) IN GENERAL.—Except as provided in 
+24
+subparagraphs (C) and (D), at least once every 
+25
+21:30 May 17, 2021
+H1816
+9 
+HR 1816 IH1S 
+2 years, each controller, processor, or third 
+1
+party that has collected, transmitted, stored, 
+2
+processed, selling, shared, or otherwise used 
+3
+sensitive personal information shall— 
+4
+(i) obtain a privacy audit from a 
+5
+qualified, objective, independent third- 
+6
+party; and 
+7
+(ii) shall make publicly available 
+8
+whether or not the privacy audit found the 
+9
+controller, processor, or third party compli-
+10
+ant. 
+11
+(B) AUDIT
+REQUIREMENTS.—Each such 
+12
+audit shall— 
+13
+(i) set forth the privacy, security, and 
+14
+data use controls that the controller, proc-
+15
+essor, or third party has implemented and 
+16
+maintained during the reporting period; 
+17
+(ii) describe whether such controls are 
+18
+appropriate to the size and complexity of 
+19
+the controller, processor, or third party, 
+20
+the nature and scope of the activities of 
+21
+the controller, processor, or third party, 
+22
+and the nature of the sensitive personal in-
+23
+formation or behavioral data collected by 
+24
+the controller, processor, or third party; 
+25
+21:30 May 17, 2021
+H1816
+10 
+HR 1816 IH1S 
+(iii) certify whether the privacy and 
+1
+security controls operate with sufficient ef-
+2
+fectiveness to provide reasonable assurance 
+3
+to protect the privacy and security of sen-
+4
+sitive personal information or behavioral 
+5
+data, including with respect to data shared 
+6
+with third parties, and that the controls 
+7
+have so operated throughout the reporting 
+8
+period; 
+9
+(iv) be prepared and completed within 
+10
+60 days after a substantial change to the 
+11
+controller’s privacy and data use policy de-
+12
+scribed in paragraph (2); and 
+13
+(v) be provided— 
+14
+(I) to the Federal Trade Com-
+15
+mission; and 
+16
+(II) to any attorney general of a 
+17
+State, or other authorized State offi-
+18
+cer, within 10 days of receiving writ-
+19
+ten request by the such attorney gen-
+20
+eral, or other authorized State officer 
+21
+where such officer has presented to 
+22
+the controller, processor, or third 
+23
+party allegations that a violation of 
+24
+this Act or any regulation issued 
+25
+21:30 May 17, 2021
+H1816
+11 
+HR 1816 IH1S 
+under this Act has been committed by 
+1
+the controller, processor, or third 
+2
+party. 
+3
+(C) SMALL
+BUSINESS
+AUDIT
+EXEMP-
+4
+TION.—The audit requirements described in 
+5
+this paragraph shall not apply to controllers 
+6
+who collect, store, process, sell, share, or other-
+7
+wise use sensitive personal information relating 
+8
+to 250,000 or fewer individuals per year. 
+9
+(D) NON-SENSITIVE PERSONAL INFORMA-
+10
+TION EXEMPTION.—The audit requirements set 
+11
+forth above shall not apply to controllers, proc-
+12
+essors or third parties who do not collect, store, 
+13
+process, sell, share, or otherwise use sensitive 
+14
+personal information. 
+15
+(E) RULES
+THAT
+DO
+NOT
+INCENTIVIZE 
+16
+SELLING INFORMATION.—The Commission shall 
+17
+promulgate rules regarding qualifications and 
+18
+requirements of third-party auditors such as a 
+19
+duty to conduct an independent assessment that 
+20
+does not incentivize the auditor to sell under 
+21
+the guise of a potential violation by the con-
+22
+troller products or services when there is not a 
+23
+violation of the Act. 
+24
+(b) EXEMPTIONS.— 
+25
+21:30 May 17, 2021
+H1816
+12 
+HR 1816 IH1S 
+(1) NECESSARY
+OPERATIONS
+AND
+SECURITY 
+1
+PURPOSES.—Subsection (a) shall not apply to the 
+2
+processing, transmission, collecting, storing, sharing, 
+3
+selling of sensitive and non-sensitive personal infor-
+4
+mation for the following purposes: 
+5
+(A) Preventing or detecting fraud, identity 
+6
+theft, unauthorized transactions, theft, shop-
+7
+lifting, or criminal activity including financial 
+8
+crimes and money laundering. 
+9
+(B) The use of such information to identify 
+10
+errors that impair functionality or otherwise en-
+11
+hancing or maintaining the availability of the 
+12
+services or information systems of the controller 
+13
+for authorized access and use. 
+14
+(C) Protecting the vital interests of the 
+15
+consumer or another natural person. 
+16
+(D) Responding in good faith to valid legal 
+17
+process or providing information as otherwise 
+18
+required or authorized by law. 
+19
+(E) Monitoring or enforcing agreements 
+20
+between the Controller, processor, or third 
+21
+party and an individual, including but not lim-
+22
+ited to, terms of service, terms of use, user 
+23
+agreements, or agreements concerning moni-
+24
+toring criminal activity. 
+25
+21:30 May 17, 2021
+H1816
+13 
+HR 1816 IH1S 
+(F) Protecting the property, services, or 
+1
+information systems of the controller, processor, 
+2
+or third party against unauthorized access or 
+3
+use. 
+4
+(G) Advancing a substantial public inter-
+5
+est, including archival purposes, scientific or 
+6
+historical research, and public health, if such 
+7
+processing does not create a significant risk of 
+8
+harm to consumers. 
+9
+(H) Uses authorized by the Fair Credit 
+10
+Reporting Act or used by a commercial credit 
+11
+reporting agency. 
+12
+(I) Completing the transaction for which 
+13
+the personal information was collected, provide 
+14
+a good or service requested by the consumer 
+15
+that is reasonably anticipated within the con-
+16
+text of a business’ ongoing relationship with the 
+17
+consumer, bill or collect for such good or service 
+18
+or otherwise perform a contract between the 
+19
+controller and a consumer. 
+20
+(J) Complying with other Federal, State, 
+21
+and local law. 
+22
+(K) Conducting product recalls and serv-
+23
+icing warranties. 
+24
+21:30 May 17, 2021
+H1816
+14 
+HR 1816 IH1S 
+(2) REASONABLE EXPECTATION OF USERS.— 
+1
+The regulations promulgated pursuant to subsection 
+2
+(a) with respect to the requirement to provide opt- 
+3
+in consent shall not apply to the processing, trans-
+4
+mission, storage, selling, sharing, or collection of 
+5
+sensitive personal information in which such proc-
+6
+essing does not deviate from purposes consistent 
+7
+with a controller’s relationship with users as under-
+8
+stood by the reasonable use, including but not lim-
+9
+ited to— 
+10
+(A) carrying out the term of a contract or 
+11
+service agreement, including elements of a cus-
+12
+tomer loyalty program, with a user; 
+13
+(B) accepting and processing a payment 
+14
+from a user; 
+15
+(C) completing a transaction with a user 
+16
+such as through delivering a good or service 
+17
+even if such delivery is made by a processor or 
+18
+third party; 
+19
+(D) marking goods or services to a user as 
+20
+long as the user is provided with the ability to 
+21
+opt out of such marketing; 
+22
+(E) taking steps to continue or extend an 
+23
+existing business relationship with a user, or in-
+24
+viting a new user to participate in a customer 
+25
+21:30 May 17, 2021
+H1816
+15 
+HR 1816 IH1S 
+promotion, benefit or loyalty program, as long 
+1
+as the user is provided with the ability to opt 
+2
+out; 
+3
+(F) conduct internal research to improve, 
+4
+repair, or develop products, services, or tech-
+5
+nology; or 
+6
+(G) municipal governments. 
+7
+SEC. 4. APPLICATION AND ENFORCEMENT BY THE FED-
+8
+ERAL TRADE COMMISSION. 
+9
+(a) COMMON CARRIERS.—Notwithstanding the limi-
+10
+tations in the Federal Trade Commission Act (15 U.S.C. 
+11
+41 et seq.) on Commission authority with respect to com-
+12
+mon carriers, this Act applies, according to its terms, to 
+13
+common carriers subject to the Communications Act of 
+14
+(47 U.S.C. 151 et seq.) and all Acts amendatory thereof 
+15
+and supplementary thereto. The Federal Trade Commis-
+16
+sion shall be the only Federal agency with authority to 
+17
+enforce such common carriers’ privacy practices. 
+18
+(b) ENFORCEMENT.— 
+19
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+20
+TICES.—A violation of this Act or a regulation pro-
+21
+mulgated under this Act shall be treated as a viola-
+22
+tion section 18(a)(1)(B) of the Federal Trade Com-
+23
+mission Act (15 U.S.C. 57(a)(1)(B)) regarding un-
+24
+fair or deceptive acts or practices. 
+25
+21:30 May 17, 2021
+H1816
+16 
+HR 1816 IH1S 
+(2) POWERS OF COMMISSION.—Except as pro-
+1
+vided in subsection (a), the Federal Trade Commis-
+2
+sion shall enforce this Act and the regulations pro-
+3
+mulgated under this Act in the same manner, by the 
+4
+same means, and with the same jurisdiction, powers, 
+5
+and duties as though all applicable terms and provi-
+6
+sions of the Federal Trade Commission Act (15 
+7
+U.S.C. 41 et seq.) were incorporated into and made 
+8
+a part of this Act. Any person who violates this Act 
+9
+or a regulation promulgated under this Act shall be 
+10
+subject to the penalties and entitled to the privileges 
+11
+and immunities provided in the Federal Trade Com-
+12
+mission Act. 
+13
+(c) CONSTRUCTION.—Nothing in this Act shall be 
+14
+construed to limit the authority of the Federal Trade 
+15
+Commission under any other provision of law. 
+16
+(d) OPPORTUNITY
+TO COMPLY.—The Commission 
+17
+shall notify a controller of alleged violations and provide 
+18
+them with 30 days to cure a non-wilful violations of this 
+19
+Act before the Commission shall commence and enforce-
+20
+ment action. 
+21
+SEC. 5. ENFORCEMENT BY STATE ATTORNEYS GENERAL. 
+22
+(a) RIGHT OF ACTION.—Except as provided in sub-
+23
+section (e), the attorney general of a State, alleging a vio-
+24
+lation of this Act or any regulation issued under this Act 
+25
+21:30 May 17, 2021
+H1816
+17 
+HR 1816 IH1S 
+that affects or may affect such State or its residents may 
+1
+bring an action on behalf of the residents of the State in 
+2
+any United States district court for the district in which 
+3
+the defendant is found, resides, or transacts business, or 
+4
+wherever venue is proper under section 1391 of title 28, 
+5
+United States Code, to obtain appropriate injunctive relief. 
+6
+(b) NOTICE TO COMMISSION REQUIRED.—A State 
+7
+shall provide prior written notice to the Federal Trade 
+8
+Commission of any civil action under subsection (a) to-
+9
+gether with a copy of its complaint, except that if it is 
+10
+not feasible for the State to provide such prior notice, the 
+11
+State shall provide such notice immediately upon insti-
+12
+tuting such action. 
+13
+(c) INTERVENTION BY THE COMMISSION.—The Com-
+14
+mission may intervene in such civil action and upon inter-
+15
+vening— 
+16
+(1) be heard on all matters arising in such civil 
+17
+action; and 
+18
+(2) file petitions for appeal of a decision in such 
+19
+civil action. 
+20
+(d) CONSTRUCTION.—Nothing in this section shall be 
+21
+construed— 
+22
+(1) to prevent the attorney general of a State, 
+23
+or other authorized State officer, from exercising the 
+24
+powers conferred on the attorney general, or other 
+25
+21:30 May 17, 2021
+H1816
+18 
+HR 1816 IH1S 
+authorized State officer, by the laws of such State; 
+1
+or 
+2
+(2) to prohibit the attorney general of a State, 
+3
+or other authorized State officer, from proceeding in 
+4
+State or Federal court on the basis of an alleged vio-
+5
+lation of any civil or criminal statute of that State. 
+6
+(e) LIMITATION.— 
+7
+(1) NO SEPARATE ACTION.—An action may not 
+8
+be brought under subsection (a) if the same alleged 
+9
+violation is the subject of a pending action by the 
+10
+Commission or the United States. 
+11
+(2) EXCLUSIVE
+PERIOD
+TO
+ACT
+BY
+COMMIS-
+12
+SION.—An action— 
+13
+(A) may not be brought under subsection 
+14
+(a) until the expiration of the 60-day period 
+15
+that begins on the date on which a violation is 
+16
+discovered by the Commission or the date on 
+17
+which the Commission is notified of the viola-
+18
+tion; and 
+19
+(B) may only be brought under subsection 
+20
+(a) if the Commission does not bring an action 
+21
+related to the violation during such period. 
+22
+(f) OPPORTUNITY TO COMPLY.—Prior to bringing 
+23
+any action under this section, the state attorney general 
+24
+shall notify a controller of alleged violations and provide 
+25
+21:30 May 17, 2021
+H1816
+19 
+HR 1816 IH1S 
+them with 30 days to cure a non-wilful violations of this 
+1
+Act before commencing an enforcement action. 
+2
+SEC. 6. PRIVACY AND DATA SECURITY EMPLOYEES AND 
+3
+FUNDING FOR THE COMMISSION. 
+4
+(a) EMPLOYMENT AUTHORITY.—The Commission 
+5
+shall hire 500 new full-time employees to focus on privacy 
+6
+and data security, 50 of which shall have technology exper-
+7
+tise. 
+8
+(b) ADDITIONAL FUNDING FOR PRIVACY AND DATA 
+9
+SECURITY.—There is authorized to be appropriated to the 
+10
+Commission $350,000,000 for issues related to privacy 
+11
+and data security. 
+12
+SEC. 7. DEFINITIONS. 
+13
+In this Act the following definitions apply: 
+14
+(1) CALL DETAIL RECORD.—The term ‘‘call de-
+15
+tail record’’— 
+16
+(A) means session-identifying information 
+17
+(including an originating or terminating tele-
+18
+phone number, an International Mobile Sub-
+19
+scriber Identity number, or an International 
+20
+Mobile Station Equipment Identity number), a 
+21
+telephone calling card number, or the time or 
+22
+duration of a call; 
+23
+(B) does not include— 
+24
+21:30 May 17, 2021
+H1816
+20 
+HR 1816 IH1S 
+(i) the contents (as defined in section 
+1
+(8) of title 18, United States Code) of any 
+2
+communication; 
+3
+(ii) the name, address, or financial in-
+4
+formation of a subscriber or customer; 
+5
+(iii) cell site location or global posi-
+6
+tioning system information; or 
+7
+(iv) business customers. 
+8
+(2) CLEAR AND PROMINENT.—The term ‘‘clear 
+9
+and prominent’’ means in any communication me-
+10
+dium, the required disclosure is— 
+11
+(A) of a type, size, and location sufficiently 
+12
+noticeable for an ordinary consumer to read 
+13
+and comprehend the communication; 
+14
+(B) provided in a manner such that an or-
+15
+dinary consumer is able to read and com-
+16
+prehend the communication; 
+17
+(C) is presented in an understandable lan-
+18
+guage and syntax; 
+19
+(D) includes nothing contrary to, incon-
+20
+sistent with, or that mitigates any statement 
+21
+contained within the disclosure or within any 
+22
+document linked to or referenced therein; and 
+23
+(E) includes an option that is compliant 
+24
+with applicable obligations of the controller 
+25
+21:30 May 17, 2021
+H1816
+21 
+HR 1816 IH1S 
+under title III of the Americans with Disabil-
+1
+ities Act of 1990 (42 U.S.C. 12181 et seq.). 
+2
+(3) 
+COLLECTION.—The 
+term 
+‘‘collection’’ 
+3
+means buying, renting, gathering, obtaining, receiv-
+4
+ing, or accessing any sensitive data of an individual 
+5
+by any means. 
+6
+(4) COMMISSION.—The term ‘‘Commission’’ 
+7
+means the Federal Trade Commission. 
+8
+(5) 
+CONTROLLER.—The 
+term 
+‘‘controller’’ 
+9
+means a person that, on its own or jointly with other 
+10
+entities, determines the purposes and means of proc-
+11
+essing sensitive personal information. 
+12
+(6) DE-IDENTIFIED DATA.—The term ‘‘de-iden-
+13
+tified data’’ means information held that— 
+14
+(A) does not identify, and is not linked or 
+15
+reasonably linkable to, and individual or device; 
+16
+(B) does not contain a persistent identifier 
+17
+or other information that could readily be used 
+18
+to de-identify the individual to whom, or the de-
+19
+vice to which, the identifier or information per-
+20
+tains; 
+21
+(C) is subject to a public commitment by 
+22
+the entity; 
+23
+(D) to refrain from attempting to use such 
+24
+information to identify any individual or device; 
+25
+21:30 May 17, 2021
+H1816
+22 
+HR 1816 IH1S 
+(E) to adopt technical and organizational 
+1
+measures to ensure that such information is not 
+2
+linked to any individual or device; and 
+3
+(F) is not disclosed by the covered entity 
+4
+to any other party unless the disclosure is sub-
+5
+ject to a contractually or other legally binding 
+6
+requirement. 
+7
+(7) EMPLOYEE
+DATA.—The term ‘‘employee 
+8
+data’’ means— 
+9
+(A) information relating to an individual 
+10
+collected in the course of the individual acting 
+11
+as a job applicant to, or employee (regardless of 
+12
+whether such employee is paid of unpaid, or 
+13
+employed on a temporary basis), owner, direc-
+14
+tor, officer, staff member, trainee, vendor, vis-
+15
+itor, volunteer, intern, or contractor; 
+16
+(B) business contact information of an in-
+17
+dividual, including the individual’s name, posi-
+18
+tion or title, business telephone number, busi-
+19
+ness address, business email address, qualifica-
+20
+tions, and other similar information that is pro-
+21
+vided by an individual who is acting in a profes-
+22
+sional capacity, provided that such information 
+23
+is collected, processed, or transferred solely for 
+24
+21:30 May 17, 2021
+H1816
+23 
+HR 1816 IH1S 
+purposes related to such individuals’ profes-
+1
+sional activities; or 
+2
+(C) emergency contact information col-
+3
+lected by a covered entity that relates to an in-
+4
+dividual who is acting in a role described in 
+5
+subparagraph (A). 
+6
+(8) PROCESSOR.—The term ‘‘processor’’ means 
+7
+a person that processes data on behalf of a con-
+8
+troller or another processor according to and for the 
+9
+purposes set forth in the documented instructions. If 
+10
+a person processes data on its own behalf or for its 
+11
+own purposes, then that person is not a processor 
+12
+with respect to that data but is instead a controller. 
+13
+Determining whether a person is acting as a con-
+14
+troller or processor with respect to a specific proc-
+15
+essing of data is a fact-based determination that de-
+16
+pends upon the controller’s documented instructions 
+17
+and the context in which personal data is to be proc-
+18
+essed. A processor shall only remain a processor to 
+19
+the extent that it continues to process data for the 
+20
+sole purposes set forth in the documented instruc-
+21
+tions of the controller and adheres to those instruc-
+22
+tions and the limitations in the controller’s privacy 
+23
+policy as communicated to the processor with respect 
+24
+to a specific processing of personal information. 
+25
+21:30 May 17, 2021
+H1816
+24 
+HR 1816 IH1S 
+(9) SENSITIVE PERSONAL INFORMATION.— 
+1
+(A) The term ‘‘sensitive personal informa-
+2
+tion’’ means information relating to an identi-
+3
+fied or identifiable individual that is— 
+4
+(i) financial account numbers; 
+5
+(ii) health information; 
+6
+(iii) genetic data; 
+7
+(iv) any information pertaining to 
+8
+children under 13 years of age; 
+9
+(v) Social Security numbers; 
+10
+(vi) unique government-issued identi-
+11
+fiers; 
+12
+(vii) authentication credentials for a 
+13
+financial account, such as a username and 
+14
+password; 
+15
+(viii) precise geolocation information; 
+16
+(ix) content of a personal wire com-
+17
+munication, oral communication, or elec-
+18
+tronic communication such as e-mail or di-
+19
+rect messaging with respect to any entity 
+20
+that is not the intended recipient of the 
+21
+communication; 
+22
+(x) call detail records for calls con-
+23
+ducted in a personal and not a business ca-
+24
+pacity; 
+25
+21:30 May 17, 2021
+H1816
+25 
+HR 1816 IH1S 
+(xi) biometric information; 
+1
+(xii) sexual orientation, gender iden-
+2
+tity, or intersex status; 
+3
+(xiii) citizenship or immigration sta-
+4
+tus; 
+5
+(xiv) mental or physical health diag-
+6
+nosis; 
+7
+(xv) religious beliefs; or 
+8
+(xvi) web browsing history, application 
+9
+usage history, and the functional equiva-
+10
+lent of either that is data described in this 
+11
+subparagraph that is not aggregated data. 
+12
+(B) The term ‘‘sensitive personal informa-
+13
+tion’’ does not include— 
+14
+(i) de-identified information (or the 
+15
+measurement, analysis or process utilized 
+16
+to transforming personal data so that it is 
+17
+not directly relatable to an identified or 
+18
+identifiable consumer); 
+19
+(ii) information related to employ-
+20
+ment, including any employee data; 
+21
+(iii) personal information reflecting a 
+22
+written or verbal communication or a 
+23
+transaction between a controller and the 
+24
+user, where the user is a natural person 
+25
+21:30 May 17, 2021
+H1816
+26 
+HR 1816 IH1S 
+who is acting as an employee, owner, direc-
+1
+tor, officer, or contractor of a company, 
+2
+partnership, sole proprietorship, non-profit, 
+3
+or government agency and whose commu-
+4
+nications or transaction with the controller 
+5
+occur solely within the context of the con-
+6
+troller conducting due diligence regarding, 
+7
+or providing or receiving a product or serv-
+8
+ice to or from such company, partnership, 
+9
+sole proprietorship, non-profit, or govern-
+10
+ment agency; or 
+11
+(iv) publicly available information. 
+12
+(10) STATE.—The term ‘‘State’’ means each 
+13
+State of the United States, the District of Columbia, 
+14
+and each commonwealth, territory, or possession of 
+15
+the United States. 
+16
+(11) THIRD PARTY.—The term ‘‘third party’’ 
+17
+means an individual or entity that uses or receives 
+18
+sensitive personal information obtained by or on be-
+19
+half of a controller, other than— 
+20
+(A) a service provider of a controller to 
+21
+whom the controller discloses the consumer’s 
+22
+sensitive personal information for an oper-
+23
+ational purpose subject to section 3(a)(1)(B) of 
+24
+this Act; and 
+25
+21:30 May 17, 2021
+H1816
+27 
+HR 1816 IH1S 
+(B) any entity that uses sensitive personal 
+1
+information only as reasonably necessary— 
+2
+(i) to comply with applicable law, reg-
+3
+ulation, or legal process; 
+4
+(ii) to enforce the terms of use of a 
+5
+controller; 
+6
+(iii) to detect, prevent, or mitigate 
+7
+fraud or security vulnerabilities; or 
+8
+(iv) does not determine the purposes 
+9
+and means of processing sensitive personal 
+10
+information. 
+11
+(12) TRANSFER.—The term ‘‘transfer’’ means 
+12
+to disclose, release, share, disseminate, make avail-
+13
+able, or license in writing, electronically or by any 
+14
+other means, for consideration of any kind for a 
+15
+commercial purpose. 
+16
+SEC. 8. RULES OF CONSTRUCTION. 
+17
+(a) FEDERAL ACQUISITION.—Nothing in this Act 
+18
+may be construed to preclude the acquisition by the Fed-
+19
+eral Government of— 
+20
+(1) the contents of a wire or electronic commu-
+21
+nication pursuant to other lawful authorities, includ-
+22
+ing the authorities under chapter 119 of title 18, 
+23
+United States Code (commonly known as the ‘‘Wire-
+24
+tap Act’’), the Foreign Intelligence Surveillance Act 
+25
+21:30 May 17, 2021
+H1816
+28 
+HR 1816 IH1S 
+of 1978 (50 U.S.C. 1801 et seq.), or any other pro-
+1
+vision of Federal law not specifically amended by 
+2
+this Act; or 
+3
+(2) records or other information relating to a 
+4
+subscriber or customer of any electronic communica-
+5
+tion service or remote computing service (not includ-
+6
+ing the content of such communications) pursuant to 
+7
+the Foreign Intelligence Surveillance Act of 1978 
+8
+(50 U.S.C. 1801 et seq.), chapter 119 of title 18, 
+9
+United States Code (commonly known as the ‘‘Wire-
+10
+tap Act’’), or any other provision of Federal law not 
+11
+specifically amended by this Act. 
+12
+(b) EFFECT ON OTHER LAWS.—Nothing in this Act 
+13
+shall be construed to limit or substitute for the require-
+14
+ments under title V of the Gramm-Leach-Bliley Act (15 
+15
+U.S.C. 6801 et seq.), section 264(c) of the Health Insur-
+16
+ance Portability and Accountability Act of 1996 (Public 
+17
+Law 104–191), section 444 of the General Education Pro-
+18
+visions Act (commonly known as the Family Educational 
+19
+Rights and Privacy Act of 1974) (20 U.S.C. 1232g), the 
+20
+Fair Credit Reporting Act (15 U.S.C. 1681 et seq.). 
+21
+SEC. 9. NATIONAL STANDARD. 
+22
+(a) RELATIONSHIP TO STATE LAW.—No State or po-
+23
+litical subdivision of a State may adopt, maintain, enforce, 
+24
+or continue in effect any law, regulation, rule, require-
+25
+21:30 May 17, 2021
+H1816
+29 
+HR 1816 IH1S 
+ment, or standard related to the data privacy or associated 
+1
+activities of covered entities. 
+2
+(b) NONPREEMPTION.—Subsection (a) shall not be 
+3
+construed to— 
+4
+(1) preempt State laws that directly establish 
+5
+requirements for the notification of consumers in the 
+6
+event of a data breach; 
+7
+(2) preempt State laws that directly establish 
+8
+requirements regarding biometric laws; 
+9
+(3) preempt State laws regarding wiretapping 
+10
+laws; or 
+11
+(4) preempt State laws like the Public Records 
+12
+Act. 
+13
+SEC. 10. EFFECTIVE DATE. 
+14
+This Act shall take effect 180 days after the date of 
+15
+the enactment of this Act. 
+16
+Æ 
+21:30 May 17, 2021
+H1816

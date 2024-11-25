@@ -1,0 +1,1173 @@
+A BILL 
+To create an Office of Cybersecurity at the Federal Trade 
+Commission for supervision of data security at consumer 
+reporting agencies, to require the promulgation of regula-
+tions establishing standards for effective cybersecurity 
+at consumer reporting agencies, to impose penalties on 
+credit reporting agencies for cybersecurity breaches that 
+put sensitive consumer data at risk, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+2 
+•HR 2545 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Data Breach Preven-
+2
+tion and Compensation Act of 2019’’. 
+3
+SEC. 2. DEFINITIONS. 
+4
+In this Act: 
+5
+(1) AFFECTED
+CONSUMER.—The term ‘‘af-
+6
+fected consumer’’ means any individual to whom 
+7
+personally identifying information pertains that was, 
+8
+or that may have been, affected by a covered breach. 
+9
+(2) AGENCY.—The term ‘‘agency’’ has the 
+10
+meaning given the term in section 551 of title 5, 
+11
+United States Code. 
+12
+(3) CAREER
+APPOINTEE.—The term ‘‘career 
+13
+appointee’’ has the meaning given the term in sec-
+14
+tion 3132(a) of title 5, United States Code. 
+15
+(4) COMMISSION.—The term ‘‘Commission’’ 
+16
+means the Federal Trade Commission. 
+17
+(5) CONSUMER REPORT; CONSUMER REPORTING 
+18
+AGENCY.—The terms ‘‘consumer report’’ and ‘‘con-
+19
+sumer reporting agency’’ have the meanings given 
+20
+the terms in section 603 of the Fair Credit Report-
+21
+ing Act (15 U.S.C. 1681a). 
+22
+(6) COVERED
+BREACH.—The term ‘‘covered 
+23
+breach’’ means any instance in which not less than 
+24
+1 piece of personally identifying information held by 
+25
+a covered consumer reporting agency is exposed, or 
+26
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+3 
+•HR 2545 IH
+is reasonably likely to have been exposed, to an un-
+1
+authorized party. 
+2
+(7) COVERED
+CONSUMER
+REPORTING
+AGEN-
+3
+CY.—The term ‘‘covered consumer reporting agency’’ 
+4
+means— 
+5
+(A) a consumer reporting agency described 
+6
+in section 603(p) of the Fair Credit Reporting 
+7
+Act (15 U.S.C. 1681a(p)); or 
+8
+(B) a consumer reporting agency that 
+9
+earns not less than $7,000,000 in annual rev-
+10
+enue from the sale of consumer reports. 
+11
+(8) DETAIL.—The term ‘‘detail’’ means a tem-
+12
+porary assignment of an employee to a different po-
+13
+sition for a specified period, with the employee re-
+14
+turning to the regular duties of the employee at the 
+15
+end of the specified period. 
+16
+(9) DIRECTOR.—The term ‘‘Director’’ means 
+17
+the Director of the Office. 
+18
+(10) OFFICE.—The term ‘‘Office’’ means the 
+19
+Office of Cybersecurity established under section 
+20
+3(a). 
+21
+(11) 
+PERSONALLY
+IDENTIFYING
+INFORMA-
+22
+TION.—The term ‘‘personally identifying informa-
+23
+tion’’ means, with respect to an individual— 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+4 
+•HR 2545 IH
+(A) the social security number of the indi-
+1
+vidual; 
+2
+(B) a driver’s license number of the indi-
+3
+vidual; 
+4
+(C) a passport number of the individual; 
+5
+(D) an alien registration number or other 
+6
+government-issued unique identification number 
+7
+of the individual; 
+8
+(E) unique biometric data, such as a 
+9
+faceprint, a fingerprint, a voice print, an iris 
+10
+image, or any other unique physical representa-
+11
+tion of the individual; 
+12
+(F) the first and last name of the indi-
+13
+vidual, or the first initial of the first name and 
+14
+the last name of the individual, in combination 
+15
+with any information that relates to— 
+16
+(i) the past, present, or future phys-
+17
+ical or mental health or condition of the in-
+18
+dividual; or 
+19
+(ii) the provision of health care to, or 
+20
+a diagnosis of, the individual; 
+21
+(G)(i) a financial account number, debit 
+22
+card number, or credit card number of the indi-
+23
+vidual; or 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+5 
+•HR 2545 IH
+(ii) any passcode required to access an ac-
+1
+count described in clause (i); and 
+2
+(H) such additional information, as deter-
+3
+mined by the Director. 
+4
+SEC. 3. CYBERSECURITY STANDARDS AND FTC AUTHORITY. 
+5
+(a) ESTABLISHMENT.—There is established in the 
+6
+Commission an Office of Cybersecurity, which shall be 
+7
+headed by a Director, who shall be a career appointee. 
+8
+(b) DUTIES.—The Office— 
+9
+(1) shall— 
+10
+(A) supervise covered consumer reporting 
+11
+agencies with respect to data security; 
+12
+(B) promulgate regulations, through notice 
+13
+and comment rulemaking that complies with 
+14
+section 553 of title 5, United States Code, for 
+15
+effective data security for covered consumer re-
+16
+porting agencies, including requirements for a 
+17
+covered consumer reporting agency to— 
+18
+(i) provide the Commission with de-
+19
+scriptions of technical and organizational 
+20
+security measures of the consumer report-
+21
+ing agency, including— 
+22
+(I) system and network security 
+23
+measures, including— 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+6 
+•HR 2545 IH
+(aa) asset management, in-
+1
+cluding— 
+2
+(AA) an inventory of 
+3
+devices of the covered con-
+4
+sumer reporting agency that 
+5
+are authorized to access 
+6
+data maintained by the cov-
+7
+ered 
+consumer 
+reporting 
+8
+agency; 
+9
+(BB) an inventory of 
+10
+software that is authorized 
+11
+by the covered consumer re-
+12
+porting agency to access 
+13
+data maintained by the cov-
+14
+ered 
+consumer 
+reporting 
+15
+agency, including application 
+16
+whitelisting; and 
+17
+(CC) secure configura-
+18
+tions for hardware and soft-
+19
+ware of the covered con-
+20
+sumer reporting agency; 
+21
+(bb) network management 
+22
+and monitoring, including— 
+23
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+7 
+•HR 2545 IH
+(AA) 
+mapped 
+data 
+1
+flows, including functional 
+2
+mission mapping; 
+3
+(BB) 
+maintenance, 
+4
+monitoring, and analysis of 
+5
+audit logs; 
+6
+(CC) 
+network 
+seg-
+7
+mentation; and 
+8
+(DD) local and remote 
+9
+access 
+privileges, 
+defined 
+10
+and managed; and 
+11
+(cc) 
+application 
+manage-
+12
+ment, including— 
+13
+(AA) continuous vulner-
+14
+ability assessment and reme-
+15
+diation; 
+16
+(BB) server application 
+17
+hardening; 
+18
+(CC) vulnerability han-
+19
+dling, such as coordinated 
+20
+vulnerability disclosure pol-
+21
+icy; and 
+22
+(DD) patch manage-
+23
+ment, including at, or near, 
+24
+real-time 
+dashboards 
+of 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+8 
+•HR 2545 IH
+patch implementation across 
+1
+network hosts; and 
+2
+(II) data security measures, in-
+3
+cluding— 
+4
+(aa) 
+data-centric 
+security 
+5
+mechanisms such as format-pre-
+6
+serving encryption, cryptographic 
+7
+data-splitting, and data-tagging 
+8
+and lineage; 
+9
+(bb) encryption for data at 
+10
+rest; 
+11
+(cc) encryption for data in 
+12
+transit; 
+13
+(dd) systemwide data mini-
+14
+mization evaluations and policies; 
+15
+and 
+16
+(ee) data recovery capability; 
+17
+(ii) employ reasonable technical meas-
+18
+ures and corporate governance processes 
+19
+for continuous monitoring of data, intru-
+20
+sion detection, and continuous evaluation 
+21
+and timely patching of vulnerabilities; 
+22
+(iii) employ reasonable technical meas-
+23
+ures and corporate governance processes 
+24
+that satisfy and exceed all relevant data se-
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+9 
+•HR 2545 IH
+curity policy recommendations contained in 
+1
+the framework of the National Institute of 
+2
+Standards 
+and 
+Technology 
+entitled 
+3
+‘‘Framework for Improving Critical Infra-
+4
+structure Cybersecurity’’, dated February 
+5
+12, 2014, or any successor thereto, as de-
+6
+termined appropriate by the Office; and 
+7
+(iv) create and maintain documenta-
+8
+tion demonstrating that the covered con-
+9
+sumer reporting agency is employing the 
+10
+technical measures and corporate govern-
+11
+ance processes described in clauses (ii) and 
+12
+(iii); 
+13
+(C) annually examine the data security 
+14
+measures of covered consumer reporting agen-
+15
+cies for compliance with the requirements de-
+16
+scribed in clauses (ii) and (iii) of subparagraph 
+17
+(B); 
+18
+(D) investigate any covered consumer re-
+19
+porting agency if the Office has reason to sus-
+20
+pect— 
+21
+(i) a covered breach has occurred and 
+22
+the covered consumer reporting agency was 
+23
+subject to the covered breach; or 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+10 
+•HR 2545 IH
+(ii) the covered consumer reporting 
+1
+agency is not in compliance with the re-
+2
+quirements described in clauses (ii) and 
+3
+(iii) of subparagraph (B); 
+4
+(E) after consultation with members of the 
+5
+technical and academic communities, develop a 
+6
+rigorous, repeatable methodology— 
+7
+(i) for evaluating, testing, and meas-
+8
+uring effective data security practices of 
+9
+covered consumer reporting agencies; and 
+10
+(ii) that employs forms of static and 
+11
+dynamic software analysis and penetration 
+12
+testing; 
+13
+(F) submit to Congress an annual report 
+14
+on the findings of each investigation carried out 
+15
+under subparagraph (D) during the year cov-
+16
+ered by the report that includes a statement of 
+17
+how Congress could enhance the authorities of 
+18
+the Office in order to assist the Office in car-
+19
+rying out the duties of the Office under this 
+20
+Act; 
+21
+(G) determine whether covered consumer 
+22
+reporting agencies are complying with the re-
+23
+quirements described in clauses (ii) and (iii) of 
+24
+subparagraph (B); and 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+11 
+•HR 2545 IH
+(H) coordinate with the National Institute 
+1
+of Standards and Technology and the National 
+2
+Cybersecurity and Communications Integration 
+3
+Center of the Department of Homeland Secu-
+4
+rity; and 
+5
+(2) may— 
+6
+(A) investigate any covered breach to de-
+7
+termine if the covered consumer reporting agen-
+8
+cy that was subject to the covered breach was 
+9
+in compliance with the requirements described 
+10
+in clauses (ii) and (iii) of paragraph (1)(B) as 
+11
+of the date on which the covered breach oc-
+12
+curred; and 
+13
+(B) if the Director has reason to believe 
+14
+that any covered consumer reporting agency is 
+15
+violating, or in the immediate future will vio-
+16
+late, a requirement described in clause (ii) or 
+17
+(iii) of paragraph (1), bring a suit in an appro-
+18
+priate district court of the United States to en-
+19
+join any such act or practice. 
+20
+(c) STAFF.— 
+21
+(1) IN GENERAL.—The Director shall, without 
+22
+regard to the civil service laws and regulations, ap-
+23
+point such personnel, including computer security re-
+24
+searchers and practitioners with technical expertise 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+12 
+•HR 2545 IH
+in computer science, engineering, and cybersecurity, 
+1
+as the Director determines are necessary to carry 
+2
+out the duties of the Office. 
+3
+(2) DETAILS.— 
+4
+(A) IN GENERAL.—An employee of the Na-
+5
+tional Institute of Standards and Technology, 
+6
+the Bureau of Consumer Financial Protection, 
+7
+or the National Cybersecurity and Communica-
+8
+tions Integration Center of the Department of 
+9
+Homeland Security may be detailed to the Of-
+10
+fice, without reimbursement. 
+11
+(B) CIVIL
+SERVICE
+STATUS
+AND
+PRIVI-
+12
+LEGE.—Detail under subparagraph (A) shall be 
+13
+without interruption or loss of the civil service 
+14
+status or privilege of the employee who is de-
+15
+tailed to the Office. 
+16
+SEC. 4. NOTIFICATION AND ENFORCEMENT. 
+17
+(a) NOTIFICATION.— 
+18
+(1) NOTIFICATION
+TO
+THE
+COMMISSION
+AND 
+19
+RELEVANT FEDERAL LAW ENFORCEMENT AND IN-
+20
+TELLIGENCE AGENCIES.— 
+21
+(A) NOTIFICATION TO THE COMMISSION.— 
+22
+Except as provided in paragraph (3), not later 
+23
+than 10 days after the date on which a covered 
+24
+breach occurs, any covered consumer reporting 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+13 
+•HR 2545 IH
+agency that was subject to the covered breach 
+1
+shall notify the Commission of the covered 
+2
+breach. 
+3
+(B) NOTIFICATION
+TO
+RELEVANT
+FED-
+4
+ERAL LAW ENFORCEMENT AND INTELLIGENCE 
+5
+AGENCIES.—Not later than 10 days after the 
+6
+date on which the Commission receives a notifi-
+7
+cation under subparagraph (A) that a covered 
+8
+breach has occurred, the Commission shall— 
+9
+(i) notify the relevant Federal law en-
+10
+forcement agencies and intelligence agen-
+11
+cies that the covered breach has occurred; 
+12
+and 
+13
+(ii) with respect to the covered breach, 
+14
+consult with the relevant Federal law en-
+15
+forcement agencies and intelligence agen-
+16
+cies, as appropriate. 
+17
+(2) NOTIFICATION TO AFFECTED CONSUMERS 
+18
+AND THE PUBLIC.— 
+19
+(A) IN GENERAL.—Except as provided in 
+20
+paragraph (3), on an expeditious and practical 
+21
+timeline, as determined appropriate by the 
+22
+Commission, a covered consumer reporting 
+23
+agency that is subject to a covered breach 
+24
+shall— 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+14 
+•HR 2545 IH
+(i) submit to each affected consumer 
+1
+with respect to whom the covered con-
+2
+sumer reporting agency holds a piece of 
+3
+personally identifying information a notifi-
+4
+cation regarding the covered breach that 
+5
+complies with subparagraph (B); and 
+6
+(ii) publish on the internet website of 
+7
+the covered consumer reporting agency a 
+8
+notice that contains a statement of— 
+9
+(I) the information described in 
+10
+clauses (i) and (ii) of subparagraph 
+11
+(B) and subclauses (I) and (II) of 
+12
+clause (iii) of that subparagraph; and 
+13
+(II) the steps that the covered 
+14
+consumer reporting agency is taking 
+15
+to notify the affected consumers de-
+16
+scribed in clause (i) regarding the cov-
+17
+ered breach. 
+18
+(B) NOTIFICATION
+TO
+AFFECTED
+CON-
+19
+SUMERS.—In a notification to affected con-
+20
+sumers under subparagraph (A)(i), the covered 
+21
+consumer reporting agency submitting the noti-
+22
+fication shall include a statement of— 
+23
+(i) the fact that the covered breach 
+24
+occurred; 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+15 
+•HR 2545 IH
+(ii) the approximate date on which the 
+1
+covered breach occurred; and 
+2
+(iii) with respect to the covered 
+3
+breach— 
+4
+(I) the number of affected con-
+5
+sumers; 
+6
+(II) the measures that the cov-
+7
+ered consumer reporting agency is 
+8
+taking to remedy the covered breach; 
+9
+and 
+10
+(III) the potential risks created 
+11
+by the covered breach, a list of which 
+12
+the covered consumer reporting agen-
+13
+cy shall develop in consultation with 
+14
+the Office. 
+15
+(3) DELAY OF NOTIFICATION AUTHORIZED FOR 
+16
+LAW ENFORCEMENT OR NATIONAL SECURITY PUR-
+17
+18
+(A) NOTIFICATION BY LAW ENFORCEMENT 
+19
+AGENCY OR INTELLIGENCE AGENCY.—If a Fed-
+20
+eral law enforcement agency or intelligence 
+21
+agency to which the Commission has provided 
+22
+notice under paragraph (1)(B)(i) determines 
+23
+that the notification required under paragraph 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+16 
+•HR 2545 IH
+(2) may impede a criminal investigation or na-
+1
+tional security activity— 
+2
+(i) the Federal law enforcement agen-
+3
+cy or intelligence agency shall provide writ-
+4
+ten notice to the Commission and the cov-
+5
+ered consumer reporting agency that was 
+6
+subject to the covered breach that is the 
+7
+subject of the notification that states— 
+8
+(I) that the notification required 
+9
+under paragraph (2) shall be delayed 
+10
+for law enforcement or national secu-
+11
+rity purposes; and 
+12
+(II) the date on which the delay 
+13
+imposed under subclause (I) shall end; 
+14
+and 
+15
+(ii) subject to subparagraph (B), the 
+16
+covered consumer reporting agency that 
+17
+was subject to the covered breach shall 
+18
+delay notification under paragraph (2) 
+19
+until the date described in clause (i)(II) of 
+20
+this subparagraph. 
+21
+(B) EXTENDED
+DELAY
+OF
+NOTIFICA-
+22
+TION.—If the notification required under para-
+23
+graph (2) is delayed under subparagraph (A) of 
+24
+this paragraph, a covered consumer reporting 
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+17 
+•HR 2545 IH
+agency that is required to provide notice under 
+1
+paragraph (2) shall provide that notice on an 
+2
+expeditious and practical timeline, as deter-
+3
+mined appropriate by the Commission, after the 
+4
+date on which the law enforcement or national 
+5
+security delay under subparagraph (A) of this 
+6
+paragraph ends, unless a Federal law enforce-
+7
+ment or intelligence agency to which the Com-
+8
+mission has provided notice under paragraph 
+9
+(1)(B)(i) provides written notification to the 
+10
+Commission and the covered consumer report-
+11
+ing agency that states— 
+12
+(i) that further delay is necessary; 
+13
+and 
+14
+(ii) the date on which the further 
+15
+delay shall end. 
+16
+(C) LAW
+ENFORCEMENT
+IMMUNITY.—No 
+17
+nonconstitutional cause of action shall lie in any 
+18
+court against any agency for acts relating to 
+19
+the delay of notification under subparagraph 
+20
+(A), or the extended delay of notification under 
+21
+subparagraph (B), for law enforcement or na-
+22
+tional security purposes. 
+23
+(b) PENALTY.— 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+18 
+•HR 2545 IH
+(1) IN GENERAL.—In the event of a covered 
+1
+breach, the Commission shall, not later than 30 days 
+2
+after the date on which the Commission receives no-
+3
+tification of the covered breach under subsection 
+4
+(a)(1)(A), commence a civil action to recover a civil 
+5
+penalty in an appropriate district court of the 
+6
+United States against the covered consumer report-
+7
+ing agency that was subject to the covered breach. 
+8
+(2) DETERMINING PENALTY AMOUNT.— 
+9
+(A) IN GENERAL.—Except as provided in 
+10
+subparagraph (B), in determining the amount 
+11
+of a civil penalty under paragraph (1), the 
+12
+court shall impose a civil penalty on a covered 
+13
+consumer reporting agency of— 
+14
+(i) $100 for each consumer for whom 
+15
+the first and last name, or the first initial 
+16
+of the first name and last name, and 1 
+17
+other item of personally identifying infor-
+18
+mation were exposed to an unauthorized 
+19
+party; and 
+20
+(ii) in addition to the penalty imposed 
+21
+under clause (i), an additional $50 for 
+22
+each item of personally identifying infor-
+23
+mation of the consumer, other than an 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+19 
+•HR 2545 IH
+item described in that clause, that was ex-
+1
+posed to an unauthorized party. 
+2
+(B) EXCEPTION.— 
+3
+(i) IN GENERAL.—Except as provided 
+4
+in clause (ii), in an action commenced 
+5
+under this subsection, a court may not im-
+6
+pose a civil penalty in an amount that is 
+7
+more than 50 percent of the gross revenue 
+8
+of the covered consumer reporting agency 
+9
+against which the action is brought for the 
+10
+fiscal year before the fiscal year in which 
+11
+the covered consumer reporting agency be-
+12
+came aware of the covered breach that is 
+13
+the subject of the action. 
+14
+(ii) PENALTY
+DOUBLED.—In an ac-
+15
+tion commenced under this subsection, the 
+16
+court shall impose a civil penalty on a cov-
+17
+ered consumer reporting agency in an 
+18
+amount that is 2 times the amount of the 
+19
+penalty described in subparagraph (A), but 
+20
+not greater than 75 percent of the gross 
+21
+revenue of the covered consumer reporting 
+22
+agency for the fiscal year before the fiscal 
+23
+year in which the covered consumer report-
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+20 
+•HR 2545 IH
+ing agency became aware of the covered 
+1
+breach that is subject to the action, if— 
+2
+(I) the covered consumer report-
+3
+ing agency fails to notify the Commis-
+4
+sion of the covered breach before the 
+5
+deadline established under subsection 
+6
+(a)(1)(A); or 
+7
+(II) the covered consumer report-
+8
+ing agency violates any requirement 
+9
+described in clause (ii) or (iii) of sec-
+10
+tion 3(b)(1)(B). 
+11
+(3) PROCEEDS
+OF
+THE
+PENALTIES.—Of the 
+12
+penalties imposed under this subsection— 
+13
+(A) 50 percent shall be used for cybersecu-
+14
+rity research and inspections by the Office; and 
+15
+(B) 50 percent shall be used by the Office 
+16
+to be divided fairly among consumers affected 
+17
+by the covered breach. 
+18
+(4) NO
+PREEMPTION.—Nothing in this sub-
+19
+section shall preclude an action by a consumer under 
+20
+State or other Federal law. 
+21
+(c) INJUNCTIVE RELIEF.—The Commission, acting 
+22
+through the Office, may bring suit in an appropriate dis-
+23
+trict court of the United States or in the United States 
+24
+court of any territory to require a covered consumer re-
+25
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+21 
+•HR 2545 IH
+porting agency to implement or correct a particular secu-
+1
+rity measure in order to promote effective security in ac-
+2
+cordance with the requirements described in clauses (ii) 
+3
+and (iii) of section 3(b)(1)(B). 
+4
+SEC. 5. AMENDMENTS TO THE GRAMM-LEACH-BLILEY ACT. 
+5
+(a) ENFORCEMENT RELATING TO DISCLOSURE OF 
+6
+NONPUBLIC
+PERSONAL
+INFORMATION.—Section 
+7
+505(a)(7) of the Gramm-Leach-Bliley Act (15 U.S.C. 
+8
+6805(a)(7)) is amended by inserting ‘‘, including any con-
+9
+sumer reporting agency that compiles and maintains files 
+10
+on consumers on a nationwide basis (as defined in section 
+11
+603(p) of the Fair Credit Reporting Act (15 U.S.C. 
+12
+1681a(p)))’’ before the period at the end. 
+13
+(b) DEFINITIONS RELATING
+TO DISCLOSURE
+OF 
+14
+NONPUBLIC PERSONAL INFORMATION.—Section 509(3) 
+15
+of the Gramm-Leach-Bliley Act (15 U.S.C. 6809(3)) is 
+16
+amended by adding at the end the following: 
+17
+‘‘(E) CONSUMER
+REPORTING
+AGENCIES 
+18
+SPECIFICALLY INCLUDED.—The term ‘financial 
+19
+institution’ includes any consumer reporting 
+20
+agency that compiles and maintains files on 
+21
+consumers on a nationwide basis (as defined in 
+22
+section 603(p) of the Fair Credit Reporting Act 
+23
+(15 U.S.C. 1681a(p))).’’. 
+24
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545
+22 
+•HR 2545 IH
+SEC. 6. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There 
+are 
+authorized 
+to 
+be 
+appropriated 
+2
+$100,000,000 to carry out this Act, to remain available 
+3
+until expended. 
+4
+Æ 
+01:47 May 14, 2019
+\\ALPHA3\E\BILLS\H2545.IH
+H2545

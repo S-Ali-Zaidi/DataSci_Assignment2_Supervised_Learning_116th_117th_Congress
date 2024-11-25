@@ -1,0 +1,654 @@
+A BILL 
+To improve the visibility, accountability, and oversight of 
+agency software asset management practices, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Strengthening Agency 
+4
+Management and Oversight of Software Assets Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+02:52 Nov 23, 2022
+H9330
+2 
+•HR 9330 IH
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+1
+trator’’ means the Administrator of General Serv-
+2
+ices. 
+3
+(2) AGENCY.—The term ‘‘agency’’ has the 
+4
+meaning given the term ‘‘establishment’’ in section 
+5
+12 of the Inspector General Act of 1978 (5 U.S.C. 
+6
+App.). 
+7
+(3) CLOUD
+COMPUTING.—The term ‘‘cloud 
+8
+computing’’ has the meaning given the term in Spe-
+9
+cial Publication 800–145 of the National Institute of 
+10
+Standards and Technology, or any successor docu-
+11
+ment. 
+12
+(4) CLOUD
+SERVICE
+PROVIDER.—The term 
+13
+‘‘cloud service provider’’ means an entity offering 
+14
+cloud computing products or services to agencies. 
+15
+(5) COMPREHENSIVE ASSESSMENT.—The term 
+16
+‘‘comprehensive assessment’’ means a comprehensive 
+17
+assessment conducted pursuant to section 3(a). 
+18
+(6) DIRECTOR.—The term ‘‘Director’’ means 
+19
+the Director of the Office of Management and Budg-
+20
+et. 
+21
+(7) PLAN.—The term ‘‘plan’’ means the plan 
+22
+developed by a Chief Information Officer, or equiva-
+23
+lent official, pursuant to section 4(a). 
+24
+02:52 Nov 23, 2022
+H9330
+3 
+•HR 9330 IH
+(8) 
+SOFTWARE
+ENTITLEMENT.—The 
+term 
+1
+‘‘software entitlement’’ means any software that— 
+2
+(A) has been purchased, leased, or licensed 
+3
+by or billed to an agency under any contract or 
+4
+other business arrangement; and 
+5
+(B) is subject to use limitations. 
+6
+(9) SOFTWARE INVENTORY.—The term ‘‘soft-
+7
+ware inventory’’ means the software inventory of an 
+8
+agency required pursuant to— 
+9
+(A) section 2(b)(2)(A) of the Making Elec-
+10
+tronic Government Accountable By Yielding 
+11
+Tangible Efficiencies Act of 2016 (40 U.S.C. 
+12
+11302 note; Public Law 114–210); or 
+13
+(B) subsequent guidance issued by the Di-
+14
+rector of the Office of Management and Budget 
+15
+pursuant to that Act. 
+16
+SEC. 3. SOFTWARE ENTITLEMENT AND INVENTORY INTEG-
+17
+RITY. 
+18
+(a) IN GENERAL.—As soon as practicable, and not 
+19
+later than 1 year after the date of enactment of this Act, 
+20
+the Chief Information Officer of each agency, in consulta-
+21
+tion with the Chief Financial Officer, the Chief Procure-
+22
+ment Officer, and General Counsel of the agency, or the 
+23
+equivalent officials of the agency, shall complete a com-
+24
+02:52 Nov 23, 2022
+H9330
+4 
+•HR 9330 IH
+prehensive assessment of the software entitlements and 
+1
+software inventories of the agency, which shall include— 
+2
+(1) the current software inventory of the agen-
+3
+cy, including software entitlements, contracts and 
+4
+other agreements or arrangements of the agency, 
+5
+and a list of the largest software entitlements of the 
+6
+agency separated by vendor and category of soft-
+7
+ware; 
+8
+(2) a comprehensive, detailed accounting of— 
+9
+(A) any software deployed for the agency 
+10
+as of the date of the comprehensive assessment, 
+11
+including, to the extent identifiable, the con-
+12
+tracts and other agreements or arrangements 
+13
+that the agency uses to acquire, deploy, or use 
+14
+such software; 
+15
+(B) information and data on software enti-
+16
+tlements, which shall include information on 
+17
+any additional fees or costs for the use of cloud 
+18
+services that is not included in the initial costs 
+19
+of the contract, agreement, or arrangement— 
+20
+(i) for which the agency pays; 
+21
+(ii) that are not deployed or in use by 
+22
+the agency; and 
+23
+(iii) that are billed to the agency 
+24
+under any contract or business arrange-
+25
+02:52 Nov 23, 2022
+H9330
+5 
+•HR 9330 IH
+ment that creates redundancy in the de-
+1
+ployment or use by the agency; and 
+2
+(C) the extent— 
+3
+(i) to which any software paid for, in 
+4
+use, or deployed throughout the agency is 
+5
+interoperable; and 
+6
+(ii) of the efforts of the agency to im-
+7
+prove interoperability of software assets 
+8
+throughout the agency enterprise; 
+9
+(3) a categorization of software licenses of the 
+10
+agency by cost, volume, and type of software; 
+11
+(4) a list of any provisions in the software li-
+12
+censes of the agency that may restrict how the soft-
+13
+ware can be deployed, accessed, or used, including 
+14
+any such restrictions on desktop or server hardware 
+15
+or through a cloud service provider; and 
+16
+(5) an analysis addressing— 
+17
+(A) the accuracy and completeness of the 
+18
+software inventory and software entitlements of 
+19
+the agency before and after the comprehensive 
+20
+assessment; 
+21
+(B) management by the agency of and 
+22
+compliance by the agency with all contracts or 
+23
+other agreements or arrangements that include 
+24
+02:52 Nov 23, 2022
+H9330
+6 
+•HR 9330 IH
+or implicate software licensing or software man-
+1
+agement within the agency; 
+2
+(C) the extent to which the agency accu-
+3
+rately captures the total cost of enterprise li-
+4
+censes agreements and related costs, including 
+5
+the total cost of upgrades over the life of a con-
+6
+tract, cloud usage cost per user, and any other 
+7
+cost associated with the maintenance or serv-
+8
+icing of contracts; and 
+9
+(D) compliance with software license man-
+10
+agement policies of the agency. 
+11
+(b) CONTRACT SUPPORT.— 
+12
+(1) AUTHORITY.—The head of an agency may 
+13
+enter into 1 or more contracts to support the re-
+14
+quirements of subsection (a). 
+15
+(2) NO
+CONFLICT
+OF
+INTEREST.—Contracts 
+16
+under paragraph (1) shall not include contractors 
+17
+with organization conflicts of interest. 
+18
+(3) OPERATIONAL INDEPENDENCE.—Over the 
+19
+course of a comprehensive assessment, contractors 
+20
+hired pursuant to paragraph (1) shall maintain oper-
+21
+ational independence from the integration, manage-
+22
+ment, and operations of the software inventory and 
+23
+software entitlements of the agency. 
+24
+02:52 Nov 23, 2022
+H9330
+7 
+•HR 9330 IH
+(c) SUBMISSION.—On the date on which the Chief In-
+1
+formation Officer, Chief Financial Officer, Chief Procure-
+2
+ment Officer, and General Counsel of an agency, or the 
+3
+equivalent officials of the agency, complete the comprehen-
+4
+sive assessment, and not later than 1 year after the date 
+5
+of enactment of this Act, the Chief Information Officer 
+6
+shall submit the comprehensive assessment to— 
+7
+(1) the head of the agency; 
+8
+(2) the Director; 
+9
+(3) the Administrator; 
+10
+(4) the Comptroller General of the United 
+11
+States; 
+12
+(5) the Committee on Homeland Security and 
+13
+Governmental Affairs of the Senate; and 
+14
+(6) the Committee on Oversight and Reform of 
+15
+the House of Representatives. 
+16
+(d) CONSULTATION.—In order to ensure the utility 
+17
+and standardization of the comprehensive assessment of 
+18
+each agency, including to support the development of each 
+19
+plan and the governmentwide strategy described in section 
+20
+5, the Director, in consultation with the Administrator, 
+21
+may share information, best practices, and recommenda-
+22
+tions relating to the activities performed in the course of 
+23
+a comprehensive assessment of an agency. 
+24
+02:52 Nov 23, 2022
+H9330
+8 
+•HR 9330 IH
+SEC. 4. ENTERPRISE LICENSING POSITIONING AT AGEN-
+1
+CIES. 
+2
+(a) IN GENERAL.—The Chief Information Officer of 
+3
+each agency, in consultation with the Chief Financial Offi-
+4
+cer and the Chief Procurement Officer of the agency, or 
+5
+the equivalent officials of the agency, shall use the infor-
+6
+mation developed pursuant to the comprehensive assess-
+7
+ment of the agency under section 3(a) to develop a plan 
+8
+for the agency— 
+9
+(1) to consolidate software licenses of the agen-
+10
+cy; and 
+11
+(2) to the greatest extent practicable, in order 
+12
+to improve the performance of, or reduce unneces-
+13
+sary costs to, the agency, to adopt enterprise license 
+14
+agreements across the agency, by type or category of 
+15
+software. 
+16
+(b) PLAN REQUIREMENTS.—The plan of an agency 
+17
+shall— 
+18
+(1) include a detailed strategy for— 
+19
+(A) the remediation of any software asset 
+20
+management deficiencies found during the com-
+21
+prehensive assessment of the agency; 
+22
+(B) the ongoing maintenance of software 
+23
+asset management upon the completion of the 
+24
+remediation; and 
+25
+02:52 Nov 23, 2022
+H9330
+9 
+•HR 9330 IH
+(C) maximizing the effectiveness of soft-
+1
+ware deployed by the agency, including, to the 
+2
+extent 
+practicable, 
+leveraging 
+technologies 
+3
+that— 
+4
+(i) provide in-depth analysis of user 
+5
+behaviors and collect user feedback; 
+6
+(ii) measure actual software usage via 
+7
+analytics that can identify inefficiencies to 
+8
+assist in rationalizing software spending; 
+9
+(iii) allow for segmentation of the user 
+10
+base; 
+11
+(iv) support effective governance and 
+12
+compliance in the use of software; and 
+13
+(v) support interoperable capabilities 
+14
+between software; 
+15
+(2) identify not fewer than 5 categories of soft-
+16
+ware the agency will prioritize for conversion to en-
+17
+terprise licenses as the software entitlements, con-
+18
+tracts, and other agreements or arrangements for 
+19
+those categories come up for renewal or renegoti-
+20
+ation; 
+21
+(3) provide an estimate of the costs to move to 
+22
+enterprise, open-source, or other licenses that do not 
+23
+restrict the use of software by the agency, and any 
+24
+02:52 Nov 23, 2022
+H9330
+10 
+•HR 9330 IH
+projected cost savings or efficiency measures 
+1
+throughout the total software lifecycle; 
+2
+(4) identify potential mitigations to minimize 
+3
+software license restrictions on how such software 
+4
+can be deployed, accessed, or used, including any 
+5
+mitigations that would minimize any such restric-
+6
+tions on desktop or server hardware or through a 
+7
+cloud service provider; 
+8
+(5) include any estimates for additional re-
+9
+sources, services, or support the agency may need to 
+10
+execute the enterprise licensing position plan; 
+11
+(6) provide information on the prevalence of 
+12
+software products in use across multiple software 
+13
+categories; and 
+14
+(7) include any additional information, data, or 
+15
+analysis determined necessary by the Chief Informa-
+16
+tion Officer, or other equivalent official, of the agen-
+17
+cy. 
+18
+(c) SUPPORT.—The Chief Information Officer, or 
+19
+other equivalent official, of an agency may request support 
+20
+from the Director and the Administrator for any analysis 
+21
+or developmental needs to create the plan of the agency. 
+22
+(d) SUBMISSION.—Not later than 120 days after the 
+23
+date on which the Chief Information Officer, or other 
+24
+equivalent official, of an agency submits the comprehen-
+25
+02:52 Nov 23, 2022
+H9330
+11 
+•HR 9330 IH
+sive assessment pursuant to section 3(c), the head of the 
+1
+agency shall submit to the Director, the Committee on 
+2
+Homeland Security and Governmental Affairs of the Sen-
+3
+ate, and the Committee on Oversight and Reform of the 
+4
+House of Representatives the plan of the agency. 
+5
+SEC. 5. GOVERNMENTWIDE STRATEGY. 
+6
+(a) IN GENERAL.—Not later than 2 years after the 
+7
+date of enactment of this Act, the Director, in consultation 
+8
+with the Administrator and the Federal Chief Information 
+9
+Officers Council, shall submit to the Committee on Home-
+10
+land Security and Governmental Affairs of the Senate and 
+11
+the Committee on Oversight and Reform of the House of 
+12
+Representatives a strategy that includes— 
+13
+(1) proposals to support the adoption of govern-
+14
+mentwide enterprise licenses on the most widely used 
+15
+and most costly software entitlements identified 
+16
+through the comprehensive assessment and plans, 
+17
+including, where appropriate, a cost-benefit analysis; 
+18
+(2) opportunities to leverage Government pro-
+19
+curement policies and practices to increase inter-
+20
+operability of software entitlements acquired and de-
+21
+ployed to reduce costs and improve performance; 
+22
+(3) the incorporation of data on spending by 
+23
+agencies on, the performance of, and management 
+24
+by agencies of software entitlements as part of the 
+25
+02:52 Nov 23, 2022
+H9330
+12 
+•HR 9330 IH
+information required under section 11302(c)(3)(B) 
+1
+of title 40, United States Code; 
+2
+(4) where applicable, directions to agencies to 
+3
+examine 
+options 
+and 
+relevant 
+criteria 
+for 
+4
+transitioning to open-source software; and 
+5
+(5) any other information or data collected or 
+6
+analyzed by the Director. 
+7
+(b) BUDGET SUBMISSION.— 
+8
+(1) FIRST BUDGET.—With respect to the first 
+9
+budget of the President submitted under section 
+10
+1105(a) of title 31, United States Code, on or after 
+11
+the date that is 2 years after the date of enactment 
+12
+of this Act, the Director shall ensure that the strat-
+13
+egy required under subsection (a) of this section and 
+14
+the plan of each agency are included in the budget 
+15
+justification materials of each agency submitted in 
+16
+conjunction with that budget. 
+17
+(2) SUBSEQUENT 5 BUDGETS.—With respect to 
+18
+the first 5 budgets of the President submitted under 
+19
+section 1105(a) of title 31, United States Code, 
+20
+after the budget described in paragraph (1), the Di-
+21
+rector shall— 
+22
+(A) designate performance metrics for 
+23
+agencies for common software licensing, man-
+24
+agement, and cost criteria; and 
+25
+02:52 Nov 23, 2022
+H9330
+13 
+•HR 9330 IH
+(B) ensure that the progress of each agen-
+1
+cy toward the performance metrics is included 
+2
+in the budget justification materials of the 
+3
+agency submitted in conjunction with that 
+4
+budget. 
+5
+SEC. 6. GAO REPORT. 
+6
+Not later than 3 years after the date of enactment 
+7
+of this Act, the Comptroller General of the United States 
+8
+shall submit to the Committee on Homeland Security and 
+9
+Governmental Affairs of the Senate and the Committee 
+10
+on Oversight and Reform of the House of Representatives 
+11
+a report on governmentwide trends, comparisons among 
+12
+agencies, and other analyses of plans and the strategy re-
+13
+quired under section 5(a) by the Comptroller General of 
+14
+the United States. 
+15
+Æ 
+02:52 Nov 23, 2022
+H9330

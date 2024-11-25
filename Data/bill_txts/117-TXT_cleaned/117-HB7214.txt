@@ -1,0 +1,2724 @@
+A BILL 
+To amend title 18, United States Code, to require that 
+notice of criminal surveillance orders be eventually pro-
+vided to targets, to reform the use of nondisclosure or-
+ders to providers, to prohibit indefinite sealing of crimi-
+nal surveillance orders, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Government Surveil-
+4
+lance Transparency Act of 2022’’. 
+5
+19:57 Mar 29, 2022
+H7214
+2 
+•HR 7214 IH
+SEC. 2. CRIMINAL SURVEILLANCE ORDERS. 
+1
+(a) IN GENERAL.—Part II of title 18, United States 
+2
+Code, is amended by inserting after chapter 206 the fol-
+3
+lowing: 
+4
+‘‘CHAPTER 206A—CRIMINAL 
+5
+SURVEILLANCE ORDERS 
+6
+‘‘Sec. 
+‘‘3131. Definitions. 
+‘‘3132. Criminal surveillance orders. 
+‘‘3133. Request for unsealing or challenging redactions. 
+‘‘§ 3131. Definitions 
+7
+‘‘In this chapter: 
+8
+‘‘(1) APPLICATION.—The term ‘application’— 
+9
+‘‘(A) means an application for a criminal 
+10
+surveillance order; and 
+11
+‘‘(B) includes all supporting affidavits and 
+12
+exhibits. 
+13
+‘‘(2) PEN
+REGISTER; TRAP
+AND
+TRACE
+DE-
+14
+VICE.—The terms ‘pen register’, and ‘trap and trace 
+15
+device’ have the meanings given the terms in section 
+16
+3127. 
+17
+‘‘(3) CRIMINAL
+SURVEILLANCE
+ORDER.—The 
+18
+term ‘criminal surveillance order’ means— 
+19
+‘‘(A) an order authorizing or approving the 
+20
+interception of a wire communication, oral com-
+21
+munication, or electronic communication under 
+22
+chapter 119 or under an equivalent State law; 
+23
+19:57 Mar 29, 2022
+H7214
+3 
+•HR 7214 IH
+‘‘(B) an order authorizing or approving the 
+1
+installation and use of a pen register or a trap 
+2
+and trace device under chapter 206 or under an 
+3
+equivalent State law; 
+4
+‘‘(C) an order for the installation of a mo-
+5
+bile tracking device under section 3117; 
+6
+‘‘(D) an order for disclosure under chapter 
+7
+121; 
+8
+‘‘(E) an order for a delay of notification or 
+9
+nondisclosure under section 2705; 
+10
+‘‘(F) a search or seizure warrant issued 
+11
+using the procedures described in the Federal 
+12
+Rules of Criminal Procedure or in the case of 
+13
+a State or Tribal court, issued using State or 
+14
+Tribal warrant procedures; 
+15
+‘‘(G) in the case of a court-martial or other 
+16
+proceeding under chapter 47 of title 10 (Uni-
+17
+form Code of Military Justice), a warrant or 
+18
+order issued under section 846 of that title; 
+19
+‘‘(H) a warrant under section 3103a; 
+20
+‘‘(I) an order under section 1651 of title 
+21
+28; 
+22
+‘‘(J) an order for third party assistance 
+23
+under section 2518(4) or section 3124; or 
+24
+19:57 Mar 29, 2022
+H7214
+4 
+•HR 7214 IH
+‘‘(K) an order to enforce the assistance ca-
+1
+pability and capacity requirements under sec-
+2
+tion 2522. 
+3
+‘‘(4) ELECTRONIC COMMUNICATION; ORAL COM-
+4
+MUNICATION; WIRE
+COMMUNICATION.—The terms 
+5
+‘electronic communication’, ‘oral communication’, 
+6
+and ‘wire communication’ have the meanings given 
+7
+the terms in section 2510. 
+8
+‘‘(5) INDIAN TRIBE.—The term ‘Indian Tribe’ 
+9
+has the meaning given such term in section 102 of 
+10
+the Federally Recognized Indian Tribe List Act of 
+11
+1994 (25 U.S.C. 5130). 
+12
+‘‘(6) INVENTORY.—The term ‘inventory’ means 
+13
+the inventory and other materials— 
+14
+‘‘(A) returned to a Federal, State, or Trib-
+15
+al court or a court-martial or other proceeding 
+16
+under chapter 47 of title 10 (Uniform Code of 
+17
+Military Justice) in connection with the execu-
+18
+tion of a criminal surveillance order (including 
+19
+under paragraph (1)(D) or (2)(B) of rule 41(f) 
+20
+of the Federal Rules of Criminal Procedure, 
+21
+under comparable State warrant procedures, or 
+22
+under procedures applicable to a court-martial 
+23
+or other proceeding under chapter 47 of title 
+24
+10); or 
+25
+19:57 Mar 29, 2022
+H7214
+5 
+•HR 7214 IH
+‘‘(B) provided to persons and other parties 
+1
+described in section 2518(8)(d). 
+2
+‘‘(7) STATE.—The term ‘State’ means each of 
+3
+the several States of the United States, the District 
+4
+of Columbia, the Commonwealth of Puerto Rico, 
+5
+American Samoa, the Commonwealth of the North-
+6
+ern Mariana Islands, Guam, and the United States 
+7
+Virgin Islands. 
+8
+‘‘(8) SUBSTANTIALLY
+PREVAILS.—The term 
+9
+‘substantially prevails’ has the meaning given the 
+10
+term in section 552(a)(4)(E) of title 5. 
+11
+‘‘§ 3132. Criminal surveillance orders 
+12
+‘‘(a) LIMITATION ON SEALING.— 
+13
+‘‘(1) IN GENERAL.—Except as provided in para-
+14
+graph (2), a court may not seal a criminal surveil-
+15
+lance order, application, or inventory for a period 
+16
+that extends after the later of— 
+17
+‘‘(A) date the order is executed; or 
+18
+‘‘(B) the date on which the authorized sur-
+19
+veillance ends. 
+20
+‘‘(2) EXCEPTIONS.— 
+21
+‘‘(A) IN
+GENERAL.—An applicant for a 
+22
+criminal surveillance order may file a written 
+23
+request for the court to seal the criminal sur-
+24
+veillance order, the application, or the inventory 
+25
+19:57 Mar 29, 2022
+H7214
+6 
+•HR 7214 IH
+for a period not to exceed 180 days after the 
+1
+later of the date the order is executed or the 
+2
+date on which the authorized surveillance ends, 
+3
+which request the court shall grant if the appli-
+4
+cant certifies that there is reason to believe that 
+5
+failure to seal will have an adverse result de-
+6
+scribed in subparagraph (B). 
+7
+‘‘(B) ADVERSE RESULT.— 
+8
+‘‘(i) IN GENERAL.—An adverse result 
+9
+described in this subparagraph is— 
+10
+‘‘(I) endangering the life or phys-
+11
+ical safety of an individual; 
+12
+‘‘(II) flight from prosecution; 
+13
+‘‘(III) destruction of or tam-
+14
+pering with evidence; 
+15
+‘‘(IV) intimidation of potential 
+16
+witnesses; or 
+17
+‘‘(V) otherwise seriously jeopard-
+18
+izing the investigation to which the 
+19
+criminal surveillance order relates or 
+20
+unduly delaying a trial resulting from 
+21
+the investigation. 
+22
+‘‘(ii) OTHER REQUIREMENTS.— 
+23
+‘‘(I) IN GENERAL.—When certi-
+24
+fying an adverse result, the applicant 
+25
+19:57 Mar 29, 2022
+H7214
+7 
+•HR 7214 IH
+shall certify that there is reason to be-
+1
+lieve that the person whose informa-
+2
+tion is targeted by the order does not 
+3
+know— 
+4
+‘‘(aa) about the investiga-
+5
+tion; and 
+6
+‘‘(bb) that they are a target 
+7
+or person of interest in the inves-
+8
+tigation. 
+9
+‘‘(II) FAILURE TO CERTIFY.—If 
+10
+the applicant does not satisfy the re-
+11
+quirements of subclause (I)— 
+12
+‘‘(aa) the applicant must fol-
+13
+low the higher standard of judi-
+14
+cial review required by subpara-
+15
+graph (C)(ii); and 
+16
+‘‘(bb) the failure to satisfy 
+17
+such requirements shall be dis-
+18
+closed in both the criminal sur-
+19
+veillance order and any pre-
+20
+clusion of notice order issued for 
+21
+that criminal surveillance order. 
+22
+‘‘(iii) REVIEW BY COURT.—The court 
+23
+may, in its discretion, require the govern-
+24
+ment to provide the factual basis for the 
+25
+19:57 Mar 29, 2022
+H7214
+8 
+•HR 7214 IH
+certification described in clause (i) and 
+1
+may review that factual basis for suffi-
+2
+ciency. 
+3
+‘‘(iv) NOTIFICATION.— 
+4
+‘‘(I) 
+IN
+GENERAL.—For 
+any 
+5
+criminal surveillance order, applica-
+6
+tion, or inventory that is sealed at the 
+7
+Government’s request, the Govern-
+8
+ment shall promptly notify the court if 
+9
+the Government no longer has reason 
+10
+to believe that removal of a seal will 
+11
+have an adverse result described in 
+12
+this subparagraph. 
+13
+‘‘(II) UNSEALING.—After being 
+14
+notified by the Government under 
+15
+subclause (I), the court shall unseal 
+16
+the criminal surveillance order, appli-
+17
+cation, or inventory. 
+18
+‘‘(C) EXTENSIONS.— 
+19
+‘‘(i) IN
+GENERAL.—The court may 
+20
+grant a single extension of a sealing order 
+21
+for up to 180 days, upon the applicant’s 
+22
+motion, based on a renewed certification 
+23
+that failure to extend the sealing period 
+24
+19:57 Mar 29, 2022
+H7214
+9 
+•HR 7214 IH
+will have an adverse result described in 
+1
+subparagraph (B). 
+2
+‘‘(ii) HEIGHTENED JUDICIAL REVIEW 
+3
+OF SUBSEQUENT EXTENSIONS.— 
+4
+‘‘(I) IN GENERAL.—For any ex-
+5
+tension after an extension under 
+6
+clause (i), the court may grant an ex-
+7
+tension of a sealing order for up to 
+8
+180 days, upon the applicant’s mo-
+9
+tion, if the applicant— 
+10
+‘‘(aa) demonstrates— 
+11
+‘‘(AA) a particularized 
+12
+showing that failure to ex-
+13
+tend the sealing period will 
+14
+have an adverse result de-
+15
+scribed in subparagraph (B); 
+16
+and 
+17
+‘‘(BB) a particularized 
+18
+showing that the adverse re-
+19
+sult would not be avoided by 
+20
+redaction of specified words, 
+21
+phrases, or passages in the 
+22
+criminal surveillance order, 
+23
+application, 
+or 
+inventory; 
+24
+and 
+25
+19:57 Mar 29, 2022
+H7214
+10 
+•HR 7214 IH
+‘‘(bb) details— 
+1
+‘‘(AA) the nature of the 
+2
+investigation; 
+3
+‘‘(BB) 
+the 
+suspected 
+4
+crimes; 
+5
+‘‘(CC) the name of the 
+6
+target; and 
+7
+‘‘(DD) 
+specific 
+facts 
+8
+that substantiate the need 
+9
+for the extension. 
+10
+‘‘(II) REDACTED DOCUMENTS.— 
+11
+‘‘(aa) IN GENERAL.—If the 
+12
+court determines that an appli-
+13
+cant has met the requirements of 
+14
+subitem 
+(AA) 
+of 
+subclause 
+15
+(I)(aa), but not the requirements 
+16
+of subitem (BB) of subclause 
+17
+(I)(aa), the court shall order the 
+18
+applicant to submit proposed 
+19
+redactions to each sealed docu-
+20
+ment. 
+21
+‘‘(bb) DISPOSITION.—After 
+22
+considering 
+the 
+proposed 
+23
+redactions of the applicant, if 
+24
+any, the court may order the ap-
+25
+19:57 Mar 29, 2022
+H7214
+11 
+•HR 7214 IH
+plicant to refile 1 or more sealed 
+1
+documents with such redactions 
+2
+as the court finds appropriate, 
+3
+direct the clerk to unseal the en-
+4
+tirety of 1 or more sealed docu-
+5
+ments, or order that 1 or more 
+6
+sealed documents remain under 
+7
+seal. 
+8
+‘‘(D) SEALING
+OF
+REJECTED
+APPLICA-
+9
+TIONS AND UNEXECUTED CRIMINAL SURVEIL-
+10
+LANCE
+ORDERS.—A court may, pursuant to 
+11
+subparagraph (A), seal an unexecuted criminal 
+12
+surveillance order, or a rejected application. 
+13
+‘‘(E) CHALLENGE
+OF
+ADVERSE
+RESULT 
+14
+CERTIFICATION OR EXTENSION.— 
+15
+‘‘(i) IN GENERAL.—Any person sub-
+16
+ject to and seeking to challenge a pre-
+17
+clusion of notice order or any person seek-
+18
+ing to unseal a surveillance order, applica-
+19
+tion, or inventory may challenge— 
+20
+‘‘(I) a certification of the adverse 
+21
+result under this paragraph; or 
+22
+‘‘(II) the particularized showings 
+23
+and detailed information necessary for 
+24
+a second and subsequent extension. 
+25
+19:57 Mar 29, 2022
+H7214
+12 
+•HR 7214 IH
+‘‘(ii) HEIGHTENED STANDARD.—If an 
+1
+order under this paragraph or a preclusion 
+2
+of notice order for a subpoena or emer-
+3
+gency request is issued earlier than 1 year 
+4
+before the date on which a challenge under 
+5
+clause (i) is made, the requirements of 
+6
+subparagraph (C)(ii) shall apply to a war-
+7
+rant or order sealed in accordance with 
+8
+chapter 206A or the subpoena or emer-
+9
+gency request. 
+10
+‘‘(iii) COSTS.—If a person substan-
+11
+tially prevails in a challenge under this 
+12
+subparagraph, the court shall order the ap-
+13
+plicant for the criminal surveillance order 
+14
+at issue to pay the litigation costs of the 
+15
+person (including reasonable attorney’s 
+16
+fees). 
+17
+‘‘(b) DOCKETING AND PUBLICATION OF CRIMINAL 
+18
+SURVEILLANCE ORDERS, APPLICATIONS, INVENTORIES, 
+19
+AND ASSOCIATED DOCKET RECORDS.— 
+20
+‘‘(1) DOCKET RECORDS.—Except as provided in 
+21
+paragraph (2), regardless of whether a court seals a 
+22
+criminal surveillance order or application under this 
+23
+section, the public docket record for any criminal 
+24
+surveillance case shall— 
+25
+19:57 Mar 29, 2022
+H7214
+13 
+•HR 7214 IH
+‘‘(A) be made available as an open Govern-
+1
+ment data asset and under an open license, as 
+2
+such terms are defined in section 3502 of title 
+3
+44, 
+and 
+in 
+a 
+manner 
+that 
+facilitates 
+4
+downloading docket records in bulk, in accord-
+5
+ance with rules promulgated by the Judicial 
+6
+Conference of the United States, after consulta-
+7
+tion with the National Institute of Standards 
+8
+and Technology, the Administrator of General 
+9
+Services, the Electronic Public Access Public 
+10
+User Group, private entities offering electronic 
+11
+case management software, the National Center 
+12
+for State Courts, and the National American 
+13
+Indian Court Judges Association, on the 
+14
+website of the court; and 
+15
+‘‘(B) include, at a minimum— 
+16
+‘‘(i) the date and time the application 
+17
+was filed, the order was entered, and the 
+18
+warrant was returned to the court, where 
+19
+applicable; 
+20
+‘‘(ii) the type of order, including— 
+21
+‘‘(I) 
+the 
+statutory 
+authority 
+22
+under which the order was issued; 
+23
+‘‘(II) the type of crime under in-
+24
+vestigation; 
+25
+19:57 Mar 29, 2022
+H7214
+14 
+•HR 7214 IH
+‘‘(III) the investigating agency; 
+1
+‘‘(IV) the duration of the re-
+2
+quested surveillance if any; 
+3
+‘‘(V) whether sealing and de-
+4
+ferred notice were requested, if so for 
+5
+how long; 
+6
+‘‘(VI) whether an order for third 
+7
+party assistance was requested; and 
+8
+‘‘(VII) disposition by the court, 
+9
+whether granted, modified, or denied; 
+10
+‘‘(iii) an index describing any subse-
+11
+quent filings or orders related to the case; 
+12
+‘‘(iv) the unique case number in ac-
+13
+cordance with paragraph (3); and 
+14
+‘‘(v) the date on which the seal will 
+15
+expire (unless extended pursuant to sub-
+16
+section (a)(2)(C)). 
+17
+‘‘(2) SHOWING
+OF
+ADVERSE
+RESULT.—If an 
+18
+applicant in a sealed case demonstrates that public 
+19
+disclosure of any docket item listed in paragraph 
+20
+(1)(B)(ii) will have an adverse result described in 
+21
+subsection (a)(2)(B), the court may direct the clerk 
+22
+to withhold that item from the public docket record 
+23
+until the sealing order expires. 
+24
+‘‘(3) CASE NUMBER AND CAPTION.— 
+25
+19:57 Mar 29, 2022
+H7214
+15 
+•HR 7214 IH
+‘‘(A) IN GENERAL.—A court shall assign 
+1
+for each application— 
+2
+‘‘(i) a unique case number for every 
+3
+identified target, including for each unique 
+4
+street address, parcel, person, phone num-
+5
+ber, device, or account targeted; and 
+6
+‘‘(ii) a case caption providing only ge-
+7
+neric information about the type of order 
+8
+sought and the target of the order. 
+9
+‘‘(B) REQUIREMENTS.—A court shall as-
+10
+sign a case number and case caption under sub-
+11
+paragraph (A) in accordance with rules promul-
+12
+gated by the Judicial Conference of the United 
+13
+States, in consultation with the Electronic Pub-
+14
+lic Access Public User Group, or in the case of 
+15
+a State court, in accordance with rules promul-
+16
+gated by the highest court of the State, and in 
+17
+the case of a Tribal court, in accordance with 
+18
+rules promulgated by the highest court of the 
+19
+Indian Tribe. 
+20
+‘‘(4) COMPLIANCE WITH THE REHABILITATION 
+21
+ACT OF 1973.—Each criminal surveillance order, ap-
+22
+plication, inventory, and public docket record for any 
+23
+criminal surveillance case required under this sub-
+24
+section shall be published in a form that complies 
+25
+19:57 Mar 29, 2022
+H7214
+16 
+•HR 7214 IH
+with section 508 of the Rehabilitation Act of 1973 
+1
+(29 U.S.C. 794d). 
+2
+‘‘(5) NONDISCLOSURE ORDERS.—When apply-
+3
+ing for an order for nondisclosure under section 
+4
+2705, to prevent the disclosure of a subpoena— 
+5
+‘‘(A) the applicant for the order shall in-
+6
+clude a copy of the subpoena; and 
+7
+‘‘(B) the court shall docket the subpoena 
+8
+as part of the application for the order. 
+9
+‘‘(6) AUTOMATIC
+UNSEALING
+AND
+NOTIFICA-
+10
+TION.—The court shall employ a technical mecha-
+11
+nism to automatically— 
+12
+‘‘(A) unseal criminal surveillance orders 
+13
+not later than the end of the next business day 
+14
+after the seal expires; and 
+15
+‘‘(B) provide notice, 10 business days be-
+16
+fore scheduled unsealing, to the law enforce-
+17
+ment agency that filed the application for the 
+18
+criminal surveillance order. 
+19
+‘‘(c) FILING.—An application and the inventory shall 
+20
+be filed electronically. 
+21
+‘‘§ 3133. 
+Request 
+for 
+unsealing 
+or 
+challenging 
+22
+redactions 
+23
+‘‘(a) IN GENERAL.—Any person may submit a re-
+24
+quest to a court to— 
+25
+19:57 Mar 29, 2022
+H7214
+17 
+•HR 7214 IH
+‘‘(1) unseal an application for a criminal sur-
+1
+veillance order, a criminal surveillance order, or an 
+2
+inventory; or 
+3
+‘‘(2) challenge a redaction under section 
+4
+3132(a)(2)(C)(ii)(II). 
+5
+‘‘(b) FORM.—A request described in subsection (a) 
+6
+may be submitted as part of— 
+7
+‘‘(1) the particular criminal surveillance matter, 
+8
+including as a motion to unseal; or 
+9
+‘‘(2) as a stand-alone, separate case. 
+10
+‘‘(c) MULTIPLE APPLICATIONS
+AND ORDERS UN-
+11
+SEALED.—A request described in subsection (a) may in-
+12
+clude more than 1 application for a criminal surveillance 
+13
+order, criminal surveillance order, or an inventory.’’. 
+14
+(b) TECHNICAL AND CONFORMING AMENDMENTS.— 
+15
+(1) IN
+GENERAL.—Title 18, United States 
+16
+Code, is amended— 
+17
+(A) in section 2518(8)— 
+18
+(i) by striking paragraph (b); and 
+19
+(ii) by redesignating paragraphs (c) 
+20
+and (d) as subparagraphs (b) and (c), re-
+21
+spectively; 
+22
+(B) in section 3123, by striking subsection 
+23
+(d); and 
+24
+(C) in section 3103a(b)(1)— 
+25
+19:57 Mar 29, 2022
+H7214
+18 
+•HR 7214 IH
+(i) by striking ‘‘2705’’ and inserting 
+1
+‘‘3132)’’; and 
+2
+(ii) by striking ‘‘trial)’’ and inserting 
+3
+‘‘trial’’. 
+4
+(2) E-GOVERNMENT ACT OF 2002.— 
+5
+(A) IN GENERAL.—Section 205 of the E- 
+6
+Government Act of 2002 (44 U.S.C. 3501 note) 
+7
+is amended— 
+8
+(i) in subsection (a), by adding at the 
+9
+end the following: 
+10
+‘‘(8) Access to the substance of all applications 
+11
+for criminal surveillance orders, criminal surveillance 
+12
+orders, and inventories in a text searchable format 
+13
+in accordance with chapter 206A of title 18, United 
+14
+States Code.’’; and 
+15
+(ii) in subsection (c)— 
+16
+(I) by striking paragraph (2) and 
+17
+inserting the following: 
+18
+‘‘(2) EXCEPTIONS.— 
+19
+‘‘(A) IN GENERAL.—Documents that are 
+20
+filed that are not otherwise available to the 
+21
+public, such as documents filed under seal, shall 
+22
+not be made available online. 
+23
+‘‘(B) CRIMINAL SURVEILLANCE ORDERS.— 
+24
+Subparagraph (A) shall not apply to applica-
+25
+19:57 Mar 29, 2022
+H7214
+19 
+•HR 7214 IH
+tions for criminal surveillance orders, criminal 
+1
+surveillance orders, and inventories that are 
+2
+publicly available in accordance with chapter 
+3
+206A of title 18, United States Code.’’; and 
+4
+(II) in paragraph (3), by adding 
+5
+at the end the following: 
+6
+‘‘(D) The Supreme Court shall update the 
+7
+rules prescribed under subparagraph (A) to ad-
+8
+dress personal information included in criminal 
+9
+surveillance orders, applications, and inventories 
+10
+that are made available to the public.’’. 
+11
+(3) TABLE OF CHAPTERS.—The table of chap-
+12
+ters for part II of title 18, United States Code, is 
+13
+amended by inserting after the item relating to 
+14
+chapter 206 the following: 
+15
+‘‘206A. Criminal surveillance orders ......................................... 3121’’. 
+(c) EFFECTIVE DATE.— 
+16
+(1) IN GENERAL.—Except as provided in para-
+17
+graphs (2) and (3), the amendments made by this 
+18
+section shall take effect on the date that is 2 years 
+19
+after the date of enactment of this Act. 
+20
+(2) DELAYED
+APPLICABILITY
+FOR
+CERTAIN 
+21
+STATE AND TRIBAL COURTS.— 
+22
+(A) IN
+GENERAL.—Subsections (b)(1)(A) 
+23
+and (c) of section 3132 of title 18, United 
+24
+States Code, as added by subsection (a) of this 
+25
+19:57 Mar 29, 2022
+H7214
+20 
+•HR 7214 IH
+section, shall apply on and after the date that 
+1
+is 4 years after the date of enactment of this 
+2
+Act— 
+3
+(i) to a State or Tribal court that, on 
+4
+the date of enactment of this Act, does not 
+5
+offer electronic docketing or public online 
+6
+access to dockets; or 
+7
+(ii) to any State or Tribal court that 
+8
+certifies that the court needs more time to 
+9
+comply with the requirements of those sub-
+10
+sections. 
+11
+(3) AUTHORITY
+TO
+DELAY
+ELECTRONIC
+FIL-
+12
+ING.— 
+13
+(A) CERTIFICATION.— 
+14
+(i) FEDERAL COURTS.—The applica-
+15
+tion of subsection (c) of section 3132 of 
+16
+title 18, United States Code, as added by 
+17
+subsection (a) of this section, to Federal 
+18
+courts under paragraph (1) of this sub-
+19
+section shall be delayed for 1 year if the 
+20
+Director of the Administrative Office of 
+21
+the United States Courts certifies that the 
+22
+system used by Federal courts for elec-
+23
+tronic filing is not sufficiently secure. 
+24
+19:57 Mar 29, 2022
+H7214
+21 
+•HR 7214 IH
+(ii) STATE
+AND
+TRIBAL
+COURTS.— 
+1
+The application of subsection (c) of section 
+2
+3132 of title 18, United States Code, as 
+3
+added by subsection (a) of this section, to 
+4
+a State or Tribal court under paragraph 
+5
+(1) or (2) of this subsection, as applicable, 
+6
+shall be delayed for 1 year if the chief 
+7
+judge of the highest court of the State or 
+8
+Tribe certifies that the system used by the 
+9
+State or Tribal court for electronic filing is 
+10
+not sufficiently secure. 
+11
+(B) CONTENTS.—A certification under 
+12
+subparagraph (A) shall include an estimate of 
+13
+the date by which the electronic filing system of 
+14
+the applicable court will be sufficiently secure. 
+15
+(C) RENEWAL OF DELAY.—The delay of 
+16
+the application of subsection (c) of section 3132 
+17
+of title 18, United States Code, as added by 
+18
+subsection (a) of this section, to Federal courts 
+19
+or to a State or Tribal court may be delayed for 
+20
+1 or more additional 1-year periods if the Di-
+21
+rector of the Administrative Office of the 
+22
+United States Courts or the chief judge of the 
+23
+highest court of the State or Tribe, respectively, 
+24
+19:57 Mar 29, 2022
+H7214
+22 
+•HR 7214 IH
+submits an additional certification in accord-
+1
+ance with subparagraphs (A) and (B). 
+2
+(D) 
+PUBLICATION.—Any 
+certification 
+3
+under this paragraph shall be— 
+4
+(i) made available on the website of 
+5
+the court system with respect to which the 
+6
+certification is submitted; and 
+7
+(ii) submitted to the Committee on 
+8
+the Judiciary of the Senate and the Com-
+9
+mittee on the Judiciary of the House of 
+10
+Representatives. 
+11
+(d) APPLICABILITY.— 
+12
+(1) DEFINITIONS.—In this subsection, the 
+13
+terms ‘‘application’’, ‘‘criminal surveillance order’’, 
+14
+and ‘‘inventory’’ have the meanings given such terms 
+15
+in section 3131 of title 18, United States Code, as 
+16
+added by subsection (a). 
+17
+(2) APPLICATION.—The amendments made by 
+18
+this section shall apply to— 
+19
+(A) any application filed or inventory re-
+20
+turned on or after the date described in sub-
+21
+section (d); and 
+22
+(B) any criminal surveillance order entered 
+23
+on or after the date described in subsection (d). 
+24
+19:57 Mar 29, 2022
+H7214
+23 
+•HR 7214 IH
+(3) RULE
+OF
+CONSTRUCTION
+REGARDING 
+1
+UNSEALING.—Nothing in the amendments made by 
+2
+this section shall be construed to prohibit a court 
+3
+from unsealing— 
+4
+(A) a criminal surveillance order entered or 
+5
+inventory returned before the date described in 
+6
+subsection (d); or 
+7
+(B) an application for a criminal surveil-
+8
+lance order made before the date described in 
+9
+subsection (d). 
+10
+(4) RULE OF CONSTRUCTION REGARDING IN-
+11
+TERPRETATION.—The amendments made by this 
+12
+section shall be liberally construed in favor of public 
+13
+access to documents, to the extent possible. 
+14
+SEC. 3. NOTICE TO COURTS OF UNLAWFUL SURVEILLANCE. 
+15
+(a) REQUIRED DISCLOSURE OF CUSTOMER COMMU-
+16
+NICATIONS OR RECORDS.—Section 2703(d) of title 18, 
+17
+United States Code, is amended— 
+18
+(1) by striking ‘‘A court order’’ and inserting 
+19
+the following: 
+20
+‘‘(1) IN GENERAL.—A court order’’; and 
+21
+(2) by adding at the end the following: 
+22
+‘‘(2) REQUIRED INVENTORY.—A court order for 
+23
+disclosure issued under subsection (b) or (c) shall re-
+24
+quire an inventory described in rule 41(f)(1)(B) of 
+25
+19:57 Mar 29, 2022
+H7214
+24 
+•HR 7214 IH
+the Federal Rules of Criminal Procedure, or any 
+1
+successor thereto, be promptly returned to the court 
+2
+if the provider disclosed to the government any data 
+3
+not authorized by the court.’’. 
+4
+(b) ISSUANCE OF AN ORDER FOR A PEN REGISTER 
+5
+OR A TRAP AND TRACE DEVICE.—Section 3123(b) of title 
+6
+18, United States Code, is amended— 
+7
+(1) in paragraph (1)(D), by striking ‘‘and’’ at 
+8
+the end; 
+9
+(2) in paragraph (2), by striking the period at 
+10
+the end and inserting ‘‘; and’’; and 
+11
+(3) by adding at the end the following: 
+12
+‘‘(3) shall require an inventory described in rule 
+13
+41(f)(1)(B) of the Federal Rules of Criminal Proce-
+14
+dure, or any successor thereto, be promptly returned 
+15
+to the court if— 
+16
+‘‘(A) the provider disclosed to the govern-
+17
+ment any electronic data not authorized by the 
+18
+court; or 
+19
+‘‘(B) the government obtained dialing, 
+20
+routing, addressing, or signaling information 
+21
+that was not authorized by the court or in a 
+22
+manner that exceeded the authorization granted 
+23
+by the court.’’. 
+24
+19:57 Mar 29, 2022
+H7214
+25 
+•HR 7214 IH
+(c) RULE 41.—Rule 41(f)(1)(B) of the Federal Rules 
+1
+of Criminal Procedure is amended by inserting after the 
+2
+period at the end the following: 
+3
+‘‘If an inventory is required pursuant to this rule, or 
+4
+if an inventory is required by section 2703(d)(2) of 
+5
+title 18, United States Code, or section 3123(b)(3) 
+6
+of that title, the inventory shall— 
+7
+‘‘(i) disclose whether the provider dis-
+8
+closed to the government any electronic 
+9
+data not authorized by the court and, if so, 
+10
+provide detailed information regarding the 
+11
+disclosure; and 
+12
+‘‘(ii) disclose whether the government 
+13
+searched persons or property, including ac-
+14
+counts or electronic devices, or obtained di-
+15
+aling, routing, addressing, or signaling in-
+16
+formation not authorized by the court or in 
+17
+a manner that exceeded the authorization 
+18
+granted by the court and, if so, provide de-
+19
+tailed information regarding the search.’’. 
+20
+SEC. 4. NOTICE TO SUBJECTS OF LAW ENFORCEMENT SUR-
+21
+VEILLANCE. 
+22
+(a) IN GENERAL.—Section 2703 of title 18, United 
+23
+States Code, is amended— 
+24
+(1) in subsection (a), in the first sentence— 
+25
+19:57 Mar 29, 2022
+H7214
+26 
+•HR 7214 IH
+(A) by inserting ‘‘and in accordance with 
+1
+the requirements for executing and returning a 
+2
+warrant’’ after ‘‘the procedures’’; 
+3
+(B) by inserting ‘‘and execution and re-
+4
+turn’’ after ‘‘State warrant’’; and 
+5
+(C) by inserting ‘‘and in accordance with 
+6
+the requirements for executing and returning 
+7
+such a warrant’’ after ‘‘that title’’; 
+8
+(2) in subsection (b)— 
+9
+(A) in paragraph (1)— 
+10
+(i) in subparagraph (A)— 
+11
+(I) by striking ‘‘without required 
+12
+notice to the subscriber or customer,’’; 
+13
+(II) by inserting ‘‘and in accord-
+14
+ance with the requirements for exe-
+15
+cuting and returning a warrant’’ after 
+16
+‘‘the procedures’’; 
+17
+(III) by inserting ‘‘and execution 
+18
+and return’’ after ‘‘State warrant’’; 
+19
+and 
+20
+(IV) by inserting ‘‘and in accord-
+21
+ance with the requirements for exe-
+22
+cuting and returning such a warrant’’ 
+23
+after ‘‘that title’’; and 
+24
+(ii) in subparagraph (B)— 
+25
+19:57 Mar 29, 2022
+H7214
+27 
+•HR 7214 IH
+(I) in clause (ii), by striking the 
+1
+semicolon at the end and inserting a 
+2
+period; and 
+3
+(II) in the matter following 
+4
+clause (ii), by striking ‘‘except that 
+5
+delayed notice may be given pursuant 
+6
+to section 2705 of this title.’’; and 
+7
+(B) by adding at the end the following: 
+8
+‘‘(3) Notice may not be delayed pursuant to section 
+9
+2705 for a disclosure under paragraph (1)(B)(i).’’; 
+10
+(3) in subsection (c)— 
+11
+(A) in paragraph (1)(A)— 
+12
+(i) by inserting ‘‘and in accordance 
+13
+with the requirements for executing and 
+14
+returning a warrant’’ after ‘‘the proce-
+15
+dures’’; 
+16
+(ii) by inserting ‘‘and execution and 
+17
+return’’ after ‘‘State warrant’’; and 
+18
+(iii) by inserting ‘‘and in accordance 
+19
+with the requirements for executing and 
+20
+returning such a warrant’’ after ‘‘that 
+21
+title’’; and 
+22
+(B) by striking paragraph (3); 
+23
+(4) in subsection (d), as amended by section 
+24
+3(a) of this Act, by adding at the end the following: 
+25
+19:57 Mar 29, 2022
+H7214
+28 
+•HR 7214 IH
+‘‘(3) REQUIREMENTS.—Orders under this sub-
+1
+section shall be issued in accordance with the re-
+2
+quirements for executing and returning a warrant 
+3
+under the Federal Rules of Criminal Procedure.’’; 
+4
+and 
+5
+(5) by adding at the end the following: 
+6
+‘‘(i) SERVICE.— 
+7
+‘‘(1) IN GENERAL.—A governmental entity re-
+8
+ceiving records or information under subsection (a), 
+9
+(b), or (c) of this section or seeking an order under 
+10
+section 3123 shall provide notice prior to conducting 
+11
+the court-authorized surveillance to the subscriber or 
+12
+customer or the person described in subsection 
+13
+(b)(1)(A) of that section, as applicable, unless notice 
+14
+is delayed in accordance with section 2705. If prior 
+15
+notice is infeasible due to inadequate contact infor-
+16
+mation, the governmental entity shall provide the re-
+17
+quired notice within 7 days after receipt of adequate 
+18
+contact information from the provider. 
+19
+‘‘(2) OTHER REQUIREMENTS.—For purposes of 
+20
+serving a copy of a warrant or order described in 
+21
+this section and a receipt for the warrant or order— 
+22
+‘‘(A) the person or persons whose wire or 
+23
+electronic communications are obtained under 
+24
+the warrant or order shall be the person or per-
+25
+19:57 Mar 29, 2022
+H7214
+29 
+•HR 7214 IH
+sons whose property was searched or who pos-
+1
+sessed the information that was seized or cop-
+2
+ied; and 
+3
+‘‘(B) service of the copy of the warrant or 
+4
+order and the receipt may only be delayed in 
+5
+accordance with section 2705.’’. 
+6
+(b) WRITS.—Section 1651 of title 28, United States 
+7
+Code, is amended by adding at the end the following: 
+8
+‘‘(c) In seeking an order to a third party under this 
+9
+section, the Federal Government shall comply with any re-
+10
+quirement for notice applicable to warrants issued under 
+11
+the Federal Rules of Criminal Procedure.’’. 
+12
+(c) VOLUNTARY DISCLOSURE OF CUSTOMER COMMU-
+13
+NICATIONS
+OR RECORDS.—Section 2702 of title 18, 
+14
+United States Code, is amended by adding at the end the 
+15
+following: 
+16
+‘‘(e) NOTICE.—If a governmental entity requests and 
+17
+receives a voluntary disclosure from a provider described 
+18
+in subsection (a)— 
+19
+‘‘(1) the contents of communications pursuant 
+20
+to subsection (b)(8); or 
+21
+‘‘(2) a record or other information pertaining to 
+22
+a subscriber to or customer of such service pursuant 
+23
+to subsection (c)(4), 
+24
+19:57 Mar 29, 2022
+H7214
+30 
+•HR 7214 IH
+the governmental entity shall within 7 days provide notice 
+1
+to the subscriber or customer, unless notice is delayed in 
+2
+accordance with section 2705.’’. 
+3
+SEC. 5. DELAY AND PRECLUSION OF REQUIRED NOTICE. 
+4
+(a) IN GENERAL.—Section 2705 of title 18, United 
+5
+States Code, is amended to read as follows: 
+6
+‘‘§ 2705. Delay and preclusion of notice 
+7
+‘‘(a) DELAY OF REQUIRED NOTICE TO CUSTOMER OR 
+8
+SUBSCRIBER.— 
+9
+‘‘(1) IN GENERAL.—A governmental entity act-
+10
+ing under section 2702, 2703, or section 3123 may 
+11
+apply to a court for an order delaying the required 
+12
+notice to the person whose wire or electronic commu-
+13
+nications or records or information are obtained. 
+14
+‘‘(2) WARRANTS AND ORDERS.—The court may 
+15
+enter an order described in paragraph (1) with re-
+16
+spect to a warrant or order only if the warrant or 
+17
+order is sealed in accordance with chapter 206A, 
+18
+and only for the period during which the sealing 
+19
+order is in effect. 
+20
+‘‘(3) 
+SUBPOENAS
+AND
+EMERGENCY
+RE-
+21
+QUESTS.— 
+22
+‘‘(A) IN GENERAL.—The court shall enter 
+23
+an order described in paragraph (1) with re-
+24
+spect to a subpoena or emergency request for a 
+25
+19:57 Mar 29, 2022
+H7214
+31 
+•HR 7214 IH
+period not to exceed 180 days after the return 
+1
+date of the subpoena or the emergency request 
+2
+if the governmental entity certifies that there is 
+3
+reason to believe that failure to issue the order 
+4
+will have an adverse result described in section 
+5
+3132(a)(2)(B). 
+6
+‘‘(B) EXTENSIONS.— 
+7
+‘‘(i) IN
+GENERAL.—The court shall 
+8
+grant a single extension of an order de-
+9
+scribed in paragraph (1) with respect to a 
+10
+subpoena or emergency request for a pe-
+11
+riod not to exceed 180 days upon the gov-
+12
+ernmental entity’s motion, based on a re-
+13
+newed certification that failure to extend 
+14
+the order will have an adverse result de-
+15
+scribed in section 3132(a)(2)(B). 
+16
+‘‘(ii) SUBSEQUENT EXTENSIONS.— 
+17
+‘‘(I) IN GENERAL.—For any ex-
+18
+tension after an extension under 
+19
+clause (i), the court may grant an ex-
+20
+tension of an order described in para-
+21
+graph (1) with respect to a subpoena 
+22
+or emergency request for up to 180 
+23
+days, upon the governmental entity’s 
+24
+motion, if the governmental entity 
+25
+19:57 Mar 29, 2022
+H7214
+32 
+•HR 7214 IH
+demonstrates a particularized showing 
+1
+described in subitems (AA) and (BB) 
+2
+of section 3132(a)(2)(C)(I)(aa) and 
+3
+details the information described in 
+4
+item (bb) of section 3132(a)(2)(C)(I). 
+5
+‘‘(II) REDACTED DOCUMENTS.— 
+6
+The court shall consider and order 
+7
+redactions under this clause in accord-
+8
+ance with the procedures under sec-
+9
+tion 3132(a)(2)(C)(II). 
+10
+‘‘(C) REVIEW BY COURT.—The court may, 
+11
+in its discretion, require the governmental enti-
+12
+ty to provide the factual basis for the certifi-
+13
+cation described in subparagraph (A) and may 
+14
+review that factual basis for sufficiency. 
+15
+‘‘(D) NOTIFICATION.— 
+16
+‘‘(i) IN
+GENERAL.—A governmental 
+17
+entity shall promptly notify the court once 
+18
+the governmental entity no longer has rea-
+19
+son to believe that the order is necessary 
+20
+to prevent an adverse result described in 
+21
+section 3132(a)(2)(B). 
+22
+‘‘(ii) REVOCATION.—After being noti-
+23
+fied by the governmental entity under 
+24
+clause (i), the court shall revoke the order. 
+25
+19:57 Mar 29, 2022
+H7214
+33 
+•HR 7214 IH
+‘‘(b) PRECLUSION OF NOTICE TO SUBJECT OF GOV-
+1
+ERNMENTAL ACCESS.— 
+2
+‘‘(1) AUTHORITY.— 
+3
+‘‘(A) IN GENERAL.—Except as provided in 
+4
+paragraph (2) a governmental entity acting 
+5
+under section 2703 or section 3123 may apply 
+6
+to a court for— 
+7
+‘‘(i) an order commanding a provider 
+8
+of electronic communications service or re-
+9
+mote computing service to whom a crimi-
+10
+nal surveillance order, as defined in section 
+11
+3131, or subpoena is directed, not to notify 
+12
+any other person of the existence of the 
+13
+criminal surveillance order or subpoena; or 
+14
+‘‘(ii) an order commanding a person 
+15
+owning or leasing the line or other facility 
+16
+to which the pen register or a trap and 
+17
+trace device is attached or applied, or who 
+18
+is obligated by the order to provide assist-
+19
+ance to the applicant, not to notify any 
+20
+other person of the existence of a pen reg-
+21
+ister or trap and trace device, as such 
+22
+terms are defined in section 3127. 
+23
+‘‘(B) CRIMINAL SURVEILLANCE ORDERS.— 
+24
+The court may enter an order described in sub-
+25
+19:57 Mar 29, 2022
+H7214
+34 
+•HR 7214 IH
+paragraph (A) with respect to a criminal sur-
+1
+veillance order only if the criminal surveillance 
+2
+order is sealed in accordance with chapter 
+3
+206A, and only for the period during which the 
+4
+sealing order is in effect. 
+5
+‘‘(C) SUBPOENAS.— 
+6
+‘‘(i) IN
+GENERAL.—The court shall 
+7
+enter an order described in subparagraph 
+8
+(A) with respect to a subpoena for a period 
+9
+not to exceed 180 days after the return 
+10
+date of the subpoena if the governmental 
+11
+entity certifies that there is reason to be-
+12
+lieve that failure to issue the order will 
+13
+have an adverse result described in section 
+14
+3132(a)(2)(B). 
+15
+‘‘(ii) EXTENSIONS.— 
+16
+‘‘(I) IN
+GENERAL.—The court 
+17
+shall grant a single extension of an 
+18
+order described in subparagraph (A) 
+19
+with respect to a subpoena for a pe-
+20
+riod not to exceed 180 days upon the 
+21
+governmental entity’s motion, based 
+22
+on a renewed certification that failure 
+23
+to extend the order will have an ad-
+24
+19:57 Mar 29, 2022
+H7214
+35 
+•HR 7214 IH
+verse result described in section 
+1
+3132(a)(2)(B). 
+2
+‘‘(II) 
+SUBSEQUENT
+EXTEN-
+3
+SIONS.— 
+4
+‘‘(aa) 
+IN
+GENERAL.—For 
+5
+any extension after an extension 
+6
+under subclause (I), the court 
+7
+may grant an extension of an 
+8
+order described in subparagraph 
+9
+(A) with respect to a subpoena 
+10
+for up to 180 days, upon the gov-
+11
+ernmental entity’s motion, if the 
+12
+governmental entity demonstrates 
+13
+a 
+particularized 
+showing 
+de-
+14
+scribed in subitems (AA) and 
+15
+(BB) 
+of 
+section 
+16
+3132(a)(2)(C)(I)(aa) and details 
+17
+the information described in item 
+18
+(bb) of section 3132(a)(2)(C)(I). 
+19
+‘‘(bb) 
+REDACTED
+DOCU-
+20
+MENTS.—The court shall con-
+21
+sider and order redactions under 
+22
+this subclause in accordance with 
+23
+the procedures under section 
+24
+3132(a)(2)(C)(II). 
+25
+19:57 Mar 29, 2022
+H7214
+36 
+•HR 7214 IH
+‘‘(iii) REVIEW BY COURT.—The court 
+1
+may, in its discretion, require the govern-
+2
+mental entity to provide the factual basis 
+3
+for the certification described in clause (i) 
+4
+and may review that factual basis for suffi-
+5
+ciency. 
+6
+‘‘(iv) NOTIFICATION.— 
+7
+‘‘(I) IN
+GENERAL.—A govern-
+8
+mental entity shall promptly notify 
+9
+the court once the governmental enti-
+10
+ty no longer has reason to believe that 
+11
+the order is necessary to prevent an 
+12
+adverse result described in section 
+13
+3132(a)(2)(B). 
+14
+‘‘(II) REVOCATION.—After being 
+15
+notified by the governmental entity, 
+16
+the court shall revoke the order. 
+17
+‘‘(D) LIMITATIONS.—Preclusion of notice 
+18
+orders that may be issued only under subpara-
+19
+graph (A)(i) to criminal surveillance orders or 
+20
+subpoenas that are listed in the preclusion of 
+21
+notice order. 
+22
+‘‘(2) EXCEPTIONS.—Paragraph (1) shall not 
+23
+apply to— 
+24
+19:57 Mar 29, 2022
+H7214
+37 
+•HR 7214 IH
+‘‘(A) any person to whom disclosure is nec-
+1
+essary in order to comply with the request; 
+2
+‘‘(B) an attorney in order to obtain legal 
+3
+advice or assistance regarding the request; or 
+4
+‘‘(C) any other person as permitted by the 
+5
+court. 
+6
+‘‘(3) RULE
+OF
+CONSTRUCTION.—Nothing in 
+7
+this subsection may be construed to prohibit a re-
+8
+cipient of an order under this subsection from chal-
+9
+lenging the order on grounds that the order violates 
+10
+the Constitution of the United States or, in the case 
+11
+of an order issued by a State or Tribal court, the 
+12
+State or Tribal constitution. 
+13
+‘‘(c) REPORTS CONCERNING PRECLUSION OF NOTICE 
+14
+ORDERS.— 
+15
+‘‘(1) IN GENERAL.—In January of each year, 
+16
+any judge who has issued an order (or an extension 
+17
+thereof) under subsection (b) that expired during the 
+18
+preceding year, or who has denied approval of a re-
+19
+quest for a preclusion of notice order, shall report to 
+20
+the Administrative Office of the United States 
+21
+Courts— 
+22
+‘‘(A) the fact that an order or extension 
+23
+was applied for; 
+24
+19:57 Mar 29, 2022
+H7214
+38 
+•HR 7214 IH
+‘‘(B) the fact that the order or extension 
+1
+was granted as applied for, was modified, or 
+2
+was denied; 
+3
+‘‘(C) the period of the preclusion of notice 
+4
+required by the order, and the number and du-
+5
+ration of any extensions of the order; 
+6
+‘‘(D) the nature of the offense or criminal 
+7
+investigation that was the basis for the under-
+8
+lying criminal surveillance order; 
+9
+‘‘(E) the name of each provider of elec-
+10
+tronic communication service or remote com-
+11
+puting service served with the order, if so 
+12
+granted; and 
+13
+‘‘(F) the investigative or law enforcement 
+14
+agency that submitted the application. 
+15
+‘‘(2) PUBLIC REPORT.—In June of each year, 
+16
+the Director of the Administrative Office of the 
+17
+United States Courts shall publish on the website of 
+18
+the Administrative Office of the United States 
+19
+Courts and include in the report required under sec-
+20
+tion 2519(3)— 
+21
+‘‘(A) a full and complete report con-
+22
+cerning— 
+23
+‘‘(i) the number of applications for or-
+24
+ders authorizing or approving the pre-
+25
+19:57 Mar 29, 2022
+H7214
+39 
+•HR 7214 IH
+clusion of notice pursuant to this section; 
+1
+and 
+2
+‘‘(ii) the number of orders and exten-
+3
+sions granted or denied pursuant to this 
+4
+section during the preceding calendar year; 
+5
+and 
+6
+‘‘(B) a detailed summary and analysis of 
+7
+each category of data required to be reported 
+8
+under paragraph (1). 
+9
+‘‘(3) FORMAT.—Not later than 180 days after 
+10
+the date of enactment of this section, the Director 
+11
+of the Administrative Office of the United States 
+12
+Courts shall, in consultation with the National Insti-
+13
+tute of Standards and Technology and the Adminis-
+14
+trator of General Services, private entities offering 
+15
+electronic case management software, the National 
+16
+Center for State Courts, and the National American 
+17
+Indian Court Judges Association, publish a machine 
+18
+readable form that shall be used for any report re-
+19
+quired under paragraph (1). 
+20
+‘‘(4) REGULATIONS.—The Director of the Ad-
+21
+ministrative Office of the United States Courts may 
+22
+promulgate regulations with respect to the content 
+23
+and form of the reports required under paragraph 
+24
+(1). 
+25
+19:57 Mar 29, 2022
+H7214
+40 
+•HR 7214 IH
+‘‘(d) DURATION.—Any order issued under subsection 
+1
+(a) or (b) before the effective date of chapter 206A shall 
+2
+be for a period of not longer than 180 days.’’. 
+3
+(b) ADDITIONAL
+GROUNDS
+FOR
+ISSUING
+WAR-
+4
+RANT.—Section 3103a of title 18, United States Code, is 
+5
+amended— 
+6
+(1) in subsection (b)(3), by inserting ‘‘, not to 
+7
+exceed 180 days,’’ after ‘‘certain’’; 
+8
+(2) in subsection (c), by inserting ‘‘, not to ex-
+9
+ceed 180 days’’ before the period at the end; and 
+10
+(3) in subsection (d)(1)— 
+11
+(A) in subparagraph (C), by striking 
+12
+‘‘and’’ at the end; 
+13
+(B) in subparagraph (D), by striking the 
+14
+period at the end and inserting ‘‘; and’’; and 
+15
+(C) by adding at the end the following: 
+16
+‘‘(E) the identification of the statute or 
+17
+rule of law authorizing the search and seizure 
+18
+of property or material.’’. 
+19
+(c) TECHNICAL AND CONFORMING AMENDMENT.— 
+20
+The table of sections for chapter 121 of title 18, United 
+21
+States Code, is amended by striking the item relating to 
+22
+section 2705 and inserting the following: 
+23
+‘‘2705. Delay and preclusion of notice.’’. 
+19:57 Mar 29, 2022
+H7214
+41 
+•HR 7214 IH
+SEC. 6. INCENTIVES FOR STATE AND TRIBAL COURTS TO 
+1
+IMPLEMENT REQUIREMENTS. 
+2
+(a) AMENDMENTS.— 
+3
+(1) STORED
+COMMUNICATIONS.—Chapter 121 
+4
+of title 18, United States Code, is amended— 
+5
+(A) in section 2703, as amended by section 
+6
+4(a) of this Act, by inserting after ‘‘return pro-
+7
+cedures’’ each place the term appears the fol-
+8
+lowing: ‘‘and containing a certification that the 
+9
+court is acting in compliance with chapter 
+10
+206A’’; and 
+11
+(B) in section 2711(3)(B), by inserting 
+12
+‘‘that is acting in compliance with chapter 
+13
+206A’’ after ‘‘search warrants’’. 
+14
+(2) WIRETAPPING.—Section 2516(2) of title 
+15
+18, United States Code, is amended by striking 
+16
+‘‘The principal prosecuting attorney of any State’’ 
+17
+and inserting ‘‘If a State requires that courts in the 
+18
+state comply with chapter 206A, the principal pros-
+19
+ecuting attorney of that State’’. 
+20
+(3) PEN REGISTERS AND TRAP AND TRACE DE-
+21
+VICES.—Section 3122(a)(2) of title 18, United 
+22
+States Code, is amended by inserting ‘‘and if the 
+23
+State requires that courts in the state comply with 
+24
+chapter 206A,’’ after ‘‘law,’’. 
+25
+19:57 Mar 29, 2022
+H7214
+42 
+•HR 7214 IH
+(4) FULL FAITH AND CREDIT.—The third un-
+1
+designated paragraph of section 1738 of title 28, 
+2
+United States Code, is amended by inserting ‘‘, pro-
+3
+vided that any criminal surveillance order, as defined 
+4
+in section 3131 of title 18, shall be entitled to full 
+5
+faith and credit only if the order contains a certifi-
+6
+cation that the court that issued the order is acting 
+7
+in compliance with the requirements of chapter 
+8
+206A of title 18’’ before the period at the end. 
+9
+(b) EFFECTIVE DATE.— 
+10
+(1) IN GENERAL.—Except as provided in para-
+11
+graph (2), the amendments made by subsection (a) 
+12
+shall take effect on the date that is 2 years after the 
+13
+date of enactment of this Act. 
+14
+(2) DELAYED
+APPLICABILITY
+FOR
+CERTAIN 
+15
+STATE
+AND
+TRIBAL
+COURTS.—The amendments 
+16
+made by subsection (a) shall apply on and after the 
+17
+date that is 4 years after the date of enactment of 
+18
+this Act— 
+19
+(A) to a State or Tribal court that, on the 
+20
+date of enactment of this Act, does not offer 
+21
+electronic docketing or public online access to 
+22
+dockets; or 
+23
+19:57 Mar 29, 2022
+H7214
+43 
+•HR 7214 IH
+(B) to any State or Tribal court that cer-
+1
+tifies that the court needs more time to comply 
+2
+with the requirements of the subsection. 
+3
+SEC. 7. MODERNIZING CRIMINAL SURVEILLANCE REPORTS. 
+4
+(a) REPORTS CONCERNING ACCESS TO CUSTOMER 
+5
+COMMUNICATIONS OR RECORDS.— 
+6
+(1) IN
+GENERAL.—Section 2703 title 18, 
+7
+United States Code, as amended by section 4(5) of 
+8
+this Act, is amended by adding at the end the fol-
+9
+lowing: 
+10
+‘‘(j) REPORTS CONCERNING ACCESS TO CUSTOMER 
+11
+COMMUNICATIONS OR RECORDS.— 
+12
+‘‘(1) IN GENERAL.—In January of each year, 
+13
+any judge who has issued an order under this sec-
+14
+tion or a warrant to obtain records described in this 
+15
+section, or who has denied approval of an application 
+16
+under this section during the preceding year, shall 
+17
+report to the Administrative Office of the United 
+18
+States Courts— 
+19
+‘‘(A) the fact that the order or warrant 
+20
+was applied for; 
+21
+‘‘(B) the type of records sought in the 
+22
+order or warrant; 
+23
+‘‘(C) whether the order or warrant was— 
+24
+‘‘(i) granted as applied for; 
+25
+19:57 Mar 29, 2022
+H7214
+44 
+•HR 7214 IH
+‘‘(ii) granted as modified; or 
+1
+‘‘(iii) denied; 
+2
+‘‘(D) the subsection of this section under 
+3
+which the application for the order or warrant 
+4
+was filed; 
+5
+‘‘(E) the nature of the offense or criminal 
+6
+investigation that was the basis for the applica-
+7
+tion for the order or warrant; 
+8
+‘‘(F) the name of each provider of elec-
+9
+tronic communication service or remote com-
+10
+puting service served with the order or warrant, 
+11
+if so granted; and 
+12
+‘‘(G) the investigative or law enforcement 
+13
+agency that submitted the application. 
+14
+‘‘(2) PUBLIC REPORT.—In June of each year, 
+15
+the Director of the Administrative Office of the 
+16
+United States Courts shall publish on the website of 
+17
+the Administrative Office of the United States 
+18
+Courts and include in the report required under sec-
+19
+tion 2519(3)— 
+20
+‘‘(A) a full and complete report concerning 
+21
+the number of applications for orders or war-
+22
+rants requiring the disclosure of, during the 
+23
+preceding calendar year— 
+24
+19:57 Mar 29, 2022
+H7214
+45 
+•HR 7214 IH
+‘‘(i) the contents of wire or electronic 
+1
+communications in electronic storage under 
+2
+subsection (a); 
+3
+‘‘(ii) the contents of wire or electronic 
+4
+communications in a remote computer 
+5
+service under subsection (b); and 
+6
+‘‘(iii) records concerning electronic 
+7
+communication service or remote computer 
+8
+service under subsection (c); 
+9
+‘‘(B) the number of orders and warrants 
+10
+granted or denied under this section during the 
+11
+preceding calendar year; and 
+12
+‘‘(C) a detailed summary and analysis of 
+13
+each category of data required to be filed with 
+14
+the Administrative Office of the United States 
+15
+Courts under paragraph (1). 
+16
+‘‘(3) FORMAT.—Not later than 180 days after 
+17
+the date of enactment of the Government Surveil-
+18
+lance Transparency Act of 2022, the Director of the 
+19
+Administrative Office of the United States Courts 
+20
+shall, in consultation with the National Institute of 
+21
+Standards and Technology, the Administrator of 
+22
+General Services, the Electronic Public Access Pub-
+23
+lic User Group, private entities offering electronic 
+24
+case management software, the National Center for 
+25
+19:57 Mar 29, 2022
+H7214
+46 
+•HR 7214 IH
+State Courts, and the National American Indian 
+1
+Court Judges Association, publish a machine read-
+2
+able form that shall be used for any report required 
+3
+under paragraph (1). 
+4
+‘‘(4) REGULATIONS.—The Director of the Ad-
+5
+ministrative Office of the United States Courts may 
+6
+issue binding regulations with respect to the content 
+7
+and form of the reports required under paragraph 
+8
+(1).’’. 
+9
+(2) TECHNICAL
+AND
+CONFORMING
+AMEND-
+10
+MENT.—Section 2519(3) of title 18, United States 
+11
+Code, is amended, in the first sentence, by inserting 
+12
+‘‘publish on the website of the Administrative Office 
+13
+of the United States Courts’’ before ‘‘transmit’’. 
+14
+(b) REPORTS CONCERNING PEN REGISTERS
+AND 
+15
+TRAP AND TRACE DEVICES.—Section 3126 of title 18, 
+16
+United States Code, is amended to read as follows: 
+17
+‘‘§ 3126. Reports concerning pen registers and trap 
+18
+and trace devices 
+19
+‘‘(a) IN GENERAL.—In January of each year, any 
+20
+judge who has issued an order (or an extension thereof) 
+21
+under section 3123 that expired during the preceding 
+22
+year, or who has denied approval of an installation and 
+23
+use of a pen register or trap and trace device during that 
+24
+19:57 Mar 29, 2022
+H7214
+47 
+•HR 7214 IH
+year, shall report to the Administrative Office of the 
+1
+United States Courts— 
+2
+‘‘(1) the fact that an order or extension was ap-
+3
+plied for; 
+4
+‘‘(2) the kind of order or extension applied for; 
+5
+‘‘(3) the fact that the order or extension was 
+6
+granted as applied for, was modified, or was denied; 
+7
+‘‘(4) the period of installation and use of a pen 
+8
+register or trap and trace device authorized by the 
+9
+order, and the number and duration of any exten-
+10
+sions of the order; 
+11
+‘‘(5) the offense specified in the order or appli-
+12
+cation, or extension of an order; 
+13
+‘‘(6) the precise nature of the facilities affected 
+14
+and the precise nature of the information sought; 
+15
+and 
+16
+‘‘(7) the investigative or law enforcement agen-
+17
+cy that submitted the application. 
+18
+‘‘(b) PUBLIC REPORT.—In June of each year, the Di-
+19
+rector of the Administrative Office of the United States 
+20
+Courts shall publish on the website of the Administrative 
+21
+Office of the United States Courts and include in the re-
+22
+port required under section 2519(3)— 
+23
+‘‘(1) a full and complete report concerning— 
+24
+19:57 Mar 29, 2022
+H7214
+48 
+•HR 7214 IH
+‘‘(A) the number of applications for orders 
+1
+authorizing or approving the installation and 
+2
+use of a pen register or trap and trace device 
+3
+pursuant to this chapter; and 
+4
+‘‘(B) the number of orders and extensions 
+5
+granted or denied pursuant to this chapter dur-
+6
+ing the preceding calendar year; and 
+7
+‘‘(2) a detailed summary and analysis of each 
+8
+category of data required to be reported under sub-
+9
+section (a). 
+10
+‘‘(c) FORMAT.—Not later than 180 days after the 
+11
+date of enactment of the Government Surveillance Trans-
+12
+parency Act of 2022, the Director of the Administrative 
+13
+Office of the United States Courts shall, in consultation 
+14
+with the National Institute of Standards and Technology 
+15
+and the Administrator of General Services, private entities 
+16
+offering electronic case management software, the Na-
+17
+tional Center for State Courts, and the National American 
+18
+Indian Court Judges Association, publish a machine read-
+19
+able form that shall be used for any report required under 
+20
+subsection (a). 
+21
+‘‘(d) REGULATIONS.—The Director of the Adminis-
+22
+trative Office of the United States Courts may issue bind-
+23
+ing regulations with respect to the content and form of 
+24
+the reports required under subsection (a).’’. 
+25
+19:57 Mar 29, 2022
+H7214
+49 
+•HR 7214 IH
+(c) REPORTING
+OF EMERGENCY DISCLOSURES.— 
+1
+Section 2702(d) of title 18, United States Code, is amend-
+2
+ed, in the matter preceding paragraph (1), by inserting 
+3
+‘‘and publish on the website of the Department of Justice’’ 
+4
+after ‘‘Senate’’. 
+5
+SEC. 8. GRANTS. 
+6
+(a) DEFINITIONS.—In this section— 
+7
+(1) the term ‘‘Indian Tribe’’ has the meaning 
+8
+given such term in section 102 of the Federally Rec-
+9
+ognized Indian Tribe List Act of 1994 (25 U.S.C. 
+10
+5130); and 
+11
+(2) the term ‘‘State’’ means each of the several 
+12
+States of the United States, the District of Colum-
+13
+bia, the Commonwealth of Puerto Rico, American 
+14
+Samoa, the Commonwealth of the Northern Mariana 
+15
+Islands, Guam, and the United States Virgin Is-
+16
+lands. 
+17
+(b) AUTHORITY.—The Attorney General shall make 
+18
+grants to State and Tribal court systems for the cost of 
+19
+implementing the requirements under the amendments 
+20
+made by this Act for the 5-year period beginning on the 
+21
+date of enactment of this Act. 
+22
+(c) MAXIMUM AMOUNT.—The total amount of grants 
+23
+awarded under this section shall be not greater than 
+24
+$25,000,000. 
+25
+19:57 Mar 29, 2022
+H7214
+50 
+•HR 7214 IH
+SEC. 9. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There are authorized to be appropriated— 
+2
+(1) $1,000,000 to the Administrative Office of 
+3
+the United States Courts to implement the require-
+4
+ments of this Act and the amendments made by this 
+5
+Act; and 
+6
+(2) $25,000,000 to carry out the grant program 
+7
+under section 8. 
+8
+SEC. 10. SEVERABILITY. 
+9
+If any provision of this Act, an amendment made by 
+10
+this Act, or the application of such a provision or amend-
+11
+ment to any person or circumstance, is held to be uncon-
+12
+stitutional, the remaining provisions of and amendments 
+13
+made by this Act, and the application of the provision or 
+14
+amendment held to be unconstitutional to any other per-
+15
+son or circumstance, shall not be affected thereby. 
+16
+Æ 
+19:57 Mar 29, 2022
+H7214

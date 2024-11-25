@@ -1,0 +1,774 @@
+A BILL 
+To improve the productivity and energy efficiency of the 
+manufacturing sector by directing the Secretary of En-
+ergy, in coordination with the National Academies and 
+other appropriate Federal agencies, to develop a national 
+smart manufacturing plan and to provide assistance to 
+small- and medium-sized manufacturers in implementing 
+smart manufacturing programs, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+22:17 Mar 26, 2019
+H1633
+2 
+•HR 1633 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Smart Manufacturing 
+2
+Leadership Act’’. 
+3
+SEC. 2. FINDINGS. 
+4
+Congress finds that— 
+5
+(1) the industrial sector— 
+6
+(A) represents approximately 20 percent of 
+7
+the economy of the United States; 
+8
+(B) provides approximately 13 percent of 
+9
+employment in the United States; and 
+10
+(C) 
+accounts 
+for 
+more 
+than 
+11
+30,000,000,000,000,000 Btus of energy, a 
+12
+quantity that is equal to almost 1⁄3 of the en-
+13
+ergy consumption of the United States; 
+14
+(2) smart manufacturing is set to transform the 
+15
+manufacturing sector and the use by the manufac-
+16
+turing sector of energy, water, raw materials, and 
+17
+labor over the 10 years following the date of enact-
+18
+ment of this Act; 
+19
+(3) the transformation described in paragraph 
+20
+(2) will result in savings in electricity, natural gas, 
+21
+transportation fuels, chemical feedstocks, and many 
+22
+other fuels; 
+23
+(4) the interconnection of the many components 
+24
+of manufacturing within a manufacturing plant with 
+25
+other business functions within a company and 
+26
+22:17 Mar 26, 2019
+H1633
+3 
+•HR 1633 IH
+across companies within a supply chain will enable 
+1
+new production efficiencies; 
+2
+(5) the improvements in automation described 
+3
+in paragraph (4) are estimated to produce between 
+4
+$5,000,000,000 and $25,000,000,000 in energy sav-
+5
+ings per year across the manufacturing sector for 
+6
+electricity alone by 2035; 
+7
+(6) smart manufacturing technologies are esti-
+8
+mated to add between $10,000,000,000,000 and 
+9
+$15,000,000,000,000 to the global gross domestic 
+10
+product over 20 years following the date of enact-
+11
+ment of this Act; 
+12
+(7) market barriers exist to the widespread 
+13
+adoption of smart manufacturing practices by all 
+14
+sizes of firms and to the investment in smart manu-
+15
+facturing technologies, including lack of— 
+16
+(A) common communication protocols be-
+17
+tween smart manufacturing devices, which pre-
+18
+vents interoperability, reduces system effi-
+19
+ciencies, and stifles innovation; 
+20
+(B) common standards for storing and 
+21
+sharing information relating to energy con-
+22
+sumption and energy savings; 
+23
+(C) an open-access smart manufacturing 
+24
+platform that enables the networking of busi-
+25
+22:17 Mar 26, 2019
+H1633
+4 
+•HR 1633 IH
+ness and automation systems of multiple ven-
+1
+dors; and 
+2
+(D) common cybersecurity protocols and 
+3
+standards; 
+4
+(8) addressing the barriers described in para-
+5
+graph (7) is in the interest of the United States; 
+6
+(9) in response to the barriers described in 
+7
+paragraph (7), the Secretary of Energy is working 
+8
+with the private sector to reduce the market barriers 
+9
+through the development of voluntary protocols and 
+10
+standards; 
+11
+(10) there exist many technologies of which 
+12
+many domestic manufacturers are unaware that 
+13
+could— 
+14
+(A) improve the competitiveness of the do-
+15
+mestic manufacturers; and 
+16
+(B) reduce the environmental impacts of 
+17
+the domestic manufacturers; 
+18
+(11) Federal agency action can facilitate great-
+19
+er economic growth through outreach and engage-
+20
+ment in the smart manufacturing technology area; 
+21
+and 
+22
+(12) the United States would benefit from a 
+23
+concerted and focused effort to advance the adoption 
+24
+22:17 Mar 26, 2019
+H1633
+5 
+•HR 1633 IH
+of smart manufacturing throughout the manufac-
+1
+turing sector of the United States. 
+2
+SEC. 3. DEFINITIONS. 
+3
+In this Act: 
+4
+(1) ENERGY MANAGEMENT SYSTEM.—The term 
+5
+‘‘energy management system’’ means a business 
+6
+management process based on standards of the 
+7
+American National Standards Institute that enables 
+8
+an organization to follow a systematic approach in 
+9
+achieving continual improvement of energy perform-
+10
+ance, including energy efficiency, security, use, and 
+11
+consumption. 
+12
+(2) INDUSTRIAL
+ASSESSMENT
+CENTER.—The 
+13
+term ‘‘industrial assessment center’’ means a center 
+14
+located at an institution of higher education that— 
+15
+(A) receives funding from the Department 
+16
+of Energy; 
+17
+(B) provides an in-depth assessment of 
+18
+small- and medium-sized manufacturer plant 
+19
+sites to evaluate the facilities, services, and 
+20
+manufacturing operations of the plant site; and 
+21
+(C) identifies opportunities for potential 
+22
+savings for small- and medium-sized manufac-
+23
+turer plant sites from energy efficiency improve-
+24
+22:17 Mar 26, 2019
+H1633
+6 
+•HR 1633 IH
+ments, waste minimization, pollution preven-
+1
+tion, and productivity improvement. 
+2
+(3) INFORMATION AND COMMUNICATION TECH-
+3
+NOLOGY.—The term ‘‘information and communica-
+4
+tion technology’’ means any electronic system or 
+5
+equipment (including the content contained in the 
+6
+system or equipment) used to create, convert, com-
+7
+municate, or duplicate data or information, including 
+8
+computer hardware, firmware, software, communica-
+9
+tion protocols, networks, and data interfaces. 
+10
+(4) INSTITUTION OF HIGHER EDUCATION.—The 
+11
+term ‘‘institution of higher education’’ has the 
+12
+meaning given the term in section 101(a) of the 
+13
+Higher Education Act of 1965 (20 U.S.C. 1001(a)). 
+14
+(5) NATIONAL LABORATORY.—The term ‘‘Na-
+15
+tional Laboratory’’ has the meaning given the term 
+16
+in section 2 of the Energy Policy Act of 2005 (42 
+17
+U.S.C. 15801). 
+18
+(6) NORTH AMERICAN INDUSTRY CLASSIFICA-
+19
+TION SYSTEM.—The term ‘‘North American Indus-
+20
+try Classification System’’ means the standard used 
+21
+by Federal statistical agencies in classifying business 
+22
+establishments for the purpose of collecting, ana-
+23
+lyzing, and publishing statistical data relating to the 
+24
+business economy of the United States. 
+25
+22:17 Mar 26, 2019
+H1633
+7 
+•HR 1633 IH
+(7) SECRETARY.—The term ‘‘Secretary’’ means 
+1
+the Secretary of Energy. 
+2
+(8) SMALL AND MEDIUM MANUFACTURERS.— 
+3
+The term ‘‘small and medium manufacturers’’ 
+4
+means manufacturing firms— 
+5
+(A) classified in the North American In-
+6
+dustry Classification System as any of sectors 
+7
+31 through 33; 
+8
+(B) with gross annual sales of less than 
+9
+$100,000,000; 
+10
+(C) with fewer than 500 employees at the 
+11
+plant site; and 
+12
+(D) with annual energy bills totaling more 
+13
+than $100,000 and less than $2,500,000. 
+14
+(9) 
+SMART
+MANUFACTURING.—The 
+term 
+15
+‘‘smart manufacturing’’ means advanced tech-
+16
+nologies in information, automation, monitoring, 
+17
+computation, sensing, modeling, and networking 
+18
+that— 
+19
+(A) digitally— 
+20
+(i) simulate manufacturing production 
+21
+lines; 
+22
+(ii) operate computer-controlled man-
+23
+ufacturing equipment; 
+24
+22:17 Mar 26, 2019
+H1633
+8 
+•HR 1633 IH
+(iii) monitor and communicate pro-
+1
+duction line status; and 
+2
+(iv) manage and optimize energy pro-
+3
+ductivity and cost throughout production; 
+4
+(B) model, simulate, and optimize the en-
+5
+ergy efficiency of a factory building; 
+6
+(C) monitor and optimize building energy 
+7
+performance; 
+8
+(D) model, simulate, and optimize the de-
+9
+sign of energy efficient and sustainable prod-
+10
+ucts, including the use of digital prototyping 
+11
+and additive manufacturing to enhance product 
+12
+design; 
+13
+(E) connect manufactured products in net-
+14
+works to monitor and optimize the performance 
+15
+of the networks, including automated network 
+16
+operations; and 
+17
+(F) digitally connect the supply chain net-
+18
+work. 
+19
+SEC. 4. DEVELOPMENT OF NATIONAL SMART MANUFAC-
+20
+TURING PLAN. 
+21
+(a) IN GENERAL.—Not later than 3 years after the 
+22
+date of enactment of this Act, the Secretary, in consulta-
+23
+tion with the National Academies, shall develop and com-
+24
+plete a national plan for smart manufacturing technology 
+25
+22:17 Mar 26, 2019
+H1633
+9 
+•HR 1633 IH
+development and deployment to improve the productivity 
+1
+and energy efficiency of the manufacturing sector of the 
+2
+United States. 
+3
+(b) CONTENT.— 
+4
+(1) IN GENERAL.—The plan developed under 
+5
+subsection (a) shall identify areas in which agency 
+6
+actions by the Secretary and other heads of relevant 
+7
+Federal agencies would— 
+8
+(A) facilitate quicker development, deploy-
+9
+ment, and adoption of smart manufacturing 
+10
+technologies and processes; 
+11
+(B) result in greater energy efficiency and 
+12
+lower environmental impacts for all American 
+13
+manufacturers; and 
+14
+(C) enhance competitiveness and strength-
+15
+en the manufacturing sectors of the United 
+16
+States. 
+17
+(2) INCLUSIONS.—Agency actions identified 
+18
+under paragraph (1) shall include— 
+19
+(A) an assessment of previous and current 
+20
+actions of the Department of Energy relating to 
+21
+smart manufacturing; 
+22
+(B) the establishment of voluntary inter-
+23
+connection protocols and performance stand-
+24
+ards; 
+25
+22:17 Mar 26, 2019
+H1633
+10 
+•HR 1633 IH
+(C) use of smart manufacturing to improve 
+1
+energy efficiency and reduce emissions in sup-
+2
+ply chains across multiple companies; 
+3
+(D) actions to increase cybersecurity in 
+4
+smart manufacturing infrastructure; 
+5
+(E) deployment of existing research re-
+6
+sults; and 
+7
+(F) the leveraging of existing high-per-
+8
+formance computing infrastructure. 
+9
+(c) BIENNIAL REVISIONS.—Not later than 2 years 
+10
+after the date on which the Secretary completes the plan 
+11
+under subsection (a), and not less frequently than once 
+12
+every 2 years thereafter, the Secretary shall revise the 
+13
+plan to account for advancements in information and com-
+14
+munication technology and manufacturing needs. 
+15
+(d) REPORT.—Annually until the completion of the 
+16
+plan under subsection (a), the Secretary shall submit to 
+17
+Congress a report on the progress made in developing the 
+18
+plan. 
+19
+SEC. 5. LEVERAGING EXISTING AGENCY PROGRAMS TO AS-
+20
+SIST SMALL AND MEDIUM MANUFACTURERS. 
+21
+(a) FINDINGS.—Congress finds that— 
+22
+(1) the Department of Energy has existing 
+23
+technical assistance programs that facilitate greater 
+24
+22:17 Mar 26, 2019
+H1633
+11 
+•HR 1633 IH
+economic growth through outreach to and engage-
+1
+ment with small and medium manufacturers; 
+2
+(2) those technical assistance programs rep-
+3
+resent an important conduit for increasing the 
+4
+awareness of and providing education to small and 
+5
+medium manufacturers regarding the opportunities 
+6
+for implementing smart manufacturing; and 
+7
+(3) those technical assistance programs help fa-
+8
+cilitate the implementation of best practices. 
+9
+(b) EXPANSION OF TECHNICAL ASSISTANCE PRO-
+10
+GRAMS.—The Secretary shall expand the scope of tech-
+11
+nologies covered by the Industrial Assessment Centers of 
+12
+the Department of Energy— 
+13
+(1) to include smart manufacturing technologies 
+14
+and practices; and 
+15
+(2) to equip the directors of the Industrial As-
+16
+sessment Centers with the training and tools nec-
+17
+essary to provide technical assistance in smart man-
+18
+ufacturing technologies and practices, including en-
+19
+ergy management systems, to manufacturers. 
+20
+SEC. 6. LEVERAGING SMART MANUFACTURING INFRA-
+21
+STRUCTURE AT NATIONAL LABORATORIES. 
+22
+(a) STUDY.— 
+23
+(1) IN
+GENERAL.—Not later than 180 days 
+24
+after the date of enactment of this Act, the Sec-
+25
+22:17 Mar 26, 2019
+H1633
+12 
+•HR 1633 IH
+retary shall conduct a study on how the Department 
+1
+of Energy can increase access to existing high-per-
+2
+formance computing resources in the National Lab-
+3
+oratories, particularly for small and medium manu-
+4
+facturers. 
+5
+(2) INCLUSIONS.—In identifying ways to in-
+6
+crease access to National Laboratories under para-
+7
+graph (1), the Secretary shall— 
+8
+(A) focus on increasing access to the com-
+9
+puting facilities of the National Laboratories; 
+10
+and 
+11
+(B) ensure that— 
+12
+(i) the information from the manufac-
+13
+turer is protected; and 
+14
+(ii) the security of the National Lab-
+15
+oratory facility is maintained. 
+16
+(3) REPORT.—Not later than 1 year after the 
+17
+date of enactment of this Act, the Secretary shall 
+18
+submit to Congress a report describing the results of 
+19
+the study. 
+20
+(b) ACTIONS FOR INCREASED ACCESS.—The Sec-
+21
+retary shall facilitate access to the National Laboratories 
+22
+studied under subsection (a) for small and medium manu-
+23
+facturers so that small and medium manufacturers can 
+24
+fully use the high-performance computing resources of the 
+25
+22:17 Mar 26, 2019
+H1633
+13 
+•HR 1633 IH
+National Laboratories to enhance the manufacturing com-
+1
+petitiveness of the United States. 
+2
+SEC. 7. STATE LEADERSHIP GRANTS. 
+3
+(a) FINDING.—Congress finds that the States— 
+4
+(1) are committed to promoting domestic manu-
+5
+facturing and supporting robust economic develop-
+6
+ment activities; and 
+7
+(2) are uniquely positioned to assist manufac-
+8
+turers, particularly small and medium manufactur-
+9
+ers, with deployment of smart manufacturing 
+10
+through the provision of infrastructure, including— 
+11
+(A) access to shared supercomputing facili-
+12
+ties; 
+13
+(B) assistance in developing process sim-
+14
+ulations; and 
+15
+(C) conducting demonstrations of the bene-
+16
+fits of smart manufacturing. 
+17
+(b) GRANTS
+AUTHORIZED.—The Secretary may 
+18
+make grants on a competitive basis to States for estab-
+19
+lishing State programs to be used as models for sup-
+20
+porting the implementation of smart manufacturing tech-
+21
+nologies. 
+22
+(c) APPLICATION.— 
+23
+(1) IN GENERAL.—To be eligible to receive a 
+24
+grant under this section, a State shall submit to the 
+25
+22:17 Mar 26, 2019
+H1633
+14 
+•HR 1633 IH
+Secretary an application at such time, in such man-
+1
+ner, and containing such information as the Sec-
+2
+retary may require. 
+3
+(2) CRITERIA.—The Secretary shall evaluate an 
+4
+application for a grant under this section on the 
+5
+basis of merit using criteria identified by the Sec-
+6
+retary, including— 
+7
+(A) the breadth of academic and private 
+8
+sector partners; 
+9
+(B) alternate sources of funding; 
+10
+(C) plans for dissemination of results; and 
+11
+(D) the permanence of the infrastructure 
+12
+to be put in place by the project. 
+13
+(d) REQUIREMENTS.— 
+14
+(1) TERM.—The term of a grant under this 
+15
+section shall not exceed 3 years. 
+16
+(2) MAXIMUM
+AMOUNT.—The amount of a 
+17
+grant under this section shall be not more than 
+18
+$3,000,000. 
+19
+(3) MATCHING
+REQUIREMENT.—Each State 
+20
+that receives a grant under this section shall con-
+21
+tribute matching funds in an amount equal to not 
+22
+less than 30 percent of the amount of the grant. 
+23
+(e) USE OF FUNDS.—A State shall use a grant pro-
+24
+vided under this section— 
+25
+22:17 Mar 26, 2019
+H1633
+15 
+•HR 1633 IH
+(1) to provide access to shared supercomputing 
+1
+facilities to small and medium manufacturers; 
+2
+(2) to fund research and development of trans-
+3
+formational manufacturing processes and materials 
+4
+technology that advance smart manufacturing; and 
+5
+(3) to provide tools and training to small and 
+6
+medium manufacturers on how to adopt energy 
+7
+management systems and implement smart manu-
+8
+facturing technologies in the facilities of the small 
+9
+and medium manufacturers. 
+10
+(f) EVALUATION.—The Secretary shall conduct bian-
+11
+nual evaluations of each grant made under this section— 
+12
+(1) to determine the impact and effectiveness of 
+13
+programs funded with the grant; and 
+14
+(2) to provide guidance to States on ways to 
+15
+better execute the program of the State. 
+16
+(g) FUNDING.—There is authorized to be appro-
+17
+priated to the Secretary to carry out this section 
+18
+$10,000,000 for each of fiscal years 2020 through 2023. 
+19
+SEC. 8. REPORT. 
+20
+The Secretary annually shall submit to Congress and 
+21
+make publicly available a report on the progress made in 
+22
+advancing smart manufacturing in the United States. 
+23
+Æ 
+22:17 Mar 26, 2019
+H1633

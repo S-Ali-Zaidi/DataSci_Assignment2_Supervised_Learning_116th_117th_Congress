@@ -1,0 +1,305 @@
+A BILL 
+To direct the Secretary of Homeland Security to establish 
+an election research program to test the security of elec-
+tion systems, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. ELECTION RESEARCH PROGRAM. 
+3
+(a) IN GENERAL.—Subtitle A of title XXII of the 
+4
+Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) 
+5
+is amended by adding at the end the following new section: 
+6
+16:35 Sep 28, 2021
+H5358
+2 
+•HR 5358 IH
+‘‘SEC. 2218. ELECTION RESEARCH PROGRAM. 
+1
+‘‘(a) ESTABLISHMENT
+OF
+ELECTION
+RESEARCH 
+2
+PROGRAM.— 
+3
+‘‘(1) IN GENERAL.—Not later than 180 days 
+4
+after the date of the enactment of this section, the 
+5
+Secretary, in coordination with the heads of election 
+6
+service providers, shall establish and administer an 
+7
+election research program to test each election sys-
+8
+tem provided by each election service provider 
+9
+(under fair, reasonable, and nondiscriminatory 
+10
+terms) on behalf of an election agency to identify po-
+11
+tentially vulnerable information. 
+12
+‘‘(2) TESTING.—In carrying out the program 
+13
+required under paragraph (1), qualified independent 
+14
+security researchers shall apply the methodology de-
+15
+veloped pursuant to paragraph (3) to each election 
+16
+system provided pursuant to paragraph (1) to iden-
+17
+tify potentially vulnerable information. 
+18
+‘‘(3) METHODOLOGY.—The Secretary, in con-
+19
+sultation with the Director, shall develop a method-
+20
+ology to be used by independent security researchers 
+21
+to test each election system provided by each election 
+22
+solution provider to identify potentially vulnerable 
+23
+information. 
+24
+‘‘(4) QUALIFICATIONS
+FOR
+QUALIFIED
+INDE-
+25
+PENDENT
+RESEARCHER.—The Secretary, in con-
+26
+16:35 Sep 28, 2021
+H5358
+3 
+•HR 5358 IH
+sultation with the Director of the Cybersecurity and 
+1
+Infrastructure Security Agency, shall establish the 
+2
+qualifications for the independent security research-
+3
+ers referred to in subsection paragraph (3). 
+4
+‘‘(b) COORDINATED VULNERABILITY DISCLOSURE 
+5
+GUIDELINES.—Not later than 180 days after the date of 
+6
+the enactment of this section, the Secretary, in consulta-
+7
+tion with the Commissioners of the Election Assistance 
+8
+Commission, cybersecurity researchers, and covered indus-
+9
+try experts, shall establish policies and procedures for the 
+10
+processing and resolution of potentially vulnerable infor-
+11
+mation relating to an election system, to the extent prac-
+12
+ticable, aligned with Standards 29147 and 30111 of the 
+13
+International Standards Organization, including— 
+14
+‘‘(1) processes for an election service provider 
+15
+to— 
+16
+‘‘(A) receive information relating to poten-
+17
+tially vulnerable information relating to an elec-
+18
+tion system; and 
+19
+‘‘(B) disseminate resolution information re-
+20
+lating to potentially vulnerable information re-
+21
+lating to an election system; and 
+22
+‘‘(2) guidance, such as the Guide to Vulner-
+23
+ability Reporting for America’s Election Administra-
+24
+tors, with respect to the information items to be pro-
+25
+16:35 Sep 28, 2021
+H5358
+4 
+•HR 5358 IH
+duced through the implementation of the vulner-
+1
+ability disclosure process of the election service pro-
+2
+vider. 
+3
+‘‘(c) DEFINITIONS.—In this section: 
+4
+‘‘(1) COVERED
+FIELD.—The term ‘covered 
+5
+field’ means computer science, engineering, informa-
+6
+tion science, information systems management, 
+7
+mathematics, operations research, statistics, or tech-
+8
+nology management. 
+9
+‘‘(2) COVERED INDUSTRY EXPERT.—The term 
+10
+‘covered industry expert’ means an individual who 
+11
+has— 
+12
+‘‘(A) successfully completed 2 full years of 
+13
+progressively higher level graduate education 
+14
+leading to a Master’s or equivalent graduate de-
+15
+gree from an accredited institution of higher 
+16
+education (given the meaning of such term in 
+17
+section 101 of the Higher Education Act of 
+18
+1965 (20 U.S.C. 1001)) in a covered field; or 
+19
+‘‘(B) a degree that requires at least 24 se-
+20
+mester hours in a covered field required the de-
+21
+velopment or adaptation of applications, sys-
+22
+tems or networks. 
+23
+16:35 Sep 28, 2021
+H5358
+5 
+•HR 5358 IH
+‘‘(3) DIRECTOR.—The term ‘Director’ means 
+1
+the Director of the National Institute of Standards 
+2
+and Technology. 
+3
+‘‘(4) ELECTION
+AGENCY.—The term ‘election 
+4
+agency’ means the Federal Election Commission. 
+5
+‘‘(5) ELECTION SERVICE PROVIDER.—The term 
+6
+‘covered election service provider’ means a private 
+7
+sector entity which develops, manufactures, sells, 
+8
+and/or implements and maintains technology that 
+9
+enables the administration of elections. Including 
+10
+but not limited to, voting systems, electronic 
+11
+pollbooks, election management systems, and voter 
+12
+registration systems. 
+13
+‘‘(6) ELECTION
+SYSTEM.—The term ‘election 
+14
+system’ means— 
+15
+‘‘(A) the total combination of mechanical, 
+16
+electromechanical, or electronic equipment (in-
+17
+cluding the software, firmware, and documenta-
+18
+tion required to program, control, and support 
+19
+the equipment) that is used to— 
+20
+‘‘(i) define ballots; 
+21
+‘‘(ii) cast and count votes; 
+22
+‘‘(iii) report or display election results; 
+23
+and 
+24
+16:35 Sep 28, 2021
+H5358
+6 
+•HR 5358 IH
+‘‘(iv) maintain and produce any audit 
+1
+trail information; and 
+2
+‘‘(B) the practices and associated docu-
+3
+mentation used to— 
+4
+‘‘(i) identify system components and 
+5
+versions of such components; 
+6
+‘‘(ii) test the system during its devel-
+7
+opment and maintenance; 
+8
+‘‘(iii) maintain records of system er-
+9
+rors and defects; 
+10
+‘‘(iv) 
+determine 
+specific 
+system 
+11
+changes to be made to a system after the 
+12
+initial qualification of the system; and 
+13
+‘‘(v) make available any materials to 
+14
+the voter (such as notices, instructions, 
+15
+forms, or paper ballots). 
+16
+‘‘(7) POTENTIALLY
+VULNERABLE
+INFORMA-
+17
+TION.—The term ‘potential vulnerability informa-
+18
+tion’ means a flaw in code or design that creates a 
+19
+potential point of security compromise for an end-
+20
+point or network.’’. 
+21
+(b) CLERICAL AMENDMENT.—The table of contents 
+22
+in section 1(b) of the Homeland Security Act of 2002 is 
+23
+16:35 Sep 28, 2021
+H5358
+7 
+•HR 5358 IH
+amended by inserting after the item relating to section 
+1
+2217 the following new item: 
+2
+‘‘2218. Election research program.’’. 
+Æ 
+16:35 Sep 28, 2021
+H5358

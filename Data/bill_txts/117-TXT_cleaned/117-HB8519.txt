@@ -1,0 +1,658 @@
+A BILL 
+To promote competition in the area of digital energy manage-
+ment tools, enhance consumer access to electric energy 
+and natural gas information, allow for the adoption of 
+innovative products and services to help consumers man-
+age their energy usage, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Access to Consumer 
+4
+Energy Information Act’’ or the ‘‘E-Access Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+04:03 Aug 07, 2022
+H8519
+2 
+•HR 8519 IH
+(1) ELECTRIC CONSUMER.—The term ‘‘electric 
+1
+consumer’’ has the meaning given such term in sec-
+2
+tion 3 of the Public Utility Regulatory Policies Act 
+3
+of 1978 (16 U.S.C. 2602). 
+4
+(2) ELECTRIC
+UTILITY.—The term ‘‘electric 
+5
+utility’’ has the meaning given such term in section 
+6
+3 of the Public Utility Regulatory Policies Act of 
+7
+1978 (16 U.S.C. 2602). 
+8
+(3) GAS
+CONSUMER.—The term ‘‘gas con-
+9
+sumer’’ has the meaning given such term in section 
+10
+302 of the Public Utility Regulatory Policies Act of 
+11
+1978 (15 U.S.C. 3202). 
+12
+(4) GAS UTILITY.—The term ‘‘gas utility’’ has 
+13
+the meaning given such term in section 302 of the 
+14
+Public Utility Regulatory Policies Act of 1978 (15 
+15
+U.S.C. 3202). 
+16
+(5) GRID EDGE COMPUTER.—The term ‘‘grid 
+17
+edge computer’’ means a device, whether part of, or 
+18
+separate from, a meter, that— 
+19
+(A) measures power, voltage, current, or 
+20
+other aspects of electric energy at or near an 
+21
+electric consumer’s premise; and 
+22
+(B) is capable of running one or more soft-
+23
+ware applications to analyze in real time any 
+24
+measurement described in subparagraph (A) in 
+25
+04:03 Aug 07, 2022
+H8519
+3 
+•HR 8519 IH
+order to derive grid edge consumer insights or 
+1
+information about the status or operation of the 
+2
+electric grid. 
+3
+(6) GRID EDGE CONSUMER INSIGHT.—The term 
+4
+‘‘grid edge consumer insight’’ means any estimate or 
+5
+inference from a grid edge computer that pertains to 
+6
+or reflects the characteristics of an individual elec-
+7
+tric consumer’s use of electric energy. 
+8
+(7) METER.—The term ‘‘meter’’ means a device 
+9
+that measures and records energy usage data at any 
+10
+interval. 
+11
+(8) RETAIL
+ELECTRIC
+ENERGY
+INFORMA-
+12
+TION.—The term ‘‘retail electric energy informa-
+13
+tion’’ means— 
+14
+(A) the electric energy usage of an electric 
+15
+consumer over a time interval, as measured and 
+16
+recorded by the applicable meter; 
+17
+(B) the retail electric energy prices and ap-
+18
+plicable rate applied to the electric energy usage 
+19
+for the time interval described in subparagraph 
+20
+(A) for the electric consumer; 
+21
+(C) the costs of service provided to an elec-
+22
+tric consumer, as displayed on billing informa-
+23
+tion provided to such electric consumer; 
+24
+04:03 Aug 07, 2022
+H8519
+4 
+•HR 8519 IH
+(D) in the case of nonresidential electric 
+1
+meters, any other electrical information that the 
+2
+meter is programmed to record that is used for 
+3
+billing purposes (such as demand measured in 
+4
+kilowatts, voltage, frequency, current, and 
+5
+power factor); 
+6
+(E) grid edge consumer insights that are 
+7
+transmitted to an electric consumer’s device or 
+8
+home network or to the applicable electric util-
+9
+ity; and 
+10
+(F) the usage, voltage, current, or other 
+11
+attribute of electric energy measured by a meter 
+12
+or grid edge computer that is transmitted in 
+13
+real time to an electric consumer’s device or 
+14
+network. 
+15
+(9) RETAIL NATURAL GAS INFORMATION.—The 
+16
+term ‘‘retail natural gas information’’ means— 
+17
+(A) the natural gas usage of a gas con-
+18
+sumer, as measured and recorded by the appli-
+19
+cable gas utility; 
+20
+(B) the retail natural gas prices and appli-
+21
+cable rate applied to the natural gas usage de-
+22
+scribed in subparagraph (A) for the gas con-
+23
+sumer; 
+24
+04:03 Aug 07, 2022
+H8519
+5 
+•HR 8519 IH
+(C) the cost of service provided to a gas 
+1
+consumer, as displayed on billing information 
+2
+provided to such gas consumer; and 
+3
+(D) in the case of nonresidential natural 
+4
+gas meters, any other information that the 
+5
+meter is programmed to record that is used for 
+6
+billing purposes. 
+7
+(10) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+8
+means the Secretary of Energy. 
+9
+SEC. 3. CONSUMER ACCESS TO ELECTRIC ENERGY AND 
+10
+NATURAL GAS INFORMATION. 
+11
+(a) ELIGIBILITY FOR STATE ENERGY PLANS.—Sec-
+12
+tion 362(d) of the Energy Policy and Conservation Act 
+13
+(42 U.S.C. 6322(d)) is amended— 
+14
+(1) in paragraph (17), by striking ‘‘and’’ after 
+15
+the semicolon at the end; 
+16
+(2) by redesignating paragraph (18) as para-
+17
+graph (19); and 
+18
+(3) by inserting after paragraph (17) the fol-
+19
+lowing: 
+20
+‘‘(18) programs to promote competition in the 
+21
+area of digital energy management tools to— 
+22
+‘‘(A) enhance consumer access to and un-
+23
+derstanding of electric energy and natural gas 
+24
+usage and cost information, including con-
+25
+04:03 Aug 07, 2022
+H8519
+6 
+•HR 8519 IH
+sumers’ own residential and commercial retail 
+1
+electric energy information (as defined in sec-
+2
+tion 2 of the E-Access Act) and retail natural 
+3
+gas information (as defined in section 2 of the 
+4
+E-Access Act); and 
+5
+‘‘(B) facilitate the development and adop-
+6
+tion of innovative products and services to as-
+7
+sist consumers in managing energy consump-
+8
+tion and expenditures; and’’. 
+9
+(b) GUIDELINES FOR ELECTRIC CONSUMER AND GAS 
+10
+CONSUMER ACCESS.— 
+11
+(1) IN
+GENERAL.—Not later than 180 days 
+12
+after the date of enactment of this Act and subject 
+13
+to paragraph (2), the Secretary shall issue guidelines 
+14
+that establish model data sharing standards and 
+15
+policies for States to provide electric consumers and 
+16
+gas consumers, and third-party designees of such 
+17
+electric consumers and gas consumers, with access 
+18
+to retail electric energy information and retail nat-
+19
+ural gas information. 
+20
+(2) CONSULTATION.—Before issuing the guide-
+21
+lines under paragraph (1), the Secretary shall— 
+22
+(A) consult with— 
+23
+(i) State and local regulatory authori-
+24
+ties; 
+25
+04:03 Aug 07, 2022
+H8519
+7 
+•HR 8519 IH
+(ii) other appropriate Federal agen-
+1
+cies, including the National Institute of 
+2
+Standards and Technology and the Federal 
+3
+Trade Commission; 
+4
+(iii) consumer and privacy advocacy 
+5
+groups; 
+6
+(iv) electric utilities and gas utilities; 
+7
+(v) the National Association of State 
+8
+Energy Officials; and 
+9
+(vi) other appropriate entities, includ-
+10
+ing groups representing public utility com-
+11
+missions, commercial and residential build-
+12
+ing owners, residential contractors, and 
+13
+groups that represent demand response 
+14
+and electricity data devices and services; 
+15
+and 
+16
+(B) provide notice and opportunity for 
+17
+comment. 
+18
+(3) STATE AND LOCAL REGULATORY ACTION.— 
+19
+In issuing the guidelines under paragraph (1), the 
+20
+Secretary shall, to the maximum extent practicable, 
+21
+be guided by actions taken by State and local regu-
+22
+latory authorities to ensure electric consumer and 
+23
+gas consumer access to retail electric energy infor-
+24
+mation and retail natural gas information, including 
+25
+04:03 Aug 07, 2022
+H8519
+8 
+•HR 8519 IH
+actions taken after consideration of the standard es-
+1
+tablished under section 111(d)(19) of the Public 
+2
+Utility Regulatory Policies Act of 1978 (16 U.S.C. 
+3
+2621(d)(19)). 
+4
+(4) CONTENTS.—The guidelines issued under 
+5
+paragraph (1) shall include guidelines— 
+6
+(A) specifying that retail electric energy in-
+7
+formation and retail natural gas information of 
+8
+an electric consumer or a gas consumer should 
+9
+be made available to the electric consumer or 
+10
+gas consumer (or a third-party designee of the 
+11
+electric consumer or gas consumer) by the elec-
+12
+tric utility or gas utility of the electric con-
+13
+sumer or gas consumer (or such other entity as 
+14
+may be designated by the utility), in consulta-
+15
+tion with, or with approval from, as applicable, 
+16
+the utility’s applicable retail regulatory author-
+17
+ity; 
+18
+(B) regarding the timeliness and specificity 
+19
+of retail electric energy information and retail 
+20
+natural gas information to be made available to 
+21
+an electric consumer or a gas consumer (or a 
+22
+third-party designee of such an electric con-
+23
+sumer or such a gas consumer), including that 
+24
+such retail electric energy information and re-
+25
+04:03 Aug 07, 2022
+H8519
+9 
+•HR 8519 IH
+tail natural gas information should be made 
+1
+available— 
+2
+(i) in an electronic machine readable 
+3
+form, without additional charge, in con-
+4
+formity with nationally recognized open 
+5
+standards and best practices; 
+6
+(ii) via a website or other electronic 
+7
+access authorized by the electric consumer 
+8
+or gas consumer, including at least 24 
+9
+months of historical information; 
+10
+(iii) in as close to real-time as is rea-
+11
+sonably practicable; 
+12
+(iv) at the level of specificity that the 
+13
+data is transmitted by the meter or as is 
+14
+reasonably practicable; and 
+15
+(v) in a manner that provides ade-
+16
+quate protections for the security of the in-
+17
+formation and the privacy of the electric 
+18
+consumer or gas consumer utilizing recog-
+19
+nized energy data privacy programs such 
+20
+as the Department of Energy’s DataGuard 
+21
+Energy Data Privacy Program or other 
+22
+programs approved by the Secretary; 
+23
+(C) regarding appropriate nationally recog-
+24
+nized open standards for data exchange; 
+25
+04:03 Aug 07, 2022
+H8519
+10 
+•HR 8519 IH
+(D) regarding consumer consent require-
+1
+ments such that an electric consumer or gas 
+2
+consumer can conveniently and securely author-
+3
+ize a third-party designee access to the retail 
+4
+electric energy information or retail natural gas 
+5
+information of such electric consumer or gas 
+6
+consumer, including standardized authorization 
+7
+language to which an electric consumer or gas 
+8
+consumer will agree prior to such electric con-
+9
+sumer or gas consumer authorizing, or the ap-
+10
+plicable electric utility or gas utility sharing, re-
+11
+tail electric energy information or retail natural 
+12
+gas information of such electric consumer or 
+13
+gas consumer; 
+14
+(E) specifying that electric utilities and gas 
+15
+utilities should, when a meter is servicing an 
+16
+electric consumer or gas consumer, commu-
+17
+nicate retail electric energy information or retail 
+18
+natural gas information to an electric con-
+19
+sumer’s or gas consumer’s device or through an 
+20
+electric consumer’s or gas consumer’s network 
+21
+to a third-party designee of such electric con-
+22
+sumer or gas consumer; 
+23
+(F) with respect to the terms and condi-
+24
+tions, which shall be reasonable and non-dis-
+25
+04:03 Aug 07, 2022
+H8519
+11 
+•HR 8519 IH
+criminatory, to be agreed to by a third-party 
+1
+designee of an electric consumer or of a gas 
+2
+consumer and an electric utility or gas utility 
+3
+for access to the retail electric energy informa-
+4
+tion or retail natural gas information of such 
+5
+electric consumer or gas consumer, including 
+6
+that— 
+7
+(i) due process be afforded to such 
+8
+third party by the applicable regulatory au-
+9
+thority, including giving such third party 
+10
+an opportunity to rebut allegations of 
+11
+wrongdoing by such third party prior to 
+12
+any enforcement action being taken by the 
+13
+applicable regulatory authority; 
+14
+(ii) the consumer’s online authoriza-
+15
+tion process offered by the applicable gas 
+16
+utility or electric utility shall be user- 
+17
+friendly, and the personal information re-
+18
+quired to establish identity shall be con-
+19
+sistent with the applicable gas utility’s or 
+20
+electric utility’s standard practices; and 
+21
+(iii) such third party may receive re-
+22
+tail electric energy information and retail 
+23
+natural gas information from an electric 
+24
+utility or gas utility with consumer con-
+25
+04:03 Aug 07, 2022
+H8519
+12 
+•HR 8519 IH
+sent, except if otherwise prohibited by Fed-
+1
+eral law or by a finding of a State court 
+2
+or other State adjudicatory body; and 
+3
+(G) addressing appropriate circumstances 
+4
+in which analysis of retail electric energy infor-
+5
+mation, retail natural gas information, and esti-
+6
+mates of energy saved as a result of any effi-
+7
+ciency measure may be released publicly, with-
+8
+out a consumer’s consent, only by protection of 
+9
+individual consumer privacy, via mathematical 
+10
+methods such as differential privacy, or by al-
+11
+ternative means at the discretion of the Sec-
+12
+retary, if required, that prevent reidentification 
+13
+of individual consumers’ attributes when pub-
+14
+lishing aggregate information. 
+15
+(5) REVISIONS.—The Secretary shall periodi-
+16
+cally review and, as necessary, revise the guidelines 
+17
+issued under paragraph (1) to reflect changes in 
+18
+technology, privacy needs, and the market for elec-
+19
+tric energy and natural gas and related services. 
+20
+(c) VERIFICATION AND IMPLEMENTATION.— 
+21
+(1) IN GENERAL.—A State may submit to the 
+22
+Secretary a description of the policies of the State 
+23
+relating to electric consumer and gas consumer ac-
+24
+cess to retail electric energy information and retail 
+25
+04:03 Aug 07, 2022
+H8519
+13 
+•HR 8519 IH
+natural gas information for certification by the Sec-
+1
+retary that the policies meet the guidelines issued 
+2
+under subsection (b). 
+3
+(2) ASSISTANCE.—Subject to the availability of 
+4
+amounts appropriated pursuant to paragraph (3), 
+5
+the Secretary shall make amounts available to any 
+6
+State that has policies described in paragraph (1) 
+7
+that the Secretary certifies meet the guidelines 
+8
+issued under subsection (b) to assist the State in im-
+9
+plementing programs described in section 362(d)(18) 
+10
+of the Energy Policy and Conservation Act. 
+11
+(3) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+12
+There is authorized to be appropriated to carry out 
+13
+this subsection $10,000,000 for fiscal year 2023, to 
+14
+remain available until expended. 
+15
+Æ 
+04:03 Aug 07, 2022
+H8519

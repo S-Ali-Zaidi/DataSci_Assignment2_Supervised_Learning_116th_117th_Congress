@@ -1,0 +1,2267 @@
+A BILL 
+To establish uniform accessibility standards for websites and 
+applications of employers, employment agencies, labor 
+organizations, joint labor-management committees, public 
+entities, public accommodations, testing entities, and 
+commercial providers, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Websites and Software 
+4
+Applications Accessibility Act’’. 
+5
+02:25 Oct 08, 2022
+H9021
+2 
+•HR 9021 IH
+SEC. 2. FINDINGS AND PURPOSES. 
+1
+(a) FINDINGS.—Congress finds the following: 
+2
+(1) Section 2(b)(1) of the Americans with Dis-
+3
+abilities Act of 1990 states that the Act provides ‘‘a 
+4
+clear and comprehensive national mandate for the 
+5
+elimination of discrimination against individuals with 
+6
+disabilities’’ (42 U.S.C. 12101(b)(1)). 
+7
+(2) In 1990, websites and applications were es-
+8
+sentially nonexistent, but Congress made clear that 
+9
+the ADA ‘‘should keep pace with the rapidly chang-
+10
+ing technology of the times’’ (H.R. Rep. No. 101– 
+11
+485, pt. 2, at 381 (1990)), as reprinted in 1990 
+12
+U.S.C.C.A.N. 303, 391). 
+13
+(3) Section 102 of the ADA (42 U.S.C. 12112), 
+14
+section 202 of the ADA (42 U.S.C. 12132), and sec-
+15
+tion 302 of the ADA (42 U.S.C. 12182) broadly 
+16
+prohibit discrimination on the basis of disability in 
+17
+regard to employment, services, programs, or activi-
+18
+ties of public entities, and of goods, services, facili-
+19
+ties, privileges, advantages, and accommodations of 
+20
+any place of public accommodation, respectively. 
+21
+(4) The Department of Justice has promulgated 
+22
+regulations to address the intersection of the ADA 
+23
+and emerging technologies, including the obligation 
+24
+to ensure effective communication with and by indi-
+25
+viduals with disabilities by using technologies such 
+26
+02:25 Oct 08, 2022
+H9021
+3 
+•HR 9021 IH
+as video remote interpreting, real-time computer- 
+1
+aided transcription, open and closed captioning, 
+2
+audio description, videophones, captioned telephones, 
+3
+screen reader software, optical readers, and tele-
+4
+phone systems that interact properly with internet- 
+5
+based relay systems. 
+6
+(5) The activities of a vast number of ADA-cov-
+7
+ered entities now occur in whole or in part through 
+8
+websites and applications, a shift that has been ac-
+9
+celerated by a global pandemic. The digital economy 
+10
+accounts for nearly 10 percent of the United States 
+11
+gross domestic product, and 85 percent of United 
+12
+States adults visit the internet at least once per day. 
+13
+(6) Many entities, including those covered by 
+14
+the ADA, rely on third-party technology providers to 
+15
+deliver goods and services via websites and applica-
+16
+tions, yet these websites and applications are often 
+17
+created and developed in a manner that is inacces-
+18
+sible to individuals with disabilities. 
+19
+(7) Despite the ADA’s clear language covering 
+20
+all services, programs, and activities of public enti-
+21
+ties, all goods, services, facilities, privileges, advan-
+22
+tages, and accommodations of public accommoda-
+23
+tions, and all terms, conditions, and privileges of em-
+24
+ployment and certain actions of employers, including 
+25
+02:25 Oct 08, 2022
+H9021
+4 
+•HR 9021 IH
+when conducted through websites and applications, 
+1
+most websites and applications contain significant 
+2
+barriers for individuals with disabilities. 
+3
+(8) When Congress enacted the ADA in 1990, 
+4
+Congress intended for the ADA to keep pace with 
+5
+rapidly changing technology. The Department of 
+6
+Justice has rightly acknowledged that the ADA re-
+7
+quires covered entities to ensure that their websites 
+8
+are accessible to individuals with disabilities. 
+9
+(9) Some courts have misconstrued the ADA, 
+10
+saying the ADA does not cover websites despite the 
+11
+clear language of the ADA’s provisions. 
+12
+(10) Without equal access to websites and ap-
+13
+plications, many individuals with disabilities are 
+14
+treated as second-class citizens and are excluded 
+15
+from equal participation in and equal access to all 
+16
+aspects of society. 
+17
+(b) PURPOSE.—It is the purpose of this Act— 
+18
+(1) to affirm that the ADA and this Act require 
+19
+that websites and applications used by any covered 
+20
+entity to communicate or interact with applicants, 
+21
+employees, participants, customers, or other mem-
+22
+bers of the public be readily accessible to and use-
+23
+able by individuals with disabilities, whether the en-
+24
+tity has a physical location or is digital only; 
+25
+02:25 Oct 08, 2022
+H9021
+5 
+•HR 9021 IH
+(2) to require the Department of Justice and 
+1
+the Equal Employment Opportunity Commission to 
+2
+set and enforce standards for websites and applica-
+3
+tions and to periodically update such standards; 
+4
+(3) to address and remedy the systemic nation-
+5
+wide problem of inaccessible websites and applica-
+6
+tions that exclude individuals with disabilities from 
+7
+equal participation in and equal access to all aspects 
+8
+of society; and 
+9
+(4) to create effective mechanisms to respond to 
+10
+emerging technologies and to ensure that such tech-
+11
+nologies do not impair the rights and abilities of in-
+12
+dividuals with disabilities to participate in all aspects 
+13
+of society. 
+14
+SEC. 3. DEFINITIONS. 
+15
+In this Act: 
+16
+(1) ACCESSIBLE.—The term ‘‘accessible’’ or 
+17
+‘‘accessibility’’, used with respect to a website or ap-
+18
+plication, means a perceivable, operable, understand-
+19
+able, and robust website or application that enables 
+20
+individuals with disabilities to access the same infor-
+21
+mation as, to engage in the same interactions as, to 
+22
+communicate and to be understood as effectively as, 
+23
+and to enjoy the same services as are offered to, 
+24
+other individuals with the same privacy, same inde-
+25
+02:25 Oct 08, 2022
+H9021
+6 
+•HR 9021 IH
+pendence, and same ease of use as, individuals with-
+1
+out disabilities. 
+2
+(2) ACCESSIBILITY
+REGULATIONS.—The term 
+3
+‘‘accessibility regulations’’ means the regulations 
+4
+issued under section 5 in accordance with this Act. 
+5
+(3) ADA.—The term ‘‘ADA’’ means the Ameri-
+6
+cans with Disabilities Act of 1990 (42 U.S.C. 12101 
+7
+et seq.). 
+8
+(4) APPLICATION.—The term ‘‘application’’ 
+9
+means software that is designed to run on a device, 
+10
+including a smartphone, tablet, self-service kiosk, 
+11
+wearable technology item, or laptop or desktop com-
+12
+puter or another device, including a device devised 
+13
+after the date of enactment of this Act, and that is 
+14
+designed to perform, or to help the user perform, a 
+15
+specific task. 
+16
+(5) COMMERCIAL PROVIDER.—The term ‘‘com-
+17
+mercial provider’’ means any entity, including a pub-
+18
+lic or private entity— 
+19
+(A) whose operations affect commerce; and 
+20
+(B) that designs, develops, constructs, al-
+21
+ters, modifies, or adds an application or website 
+22
+for a covered entity (including a covered entity 
+23
+described in subparagraph (A) that takes such 
+24
+02:25 Oct 08, 2022
+H9021
+7 
+•HR 9021 IH
+an action for the covered entity’s product) for 
+1
+covered use. 
+2
+(6) COMMISSION.—The term ‘‘Commission’’ 
+3
+means the Equal Employment Opportunity Commis-
+4
+sion. 
+5
+(7) COVERED ENTITY.—The term ‘‘covered en-
+6
+tity’’ means an employment entity, public entity, 
+7
+public accommodation, or testing entity. 
+8
+(8) COVERED USE.—The term ‘‘covered use’’ 
+9
+means— 
+10
+(A) use by a public entity to provide a 
+11
+service, program, or activity, or information re-
+12
+lated to such service, program, or activity, cov-
+13
+ered under title II of the ADA (42 U.S.C. 
+14
+12131 et seq.), section 504 of the Rehabilita-
+15
+tion Act of 1973 (29 U.S.C. 794), or section 
+16
+1557 of the Patient Protection and Affordable 
+17
+Care Act (42 U.S.C. 1811), to an applicant, 
+18
+participant, or other member of the public; 
+19
+(B) use by a public accommodation or test-
+20
+ing entity to provide a good, service, facility, 
+21
+privilege, advantage, or accommodation, or in-
+22
+formation related to such good, service, facility, 
+23
+privilege, advantage, or accommodation, to cus-
+24
+tomers or other members of the public, regard-
+25
+02:25 Oct 08, 2022
+H9021
+8 
+•HR 9021 IH
+less of whether the public accommodation or 
+1
+testing entity owns, operates, or utilizes a phys-
+2
+ical location for covered use; or 
+3
+(C) use by an employment entity in deter-
+4
+mining or conducting job application proce-
+5
+dures, hiring, advancement, or discharge of em-
+6
+ployees, employee compensation, job training, or 
+7
+other term, condition, or privilege of employ-
+8
+ment, for employees or applicants to become 
+9
+employees. 
+10
+(9) DEPARTMENT.—The term ‘‘Department’’ 
+11
+means the Department of Justice. 
+12
+(10) DISABILITY.—The term ‘‘disability’’ has 
+13
+the meaning given the term in section 3 of the ADA 
+14
+(42 U.S.C. 12102). 
+15
+(11) EMPLOYEE.—The term ‘‘employee’’ has 
+16
+the meaning given the term in section 101 of the 
+17
+ADA (42 U.S.C. 12111). 
+18
+(12) EMPLOYER.—The term ‘‘employer’’ has 
+19
+the meaning given the term in section 101 of the 
+20
+ADA (42 U.S.C. 12111). 
+21
+(13) EMPLOYMENT AGENCY.—The term ‘‘em-
+22
+ployment agency’’ has the meaning given the term in 
+23
+section 701 of the Civil Rights Act of 1964 (42 
+24
+U.S.C. 2000e). 
+25
+02:25 Oct 08, 2022
+H9021
+9 
+•HR 9021 IH
+(14) EMPLOYMENT
+ENTITY.—The term ‘‘em-
+1
+ployment entity’’ means an employer, employment 
+2
+agency, labor organization, or joint labor-manage-
+3
+ment committee. 
+4
+(15) 
+INFORMATION
+AND
+COMMUNICATION 
+5
+TECHNOLOGY.—The term ‘‘information and commu-
+6
+nication technology’’— 
+7
+(A) means— 
+8
+(i) any equipment or interconnected 
+9
+system or subsystem of equipment, used in 
+10
+the automatic acquisition, storage, anal-
+11
+ysis, evaluation, manipulation, manage-
+12
+ment, movement, control, display, switch-
+13
+ing, interchange, transmission, or reception 
+14
+of data or information; and 
+15
+(ii) other equipment or technology, or 
+16
+another system or process, for which the 
+17
+principal function is the creation, manipu-
+18
+lation, storage, display, receipt, or trans-
+19
+mission of electronic data and information, 
+20
+as well as any associated content; and 
+21
+(B) includes computers and peripheral 
+22
+equipment, information kiosks and transaction 
+23
+machines, telecommunications equipment, cus-
+24
+tomer premises equipment, multifunction office 
+25
+02:25 Oct 08, 2022
+H9021
+10 
+•HR 9021 IH
+machines, software, applications, websites, vid-
+1
+eos, and electronic documents. 
+2
+(16) 
+JOINT
+LABOR-MANAGEMENT
+COM-
+3
+MITTEE.—The term ‘‘joint labor-management com-
+4
+mittee’’ means a labor management committee es-
+5
+tablished pursuant to section 205A of the Labor 
+6
+Management Relations Act, 1947 (29 U.S.C. 175a) 
+7
+and engaged in commerce. 
+8
+(17) LABOR ORGANIZATION.—The term ‘‘labor 
+9
+organization’’ has the meaning given the term in 
+10
+section 701 of the Civil Rights Act of 1964 (42 
+11
+U.S.C. 2000e). 
+12
+(18) OPERABLE.—The term ‘‘operable’’, used 
+13
+with respect to a website or application, means that 
+14
+user interface components and navigation for the 
+15
+website or application can be operated by individuals 
+16
+with disabilities. 
+17
+(19) PERCEIVABLE.—The term ‘‘perceivable’’, 
+18
+used with respect to a website or application, means 
+19
+that information and user interface components for 
+20
+the website or application are presentable in ways 
+21
+that individuals with disabilities can perceive. 
+22
+(20) 
+PUBLIC
+ACCOMMODATION.—The 
+term 
+23
+‘‘public accommodation’’ means a private entity de-
+24
+scribed in paragraph (7) of section 301 of the ADA 
+25
+02:25 Oct 08, 2022
+H9021
+11 
+•HR 9021 IH
+(42 U.S.C. 12181) who owns, operates, or utilizes a 
+1
+website or application for covered use. 
+2
+(21) PUBLIC ENTITY.—The term ‘‘public enti-
+3
+ty’’ has the meaning given the term ‘‘public entity’’ 
+4
+in section 201 of the ADA (42 U.S.C. 12131). 
+5
+(22) 
+QUALIFIED
+INDIVIDUAL.—The 
+term 
+6
+‘‘qualified individual’’, used with respect to an em-
+7
+ployee or an applicant to become an employee, has 
+8
+the meaning given the term in section 101 of the 
+9
+ADA (42 U.S.C. 12111). 
+10
+(23) ROBUST.—The term ‘‘robust’’, used with 
+11
+respect to a website or application, means a website 
+12
+or application for which the content can be inter-
+13
+preted by and the interface can be accessed by a 
+14
+wide variety of tools, including assistive technology, 
+15
+used by individuals with disabilities. 
+16
+(24) SOFTWARE DEFINITIONS.— 
+17
+(A) PLATFORM SOFTWARE.— 
+18
+(i) IN GENERAL.—The term ‘‘platform 
+19
+software’’ means software— 
+20
+(I) that interacts with hardware 
+21
+or provides services for other soft-
+22
+ware; 
+23
+(II) that may run or host other 
+24
+software, and may isolate the other 
+25
+02:25 Oct 08, 2022
+H9021
+12 
+•HR 9021 IH
+software from underlying software or 
+1
+hardware layers; and 
+2
+(III) a single component of which 
+3
+may have both platform and non-plat-
+4
+form aspects. 
+5
+(ii) PLATFORM.—For purposes of 
+6
+clause (i), the term ‘‘platform’’ includes— 
+7
+(I) a desktop operating system; 
+8
+(II) an embedded operating sys-
+9
+tem, including a mobile system; 
+10
+(III) a web browser; 
+11
+(IV) a plugin to a web browser 
+12
+that renders a particular media or 
+13
+format; and 
+14
+(V) a set of components that al-
+15
+lows another application to execute, 
+16
+such as an application which supports 
+17
+macros or scripting. 
+18
+(B) SOFTWARE.—In subparagraphs (A) 
+19
+and (C), the term ‘‘software’’— 
+20
+(i) means a program, a procedure, 
+21
+and a rule (any of which may include re-
+22
+lated data or documentation), that directs 
+23
+the use and operation of information and 
+24
+02:25 Oct 08, 2022
+H9021
+13 
+•HR 9021 IH
+communication technology to perform a 
+1
+given task or function; and 
+2
+(ii) includes applications, non-web 
+3
+software, platform software, and software 
+4
+tools. 
+5
+(C) SOFTWARE TOOL.— 
+6
+(i) IN GENERAL.—The term ‘‘software 
+7
+tool’’ means software— 
+8
+(I) for which the primary func-
+9
+tion is the development of other soft-
+10
+ware; and 
+11
+(II) that usually comes in the 
+12
+form of an Integrated Development 
+13
+Environment and is a suite of related 
+14
+products and utilities. 
+15
+(ii) INTEGRATED DEVELOPMENT EN-
+16
+VIRONMENT.—In clause (i), the term ‘‘In-
+17
+tegrated 
+Development 
+Environment’’ 
+18
+means an application such as— 
+19
+(I) Microsoft® Visual Studio®; 
+20
+(II) Apple® Xcode®; and 
+21
+(III) 
+Eclipse 
+Foundation 
+22
+Eclipse®. 
+23
+02:25 Oct 08, 2022
+H9021
+14 
+•HR 9021 IH
+(25) STATE.—The term ‘‘State’’ means each of 
+1
+the several States, the District of Columbia, and any 
+2
+territory or possession of the United States. 
+3
+(26) TESTING ENTITY.—The term ‘‘testing en-
+4
+tity’’ means any person whose operations affect com-
+5
+merce, as defined in section 301 of the ADA (42 
+6
+U.S.C. 12181) and that offers examinations or 
+7
+courses related to, applying, licensing, certification, 
+8
+or credentialing for secondary or postsecondary edu-
+9
+cation, professional, or trade purposes. 
+10
+(27) UNDERSTANDABLE.—The term ‘‘under-
+11
+standable’’, used with respect to a website or appli-
+12
+cation, means that the components of the user inter-
+13
+face for the website or application, including any 
+14
+input fields, error messages, and correction opportu-
+15
+nities, are predictable and can be understood and 
+16
+used by individuals with disabilities. 
+17
+(28) WEBSITE.—The term ‘‘website’’ means 
+18
+any collection of related web pages, images, videos, 
+19
+or other digital assets placed in one or more com-
+20
+puter server-based file archives so that the collection 
+21
+can be accessed by applicants, employees, partici-
+22
+pants, customers, or other members of the public 
+23
+over the internet or through a private computer net-
+24
+work. 
+25
+02:25 Oct 08, 2022
+H9021
+15 
+•HR 9021 IH
+SEC. 4. ACCESS TO WEBSITES AND APPLICATIONS. 
+1
+(a) GENERAL RULES FOR COVERED ENTITIES.— 
+2
+(1) EMPLOYMENT
+ENTITY.—No employment 
+3
+entity shall subject to discrimination, related to a 
+4
+website or application owned, operated, or utilized 
+5
+for covered use by the employment entity, an indi-
+6
+vidual with a disability in regard to an activity de-
+7
+scribed in section 102 of the ADA (42 U.S.C. 
+8
+12112). 
+9
+(2) PUBLIC ENTITY.—No individual with a dis-
+10
+ability shall, by reason of such disability— 
+11
+(A) be excluded from participation in or be 
+12
+denied the benefits of the services, programs, or 
+13
+activities, or information related to such serv-
+14
+ices, programs, or activities, offered through a 
+15
+website or application owned, operated, or uti-
+16
+lized, for a covered use, by a public entity; or 
+17
+(B) be otherwise subjected to discrimina-
+18
+tion related to a website or application owned, 
+19
+operated, or utilized for covered use by a public 
+20
+entity. 
+21
+(3) PUBLIC ACCOMMODATION AND TESTING EN-
+22
+TITY.—No individual shall be discriminated against 
+23
+on the basis of disability in the full and equal enjoy-
+24
+ment of the goods, services, facilities, privileges, ad-
+25
+vantages, or accommodations, or information related 
+26
+02:25 Oct 08, 2022
+H9021
+16 
+•HR 9021 IH
+to such goods, services, facilities, privileges, advan-
+1
+tages, or accommodations, offered through a website 
+2
+or application owned, operated, or utilized for cov-
+3
+ered use by a public accommodation or testing enti-
+4
+ty. 
+5
+(b) COVERED ENTITIES.—In order to comply with 
+6
+subsection (a), a covered entity shall meet the following 
+7
+requirements: 
+8
+(1) ACCESSIBILITY.—A covered entity that en-
+9
+gages in an activity described in section 102 of the 
+10
+ADA (42 U.S.C. 12112), or that provides goods, 
+11
+services, facilities, privileges, advantages, accom-
+12
+modations, programs, activities, or information re-
+13
+lated to such goods, services, facilities, privileges, ad-
+14
+vantages, accommodations, programs, or activities, 
+15
+through a website or application shall ensure that 
+16
+such website or application is accessible. 
+17
+(2) EFFECTIVE COMMUNICATIONS.—A covered 
+18
+entity shall ensure that covered uses through 
+19
+websites and applications with applicants, employees, 
+20
+participants, customers, and other members of the 
+21
+public with disabilities are as effective as commu-
+22
+nications and interactions with individuals without 
+23
+disabilities. 
+24
+02:25 Oct 08, 2022
+H9021
+17 
+•HR 9021 IH
+(c) COMMERCIAL PROVIDERS.—No commercial pro-
+1
+vider shall design, develop, construct, alter, modify, or add 
+2
+to a website or application for a covered entity for covered 
+3
+use in a manner that results in the website or application 
+4
+that is not accessible, or otherwise provide a website or 
+5
+application to a covered entity for covered use that is not 
+6
+accessible. 
+7
+(d) DEFENSES AND EXEMPTIONS.— 
+8
+(1) EMPLOYMENT ENTITIES.—With respect to 
+9
+a claim that an employment entity violated this sec-
+10
+tion, the entity shall not be considered to have vio-
+11
+lated this section if compliance with this section— 
+12
+(A) would impose an undue burden on the 
+13
+entity; or 
+14
+(B) would fundamentally alter the nature 
+15
+of the employment provided by the entity. 
+16
+(2) PUBLIC ENTITIES.—With respect to a claim 
+17
+that a public entity violated this section, the entity 
+18
+shall not be considered to have violated this section 
+19
+if compliance with this section— 
+20
+(A) would impose an undue burden on the 
+21
+entity; or 
+22
+(B) would fundamentally alter the nature 
+23
+of the services, programs, activities, or informa-
+24
+tion provided by the entity. 
+25
+02:25 Oct 08, 2022
+H9021
+18 
+•HR 9021 IH
+(3) PUBLIC ACCOMMODATIONS OR TESTING EN-
+1
+TITIES.—With respect to a claim that a public ac-
+2
+commodation or testing entity violated this section, 
+3
+the accommodation or entity shall not be considered 
+4
+to have violated this section if compliance with this 
+5
+section— 
+6
+(A) would impose an undue burden on the 
+7
+accommodation or entity; or 
+8
+(B) would fundamentally alter the nature 
+9
+of the goods, services, facilities, privileges, ad-
+10
+vantages, accommodations, or information pro-
+11
+vided by the accommodation or entity. 
+12
+(4) COMMERCIAL PROVIDERS.—With respect to 
+13
+a claim that a commercial provider violated this sec-
+14
+tion, the commercial provider shall not be considered 
+15
+to have violated this section if compliance with this 
+16
+section— 
+17
+(A) would impose an undue burden on the 
+18
+commercial provider; or 
+19
+(B) would fundamentally alter the nature 
+20
+of the goods, services, facilities, privileges, ad-
+21
+vantages, accommodations, programs, activities, 
+22
+or information provided by the covered entity 
+23
+served. 
+24
+02:25 Oct 08, 2022
+H9021
+19 
+•HR 9021 IH
+SEC. 5. RULEMAKING. 
+1
+(a) PUBLIC ENTITIES, PUBLIC ACCOMMODATIONS, 
+2
+AND TESTING ENTITIES.— 
+3
+(1) NOTICE OF PROPOSED RULEMAKING.—Not 
+4
+later than 12 months after the date of enactment of 
+5
+this Act, the Attorney General shall issue, for pur-
+6
+poses of section 4, a notice of proposed rulemaking 
+7
+regarding the accessibility of websites and applica-
+8
+tions applicable to covered entities that are public 
+9
+entities or public accommodations or testing entities, 
+10
+and the commercial providers for the three types of 
+11
+covered entities, for covered use. Such notice shall 
+12
+propose regulations to implement the accessibility 
+13
+obligations of this Act, and include standards for ac-
+14
+cessible websites and applications that offer equally 
+15
+effective experiences for users with disabilities and 
+16
+users without disabilities. 
+17
+(2) FINAL RULE.—Not later than 24 months 
+18
+after the date of enactment of this Act, the Attorney 
+19
+General shall issue, for purposes of section 4, a final 
+20
+rule regarding the accessibility of websites and appli-
+21
+cations applicable to the covered entities, and the 
+22
+commercial providers, described in paragraph (1), 
+23
+for covered use. Such final rule shall implement the 
+24
+accessibility obligations of this Act and include 
+25
+standards for accessible websites and applications 
+26
+02:25 Oct 08, 2022
+H9021
+20 
+•HR 9021 IH
+that offer equally effective experiences for users with 
+1
+disabilities and users without disabilities. 
+2
+(3) PUBLIC
+OF
+ENFORCEMENT
+AC-
+3
+TIONS.—Not later than 6 months after such 
+4
+issuance, the Attorney General shall, to the extent 
+5
+permitted by law, post publicly on the Department 
+6
+website any and all settlement documents and docu-
+7
+ments specifying other resolutions, resulting from 
+8
+the initiation of enforcement actions, or filing of ad-
+9
+ministrative or civil actions, by the Attorney General 
+10
+pursuant to this Act concerning the covered entities, 
+11
+and the commercial providers, described in para-
+12
+graph (1). 
+13
+(b) EMPLOYMENT ENTITIES.— 
+14
+(1) NOTICE OF PROPOSED RULEMAKING.—Not 
+15
+later than 12 months after the date of enactment of 
+16
+this Act, the Commission shall issue, for purposes of 
+17
+section 4, a notice of proposed rulemaking regarding 
+18
+the accessibility of websites and applications applica-
+19
+ble to employment entities, and the commercial pro-
+20
+viders for employment entities, for covered use. Such 
+21
+notice shall propose regulations to implement the ac-
+22
+cessibility obligations of this Act, and include stand-
+23
+ards for accessible websites and applications that 
+24
+02:25 Oct 08, 2022
+H9021
+21 
+•HR 9021 IH
+offer equally effective experiences for users with dis-
+1
+abilities and users without disabilities. 
+2
+(2) FINAL RULE.—Not later than 24 months 
+3
+after the date of enactment of this Act, the Commis-
+4
+sion shall issue, for purposes of section 4, a final 
+5
+rule regarding the accessibility of websites and appli-
+6
+cations applicable to the employment entities, and 
+7
+the commercial providers, described in paragraph 
+8
+(1), for covered use. Such final rule shall implement 
+9
+the accessibility obligations of this Act and include 
+10
+standards for accessible websites and applications 
+11
+that offer equally effective experiences for users with 
+12
+disabilities and users without disabilities. 
+13
+(3) PUBLIC
+OF
+ENFORCEMENT
+AC-
+14
+TIONS.—Not later than 6 months after such 
+15
+issuance, the Commission shall, to the extent per-
+16
+mitted by law, post publicly on the Commission 
+17
+website any and all settlement documents, and docu-
+18
+ments specifying other resolutions, resulting from 
+19
+the initiation of enforcement actions, or filing of ad-
+20
+ministrative or civil actions, by the Commission pur-
+21
+suant to this Act concerning the employment enti-
+22
+ties, and the commercial providers, described in 
+23
+paragraph (1). 
+24
+02:25 Oct 08, 2022
+H9021
+22 
+•HR 9021 IH
+SEC. 6. PERIODIC REVIEW. 
+1
+(a) REVIEW.—For each of the first 3 years after the 
+2
+date of enactment of this Act, and every 2 years there-
+3
+after, each Federal agency receiving complaints or engag-
+4
+ing in enforcement (including compliance reviews and in-
+5
+vestigations), administrative (including administrative res-
+6
+olution of a claim of a violation), or civil actions under 
+7
+this Act shall submit a report on the complaints and ac-
+8
+tivities to the Department and the Commission. The At-
+9
+torney General and the Commission shall, for each of the 
+10
+first 3 years and every 2 years thereafter, review com-
+11
+plaints received and enforcement, administrative, or civil 
+12
+actions taken under this Act, to determine whether the 
+13
+purpose of this Act is being achieved. In conducting such 
+14
+reviews, the Attorney General and the Commission may 
+15
+award grants, contracts, or cooperative agreements to en-
+16
+tities that have documented experience and expertise in 
+17
+collecting and analyzing data associated with imple-
+18
+menting reviews of complaints, and enforcement, adminis-
+19
+trative, and civil actions. 
+20
+(b) REPORT.—The Attorney General and the Com-
+21
+mission shall prepare a report containing the results of 
+22
+each such review of complaints and actions described in 
+23
+subsection (a), and shall submit the report to the Com-
+24
+mittee on Health, Education, Labor, and Pensions and the 
+25
+Committee on the Judiciary of the Senate and the Com-
+26
+02:25 Oct 08, 2022
+H9021
+23 
+•HR 9021 IH
+mittee on Education and Labor and the Committee on the 
+1
+Judiciary of the House of Representatives. 
+2
+(c) UPDATED REGULATIONS.—The Attorney General 
+3
+and the Commission shall issue, in accordance with this 
+4
+Act, updated accessibility regulations every 3 years fol-
+5
+lowing the date of issuance of the initial accessibility regu-
+6
+lations issued under this Act. 
+7
+SEC. 7. ENFORCEMENT AND ADMINISTRATIVE ACTION, AND 
+8
+PRIVATE RIGHT OF ACTION. 
+9
+(a) PUBLIC ENTITIES, PUBLIC ACCOMMODATIONS, 
+10
+AND TESTING ENTITIES.— 
+11
+(1) CIVIL ACTION BY ATTORNEY GENERAL.— 
+12
+(A) IN GENERAL.— 
+13
+(i) INVESTIGATION
+AFTER
+A
+COM-
+14
+PLAINT.—On receiving a complaint filed by 
+15
+an individual with a disability, a class of 
+16
+individuals with disabilities, or an entity 
+17
+representing an individual with a disability 
+18
+or such a class, of a violation of paragraph 
+19
+(2) or (3) of subsection (a), as the case 
+20
+may be, or a complaint filed by a covered 
+21
+entity that is a public entity, public accom-
+22
+modation, or testing entity of a violation of 
+23
+subsection (c), of section 4 (including a re-
+24
+lated provision of the final rule issued 
+25
+02:25 Oct 08, 2022
+H9021
+24 
+•HR 9021 IH
+under section 5(a)), the Attorney General 
+1
+may conduct an investigation. The inves-
+2
+tigation shall consist of a review of the cor-
+3
+responding website or application owned, 
+4
+operated, or utilized for covered use by 
+5
+such a covered entity, or provided to such 
+6
+a covered entity by a commercial provider, 
+7
+to determine whether the covered entity or 
+8
+commercial provider has violated the cor-
+9
+responding provision of section 4. 
+10
+(ii) OTHER INVESTIGATION AND RE-
+11
+VIEW.—In addition, the Attorney General 
+12
+shall, on the Attorney General’s own au-
+13
+thority, investigate practices that may be 
+14
+violations of, and undertake periodic re-
+15
+views of compliance of such covered enti-
+16
+ties and commercial providers with, the 
+17
+corresponding provision of section 4 (in-
+18
+cluding a related provision of the final rule 
+19
+issued under section 5(a)). 
+20
+(iii) 
+DETERMINATION
+OF
+VIOLA-
+21
+TION.—If, after investigation or review 
+22
+under this subparagraph, the Attorney 
+23
+General determines that such a covered en-
+24
+tity or commercial provider has violated 
+25
+02:25 Oct 08, 2022
+H9021
+25 
+•HR 9021 IH
+the corresponding provision of section 4 
+1
+(including a related provision of the final 
+2
+rule issued under section 5(a)), the Attor-
+3
+ney General may take administrative ac-
+4
+tion (including administrative resolution of 
+5
+a claim of such a violation) or bring a civil 
+6
+action in a district court of the United 
+7
+States. 
+8
+(B) INTERVENTION.—If the Attorney Gen-
+9
+eral brings such a civil action based on a com-
+10
+plaint filed by an individual, class of individ-
+11
+uals, or entity, described in subparagraph (A), 
+12
+including a covered entity described in subpara-
+13
+graph (A) alleging a violation by a commercial 
+14
+provider, such individual, class, or entity shall 
+15
+have the right to intervene in such civil action. 
+16
+(2) CIVIL ACTION BY OTHERS.—An individual, 
+17
+class, or entity, described in paragraph (1)(A), in-
+18
+cluding a covered entity described in paragraph 
+19
+(1)(A) alleging a violation by a commercial provider, 
+20
+may bring a civil action alleging a violation of para-
+21
+graph (2) or (3) of subsection (a), or subsection (c), 
+22
+as the case may be, of section 4 (including a related 
+23
+provision of the final rule issued under section 5(a)) 
+24
+in an appropriate State or Federal court without 
+25
+02:25 Oct 08, 2022
+H9021
+26 
+•HR 9021 IH
+first filing a complaint with the Department or ex-
+1
+hausting any other administrative remedies. 
+2
+(b) EMPLOYMENT ENTITIES.— 
+3
+(1) CIVIL ACTION BY COMMISSION AND ATTOR-
+4
+NEY GENERAL.— 
+5
+(A) IN GENERAL.— 
+6
+(i) INVESTIGATION
+AFTER
+A
+COM-
+7
+PLAINT.—On receiving a complaint filed by 
+8
+a qualified individual, a class of qualified 
+9
+individuals, or an entity representing a 
+10
+qualified individual or such a class, of a 
+11
+violation of subsection (a)(1), or a com-
+12
+plaint filed by an employment entity of a 
+13
+violation of subsection (c), of section 4 (in-
+14
+cluding a related provision of the final rule 
+15
+issued under section 5(b)), the Commission 
+16
+may conduct an investigation. The inves-
+17
+tigation shall consist of a review of the cor-
+18
+responding website or application owned, 
+19
+operated, or utilized for covered use by an 
+20
+employment entity, or provided to an em-
+21
+ployment entity by a commercial provider, 
+22
+to determine whether the employment enti-
+23
+ty or commercial provider has violated the 
+24
+corresponding provision of section 4. 
+25
+02:25 Oct 08, 2022
+H9021
+27 
+•HR 9021 IH
+(ii) OTHER INVESTIGATION AND RE-
+1
+VIEW.—In addition, the Commission shall, 
+2
+on the Commission’s own authority, inves-
+3
+tigate practices that may be violations of, 
+4
+and undertake periodic reviews of compli-
+5
+ance of employment entities and commer-
+6
+cial providers with, the corresponding pro-
+7
+vision of section 4 (including a related pro-
+8
+vision of the final rule issued under section 
+9
+5(b)). 
+10
+(iii) 
+DETERMINATION
+OF
+VIOLA-
+11
+TION.—If, after investigation or review de-
+12
+scribed in this subparagraph, the Commis-
+13
+sion determines that an employment entity 
+14
+or commercial provider has violated the 
+15
+corresponding provision of section 4 (in-
+16
+cluding a related provision of the final rule 
+17
+issued under section 5(b)), the Commission 
+18
+may take administrative action (including 
+19
+administrative resolution of a claim of such 
+20
+a violation) or bring a civil action in a dis-
+21
+trict court of the United States. 
+22
+(B) INTERVENTION.—If the Commission 
+23
+brings such a civil action based on a complaint 
+24
+filed by a qualified individual, class of qualified 
+25
+02:25 Oct 08, 2022
+H9021
+28 
+•HR 9021 IH
+individuals, or entity, described in subpara-
+1
+graph (A), including an employment entity al-
+2
+leging a violation by a commercial provider, 
+3
+such qualified individual, class, or entity shall 
+4
+have the right to intervene in such civil action. 
+5
+(2) CIVIL ACTION BY OTHERS.—A qualified in-
+6
+dividual, class, or entity, described in paragraph 
+7
+(1)(A), including an employee or employment entity 
+8
+alleging a violation by a commercial provider, may 
+9
+bring a civil action alleging a violation of subsection 
+10
+(a)(1) or subsection (c), as the case may be, of sec-
+11
+tion 4 (including a related provision of the final rule 
+12
+issued under section 5(b)) in an appropriate State or 
+13
+Federal court without first filing a complaint with 
+14
+the Commission or exhausting any other administra-
+15
+tive remedies. 
+16
+(3) FUNCTIONS
+OF
+THE
+ATTORNEY
+GEN-
+17
+ERAL.—The Attorney General shall carry out any 
+18
+function of the Commission under this subsection 
+19
+that the Attorney General carries out under section 
+20
+107 of the ADA (42 U.S.C. 12117). 
+21
+(c) RELIEF.— 
+22
+(1) CIVIL ACTION BY ATTORNEY GENERAL OR 
+23
+COMMISSIONER.—In a civil action brought under 
+24
+02:25 Oct 08, 2022
+H9021
+29 
+•HR 9021 IH
+subsection (a)(1) or (b)(1), the Attorney General or 
+1
+Commissioner may seek— 
+2
+(A) a civil penalty and all appropriate in-
+3
+junctive relief to bring the affected website or 
+4
+application into compliance with section 4; and 
+5
+(B) on behalf of affected individuals, all 
+6
+economic and noneconomic damages including 
+7
+compensatory and punitive damages. 
+8
+(2) CIVIL ACTION BY OTHERS.—In a civil action 
+9
+brought under subsection (a)(2) or (b)(2), the plain-
+10
+tiff may seek all appropriate injunctive relief de-
+11
+scribed in paragraph (1)(A) and the damages de-
+12
+scribed in paragraph (1)(B). 
+13
+(3) ATTORNEY’S FEES.—The prevailing plain-
+14
+tiff (other than the United States) shall also be 
+15
+awarded reasonable attorney’s fees and costs. 
+16
+SEC. 8. RECOMMENDATIONS. 
+17
+(a) ADVISORY COMMITTEE.— 
+18
+(1) IN GENERAL.—The Attorney General and 
+19
+the Commission shall establish a standing advisory 
+20
+committee (referred to in this section as the ‘‘Com-
+21
+mittee’’) on accessible websites and applications. The 
+22
+Committee shall be operated and receive resources in 
+23
+accordance with the provisions of the Federal Advi-
+24
+sory Committee Act (5 U.S.C. App.), as an advisory 
+25
+02:25 Oct 08, 2022
+H9021
+30 
+•HR 9021 IH
+committee under the authority of the Attorney Gen-
+1
+eral and Commission. 
+2
+(2) COMPOSITION.—In establishing the Com-
+3
+mittee, the Attorney General and the Commission— 
+4
+(A) shall include on the Committee— 
+5
+(i) individuals with disabilities (com-
+6
+prising a majority of the members of the 
+7
+Committee) who are— 
+8
+(I) individuals who are blind (in-
+9
+cluding who have low vision), deaf, 
+10
+hard of hearing, or deafblind; 
+11
+(II) individuals who have speech 
+12
+disabilities; 
+13
+(III) individuals with physical 
+14
+disabilities including those with lim-
+15
+ited to no manual dexterity; and 
+16
+(IV) individuals who have disabil-
+17
+ities not specified in any of subclauses 
+18
+(I) through (III); and 
+19
+(ii) 
+experts 
+regarding 
+accessible 
+20
+websites and applications for individuals 
+21
+with disabilities; and 
+22
+(B) may include on the Committee rep-
+23
+resentatives of— 
+24
+(i) State and local government; 
+25
+02:25 Oct 08, 2022
+H9021
+31 
+•HR 9021 IH
+(ii) covered entities; 
+1
+(iii) commercial providers; 
+2
+(iv) testing entities; and 
+3
+(v) other entities determined to be ap-
+4
+propriate by the Attorney General and the 
+5
+Commission. 
+6
+(3) FUNCTIONS.—The Committee shall provide 
+7
+responsive, advice and guidance to the Attorney 
+8
+General and the Commission, for purposes of car-
+9
+rying out this Act, by— 
+10
+(A) conducting public meetings twice per 
+11
+year, at a minimum; 
+12
+(B) submitting reports and recommenda-
+13
+tions to the Attorney General and Commission, 
+14
+and making the reports and recommendations 
+15
+publicly available, every 2 years at a minimum; 
+16
+and 
+17
+(C) otherwise assisting the Attorney Gen-
+18
+eral and Commission in identifying and under-
+19
+standing the impact and implications of innova-
+20
+tions with regard to accessible websites and ap-
+21
+plications. 
+22
+(b) CONFERRING.—The Attorney General and the 
+23
+Commission, in carrying out this Act, may confer with the 
+24
+National Council on Disability, the Architectural and 
+25
+03:36 Oct 08, 2022
+H9021
+32 
+•HR 9021 IH
+Transportation Barriers Compliance Board, or any other 
+1
+Federal department or agency that may have relevant ex-
+2
+pertise or experience. 
+3
+SEC. 9. TECHNICAL ASSISTANCE. 
+4
+(a) PURPOSE.—It is the purpose of this section to 
+5
+establish a technical assistance center to provide, to cov-
+6
+ered entities, commercial providers, individuals with dis-
+7
+abilities, and other members of the public, information, 
+8
+resources, and technical assistance regarding— 
+9
+(1) the design, development, construction, alter-
+10
+ation, modification, or addition of accessible websites 
+11
+and applications in accordance with this Act; and 
+12
+(2) the rights of individuals with disabilities, 
+13
+covered entities, and commercial providers to access 
+14
+websites and applications in accordance with the 
+15
+ADA (42 U.S.C. 12101 et seq.) and this Act. 
+16
+(b) SUPPORT FOR TRAINING AND TECHNICAL AS-
+17
+SISTANCE.—From amounts made available under section 
+18
+12, the Attorney General, in coordination with the Com-
+19
+mission, the Secretary of Education, and other heads of 
+20
+Federal agencies, as appropriate shall award, on a com-
+21
+petitive basis, at least 1 grant, contract, or cooperative 
+22
+agreement to a qualified training and technical assistance 
+23
+provider to support the development, establishment, and 
+24
+procurement of accessible websites and applications. 
+25
+03:36 Oct 08, 2022
+H9021
+33 
+•HR 9021 IH
+(c) APPLICATION.— 
+1
+(1) IN GENERAL.—To be eligible to receive a 
+2
+grant, contract, or cooperative agreement under this 
+3
+section, an entity shall submit an application to the 
+4
+Attorney General at such time, in such manner, and 
+5
+containing such information as the Attorney General 
+6
+may require. 
+7
+(2) INPUT.—In awarding a grant, contract, or 
+8
+cooperative agreement under this section and in re-
+9
+viewing the activities proposed under the applica-
+10
+tions described in paragraph (1), the Attorney Gen-
+11
+eral, in coordination with the Commission, the Sec-
+12
+retary of Education, and other heads of Federal 
+13
+agencies, as appropriate— 
+14
+(A) shall consider the input of— 
+15
+(i) individuals with disabilities who 
+16
+are— 
+17
+(I) individuals who are blind (in-
+18
+cluding individuals who have low vi-
+19
+sion), deaf, hard of hearing, or 
+20
+deafblind; 
+21
+(II) individuals who have speech 
+22
+disabilities; 
+23
+03:36 Oct 08, 2022
+H9021
+34 
+•HR 9021 IH
+(III) individuals with physical 
+1
+disabilities, including individuals with 
+2
+limited to no manual dexterity; and 
+3
+(IV) individuals who have disabil-
+4
+ities not specified in any of subclauses 
+5
+(I) through (III); and 
+6
+(ii) 
+experts 
+regarding 
+accessible 
+7
+websites and applications for use by indi-
+8
+viduals with disabilities; and 
+9
+(B) may consider on the input of— 
+10
+(i) State and local government; 
+11
+(ii) covered entities; 
+12
+(iii) commercial providers; 
+13
+(iv) testing entities; and 
+14
+(v) other entities determined to be ap-
+15
+propriate by the Attorney General, in co-
+16
+ordination with the Commission, the Sec-
+17
+retary of Education, and other heads of 
+18
+Federal agencies, as appropriate. 
+19
+(d) AUTHORIZED ACTIVITIES.— 
+20
+(1) USE OF FUNDS.— 
+21
+(A) REQUESTS
+FOR
+INFORMATION.—An 
+22
+entity receiving a grant, contract, or cooperative 
+23
+agreement under this section shall support a 
+24
+training and technical assistance program that 
+25
+03:36 Oct 08, 2022
+H9021
+35 
+•HR 9021 IH
+addresses information requests, concerning ac-
+1
+cessible websites and applications, from covered 
+2
+entities and commercial providers, including re-
+3
+quests for information regarding— 
+4
+(i) effective approaches for developing, 
+5
+establishing, 
+and 
+procuring 
+accessible 
+6
+websites and applications; 
+7
+(ii) state-of-the-art, or model, Federal, 
+8
+State, and local laws, regulations, policies, 
+9
+practices, procedures, and organizational 
+10
+structures, that facilitate, and overcome 
+11
+barriers to, receipt of funding for, and ac-
+12
+cess to, accessible websites and applica-
+13
+tions; and 
+14
+(iii) examples of policies, practices, 
+15
+procedures, regulations, or judicial deci-
+16
+sions that have enhanced or may enhance 
+17
+access to and receipt of funding for acces-
+18
+sible websites and applications. 
+19
+(B) COORDINATION.—An entity receiving a 
+20
+grant, contract, or cooperative agreement under 
+21
+this section may also provide technical assist-
+22
+ance 
+and 
+training, 
+concerning 
+accessible 
+23
+websites and applications, for covered entities 
+24
+and commercial providers by— 
+25
+03:36 Oct 08, 2022
+H9021
+36 
+•HR 9021 IH
+(i) facilitating onsite and electronic in-
+1
+formation sharing using state-of-the-art 
+2
+internet technologies such as real-time on-
+3
+line discussions, multipoint video confer-
+4
+encing, and web-based audio or video 
+5
+broadcasts, on emerging topics regarding 
+6
+accessible websites and applications; 
+7
+(ii) convening experts to discuss and 
+8
+make recommendations with regard to na-
+9
+tional emerging issues regarding accessible 
+10
+websites and applications; 
+11
+(iii) sharing best practices and evi-
+12
+dence-based practices in developing, estab-
+13
+lishing, and procuring accessible websites 
+14
+and applications; 
+15
+(iv) supporting and coordinating ac-
+16
+tivities designed to reduce the financial 
+17
+costs of purchasing technology needed to 
+18
+access accessible websites and applications; 
+19
+and 
+20
+(v) carrying out such other activities 
+21
+as the Attorney General, in coordination 
+22
+with the Commission, the Secretary of 
+23
+Education, and other heads of Federal 
+24
+agencies, as appropriate may require. 
+25
+03:36 Oct 08, 2022
+H9021
+37 
+•HR 9021 IH
+(C) COLLABORATION.—In developing and 
+1
+providing training and technical assistance 
+2
+under this section, an entity receiving a grant, 
+3
+contract, or cooperative agreement under this 
+4
+section shall collaborate with— 
+5
+(i) organizations representing individ-
+6
+uals with disabilities; 
+7
+(ii) organizations or entities that pro-
+8
+vide services for individuals with disabil-
+9
+ities, such as centers for independent liv-
+10
+ing, as defined in section 702 of the Reha-
+11
+bilitation Act of 1973 (29 U.S.C. 796a); 
+12
+(iii) entities, such as the World Wide 
+13
+Web 
+Consortium, 
+who 
+develop 
+inter-
+14
+national standards for accessible websites 
+15
+and applications; 
+16
+(iv) entities or individuals with exper-
+17
+tise and experience in enforcing disability 
+18
+rights law; and 
+19
+(v) other entities and technical assist-
+20
+ance providers determined to be appro-
+21
+priate by the Attorney General, in coordi-
+22
+nation with the Commission, the Secretary 
+23
+of Education, and other heads of Federal 
+24
+agencies, as appropriate. 
+25
+03:36 Oct 08, 2022
+H9021
+38 
+•HR 9021 IH
+SEC. 10. STUDY AND REPORT ON EMERGING TECH-
+1
+NOLOGIES. 
+2
+(a) STUDY AND REPORT.— 
+3
+(1) IN
+GENERAL.—The National Council on 
+4
+Disability (in this section referred to as the ‘‘Coun-
+5
+cil’’) shall conduct a study and prepare a report 
+6
+on— 
+7
+(A) the effect that emerging technologies 
+8
+have on the ability of individuals with disabil-
+9
+ities to participate in employment, education, 
+10
+government, health care, commerce, culture, 
+11
+and other aspects of society; and 
+12
+(B) the effectiveness of this Act in achiev-
+13
+ing its purpose. 
+14
+(2) CONSIDERATION OF EFFECT ON INDIVID-
+15
+UALS WITH PARTICULAR BARRIERS.—In conducting 
+16
+the study and preparing the report, the Council shall 
+17
+consider the effect of emerging technologies on indi-
+18
+viduals with disabilities who use those technologies 
+19
+and have particular barriers to such participation 
+20
+and communication, such as individuals with disabil-
+21
+ities using those technologies— 
+22
+(A) who have limited language or limited 
+23
+English language; 
+24
+02:25 Oct 08, 2022
+H9021
+39 
+•HR 9021 IH
+(B) who have significant or targeted dis-
+1
+abilities (including people who are blind, deaf, 
+2
+or deafblind); 
+3
+(C) who have disabilities limiting commu-
+4
+nication; 
+5
+(D) whose household income is at or below 
+6
+200 percent of the poverty line, as defined by 
+7
+the Federal poverty guidelines of the Depart-
+8
+ment of Health and Human Services; 
+9
+(E) who lack access to broadband services 
+10
+and technology; or 
+11
+(F) who are multiply marginalized due to 
+12
+race, ethnicity, national origin, age, sex, sexual 
+13
+orientation, gender identity, or socioeconomic 
+14
+status. 
+15
+(b) SUBMISSION OF REPORT.—Five years after the 
+16
+date of enactment of this Act, the Council shall submit 
+17
+the report required under subsection (a) to the appro-
+18
+priate committees of Congress, which shall at minimum 
+19
+include the Committee on Health, Education, Labor, and 
+20
+Pensions and the Committee on the Judiciary of the Sen-
+21
+ate and the Committee on Education and Labor and the 
+22
+Committee on the Judiciary of the House of Representa-
+23
+tives. 
+24
+02:25 Oct 08, 2022
+H9021
+40 
+•HR 9021 IH
+SEC. 11. RULES OF CONSTRUCTION. 
+1
+(a) OTHER PROVISIONS OF LAW.—Nothing in this 
+2
+Act shall be construed to affect the scope of obligations 
+3
+imposed by any other provision of law, including— 
+4
+(1) section 504 of the Rehabilitation Act of 
+5
+1973 (29 U.S.C. 794), title II or III of the ADA (42 
+6
+U.S.C. 12131 et seq.), and section 1557 of the Pa-
+7
+tient Protection and Affordable Care Act (42 U.S.C. 
+8
+18116), that, consistent with this Act, prohibits an 
+9
+exclusion, denial, or any other discrimination de-
+10
+scribed in section 4(a) by a covered entity, including 
+11
+any public accommodation, whether or not the entity 
+12
+has a physical location or is digital only, and wheth-
+13
+er or not such exclusion, denial, or discrimination 
+14
+takes place in a physical or digital location; and 
+15
+(2) section 508 of the Rehabilitation Act of 
+16
+1973 (29 U.S.C. 794d) and section 255 of the Com-
+17
+munications Act of 1934 (47 U.S.C. 255). 
+18
+(b) RELATIONSHIP TO OTHER LAWS.—Nothing in 
+19
+this Act shall be construed to invalidate or limit the rem-
+20
+edies, rights, and procedures of any Federal law or law 
+21
+of any State or political subdivision of any State or juris-
+22
+diction, that provides greater or equal protection for the 
+23
+rights of individuals with disabilities than is afforded by 
+24
+this Act. 
+25
+02:25 Oct 08, 2022
+H9021
+41 
+•HR 9021 IH
+(c) CONSISTENT REGULATIONS.—Regulations pro-
+1
+mulgated under this Act shall be consistent with, and shall 
+2
+not contain a standard less protective of individuals with 
+3
+disabilities than, the standards contained in— 
+4
+(1) any regulations issued by the Attorney Gen-
+5
+eral or the Commission pursuant to— 
+6
+(A) title I of the ADA (42 U.S.C. 12111 
+7
+et seq.) for digital access to an item related to 
+8
+an activity described in section 102 of the ADA 
+9
+(42 U.S.C. 12112), by covered entities; 
+10
+(B) title II of the ADA (42 U.S.C. 12131 
+11
+et seq.) for digital access to services, programs, 
+12
+or activities, or information related to such 
+13
+services, programs, or activities of covered enti-
+14
+ties; or 
+15
+(C) title III of the ADA (42 U.S.C. 12181 
+16
+et seq.) for digital access to goods, services, fa-
+17
+cilities, privileges, advantages, accommodations, 
+18
+or information related to such goods, services, 
+19
+facilities, privileges, advantages, or accommoda-
+20
+tions of covered entities; and 
+21
+(2) the regulations issued by the Federal Com-
+22
+munications Commission for video programming and 
+23
+communications services provided via websites and 
+24
+applications. 
+25
+02:25 Oct 08, 2022
+H9021
+42 
+•HR 9021 IH
+(d) PROHIBITION
+ON
+NOTIFICATION
+REQUIRE-
+1
+MENT.—The Attorney General and the Commission shall 
+2
+not include, in the accessibility regulations, any require-
+3
+ment that an individual shall notify a covered entity of 
+4
+an allegation of a violation of this Act prior to commencing 
+5
+a civil action under this Act. 
+6
+SEC. 12. AUTHORIZATION OF APPROPRIATIONS. 
+7
+There are authorized to be appropriated— 
+8
+(1) $5,000,000 for each of fiscal years 2024 
+9
+through 2028 to carry out sections 5, 6, 7, and 8; 
+10
+(2) $15,000,000 for each of fiscal years 2024 
+11
+through 2028 to carry out section 9; and 
+12
+(3) $150,000 for the period of fiscal years 2024 
+13
+through 2028 to carry out section 10. 
+14
+SEC. 13. EFFECTIVE DATE. 
+15
+This Act shall take effect 6 months after the date 
+16
+of enactment of this Act, except that section 4 shall apply 
+17
+to covered entities or commercial providers 12 months 
+18
+after that date of enactment. 
+19
+Æ 
+02:25 Oct 08, 2022
+H9021

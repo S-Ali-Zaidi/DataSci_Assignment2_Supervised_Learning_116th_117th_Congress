@@ -1,0 +1,544 @@
+A BILL 
+To provide for improvements to National Flood Insurance 
+Program rate maps, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improvement of Map-
+4
+ping, Addresses, Geography, Elevations, and Structures 
+5
+Act of 2021’’ or the ‘‘IMAGES Act of 2021’’. 
+6
+SEC. 2. NATIONAL FLOOD MAPPING PROGRAM. 
+7
+(a) INCLUSION OF PLANIMETRIC FEATURES IN RATE 
+8
+MAPS.—Section 100216(b)(3) of the Biggert-Waters 
+9
+01:58 Jul 10, 2021
+H4088
+2 
+•HR 4088 IH
+Flood Insurance Reform Act of 2012 (42 U.S.C. 
+1
+4101b(b)(3)) is amended— 
+2
+(1) in subparagraph (D), by striking ‘‘and’’ at 
+3
+the end; 
+4
+(2) in subparagraph (E), by striking the period 
+5
+at the end and inserting ‘‘; and’’; and 
+6
+(3) by adding at the end the following: 
+7
+‘‘(F) planimetric features, including, for 
+8
+each planimetric feature— 
+9
+‘‘(i) the associated parcel identifica-
+10
+tion data for such planimetric feature; and 
+11
+‘‘(ii) to the maximum extent prac-
+12
+ticable, using public and private sector ad-
+13
+dress data, the address of such planimetric 
+14
+feature.’’. 
+15
+(b) FORMAT OF RATE MAPS.—Section 100216(c)(2) 
+16
+of the Biggert-Waters Flood Insurance Reform Act of 
+17
+2012 (42 U.S.C. 4101b(c)(2)) is amended— 
+18
+(1) in subparagraph (B), by striking ‘‘and’’ at 
+19
+the end; 
+20
+(2) in subparagraph (C), by striking the period 
+21
+at the end and inserting ‘‘; and’’; and 
+22
+(3) by adding at the end the following: 
+23
+‘‘(D) not later than 5 years after the date 
+24
+that the National Geodetic Survey completes 
+25
+01:58 Jul 10, 2021
+H4088
+3 
+•HR 4088 IH
+the National Spatial Reference System 2022, 
+1
+updated to conform with the geospatial data 
+2
+provided by such system; and 
+3
+‘‘(E) spatially accurate in accordance with 
+4
+the common protocols for geographic informa-
+5
+tion systems under section 216 of the E-Gov-
+6
+ernment Act of 2002 (44 U.S.C. 3501 note).’’. 
+7
+(c) ADDITIONAL CONSIDERATIONS.—Section 100216 
+8
+of the Biggert-Waters Flood Insurance Reform Act of 
+9
+2012 (42 U.S.C. 4101b) is amended— 
+10
+(1) by redesignating subsection (f) as sub-
+11
+section (k); and 
+12
+(2) by inserting after subsection (e) the fol-
+13
+lowing: 
+14
+‘‘(f) STREAM FLOW NETWORKS.— 
+15
+‘‘(1) IN GENERAL.—The Administrator shall co-
+16
+ordinate with the United States Geological Survey to 
+17
+ensure that, to the extent necessary to maintain the 
+18
+stream flow networks critical to the National Flood 
+19
+Insurance Program, flood risk mapping, and flood 
+20
+risk assessments— 
+21
+‘‘(A) the stream gage stations in such 
+22
+stream flow networks are operational and use 
+23
+modern hardware; 
+24
+01:58 Jul 10, 2021
+H4088
+4 
+•HR 4088 IH
+‘‘(B) such stream flow networks are suffi-
+1
+ciently densified by adding new stream gage 
+2
+stations in high-risk areas; 
+3
+‘‘(C) inactive critical stream gage stations 
+4
+in such stream flow networks are reactivated; 
+5
+and 
+6
+‘‘(D) the speed of the geospatial real-time 
+7
+data feeds from such stream gage stations is in-
+8
+creased. 
+9
+‘‘(2) DEFINITIONS.—In this subsection: 
+10
+‘‘(A) STREAM FLOW NETWORK.—The term 
+11
+‘stream flow network’ means a network of 
+12
+stream flow gages maintained under the direc-
+13
+tion of the United States Geological Survey and 
+14
+its partners that is used to measure or record 
+15
+the flow of water down a stream or river, or 
+16
+through an entire watershed system, and trans-
+17
+mit such information using a geospatial real- 
+18
+time data feed. 
+19
+‘‘(B) STREAM GAGE STATION.—The term 
+20
+‘stream gage station’ means a device installed 
+21
+at the edge of a river or stream that measures 
+22
+or records the flow of water down the stream 
+23
+and additional information such as water 
+24
+01:58 Jul 10, 2021
+H4088
+5 
+•HR 4088 IH
+height, water chemistry, and water tempera-
+1
+ture. 
+2
+‘‘(g) AVAILABILITY OF DATA TO PUBLIC.—The Ad-
+3
+ministrator shall make available to the public on the 
+4
+website of the Federal Emergency Management Agency a 
+5
+national geospatial data repository that— 
+6
+‘‘(1) provides access to the raw data used to in-
+7
+clude the planimetric features and parcel identifica-
+8
+tion data in National Flood Insurance Program rate 
+9
+maps; 
+10
+‘‘(2) to the extent that such data is available, 
+11
+allows users to view, query, and obtain such data at 
+12
+multiple levels of detail, including down to the prop-
+13
+erty level; 
+14
+‘‘(3) allows users to view flood risks, flood in-
+15
+surance zones, and flood elevations; 
+16
+‘‘(4) provides access to flood mapping and re-
+17
+lated information such as— 
+18
+‘‘(A) hydrologic and hydraulic models used 
+19
+in determining flood risk; 
+20
+‘‘(B) structure footprints where available; 
+21
+‘‘(C) flood depth grids; 
+22
+‘‘(D) flood risk reports; 
+23
+‘‘(E) flood risk assessments (Hazus ana-
+24
+lyses); 
+25
+01:58 Jul 10, 2021
+H4088
+6 
+•HR 4088 IH
+‘‘(F) hazard mitigation plans; and 
+1
+‘‘(G) other flood risk products at the dis-
+2
+cretion of the Administrator; and 
+3
+‘‘(5) maintains and disseminates such data in a 
+4
+consistent manner. 
+5
+‘‘(h) ENSURING CURRENT DATA.—Not less fre-
+6
+quently than once every 5 years, the Administrator shall 
+7
+verify that each National Flood Insurance Program rate 
+8
+map contains data that is current and credible. 
+9
+‘‘(i) 
+QUALIFICATIONS-BASED
+SELECTION
+CON-
+10
+TRACTING.— 
+11
+‘‘(1) IN GENERAL.—With respect to a contract 
+12
+awarded by the Administrator under this Act, or by 
+13
+an entity receiving a grant under this Act, for pro-
+14
+gram management, architectural and engineering 
+15
+services, or surveying and mapping, such a contract 
+16
+shall be awarded to a contractor selected in accord-
+17
+ance with the procedures described in section 1103 
+18
+of title 40, United States Code (or an applicable 
+19
+equivalent State qualifications-based statute). The 
+20
+Administrator, or entity, as the case may be, shall 
+21
+require such contractor, as a condition of such con-
+22
+tract, to award any subcontract for program man-
+23
+agement, architectural and engineering services, or 
+24
+surveying and mapping in accordance with the pro-
+25
+01:58 Jul 10, 2021
+H4088
+7 
+•HR 4088 IH
+cedures described in the previous sentence, or the 
+1
+applicable equivalent State statute. 
+2
+‘‘(2) RELATIONSHIP TO STATE LAW.—Nothing 
+3
+in this subsection shall supersede any applicable 
+4
+State licensing law governing professional licensure. 
+5
+‘‘(3) DEFINITIONS.—In this subsection: 
+6
+‘‘(A) ARCHITECTURAL AND ENGINEERING 
+7
+SERVICES.—The term ‘architectural and engi-
+8
+neering services’ has the meaning given that 
+9
+term in section 1102 of title 40, United States 
+10
+Code. 
+11
+‘‘(B) SURVEYING
+AND
+MAPPING.—The 
+12
+term ‘surveying and mapping’ includes geospa-
+13
+tial activities associated with measuring, locat-
+14
+ing, and preparing maps, charts, or other 
+15
+graphical or digital presentations depicting nat-
+16
+ural and man-made physical features, phe-
+17
+nomena, and legal boundaries of the earth, in-
+18
+cluding the following: 
+19
+‘‘(i) Topographic Engineering Sur-
+20
+veying, including acquisition of topographic 
+21
+oriented surveying and mapping data for 
+22
+design, construction, master planning, op-
+23
+erations, as-built conditions, precise struc-
+24
+ture stability studies using conventional 
+25
+01:58 Jul 10, 2021
+H4088
+8 
+•HR 4088 IH
+and electronic instrumentation, photo-
+1
+grammetric, LiDAR, remote sensing, iner-
+2
+tial, satellite, and other manned and un-
+3
+manned survey methods as applicable. 
+4
+‘‘(ii) Hydrographic Engineering Sur-
+5
+veying, including acquisition of hydro-
+6
+graphic oriented surveying and mapping 
+7
+data for design, construction, dredging, 
+8
+master planning, operations, and as-built 
+9
+conditions using conventional and elec-
+10
+tronic instrumentation, and photogramme-
+11
+tric, remote sensing, inertial, satellite, side 
+12
+scan sonar, subbottom profiling, and other 
+13
+surveying methods, as applicable. 
+14
+‘‘(iii) Land Surveying, including prop-
+15
+erty and boundary surveys, monumenta-
+16
+tion, marking and posting, and preparation 
+17
+of tract descriptions, using conventional, 
+18
+electronic instrumentation, photogramme-
+19
+tric, inertial, satellite, and other survey 
+20
+methods, as applicable. 
+21
+‘‘(iv) Geodetic Surveying, including 
+22
+first-, second-, and third-order horizontal 
+23
+and vertical control surveys, geodetic as-
+24
+tronomy, gravity and magnetic surveys 
+25
+01:58 Jul 10, 2021
+H4088
+9 
+•HR 4088 IH
+using conventional, electronic instrumenta-
+1
+tion, photogrammetric, inertial, satellite, 
+2
+and other survey methods, as applicable. 
+3
+‘‘(v) Cartographic Surveying, includ-
+4
+ing acquisition of topographic and hydro-
+5
+graphic oriented surveying and mapping 
+6
+data for construction of maps, charts, and 
+7
+similar products for planning, flood anal-
+8
+ysis, and general use purposes using con-
+9
+ventional and electronic instrumentation, 
+10
+photogrammetric, inertial, satellite, mobile, 
+11
+terrestrial, and other survey methods, as 
+12
+applicable. 
+13
+‘‘(vi) Mapping, charting, and related 
+14
+geospatial database development, including 
+15
+the design, compilation, digitizing, attrib-
+16
+uting, scribing, drafting, printing and dis-
+17
+semination of printed or digital map, 
+18
+chart, and related geospatial database 
+19
+products associated with planning, engi-
+20
+neering, operations, and related real estate 
+21
+activities 
+using 
+photogrammetric, 
+geo-
+22
+graphic information systems, and other 
+23
+manual and computer assisted methods, as 
+24
+applicable. 
+25
+01:58 Jul 10, 2021
+H4088
+10 
+•HR 4088 IH
+‘‘(j) DEFINITIONS.—In this section: 
+1
+‘‘(1) PLANIMETRIC FEATURE.—The term ‘pla-
+2
+nimetric feature’ means the geographic elements and 
+3
+features— 
+4
+‘‘(A) that are independent of elevation, 
+5
+such as roads, structure footprints, and rivers 
+6
+and lakes; 
+7
+‘‘(B) which are represented on maps to 
+8
+show the true location and size of the elements 
+9
+in relationship to each other, as they are seen 
+10
+from the air; and 
+11
+‘‘(C) that are mapped from LiDAR or aer-
+12
+ial photography by employing basic photo-
+13
+grammetry. 
+14
+‘‘(2) PARCEL
+IDENTIFICATION
+DATA.—The 
+15
+term ‘parcel identification data’ means the informa-
+16
+tion associated with a parcel of land, including the 
+17
+geographic location, unique parcel identifier, bound-
+18
+aries, structures contained within the parcel, zoning 
+19
+classification, and owner.’’. 
+20
+(d) FUNDING FOR ELEVATION DATA.—Section 1310 
+21
+of the National Flood Insurance Act of 1968 (42 U.S.C. 
+22
+4017) is amended by adding at the end the following: 
+23
+‘‘(g) ALLOCATION FROM THE NATIONAL FLOOD IN-
+24
+SURANCE FUND.—Each fiscal quarter the Administrator 
+25
+01:58 Jul 10, 2021
+H4088
+11 
+•HR 4088 IH
+shall allocate from the National Flood Insurance Fund an 
+1
+amount equal to 5 percent of any revenue collected under 
+2
+section 1308(b)(3) for use for creating or maintaining cur-
+3
+rent and accurate National Flood Insurance Program 
+4
+Rate Maps.’’. 
+5
+(e) AUTHORIZATION OF APPROPRIATIONS.—Section 
+6
+100216(j) of the Biggert-Waters Flood Insurance Reform 
+7
+Act of 2012, as so redesignated by the preceding provi-
+8
+sions of this Act, is further amended by striking 
+9
+‘‘$400,000,000 for each of fiscal years 2013 through 
+10
+2017’’ and inserting ‘‘$500,000,000 for each of fiscal 
+11
+years 2022 through 2027’’. 
+12
+Æ 
+01:58 Jul 10, 2021
+H4088

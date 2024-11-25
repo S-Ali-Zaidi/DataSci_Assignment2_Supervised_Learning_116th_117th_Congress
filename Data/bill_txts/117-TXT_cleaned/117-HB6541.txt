@@ -1,0 +1,584 @@
+A BILL 
+To require the Director of the Cybersecurity and Infrastruc-
+ture Security Agency to establish cybersecurity guidance 
+for small organizations, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improving Cybersecu-
+4
+rity of Small Businesses, Nonprofits, and Local Govern-
+5
+ments Act’’. 
+6
+07:23 Feb 02, 2022
+H6541
+2 
+•HR 6541 IH
+SEC. 2. IMPROVING CYBERSECURITY OF SMALL ENTITIES. 
+1
+(a) DEFINITIONS.—In this section: 
+2
+(1) ADMINISTRATOR.—The term ‘‘Adminis-
+3
+trator’’ means the Administrator of the Small Busi-
+4
+ness Administration. 
+5
+(2) ANNUAL CYBERSECURITY REPORT; SMALL 
+6
+BUSINESS; SMALL ENTITY; SMALL GOVERNMENTAL 
+7
+JURISDICTION; SMALL
+ORGANIZATION.—The terms 
+8
+‘‘annual cybersecurity report’’, ‘‘small business’’, 
+9
+‘‘small entity’’, ‘‘small governmental jurisdiction’’, 
+10
+and ‘‘small organization’’ have the meanings given 
+11
+those terms in section 2220D of the Homeland Se-
+12
+curity Act of 2002, as added by subsection (b). 
+13
+(3) CISA.—The term ‘‘CISA’’ means the Cy-
+14
+bersecurity and Infrastructure Security Agency. 
+15
+(4) COMMISSION.—The term ‘‘Commission’’ 
+16
+means the Federal Trade Commission. 
+17
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+18
+the Secretary of Commerce. 
+19
+(b) ANNUAL REPORT.— 
+20
+(1) AMENDMENT.—Subtitle A of title XXII of 
+21
+the Homeland Security Act of 2002 (6 U.S.C. 651 
+22
+et seq.) is amended by adding at the end the fol-
+23
+lowing: 
+24
+07:23 Feb 02, 2022
+H6541
+3 
+•HR 6541 IH
+‘‘SEC. 
+2220D. 
+ANNUAL 
+CYBERSECURITY 
+REPORT 
+FOR 
+1
+SMALL ENTITIES. 
+2
+‘‘(a) DEFINITIONS.— 
+3
+‘‘(1) ADMINISTRATION.—The term ‘Administra-
+4
+tion’ means the Small Business Administration. 
+5
+‘‘(2) ADMINISTRATOR.—The term ‘Adminis-
+6
+trator’ means the Administrator of the Administra-
+7
+tion. 
+8
+‘‘(3) ANNUAL
+CYBERSECURITY
+REPORT.—The 
+9
+term ‘annual cybersecurity report’ means the annual 
+10
+cybersecurity report published and promoted under 
+11
+subsections (b) and (c), respectively. 
+12
+‘‘(4) COMMISSION.—The term ‘Commission’ 
+13
+means the Federal Trade Commission. 
+14
+‘‘(5) ELECTRONIC
+DEVICE.—The term ‘elec-
+15
+tronic device’ means any electronic equipment that 
+16
+is— 
+17
+‘‘(A) used by an employee or contractor of 
+18
+a small entity for the purpose of performing 
+19
+work for the small entity; 
+20
+‘‘(B) capable of connecting to the internet 
+21
+or another communication network; and 
+22
+‘‘(C) capable of sending, receiving, or proc-
+23
+essing personal information. 
+24
+‘‘(6) NIST.—The term ‘NIST’ means the Na-
+25
+tional Institute of Standards and Technology. 
+26
+07:23 Feb 02, 2022
+H6541
+4 
+•HR 6541 IH
+‘‘(7) SMALL BUSINESS.—The term ‘small busi-
+1
+ness’ has the meaning given the term ‘small business 
+2
+concern’ under section 3 of the Small Business Act 
+3
+(15 U.S.C. 632). 
+4
+‘‘(8) SMALL ENTITY.—The term ‘small entity’ 
+5
+means— 
+6
+‘‘(A) a small business; 
+7
+‘‘(B) a small governmental jurisdiction; 
+8
+and 
+9
+‘‘(C) a small organization. 
+10
+‘‘(9) SMALL GOVERNMENTAL JURISDICTION.— 
+11
+The term ‘small governmental jurisdiction’ means 
+12
+governments of cities, counties, towns, townships, 
+13
+villages, school districts, or special districts with a 
+14
+population of less than 50,000. 
+15
+‘‘(10) SMALL ORGANIZATION.—The term ‘small 
+16
+organization’ means any not-for-profit enterprise 
+17
+that is independently owned and operated and is not 
+18
+dominant in its field. 
+19
+‘‘(b) ANNUAL CYBERSECURITY REPORT.— 
+20
+‘‘(1) IN GENERAL.—Not later than 180 days 
+21
+after the date of enactment of this section, and not 
+22
+less frequently than annually thereafter, the Director 
+23
+shall publish a report for small entities that docu-
+24
+ments and promotes evidence-based cybersecurity 
+25
+07:23 Feb 02, 2022
+H6541
+5 
+•HR 6541 IH
+policies and controls for use by small entities, which 
+1
+shall— 
+2
+‘‘(A) include basic controls that have the 
+3
+most impact in protecting small entities against 
+4
+common cybersecurity threats and risks; 
+5
+‘‘(B) include protocols and policies to ad-
+6
+dress common cybersecurity threats and risks 
+7
+posed by electronic devices, regardless of wheth-
+8
+er the electronic devices are— 
+9
+‘‘(i) issued by the small entity to em-
+10
+ployees and contractors of the small entity; 
+11
+or 
+12
+‘‘(ii) personal to the employees and 
+13
+contractors of the small entity; and 
+14
+‘‘(C) recommend, as practicable— 
+15
+‘‘(i) measures to improve the cyberse-
+16
+curity of small entities; and 
+17
+‘‘(ii) configurations and settings for 
+18
+some of the most commonly used software 
+19
+that can improve the cybersecurity of small 
+20
+entities. 
+21
+‘‘(2) EXISTING RECOMMENDATIONS.—The Di-
+22
+rector shall ensure that each annual cybersecurity 
+23
+report published under paragraph (1) incorporates— 
+24
+07:23 Feb 02, 2022
+H6541
+6 
+•HR 6541 IH
+‘‘(A) cybersecurity resources developed by 
+1
+NIST, as required by the NIST Small Business 
+2
+Cybersecurity Act (Public Law 115–236); and 
+3
+‘‘(B) the most recent version of the Cyber-
+4
+security Framework, or successor resource, 
+5
+maintained by NIST. 
+6
+‘‘(3) CONSIDERATION FOR SPECIFIC TYPES OF 
+7
+SMALL ENTITIES.—The Director may include and 
+8
+prioritize the development of cybersecurity rec-
+9
+ommendations, as required under paragraph (1), ap-
+10
+propriate for specific types of small entities in addi-
+11
+tion to recommendations applicable for all small en-
+12
+tities. 
+13
+‘‘(4) CONSULTATION.—In publishing the annual 
+14
+cybersecurity report under paragraph (1), the Direc-
+15
+tor shall, to the degree practicable and as appro-
+16
+priate, consult with— 
+17
+‘‘(A) the Administrator, the Secretary of 
+18
+Commerce, the Commission, and the Director of 
+19
+NIST; 
+20
+‘‘(B) small entities, insurers, State govern-
+21
+ments, companies that work with small entities, 
+22
+and academic and Federal and non-Federal ex-
+23
+perts in cybersecurity; and 
+24
+07:23 Feb 02, 2022
+H6541
+7 
+•HR 6541 IH
+‘‘(C) any other entity as determined appro-
+1
+priate by the Director. 
+2
+‘‘(c) PROMOTION OF ANNUAL CYBERSECURITY RE-
+3
+4
+‘‘(1) PUBLICATION.—The annual cybersecurity 
+5
+report, and previous versions of the report as appro-
+6
+priate, published under subsection (b)(1) shall be— 
+7
+‘‘(A) made available, prominently and free 
+8
+of charge, on the public website of the Agency; 
+9
+and 
+10
+‘‘(B) linked to from relevant portions of 
+11
+the websites of the Administration and the Mi-
+12
+nority Business Development Agency, as deter-
+13
+mined by the Administrator and the Director of 
+14
+the Minority Business Development Agency, re-
+15
+spectively. 
+16
+‘‘(2) PROMOTION GENERALLY.—The Director, 
+17
+the Administrator, and the Secretary of Commerce 
+18
+shall, to the degree practicable, promote the annual 
+19
+cybersecurity report through relevant resources that 
+20
+are intended for or known to be regularly used by 
+21
+small entities, including agency documents, websites, 
+22
+and events. 
+23
+‘‘(d) TRAINING AND TECHNICAL ASSISTANCE.—The 
+24
+Director, the Administrator, and the Director of the Mi-
+25
+07:23 Feb 02, 2022
+H6541
+8 
+•HR 6541 IH
+nority Business Development Agency shall make available 
+1
+to employees of small entities voluntary training and tech-
+2
+nical assistance on how to implement the recommenda-
+3
+tions of the annual cybersecurity report.’’. 
+4
+(2) TECHNICAL
+AND
+CONFORMING
+AMEND-
+5
+MENT.—The table of contents in section 1(b) of the 
+6
+Homeland Security Act of 2002 (Public 107–296; 
+7
+116 Stat. 2135) is amended by inserting after the 
+8
+item relating to section 2220C the following: 
+9
+‘‘Sec. 2220D. Annual cybersecurity report for small entities.’’. 
+(c) REPORT TO CONGRESS.— 
+10
+(1) IN GENERAL.—Not later than 1 year after 
+11
+the date of enactment of this Act, and annually 
+12
+thereafter for 10 years, the Secretary shall submit to 
+13
+Congress a report describing methods to improve the 
+14
+cybersecurity of small entities, including through the 
+15
+adoption of policies, controls, and classes of products 
+16
+and services that have been demonstrated to reduce 
+17
+cybersecurity risk. 
+18
+(2) MATTERS TO BE INCLUDED.—The report 
+19
+required under paragraph (1) shall— 
+20
+(A) identify barriers or challenges for 
+21
+small entities in purchasing or acquiring classes 
+22
+of products and services that promote the cy-
+23
+bersecurity of small entities; 
+24
+07:23 Feb 02, 2022
+H6541
+9 
+•HR 6541 IH
+(B) assess market availability, market pric-
+1
+ing, and affordability of classes of products and 
+2
+services that promote the cybersecurity of small 
+3
+entities, with particular attention to identifying 
+4
+high-risk and underserved sectors or regions; 
+5
+(C) estimate the costs and benefits of poli-
+6
+cies that promote the cybersecurity of small en-
+7
+tities, including— 
+8
+(i) tax breaks; 
+9
+(ii) grants and subsidies; and 
+10
+(iii) other incentives as determined 
+11
+appropriate by the Secretary; 
+12
+(D) describe evidence-based cybersecurity 
+13
+controls and policies that improve the cyberse-
+14
+curity of small entities; 
+15
+(E) with respect to the incentives described 
+16
+in subparagraph (C), recommend measures that 
+17
+can effectively improve cybersecurity at scale 
+18
+for small entities; and 
+19
+(F) include any other matters as the Sec-
+20
+retary determines relevant. 
+21
+(3) SPECIFIC SECTORS OF SMALL ENTITIES.— 
+22
+In preparing the report required under paragraph 
+23
+(1), the Secretary may include matters applicable for 
+24
+07:23 Feb 02, 2022
+H6541
+10 
+•HR 6541 IH
+specific sectors of small entities in addition to mat-
+1
+ters applicable to all small entities. 
+2
+(4) CONSULTATION.—In preparing the report 
+3
+required under paragraph (1), the Secretary shall 
+4
+consult with— 
+5
+(A) the Administrator, the Director of 
+6
+CISA, and the Commission; and 
+7
+(B) small entities, insurers of risks related 
+8
+to cybersecurity, State governments, cybersecu-
+9
+rity and information technology companies that 
+10
+work with small entities, and academic and 
+11
+Federal and non-Federal experts in cybersecu-
+12
+rity. 
+13
+(d) PERIODIC CENSUS ON STATE OF CYBERSECU-
+14
+RITY OF SMALL BUSINESSES.— 
+15
+(1) IN GENERAL.—Not later than 1 year after 
+16
+the date of enactment of this Act, and not less fre-
+17
+quently than every 24 months thereafter for 10 
+18
+years, the Administrator shall submit to Congress 
+19
+and make publicly available data on the state of cy-
+20
+bersecurity of small businesses, including, to the ex-
+21
+tent practicable— 
+22
+(A) adoption of the cybersecurity rec-
+23
+ommendations from the annual cybersecurity 
+24
+report among small businesses; 
+25
+07:23 Feb 02, 2022
+H6541
+11 
+•HR 6541 IH
+(B) the most significant and widespread 
+1
+cybersecurity threats facing small businesses; 
+2
+(C) the amount small businesses spend on 
+3
+cybersecurity products and services; and 
+4
+(D) the personnel small businesses dedi-
+5
+cate to cybersecurity, including the amount of 
+6
+total personnel time, whether by employees or 
+7
+contractors, dedicated to cybersecurity efforts. 
+8
+(2) VOLUNTARY
+PARTICIPATION.—In carrying 
+9
+out paragraph (1), the Administrator shall collect 
+10
+data from small businesses that participate on a vol-
+11
+untary basis. 
+12
+(3) FORM.—The data required under para-
+13
+graph (1) shall be produced in unclassified form but 
+14
+may contain a classified annex. 
+15
+(4) CONSULTATION.—In preparing to collect 
+16
+the data required under paragraph (1), the Adminis-
+17
+trator shall consult with— 
+18
+(A) the Secretary, the Director of CISA, 
+19
+and the Commission; and 
+20
+(B) small businesses, insurers of risks re-
+21
+lated to cybersecurity, cybersecurity and infor-
+22
+mation technology companies that work with 
+23
+small businesses, and academic and Federal 
+24
+and non-Federal experts in cybersecurity. 
+25
+07:23 Feb 02, 2022
+H6541
+12 
+•HR 6541 IH
+(5) PRIVACY.—In carrying out this subsection, 
+1
+the Administrator shall ensure that any publicly 
+2
+available data is anonymized and does not reveal 
+3
+personally identifiable information. 
+4
+(e) RULE OF CONSTRUCTION.—Nothing in this sec-
+5
+tion or the amendments made by this section shall be con-
+6
+strued to provide any additional regulatory authority to 
+7
+CISA. 
+8
+Æ 
+07:23 Feb 02, 2022
+H6541

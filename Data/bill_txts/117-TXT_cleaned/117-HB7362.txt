@@ -1,0 +1,460 @@
+A BILL 
+To amend the Communications Act of 1934 to prohibit mo-
+bile service providers from providing service on smart 
+phones that have been reported stolen, to require smart 
+phones to be equipped with anti-theft functionality and 
+mobile device identification numbers, and to prohibit the 
+alteration or removal of mobile device identification num-
+bers of smart phones, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+22:52 Apr 04, 2022
+H7362
+2 
+•HR 7362 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Detective Brian 
+2
+Simonsen Memorial Act of 2022’’ or the ‘‘Cell Phone 
+3
+Theft Prevention Act of 2022’’. 
+4
+SEC. 2. SMART PHONE THEFT PREVENTION. 
+5
+(a) IN GENERAL.—Part I of title III of the Commu-
+6
+nications Act of 1934 (47 U.S.C. 301 et seq.) is amended 
+7
+by adding at the end the following: 
+8
+‘‘SEC. 345. SMART PHONE THEFT PREVENTION. 
+9
+‘‘(a) PROVISION
+OF SERVICE
+ON STOLEN SMART 
+10
+PHONE.— 
+11
+‘‘(1) PROHIBITION.—A provider of commercial 
+12
+mobile service or commercial mobile data service 
+13
+may not knowingly provide service on a smart phone 
+14
+that— 
+15
+‘‘(A) has been reported to such provider as 
+16
+stolen by an authorized user of such phone; or 
+17
+‘‘(B) is listed as stolen on a central equip-
+18
+ment identity register. 
+19
+‘‘(2) REPORTING BY SERVICE PROVIDERS.—A 
+20
+provider of commercial mobile service or commercial 
+21
+mobile data service to which a smart phone is re-
+22
+ported stolen by an authorized user of such phone 
+23
+as described in paragraph (1)(A) shall transmit to a 
+24
+central equipment identity register a notification 
+25
+that such phone has been reported stolen. Such noti-
+26
+22:52 Apr 04, 2022
+H7362
+3 
+•HR 7362 IH
+fication shall include such information as is required 
+1
+for the identification of such phone. 
+2
+‘‘(b) ANTI-THEFT FUNCTIONALITY; MOBILE DEVICE 
+3
+IDENTIFICATION NUMBERS.—A person may not manufac-
+4
+ture for retail sale in the United States, or import into 
+5
+the United States for retail sale in the United States, a 
+6
+smart phone unless such phone is— 
+7
+‘‘(1) 
+equipped 
+with 
+pre-loaded 
+anti-theft 
+8
+functionality at no additional cost to purchasers of 
+9
+such phone, or capable of downloading anti-theft 
+10
+functionality that is available at no additional cost 
+11
+to purchasers of such phone; and 
+12
+‘‘(2) equipped with a mobile device identifica-
+13
+tion number. 
+14
+‘‘(c) ALTERATION OR REMOVAL OF MOBILE DEVICE 
+15
+IDENTIFICATION NUMBER; PROHIBITION
+OF SALE
+OF 
+16
+STOLEN SMART PHONES.— 
+17
+‘‘(1) PROHIBITION.—It shall be unlawful to— 
+18
+‘‘(A) knowingly remove, obliterate, tamper 
+19
+with, or alter the mobile device identification 
+20
+number of a smart phone; 
+21
+‘‘(B) knowingly use, produce, traffic in, 
+22
+have control or custody of, or possess hardware 
+23
+or software, knowing it has been configured to 
+24
+22:52 Apr 04, 2022
+H7362
+4 
+•HR 7362 IH
+engage in the conduct described in subpara-
+1
+graph (A); or 
+2
+‘‘(C) knowingly sell a smart phone for 
+3
+which the mobile device identification number is 
+4
+listed as stolen on a central equipment identity 
+5
+register. 
+6
+‘‘(2) PENALTY.—Any person who violates para-
+7
+graph (1) shall be fined under title 18, United 
+8
+States Code, imprisoned not more than 5 years, or 
+9
+both. 
+10
+‘‘(d) RULES OF CONSTRUCTION.— 
+11
+‘‘(1) ADDITIONAL
+TECHNOLOGIES
+OR
+SERV-
+12
+ICES.—Nothing in this section prohibits a provider 
+13
+of commercial mobile service or commercial mobile 
+14
+data service, device manufacturer, or operating sys-
+15
+tem provider from offering a technology or service in 
+16
+addition to the anti-theft functionality required by 
+17
+subsection (b)(1). 
+18
+‘‘(2) EMERGENCY COMMUNICATIONS.—Nothing 
+19
+in this section requires the use of a technology that 
+20
+is incompatible with, or renders it impossible to com-
+21
+ply with, Federal or State law with regard to— 
+22
+‘‘(A) the provision of emergency services 
+23
+through the 9–1–1 system, including text-to-9– 
+24
+22:52 Apr 04, 2022
+H7362
+5 
+•HR 7362 IH
+1–1, bounce-back messages, and location accu-
+1
+racy requirements; 
+2
+‘‘(B) participation in the Wireless Emer-
+3
+gency Alerts system; or 
+4
+‘‘(C) participation in other Federal, State, 
+5
+or local emergency alert and public safety warn-
+6
+ing systems. 
+7
+‘‘(3) NO PRIVATE RIGHT OF ACTION.—Nothing 
+8
+in this section shall be construed to authorize any 
+9
+private right of action to enforce any requirement of 
+10
+this section or any regulation promulgated under 
+11
+this section. 
+12
+‘‘(e) DEFINITIONS.—In this section: 
+13
+‘‘(1) ANTI-THEFT FUNCTIONALITY.—The term 
+14
+‘anti-theft functionality’ means, with respect to a 
+15
+smart phone, a functionality provided by the manu-
+16
+facturer or operating system provider that— 
+17
+‘‘(A) once downloaded to the phone and 
+18
+initiated— 
+19
+‘‘(i) has the capability, from a remote 
+20
+location— 
+21
+‘‘(I) to render the essential fea-
+22
+tures of the phone inoperable to a per-
+23
+son who is not an authorized user; 
+24
+and 
+25
+22:52 Apr 04, 2022
+H7362
+6 
+•HR 7362 IH
+‘‘(II) to delete from the phone 
+1
+the personal information of the au-
+2
+thorized users, except for any infor-
+3
+mation necessary to permit the capa-
+4
+bility described in subclause (I) to be 
+5
+reversed as required by clause (ii); 
+6
+and 
+7
+‘‘(ii) permits the capability described 
+8
+in clause (i)(I) to be reversed if an author-
+9
+ized user of the phone obtains possession 
+10
+of the phone after the essential features of 
+11
+the phone have been rendered inoperable 
+12
+by such capability; and 
+13
+‘‘(B) may be designed so as to allow an au-
+14
+thorized user to opt out of implementing the ca-
+15
+pability described in subparagraph (A)(i). 
+16
+‘‘(2) AUTHORIZED
+USER.—The term ‘author-
+17
+ized user’ means, with respect to a smart phone— 
+18
+‘‘(A) the person who holds the commercial 
+19
+mobile service or commercial mobile data serv-
+20
+ice account for the phone; 
+21
+‘‘(B) if the phone is a phone for which par-
+22
+ticular amounts of service are purchased in ad-
+23
+vance, the person who owns the phone; or 
+24
+22:52 Apr 04, 2022
+H7362
+7 
+•HR 7362 IH
+‘‘(C) any person who has been authorized 
+1
+by a person described in subparagraph (A) or 
+2
+(B) to use the phone. 
+3
+‘‘(3) CENTRAL
+EQUIPMENT
+IDENTITY
+REG-
+4
+ISTER.—The term ‘central equipment identity reg-
+5
+ister’ means a list of mobile device identification 
+6
+numbers that are associated with mobile devices that 
+7
+have been reported as lost, stolen, faulty, or other-
+8
+wise unsuitable for use, including any such list that 
+9
+is a part of the GSMA Device Registry or any equiv-
+10
+alent or successor registry or database. 
+11
+‘‘(4) COMMERCIAL
+MOBILE
+DATA
+SERVICE.— 
+12
+The term ‘commercial mobile data service’ has the 
+13
+meaning given such term in section 6001 of the Mid-
+14
+dle Class Tax Relief and Job Creation Act of 2012 
+15
+(47 U.S.C. 1401). 
+16
+‘‘(5) COMMERCIAL MOBILE SERVICE.—The term 
+17
+‘commercial mobile service’ has the meaning given 
+18
+such term in section 332. 
+19
+‘‘(6) ESSENTIAL FEATURES.—The term ‘essen-
+20
+tial features’ means, with respect to a smart phone, 
+21
+features that provide the capability for a user to use 
+22
+the phone for voice communications, text messaging, 
+23
+Internet browsing, and accessing and using software 
+24
+applications. Such term does not include the features 
+25
+22:52 Apr 04, 2022
+H7362
+8 
+•HR 7362 IH
+that provide the capability to operate the anti-theft 
+1
+functionality or to use the phone for emergency com-
+2
+munications. 
+3
+‘‘(7) MOBILE
+DEVICE
+IDENTIFICATION
+NUM-
+4
+BER.—The term ‘mobile device identification num-
+5
+ber’ means an international mobile equipment iden-
+6
+tity number, a mobile equipment identifier, an elec-
+7
+tronic serial number, or any other number or signal 
+8
+that identifies a specific mobile device and has the 
+9
+same function and purposes as an international mo-
+10
+bile equipment identity number or a mobile equip-
+11
+ment identifier. 
+12
+‘‘(8) SMART PHONE.— 
+13
+‘‘(A) IN
+GENERAL.—The term ‘smart 
+14
+phone’ means a hand-held mobile device that— 
+15
+‘‘(i) possesses advanced computing ca-
+16
+pability; 
+17
+‘‘(ii) is designed to enable the user to 
+18
+engage in voice communications using com-
+19
+mercial mobile service; 
+20
+‘‘(iii) is capable of operating on a 
+21
+long-term evolution network or successor 
+22
+wireless 
+data 
+network 
+communication 
+23
+standards; and 
+24
+22:52 Apr 04, 2022
+H7362
+9 
+•HR 7362 IH
+‘‘(iv) may possess capabilities that in-
+1
+clude built-in applications, Internet access, 
+2
+Internet browsing, digital voice service, 
+3
+text messaging, and e-mail. 
+4
+‘‘(B) EXCLUSIONS.—Such term does not 
+5
+include a phone that offers only a limited capa-
+6
+bility or set of capabilities (such as placing 
+7
+voice calls and sending text messages), a laptop 
+8
+computer, a tablet device, or a device that has 
+9
+only electronic reading capability.’’. 
+10
+(b) EFFECTIVE DATE.— 
+11
+(1) IN GENERAL.—Except as provided in para-
+12
+graph (2), section 345 of the Communications Act 
+13
+of 1934, as added by subsection (a) of this section, 
+14
+shall apply beginning on the date that is 2 years 
+15
+after the date of the enactment of this Act. 
+16
+(2) ANTI-THEFT FUNCTIONALITY; MOBILE DE-
+17
+VICE IDENTIFICATION NUMBERS.—Subsection (b) of 
+18
+such section 345 shall apply with respect to a smart 
+19
+phone that is manufactured on or after the date that 
+20
+is 2 years after the date of the enactment of this 
+21
+Act. 
+22
+Æ 
+22:52 Apr 04, 2022
+H7362

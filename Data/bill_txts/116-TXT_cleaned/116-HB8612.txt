@@ -1,0 +1,443 @@
+A BILL 
+To direct the Director of the Cybersecurity and Infrastruc-
+ture Security Agency to establish a School Cybersecurity 
+Clearinghouse, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may cited as the ‘‘Enhancing K–12 
+4
+Cybersecurity Act’’. 
+5
+02:31 Nov 11, 2020
+H8612
+2 
+•HR 8612 IH
+SEC. 2. SCHOOL CYBERSECURITY CLEARINGHOUSE. 
+1
+(a) 
+ESTABLISHMENT.—The 
+Director 
+of 
+the 
+2
+Cybersecurity and Infrastructure Security Agency shall es-
+3
+tablish a publicly accessible website (to be known as the 
+4
+‘‘School Cybersecurity Clearinghouse’’) to disseminate in-
+5
+formation, best practices, and grant opportunities in ac-
+6
+cordance with subsection (b) and section 2(e). 
+7
+(b) 
+DUTIES.—In 
+establishing 
+the 
+School 
+8
+Cybersecurity Clearinghouse under subsection (a), the 
+9
+Secretary shall— 
+10
+(1) engage appropriate Federal, State, local, 
+11
+and nongovernmental organizations to identify, pro-
+12
+mote, and disseminate information and best prac-
+13
+tices for local educational agencies (as defined in 
+14
+section 101 of the Elementary and Secondary Edu-
+15
+cation Act of 1965 (20 U.S.C. 8101)) with respect 
+16
+to cybersecurity, data protection, remote learning se-
+17
+curity, and student online privacy; and 
+18
+(2) maintain a searchable database for an ele-
+19
+mentary school, secondary school, local educational 
+20
+agency, State educational agency, and educational 
+21
+service agency to find and apply for funding oppor-
+22
+tunities (including the opportunity provided under 
+23
+section 3) to improve cybersecurity. 
+24
+02:31 Nov 11, 2020
+H8612
+3 
+•HR 8612 IH
+(c) CONSULTATION.—In carrying out the duties 
+1
+under subsection (b), the Secretary shall consult with the 
+2
+following: 
+3
+(1) The Secretary of Education. 
+4
+(2) The Director of the National Institute of 
+5
+Standards and Technology. 
+6
+(3) The Federal Communication Commission. 
+7
+(4) The Director of the National Science Foun-
+8
+dation. 
+9
+(5) The Federal Bureau of Investigation. 
+10
+(6) State and local leaders, including, when ap-
+11
+propriate, Governors, members of State legislatures 
+12
+and State boards of education, local educational 
+13
+agencies, representatives of Indian tribes, teachers, 
+14
+principals, other school leaders, charter school lead-
+15
+ers, specialized instructional support personnel, 
+16
+paraprofessionals, administrators, other staff, and 
+17
+parents. 
+18
+SEC. 3. CYBERSECURITY REGISTRY. 
+19
+(a) IN GENERAL.—The Director of the Cybersecurity 
+20
+and Infrastructure Security Agency shall establish a vol-
+21
+untary registry of information relating to cyber attacks 
+22
+on elementary schools and secondary schools. 
+23
+(b) USE.—Information in the registry established 
+24
+pursuant to subsection (a) may be used to— 
+25
+02:31 Nov 11, 2020
+H8612
+4 
+•HR 8612 IH
+(1) improve data collection and coordination ac-
+1
+tivities related to the nationwide monitoring of the 
+2
+incidence and financial impact of cyber attacks on 
+3
+elementary schools and secondary schools; 
+4
+(2) conduct analyses regarding trends in cyber 
+5
+attacks against such schools; 
+6
+(3) develop systematic approaches to assist such 
+7
+schools in preventing and responding to cyber at-
+8
+tacks; 
+9
+(4) increase the awareness and preparedness of 
+10
+elementary school and secondary school administra-
+11
+tors regarding the cybersecurity of such schools; and 
+12
+(5) identify, prevent, or investigate cyber at-
+13
+tacks on elementary schools and secondary schools. 
+14
+(c) INFORMATION COLLECTION.—The Director of the 
+15
+Cybersecurity and Infrastructure Security Agency may 
+16
+collect information relating to cyber attacks on schools to 
+17
+store in the registry established pursuant to subsection 
+18
+(a). Such information may be submitted by schools and 
+19
+may include the following: 
+20
+(1) The dates of each cyber attack, including 
+21
+the dates on which each such attack was initially de-
+22
+tected and the dates on which each such attack was 
+23
+first reported. 
+24
+02:31 Nov 11, 2020
+H8612
+5 
+•HR 8612 IH
+(2) A description of each cyber attack which 
+1
+shall include whether each such attack was as a re-
+2
+sult of a breach, malware, distributed denial of serv-
+3
+ice attack, or other method designed to cause a vul-
+4
+nerability. 
+5
+(3) The effects of each cyber attack, including 
+6
+descriptions of the type and size of each such attack. 
+7
+(4) Other information determined relevant by 
+8
+the Secretary. 
+9
+(d) ACCESS.—The Director of the Cybersecurity and 
+10
+Infrastructure Security Agency may make information 
+11
+submitted to the registry established pursuant to sub-
+12
+section (a) available to relevant law enforcement agencies, 
+13
+and State and local government agencies, as determined 
+14
+appropriate, for the purpose identified in subsection 
+15
+(b)(5). 
+16
+(e) REPORT.—The Director of the Cybersecurity and 
+17
+Infrastructure Security Agency shall make available on 
+18
+the School Cybersecurity Clearinghouse established under 
+19
+section 1, an annual report relating to cyber attacks on 
+20
+elementary schools and secondary schools which includes 
+21
+data, and the analysis of such data, in a manner that— 
+22
+(1) is— 
+23
+(A) de-identified; and 
+24
+(B) presented in the aggregate; and 
+25
+02:31 Nov 11, 2020
+H8612
+6 
+•HR 8612 IH
+(2) at a minimum, protects personal privacy to 
+1
+the extent required by applicable Federal and State 
+2
+privacy laws. 
+3
+SEC. 4. K–12 CYBERSECURITY HUMAN CAPACITY GRANT 
+4
+PROGRAM. 
+5
+(a) ESTABLISHMENT.—The Director of the National 
+6
+Science Foundation, acting through the Director of the 
+7
+Office of Advanced Cyberinfrastructure, shall establish a 
+8
+program (to be known as the ‘‘K–12 Cybersecurity 
+9
+Human Capacity grant program’’) to make grants avail-
+10
+able to eligible entities to address cybersecurity risks and 
+11
+threats to information systems of elementary schools and 
+12
+secondary schools through— 
+13
+(1) expanded workforce capacity and develop-
+14
+ment; and 
+15
+(2) improved network and cyberinfrastructure. 
+16
+(b) APPLICATIONS.—An eligible entity applying for a 
+17
+grant under the program shall submit to the Director a 
+18
+proposal that includes the following: 
+19
+(1) A description of how the proposed 
+20
+cybersecurity capacity improvements will be con-
+21
+ceived, designed, and implemented to meet local 
+22
+needs. Such description shall take the form of a co-
+23
+herent cybersecurity strategy and approach for a 
+24
+school, district, or region such that such strategy 
+25
+02:31 Nov 11, 2020
+H8612
+7 
+•HR 8612 IH
+and approach are integrated horizontally (intra- 
+1
+school, district, or region) and vertically (regionally 
+2
+and nationally) with cybersecurity investments and 
+3
+best practices. 
+4
+(2) A plan for increasing the ability of edu-
+5
+cational leaders to prevent, recognize, and address 
+6
+cybersecurity threats. 
+7
+(3) An assessment of the sustainability of the 
+8
+activities under such proposal in light of any recur-
+9
+ring operational and engineering costs associated 
+10
+with such activities. 
+11
+(4) A plan to address the relevant cybersecurity 
+12
+issues and challenges implicated by the activities 
+13
+under such plan which includes issues or challenges 
+14
+pertaining to data integrity, privacy, network secu-
+15
+rity measures, federated access and identity manage-
+16
+ment, and infrastructure monitoring. 
+17
+(c) FEDERAL SHARE.—The Director shall provide 
+18
+grants to eligible entities in an amount not to exceed 80 
+19
+percent of the total cost of the plan. 
+20
+(d) SELECTION.—In selecting recipients for grants 
+21
+under this section, the Director shall consider, and give 
+22
+preference to the extent practicable, the percentage of— 
+23
+(1) students in the eligible entity’s jurisdiction 
+24
+eligible to receive free or reduced price lunch under 
+25
+02:31 Nov 11, 2020
+H8612
+8 
+•HR 8612 IH
+the Richard B. Russell National School Lunch Act 
+1
+(42 U.S.C. 1751 et seq.); or 
+2
+(2) household units in the eligible entity’s juris-
+3
+diction receiving non-cash benefits under the supple-
+4
+mental nutrition assistance program under the Food 
+5
+and Nutrition Act of 2008. 
+6
+(e) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+7
+are authorized to be appropriated for grants under this 
+8
+section $400,000,000 for fiscal year 2020, to remain avail-
+9
+able through fiscal year 2021. 
+10
+SEC. 5. DEFINITIONS. 
+11
+In this Act: 
+12
+(1) 
+EDUCATIONAL
+SERVICE
+AGENCY.—The 
+13
+term ‘‘educational service agency’’ has the meaning 
+14
+given that term in section 8101 of the Elementary 
+15
+and Secondary Education Act of 1965 (20 U.S.C. 
+16
+7801). 
+17
+(2) ELEMENTARY SCHOOL.—The term ‘‘elemen-
+18
+tary school’’ has the meaning given that term in sec-
+19
+tion 8101 of the Elementary and Secondary Edu-
+20
+cation Act of 1965 (20 U.S.C. 7801). 
+21
+(3) ELIGIBLE
+ENTITIES.—The term ‘‘eligible 
+22
+entities’’ means— 
+23
+(A) an elementary school; 
+24
+(B) a secondary school; 
+25
+02:31 Nov 11, 2020
+H8612
+9 
+•HR 8612 IH
+(C) a local educational agency; 
+1
+(D) a State educational agency; 
+2
+(E) an educational service agency; and 
+3
+(F) any combination of the entities listed 
+4
+in subparagraph consortia of such entities. 
+5
+(4) LOCAL EDUCATIONAL AGENCY.—The term 
+6
+‘‘local educational agency’’ has the meaning given 
+7
+that term in section 8101 of the Elementary and 
+8
+Secondary Education Act of 1965 (20 U.S.C. 7801). 
+9
+(5) STATE EDUCATIONAL AGENCY.—The term 
+10
+‘‘State educational agency’’ has the meaning given 
+11
+that term in section 8101 of the Elementary and 
+12
+Secondary Education Act of 1965 (20 U.S.C. 7801). 
+13
+(6) SECONDARY
+SCHOOL.—The term ‘‘sec-
+14
+ondary school’’ has the meaning given that term in 
+15
+section 8101 of the Elementary and Secondary Edu-
+16
+cation Act of 1965 (20 U.S.C. 7801). 
+17
+Æ 
+02:31 Nov 11, 2020
+H8612

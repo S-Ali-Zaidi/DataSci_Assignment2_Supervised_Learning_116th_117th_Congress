@@ -1,0 +1,1729 @@
+A BILL 
+To amend the Energy Independence and Security Act of 
+2007 and the Energy Policy Act of 2005 to direct Fed-
+eral research on grid modernization and security, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Grid Modernization Research and Development Act of 
+5
+2019’’. 
+6
+(b) TABLE OF CONTENTS.—The table of contents for 
+7
+this Act is as follows: 
+8
+02:57 Dec 24, 2019
+H5428
+2 
+•HR 5428 IH
+Sec. 1. Short title; table of contents. 
+Sec. 2. Smart grid regional demonstration initiative. 
+Sec. 3. Smart grid modeling, visualization, architecture, and controls. 
+Sec. 4. Enhancing grid resilience and emergency response. 
+Sec. 5. Hybrid energy systems. 
+Sec. 6. Grid integration research and development. 
+Sec. 7. Industry alliance. 
+Sec. 8. Coordination of efforts. 
+Sec. 9. Definitions. 
+Sec. 10. Technical amendments; authorization of appropriations. 
+SEC. 2. SMART GRID REGIONAL DEMONSTRATION INITIA-
+1
+TIVE. 
+2
+Section 1304 of the Energy Independence and Secu-
+3
+rity Act of 2007 (42 U.S.C. 17384) is amended— 
+4
+(1) in subsection (a), by inserting ‘‘research, 
+5
+development, and demonstration’’ before ‘‘program’’; 
+6
+(2) in subsection (b)— 
+7
+(A) by amending paragraph (1) to read as 
+8
+follows: 
+9
+‘‘(1) The Secretary shall establish a smart grid 
+10
+regional demonstration initiative (referred to in this 
+11
+subsection as the ‘Initiative’) composed of dem-
+12
+onstration projects focused on cost-effective, ad-
+13
+vanced technologies for use in power grid sensing, 
+14
+communications, analysis, power flow control, visual-
+15
+ization, distribution automation, industrial control 
+16
+systems, dynamic line rating systems, grid redesign, 
+17
+and the integration of distributed energy re-
+18
+sources.’’; and 
+19
+(B) in paragraph (2)— 
+20
+02:57 Dec 24, 2019
+H5428
+3 
+•HR 5428 IH
+(i) in subparagraph (D), by striking 
+1
+‘‘and’’; 
+2
+(ii) in subparagraph (E), by striking 
+3
+the period and inserting ‘‘; and’’; and 
+4
+(iii) by inserting at the end the fol-
+5
+lowing: 
+6
+‘‘(F) to encourage the commercial applica-
+7
+tion of advanced distribution automation tech-
+8
+nologies that improve system resilience.’’. 
+9
+SEC. 3. SMART GRID MODELING, VISUALIZATION, ARCHI-
+10
+TECTURE, AND CONTROLS. 
+11
+Title XIII of the Energy Independence and Security 
+12
+Act of 2007 (42 U.S.C. 17381 et seq.) is amended by in-
+13
+serting after section 1304 the following: 
+14
+‘‘SEC. 1304a. SMART GRID MODELING, VISUALIZATION, AR-
+15
+CHITECTURE, AND CONTROLS. 
+16
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+17
+the enactment of the Grid Modernization Research and 
+18
+Development Act of 2019, the Secretary shall establish a 
+19
+program of research, development, demonstration, and 
+20
+commercial application on electric grid modeling, sensing, 
+21
+visualization, architecture development, and advanced op-
+22
+eration and controls. 
+23
+‘‘(b) MODELING RESEARCH AND DEVELOPMENT.— 
+24
+The Secretary shall support development of models of 
+25
+02:57 Dec 24, 2019
+H5428
+4 
+•HR 5428 IH
+emerging technologies and systems to facilitate the secure 
+1
+and reliable design, planning, and operation of the electric 
+2
+grid for use by industry stakeholders. In particular, the 
+3
+Secretary shall support development of— 
+4
+‘‘(1) models to analyze and predict the effects 
+5
+of adverse physical and cyber events on the electric 
+6
+grid; 
+7
+‘‘(2) coupled models of electrical, physical, and 
+8
+cyber systems; 
+9
+‘‘(3) models of existing and emerging tech-
+10
+nologies being deployed on the electric grid due to 
+11
+projected changes in the electric generation mix and 
+12
+loads, for a variety of regional characteristics; and 
+13
+‘‘(4) integrated models of the communications, 
+14
+transmission, distribution, and other interdependent 
+15
+systems for existing, new, and emerging tech-
+16
+nologies. 
+17
+‘‘(c) SITUATIONAL AWARENESS RESEARCH AND DE-
+18
+VELOPMENT.— 
+19
+‘‘(1) IN GENERAL.—The Secretary shall sup-
+20
+port development of computational tools and tech-
+21
+nologies to improve sensing, monitoring, and visual-
+22
+ization of the electric grid for real-time situational 
+23
+awareness and decision support tools that enable im-
+24
+proved operation of the power system, including util-
+25
+02:57 Dec 24, 2019
+H5428
+5 
+•HR 5428 IH
+ity, non-utility, and customer grid-connected assets, 
+1
+for use by industry partners. 
+2
+‘‘(2) DATA
+USE.—In developing visualization 
+3
+capabilities under this section, the Secretary shall 
+4
+develop tools for industry stakeholders to use to ana-
+5
+lyze data collected from advanced measurement and 
+6
+monitoring technologies, including data from phasor 
+7
+measurement units and advanced metering units. 
+8
+‘‘(3) SEVERE
+EVENTS.—The Secretary shall 
+9
+prioritize enhancing cyber and physical situational 
+10
+awareness of the electric grid during adverse man-
+11
+made and naturally occurring events. 
+12
+‘‘(d) ARCHITECTURE.—The Secretary shall conduct 
+13
+research in collaboration with industry stakeholders to de-
+14
+velop model grid architectures to assist with wide-area 
+15
+transmission and distribution planning that incorporate 
+16
+expected changes to the modern electric grid. In sup-
+17
+porting the development of model grid architectures, the 
+18
+Secretary shall— 
+19
+‘‘(1) analyze a variety of grid architecture sce-
+20
+narios that range from minor upgrades to existing 
+21
+transmission grid infrastructure to scenarios that in-
+22
+volve the replacement of significant portions of exist-
+23
+ing transmission grid infrastructure; 
+24
+02:57 Dec 24, 2019
+H5428
+6 
+•HR 5428 IH
+‘‘(2) analyze the effects of the increasing pro-
+1
+liferation of renewable and other zero emissions en-
+2
+ergy generation sources, increasing use of distrib-
+3
+uted resources owned by non-utility entities, and the 
+4
+use of digital and automated controls not managed 
+5
+by grid operators; 
+6
+‘‘(3) include a variety of new and emerging dis-
+7
+tribution grid technologies, including distributed en-
+8
+ergy resources, electric vehicle charging stations, dis-
+9
+tribution automation technologies, energy storage, 
+10
+and renewable energy sources; 
+11
+‘‘(4) analyze the effects of local load balancing 
+12
+and other forms of decentralized control; 
+13
+‘‘(5) analyze the effects of changes to grid ar-
+14
+chitectures resulting from modernizing electric grid 
+15
+systems, including communications, controls, mar-
+16
+kets, consumer choice, emergency response, elec-
+17
+trification, and cybersecurity concerns; and 
+18
+‘‘(6) develop integrated grid architectures that 
+19
+incorporate system resilience for cyber, physical, and 
+20
+communications systems. 
+21
+‘‘(e) OPERATION
+AND CONTROLS RESEARCH
+AND 
+22
+DEVELOPMENT.—The Secretary shall conduct research to 
+23
+develop improvements to the operation and controls of the 
+24
+02:57 Dec 24, 2019
+H5428
+7 
+•HR 5428 IH
+electric grid, in coordination with industry partners. Such 
+1
+activities shall include— 
+2
+‘‘(1) a training facility or facilities to allow grid 
+3
+operators to gain operational experience with ad-
+4
+vanced grid control concepts and technologies; 
+5
+‘‘(2) development of cost-effective advanced op-
+6
+eration and control concepts and technologies, such 
+7
+as adaptive islanding, dynamic line rating systems, 
+8
+power flow controllers, network topology optimiza-
+9
+tion, smart circuit breakers, intelligent load shed-
+10
+ding, and fault-tolerant control system architectures; 
+11
+‘‘(3) development of real-time control concepts 
+12
+using artificial intelligence and machine learning for 
+13
+improved electric grid resilience; and 
+14
+‘‘(4) utilization of advanced data analytics in-
+15
+cluding load forecasting, power flow modeling, equip-
+16
+ment failure prediction, resource optimization, risk 
+17
+analysis, and decision analysis. 
+18
+‘‘(f) COMPUTING RESOURCES AND DATA COORDINA-
+19
+TION RESEARCH AND DEVELOPMENT.—In carrying out 
+20
+this section, the Secretary shall— 
+21
+‘‘(1) leverage existing computing resources at 
+22
+the National Laboratories; 
+23
+‘‘(2) develop voluntary standards for data 
+24
+taxonomies and communication protocols in coordi-
+25
+02:57 Dec 24, 2019
+H5428
+8 
+•HR 5428 IH
+nation with public and private sector stakeholders; 
+1
+and 
+2
+‘‘(3) comply with section 8 of the Grid Mod-
+3
+ernization Research and Development Act of 2019. 
+4
+‘‘(g) INFORMATION SHARING.—None of the activities 
+5
+authorized in this section shall require private entities to 
+6
+share information or data with the Secretary.’’. 
+7
+SEC. 4. ENHANCING GRID RESILIENCE AND EMERGENCY 
+8
+RESPONSE. 
+9
+Title XIII of the Energy Independence and Security 
+10
+Act of 2007 (42 U.S.C. 17381 et. seq.) is amended by 
+11
+adding at the end the following: 
+12
+‘‘SEC. 1310. GRID RESILIENCE AND EMERGENCY RESPONSE. 
+13
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+14
+the enactment of the Grid Modernization Research and 
+15
+Development Act of 2019, the Secretary shall establish a 
+16
+research, development, and demonstration program to en-
+17
+hance resilience and strengthen emergency response and 
+18
+management pertaining to the electric grid. 
+19
+‘‘(b) GRANTS.—The Secretary shall award grants to 
+20
+eligible entities under subsection (c) on a competitive basis 
+21
+to conduct research and development with the purpose of 
+22
+improving the resilience and reliability of electric grid by— 
+23
+‘‘(1) developing methods to improve community 
+24
+and governmental preparation for and emergency re-
+25
+02:57 Dec 24, 2019
+H5428
+9 
+•HR 5428 IH
+sponse to large-area, long-duration electricity inter-
+1
+ruptions, including through the use of energy effi-
+2
+ciency, storage, and distributed generation tech-
+3
+nologies; 
+4
+‘‘(2) developing tools to help utilities and com-
+5
+munities ensure the continuous delivery of electricity 
+6
+to critical facilities; 
+7
+‘‘(3) developing tools to improve coordination 
+8
+between utilities and relevant Federal agencies to 
+9
+enable communication, information-sharing, and sit-
+10
+uational awareness in the event of a physical or 
+11
+cyber attack on the electric grid; 
+12
+‘‘(4) developing technologies and capabilities to 
+13
+withstand and address the current and projected im-
+14
+pact of the changing climate on electric grid infra-
+15
+structure, including extreme weather events and 
+16
+other natural disasters; 
+17
+‘‘(5) developing technologies capable of early 
+18
+detection of deteriorating electrical equipment on the 
+19
+transmission and distribution grid, including detec-
+20
+tion of spark ignition from wildfires and risks of 
+21
+vegetation contact; and 
+22
+‘‘(6) assessing upgrades and additions needed 
+23
+to electric grid infrastructure due to projected 
+24
+02:57 Dec 24, 2019
+H5428
+10 
+•HR 5428 IH
+changes in the electricity generation mix and elec-
+1
+tricity demand. 
+2
+‘‘(c) ELIGIBLE ENTITIES.—The entities eligible to re-
+3
+ceive grants under this section include— 
+4
+‘‘(1) an institution of higher education; 
+5
+‘‘(2) a nonprofit organization; 
+6
+‘‘(3) a National Laboratory; 
+7
+‘‘(4) a unit of State, local, or tribal government; 
+8
+‘‘(5) an electric utility or electric cooperative; 
+9
+‘‘(6) a retail service provider of electricity; 
+10
+‘‘(7) a private commercial entity; 
+11
+‘‘(8) a partnership or consortium of two or 
+12
+more entities described in subparagraphs (1) 
+13
+through (7). 
+14
+‘‘(d) RELEVANT ACTIVITIES.—Grants awarded under 
+15
+subsection (b) shall include funding for research and de-
+16
+velopment activities related to the purpose described in 
+17
+subsection (b), such as— 
+18
+‘‘(1) development of technologies to use distrib-
+19
+uted energy resources, such as solar photovoltaics, 
+20
+energy storage systems, electric vehicles, and 
+21
+microgrids to improve grid and critical end-user re-
+22
+silience; 
+23
+‘‘(2) analysis of past large-area, long-duration 
+24
+electricity interruptions to identify common elements 
+25
+02:57 Dec 24, 2019
+H5428
+11 
+•HR 5428 IH
+and best practices for electricity restoration, mitiga-
+1
+tion, and prevention of future disruptions; 
+2
+‘‘(3) development of advanced monitoring, ana-
+3
+lytics, operation, and controls of electricity grid sys-
+4
+tems to improve electric grid resilience; 
+5
+‘‘(4) analysis of technologies, methods, and con-
+6
+cepts that can improve community resilience and 
+7
+survivability of frequent or long-duration power out-
+8
+ages; 
+9
+‘‘(5) development of methodologies to maintain 
+10
+cybersecurity during restoration of electric grid in-
+11
+frastructure and operation; 
+12
+‘‘(6) development of advanced power flow con-
+13
+trol systems and components to improve electric grid 
+14
+resilience; and 
+15
+‘‘(7) any other relevant activities determined by 
+16
+the Secretary. 
+17
+‘‘(e) TECHNICAL ASSISTANCE.— 
+18
+‘‘(1) IN GENERAL.—The Secretary shall provide 
+19
+technical assistance to eligible entities for the com-
+20
+mercial application of technologies to improve the re-
+21
+silience of the electric grid and commercial applica-
+22
+tion of technologies to help entities develop plans for 
+23
+preventing and recovering from various power out-
+24
+age scenarios at the local, regional, and State level. 
+25
+02:57 Dec 24, 2019
+H5428
+12 
+•HR 5428 IH
+‘‘(2) TECHNICAL ASSISTANCE PROGRAM.—The 
+1
+technical assistance program established in para-
+2
+graph (1) shall include assistance to eligible entities 
+3
+for— 
+4
+‘‘(A) the commercial application of tech-
+5
+nologies developed from the grant program es-
+6
+tablished in subsection (b), including municipal 
+7
+and cooperative utilities; 
+8
+‘‘(B) the development of methods to 
+9
+strengthen or otherwise mitigate adverse im-
+10
+pacts on electric grid infrastructure against 
+11
+natural hazards; 
+12
+‘‘(C) the use of Department data and mod-
+13
+eling tools for various purposes; and 
+14
+‘‘(D) a resource assessment and analysis of 
+15
+future demand and distribution requirements, 
+16
+including development of advanced grid archi-
+17
+tectures and risk analysis. 
+18
+‘‘(3) ELIGIBLE ENTITIES.—The entities eligible 
+19
+to receive technical assistance for commercial appli-
+20
+cation of technologies under this section include— 
+21
+‘‘(A) representatives of all sectors of the 
+22
+electric power industry, including electric utili-
+23
+ties, trade organizations, and transmission and 
+24
+02:57 Dec 24, 2019
+H5428
+13 
+•HR 5428 IH
+distribution system organizations, owners, and 
+1
+operators; 
+2
+‘‘(B) State and local governments and reg-
+3
+ulatory authorities, including public utility com-
+4
+missions; 
+5
+‘‘(C) tribal and Alaska Native govern-
+6
+mental entities; 
+7
+‘‘(D) partnerships among entities under 
+8
+subparagraphs (A) through (C); 
+9
+‘‘(E) regional partnerships; and 
+10
+‘‘(F) any other entities the Secretary 
+11
+deems appropriate. 
+12
+‘‘(4) AUTHORITY.—Nothing in this section shall 
+13
+authorize the Secretary to require any entity to 
+14
+adopt any model, tool, technology, plan, analysis, or 
+15
+assessment. 
+16
+‘‘(f) COORDINATION.—In carrying out this section, 
+17
+the Secretary shall comply with section 8 of the Grid Mod-
+18
+ernization Research and Development Act of 2019.’’. 
+19
+SEC. 5. HYBRID ENERGY SYSTEMS. 
+20
+Title XIII of the Energy Independence and Security 
+21
+Act of 2007 (42 U.S.C. 17381 et. seq.), as amended, is 
+22
+amended by adding at the end the following: 
+23
+02:57 Dec 24, 2019
+H5428
+14 
+•HR 5428 IH
+‘‘SEC. 1311. HYBRID ENERGY SYSTEMS. 
+1
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+2
+the enactment of the Grid Modernization Research and 
+3
+Development Act of 2019, the Secretary shall establish a 
+4
+research, development, and demonstration program to de-
+5
+velop cost-effective hybrid energy systems, including— 
+6
+‘‘(1) development of computer modeling to de-
+7
+sign different configurations of hybrid energy sys-
+8
+tems and to optimize system operation; 
+9
+‘‘(2) research on system integration needed to 
+10
+plan, design, build, and operate hybrid energy sys-
+11
+tems, including interconnection requirements with 
+12
+the electric grid; 
+13
+‘‘(3) development of hybrid energy systems for 
+14
+various applications, including— 
+15
+‘‘(A) thermal energy generation and stor-
+16
+age for buildings and manufacturing; 
+17
+‘‘(B) electricity storage coupled with en-
+18
+ergy generation; 
+19
+‘‘(C) desalination; 
+20
+‘‘(D) production of liquid and gaseous 
+21
+fuels; and 
+22
+‘‘(E) production of chemicals such as am-
+23
+monia and ethylene; 
+24
+‘‘(4) development of testing facilities for hybrid 
+25
+energy systems; and 
+26
+02:57 Dec 24, 2019
+H5428
+15 
+•HR 5428 IH
+‘‘(5) research on incorporation of various tech-
+1
+nologies for hybrid energy systems, including nuclear 
+2
+energy, renewable energy, storage, and carbon cap-
+3
+ture, utilization, and sequestration technologies. 
+4
+‘‘(b) STRATEGIC PLAN.— 
+5
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+6
+the date of the enactment of the Grid Modernization 
+7
+Research and Development Act of 2019, the Sec-
+8
+retary shall submit to the Committee on Science, 
+9
+Space, and Technology of the House of Representa-
+10
+tives and the Committee on Energy and Natural Re-
+11
+sources of the Senate a strategic plan that identifies 
+12
+opportunities, challenges, and standards needed for 
+13
+the development and commercial application of hy-
+14
+brid energy systems. The strategic plan shall in-
+15
+clude— 
+16
+‘‘(A) analysis of the potential benefits of 
+17
+development of hybrid electric systems on the 
+18
+electric grid; 
+19
+‘‘(B) analysis of the potential contributions 
+20
+of hybrid energy systems to different grid archi-
+21
+tecture scenarios; 
+22
+‘‘(C) research and development goals for 
+23
+various hybrid energy systems, including those 
+24
+identified in subsection (b); 
+25
+02:57 Dec 24, 2019
+H5428
+16 
+•HR 5428 IH
+‘‘(D) assessment of policy and market bar-
+1
+riers to the adoption of hybrid energy systems; 
+2
+‘‘(E) analysis of the technical and eco-
+3
+nomic feasibility of adoption of different hybrid 
+4
+energy systems; and 
+5
+‘‘(F) a 10-year roadmap to guide the pro-
+6
+gram established under subsection (a). 
+7
+‘‘(2) UPDATES.—Not less than once every 3 
+8
+years for the duration of this research program, the 
+9
+Secretary shall submit an updated version of the 
+10
+strategic plan to the Committee on Science, Space, 
+11
+and Technology of the House of Representatives and 
+12
+the Committee on Energy and Natural Resources of 
+13
+the Senate. 
+14
+‘‘(c) PROGRAM IMPLEMENTATION.—In carrying out 
+15
+the research, development, demonstration, and commercial 
+16
+application aims of section, the Secretary shall— 
+17
+‘‘(1) implement the recommendations set forth 
+18
+in the strategic plan in subsection (b); 
+19
+‘‘(2) coordinate across all relevant program of-
+20
+fices at the Department, including— 
+21
+‘‘(A) the Office of Energy Efficiency and 
+22
+Renewable Energy; 
+23
+‘‘(B) the Office of Nuclear Energy; and 
+24
+‘‘(C) the Office of Fossil Energy; 
+25
+02:57 Dec 24, 2019
+H5428
+17 
+•HR 5428 IH
+‘‘(3) leverage existing programs and resources 
+1
+of the Department; 
+2
+‘‘(4) prioritize activities that accelerate the de-
+3
+velopment of integrated electricity generation, stor-
+4
+age, and distribution systems with net zero green-
+5
+house gas emissions; and 
+6
+‘‘(5) comply with section 8 of the Grid Mod-
+7
+ernization Research and Development Act of 2019. 
+8
+‘‘(d) HYBRID ENERGY SYSTEM DEFINED.—The term 
+9
+‘hybrid energy system’ means a system composed of two 
+10
+or more co-located or jointly operated sub-systems of en-
+11
+ergy generation, energy storage, or other energy tech-
+12
+nologies.’’. 
+13
+SEC. 6. GRID INTEGRATION RESEARCH AND DEVELOP-
+14
+MENT. 
+15
+(a) 
+INTEGRATING
+DISTRIBUTED
+ENERGY
+RE-
+16
+SOURCES ONTO THE ELECTRIC GRID.—Section 925(a) of 
+17
+the Energy Policy Act of 2005 (42 U.S.C. 16215) is 
+18
+amended by— 
+19
+(1) redesignating paragraphs (10) and (11) as 
+20
+paragraphs (12) and (13), respectively; and 
+21
+(2) inserting after paragraph (9) the following: 
+22
+‘‘(10) the development of cost-effective tech-
+23
+nologies that enable two-way information and power 
+24
+02:57 Dec 24, 2019
+H5428
+18 
+•HR 5428 IH
+flow between distributed energy resources and the 
+1
+electric grid; 
+2
+‘‘(11) the development of technologies and con-
+3
+cepts that enable interoperability between distributed 
+4
+energy resources and other behind-the-meter devices 
+5
+and the electric grid;’’. 
+6
+(b) INTEGRATING RENEWABLE ENERGY ONTO THE 
+7
+ELECTRIC GRID.—Subtitle C of title IX of the Energy 
+8
+Policy Act of 2005 (42 U.S.C. 16231 et seq.) is amended 
+9
+by adding at the end the following: 
+10
+‘‘SEC. 936. RESEARCH AND DEVELOPMENT INTO INTE-
+11
+GRATING RENEWABLE ENERGY ONTO THE 
+12
+ELECTRIC GRID. 
+13
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+14
+the enactment of the Grid Modernization Research and 
+15
+Development Act of 2019, the Secretary shall establish a 
+16
+research, development, and demonstration program on 
+17
+technologies that enable integration of renewable energy 
+18
+generation sources onto the electric grid across multiple 
+19
+program offices of the Department. The program shall in-
+20
+clude— 
+21
+‘‘(1) forecasting for predicting generation from 
+22
+variable renewable energy sources; 
+23
+‘‘(2) development of cost-effective low-loss, long- 
+24
+distance transmission lines; and 
+25
+02:57 Dec 24, 2019
+H5428
+19 
+•HR 5428 IH
+‘‘(3) development of cost-effective advanced 
+1
+technologies 
+for 
+variable 
+renewable 
+generation 
+2
+sources to provide grid services. 
+3
+‘‘(b) COORDINATION.—In carrying out this program, 
+4
+the Secretary shall— 
+5
+‘‘(1) coordinate across all relevant program of-
+6
+fices at the Department to achieve the goals estab-
+7
+lished in this section, including the Office of Elec-
+8
+tricity; and 
+9
+‘‘(2) comply with section 8 of the Grid Mod-
+10
+ernization Research and Development Act of 2019. 
+11
+‘‘(c) ADOPTION OF TECHNOLOGIES.—In carrying out 
+12
+this section, the Secretary shall consider barriers to adop-
+13
+tion and commercial application of technologies that en-
+14
+able integration of renewable energy sources onto the elec-
+15
+tric grid, including cost and other economic barriers, and 
+16
+shall coordinate with relevant entities to reduce these bar-
+17
+riers.’’. 
+18
+(c) INTEGRATING ELECTRIC VEHICLES ONTO THE 
+19
+ELECTRIC GRID.—Subtitle B of title I of the Energy Inde-
+20
+pendence and Security Act of 2007 (42 U.S.C. 17011 et 
+21
+seq.) is amended by adding at the end the following: 
+22
+02:57 Dec 24, 2019
+H5428
+20 
+•HR 5428 IH
+‘‘SEC. 137. RESEARCH AND DEVELOPMENT INTO INTE-
+1
+GRATING ELECTRIC VEHICLES ONTO THE 
+2
+ELECTRIC GRID. 
+3
+‘‘(a) IN GENERAL.—The Secretary shall establish a 
+4
+research, development, and demonstration program to ad-
+5
+vance the integration of electric vehicles, including plug- 
+6
+in hybrid electric vehicles, onto the electric grid. 
+7
+‘‘(b) VEHICLES-TO-GRID INTEGRATION ASSESSMENT 
+8
+REPORT.—Not later than 1 year after the enactment of 
+9
+the Grid Modernization Research and Development Act of 
+10
+2019, the Secretary shall submit to the Committee on 
+11
+Science, Space, and Technology of the House of Rep-
+12
+resentatives and the Committee on Energy and Natural 
+13
+Resources of the Senate a report on the results of a study 
+14
+that examines the research, development, and demonstra-
+15
+tion opportunities, challenges, and standards needed for 
+16
+integrating electric vehicles onto the electric grid. 
+17
+‘‘(1) REPORT
+REQUIREMENTS.—The report 
+18
+shall include— 
+19
+‘‘(A) an evaluation of the use of electric ve-
+20
+hicles to maintain the reliability of the electric 
+21
+grid, including— 
+22
+‘‘(i) the use of electric vehicles for de-
+23
+mand response, load shaping, emergency 
+24
+power, and frequency regulation; and 
+25
+02:57 Dec 24, 2019
+H5428
+21 
+•HR 5428 IH
+‘‘(ii) the potential for the reuse of 
+1
+spent electric vehicle batteries for sta-
+2
+tionary grid storage; 
+3
+‘‘(B) the impact of grid integration on 
+4
+electric vehicles, including— 
+5
+‘‘(i) the impact of bi-directional elec-
+6
+tricity flow on battery degradation; and 
+7
+‘‘(ii) the implications of the use of 
+8
+electric vehicles for grid services on origi-
+9
+nal equipment manufacturer warranties; 
+10
+‘‘(C) the impacts to the electric grid of in-
+11
+creased penetration of electric vehicles, includ-
+12
+ing— 
+13
+‘‘(i) the distribution grid infrastruc-
+14
+ture needed to support an increase in 
+15
+charging capacity; 
+16
+‘‘(ii) strategies for integrating electric 
+17
+vehicles onto the distribution grid while 
+18
+limiting infrastructure upgrades; 
+19
+‘‘(iii) the changes in electricity de-
+20
+mand over a 24-hour cycle due to electric 
+21
+vehicle charging behavior; 
+22
+‘‘(iv) the load increases expected from 
+23
+electrifying the transportation sector; 
+24
+02:57 Dec 24, 2019
+H5428
+22 
+•HR 5428 IH
+‘‘(v) the potential for customer incen-
+1
+tives and other managed charging stations 
+2
+strategies to shift charging off-peak; 
+3
+‘‘(vi) the technology needed to achieve 
+4
+bi-directional power flow on the distribu-
+5
+tion grid; and 
+6
+‘‘(vii) the implementation of smart 
+7
+charging techniques; 
+8
+‘‘(D) research on the standards needed to 
+9
+integrate electric vehicles with the grid, includ-
+10
+ing communications systems, protocols, and 
+11
+charging stations, in collaboration with the Na-
+12
+tional Institute for Standards and Technology; 
+13
+‘‘(E) the cybersecurity challenges and 
+14
+needs associated with electrifying the transpor-
+15
+tation sector; and 
+16
+‘‘(F) an assessment of the feasibility of 
+17
+adopting technologies developed under the pro-
+18
+gram established under subsection (a) at De-
+19
+partment facilities. 
+20
+‘‘(2) RECOMMENDATIONS.—As part of the Ve-
+21
+hicles-to-Grid Integration Assessment Report, the 
+22
+Secretary shall develop a 10-year roadmap to guide 
+23
+the research, development, and demonstration pro-
+24
+02:57 Dec 24, 2019
+H5428
+23 
+•HR 5428 IH
+gram to integrate electric vehicles onto the electric 
+1
+grid. 
+2
+‘‘(3) CONSULTATION.—In developing this re-
+3
+port, the Secretary shall consult with relevant stake-
+4
+holders, including— 
+5
+‘‘(A) electric vehicle manufacturers; 
+6
+‘‘(B) electric utilities; 
+7
+‘‘(C) public utility commissions; 
+8
+‘‘(D) vehicle battery manufacturers; 
+9
+‘‘(E) electric vehicle supply equipment 
+10
+manufacturers; 
+11
+‘‘(F) charging infrastructure manufactur-
+12
+ers; 
+13
+‘‘(G) the National Laboratories; and 
+14
+‘‘(H) other Federal agencies, as the Sec-
+15
+retary determines appropriate. 
+16
+‘‘(4) UPDATES.—The Secretary shall update 
+17
+the report required under this section every 3 years 
+18
+for the duration of the program under section (a) 
+19
+and shall submit the updated report to the Com-
+20
+mittee on Science, Space, and Technology of the 
+21
+House of Representatives and the Committee on En-
+22
+ergy and Natural Resources of the Senate. 
+23
+02:57 Dec 24, 2019
+H5428
+24 
+•HR 5428 IH
+‘‘(c) PROGRAM IMPLEMENTATION.—In carrying out 
+1
+the research, development, demonstration, and commercial 
+2
+application aims of section, the Secretary shall— 
+3
+‘‘(1) implement the recommendations set forth 
+4
+in the report in subsection (b); 
+5
+‘‘(2) coordinate across all relevant program of-
+6
+fices at the Department to achieve the goals estab-
+7
+lished in this section, including the Office of Elec-
+8
+tricity; and 
+9
+‘‘(3) comply with section 8 of the Grid Mod-
+10
+ernization Research and Development Act of 2019. 
+11
+‘‘(d) TESTING CAPABILITIES.—The Secretary shall 
+12
+coordinate with the National Laboratories to develop test-
+13
+ing capabilities for the evaluation, rapid prototyping, and 
+14
+optimization of technologies enabling integration of elec-
+15
+tric vehicles onto the electric grid.’’. 
+16
+(d) RESEARCH AND DEVELOPMENT ON INTEGRATING 
+17
+BUILDINGS ONTO THE ELECTRIC GRID.—Subtitle B of 
+18
+title IV of the Energy Independence and Security Act of 
+19
+2007 (42 U.S.C. 17081 et seq.) is amended by adding at 
+20
+the end the following: 
+21
+‘‘SEC. 426. ADVANCED INTEGRATION OF BUILDINGS ONTO 
+22
+THE ELECTRIC GRID. 
+23
+‘‘(a) IN GENERAL.—The Secretary shall establish a 
+24
+program of research, development, and demonstration to 
+25
+02:57 Dec 24, 2019
+H5428
+25 
+•HR 5428 IH
+enable components of commercial and residential buildings 
+1
+to serve as dynamic energy loads on and resources for the 
+2
+electric grid. The program shall focus on— 
+3
+‘‘(1) developing low-cost, low power, wireless 
+4
+sensors to— 
+5
+‘‘(A) monitor building energy load; 
+6
+‘‘(B) forecast building energy need; and 
+7
+‘‘(C) enable building-level energy control; 
+8
+‘‘(2) developing data management capabilities 
+9
+and standard communication protocols to further 
+10
+interoperability at the building and grid-level; 
+11
+‘‘(3) developing advanced building-level energy 
+12
+management of components through integration of 
+13
+smart technologies, control systems, and data proc-
+14
+essing, to enable energy efficiency and savings; 
+15
+‘‘(4) optimizing energy consumption at the 
+16
+building level to enable grid stability and resilience; 
+17
+‘‘(5) improving visualization of behind the 
+18
+meter equipment and technologies to provide better 
+19
+insight into the energy needs and energy forecasts of 
+20
+individual buildings; 
+21
+‘‘(6) reducing the cost of key components to ac-
+22
+celerate the adoption of smart building technologies; 
+23
+02:57 Dec 24, 2019
+H5428
+26 
+•HR 5428 IH
+‘‘(7) protecting against cybersecurity threats 
+1
+and addressing security vulnerabilities of building 
+2
+systems or equipment; and 
+3
+‘‘(8) other areas determined appropriate by the 
+4
+Secretary. 
+5
+‘‘(b) CONSIDERATIONS.—In carrying out the pro-
+6
+gram under subsection (a), the Secretary shall— 
+7
+‘‘(1) work with utility partners, building own-
+8
+ers, technology vendors, and building developers to 
+9
+test and validate technologies and encourage the 
+10
+commercial application of these technologies by 
+11
+building owners; and 
+12
+‘‘(2) consider the specific challenges of enabling 
+13
+greater interaction between components of— 
+14
+‘‘(A) small- and medium-sized buildings 
+15
+and the electric grid; and 
+16
+‘‘(B) residential and commercial buildings 
+17
+and the electric grid. 
+18
+‘‘(c) BUILDINGS-TO-GRID INTEGRATION REPORT.— 
+19
+Not later than one year after the enactment of the Grid 
+20
+Modernization Research and Development Act of 2019, 
+21
+the Secretary shall submit to the Committee on Science, 
+22
+Space, and Technology of the House of Representatives 
+23
+and the Committee on Energy and Natural Resources of 
+24
+the Senate a report on the results of a study that examines 
+25
+02:57 Dec 24, 2019
+H5428
+27 
+•HR 5428 IH
+the research, development, and demonstration opportuni-
+1
+ties, challenges, and standards needed to enable compo-
+2
+nents of commercial and residential buildings to serve as 
+3
+dynamic energy loads on and resources for the electric 
+4
+grid. 
+5
+‘‘(1) REPORT
+REQUIREMENTS.—The report 
+6
+shall include— 
+7
+‘‘(A) an assessment of the technologies 
+8
+needed to enable building components as dy-
+9
+namic loads on and resources for the electric 
+10
+grid, including how such technologies can be— 
+11
+‘‘(i) incorporated into new commercial 
+12
+and residential buildings; and 
+13
+‘‘(ii) retrofitted in older buildings; 
+14
+‘‘(B) guidelines for the design of new 
+15
+buildings and building components to enable 
+16
+modern grid interactivity and improve energy 
+17
+efficiency; 
+18
+‘‘(C) an assessment of barriers to the 
+19
+adoption by building owners of advanced tech-
+20
+nologies enabling greater integration of building 
+21
+components onto the electric grid; and 
+22
+‘‘(D) an assessment of the feasibility of 
+23
+adopting technologies developed under the pro-
+24
+02:57 Dec 24, 2019
+H5428
+28 
+•HR 5428 IH
+gram established under subsection (a) at De-
+1
+partment facilities. 
+2
+‘‘(2) RECOMMENDATIONS.—As part of the re-
+3
+port, the Secretary shall develop a 10-year roadmap 
+4
+to guide the research, development, and demonstra-
+5
+tion program to enable components of commercial 
+6
+and residential buildings to serve as dynamic energy 
+7
+loads on and resources for the electric grid. 
+8
+‘‘(3) UPDATES.—The Secretary shall update 
+9
+the report required under this section every 3 years 
+10
+for the duration of the program under subsection (a) 
+11
+and shall submit the updated report to the Com-
+12
+mittee on Science, Space, and Technology of the 
+13
+House of Representatives and the Committee on En-
+14
+ergy and Natural Resources of the Senate. 
+15
+‘‘(d) PROGRAM IMPLEMENTATION.—In carrying out 
+16
+this section, the Secretary shall— 
+17
+‘‘(1) implement the recommendations from the 
+18
+report in subsection (c); 
+19
+‘‘(2) coordinate across all relevant program of-
+20
+fices at the Department to achieve the goals estab-
+21
+lished in this section, including the Office of Elec-
+22
+tricity; and 
+23
+‘‘(3) comply with section 8 of the Grid Mod-
+24
+ernization Research and Development Act of 2019.’’. 
+25
+02:57 Dec 24, 2019
+H5428
+29 
+•HR 5428 IH
+SEC. 7. INDUSTRY ALLIANCE. 
+1
+Title XIII of the Energy Independence and Security 
+2
+Act of 2007 (42 U.S.C. 17381 et. seq.), as amended, is 
+3
+amended by adding at the end the following: 
+4
+‘‘SEC. 1312. INDUSTRY ALLIANCE. 
+5
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+6
+the enactment of the Grid Modernization Research and 
+7
+Development Act of 2019, the Secretary shall establish an 
+8
+advisory committee (to be known as the ‘Industry Alli-
+9
+ance’) to advise the Secretary on the authorization of re-
+10
+search, development, and demonstration projects under 
+11
+sections 1304 and 1304a. 
+12
+‘‘(b) MEMBERSHIP.—The Industry Alliance shall be 
+13
+composed of members selected by the Secretary that, as 
+14
+a group, are broadly representative of United States elec-
+15
+tric grid research, development, infrastructure, operations, 
+16
+and manufacturing expertise. 
+17
+‘‘(c) RESPONSIBILITY.—The Secretary shall annually 
+18
+solicit from the Industry Alliance— 
+19
+‘‘(1) comments to identify grid modernization 
+20
+technology needs; 
+21
+‘‘(2) an assessment of the progress of the re-
+22
+search activities on grid modernization; and 
+23
+‘‘(3) assistance in annually updating grid mod-
+24
+ernization technology roadmaps.’’. 
+25
+02:57 Dec 24, 2019
+H5428
+30 
+•HR 5428 IH
+SEC. 8. COORDINATION OF EFFORTS. 
+1
+In carrying out the amendments made by this Act, 
+2
+the Secretary shall coordinate with relevant entities to the 
+3
+maximum extent practicable, including— 
+4
+(1) electric utilities; 
+5
+(2) private sector entities; 
+6
+(3) representatives of all sectors of the electric 
+7
+power industry; 
+8
+(4) transmission organizations; 
+9
+(5) transmission owners and operators; 
+10
+(6) distribution organizations; 
+11
+(7) distribution asset owners and operators; 
+12
+(8) State and local governments and regulatory 
+13
+authorities; 
+14
+(9) academic institutions; 
+15
+(10) the National Laboratories; 
+16
+(11) other Federal agencies; 
+17
+(12) nonprofit organizations; 
+18
+(13) the Federal Energy Regulatory Commis-
+19
+sion; 
+20
+(14) the North American Reliability Corpora-
+21
+tion; 
+22
+(15) independent system operators; and 
+23
+(16) programs and program offices at the De-
+24
+partment. 
+25
+02:57 Dec 24, 2019
+H5428
+31 
+•HR 5428 IH
+SEC. 9. DEFINITIONS. 
+1
+Title XIII of the Energy Independence and Security 
+2
+Act of 2007 (42 U.S.C. 17381 et. seq.), as amended, is 
+3
+amended by adding at the end the following: 
+4
+‘‘SEC. 1313. DEFINITIONS. 
+5
+‘‘In this title, the following definitions apply: 
+6
+‘‘(1) CRITICAL
+FACILITY.—The term ‘critical 
+7
+facility’ means a manmade structure that the Sec-
+8
+retary determines vital to socioeconomic activities 
+9
+such that, if destroyed or damaged, such destruction 
+10
+or damage could cause substantial disruption to 
+11
+such socioeconomic activities. 
+12
+‘‘(2) DISTRIBUTION
+AUTOMATION.—The term 
+13
+‘distribution automation’ means systems and tech-
+14
+nologies that exert intelligent control over electrical 
+15
+grid functions at the distribution level. 
+16
+‘‘(3) RESILIENCE.—The term ‘resilience’ means 
+17
+the ability to withstand and reduce the magnitude or 
+18
+duration of disruptive events, which includes the ca-
+19
+pability to anticipate, absorb, adapt to, or rapidly re-
+20
+cover from such an event, including from deliberate 
+21
+attacks, accidents, and naturally occurring threats 
+22
+or incidents.’’. 
+23
+SEC. 10. TECHNICAL AMENDMENTS; AUTHORIZATION OF 
+24
+APPROPRIATIONS. 
+25
+(a) TECHNICAL AMENDMENTS.— 
+26
+02:57 Dec 24, 2019
+H5428
+32 
+•HR 5428 IH
+(1) ENERGY
+INDEPENDENCE
+AND
+SECURITY 
+1
+ACT OF 2007.—Section 1(b) of the Energy Independ-
+2
+ence and Security Act of 2007 is amended in the 
+3
+table of contents— 
+4
+(A) by inserting the following after the 
+5
+item related to section 136: 
+6
+‘‘Sec. 137. Research and development into integrating electric vehicles onto the 
+electric grid.’’. 
+(B) by inserting the following after the 
+7
+item related to section 425: 
+8
+‘‘Sec. 426. Advanced integration of buildings onto the electric grid.’’. 
+(C) by inserting the following after the 
+9
+item related to section 1304: 
+10
+‘‘Sec. 1304a. Smart grid modeling, visualization, architecture, and controls.’’; 
+and 
+(D) by inserting the following after the 
+11
+item related to section 1309: 
+12
+‘‘Sec. 1310. Grid resilience and emergency response. 
+‘‘Sec. 1311. Hybrid energy systems. 
+‘‘Sec. 1312. Industry Alliance. 
+‘‘Sec. 1313. Definitions.’’. 
+(2) ENERGY POLICY ACT OF 2005.—Section 1(b) 
+13
+of the Energy Policy Act of 2005 is amended in the 
+14
+table of contents by inserting the following after the 
+15
+item related to section 935: 
+16
+‘‘Sec. 936. Research and development into integrating renewable energy onto 
+the electric grid.’’. 
+(b) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+17
+are authorized to be appropriated— 
+18
+02:57 Dec 24, 2019
+H5428
+33 
+•HR 5428 IH
+(1) to carry out sections 7 and 8 and the 
+1
+amendments made by sections 2 and 3 of this Act— 
+2
+(A) $170,000,000 for fiscal year 2020; 
+3
+(B) $175,000,000 for fiscal year 2021; 
+4
+(C) $180,000,000 for fiscal year 2022; 
+5
+(D) $185,000,000 for fiscal year 2023; 
+6
+and 
+7
+(E) $190,000,000 for fiscal year 2024; 
+8
+(2) to carry out section 5 of this Act— 
+9
+(A) $20,000,000 for fiscal year 2020; 
+10
+(B) $21,000,000 for fiscal year 2021; 
+11
+(C) $22,050,000 for fiscal year 2022; 
+12
+(D) $23,153,000 for fiscal year 2023; and 
+13
+(E) $24,310,000 for fiscal year 2024; and 
+14
+(3) to carry out section 6 of this Act— 
+15
+(A) $50,000,000 for fiscal year 2020; 
+16
+(B) $52,500,000 for fiscal year 2021; 
+17
+(C) $55,152,000 for fiscal year 2022; 
+18
+(D) $57,882,000 for fiscal year 2023; and 
+19
+(E) $60,775,000 for fiscal year 2024. 
+20
+Æ 
+02:57 Dec 24, 2019
+H5428

@@ -1,0 +1,831 @@
+A BILL 
+To amend title XXVII of the Public Health Service Act 
+to require health plan oversight of pharmacy benefit 
+manager services, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘PBM Transparency 
+4
+in Prescription Drug Costs Act’’. 
+5
+SEC. 2. HEALTH PLAN OVERSIGHT OF PHARMACY BENEFIT 
+6
+MANAGER SERVICES. 
+7
+Subpart II of part A of title XXVII of the Public 
+8
+Health Service Act (42 U.S.C. 300gg–11 et seq.) is 
+9
+amended by adding at the end the following: 
+10
+03:44 Dec 11, 2019
+H5304
+2 
+•HR 5304 IH
+‘‘SEC. 2729A. HEALTH PLAN OVERSIGHT OF PHARMACY 
+1
+BENEFIT MANAGER SERVICES. 
+2
+‘‘(a) IN GENERAL.—A group health plan or health 
+3
+insurance issuer offering group or individual health insur-
+4
+ance coverage or an entity or subsidiary providing phar-
+5
+macy benefits management services shall not enter into 
+6
+a contract with a drug manufacturer, distributor, whole-
+7
+saler, subcontractor, rebate aggregator, or any associated 
+8
+third party that limits the disclosure of information to 
+9
+plan sponsors in such a manner that prevents the plan 
+10
+or coverage, or an entity or subsidiary providing pharmacy 
+11
+benefits management services on behalf of a plan or cov-
+12
+erage from making the reports described in subsection (b). 
+13
+‘‘(b) REPORTS TO GROUP PLAN SPONSORS.— 
+14
+‘‘(1) IN
+GENERAL.—Beginning with the first 
+15
+plan year that begins after the date of enactment of 
+16
+this section, not less frequently than once every six 
+17
+months, a health insurance issuer offering group 
+18
+health insurance coverage or an entity providing 
+19
+pharmacy benefits management services on behalf of 
+20
+a group health plan shall submit to the self-funded 
+21
+group health plan and at the request of any other 
+22
+group health plan a report in accordance with this 
+23
+subsection and make such report available to the 
+24
+plan sponsor in a machine-readable format. Each 
+25
+03:44 Dec 11, 2019
+H5304
+3 
+•HR 5304 IH
+such report shall include, with respect to the applica-
+1
+ble group health plan or health insurance coverage— 
+2
+‘‘(A) information collected from drug man-
+3
+ufacturers by such issuer or entity on the total 
+4
+amount of copayment assistance dollars paid, or 
+5
+copayment cards applied, that were funded by 
+6
+the drug manufacturer with respect to the en-
+7
+rollees in such plan or coverage; 
+8
+‘‘(B) a list of each covered drug dispensed 
+9
+during the reporting period, including, with re-
+10
+spect to each such drug during the reporting 
+11
+period— 
+12
+‘‘(i) the brand name, chemical entity, 
+13
+and National Drug Code; 
+14
+‘‘(ii) the number of enrollees for 
+15
+whom the drug was filled during the plan 
+16
+year, the total number of prescription fills 
+17
+for the drug (including original prescrip-
+18
+tions and refills), and the total number of 
+19
+dosage units of the drug dispensed across 
+20
+the plan year, including whether the dis-
+21
+pensing channel was by retail, mail order, 
+22
+or specialty pharmacy; 
+23
+‘‘(iii) the wholesale acquisition cost, 
+24
+listed as cost per days supply and cost per 
+25
+03:44 Dec 11, 2019
+H5304
+4 
+•HR 5304 IH
+pill, or in the case of a drug in another 
+1
+form, per dose; 
+2
+‘‘(iv) the total out-of-pocket spending 
+3
+by enrollees on such drug, including en-
+4
+rollee spending through copayments, coin-
+5
+surance, and deductibles; and 
+6
+‘‘(v) for any drug for which gross 
+7
+spending of the group health plan or 
+8
+health 
+insurance 
+coverage 
+exceeded 
+9
+$10,000 during the reporting period— 
+10
+‘‘(I) a list of all other available 
+11
+drugs in the same therapeutic cat-
+12
+egory or class, including brand name 
+13
+drugs and biological products and ge-
+14
+neric drugs or biosimilar biological 
+15
+products that are in the same thera-
+16
+peutic category or class; and 
+17
+‘‘(II) the rationale for preferred 
+18
+formulary placement of a particular 
+19
+drug or drugs in that therapeutic cat-
+20
+egory or class; 
+21
+‘‘(C) a list of each therapeutic category or 
+22
+class of drugs that were dispensed under the 
+23
+health plan or health insurance coverage during 
+24
+the reporting period, and, with respect to each 
+25
+03:44 Dec 11, 2019
+H5304
+5 
+•HR 5304 IH
+such therapeutic category or class of drugs, 
+1
+during the reporting period— 
+2
+‘‘(i) total gross spending by the plan, 
+3
+before manufacturer rebates, fees, or other 
+4
+manufacturer remuneration; 
+5
+‘‘(ii) the number of enrollees who 
+6
+filled a prescription for a drug in that cat-
+7
+egory or class; 
+8
+‘‘(iii) if applicable to that category or 
+9
+class, a description of the formulary tiers 
+10
+and utilization mechanisms (such as prior 
+11
+authorization or step therapy) employed 
+12
+for drugs in that category or class; 
+13
+‘‘(iv) the total out-of-pocket spending 
+14
+by enrollees, including enrollee spending 
+15
+through copayments, coinsurance, and 
+16
+deductibles; and 
+17
+‘‘(v) for each therapeutic category or 
+18
+class under which three or more drugs are 
+19
+marketed and available— 
+20
+‘‘(I) the amount received, or ex-
+21
+pected to be received, from drug man-
+22
+ufacturers in rebates, fees, alternative 
+23
+discounts, or other remuneration— 
+24
+03:44 Dec 11, 2019
+H5304
+6 
+•HR 5304 IH
+‘‘(aa) to be paid by drug 
+1
+manufacturers for claims in-
+2
+curred during the reporting pe-
+3
+riod; or 
+4
+‘‘(bb) that is related to utili-
+5
+zation of drugs, in such thera-
+6
+peutic category or class; 
+7
+‘‘(II) the total net spending by 
+8
+the health plan or health insurance 
+9
+coverage on that category or class of 
+10
+drugs; and 
+11
+‘‘(III) the net price per dosage 
+12
+unit or course of treatment incurred 
+13
+by the health plan or health insurance 
+14
+coverage and its enrollees, after man-
+15
+ufacturer rebates, fees, and other re-
+16
+muneration for drugs dispensed within 
+17
+such therapeutic category or class 
+18
+during the reporting period; 
+19
+‘‘(D) total gross spending on prescription 
+20
+drugs by the plan or coverage during the re-
+21
+porting period, before rebates and other manu-
+22
+facturer fees or remuneration; 
+23
+‘‘(E) total amount received, or expected to 
+24
+be received, by the health plan or health insur-
+25
+03:44 Dec 11, 2019
+H5304
+7 
+•HR 5304 IH
+ance coverage in drug manufacturer rebates, 
+1
+fees, alternative discounts, and all other remu-
+2
+neration received from the manufacturer or any 
+3
+third party related to utilization of drug or 
+4
+drug spending under that health plan or health 
+5
+insurance coverage during the reporting period; 
+6
+‘‘(F) the total net spending on prescription 
+7
+drugs by the health plan or health insurance 
+8
+coverage during the reporting period; and 
+9
+‘‘(G) amounts paid directly or indirectly in 
+10
+rebates, fees, or any other type of remuneration 
+11
+to brokers, consultants, advisors, or any other 
+12
+individual or firm who referred the group health 
+13
+plan’s or health insurance issuer’s business to 
+14
+the pharmacy benefit manager. 
+15
+‘‘(2) PRIVACY REQUIREMENTS.—Health insur-
+16
+ance issuers offering group health insurance cov-
+17
+erage and entities providing pharmacy benefits man-
+18
+agement services on behalf of a group health plan 
+19
+shall provide information under paragraph (1) in a 
+20
+manner consistent with the privacy, security, and 
+21
+breach notification regulations promulgated under 
+22
+section 264(c) of the Health Insurance Portability 
+23
+and Accountability Act of 1996 (or successor regula-
+24
+tions), and shall restrict the use and disclosure of 
+25
+03:44 Dec 11, 2019
+H5304
+8 
+•HR 5304 IH
+such information according to such privacy regula-
+1
+tions. 
+2
+‘‘(3) DISCLOSURE AND REDISCLOSURE.— 
+3
+‘‘(A) LIMITATION
+TO
+BUSINESS
+ASSOCI-
+4
+ATES.—A group health plan receiving a report 
+5
+under paragraph (1) may disclose such informa-
+6
+tion only to business associates of such plan as 
+7
+defined in section 160.103 of title 45, Code of 
+8
+Federal Regulations (or successor regulations). 
+9
+‘‘(B) CLARIFICATION REGARDING PUBLIC 
+10
+DISCLOSURE
+OF
+INFORMATION.—Nothing in 
+11
+this section prevents a health insurance issuer 
+12
+offering group health insurance coverage or an 
+13
+entity providing pharmacy benefits management 
+14
+services on behalf of a group health plan from 
+15
+placing reasonable restrictions on the public dis-
+16
+closure of the information contained in a report 
+17
+described in paragraph (1). 
+18
+‘‘(c) LIMITATIONS ON SPREAD PRICING.— 
+19
+‘‘(1) PASS-THROUGH OFFERING TO PLAN.—A 
+20
+designated plan administrator of an applicable self- 
+21
+insured health plan, or an entity providing pharmacy 
+22
+benefit management services to such health plan 
+23
+shall offer at least one contractual arrangement that 
+24
+does not charge the plan or enrollee, a price for a 
+25
+03:44 Dec 11, 2019
+H5304
+9 
+•HR 5304 IH
+prescription drug that exceeds the price paid to the 
+1
+pharmacy, excluding penalties or fees paid by phar-
+2
+macies to such plan, issuer, or entity. 
+3
+‘‘(2) DEFAULT TO PASS-THROUGH PRICING.— 
+4
+For purposes of paragraph (1), a designated plan 
+5
+administrator of an applicable self-insured health 
+6
+plan, or an entity providing pharmacy benefit man-
+7
+agement services to such health plan shall not 
+8
+charge the plan or enrollee an amount for a 
+9
+presciption drug that exceeds the price paid to the 
+10
+pharmacy, excluding penalties paid by pharmacies to 
+11
+such plan or entity, without the express permission 
+12
+of the health plan sponsor. 
+13
+‘‘(3) SUPPLEMENTARY REPORTING FOR INTRA- 
+14
+COMPANY PRESCRIPTION DRUG TRANSACTIONS.—A 
+15
+health insurance issuer of group health insurance 
+16
+coverage or an entity providing pharmacy benefits 
+17
+management services under a group health plan or 
+18
+group health insurance coverage that conducts 
+19
+transactions with a wholly or partially owned phar-
+20
+macy, as described in paragraph (2), shall submit, 
+21
+together with the report under subsection (b), a sup-
+22
+plementary quarterly report to the plan sponsor that 
+23
+includes— 
+24
+03:44 Dec 11, 2019
+H5304
+10 
+•HR 5304 IH
+‘‘(A) an explanation of any benefit design 
+1
+parameters that encourage enrollees in the plan 
+2
+or coverage to fill prescriptions at mail order, 
+3
+specialty, or retail pharmacies that are wholly 
+4
+or partially owned by that issuer or entity; 
+5
+‘‘(B) the percentage of total prescriptions 
+6
+charged to the plan, coverage, or enrollees in 
+7
+the plan or coverage, that were dispensed by 
+8
+mail order, specialty, or retail pharmacies that 
+9
+are wholly or partially owned by the issuer or 
+10
+entity providing pharmacy benefits management 
+11
+services; and 
+12
+‘‘(C) a list of all drugs dispensed by such 
+13
+wholly or partially owned pharmacy and 
+14
+charged to the plan or coverage, or enrollees of 
+15
+the plan or coverage, during the applicable 
+16
+quarter, and, with respect to each drug— 
+17
+‘‘(i) the amount charged per dosage 
+18
+unit or course of treatment with respect to 
+19
+enrollees in the plan or coverage, including 
+20
+amounts charged to the plan or coverage 
+21
+and amounts charged to the enrollee; 
+22
+‘‘(ii) the median amount charged to 
+23
+the plan or coverage, per dosage unit or 
+24
+course 
+of 
+treatment, 
+and 
+including 
+25
+03:44 Dec 11, 2019
+H5304
+11 
+•HR 5304 IH
+amounts paid by the enrollee, when the 
+1
+same drug is dispensed by other phar-
+2
+macies that are not wholly or partially 
+3
+owned by the issuer or entity and that are 
+4
+included in the pharmacy network of that 
+5
+plan or coverage; 
+6
+‘‘(iii) the interquartile range of the 
+7
+costs, per dosage unit or course of treat-
+8
+ment, and including amounts paid by the 
+9
+enrollee, when the same drug is dispensed 
+10
+by other pharmacies that are not wholly or 
+11
+partially owned by the issuer or entity and 
+12
+that are included in the pharmacy network 
+13
+of that plan or coverage; and 
+14
+‘‘(iv) the lowest cost per dosage unit 
+15
+or course of treatment, for such drug, in-
+16
+cluding amounts charged to the plan or 
+17
+issuer and enrollee, that is available from 
+18
+any pharmacy included in the network of 
+19
+the plan or coverage. 
+20
+‘‘(d) FULL REBATE PASS-THROUGH TO PLAN.— 
+21
+‘‘(1) IN GENERAL.—A pharmacy benefits man-
+22
+ager, a third-party administrator of a group health 
+23
+plan, a health insurance issuer offering group health 
+24
+insurance coverage, or an entity providing pharmacy 
+25
+03:44 Dec 11, 2019
+H5304
+12 
+•HR 5304 IH
+benefits management services under such health 
+1
+plan or health insurance coverage shall remit 100 
+2
+percent of rebates, fees, alternative discounts, and 
+3
+all other remuneration received from a pharma-
+4
+ceutical manufacturer, distributor or any other third 
+5
+party, that are related to utilization of drugs under 
+6
+such health plan or health insurance coverage, to the 
+7
+health plan issuer. 
+8
+‘‘(2) FORM AND MANNER OF REMITTANCE.— 
+9
+Such rebates, fees, alternative discounts, and other 
+10
+remuneration shall be— 
+11
+‘‘(A) remitted to the group health plan in 
+12
+a timely fashion after the period for which such 
+13
+rebates, fees, or other remuneration is cal-
+14
+culated, and in no case later than 120 days 
+15
+after the end of such period; 
+16
+‘‘(B) fully disclosed and enumerated to the 
+17
+group health plan sponsor, as described in 
+18
+(b)(1); 
+19
+‘‘(C) available for audit by the plan spon-
+20
+sor, or a third party designated by a plan spon-
+21
+sor no less than once per plan year; and 
+22
+‘‘(D) returned to the issuer or entity pro-
+23
+viding 
+pharmaceutical 
+benefit 
+management 
+24
+services by the group health plan if audits by 
+25
+04:56 Dec 12, 2019
+H5304
+13 
+•HR 5304 IH
+such issuer or entity indicate that the amounts 
+1
+received are incorrect after such amounts have 
+2
+been paid to the group health plan. 
+3
+‘‘(3) AUDIT OF REBATE CONTRACTS.—A phar-
+4
+macy benefits manager, a third-party administrator 
+5
+of a group health plan, a health insurance issuer of-
+6
+fering a group health insurance coverage, or an enti-
+7
+ty providing pharmacy benefits management services 
+8
+under such health plan or health insurance coverage 
+9
+shall make rebate contracts with drug manufactur-
+10
+ers available for audit by such plan sponsor or des-
+11
+ignated third party, subject to confidentiality agree-
+12
+ments to prevent re-disclosure of such contracts. 
+13
+‘‘(e) ENFORCEMENT.— 
+14
+‘‘(1) IN GENERAL.—The Secretary, in consulta-
+15
+tion with the Secretary of Labor and the Secretary 
+16
+of the Treasury, shall enforce this section. 
+17
+‘‘(2) FAILURE TO PROVIDE TIMELY INFORMA-
+18
+TION.—A health insurance issuer or an entity pro-
+19
+viding pharmacy benefit management services that 
+20
+violates subsection (a), fails to provide information 
+21
+required under subsection (b), engages in spread 
+22
+pricing as defined in subsection (c), or fails to com-
+23
+ply with the requirements of subsection (d), or a 
+24
+drug manufacturer that fails to provide information 
+25
+03:44 Dec 11, 2019
+H5304
+14 
+•HR 5304 IH
+under subsection (b)(1)(A), in a timely manner shall 
+1
+be subject to a civil monetary penalty in the amount 
+2
+of $10,000 for each day during which such violation 
+3
+continues or such information is not disclosed or re-
+4
+ported. 
+5
+‘‘(3) FALSE INFORMATION.—A health insurance 
+6
+issuer, entity providing pharmacy benefit manage-
+7
+ment services, or drug manufacturer that knowingly 
+8
+provides false information under this section shall be 
+9
+subject to a civil money penalty in an amount not 
+10
+to exceed $100,000 for each item of false informa-
+11
+tion. Such civil money penalty shall be in addition to 
+12
+other penalties as may be prescribed by law. 
+13
+‘‘(4) PROCEDURE.—The provisions of section 
+14
+1128A of the Social Security Act, other than sub-
+15
+sections (a) and (b) and the first sentence of sub-
+16
+section (c)(1) of such section shall apply to civil 
+17
+monetary penalties under this subsection in the 
+18
+same manner as such provisions apply to a penalty 
+19
+or proceeding under section 1128A of the Social Se-
+20
+curity Act. 
+21
+‘‘(5) SAFE HARBOR.—The Secretary may waive 
+22
+penalties under paragraph (2), or extend the period 
+23
+of time for compliance with a requirement of this 
+24
+section, for an entity in violation of this section that 
+25
+04:56 Dec 12, 2019
+H5304
+15 
+•HR 5304 IH
+has made a good-faith effort to comply with this sec-
+1
+tion. 
+2
+‘‘(f) RULE OF CONSTRUCTION.—Nothing in this sec-
+3
+tion shall be construed to prohibit entities providing phar-
+4
+macy benefits management services from retaining bona 
+5
+fide service fees, provided that such fees are transparent 
+6
+to group health plans and health insurance issuers and 
+7
+are not linked directly to the price or formulary placement 
+8
+or position of a drug. 
+9
+‘‘(g) DEFINITIONS.—In this section— 
+10
+‘‘(1) the term ‘similarly situated pharmacy’ 
+11
+means, with respect to a particular pharmacy, an-
+12
+other pharmacy that is approximately the same size 
+13
+(as measured by the number of prescription drugs 
+14
+dispensed), and that serves patients in the same geo-
+15
+graphical area, whether through physical locations or 
+16
+mail order; 
+17
+‘‘(2) the term ‘wholesale acquisition cost’ has 
+18
+the 
+meaning 
+given 
+such 
+term 
+in 
+section 
+19
+1847A(c)(6)(B) of the Social Security Act; and 
+20
+‘‘(3) the term ‘bona fide service fees’ means 
+21
+fees paid by a manufacturer, customer, or client 
+22
+(other than a group health plan or health insurance 
+23
+issuer) of an entity providing pharmacy benefit man-
+24
+agement services, to an entity providing pharmacy 
+25
+03:44 Dec 11, 2019
+H5304
+16 
+•HR 5304 IH
+benefit management services, that represent fair 
+1
+market value for bona fide, itemized services actually 
+2
+performed on behalf of the manufacturer, customer, 
+3
+or client would otherwise perform or contract for in 
+4
+the absence of the service arrangement, without 
+5
+prior consent for any specific arrangements.’’. 
+6
+SEC. 3. THIRD-PARTY ADMINISTRATORS. 
+7
+Any obligation on a third-party administrator under 
+8
+this Act (including the amendment made by this Act) shall 
+9
+not affect any other direct or indirect requirement under 
+10
+any other provision of Federal law that applies to third- 
+11
+party administrators offering services to group health 
+12
+plans. 
+13
+Æ 
+03:44 Dec 11, 2019
+H5304

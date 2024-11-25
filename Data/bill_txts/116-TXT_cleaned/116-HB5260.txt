@@ -1,0 +1,1294 @@
+A BILL 
+To improve understanding and forecasting of space weather, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Promoting Research 
+4
+and Observations of Space Weather to Improve the Fore-
+5
+casting of Tomorrow Act’’ or the ‘‘PROSWIFT Act’’. 
+6
+20:20 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+2 
+•HR 5260 IH
+SEC. 2. SPACE WEATHER. 
+1
+(a) POLICY.—It shall be the policy of the United 
+2
+States to prepare and protect against the social and eco-
+3
+nomic impacts of space weather phenomena by supporting 
+4
+actions to improve space weather forecasts and predictions 
+5
+including: sustaining and enhancing critical observations, 
+6
+identifying research needs and promoting opportunities for 
+7
+research to operations and operations to research collabo-
+8
+rations both within and outside of the Federal Govern-
+9
+ment, advancing space weather models, engaging with all 
+10
+sectors of the space weather community including aca-
+11
+demia and the commercial sector, and understanding the 
+12
+needs of space weather end users. 
+13
+(b) AMENDMENT
+TO TITLE 51, UNITED STATES 
+14
+CODE.—Subtitle VI of title 51, United States Code, is 
+15
+amended by adding after chapter 605 the following: 
+16
+‘‘CHAPTER 606—SPACE WEATHER 
+17
+‘‘60601. Space weather. 
+‘‘60602. Integrated strategy. 
+‘‘60603. Sustaining and advancing critical space weather observations. 
+‘‘60604. Research activities. 
+‘‘60605. Space weather data. 
+‘‘60606. Space weather knowledge transfer and information exchange. 
+‘‘60607. Space weather benchmarks. 
+‘‘§ 60601. Space weather 
+18
+‘‘(a) FINDINGS.— 
+19
+‘‘(1) SPACE
+WEATHER.—Congress makes the 
+20
+following findings with respect to space weather: 
+21
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+3 
+•HR 5260 IH
+‘‘(A) Space weather phenomena pose a sig-
+1
+nificant threat to ground-based and space-based 
+2
+critical infrastructure, modern technological 
+3
+systems, and humans working in space. 
+4
+‘‘(B) The effects of severe space weather 
+5
+on the electric power grid, satellites and sat-
+6
+ellite communications and information, aviation 
+7
+operations, astronauts living and working in 
+8
+space, and space-based position, navigation, and 
+9
+timing systems could have significant societal, 
+10
+economic, national security, and health impacts. 
+11
+‘‘(C) Space-based and ground-based obser-
+12
+vations provide crucial data necessary to under-
+13
+stand, forecast, and prepare for space weather 
+14
+events. 
+15
+‘‘(D) Clear roles and accountability of Fed-
+16
+eral departments and agencies are critical for 
+17
+efficient and effective response to threats posed 
+18
+by space weather. 
+19
+‘‘(E) Space weather observation and fore-
+20
+casting are essential for the success of human 
+21
+and robotic space exploration. 
+22
+‘‘(F) In October 2015, the National 
+23
+Science and Technology Council published a 
+24
+National Space Weather Strategy and a Na-
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+4 
+•HR 5260 IH
+tional Space Weather Action Plan seeking to in-
+1
+tegrate national space weather efforts and add 
+2
+new capabilities to meet increasing demand for 
+3
+space weather information. 
+4
+‘‘(G) In March 2019, the National Science 
+5
+and Technology Council published an updated 
+6
+National Space Weather Strategy and Action 
+7
+Plan to enhance the preparedness and resilience 
+8
+of the United States to space weather. 
+9
+‘‘(2) ROLE OF FEDERAL AGENCIES.—Congress 
+10
+makes the following findings with respect to the role 
+11
+of Federal agencies on space weather: 
+12
+‘‘(A) The National Oceanic and Atmos-
+13
+pheric 
+Administration 
+provides 
+operational 
+14
+space weather monitoring and forecasting for 
+15
+civil applications, maintains ground-based and 
+16
+space-based assets to provide observations need-
+17
+ed for space weather forecasting, prediction, 
+18
+and warnings, provides research to support 
+19
+operational responsibilities, and develops re-
+20
+quirements for space weather forecasting tech-
+21
+nologies and science. 
+22
+‘‘(B) The Department of Defense provides 
+23
+operational space weather research, monitoring, 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+5 
+•HR 5260 IH
+and forecasting for the department’s unique 
+1
+missions and applications. 
+2
+‘‘(C) The National Aeronautics and Space 
+3
+Administration 
+provides 
+increased 
+under-
+4
+standing of the fundamental physics of the 
+5
+Sun-Earth system through basic research, 
+6
+space-based observations and modeling, devel-
+7
+oping new space-based technologies and mis-
+8
+sions, and monitoring of space weather for the 
+9
+National Aeronautics and Space Administra-
+10
+tion’s space missions. 
+11
+‘‘(D) The National Science Foundation 
+12
+provides increased understanding of the Sun- 
+13
+Earth system through ground-based measure-
+14
+ments, technologies, and modeling. 
+15
+‘‘(E) The Department of the Interior col-
+16
+lects, distributes, and archives operational 
+17
+ground-based magnetometer data in the United 
+18
+States and its territories, works with the inter-
+19
+national community to improve global geo-
+20
+physical monitoring, and develops crustal con-
+21
+ductivity models to assess and mitigate risks 
+22
+from space weather induced electric ground cur-
+23
+rents. 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+6 
+•HR 5260 IH
+‘‘(F) The Federal Aviation Administration 
+1
+provides operational requirements for space 
+2
+weather services in support of aviation and for 
+3
+coordination of these requirements with the 
+4
+International Civil Aviation Organization, and 
+5
+integrates space weather data and products into 
+6
+the Next Generation Air Transportation Sys-
+7
+tem. 
+8
+‘‘(b) SPACE WEATHER DISTURBANCE DEFINED.—In 
+9
+this chapter, the term ‘space weather disturbance’ includes 
+10
+geo-electric fields, ionizing radiation, ionospheric disturb-
+11
+ances, solar radio bursts, and upper atmosphere expan-
+12
+sion. 
+13
+‘‘(c) COORDINATION BY OFFICE OF SCIENCE AND 
+14
+TECHNOLOGY POLICY.—The Director of the Office of 
+15
+Science and Technology Policy shall— 
+16
+‘‘(1) coordinate the development and implemen-
+17
+tation of Federal Government activities conducted 
+18
+with respect to space weather to improve the ability 
+19
+of the United States to prepare for, avoid, mitigate, 
+20
+respond to, and recover from potentially devastating 
+21
+impacts of space weather; and 
+22
+‘‘(2) coordinate the activities of the interagency 
+23
+working group on space weather established under 
+24
+subsection (d). 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+7 
+•HR 5260 IH
+‘‘(d) SPACE
+WEATHER
+INTERAGENCY
+WORKING 
+1
+GROUP.—The National Science and Technology Council 
+2
+shall establish an interagency working group on space 
+3
+weather (referred to in this section as the ‘interagency 
+4
+working group’) to lead executive branch actions that im-
+5
+prove the understanding of and preparation for space 
+6
+weather phenomena, and coordination of Federal space 
+7
+weather activities. 
+8
+‘‘(1) MEMBERSHIP.—The following entities 
+9
+shall be members of the interagency working group: 
+10
+‘‘(A) The National Oceanic and Atmos-
+11
+pheric Administration. 
+12
+‘‘(B) The National Aeronautics and Space 
+13
+Administration. 
+14
+‘‘(C) The National Science Foundation. 
+15
+‘‘(D) The Department of Defense. 
+16
+‘‘(E) The Department of the Interior. 
+17
+‘‘(F) Such other Federal Agencies as the 
+18
+Director of the Office of Science and Tech-
+19
+nology Policy deems appropriate. 
+20
+‘‘(2) INTERAGENCY AGREEMENTS.—The mem-
+21
+bers of the interagency working group may enter 
+22
+into one or more interagency agreements providing 
+23
+for cooperation and collaboration in the development 
+24
+of space weather spacecraft, instruments, tech-
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+8 
+•HR 5260 IH
+nologies, and research to operations and operations 
+1
+to research in accordance with this chapter. 
+2
+‘‘(3) INTERNATIONAL, ACADEMIC COMMUNITY, 
+3
+AND COMMERCIAL SECTOR COLLABORATION.—Each 
+4
+Federal agency participating in the space weather 
+5
+interagency working group established under this 
+6
+subsection shall, to the extent practicable, increase 
+7
+engagement and cooperation with the international 
+8
+community, academic community, and commercial 
+9
+space weather sector on the observational infrastruc-
+10
+ture, data, and scientific research necessary to ad-
+11
+vance the monitoring, forecasting and prediction of 
+12
+and preparation and protection from space weather 
+13
+phenomena. 
+14
+‘‘(e) SPACE WEATHER ADVISORY GROUP.— 
+15
+‘‘(1) ESTABLISHMENT.—Not later than 6 
+16
+months after the date of the enactment of this Act, 
+17
+the Administrator of the National Oceanic and At-
+18
+mospheric Administration, in consultation with other 
+19
+relevant Federal agencies, shall establish a space 
+20
+weather advisory group (in this chapter referred to 
+21
+as the ‘advisory group’) for the purposes of receiving 
+22
+advice from the academic community, the commer-
+23
+cial space weather sector, and space weather end 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+9 
+•HR 5260 IH
+users that informs the interests and work of the 
+1
+interagency working group. 
+2
+‘‘(A) COMPOSITION.—The advisory group 
+3
+shall be composed of not more than 15 mem-
+4
+bers appointed by the interagency working 
+5
+group, of whom— 
+6
+‘‘(i) 5 members shall be representa-
+7
+tives of the academic community; 
+8
+‘‘(ii) 5 members shall be representa-
+9
+tives of the commercial space weather sec-
+10
+tor; and 
+11
+‘‘(iii) 5 members shall be nongovern-
+12
+mental representatives of the space weath-
+13
+er end user community. 
+14
+‘‘(B) CHAIR.—Not later than 30 days after 
+15
+the date on which the last member of the advi-
+16
+sory group is appointed under paragraph (2), 
+17
+the Administrator of the National Oceanic and 
+18
+Atmospheric Administration shall appoint 1 
+19
+member as the Chair of the advisory group. 
+20
+‘‘(C) TERMS.—The length of the term of 
+21
+each member of the advisory group shall be 3 
+22
+years beginning on the date on which the mem-
+23
+ber is appointed. 
+24
+‘‘(D) TERM LIMITS.— 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+10 
+•HR 5260 IH
+‘‘(i) IN GENERAL.—A member of the 
+1
+advisory group may not serve on the advi-
+2
+sory group for more than 2 consecutive 
+3
+terms. 
+4
+‘‘(ii) CHAIR.—A member of the advi-
+5
+sory group may not serve as the Chair of 
+6
+the advisory group for more than 2 terms, 
+7
+regardless of whether the terms are con-
+8
+secutive. 
+9
+‘‘(2) DUTIES.—The advisory group shall advise 
+10
+the interagency working group on the following: 
+11
+‘‘(A) Facilitating advances in the space 
+12
+weather enterprise of the United States. 
+13
+‘‘(B) Improving the ability of the United 
+14
+States to prepare for, mitigate, respond to, and 
+15
+recover from space weather events. 
+16
+‘‘(C) Enabling the coordination and facili-
+17
+tation of research-to-operations and operations- 
+18
+to-research, as described in section 60604(d). 
+19
+‘‘(D) Developing and implementing the in-
+20
+tegrated strategy under section 60602 including 
+21
+subsequent updates and reevaluations. 
+22
+‘‘(3) USER SURVEY.— 
+23
+‘‘(A) IN
+GENERAL.—Not later than 6 
+24
+months after the establishment of the advisory 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+11 
+•HR 5260 IH
+group, the advisory group shall conduct a com-
+1
+prehensive survey of the needs of users of space 
+2
+weather products to identify the space weather 
+3
+research, observations, forecasting, prediction, 
+4
+and modeling advances required to improve 
+5
+space weather products. 
+6
+‘‘(B) SURVEY CONSIDERATIONS.—The sur-
+7
+vey conducted under subparagraph (A) shall— 
+8
+‘‘(i) assess the adequacy of current 
+9
+Federal Government goals for lead time, 
+10
+accuracy, coverage, timeliness, data rate, 
+11
+and data quality for space weather obser-
+12
+vations and forecasting; 
+13
+‘‘(ii) identify options and methods to, 
+14
+in consultation with the academic commu-
+15
+nity and the commercial space weather sec-
+16
+tor, improve upon the advancement of the 
+17
+goals described in clause (i); 
+18
+‘‘(iii) identify opportunities for collec-
+19
+tion of new data to address the needs of 
+20
+the space weather user community; 
+21
+‘‘(iv) identify methods to increase co-
+22
+ordination of space weather research-to-op-
+23
+erations and operations-to-research; 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+12 
+•HR 5260 IH
+‘‘(v) identify opportunities for new 
+1
+technologies, research, and instrumentation 
+2
+to aid in research, understanding, moni-
+3
+toring, modeling, prediction, forecasting, 
+4
+and warning of space weather; and 
+5
+‘‘(vi) identify methods and tech-
+6
+nologies to improve preparedness for po-
+7
+tential space weather phenomena. 
+8
+‘‘(C) COORDINATION WITH AGENCIES.—In 
+9
+carrying out the requirements of this sub-
+10
+section, the advisory group shall communicate 
+11
+and coordinate with the interagency working 
+12
+group to ensure the needs of the governmental 
+13
+space weather user community are adequately 
+14
+and appropriately identified by the survey under 
+15
+subparagraph (A). 
+16
+‘‘(D) BRIEFING TO CONGRESS.—Not later 
+17
+than 1 year after the date of enactment of this 
+18
+Act, the advisory group shall provide to the 
+19
+Committee on Science, Space, and Technology 
+20
+of the House of Representatives and the Com-
+21
+mittee on Commerce, Science, and Transpor-
+22
+tation of the Senate a briefing on the survey re-
+23
+sults. 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+13 
+•HR 5260 IH
+‘‘(E) PUBLICATION.—Within 30 days of 
+1
+the briefing to Congress, the advisory group 
+2
+shall make the results of the comprehensive 
+3
+survey conducted under subparagraph (A) pub-
+4
+licly available. 
+5
+‘‘(F) REEVALUATION.—The advisory group 
+6
+shall review and assess the comprehensive sur-
+7
+vey not less than every 3 years and update, re-
+8
+submit, and republish the survey in accordance 
+9
+with the requirements of subparagraph (D) and 
+10
+(E). 
+11
+‘‘(4) FEDERAL
+ADVISORY
+COMMITTEE
+ACT.— 
+12
+Section 14 of the Federal Advisory Committee Act 
+13
+(5 U.S.C. App.) shall not apply to the advisory 
+14
+group. 
+15
+‘‘§ 60602. Integrated strategy 
+16
+‘‘(a) IN GENERAL.—The Director of the Office of 
+17
+Science and Technology Policy, in collaboration with the 
+18
+interagency working group and upon the advice of the ad-
+19
+visory group, shall develop a strategy for coordinated ob-
+20
+servation of space weather among members of the inter-
+21
+agency working group (in this chapter, referred to as the 
+22
+‘integrated strategy’). The integrated strategy shall iden-
+23
+tify— 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+14 
+•HR 5260 IH
+‘‘(1) observations and measurements that must 
+1
+be sustained beyond the lifetime of current ground- 
+2
+based and space-based assets, as described in section 
+3
+60603 of this Act that are essential for space weath-
+4
+er research, models, forecasting, and prediction; 
+5
+‘‘(2) new observations and measurements that 
+6
+may significantly improve space weather forecasting 
+7
+and prediction; and 
+8
+‘‘(3) plans for follow-on space-based observa-
+9
+tions under section 60603(g). 
+10
+‘‘(b) CONSIDERATIONS.—In developing the integrated 
+11
+strategy in subsection (a), the Director of the Office of 
+12
+Science and Technology Policy shall consider, as appro-
+13
+priate the following: 
+14
+‘‘(1) Potential contributions of commercial solu-
+15
+tions, prize authority, academic and international 
+16
+partnerships, microsatellites, small satellite options, 
+17
+ground-based instruments, and hosted payloads for 
+18
+observations identified in section 60602(a)(2). 
+19
+‘‘(2) Work conducted before the date of the en-
+20
+actment of this Act by the National Science and 
+21
+Technology Council with respect to space weather. 
+22
+‘‘(3) The user survey from section 60601(e). 
+23
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+15 
+•HR 5260 IH
+‘‘(4) Any relevant recommendations from the 
+1
+most recent National Research Council’s Decadal 
+2
+Strategy for Solar and Space Physics (Heliophysics). 
+3
+‘‘(c) REVIEW OF INTEGRATED STRATEGY.— 
+4
+‘‘(1) REVIEW.—The Administrator of the Na-
+5
+tional Aeronautics and Space Administration and 
+6
+the Administrator of the National Oceanic and At-
+7
+mospheric Administration, in consultation with Fed-
+8
+eral agencies participating in the interagency work-
+9
+ing group, shall enter into an agreement with the 
+10
+National Academies of Sciences, Engineering, and 
+11
+Medicine to review the integrated strategy developed 
+12
+in this section. 
+13
+‘‘(2) CONSIDERATIONS.—The review from para-
+14
+graph (1) shall also consider the current state, capa-
+15
+bility, and feasibility of the commercial space weath-
+16
+er sector to provide new and supplemental observa-
+17
+tions and measurements that may significantly im-
+18
+prove space weather forecasting and prediction. 
+19
+‘‘(3) TRANSMITTAL.—The Director of the Of-
+20
+fice of Science and Technology Policy and the Ad-
+21
+ministrator of the National Aeronautics and Space 
+22
+Administration and the Administrator of the Na-
+23
+tional Oceanic and Atmospheric Administration shall 
+24
+transmit the Integrated Strategy and the results of 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+16 
+•HR 5260 IH
+the review required under paragraph (1) to the Com-
+1
+mittee on Science, Space, and Technology in the 
+2
+House of Representatives and the Committee on 
+3
+Commerce, Science, and Transportation of the Sen-
+4
+ate not later than 18 months from the enactment of 
+5
+this Act. The Integrated Strategy and its review 
+6
+shall be made publicly available within 30 days of 
+7
+submittal to Congress. 
+8
+‘‘(d) IMPLEMENTATION PLAN.—Not later than 6 
+9
+months after delivery of the review of the Integrated 
+10
+Strategy in subsection (c), the interagency working group 
+11
+shall develop a plan to implement the Integrated Strategy, 
+12
+including an estimate of the cost and schedule required 
+13
+for implementation. 
+14
+‘‘(e) REEVALUATION.—The Director, in collaboration 
+15
+with the interagency working group, shall update the inte-
+16
+grated strategy not later than six months after the re-
+17
+evaluation of the user survey from section 60601(e)(2)(E) 
+18
+in accordance with the requirements of subsections (a) 
+19
+through (d). 
+20
+‘‘§ 60603. Sustaining and advancing critical space 
+21
+weather observations 
+22
+‘‘(a) POLICY.—It is the policy of the United States 
+23
+to— 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+17 
+•HR 5260 IH
+‘‘(1) establish and sustain a baseline capability 
+1
+for space weather observations and to make such ob-
+2
+servations and data publicly available; and 
+3
+‘‘(2) obtain enhanced space weather observa-
+4
+tions, as practicable, to advance forecasting and pre-
+5
+diction capability, as informed by the Integrated 
+6
+Strategy in section 60602. 
+7
+‘‘(b) SUSTAINING BASELINE SPACE-BASED OBSER-
+8
+VATIONAL CAPABILITIES.— 
+9
+‘‘(1) The Administrator of the National Aero-
+10
+nautics and Space Administration shall, in coopera-
+11
+tion with the European Space Agency and other 
+12
+international and interagency partners, maintain op-
+13
+erations of the Solar and Heliospheric Observatory/ 
+14
+Large Angle and Spectrometric Coronagraph (re-
+15
+ferred to in this section as ‘SOHO/LASCO’) for as 
+16
+long as the satellite continues to deliver quality ob-
+17
+servations. 
+18
+‘‘(2) The Administrator of the National Aero-
+19
+nautics and Space Administration shall prioritize the 
+20
+reception of SOHO/LASCO data. 
+21
+‘‘(3) The Administrator of the National Oceanic 
+22
+and Atmospheric Administration shall maintain cur-
+23
+rent space-based observational assets including but 
+24
+not limited to the Geostationary Operational Envi-
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+18 
+•HR 5260 IH
+ronmental Satellites (referred to in this section as 
+1
+‘GOES’) system, and the Deep Space Climate Ob-
+2
+servatory (referred to in this section as ‘DSCOVR’). 
+3
+‘‘(c) BACK-UP SPACE-BASED OBSERVATIONAL CAPA-
+4
+BILITY.—The Administrators of the National Oceanic and 
+5
+Atmospheric Administration and the National Aeronautics 
+6
+and Space Administration, in coordination with the Sec-
+7
+retary of Defense, shall work with Federal and inter-
+8
+national partners in order to secure reliable backup capa-
+9
+bility for near real-time coronal mass ejection imagery, 
+10
+solar wind, solar imaging, coronal imagery, and other rel-
+11
+evant observations required to provide space weather fore-
+12
+casts. 
+13
+‘‘(d) SUSTAINING GROUND-BASED OBSERVATIONAL 
+14
+CAPABILITY.—The Director of the National Science 
+15
+Foundation, the Director of the United States Geological 
+16
+Survey, the Secretary of the Air Force, and, where prac-
+17
+ticable in support of the Air Force, the Secretary of the 
+18
+Navy shall each— 
+19
+‘‘(1) maintain and improve ground-based obser-
+20
+vations of the Sun to help meet the needs identified 
+21
+in the User Survey from section 60601(e)(3); and 
+22
+‘‘(2) continue to provide space weather data 
+23
+through ground-based facilities, including radars, 
+24
+lidars, magnetometers, radio receivers, aurora and 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+19 
+•HR 5260 IH
+airglow imagers, spectrometers, interferometers, and 
+1
+solar observatories. 
+2
+‘‘(e) 
+CONSIDERATIONS.—In 
+implementing 
+sub-
+3
+sections (b), (c), and (d), the Administrators of the Na-
+4
+tional Aeronautics and Space Administration and the Na-
+5
+tional Oceanic and Atmospheric Administration, the Di-
+6
+rectors of the National Science Foundation and United 
+7
+States Geological Survey, and the Secretaries of the Air 
+8
+Force and the Navy shall prioritize cost-effective and reli-
+9
+able solutions. 
+10
+‘‘(f) GROUND-BASED OBSERVATIONAL DATA.—The 
+11
+Director of the National Science Foundation shall— 
+12
+‘‘(1) make available to the public key data 
+13
+streams from the platforms facilities described in 
+14
+subsection (e) for research and to the support of 
+15
+space weather model development; 
+16
+‘‘(2) develop experimental models for scientific 
+17
+purposes; and 
+18
+‘‘(3) support the transition of the experimental 
+19
+models to operations where appropriate. 
+20
+‘‘(g) ENHANCED SPACE-BASED OBSERVATIONS.— 
+21
+The Administrator of the National Oceanic and Atmos-
+22
+pheric Administration, in coordination with the Secretary 
+23
+of Defense, should develop options to build and deploy 
+24
+space-based observational capabilities that may improve 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+20 
+•HR 5260 IH
+space weather measurements and observations. These sup-
+1
+plemental observational capabilities could include commer-
+2
+cial solutions, prize authority, academic partnerships, 
+3
+microsatellites, ground-based instruments, and opportuni-
+4
+ties to deploy the instrument or instruments as a sec-
+5
+ondary payload on an upcoming planned launch. 
+6
+‘‘§ 60604. Research activities 
+7
+‘‘(a) BASIC RESEARCH.—The Director of the Na-
+8
+tional Science Foundation, the Administrator of the Na-
+9
+tional Aeronautics and Space Administration, and the Sec-
+10
+retary of Defense, shall— 
+11
+‘‘(1) continue to carry out basic research on 
+12
+heliophysics, geospace science, and space weather; 
+13
+and 
+14
+‘‘(2) support competitive, peer-reviewed pro-
+15
+posals for conducting research, advancing modeling, 
+16
+and monitoring of space weather and its impacts, in-
+17
+cluding the science goals outlined in decadal surveys 
+18
+in solar and space physics conducted by the National 
+19
+Academies of Sciences, Engineering, and Medicine. 
+20
+‘‘(b) MULTIDISCIPLINARY RESEARCH.— 
+21
+‘‘(1) FINDINGS.—Congress finds that the multi-
+22
+disciplinary nature of solar and space physics creates 
+23
+funding challenges that require coordination across 
+24
+scientific disciplines and Federal agencies. 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+21 
+•HR 5260 IH
+‘‘(2) SENSE OF CONGRESS.—It is the sense of 
+1
+Congress that science centers could coordinate mul-
+2
+tidisciplinary solar and space physics research. The 
+3
+Administrator of the National Aeronautics and 
+4
+Space Administration and Director of the National 
+5
+Science Foundation should support competitively 
+6
+awarded grants for multidisciplinary science centers 
+7
+that advance solar and space physics research in-
+8
+cluding research to operations and operations to re-
+9
+search processes. 
+10
+‘‘(3) MULTIDISCIPLINARY RESEARCH.—The Di-
+11
+rector of the National Science Foundation, the Ad-
+12
+ministrator of the National Oceanic and Atmos-
+13
+pheric Administration, and the Administrator of the 
+14
+National Aeronautics and Space Administration, 
+15
+shall each pursue multidisciplinary research in sub-
+16
+jects that further the understanding of solar physics, 
+17
+space physics, and space weather. 
+18
+‘‘(c) SCIENCE MISSIONS.—The Administrator of the 
+19
+National Aeronautics and Space Administration should 
+20
+implement missions that meet the science objectives identi-
+21
+fied in solar and space physics decadal surveys conducted 
+22
+by the National Academies of Sciences, Engineering, and 
+23
+Medicine. 
+24
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+22 
+•HR 5260 IH
+‘‘(d) RESEARCH TO-OPERATIONS; OPERATIONS TO- 
+1
+RESEARCH.— 
+2
+‘‘(1) IN
+GENERAL.—The interagency working 
+3
+group shall, upon consideration of the advice of the 
+4
+advisory group, develop formal mechanisms to— 
+5
+‘‘(A) transition National Aeronautics and 
+6
+Space Administration, National Science Foun-
+7
+dation, United States Geological Survey, and 
+8
+other relevant Federal agencies space weather 
+9
+research findings, models, and capabilities, as 
+10
+appropriate, to the National Oceanic and At-
+11
+mospheric Administration and the Department 
+12
+of Defense; 
+13
+‘‘(B) enhance coordination between re-
+14
+search modeling centers and forecasting cen-
+15
+ters; and 
+16
+‘‘(C) communicate National Oceanic and 
+17
+Atmospheric Administration and Department of 
+18
+Defense operational needs of space weather 
+19
+forecasters, as appropriate, to the National Aer-
+20
+onautics and Space Administration, the Na-
+21
+tional Science Foundation and United States 
+22
+Geological Survey. 
+23
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+23 
+•HR 5260 IH
+‘‘§ 60605. Space weather data 
+1
+‘‘(a) IN GENERAL.—The Administrator of the Na-
+2
+tional Aeronautics and Space Administration and the Di-
+3
+rector of the National Science Foundation shall continue 
+4
+to— 
+5
+‘‘(1) make space weather related data obtained 
+6
+for scientific research purposes available to space 
+7
+weather forecasters and operations centers; and 
+8
+‘‘(2) support model development and model ap-
+9
+plications to space weather forecasting. 
+10
+‘‘(b) RESEARCH.—The Administrator of the National 
+11
+Oceanic and Atmospheric Administration shall make space 
+12
+weather related data obtained from operational forecasting 
+13
+available for research. 
+14
+‘‘§ 60606. Space weather knowledge transfer and in-
+15
+formation exchange 
+16
+‘‘The Administrator of the National Oceanic and At-
+17
+mospheric Administration, in collaboration with the Ad-
+18
+ministrator of the National Aeronautics and Space Admin-
+19
+istration and the Director of the National Science Founda-
+20
+tion, shall enter into an arrangement with the National 
+21
+Academies of Sciences, Engineering, and Medicine to es-
+22
+tablish a Space Weather Government-Academic-Commer-
+23
+cial Roundtable to facilitate communication and knowl-
+24
+edge transfer among Government participants in the space 
+25
+weather interagency working group established under sec-
+26
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+24 
+•HR 5260 IH
+tion 60601(d), the academic community, and the commer-
+1
+cial space weather sector to— 
+2
+‘‘(1) facilitate advances in space weather pre-
+3
+diction and forecasting; 
+4
+‘‘(2) increase coordination of space weather re-
+5
+search-to-operations and operations-to-research; and 
+6
+‘‘(3) improve preparedness for potential space 
+7
+weather events. 
+8
+‘‘§ 60607. Space weather benchmarks 
+9
+‘‘(a) IN GENERAL.—The space weather interagency 
+10
+working group established under section 60601(d) shall 
+11
+periodically review and update the benchmarks described 
+12
+in the report of the National Science and Technology 
+13
+Council entitled, ‘Space Weather Phase 1 Benchmarks’ 
+14
+and dated June 2018, as necessary, based on— 
+15
+‘‘(1) any significant new data or advances in 
+16
+scientific understanding that become available; or 
+17
+‘‘(2) the evolving needs of entities impacted by 
+18
+space weather disturbances. 
+19
+‘‘(b) TECHNICAL AND CONFORMING AMENDMENT.— 
+20
+Section 809 of the National Aeronautics and Space Ad-
+21
+ministration Authorization Act of 2010 (42 U.S.C. 18388) 
+22
+and the item relating to that section in the table of con-
+23
+tents under section 1(b) of that Act (124 Stat. 2806) are 
+24
+repealed.’’. 
+25
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS
+25 
+•HR 5260 IH
+(c) TECHNICAL AND CONFORMING AMENDMENT.— 
+1
+The table of chapters of title 51, United States Code, is 
+2
+amended by adding after the item relating to chapter 605 
+3
+the following: 
+4
+‘‘606. Space Weather’’. 
+Æ 
+00:08 Dec 10, 2019
+H5260
+khammond on DSKJM1Z7X2PROD with BILLS

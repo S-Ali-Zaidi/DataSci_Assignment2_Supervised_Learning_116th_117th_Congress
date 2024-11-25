@@ -1,0 +1,1050 @@
+A BILL 
+To amend the Public Health Service Act with respect to 
+public health data accessibility, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Improving Data Acces-
+4
+sibility Through Advancements in Public Health Act’’ or 
+5
+the ‘‘Improving DATA in Public Health Act’’. 
+6
+21:49 Aug 01, 2022
+H8481
+2 
+•HR 8481 IH
+SEC. 2. SUPPORTING PUBLIC HEALTH DATA AVAILABILITY 
+1
+AND ACCESS. 
+2
+(a) DESIGNATION OF PUBLIC HEALTH DATA STAND-
+3
+ARDS.—Section 2823(a)(2) of the Public Health Service 
+4
+Act (42 U.S.C. 300hh–33(a)(2)) is amended— 
+5
+(1) by striking ‘‘In carrying out’’ and inserting 
+6
+the following: 
+7
+‘‘(A) IN GENERAL.—In carrying out’’; 
+8
+(2) by striking ‘‘shall, as appropriate and’’ and 
+9
+inserting ‘‘shall, not later than 2 years after the date 
+10
+of enactment of the Improving DATA in Public 
+11
+Health Act,’’; and 
+12
+(3) by adding at the end the following: 
+13
+‘‘(B) SELECTION
+OF
+DATA
+AND
+TECH-
+14
+NOLOGY
+STANDARDS.—The 
+standards 
+des-
+15
+ignated as described in subparagraph (A) may 
+16
+include standards to improve— 
+17
+‘‘(i) the exchange of electronic health 
+18
+information for— 
+19
+‘‘(I) electronic case reporting; 
+20
+‘‘(II) syndromic surveillance; 
+21
+‘‘(III) reporting of vital statistics; 
+22
+and 
+23
+‘‘(IV) reporting test orders and 
+24
+results electronically, including from 
+25
+laboratories; 
+26
+21:49 Aug 01, 2022
+H8481
+3 
+•HR 8481 IH
+‘‘(ii) automated electronic reporting to 
+1
+relevant public health data systems of the 
+2
+Centers for Disease Control and Preven-
+3
+tion; and 
+4
+‘‘(iii) such other uses as the Secretary 
+5
+determines appropriate. 
+6
+‘‘(C) NO DUPLICATIVE EFFORTS.— 
+7
+‘‘(i) IN
+GENERAL.—In carrying out 
+8
+the requirements of this paragraph, the 
+9
+Secretary, in consultation with the Office 
+10
+of the National Coordinator for Health In-
+11
+formation Technology, may use input gath-
+12
+ered (including input and recommendations 
+13
+gathered from the Health Information 
+14
+Technology Advisory Committee), and ma-
+15
+terials developed, prior to the date of en-
+16
+actment of the Improving DATA in Public 
+17
+Health Act. 
+18
+‘‘(ii) DESIGNATION OF STANDARDS.— 
+19
+Consistent with sections 13111 and 13112 
+20
+of the HITECH Act, the data and tech-
+21
+nology standards designated pursuant to 
+22
+this paragraph shall align with the stand-
+23
+ards and implementation specifications 
+24
+21:49 Aug 01, 2022
+H8481
+4 
+•HR 8481 IH
+adopted by the Secretary pursuant to sec-
+1
+tion 3004, as applicable. 
+2
+‘‘(D) PRIVACY
+AND
+SECURITY.—Nothing 
+3
+in this paragraph shall be construed as modi-
+4
+fying applicable Federal or State information 
+5
+privacy or security law. 
+6
+‘‘(E) CONSIDERATIONS.—Standards des-
+7
+ignated under this paragraph shall include 
+8
+standards and implementation specifications 
+9
+necessary to ensure the appropriate capture, ex-
+10
+change, access, and use of information regard-
+11
+ing race, ethnicity, sex (including sexual ori-
+12
+entation and gender identity), disability status, 
+13
+veteran status, housing status, age, functional 
+14
+status, and other elements.’’. 
+15
+(b) STUDY ON LABORATORY INFORMATION STAND-
+16
+ARDS.— 
+17
+(1) IN GENERAL.—Not later than 1 year after 
+18
+the date of enactment of this Act, the Office of the 
+19
+National Coordinator for Health Information Tech-
+20
+nology shall conduct a study to review the use of 
+21
+standards for electronic ordering and reporting of 
+22
+laboratory test results. 
+23
+(2) AREAS OF CONCENTRATION.—In conducting 
+24
+the study under paragraph (1), the Office of the Na-
+25
+21:49 Aug 01, 2022
+H8481
+5 
+•HR 8481 IH
+tional Coordinator for Health Information Tech-
+1
+nology shall— 
+2
+(A) determine the extent to which clinical 
+3
+laboratories are using standards for electronic 
+4
+ordering and reporting of laboratory test re-
+5
+sults; 
+6
+(B) assess trends in laboratory compliance 
+7
+with standards for ordering and reporting lab-
+8
+oratory test results and the effect of such 
+9
+trends on the interoperability of laboratory data 
+10
+with public health data systems; 
+11
+(C) identify challenges related to collection 
+12
+and reporting of demographic and other data 
+13
+elements with respect to laboratory test results; 
+14
+(D) identify any challenges associated with 
+15
+using or complying with standards and report-
+16
+ing laboratory test results with data elements 
+17
+identified in standards for electronic ordering 
+18
+and reporting of such results; and 
+19
+(E) review other relevant areas determined 
+20
+appropriate by the Office of the National Coor-
+21
+dinator for Health Information Technology. 
+22
+(3) REPORT.—Not later than 2 years after the 
+23
+date of enactment of this Act, the Office of the Na-
+24
+tional Coordinator for Health Information Tech-
+25
+21:49 Aug 01, 2022
+H8481
+6 
+•HR 8481 IH
+nology shall submit to the Committee on Health, 
+1
+Education, Labor, and Pensions of the Senate and 
+2
+the Committee on Energy and Commerce of the 
+3
+House of Representatives a report concerning the 
+4
+findings of the study conducted under paragraph 
+5
+(1). 
+6
+(c) SUPPORTING INFORMATION SHARING THROUGH 
+7
+DATA USE AGREEMENTS.— 
+8
+(1) INTERAGENCY
+DATA
+USE
+AGREEMENTS 
+9
+WITHIN THE DEPARTMENT OF HEALTH AND HUMAN 
+10
+SERVICES FOR PUBLIC HEALTH EMERGENCIES.— 
+11
+(A) 
+IN
+GENERAL.—The 
+Secretary 
+of 
+12
+Health and Human Services (referred to in this 
+13
+subsection as the ‘‘Secretary’’) shall, as appro-
+14
+priate, facilitate the development of, or updates 
+15
+to, memoranda of understanding, data use 
+16
+agreements, or other applicable interagency 
+17
+agreements regarding appropriate access, ex-
+18
+change, and use of public health data among 
+19
+the Centers for Disease Control and Prevention, 
+20
+the Office of the Assistant Secretary for Pre-
+21
+paredness and Response, other relevant agen-
+22
+cies or offices within the Department of Health 
+23
+and Human Services, and other relevant Fed-
+24
+eral agencies, in order to prepare for, identify, 
+25
+21:49 Aug 01, 2022
+H8481
+7 
+•HR 8481 IH
+monitor, and respond to declared or potential 
+1
+public health emergencies. 
+2
+(B) REQUIREMENTS.—In carrying out ac-
+3
+tivities pursuant to subparagraph (A), the Sec-
+4
+retary shall— 
+5
+(i) ensure that the agreements and 
+6
+memoranda of understanding described in 
+7
+such subparagraph— 
+8
+(I) address the methods of grant-
+9
+ing access to data held by one agency 
+10
+or office with another to support the 
+11
+respective missions of such agencies 
+12
+or offices; 
+13
+(II) consider minimum necessary 
+14
+principles of data sharing for appro-
+15
+priate use; 
+16
+(III) include appropriate privacy 
+17
+and cybersecurity protections; and 
+18
+(IV) are subject to regular up-
+19
+dates, as appropriate; 
+20
+(ii) collaborate with the Centers for 
+21
+Disease Control and Prevention, the Office 
+22
+of the Assistant Secretary for Prepared-
+23
+ness and Response, the Office of the Chief 
+24
+Information Officer, and, as appropriate, 
+25
+21:49 Aug 01, 2022
+H8481
+8 
+•HR 8481 IH
+the Office of the National Coordinator for 
+1
+Health Information Technology, and other 
+2
+entities within the Department of Health 
+3
+and Human Services; and 
+4
+(iii) consider the terms and conditions 
+5
+of any existing data use agreements with 
+6
+other public or private entities and any 
+7
+need for updates to such existing agree-
+8
+ments, consistent with paragraph (2). 
+9
+(2) DATA USE AGREEMENTS WITH EXTERNAL 
+10
+ENTITIES.—The Secretary, acting through the Di-
+11
+rector of the Centers for Disease Control and Pre-
+12
+vention and the Assistant Secretary for Prepared-
+13
+ness and Response, may update memoranda of un-
+14
+derstanding, data use agreements, or other applica-
+15
+ble agreements and contracts to improve appropriate 
+16
+access, exchange, and use of public health data 
+17
+among the Centers for Disease Control and Preven-
+18
+tion, the Office of the Assistant Secretary for Pre-
+19
+paredness and Response, and external entities, in-
+20
+cluding State, Tribal, local, and territorial health de-
+21
+partments, laboratories, hospitals and other health 
+22
+care providers, electronic health records vendors, and 
+23
+other entities, as applicable and appropriate, in 
+24
+21:49 Aug 01, 2022
+H8481
+9 
+•HR 8481 IH
+order to prepare for, identify, monitor, and respond 
+1
+to declared or potential public health emergencies. 
+2
+(3) REPORT.—Not later than 90 days after the 
+3
+date of enactment of this Act, the Secretary shall re-
+4
+port to the Committee on Health, Education, Labor, 
+5
+and Pensions of the Senate and the Committee on 
+6
+Energy and Commerce of the House of Representa-
+7
+tives on the status of the memoranda of under-
+8
+standing and other agreements under this sub-
+9
+section. 
+10
+(d) IMPROVING INFORMATION SHARING AND AVAIL-
+11
+ABILITY OF PUBLIC HEALTH DATA.—Part A of title III 
+12
+of the Public Health Service Act (42 U.S.C. 241 et seq.) 
+13
+is amended by adding at the end the following: 
+14
+‘‘SEC. 310B. IMPROVING INFORMATION SHARING AND 
+15
+AVAILABILITY OF PUBLIC HEALTH DATA. 
+16
+‘‘(a) IN GENERAL.—The Secretary acting through 
+17
+the Director of the Centers for Disease Control and Pre-
+18
+vention (in this section referred to as the ‘Secretary’) may 
+19
+require the reporting of public health and health care data 
+20
+and information to the Centers for Disease Control and 
+21
+Prevention by— 
+22
+‘‘(1) health care providers and facilities, includ-
+23
+ing pharmacies; 
+24
+21:49 Aug 01, 2022
+H8481
+10 
+•HR 8481 IH
+‘‘(2) public health, clinical, and other labora-
+1
+tories and diagnostic testing entities; 
+2
+‘‘(3) State, local, and Tribal health depart-
+3
+ments; and 
+4
+‘‘(4) other entities, as determined appropriate 
+5
+by the Secretary. 
+6
+‘‘(b) 
+CONTENT, 
+FORM, 
+MANNER, 
+AND
+FRE-
+7
+QUENCY.— 
+8
+‘‘(1) COLLABORATION.—The Secretary shall 
+9
+collaborate with representatives of State, local, and 
+10
+Tribal health departments and other entities on de-
+11
+termining the content, form, manner, and frequency 
+12
+of the reporting of public health and health care 
+13
+data and information required pursuant to sub-
+14
+section (a). 
+15
+‘‘(2) SIMULTANEOUS
+REPORTING.—In deter-
+16
+mining the content, form, manner, and frequency of 
+17
+the reporting of public health and health care data 
+18
+and information pursuant to subsection (a), where a 
+19
+disease, condition, or related event is reportable 
+20
+under applicable State or local law, the Secretary 
+21
+shall require the data and information to be reported 
+22
+first or simultaneously to the appropriate State or 
+23
+local jurisdiction. 
+24
+21:49 Aug 01, 2022
+H8481
+11 
+•HR 8481 IH
+‘‘(3) ALIGNMENT
+WITH
+STANDARDS
+AND
+IM-
+1
+PLEMENTATION
+SPECIFICATIONS.—The 
+content, 
+2
+form, manner, and frequency requirements required 
+3
+pursuant to this section shall align with the stand-
+4
+ards and implementation specifications adopted by 
+5
+the Secretary under section 3004, where applicable. 
+6
+‘‘(4) REASONABLE EFFORTS TO LIMIT REPORT-
+7
+ING.—The Secretary shall make reasonable efforts 
+8
+to limit the public health and health care data and 
+9
+information required to be reported under this sec-
+10
+tion to the minimum necessary to accomplish the in-
+11
+tended public health purpose. 
+12
+‘‘(5) IMPLEMENTATION
+AND
+REGULATIONS.— 
+13
+The Secretary— 
+14
+‘‘(A) may promulgate by regulation the 
+15
+content, form, manner, and frequency in which 
+16
+public health and health care data and informa-
+17
+tion is required to be reported under this sec-
+18
+tion; and 
+19
+‘‘(B) in the event of a public health emer-
+20
+gency declared under section 319, or where the 
+21
+Secretary determines there is a significant po-
+22
+tential for such an emergency to exist, may 
+23
+issue such requirements— 
+24
+21:49 Aug 01, 2022
+H8481
+12 
+•HR 8481 IH
+‘‘(i) by guidance in accordance with 
+1
+this section; and 
+2
+‘‘(ii) without regard to the procedures 
+3
+otherwise required by section 553 of title 
+4
+5, United States Code. 
+5
+‘‘(c) ENSURING THAT DATA IS ACCESSIBLE IN A 
+6
+TIMELY
+MANNER
+TO
+STATE, LOCAL, AND
+TRIBAL 
+7
+HEALTH AUTHORITIES.— 
+8
+‘‘(1) COLLABORATION.—The Secretary shall 
+9
+collaborate with representatives of State, local, and 
+10
+Tribal health departments, and entities representing 
+11
+such departments, to ensure that data and informa-
+12
+tion that is collected by the Centers for Disease Con-
+13
+trol and Prevention pursuant to this section are ac-
+14
+cessible, as appropriate, in a timely manner, to 
+15
+State, local, and Tribal health authorities. 
+16
+‘‘(2) RULES
+OF
+CONSTRUCTION.—Nothing in 
+17
+this section shall be construed— 
+18
+‘‘(A) to prevent any Federal agency, State, 
+19
+local, or Tribal health department, or other en-
+20
+tity from collecting data or information under 
+21
+other applicable law; or 
+22
+‘‘(B) to limit the authority of the Centers 
+23
+for Disease Control and Prevention to share 
+24
+21:49 Aug 01, 2022
+H8481
+13 
+•HR 8481 IH
+public health surveillance data with State, local, 
+1
+or Tribal health authorities. 
+2
+‘‘(3) REASONABLE EFFORTS TO REDUCE RE-
+3
+BURDENS
+AND
+DUPLICA-
+4
+TION.—The Secretary shall make reasonable efforts 
+5
+to collaborate with representatives of Federal agen-
+6
+cies and State, local, and Tribal health departments 
+7
+to reduce reporting burdens and potential duplica-
+8
+tion of reporting requirements. Such efforts may in-
+9
+clude ensuring simultaneous sharing of data and in-
+10
+formation described in subsection (b) with State, 
+11
+local, and Tribal public health agencies. 
+12
+‘‘(d) 
+CONFIDENTIALITY
+AND
+PROTECTION
+OF 
+13
+DATA.—Any identifiable, sensitive information (as defined 
+14
+in section 301(d)) reported to the Centers for Disease 
+15
+Control and Prevention pursuant to this section shall not 
+16
+be further disclosed or provided to any other individual 
+17
+or party, including any party involved in civil, criminal, 
+18
+or administrative litigation, except— 
+19
+‘‘(1) as necessary for public health purposes, in-
+20
+cluding with relevant Federal, State, local, or tribal 
+21
+public health authorities; 
+22
+‘‘(2) as required under section 552a(d)(1) of 
+23
+title 5, United States Code; 
+24
+21:49 Aug 01, 2022
+H8481
+14 
+•HR 8481 IH
+‘‘(3) as required by applicable Federal laws, ex-
+1
+cluding instances of disclosure in any Federal, State, 
+2
+or local civil, criminal, administrative, legislative, or 
+3
+other proceeding; or 
+4
+‘‘(4) with the consent of each individual to 
+5
+whom the information pertains. 
+6
+‘‘(e) EXEMPTION
+OF CERTAIN PUBLIC HEALTH 
+7
+DATA FROM DISCLOSURE.—The Secretary may exempt 
+8
+from disclosure under section 552(b)(3) of title 5, United 
+9
+States Code, public health and health care data and infor-
+10
+mation collected by the Centers for Disease Control and 
+11
+Prevention pursuant to this section or any other authority 
+12
+under which the Centers collects public health or health 
+13
+care data and information if— 
+14
+‘‘(1) an individual is identified through such 
+15
+data or information; or 
+16
+‘‘(2) there is at least a very small risk, as deter-
+17
+mined by current scientific practices or statistical 
+18
+methods, that some combination of the data or in-
+19
+formation, the request for disclosure under such sec-
+20
+tion 552(b)(3), and other available data sources or 
+21
+the application of technology could be used to de-
+22
+duce the identity of the individuals to which such 
+23
+data or information pertains. 
+24
+21:49 Aug 01, 2022
+H8481
+15 
+•HR 8481 IH
+‘‘SEC. 310C. PUBLIC HEALTH INFORMATION SHARING AND 
+1
+AVAILABILITY ADVISORY COMMITTEE. 
+2
+‘‘(a) 
+ESTABLISHMENT.—The 
+Secretary, 
+acting 
+3
+through the Director of the Centers for Disease Control 
+4
+and Prevention, shall establish an advisory committee, to 
+5
+be known as the Public Health Information Sharing and 
+6
+Availability Advisory Committee, to advise, and make rec-
+7
+ommendations to, the Director with respect to the imple-
+8
+mentation of public health and health care data and infor-
+9
+mation reporting and sharing under section 310B. 
+10
+‘‘(b) MEMBERSHIP.—The membership of the advisory 
+11
+committee established pursuant to this section shall in-
+12
+clude— 
+13
+‘‘(1) individuals with subject matter expertise 
+14
+or experience in the following areas of public health 
+15
+and health care data and information, including— 
+16
+‘‘(A) State, territorial, local, and Tribal 
+17
+health department data systems or practices; 
+18
+and 
+19
+‘‘(B) health care data; 
+20
+‘‘(2) ex officio members, including from relevant 
+21
+Federal agencies such as the Office of the National 
+22
+Coordinator for Health Information Technology, the 
+23
+Centers for Medicare & Medicaid Services, the Cen-
+24
+ters for Disease Control and Prevention, and the Of-
+25
+fice of the Assistant Secretary for Health; 
+26
+21:49 Aug 01, 2022
+H8481
+16 
+•HR 8481 IH
+‘‘(3) representatives of national organizations, 
+1
+including the Council of State and Territorial Epi-
+2
+demiologists, the Association of Public Health Lab-
+3
+oratories, the Association of State and Territorial 
+4
+Health Officials, the National Association of County 
+5
+and City Health Officials, and the Big Cities Health 
+6
+Coalition; and 
+7
+‘‘(4) such additional members as the Secretary 
+8
+deems appropriate. 
+9
+‘‘(c) FACA APPLICABILITY.—The advisory com-
+10
+mittee established pursuant to this section is deemed to 
+11
+be an advisory committee subject to the Federal Advisory 
+12
+Committee Act.’’. 
+13
+(e) IMPROVING PUBLIC HEALTH DATA COLLEC-
+14
+TION.— 
+15
+(1) IN GENERAL.—The Secretary of Health and 
+16
+Human Services (referred to in this subsection as 
+17
+the ‘‘Secretary’’) shall award grants, contracts, or 
+18
+cooperative agreements to eligible entities for pur-
+19
+poses of identifying, developing, or disseminating 
+20
+best practices in the collection of electronic health 
+21
+information and the use of designated data stand-
+22
+ards and implementation specifications— 
+23
+(A) to improve the quality and complete-
+24
+ness of data, including demographic data, col-
+25
+21:49 Aug 01, 2022
+H8481
+17 
+•HR 8481 IH
+lected, accessed, or used for public health pur-
+1
+poses; and 
+2
+(B) to address health disparities and re-
+3
+lated health outcomes. 
+4
+(2) ELIGIBLE ENTITIES.—To be eligible to re-
+5
+ceive an award under this subsection an entity 
+6
+shall— 
+7
+(A) be a health care provider, academic 
+8
+medical center, community-based organization, 
+9
+State, local governmental entity, Indian Tribe 
+10
+or Tribal organization (as such terms are de-
+11
+fined in section 4 of the Indian Self Determina-
+12
+tion and Education Assistance Act (25 U.S.C. 
+13
+5304)), Urban Indian organization (as defined 
+14
+in section 4 of the Indian Health Care Improve-
+15
+ment Act (25 U.S.C. 1603)), or other appro-
+16
+priate public or private nonprofit entity, or a 
+17
+consortia of any such entities; and 
+18
+(B) submit an application to the Secretary 
+19
+at such time, in such manner, and containing 
+20
+such information as the Secretary may require. 
+21
+(3) ACTIVITIES.—Entities receiving awards 
+22
+under this subsection shall use such award to de-
+23
+velop and test best practices for training health care 
+24
+providers to use standards and implementation spec-
+25
+21:49 Aug 01, 2022
+H8481
+18 
+•HR 8481 IH
+ifications that assist in the capture, access, ex-
+1
+change, and use of electronic health information, in-
+2
+cluding demographic information, disability status, 
+3
+veteran status, housing status, functional status, 
+4
+and other data elements. Such activities shall, at a 
+5
+minimum, include— 
+6
+(A) improving, understanding, and using 
+7
+data standards and implementation specifica-
+8
+tions; 
+9
+(B) developing or identifying methods to 
+10
+improve communication with patients in a cul-
+11
+turally and linguistically appropriate manner, 
+12
+including to better capture information related 
+13
+to demographics of such individuals; 
+14
+(C) developing methods for accurately cat-
+15
+egorizing and recording patient responses using 
+16
+available data standards; 
+17
+(D) educating providers regarding the util-
+18
+ity of such information for public health pur-
+19
+poses and the importance of accurate collection 
+20
+and recording of such data; and 
+21
+(E) other activities, as the Secretary deter-
+22
+mines appropriate. 
+23
+(4) REPORTING.— 
+24
+21:49 Aug 01, 2022
+H8481
+19 
+•HR 8481 IH
+(A) REPORTING BY AWARD RECIPIENTS.— 
+1
+Each recipient of an award under this sub-
+2
+section shall submit to the Secretary a report 
+3
+on the results of best practices identified, devel-
+4
+oped, or disseminated through such award. 
+5
+(B) REPORT
+TO
+CONGRESS.—Not later 
+6
+than 1 year after the completion of the program 
+7
+under this subsection, the Secretary shall sub-
+8
+mit a report to Congress on the success of the 
+9
+best practices developed under such program, 
+10
+opportunities for further dissemination of such 
+11
+best practices, and recommendations for im-
+12
+proving the capture, access, exchange, and use 
+13
+of information to improve public health and re-
+14
+duce health disparities. 
+15
+(5) NONDUPLICATION OF EFFORTS.—The Sec-
+16
+retary shall ensure that the activities and programs 
+17
+carried out under this subsection are free of unnec-
+18
+essary duplication of effort. 
+19
+(6) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+20
+There is authorized to be appropriated $10,000,000 
+21
+for each of fiscal years 2023 through 2025 to carry 
+22
+out this subsection. 
+23
+21:49 Aug 01, 2022
+H8481
+20 
+•HR 8481 IH
+(f) INFORMATION COLLECTION.—Section 319D(a) of 
+1
+the Public Health Service Act (42 U.S.C. 247d–4(a)) is 
+2
+amended by adding at the end the following: 
+3
+‘‘(5) INFORMATION
+COLLECTION.—Subchapter 
+4
+I of chapter 35 of title 44, United States Code, shall 
+5
+not apply to information collection by the Centers 
+6
+for Disease Control and Prevention, including the 
+7
+Agency for Toxic Substances and Disease Registry, 
+8
+that are part of investigations, research, surveil-
+9
+lance, or evaluations undertaken for public health 
+10
+purposes.’’. 
+11
+Æ 
+21:49 Aug 01, 2022
+H8481

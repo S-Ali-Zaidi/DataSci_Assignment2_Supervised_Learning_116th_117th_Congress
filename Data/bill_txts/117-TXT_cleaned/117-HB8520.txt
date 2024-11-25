@@ -1,0 +1,607 @@
+A BILL 
+To establish certain reporting and other requirements relat-
+ing to telecommunications equipment and services pro-
+duced or provided by certain entities, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Countering Untrusted 
+4
+Telecommunications Abroad Act’’. 
+5
+22:44 Aug 07, 2022
+H8520
+2 
+•HR 8520 IH
+SEC. 2. SENSE OF CONGRESS. 
+1
+It is the sense of Congress that— 
+2
+(1) the national security of the United States is 
+3
+affected by the telecommunications security of 
+4
+United States allies, partners, and other countries 
+5
+around the globe; 
+6
+(2) the importance of mobile and internet serv-
+7
+ices makes such services tempting and effective tools 
+8
+for malign influence and economic coercion; 
+9
+(3) Huawei Technologies Company and ZTE 
+10
+Corporation (and any subsidiary or affiliate of either 
+11
+such entity) should not serve as a vendor of tele-
+12
+communications equipment or services given the 
+13
+close ties to, and control over, such entities by the 
+14
+People’s Republic of China; and 
+15
+(4) it is in the economic and national security 
+16
+interests of the United States to ensure that coun-
+17
+tries around the globe use trusted telecommuni-
+18
+cations equipment or services. 
+19
+SEC. 3. REPORT ON UNTRUSTED TELECOMMUNICATIONS 
+20
+EQUIPMENT OR SERVICES IN COUNTRIES 
+21
+WITH COLLECTIVE DEFENSE AGREEMENT 
+22
+WITH UNITED STATES. 
+23
+(a) REPORT.—Not later than 180 days after the date 
+24
+of the enactment of this Act, and annually thereafter for 
+25
+two years, the Secretary of State shall submit to the Com-
+26
+22:44 Aug 07, 2022
+H8520
+3 
+•HR 8520 IH
+mittee on Foreign Affairs of the House of Representatives 
+1
+and the Committee on Foreign Relations of the Senate 
+2
+a report on the prevalence of untrusted telecommuni-
+3
+cations equipment or services in the networks of United 
+4
+States allies and partners. 
+5
+(b) MATTERS.—The report under subsection (a) shall 
+6
+enumerate each United States ally or partner with respect 
+7
+to which the United States has entered into a collective 
+8
+defense agreement and include, for each such country, the 
+9
+following: 
+10
+(1) A description of the presence, or lack there-
+11
+of, of untrusted telecommunications equipment or 
+12
+services in any 5G network of the country. 
+13
+(2) If any untrusted telecommunications equip-
+14
+ment or service is present in such a network— 
+15
+(A) an enumeration of any mobile carriers 
+16
+that are using the untrusted telecommuni-
+17
+cations equipment or service present, and any 
+18
+mobile carriers that are not; 
+19
+(B) a determination of whether the 
+20
+untrusted telecommunications equipment or 
+21
+service present is in the core or periphery of the 
+22
+network; and 
+23
+(C) any plans to rip and replace the 
+24
+untrusted telecommunications equipment or 
+25
+22:44 Aug 07, 2022
+H8520
+4 
+•HR 8520 IH
+service present with a trusted telecommuni-
+1
+cations equipment or service. 
+2
+(3) A description of any plans by network oper-
+3
+ators to use untrusted telecommunications equip-
+4
+ment or services in the deployment of Open Radio 
+5
+Access Network (Open RAN) technology, or any suc-
+6
+cessor to such technology, or in future 6G networks. 
+7
+SEC. 4. REPORT ON COVERED TELECOMMUNICATIONS 
+8
+EQUIPMENT OR SERVICES IN UNITED STATES 
+9
+EMBASSIES. 
+10
+(a) FINDINGS.—Congress finds the following: 
+11
+(1) The Comptroller General of the United 
+12
+States has reported that 23 percent of all tele-
+13
+communications device manufacturers of the Depart-
+14
+ment of State have at least one supplier reported to 
+15
+be headquartered in the People’s Republic of China 
+16
+or the Russian Federation. 
+17
+(2) The Comptroller General has reported that 
+18
+four percent of all telecommunications contractors of 
+19
+the Department of State have at least one supplier 
+20
+reported to be headquartered in the People’s Repub-
+21
+lic of China. 
+22
+(b) REPORT.— 
+23
+(1) IN
+GENERAL.—Not later than 180 days 
+24
+after the date of the enactment of this Act, the Sec-
+25
+22:44 Aug 07, 2022
+H8520
+5 
+•HR 8520 IH
+retary of State, in consultation with the heads of 
+1
+such other departments and agencies as the Sec-
+2
+retary determines necessary, shall submit to the 
+3
+Committee on Foreign Affairs of the House of Rep-
+4
+resentatives and the Committee on Foreign Rela-
+5
+tions of the Senate a report containing an assess-
+6
+ment of the use of covered telecommunications 
+7
+equipment or services in United States embassies 
+8
+and by United States embassy staff and personnel. 
+9
+(2) MATTERS.—The report under paragraph 
+10
+(1) shall include information on the following: 
+11
+(A) The status of the implementation by 
+12
+the Secretary of State of the prohibition under 
+13
+subsection (a)(1) of section 889 of the John S. 
+14
+McCain National Defense Authorization Act for 
+15
+Fiscal Year 2019 (Public Law 115–232; 132 
+16
+Stat. 1917; 41 U.S.C. 3901 note prec.) with re-
+17
+spect to equipment, systems, and services used 
+18
+at United States embassies, including— 
+19
+(i) an identification of the United 
+20
+States embassies with respect to which the 
+21
+Secretary has implemented such prohibi-
+22
+tion, and an identification of those with re-
+23
+spect to which the Secretary has not imple-
+24
+mented such prohibition, if any; 
+25
+22:44 Aug 07, 2022
+H8520
+6 
+•HR 8520 IH
+(ii) an identification of any difficulties 
+1
+that have delayed the implementation of 
+2
+such prohibition by the Secretary with re-
+3
+spect to United States embassies, such as 
+4
+visibility into supply chains, costs of equip-
+5
+ment replacement, and plans for timely re-
+6
+mediation; 
+7
+(iii) information on any waivers that 
+8
+have been granted to an entity under sub-
+9
+section (d) of such section 889 for equip-
+10
+ment, systems, or services used at United 
+11
+States embassies, including a justification 
+12
+of why each waiver was granted and any 
+13
+other information required pursuant to 
+14
+paragraph (1)(B) of such subsection; and 
+15
+(iv) for any entity that has sought a 
+16
+waiver specified in clause (iii), the imple-
+17
+mentation status of the phase-out plan of 
+18
+the entity submitted by the entity pursuant 
+19
+to subsection (d) of such section 889. 
+20
+(B) Information regarding the extent to 
+21
+which the digital devices of United States em-
+22
+bassy staff and personnel are serviced by 
+23
+Huawei Technologies Company or ZTE Cor-
+24
+poration (or any subsidiary or affiliate of either 
+25
+22:44 Aug 07, 2022
+H8520
+7 
+•HR 8520 IH
+such entity), or any other entity headquartered 
+1
+in the People’s Republic of China, and an as-
+2
+sessment of the likelihood of the intelligence 
+3
+services of the People’s Republic of China gain-
+4
+ing access to the contents and data of the dig-
+5
+ital devices used by United States embassy per-
+6
+sonnel as a result of any such servicing. 
+7
+(C) Any other information regarding ongo-
+8
+ing efforts to safeguard the telecommunications 
+9
+security of United States embassies. 
+10
+(3) FORM.—The report under paragraph (1) 
+11
+shall be submitted in unclassified form, but may in-
+12
+clude a classified annex. 
+13
+SEC. 5. SUPPORTING TRUSTED TELECOMMUNICATIONS. 
+14
+(a) IN GENERAL.—The Secretary of State shall select 
+15
+for the provision of support under this section tele-
+16
+communications infrastructure projects that have the po-
+17
+tential, as determined by the Secretary, to promote the 
+18
+national security of the United States and meet such other 
+19
+requirements as the Secretary may prescribe. 
+20
+(b) DIPLOMATIC
+AND POLITICAL SUPPORT.—The 
+21
+Secretary of State shall provide to each project selected 
+22
+under subsection (a), as appropriate, diplomatic and polit-
+23
+ical support, including by using the diplomatic and polit-
+24
+ical influence and expertise of the Department of State 
+25
+22:44 Aug 07, 2022
+H8520
+8 
+•HR 8520 IH
+to build the capacity of countries to resolve any impedi-
+1
+ments to the development of the project. 
+2
+(c) EARLY STAGE PROJECT SUPPORT.—The Director 
+3
+of the United States Trade and Development Agency 
+4
+should provide, as appropriate, early-stage project support 
+5
+with respect to projects selected under subsection (a). 
+6
+SEC. 6. DISCLOSURE AND TRANSPARENCY OF UNTRUSTED 
+7
+COMMUNICATIONS EQUIPMENT. 
+8
+(a) IN GENERAL.—Section 13 of the Securities Ex-
+9
+change Act of 1934 (15 U.S.C. 78m) is amended by add-
+10
+ing at the end the following new subsection: 
+11
+‘‘(s) DISCLOSURE OF CERTAIN ACTIVITIES RELATED 
+12
+TO UNTRUSTED TELECOMMUNICATIONS EQUIPMENT.— 
+13
+‘‘(1) IN GENERAL.—Each issuer required to file 
+14
+an annual or quarterly report under subsection (a) 
+15
+shall disclose in that report the information required 
+16
+in paragraph (2) if, during the period covered by the 
+17
+report, the issuer or any affiliate of the issuer used 
+18
+or contracted to use covered telecommunications 
+19
+equipment or services. 
+20
+‘‘(2) INFORMATION REQUIRED.—If an issuer or 
+21
+affiliate of the issuer has engaged in an activity de-
+22
+scribed in paragraph (1), the issuer shall disclose 
+23
+such activity, including a detailed description of— 
+24
+22:44 Aug 07, 2022
+H8520
+9 
+•HR 8520 IH
+‘‘(A) whether the covered telecommuni-
+1
+cations equipment or services are being used in 
+2
+a mobile network run by the issuer, and wheth-
+3
+er those equipment or services were used in the 
+4
+core or periphery of the network; 
+5
+‘‘(B) whether the covered telecommuni-
+6
+cations equipment or services were used for 
+7
+cloud computing or data storage; 
+8
+‘‘(C) whether any covered telecommuni-
+9
+cations equipment or services were replaced 
+10
+with other vendors; and 
+11
+‘‘(D) whether the issuer is currently engag-
+12
+ing in negotiations or planning to contract to 
+13
+use 
+additional 
+covered 
+telecommunications 
+14
+equipment or services. 
+15
+‘‘(3) NOTICE OF DISCLOSURES.—If an issuer 
+16
+reports under paragraph (1) that the issuer or an 
+17
+affiliate of the issuer has knowingly engaged in any 
+18
+activity described in that paragraph, the issuer shall 
+19
+separately file with the Commission, concurrently 
+20
+with the annual or quarterly report under subsection 
+21
+(a), a notice that the disclosure of that activity has 
+22
+been included in that annual or quarterly report that 
+23
+identifies the issuer and contains the information re-
+24
+quired by paragraph (2). 
+25
+22:44 Aug 07, 2022
+H8520
+10 
+•HR 8520 IH
+‘‘(4) PUBLIC DISCLOSURE OF INFORMATION.— 
+1
+Upon receiving a notice under paragraph (3) that an 
+2
+annual or quarterly report includes a disclosure of 
+3
+an activity described in paragraph (1), the Commis-
+4
+sion shall promptly— 
+5
+‘‘(A) transmit the report to— 
+6
+‘‘(i) the President; 
+7
+‘‘(ii) the Committee on Foreign Af-
+8
+fairs and the Committee on Financial 
+9
+Services of the House of Representatives; 
+10
+and 
+11
+‘‘(iii) the Committee on Foreign Rela-
+12
+tions and the Committee on Banking, 
+13
+Housing, and Urban Affairs of the Senate; 
+14
+and 
+15
+‘‘(B) make the information provided in the 
+16
+disclosure and the notice available to the public 
+17
+by posting the information on the Internet 
+18
+website of the Commission. 
+19
+‘‘(5) COVERED
+TELECOMMUNICATIONS
+EQUIP-
+20
+MENT
+OR
+SERVICE
+DEFINED.—In this subsection, 
+21
+the term ‘covered telecommunications equipment or 
+22
+service’ has the meaning given that term under sec-
+23
+tion 7 of the Countering Untrusted Telecommuni-
+24
+cations Abroad Act.’’. 
+25
+22:44 Aug 07, 2022
+H8520
+11 
+•HR 8520 IH
+(b) EFFECTIVE DATE.—The amendment made by 
+1
+subsection (a) shall take effect with respect to reports re-
+2
+quired to be filed with the Securities and Exchange Com-
+3
+mission after the date that is 180 days after the date of 
+4
+the enactment of this Act. 
+5
+SEC. 7. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) COVERED
+TELECOMMUNICATIONS
+EQUIP-
+8
+MENT
+OR
+SERVICE; UNTRUSTED
+TELECOMMUNI-
+9
+CATIONS EQUIPMENT OR SERVICE.—The terms ‘‘cov-
+10
+ered telecommunications equipment or service’’ and 
+11
+‘‘untrusted telecommunications equipment or serv-
+12
+ice’’ mean any telecommunications equipment or 
+13
+service produced or provided by any of the following: 
+14
+(A) Huawei Technologies Company or 
+15
+ZTE Corporation (or any subsidiary or affiliate 
+16
+of either such entity). 
+17
+(B) Any entity that the Secretary of State 
+18
+reasonably believes to be an entity owned or 
+19
+controlled by the People’s Republic of China or 
+20
+the Russian Federation. 
+21
+(2) TELECOMMUNICATIONS
+EQUIPMENT
+OR 
+22
+SERVICE.—The term ‘‘telecommunications equip-
+23
+ment or service’’ means any of the following: 
+24
+22:44 Aug 07, 2022
+H8520
+12 
+•HR 8520 IH
+(A) Hardware or software used by a tele-
+1
+communications carrier or internet service pro-
+2
+vider. 
+3
+(B) Data storage or cloud computing serv-
+4
+ices used by an issuer that is required to file an 
+5
+annual or quarterly report under section 13(a) 
+6
+of the Securities Exchange Act of 1934 (15 
+7
+U.S.C. 78m(a)). 
+8
+(3) TRUSTED
+TELECOMMUNICATIONS
+EQUIP-
+9
+MENT
+OR
+SERVICE.—The term ‘‘trusted tele-
+10
+communications equipment or service’’ means any 
+11
+telecommunications equipment or service that is not 
+12
+a covered telecommunications equipment or service. 
+13
+Æ 
+22:44 Aug 07, 2022
+H8520

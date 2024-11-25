@@ -1,0 +1,240 @@
+A BILL 
+To support research on privacy enhancing technologies and 
+promote responsible data use, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Promoting Digital Pri-
+4
+vacy Technologies Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) PERSONAL
+DATA.—The term ‘‘personal 
+8
+data’’ means information that identifies, is linked to, 
+9
+19:47 Feb 28, 2021
+H847
+2 
+•HR 847 IH
+or is reasonably linkable to, an individual or a con-
+1
+sumer device, including derived data. 
+2
+(2) PRIVACY
+ENHANCING
+TECHNOLOGY.—The 
+3
+term ‘‘privacy enhancing technology’’— 
+4
+(A) means any software solution, technical 
+5
+processes, or other technological means of en-
+6
+hancing the privacy and confidentiality of an in-
+7
+dividual’s personal data in data or sets of data; 
+8
+and 
+9
+(B) 
+includes 
+anonymization 
+and 
+10
+pseudonymization techniques, filtering tools, 
+11
+anti-tracking technology, differential privacy 
+12
+tools, synthetic data, and secure multi-party 
+13
+computation. 
+14
+SEC. 3. NATIONAL SCIENCE FOUNDATION SUPPORT OF RE-
+15
+SEARCH ON PRIVACY ENHANCING TECH-
+16
+NOLOGY. 
+17
+The Director of the National Science Foundation, in 
+18
+consultation with other relevant Federal agencies (as de-
+19
+termined by the Director), shall support merit-reviewed 
+20
+and competitively awarded research on privacy enhancing 
+21
+technologies, which may include— 
+22
+(1) fundamental research on technologies for 
+23
+de-identification, pseudonymization, anonymization, 
+24
+19:47 Feb 28, 2021
+H847
+3 
+•HR 847 IH
+or obfuscation of personal data in data sets while 
+1
+maintaining fairness, accuracy, and efficiency; 
+2
+(2) fundamental research on algorithms and 
+3
+other similar mathematical tools used to protect in-
+4
+dividual privacy when collecting, storing, sharing, or 
+5
+aggregating data; 
+6
+(3) fundamental research on technologies that 
+7
+promote data minimization principles in data collec-
+8
+tion, sharing, and analytics; and 
+9
+(4) research awards on privacy enhancing tech-
+10
+nologies coordinated with other relevant Federal 
+11
+agencies and programs. 
+12
+SEC. 4. INTEGRATION INTO THE COMPUTER AND NETWORK 
+13
+SECURITY PROGRAM. 
+14
+Subparagraph (D) of section 4(a)(1) of the Cyber Se-
+15
+curity Research and Development Act (15 U.S.C. 
+16
+7403(a)(1)(D)) is amended to read as follows: 
+17
+‘‘(D) privacy enhancing technologies and 
+18
+confidentiality;’’. 
+19
+SEC. 5. COORDINATION WITH THE NATIONAL INSTITUTE OF 
+20
+STANDARDS AND TECHNOLOGY AND OTHER 
+21
+STAKEHOLDERS. 
+22
+(a) IN GENERAL.—The Director of the Office of 
+23
+Science and Technology Policy, acting through the Net-
+24
+working and Information Technology Research and Devel-
+25
+19:47 Feb 28, 2021
+H847
+4 
+•HR 847 IH
+opment Program, shall coordinate with the Director of the 
+1
+National Science Foundation, the Director of the National 
+2
+Institute of Standards and Technology, and the Federal 
+3
+Trade Commission to accelerate the development and use 
+4
+of privacy enhancing technologies. 
+5
+(b) OUTREACH.—The Director of the National Insti-
+6
+tute of Standards and Technology shall conduct outreach 
+7
+to— 
+8
+(1) receive input from private, public, and aca-
+9
+demic stakeholders, including the National Institutes 
+10
+of Health and the Centers for Disease Control and 
+11
+Prevention, for the purpose of facilitating public 
+12
+health research, on the development of privacy en-
+13
+hancing technologies; and 
+14
+(2) develop ongoing public and private sector 
+15
+engagement to create and disseminate voluntary, 
+16
+consensus-based resources to increase the integra-
+17
+tion of privacy enhancing technologies in data collec-
+18
+tion, sharing, and analytics by the public and private 
+19
+sectors. 
+20
+SEC. 6. REPORT ON RESEARCH AND STANDARDS DEVELOP-
+21
+MENT. 
+22
+Not later than 2 years after the date of enactment 
+23
+of this Act, the Director of the Office of Science and Tech-
+24
+nology Policy, acting through the Networking and Infor-
+25
+19:47 Feb 28, 2021
+H847
+5 
+•HR 847 IH
+mation Technology Research and Development Program, 
+1
+shall, in coordination with the Director of the National 
+2
+Science Foundation and the Director of the National In-
+3
+stitute of Standards and Technology, submit to the Com-
+4
+mittee on Commerce, Science, and Transportation of the 
+5
+Senate, the Subcommittee on Commerce, Justice, Science, 
+6
+and Related Agencies of the Committee on Appropriations 
+7
+of the Senate, the Committee on Science, Space, and 
+8
+Technology of the House of Representatives, and the Sub-
+9
+committee on Commerce, Justice, Science, and Related 
+10
+Agencies of the Committee on Appropriations of the 
+11
+House of Representatives, a report containing— 
+12
+(1) the progress of research on privacy enhanc-
+13
+ing technologies; 
+14
+(2) the progress of the development of vol-
+15
+untary resources described under section 5(b)(2); 
+16
+and 
+17
+(3) any policy recommendations of the Direc-
+18
+tors that could facilitate and improve communication 
+19
+and coordination between the private sector, the Na-
+20
+tional Science Foundation, and relevant Federal 
+21
+agencies through the implementation of privacy en-
+22
+hancing technologies. 
+23
+Æ 
+19:47 Feb 28, 2021
+H847

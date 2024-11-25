@@ -1,0 +1,1260 @@
+A BILL 
+To authorize the Director of the Cybersecurity and Infra-
+structure Security Agency to establish an apprenticeship 
+program and to establish a pilot program on cybersecu-
+rity training for veterans and members of the Armed 
+Forces transitioning to civilian life, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+17:59 Sep 09, 2021
+H5138
+2 
+•HR 5138 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Federal Cybersecurity 
+2
+Workforce Expansion Act’’. 
+3
+SEC. 2. FINDINGS. 
+4
+Congress finds that— 
+5
+(1) the need for qualified cybersecurity per-
+6
+sonnel is greater than ever, as demonstrated by the 
+7
+recent SolarWinds breach and the growing spate of 
+8
+ransomware attacks on critical infrastructure enti-
+9
+ties and State and local governments; 
+10
+(2) the Federal Government is facing a short-
+11
+age of qualified cybersecurity personnel, as noted in 
+12
+a March 2019 Government Accountability Office re-
+13
+port on critical staffing needs in the Federal cyber-
+14
+security workforce; 
+15
+(3) there is a national shortage of qualified cy-
+16
+bersecurity personnel, and according to CyberSeek, a 
+17
+project supported by the National Initiative for Cy-
+18
+bersecurity Education within the National Institute 
+19
+of Standards and Technology, there are approxi-
+20
+mately 500,000 cybersecurity job openings around 
+21
+the United States; 
+22
+(4) in May 2021, the Department of Homeland 
+23
+Security announced that the Department was initi-
+24
+ating a 60-day sprint to hire 200 cybersecurity per-
+25
+sonnel across the Department, with 100 of those 
+26
+17:59 Sep 09, 2021
+H5138
+3 
+•HR 5138 IH
+hires for the Cybersecurity and Infrastructure Secu-
+1
+rity Agency, to address a cybersecurity workforce 
+2
+shortage; and 
+3
+(5) the Federal Government needs to— 
+4
+(A) expand the cybersecurity workforce 
+5
+pipeline 
+of 
+the 
+Federal 
+Government 
+to 
+6
+sustainably close a Federal cybersecurity work-
+7
+force shortage; and 
+8
+(B) work cooperatively with the private 
+9
+sector and State and local government authori-
+10
+ties to expand opportunities for new cybersecu-
+11
+rity professionals. 
+12
+SEC. 3. CYBERSECURITY AND INFRASTRUCTURE SECURITY 
+13
+APPRENTICESHIP PROGRAM. 
+14
+Subtitle A of title XXII of the Homeland Security 
+15
+Act of 2002 (6 U.S.C. 651 et seq.) is amended by adding 
+16
+at the end the following: 
+17
+‘‘SEC. 2220A. APPRENTICESHIP PROGRAM. 
+18
+‘‘(a) DEFINITIONS.—In this section: 
+19
+‘‘(1) AREA
+CAREER
+AND
+TECHNICAL
+EDU-
+20
+CATION SCHOOL.—The term ‘area career and tech-
+21
+nical education school’ has the meaning given the 
+22
+term in section 3 of the Carl D. Perkins Career and 
+23
+Technical Education Act of 2006 (20 U.S.C. 2302). 
+24
+17:59 Sep 09, 2021
+H5138
+4 
+•HR 5138 IH
+‘‘(2) COMMUNITY COLLEGE.—The term ‘com-
+1
+munity college’ means a public institution of higher 
+2
+education at which the highest degree that is pre-
+3
+dominantly awarded to students is an associate’s de-
+4
+gree, including— 
+5
+‘‘(A) a 2-year Tribal College or University, 
+6
+as defined in section 316 of the Higher Edu-
+7
+cation Act of 1965 (20 U.S.C. 1059c); and 
+8
+‘‘(B) a public 2-year State institution of 
+9
+higher education. 
+10
+‘‘(3) CYBERSECURITY WORK ROLES.—The term 
+11
+‘cybersecurity work roles’ means the work roles out-
+12
+lined in the National Initiative for Cybersecurity 
+13
+Education 
+Cybersecurity 
+Workforce 
+Framework 
+14
+(NIST Special Publication 800–181), or any suc-
+15
+cessor framework. 
+16
+‘‘(4) EDUCATION AND TRAINING PROVIDER.— 
+17
+The term ‘education and training provider’ means— 
+18
+‘‘(A) an area career and technical edu-
+19
+cation school; 
+20
+‘‘(B) an early college high school; 
+21
+‘‘(C) an educational service agency; 
+22
+‘‘(D) a high school; 
+23
+‘‘(E) a local educational agency or State 
+24
+educational agency; 
+25
+17:59 Sep 09, 2021
+H5138
+5 
+•HR 5138 IH
+‘‘(F) a Tribal educational agency, Tribally 
+1
+controlled college or university, or Tribally con-
+2
+trolled postsecondary career and technical insti-
+3
+tution; 
+4
+‘‘(G) a postsecondary educational institu-
+5
+tion; 
+6
+‘‘(H) a minority-serving institution; 
+7
+‘‘(I) a provider of adult education and lit-
+8
+eracy activities under the Adult Education and 
+9
+Family Literacy Act (29 U.S.C. 3271 et seq.); 
+10
+‘‘(J) a local agency administering plans 
+11
+under title I of the Rehabilitation Act of 1973 
+12
+(29 U.S.C. 720 et seq.), other than section 112 
+13
+or part C of that title (29 U.S.C. 732, 741); 
+14
+‘‘(K) a related instruction provider, includ-
+15
+ing a qualified intermediary acting as a related 
+16
+instruction provider as approved by a registra-
+17
+tion agency; 
+18
+‘‘(L) a Job Corps center, as defined in sec-
+19
+tion 142 of the Workforce Innovation and Op-
+20
+portunity Act (29 U.S.C. 3192); or 
+21
+‘‘(M) a consortium of entities described in 
+22
+any of subparagraphs (A) through (L). 
+23
+‘‘(5) ELIGIBLE ENTITY.— 
+24
+17:59 Sep 09, 2021
+H5138
+6 
+•HR 5138 IH
+‘‘(A) IN GENERAL.—The term ‘eligible en-
+1
+tity’ means— 
+2
+‘‘(i) a program sponsor; 
+3
+‘‘(ii) a State workforce development 
+4
+board or State workforce agency, or a local 
+5
+workforce development board or local 
+6
+workforce development agency; 
+7
+‘‘(iii) an education and training pro-
+8
+vider; 
+9
+‘‘(iv) if the applicant is in a State 
+10
+with a State apprenticeship agency, such 
+11
+State apprenticeship agency; 
+12
+‘‘(v) an Indian Tribe or Tribal organi-
+13
+zation; 
+14
+‘‘(vi) an industry or sector partner-
+15
+ship, a group of employers, a trade asso-
+16
+ciation, or a professional association that 
+17
+sponsors or participates in a program 
+18
+under the national apprenticeship system; 
+19
+‘‘(vii) a Governor of a State; 
+20
+‘‘(viii) a labor organization or joint 
+21
+labor-management organization; or 
+22
+‘‘(ix) a qualified intermediary. 
+23
+‘‘(B) SPONSOR REQUIREMENT.—Not fewer 
+24
+than 1 entity described in subparagraph (A) 
+25
+17:59 Sep 09, 2021
+H5138
+7 
+•HR 5138 IH
+shall be the sponsor of a program under the na-
+1
+tional apprenticeship system. 
+2
+‘‘(6) INSTITUTION OF HIGHER EDUCATION.— 
+3
+The term ‘institution of higher education’ has the 
+4
+meaning given the term in section 101 of the Higher 
+5
+Education Act of 1965 (20 U.S.C. 1001). 
+6
+‘‘(7) 
+LOCAL
+EDUCATIONAL
+AGENCY; 
+SEC-
+7
+ONDARY
+SCHOOL.—The terms ‘local educational 
+8
+agency’ and ‘secondary school’ have the meanings 
+9
+given those terms in section 8101 of the Elementary 
+10
+and Secondary Education Act of 1965 (20 U.S.C. 
+11
+7801). 
+12
+‘‘(8) 
+LOCAL
+WORKFORCE
+DEVELOPMENT 
+13
+BOARD.—The term ‘local workforce development 
+14
+board’ has the meaning given the term ‘local board’ 
+15
+in section 3 of the Workforce Innovation and Oppor-
+16
+tunity Act (29 U.S.C. 3102). 
+17
+‘‘(9) NONPROFIT
+ORGANIZATION.—The term 
+18
+‘nonprofit organization’ means an organization that 
+19
+is described in section 501(c) of the Internal Rev-
+20
+enue Code of 1986 and exempt from taxation under 
+21
+section 501(a) of such Code. 
+22
+‘‘(10) PROVIDER OF ADULT EDUCATION.—The 
+23
+term ‘provider of adult education’ has the meaning 
+24
+given the term ‘eligible provider’ in section 203 of 
+25
+17:59 Sep 09, 2021
+H5138
+8 
+•HR 5138 IH
+the Adult Education and Family Literacy Act (29 
+1
+U.S.C. 3272). 
+2
+‘‘(11) RELATED INSTRUCTION.—The term ‘re-
+3
+lated instruction’ means an organized and system-
+4
+atic form of instruction designed to provide an indi-
+5
+vidual in an apprenticeship program with the knowl-
+6
+edge of the technical subjects related to the intended 
+7
+occupation of the individual after completion of the 
+8
+program. 
+9
+‘‘(12) SPONSOR.—The term ‘sponsor’ means 
+10
+any person, association, committee, or organization 
+11
+operating an apprenticeship program and in whose 
+12
+name the program is, or is to be, registered or ap-
+13
+proved. 
+14
+‘‘(13) STATE APPRENTICESHIP AGENCY.—The 
+15
+term ‘State apprenticeship agency’ has the meaning 
+16
+given the term in section 29.2 of title 29, Code of 
+17
+Federal Regulations, or any corresponding similar 
+18
+regulation or ruling. 
+19
+‘‘(14) 
+STATE
+WORKFORCE
+DEVELOPMENT 
+20
+BOARD.—The term ‘State workforce development 
+21
+board’ has the meaning given the term ‘State board’ 
+22
+in section 3 of the Workforce Innovation and Oppor-
+23
+tunity Act (29 U.S.C. 3102). 
+24
+17:59 Sep 09, 2021
+H5138
+9 
+•HR 5138 IH
+‘‘(15) WIOA TERMS.—The terms ‘career plan-
+1
+ning’, ‘community-based organization’, ‘economic de-
+2
+velopment agency’, ‘industry or sector partnership’, 
+3
+‘on-the-job training’, ‘recognized postsecondary cre-
+4
+dential’, and ‘workplace learning advisor’ have the 
+5
+meanings given those terms in section 3 of the 
+6
+Workforce Innovation and Opportunity Act (29 
+7
+U.S.C. 3102). 
+8
+‘‘(16) QUALIFIED INTERMEDIARY.— 
+9
+‘‘(A) IN
+GENERAL.—The term ‘qualified 
+10
+intermediary’ means an entity that dem-
+11
+onstrates expertise in building, connecting, sus-
+12
+taining, and measuring the performance of 
+13
+partnerships described in subparagraph (B) and 
+14
+serves program participants and employers 
+15
+by— 
+16
+‘‘(i) connecting employers to programs 
+17
+under the national apprenticeship system; 
+18
+‘‘(ii) assisting in the design and imple-
+19
+mentation of such programs, including cur-
+20
+riculum development and delivery for re-
+21
+lated instruction; 
+22
+‘‘(iii) supporting entities, sponsors, or 
+23
+program administrators in meeting the 
+24
+17:59 Sep 09, 2021
+H5138
+10 
+•HR 5138 IH
+registration and reporting requirements of 
+1
+this Act; 
+2
+‘‘(iv) providing professional develop-
+3
+ment activities such as training to men-
+4
+tors; 
+5
+‘‘(v) supporting the recruitment, re-
+6
+tention, and completion of potential pro-
+7
+gram participants, including nontraditional 
+8
+apprenticeship populations and individuals 
+9
+with barriers to employment; 
+10
+‘‘(vi) developing and providing person-
+11
+alized program participant supports, in-
+12
+cluding by partnering with organizations to 
+13
+provide access to or referrals for supportive 
+14
+services and financial advising; 
+15
+‘‘(vii) providing services, resources, 
+16
+and supports for development, delivery, ex-
+17
+pansion, or improvement of programs 
+18
+under the national apprenticeship system; 
+19
+or 
+20
+‘‘(viii) serving as a program sponsor. 
+21
+‘‘(B) PARTNERSHIPS.—The term ‘partner-
+22
+ships described in subparagraph (B)’ means 
+23
+partnerships among entities involved in, or ap-
+24
+17:59 Sep 09, 2021
+H5138
+11 
+•HR 5138 IH
+plying to participate in, programs under the na-
+1
+tional apprenticeship system, including— 
+2
+‘‘(i) industry or sector partnerships; 
+3
+‘‘(ii) partnerships among employers, 
+4
+joint 
+labor-management 
+organizations, 
+5
+labor organizations, community-based or-
+6
+ganizations, industry associations, State or 
+7
+local workforce development boards, edu-
+8
+cation and training providers, social service 
+9
+organizations, economic development orga-
+10
+nizations, Indian Tribes or Tribal organi-
+11
+zations, one-stop operators, one-stop part-
+12
+ners, or veterans service organizations in 
+13
+the State workforce development system; 
+14
+or 
+15
+‘‘(iii) partnerships among 1 or more 
+16
+of the entities described in clauses (i) and 
+17
+(ii). 
+18
+‘‘(b) ESTABLISHMENT
+OF APPRENTICESHIP PRO-
+19
+GRAMS.—Not later than 2 years after the date of enact-
+20
+ment of this section, the Director may establish 1 or more 
+21
+apprenticeship programs as described in subsection (c). 
+22
+‘‘(c) APPRENTICESHIP PROGRAMS DESCRIBED.—An 
+23
+apprenticeship program described in this subsection is an 
+24
+apprenticeship program that— 
+25
+17:59 Sep 09, 2021
+H5138
+12 
+•HR 5138 IH
+‘‘(1) leads directly to employment in— 
+1
+‘‘(A) a cybersecurity work role with the 
+2
+Agency; or 
+3
+‘‘(B) a position with a company or other 
+4
+entity provided that the position is— 
+5
+‘‘(i) certified by the Director as con-
+6
+tributing to the national cybersecurity of 
+7
+the United States; and 
+8
+‘‘(ii) funded at least in majority part 
+9
+through a contract, grant, or cooperative 
+10
+agreement with the Agency; 
+11
+‘‘(2) is focused on competencies and related 
+12
+learning necessary, as determined by the Director, to 
+13
+meet the immediate and ongoing needs of cybersecu-
+14
+rity work roles at the Agency; and 
+15
+‘‘(3) is registered with and approved by the Of-
+16
+fice of Apprenticeship of the Department of Labor 
+17
+or a State apprenticeship agency pursuant to the 
+18
+Act of August 16, 1937 (commonly known as the 
+19
+‘National Apprenticeship Act’; 29 U.S.C. 50 et seq.). 
+20
+‘‘(d) COORDINATION.—In the development of an ap-
+21
+prenticeships program under this section, the Director 
+22
+shall consult with the Secretary of Labor, the Director of 
+23
+the National Institute of Standards and Technology, the 
+24
+Secretary of Defense, the Director of the National Science 
+25
+17:59 Sep 09, 2021
+H5138
+13 
+•HR 5138 IH
+Foundation, and the Director of the Office of Personnel 
+1
+Management to leverage existing resources, research, com-
+2
+munities of practice, and frameworks for developing cyber-
+3
+security apprenticeship programs. 
+4
+‘‘(e) OPTIONAL USE OF GRANTS OR COOPERATIVE 
+5
+AGREEMENTS.—An apprenticeship program under this 
+6
+section may include entering into a contract or cooperative 
+7
+agreement with or making a grant to an eligible entity 
+8
+if determined appropriate by the Director based on the 
+9
+eligible entity— 
+10
+‘‘(1) demonstrating experience in implementing 
+11
+and providing career planning and career pathways 
+12
+toward apprenticeship programs; 
+13
+‘‘(2) having knowledge of cybersecurity work-
+14
+force development; 
+15
+‘‘(3) being eligible to enter into a contract or 
+16
+cooperative agreement with or receive grant funds 
+17
+from the Agency as described in this section; 
+18
+‘‘(4) providing students who complete the ap-
+19
+prenticeship program with a recognized postsec-
+20
+ondary credential; 
+21
+‘‘(5) using related instruction that is specifically 
+22
+aligned with the needs of the Agency and utilizes 
+23
+workplace learning advisors and on-the-job training 
+24
+to the greatest extent possible; and 
+25
+17:59 Sep 09, 2021
+H5138
+14 
+•HR 5138 IH
+‘‘(6) demonstrating successful outcomes con-
+1
+necting graduates of the apprenticeship program to 
+2
+careers relevant to the program. 
+3
+‘‘(f) APPLICATIONS.—If the Director enters into an 
+4
+arrangement as described in subsection (e), an eligible en-
+5
+tity seeking a contract, cooperative agreement, or grant 
+6
+under the program shall submit to the Director an applica-
+7
+tion at such time, in such manner, and containing such 
+8
+information as the Director may require. 
+9
+‘‘(g) PRIORITY.—In selecting eligible entities to re-
+10
+ceive a contract, grant, or cooperative agreement under 
+11
+this section, the Director may prioritize an eligible entity 
+12
+that— 
+13
+‘‘(1) is a member of an industry or sector part-
+14
+nership; 
+15
+‘‘(2) provides related instruction for an appren-
+16
+ticeship program through— 
+17
+‘‘(A) a local educational agency, a sec-
+18
+ondary school, a provider of adult education, an 
+19
+area career and technical education school, or 
+20
+an institution of higher education; or 
+21
+‘‘(B) an apprenticeship program that was 
+22
+registered with the Department of Labor or a 
+23
+State apprenticeship agency before the date on 
+24
+17:59 Sep 09, 2021
+H5138
+15 
+•HR 5138 IH
+which the eligible entity applies for the grant 
+1
+under subsection (g); 
+2
+‘‘(3) works with the Secretary of Defense, the 
+3
+Secretary of Veterans Affairs, or veterans organiza-
+4
+tions to transition members of the Armed Forces 
+5
+and veterans to apprenticeship programs in a rel-
+6
+evant sector; or 
+7
+‘‘(4) plans to use the grant to carry out the ap-
+8
+prenticeship program with an entity that receives 
+9
+State funding or is operated by a State agency. 
+10
+‘‘(h) TECHNICAL ASSISTANCE.—The Director shall 
+11
+provide technical assistance to eligible entities to leverage 
+12
+the existing job training and education programs of the 
+13
+Agency and other relevant programs at appropriate Fed-
+14
+eral agencies. 
+15
+‘‘(i) EXCEPTED SERVICE.—Participants in the pro-
+16
+gram may be entered into cybersecurity-specific excepted 
+17
+service positions as determined appropriate by the Direc-
+18
+tor and authorized by section 2208. 
+19
+‘‘(j) REPORT.— 
+20
+‘‘(1) IN GENERAL.—Not less than once every 2 
+21
+years after the establishment of an apprenticeship 
+22
+program under this section, the Director shall sub-
+23
+mit to Congress a report on the program, includ-
+24
+ing— 
+25
+17:59 Sep 09, 2021
+H5138
+16 
+•HR 5138 IH
+‘‘(A) a description of— 
+1
+‘‘(i) any activity carried out by the 
+2
+Agency under this section; 
+3
+‘‘(ii) any entity that enters into a con-
+4
+tract or agreement with or receives a grant 
+5
+from the Agency under subsection (e); 
+6
+‘‘(iii) any activity carried out using a 
+7
+contract, agreement, or grant under this 
+8
+section as described in subsection (e); and 
+9
+‘‘(iv) best practices used to leverage 
+10
+the investment of the Federal Government 
+11
+under this section; and 
+12
+‘‘(B) an assessment of the results achieved 
+13
+by the program, including the rate of continued 
+14
+employment at the Agency for participants 
+15
+after completing an apprenticeship program 
+16
+carried out under this section. 
+17
+‘‘(k) PERFORMANCE REPORTS.—Not later than 1 
+18
+year after the establishment of an apprenticeship program 
+19
+under this section, and annually thereafter, the Director 
+20
+shall submit to Congress and the Secretary of Labor a 
+21
+report on the effectiveness of the program based on the 
+22
+accountability measures described in clauses (i) and (ii) 
+23
+of section 116(b)(2)(A) of the Workforce Innovation and 
+24
+Opportunity Act (29 U.S.C. 3141(b)(2)(A)). 
+25
+17:59 Sep 09, 2021
+H5138
+17 
+•HR 5138 IH
+‘‘(l) AUTHORIZATION OF APPROPRIATIONS.—There is 
+1
+authorized to be appropriated to the Agency such sums 
+2
+as necessary to carry out this section.’’. 
+3
+SEC. 4. PILOT PROGRAM ON CYBER TRAINING FOR VET-
+4
+ERANS 
+AND 
+MEMBERS 
+OF 
+THE 
+ARMED 
+5
+FORCES TRANSITIONING TO CIVILIAN LIFE. 
+6
+(a) DEFINITIONS.—In this section: 
+7
+(1) ELIGIBLE INDIVIDUAL.—The term ‘‘eligible 
+8
+individual’’ means an individual who is— 
+9
+(A) a member of the Armed Forces 
+10
+transitioning from service in the Armed Forces 
+11
+to civilian life; or 
+12
+(B) a veteran. 
+13
+(2) PORTABLE CREDENTIAL.—The term ‘‘port-
+14
+able credential’’— 
+15
+(A) means a documented award by a re-
+16
+sponsible and authorized entity that has deter-
+17
+mined that an individual has achieved specific 
+18
+learning outcomes relative to a given standard; 
+19
+and 
+20
+(B) includes a degree, diploma, license, 
+21
+certificate, badge, and professional or industry 
+22
+certification that— 
+23
+17:59 Sep 09, 2021
+H5138
+18 
+•HR 5138 IH
+(i) has value locally and nationally in 
+1
+labor markets, educational systems, or 
+2
+other contexts; 
+3
+(ii) is defined publicly in such a way 
+4
+that allows educators, employers, and other 
+5
+individuals and entities to understand and 
+6
+verify the full set of skills represented by 
+7
+the credential; and 
+8
+(iii) enables a holder of the credential 
+9
+to move vertically and horizontally within 
+10
+and across training and education systems 
+11
+for the attainment of other credentials. 
+12
+(3) VETERAN.—The term ‘‘veteran’’ has the 
+13
+meaning given the term in section 101 of title 31, 
+14
+United States Code. 
+15
+(4) WORK-BASED LEARNING.—The term ‘‘work- 
+16
+based learning’’ has the meaning given the term in 
+17
+section 3 of the Carl D. Perkins Career and Tech-
+18
+nical Education Act of 2006 (20 U.S.C. 2302). 
+19
+(b) ESTABLISHMENT.—Not later than 1 year after 
+20
+the date of enactment of this Act, the Secretary of Vet-
+21
+erans Affairs shall establish a pilot program under which 
+22
+the Secretary shall provide cyber-specific training for eligi-
+23
+ble individuals. 
+24
+17:59 Sep 09, 2021
+H5138
+19 
+•HR 5138 IH
+(c) ELEMENTS.—The pilot program established 
+1
+under subsection (b) shall incorporate— 
+2
+(1) virtual platforms for coursework and train-
+3
+ing; 
+4
+(2) hands-on skills labs and assessments; 
+5
+(3) Federal work-based learning opportunities 
+6
+and programs; and 
+7
+(4) the provision of portable credentials to eligi-
+8
+ble individuals who graduate from the pilot program. 
+9
+(d) ALIGNMENT WITH NICE WORKFORCE FRAME-
+10
+WORK FOR CYBERSECURITY.—The pilot program estab-
+11
+lished under subsection (b) shall align with the taxonomy, 
+12
+including work roles and associated tasks, knowledge, and 
+13
+skills, from the National Initiative for Cybersecurity Edu-
+14
+cation Workforce Framework for Cybersecurity (NIST 
+15
+Special Publication 800–181), or any successor frame-
+16
+work. 
+17
+(e) COORDINATION.— 
+18
+(1) 
+TRAINING, 
+PLATFORMS, 
+AND
+FRAME-
+19
+WORKS.—In developing the pilot program under sub-
+20
+section (b), the Secretary of Veterans Affairs shall 
+21
+coordinate with the Secretary of Defense, the Sec-
+22
+retary of Homeland Security, the Secretary of 
+23
+Labor, and the Director of the Office of Personnel 
+24
+Management to evaluate and, where possible, lever-
+25
+17:59 Sep 09, 2021
+H5138
+20 
+•HR 5138 IH
+age existing training, platforms, and frameworks of 
+1
+the Federal Government for providing cyber edu-
+2
+cation and training to prevent duplication of efforts. 
+3
+(2) FEDERAL WORK-BASED LEARNING OPPOR-
+4
+TUNITIES AND PROGRAMS.—In developing the Fed-
+5
+eral work-based learning opportunities and programs 
+6
+required under subsection (c)(3), the Secretary of 
+7
+Veterans Affairs shall coordinate with the Secretary 
+8
+of Defense, the Secretary of Homeland Security, the 
+9
+Secretary of Labor, the Director of the Office of 
+10
+Personnel Management, and the heads of other ap-
+11
+propriate Federal agencies to identify or create 
+12
+interagency opportunities that will enable the pilot 
+13
+program established under subsection (b) to— 
+14
+(A) bridge the gap between knowledge ac-
+15
+quisition and skills application for participants; 
+16
+and 
+17
+(B) give participants the experience nec-
+18
+essary to pursue Federal employment. 
+19
+(f) RESOURCES.— 
+20
+(1) IN GENERAL.—In any case in which the 
+21
+pilot program established under subsection (b)— 
+22
+(A) uses a program of the Department of 
+23
+Veterans Affairs or platforms and frameworks 
+24
+described in subsection (e)(1), the Secretary of 
+25
+17:59 Sep 09, 2021
+H5138
+21 
+•HR 5138 IH
+Veterans Affairs shall take such actions as may 
+1
+be necessary to ensure that those programs, 
+2
+platforms, and frameworks are expanded and 
+3
+resourced to accommodate usage by eligible in-
+4
+dividuals participating in the pilot program; or 
+5
+(B) does not use a program of the Depart-
+6
+ment of Veterans Affairs or platforms and 
+7
+frameworks described in subsection (e)(1), the 
+8
+Secretary of Veterans Affairs shall take such 
+9
+actions as may be necessary to develop or pro-
+10
+cure programs, platforms, and frameworks nec-
+11
+essary to carry out the requirements of sub-
+12
+section (c) and accommodate the usage by eligi-
+13
+ble individuals participating in the pilot pro-
+14
+gram. 
+15
+(2) ACTIONS.—Actions described in paragraph 
+16
+(1) may include providing additional funding, staff, 
+17
+or other resources to— 
+18
+(A) provide administrative support for 
+19
+basic functions of the pilot program; 
+20
+(B) ensure the success and ongoing en-
+21
+gagement of eligible individuals participating in 
+22
+the pilot program; 
+23
+17:59 Sep 09, 2021
+H5138
+22 
+•HR 5138 IH
+(C) connect graduates of the pilot program 
+1
+to job opportunities within the Federal Govern-
+2
+ment; and 
+3
+(D) allocate dedicated positions for term 
+4
+employment to enable Federal work-based 
+5
+learning opportunities and programs for partici-
+6
+pants to gain the experience necessary to pur-
+7
+sue permanent Federal employment. 
+8
+SEC. 5. FEDERAL WORKFORCE ASSESSMENT EXTENSION. 
+9
+Section 304(a) of the Federal Cybersecurity Work-
+10
+force Assessment Act of 2015 (5 U.S.C. 301 note) is 
+11
+amended, in the matter preceding paragraph (1), by strik-
+12
+ing ‘‘2022’’ and inserting ‘‘2025’’. 
+13
+SEC. 6. TITLE XXII TECHNICAL AND CLERICAL AMEND-
+14
+MENTS. 
+15
+(a) TECHNICAL AMENDMENTS.— 
+16
+(1) HOMELAND SECURITY ACT OF 2002.—Sub-
+17
+title A of title XXII of the Homeland Security Act 
+18
+of 2002 (6 U.S.C. 651 et seq.) is amended— 
+19
+(A) in the first section 2215 (6 U.S.C. 
+20
+665; relating to the duties and authorities relat-
+21
+ing to .gov internet domain), by amending the 
+22
+section enumerator and heading to read as fol-
+23
+lows: 
+24
+17:59 Sep 09, 2021
+H5138
+23 
+•HR 5138 IH
+‘‘SEC. 2215. DUTIES AND AUTHORITIES RELATING TO .GOV 
+1
+INTERNET DOMAIN.’’; 
+2
+(B) in the second section 2215 (6 U.S.C. 
+3
+665b; relating to the joint cyber planning of-
+4
+fice), by amending the section enumerator and 
+5
+heading to read as follows: 
+6
+‘‘SEC. 2216. JOINT CYBER PLANNING OFFICE.’’; 
+7
+(C) in the third section 2215 (6 U.S.C. 
+8
+665c; relating to the Cybersecurity State Coor-
+9
+dinator), by amending the section enumerator 
+10
+and heading to read as follows: 
+11
+‘‘SEC. 2217. CYBERSECURITY STATE COORDINATOR.’’; 
+12
+(D) in the fourth section 2215 (6 U.S.C. 
+13
+665d; relating to Sector Risk Management 
+14
+Agencies), by amending the section enumerator 
+15
+and heading to read as follows: 
+16
+‘‘SEC. 2218. SECTOR RISK MANAGEMENT AGENCIES.’’; 
+17
+(E) in section 2216 (6 U.S.C. 665e; relat-
+18
+ing to the Cybersecurity Advisory Committee), 
+19
+by amending the section enumerator and head-
+20
+ing to read as follows: 
+21
+‘‘SEC. 2219. CYBERSECURITY ADVISORY COMMITTEE.’’; 
+22
+and 
+23
+(F) in section 2217 (6 U.S.C. 665f; relat-
+24
+ing to Cybersecurity Education and Training 
+25
+17:59 Sep 09, 2021
+H5138
+24 
+•HR 5138 IH
+Programs), by amending the section enu-
+1
+merator and heading to read as follows: 
+2
+‘‘SEC. 2220. CYBERSECURITY EDUCATION AND TRAINING 
+3
+PROGRAMS.’’. 
+4
+(2) 
+CONSOLIDATED
+APPROPRIATIONS
+ACT, 
+5
+2021.—Paragraph (1) of section 904(b) of division U 
+6
+of the Consolidated Appropriations Act, 2021 (Pub-
+7
+lic Law 116–260) is amended, in the matter pre-
+8
+ceding subparagraph (A), by inserting ‘‘of 2002’’ 
+9
+after ‘‘Homeland Security Act’’. 
+10
+(b) CLERICAL AMENDMENT.—The table of contents 
+11
+in section 1(b) of the Homeland Security Act of 2002 is 
+12
+amended by striking the items relating to sections 2214 
+13
+through 2217 and inserting the following new items: 
+14
+‘‘Sec. 2214. National Asset Database. 
+‘‘Sec. 2215. Duties and authorities relating to .gov internet domain. 
+‘‘Sec. 2216. Joint cyber planning office. 
+‘‘Sec. 2217. Cybersecurity State Coordinator. 
+‘‘Sec. 2218. Sector Risk Management Agencies. 
+‘‘Sec. 2219. Cybersecurity Advisory Committee. 
+‘‘Sec. 2220. Cybersecurity Education and Training Programs. 
+‘‘Sec. 2220A. Apprenticeship program.’’. 
+Æ 
+17:59 Sep 09, 2021
+H5138

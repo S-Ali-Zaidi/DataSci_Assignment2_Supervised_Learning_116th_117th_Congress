@@ -1,0 +1,1023 @@
+A BILL 
+To require the Federal Communications Commission to issue 
+a notice of inquiry related to digital redlining, to prohibit 
+digital redlining, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Anti Digital Redlining Act of 2021’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents for 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Findings and purpose. 
+Sec. 3. Notice of inquiry to assess factors that indicate digital redlining is oc-
+curring. 
+03:36 Aug 19, 2021
+H4875
+2 
+•HR 4875 IH
+Sec. 4. Rules required to prevent digital redlining. 
+Sec. 5. Public complaints at the Commission. 
+Sec. 6. Enforcement of antiredlining provision. 
+Sec. 7. Prohibition of ISP or MVPD exclusive agreements with multi-dwelling 
+units. 
+Sec. 8. Study of the impact of franchising agreements on consumers and com-
+petition. 
+Sec. 9. No forbearance or waiver. 
+Sec. 10. No preemption of consistent State or local authority. 
+Sec. 11. Definitions. 
+SEC. 2. FINDINGS AND PURPOSE. 
+1
+(a) FINDINGS.—Congress finds the following: 
+2
+(1) Many consumers pay as much for DSL as 
+3
+they do for fiber, despite fiber offering significantly 
+4
+faster speeds and greater reliability. 
+5
+(2) Internet service providers are less likely to 
+6
+upgrade to fiber as a transmission medium in low- 
+7
+income communities. Households where fiber net-
+8
+works are deployed have a median income 34 per-
+9
+cent higher than those with only DSL. 
+10
+(3) Communities of color are more likely to 
+11
+have slower and less reliable internet service. This 
+12
+disparity creates significant barriers to accessing 
+13
+employment opportunities, educational opportunities, 
+14
+healthcare resources, and diminishes opportunities 
+15
+for civic engagement. 
+16
+(4) The creation of significant disparities in 
+17
+internet service within a geographic area imposes 
+18
+significant costs not only on the individuals with 
+19
+slower or less reliable service, but on government at 
+20
+03:36 Aug 19, 2021
+H4875
+3 
+•HR 4875 IH
+the local, State and Federal level by requiring gov-
+1
+ernments to provide non-digital as well as digital 
+2
+means of accessing benefits, paying bills, sharing in-
+3
+formation, and otherwise choosing between either of-
+4
+fering redundant non-digital means of interaction or 
+5
+excluding residents without access to high speed, re-
+6
+liable broadband. 
+7
+(5) Communities with poor quality broadband 
+8
+have difficulty attracting businesses, attracting new 
+9
+residents, and have difficulty competing with com-
+10
+munities with superior broadband options available. 
+11
+(6) Companies can deploy fiber to most lower 
+12
+income communities and generate sufficient revenue 
+13
+to recoup the cost of deployment. 
+14
+(7) Broadband is an essential service and con-
+15
+sumers, regardless of income, race, ethnicity, color 
+16
+or 
+national 
+origin 
+deserve 
+affordable 
+reliable 
+17
+broadband. 
+18
+(8) Competition between internet service pro-
+19
+viders within a specific neighborhood is an important 
+20
+means of ensuring quality service and lower prices to 
+21
+the residents of that neighborhood. By contrast, 
+22
+neighborhoods with a single provider often suffer 
+23
+from lower quality service and higher prices. 
+24
+03:36 Aug 19, 2021
+H4875
+4 
+•HR 4875 IH
+(9) Internet service providers, State and local 
+1
+governments, and the Federal Communications 
+2
+Commission have all identified arrangements by 
+3
+ISPs between landlords, housing associations, and 
+4
+other relevant private entities designed (collectively 
+5
+‘‘landlords’’) to thwart access by competitors as a 
+6
+significant contributing factor to digital redlining by 
+7
+preventing or discouraging access to superior service 
+8
+and eliminating the threat of competition to the pre-
+9
+ferred provider. These arrangements may take the 
+10
+form of exclusive access for a single provider, dis-
+11
+counts to residents on rent, utility payments, or 
+12
+other landlord generated charges, additional ex-
+13
+penses to either the resident or the competing pro-
+14
+vider to access and install necessary equipment or 
+15
+inside wiring. Landlords may also impose restric-
+16
+tions on access by rival providers for purposes of 
+17
+marketing rival services, or otherwise limit commu-
+18
+nication between rival providers and residents. 
+19
+(10) Although the Federal Communications 
+20
+Commission formally prohibited express exclusive 
+21
+agreements between landlords and broadband pro-
+22
+viders in 2007, these arrangements continue to per-
+23
+sist as a consequence of loopholes and the lack of an 
+24
+03:36 Aug 19, 2021
+H4875
+5 
+•HR 4875 IH
+effective enforcement mechanism to ensure swift ac-
+1
+cess of willing competitors to willing customers. 
+2
+(11) Even where local and State authorities 
+3
+have reached agreements with competing internet 
+4
+service providers to deploy in neighborhoods suf-
+5
+fering redlining, the presence of these agreements 
+6
+has thwarted competitive entry and aggravated dig-
+7
+ital redlining. 
+8
+(12) As a consequence of agreements between 
+9
+landlords and internet service providers, Americans 
+10
+can lose the benefits of competition, leading to high-
+11
+er prices and poorer service. 
+12
+(13) Traditionally, wireless technologies have 
+13
+been less subject to digital redlining because a single 
+14
+tower can cover an area of many miles. Newer wire-
+15
+less technologies, such as 5G, employ towers with 
+16
+much smaller coverage areas—sometimes requiring 
+17
+multiple towers to provide adequate coverage within 
+18
+a neighborhood. This has generated concern that, 
+19
+without Congressional action, communities that now 
+20
+suffer digital redlining from wireline services may 
+21
+suffer similar wireless digital redlining in the future. 
+22
+(14) Easements and access to private property 
+23
+for the purpose of providing critical and competing 
+24
+03:36 Aug 19, 2021
+H4875
+6 
+•HR 4875 IH
+services are a well-established regulatory tool, and 
+1
+do not constitute an unconstitutional taking. 
+2
+(b) PURPOSE.—It is the purpose of this Act— 
+3
+(1) to identify and remedy ‘‘digital redlining’’, 
+4
+regardless of the level of competition in the market 
+5
+as a whole, by ensuring all Americans, especially 
+6
+those in traditionally underserved or marginalized 
+7
+communities, have access to competing broadband 
+8
+networks at the same quality of service, at reason-
+9
+able prices, as available in other similarly situated 
+10
+communities with higher median incomes or dif-
+11
+ferent demographic makeup; 
+12
+(2) to empower and require the Federal Com-
+13
+munications Commission to identify what constitutes 
+14
+digital redlining, and to empower and require the 
+15
+Commission to enact regulations designed to elimi-
+16
+nate digital redlining; and 
+17
+(3) to enable competing broadband providers 
+18
+frustrated by exclusive arrangements between rival 
+19
+providers and landlords to serve willing customers. 
+20
+SEC. 3. NOTICE OF INQUIRY TO ASSESS FACTORS THAT IN-
+21
+DICATE DIGITAL REDLINING IS OCCURRING. 
+22
+Not later than 180 days after the date of the enact-
+23
+ment of this Act, the Commission shall issue a notice of 
+24
+inquiry that seeks public comment on the following: 
+25
+03:36 Aug 19, 2021
+H4875
+7 
+•HR 4875 IH
+(1) Criteria necessary to determine where ISPs 
+1
+are not upgrading systems or deploying new systems 
+2
+capable of supporting robust broadband access of 
+3
+comparable quality with the broader community. 
+4
+(2) Criteria to define the granularity of the geo-
+5
+graphic area necessary to determine whether dis-
+6
+criminatory factors are being used to delay deploy-
+7
+ment of robust broadband. 
+8
+(3) The reasons ISPs use to determine where 
+9
+facilities are upgraded to provide robust broadband 
+10
+and what factors deter deployment in those granular 
+11
+areas that are not served. 
+12
+(4) The disparity investment in high-income 
+13
+areas compared to low-income areas within the geo-
+14
+graphic service area of an ISP. 
+15
+(5) Disparity of investment based on race. 
+16
+(6) Availability of fiber to the home, or deploy-
+17
+ment of fiber-to-the-curb or headend, within a geo-
+18
+graphic service area. 
+19
+(7) Degradation in quality of service within geo-
+20
+graphic service area over a given period of time. 
+21
+(8) Tier flattening in rural and urban service 
+22
+areas. 
+23
+(9) Network resiliency issues, including fre-
+24
+quency of outages. 
+25
+03:36 Aug 19, 2021
+H4875
+8 
+•HR 4875 IH
+(10) The reliability of networks with respect to 
+1
+the recovery of outages. 
+2
+SEC. 4. RULES REQUIRED TO PREVENT DIGITAL RED-
+3
+LINING. 
+4
+(a) RULES REQUIRED.—Not later than 2 years after 
+5
+the date of the enactment of this Act and based on the 
+6
+findings from the notice of inquiry under section 3, the 
+7
+Commission shall promulgate rules that do the following: 
+8
+(1) Overcome identified barriers from such no-
+9
+tice of inquiry, including rules to prevent discrimina-
+10
+tion of access based on income level, race, color, reli-
+11
+gion, or national origin. 
+12
+(2) Define the granularity of the geographic 
+13
+area in which the Commission considers compliance 
+14
+with the rules adopted, taking into account whether 
+15
+information at a census-block level or a more dis-
+16
+crete level is needed to identify areas where redlining 
+17
+is occurring. 
+18
+(3) Determine what factors would permit an 
+19
+ISP to not deploy to the entirety of a clearly defined 
+20
+geographic area with comparable robust broadband 
+21
+service, taking into account that deployment plan-
+22
+ning for areas may proceed in differing stages. In 
+23
+developing this determination, the Commission shall 
+24
+establish a process by which a provider may request 
+25
+03:36 Aug 19, 2021
+H4875
+9 
+•HR 4875 IH
+an exemption from a requirement to deploy robust 
+1
+broadband to the entirety of a clearly defined geo-
+2
+graphic area upon a showing that factors other than 
+3
+income level, race, color, religion, or national origin 
+4
+are the causes of the inability to deploy broadband. 
+5
+(b) COMMISSION POLICIES.—The Commission shall 
+6
+ensure that the policies of the Commission promote equal 
+7
+access to robust broadband by prohibiting deployment dis-
+8
+crimination based on the income level of an area, the pre-
+9
+dominant race or ethnicity composition of an area, or 
+10
+other factors the Commission determines based on the 
+11
+findings in the record developed from this any rule pro-
+12
+mulgated under this section and the notice of inquiry 
+13
+under section 3. 
+14
+SEC. 5. PUBLIC COMPLAINTS AT THE COMMISSION. 
+15
+An individual may file a complaint using the public 
+16
+complaint system of the Commission for a violation of this 
+17
+Act. A complaint shall specify which provision of this Act 
+18
+or rule of the Commission is allegedly violated. The Com-
+19
+mission shall adopt such rules as are necessary to facili-
+20
+tate the filing and enforcement of any such complaint. 
+21
+SEC. 6. ENFORCEMENT OF ANTIREDLINING PROVISION. 
+22
+(a) COMMISSION ORDERS.—The Commission may 
+23
+issue an order to remedy a violation of a rule issued pursu-
+24
+ant to section 4, which may include any of the following: 
+25
+03:36 Aug 19, 2021
+H4875
+10 
+•HR 4875 IH
+(1) An order to provide interconnection to any 
+1
+other ISP willing to provide service to the area 
+2
+found to be redlined and to whatever additional area 
+3
+the Commission may determine is necessary to make 
+4
+service to the redlined area reasonably profitable and 
+5
+sustainable. 
+6
+(2) An order to compel an ISP to provide serv-
+7
+ice to the area found to be redlined— 
+8
+(A) which shall detail the services required 
+9
+to be offered and may require that the prices 
+10
+offered for such services be just, reasonable, 
+11
+and affordable to the residents of the relevant 
+12
+geographic area; and 
+13
+(B) which may not threaten the commer-
+14
+cial viability of the ISP. 
+15
+(3) An order to require a party not subject to 
+16
+the jurisdiction of the Commission to provide access 
+17
+to any physical premises, wiring, or facility. 
+18
+(4) Any other relief or penalty authorized under 
+19
+this Act. 
+20
+(b) FEDERAL FUNDS.— 
+21
+(1) IN GENERAL.—For any ISP that receives 
+22
+Federal funds on or after the date of the enactment 
+23
+of this section for the purpose of providing service 
+24
+to a geographic area that includes an area subject 
+25
+03:36 Aug 19, 2021
+H4875
+11 
+•HR 4875 IH
+to redlining, the Commission shall assess the cost of 
+1
+provision of robust broadband to the redlined area 
+2
+and shall require the ISP to return the funds for 
+3
+that portion of the grant that should have provided 
+4
+service to that area. The Commission shall include 
+5
+interest from the date of the disbursement of the 
+6
+Federal funds to the date of payment for any funds 
+7
+returned under this paragraph. 
+8
+(2) USE OF FUNDS.—The Commission may use 
+9
+any funds returned under paragraph (1) for any 
+10
+broadband deployment or digital inclusion fund su-
+11
+pervised by the Commission. 
+12
+SEC. 7. PROHIBITION OF ISP OR MVPD EXCLUSIVE AGREE-
+13
+MENTS WITH MULTI-DWELLING UNITS. 
+14
+(a) EXCLUSIVE
+AGREEMENTS
+PROHIBITED.—An 
+15
+ISP and MVPD may not, individually or jointly, enter into 
+16
+an agreement with a multi-dwelling unit that limits the 
+17
+ability of an ISP or MVPD (or that has the effect of such 
+18
+limitation) from serving a resident of the MDU. Nor may 
+19
+an MDU unreasonably restrict access to an ISP or MVPD 
+20
+to which a resident subscribes. 
+21
+(b) INCENTIVES PROHIBITED.—A landlord may not 
+22
+offer an incentive to a resident to select a specific ISP 
+23
+or MVPD, or any action designed to prevent or discourage 
+24
+any resident from subscribing to any ISP or MVPD. 
+25
+03:36 Aug 19, 2021
+H4875
+12 
+•HR 4875 IH
+(c) LANDLORD INDUCEMENT PROHIBITED.—An ISP 
+1
+or MVPD may not offer an inducement to a landlord 
+2
+that— 
+3
+(1) promotes or favors any ISP or MVPD with 
+4
+regard to marketing, obtaining or retaining residents 
+5
+of a multi-dwelling unit as subscribers; or 
+6
+(2) in any way discourage a resident of a multi- 
+7
+dwelling unit from subscribing to an ISP or MVPD 
+8
+the resident chooses. 
+9
+(d) PUBLIC AVAILABILITY
+OF AGREEMENTS.—An 
+10
+ISP or MVPD shall make any agreement made by an ISP 
+11
+or MVPD with a multi-dwelling unit available to the pub-
+12
+lic. 
+13
+(e) ACCESS TO PREMISES, ACCESS TO WIRING.—An 
+14
+ISP and MVPD shall have reasonable access to the prem-
+15
+ises of the multi-dwelling unit, and to any wiring or other 
+16
+resource or facility controlled by the multi-dwelling unit 
+17
+necessary to provide service. A multi-dwelling unit may re-
+18
+quire all ISPs or MVPDs to share a common set of con-
+19
+duits or wires to minimize the need for disruptive access 
+20
+and any requirement or charge for use of common con-
+21
+duits or wires— 
+22
+(1) shall be just, reasonable, and non-discrimi-
+23
+natory; 
+24
+03:36 Aug 19, 2021
+H4875
+13 
+•HR 4875 IH
+(2) does not impose an undue burden on an 
+1
+ISP or MVPD seeking to provide service; 
+2
+(3) does not unreasonably interfere with the 
+3
+ability of an ISP or MVPD to upgrade or repair its 
+4
+network; and 
+5
+(4) can accommodate the speed, quality of serv-
+6
+ice, and channel capacity the ISP or MVPD offers 
+7
+its subscribers. 
+8
+(f) REGULATIONS REQUIRED.— 
+9
+(1) COMMENCEMENT
+OF
+PROCEEDING.—Not 
+10
+later than 180 days after the date of the enactment 
+11
+of this Act, the Commission shall commence a pro-
+12
+ceeding to determine the rules that are necessary to 
+13
+effectuate the prohibitions described in subsections 
+14
+(a) through (e). 
+15
+(2) ISSUANCE OF RULES.—Not later than 180 
+16
+days after the date on which the proceeding is com-
+17
+menced pursuant to paragraph (1), the Commission 
+18
+shall publish the rules in the Federal Register. The 
+19
+rules shall contain the following requirements: 
+20
+(A) COMPENSATION FOR ACCESS TO AND 
+21
+USE OF WIRING.—Ensure that a multi-dwelling 
+22
+unit or another owner of a premises, wiring, or 
+23
+other facility to which access is necessary to 
+24
+meet the requirements of this Act receive just 
+25
+03:36 Aug 19, 2021
+H4875
+14 
+•HR 4875 IH
+and reasonable compensation for access to, and 
+1
+use of, their property, which shall be charged 
+2
+on a non-discriminatory basis to each ISP and 
+3
+MVPD seeking such access and use. A multi- 
+4
+dwelling unit may not charge an ISP or MVPD 
+5
+to enter the multi-dwelling unit to provide serv-
+6
+ice within the residence of a subscriber, or to 
+7
+provide customer premise equipment that does 
+8
+not require any physical modification of the res-
+9
+idence. 
+10
+(B) CHARGES
+FOR
+DAMAGES, DEPOSIT, 
+11
+PROOF OF INSURANCE.—A multi-dwelling unit, 
+12
+resident, or other entity that suffers damage to 
+13
+its physical property may demand reasonable 
+14
+compensation from the ISP or MVPD respon-
+15
+sible, including the cost of repair. A multi- 
+16
+dwelling unit may require a reasonable deposit 
+17
+or proof, or both, of reasonable insurance cov-
+18
+erage from an ISP or MVPD prior to providing 
+19
+access to the multi-dwelling unit. 
+20
+(C) RESTRICTION ON CHARGES.—A multi- 
+21
+dwelling unit may not directly charge a sub-
+22
+scriber for any expense accrued by an ISP or 
+23
+MVPD under this section. 
+24
+03:36 Aug 19, 2021
+H4875
+15 
+•HR 4875 IH
+(D) SUBSCRIBER
+CHARGES.—An ISP or 
+1
+MVPD may charge a subscriber for expenses 
+2
+accrued under this section by an ISP or 
+3
+MVPD. Any charges to a subscriber under this 
+4
+subparagraph are subject to section 642 of the 
+5
+Communications Act of 1934 (47 U.S.C. 562). 
+6
+(g) ENFORCEMENT.— 
+7
+(1) CIVIL ACTION.—A violation of this section 
+8
+or any rule issued under this section by any multi- 
+9
+dwelling unit, ISP, or MVPD shall be subject to a 
+10
+civil action by any resident of the multi-dwelling unit 
+11
+as if the multi-dwelling unit, ISP, or MVPD violated 
+12
+section 631(f) of the Communications Act of 1934 
+13
+(47 U.S.C. 551(f)). This right to civil action may 
+14
+not be waived or subject to any arbitration require-
+15
+ment. 
+16
+(2) REQUEST FOR ACCESS.—An ISP, MVPD, 
+17
+or resident of a multi-dwelling unit may file a re-
+18
+quest to the Commission, or to the Federal district 
+19
+court with jurisdiction over the multi-dwelling unit, 
+20
+for an order to allow access to the premises to install 
+21
+and provide service. 
+22
+(3) LIMITATIONS
+TO
+ACCESS.—Any access 
+23
+granted under paragraph (2) shall be consistent with 
+24
+any applicable Commission rule, any applicable State 
+25
+03:36 Aug 19, 2021
+H4875
+16 
+•HR 4875 IH
+or local building code, or any other additional con-
+1
+sideration to protect life, safety, or the quality of life 
+2
+of other residents of the multi-dwelling unit. 
+3
+(4) DEADLINE FOR ISSUING ORDER.—Not later 
+4
+than 90 days after the date on which a request for 
+5
+an order is filed under paragraph (2), the Commis-
+6
+sion or district court, as applicable, shall make a de-
+7
+termination and issue the order or a denial of the 
+8
+order granting access. 
+9
+(5) SERVICE
+OF
+PROCESS
+REQUIRED.—Any 
+10
+party that files a request for an order under para-
+11
+graph (2) shall serve a copy of the request on the 
+12
+multi-dwelling unit, and on any ISP or MVPD that 
+13
+offers service to residents of the multi-dwelling unit. 
+14
+SEC. 8. STUDY OF THE IMPACT OF FRANCHISING AGREE-
+15
+MENTS ON CONSUMERS AND COMPETITION. 
+16
+(a) PROCEEDING BY FCC.— 
+17
+(1) IN GENERAL.— 
+18
+(A) INITIATION.—Not later than 1 year 
+19
+after the date of the enactment of this Act, the 
+20
+Commission shall initiate a proceeding to ana-
+21
+lyze the use of franchising agreements between 
+22
+telecommunications providers and municipal 
+23
+governments as well as the impact of these 
+24
+agreements on the price and quality of service 
+25
+03:36 Aug 19, 2021
+H4875
+17 
+•HR 4875 IH
+for consumers and competition in the local mar-
+1
+ket. 
+2
+(B) CONCLUSION.—Not later than 1 year 
+3
+after initiating the proceeding under subpara-
+4
+graph (A), the Commission shall conclude the 
+5
+proceeding. 
+6
+(2) MATTERS
+FOR
+ANALYSIS.—The analysis 
+7
+conducted under paragraph (1) shall include the fol-
+8
+lowing: 
+9
+(A) ESTIMATION
+OF
+FRANCHISE
+AGREE-
+10
+MENTS.—An estimation of the number of fran-
+11
+chising agreements in effect or entered into 
+12
+during the covered period. 
+13
+(B) CONSUMER
+COSTS.—An examination 
+14
+of the cost of broadband for consumers living in 
+15
+areas within the jurisdiction of the franchise 
+16
+and comparative analysis relative to comparable 
+17
+localities without such agreements. 
+18
+(C) QUALITY OF SERVICE.—An examina-
+19
+tion of the quality of service provided to con-
+20
+sumers living throughout the jurisdiction the 
+21
+franchise in order to identify any differences in 
+22
+quality of service provided in different regions 
+23
+within the same franchise. 
+24
+03:36 Aug 19, 2021
+H4875
+18 
+•HR 4875 IH
+(3) COVERED PERIOD DEFINED.—In this sub-
+1
+section, the term ‘‘covered period’’ means the 6-year 
+2
+period that— 
+3
+(A) begins on the date that is 3 years be-
+4
+fore the date on which the proceeding under 
+5
+paragraph (1) is initiated; and 
+6
+(B) ends on the date that is 3 years after 
+7
+the date on which the proceeding is initiated. 
+8
+(b) REPORT TO CONGRESS.—Not later than 120 days 
+9
+after concluding the proceeding under subsection (a)(1), 
+10
+the Commission shall publish on its website and submit 
+11
+to the Committee on Commerce, Science, and Transpor-
+12
+tation of the Senate and the Committee on Energy and 
+13
+Commerce of the House of Representatives a report on 
+14
+the findings of the proceeding. 
+15
+SEC. 9. NO FORBEARANCE OR WAIVER. 
+16
+Notwithstanding sections 10 or 332 of the Commu-
+17
+nications Act of 1934 (47 U.S.C. 161, 332) or any other 
+18
+relevant provision of law, the Commission may not forbear 
+19
+from or waive any provision of this Act or forbear from 
+20
+or waive any rule issued pursuant to this Act. 
+21
+SEC. 10. NO PREEMPTION OF CONSISTENT STATE OR 
+22
+LOCAL AUTHORITY. 
+23
+Nothing in this Act may be construed to preempt any 
+24
+consistent provision of State law or local regulation. The 
+25
+03:36 Aug 19, 2021
+H4875
+19 
+•HR 4875 IH
+remedies provided for in this Act shall be in addition to 
+1
+any other remedy provided by common law, State law, or 
+2
+Federal law. 
+3
+SEC. 11. DEFINITIONS. 
+4
+In this Act: 
+5
+(1) COMMISSION.—The term ‘‘Commission’’ 
+6
+means the Federal Communications Commission. 
+7
+(2) ISP.—The term ‘‘ISP’’ or ‘‘internet service 
+8
+provider’’ means a provider of broadband internet 
+9
+access service (as defined by the Commission in sec-
+10
+tion 8.1 of part 47, Code of Federal Regulations, or 
+11
+subsequent regulation). 
+12
+(3) MULTI-DWELLING UNIT; MDU.—The term 
+13
+‘‘multi-dwelling unit’’ or ‘‘MDU’’ has the meaning 
+14
+given the term ‘‘MDU’’ in section 76.800(a) of part 
+15
+47, Code of Federal Regulations, and any other enti-
+16
+ty the Commission determines to be necessary to ef-
+17
+fectuate the purposes of this Act. 
+18
+(4) MVPD.—The term ‘‘MVPD’’ means has 
+19
+the meaning given the term ‘‘multichannel video pro-
+20
+gramming distributor’’ in section 602 of the Com-
+21
+munications Act of 1934 (47 U.S.C. 522). 
+22
+(5) ROBUST BROADBAND.—The term ‘‘robust 
+23
+broadband’’ means broadband of a symmetric speed 
+24
+sufficient to allow households to engage in online ac-
+25
+03:36 Aug 19, 2021
+H4875
+20 
+•HR 4875 IH
+tivities (including remote learning, remote telework, 
+1
+telehealth, and other services that consumers use 
+2
+broadband) for economic, educational, and other on-
+3
+line activities, on multiple devices common to a fam-
+4
+ily of four individuals living in a household. 
+5
+Æ 
+03:36 Aug 19, 2021
+H4875

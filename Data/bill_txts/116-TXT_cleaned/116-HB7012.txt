@@ -1,0 +1,1106 @@
+A BILL 
+To amend the Federal Election Campaign Act of 1971 to 
+prohibit online platforms and certain intermediaries from 
+targeting the dissemination of political advertisements 
+to a specific group of individuals on the basis of online 
+behavioral data or on the basis of demographic character-
+istics shared by members of the group, to require online 
+platforms and certain intermediaries to maintain public 
+records of certain political advertisements, and for other 
+purposes. 
+18:55 Jun 17, 2020
+H7012
+2 
+•HR 7012 IH
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Protecting Democracy 
+4
+From Disinformation Act’’. 
+5
+SEC. 2. REQUIREMENTS FOR POLITICAL ADVERTISEMENTS 
+6
+DISSEMINATED BY ONLINE PLATFORMS OR 
+7
+ARRANGED FOR DISSEMINATION BY CERTAIN 
+8
+INTERMEDIARIES. 
+9
+(a) REQUIREMENTS.—Title III of the Federal Elec-
+10
+tion Campaign Act of 1971 (52 U.S.C. 30101 et seq.) is 
+11
+amended by adding at the end the following new section: 
+12
+‘‘SEC. 325. REQUIREMENTS FOR POLITICAL ADVERTISE-
+13
+MENTS DISSEMINATED BY ONLINE PLAT-
+14
+FORMS OR ARRANGED FOR DISSEMINATION 
+15
+BY CERTAIN INTERMEDIARIES. 
+16
+‘‘(a) RESTRICTIONS ON MICROTARGETING.— 
+17
+‘‘(1) RESTRICTIONS ON ADVERTISEMENTS TAR-
+18
+GETED AT GROUP OF INDIVIDUALS ON BASIS OF ON-
+19
+LINE BEHAVIORAL DATA.— 
+20
+‘‘(A) IN GENERAL.—Except as provided in 
+21
+paragraph (3), a covered online platform may 
+22
+not target the dissemination of a qualified polit-
+23
+ical advertisement, and a covered intermediary 
+24
+may not arrange for the dissemination of a 
+25
+18:55 Jun 17, 2020
+H7012
+3 
+•HR 7012 IH
+qualified political advertisement, to a specific 
+1
+group of individuals on the basis of any online 
+2
+behavioral data of such individuals. 
+3
+‘‘(B) SPECIAL RULE FOR DISSEMINATION 
+4
+TO INDIVIDUALS ON LIST PROVIDED BY SPON-
+5
+SOR OF ADVERTISEMENT.— 
+6
+‘‘(i) IN GENERAL.—A covered online 
+7
+platform which targets the dissemination 
+8
+of a qualified political advertisement to a 
+9
+specific group of individuals on a list pro-
+10
+vided by the sponsor of the advertisement, 
+11
+and a covered intermediary which arranges 
+12
+for the dissemination of a qualified polit-
+13
+ical advertisement to a specific group of in-
+14
+dividuals on a list provided by the sponsor 
+15
+of the advertisement, shall not be consid-
+16
+ered to be in violation of this paragraph if 
+17
+the platform or intermediary made a good 
+18
+faith effort to ensure that individuals are 
+19
+not included on the list on the basis of 
+20
+their online behavioral data. 
+21
+‘‘(ii) SAFE HARBOR FOR PLATFORMS 
+22
+AND INTERMEDIARIES REQUIRING CERTIFI-
+23
+CATION BY ADVERTISER.—For purposes of 
+24
+clause (i), a covered online platform and a 
+25
+18:55 Jun 17, 2020
+H7012
+4 
+•HR 7012 IH
+covered intermediary shall be considered to 
+1
+have made a good faith effort to ensure 
+2
+that the individuals on a list provided by 
+3
+the sponsor of a qualified political adver-
+4
+tisement are not included on the list on the 
+5
+basis of their online behavioral data if the 
+6
+platform or intermediary requires the ad-
+7
+vertiser to certify that each individual on 
+8
+the list subscribed to the list or consented 
+9
+to being included on the list. 
+10
+‘‘(C) ONLINE
+BEHAVIORAL
+DATA
+DE-
+11
+FINED.—In this paragraph, the term ‘online be-
+12
+havioral data’ means, with respect to an indi-
+13
+vidual, information that is tracked, collected, or 
+14
+maintained about an individual’s actions or ac-
+15
+tivities online, including information relating to 
+16
+an individual’s activity across businesses, dis-
+17
+tinctly branded websites, applications, or serv-
+18
+ices, but does not include information relating 
+19
+to an individual’s activity with a business, dis-
+20
+tinctly branded website, application, or service 
+21
+with which the individual intentionally interacts. 
+22
+‘‘(2) RESTRICTIONS ON ADVERTISEMENTS TAR-
+23
+GETED
+AT
+GROUP
+OF
+INDIVIDUALS
+ON
+BASIS
+OF 
+24
+SHARED DEMOGRAPHIC CHARACTERISTIC.— 
+25
+00:20 Jun 19, 2020
+H7012
+5 
+•HR 7012 IH
+‘‘(A) IN GENERAL.—Except as provided in 
+1
+paragraph (3), a covered online platform may 
+2
+not target the dissemination of a qualified polit-
+3
+ical advertisement, and a covered intermediary 
+4
+may not arrange for the dissemination of a 
+5
+qualified political advertisement, to a specific 
+6
+group of individuals on the basis of any demo-
+7
+graphic characteristic shared by members of 
+8
+such group unless— 
+9
+‘‘(i) the demographic characteristic is 
+10
+described in subparagraph (B); and 
+11
+‘‘(ii) in the case of a covered online 
+12
+platform, the platform disseminates with 
+13
+the advertisement the accompanying state-
+14
+ment described in paragraph (4). 
+15
+‘‘(B) 
+DEMOGRAPHIC
+CHARACTERISTICS 
+16
+DESCRIBED.—The demographic characteristics 
+17
+described in this subparagraph with respect to 
+18
+a group of individuals are the following: 
+19
+‘‘(i) The age of the members of the 
+20
+group. 
+21
+‘‘(ii) The gender of the members of 
+22
+the group. 
+23
+‘‘(iii) The geographic area in which 
+24
+the members of the group reside, except 
+25
+18:55 Jun 17, 2020
+H7012
+6 
+•HR 7012 IH
+that such area may not be smaller than the 
+1
+ZIP Code in which the members of the 
+2
+group reside. 
+3
+‘‘(C) RULE OF CONSTRUCTION.—Nothing 
+4
+in paragraph (1) shall be construed to prohibit 
+5
+a covered online platform or a covered inter-
+6
+mediary from using online behavioral data (as 
+7
+described in such paragraph) with respect to an 
+8
+individual to determine the demographic char-
+9
+acteristics described in subparagraph (B) which 
+10
+apply to such individual. 
+11
+‘‘(3) EXCEPTION FOR TARGETING ON A CON-
+12
+TEXTUAL BASIS.— 
+13
+‘‘(A) EXCEPTION.—Paragraphs (1) and 
+14
+(2) do not apply if— 
+15
+‘‘(i) a covered online platform targets 
+16
+the dissemination of a qualified political 
+17
+advertisement, or a covered intermediary 
+18
+arranges for the dissemination of a quali-
+19
+fied political advertisement, to a specific 
+20
+group of individuals on a contextual basis 
+21
+as described in subparagraph (B); and 
+22
+‘‘(ii) in the case of a covered online 
+23
+platform, the platform disseminates with 
+24
+18:55 Jun 17, 2020
+H7012
+7 
+•HR 7012 IH
+the advertisement the accompanying state-
+1
+ment described in paragraph (4). 
+2
+‘‘(B) 
+DISSEMINATION
+OF
+ADVERTISE-
+3
+MENTS ON CONTEXTUAL BASIS.—For purposes 
+4
+of subparagraph (A), a covered online platform 
+5
+disseminates a qualified political advertisement 
+6
+on a contextual basis, and a covered inter-
+7
+mediary arranges for the dissemination of a 
+8
+qualified political advertisement on a contextual 
+9
+basis, if the advertisement involved is dissemi-
+10
+nated solely on the basis of the content that the 
+11
+individual is viewing on the covered online plat-
+12
+form at the same time the advertisement ap-
+13
+pears on the covered online platform and is not 
+14
+otherwise disseminated on the basis of online 
+15
+behavioral data with respect to such individual. 
+16
+‘‘(4) 
+ACCOMPANYING
+STATEMENT
+DE-
+17
+SCRIBED.— 
+18
+‘‘(A) IN
+GENERAL.—The accompanying 
+19
+statement described in this paragraph is, with 
+20
+respect to a qualified political advertisement, a 
+21
+statement made in a clear and conspicuous 
+22
+manner which states that the dissemination of 
+23
+the advertisement is targeted to a specific 
+24
+group of individuals and which includes— 
+25
+18:55 Jun 17, 2020
+H7012
+8 
+•HR 7012 IH
+‘‘(i) in the case of the statement re-
+1
+quired under paragraph (2)(A), a descrip-
+2
+tion of the demographic characteristic on 
+3
+which the group was targeted; and 
+4
+‘‘(ii) in the case of the statement re-
+5
+quired under paragraph (3)(A), a descrip-
+6
+tion of the content on which the dissemina-
+7
+tion of the advertisement is based. 
+8
+‘‘(B) SAFE
+HARBOR
+FOR
+DETERMINING 
+9
+CLEAR AND CONSPICUOUS MANNER.—For pur-
+10
+poses of subparagraph (A), a statement shall be 
+11
+considered to be made in a clear and con-
+12
+spicuous manner if the statement is displayed 
+13
+onscreen above the qualified political advertise-
+14
+ment in the format in which the advertisement 
+15
+appears. 
+16
+‘‘(5) AVAILABILITY OF PRIVATE RIGHT OF AC-
+17
+TION.— 
+18
+‘‘(A) RIGHT
+TO
+FILE
+ACTION.—An ag-
+19
+grieved person alleging a violation of this sub-
+20
+section may bring a civil action against any cov-
+21
+ered online platform or covered intermediary in 
+22
+an appropriate district court for damages, de-
+23
+claratory, injunctive relief, or any other relief 
+24
+18:55 Jun 17, 2020
+H7012
+9 
+•HR 7012 IH
+the court deems appropriate with respect to the 
+1
+violation. 
+2
+‘‘(B) DAMAGES.—(i) If the court finds 
+3
+that the defendant violated this subsection or 
+4
+the regulations prescribed under this sub-
+5
+section, the court may, in its discretion, award 
+6
+up to $100,000 in damages to plaintiff per vio-
+7
+lation. 
+8
+‘‘(ii) If the court finds that the defendant 
+9
+knowingly and willfully violated this subsection 
+10
+or the regulations prescribed under this sub-
+11
+section, the court may, in its discretion, in-
+12
+crease the amount of the award to an amount 
+13
+equal to not more than 3 times the amount per 
+14
+violation available under clause (i). 
+15
+‘‘(C) ATTORNEY’S FEES.—In a civil action 
+16
+under this paragraph, the court may allow the 
+17
+prevailing party (other than the United States) 
+18
+reasonable attorney fees, including litigation ex-
+19
+penses, and costs. 
+20
+‘‘(D) RELATION TO OTHER REMEDIES.— 
+21
+The remedy established by this paragraph is in 
+22
+addition to all other rights and remedies pro-
+23
+vided under this Act. 
+24
+18:55 Jun 17, 2020
+H7012
+10 
+•HR 7012 IH
+‘‘(E) INJURY IN FACT.—If a court finds 
+1
+that the defendant violated this section, the 
+2
+court shall find that such violation constitutes 
+3
+a concrete and particularized injury in fact to 
+4
+the plaintiff. 
+5
+‘‘(F) 
+TREATMENT
+OF
+MANDATORY 
+6
+PREDISPUTE
+ARBITRATION
+AGREEMENTS
+AND 
+7
+PREDISPUTE
+JOINT
+ACTION
+WAIVERS.—Any 
+8
+agreement to arbitrate an alleged dispute of 
+9
+this subsection that has not yet arisen at the 
+10
+time of making the agreement or any agree-
+11
+ment that would otherwise prohibit, or waive 
+12
+the right of, one of the parties to the agreement 
+13
+to participate in a joint, class, or collection ac-
+14
+tion in federal court, concerning a dispute due 
+15
+to an alleged violation of this subsection that 
+16
+has not yet arisen at the time of making the 
+17
+agreement shall be deemed invalid and unen-
+18
+forceable for purposes of civil action arising out 
+19
+of an alleged violation of this subsection, not-
+20
+withstanding any other provision of law. 
+21
+‘‘(b) MAINTENANCE OF RECORDS OF QUALIFIED PO-
+22
+LITICAL ADVERTISEMENTS.— 
+23
+‘‘(1) IN GENERAL.— 
+24
+18:55 Jun 17, 2020
+H7012
+11 
+•HR 7012 IH
+‘‘(A) REQUIREMENTS FOR ONLINE PLAT-
+1
+FORMS AND COVERED INTERMEDIARIES.— 
+2
+‘‘(i) RECORDS OF REQUESTS TO PUR-
+3
+CHASE ADVERTISEMENTS.—A covered on-
+4
+line platform and a covered intermediary 
+5
+shall maintain, and make available for on-
+6
+line public inspection in a machine read-
+7
+able format which is searchable on the 
+8
+basis of any of the information described 
+9
+in paragraph (2), a complete record of any 
+10
+request to purchase on such platform (or, 
+11
+in the case of a covered intermediary, of 
+12
+any request to purchase an arrangement 
+13
+for the dissemination by the intermediary 
+14
+of) a qualified political advertisement 
+15
+which is made by a person the value of 
+16
+whose aggregate requests to purchase 
+17
+qualified political advertisements on such 
+18
+online platform or to purchase arrange-
+19
+ments for the dissemination of qualified 
+20
+political advertisements by the inter-
+21
+mediary (as the case may be) during the 
+22
+calendar year exceeds $500. 
+23
+‘‘(ii) ASSIGNMENT OF UNIQUE IDENTI-
+24
+FICATION
+NUMBER.—The covered online 
+25
+18:55 Jun 17, 2020
+H7012
+12 
+•HR 7012 IH
+platform and the covered intermediary 
+1
+shall assign a unique identification number 
+2
+to each person described in clause (i), and 
+3
+shall use that same number with respect to 
+4
+all information relating to such person 
+5
+which is included in the record the plat-
+6
+form or intermediary maintains and makes 
+7
+available under this subsection. If the per-
+8
+son is a candidate, the platform or inter-
+9
+mediary shall assign to the person the 
+10
+same identification number assigned to the 
+11
+person by the Commission for purposes of 
+12
+filing reports under this Act. 
+13
+‘‘(B) 
+REQUIREMENTS
+FOR
+ADVER-
+14
+TISERS.— 
+15
+‘‘(i) PROVISION
+OF
+INFORMATION.— 
+16
+Any person who requests to purchase a 
+17
+qualified political advertisement on a cov-
+18
+ered online platform, or who requests to 
+19
+purchase an arrangement for the dissemi-
+20
+nation of a qualified political advertisement 
+21
+by a covered intermediary, shall provide 
+22
+the online platform or intermediary with 
+23
+such information as is necessary for the 
+24
+online platform or intermediary to comply 
+25
+18:55 Jun 17, 2020
+H7012
+13 
+•HR 7012 IH
+with the requirements of subparagraph 
+1
+(A). 
+2
+‘‘(ii) 
+ASSISTANCE
+FROM
+PLAT-
+3
+FORMS.—Each covered online platform and 
+4
+covered intermediary shall provide such as-
+5
+sistance as may be required to enable a 
+6
+person to provide the platform or inter-
+7
+mediary with the information required 
+8
+under clause (i). 
+9
+‘‘(2) CONTENTS OF RECORD.—A record main-
+10
+tained under paragraph (1)(A) shall contain— 
+11
+‘‘(A) the unique identification number as-
+12
+signed under such paragraph to the person 
+13
+making the request (and, if the person is a can-
+14
+didate, a statement that such number is the 
+15
+same identification number assigned to the per-
+16
+son by the Commission for purposes of filing re-
+17
+ports under this Act); 
+18
+‘‘(B) a digital copy of the qualified political 
+19
+advertisement; 
+20
+‘‘(C) a description of the advertisement’s 
+21
+targeted audience, including information on the 
+22
+audience’s age, gender, and geographic location; 
+23
+‘‘(D) a description of the advertisement’s 
+24
+audience as predicted by an algorithm, includ-
+25
+18:55 Jun 17, 2020
+H7012
+14 
+•HR 7012 IH
+ing information on the audience’s age, gender, 
+1
+geographic location, race, ethnicity, and polit-
+2
+ical affiliation, except that a covered online 
+3
+platform or a covered intermediary may exclude 
+4
+this information from the record maintained 
+5
+under paragraph (1)(A) with respect to an ad-
+6
+vertisement if the platform or intermediary does 
+7
+not, in the ordinary course of business, collect 
+8
+such information with respect to such an adver-
+9
+tisement; 
+10
+‘‘(E) a description of the advertisement’s 
+11
+actual audience as determined on the basis of 
+12
+data provided in an online platform user’s pro-
+13
+file, including information on the audience’s 
+14
+age, gender, geographic location, race, ethnicity, 
+15
+and political affiliation, except that a covered 
+16
+online platform or a covered intermediary may 
+17
+exclude this information from the record main-
+18
+tained under paragraph (1)(A) with respect to 
+19
+an advertisement if the platform or inter-
+20
+mediary does not, in the ordinary course of 
+21
+business, collect such information with respect 
+22
+to such an advertisement; 
+23
+‘‘(F) the number of views generated from 
+24
+the advertisement; 
+25
+18:55 Jun 17, 2020
+H7012
+15 
+•HR 7012 IH
+‘‘(G) the date and time that the advertise-
+1
+ment is first displayed and last displayed; and 
+2
+‘‘(H) information regarding— 
+3
+‘‘(i) the average rate charged for the 
+4
+advertisement; 
+5
+‘‘(ii) the name of the candidate to 
+6
+which the advertisement refers and the of-
+7
+fice to which the candidate is seeking elec-
+8
+tion, the election to which the advertise-
+9
+ment refers, or the national legislative 
+10
+issue to which the advertisement refers (as 
+11
+applicable); and 
+12
+‘‘(iii) the amount such person budg-
+13
+eted for the purchase of the advertisement 
+14
+on the platform, as well as the amount 
+15
+such person paid for the purchase of the 
+16
+advertisement on the platform. 
+17
+‘‘(3) TIME TO MAINTAIN FILE.—The informa-
+18
+tion required under this subsection shall be made 
+19
+available as soon as possible and shall be retained by 
+20
+the covered online platform or covered intermediary 
+21
+for a period of not less than 4 years. 
+22
+‘‘(4) SAFE
+HARBOR
+FOR
+PLATFORMS
+AND 
+23
+INTERMEDIARIES MAKING BEST EFFORTS TO IDEN-
+24
+18:55 Jun 17, 2020
+H7012
+16 
+•HR 7012 IH
+TIFY REQUESTS WHICH ARE SUBJECT TO RECORD 
+1
+MAINTENANCE REQUIREMENTS.— 
+2
+‘‘(A) AVAILABILITY OF SAFE HARBOR.—In 
+3
+accordance with rules established by the Com-
+4
+mission, if a covered online platform or covered 
+5
+intermediary shows that the platform or inter-
+6
+mediary used best efforts to determine whether 
+7
+or not a request to purchase a qualified political 
+8
+advertisement or a request to purchase an ar-
+9
+rangement for the dissemination of a qualified 
+10
+political advertisement (as the case may be) was 
+11
+subject to the requirements of this subsection, 
+12
+the platform or intermediary shall not be con-
+13
+sidered to be in violation of such requirements. 
+14
+‘‘(B) SPECIAL RULES FOR DISBURSEMENT 
+15
+PAID
+WITH
+CREDIT
+CARD.—For purposes of 
+16
+subparagraph (A), a covered online platform or 
+17
+a covered intermediary shall be considered to 
+18
+have used best efforts in the case of a purchase 
+19
+of a qualified political advertisement, or a pur-
+20
+chase of an arrangement for the dissemination 
+21
+of a qualified political advertisement (as the 
+22
+case may be), which is made with a credit card 
+23
+if— 
+24
+18:55 Jun 17, 2020
+H7012
+17 
+•HR 7012 IH
+‘‘(i) the individual or entity making 
+1
+such purchase is required, at the time of 
+2
+making such purchase, to disclose the cred-
+3
+it verification value of such credit card; 
+4
+and 
+5
+‘‘(ii) the billing address associated 
+6
+with such credit card is located in the 
+7
+United States or, in the case of a purchase 
+8
+made by an individual who is a United 
+9
+States citizen living outside of the United 
+10
+States, the individual provides the platform 
+11
+or intermediary with the United States 
+12
+mailing address the individual uses for 
+13
+voter registration purposes. 
+14
+‘‘(c) COVERED ONLINE PLATFORM DEFINED.—In 
+15
+this section, the term ‘covered online platform’ means any 
+16
+public facing website, web application, or digital applica-
+17
+tion (including a social network or search engine) which 
+18
+sells qualified political advertisements and has 50,000,000 
+19
+or more unique monthly United States visitors or users 
+20
+for a majority of months during the preceding 12 months, 
+21
+except that such term does not include a website or appli-
+22
+cation that displays qualified political advertisements sole-
+23
+ly pursuant to an arrangement entered into with a covered 
+24
+18:55 Jun 17, 2020
+H7012
+18 
+•HR 7012 IH
+intermediary between the website or application and the 
+1
+sponsor of the qualified political advertisement. 
+2
+‘‘(d) COVERED INTERMEDIARY DEFINED.—In this 
+3
+section, the term ‘covered intermediary’ means a digital 
+4
+advertising platform or advertising system (including an 
+5
+ad server, ad network, ad exchange, and any other adver-
+6
+tising technology intermediary) which participates in the 
+7
+delivery of 100,000,000 advertisements that can be viewed 
+8
+in the United States for a majority of months during the 
+9
+preceding 12 months. 
+10
+‘‘(e) QUALIFIED POLITICAL ADVERTISEMENT DE-
+11
+FINED.—In this section, the term ‘qualified political ad-
+12
+vertisement’ means any advertisement (including search 
+13
+engine marketing, display advertisements, video advertise-
+14
+ments, native advertisements, and sponsorships) that— 
+15
+‘‘(1) is made by or on behalf of a candidate; or 
+16
+‘‘(2) communicates a message relating to any 
+17
+political matter of national importance, including— 
+18
+‘‘(A) a candidate; 
+19
+‘‘(B) any election to Federal office; or 
+20
+‘‘(C) a national legislative issue of public 
+21
+importance.’’. 
+22
+(b) ENHANCED CRIMINAL PENALTY
+FOR VIOLA-
+23
+TIONS.—Section 309(d)(1) of such Act (52 U.S.C. 
+24
+18:55 Jun 17, 2020
+H7012
+19 
+•HR 7012 IH
+30109(d)(1)) is amended by adding at the end the fol-
+1
+lowing new subparagraph: 
+2
+‘‘(E) Any covered online platform or covered inter-
+3
+mediary, or an officer or director of a covered online plat-
+4
+form or covered intermediary, who knowingly and willfully 
+5
+commits a violation of section 325 shall be imprisoned not 
+6
+more than 5 years, fined under title 18, United States 
+7
+Code, or both.’’. 
+8
+(c) RULEMAKING.— 
+9
+(1) RESPONSIBILITIES OF FEDERAL ELECTION 
+10
+COMMISSION.—Not later than 90 days after the date 
+11
+of the enactment of this Act, the Federal Election 
+12
+Commission shall establish rules— 
+13
+(A) regarding the definition of any term 
+14
+whose definition is set forth in section 325 of 
+15
+the Federal Election Campaign Act of 1971 (as 
+16
+added by subsection (a)); 
+17
+(B) regarding the restrictions established 
+18
+under section 325(a) of such Act (as added by 
+19
+subsection (a)) on targeting the dissemination 
+20
+of qualified political advertisements to a specific 
+21
+group of individuals on the basis of any demo-
+22
+graphic characteristic shared by members of 
+23
+such group, including establishing the criteria 
+24
+18:55 Jun 17, 2020
+H7012
+20 
+•HR 7012 IH
+for the safe harbors described in paragraphs 
+1
+(1)(B)(ii) and (4)(B) of such section; 
+2
+(C) requiring common data formats for the 
+3
+record required to be maintained under section 
+4
+325(b) of such Act (as added by subsection (a)) 
+5
+so that all online platforms and intermediaries 
+6
+submit and maintain data online in a common, 
+7
+machine-readable and publicly accessible for-
+8
+mat; 
+9
+(D) establishing search interface require-
+10
+ments relating to such record, including 
+11
+searches by candidate name, issue, purchaser, 
+12
+and date; and 
+13
+(E) establishing the criteria for the safe 
+14
+harbor exception provided under paragraph (4) 
+15
+of section 325(b) of such Act (as added by sub-
+16
+section (a)). 
+17
+(2) REVISION.—After the Commission first es-
+18
+tablishes rules pursuant to this subsection, the Com-
+19
+mission shall revise the rules every 5 years there-
+20
+after. 
+21
+(d) REPORTING.—Not later than 2 years after the 
+22
+date of the enactment of this Act, and biannually there-
+23
+after, the Chairman of the Federal Election Commission 
+24
+shall submit a report to Congress on— 
+25
+18:55 Jun 17, 2020
+H7012
+21 
+•HR 7012 IH
+(1) matters relating to compliance with and the 
+1
+enforcement of the requirements of section 325(b) of 
+2
+the Federal Election Campaign Act of 1971, as 
+3
+added by subsection (a); 
+4
+(2) recommendations for any modifications to 
+5
+such section to assist in carrying out its purposes; 
+6
+and 
+7
+(3) identifying ways to bring transparency and 
+8
+accountability to political advertisements distributed 
+9
+online for free. 
+10
+(e) EFFECTIVE DATE.—The amendments made by 
+11
+this section shall apply with respect to qualified political 
+12
+advertisements disseminated after the expiration of the 
+13
+120-day period which begins on the date of the enactment 
+14
+of this Act. 
+15
+Æ 
+18:55 Jun 17, 2020
+H7012

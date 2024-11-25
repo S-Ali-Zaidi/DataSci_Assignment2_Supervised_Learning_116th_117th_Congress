@@ -1,0 +1,953 @@
+A BILL 
+To amend the Communications Act of 1934 to provide for 
+expedient restoration of advanced communications service 
+networks during times of emergency, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Reinforcing and Evalu-
+4
+ating Service Integrity, Local Infrastructure, and Emer-
+5
+gency Notification for Today’s Networks Act’’ or the ‘‘RE-
+6
+SILIENT Networks Act’’. 
+7
+22:08 Feb 20, 2020
+H5926
+2 
+•HR 5926 IH
+SEC. 2. NETWORK RESILIENCY COOPERATIVE REQUIRE-
+1
+MENTS. 
+2
+Title VII of the Communications Act of 1934 (47 
+3
+U.S.C. 601 et seq.) is amended by adding at the end the 
+4
+following: 
+5
+‘‘SEC. 723. NETWORK RESILIENCY COOPERATIVE REQUIRE-
+6
+MENTS. 
+7
+‘‘(a) REQUIRED COORDINATED RESPONSE IN TIMES 
+8
+OF EMERGENCY.— 
+9
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+10
+the date of the enactment of this section, the Com-
+11
+mission, in consultation with the Secretary of Home-
+12
+land Security, shall conduct a proceeding and, after 
+13
+public notice and an opportunity for comment, adopt 
+14
+rules to provide for coordination among providers of 
+15
+advanced communications service during times of 
+16
+emergency. 
+17
+‘‘(2) REQUIRED ASPECTS OF COORDINATION.— 
+18
+In issuing the rules required by paragraph (1), the 
+19
+Commission shall require that, where technically fea-
+20
+sible— 
+21
+‘‘(A) providers of wireless advanced com-
+22
+munications service have in place reasonable 
+23
+roaming and peering agreements for times of 
+24
+emergency, which can be employed without ad-
+25
+ditional negotiation, as necessary; and 
+26
+22:08 Feb 20, 2020
+H5926
+3 
+•HR 5926 IH
+‘‘(B) providers of advanced communica-
+1
+tions service have in place reasonable arrange-
+2
+ments for the provision of mutual aid for times 
+3
+of emergency, as necessary. 
+4
+‘‘(b) REQUIRED ASSISTANCE FOR FIRST RESPOND-
+5
+ERS.— 
+6
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+7
+the date of the enactment of this section, the Com-
+8
+mission shall, after public notice and an opportunity 
+9
+for comment, adopt rules designed to improve co-
+10
+ordination for times of emergency between providers 
+11
+of advanced communications service and public safe-
+12
+ty answering points and covered public safety enti-
+13
+ties. 
+14
+‘‘(2) PROVIDING DETAILED TIMELY NETWORK 
+15
+OUTAGE DATA TO FIRST RESPONDERS.—In issuing 
+16
+the rules required by paragraph (1), the Commission 
+17
+shall— 
+18
+‘‘(A) make changes to the Disaster Infor-
+19
+mation Reporting System to facilitate the par-
+20
+ticipation in such System by all providers of ad-
+21
+vanced communications service; 
+22
+‘‘(B) require providers of advanced com-
+23
+munications service to participate in the Dis-
+24
+22:08 Feb 20, 2020
+H5926
+4 
+•HR 5926 IH
+aster Information Reporting System during 
+1
+times of emergency; 
+2
+‘‘(C) ensure information collected through 
+3
+the Disaster Information Reporting System is 
+4
+made available to public safety answering points 
+5
+and covered public safety entities in those areas 
+6
+where the Disaster Information Reporting Sys-
+7
+tem is activated in an easily accessible format 
+8
+that— 
+9
+‘‘(i) facilitates the provision of such 
+10
+information as soon as possible, in light of 
+11
+efforts to remedy network disruption and 
+12
+restore services, with reasonably sufficient 
+13
+granularity and speed to help such public 
+14
+safety answering points and covered public 
+15
+safety entities understand the timing, na-
+16
+ture, and scope of reported disruptions to 
+17
+the provision of advanced communications 
+18
+service during times of emergency, includ-
+19
+ing disruptions to the provision of such 
+20
+service to public safety answering points or 
+21
+covered public safety entities; 
+22
+‘‘(ii) reflects the status of operations 
+23
+of and disruptions affecting the individual 
+24
+reporting provider’s network during times 
+25
+22:08 Feb 20, 2020
+H5926
+5 
+•HR 5926 IH
+of emergency and does not reflect the con-
+1
+tinued provision of advanced communica-
+2
+tions service using roaming and peering ar-
+3
+rangements; and 
+4
+‘‘(iii) allows such information to be 
+5
+accessed through a secure internet website; 
+6
+and 
+7
+‘‘(D) ensure that providers of advanced 
+8
+communications service are not held liable for 
+9
+outage reports based upon reasonable efforts to 
+10
+identify accurately any such outages as soon as 
+11
+reasonably practicable during times of emer-
+12
+gency that may later be determined to have 
+13
+contained inaccurate information. 
+14
+‘‘(3) ACCESS AND SECURITY.—In issuing the 
+15
+rules required by paragraph (1), the Commission 
+16
+shall ensure that— 
+17
+‘‘(A) the information described in para-
+18
+graph (2)(C) is secured against access by any 
+19
+person not authorized to access such informa-
+20
+tion and that persons authorized to access such 
+21
+information are trained in reasonable security 
+22
+measures to protect such information; 
+23
+‘‘(B) such information will be used by pub-
+24
+lic safety answering points and covered public 
+25
+22:08 Feb 20, 2020
+H5926
+6 
+•HR 5926 IH
+safety entities exclusively for the purpose of re-
+1
+sponding to public safety concerns during times 
+2
+of emergency, and that public safety answering 
+3
+points and covered public safety entities will be 
+4
+required to notify the Commission and affected 
+5
+providers of advanced communications service 
+6
+as soon as reasonably practicable in the event 
+7
+of any breach or other unauthorized use; and 
+8
+‘‘(C) the public continues to have access to 
+9
+the information published by the Commission 
+10
+on its websites in times of emergency in a man-
+11
+ner that is at least as accessible to the public 
+12
+as before the date of the enactment of this sec-
+13
+tion. 
+14
+‘‘(c) COORDINATED
+RESPONSE
+MASTER
+DIREC-
+15
+TORY.— 
+16
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+17
+the date of the enactment of this section, the Com-
+18
+mission, in consultation with the Secretary of En-
+19
+ergy, shall, after public notice and an opportunity 
+20
+for comment, establish a master point-of-contact di-
+21
+rectory to provide for effective communication be-
+22
+tween providers of advanced communications service, 
+23
+tower owner or operators, and public safety answer-
+24
+22:08 Feb 20, 2020
+H5926
+7 
+•HR 5926 IH
+ing points, covered public safety entities, and utili-
+1
+ties. 
+2
+‘‘(2) ACCESS AND SECURITY.—In establishing 
+3
+the directory under paragraph (1), the Commission 
+4
+shall ensure that— 
+5
+‘‘(A) the directory established under para-
+6
+graph (1) is secured against access by any per-
+7
+son not authorized to access such directory in-
+8
+formation and that persons authorized to access 
+9
+such information are trained in reasonable se-
+10
+curity measures to protect such information; 
+11
+‘‘(B) such information is updated by the 
+12
+Commission no less frequently than quarterly; 
+13
+and 
+14
+‘‘(C) such information will be used by pub-
+15
+lic safety answering points and covered public 
+16
+safety entities exclusively for the purpose of re-
+17
+sponding to public safety concerns, and that 
+18
+public safety answering points and covered pub-
+19
+lic safety entities will be required to notify the 
+20
+Commission and affected providers of advanced 
+21
+communications service, tower owner or opera-
+22
+tors, and utilities as soon as reasonably prac-
+23
+ticable in the event of any breach or other un-
+24
+authorized use. 
+25
+22:08 Feb 20, 2020
+H5926
+8 
+•HR 5926 IH
+‘‘(d) TRIENNIAL REVIEW
+OF COORDINATED RE-
+1
+SPONSE POLICIES.— 
+2
+‘‘(1) IN
+GENERAL.—Not later than the date 
+3
+that is 4 years after the date of the enactment of 
+4
+this section, and every 3 years thereafter, the Com-
+5
+mission shall, after public notice and an opportunity 
+6
+for comment, evaluate whether the rules adopted 
+7
+and directory established under this section, coupled 
+8
+with any other actions that the Commission has 
+9
+taken regarding network resiliency, are substantially 
+10
+improving the resiliency of advanced communications 
+11
+services in times of emergency. 
+12
+‘‘(2) ADDITIONAL ACTION.—If the Commission 
+13
+finds in an evaluation under paragraph (1) that the 
+14
+rules issued pursuant to this section and the direc-
+15
+tory established under this section, coupled with any 
+16
+other actions that the Commission has taken regard-
+17
+ing network resiliency, are not substantially improv-
+18
+ing the resiliency of advanced communications serv-
+19
+ices, the Commission shall seek comment and con-
+20
+sider amending such rules and directory to take ad-
+21
+ditional action that may be necessary and within its 
+22
+jurisdiction to help ensure those rules more effi-
+23
+ciently promote the resiliency of advanced commu-
+24
+nications services in times of emergency. 
+25
+22:08 Feb 20, 2020
+H5926
+9 
+•HR 5926 IH
+‘‘(e) EXEMPTION FROM PAPERWORK REDUCTION 
+1
+ACT.—Information collected under this section shall not 
+2
+constitute a collection of information for the purposes of 
+3
+subchapter I of chapter 35 of title 44, United States Code 
+4
+(commonly referred to as the Paperwork Reduction Act). 
+5
+‘‘(f) DEFINITIONS.—In this section: 
+6
+‘‘(1) ADVANCED COMMUNICATIONS SERVICE.— 
+7
+The term ‘advanced communications service’ has the 
+8
+meaning given such term in section 3 and has the 
+9
+meaning given to the term ‘advanced telecommuni-
+10
+cations capability’ in section 706 of the Tele-
+11
+communications Act of 1996 (47 U.S.C. 1302), but 
+12
+such term shall not include the network of the First 
+13
+Responder Network Authority established by section 
+14
+6204 of the Middle Class Tax Relief and Job Cre-
+15
+ation Act of 2012 (47 U.S.C. 1424). 
+16
+‘‘(2) DISASTER INFORMATION REPORTING SYS-
+17
+TEM.—The term ‘Disaster Information Reporting 
+18
+System’ means the system described in the public 
+19
+notice released by the Commission on September 11, 
+20
+2007 (DA 07–3871). 
+21
+‘‘(3) UTILITY.—The term ‘utility’ has the 
+22
+meaning given to the term ‘distribution utility’ in 
+23
+section 217 of the Federal Power Act (16 U.S.C. 
+24
+824q). 
+25
+22:08 Feb 20, 2020
+H5926
+10 
+•HR 5926 IH
+‘‘(4) PUBLIC SAFETY ANSWERING POINT.—The 
+1
+term ‘public safety answering point’ has the meaning 
+2
+given such term in section 222. 
+3
+‘‘(5) COVERED PUBLIC SAFETY ENTITY.—The 
+4
+term ‘covered public safety entity’ is an entity re-
+5
+sponsible for emergency management functions dur-
+6
+ing times of emergency that is expressly authorized 
+7
+by the Federal Emergency Management Agency or 
+8
+Governor of a State as eligible to access outage in-
+9
+formation pursuant to subsections (b) and (c). 
+10
+‘‘(6) ROAMING.—The term ‘roaming’ means the 
+11
+ability of a subscriber of wireless advanced commu-
+12
+nications service to originate or terminate a call, to 
+13
+continue an in-progress call, or to transmit or re-
+14
+ceive data, using the facilities of a provider of wire-
+15
+less advanced communications service different than 
+16
+the one with whom the subscriber has a direct pre-
+17
+existing service or financial relationship. 
+18
+‘‘(7) TIME OF EMERGENCY.—The term ‘time of 
+19
+emergency’ means— 
+20
+‘‘(A) the time period of an emergency (as 
+21
+defined in section 102 of the Robert T. Stafford 
+22
+Disaster Relief and Emergency Assistance Act 
+23
+(42 U.S.C. 5122)); 
+24
+22:08 Feb 20, 2020
+H5926
+11 
+•HR 5926 IH
+‘‘(B) the time period that the Federal 
+1
+Communications Commission activates the Dis-
+2
+aster Information Reporting System; or 
+3
+‘‘(C) the time period of an emergency as 
+4
+declared by the Governor of a State. 
+5
+‘‘(8) TOWER OWNER OR OPERATOR.—The term 
+6
+‘tower owner or operator’ has the meaning given to 
+7
+such term in section 427 of the Robert T. Stafford 
+8
+Disaster Relief and Emergency Assistance Act (42 
+9
+U.S.C. 5189e). 
+10
+‘‘(9) RESILIENCY.—The term ‘resiliency’ means 
+11
+the ability to withstand and recover rapidly from dis-
+12
+ruptions. Resiliency includes the ability to withstand 
+13
+and recover from deliberate attacks, accidents, or 
+14
+naturally occurring threats or incidents.’’. 
+15
+SEC. 3. STOPPING ACCIDENTAL CUTS TO COMMUNICA-
+16
+TIONS NETWORKS. 
+17
+(a) STUDY.—Not later than 180 days after the date 
+18
+of the enactment of this Act, the Commission shall, in con-
+19
+sultation with the Secretary of Transportation, and after 
+20
+public notice and an opportunity for comment, complete 
+21
+a study on the feasibility of expanding the one-call notifi-
+22
+cation system programs under chapter 61 and section 
+23
+60114 of title 49, United States Code, to cover advanced 
+24
+communications service. 
+25
+22:08 Feb 20, 2020
+H5926
+12 
+•HR 5926 IH
+(b) CONSIDERATIONS.—In conducting the study 
+1
+under subsection (a), the Commission shall consider addi-
+2
+tional solutions to prevent third-party damage to infra-
+3
+structure used in the provision of advanced communica-
+4
+tions service, including dig-once policies, and the use of 
+5
+wireless backhaul. 
+6
+(c) REPORT.—Not later than 270 days after the date 
+7
+of the enactment of this Act, the Commission shall publish 
+8
+on the website of the Commission and submit to the Com-
+9
+mittee on Energy and Commerce of the House of Rep-
+10
+resentatives and the Committee on Commerce, Science, 
+11
+and Transportation of the Senate a report detailing the 
+12
+findings and recommendations of the study conducted 
+13
+under subsection (a). 
+14
+SEC. 4. KEEPING ADVANCED COMMUNICATIONS SERVICE 
+15
+OPERATIONAL. 
+16
+(a) COORDINATION BEST PRACTICES.—Not later 
+17
+than 1 year after the date of the enactment of this Act, 
+18
+the Commission, in consultation with the Secretary of En-
+19
+ergy, shall adopt, after public notice and an opportunity 
+20
+for comment, a set of recommended best practices on how 
+21
+providers of advanced communications service and utilities 
+22
+should coordinate in order to ensure that advanced com-
+23
+munications service remains operational during times of 
+24
+emergency and pre-planned power downs. 
+25
+22:08 Feb 20, 2020
+H5926
+13 
+•HR 5926 IH
+(b) MEASURES.—Not later than 1 year after the date 
+1
+of the enactment of this Act, the Commission, in consulta-
+2
+tion with the Secretary of Energy and Secretary of Home-
+3
+land Security, shall— 
+4
+(1) establish a process by which providers of 
+5
+advanced communications service and utilities share 
+6
+information regarding what infrastructure, used in 
+7
+the provision of advanced communications service, 
+8
+should be prioritized for reenergization to best re-
+9
+store critical parts of such providers’ networks nec-
+10
+essary for emergency response and restoration ef-
+11
+forts, in a manner that promotes the most efficient 
+12
+and effective use of resources during times of emer-
+13
+gency and pre-planned power downs; 
+14
+(2) ensure that providers of advanced commu-
+15
+nications service take reasonable and technically fea-
+16
+sible measures to integrate backup power, including 
+17
+generators and batteries, into such providers’ net-
+18
+works to continue the provision of advanced commu-
+19
+nications service during and following times of emer-
+20
+gency and during pre-planned power downs with 
+21
+particular focus on consumers’ ability to send and 
+22
+receive emergency communications; 
+23
+(3) take all necessary, reasonable measures to 
+24
+ensure appropriate coordination including at incident 
+25
+22:08 Feb 20, 2020
+H5926
+14 
+•HR 5926 IH
+command centers established during times of emer-
+1
+gency between utilities, covered public safety enti-
+2
+ties, providers of advanced communications service, 
+3
+and, where appropriate, Federal, State, and local 
+4
+representatives, to ensure such utilities, entities, and 
+5
+providers— 
+6
+(A) are aware of where infrastructure used 
+7
+in the provision of advanced communications 
+8
+service is located to avoid inadvertently dam-
+9
+aging such infrastructure and thereby delaying 
+10
+restoration of advanced communications service 
+11
+during and following times of emergency and 
+12
+pre-planned power downs; 
+13
+(B) communicate with each other on a reg-
+14
+ular and ongoing basis regarding the progress 
+15
+of network restoration during and following 
+16
+times of emergency and pre-planned power 
+17
+downs; and 
+18
+(C) are aware of their respective restora-
+19
+tion plans, priorities, and critical sites in ad-
+20
+vance of any emergency, as well as during and 
+21
+following times of emergency and pre-planned 
+22
+power downs; and 
+23
+(4) ensure any and all information exchanged 
+24
+pursuant to this section will be subject to reasonable 
+25
+22:08 Feb 20, 2020
+H5926
+15 
+•HR 5926 IH
+confidentiality protections, accessed only by author-
+1
+ized users responsible for coordination required by 
+2
+this section, and used exclusively for the purpose of 
+3
+ensuring advanced communications service remains 
+4
+operational during and following times of emergency 
+5
+and pre-planned power downs. 
+6
+SEC. 5. PROMOTING 5G RESILIENCY. 
+7
+(a) REPORT.—Not later than 1 year after the date 
+8
+of the enactment of this Act and after public notice and 
+9
+an opportunity for comment, the Commission, in consulta-
+10
+tion with the Secretary of Homeland Security, shall pub-
+11
+lish on the website of the Commission and submit to the 
+12
+Committee on Energy and Commerce of the House of 
+13
+Representatives and the Committee on Commerce, 
+14
+Science, and Transportation of the Senate, a report that 
+15
+includes the following: 
+16
+(1) An evaluation of any unique (with respect 
+17
+to other forms of advanced communications service) 
+18
+challenges or advantages of 5G wireless networks 
+19
+with regard to the resiliency of such networks to 
+20
+withstand disruptions during times of emergency. 
+21
+(2) An analysis of the following: 
+22
+(A) 5G wireless networks using high-band 
+23
+frequencies of the electromagnetic spectrum. 
+24
+22:08 Feb 20, 2020
+H5926
+16 
+•HR 5926 IH
+(B) 5G wireless networks using low-band 
+1
+frequencies of the electromagnetic spectrum. 
+2
+(C) The backhaul requirements of 5G wire-
+3
+less networks. 
+4
+(D) The power requirements of 5G wireless 
+5
+networks. 
+6
+(E) The potential uses of 5G wireless net-
+7
+works in responding to natural and manmade 
+8
+disasters for public safety officials and the pub-
+9
+lic that are specific to 5G wireless networks. 
+10
+(F) The uses of 5G wireless networks to 
+11
+provide wireless emergency alerts and dispatch-
+12
+able location to public safety answering points. 
+13
+(G) The uses of 5G wireless networks in 
+14
+responding to natural and manmade disasters 
+15
+in rural areas. 
+16
+(3) Recommendations regarding regulatory or 
+17
+statutory changes that could address any challenges 
+18
+to, or better use any advantages of, 5G wireless net-
+19
+works with regard to the deployment and resiliency 
+20
+of such networks. 
+21
+(b) RULES MAY BE REQUIRED.—Not later than 2 
+22
+years after the date the Commission submits its report, 
+23
+the Commission shall consider whether to adopt rules or 
+24
+issue best practices to address any challenges or better 
+25
+22:08 Feb 20, 2020
+H5926
+17 
+•HR 5926 IH
+use any advantages of 5G wireless networks with regard 
+1
+to the resiliency of such networks are needed. 
+2
+SEC. 6. AUDIT OF FCC’S RESPONSE TO 2017 HURRICANE 
+3
+SEASON IN PUERTO RICO. 
+4
+(a) IN GENERAL.—The Comptroller General of the 
+5
+United States shall conduct a performance audit of the 
+6
+Commission’s efforts to restore advanced communications 
+7
+service, and other communications services, in Puerto Rico 
+8
+during, and following, the 2017 hurricane season. 
+9
+(b) REQUIRED CONSIDERATIONS.—In conducting the 
+10
+study under subsection (a), the Comptroller General shall 
+11
+examine— 
+12
+(1) the timeliness of the Commission’s actions 
+13
+to restore advanced communications service, and 
+14
+other communications services, in Puerto Rico dur-
+15
+ing, and following, the 2017 hurricane season; and 
+16
+(2) how the Commission responded following 
+17
+the 2017 hurricane season in Puerto Rico as com-
+18
+pared to how the Commission responded to other 
+19
+natural disasters, including hurricanes, previously or 
+20
+subsequently. 
+21
+(c) REPORT.—Not later than 18 months after the 
+22
+date of the enactment of this Act, the Comptroller General 
+23
+shall submit to the Committee on Energy and Commerce 
+24
+of the House of Representatives and the Committee on 
+25
+22:08 Feb 20, 2020
+H5926
+18 
+•HR 5926 IH
+Commerce, Science, and Transportation of the Senate a 
+1
+report on the findings of the study under subsection (a), 
+2
+including any recommendations. 
+3
+(d) NO COMBINATION.—Such study and report re-
+4
+quired by subsection (a), (b), or (c) may not be combined 
+5
+or associated with any other ongoing, or subsequently re-
+6
+quested, study by the Comptroller General. 
+7
+(e) PROCEEDING.—Not later than 2 years after the 
+8
+date of the enactment of this Act, the Commission shall 
+9
+commence a proceeding regarding what actions are appro-
+10
+priate for the Commission to take in addressing the find-
+11
+ings and recommendations outlined in the report issued 
+12
+under subsection (c). 
+13
+SEC. 7. RULE OF CONSTRUCTION. 
+14
+Nothing in this Act or the amendments made by this 
+15
+Act shall affect the operation or authority of the First Re-
+16
+sponder Network Authority established by section 6204 of 
+17
+the Middle Class Tax Relief and Job Creation Act of 2012 
+18
+(47 U.S.C. 1424). 
+19
+SEC. 8. DEFINITIONS. 
+20
+In this Act: 
+21
+(1) TERMS DEFINED IN SECTION 723 OF COM-
+22
+MUNICATIONS
+ACT
+OF
+1934, AS
+AMENDED.—The 
+23
+terms defined in section 723 of the Communications 
+24
+22:08 Feb 20, 2020
+H5926
+19 
+•HR 5926 IH
+Act of 1934, as added by section 2, have the mean-
+1
+ings given such terms in section 723. 
+2
+(2) COMMISSION.—The term ‘‘Commission’’ 
+3
+means the Federal Communications Commission. 
+4
+Æ 
+22:08 Feb 20, 2020
+H5926

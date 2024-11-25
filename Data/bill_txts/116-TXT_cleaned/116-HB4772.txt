@@ -1,0 +1,295 @@
+A BILL 
+To provide for the protection of proprietary information pro-
+vided to the Commodity Futures Trading Commission, 
+and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘CFTC Cybersecurity 
+4
+and Data Protection Enhancement Act’’. 
+5
+SEC. 2. PROTECTION OF PROPRIETARY INFORMATION BY 
+6
+THE COMMODITY FUTURES TRADING COM-
+7
+MISSION. 
+8
+Section 8(a) of the Commodity Exchange Act (7 
+9
+U.S.C. 12(a)) is amended— 
+10
+22:37 Oct 27, 2019
+H4772
+2 
+•HR 4772 IH
+(1) in the first proviso of paragraph (1), by 
+1
+striking ‘‘customers:’’ and inserting ‘‘customers, or 
+2
+disclose the proprietary information of any person:’’; 
+3
+and 
+4
+(2) by adding at the end the following: 
+5
+‘‘(4) TREATMENT OF PROPRIETARY INFORMATION.— 
+6
+‘‘(A) WRITTEN
+REQUEST; AGREEMENT.—Ex-
+7
+cept as provided in subparagraph (B), the Commis-
+8
+sion shall not examine, receive, obtain, or otherwise 
+9
+access the proprietary information of any person 
+10
+subject to this Act, unless— 
+11
+‘‘(i) the Commission has transmitted to the 
+12
+person a written request for the information, 
+13
+which details— 
+14
+‘‘(I) the records sought by the Com-
+15
+mission; 
+16
+‘‘(II) a reasonable schedule to fulfill 
+17
+the request; 
+18
+‘‘(III) the method proposed for the 
+19
+Commission to be provided with access to 
+20
+the records; 
+21
+‘‘(IV) any reasonable requirements for 
+22
+data structures or file formats of the 
+23
+records; and 
+24
+22:24 Oct 29, 2019
+H4772
+3 
+•HR 4772 IH
+‘‘(V) an explanation of the purpose of 
+1
+the request; and 
+2
+‘‘(ii) the person has agreed to the request. 
+3
+‘‘(B) EXCEPTIONS.—Subparagraph (A) shall 
+4
+not apply with respect to proprietary information of 
+5
+a person if— 
+6
+‘‘(i) the person has been served with a sub-
+7
+poena compelling the person to provide the 
+8
+Commission with access to the information; 
+9
+‘‘(ii) the information is otherwise required 
+10
+by or under this Act to be disclosed to the Com-
+11
+mission; 
+12
+‘‘(iii) the information was received from a 
+13
+whistleblower pursuant to section 23; 
+14
+‘‘(iv) the information was lawfully obtained 
+15
+from a foreign or domestic authority in connec-
+16
+tion with a confidential investigation by the 
+17
+Commission; or 
+18
+‘‘(v) the person has agreed to provide the 
+19
+Commission with access to the information. 
+20
+‘‘(C) OBLIGATIONS OF THE RECIPIENT.— 
+21
+‘‘(i) ACKNOWLEDGEMENT OF RECEIPT OF 
+22
+REQUEST.—Within 3 business days after a per-
+23
+son receives a request made in accordance with 
+24
+subparagraph (A) or a subsequent communica-
+25
+22:37 Oct 27, 2019
+H4772
+4 
+•HR 4772 IH
+tion from the Commission in relation to the re-
+1
+quest, the person shall acknowledge to the Com-
+2
+mission that the recipient has received the re-
+3
+quest or communication. 
+4
+‘‘(ii) RESPONSE TO REQUEST.—Within 10 
+5
+business days after a person receives such a re-
+6
+quest or communication, the person shall re-
+7
+spond to the request or communication in ac-
+8
+cordance with subparagraph (D). 
+9
+‘‘(iii) 
+RETENTION
+OF
+REQUESTED 
+10
+RECORDS.—A person who receives such a re-
+11
+quest shall retain all records identified in the 
+12
+request until the request or any subpoena for 
+13
+the records has been resolved. 
+14
+‘‘(D) RESPONSE
+OPTIONS
+OF
+THE
+RECIPI-
+15
+ENT.—A person who receives such a request shall— 
+16
+‘‘(i) agree to, and comply with, the request; 
+17
+‘‘(ii) request the Commission to provide 
+18
+additional information regarding the request; 
+19
+‘‘(iii) request the Commission modify any 
+20
+aspect of the request; 
+21
+‘‘(iv) seek a review of any aspect of the re-
+22
+quest by the Commission or a division director 
+23
+to whom the authority to conduct such a review 
+24
+has been delegated; or 
+25
+22:37 Oct 27, 2019
+H4772
+5 
+•HR 4772 IH
+‘‘(v) refuse the request. 
+1
+‘‘(5) ESTABLISHMENT
+OF
+RULES
+FOR
+SAFE-
+2
+GUARDING INFORMATION PROVIDED
+TO
+THE COMMIS-
+3
+SION.— 
+4
+‘‘(A) IN GENERAL.—The Commission shall pre-
+5
+scribe rules regarding— 
+6
+‘‘(i) the retention of information provided 
+7
+to the Commission under this Act, including— 
+8
+‘‘(I) the manner of retention; 
+9
+‘‘(II) the duration of retention, which 
+10
+shall ensure that information is retained 
+11
+for only so long as is necessary to carry 
+12
+out this Act or other Federal law; and 
+13
+‘‘(III) the process for the return or 
+14
+destruction of the information, as appro-
+15
+priate; and 
+16
+‘‘(ii) access to information provided to the 
+17
+Commission under this Act, including— 
+18
+‘‘(I) limitations on access to relevant, 
+19
+essential individuals; and 
+20
+‘‘(II) additional limitations on disclo-
+21
+sure by the individuals, including after 
+22
+leaving a position at the Commission. 
+23
+22:37 Oct 27, 2019
+H4772
+6 
+•HR 4772 IH
+‘‘(B) INCORPORATION OF BEST PRACTICES.— 
+1
+The rules shall incorporate best practices regard-
+2
+ing— 
+3
+‘‘(i) data collection; 
+4
+‘‘(ii) data access; 
+5
+‘‘(iii) data retention; 
+6
+‘‘(iv) physical security; and 
+7
+‘‘(v) information security and data protec-
+8
+tion, including cybersecurity. 
+9
+‘‘(6) PROPRIETARY
+INFORMATION
+DEFINED.—In 
+10
+this subsection, the term ‘proprietary information’ means 
+11
+sensitive, non-public information of a person, including— 
+12
+‘‘(A) trading strategies; 
+13
+‘‘(B) analytical or research methodologies; 
+14
+‘‘(C) trading activity in asset classes and not 
+15
+subject to this Act; 
+16
+‘‘(D) physical and cyber vulnerabilities; and 
+17
+‘‘(E) computer hardware or software containing 
+18
+intellectual property.’’. 
+19
+Æ 
+22:37 Oct 27, 2019
+H4772

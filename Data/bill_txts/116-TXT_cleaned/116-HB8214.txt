@@ -1,0 +1,414 @@
+A BILL 
+To direct the Secretary of Commerce, acting through the 
+Director of the National Institute of Standards and 
+Technology, to direct the Institute to establish a robust 
+program focusing on driving improvements in America’s 
+cybersecurity posture by creating more robust digital 
+identity management standards and guidelines. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Strengthening Digital 
+4
+Identity Act of 2020’’. 
+5
+01:02 Sep 15, 2020
+H8214
+2 
+•HR 8214 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) NIST’s work in identity research and stand-
+3
+ards is unmatched anywhere in the world, with glob-
+4
+al standards development organizations like the Fi-
+5
+nancial Action Task Force (FATF) pointing to 
+6
+NIST guidance in its own standards. Given that ad-
+7
+versaries continue to exploit weaknesses in digital 
+8
+identity systems to conduct successful cyber-attacks, 
+9
+additional NIST resources are needed to help gov-
+10
+ernment and industry secure identity in cyberspace. 
+11
+(2) The lack of an easy, affordable, and reliable 
+12
+way for organizations and businesses to identify 
+13
+whether an individual is who they claim to be online 
+14
+creates an attack vector that is widely exploited by 
+15
+adversaries in cyberspace and precludes many high 
+16
+value transactions from being available online. 
+17
+(3) According to the identity theft resource cen-
+18
+ter, incidents of identity theft and identity fraud 
+19
+continue to rise in the United States, where more 
+20
+than 164,000,000 consumer records containing per-
+21
+sonally identifiable information were breached in 
+22
+2019, increasing the total number of data breaches 
+23
+by 17 percent from the previous year. 
+24
+01:02 Sep 15, 2020
+H8214
+3 
+•HR 8214 IH
+(4) According to the Insurance Information In-
+1
+stitute, in 2018, losses resulting from identity fraud 
+2
+amounted to $16,800,000,000. 
+3
+(5) The inadequacy of current digital identity 
+4
+solutions degrades security and privacy for all Amer-
+5
+icans, and next generation solutions are needed that 
+6
+improve both security and privacy. 
+7
+(6) 
+Government 
+entities, 
+as 
+authoritative 
+8
+issuers of identity in the United States, are uniquely 
+9
+positioned to deliver critical components that ad-
+10
+dress deficiencies in our digital identity infrastruc-
+11
+ture and augment private sector digital identity and 
+12
+authentication solutions. 
+13
+(7) State governments are particularly well 
+14
+suited to play a role in enhancing digital identity so-
+15
+lutions used by both the public and private sectors, 
+16
+given the role of State governments as the issuers of 
+17
+driver’s licenses and other identity documents com-
+18
+monly used today. 
+19
+(8) It should be the policy of the Government 
+20
+to use the authorities and capabilities of the Govern-
+21
+ment to enhance the security, reliability, privacy, 
+22
+and convenience of digital identity solutions that 
+23
+support and protect transactions between individ-
+24
+01:02 Sep 15, 2020
+H8214
+4 
+•HR 8214 IH
+uals, government entities, and businesses, and that 
+1
+enable Americans to prove who they are online. 
+2
+SEC. 3. IDENTITY MANAGEMENT RESEARCH AND DEVELOP-
+3
+MENT. 
+4
+Section 504 of the Cybersecurity Enhancement Act 
+5
+of 2014 (15 U.S.C. 7464) is amended to read as follows: 
+6
+‘‘SEC. 504. IDENTITY MANAGEMENT RESEARCH AND DEVEL-
+7
+OPMENT. 
+8
+‘‘(a) IN GENERAL.—The Director shall continue a 
+9
+program to support the development of voluntary and 
+10
+cost-effective technical standards, metrology, testbeds, and 
+11
+conformance criteria, taking into account appropriate user 
+12
+concerns— 
+13
+‘‘(1) to improve interoperability among identity 
+14
+management technologies; 
+15
+‘‘(2) to strengthen identity proofing and au-
+16
+thentication methods used in identity management 
+17
+systems; 
+18
+‘‘(3) to improve privacy protection in identity 
+19
+management systems, including health information 
+20
+technology systems, through authentication and se-
+21
+curity protocols; and 
+22
+‘‘(4) to improve the usability and inclusivity of 
+23
+identity management systems. 
+24
+01:02 Sep 15, 2020
+H8214
+5 
+•HR 8214 IH
+‘‘(b) UPDATES AND INVESTMENT STRATEGY.—The 
+1
+Director, in consultation with other relevant Federal agen-
+2
+cies and stakeholders from the private sector, shall develop 
+3
+and implement a comprehensive forward-looking invest-
+4
+ment strategy for identity management research and de-
+5
+velopment and standards focused on enabling the use and 
+6
+adoption of modern digital identity solutions that align 
+7
+with the four criteria in section (a). This strategy shall: 
+8
+‘‘(1) Identify where additional funding may be 
+9
+needed to execute all elements of the strategy, both 
+10
+in NIST and potentially in other parts of govern-
+11
+ment. 
+12
+‘‘(2) Be updated not less than every 2 years 
+13
+with reports to the House Science Committee, Sen-
+14
+ate Commerce Committee, and House and Senate 
+15
+appropriations committees. 
+16
+‘‘(c) ACTIVITIES.—In carrying out the strategy de-
+17
+scribed under subsection (a), the Director shall give con-
+18
+sideration to activities that— 
+19
+‘‘(1) accelerate the development, in collabora-
+20
+tion with the private sector, of standards that ad-
+21
+dress interoperability and portability of digital iden-
+22
+tity solutions; 
+23
+‘‘(2) addresses gaps in current private-sector- 
+24
+led identity management research and development 
+25
+01:02 Sep 15, 2020
+H8214
+6 
+•HR 8214 IH
+and standards work, both for consumer-focused and 
+1
+enterprise-focused identity management; 
+2
+‘‘(3) advances the development of conformance 
+3
+testing performed by the private sector in support of 
+4
+digital identity standardization; 
+5
+‘‘(4) addresses challenges with inclusivity of ex-
+6
+isting digital identity and identity management tools; 
+7
+and 
+8
+‘‘(5) support, in consultation with other rel-
+9
+evant Federal agencies and stakeholders from the 
+10
+private sector, the development of appropriate secu-
+11
+rity frameworks and reference materials, and the 
+12
+identification of best practices, for use by Federal 
+13
+agencies and the private sector to address security 
+14
+and privacy requirements to enable the use and 
+15
+adoption of digital identity services.’’. 
+16
+SEC. 4. DIGITAL IDENTITY STANDARDS. 
+17
+(a) ESTABLISHMENT
+OF
+A STANDARDS FRAME-
+18
+WORK.—The Director shall develop a framework of stand-
+19
+ards, methodologies, procedures, and processes (in this 
+20
+section referred to as the ‘‘Framework’’) as a guide for 
+21
+Federal, State, and local governments to follow when pro-
+22
+viding services related to digital identity verification. 
+23
+(b) CONSIDERATION.—In developing the Framework, 
+24
+the Director shall consider— 
+25
+01:02 Sep 15, 2020
+H8214
+7 
+•HR 8214 IH
+(1) methods to protect the privacy of individ-
+1
+uals; 
+2
+(2) security needs; and 
+3
+(3) the needs of potential end-users and individ-
+4
+uals that will use services related to digital identity 
+5
+verification. 
+6
+(c) CONSULTATION.—In carrying out subsection the 
+7
+Director shall consult with— 
+8
+(1) Federal and State agencies; 
+9
+(2) potential end-users and individuals that will 
+10
+use services related to digital identity verification; 
+11
+and 
+12
+(3) experts with relevant experience in the sys-
+13
+tems that enable digital identity verification, as de-
+14
+termined by the Director. 
+15
+(d) INTERIM PUBLICATION.—Not later than 240 
+16
+days after the date of the enactment of this Act, the Direc-
+17
+tor shall publish an interim version of the Framework. 
+18
+(e) FINAL PUBLICATION.—Not later than 1 year 
+19
+after the date of the enactment of this Act, the Director 
+20
+shall publish a final version of the Framework. 
+21
+(f) UPDATES TO THE FRAMEWORK.—The Director 
+22
+shall, from time to time, update the Framework, with con-
+23
+sideration given to— 
+24
+01:02 Sep 15, 2020
+H8214
+8 
+•HR 8214 IH
+(1) feedback from Federal, State, and local 
+1
+agencies that provide services related to digital iden-
+2
+tity verification; and 
+3
+(2) any technological changes to the systems 
+4
+that enable digital identity verification. 
+5
+(g) AUTHORIZATION OF APPROPRIATIONS.—There is 
+6
+authorized 
+to 
+be 
+appropriated 
+to 
+the 
+Secretary 
+7
+$10,000,000 for each of fiscal years 2021 through 2025 
+8
+to carry out this Act and the amendments made by this 
+9
+Act. 
+10
+SEC. 5. DEFINITIONS. 
+11
+For purposes of this Act: 
+12
+(1) BOT.—The term ‘‘Bot’’ means an autono-
+13
+mous program on an Internet network that can 
+14
+interact with computer systems or users, especially 
+15
+one designed to respond or behave like a human 
+16
+being. 
+17
+(2) DIGITAL
+IDENTITY
+VERIFICATION.—The 
+18
+term ‘‘digital identity verification’’ means a process 
+19
+to verify the identity of an individual accessing a 
+20
+service online. 
+21
+(3) DIRECTOR.—The term ‘‘Director’’ means 
+22
+the Director of the National Institute of Standards 
+23
+and Technology. 
+24
+01:02 Sep 15, 2020
+H8214
+9 
+•HR 8214 IH
+(4) INSTITUTE.—The term ‘‘Institute’’ means 
+1
+the National Institute of Standards and Technology. 
+2
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+3
+the Secretary of Commerce. 
+4
+Æ 
+01:02 Sep 15, 2020
+H8214

@@ -1,0 +1,1092 @@
+A BILL 
+To require ride-hailing companies to implement an enhanced 
+digital system to verify passengers with their authorized 
+ride-hailing vehicles and drivers. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as ‘‘Sami’s Law’’. 
+4
+SEC. 2. DEFINITIONS. 
+5
+In this Act: 
+6
+03:57 Mar 17, 2021
+H1082
+2 
+•HR 1082 IH
+(1) COUNCIL.—The term ‘‘Council’’ means the 
+1
+Safety Actions for Matching and Identifying Ride- 
+2
+Share Customers Advisory Council established under 
+3
+section 5(a). 
+4
+(2) NONVISUAL; NONVISUALLY ACCESSIBLE.— 
+5
+The terms ‘‘nonvisual’’ and ‘‘nonvisually accessible’’, 
+6
+with respect to the systems described in sections 
+7
+3(a)(2)(A)(iv) and 4(b)(2)(B), mean digital content 
+8
+that— 
+9
+(A) meets the criteria for success described 
+10
+in the guidelines entitled ‘‘Web Content Acces-
+11
+sibility Guidelines 2.0, Level AA’’ (or a suc-
+12
+cessor to, or revision of, those guidelines) that 
+13
+have been incorporated into the standards 
+14
+issued by the United States Access Board 
+15
+known as the ‘‘Section 508 standards’’, includ-
+16
+ing, to the extent applicable, the applications 
+17
+commonly known as the ‘‘Web Accessibility Ini-
+18
+tiative - Accessible Rich Internet Applications 
+19
+(WAI–ARIA)’’; or 
+20
+(B) otherwise allows visually impaired pas-
+21
+sengers to access the same information, and use 
+22
+the same systems, offered to nonvisually im-
+23
+paired passengers under sections 3(a)(2)(A)(iv) 
+24
+and 4(b)(2)(B) in a manner that provides a 
+25
+03:57 Mar 17, 2021
+H1082
+3 
+•HR 1082 IH
+comparable level of privacy, independence, and 
+1
+substantially equivalent ease of use to visually 
+2
+impaired passengers. 
+3
+(3) PASSENGER.—The term ‘‘passenger’’ means 
+4
+an individual who is matched with a TNC driver by 
+5
+submitting to a transportation network company a 
+6
+trip request using a TNC platform. 
+7
+(4) PERSONAL
+MOBILE
+DEVICE.—The term 
+8
+‘‘personal mobile device’’ means a mobile commu-
+9
+nications device used by an individual to submit a 
+10
+trip request through a TNC platform. 
+11
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+12
+the Secretary of Transportation. 
+13
+(6) TNC DRIVER.—The term ‘‘TNC driver’’ 
+14
+means an individual who contracts with a transpor-
+15
+tation network company to provide transportation 
+16
+services through a TNC platform in exchange for 
+17
+compensation or payment of a fee. 
+18
+(7) TNC PLATFORM.—The term ‘‘TNC plat-
+19
+form’’ means an online-enabled application or digital 
+20
+network made available by a transportation network 
+21
+company to connect passengers to TNC drivers for 
+22
+the purpose of providing prearranged transportation 
+23
+services. 
+24
+03:57 Mar 17, 2021
+H1082
+4 
+•HR 1082 IH
+(8) TNC VEHICLE.—The term ‘‘TNC vehicle’’ 
+1
+means a vehicle (also known as a ‘‘ride-hailing vehi-
+2
+cle’’) that is— 
+3
+(A) owned, leased, or otherwise authorized 
+4
+for use by a TNC driver; and 
+5
+(B) used by the TNC driver to provide to 
+6
+passengers prearranged transportation services. 
+7
+(9) TRANSPORTATION NETWORK COMPANY.— 
+8
+(A) IN
+GENERAL.—The term ‘‘transpor-
+9
+tation network company’’ means a corporation, 
+10
+partnership, sole proprietorship, or other entity 
+11
+that makes available a TNC platform to con-
+12
+nect passengers to TNC drivers in exchange for 
+13
+compensation or payment of a fee in order for 
+14
+the TNC driver to transport the passenger 
+15
+using a TNC vehicle to a point chosen by the 
+16
+passenger. 
+17
+(B) EXCLUSIONS.—The term ‘‘transpor-
+18
+tation network company’’ does not include— 
+19
+(i) a shared-expense carpool or van-
+20
+pool arrangement that is not intended to 
+21
+generate profit for the driver; or 
+22
+(ii) microtransit or other dedicated 
+23
+services provided exclusively on behalf of a 
+24
+government entity, a nonprofit organiza-
+25
+03:57 Mar 17, 2021
+H1082
+5 
+•HR 1082 IH
+tion, or a third-party commercial enter-
+1
+prise. 
+2
+(10) VERIFIABLE
+INFORMATION.—The term 
+3
+‘‘verifiable information’’ means data that— 
+4
+(A) are shared among— 
+5
+(i) a TNC platform; 
+6
+(ii) a TNC driver authorized to use 
+7
+the TNC platform; and 
+8
+(iii) a passenger using the TNC plat-
+9
+form; and 
+10
+(B) include— 
+11
+(i) a personal authentication number 
+12
+confirmation; 
+13
+(ii) a license plate confirmation; or 
+14
+(iii) other information that may be 
+15
+used in a successor technology-based sys-
+16
+tem. 
+17
+SEC. 3. MINIMUM REQUIREMENTS FOR TRANSPORTATION 
+18
+NETWORK COMPANIES. 
+19
+(a) TNC PLATFORM SYSTEMS.— 
+20
+(1) IN GENERAL.—Not later than 90 days after 
+21
+the date of enactment of this Act, each transpor-
+22
+tation network company shall establish and imple-
+23
+ment, within the TNC platform of the transportation 
+24
+network company, a system and policy under which 
+25
+03:57 Mar 17, 2021
+H1082
+6 
+•HR 1082 IH
+the transportation network company shall provide to 
+1
+each passenger using the TNC platform a digital 
+2
+method to verify, prior to the beginning of the trip 
+3
+requested by the passenger, that the TNC driver 
+4
+with whom the passenger has been matched through 
+5
+the TNC platform has been authorized by the trans-
+6
+portation network company to accept the trip re-
+7
+quest. 
+8
+(2) INCLUSIONS.—Each system under para-
+9
+graph (1) shall include— 
+10
+(A)(i) an initial notification, containing 
+11
+verifiable information specific to the applicable 
+12
+TNC driver or TNC vehicle with which the ap-
+13
+plicable passenger has been matched, that is— 
+14
+(I) sent to the personal mobile device 
+15
+of the passenger; or 
+16
+(II) otherwise communicated to the 
+17
+passenger; 
+18
+(ii) a method by which the applicable pas-
+19
+senger, TNC driver, and TNC platform can 
+20
+confirm the verifiable information matching the 
+21
+passenger to the TNC driver or TNC vehicle 
+22
+prior to the beginning of the requested trip; 
+23
+(iii) a restriction imposed by the TNC plat-
+24
+form against any TNC driver from commencing 
+25
+03:57 Mar 17, 2021
+H1082
+7 
+•HR 1082 IH
+a trip through the TNC platform until the sys-
+1
+tem is used— 
+2
+(I) by the applicable passenger to 
+3
+verify the identity of the TNC driver; and 
+4
+(II) by the applicable TNC driver to 
+5
+verify the identity of the passenger; and 
+6
+(iv) a nonvisual method by which a pas-
+7
+senger can verify the identity of the applicable 
+8
+TNC driver in accordance with this subpara-
+9
+graph; or 
+10
+(B) as an alternative to a system described 
+11
+in subparagraph (A), a successor technology- 
+12
+based system that enables verification by the 
+13
+applicable passenger, prior to the beginning of 
+14
+the trip requested by the passenger, that the 
+15
+TNC driver with whom the passenger has been 
+16
+matched through the TNC platform of the 
+17
+transportation network company has been au-
+18
+thorized by the transportation network company 
+19
+to accept the trip request. 
+20
+(b) PASSENGER OPT-OUT.—A transportation net-
+21
+work company may offer to passengers an option not to 
+22
+use the system of the transportation network company 
+23
+under subsection (a). 
+24
+03:57 Mar 17, 2021
+H1082
+8 
+•HR 1082 IH
+(c) EXEMPTIONS.—This section shall not apply to 
+1
+any trip— 
+2
+(1) with respect to which a passenger elects 
+3
+under subsection (b) to opt out of using the system 
+4
+of the relevant transportation network company; 
+5
+(2) that is facilitated by a third party, including 
+6
+any third-party commercial enterprise, nonprofit or-
+7
+ganization, or government entity, for a passenger 
+8
+who is transported in a TNC vehicle; or 
+9
+(3) with respect to which compliance with sub-
+10
+section (a) is impracticable due to circumstances be-
+11
+yond the control of the relevant transportation net-
+12
+work company, including any instance in which— 
+13
+(A) the personal mobile device of a pas-
+14
+senger has failed to operate; or 
+15
+(B) there exists degraded, reduced, or oth-
+16
+erwise insufficient cellular connectivity in order 
+17
+for the system of a transportation network com-
+18
+pany under subsection (a) to operate properly. 
+19
+(d) AUTHORITY OF SECRETARY.— 
+20
+(1) REGULATIONS.—The Secretary may pro-
+21
+mulgate such regulations as the Secretary deter-
+22
+mines to be necessary to carry out this section. 
+23
+(2) INSPECTION
+AUTHORITY.—The Secretary 
+24
+may inspect such records of a transportation net-
+25
+03:57 Mar 17, 2021
+H1082
+9 
+•HR 1082 IH
+work company as the Secretary determines to be 
+1
+necessary to allow the Secretary to determine wheth-
+2
+er the transportation network company achieves 
+3
+compliance with the applicable requirements of this 
+4
+section. 
+5
+(e) ENFORCEMENT.— 
+6
+(1) IN GENERAL.—Subject to paragraph (2), a 
+7
+transportation network company that is in violation 
+8
+of an applicable requirement of this section shall be 
+9
+liable to the United States for a civil penalty in an 
+10
+amount equal to not more than $5,000 per day of 
+11
+violation. 
+12
+(2) KNOWING AND WILLFUL VIOLATIONS.—A 
+13
+transportation network company shall be liable to 
+14
+the United States for a civil penalty in an amount 
+15
+equal to not more than $20,000 per day of knowing 
+16
+and willful violation of an applicable requirement of 
+17
+this section. 
+18
+(3) COMPROMISE.—The Secretary may com-
+19
+promise the amount of a civil penalty imposed under 
+20
+this subsection before referral to the Attorney Gen-
+21
+eral. 
+22
+(4) 
+OFFSET
+FROM
+FEDERALLY
+OWED 
+23
+AMOUNTS.—The Federal Government may deduct 
+24
+the amount of a civil penalty imposed under this 
+25
+03:57 Mar 17, 2021
+H1082
+10 
+•HR 1082 IH
+subsection (including through compromise under 
+1
+paragraph (3)) from any amounts owed by the Fed-
+2
+eral Government to the transportation network com-
+3
+pany liable for the penalty. 
+4
+SEC. 4. SUCCESSOR TECHNOLOGY-BASED SYSTEM PER-
+5
+FORMANCE STANDARDS. 
+6
+(a) RECOMMENDATIONS
+OF COUNCIL.—Not later 
+7
+than 180 days after the date of establishment of the Coun-
+8
+cil, the Council shall submit to the Secretary information 
+9
+regarding best practices and recommendations supported 
+10
+by the majority of the members of the Council concerning 
+11
+performance standards the Secretary may establish with 
+12
+respect to successor technology-based systems described in 
+13
+section 3(a)(2)(B). 
+14
+(b) ACTION BY SECRETARY.— 
+15
+(1) IN
+GENERAL.—Not later than one year 
+16
+after the date of receipt of the recommendations of 
+17
+the Council under subsection (a), the Secretary 
+18
+shall— 
+19
+(A) review the recommendations; 
+20
+(B) establish performance standards with 
+21
+respect to successor technology-based systems 
+22
+described in section 3(a)(2)(B); and 
+23
+(C) provide to each transportation network 
+24
+company that elects to use a successor tech-
+25
+03:57 Mar 17, 2021
+H1082
+11 
+•HR 1082 IH
+nology-based system subject to a performance 
+1
+standard established under subparagraph (B) a 
+2
+reasonable time to achieve compliance with the 
+3
+applicable standards. 
+4
+(2) REQUIREMENTS.—The standards estab-
+5
+lished under paragraph (1)(B) shall require, at a 
+6
+minimum, that— 
+7
+(A) a successor technology-based system 
+8
+enables verification by a passenger, prior to the 
+9
+beginning of the trip requested by the pas-
+10
+senger through a TNC platform, that the TNC 
+11
+driver with whom the passenger has been 
+12
+matched is authorized by the applicable trans-
+13
+portation network company to accept the trip 
+14
+request; 
+15
+(B) the protocols for verification described 
+16
+in subparagraph (A) are visually accessible and 
+17
+nonvisually accessible; and 
+18
+(C) a transportation network company 
+19
+shall implement a system incorporating a TNC 
+20
+driver education and public awareness program 
+21
+relating to— 
+22
+(i) the use of the successor tech-
+23
+nology-based system; and 
+24
+03:57 Mar 17, 2021
+H1082
+12 
+•HR 1082 IH
+(ii) any required verifiable informa-
+1
+tion. 
+2
+(3) UPDATES.—Not later than 180 days after 
+3
+the date of establishment of performance standards 
+4
+under paragraph (1)(B), and not less frequently 
+5
+than annually thereafter, the Secretary— 
+6
+(A) shall solicit input from the Council re-
+7
+garding whether the performance standards 
+8
+should be updated or expanded to incorporate 
+9
+new technological developments; and 
+10
+(B) may issue such amended performance 
+11
+standards as the Secretary determines to be 
+12
+necessary to account for new technological de-
+13
+velopments. 
+14
+(4) INTERIM STANDARDS.— 
+15
+(A) IN GENERAL.—During the period be-
+16
+ginning on the date of enactment of this Act 
+17
+and ending on the date on which performance 
+18
+standards are established under paragraph 
+19
+(1)(B), a transportation network company may 
+20
+adopt and deploy any successor technology- 
+21
+based system that enables passengers to verify, 
+22
+prior to the beginning of the trip requested by 
+23
+the passenger, that the TNC driver with whom 
+24
+the passenger has been matched through the 
+25
+03:57 Mar 17, 2021
+H1082
+13 
+•HR 1082 IH
+TNC platform has been authorized by the 
+1
+transportation network company to accept the 
+2
+trip request. 
+3
+(B) TREATMENT.—A successor technology- 
+4
+based system deployed pursuant to subpara-
+5
+graph (A) shall be considered to meet the appli-
+6
+cable requirements of paragraph (2) during the 
+7
+period described in that subparagraph, unless 
+8
+the Secretary determines that the successor 
+9
+technology-based system is insufficient. 
+10
+(C) INSUFFICIENCIES.—If the Secretary 
+11
+makes a determination described in subpara-
+12
+graph (B) with respect to a successor tech-
+13
+nology-based system deployed by a transpor-
+14
+tation network company, the Secretary shall 
+15
+provide to the transportation network company 
+16
+a reasonable period to remedy the insufficiency. 
+17
+(5) REPORTS.—On initially establishing per-
+18
+formance standards under paragraph (1)(B), and 
+19
+not less frequently than annually thereafter until the 
+20
+date of termination of the Council under section 
+21
+5(g)(2), the Secretary shall submit to the Committee 
+22
+on Commerce, Science, and Transportation of the 
+23
+Senate and the Committee on Transportation and 
+24
+03:57 Mar 17, 2021
+H1082
+14 
+•HR 1082 IH
+Infrastructure of the House of Representatives a re-
+1
+port that describes— 
+2
+(A)(i) the recommendations of the Council 
+3
+under subsection (a); and 
+4
+(ii) the consideration by the Secretary of 
+5
+those recommendations, including the reasons 
+6
+why the recommendations were accepted or not 
+7
+accepted, as applicable; 
+8
+(B) the performance standards established 
+9
+by the Secretary under paragraph (1)(B), in-
+10
+cluding any updates to those standards under 
+11
+paragraph (3); and 
+12
+(C) the rationale of the Secretary for es-
+13
+tablishing those performance standards. 
+14
+SEC. 5. SAFETY ACTIONS FOR MATCHING AND IDENTI-
+15
+FYING RIDE-SHARE CUSTOMERS ADVISORY 
+16
+COUNCIL. 
+17
+(a) ESTABLISHMENT.—Subject to the availability of 
+18
+appropriations, not later than 90 days after the date of 
+19
+enactment of this Act, the Secretary shall establish a 
+20
+council, to be known as the ‘‘Safety Actions for Matching 
+21
+and Identifying Ride-Share Customers Advisory Council’’ 
+22
+or ‘‘SAMI’s Law Council’’, to recommend to the Secretary 
+23
+performance standards the Secretary may establish with 
+24
+03:57 Mar 17, 2021
+H1082
+15 
+•HR 1082 IH
+respect to successor technology-based systems described in 
+1
+section 3(a)(2)(B). 
+2
+(b) MEMBERSHIP.— 
+3
+(1) IN GENERAL.—The Council shall be com-
+4
+posed of 17 members to be appointed by the Sec-
+5
+retary, comprised of the following: 
+6
+(A) One or more representatives of each 
+7
+of— 
+8
+(i) the Department of Transportation; 
+9
+(ii) the National Institute of Stand-
+10
+ards and Technology; 
+11
+(iii) the Federal Trade Commission; 
+12
+(iv) an association or trade group that 
+13
+represents technology companies, the mem-
+14
+bership of which includes 1 or more trans-
+15
+portation network companies; 
+16
+(v) an association or trade group that 
+17
+represents ground passenger transpor-
+18
+tation, the membership of which includes 1 
+19
+or more transportation network companies; 
+20
+and 
+21
+(vi) an organization that is— 
+22
+(I) comprised, and established for 
+23
+the benefit, of TNC drivers; and 
+24
+03:57 Mar 17, 2021
+H1082
+16 
+•HR 1082 IH
+(II) present in not fewer than 
+1
+two States. 
+2
+(B) Two or more representatives from each 
+3
+of— 
+4
+(i) one national transportation net-
+5
+work company and one small, local trans-
+6
+portation network company; 
+7
+(ii) one State government and one 
+8
+unit of local or Tribal government; 
+9
+(iii) law enforcement agencies; 
+10
+(iv) national organizations comprised, 
+11
+and established for the benefit, of individ-
+12
+uals with disabilities; and 
+13
+(v) 
+ride-hailing 
+victims 
+advocacy 
+14
+groups. 
+15
+(2) CHAIRPERSON.—Of the members of the 
+16
+Council appointed under paragraph (1)(A), the Sec-
+17
+retary shall designate one to serve as chairperson of 
+18
+the Council. 
+19
+(c) TERM; VACANCIES.— 
+20
+(1) TERM.—A member of the Council shall 
+21
+serve for a term of three years. 
+22
+(2) VACANCIES.—A vacancy on the Council— 
+23
+(A) shall not affect the powers of the 
+24
+Council; and 
+25
+03:57 Mar 17, 2021
+H1082
+17 
+•HR 1082 IH
+(B) shall be filled in the same manner as 
+1
+the original appointment was made. 
+2
+(d) COMPENSATION OF MEMBERS.— 
+3
+(1) IN GENERAL.—A member of the Council 
+4
+shall serve without compensation. 
+5
+(2) TRAVEL
+EXPENSES.—A member of the 
+6
+Council shall be allowed travel expenses, including 
+7
+per diem in lieu of subsistence, at rates authorized 
+8
+for an employee of an agency under subchapter I of 
+9
+chapter 57 of title 5, United States Code, while 
+10
+away from the home or regular place of business of 
+11
+the member in the performance of the duties of the 
+12
+Council. 
+13
+(e) TECHNICAL ASSISTANCE.—On request of the 
+14
+Council, the Secretary shall provide such technical assist-
+15
+ance as the Secretary determines to be necessary to enable 
+16
+the Council to carry out the duties of the Council. 
+17
+(f) DETAIL OF DOT EMPLOYEES.— 
+18
+(1) IN GENERAL.—On receipt of a request from 
+19
+the Council, the Secretary may detail to the Council 
+20
+any employee of the Department of Transportation, 
+21
+with or without reimbursement. 
+22
+(2) CIVIL SERVICE STATUS.—The detail of an 
+23
+employee under paragraph (1) shall be without inter-
+24
+ruption or loss of civil service status or privilege. 
+25
+03:57 Mar 17, 2021
+H1082
+18 
+•HR 1082 IH
+(g) REVIEW BY SECRETARY.— 
+1
+(1) IN GENERAL.—Beginning on the date that 
+2
+is 12 years after the date of enactment of this Act, 
+3
+the Secretary shall periodically review, and solicit 
+4
+public comment regarding, whether the continued 
+5
+existence of the Council is necessary. 
+6
+(2) TERMINATION OF COUNCIL.—On a deter-
+7
+mination by the Secretary under paragraph (1) that 
+8
+the Council is no longer necessary, the Secretary 
+9
+may— 
+10
+(A) terminate the Council; and 
+11
+(B) on termination of the Council under 
+12
+subparagraph (A), update performance stand-
+13
+ards relating to successor technologies as the 
+14
+Secretary determines to be appropriate. 
+15
+SEC. 6. PROHIBITION ON SALE OF RIDE-HAILING SIGNAGE. 
+16
+(a) PROHIBITION.—Except as provided in subsection 
+17
+(b), it shall be unlawful for any person to sell or offer 
+18
+for sale any signage that— 
+19
+(1) is designed to help a passenger to identify 
+20
+a TNC vehicle; and 
+21
+(2)(A) contains a proprietary trademark or logo 
+22
+of a transportation network company; or 
+23
+(B) purports to be signage of a transportation 
+24
+network company. 
+25
+03:57 Mar 17, 2021
+H1082
+19 
+•HR 1082 IH
+(b) APPLICABILITY.—Subsection (a) shall not apply 
+1
+to any person authorized by a transportation network 
+2
+company to sell or offer for sale signage of the transpor-
+3
+tation network company described in that subsection. 
+4
+(c) ENFORCEMENT.— 
+5
+(1) IN GENERAL.—A violation of this section 
+6
+shall be considered to be a violation of a rule defin-
+7
+ing an unfair or deceptive act or practice prescribed 
+8
+under section 18(a)(1)(B) of the Federal Trade 
+9
+Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+10
+(2) ACTION BY FTC.—The Federal Trade Com-
+11
+mission shall enforce this section in the same man-
+12
+ner, by the same means, and with the same jurisdic-
+13
+tion, powers, and duties as though all applicable pro-
+14
+visions of the Federal Trade Commission Act (15 
+15
+U.S.C. 41 et seq.) are incorporated in this Act. 
+16
+(3) TREATMENT.—Any person who violates this 
+17
+section shall be subject to the penalties, and entitled 
+18
+to the privileges and immunities, provided in the 
+19
+Federal Trade Commission Act (15 U.S.C. 41 et 
+20
+seq.). 
+21
+(d) SAVINGS CLAUSE.—Nothing in this section limits 
+22
+the authority of the Federal Trade Commission under any 
+23
+other provision of law. 
+24
+03:57 Mar 17, 2021
+H1082
+20 
+•HR 1082 IH
+SEC. 7. GAO STUDY ON INCIDENCE OF ASSAULT AND ABUSE 
+1
+OF PASSENGERS, TNC DRIVERS, AND DRIV-
+2
+ERS OF OTHER FOR-HIRE VEHICLES. 
+3
+The Comptroller General of the United States shall— 
+4
+(1) conduct a study regarding the incidence of 
+5
+assault and abuse perpetrated— 
+6
+(A) against TNC drivers and drivers of 
+7
+other for-hire vehicles (including taxicabs) by 
+8
+passengers and riders of for-hire vehicles; and 
+9
+(B) against passengers and riders by TNC 
+10
+drivers or drivers of other for-hire vehicles (in-
+11
+cluding taxicabs); and 
+12
+(2) not later than 14 months after the date of 
+13
+enactment of this Act, submit to Congress a report 
+14
+that includes a description of— 
+15
+(A) the nature and specifics of any back-
+16
+ground checks conducted on prospective TNC 
+17
+drivers of and drivers of other for-hire vehicles 
+18
+(including taxicabs), including any State and 
+19
+local laws requiring those background checks; 
+20
+(B) incidences in which— 
+21
+(i) individuals who are not TNC driv-
+22
+ers or drivers of other for-hire vehicles at-
+23
+tempt to pose as TNC drivers or drivers of 
+24
+other for-hire vehicles; or 
+25
+03:57 Mar 17, 2021
+H1082
+21 
+•HR 1082 IH
+(ii) passengers enter an incorrect vehi-
+1
+cle, regardless of whether the vehicle is a 
+2
+TNC vehicle or other for-hire vehicle; and 
+3
+(C)(i) efforts by— 
+4
+(I) transportation network companies, 
+5
+taxicab companies, or for-hire vehicle com-
+6
+panies to implement additional safety 
+7
+measures and practices; and 
+8
+(II) State and local governments to 
+9
+require those measures; and 
+10
+(ii) the efficacy of those efforts, practices, 
+11
+and requirements. 
+12
+SEC. 8. BUDGETARY EFFECTS. 
+13
+The budgetary effects of this Act, for the purpose of 
+14
+complying with the Statutory Pay-As-You-Go Act of 2010, 
+15
+shall be determined by reference to the latest statement 
+16
+titled ‘‘Budgetary Effects of PAYGO Legislation’’ for this 
+17
+Act, submitted for printing in the Congressional Record 
+18
+by the Chairman of the House Budget Committee, pro-
+19
+vided that such statement has been submitted prior to the 
+20
+vote on passage. 
+21
+Æ 
+03:57 Mar 17, 2021
+H1082

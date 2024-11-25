@@ -1,0 +1,1688 @@
+A BILL 
+To support research, development, demonstration, and other 
+activities to develop innovative vehicle technologies, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Shifting Forward Vehi-
+4
+cle Technologies Research and Development Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+(1) ALTERNATIVE
+FUEL.—The term ‘‘alter-
+8
+native fuel’’ means a fuel that results in a signifi-
+9
+20:32 Oct 25, 2022
+H9022
+2 
+•HR 9022 IH
+cant reduction in lifecycle greenhouse gas (GHG) 
+1
+and criteria air pollutant emissions compared to con-
+2
+ventional fuel options. 
+3
+(2) EXTREME FAST CHARGING.—The term ‘‘ex-
+4
+treme fast charging’’ means recharging up to 80 
+5
+percent of battery capacity in approximately 10 min-
+6
+utes or less. 
+7
+(3) SUSTAINABLE MATERIALS.—The term ‘‘sus-
+8
+tainable materials’’ means materials used through-
+9
+out the consumer and industrial economy that can 
+10
+be produced in required volumes without depleting 
+11
+nonrenewable resources and without disrupting the 
+12
+established steady-state equilibrium of the environ-
+13
+ment and key natural resource systems. 
+14
+(4) DEPARTMENT.—The term ‘‘Department’’ 
+15
+means the Department of Energy. 
+16
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+17
+the Secretary of Energy. 
+18
+SEC. 3. REPORTING ON THE DEVELOPMENT OF CERTAIN 
+19
+TECHNOLOGIES. 
+20
+Not later than two years after the date of enactment 
+21
+of this Act and every two years thereafter through 2027, 
+22
+the Secretary shall submit to the Committee on Science, 
+23
+Space, and Technology of the House of Representatives 
+24
+20:32 Oct 25, 2022
+H9022
+3 
+•HR 9022 IH
+and the Committee on Energy and Natural Resources of 
+1
+the Senate a report describing— 
+2
+(1) the activities undertaken pursuant to this 
+3
+Act, including— 
+4
+(A) the status of public-private partner-
+5
+ships; 
+6
+(B) progress of the programs under sec-
+7
+tions 4, 6, 8, and 12 in meeting goals and 
+8
+timelines; and 
+9
+(C) a strategic plan for funding of activi-
+10
+ties across agencies; and 
+11
+(2) the technologies and knowledge developed 
+12
+and demonstrated as a result of such activities, with 
+13
+a particular emphasis on whether such technologies 
+14
+were successfully adopted for commercial applica-
+15
+tions, and if so, whether products relying on such 
+16
+technologies are manufactured in the United States. 
+17
+SEC. 4. ADVANCED VEHICLE RESEARCH AND DEVELOP-
+18
+MENT PROGRAM. 
+19
+(a) IN GENERAL.—The Secretary, in consultation 
+20
+with the heads of relevant Federal agencies, shall conduct 
+21
+a research, development, and demonstration program of 
+22
+advanced vehicle technologies on more efficient, sustain-
+23
+able, and domestically available materials and manufac-
+24
+turing processes with the potential to— 
+25
+20:32 Oct 25, 2022
+H9022
+4 
+•HR 9022 IH
+(1) substantially reduce or eliminate greenhouse 
+1
+gas emissions from the manufacture and use of pas-
+2
+senger and commercial vehicles; and 
+3
+(2) reduce the cost of vehicle manufacturing 
+4
+and ownership. 
+5
+(b) PROGRAM COMPONENTS.—In carrying out the 
+6
+program under subsection (a), the Secretary shall coordi-
+7
+nate with the activities authorized under section 137 of 
+8
+the Energy Independence and Security Act of 2007 (42 
+9
+U.S.C. 17014; relating to research and development into 
+10
+integrating electric vehicles onto the electric grid) and sub-
+11
+section (q) of section 641 of the United States Energy 
+12
+Storage Competitiveness Act of 2007 (42 U.S.C. 17231; 
+13
+enacted as subtitle D of title VI of the Energy Independ-
+14
+ence and Security Act of 2007; relating to the establish-
+15
+ment of a critical material recycling and reuse research, 
+16
+development, and demonstration program), and with the 
+17
+heads of relevant Federal agencies to determine a com-
+18
+prehensive set of technical milestones for such activities 
+19
+and focus on research and development challenges across 
+20
+the vehicle supply chain including, to the maximum extent 
+21
+practicable, activities in the areas of— 
+22
+(1) electrification of vehicle systems, including 
+23
+compact and efficient electric drivetrain systems; 
+24
+20:32 Oct 25, 2022
+H9022
+5 
+•HR 9022 IH
+(2) power electronics, electric machines, and 
+1
+electric machine drive systems, which may include— 
+2
+(A) electronic motors, including advanced 
+3
+inverters and motors that can be used for pas-
+4
+senger vehicles and commercial vehicles; 
+5
+(B) magnetic materials, including perma-
+6
+nent magnets with reduced or no critical mate-
+7
+rials; 
+8
+(C) improving partial load efficiency; 
+9
+(D) design of power electronics and electric 
+10
+motor technologies that enable efficient recy-
+11
+cling of critical materials; and 
+12
+(E) assessing potential impacts of various 
+13
+vehicle systems on electric propulsion perform-
+14
+ance, including potential impacts from AM/FM 
+15
+radio frequencies; 
+16
+(3) vehicle batteries and relevant systems, 
+17
+which may include— 
+18
+(A) 
+advanced 
+batteries 
+systems, 
+19
+ultracapacitors, and other competitive energy 
+20
+storage devices; 
+21
+(B) common interconnection protocols, 
+22
+specifications, and architecture for both trans-
+23
+portation and stationary battery applications; 
+24
+20:32 Oct 25, 2022
+H9022
+6 
+•HR 9022 IH
+(C) energy density and capacity, re-
+1
+charging robustness, extreme fast charging and 
+2
+wireless charging capabilities, and efficiencies to 
+3
+lower cost; 
+4
+(D) lifetime improvement and reduction of 
+5
+potential lifecycle impacts from advanced bat-
+6
+teries; 
+7
+(E) improving efficient use and reuse, sub-
+8
+stitution, and recycling of critical materials in 
+9
+vehicles, including rare earth elements and pre-
+10
+cious metals, at risk of supply disruption; 
+11
+(F) advanced battery protection systems 
+12
+for safe handling of high voltage power and 
+13
+thermal management; 
+14
+(G) technologies enabling flexible manufac-
+15
+turing facilities that can accommodate different 
+16
+vehicle battery chemistries and configurations; 
+17
+and 
+18
+(H) improving the efficiency and safety of 
+19
+the manufacturing of advanced batteries; 
+20
+(4) vehicle components and systems, including 
+21
+manufacturing technologies and processes, which 
+22
+may include— 
+23
+(A) 
+reducing 
+or 
+repurposing 
+waste 
+24
+streams, reducing emissions, and energy inten-
+25
+20:32 Oct 25, 2022
+H9022
+7 
+•HR 9022 IH
+sity of vehicle, engine, and advanced battery 
+1
+manufacturing processes; and 
+2
+(B) increasing the production rate and de-
+3
+creasing the cost of advanced battery and hy-
+4
+drogen fuel cell manufacturing, including pur-
+5
+pose-built hydrogen fuel cell vehicles, hydrogen 
+6
+fueling infrastructure, and components; 
+7
+(5) hybrid and alternative fuel vehicles and fuel 
+8
+pathways, which may include— 
+9
+(A) vehicle fuel cells and relevant systems, 
+10
+including power electronics systems to regulate 
+11
+fuel cell voltages; 
+12
+(B) synthetic fuels from recycled carbon 
+13
+dioxide and net-zero carbon liquid fuels; and 
+14
+(C) advanced biofuel technologies; 
+15
+(6) lubricants and accessory power loads for hy-
+16
+brid and electric vehicles aftertreatment tech-
+17
+nologies; 
+18
+(7) vehicle weight reduction, which may include 
+19
+the development of— 
+20
+(A) more sustainable and cost-effective 
+21
+lightweight materials; and 
+22
+(B) higher efficiency manufacturing proc-
+23
+esses, such as additive manufacturing, to 
+24
+produce sustainable lightweight materials and 
+25
+20:32 Oct 25, 2022
+H9022
+8 
+•HR 9022 IH
+fabricate, assemble, and use dissimilar mate-
+1
+rials, including— 
+2
+(i) lightweight systems which combine 
+3
+several existing vehicle components; and 
+4
+(ii) voluntary, consensus-based stand-
+5
+ards for strategic lightweight materials; 
+6
+(8) improved vehicle recycling methods to in-
+7
+crease the recycled material content of feedstocks 
+8
+used in raw material manufacturing; 
+9
+(9) vehicle propulsion systems, which may in-
+10
+clude— 
+11
+(A) engine and component durability; 
+12
+(B) engine down speeding; 
+13
+(C) advanced internal combustion engines; 
+14
+(D) transmission gear and engine oper-
+15
+ation matching; and 
+16
+(E) advanced transmission technologies; 
+17
+(10) applying advanced computing resources to 
+18
+large, voluntarily provided industry datasets from 
+19
+providers and cities to support the development of 
+20
+predictive engineering, modeling, and simulation of 
+21
+components, vehicle, and transportation systems; 
+22
+(11) leveraging the use of machine learning to-
+23
+ward manufacturing and additive manufacturing op-
+24
+timization, which may include— 
+25
+20:32 Oct 25, 2022
+H9022
+9 
+•HR 9022 IH
+(A) assessing the efficiency and safety of 
+1
+manufacturing processes; 
+2
+(12) advanced computing systems, including en-
+3
+ergy efficient systems, technology, and networking 
+4
+for vehicular on-board, off-board, and edge com-
+5
+puting applications; 
+6
+(13) assessing automation in both vehicle and 
+7
+infrastructure systems; 
+8
+(14) infrastructure, which may include— 
+9
+(A) refueling and charging infrastructure 
+10
+for alternative fueled and electric drive or plug- 
+11
+in electric hybrid vehicles, with consideration 
+12
+for the unique challenges facing urban and 
+13
+rural areas; 
+14
+(B) 
+extreme 
+fast 
+charging, 
+including 
+15
+through wired and wireless charging systems; 
+16
+(C) integration, bidirectional capability, 
+17
+and operational optimization of vehicle elec-
+18
+trification for light, medium, and heavy duty 
+19
+with the charging infrastructure and the elec-
+20
+tric grid; and 
+21
+(D) sensing, communications, and actu-
+22
+ation technologies for vehicle, electric grid, and 
+23
+infrastructure, which may include— 
+24
+20:32 Oct 25, 2022
+H9022
+10 
+•HR 9022 IH
+(i) communication, onboard sensing, 
+1
+and connectivity among vehicles, infra-
+2
+structure, pedestrians, and the electrical 
+3
+grid; 
+4
+(ii) assessing the use of autonomous 
+5
+vehicles or connectivity to improve roadway 
+6
+throughput; and 
+7
+(iii) research autonomous refueling 
+8
+and charging technologies and infrastruc-
+9
+ture; 
+10
+(15) retrofitting advanced vehicle technologies 
+11
+to existing vehicles; 
+12
+(16) informing and educating the public on the 
+13
+energy benefits of automation and connected vehicle 
+14
+technologies, connected infrastructure assets, and 
+15
+mobility applied sensors to build trust and accept-
+16
+ance; 
+17
+(17) reusing valuable components and mate-
+18
+rials, such as permanent magnets and other electric 
+19
+drive components for advanced vehicles; and 
+20
+(18) transportation system analysis to further 
+21
+understand the energy implications and opportuni-
+22
+ties of advanced mobility solutions, communication, 
+23
+and connectivity among vehicles, infrastructure, pe-
+24
+destrians, and the electrical grid. 
+25
+20:32 Oct 25, 2022
+H9022
+11 
+•HR 9022 IH
+(c) NONROAD TRANSPORTATION ENVIRONMENTAL 
+1
+AND TECHNICAL ASSISTANCE RESEARCH.— 
+2
+(1) IN GENERAL.—The Secretary, in carrying 
+3
+out the program established under subsection (a), 
+4
+and in consultation with the heads of relevant Fed-
+5
+eral agencies, shall support research, development, 
+6
+and demonstration activities to address and reduce 
+7
+nonroad sector emissions from transportation fuels 
+8
+used in aviation, rail, and maritime technologies and 
+9
+other relevant technologies. Such activities may be 
+10
+carried out primarily by an Energy Innovation Hub 
+11
+established under section 206 of the Department of 
+12
+Energy Research Coordination Act (42 U.S.C. 
+13
+18632). 
+14
+(2) PURPOSE.—The purpose of the research, 
+15
+development, and demonstration activities under 
+16
+paragraph (1) shall be to— 
+17
+(A) identify, study, evaluate, test, and 
+18
+demonstrate 
+emerging 
+transformational 
+19
+nonroad vehicle energy technologies and prac-
+20
+tices to improve environmental performance to 
+21
+meet Federal and international standards and 
+22
+guidelines, including reducing greenhouse gas 
+23
+emissions, water emissions, or other particulate 
+24
+or toxic emissions; 
+25
+20:32 Oct 25, 2022
+H9022
+12 
+•HR 9022 IH
+(B) advance research, development, and 
+1
+demonstration activities to— 
+2
+(i) 
+overcome 
+barriers 
+in 
+trans-
+3
+formational nonroad vehicle energy tech-
+4
+nologies, including alternative fuels such as 
+5
+hydrogen, components, and other energy 
+6
+technologies to improve total machine or 
+7
+system efficiency for nonroad mobile equip-
+8
+ment; and 
+9
+(ii) increase the fuel economy and use 
+10
+of alternative fuels and alternative energy; 
+11
+(C) support opportunities to transfer rel-
+12
+evant research findings and technologies be-
+13
+tween the nonroad and on-highway equipment 
+14
+and vehicle sectors; and 
+15
+(D) test relevant precommercial tech-
+16
+nologies. 
+17
+(3) COORDINATION.—The Secretary may co-
+18
+ordinate the research, development, and demonstra-
+19
+tion activities under paragraph (1) with activities— 
+20
+(A) that are associated with the develop-
+21
+ment or approval of validation and testing re-
+22
+gimes; and 
+23
+(B) related to certification or validation of 
+24
+emerging energy technologies or practices that 
+25
+20:32 Oct 25, 2022
+H9022
+13 
+•HR 9022 IH
+demonstrate significant environmental or other 
+1
+benefits to domestic non-road transportation in-
+2
+dustries. 
+3
+(4) ASSISTANCE.—The Secretary may enter 
+4
+into cooperative agreements, contracts, or other 
+5
+agreements with academic, public, private, and non-
+6
+governmental entities and facilities to carry out the 
+7
+activities under paragraph (1). 
+8
+(5) TRANSFORMATIONAL
+NONROAD
+VEHICLE 
+9
+TECHNOLOGY DEFINED.—In this section, the term 
+10
+‘‘transformational 
+nonroad 
+vehicle 
+technology’’ 
+11
+means an innovative technology that— 
+12
+(A) enables advanced nonroad transpor-
+13
+tation, nonroad transportation components, and 
+14
+related energy technologies that have the poten-
+15
+tial to produce significantly lower emissions and 
+16
+greater energy savings than current commercial 
+17
+technologies; 
+18
+(B) enables improved or expanded supply 
+19
+and production of domestic emission reducing 
+20
+fuels and components; or 
+21
+(C) ensures the long term, secure, and sus-
+22
+tainable supply of critical materials. 
+23
+(d) STANDARD OF REVIEW.—The Secretary shall pe-
+24
+riodically review activities carried out under this section 
+25
+20:32 Oct 25, 2022
+H9022
+14 
+•HR 9022 IH
+to determine the achievement of technical milestones as 
+1
+determined by the Secretary. 
+2
+(e) TECHNOLOGY TESTING AND METRICS.—In car-
+3
+rying out the program under subsection (a), the Secretary, 
+4
+in coordination with the National Institute of Standards 
+5
+and Technology, shall— 
+6
+(1) develop voluntary, consensus-based standard 
+7
+testing procedures, methodologies, and best practices 
+8
+for evaluating the performance of advanced vehicle 
+9
+technologies, including heavy vehicle technologies 
+10
+under a range of representative duty cycles and op-
+11
+erating conditions, including for electrified and hy-
+12
+drogen fuel cell systems; and 
+13
+(2) evaluate advanced vehicle performance, in-
+14
+cluding heavy vehicle and nonroad vehicle perform-
+15
+ance using work performance-based metrics. 
+16
+SEC. 5. ADVANCED ON-ROAD VEHICLE SECURITY PRO-
+17
+GRAM. 
+18
+(a) IN GENERAL.—The Secretary, in coordination 
+19
+with the program under section 4, the program authorized 
+20
+under section 137 of the Energy Independence and Secu-
+21
+rity Act of 2007 (42 U.S.C. 17014), and the heads of rel-
+22
+evant Federal agencies, shall establish a research and de-
+23
+velopment program focused on the cybersecurity and phys-
+24
+ical security of interconnections between vehicles, vehicle 
+25
+20:32 Oct 25, 2022
+H9022
+15 
+•HR 9022 IH
+energy storage systems, charging equipment, buildings, 
+1
+and the electric grid for plug-in electric vehicles, connected 
+2
+vehicles, autonomous, and other relevant vehicles, includ-
+3
+ing the security impacts, efficiency, and safety of plug- 
+4
+in electric vehicles using alternating current charging, 
+5
+high-power direct current fast charging, and extreme fast 
+6
+charging. 
+7
+(b) ASSESSMENT.—The Secretary shall develop a 5- 
+8
+to 10-year impact assessment of emergent cybersecurity 
+9
+threats and vulnerabilities to the United States on-road 
+10
+transportation system and connected infrastructure by 
+11
+identifying— 
+12
+(1) areas of research with respect to which Fed-
+13
+eral cross-agency research coordination and coopera-
+14
+tion 
+may 
+help 
+address 
+such 
+threats 
+and 
+15
+vulnerabilities; and 
+16
+(2) current research and challenges associated 
+17
+with cyber-physical protection and resiliency of elec-
+18
+tric and connected and automated vehicle tech-
+19
+nologies. 
+20
+SEC. 6. VEHICLE ENERGY STORAGE SYSTEM SAFETY PRO-
+21
+GRAM. 
+22
+(a) IN GENERAL.—In coordination with the program 
+23
+under section 4, the Secretary shall support a program 
+24
+20:32 Oct 25, 2022
+H9022
+16 
+•HR 9022 IH
+of research, development, and demonstration of vehicle en-
+1
+ergy storage safety and reliability. 
+2
+(b) ACTIVITIES.—In carrying out this section, the 
+3
+Secretary shall support activities to— 
+4
+(1) examine the mechanisms that lead to vehicle 
+5
+energy storage system safety and reliability inci-
+6
+dents; 
+7
+(2) develop new materials to improve overall ve-
+8
+hicle energy storage system safety and abuse toler-
+9
+ance; 
+10
+(3) perform abuse testing; 
+11
+(4) advance and perform testing techniques; 
+12
+(5) demonstrate detailed failure analyses; 
+13
+(6) mitigate vehicle energy storage cell and sys-
+14
+tem failures, including hydrogen fuel storage tanks; 
+15
+and 
+16
+(7) develop crush-induced battery safety proto-
+17
+cols and technical standards to improve robustness. 
+18
+SEC. 7. ADVANCED VEHICLE TECHNOLOGIES ADVISORY 
+19
+COMMITTEE. 
+20
+(a) IN GENERAL.—Not later than 180 days after the 
+21
+date of the enactment of this Act, the Secretary shall es-
+22
+tablish the Advanced Vehicle Technologies Advisory Com-
+23
+mittee (in this section referred to as the ‘‘advisory com-
+24
+mittee’’) to advise the Secretary on vehicle technology and 
+25
+20:32 Oct 25, 2022
+H9022
+17 
+•HR 9022 IH
+mobility system research advancements. The advisory 
+1
+committee shall be composed of not fewer than 15 mem-
+2
+bers, including representatives of research and academic 
+3
+institutions, environmental organizations, industry, and 
+4
+nongovernmental entities, including relevant labor organi-
+5
+zations and associations representing automobile manu-
+6
+facturers, who are qualified to provide advice on the re-
+7
+search, development, and demonstration activities under 
+8
+this Act (in this section referred to as the ‘‘DOE Vehicle 
+9
+Program’’). 
+10
+(b) ASSESSMENT.—The advisory committee shall as-
+11
+sess— 
+12
+(1) the current state of United States competi-
+13
+tiveness in advancing vehicle technologies and mobil-
+14
+ity systems, including— 
+15
+(A) the scope and scale of United States 
+16
+investments in sustainable and advanced trans-
+17
+portation research, development, and dem-
+18
+onstration; and 
+19
+(B) the scope and scale of research, devel-
+20
+opment, and demonstration activities to lower 
+21
+vehicle and fuel lifecycle greenhouse gas emis-
+22
+sions; 
+23
+(2) progress made in implementing the DOE 
+24
+Vehicle Program, including progress toward meeting 
+25
+20:32 Oct 25, 2022
+H9022
+18 
+•HR 9022 IH
+the technical milestones as determined by the Sec-
+1
+retary pursuant to section 4; 
+2
+(3) the balance of research and development ac-
+3
+tivities and funding across the DOE Vehicle Pro-
+4
+gram; 
+5
+(4) the management, coordination, implementa-
+6
+tion, and activities of the DOE Vehicle Program; 
+7
+(5) whether environmental, safety, security, and 
+8
+other appropriate issues are adequately addressed by 
+9
+the DOE Vehicle Program; and 
+10
+(6) other relevant topics as determined by the 
+11
+Secretary. 
+12
+(c) REPORTS.—Not later than two years after the 
+13
+date of the enactment of this Act and not less frequently 
+14
+than once every three years thereafter, the advisory com-
+15
+mittee shall submit to the Secretary, the Committee on 
+16
+Science, Space, and Technology of the House of Rep-
+17
+resentatives and the Committee on Energy and Natural 
+18
+Resources of the Senate a report on— 
+19
+(1) the findings of the advisory committee’s as-
+20
+sessments under subsection (b); and 
+21
+(2) the advisory committee’s recommendations 
+22
+for ways to improve or revise the DOE Vehicle Pro-
+23
+gram. 
+24
+20:32 Oct 25, 2022
+H9022
+19 
+•HR 9022 IH
+(d) APPLICATION
+OF FEDERAL ADVISORY COM-
+1
+MITTEE ACT.—Section 14 of the Federal Advisory Com-
+2
+mittee Act (5 U.S.C. App.) shall not apply to the advisory 
+3
+committee. 
+4
+SEC. 8. MEDIUM- AND HEAVY-DUTY COMMERCIAL AND 
+5
+TRANSIT VEHICLES PROGRAM. 
+6
+(a) IN GENERAL.—The Secretary, in coordination 
+7
+with relevant research and development programs carried 
+8
+out by other relevant Federal agencies and appropriate in-
+9
+dustry stakeholders, including relevant labor organiza-
+10
+tions, shall carry out a program of research, development, 
+11
+and demonstration activities on advanced energy tech-
+12
+nologies for medium- to heavy-duty commercial, voca-
+13
+tional, recreational, and transit vehicles, including, to the 
+14
+maximum extent practicable, activities in the areas of— 
+15
+(1) vehicle engines, which may include— 
+16
+(A) engine efficiency, emission controls, 
+17
+and combustion research; 
+18
+(B) energy and space-efficient emissions 
+19
+control systems; 
+20
+(C) engine idle and parasitic energy loss 
+21
+reduction; 
+22
+(D) advanced internal combustion engines; 
+23
+and 
+24
+(E) engine down speeding; 
+25
+20:32 Oct 25, 2022
+H9022
+20 
+•HR 9022 IH
+(2) electric drive trains, including— 
+1
+(A) durable highly efficient power elec-
+2
+tronics and electric machinery research; 
+3
+(B) partial load efficiency improvements; 
+4
+(C) control and coordination research for 
+5
+electric drive systems using multiple electric 
+6
+motors; 
+7
+(D) regenerative braking to recoup braking 
+8
+energy; and 
+9
+(E) high fidelity modeling to accelerate de-
+10
+sign and adoption of electrified commercial ve-
+11
+hicles; 
+12
+(3) friction and wear reduction; 
+13
+(4) improved aerodynamics and tire rolling re-
+14
+sistance; 
+15
+(5) advanced lightweighting materials and vehi-
+16
+cle designs; 
+17
+(6) synthetic fuels from recycled CO2 and other 
+18
+net-zero carbon liquid fuels; 
+19
+(7) vehicle batteries, including— 
+20
+(A) complete vehicle and battery pack 
+21
+modeling, simulation, and testing; and 
+22
+(B) thermal management of battery sys-
+23
+tems; 
+24
+20:32 Oct 25, 2022
+H9022
+21 
+•HR 9022 IH
+(8) mild hybrid, heavy hybrid, plug-in hybrid, 
+1
+and electric platforms, and energy storage tech-
+2
+nologies, including— 
+3
+(A) identifying and developing solutions for 
+4
+technical barriers to advance batteries; 
+5
+(B) electric drive systems; and 
+6
+(C) charging and refueling systems for me-
+7
+dium-duty goods and heavy-duty freight deliv-
+8
+ery vehicles; 
+9
+(9) vehicle components, including— 
+10
+(A) transmission and drivetrain optimiza-
+11
+tion, including compact and efficient electric 
+12
+drivetrain systems; 
+13
+(B) waste heat recovery and conversion; 
+14
+(C) electrification of steering systems, 
+15
+braking systems, and accessory loads; 
+16
+(D) onboard sensing, computing, and com-
+17
+munications technologies; and 
+18
+(E) advanced battery protection systems 
+19
+for safe handling of high voltage power; 
+20
+(10) 
+relevant 
+infrastructure, 
+including 
+21
+bidirectional capability, beyond megawatt charging, 
+22
+and increasing load capacity per vehicle; 
+23
+(11) recharging infrastructure and compressed 
+24
+natural gas infrastructure; 
+25
+20:32 Oct 25, 2022
+H9022
+22 
+•HR 9022 IH
+(12) hydrogen vehicle technologies, including— 
+1
+(A) fuel cells; 
+2
+(B) hydrogen fueling infrastructure; 
+3
+(C) the development of medium and heavy- 
+4
+duty refueling equipment design and concepts; 
+5
+(D) synthetic fuels; 
+6
+(E) onboard technologies for compressed 
+7
+and other advanced hydrogen storage systems; 
+8
+and 
+9
+(F) advanced cooling technologies for fuel 
+10
+cell thermal management; 
+11
+(13) retrofitting advanced energy technologies 
+12
+onto existing truck and bus fleets; 
+13
+(14) assessment of automated and connected 
+14
+vehicle technologies; 
+15
+(15) energy use strategies, including charging 
+16
+patterns that minimize impacts on the distribution 
+17
+grid and optimize the use of clean, low-cost genera-
+18
+tion resources; and 
+19
+(16) integration of advanced systems onto a 
+20
+single truck and trailer platform or bus. 
+21
+(b) MEDIUM- AND
+HEAVY-DUTY
+SYSTEMS
+RE-
+22
+SEARCH, DEVELOPMENT, AND DEMONSTRATION.— 
+23
+(1) IN GENERAL.—The Secretary shall award 
+24
+financial assistance for the research, development, 
+25
+20:32 Oct 25, 2022
+H9022
+23 
+•HR 9022 IH
+and demonstration of the integration of multiple ad-
+1
+vanced energy technologies and advanced operational 
+2
+efficiency for medium- and heavy-duty platforms and 
+3
+trailers, including the integration of technologies 
+4
+specified in subsection (a). 
+5
+(2) APPLICANT.—Applicants applying for as-
+6
+sistance under paragraph (1) may be comprised of 
+7
+truck and trailer manufacturers, engine and compo-
+8
+nent manufacturers, hydrogen fuel cell and compo-
+9
+nent manufacturers, public and private fleet owners 
+10
+and customers, university researchers, and other ap-
+11
+plicants determined by the Secretary. 
+12
+SEC. 9. TECHNICAL ASSISTANCE TO STATE, LOCAL, AND 
+13
+TRIBAL GOVERNMENTS. 
+14
+(a) IN GENERAL.—In carrying out this Act, the Sec-
+15
+retary may provide technical assistance to State, local, and 
+16
+Tribal governments or to a public-private partnership de-
+17
+scribed in subsection (b) to assist with the commercial ap-
+18
+plication of alternative fuels and alternative fuels vehicle 
+19
+technologies and infrastructure. 
+20
+(b) PUBLIC-PRIVATE PARTNERSHIP DESCRIBED.—A 
+21
+public-private partnership described in this subsection is 
+22
+a public-private partnership comprised of State, local, or 
+23
+Tribal governments and nongovernmental entities, includ-
+24
+ing industry partners. 
+25
+20:32 Oct 25, 2022
+H9022
+24 
+•HR 9022 IH
+(c) ASSISTANCE.—Technical assistance under this 
+1
+section may include— 
+2
+(1) coordination in the selection, location, and 
+3
+timing of alternative fuel recharging and refueling 
+4
+equipment and distribution infrastructure, including 
+5
+the identification of transportation corridors and 
+6
+specific alternative fuels that may be made available; 
+7
+(2) development of communication and other 
+8
+relevant protocols that integrate vehicle refueling 
+9
+and recharging into electric, hydrogen, biofuels, or 
+10
+other alternative fuel distribution systems; 
+11
+(3) development of procedures for the installa-
+12
+tion of alternative fuel distribution and recharging 
+13
+and refueling equipment; 
+14
+(4) education and outreach for the commercial 
+15
+application of alternative fuels; and 
+16
+(5) analysis of nontechnical barriers to integra-
+17
+tion of alternative fuel vehicles into electric and nat-
+18
+ural gas utility distribution systems. 
+19
+(d) AUTHORIZATION OF APPROPRIATIONS.—There is 
+20
+authorized to be appropriated to carry out this section 
+21
+$50,000,000 for each of fiscal years 2023 through 2027. 
+22
+20:32 Oct 25, 2022
+H9022
+25 
+•HR 9022 IH
+SEC. 10. GRADUATE AUTOMOTIVE TECHNOLOGY EDU-
+1
+CATION 
+CENTERS 
+OF 
+RESEARCH 
+EXCEL-
+2
+LENCE (GATE). 
+3
+(a) IN GENERAL.—The Secretary shall award grants 
+4
+to establish up to seven Graduate Automotive Technology 
+5
+Education Centers of Research Excellence (referred to in 
+6
+this section as ‘‘Centers’’) at an institution of higher edu-
+7
+cation or a consortium thereof, to provide future genera-
+8
+tions of engineers and scientists with knowledge and skills 
+9
+in advanced automotive energy technologies. 
+10
+(b) PURPOSE.—Each Center shall— 
+11
+(1) promote the development of skilled engi-
+12
+neering professionals who will overcome technical 
+13
+barriers and help commercialize the next generation 
+14
+of advanced automotive energy technologies; 
+15
+(2) support graduate research and establish or 
+16
+expand course study and laboratory work; and 
+17
+(3) test energy technologies that represent the 
+18
+scale of technology development beyond laboratory 
+19
+testing, but not yet advanced to testing under oper-
+20
+ational conditions at commercial scale. 
+21
+(c) CONSIDERATIONS.—In awarding grants for the 
+22
+operation of the Centers under this section, the Secretary 
+23
+shall ensure that— 
+24
+(1) the portfolio of Centers includes a diverse 
+25
+representation of geographical regions and resources; 
+26
+20:32 Oct 25, 2022
+H9022
+26 
+•HR 9022 IH
+(2) each new Center demonstrates unique re-
+1
+search capabilities, unique regional benefits, or new 
+2
+energy technology development opportunities; and 
+3
+(3) applicants are institutions of higher edu-
+4
+cation with established expertise in engineering and 
+5
+design for advanced automotive energy technologies 
+6
+or are involved in partnerships with such institu-
+7
+tions. 
+8
+(d) REQUIREMENT.—In carrying out subsection (c), 
+9
+the Secretary shall ensure that grants for the operation 
+10
+of the Centers under this section are awarded to two or 
+11
+more entities that represent a Historically Black College 
+12
+or University, minority-serving institution, or Tribal Col-
+13
+lege or University as the primary awardees or as members 
+14
+of a consortium. 
+15
+(e) SCHEDULE.—Each grant to operate a Center 
+16
+under this section shall be awarded for a term of not more 
+17
+than five years, subject to the availability of appropria-
+18
+tions. The Secretary may renew such five-year terms only 
+19
+once without competition limits, subject to a merit review. 
+20
+(f) LIMITATION.—Funds provided through a grant 
+21
+under this section may not be used for the construction 
+22
+of a physical building or facility to hold a Center unless 
+23
+the Secretary determines that such construction is nec-
+24
+20:32 Oct 25, 2022
+H9022
+27 
+•HR 9022 IH
+essary for reasons of safety or the use of relevant equip-
+1
+ment. 
+2
+(g) TECHNICAL ASSISTANCE.—The Director may 
+3
+provide technical assistance to institutions of higher edu-
+4
+cation receiving a grant under this section or entities seek-
+5
+ing such a grant. 
+6
+(h) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+7
+are authorized to be appropriated to carry out this section 
+8
+$8,300,000 for each of fiscal years 2023 through 2027. 
+9
+SEC. 11. REQUEST FOR INFORMATION TO ASSESS RE-
+10
+SEARCH GAPS IN ALTERNATIVE FUEL DELIV-
+11
+ERY, DISTRIBUTION, AND TRANSMISSION. 
+12
+(a) IN GENERAL.—Not later than one year after the 
+13
+date of the enactment of this section, the Secretary shall 
+14
+publish a request for information that shall be used by 
+15
+the Secretary to evaluate research, development, and dem-
+16
+onstration activities to assess alternative fuel transmission 
+17
+and delivery technical barriers. The request shall identify 
+18
+research barriers associated to existing electric trans-
+19
+mission and distribution systems to the distribution of al-
+20
+ternative fuels and the deployment of alternative fuel re-
+21
+charging and refueling capability, at economically competi-
+22
+tive costs of alternative fuel for consumers, including re-
+23
+search to address— 
+24
+20:32 Oct 25, 2022
+H9022
+28 
+•HR 9022 IH
+(1) electric grid load management and applica-
+1
+tions that will allow bidirectional batteries in plug- 
+2
+in electric drive vehicles to be used for grid storage, 
+3
+ancillary services provision, and backup power; 
+4
+(2) integration of plug-in bidirectional electric 
+5
+drive vehicles with smart grid technology, including 
+6
+necessary equipment, and information technology 
+7
+systems; 
+8
+(3) technical and economic barriers to delivery 
+9
+technologies for hydrogen and biofuels sufficient to 
+10
+support widespread consumer use; and 
+11
+(4) any other technical barriers to installing 
+12
+sufficient and regionally appropriate alternative fuel 
+13
+recharging and refueling infrastructure, including 
+14
+sufficiency and efficient use of zero-emissions gen-
+15
+eration and transmission capabilities. 
+16
+(b) CONSULTATION.—The Secretary shall carry out 
+17
+this section in coordination with relevant industry, State, 
+18
+local, and Tribal government, and academic stockholders. 
+19
+(c) REPORT.—Not later than two years after the date 
+20
+of the enactment of this Act, the Secretary shall submit 
+21
+to the Committee on Science, Space, and Technology of 
+22
+the House of Representatives and the Committee on En-
+23
+ergy and Natural Resources of the Senate a report sum-
+24
+marizing the findings under subsection (a). 
+25
+20:32 Oct 25, 2022
+H9022
+29 
+•HR 9022 IH
+SEC. 12. ENERGY EFFICIENT MOBILITY SYSTEMS PRO-
+1
+GRAM. 
+2
+(a) IN GENERAL.—The Secretary, in consultation 
+3
+with the heads of relevant Federal agencies, shall support 
+4
+a program of research, development, and demonstration 
+5
+of advanced energy efficient mobility solutions that will 
+6
+address the potential energy impacts of advanced vehicle 
+7
+technologies throughout the transportation sector. Such 
+8
+program shall include the development of tools, tech-
+9
+niques, processes, and capabilities to understand and iden-
+10
+tify essential components to improve the energy produc-
+11
+tivity of integrated mobility systems. 
+12
+(b) ACTIVITIES.—In carrying out this section, the 
+13
+Secretary shall support activities to— 
+14
+(1) improve the energy and mobility impacts of 
+15
+emerging and potentially disruptive technologies and 
+16
+services; 
+17
+(2) assess automated vehicle computing loads 
+18
+and capabilities; 
+19
+(3) improve onboard sensing and external 
+20
+connectivity, including Vehicle-to-Vehicle, Vehicle-to- 
+21
+Infrastructure, and Vehicle-to-Everything; 
+22
+(4) maximize vehicle energy efficiency for con-
+23
+nected vehicles under real-world driving conditions; 
+24
+(5) assess methods to use autonomous vehicles 
+25
+or connectivity to improve roadway throughput; 
+26
+20:32 Oct 25, 2022
+H9022
+30 
+•HR 9022 IH
+(6) research advance autonomous refueling and 
+1
+charging technologies and infrastructure; 
+2
+(7) apply machine learning with high perform-
+3
+ance computing resources to large industry datasets 
+4
+from providers and cities to develop predictive capa-
+5
+bilities for the transportation system; 
+6
+(8) optimize systems for mobility, grid and 
+7
+buildings to support vehicle electrification and vehi-
+8
+cle automation from light duty to heavy duty with 
+9
+grid stability, demand response, and reliability; and 
+10
+(9) carry out other innovative energy focused 
+11
+research and development areas as determined by 
+12
+the Secretary. 
+13
+SEC. 13. COORDINATION. 
+14
+(a) IN GENERAL.—In carrying out the activities 
+15
+under this Act, the Secretary shall, to the maximum extent 
+16
+practicable, coordinate research, development, and dem-
+17
+onstration activities among— 
+18
+(1) relevant programs of the Department, in-
+19
+cluding programs carried out by— 
+20
+(A) the Office of Energy Efficiency and 
+21
+Renewable Energy; 
+22
+(B) the Office of Science; 
+23
+(C) the Office of Electricity; 
+24
+(D) the Office of Fossil Energy; 
+25
+20:32 Oct 25, 2022
+H9022
+31 
+•HR 9022 IH
+(E) the Office of Cybersecurity, Energy 
+1
+Security, and Emergency Response; 
+2
+(F) the Advanced Research Projects Agen-
+3
+cy—Energy; 
+4
+(G) the Office of Clean Energy Dem-
+5
+onstrations; and 
+6
+(H) other offices as determined by the Sec-
+7
+retary; and 
+8
+(2) relevant technology research and develop-
+9
+ment programs of other Federal agencies, includ-
+10
+ing— 
+11
+(A) the Department of Transportation; 
+12
+(B) the National Institute of Standards & 
+13
+Technology; 
+14
+(C) the National Science Foundation; 
+15
+(D) the Department of Defense; and 
+16
+(E) other Federal agencies as determined 
+17
+by the Secretary. 
+18
+(b) INTERGOVERNMENTAL COORDINATION.—In car-
+19
+rying out this Act, the Secretary shall seek opportunities 
+20
+to leverage resources and support initiatives of Federal, 
+21
+State, and local governments in developing advanced vehi-
+22
+cle technologies, manufacturing, and infrastructure. 
+23
+20:32 Oct 25, 2022
+H9022
+32 
+•HR 9022 IH
+SEC. 14. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There are authorized to be appropriated to the Sec-
+2
+retary for research, development, and demonstration of al-
+3
+ternative fuels, vehicle propulsion systems, vehicle compo-
+4
+nents, and other related technologies in the United States, 
+5
+including activities authorized under this Act— 
+6
+(1) for fiscal year 2023, $530,000,000; 
+7
+(2) for fiscal year 2024, $556,500,000; 
+8
+(3) for fiscal year 2025, $584,325,000; 
+9
+(4) for fiscal year 2026, $613,541,250; and 
+10
+(5) for fiscal year 2027, $644,218,312. 
+11
+Æ 
+20:32 Oct 25, 2022
+H9022

@@ -1,0 +1,4287 @@
+A BILL 
+To protect elections for public office by providing financial 
+support and enhanced security for the infrastructure 
+used to carry out such elections, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+02:14 May 22, 2019
+H2660
+2 
+•HR 2660 IH
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+1
+(a) SHORT TITLE.—This Act may be cited as the 
+2
+‘‘Election Security Act of 2019’’. 
+3
+(b) TABLE OF CONTENTS.—The table of contents of 
+4
+this Act is as follows: 
+5
+Sec. 1. Short title; table of contents. 
+TITLE I—FINANCIAL SUPPORT FOR ELECTION INFRASTRUCTURE 
+Subtitle A—Voting System Security Improvement Grants 
+PART 1—PROMOTING ACCURACY, INTEGRITY, AND SECURITY THROUGH 
+VOTER-VERIFIED PERMANENT PAPER BALLOT 
+Sec. 101. Short title. 
+Sec. 102. Paper ballot and manual counting requirements. 
+Sec. 103. Accessibility and ballot verification for individuals with disabilities. 
+Sec. 104. Durability and readability requirements for ballots. 
+Sec. 105. Paper ballot printing requirements. 
+Sec. 106. Study and report on optimal ballot design. 
+Sec. 107. Effective date for new requirements. 
+PART 2—GRANTS TO CARRY OUT IMPROVEMENTS 
+Sec. 111. Grants for obtaining compliant paper ballot voting systems and car-
+rying out voting system security improvements. 
+‘‘PART 7—GRANTS FOR OBTAINING COMPLIANT PAPER BALLOT VOTING 
+SYSTEMS AND CARRYING OUT VOTING SYSTEM SECURITY IMPROVEMENTS 
+‘‘Sec. 297. Grants for obtaining compliant paper ballot voting systems and 
+carrying out voting system security improvements. 
+‘‘Sec. 297A. Voting system security improvements described. 
+‘‘Sec. 297B. Eligibility of States. 
+‘‘Sec. 297C. Reports to Congress. 
+‘‘Sec. 297D. Authorization of appropriations. 
+Sec. 112. Coordination of voting system security activities with use of require-
+ments payments and election administration requirements 
+under Help America Vote Act of 2002. 
+Sec. 113. Incorporation of definitions. 
+Subtitle B—Grants for Risk-Limiting Audits of Results of Elections 
+Sec. 121. Grants to States for conducting risk-limiting audits of results of elec-
+tions. 
+‘‘PART 8—GRANTS FOR CONDUCTING RISK-LIMITING AUDITS OF RESULTS 
+OF ELECTIONS 
+‘‘Sec. 298. Grants for conducting risk-limiting audits of results of elec-
+tions. 
+‘‘Sec. 298A. Eligibility of States. 
+02:14 May 22, 2019
+H2660
+3 
+•HR 2660 IH
+‘‘Sec. 298B. Authorization of appropriations. 
+Sec. 122. GAO analysis of effects of audits. 
+Subtitle C—Election Infrastructure Innovation Grant Program 
+Sec. 131. Election infrastructure innovation grant program. 
+TITLE II—SECURITY MEASURES 
+Sec. 201. Election infrastructure designation. 
+Sec. 202. Timely threat information. 
+Sec. 203. Security clearance assistance for election officials. 
+Sec. 204. Security risk and vulnerability assessments. 
+Sec. 205. Annual reports. 
+Sec. 206. Pre-election threat assessments. 
+TITLE III—ENHANCING PROTECTIONS FOR UNITED STATES 
+DEMOCRATIC INSTITUTIONS 
+Sec. 301. National strategy to protect United States democratic institutions. 
+Sec. 302. National Commission to Protect United States Democratic Institu-
+tions. 
+TITLE IV—PROMOTING CYBERSECURITY THROUGH 
+IMPROVEMENTS IN ELECTION ADMINISTRATION 
+Sec. 401. Testing of existing voting systems to ensure compliance with election 
+cybersecurity guidelines and other guidelines. 
+Sec. 402. Treatment of electronic poll books as part of voting systems. 
+Sec. 403. Pre-election reports on voting system usage. 
+Sec. 404. Streamlining collection of election information. 
+TITLE V—PREVENTING ELECTION HACKING 
+Sec. 501. Short title. 
+Sec. 502. Election Security Bug Bounty Program. 
+Sec. 503. Definitions. 
+TITLE VI—ELECTION SECURITY GRANTS ADVISORY COMMITTEE 
+Sec. 601. Establishment of advisory committee. 
+TITLE VII—USE OF VOTING MACHINES MANUFACTURED IN THE 
+UNITED STATES 
+Sec. 701. Use of voting machines manufactured in the United States. 
+TITLE VIII—MISCELLANEOUS PROVISIONS 
+Sec. 801. Definitions. 
+Sec. 802. Initial report on adequacy of resources available for implementation. 
+TITLE IX—SEVERABILITY 
+Sec. 901. Severability. 
+02:14 May 22, 2019
+H2660
+4 
+•HR 2660 IH
+TITLE I—FINANCIAL SUPPORT 
+1
+FOR ELECTION INFRASTRUC-
+2
+TURE 
+3
+Subtitle A—Voting System Security 
+4
+Improvement Grants 
+5
+PART 1—PROMOTING ACCURACY, INTEGRITY, 
+6
+AND SECURITY THROUGH VOTER-VERIFIED 
+7
+PERMANENT PAPER BALLOT 
+8
+SEC. 101. SHORT TITLE. 
+9
+This subtitle may be cited as the ‘‘Voter Confidence 
+10
+and Increased Accessibility Act of 2019’’. 
+11
+SEC. 102. PAPER BALLOT AND MANUAL COUNTING RE-
+12
+QUIREMENTS. 
+13
+(a) IN GENERAL.—Section 301(a)(2) of the Help 
+14
+America Vote Act of 2002 (52 U.S.C. 21081(a)(2)) is 
+15
+amended to read as follows: 
+16
+‘‘(2) PAPER BALLOT REQUIREMENT.— 
+17
+‘‘(A) VOTER-VERIFIED PAPER BALLOTS.— 
+18
+‘‘(i) PAPER BALLOT REQUIREMENT.— 
+19
+(I) The voting system shall require the use 
+20
+of an individual, durable, voter-verified 
+21
+paper ballot of the voter’s vote that shall 
+22
+be marked and made available for inspec-
+23
+tion and verification by the voter before 
+24
+the voter’s vote is cast and counted, and 
+25
+02:14 May 22, 2019
+H2660
+5 
+•HR 2660 IH
+which shall be counted by hand or read by 
+1
+an optical character recognition device or 
+2
+other counting device. For purposes of this 
+3
+subclause, the term ‘individual, durable, 
+4
+voter-verified paper ballot’ means a paper 
+5
+ballot marked by the voter by hand or a 
+6
+paper ballot marked through the use of a 
+7
+nontabulating ballot marking device or sys-
+8
+tem, so long as the voter shall have the op-
+9
+tion to mark his or her ballot by hand. 
+10
+‘‘(II) The voting system shall provide 
+11
+the voter with an opportunity to correct 
+12
+any error on the paper ballot before the 
+13
+permanent voter-verified paper ballot is 
+14
+preserved in accordance with clause (ii). 
+15
+‘‘(III) The voting system shall not 
+16
+preserve the voter-verified paper ballots in 
+17
+any manner that makes it possible, at any 
+18
+time after the ballot has been cast, to asso-
+19
+ciate a voter with the record of the voter’s 
+20
+vote without the voter’s consent. 
+21
+‘‘(ii) PRESERVATION
+AS
+OFFICIAL 
+22
+RECORD.—The individual, durable, voter- 
+23
+verified paper ballot used in accordance 
+24
+with clause (i) shall constitute the official 
+25
+02:14 May 22, 2019
+H2660
+6 
+•HR 2660 IH
+ballot and shall be preserved and used as 
+1
+the official ballot for purposes of any re-
+2
+count or audit conducted with respect to 
+3
+any election for Federal office in which the 
+4
+voting system is used. 
+5
+‘‘(iii) MANUAL
+COUNTING
+REQUIRE-
+6
+MENTS FOR RECOUNTS AND AUDITS.—(I) 
+7
+Each paper ballot used pursuant to clause 
+8
+(i) shall be suitable for a manual audit, 
+9
+and shall be counted by hand in any re-
+10
+count or audit conducted with respect to 
+11
+any election for Federal office. 
+12
+‘‘(II) In the event of any inconsist-
+13
+encies or irregularities between any elec-
+14
+tronic vote tallies and the vote tallies de-
+15
+termined by counting by hand the indi-
+16
+vidual, durable, voter-verified paper ballots 
+17
+used pursuant to clause (i), and subject to 
+18
+subparagraph (B), the individual, durable, 
+19
+voter-verified paper ballots shall be the 
+20
+true and correct record of the votes cast. 
+21
+‘‘(iv) APPLICATION
+TO
+ALL
+BAL-
+22
+LOTS.—The requirements of this subpara-
+23
+graph shall apply to all ballots cast in elec-
+24
+tions for Federal office, including ballots 
+25
+02:14 May 22, 2019
+H2660
+7 
+•HR 2660 IH
+cast by absent uniformed services voters 
+1
+and overseas voters under the Uniformed 
+2
+and Overseas Citizens Absentee Voting Act 
+3
+and other absentee voters. 
+4
+‘‘(B) SPECIAL RULE FOR TREATMENT OF 
+5
+DISPUTES WHEN PAPER BALLOTS HAVE BEEN 
+6
+SHOWN TO BE COMPROMISED.— 
+7
+‘‘(i) IN
+GENERAL.—In the event 
+8
+that— 
+9
+‘‘(I) there is any inconsistency 
+10
+between any electronic vote tallies and 
+11
+the vote tallies determined by count-
+12
+ing by hand the individual, durable, 
+13
+voter-verified paper ballots used pur-
+14
+suant to subparagraph (A)(i) with re-
+15
+spect to any election for Federal of-
+16
+fice; and 
+17
+‘‘(II) it is demonstrated by clear 
+18
+and convincing evidence (as deter-
+19
+mined in accordance with the applica-
+20
+ble standards in the jurisdiction in-
+21
+volved) in any recount, audit, or con-
+22
+test of the result of the election that 
+23
+the paper ballots have been com-
+24
+promised (by damage or mischief or 
+25
+02:14 May 22, 2019
+H2660
+8 
+•HR 2660 IH
+otherwise) and that a sufficient num-
+1
+ber of the ballots have been so com-
+2
+promised that the result of the elec-
+3
+tion could be changed, 
+4
+the determination of the appropriate rem-
+5
+edy with respect to the election shall be 
+6
+made in accordance with applicable State 
+7
+law, except that the electronic tally shall 
+8
+not be used as the exclusive basis for de-
+9
+termining the official certified result. 
+10
+‘‘(ii) RULE FOR CONSIDERATION OF 
+11
+BALLOTS ASSOCIATED WITH EACH VOTING 
+12
+MACHINE.—For purposes of clause (i), 
+13
+only the paper ballots deemed com-
+14
+promised, if any, shall be considered in the 
+15
+calculation of whether or not the result of 
+16
+the election could be changed due to the 
+17
+compromised paper ballots.’’. 
+18
+(b) CONFORMING AMENDMENT CLARIFYING APPLI-
+19
+CABILITY OF ALTERNATIVE LANGUAGE ACCESSIBILITY.— 
+20
+Section 301(a)(4) of such Act (52 U.S.C. 21081(a)(4)) 
+21
+is amended by inserting ‘‘(including the paper ballots re-
+22
+quired to be used under paragraph (2))’’ after ‘‘voting sys-
+23
+tem’’. 
+24
+02:14 May 22, 2019
+H2660
+9 
+•HR 2660 IH
+(c) OTHER CONFORMING AMENDMENTS.—Section 
+1
+301(a)(1) of such Act (52 U.S.C. 21081(a)(1)) is amend-
+2
+ed— 
+3
+(1) in subparagraph (A)(i), by striking ‘‘count-
+4
+ed’’ and inserting ‘‘counted, in accordance with 
+5
+paragraphs (2) and (3)’’; 
+6
+(2) in subparagraph (A)(ii), by striking ‘‘count-
+7
+ed’’ and inserting ‘‘counted, in accordance with 
+8
+paragraphs (2) and (3)’’; 
+9
+(3) in subparagraph (A)(iii), by striking ‘‘count-
+10
+ed’’ each place it appears and inserting ‘‘counted, in 
+11
+accordance with paragraphs (2) and (3)’’; and 
+12
+(4) in subparagraph (B)(ii), by striking ‘‘count-
+13
+ed’’ and inserting ‘‘counted, in accordance with 
+14
+paragraphs (2) and (3)’’. 
+15
+SEC. 103. ACCESSIBILITY AND BALLOT VERIFICATION FOR 
+16
+INDIVIDUALS WITH DISABILITIES. 
+17
+(a) IN GENERAL.—Section 301(a)(3)(B) of the Help 
+18
+America Vote Act of 2002 (52 U.S.C. 21081(a)(3)(B)) is 
+19
+amended to read as follows: 
+20
+‘‘(B)(i) ensure that individuals with dis-
+21
+abilities and others are given an equivalent op-
+22
+portunity to vote, including with privacy and 
+23
+independence, in a manner that produces a 
+24
+voter-verified paper ballot as for other voters; 
+25
+02:14 May 22, 2019
+H2660
+10 
+•HR 2660 IH
+‘‘(ii) satisfy the requirement of subpara-
+1
+graph (A) through the use of at least one voting 
+2
+system equipped for individuals with disabil-
+3
+ities, including nonvisual and enhanced visual 
+4
+accessibility for the blind and visually impaired, 
+5
+and nonmanual and enhanced manual accessi-
+6
+bility for the mobility and dexterity impaired, at 
+7
+each polling place; and 
+8
+‘‘(iii) meet the requirements of subpara-
+9
+graph (A) and paragraph (2)(A) by using a sys-
+10
+tem that— 
+11
+‘‘(I) allows the voter to privately and 
+12
+independently verify the permanent paper 
+13
+ballot through the presentation, in acces-
+14
+sible form, of the printed or marked vote 
+15
+selections from the same printed or 
+16
+marked information that would be used for 
+17
+any vote counting or auditing; and 
+18
+‘‘(II) allows the voter to privately and 
+19
+independently verify and cast the perma-
+20
+nent paper ballot without requiring the 
+21
+voter to manually handle the paper bal-
+22
+lot;’’. 
+23
+02:14 May 22, 2019
+H2660
+11 
+•HR 2660 IH
+(b) SPECIFIC REQUIREMENT OF STUDY, TESTING, 
+1
+AND DEVELOPMENT
+OF ACCESSIBLE PAPER BALLOT 
+2
+VERIFICATION MECHANISMS.— 
+3
+(1) STUDY
+AND
+REPORTING.—Subtitle C of 
+4
+title II of such Act (52 U.S.C. 21081 et seq.) is 
+5
+amended— 
+6
+(A) by redesignating section 247 as section 
+7
+248; and 
+8
+(B) by inserting after section 246 the fol-
+9
+lowing new section: 
+10
+‘‘SEC. 247. STUDY AND REPORT ON ACCESSIBLE PAPER 
+11
+BALLOT VERIFICATION MECHANISMS. 
+12
+‘‘(a) STUDY AND REPORT.—The Director of the Na-
+13
+tional Science Foundation shall make grants to not fewer 
+14
+than 3 eligible entities to study, test, and develop acces-
+15
+sible paper ballot voting, verification, and casting mecha-
+16
+nisms and devices and best practices to enhance the acces-
+17
+sibility of paper ballot voting and verification mechanisms 
+18
+for individuals with disabilities, for voters whose primary 
+19
+language is not English, and for voters with difficulties 
+20
+in literacy, including best practices for the mechanisms 
+21
+themselves and the processes through which the mecha-
+22
+nisms are used. 
+23
+‘‘(b) ELIGIBILITY.—An entity is eligible to receive a 
+24
+grant under this part if it submits to the Director (at such 
+25
+02:14 May 22, 2019
+H2660
+12 
+•HR 2660 IH
+time and in such form as the Director may require) an 
+1
+application containing— 
+2
+‘‘(1) certifications that the entity shall specifi-
+3
+cally investigate enhanced methods or devices, in-
+4
+cluding non-electronic devices, that will assist such 
+5
+individuals and voters in marking voter-verified 
+6
+paper ballots and presenting or transmitting the in-
+7
+formation printed or marked on such ballots back to 
+8
+such individuals and voters, and casting such ballots; 
+9
+‘‘(2) a certification that the entity shall com-
+10
+plete the activities carried out with the grant not 
+11
+later than December 31, 2020; and 
+12
+‘‘(3) such other information and certifications 
+13
+as the Director may require. 
+14
+‘‘(c) AVAILABILITY
+OF TECHNOLOGY.—Any tech-
+15
+nology developed with the grants made under this section 
+16
+shall be treated as non-proprietary and shall be made 
+17
+available to the public, including to manufacturers of vot-
+18
+ing systems. 
+19
+‘‘(d) COORDINATION WITH GRANTS
+FOR TECH-
+20
+NOLOGY IMPROVEMENTS.—The Director shall carry out 
+21
+this section so that the activities carried out with the 
+22
+grants made under subsection (a) are coordinated with the 
+23
+research conducted under the grant program carried out 
+24
+by the Commission under section 271, to the extent that 
+25
+02:14 May 22, 2019
+H2660
+13 
+•HR 2660 IH
+the Director and Commission determine necessary to pro-
+1
+vide for the advancement of accessible voting technology. 
+2
+‘‘(e) AUTHORIZATION OF APPROPRIATIONS.—There 
+3
+is authorized to be appropriated to carry out subsection 
+4
+(a) $5,000,000, to remain available until expended.’’. 
+5
+(2) CLERICAL AMENDMENT.—The table of con-
+6
+tents of such Act is amended— 
+7
+(A) by redesignating the item relating to 
+8
+section 247 as relating to section 248; and 
+9
+(B) by inserting after the item relating to 
+10
+section 246 the following new item: 
+11
+‘‘Sec. 247. Study and report on accessible paper ballot verification mecha-
+nisms.’’. 
+(c) CLARIFICATION OF ACCESSIBILITY STANDARDS 
+12
+UNDER VOLUNTARY VOTING SYSTEM GUIDANCE.—In 
+13
+adopting any voluntary guidance under subtitle B of title 
+14
+III of the Help America Vote Act with respect to the ac-
+15
+cessibility of the paper ballot verification requirements for 
+16
+individuals with disabilities, the Election Assistance Com-
+17
+mission shall include and apply the same accessibility 
+18
+standards applicable under the voluntary guidance adopt-
+19
+ed for accessible voting systems under such subtitle. 
+20
+(d) PERMITTING USE OF FUNDS FOR PROTECTION 
+21
+AND ADVOCACY SYSTEMS TO SUPPORT ACTIONS TO EN-
+22
+FORCE ELECTION-RELATED DISABILITY ACCESS.—Sec-
+23
+tion 292(a) of the Help America Vote Act of 2002 (52 
+24
+02:14 May 22, 2019
+H2660
+14 
+•HR 2660 IH
+U.S.C. 21062(a)) is amended by striking ‘‘; except that’’ 
+1
+and all that follows and inserting a period. 
+2
+SEC. 104. DURABILITY AND READABILITY REQUIREMENTS 
+3
+FOR BALLOTS. 
+4
+Section 301(a) of the Help America Vote Act of 2002 
+5
+(52 U.S.C. 21081(a)) is amended by adding at the end 
+6
+the following new paragraph: 
+7
+‘‘(7) DURABILITY AND READABILITY REQUIRE-
+8
+MENTS FOR BALLOTS.— 
+9
+‘‘(A) DURABILITY
+REQUIREMENTS
+FOR 
+10
+PAPER BALLOTS.— 
+11
+‘‘(i) IN GENERAL.—All voter-verified 
+12
+paper ballots required to be used under 
+13
+this Act shall be marked or printed on du-
+14
+rable paper. 
+15
+‘‘(ii) DEFINITION.—For purposes of 
+16
+this Act, paper is ‘durable’ if it is capable 
+17
+of withstanding multiple counts and re-
+18
+counts by hand without compromising the 
+19
+fundamental integrity of the ballots, and 
+20
+capable 
+of 
+retaining 
+the 
+information 
+21
+marked or printed on them for the full du-
+22
+ration of a retention and preservation pe-
+23
+riod of 22 months. 
+24
+02:14 May 22, 2019
+H2660
+15 
+•HR 2660 IH
+‘‘(B) READABILITY
+REQUIREMENTS
+FOR 
+1
+PAPER BALLOTS MARKED BY BALLOT MARKING 
+2
+DEVICE.—All voter-verified paper ballots com-
+3
+pleted by the voter through the use of a ballot 
+4
+marking device shall be clearly readable by the 
+5
+voter without assistance (other than eyeglasses 
+6
+or other personal vision enhancing devices) and 
+7
+by an optical character recognition device or 
+8
+other device equipped for individuals with dis-
+9
+abilities.’’. 
+10
+SEC. 105. PAPER BALLOT PRINTING REQUIREMENTS. 
+11
+(a) REQUIRING PAPER BALLOTS TO BE PRINTED ON 
+12
+RECYCLED
+PAPER
+MANUFACTURED
+IN
+UNITED 
+13
+STATES.—Section 301(a) of the Help America Vote Act 
+14
+of 2002 (52 U.S.C. 21081(a)), as amended by section 104, 
+15
+is amended by adding at the end the following new para-
+16
+graph: 
+17
+‘‘(8) PRINTING
+REQUIREMENTS
+FOR
+BAL-
+18
+LOTS.—All paper ballots used in an election for Fed-
+19
+eral office shall be printed in the United States on 
+20
+recycled paper manufactured in the United States.’’. 
+21
+(b) EFFECTIVE DATE.—The amendment made by 
+22
+subsection (a) shall apply with respect to elections occur-
+23
+ring on or after January 1, 2021. 
+24
+02:14 May 22, 2019
+H2660
+16 
+•HR 2660 IH
+SEC. 106. STUDY AND REPORT ON OPTIMAL BALLOT DE-
+1
+SIGN. 
+2
+(a) STUDY.—The Election Assistance Commission 
+3
+shall conduct a study of the best ways to design ballots 
+4
+used in elections for public office, including paper ballots 
+5
+and electronic or digital ballots, to minimize confusion and 
+6
+user errors. 
+7
+(b) REPORT.—Not later than January 1, 2020, the 
+8
+Election Assistance Commission shall submit to Congress 
+9
+a report on the study conducted under subsection (a). 
+10
+SEC. 107. EFFECTIVE DATE FOR NEW REQUIREMENTS. 
+11
+Section 301(d) of the Help America Vote Act of 2002 
+12
+(52 U.S.C. 21081(d)) is amended to read as follows: 
+13
+‘‘(d) EFFECTIVE DATE.— 
+14
+‘‘(1) IN GENERAL.—Except as provided in para-
+15
+graph (2), each State and jurisdiction shall be re-
+16
+quired to comply with the requirements of this sec-
+17
+tion on and after January 1, 2006. 
+18
+‘‘(2) SPECIAL
+RULE
+FOR
+CERTAIN
+REQUIRE-
+19
+MENTS.— 
+20
+‘‘(A) IN GENERAL.—Except as provided in 
+21
+section 105(b) of the Election Security Act of 
+22
+2019 and subparagraphs (B) and (C), the re-
+23
+quirements of this section which are first im-
+24
+posed on a State and jurisdiction pursuant to 
+25
+the amendments made by the Voter Confidence 
+26
+02:14 May 22, 2019
+H2660
+17 
+•HR 2660 IH
+and Increased Accessibility Act of 2019 shall 
+1
+apply with respect to voting systems used for 
+2
+any election for Federal office held in 2020 or 
+3
+any succeeding year. 
+4
+‘‘(B) DELAY
+FOR
+JURISDICTIONS
+USING 
+5
+CERTAIN PAPER RECORD PRINTERS OR CERTAIN 
+6
+SYSTEMS
+USING
+OR
+PRODUCING
+VOTER- 
+7
+VERIFIABLE PAPER RECORDS IN 2018.— 
+8
+‘‘(i) DELAY.—In the case of a juris-
+9
+diction described in clause (ii), subpara-
+10
+graph (A) shall apply to a voting system in 
+11
+the jurisdiction as if the reference in such 
+12
+subparagraph to ‘2020’ were a reference to 
+13
+‘2022’, but only with respect to the fol-
+14
+lowing requirements of this section: 
+15
+‘‘(I) Paragraph (2)(A)(i)(I) of 
+16
+subsection (a) (relating to the use of 
+17
+voter-verified paper ballots). 
+18
+‘‘(II) Paragraph (3)(B)(ii)(I) and 
+19
+(II) of subsection (a) (relating to ac-
+20
+cess to verification from and casting 
+21
+of the durable paper ballot). 
+22
+‘‘(III) Paragraph (7) of sub-
+23
+section (a) (relating to durability and 
+24
+readability requirements for ballots). 
+25
+02:14 May 22, 2019
+H2660
+18 
+•HR 2660 IH
+‘‘(ii) JURISDICTIONS
+DESCRIBED.—A 
+1
+jurisdiction described in this clause is a ju-
+2
+risdiction— 
+3
+‘‘(I) which used voter verifiable 
+4
+paper record printers attached to di-
+5
+rect recording electronic voting ma-
+6
+chines, or which used other voting 
+7
+systems that used or produced paper 
+8
+records of the vote verifiable by voters 
+9
+but that are not in compliance with 
+10
+paragraphs (2)(A)(i)(I), (3)(B)(iii)(I) 
+11
+and (II), and (7) of subsection (a) (as 
+12
+amended or added by the Voter Con-
+13
+fidence and Increased Accessibility 
+14
+Act of 2019), for the administration 
+15
+of the regularly scheduled general 
+16
+election for Federal office held in No-
+17
+vember 2018; and 
+18
+‘‘(II) which will continue to use 
+19
+such printers or systems for the ad-
+20
+ministration of elections for Federal 
+21
+office held in years before 2022. 
+22
+‘‘(iii) MANDATORY
+AVAILABILITY
+OF 
+23
+PAPER
+BALLOTS
+AT
+PLACES 
+24
+02:14 May 22, 2019
+H2660
+19 
+•HR 2660 IH
+USING
+GRANDFATHERED
+PRINTERS
+AND 
+1
+SYSTEMS.— 
+2
+‘‘(I) REQUIRING BALLOTS TO BE 
+3
+OFFERED
+AND
+PROVIDED.—The ap-
+4
+propriate election official at each poll-
+5
+ing place that uses a printer or sys-
+6
+tem described in clause (ii)(I) for the 
+7
+administration of elections for Federal 
+8
+office shall offer each individual who 
+9
+is eligible to cast a vote in the election 
+10
+at the polling place the opportunity to 
+11
+cast the vote using a blank pre-print-
+12
+ed paper ballot which the individual 
+13
+may mark by hand and which is not 
+14
+produced by the direct recording elec-
+15
+tronic voting machine or other such 
+16
+system. The official shall provide the 
+17
+individual with the ballot and the sup-
+18
+plies necessary to mark the ballot, and 
+19
+shall ensure (to the greatest extent 
+20
+practicable) that the waiting period 
+21
+for the individual to cast a vote is the 
+22
+lesser of 30 minutes or the average 
+23
+waiting period for an individual who 
+24
+02:14 May 22, 2019
+H2660
+20 
+•HR 2660 IH
+does not agree to cast the vote using 
+1
+such a paper ballot under this clause. 
+2
+‘‘(II) TREATMENT OF BALLOT.— 
+3
+Any paper ballot which is cast by an 
+4
+individual under this clause shall be 
+5
+counted and otherwise treated as a 
+6
+regular ballot for all purposes (includ-
+7
+ing by incorporating it into the final 
+8
+unofficial vote count (as defined by 
+9
+the State) for the precinct) and not as 
+10
+a provisional ballot, unless the indi-
+11
+vidual casting the ballot would have 
+12
+otherwise been required to cast a pro-
+13
+visional ballot. 
+14
+‘‘(III) POSTING
+OF
+NOTICE.— 
+15
+The appropriate election official shall 
+16
+ensure there is prominently displayed 
+17
+at each polling place a notice that de-
+18
+scribes the obligation of the official to 
+19
+offer individuals the opportunity to 
+20
+cast votes using a pre-printed blank 
+21
+paper ballot. 
+22
+‘‘(IV) TRAINING
+OF
+ELECTION 
+23
+OFFICIALS.—The chief State election 
+24
+official shall ensure that election offi-
+25
+02:14 May 22, 2019
+H2660
+21 
+•HR 2660 IH
+cials at polling places in the State are 
+1
+aware of the requirements of this 
+2
+clause, including the requirement to 
+3
+display a notice under subclause (III), 
+4
+and are aware that it is a violation of 
+5
+the requirements of this title for an 
+6
+election official to fail to offer an indi-
+7
+vidual the opportunity to cast a vote 
+8
+using a blank pre-printed paper ballot. 
+9
+‘‘(V) 
+PERIOD
+OF
+APPLICA-
+10
+BILITY.—The requirements of this 
+11
+clause apply only during the period in 
+12
+which the delay is in effect under 
+13
+clause (i). 
+14
+‘‘(C) SPECIAL
+RULE
+FOR
+JURISDICTIONS 
+15
+USING
+CERTAIN
+NONTABULATING
+BALLOT 
+16
+MARKING DEVICES.—In the case of a jurisdic-
+17
+tion which uses a nontabulating ballot marking 
+18
+device which automatically deposits the ballot 
+19
+into a privacy sleeve, subparagraph (A) shall 
+20
+apply to a voting system in the jurisdiction as 
+21
+if the reference in such subparagraph to ‘any 
+22
+election for Federal office held in 2020 or any 
+23
+succeeding year’ were a reference to ‘elections 
+24
+for Federal office occurring held in 2022 or 
+25
+02:14 May 22, 2019
+H2660
+22 
+•HR 2660 IH
+each succeeding year’, but only with respect to 
+1
+paragraph (3)(B)(iii)(II) of subsection (a) (re-
+2
+lating to nonmanual casting of the durable 
+3
+paper ballot).’’. 
+4
+PART 2—GRANTS TO CARRY OUT 
+5
+IMPROVEMENTS 
+6
+SEC. 111. GRANTS FOR OBTAINING COMPLIANT PAPER BAL-
+7
+LOT VOTING SYSTEMS AND CARRYING OUT 
+8
+VOTING SYSTEM SECURITY IMPROVEMENTS. 
+9
+(a) AVAILABILITY OF GRANTS.—Subtitle D of title 
+10
+II of the Help America Vote Act of 2002 (52 U.S.C. 
+11
+21001 et seq.) is amended by adding at the end the fol-
+12
+lowing new part: 
+13
+‘‘PART 7—GRANTS FOR OBTAINING COMPLIANT 
+14
+PAPER BALLOT VOTING SYSTEMS AND CAR-
+15
+RYING OUT VOTING SYSTEM SECURITY IM-
+16
+PROVEMENTS 
+17
+‘‘SEC. 297. GRANTS FOR OBTAINING COMPLIANT PAPER 
+18
+BALLOT VOTING SYSTEMS AND CARRYING 
+19
+OUT VOTING SYSTEM SECURITY IMPROVE-
+20
+MENTS. 
+21
+‘‘(a) AVAILABILITY AND USE OF GRANT.—The Com-
+22
+mission shall make a grant to each eligible State— 
+23
+‘‘(1) to replace a voting system— 
+24
+02:14 May 22, 2019
+H2660
+23 
+•HR 2660 IH
+‘‘(A) which does not meet the requirements 
+1
+which are first imposed on the State pursuant 
+2
+to the amendments made by the Voter Con-
+3
+fidence and Increased Accessibility Act of 2019 
+4
+with a voting system which does meet such re-
+5
+quirements, for use in the regularly scheduled 
+6
+general elections for Federal office held in No-
+7
+vember 2020, or 
+8
+‘‘(B) which does meet such requirements 
+9
+but which is not in compliance with the most 
+10
+recent voluntary voting system guidelines issued 
+11
+by the Commission prior to the regularly sched-
+12
+uled general election for Federal office held in 
+13
+November 2020 with another system which does 
+14
+meet such requirements and is in compliance 
+15
+with such guidelines; 
+16
+‘‘(2) to carry out voting system security im-
+17
+provements described in section 297A with respect 
+18
+to the regularly scheduled general elections for Fed-
+19
+eral office held in November 2020 and each suc-
+20
+ceeding election for Federal office; and 
+21
+‘‘(3) to implement and model best practices for 
+22
+ballot design, ballot instructions, and the testing of 
+23
+ballots. 
+24
+02:14 May 22, 2019
+H2660
+24 
+•HR 2660 IH
+‘‘(b) AMOUNT OF GRANT.—The amount of a grant 
+1
+made to a State under this section shall be such amount 
+2
+as the Commission determines to be appropriate, except 
+3
+that such amount may not be less than the product of 
+4
+$1 and the average of the number of individuals who cast 
+5
+votes in any of the two most recent regularly scheduled 
+6
+general elections for Federal office held in the State. 
+7
+‘‘(c) PRO RATA REDUCTIONS.—If the amount of 
+8
+funds appropriated for grants under this part is insuffi-
+9
+cient to ensure that each State receives the amount of the 
+10
+grant calculated under subsection (b), the Commission 
+11
+shall make such pro rata reductions in such amounts as 
+12
+may be necessary to ensure that the entire amount appro-
+13
+priated under this part is distributed to the States. 
+14
+‘‘(d) SURPLUS APPROPRIATIONS.—If the amount of 
+15
+funds appropriated for grants authorized under section 
+16
+297D(a)(2) exceed the amount necessary to meet the re-
+17
+quirements of subsection (b), the Commission shall con-
+18
+sider the following in making a determination to award 
+19
+remaining funds to a State: 
+20
+‘‘(1) The record of the State in carrying out the 
+21
+following with respect to the administration of elec-
+22
+tions for Federal office: 
+23
+‘‘(A) Providing voting machines that are 
+24
+less than 10 years old. 
+25
+02:14 May 22, 2019
+H2660
+25 
+•HR 2660 IH
+‘‘(B) Implementing strong chain of custody 
+1
+procedures for the physical security of voting 
+2
+equipment and paper records at all stages of 
+3
+the process. 
+4
+‘‘(C) Conducting pre-election testing on 
+5
+every voting machine and ensuring that paper 
+6
+ballots are available wherever electronic ma-
+7
+chines are used. 
+8
+‘‘(D) Maintaining offline backups of voter 
+9
+registration lists. 
+10
+‘‘(E) Providing a secure voter registration 
+11
+database that logs requests submitted to the 
+12
+database. 
+13
+‘‘(F) Publishing and enforcing a policy de-
+14
+tailing use limitations and security safeguards 
+15
+to protect the personal information of voters in 
+16
+the voter registration process. 
+17
+‘‘(G) Providing secure processes and proce-
+18
+dures for reporting vote tallies. 
+19
+‘‘(H) Providing a secure platform for dis-
+20
+seminating vote totals. 
+21
+‘‘(2) Evidence of established conditions of inno-
+22
+vation and reform in providing voting system secu-
+23
+rity and the proposed plan of the State for imple-
+24
+menting additional conditions. 
+25
+02:14 May 22, 2019
+H2660
+26 
+•HR 2660 IH
+‘‘(3) Evidence of collaboration between relevant 
+1
+stakeholders, including local election officials, in de-
+2
+veloping the grant implementation plan described in 
+3
+section 297B. 
+4
+‘‘(4) The plan of the State to conduct a rig-
+5
+orous evaluation of the effectiveness of the activities 
+6
+carried out with the grant. 
+7
+‘‘(e) ABILITY OF REPLACEMENT SYSTEMS TO AD-
+8
+MINISTER RANKED CHOICE ELECTIONS.—To the greatest 
+9
+extent practicable, an eligible State which receives a grant 
+10
+to replace a voting system under this section shall ensure 
+11
+that the replacement system is capable of administering 
+12
+a system of ranked choice voting under which each voter 
+13
+shall rank the candidates for the office in the order of 
+14
+the voter’s preference. 
+15
+‘‘SEC. 297A. VOTING SYSTEM SECURITY IMPROVEMENTS 
+16
+DESCRIBED. 
+17
+‘‘(a) PERMITTED USES.—A voting system security 
+18
+improvement described in this section is any of the fol-
+19
+lowing: 
+20
+‘‘(1) The acquisition of goods and services from 
+21
+qualified election infrastructure vendors by purchase, 
+22
+lease, or such other arrangements as may be appro-
+23
+priate. 
+24
+‘‘(2) Cyber and risk mitigation training. 
+25
+02:14 May 22, 2019
+H2660
+27 
+•HR 2660 IH
+‘‘(3) A security risk and vulnerability assess-
+1
+ment of the State’s election infrastructure which is 
+2
+carried out by a provider of cybersecurity services 
+3
+under a contract entered into between the chief 
+4
+State election official and the provider. 
+5
+‘‘(4) The maintenance of election infrastruc-
+6
+ture, including addressing risks and vulnerabilities 
+7
+which are identified under either of the security risk 
+8
+and vulnerability assessments described in para-
+9
+graph (3), except that none of the funds provided 
+10
+under this part may be used to renovate or replace 
+11
+a building or facility which is used primarily for pur-
+12
+poses other than the administration of elections for 
+13
+public office. 
+14
+‘‘(5) Providing increased technical support for 
+15
+any information technology infrastructure that the 
+16
+chief State election official deems to be part of the 
+17
+State’s election infrastructure or designates as crit-
+18
+ical to the operation of the State’s election infra-
+19
+structure. 
+20
+‘‘(6) Enhancing the cybersecurity and oper-
+21
+ations of the information technology infrastructure 
+22
+described in paragraph (4). 
+23
+‘‘(7) Enhancing the cybersecurity of voter reg-
+24
+istration systems. 
+25
+02:14 May 22, 2019
+H2660
+28 
+•HR 2660 IH
+‘‘(b) QUALIFIED ELECTION INFRASTRUCTURE VEN-
+1
+DORS DESCRIBED.— 
+2
+‘‘(1) IN GENERAL.—For purposes of this part, 
+3
+a ‘qualified election infrastructure vendor’ is any 
+4
+person who provides, supports, or maintains, or who 
+5
+seeks to provide, support, or maintain, election in-
+6
+frastructure on behalf of a State, unit of local gov-
+7
+ernment, or election agency (as defined in section 
+8
+801 of the Election Security Act) who meets the cri-
+9
+teria described in paragraph (2). 
+10
+‘‘(2) CRITERIA.—The criteria described in this 
+11
+paragraph are such criteria as the Chairman, in co-
+12
+ordination with the Secretary of Homeland Security, 
+13
+shall establish and publish, and shall include each of 
+14
+the following requirements: 
+15
+‘‘(A) The vendor must be owned and con-
+16
+trolled by a citizen or permanent resident of the 
+17
+United States. 
+18
+‘‘(B) The vendor must disclose to the 
+19
+Chairman and the Secretary, and to the chief 
+20
+State election official of any State to which the 
+21
+vendor provides any goods and services with 
+22
+funds provided under this part, of any sourcing 
+23
+outside the United States for parts of the elec-
+24
+tion infrastructure. 
+25
+02:14 May 22, 2019
+H2660
+29 
+•HR 2660 IH
+‘‘(C) The vendor agrees to ensure that the 
+1
+election infrastructure will be developed and 
+2
+maintained in a manner that is consistent with 
+3
+the cybersecurity best practices issued by the 
+4
+Technical Guidelines Development Committee. 
+5
+‘‘(D) The vendor agrees to maintain its in-
+6
+formation technology infrastructure in a man-
+7
+ner that is consistent with the cybersecurity 
+8
+best practices issued by the Technical Guide-
+9
+lines Development Committee. 
+10
+‘‘(E) The vendor agrees to meet the re-
+11
+quirements of paragraph (3) with respect to 
+12
+any known or suspected cybersecurity incidents 
+13
+involving any of the goods and services provided 
+14
+by the vendor pursuant to a grant under this 
+15
+part. 
+16
+‘‘(F) The vendor agrees to permit inde-
+17
+pendent security testing by the Commission (in 
+18
+accordance with section 231(a)) and by the Sec-
+19
+retary of the goods and services provided by the 
+20
+vendor pursuant to a grant under this part. 
+21
+‘‘(3) CYBERSECURITY
+INCIDENT
+REPORTING 
+22
+REQUIREMENTS.— 
+23
+‘‘(A) IN GENERAL.—A vendor meets the 
+24
+requirements of this paragraph if, upon becom-
+25
+02:14 May 22, 2019
+H2660
+30 
+•HR 2660 IH
+ing aware of the possibility that an election cy-
+1
+bersecurity incident has occurred involving any 
+2
+of the goods and services provided by the ven-
+3
+dor pursuant to a grant under this part— 
+4
+‘‘(i) the vendor promptly assesses 
+5
+whether or not such an incident occurred, 
+6
+and submits a notification meeting the re-
+7
+quirements of subparagraph (B) to the 
+8
+Secretary and the Chairman of the assess-
+9
+ment as soon as practicable (but in no case 
+10
+later than 3 days after the vendor first be-
+11
+comes aware of the possibility that the in-
+12
+cident occurred); 
+13
+‘‘(ii) if the incident involves goods or 
+14
+services provided to an election agency, the 
+15
+vendor submits a notification meeting the 
+16
+requirements of subparagraph (B) to the 
+17
+agency as soon as practicable (but in no 
+18
+case later than 3 days after the vendor 
+19
+first becomes aware of the possibility that 
+20
+the incident occurred), and cooperates with 
+21
+the agency in providing any other nec-
+22
+essary notifications relating to the inci-
+23
+dent; and 
+24
+02:14 May 22, 2019
+H2660
+31 
+•HR 2660 IH
+‘‘(iii) the vendor provides all necessary 
+1
+updates to any notification submitted 
+2
+under clause (i) or clause (ii). 
+3
+‘‘(B) CONTENTS
+OF
+NOTIFICATIONS.— 
+4
+Each notification submitted under clause (i) or 
+5
+clause (ii) of subparagraph (A) shall contain 
+6
+the following information with respect to any 
+7
+election cybersecurity incident covered by the 
+8
+notification: 
+9
+‘‘(i) The date, time, and time zone 
+10
+when the election cybersecurity incident 
+11
+began, if known. 
+12
+‘‘(ii) The date, time, and time zone 
+13
+when the election cybersecurity incident 
+14
+was detected. 
+15
+‘‘(iii) The date, time, and duration of 
+16
+the election cybersecurity incident. 
+17
+‘‘(iv) The circumstances of the elec-
+18
+tion cybersecurity incident, including the 
+19
+specific election infrastructure systems be-
+20
+lieved to have been accessed and informa-
+21
+tion acquired, if any. 
+22
+‘‘(v) Any planned and implemented 
+23
+technical measures to respond to and re-
+24
+cover from the incident. 
+25
+02:14 May 22, 2019
+H2660
+32 
+•HR 2660 IH
+‘‘(vi) In the case of any notification 
+1
+which is an update to a prior notification, 
+2
+any additional material information relat-
+3
+ing to the incident, including technical 
+4
+data, as it becomes available. 
+5
+‘‘SEC. 297B. ELIGIBILITY OF STATES. 
+6
+‘‘A State is eligible to receive a grant under this part 
+7
+if the State submits to the Commission, at such time and 
+8
+in such form as the Commission may require, an applica-
+9
+tion containing— 
+10
+‘‘(1) a description of how the State will use the 
+11
+grant to carry out the activities authorized under 
+12
+this part; 
+13
+‘‘(2) a certification and assurance that, not 
+14
+later than 5 years after receiving the grant, the 
+15
+State will carry out risk-limiting audits and will 
+16
+carry out voting system security improvements, as 
+17
+described in section 297A; and 
+18
+‘‘(3) such other information and assurances as 
+19
+the Commission may require. 
+20
+‘‘SEC. 297C. REPORTS TO CONGRESS. 
+21
+‘‘Not later than 90 days after the end of each fiscal 
+22
+year, the Commission shall submit a report to the appro-
+23
+priate congressional committees, including the Committees 
+24
+on Homeland Security, House Administration, and the Ju-
+25
+02:14 May 22, 2019
+H2660
+33 
+•HR 2660 IH
+diciary of the House of Representatives and the Commit-
+1
+tees on Homeland Security and Governmental Affairs, the 
+2
+Judiciary, and Rules and Administration of the Senate, 
+3
+on the activities carried out with the funds provided under 
+4
+this part. 
+5
+‘‘SEC. 297D. AUTHORIZATION OF APPROPRIATIONS. 
+6
+‘‘(a) AUTHORIZATION.—There are authorized to be 
+7
+appropriated for grants under this part— 
+8
+‘‘(1) $1,000,000,000 for fiscal year 2019; and 
+9
+‘‘(2) $175,000,000 for each of the fiscal years 
+10
+2020, 2022, 2024, and 2026. 
+11
+‘‘(b) CONTINUING AVAILABILITY OF AMOUNTS.—Any 
+12
+amounts appropriated pursuant to the authorization of 
+13
+this section shall remain available until expended.’’. 
+14
+(b) CLERICAL AMENDMENT.—The table of contents 
+15
+of such Act is amended by adding at the end of the items 
+16
+relating to subtitle D of title II the following: 
+17
+‘‘PART 7—GRANTS FOR OBTAINING COMPLIANT PAPER BALLOT VOTING 
+SYSTEMS AND CARRYING OUT VOTING SYSTEM SECURITY IMPROVEMENTS 
+‘‘Sec. 297. Grants for obtaining compliant paper ballot voting systems and 
+carrying out voting system security improvements. 
+‘‘Sec. 297A. Voting system security improvements described. 
+‘‘Sec. 297B. Eligibility of States. 
+‘‘Sec. 297C. Reports to Congress. 
+‘‘Sec. 297D. Authorization of appropriations. 
+02:14 May 22, 2019
+H2660
+34 
+•HR 2660 IH
+SEC. 112. COORDINATION OF VOTING SYSTEM SECURITY 
+1
+ACTIVITIES WITH USE OF REQUIREMENTS 
+2
+PAYMENTS AND ELECTION ADMINISTRATION 
+3
+REQUIREMENTS 
+UNDER 
+HELP 
+AMERICA 
+4
+VOTE ACT OF 2002. 
+5
+(a) DUTIES
+OF ELECTION ASSISTANCE COMMIS-
+6
+SION.—Section 202 of the Help America Vote Act of 2002 
+7
+(52 U.S.C. 20922) is amended in the matter preceding 
+8
+paragraph (1) by striking ‘‘by’’ and inserting ‘‘and the se-
+9
+curity of election infrastructure by’’. 
+10
+(b) MEMBERSHIP OF SECRETARY OF HOMELAND SE-
+11
+CURITY ON BOARD OF ADVISORS OF ELECTION ASSIST-
+12
+ANCE COMMISSION.—Section 214(a) of such Act (52 
+13
+U.S.C. 20944(a)) is amended— 
+14
+(1) by striking ‘‘37 members’’ and inserting 
+15
+‘‘38 members’’; and 
+16
+(2) by adding at the end the following new 
+17
+paragraph: 
+18
+‘‘(17) The Secretary of Homeland Security or 
+19
+the Secretary’s designee.’’. 
+20
+(c) REPRESENTATIVE OF DEPARTMENT OF HOME-
+21
+LAND SECURITY ON TECHNICAL GUIDELINES DEVELOP-
+22
+MENT COMMITTEE.—Section 221(c)(1) of such Act (52 
+23
+U.S.C. 20961(c)(1)) is amended— 
+24
+(1) by redesignating subparagraph (E) as sub-
+25
+paragraph (F); and 
+26
+02:14 May 22, 2019
+H2660
+35 
+•HR 2660 IH
+(2) by inserting after subparagraph (D) the fol-
+1
+lowing new subparagraph: 
+2
+‘‘(E) A representative of the Department 
+3
+of Homeland Security.’’. 
+4
+(d) GOALS OF PERIODIC STUDIES OF ELECTION AD-
+5
+MINISTRATION ISSUES; CONSULTATION WITH SECRETARY 
+6
+OF HOMELAND SECURITY.—Section 241(a) of such Act 
+7
+(52 U.S.C. 20981(a)) is amended— 
+8
+(1) in the matter preceding paragraph (1), by 
+9
+striking ‘‘the Commission shall’’ and inserting ‘‘the 
+10
+Commission, in consultation with the Secretary of 
+11
+Homeland Security (as appropriate), shall’’; 
+12
+(2) by striking ‘‘and’’ at the end of paragraph 
+13
+(3); 
+14
+(3) by redesignating paragraph (4) as para-
+15
+graph (5); and 
+16
+(4) by inserting after paragraph (3) the fol-
+17
+lowing new paragraph: 
+18
+‘‘(4) will be secure against attempts to under-
+19
+mine the integrity of election systems by cyber or 
+20
+other means; and’’. 
+21
+(e) REQUIREMENTS PAYMENTS.— 
+22
+(1) USE OF PAYMENTS FOR VOTING SYSTEM 
+23
+SECURITY IMPROVEMENTS.—Section 251(b) of such 
+24
+02:14 May 22, 2019
+H2660
+36 
+•HR 2660 IH
+Act (52 U.S.C. 21001(b)) is amended by adding at 
+1
+the end the following new paragraph: 
+2
+‘‘(4) PERMITTING USE OF PAYMENTS FOR VOT-
+3
+ING
+SYSTEM
+SECURITY
+IMPROVEMENTS.—A State 
+4
+may use a requirements payment to carry out any 
+5
+of the following activities: 
+6
+‘‘(A) Cyber and risk mitigation training. 
+7
+‘‘(B) Providing increased technical support 
+8
+for any information technology infrastructure 
+9
+that the chief State election official deems to be 
+10
+part of the State’s election infrastructure or 
+11
+designates as critical to the operation of the 
+12
+State’s election infrastructure. 
+13
+‘‘(C) Enhancing the cybersecurity and op-
+14
+erations of the information technology infra-
+15
+structure described in subparagraph (B). 
+16
+‘‘(D) Enhancing the security of voter reg-
+17
+istration databases.’’. 
+18
+(2) INCORPORATION
+OF
+ELECTION
+INFRA-
+19
+STRUCTURE PROTECTION IN STATE PLANS FOR USE 
+20
+OF PAYMENTS.—Section 254(a)(1) of such Act (52 
+21
+U.S.C. 21004(a)(1)) is amended by striking the pe-
+22
+riod at the end and inserting ‘‘, including the protec-
+23
+tion of election infrastructure.’’. 
+24
+02:14 May 22, 2019
+H2660
+37 
+•HR 2660 IH
+(3) COMPOSITION OF COMMITTEE RESPONSIBLE 
+1
+FOR DEVELOPING STATE PLAN FOR USE OF PAY-
+2
+MENTS.—Section 255 of such Act (52 U.S.C. 
+3
+21005) is amended— 
+4
+(A) by redesignating subsection (b) as sub-
+5
+section (c); and 
+6
+(B) by inserting after subsection (a) the 
+7
+following new subsection: 
+8
+‘‘(b) GEOGRAPHIC REPRESENTATION.—The mem-
+9
+bers of the committee shall be a representative group of 
+10
+individuals from the State’s counties, cities, towns, and 
+11
+Indian tribes, and shall represent the needs of rural as 
+12
+well as urban areas of the State, as the case may be.’’. 
+13
+(f) ENSURING
+PROTECTION
+OF
+COMPUTERIZED 
+14
+STATEWIDE
+VOTER
+REGISTRATION
+LIST.—Section 
+15
+303(a)(3) of such Act (52 U.S.C. 21083(a)(3)) is amend-
+16
+ed by striking the period at the end and inserting ‘‘, as 
+17
+well as other measures to prevent and deter cybersecurity 
+18
+incidents, as identified by the Commission, the Secretary 
+19
+of Homeland Security, and the Technical Guidelines De-
+20
+velopment Committee.’’. 
+21
+SEC. 113. INCORPORATION OF DEFINITIONS. 
+22
+(a) IN GENERAL.—Section 901 of the Help America 
+23
+Vote Act of 2002 (52 U.S.C. 21141) is amended to read 
+24
+as follows: 
+25
+02:14 May 22, 2019
+H2660
+38 
+•HR 2660 IH
+‘‘SEC. 901. DEFINITIONS. 
+1
+‘‘In this Act, the following definitions apply: 
+2
+‘‘(1) The term ‘cybersecurity incident’ has the 
+3
+meaning given the term ‘incident’ in section 227 of 
+4
+the Homeland Security Act of 2002 (6 U.S.C. 148). 
+5
+‘‘(2) The term ‘election infrastructure’ has the 
+6
+meaning given such term in section 3501 of the 
+7
+Election Security Act. 
+8
+‘‘(3) The term ‘State’ means each of the several 
+9
+States, the District of Columbia, the Commonwealth 
+10
+of Puerto Rico, Guam, American Samoa, the United 
+11
+States Virgin Islands, and the Commonwealth of the 
+12
+Northern Mariana Islands.’’. 
+13
+(b) CLERICAL AMENDMENT.—The table of contents 
+14
+of such Act is amended by amending the item relating to 
+15
+section 901 to read as follows: 
+16
+‘‘Sec. 901. Definitions.’’. 
+Subtitle B—Grants for Risk-Lim-
+17
+iting Audits of Results of Elec-
+18
+tions 
+19
+SEC. 121. GRANTS TO STATES FOR CONDUCTING RISK-LIM-
+20
+ITING AUDITS OF RESULTS OF ELECTIONS. 
+21
+(a) AVAILABILITY OF GRANTS.—Subtitle D of title 
+22
+II of the Help America Vote Act of 2002 (52 U.S.C. 
+23
+21001 et seq.), as amended by section 111(a), is amended 
+24
+by adding at the end the following new part: 
+25
+02:14 May 22, 2019
+H2660
+39 
+•HR 2660 IH
+‘‘PART 8—GRANTS FOR CONDUCTING RISK- 
+1
+LIMITING AUDITS OF RESULTS OF ELECTIONS 
+2
+‘‘SEC. 298. GRANTS FOR CONDUCTING RISK-LIMITING AU-
+3
+DITS OF RESULTS OF ELECTIONS. 
+4
+‘‘(a) AVAILABILITY OF GRANTS.—The Commission 
+5
+shall make a grant to each eligible State to conduct risk- 
+6
+limiting audits as described in subsection (b) with respect 
+7
+to the regularly scheduled general elections for Federal of-
+8
+fice held in November 2020 and each succeeding election 
+9
+for Federal office. 
+10
+‘‘(b) RISK-LIMITING AUDITS DESCRIBED.—In this 
+11
+part, a ‘risk-limiting audit’ is a post-election process— 
+12
+‘‘(1) which is conducted in accordance with 
+13
+rules and procedures established by the chief State 
+14
+election official of the State which meet the require-
+15
+ments of subsection (c); and 
+16
+‘‘(2) under which, if the reported outcome of 
+17
+the election is incorrect, there is at least a predeter-
+18
+mined percentage chance that the audit will replace 
+19
+the incorrect outcome with the correct outcome as 
+20
+determined by a full, hand-to-eye tabulation of all 
+21
+votes validly cast in that election that ascertains 
+22
+voter intent manually and directly from voter- 
+23
+verifiable paper records. 
+24
+‘‘(c) REQUIREMENTS
+FOR
+RULES
+AND
+PROCE-
+25
+DURES.—The rules and procedures established for con-
+26
+02:14 May 22, 2019
+H2660
+40 
+•HR 2660 IH
+ducting a risk-limiting audit shall include the following 
+1
+elements: 
+2
+‘‘(1) Rules for ensuring the security of ballots 
+3
+and documenting that prescribed procedures were 
+4
+followed. 
+5
+‘‘(2) Rules and procedures for ensuring the ac-
+6
+curacy of ballot manifests produced by election agen-
+7
+cies. 
+8
+‘‘(3) Rules and procedures for governing the 
+9
+format of ballot manifests, cast vote records, and 
+10
+other data involved in the audit. 
+11
+‘‘(4) Methods to ensure that any cast vote 
+12
+records used in the audit are those used by the vot-
+13
+ing system to tally the election results sent to the 
+14
+chief State election official and made public. 
+15
+‘‘(5) Procedures for the random selection of 
+16
+ballots to be inspected manually during each audit. 
+17
+‘‘(6) Rules for the calculations and other meth-
+18
+ods to be used in the audit and to determine wheth-
+19
+er and when the audit of an election is complete. 
+20
+‘‘(7) Procedures and requirements for testing 
+21
+any software used to conduct risk-limiting audits. 
+22
+‘‘(d) DEFINITIONS.—In this part, the following defi-
+23
+nitions apply: 
+24
+02:14 May 22, 2019
+H2660
+41 
+•HR 2660 IH
+‘‘(1) The term ‘ballot manifest’ means a record 
+1
+maintained by each election agency that meets each 
+2
+of the following requirements: 
+3
+‘‘(A) The record is created without reliance 
+4
+on any part of the voting system used to tab-
+5
+ulate votes. 
+6
+‘‘(B) The record functions as a sampling 
+7
+frame for conducting a risk-limiting audit. 
+8
+‘‘(C) The record contains the following in-
+9
+formation with respect to the ballots cast and 
+10
+counted in the election: 
+11
+‘‘(i) The total number of ballots cast 
+12
+and counted by the agency (including 
+13
+undervotes, overvotes, and other invalid 
+14
+votes). 
+15
+‘‘(ii) The total number of ballots cast 
+16
+in each election administered by the agency 
+17
+(including undervotes, overvotes, and other 
+18
+invalid votes). 
+19
+‘‘(iii) A precise description of the 
+20
+manner in which the ballots are physically 
+21
+stored, including the total number of phys-
+22
+ical groups of ballots, the numbering sys-
+23
+tem for each group, a unique label for each 
+24
+02:14 May 22, 2019
+H2660
+42 
+•HR 2660 IH
+group, and the number of ballots in each 
+1
+such group. 
+2
+‘‘(2) The term ‘incorrect outcome’ means an 
+3
+outcome that differs from the outcome that would be 
+4
+determined by a full tabulation of all votes validly 
+5
+cast in the election, determining voter intent manu-
+6
+ally, directly from voter-verifiable paper records. 
+7
+‘‘(3) The term ‘outcome’ means the winner of 
+8
+an election, whether a candidate or a position. 
+9
+‘‘(4) The term ‘reported outcome’ means the 
+10
+outcome of an election which is determined accord-
+11
+ing to the canvass and which will become the official, 
+12
+certified outcome unless it is revised by an audit, re-
+13
+count, or other legal process. 
+14
+‘‘SEC. 298A. ELIGIBILITY OF STATES. 
+15
+‘‘A State is eligible to receive a grant under this part 
+16
+if the State submits to the Commission, at such time and 
+17
+in such form as the Commission may require, an applica-
+18
+tion containing— 
+19
+‘‘(1) a certification that, not later than 5 years 
+20
+after receiving the grant, the State will conduct risk- 
+21
+limiting audits of the results of elections for Federal 
+22
+office held in the State as described in section 298; 
+23
+‘‘(2) a certification that, not later than one year 
+24
+after the date of the enactment of this section, the 
+25
+02:14 May 22, 2019
+H2660
+43 
+•HR 2660 IH
+chief State election official of the State has estab-
+1
+lished or will establish the rules and procedures for 
+2
+conducting the audits which meet the requirements 
+3
+of section 298(c); 
+4
+‘‘(3) a certification that the audit shall be com-
+5
+pleted not later than the date on which the State 
+6
+certifies the results of the election; 
+7
+‘‘(4) a certification that, after completing the 
+8
+audit, the State shall publish a report on the results 
+9
+of the audit, together with such information as nec-
+10
+essary to confirm that the audit was conducted prop-
+11
+erly; 
+12
+‘‘(5) a certification that, if a risk-limiting audit 
+13
+conducted under this part leads to a full manual 
+14
+tally of an election, State law requires that the State 
+15
+or election agency shall use the results of the full 
+16
+manual tally as the official results of the election; 
+17
+and 
+18
+‘‘(6) such other information and assurances as 
+19
+the Commission may require. 
+20
+‘‘SEC. 298B. AUTHORIZATION OF APPROPRIATIONS. 
+21
+‘‘There are authorized to be appropriated for grants 
+22
+under this part $20,000,000 for fiscal year 2019, to re-
+23
+main available until expended.’’. 
+24
+02:14 May 22, 2019
+H2660
+44 
+•HR 2660 IH
+(b) CLERICAL AMENDMENT.—The table of contents 
+1
+of such Act, as amended by section 111(b), is further 
+2
+amended by adding at the end of the items relating to 
+3
+subtitle D of title II the following: 
+4
+‘‘PART 8—GRANTS FOR CONDUCTING RISK-LIMITING AUDITS OF RESULTS 
+OF ELECTIONS 
+‘‘Sec. 298. Grants for conducting risk-limiting audits of results of elec-
+tions. 
+‘‘Sec. 298A. Eligibility of States. 
+‘‘Sec. 298B. Authorization of appropriations. 
+SEC. 122. GAO ANALYSIS OF EFFECTS OF AUDITS. 
+5
+(a) ANALYSIS.—Not later than 6 months after the 
+6
+first election for Federal office is held after grants are 
+7
+first awarded to States for conducting risk-limiting audits 
+8
+under part 8 of subtitle D of title II of the Help America 
+9
+Vote Act of 2002 (as added by section 121) for conducting 
+10
+risk-limiting audits of elections for Federal office, the 
+11
+Comptroller General of the United States shall conduct 
+12
+an analysis of the extent to which such audits have im-
+13
+proved the administration of such elections and the secu-
+14
+rity of election infrastructure in the States receiving such 
+15
+grants. 
+16
+(b) REPORT.—The Comptroller General of the 
+17
+United States shall submit a report on the analysis con-
+18
+ducted under subsection (a) to the appropriate congres-
+19
+sional committees. 
+20
+02:14 May 22, 2019
+H2660
+45 
+•HR 2660 IH
+Subtitle C—Election Infrastructure 
+1
+Innovation Grant Program 
+2
+SEC. 
+131. 
+ELECTION 
+INFRASTRUCTURE 
+INNOVATION 
+3
+GRANT PROGRAM. 
+4
+(a) IN GENERAL.—Title III of the Homeland Secu-
+5
+rity Act of 2002 (6 U.S.C. 181 et seq.) is amended— 
+6
+(1) by redesignating the second section 319 (re-
+7
+lating to EMP and GMD mitigation research and 
+8
+development) as section 320; and 
+9
+(2) by adding at the end the following new sec-
+10
+tion: 
+11
+‘‘SEC. 
+321. 
+ELECTION 
+INFRASTRUCTURE 
+INNOVATION 
+12
+GRANT PROGRAM. 
+13
+‘‘(a) 
+ESTABLISHMENT.—The 
+Secretary, 
+acting 
+14
+through the Under Secretary for Science and Technology, 
+15
+in coordination with the Chairman of the Election Assist-
+16
+ance Commission (established pursuant to the Help Amer-
+17
+ica Vote Act of 2002) and in consultation with the Direc-
+18
+tor of the National Science Foundation and the Director 
+19
+of the National Institute of Standards and Technology, 
+20
+shall establish a competitive grant program to award 
+21
+grants to eligible entities, on a competitive basis, for pur-
+22
+poses of research and development that are determined to 
+23
+have the potential to significantly improve the security (in-
+24
+cluding cybersecurity), quality, reliability, accuracy, acces-
+25
+02:14 May 22, 2019
+H2660
+46 
+•HR 2660 IH
+sibility, and affordability of election infrastructure, and in-
+1
+crease voter participation. 
+2
+‘‘(b) REPORT TO CONGRESS.—Not later than 90 days 
+3
+after the conclusion of each fiscal year for which grants 
+4
+are awarded under this section, the Secretary shall submit 
+5
+to the Committee on Homeland Security and the Com-
+6
+mittee on House Administration of the House of Rep-
+7
+resentatives and the Committee on Homeland Security 
+8
+and Governmental Affairs and the Committee on Rules 
+9
+and Administration of the Senate a report describing such 
+10
+grants and analyzing the impact, if any, of such grants 
+11
+on the security and operation of election infrastructure, 
+12
+and on voter participation. 
+13
+‘‘(c) AUTHORIZATION OF APPROPRIATIONS.—There 
+14
+is authorized to be appropriated to the Secretary 
+15
+$20,000,000 for each of fiscal years 2019 through 2027 
+16
+for purposes of carrying out this section. 
+17
+‘‘(d) ELIGIBLE ENTITY DEFINED.—In this section, 
+18
+the term ‘eligible entity’ means— 
+19
+‘‘(1) an institution of higher education (as de-
+20
+fined in section 101(a) of the Higher Education Act 
+21
+of 1965 (20 U.S.C. 1001(a)), including an institu-
+22
+tion of higher education that is a historically Black 
+23
+college or university (which has the meaning given 
+24
+the term ‘‘part B institution’’ in section 322 of such 
+25
+02:14 May 22, 2019
+H2660
+47 
+•HR 2660 IH
+Act (20 U.S.C. 1061)) or other minority-serving in-
+1
+stitution listed in section 371(a) of such Act (20 
+2
+U.S.C. 1067q(a)); 
+3
+‘‘(2) an organization described in section 
+4
+501(c)(3) of the Internal Revenue Code of 1986 and 
+5
+exempt from tax under section 501(a) of such Code; 
+6
+or 
+7
+‘‘(3) an organization, association, or a for-profit 
+8
+company, including a small business concern (as 
+9
+such term is defined under section 3 of the Small 
+10
+Business Act (15 U.S.C. 632)), including a small 
+11
+business concern owned and controlled by socially 
+12
+and economically disadvantaged individuals as de-
+13
+fined under section 8(d)(3)(C) of the Small Business 
+14
+Act (15 U.S.C. 637(d)(3)(C)).’’. 
+15
+(b) DEFINITION.—Section 2 of the Homeland Secu-
+16
+rity Act of 2002 (6 U.S.C. 101) is amended— 
+17
+(1) by redesignating paragraphs (6) through 
+18
+(20) as paragraphs (7) through (21), respectively; 
+19
+and 
+20
+(2) by inserting after paragraph (5) the fol-
+21
+lowing new paragraph: 
+22
+‘‘(6) ELECTION INFRASTRUCTURE.—The term 
+23
+‘election infrastructure’ means storage facilities, 
+24
+polling places, and centralized vote tabulation loca-
+25
+02:14 May 22, 2019
+H2660
+48 
+•HR 2660 IH
+tions used to support the administration of elections 
+1
+for public office, as well as related information and 
+2
+communications technology, including voter registra-
+3
+tion databases, voting machines, electronic mail and 
+4
+other communications systems (including electronic 
+5
+mail and other systems of vendors who have entered 
+6
+into contracts with election agencies to support the 
+7
+administration of elections, manage the election 
+8
+process, and report and display election results), and 
+9
+other systems used to manage the election process 
+10
+and to report and display election results on behalf 
+11
+of an election agency.’’. 
+12
+(c) CLERICAL AMENDMENT.—The table of contents 
+13
+in section 1(b) of the Homeland Security Act of 2002 is 
+14
+amended by striking both items relating to section 319 
+15
+and the item relating to section 318 and inserting the fol-
+16
+lowing new items: 
+17
+‘‘Sec. 318. Social media working group. 
+‘‘Sec. 319. Transparency in research and development. 
+‘‘Sec. 320. EMP and GMD mitigation research and development. 
+‘‘Sec. 321. Election infrastructure innovation grant program.’’. 
+TITLE II—SECURITY MEASURES 
+18
+SEC. 201. ELECTION INFRASTRUCTURE DESIGNATION. 
+19
+Subparagraph (J) of section 2001(3) of the Home-
+20
+land Security Act of 2002 (6 U.S.C. 601(3)) is amended 
+21
+by inserting ‘‘, including election infrastructure’’ before 
+22
+the period at the end. 
+23
+02:14 May 22, 2019
+H2660
+49 
+•HR 2660 IH
+SEC. 202. TIMELY THREAT INFORMATION. 
+1
+Subsection (d) of section 201 of the Homeland Secu-
+2
+rity Act of 2002 (6 U.S.C. 121) is amended by adding 
+3
+at the end the following new paragraph: 
+4
+‘‘(24) To provide timely threat information re-
+5
+garding election infrastructure to the chief State 
+6
+election official of the State with respect to which 
+7
+such information pertains.’’. 
+8
+SEC. 203. SECURITY CLEARANCE ASSISTANCE FOR ELEC-
+9
+TION OFFICIALS. 
+10
+In order to promote the timely sharing of information 
+11
+on threats to election infrastructure, the Secretary may— 
+12
+(1) help expedite a security clearance for the 
+13
+chief State election official and other appropriate 
+14
+State personnel involved in the administration of 
+15
+elections, as designated by the chief State election 
+16
+official; 
+17
+(2) sponsor a security clearance for the chief 
+18
+State election official and other appropriate State 
+19
+personnel involved in the administration of elections, 
+20
+as designated by the chief State election official; and 
+21
+(3) facilitate the issuance of a temporary clear-
+22
+ance to the chief State election official and other ap-
+23
+propriate State personnel involved in the administra-
+24
+tion of elections, as designated by the chief State 
+25
+election official, if the Secretary determines classi-
+26
+02:14 May 22, 2019
+H2660
+50 
+•HR 2660 IH
+fied information to be timely and relevant to the 
+1
+election infrastructure of the State at issue. 
+2
+SEC. 204. SECURITY RISK AND VULNERABILITY ASSESS-
+3
+MENTS. 
+4
+(a) IN GENERAL.—Paragraph (6) of section 2209(c) 
+5
+of the Homeland Security Act of 2002 (6 U.S.C. 659(c)) 
+6
+is amended by inserting ‘‘(including by carrying out a se-
+7
+curity risk and vulnerability assessment)’’ after ‘‘risk 
+8
+management support’’. 
+9
+(b) PRIORITIZATION TO ENHANCE ELECTION SECU-
+10
+RITY.— 
+11
+(1) IN GENERAL.—Not later than 90 days after 
+12
+receiving a written request from a chief State elec-
+13
+tion official, the Secretary shall, to the extent prac-
+14
+ticable, commence a security risk and vulnerability 
+15
+assessment (pursuant to paragraph (6) of section 
+16
+2209(c) of the Homeland Security Act of 2002, as 
+17
+amended by subsection (a)) on election infrastruc-
+18
+ture in the State at issue. 
+19
+(2) NOTIFICATION.—If the Secretary, upon re-
+20
+ceipt of a request described in paragraph (1), deter-
+21
+mines that a security risk and vulnerability assess-
+22
+ment cannot be commenced within 90 days, the Sec-
+23
+retary shall expeditiously notify the chief State elec-
+24
+tion official who submitted such request. 
+25
+02:14 May 22, 2019
+H2660
+51 
+•HR 2660 IH
+SEC. 205. ANNUAL REPORTS. 
+1
+(a) REPORTS ON ASSISTANCE AND ASSESSMENTS.— 
+2
+Not later than one year after the date of the enactment 
+3
+of this Act and annually thereafter through 2026, the Sec-
+4
+retary shall submit to the appropriate congressional com-
+5
+mittees— 
+6
+(1) efforts to carry out section 203 during the 
+7
+prior year, including specific information on which 
+8
+States were helped, how many officials have been 
+9
+helped in each State, how many security clearances 
+10
+have been sponsored in each State, and how many 
+11
+temporary clearances have been issued in each State; 
+12
+and 
+13
+(2) efforts to carry out section 204 during the 
+14
+prior year, including specific information on which 
+15
+States were helped, the dates on which the Secretary 
+16
+received a request for a security risk and vulner-
+17
+ability assessment pursuant to such section, the 
+18
+dates on which the Secretary commenced each such 
+19
+request, and the dates on which the Secretary trans-
+20
+mitted a notification in accordance with subsection 
+21
+(b)(2) of such section. 
+22
+(b) REPORTS
+ON FOREIGN THREATS.—Not later 
+23
+than 90 days after the end of each fiscal year (beginning 
+24
+with fiscal year 2019), the Secretary and the Director of 
+25
+National Intelligence, in coordination with the heads of 
+26
+02:14 May 22, 2019
+H2660
+52 
+•HR 2660 IH
+appropriate offices of the Federal government, shall sub-
+1
+mit a joint report to the appropriate congressional com-
+2
+mittees on foreign threats to elections in the United 
+3
+States, including physical and cybersecurity threats. 
+4
+(c) INFORMATION FROM STATES.—For purposes of 
+5
+preparing the reports required under this section, the Sec-
+6
+retary shall solicit and consider information and comments 
+7
+from States and election agencies, except that the provi-
+8
+sion of such information and comments by a State or elec-
+9
+tion agency shall be voluntary and at the discretion of the 
+10
+State or agency. 
+11
+SEC. 206. PRE-ELECTION THREAT ASSESSMENTS. 
+12
+(a) SUBMISSION
+OF ASSESSMENT
+BY DNI.—Not 
+13
+later than 180 days before the date of each regularly 
+14
+scheduled general election for Federal office, the Director 
+15
+of National Intelligence shall submit an assessment of the 
+16
+full scope of threats to election infrastructure, including 
+17
+cybersecurity threats posed by state actors and terrorist 
+18
+groups, and recommendations to address or mitigate the 
+19
+threats, as developed by the Secretary and Chairman, to— 
+20
+(1) the chief State election official of each 
+21
+State; 
+22
+(2) the Committees on Homeland Security and 
+23
+House Administration of the House of Representa-
+24
+tives and the Committees on Homeland Security and 
+25
+02:14 May 22, 2019
+H2660
+53 
+•HR 2660 IH
+Governmental Affairs and Rules and Administration 
+1
+of the Senate; and 
+2
+(3) any other appropriate congressional com-
+3
+mittees. 
+4
+(b) UPDATES TO INITIAL ASSESSMENTS.—If, at any 
+5
+time after submitting an assessment with respect to an 
+6
+election under subsection (a), the Director of National In-
+7
+telligence determines that the assessment should be up-
+8
+dated to reflect new information regarding the threats in-
+9
+volved, the Director shall submit a revised assessment 
+10
+under such subsection. 
+11
+(c) DEFINITIONS.—In this section, the following defi-
+12
+nitions apply: 
+13
+(1) The term ‘‘Chairman’’ means the chair of 
+14
+the Election Assistance Commission. 
+15
+(2) The term ‘‘chief State election official’’ 
+16
+means, with respect to a State, the individual des-
+17
+ignated by the State under section 10 of the Na-
+18
+tional Voter Registration Act of 1993 (52 U.S.C. 
+19
+20509) to be responsible for coordination of the 
+20
+State’s responsibilities under such Act. 
+21
+(3) The term ‘‘election infrastructure’’ means 
+22
+storage facilities, polling places, and centralized vote 
+23
+tabulation locations used to support the administra-
+24
+tion of elections for public office, as well as related 
+25
+02:14 May 22, 2019
+H2660
+54 
+•HR 2660 IH
+information and communications technology, includ-
+1
+ing voter registration databases, voting machines, 
+2
+electronic mail and other communications systems 
+3
+(including electronic mail and other systems of ven-
+4
+dors who have entered into contracts with election 
+5
+agencies to support the administration of elections, 
+6
+manage the election process, and report and display 
+7
+election results), and other systems used to manage 
+8
+the election process and to report and display elec-
+9
+tion results on behalf of an election agency. 
+10
+(4) The term ‘‘Secretary’’ means the Secretary 
+11
+of Homeland Security. 
+12
+(5) The term ‘‘State’’ has the meaning given 
+13
+such term in section 901 of the Help America Vote 
+14
+Act of 2002 (52 U.S.C. 21141). 
+15
+(d) EFFECTIVE DATE.—This title shall apply with re-
+16
+spect to the regularly scheduled general election for Fed-
+17
+eral office held in November 2020 and each succeeding 
+18
+regularly scheduled general election for Federal office. 
+19
+02:14 May 22, 2019
+H2660
+55 
+•HR 2660 IH
+TITLE III—ENHANCING PROTEC-
+1
+TIONS FOR UNITED STATES 
+2
+DEMOCRATIC INSTITUTIONS 
+3
+SEC. 301. NATIONAL STRATEGY TO PROTECT UNITED 
+4
+STATES DEMOCRATIC INSTITUTIONS. 
+5
+(a) IN GENERAL.—Not later than one year after the 
+6
+date of the enactment of this Act, the President, acting 
+7
+through the Secretary, in consultation with the Chairman, 
+8
+the Secretary of Defense, the Secretary of State, the At-
+9
+torney General, the Secretary of Education, the Director 
+10
+of National Intelligence, the Chairman of the Federal 
+11
+Election Commission, and the heads of any other appro-
+12
+priate Federal agencies, shall issue a national strategy to 
+13
+protect against cyber attacks, influence operations, 
+14
+disinformation campaigns, and other activities that could 
+15
+undermine the security and integrity of United States 
+16
+democratic institutions. 
+17
+(b) CONSIDERATIONS.—The national strategy re-
+18
+quired under subsection (a) shall include consideration of 
+19
+the following: 
+20
+(1) The threat of a foreign state actor, foreign 
+21
+terrorist organization (as designated pursuant to 
+22
+section 219 of the Immigration and Nationality Act 
+23
+(8 U.S.C. 1189)), or a domestic actor carrying out 
+24
+a cyber attack, influence operation, disinformation 
+25
+02:14 May 22, 2019
+H2660
+56 
+•HR 2660 IH
+campaign, or other activity aimed at undermining 
+1
+the security and integrity of United States demo-
+2
+cratic institutions. 
+3
+(2) The extent to which United States demo-
+4
+cratic institutions are vulnerable to a cyber attack, 
+5
+influence operation, disinformation campaign, or 
+6
+other activity aimed at undermining the security and 
+7
+integrity of such democratic institutions. 
+8
+(3) Potential consequences, such as an erosion 
+9
+of public trust or an undermining of the rule of law, 
+10
+that could result from a successful cyber attack, in-
+11
+fluence operation, disinformation campaign, or other 
+12
+activity aimed at undermining the security and in-
+13
+tegrity of United States democratic institutions. 
+14
+(4) Lessons learned from other Western govern-
+15
+ments the institutions of which were subject to a 
+16
+cyber attack, influence operation, disinformation 
+17
+campaign, or other activity aimed at undermining 
+18
+the security and integrity of such institutions, as 
+19
+well as actions that could be taken by the United 
+20
+States Government to bolster collaboration with for-
+21
+eign partners to detect, deter, prevent, and counter 
+22
+such activities. 
+23
+(5) Potential impacts such as an erosion of 
+24
+public trust in democratic institutions as could be 
+25
+02:14 May 22, 2019
+H2660
+57 
+•HR 2660 IH
+associated with a successful cyber breach or other 
+1
+activity negatively-affecting election infrastructure. 
+2
+(6) Roles and responsibilities of the Secretary, 
+3
+the Chairman, and the heads of other Federal enti-
+4
+ties and non-Federal entities, including chief State 
+5
+election officials and representatives of multi-state 
+6
+information sharing and analysis center. 
+7
+(7) Any findings, conclusions, and recommenda-
+8
+tions to strengthen protections for United States 
+9
+democratic institutions that have been agreed to by 
+10
+a majority of Commission members on the National 
+11
+Commission to Protect United States Democratic 
+12
+Institutions, authorized pursuant to section 302. 
+13
+(c) IMPLEMENTATION PLAN.—Not later than 90 
+14
+days after the issuance of the national strategy required 
+15
+under subsection (a), the President, acting through the 
+16
+Secretary, in coordination with the Chairman, shall issue 
+17
+an implementation plan for Federal efforts to implement 
+18
+such strategy that includes the following: 
+19
+(1) Strategic objectives and corresponding 
+20
+tasks. 
+21
+(2) Projected timelines and costs for the tasks 
+22
+referred to in paragraph (1). 
+23
+(3) Metrics to evaluate performance of such 
+24
+tasks. 
+25
+02:14 May 22, 2019
+H2660
+58 
+•HR 2660 IH
+(d) CLASSIFICATION.—The national strategy re-
+1
+quired under subsection (a) shall be in unclassified form. 
+2
+(e) CIVIL RIGHTS REVIEW.—Not later than 60 days 
+3
+after the issuance of the national strategy required under 
+4
+subsection (a), and not later than 60 days after the 
+5
+issuance of the implementation plan required under sub-
+6
+section (c), the Privacy and Civil Liberties Oversight 
+7
+Board (established under section 1061 of the Intelligence 
+8
+Reform and Terrorism Prevention Act of 2004 (42 U.S.C. 
+9
+2000ee)) shall submit a report to Congress on any poten-
+10
+tial privacy and civil liberties impacts of such strategy and 
+11
+implementation plan, respectively. 
+12
+SEC. 302. NATIONAL COMMISSION TO PROTECT UNITED 
+13
+STATES DEMOCRATIC INSTITUTIONS. 
+14
+(a) ESTABLISHMENT.—There is established within 
+15
+the legislative branch the National Commission to Protect 
+16
+United States Democratic Institutions (hereafter in this 
+17
+section referred to as the ‘‘Commission’’). 
+18
+(b) PURPOSE.—The purpose of the Commission is to 
+19
+counter efforts to undermine democratic institutions with-
+20
+in the United States. 
+21
+(c) COMPOSITION.— 
+22
+(1) MEMBERSHIP.—The Commission shall be 
+23
+composed of 10 members appointed for the life of 
+24
+the Commission as follows: 
+25
+02:14 May 22, 2019
+H2660
+59 
+•HR 2660 IH
+(A) One member shall be appointed by the 
+1
+Secretary. 
+2
+(B) One member shall be appointed by the 
+3
+Chairman. 
+4
+(C) Two members shall be appointed by 
+5
+the majority leader of the Senate, in consulta-
+6
+tion with the Chairman of the Committee on 
+7
+Homeland Security and Governmental Affairs, 
+8
+the Chairman of the Committee on the Judici-
+9
+ary, and the Chairman of the Committee on 
+10
+Rules and Administration. 
+11
+(D) Two members shall be appointed by 
+12
+the minority leader of the Senate, in consulta-
+13
+tion with the ranking minority member of the 
+14
+Committee on Homeland Security and Govern-
+15
+mental Affairs, the ranking minority member of 
+16
+the Committee on the Judiciary, and the rank-
+17
+ing minority member of the Committee on 
+18
+Rules and Administration. 
+19
+(E) Two members shall be appointed by 
+20
+the Speaker of the House of Representatives, in 
+21
+consultation with the Chairman of the Com-
+22
+mittee on Homeland Security, the Chairman of 
+23
+the Committee on House Administration, and 
+24
+02:14 May 22, 2019
+H2660
+60 
+•HR 2660 IH
+the Chairman of the Committee on the Judici-
+1
+ary. 
+2
+(F) Two members shall be appointed by 
+3
+the minority leader of the House of Representa-
+4
+tives, in consultation with the ranking minority 
+5
+member of the Committee on Homeland Secu-
+6
+rity, the ranking minority member of the Com-
+7
+mittee on the Judiciary, and the ranking minor-
+8
+ity member of the Committee on House Admin-
+9
+istration. 
+10
+(2) QUALIFICATIONS.—Individuals shall be se-
+11
+lected for appointment to the Commission solely on 
+12
+the basis of their professional qualifications, achieve-
+13
+ments, public stature, experience, and expertise in 
+14
+relevant fields, including, but not limited to cyberse-
+15
+curity, national security, and the Constitution of the 
+16
+United States. 
+17
+(3) NO COMPENSATION FOR SERVICE.—Mem-
+18
+bers shall not receive compensation for service on 
+19
+the Commission, but shall receive travel expenses, 
+20
+including per diem in lieu of subsistence, in accord-
+21
+ance with chapter 57 of title 5, United States Code. 
+22
+(4) DEADLINE FOR APPOINTMENT.—All mem-
+23
+bers of the Commission shall be appointed no later 
+24
+02:14 May 22, 2019
+H2660
+61 
+•HR 2660 IH
+than 60 days after the date of the enactment of this 
+1
+Act. 
+2
+(5) VACANCIES.—A vacancy on the Commission 
+3
+shall not affect its powers and shall be filled in the 
+4
+manner in which the original appointment was 
+5
+made. The appointment of the replacement member 
+6
+shall be made not later than 60 days after the date 
+7
+on which the vacancy occurs. 
+8
+(d) CHAIR AND VICE CHAIR.—The Commission shall 
+9
+elect a Chair and Vice Chair from among its members. 
+10
+(e) QUORUM AND MEETINGS.— 
+11
+(1) QUORUM.—The Commission shall meet and 
+12
+begin the operations of the Commission not later 
+13
+than 30 days after the date on which all members 
+14
+have been appointed or, if such meeting cannot be 
+15
+mutually agreed upon, on a date designated by the 
+16
+Speaker of the House of Representatives and the 
+17
+President pro Tempore of the Senate. Each subse-
+18
+quent meeting shall occur upon the call of the Chair 
+19
+or a majority of its members. A majority of the 
+20
+members of the Commission shall constitute a 
+21
+quorum, but a lesser number may hold meetings. 
+22
+(2) AUTHORITY OF INDIVIDUALS TO ACT FOR 
+23
+COMMISSION.—Any member of the Commission may, 
+24
+if authorized by the Commission, take any action 
+25
+02:14 May 22, 2019
+H2660
+62 
+•HR 2660 IH
+that the Commission is authorized to take under this 
+1
+section. 
+2
+(f) POWERS.— 
+3
+(1) HEARINGS AND EVIDENCE.—The Commis-
+4
+sion (or, on the authority of the Commission, any 
+5
+subcommittee or member thereof) may, for the pur-
+6
+pose of carrying out this section, hold hearings and 
+7
+sit and act at such times and places, take such testi-
+8
+mony, receive such evidence, and administer such 
+9
+oaths as the Commission considers advisable to 
+10
+carry out its duties. 
+11
+(2) CONTRACTING.—The Commission may, to 
+12
+such extent and in such amounts as are provided in 
+13
+appropriation Acts, enter into contracts to enable 
+14
+the Commission to discharge its duties under this 
+15
+section. 
+16
+(g) ASSISTANCE FROM FEDERAL AGENCIES.— 
+17
+(1) GENERAL
+SERVICES
+ADMINISTRATION.— 
+18
+The Administrator of General Services shall provide 
+19
+to the Commission on a reimbursable basis adminis-
+20
+trative support and other services for the perform-
+21
+ance of the Commission’s functions. 
+22
+(2) OTHER DEPARTMENTS AND AGENCIES.—In 
+23
+addition to the assistance provided under paragraph 
+24
+(1), the Department of Homeland Security, the 
+25
+02:14 May 22, 2019
+H2660
+63 
+•HR 2660 IH
+Election Assistance Commission, and other appro-
+1
+priate departments and agencies of the United 
+2
+States shall provide to the Commission such serv-
+3
+ices, funds, facilities, and staff as they may deter-
+4
+mine advisable and as may be authorized by law. 
+5
+(h) PUBLIC MEETINGS.—Any public meetings of the 
+6
+Commission shall be conducted in a manner consistent 
+7
+with the protection of information provided to or developed 
+8
+for or by the Commission as required by any applicable 
+9
+statute, regulation, or Executive order. 
+10
+(i) SECURITY CLEARANCES.— 
+11
+(1) IN
+GENERAL.—The heads of appropriate 
+12
+departments and agencies of the executive branch 
+13
+shall cooperate with the Commission to expeditiously 
+14
+provide Commission members and staff with appro-
+15
+priate security clearances to the extent possible 
+16
+under applicable procedures and requirements. 
+17
+(2) PREFERENCES.—In appointing staff, ob-
+18
+taining detailees, and entering into contracts for the 
+19
+provision of services for the Commission, the Com-
+20
+mission shall give preference to individuals otherwise 
+21
+who have active security clearances. 
+22
+(j) REPORTS.— 
+23
+(1) INTERIM REPORTS.—At any time prior to 
+24
+the submission of the final report under paragraph 
+25
+02:14 May 22, 2019
+H2660
+64 
+•HR 2660 IH
+(2), the Commission may submit interim reports to 
+1
+the President and Congress such findings, conclu-
+2
+sions, and recommendations to strengthen protec-
+3
+tions for democratic institutions in the United 
+4
+States as have been agreed to by a majority of the 
+5
+members of the Commission. 
+6
+(2) FINAL REPORT.—Not later than 18 months 
+7
+after the date of the first meeting of the Commis-
+8
+sion, the Commission shall submit to the President 
+9
+and Congress a final report containing such find-
+10
+ings, conclusions, and recommendations to strength-
+11
+en protections for democratic institutions in the 
+12
+United States as have been agreed to by a majority 
+13
+of the members of the Commission. 
+14
+(k) TERMINATION.— 
+15
+(1) IN GENERAL.—The Commission shall termi-
+16
+nate upon the expiration of the 60-day period which 
+17
+begins on the date on which the Commission submits 
+18
+the final report required under subsection (j)(2). 
+19
+(2) ADMINISTRATIVE
+ACTIVITIES
+PRIOR
+TO 
+20
+TERMINATION.—During the 60-day period described 
+21
+in paragraph (2), the Commission may carry out 
+22
+such administrative activities as may be required to 
+23
+conclude its work, including providing testimony to 
+24
+02:14 May 22, 2019
+H2660
+65 
+•HR 2660 IH
+committees of Congress concerning the final report 
+1
+and disseminating the final report. 
+2
+TITLE IV—PROMOTING CYBER-
+3
+SECURITY 
+THROUGH 
+IM-
+4
+PROVEMENTS IN ELECTION 
+5
+ADMINISTRATION 
+6
+SEC. 401. TESTING OF EXISTING VOTING SYSTEMS TO EN-
+7
+SURE COMPLIANCE WITH ELECTION CYBER-
+8
+SECURITY GUIDELINES AND OTHER GUIDE-
+9
+LINES. 
+10
+(a) REQUIRING TESTING OF EXISTING VOTING SYS-
+11
+TEMS.— 
+12
+(1) IN GENERAL.—Section 231(a) of the Help 
+13
+America Vote Act of 2002 (52 U.S.C. 20971(a)) is 
+14
+amended by adding at the end the following new 
+15
+paragraph: 
+16
+‘‘(3) TESTING TO ENSURE COMPLIANCE WITH 
+17
+GUIDELINES.— 
+18
+‘‘(A) TESTING.—Not later than 9 months 
+19
+before the date of each regularly scheduled gen-
+20
+eral election for Federal office, the Commission 
+21
+shall provide for the testing by accredited lab-
+22
+oratories under this section of the voting system 
+23
+hardware and software which was certified for 
+24
+use in the most recent such election, on the 
+25
+02:14 May 22, 2019
+H2660
+66 
+•HR 2660 IH
+basis of the most recent voting system guide-
+1
+lines applicable to such hardware or software 
+2
+(including election cybersecurity guidelines) 
+3
+issued under this Act. 
+4
+‘‘(B) DECERTIFICATION OF HARDWARE OR 
+5
+SOFTWARE FAILING TO MEET GUIDELINES.—If, 
+6
+on the basis of the testing described in subpara-
+7
+graph (A), the Commission determines that any 
+8
+voting system hardware or software does not 
+9
+meet the most recent guidelines applicable to 
+10
+such hardware or software issued under this 
+11
+Act, the Commission shall decertify such hard-
+12
+ware or software.’’. 
+13
+(2) EFFECTIVE DATE.—The amendment made 
+14
+by paragraph (1) shall apply with respect to the reg-
+15
+ularly scheduled general election for Federal office 
+16
+held in November 2020 and each succeeding regu-
+17
+larly scheduled general election for Federal office. 
+18
+(b) ISSUANCE OF CYBERSECURITY GUIDELINES BY 
+19
+TECHNICAL GUIDELINES DEVELOPMENT COMMITTEE.— 
+20
+Section 221(b) of the Help America Vote Act of 2002 (52 
+21
+U.S.C. 20961(b)) is amended by adding at the end the 
+22
+following new paragraph: 
+23
+‘‘(3) 
+ELECTION
+CYBERSECURITY
+GUIDE-
+24
+LINES.—Not later than 6 months after the date of 
+25
+02:14 May 22, 2019
+H2660
+67 
+•HR 2660 IH
+the enactment of this paragraph, the Development 
+1
+Committee shall issue election cybersecurity guide-
+2
+lines, including standards and best practices for pro-
+3
+curing, maintaining, testing, operating, and updat-
+4
+ing election systems to prevent and deter cybersecu-
+5
+rity incidents.’’. 
+6
+SEC. 402. TREATMENT OF ELECTRONIC POLL BOOKS AS 
+7
+PART OF VOTING SYSTEMS. 
+8
+(a) INCLUSION
+IN DEFINITION
+OF VOTING SYS-
+9
+TEM.—Section 301(b) of the Help America Vote Act of 
+10
+2002 (52 U.S.C. 21081(b)) is amended— 
+11
+(1) in the matter preceding paragraph (1), by 
+12
+striking ‘‘this section’’ and inserting ‘‘this Act’’; 
+13
+(2) by striking ‘‘and’’ at the end of paragraph 
+14
+(1); 
+15
+(3) by redesignating paragraph (2) as para-
+16
+graph (3); and 
+17
+(4) by inserting after paragraph (1) the fol-
+18
+lowing new paragraph: 
+19
+‘‘(2) any electronic poll book used with respect 
+20
+to the election; and’’. 
+21
+(b) DEFINITION.—Section 301 of such Act (52 
+22
+U.S.C. 21081) is amended— 
+23
+(1) by redesignating subsections (c) and (d) as 
+24
+subsections (d) and (e); and 
+25
+02:14 May 22, 2019
+H2660
+68 
+•HR 2660 IH
+(2) by inserting after subsection (b) the fol-
+1
+lowing new subsection: 
+2
+‘‘(c) ELECTRONIC POLL BOOK DEFINED.—In this 
+3
+Act, the term ‘electronic poll book’ means the total com-
+4
+bination of mechanical, electromechanical, or electronic 
+5
+equipment (including the software, firmware, and docu-
+6
+mentation required to program, control, and support the 
+7
+equipment) that is used— 
+8
+‘‘(1) to retain the list of registered voters at a 
+9
+polling location, or vote center, or other location at 
+10
+which voters cast votes in an election for Federal of-
+11
+fice; and 
+12
+‘‘(2) to identify registered voters who are eligi-
+13
+ble to vote in an election.’’. 
+14
+(c) EFFECTIVE DATE.—Section 301(e) of such Act 
+15
+(52 U.S.C. 21081(e)), as redesignated by subsection (b), 
+16
+is amended by striking the period at the end and inserting 
+17
+the following: ‘‘, or, with respect to any requirements re-
+18
+lating to electronic poll books, on and after January 1, 
+19
+2020.’’. 
+20
+SEC. 403. PRE-ELECTION REPORTS ON VOTING SYSTEM 
+21
+USAGE. 
+22
+(a) REQUIRING STATES TO SUBMIT REPORTS.—Title 
+23
+III of the Help America Vote Act of 2002 (52 U.S.C. 
+24
+02:14 May 22, 2019
+H2660
+69 
+•HR 2660 IH
+21081 et seq.) is amended by inserting after section 301 
+1
+the following new section: 
+2
+‘‘SEC. 301A. PRE-ELECTION REPORTS ON VOTING SYSTEM 
+3
+USAGE. 
+4
+‘‘(a) REQUIRING STATES TO SUBMIT REPORTS.— 
+5
+Not later than 120 days before the date of each regularly 
+6
+scheduled general election for Federal office, the chief 
+7
+State election official of a State shall submit a report to 
+8
+the Commission containing a detailed voting system usage 
+9
+plan for each jurisdiction in the State which will admin-
+10
+ister the election, including a detailed plan for the usage 
+11
+of electronic poll books and other equipment and compo-
+12
+nents of such system. 
+13
+‘‘(b) EFFECTIVE DATE.—Subsection (a) shall apply 
+14
+with respect to the regularly scheduled general election for 
+15
+Federal office held in November 2020 and each succeeding 
+16
+regularly scheduled general election for Federal office.’’. 
+17
+(b) CONFORMING AMENDMENT RELATING TO EN-
+18
+FORCEMENT.—Section 401 of such Act (52 U.S.C. 21111) 
+19
+is amended by striking ‘‘sections 301, 302, and 303’’ and 
+20
+inserting ‘‘subtitle A of title III’’. 
+21
+(c) CLERICAL AMENDMENT.—The table of contents 
+22
+of such Act is amended by inserting after the item relating 
+23
+to section 301 the following new item: 
+24
+‘‘Sec. 301A. Pre-election reports on voting system usage.’’. 
+02:14 May 22, 2019
+H2660
+70 
+•HR 2660 IH
+SEC. 404. STREAMLINING COLLECTION OF ELECTION IN-
+1
+FORMATION. 
+2
+Section 202 of the Help America Vote Act of 2002 
+3
+(52 U.S.C. 20922) is amended— 
+4
+(1) by striking ‘‘The Commission’’ and insert-
+5
+ing ‘‘(a) IN GENERAL.—The Commission’’; and 
+6
+(2) by adding at the end the following new sub-
+7
+section: 
+8
+‘‘(b) WAIVER OF CERTAIN REQUIREMENTS.—Sub-
+9
+chapter I of chapter 35 of title 44, United States Code, 
+10
+shall not apply to the collection of information for pur-
+11
+poses of maintaining the clearinghouse described in para-
+12
+graph (1) of subsection (a).’’. 
+13
+TITLE V—PREVENTING 
+14
+ELECTION HACKING 
+15
+SEC. 501. SHORT TITLE. 
+16
+This title may be cited as the ‘‘Prevent Election 
+17
+Hacking Act of 2019’’. 
+18
+SEC. 502. ELECTION SECURITY BUG BOUNTY PROGRAM. 
+19
+(a) ESTABLISHMENT.—Not later than 1 year after 
+20
+the date of the enactment of this Act, the Secretary shall 
+21
+establish a program to be known as the ‘‘Election Security 
+22
+Bug Bounty Program’’ (hereafter in this subtitle referred 
+23
+to as the ‘‘Program’’) to improve the cybersecurity of the 
+24
+systems used to administer elections for Federal office by 
+25
+facilitating and encouraging assessments by independent 
+26
+02:14 May 22, 2019
+H2660
+71 
+•HR 2660 IH
+technical experts, in cooperation with State and local elec-
+1
+tion officials and election service providers, to identify and 
+2
+report election cybersecurity vulnerabilities. 
+3
+(b) VOLUNTARY PARTICIPATION BY ELECTION OFFI-
+4
+CIALS AND ELECTION SERVICE PROVIDERS.— 
+5
+(1) NO REQUIREMENT TO PARTICIPATE IN PRO-
+6
+GRAM.—Participation in the Program shall be en-
+7
+tirely voluntary for State and local election officials 
+8
+and election service providers. 
+9
+(2) ENCOURAGING PARTICIPATION AND INPUT 
+10
+FROM ELECTION OFFICIALS.—In developing the Pro-
+11
+gram, the Secretary shall solicit input from, and en-
+12
+courage participation by, State and local election of-
+13
+ficials. 
+14
+(c) ACTIVITIES FUNDED.—In establishing and car-
+15
+rying out the Program, the Secretary shall— 
+16
+(1) establish a process for State and local elec-
+17
+tion officials and election service providers to volun-
+18
+tarily participate in the Program; 
+19
+(2) designate appropriate information systems 
+20
+to be included in the Program; 
+21
+(3) provide compensation to eligible individuals, 
+22
+organizations, and companies for reports of pre-
+23
+viously unidentified security vulnerabilities within 
+24
+the information systems designated under subpara-
+25
+02:14 May 22, 2019
+H2660
+72 
+•HR 2660 IH
+graph (A) and establish criteria for individuals, or-
+1
+ganizations, and companies to be considered eligible 
+2
+for such compensation in compliance with Federal 
+3
+laws; 
+4
+(4) consult with the Attorney General on how 
+5
+to ensure that approved individuals, organizations, 
+6
+or companies that comply with the requirements of 
+7
+the Program are protected from prosecution under 
+8
+section 1030 of title 18, United States Code, and 
+9
+similar provisions of law, and from liability under 
+10
+civil actions for specific activities authorized under 
+11
+the Program; 
+12
+(5) consult with the Secretary of Defense and 
+13
+the heads of other departments and agencies that 
+14
+have implemented programs to provide compensation 
+15
+for reports of previously undisclosed vulnerabilities 
+16
+in information systems, regarding lessons that may 
+17
+be applied from such programs; 
+18
+(6) develop an expeditious process by which an 
+19
+individual, organization, or company can register 
+20
+with the Department, submit to a background check 
+21
+as determined by the Department, and receive a de-
+22
+termination as to eligibility for participation in the 
+23
+Program; and 
+24
+02:14 May 22, 2019
+H2660
+73 
+•HR 2660 IH
+(7) engage qualified interested persons, includ-
+1
+ing representatives of private entities, about the 
+2
+structure of the Program and, to the extent prac-
+3
+ticable, establish a recurring competition for inde-
+4
+pendent technical experts to assess election systems 
+5
+for the purpose of identifying and reporting election 
+6
+cybersecurity vulnerabilities. 
+7
+(d) USE OF SERVICE PROVIDERS.—The Secretary 
+8
+may award competitive contracts as necessary to manage 
+9
+the Program. 
+10
+SEC. 503. DEFINITIONS. 
+11
+In this title, the following definitions apply: 
+12
+(1) The terms ‘‘election’’ and ‘‘Federal office’’ 
+13
+have the meanings given such terms in section 301 
+14
+of the Federal Election Campaign Act of 1971 (52 
+15
+U.S.C. 30101). 
+16
+(2) The term ‘‘election cybersecurity vulner-
+17
+ability’’ means any security vulnerability (as defined 
+18
+in section 102 of the Cybersecurity Information 
+19
+Sharing Act of 2015 (6 U.S.C. 1501)) that affects 
+20
+an election system. 
+21
+(3) The term ‘‘election service provider’’ means 
+22
+any person providing, supporting, or maintaining an 
+23
+election system on behalf of a State or local election 
+24
+official, such as a contractor or vendor. 
+25
+02:14 May 22, 2019
+H2660
+74 
+•HR 2660 IH
+(4) The term ‘‘election system’’ means any in-
+1
+formation system (as defined in section 3502 of title 
+2
+44, United States Code) which is part of an election 
+3
+infrastructure. 
+4
+(5) The term ‘‘Secretary’’ means the Secretary 
+5
+of Homeland Security, or, upon designation by the 
+6
+Secretary of Homeland Security, the Deputy Sec-
+7
+retary of Homeland Security, the Director of Cyber-
+8
+security and Infrastructure Security of the Depart-
+9
+ment of Homeland Security, or a Senate-confirmed 
+10
+official that reports to the Director. 
+11
+(6) The term ‘‘State’’ means each of the several 
+12
+States, the District of Columbia, the Commonwealth 
+13
+of Puerto Rico, Guam, American Samoa, the Com-
+14
+monwealth of Northern Mariana Islands, and the 
+15
+United States Virgin Islands. 
+16
+(7) The term ‘‘voting system’’ has the meaning 
+17
+given such term in section 301(b) of the Help Amer-
+18
+ica Vote Act of 2002 (52 U.S.C. 21081(b)). 
+19
+TITLE VI—ELECTION SECURITY 
+20
+GRANTS ADVISORY COMMITTEE 
+21
+SEC. 601. ESTABLISHMENT OF ADVISORY COMMITTEE. 
+22
+(a) IN GENERAL.—Subtitle A of title II of the Help 
+23
+America Vote Act of 2002 (52 U.S.C. 20921 et seq.) is 
+24
+amended by adding at the end the following: 
+25
+02:14 May 22, 2019
+H2660
+75 
+•HR 2660 IH
+‘‘PART 4—ELECTION SECURITY GRANTS 
+1
+ADVISORY COMMITTEE 
+2
+‘‘SEC. 225. ELECTION SECURITY GRANTS ADVISORY COM-
+3
+MITTEE. 
+4
+‘‘(a) ESTABLISHMENT.—There is hereby established 
+5
+an advisory committee (hereinafter in this part referred 
+6
+to as the ‘Committee’) to assist the Commission with re-
+7
+spect to the award of grants to States under this Act for 
+8
+the purpose of election security. 
+9
+‘‘(b) DUTIES.— 
+10
+‘‘(1) IN GENERAL.—The Committee shall, with 
+11
+respect to an application for a grant received by the 
+12
+Commission— 
+13
+‘‘(A) review such application; and 
+14
+‘‘(B) 
+recommend 
+to 
+the 
+Commission 
+15
+whether to award the grant to the applicant. 
+16
+‘‘(2) CONSIDERATIONS.—In reviewing an appli-
+17
+cation pursuant to paragraph (1)(A), the Committee 
+18
+shall consider— 
+19
+‘‘(A) the record of the applicant with re-
+20
+spect to— 
+21
+‘‘(i) compliance of the applicant with 
+22
+the requirements under subtitle A of title 
+23
+III; and 
+24
+02:14 May 22, 2019
+H2660
+76 
+•HR 2660 IH
+‘‘(ii) adoption of voluntary guidelines 
+1
+issued by the Commission under subtitle B 
+2
+of title III; and 
+3
+‘‘(B) the goals and requirements of elec-
+4
+tion security as described in title III of the For 
+5
+the People Act of 2019. 
+6
+‘‘(c) MEMBERSHIP.—The Committee shall be com-
+7
+posed of 15 individuals appointed by the Executive Direc-
+8
+tor of the Commission with experience and expertise in 
+9
+election security. 
+10
+‘‘(d) NO COMPENSATION FOR SERVICE.—Members of 
+11
+the Committee shall not receive any compensation for 
+12
+their service, but shall be paid travel expenses, including 
+13
+per diem in lieu of subsistence, at rates authorized for em-
+14
+ployees of agencies under subchapter I of chapter 57 of 
+15
+title 5, United States Code, while away from their homes 
+16
+or regular places of business in the performance of services 
+17
+for the Committee.’’. 
+18
+(b) EFFECTIVE DATE.—The amendments made by 
+19
+this section shall take effect 1 year after the date of enact-
+20
+ment of this Act. 
+21
+02:14 May 22, 2019
+H2660
+77 
+•HR 2660 IH
+TITLE VII—USE OF VOTING MA-
+1
+CHINES MANUFACTURED IN 
+2
+THE UNITED STATES 
+3
+SEC. 701. USE OF VOTING MACHINES MANUFACTURED IN 
+4
+THE UNITED STATES. 
+5
+Section 301(a) of the Help America Vote Act of 2002 
+6
+(52 U.S.C. 21081(a)), as amended by section 104 and sec-
+7
+tion 105, is amended by adding at the end the following 
+8
+new paragraph: 
+9
+‘‘(9) VOTING
+MACHINE
+REQUIREMENTS.—By 
+10
+not later than the date of the regularly scheduled 
+11
+general election for Federal office occurring in No-
+12
+vember 2022, each State shall seek to ensure that 
+13
+any voting machine used in such election and in any 
+14
+subsequent election for Federal office is manufac-
+15
+tured in the United States.’’. 
+16
+TITLE VIII—MISCELLANEOUS 
+17
+PROVISIONS 
+18
+SEC. 801. DEFINITIONS. 
+19
+Except as provided in section 503, in this Act, the 
+20
+following definitions apply: 
+21
+(1) The term ‘‘Chairman’’ means the chair of 
+22
+the Election Assistance Commission. 
+23
+(2) The term ‘‘appropriate congressional com-
+24
+mittees’’ means the Committees on Homeland Secu-
+25
+02:14 May 22, 2019
+H2660
+78 
+•HR 2660 IH
+rity and House Administration of the House of Rep-
+1
+resentatives and the Committees on Homeland Secu-
+2
+rity and Governmental Affairs and Rules and Ad-
+3
+ministration of the Senate. 
+4
+(3) The term ‘‘chief State election official’’ 
+5
+means, with respect to a State, the individual des-
+6
+ignated by the State under section 10 of the Na-
+7
+tional Voter Registration Act of 1993 (52 U.S.C. 
+8
+20509) to be responsible for coordination of the 
+9
+State’s responsibilities under such Act. 
+10
+(4) The term ‘‘Commission’’ means the Election 
+11
+Assistance Commission. 
+12
+(5) The term ‘‘democratic institutions’’ means 
+13
+the diverse range of institutions that are essential to 
+14
+ensuring an independent judiciary, free and fair elec-
+15
+tions, and rule of law. 
+16
+(6) The term ‘‘election agency’’ means any com-
+17
+ponent of a State, or any component of a unit of 
+18
+local government in a State, which is responsible for 
+19
+the administration of elections for Federal office in 
+20
+the State. 
+21
+(7) The term ‘‘election infrastructure’’ means 
+22
+storage facilities, polling places, and centralized vote 
+23
+tabulation locations used to support the administra-
+24
+tion of elections for public office, as well as related 
+25
+02:14 May 22, 2019
+H2660
+79 
+•HR 2660 IH
+information and communications technology, includ-
+1
+ing voter registration databases, voting machines, 
+2
+electronic mail and other communications systems 
+3
+(including electronic mail and other systems of ven-
+4
+dors who have entered into contracts with election 
+5
+agencies to support the administration of elections, 
+6
+manage the election process, and report and display 
+7
+election results), and other systems used to manage 
+8
+the election process and to report and display elec-
+9
+tion results on behalf of an election agency. 
+10
+(8) The term ‘‘Secretary’’ means the Secretary 
+11
+of Homeland Security. 
+12
+(9) The term ‘‘State’’ has the meaning given 
+13
+such term in section 901 of the Help America Vote 
+14
+Act of 2002 (52 U.S.C. 21141). 
+15
+SEC. 802. INITIAL REPORT ON ADEQUACY OF RESOURCES 
+16
+AVAILABLE FOR IMPLEMENTATION. 
+17
+Not later than 120 days after enactment of this Act, 
+18
+the Chairman and the Secretary shall submit a report to 
+19
+the appropriate committees of Congress, including the 
+20
+Committees on Homeland Security and House Adminis-
+21
+tration of the House of Representatives and the Com-
+22
+mittee on Homeland Security and Governmental Affairs 
+23
+of the Senate, analyzing the adequacy of the funding, re-
+24
+02:14 May 22, 2019
+H2660
+80 
+•HR 2660 IH
+sources, and personnel available to carry out this Act and 
+1
+the amendments made by this Act. 
+2
+TITLE IX—SEVERABILITY 
+3
+SEC. 901. SEVERABILITY. 
+4
+If any provision of this Act or amendment made by 
+5
+this Act, or the application of a provision or amendment 
+6
+to any person or circumstance, is held to be unconstitu-
+7
+tional, the remainder of this Act and amendments made 
+8
+by this Act, and the application of the provisions and 
+9
+amendment to any person or circumstance, shall not be 
+10
+affected by the holding. 
+11
+Æ 
+02:14 May 22, 2019
+H2660

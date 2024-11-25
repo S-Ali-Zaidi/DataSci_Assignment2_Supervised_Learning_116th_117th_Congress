@@ -1,0 +1,338 @@
+A BILL 
+To establish the Artificial Intelligence Hygiene Working 
+Group, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Government Owner-
+4
+ship and Oversight of Data in Artificial Intelligence Act 
+5
+of 2022’’ or the ‘‘GOOD AI Act of 2022’’. 
+6
+SEC. 2. PRINCIPLES AND POLICIES FOR USE OF ARTIFICIAL 
+7
+INTELLIGENCE IN GOVERNMENT. 
+8
+(a) DEFINITIONS.—In this Act: 
+9
+05:26 Apr 02, 2022
+H7296
+2 
+•HR 7296 IH
+(1) AGENCY.—The term ‘‘agency’’ has the 
+1
+meaning given the term in section 3502 of title 44, 
+2
+United States Code. 
+3
+(2) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+4
+TEES.—The term ‘‘appropriate congressional com-
+5
+mittees’’ means— 
+6
+(A) the Committee on Homeland Security 
+7
+and Governmental Affairs of the Senate; and 
+8
+(B) the Committee on Oversight and Re-
+9
+form of the House of Representatives. 
+10
+(3) ARTIFICIAL INTELLIGENCE.—The term ‘‘ar-
+11
+tificial intelligence’’ has the meaning given the term 
+12
+in section 238(g) of the John S. McCain National 
+13
+Defense Authorization Act for Fiscal Year 2019 (10 
+14
+U.S.C. 2358 note). 
+15
+(4) ARTIFICIAL INTELLIGENCE SYSTEM.—The 
+16
+term ‘‘artificial intelligence system’’— 
+17
+(A) means any data system, software, ap-
+18
+plication, tool, or utility that operates in whole 
+19
+or in part using dynamic or static machine 
+20
+learning algorithms or other forms of artificial 
+21
+intelligence, including a data system, software, 
+22
+application, tool, or utility— 
+23
+(i) that is established primarily for 
+24
+the purpose of researching, developing, or 
+25
+05:26 Apr 02, 2022
+H7296
+3 
+•HR 7296 IH
+implementing artificial intelligence tech-
+1
+nology; and 
+2
+(ii) for which the artificial intelligence 
+3
+capability is integrated into another system 
+4
+or agency business process, operational ac-
+5
+tivity, or technology system; and 
+6
+(B) does not include any common or com-
+7
+mercial product within which artificial intel-
+8
+ligence is embedded, such as a word processor 
+9
+or map navigation system. 
+10
+(5) DIRECTOR.—The term ‘‘Director’’ means 
+11
+the Director of the Office of Management and Budg-
+12
+et. 
+13
+(b) GUIDANCE FOR AGENCY USE OF ARTIFICIAL IN-
+14
+TELLIGENCE.— 
+15
+(1) IN
+GENERAL.—In developing an update 
+16
+under section 104(d) of the AI in Government Act 
+17
+of 2020 (40 U.S.C. 11301 note) to the memo-
+18
+randum issued under subsection (a) of that section, 
+19
+the Director shall consider— 
+20
+(A) the considerations and recommended 
+21
+practices identified by the National Security 
+22
+Commission on Artificial Intelligence in the re-
+23
+port entitled ‘‘Key Considerations for Respon-
+24
+05:26 Apr 02, 2022
+H7296
+4 
+•HR 7296 IH
+sible Development and Fielding of AI’’, as up-
+1
+dated in April 2021; 
+2
+(B) the principles articulated in Executive 
+3
+Order 13960 (85 Fed. Reg. 78939; relating to 
+4
+promoting the use of trustworthy artificial intel-
+5
+ligence in the Federal Government); and 
+6
+(C) the input of— 
+7
+(i) the Privacy and Civil Liberties 
+8
+Oversight Board; 
+9
+(ii) relevant interagency councils, such 
+10
+as the Federal Privacy Council, the Chief 
+11
+Information Officers Council, and the 
+12
+Chief Data Officers Council; 
+13
+(iii) other governmental and non-
+14
+governmental privacy, civil rights, and civil 
+15
+liberties experts; and 
+16
+(iv) any other individual or entity the 
+17
+Director determines appropriate. 
+18
+(2) SUNSET.—This subsection shall cease to 
+19
+have force or effect on the date that is 4 years after 
+20
+the date of enactment of this Act. 
+21
+(c) ARTIFICIAL INTELLIGENCE HYGIENE AND PRO-
+22
+TECTION
+OF
+GOVERNMENT
+INFORMATION, PRIVACY, 
+23
+CIVIL RIGHTS, AND CIVIL LIBERTIES.— 
+24
+05:26 Apr 02, 2022
+H7296
+5 
+•HR 7296 IH
+(1) ESTABLISHMENT.—Not later than 45 days 
+1
+after the date of enactment of this Act, the Director 
+2
+shall establish a working group to be known as the 
+3
+‘‘Artificial Intelligence Hygiene Working Group’’. 
+4
+(2) MEMBERSHIP.—The Director shall appoint 
+5
+members to the Artificial Intelligence Hygiene Work-
+6
+ing Group from among members of appropriate 
+7
+interagency councils. 
+8
+(3) IMPLEMENTATION.—Not later than 1 year 
+9
+after the date of enactment of this Act, the Director, 
+10
+in consultation with the Artificial Intelligence Hy-
+11
+giene Working Group, shall implement a means by 
+12
+which to— 
+13
+(A) ensure that contracts for the acquisi-
+14
+tion of artificial intelligence and artificial intel-
+15
+ligence systems— 
+16
+(i) 
+align 
+with 
+the 
+memorandum 
+17
+issued, and periodically updated, by the 
+18
+Director under subsections (a) and (d), re-
+19
+spectively, of section 104 of the AI in Gov-
+20
+ernment Act of 2020 (40 U.S.C. 11301 
+21
+note); 
+22
+(ii) address the protection of privacy, 
+23
+civil rights, and civil liberties; 
+24
+05:26 Apr 02, 2022
+H7296
+6 
+•HR 7296 IH
+(iii) address the ownership and secu-
+1
+rity of data and other information created, 
+2
+used, processed, stored, maintained, dis-
+3
+seminated, disclosed, or disposed of by a 
+4
+contractor or subcontractor on behalf of 
+5
+the Federal Government; and 
+6
+(iv) address requirements for securing 
+7
+the training data, algorithms, and other 
+8
+components of any artificial intelligence 
+9
+system against— 
+10
+(I) misuse; 
+11
+(II) unauthorized alteration; 
+12
+(III) degradation; or 
+13
+(IV) being rendered inoperable; 
+14
+and 
+15
+(B) address any other issue or concern the 
+16
+Director determines relevant to ensure— 
+17
+(i) the appropriate use of artificial in-
+18
+telligence and artificial intelligence sys-
+19
+tems; and 
+20
+(ii) the protection of privacy, Federal 
+21
+Government data, and other information of 
+22
+the Federal Government. 
+23
+(4) APPROACHES.—In carrying out paragraph 
+24
+(3), the Director may use 1 or more approach and 
+25
+05:26 Apr 02, 2022
+H7296
+7 
+•HR 7296 IH
+tailor requirements based on risk or any other factor 
+1
+determined relevant by the Director and the Artifi-
+2
+cial Intelligence Hygiene Working Group. 
+3
+(5) UPDATES.—On a continuous basis, not 
+4
+later than 2 years after the date of enactment of 
+5
+this Act, and not less frequently than once every 2 
+6
+years thereafter, the Director shall update the 
+7
+means implemented under paragraph (3). 
+8
+(6) BRIEFING.—Not later than 90 days after 
+9
+the date of enactment of this Act, quarterly there-
+10
+after until the date on which the Director imple-
+11
+ments the means required under paragraph (3), and 
+12
+annually thereafter, the Director shall brief the ap-
+13
+propriate congressional committees on the implemen-
+14
+tation of this subsection. 
+15
+(7) SUNSET.—This subsection shall cease to 
+16
+have force or effect on the date that is 10 years 
+17
+after the date of enactment of this Act. 
+18
+Æ 
+05:26 Apr 02, 2022
+H7296

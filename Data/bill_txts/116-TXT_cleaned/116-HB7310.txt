@@ -1,0 +1,614 @@
+A BILL 
+To require the Assistant Secretary of Commerce for Commu-
+nications and Information to submit to Congress a plan 
+for the modernization of the information technology sys-
+tems of the National Telecommunications and Informa-
+tion Administration, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Spectrum IT Mod-
+4
+ernization Act of 2020’’. 
+5
+21:45 Jul 08, 2020
+H7310
+2 
+•HR 7310 IH
+SEC. 2. MODERNIZATION EFFORT. 
+1
+(a) DEFINITIONS.—In this section— 
+2
+(1) the term ‘‘Assistant Secretary’’ means the 
+3
+Assistant Secretary of Commerce for Communica-
+4
+tions and Information; 
+5
+(2) the term ‘‘covered agency’’— 
+6
+(A) means any Federal entity that the As-
+7
+sistant Secretary determines is appropriate; and 
+8
+(B) includes the Department of Defense; 
+9
+(3) the term ‘‘Federal entity’’ has the meaning 
+10
+given the term in section 113(l) of the National 
+11
+Telecommunications and Information Administration 
+12
+Organization Act (47 U.S.C. 923(l)); 
+13
+(4) the term ‘‘Federal spectrum’’ means fre-
+14
+quencies assigned on a primary basis to a covered 
+15
+agency; 
+16
+(5) the term ‘‘infrastructure’’ means informa-
+17
+tion technology systems and information tech-
+18
+nologies, tools, and databases; and 
+19
+(6) the term ‘‘NTIA’’ means the National Tele-
+20
+communications and Information Administration. 
+21
+(b) INITIAL INTERAGENCY SPECTRUM INFORMATION 
+22
+TECHNOLOGY COORDINATION.—Not later than 90 days 
+23
+after the date of enactment of this Act, the Assistant Sec-
+24
+retary, in consultation with the Policy and Plans Steering 
+25
+Group, shall identify a process to establish goals, including 
+26
+21:45 Jul 08, 2020
+H7310
+3 
+•HR 7310 IH
+parameters to measure the achievement of those goals, for 
+1
+the modernization of the infrastructure of covered agen-
+2
+cies relating to managing the use of Federal spectrum by 
+3
+those agencies, which shall include— 
+4
+(1) the standardization of data inputs, modeling 
+5
+algorithms, modeling and simulation processes, anal-
+6
+ysis tools with respect to Federal spectrum, assump-
+7
+tions, and any other tool to ensure interoperability 
+8
+and functionality with respect to that infrastructure; 
+9
+(2) other potential innovative technological ca-
+10
+pabilities with respect to that infrastructure, includ-
+11
+ing cloud-based databases, artificial intelligence tech-
+12
+nologies, automation, and improved modeling and 
+13
+simulation capabilities; 
+14
+(3) ways to improve the management of covered 
+15
+agencies’ use of Federal spectrum through that in-
+16
+frastructure, including by— 
+17
+(A) increasing the efficiency of that infra-
+18
+structure; 
+19
+(B) addressing validation of usage with re-
+20
+spect to that infrastructure; 
+21
+(C) increasing the accuracy of that infra-
+22
+structure; 
+23
+(D) validating models used by that infra-
+24
+structure; and 
+25
+21:45 Jul 08, 2020
+H7310
+4 
+•HR 7310 IH
+(E) monitoring and enforcing requirements 
+1
+that are imposed on covered agencies with re-
+2
+spect to the use of Federal spectrum by covered 
+3
+agencies; 
+4
+(4) ways to improve the ability of covered agen-
+5
+cies to meet mission requirements in congested envi-
+6
+ronments with respect to Federal spectrum, includ-
+7
+ing as part of automated adjustments to operations 
+8
+based on changing conditions in those environments; 
+9
+(5) the creation of a time-based automated 
+10
+mechanism— 
+11
+(A) to share Federal spectrum between 
+12
+covered agencies to collaboratively and dynami-
+13
+cally increase access to Federal spectrum by 
+14
+those agencies; and 
+15
+(B) that could be scaled across Federal 
+16
+spectrum; and 
+17
+(6) the collaboration between covered agencies 
+18
+necessary to ensure the interoperability of Federal 
+19
+spectrum. 
+20
+(c) SPECTRUM INFORMATION TECHNOLOGY MOD-
+21
+ERNIZATION.— 
+22
+(1) IN
+GENERAL.—Not later than 240 days 
+23
+after the date of enactment of this Act, the Assist-
+24
+ant Secretary shall submit to Congress a report that 
+25
+21:45 Jul 08, 2020
+H7310
+5 
+•HR 7310 IH
+contains the plan of the NTIA to modernize and 
+1
+automate the infrastructure of the NTIA relating to 
+2
+managing the use of Federal spectrum by covered 
+3
+agencies so as to more efficiently manage that use. 
+4
+(2) CONTENTS.—The report required under 
+5
+paragraph (1) shall include— 
+6
+(A) an assessment of the current, as of the 
+7
+date on which the report is submitted, infra-
+8
+structure of the NTIA described in that para-
+9
+graph; 
+10
+(B) an acquisition strategy for the modern-
+11
+ized infrastructure of the NTIA described in 
+12
+that paragraph, including how that modernized 
+13
+infrastructure will enable covered agencies to be 
+14
+more efficient and effective in the use of Fed-
+15
+eral spectrum; 
+16
+(C) a timeline for the implementation of 
+17
+the modernization efforts described in that 
+18
+paragraph; 
+19
+(D) plans detailing how the modernized in-
+20
+frastructure of the NTIA described in that 
+21
+paragraph will— 
+22
+(i) enhance the security and reliability 
+23
+of that infrastructure so that such infra-
+24
+structure satisfies the requirements of the 
+25
+21:45 Jul 08, 2020
+H7310
+6 
+•HR 7310 IH
+Federal Information Security Management 
+1
+Act of 2002 (Public Law 107–296; 116 
+2
+Stat. 2135); 
+3
+(ii) improve data models and analysis 
+4
+tools to increase the efficiency of the spec-
+5
+trum use described in that paragraph; 
+6
+(iii) enhance automation and work-
+7
+flows, and reduce the scope and level of 
+8
+manual effort, in order to— 
+9
+(I) administer the management 
+10
+of the spectrum use described in that 
+11
+paragraph; and 
+12
+(II) improve data quality and 
+13
+processing time; and 
+14
+(iv) improve the timeliness of spec-
+15
+trum analyses and requests for informa-
+16
+tion, including requests submitted pursu-
+17
+ant to section 552 of title 5, United States 
+18
+Code; 
+19
+(E) an operations and maintenance plan 
+20
+with respect to the modernized infrastructure of 
+21
+the NTIA described in that paragraph; 
+22
+(F) a strategy for coordination between the 
+23
+covered agencies within the Policy and Plans 
+24
+Steering Group, which shall include— 
+25
+21:45 Jul 08, 2020
+H7310
+7 
+•HR 7310 IH
+(i) a description of— 
+1
+(I) those coordination efforts, as 
+2
+in effect on the date on which the re-
+3
+port is submitted; and 
+4
+(II) a plan for coordination of 
+5
+those efforts after the date on which 
+6
+the report is submitted, including with 
+7
+respect to the efforts described in sub-
+8
+section (d); 
+9
+(ii) a plan for standardizing— 
+10
+(I) 
+electromagnetic 
+spectrum 
+11
+analysis tools; 
+12
+(II) modeling and simulation 
+13
+processes and technologies; and 
+14
+(III) databases to provide tech-
+15
+nical interference assessments that 
+16
+are usable across the Federal Govern-
+17
+ment as part of a common spectrum 
+18
+management infrastructure for cov-
+19
+ered agencies; 
+20
+(iii) a plan for each covered agency to 
+21
+implement a modernization plan described 
+22
+in subsection (d)(1) that is tailored to the 
+23
+particular timeline of the agency; 
+24
+21:45 Jul 08, 2020
+H7310
+8 
+•HR 7310 IH
+(G) identification of manually intensive 
+1
+processes involved in managing Federal spec-
+2
+trum and proposed enhancements to those proc-
+3
+esses; 
+4
+(H) metrics to evaluate the success of the 
+5
+modernization efforts described in that para-
+6
+graph and any similar future efforts; and 
+7
+(I) an estimate of the cost of the mod-
+8
+ernization efforts described in that paragraph 
+9
+and any future maintenance with respect to the 
+10
+modernized infrastructure of the NTIA de-
+11
+scribed in that paragraph, including the cost of 
+12
+any personnel and equipment relating to that 
+13
+maintenance. 
+14
+(d) INTERAGENCY INPUTS.— 
+15
+(1) IN GENERAL.—Not later than 1 year after 
+16
+the date of enactment of this Act, the head of each 
+17
+covered agency shall submit to the Assistant Sec-
+18
+retary and the Policy and Plans Steering Group a 
+19
+report that describes the plan of the agency to mod-
+20
+ernize the infrastructure of the agency with respect 
+21
+to the use of Federal spectrum by the agency so that 
+22
+such modernized infrastructure of the agency is 
+23
+interoperable with the modernized infrastructure of 
+24
+the NTIA, as described in subsection (c). 
+25
+21:45 Jul 08, 2020
+H7310
+9 
+•HR 7310 IH
+(2) CONTENTS.—Each report submitted by the 
+1
+head of a covered agency under paragraph (1) 
+2
+shall— 
+3
+(A) include— 
+4
+(i) an assessment of the current, as of 
+5
+the date on which the report is submitted, 
+6
+management capabilities of the agency 
+7
+with respect to the use of frequencies that 
+8
+are assigned to the agency, which shall in-
+9
+clude a description of any challenges faced 
+10
+by the agency with respect to that manage-
+11
+ment; 
+12
+(ii) a timeline for completion of the 
+13
+modernization efforts described in that 
+14
+paragraph; 
+15
+(iii) a description of potential innova-
+16
+tive technological capabilities for the man-
+17
+agement of frequencies that are assigned 
+18
+to the agency, as determined under sub-
+19
+section (b); 
+20
+(iv) identification of agency-specific 
+21
+requirements or constraints relating to the 
+22
+infrastructure of the agency; 
+23
+(v) identification of any existing, as of 
+24
+the date on which the report is submitted, 
+25
+21:45 Jul 08, 2020
+H7310
+10 
+•HR 7310 IH
+systems of the agency that are duplicative 
+1
+of the modernized infrastructure of the 
+2
+NTIA, as proposed under subsection (c); 
+3
+and 
+4
+(vi) with respect to the report sub-
+5
+mitted by the Secretary of Defense— 
+6
+(I) a strategy for the integration 
+7
+of systems or the flow of data among 
+8
+the Armed Forces, the military de-
+9
+partments, the Defense Agencies and 
+10
+Department of Defense Field Activi-
+11
+ties, and other components of the De-
+12
+partment of Defense; 
+13
+(II) a plan for the implementa-
+14
+tion of solutions to the use of Federal 
+15
+spectrum by the Department of De-
+16
+fense involving information at multiple 
+17
+levels of classification; and 
+18
+(III) a strategy for addressing, 
+19
+within the modernized infrastructure 
+20
+of the Department of Defense de-
+21
+scribed in that paragraph, the ex-
+22
+change of information between the 
+23
+Department of Defense and the NTIA 
+24
+in order to accomplish required proc-
+25
+21:45 Jul 08, 2020
+H7310
+11 
+•HR 7310 IH
+essing of all Department of Defense 
+1
+domestic spectrum coordination and 
+2
+management activities; and 
+3
+(B) be submitted in an unclassified format, 
+4
+with a classified annex, as appropriate. 
+5
+(3) NOTIFICATION OF CONGRESS.—Upon sub-
+6
+mission of the report required under paragraph (1), 
+7
+the head of each covered agency shall notify Con-
+8
+gress that the head of the covered agency has sub-
+9
+mitted the report. 
+10
+(e) GAO OVERSIGHT.—The Comptroller General of 
+11
+the United States shall— 
+12
+(1) not later than 90 days after the date of en-
+13
+actment of this Act, conduct a review of the infra-
+14
+structure of covered agencies, as that infrastructure 
+15
+exists on the date of enactment of this Act; 
+16
+(2) after all of the reports required under sub-
+17
+section (d) have been submitted, conduct oversight 
+18
+of the implementation of the modernization plans 
+19
+submitted by the NTIA and covered agencies under 
+20
+subsections (c) and (d), respectively; 
+21
+(3) not later than 1 year after the date on 
+22
+which the Comptroller General begins conducting 
+23
+oversight under paragraph (2), and annually there-
+24
+after, submit a report regarding that oversight to— 
+25
+21:45 Jul 08, 2020
+H7310
+12 
+•HR 7310 IH
+(A) with respect to the implementation of 
+1
+the modernization plan of the Department of 
+2
+Defense, the Committee on Armed Services of 
+3
+the Senate and the Committee on Armed Serv-
+4
+ices of the House of Representatives; and 
+5
+(B) with respect to the implementation of 
+6
+the modernization plans of all covered agencies, 
+7
+including the Department of Defense, the Com-
+8
+mittee on Commerce, Science, and Transpor-
+9
+tation of the Senate and the Committee on En-
+10
+ergy and Commerce of the House of Represent-
+11
+atives; and 
+12
+(4) provide regular briefings to— 
+13
+(A) with respect to the application of this 
+14
+section to the Department of Defense, the Com-
+15
+mittee on Armed Services of the Senate and the 
+16
+Committee on Armed Services of the House of 
+17
+Representatives; and 
+18
+(B) with respect to the application of this 
+19
+section to all covered agencies, including the 
+20
+Department of Defense, the Committee on 
+21
+Commerce, Science, and Transportation of the 
+22
+Senate and the Committee on Energy and Com-
+23
+merce of the House of Representatives. 
+24
+Æ 
+21:45 Jul 08, 2020
+H7310

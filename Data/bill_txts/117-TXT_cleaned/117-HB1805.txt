@@ -1,0 +1,2305 @@
+A BILL 
+To amend the Clean Air Act to establish a tradeable perform-
+ance standard covering emissions from the electricity 
+generation and industrial sectors, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Tradeable Perform-
+4
+ance Standard Act’’. 
+5
+SEC. 2. TABLE OF CONTENTS. 
+6
+The table of contents for this Act is as follows: 
+7
+Sec. 1. Short title. 
+Sec. 2. Table of contents. 
+Sec. 3. Combating the climate crisis. 
+18:38 May 11, 2021
+H1805
+2 
+•HR 1805 IH
+‘‘TITLE VII—GREENHOUSE GAS POLLUTION REDUCTION 
+PROGRAM 
+‘‘PART A—GLOBAL WARMING POLLUTION REDUCTION TARGETS 
+‘‘Sec. 701. Definitions. 
+‘‘Sec. 702. Reduction targets for covered entities. 
+‘‘PART B—DESIGNATION OF GREENHOUSE GASES AND THERMAL ENERGY 
+REPORTING PROGRAM 
+‘‘Sec. 711. Greenhouse gases. 
+‘‘Sec. 712. Carbon dioxide equivalent value of greenhouse gases. 
+‘‘Sec. 713. Thermal energy reporting program. 
+‘‘Sec. 714. EIA and EPA reporting. 
+‘‘PART C—PROGRAM RULES 
+‘‘Sec. 721. Requirements. 
+‘‘Sec. 722. Distribution of emission allowances. 
+‘‘Sec. 723. Trading. 
+‘‘Sec. 724. Voluntary program participation. 
+‘‘Sec. 725. Penalty for noncompliance. 
+‘‘Sec. 726. Emission allowance tracking system. 
+‘‘Sec. 727. Other program rules. 
+‘‘Sec. 728. Oversight. 
+‘‘Sec. 729. Regulations. 
+‘‘Sec. 730. Savings provisions. 
+SEC. 3. COMBATING THE CLIMATE CRISIS. 
+1
+The Clean Air Act (42 U.S.C. et seq.) is amended 
+2
+by adding after title VI the following new title: 
+3
+‘‘TITLE VII—GREENHOUSE GAS 
+4
+5
+GRAM 
+6
+‘‘PART A—GLOBAL WARMING POLLUTION 
+7
+REDUCTION TARGETS 
+8
+‘‘SEC. 701. DEFINITIONS. 
+9
+‘‘In this title: 
+10
+‘‘(1) AVERAGE CARBON INTENSITY FOR QUALI-
+11
+FIED
+ELECTRIC
+FACILITIES.—The term ‘average 
+12
+carbon intensity for qualified electric facilities’ 
+13
+18:38 May 11, 2021
+H1805
+3 
+•HR 1805 IH
+means the number that equals the total amount of 
+1
+greenhouse gas emissions in metric tons of carbon 
+2
+dioxide equivalent emitted from qualified electric fa-
+3
+cilities in a calendar year as reported under section 
+4
+714 divided by the total quantity of megawatt hours 
+5
+of electricity produced by qualified electric facilities 
+6
+in such calendar year as reported under section 714. 
+7
+‘‘(2) AVERAGE CARBON INTENSITY FOR QUALI-
+8
+FIED THERMAL FACILITIES.—The term ‘average car-
+9
+bon intensity for qualified thermal facilities’ means 
+10
+the number that equals the total amount of green-
+11
+house gas emissions in metric tons of carbon dioxide 
+12
+equivalent emitted from qualified thermal facilities 
+13
+in a calendar year as reported under section 713 di-
+14
+vided by the total quantity of useful thermal energy 
+15
+output from qualified thermal facilities in such cal-
+16
+endar year as reported under section 713. 
+17
+‘‘(3) BOTTOMING CYCLE COGENERATION GEN-
+18
+ERATOR.—The term ‘bottoming cycle cogeneration 
+19
+generator’ means any generator that produces elec-
+20
+tricity from otherwise-wasted heat, pressure, or both, 
+21
+using any of the following technologies: 
+22
+‘‘(A) An organic Rankine cycle. 
+23
+‘‘(B) A waste-heat recovery steam gener-
+24
+ator. 
+25
+18:38 May 11, 2021
+H1805
+4 
+•HR 1805 IH
+‘‘(C) A back pressure steam turbine. 
+1
+‘‘(D) A Stirling engine. 
+2
+‘‘(4) 
+CARBON
+DIOXIDE
+EQUIVALENT.—The 
+3
+term ‘carbon dioxide equivalent’ means the unit of 
+4
+measure, expressed in metric tons, of greenhouse 
+5
+gases, as provided under section 712. 
+6
+‘‘(5) COVERED ENTITY.—The term ‘covered en-
+7
+tity’ means each of the following: 
+8
+‘‘(A) A qualified cogeneration facility. 
+9
+‘‘(B) A qualified electric facility. 
+10
+‘‘(C) A qualified thermal facility. 
+11
+‘‘(6) 
+DESIGNATED
+REPRESENTATIVE.—The 
+12
+term ‘designated representative’ means, with respect 
+13
+to a covered entity, a thermal reporting entity, or 
+14
+any other entity receiving or holding emission allow-
+15
+ances under this title, an individual authorized, 
+16
+through a certificate of representation submitted to 
+17
+the Administrator by the owners and operators, to 
+18
+represent the owners and operators in all matters 
+19
+pertaining to this title (including the holding, trans-
+20
+fer, or disposition of emission allowances), and to 
+21
+make all submissions to the Administrator under 
+22
+this title. 
+23
+‘‘(7) EMISSION ALLOWANCE.—The term ‘emis-
+24
+sion allowance’ means a limited authorization to 
+25
+18:38 May 11, 2021
+H1805
+5 
+•HR 1805 IH
+emit, in an amount of, 1 metric ton of carbon diox-
+1
+ide equivalent of a greenhouse gas in accordance 
+2
+with this title. 
+3
+‘‘(8) FUEL-BASED CAPACITY.—The term ‘fuel- 
+4
+based capacity’ means— 
+5
+‘‘(A) for generators that produce useful 
+6
+thermal energy output with the combustion of 
+7
+fuel, the peak fuel combustion rate; and 
+8
+‘‘(B) for generators that produce useful 
+9
+thermal energy output without the combustion 
+10
+of fuel, the peak useful thermal energy output 
+11
+rate divided by 0.7. 
+12
+‘‘(9) GREENHOUSE GAS.—The term ‘greenhouse 
+13
+gas’ means any gas listed in section 711. 
+14
+‘‘(10) GREENHOUSE GAS EMISSION.—The term 
+15
+‘greenhouse gas emission’ means the release of a 
+16
+greenhouse gas into the ambient air. 
+17
+‘‘(11) HOLD.—The term ‘hold’ means, with re-
+18
+spect to an emission allowance, to have in the appro-
+19
+priate account created pursuant to the process under 
+20
+section 726(2). 
+21
+‘‘(12) QUALIFIED COGENERATION FACILITY.— 
+22
+The term ‘qualified cogeneration facility’ means any 
+23
+generator that simultaneously produces useful ther-
+24
+mal energy output and electricity and— 
+25
+18:38 May 11, 2021
+H1805
+6 
+•HR 1805 IH
+‘‘(A) has a rated capacity of 2 megawatts 
+1
+or greater; or 
+2
+‘‘(B) is classified as a qualified cogenera-
+3
+tion facility pursuant to section 724(c). 
+4
+‘‘(13) QUALIFIED
+ELECTRIC
+FACILITY.—The 
+5
+term ‘qualified electric facility’ means any generator 
+6
+that produces electricity, including a bottoming cycle 
+7
+cogeneration generator— 
+8
+‘‘(A) with a rated capacity of 2 megawatts 
+9
+or greater; or 
+10
+‘‘(B) with a rated capacity of less than 2 
+11
+megawatts that is classified as a qualified elec-
+12
+tric facility pursuant to section 724(a). 
+13
+‘‘(14) QUALIFIED
+THERMAL
+FACILITY.—The 
+14
+term ‘qualified thermal facility’ means any generator 
+15
+that produces thermal energy— 
+16
+‘‘(A) with a rated fuel-based capacity of at 
+17
+least 50,000,000 British thermal units on a 
+18
+higher heating value basis per hour or greater, 
+19
+excluding any generator producing useful ther-
+20
+mal energy output that the Administrator de-
+21
+termines is used to wholly or partially provide 
+22
+carbon as a chemical ingredient for a process to 
+23
+manufacture goods; or 
+24
+18:38 May 11, 2021
+H1805
+7 
+•HR 1805 IH
+‘‘(B) with a rated fuel-based capacity of 
+1
+less than 50,000,000 British thermal units on 
+2
+a higher heating value basis per hour that is 
+3
+classified as a qualified thermal facility pursu-
+4
+ant to section 724(b). 
+5
+‘‘(15) THERMAL
+REPORTING
+ENTITY.—The 
+6
+term ‘thermal reporting entity’ means— 
+7
+‘‘(A) a qualified thermal facility; 
+8
+‘‘(B) a qualified cogeneration facility; 
+9
+‘‘(C) any generator that produces useful 
+10
+thermal energy output with a rated fuel-based 
+11
+capacity of at least 30,000,000 British thermal 
+12
+units on a higher heating value basis per hour, 
+13
+but less than 50,000,000 British thermal units 
+14
+on a higher heating value basis per hour; or 
+15
+‘‘(D) any other entity that produces or de-
+16
+livers useful thermal energy output the produc-
+17
+tion or delivery of which results or may result 
+18
+in greenhouse gas emissions if the Adminis-
+19
+trator determines that reporting under section 
+20
+713 by such entity will help achieve the targets 
+21
+specified in section 702. 
+22
+‘‘(16) USEFUL THERMAL ENERGY OUTPUT.— 
+23
+The term ‘useful thermal energy output’ means ther-
+24
+mal energy as measured in million British thermal 
+25
+18:38 May 11, 2021
+H1805
+8 
+•HR 1805 IH
+units on a higher heating value basis produced by a 
+1
+generator that produces thermal energy net of the 
+2
+energy in inlet combustion air, feedwater, or any 
+3
+other fluids not used as fuels of combustion. 
+4
+‘‘SEC. 702. REDUCTION TARGETS FOR COVERED ENTITIES. 
+5
+‘‘(a) IN GENERAL.—The regulations issued under 
+6
+section 729 shall establish enforceable targets for the 
+7
+greenhouse gas emissions of covered entities, such that— 
+8
+‘‘(1) in 2030, the aggregate quantity of green-
+9
+house gas emissions from covered entities does not 
+10
+exceed 60 percent of the aggregate quantity of 
+11
+greenhouse gas emissions from covered entities in 
+12
+2019; and 
+13
+‘‘(2) in 2040, the aggregate quantity of green-
+14
+house gas emissions from covered entities does not 
+15
+exceed zero. 
+16
+‘‘(b) DEFINITION.—For purposes of this section, the 
+17
+term ‘greenhouse gas emissions from covered entities in 
+18
+2019’ means greenhouse gas emissions to which section 
+19
+721 would have applied if the requirements of this title 
+20
+for the specified year had been in effect for 2019. 
+21
+18:38 May 11, 2021
+H1805
+9 
+•HR 1805 IH
+‘‘PART B—DESIGNATION OF GREENHOUSE GASES 
+1
+AND THERMAL ENERGY REPORTING PROGRAM 
+2
+‘‘SEC. 711. GREENHOUSE GASES. 
+3
+‘‘For purposes of this title, the following are green-
+4
+house gases: 
+5
+‘‘(1) Carbon dioxide. 
+6
+‘‘(2) Methane. 
+7
+‘‘(3) Nitrous oxide. 
+8
+‘‘(4) Sulfur hexafluoride. 
+9
+‘‘(5) Any perfluorocarbon. 
+10
+‘‘(6) Nitrogen trifluoride. 
+11
+‘‘SEC. 712. CARBON DIOXIDE EQUIVALENT VALUE OF 
+12
+GREENHOUSE GASES. 
+13
+‘‘(a) IN GENERAL.—Any provision of this title that 
+14
+refers to a quantity or percentage of a quantity of a green-
+15
+house gas shall be treated as a reference to the quantity 
+16
+or percentage of the greenhouse gas expressed in carbon 
+17
+dioxide equivalents. 
+18
+‘‘(b) VALUES.—Except as provided by the Adminis-
+19
+trator under subsection (c), for the purposes of this title, 
+20
+the carbon dioxide equivalent value of a greenhouse gas 
+21
+shall be equal to the 100-year global warming potential 
+22
+for such greenhouse gas that is provided in the Fifth As-
+23
+sessment Report of the Intergovernmental Panel on Cli-
+24
+mate Change. 
+25
+18:38 May 11, 2021
+H1805
+10 
+•HR 1805 IH
+‘‘(c) USE OF 20-YEAR GLOBAL WARMING POTEN-
+1
+TIAL.—If the Administrator determines that it is more ap-
+2
+propriate for a greenhouse gas and the 20-year global 
+3
+warming potential for such greenhouse gas that is pro-
+4
+vided in the Fifth Assessment Report of the Intergovern-
+5
+mental Panel on Climate Change exceeds the 100-year 
+6
+global warming potential for such greenhouse gas that is 
+7
+provided in the Fifth Assessment Report of the Intergov-
+8
+ernmental Panel on Climate Change, the Administrator 
+9
+may publish a determination in the Federal Register that 
+10
+such greenhouse gas has a carbon dioxide equivalent value 
+11
+equal to the 20-year global warming potential for such 
+12
+greenhouse gas that is provided in the Fifth Assessment 
+13
+Report of the Intergovernmental Panel on Climate 
+14
+Change. 
+15
+‘‘SEC. 713. THERMAL ENERGY REPORTING PROGRAM. 
+16
+‘‘(a) REGULATIONS.—Not later than 18 months after 
+17
+the date of enactment of this title, the Administrator shall 
+18
+issue regulations establishing a program, to be known as 
+19
+the Federal thermal energy reporting program. Such regu-
+20
+lations shall— 
+21
+‘‘(1) require each thermal reporting entity to 
+22
+submit to the Administrator data on— 
+23
+18:38 May 11, 2021
+H1805
+11 
+•HR 1805 IH
+‘‘(A) the type, quality, and quantity of fuel 
+1
+used for onsite useful thermal energy output 
+2
+production by such thermal reporting entity; 
+3
+‘‘(B) the quantity of useful thermal energy 
+4
+output produced by such thermal reporting en-
+5
+tity as calculated pursuant to subsection (e); 
+6
+and 
+7
+‘‘(C) the quantity of greenhouse gas emis-
+8
+sions associated with such useful thermal en-
+9
+ergy output production; 
+10
+‘‘(2) require thermal reporting entities to sub-
+11
+mit to the Administrator data sufficient to ensure 
+12
+compliance with or implementation of the require-
+13
+ments of this title; 
+14
+‘‘(3) ensure the completeness, consistency, 
+15
+transparency, accuracy, precision, and reliability of 
+16
+data gathered under the Federal thermal energy re-
+17
+porting program; 
+18
+‘‘(4) include methods for avoiding double re-
+19
+porting to the maximum extent possible; 
+20
+‘‘(5) require that thermal reporting entities pro-
+21
+vide the data required in this section in reports sub-
+22
+mitted electronically to the Administrator, in such 
+23
+form and containing such information as may be re-
+24
+quired by the Administrator; 
+25
+18:38 May 11, 2021
+H1805
+12 
+•HR 1805 IH
+‘‘(6) include requirements for keeping records 
+1
+supporting or related to, and protocols for auditing, 
+2
+data submitted under the Federal thermal energy re-
+3
+porting program; 
+4
+‘‘(7) establish consistent policies for calculating 
+5
+carbon content and greenhouse gas emissions for 
+6
+any type of fuel for which data is submitted under 
+7
+the Federal thermal energy reporting program; 
+8
+‘‘(8) provide for immediate dissemination, to 
+9
+States and Indian Tribes, of all data reported under 
+10
+the Federal thermal energy reporting program as 
+11
+soon as practicable after electronic audit by the Ad-
+12
+ministrator and any resulting correction of data, ex-
+13
+cept that data shall not be disseminated under this 
+14
+paragraph if— 
+15
+‘‘(A) nondissemination of the data is vital 
+16
+to the national security of the United States, as 
+17
+determined by the President; or 
+18
+‘‘(B) the data is confidential business in-
+19
+formation that cannot be derived from informa-
+20
+tion that is otherwise publicly available and that 
+21
+would cause significant calculable competitive 
+22
+harm if published, except that data that is con-
+23
+fidential business information shall be provided 
+24
+to a State or Indian Tribe within whose juris-
+25
+18:38 May 11, 2021
+H1805
+13 
+•HR 1805 IH
+diction the thermal reporting entity is located if 
+1
+the Administrator determines that such State 
+2
+or Indian Tribe has in effect protections for 
+3
+confidential business information that are at 
+4
+least as protective as protections applicable to 
+5
+the Federal Government; 
+6
+‘‘(9) provide that the Administrator publish an 
+7
+aggregate summary of all data reported under the 
+8
+Federal thermal energy reporting program publicly 
+9
+on the internet as soon as practicable after elec-
+10
+tronic audit by the Administrator and any resulting 
+11
+correction of data, including publication of— 
+12
+‘‘(A) any confidential business data under 
+13
+paragraph (8)(B); and 
+14
+‘‘(B) at the discretion of the President, 
+15
+data the nondissemination of which was deter-
+16
+mined to be vital to the national security of the 
+17
+United States under paragraph (8)(A); 
+18
+‘‘(10) prescribe methods by which the Adminis-
+19
+trator shall, in cases in which satisfactory data are 
+20
+not submitted by a thermal reporting entity under 
+21
+the Federal thermal energy reporting program to the 
+22
+Administrator for any period of time, estimate the 
+23
+data for such thermal reporting entity required 
+24
+under paragraph (1) with— 
+25
+18:38 May 11, 2021
+H1805
+14 
+•HR 1805 IH
+‘‘(A) in the case of a thermal reporting en-
+1
+tity that is a qualified thermal facility or a 
+2
+qualified cogeneration facility, an estimate of 
+3
+the highest greenhouse gas emission levels that 
+4
+may have occurred during the period for which 
+5
+data are missing; or 
+6
+‘‘(B) in the case of any other thermal re-
+7
+porting entity, a reasonable estimate of the 
+8
+greenhouse gas emission levels that may have 
+9
+occurred during the period for which data are 
+10
+missing; 
+11
+‘‘(11) require the designation of a designated 
+12
+representative for each thermal reporting entity; 
+13
+‘‘(12) require an appropriate certification, by 
+14
+the designated representative for the thermal report-
+15
+ing entity, of accurate and complete accounting of 
+16
+the data required under paragraph (1), as deter-
+17
+mined by the Administrator; and 
+18
+‘‘(13) include requirements for the submission 
+19
+of other data necessary for accurate and complete 
+20
+accounting of the quantity of useful thermal energy 
+21
+output, and the quantity of greenhouse gas emis-
+22
+sions associated with such useful thermal energy 
+23
+output production, as determined by the Adminis-
+24
+18:38 May 11, 2021
+H1805
+15 
+•HR 1805 IH
+trator, including data for quality assurance of moni-
+1
+toring systems and other measurement devices. 
+2
+‘‘(b) TIMING.— 
+3
+‘‘(1) CALENDAR YEARS 2019 THROUGH 2022.— 
+4
+‘‘(A) IN GENERAL.—Not later than March 
+5
+21, 2023, each thermal reporting entity shall 
+6
+submit to the Administrator data required 
+7
+under the Federal thermal energy reporting 
+8
+program with respect to each of calendar years 
+9
+2019 through 2022. 
+10
+‘‘(B) WAIVER
+OR
+MODIFICATION.—The 
+11
+Administrator may waive or modify reporting 
+12
+requirements for calendar years 2019 through 
+13
+2022 for thermal reporting entities to the ex-
+14
+tent that the Administrator determines that the 
+15
+thermal reporting entities did not keep data or 
+16
+records necessary to meet such reporting re-
+17
+quirements. The Administrator may, in addition 
+18
+to or in lieu of such reporting requirements, col-
+19
+lect additional information on energy consump-
+20
+tion and production. 
+21
+‘‘(2) SUBSEQUENT
+CALENDAR
+YEARS.—With 
+22
+respect to calendar year 2023 and each subsequent 
+23
+calendar year, each thermal reporting entity shall 
+24
+submit quarterly data required under the Federal 
+25
+18:38 May 11, 2021
+H1805
+16 
+•HR 1805 IH
+thermal energy reporting program to the Adminis-
+1
+trator not later than 60 days after the end of the 
+2
+applicable quarter, except when the data is already 
+3
+being reported to the Administrator on an earlier 
+4
+timeframe for another program. 
+5
+‘‘(c) WAIVER OF REPORTING REQUIREMENTS FOR 
+6
+SPECIFIC ENTITIES.—The Administrator may waive re-
+7
+porting requirements under this section for specific enti-
+8
+ties to the extent that the Administrator determines that 
+9
+sufficient and equally or more reliable verified and timely 
+10
+data are available to the Administrator and the public 
+11
+under other statutory requirements. 
+12
+‘‘(d) INTERRELATIONSHIP WITH OTHER SYSTEMS.— 
+13
+‘‘(1) IN GENERAL.—In developing the regula-
+14
+tions issued under subsection (a), the Administrator 
+15
+shall take into account the work done by the Energy 
+16
+Information Administration and other mandatory 
+17
+Federal, State, or multistate programs to collect in-
+18
+formation that is similar to the information to be 
+19
+collected under this section. 
+20
+‘‘(2) EXPLANATION.—Regulations issued under 
+21
+subsection (a) shall include an explanation of any 
+22
+major differences in information collected between 
+23
+the Federal thermal energy reporting program and 
+24
+information available from the Energy Information 
+25
+18:38 May 11, 2021
+H1805
+17 
+•HR 1805 IH
+Administration and other mandatory Federal, State, 
+1
+or multistate programs to collect similar informa-
+2
+tion. 
+3
+‘‘(e) CALCULATION OF USEFUL THERMAL ENERGY 
+4
+OUTPUT.—The Administrator and thermal reporting enti-
+5
+ties shall— 
+6
+‘‘(1) in the case of thermal reporting entities 
+7
+that have revenue-grade send out meters, calculate 
+8
+useful thermal energy output by using the data pro-
+9
+vided by those meters; and 
+10
+‘‘(2) in the case of thermal reporting entities 
+11
+that do not have such meters, or that have such me-
+12
+ters but for which the Administrator determines that 
+13
+the values obtained by calculating useful thermal en-
+14
+ergy output under paragraph (1) are unreasonable, 
+15
+calculate useful thermal energy output based on the 
+16
+metered fuel use for a given quarter multiplied by 
+17
+the average conversion efficiency of fuel to useful 
+18
+thermal energy output in all other similarly situated 
+19
+facilities using the same fuel. 
+20
+‘‘SEC. 714. EIA AND EPA REPORTING. 
+21
+‘‘(a) IN GENERAL.—Beginning with calendar year 
+22
+2023, by the end of each month, the Administrator of the 
+23
+Energy Information Administration shall provide to the 
+24
+Administrator of the Environmental Protection Agency in-
+25
+18:38 May 11, 2021
+H1805
+18 
+•HR 1805 IH
+formation on the total amount of electricity produced from 
+1
+qualified electric facilities during the previous month. 
+2
+‘‘(b) NEW QUALIFIED ELECTRIC FACILITIES.—The 
+3
+Administrator of the Environmental Protection Agency 
+4
+shall notify the Administrator of the Energy Information 
+5
+Administration whenever an electric facility with a rated 
+6
+capacity of less than 2 megawatts elects to be classified 
+7
+as a qualified electric facility or a qualified cogeneration 
+8
+facility under section 724. 
+9
+‘‘PART C—PROGRAM RULES 
+10
+‘‘SEC. 721. REQUIREMENTS. 
+11
+‘‘(a) IN GENERAL.—By 12:01 a.m. on April 1 of a 
+12
+calendar year, a covered entity shall surrender to the Ad-
+13
+ministrator one emission allowance for each metric ton of 
+14
+carbon dioxide equivalent of a greenhouse gas emitted by 
+15
+the covered entity during the preceding calendar year. 
+16
+‘‘(b) ACQUISITION OF EMISSION ALLOWANCES.—A 
+17
+covered entity shall acquire emission allowances as follows: 
+18
+‘‘(1) By receiving emission allowances as pro-
+19
+vided in section 722. 
+20
+‘‘(2) By purchase, exchange, or transfer under 
+21
+section 723. 
+22
+‘‘(c) APPLICABILITY.—The requirement of this part 
+23
+applies with respect to calendar year 2024 and subsequent 
+24
+calendar years. 
+25
+18:38 May 11, 2021
+H1805
+19 
+•HR 1805 IH
+‘‘(d) PERIOD OF USE.—An emission allowance may 
+1
+be used by a covered entity to comply with subsection (a) 
+2
+only for— 
+3
+‘‘(1) the calendar year in connection with which 
+4
+it is distributed under section 722; or 
+5
+‘‘(2) the following calendar year. 
+6
+‘‘(e) ADJUSTMENT
+OF DEADLINE.—The Adminis-
+7
+trator may, by rule, establish a deadline for compliance 
+8
+with subsection (a) with respect to a calendar year that 
+9
+is later than 12:01 a.m. on April 1 of the following cal-
+10
+endar year, as necessary to ensure the availability of 
+11
+greenhouse gas emissions data, but in no event shall the 
+12
+adjusted deadline be later than June 1. 
+13
+‘‘SEC. 722. DISTRIBUTION OF EMISSION ALLOWANCES. 
+14
+‘‘(a) QUALIFIED ELECTRIC FACILITIES.—During a 
+15
+calendar year, the Administrator shall distribute, on a con-
+16
+tinual basis, to a qualified electric facility for each mega-
+17
+watt hour of electricity produced by the qualified electric 
+18
+facility a number of emission allowances (or fractions 
+19
+thereof) equal to the product of one multiplied by the 
+20
+greater of— 
+21
+‘‘(1) zero; and 
+22
+‘‘(2) the lesser of— 
+23
+18:38 May 11, 2021
+H1805
+20 
+•HR 1805 IH
+‘‘(A) the value equal to the product of 0.93 
+1
+and the preceding calendar year’s average car-
+2
+bon intensity for qualified electric facilities; 
+3
+‘‘(B) the value equal to the difference of— 
+4
+‘‘(i) the preceding calendar year’s av-
+5
+erage carbon intensity for qualified electric 
+6
+facilities; minus 
+7
+‘‘(ii) the product of 0.06 multiplied by 
+8
+calendar year 2023’s average carbon inten-
+9
+sity for qualified electric facilities; or 
+10
+‘‘(C) a value set by the Administrator for 
+11
+purposes of this subsection to ensure that the 
+12
+aggregate quantity of greenhouse gas emissions 
+13
+from covered entities does not exceed the tar-
+14
+gets specified in section 702(a). 
+15
+‘‘(b) QUALIFIED THERMAL FACILITIES.—During a 
+16
+calendar year, the Administrator shall distribute, on a con-
+17
+tinual basis, to a qualified thermal facility for each million 
+18
+British thermal units of useful thermal energy output pro-
+19
+duced by the qualified thermal facility a number of emis-
+20
+sion allowances (or fractions thereof) equal to the product 
+21
+of one multiplied by the greater of— 
+22
+‘‘(1) zero; and 
+23
+‘‘(2) the lesser of— 
+24
+18:38 May 11, 2021
+H1805
+21 
+•HR 1805 IH
+‘‘(A) the value equal to the product of 0.93 
+1
+and the preceding calendar year’s average car-
+2
+bon intensity for qualified thermal facilities; 
+3
+‘‘(B) the value equal to the difference of— 
+4
+‘‘(i) the preceding calendar year’s av-
+5
+erage carbon intensity for qualified ther-
+6
+mal facilities; minus 
+7
+‘‘(ii) the product of 0.06 multiplied by 
+8
+calendar year 2023’s average carbon inten-
+9
+sity for qualified thermal facilities; or 
+10
+‘‘(C) a value set by the Administrator for 
+11
+purposes of this subsection to ensure that the 
+12
+aggregate quantity of greenhouse gas emissions 
+13
+from covered entities does not exceed the tar-
+14
+gets specified in section 702(a). 
+15
+‘‘(c) QUALIFIED COGENERATION FACILITIES.—Dur-
+16
+ing a calendar year, the Administrator shall distribute, on 
+17
+a continual basis, to a qualified cogeneration facility— 
+18
+‘‘(1) for each megawatt hour of electricity pro-
+19
+duced by the qualified cogeneration facility, a num-
+20
+ber of emission allowances (or fractions thereof) cal-
+21
+culated in accordance with subsection (a); and 
+22
+‘‘(2) for each million British thermal units of 
+23
+useful thermal energy output produced by the quali-
+24
+fied cogeneration facility, a number of emission al-
+25
+18:38 May 11, 2021
+H1805
+22 
+•HR 1805 IH
+lowances (or fractions thereof) calculated in accord-
+1
+ance with subsection (b). 
+2
+‘‘(d) ADJUSTED DISTRIBUTION FOR ENTERING INTO 
+3
+CERTAIN AGREEMENTS.— 
+4
+‘‘(1) IN GENERAL.—If an existing facility or a 
+5
+newly constructed low-emission facility enters into 
+6
+an agreement described in paragraph (2), then over 
+7
+the period of the agreement the Administrator shall 
+8
+distribute emission allowances to such facility in ac-
+9
+cordance with this subsection in lieu of subsection 
+10
+(a), (b), or (c). 
+11
+‘‘(2) AGREEMENT.—An agreement described in 
+12
+this paragraph is a 10-year or longer bilateral agree-
+13
+ment signed after the date of enactment of this title 
+14
+between an existing qualified electric facility, an ex-
+15
+isting qualified thermal facility, or an existing quali-
+16
+fied cogeneration facility, and a newly constructed 
+17
+low-emission facility for the annual purchase of a 
+18
+specified amount of emission allowances. 
+19
+‘‘(3) DEFINITIONS.—In this subsection: 
+20
+‘‘(A) The term ‘existing’ means, with re-
+21
+spect to a facility, in operation as of the date 
+22
+of entry into an agreement described in para-
+23
+graph (2). 
+24
+18:38 May 11, 2021
+H1805
+23 
+•HR 1805 IH
+‘‘(B) The term ‘existing facility’ means an 
+1
+existing qualified electric facility, an existing 
+2
+qualified thermal facility, or an existing quali-
+3
+fied cogeneration facility that is a party to an 
+4
+agreement described in paragraph (2). 
+5
+‘‘(C) The term ‘newly constructed’ means 
+6
+that the facility involved did not produce elec-
+7
+tricity or useful thermal energy output prior to 
+8
+the date of entry into an agreement described 
+9
+in paragraph (2). 
+10
+‘‘(D) The term ‘newly constructed low- 
+11
+emission facility’ means a newly constructed 
+12
+qualified electric facility, a newly constructed 
+13
+qualified thermal facility, or a newly con-
+14
+structed qualified cogeneration facility that 
+15
+would emit a lesser quantity of greenhouse 
+16
+gases per megawatt hour of electricity or per 
+17
+million British thermal units of useful thermal 
+18
+energy output, as applicable, than the Adminis-
+19
+trator distributes to covered entities under sub-
+20
+section (a), (b), or (c), as applicable, in the first 
+21
+full calendar year during which the newly con-
+22
+structed facility operates and is a party to an 
+23
+agreement described in paragraph (2). 
+24
+18:38 May 11, 2021
+H1805
+24 
+•HR 1805 IH
+‘‘(4) DISTRIBUTION
+OF
+ALLOWANCES
+TO
+AN 
+1
+EXISTING FACILITY.— 
+2
+‘‘(A) IN
+GENERAL.—For calendar years 
+3
+that are covered by an agreement described in 
+4
+paragraph (2), beginning with the first full cal-
+5
+endar year during which the newly constructed 
+6
+low-emission facility operates, the Adminis-
+7
+trator shall distribute, on a continual basis, to 
+8
+the existing facility— 
+9
+‘‘(i) for megawatt hours of electricity 
+10
+or million British thermal units of useful 
+11
+thermal energy output, as applicable, pro-
+12
+duced by the existing facility that are cov-
+13
+ered by the agreement, a number of emis-
+14
+sion allowances that is equal to— 
+15
+‘‘(I) such number of megawatt 
+16
+hours or million British thermal units, 
+17
+as applicable; multiplied by 
+18
+‘‘(II) the average carbon inten-
+19
+sity for qualified electric facilities or 
+20
+the average carbon intensity for quali-
+21
+fied thermal facilities, as applicable, 
+22
+for such first full calendar year; and 
+23
+‘‘(ii) for megawatt hours of electricity 
+24
+or million British thermal units of useful 
+25
+18:38 May 11, 2021
+H1805
+25 
+•HR 1805 IH
+thermal energy output, as applicable, pro-
+1
+duced by the existing facility exceeding 
+2
+those that are covered by the agreement, 
+3
+the number of emission allowances cal-
+4
+culated under subsection (a), (b), or (c), as 
+5
+applicable. 
+6
+‘‘(B) CALCULATION OF MEGAWATT HOURS 
+7
+OR MILLION BRITISH THERMAL UNITS COVERED 
+8
+BY
+AGREEMENT.—For purposes of subpara-
+9
+graph (A), the number of megawatt hours of 
+10
+electricity or million British thermal units of 
+11
+useful thermal energy output, as applicable, 
+12
+produced by an existing facility that are covered 
+13
+by the agreement described in paragraph (2) 
+14
+shall be equal to— 
+15
+‘‘(i) the number of emission allow-
+16
+ances sold to the existing facility pursuant 
+17
+to the agreement for the first full calendar 
+18
+year described in subparagraph (A), di-
+19
+vided by the difference of— 
+20
+‘‘(I) the number of emission al-
+21
+lowances surrendered by the existing 
+22
+facility to the Administrator for such 
+23
+first full calendar year; minus 
+24
+18:38 May 11, 2021
+H1805
+26 
+•HR 1805 IH
+‘‘(II) the number of emission al-
+1
+lowances distributed to the existing 
+2
+facility by the Administrator for such 
+3
+first full calendar year; multiplied by 
+4
+‘‘(ii) the total number of megawatt 
+5
+hours of electricity or million British ther-
+6
+mal units of useful thermal energy output, 
+7
+as applicable, produced by the existing fa-
+8
+cility in such first full calendar year. 
+9
+‘‘(5) DISTRIBUTION
+OF
+ALLOWANCES
+TO
+A 
+10
+NEWLY CONSTRUCTED LOW-EMISSION FACILITY.— 
+11
+‘‘(A) IN
+GENERAL.—For calendar years 
+12
+that are covered by an agreement described in 
+13
+paragraph (2), beginning with the first full cal-
+14
+endar year during which the newly constructed 
+15
+low-emission facility operates, the Adminis-
+16
+trator shall distribute, on a continual basis, to 
+17
+the newly constructed low-emission facility— 
+18
+‘‘(i) for megawatt hours of electricity 
+19
+or million British thermal units of useful 
+20
+thermal energy output, as applicable, pro-
+21
+duced by the newly constructed low-emis-
+22
+sion facility that are covered by the agree-
+23
+ment, a number of emission allowances 
+24
+that is equal to— 
+25
+18:38 May 11, 2021
+H1805
+27 
+•HR 1805 IH
+‘‘(I) such number of megawatt 
+1
+hours or million British thermal units 
+2
+of useful thermal energy output; mul-
+3
+tiplied by 
+4
+‘‘(II) the average carbon inten-
+5
+sity for qualified electric facilities or 
+6
+the average carbon intensity for quali-
+7
+fied thermal facilities, as applicable, in 
+8
+such first full calendar year; and 
+9
+‘‘(ii) for megawatt hours of electricity 
+10
+or million British thermal units of useful 
+11
+thermal energy output, as applicable, pro-
+12
+duced by the newly constructed low-emis-
+13
+sion facility exceeding those that are cov-
+14
+ered by the agreement, the number of 
+15
+emission allowances calculated under sub-
+16
+section (a), (b), or (c), as applicable. 
+17
+‘‘(B) CALCULATION OF MEGAWATT HOURS 
+18
+OR MILLION BRITISH THERMAL UNITS COVERED 
+19
+BY
+AGREEMENT.—For purposes of subpara-
+20
+graph (A), the number of megawatt hours of 
+21
+electricity or million British thermal units of 
+22
+useful thermal energy output, as applicable, 
+23
+produced by a newly constructed low-emission 
+24
+18:38 May 11, 2021
+H1805
+28 
+•HR 1805 IH
+facility that are covered by the agreement de-
+1
+scribed in paragraph (2) shall be equal to— 
+2
+‘‘(i) the number of emission allow-
+3
+ances sold to the existing facility pursuant 
+4
+to the agreement for the first full calendar 
+5
+year described in subparagraph (A), di-
+6
+vided by the difference of— 
+7
+‘‘(I) the number of emission al-
+8
+lowances surrendered by the newly 
+9
+constructed low-emission facility to 
+10
+the Administrator for such first full 
+11
+calendar year; minus 
+12
+‘‘(II) the number of emission al-
+13
+lowances distributed to the newly con-
+14
+structed low-emission facility by the 
+15
+Administrator for such first full cal-
+16
+endar year; multiplied by 
+17
+‘‘(ii) the total number of megawatt 
+18
+hours of electricity or million British ther-
+19
+mal units of useful thermal energy output, 
+20
+as applicable, produced by the existing fa-
+21
+cility in such first full calendar year. 
+22
+‘‘(6) CONDITIONS.—An existing facility or 
+23
+newly constructed low-emission facility may receive 
+24
+emission allowances under this subsection only if— 
+25
+18:38 May 11, 2021
+H1805
+29 
+•HR 1805 IH
+‘‘(A) such facility provides the Adminis-
+1
+trator a copy of— 
+2
+‘‘(i) the applicable bilateral agree-
+3
+ment; and 
+4
+‘‘(ii) any amendment to such bilateral 
+5
+agreement within 30 days of the amend-
+6
+ment being made; and 
+7
+‘‘(B) the Administrator certifies that allow-
+8
+ing the facility to maintain the bilateral agree-
+9
+ment is not impacting the ability to achieve the 
+10
+targets specified in section 702(a)— 
+11
+‘‘(i) upon receiving the applicable bi-
+12
+lateral agreement, and at least once every 
+13
+5 years thereafter; and 
+14
+‘‘(ii) upon receiving any amendment 
+15
+thereto. 
+16
+‘‘SEC. 723. TRADING. 
+17
+‘‘(a) PERMITTED TRANSACTIONS.—Except as other-
+18
+wise provided in this title, the lawful holder of an emission 
+19
+allowance may, without restriction, sell, exchange, trans-
+20
+fer, hold, or surrender to the Administrator, the emission 
+21
+allowance. 
+22
+‘‘(b) IDENTIFICATION
+NUMBERS.—The Adminis-
+23
+trator shall assign to each emission allowance a unique 
+24
+identification number. 
+25
+18:38 May 11, 2021
+H1805
+30 
+•HR 1805 IH
+‘‘(c) LEGAL STATUS OF EMISSION ALLOWANCES.— 
+1
+‘‘(1) IN GENERAL.—An emission allowance dis-
+2
+tributed by the Administrator under this title does 
+3
+not constitute a property right. 
+4
+‘‘(2) TERMINATION OR LIMITATION.—Nothing 
+5
+in this Act or any other provision of law shall be 
+6
+construed to limit or alter the authority of the 
+7
+United States to terminate or limit emission allow-
+8
+ances. 
+9
+‘‘(3) OTHER PROVISIONS.—Except as otherwise 
+10
+specified in this Act, nothing in this Act relating to 
+11
+emission allowances distributed under this title shall 
+12
+affect the application of any other provision of law 
+13
+to a covered entity, or the responsibility for a cov-
+14
+ered entity to comply with any such provision of law. 
+15
+‘‘(d) EFFECTIVENESS
+OF EMISSION ALLOWANCE 
+16
+TRANSFERS.—No transfer of an emission allowance shall 
+17
+be effective for purposes of this title until a certification 
+18
+of the transfer, signed by the designated representative of 
+19
+the transferor, is received and recorded by the Adminis-
+20
+trator in accordance with regulations promulgated under 
+21
+section 729. 
+22
+‘‘SEC. 724. VOLUNTARY PROGRAM PARTICIPATION. 
+23
+‘‘(a) VOLUNTARY
+PROGRAM
+PARTICIPATION
+AS 
+24
+QUALIFIED ELECTRIC FACILITY.— 
+25
+18:38 May 11, 2021
+H1805
+31 
+•HR 1805 IH
+‘‘(1) IN GENERAL.—A generator that produces 
+1
+electricity with a rated capacity of less than 2 
+2
+megawatts may, in accordance with this subsection, 
+3
+elect to be classified as a qualified electric facility for 
+4
+purposes of this title. 
+5
+‘‘(2) QUALIFICATION.—In order for a generator 
+6
+with a rated capacity of less than 2 megawatts to be 
+7
+classified as a qualified electric facility, the gener-
+8
+ator shall— 
+9
+‘‘(A) submit a notification to the Adminis-
+10
+trator of the intention of the generator to elect 
+11
+to be classified as a qualified electric facility; 
+12
+‘‘(B) receive approval of such classification 
+13
+from the Administrator; and 
+14
+‘‘(C) designate a representative as required 
+15
+under section 727(b). 
+16
+‘‘(3) APPROVAL.—Not later than 90 after re-
+17
+ceipt of a notification under paragraph (2)(A), the 
+18
+Administrator shall notify the applicable generator 
+19
+whether the Administrator approves or disapproves 
+20
+the classification of such generator as a qualified 
+21
+electric facility. 
+22
+‘‘(4) CLASSIFICATION.—If a generator elects to 
+23
+be classified as a qualified electric facility pursuant 
+24
+to this subsection, such classification shall remain in 
+25
+18:38 May 11, 2021
+H1805
+32 
+•HR 1805 IH
+effect unless the facility produces no electricity over 
+1
+the previous calendar year. 
+2
+‘‘(b) VOLUNTARY PROGRAM PARTICIPATION
+AS
+A 
+3
+QUALIFIED THERMAL FACILITY.— 
+4
+‘‘(1) IN GENERAL.—A generator that produces 
+5
+thermal energy with a rated fuel-based capacity of 
+6
+less than 50,000,000 British thermal units on a 
+7
+higher heating value basis per hour may, in accord-
+8
+ance with this subsection, elect to be classified as a 
+9
+qualified thermal facility for purposes of this title. 
+10
+‘‘(2) QUALIFICATION.—In order for a generator 
+11
+that produces thermal energy with a rated fuel-based 
+12
+capacity of less than 50,000,000 British thermal 
+13
+units on a higher heating value basis per hour to be 
+14
+classified as a qualified thermal facility, the facility 
+15
+shall— 
+16
+‘‘(A) have a rated fuel-based capacity of no 
+17
+less than 2,000,000 British thermal units on a 
+18
+higher heating value basis per hour; 
+19
+‘‘(B) submit a notification to the Adminis-
+20
+trator of the intention of the generator to elect 
+21
+to be classified as a qualified thermal facility; 
+22
+‘‘(C) receive approval of such classification 
+23
+from the Administrator; 
+24
+18:38 May 11, 2021
+H1805
+33 
+•HR 1805 IH
+‘‘(D) report annually to the Administrator 
+1
+relevant information collected on type, quality, 
+2
+and quantity of fuel used for onsite useful ther-
+3
+mal energy output production, the quantity of 
+4
+useful thermal energy output, and the quantity 
+5
+of associated greenhouse gas emissions under 
+6
+section 713; and 
+7
+‘‘(E) designate a representative as required 
+8
+under section 727(b). 
+9
+‘‘(3) CLASSIFICATION.—If a generator that pro-
+10
+duces useful thermal energy output elects to be clas-
+11
+sified as a qualified thermal facility pursuant to this 
+12
+subsection, such classification shall remain in effect 
+13
+unless the facility— 
+14
+‘‘(A) falls below a rated fuel-based capacity 
+15
+of 2,000,000 British thermal units on a higher 
+16
+heating value basis per hour; or 
+17
+‘‘(B) produces no useful thermal energy 
+18
+output over the previous calendar year. 
+19
+‘‘(c) VOLUNTARY
+PROGRAM
+PARTICIPATION
+AS 
+20
+QUALIFIED COGENERATION FACILITY.— 
+21
+‘‘(1) IN GENERAL.—A generator that simulta-
+22
+neously produces useful thermal energy output and 
+23
+electricity with a rated capacity of less than 2 
+24
+megawatts may, in accordance with this subsection, 
+25
+18:38 May 11, 2021
+H1805
+34 
+•HR 1805 IH
+elect to be classified as a qualified cogeneration fa-
+1
+cility for purposes of this title. 
+2
+‘‘(2) QUALIFICATION.—In order for a generator 
+3
+that simultaneously produces useful thermal energy 
+4
+output and electricity with a rated capacity of less 
+5
+than 2 megawatts to be classified as a qualified co-
+6
+generation facility, the facility shall— 
+7
+‘‘(A) submit a notification to the Adminis-
+8
+trator of the intention of the generator to elect 
+9
+to be classified as a qualified cogeneration facil-
+10
+ity; 
+11
+‘‘(B) receive approval of the classification 
+12
+from the Administrator; 
+13
+‘‘(C) report annually to the Administrator 
+14
+relevant information collected on type, quality, 
+15
+and quantity of fuel used for onsite useful ther-
+16
+mal energy output production, the quantity of 
+17
+useful thermal energy output, and the quantity 
+18
+of associated greenhouse gas emissions under 
+19
+section 713; and 
+20
+‘‘(D) designate a representative as required 
+21
+under section 727(b). 
+22
+‘‘(3) CLASSIFICATION.—If a generator elects to 
+23
+be classified as a qualified cogeneration facility pur-
+24
+suant to this subsection, such classification shall re-
+25
+18:38 May 11, 2021
+H1805
+35 
+•HR 1805 IH
+main in effect unless the facility produces no elec-
+1
+tricity over the previous calendar year. 
+2
+‘‘SEC. 725. PENALTY FOR NONCOMPLIANCE. 
+3
+‘‘(a) CIVIL PENALTY.— 
+4
+‘‘(1) IN GENERAL.—The owner or operator of a 
+5
+covered entity that fails to surrender an emission al-
+6
+lowance as required by section 721(a) shall be liable 
+7
+for payment to the Administrator of a penalty in the 
+8
+amount described in paragraph (2). 
+9
+‘‘(2) AMOUNT.—The amount of a penalty under 
+10
+paragraph (1) shall be equal to the product of— 
+11
+‘‘(A) twice the highest monetary value (as 
+12
+indicated by the emission allowance tracking 
+13
+system established pursuant to section 726 over 
+14
+the previous calendar year) for the sale or 
+15
+transfer of an emission allowance; multiplied by 
+16
+‘‘(B) the number of emission allowances 
+17
+which the owner or operator of the covered enti-
+18
+ty failed to surrender as described in paragraph 
+19
+(1). 
+20
+‘‘(3) TIMING.—A penalty required under this 
+21
+subsection shall be immediately due and payable to 
+22
+the Administrator, without demand, in accordance 
+23
+with regulations promulgated under section 729. 
+24
+18:38 May 11, 2021
+H1805
+36 
+•HR 1805 IH
+‘‘(4) NO EFFECT ON LIABILITY.—A penalty due 
+1
+and payable by the owners or operators of a covered 
+2
+entity under this subsection shall not diminish the li-
+3
+ability of the owners or operators for any fine, pen-
+4
+alty, or assessment against the owners or operators 
+5
+for the same violation under any other provision of 
+6
+this Act or any other law. 
+7
+‘‘(b) REPLACEMENT EMISSION ALLOWANCES.—The 
+8
+owner or operator of a covered entity that fails to sur-
+9
+render one or more emission allowances as required by sec-
+10
+tion 721(a) for a calendar year shall surrender a quantity 
+11
+of emission allowances that is equal to the quantity the 
+12
+covered entity failed to surrender (in addition to the emis-
+13
+sion allowances otherwise required to be surrendered) by 
+14
+the April 1st deadline of the second succeeding calendar 
+15
+year. 
+16
+‘‘SEC. 726. EMISSION ALLOWANCE TRACKING SYSTEM. 
+17
+‘‘The regulations promulgated under section 729 
+18
+shall provide for— 
+19
+‘‘(1) the establishment of a system to distribute 
+20
+emission allowances to covered entities; 
+21
+‘‘(2) a process to create accounts in which cov-
+22
+ered entities and any other entities that buy or sell 
+23
+emission allowances may hold emission allowances; 
+24
+18:38 May 11, 2021
+H1805
+37 
+•HR 1805 IH
+‘‘(3) the establishment of an emission allowance 
+1
+tracking system to track— 
+2
+‘‘(A) the number of emission allowances 
+3
+transferred; 
+4
+‘‘(B) the price or monetary value for which 
+5
+emission allowances are transferred; 
+6
+‘‘(C) the date of each such transfer; 
+7
+‘‘(D) the parties involved in the transfer; 
+8
+and 
+9
+‘‘(E) any additional information the Ad-
+10
+ministrator determines necessary for each such 
+11
+transfer; and 
+12
+‘‘(4) the publication by the Administrator on 
+13
+the internet of— 
+14
+‘‘(A) a weekly summary of average prices 
+15
+of emission allowances weighted by transaction 
+16
+size, the total number of emission allowances 
+17
+traded, and any other additional information 
+18
+determined by the Administrator as necessary 
+19
+for the orderly and competitive functioning of 
+20
+any emission allowance market; 
+21
+‘‘(B) the number of emission allowances 
+22
+distributed by the Administrator under section 
+23
+722 each month to qualified electric facilities; 
+24
+18:38 May 11, 2021
+H1805
+38 
+•HR 1805 IH
+‘‘(C) the number of emission allowances 
+1
+distributed by the Administrator under section 
+2
+722 each month to qualified thermal facilities; 
+3
+‘‘(D) the number of emission allowances 
+4
+distributed by the Administrator under section 
+5
+722 each month to qualified cogeneration facili-
+6
+ties; 
+7
+‘‘(E) the number of emission allowances 
+8
+distributed by the Administrator under section 
+9
+722 during a calendar year that are held by 
+10
+qualified electric facilities at the end of each 
+11
+month; 
+12
+‘‘(F) the number of emission allowances 
+13
+distributed by the Administrator under section 
+14
+722 during a calendar year that are held by 
+15
+qualified thermal facilities at the end of each 
+16
+month; 
+17
+‘‘(G) the number of emission allowances 
+18
+distributed by the Administrator under section 
+19
+722 during a calendar year that are held by 
+20
+qualified cogeneration facilities at the end of 
+21
+each month; 
+22
+‘‘(H) the number of emission allowances 
+23
+distributed by the Administrator under section 
+24
+722 during a calendar year that are held by en-
+25
+18:38 May 11, 2021
+H1805
+39 
+•HR 1805 IH
+tities other than covered entities at the end of 
+1
+each month; 
+2
+‘‘(I) the number of emission allowances 
+3
+surrendered to the Administrator each year by 
+4
+qualified electric facilities; 
+5
+‘‘(J) the number of emission allowances 
+6
+surrendered to the Administrator each year by 
+7
+qualified thermal facilities; and 
+8
+‘‘(K) the number of emission allowances 
+9
+surrendered to the Administrator each year by 
+10
+qualified cogeneration facilities. 
+11
+‘‘SEC. 727. OTHER PROGRAM RULES. 
+12
+‘‘(a) THRESHOLD REVIEW.—For each category of 
+13
+covered entities listed in section 701(5), the Adminis-
+14
+trator— 
+15
+‘‘(1) in 2025, and once every 5 years thereafter, 
+16
+shall review the threshold for electricity or useful 
+17
+thermal energy output production that is used to de-
+18
+fine covered entities in such category; and 
+19
+‘‘(2) may by rule lower such threshold after 
+20
+consideration of— 
+21
+‘‘(A) greenhouse gas emissions from cov-
+22
+ered entities in such category, and from other 
+23
+entities of the same type that produce less elec-
+24
+tricity or useful thermal energy output (includ-
+25
+18:38 May 11, 2021
+H1805
+40 
+•HR 1805 IH
+ing greenhouse gas emission sources that com-
+1
+mence operation after the date of enactment of 
+2
+this title that are not covered entities); and 
+3
+‘‘(B) whether greater greenhouse gas emis-
+4
+sion reductions can be cost-effectively achieved 
+5
+by lowering the applicable threshold. 
+6
+‘‘(b) DESIGNATED REPRESENTATIVES.—The regula-
+7
+tions promulgated under section 729 shall require that 
+8
+each covered entity, and each entity holding an emission 
+9
+allowance or receiving an emission allowance from the Ad-
+10
+ministrator under this title, submit to the Administrator 
+11
+a certificate of representation designating a designated 
+12
+representative. 
+13
+‘‘(c) SAVINGS PROVISION.—Nothing in this title shall 
+14
+be construed— 
+15
+‘‘(1) as requiring a change of any kind in any 
+16
+State law regulating electric utility rates and 
+17
+charges, or as affecting any State law regarding 
+18
+such State regulation, or as limiting State regulation 
+19
+(including any prudency review) under such a State 
+20
+law; 
+21
+‘‘(2) as modifying the Federal Power Act or as 
+22
+affecting the authority of the Federal Energy Regu-
+23
+latory Commission under that Act; or 
+24
+18:38 May 11, 2021
+H1805
+41 
+•HR 1805 IH
+‘‘(3) as interfering with or impairing any pro-
+1
+gram for competitive bidding for power supply in a 
+2
+State in which such a program is established. 
+3
+‘‘(d) POSITION LIMITS.— 
+4
+‘‘(1) IN
+GENERAL.—The regulations promul-
+5
+gated under section 729 shall limit the number of 
+6
+emission allowances that an entity may hold at any 
+7
+time in a calendar year. 
+8
+‘‘(2) LIMITS.—The Administrator, in consulta-
+9
+tion with the Commodity Futures Trading Commis-
+10
+sion, shall set limits under paragraph (1)— 
+11
+‘‘(A) on the number of emission allowances 
+12
+distributed in a calendar year that an entity 
+13
+may hold in such calendar year; 
+14
+‘‘(B) on the total number of emission al-
+15
+lowances that an entity may hold in a calendar 
+16
+year; 
+17
+‘‘(C) so that no entity may at any time 
+18
+hold a number of emission allowances that may 
+19
+influence the price of emission allowances; and 
+20
+‘‘(D) in a manner that will ensure ade-
+21
+quate liquidity for buyers and sellers of emis-
+22
+sion allowances. 
+23
+‘‘(e) STATUS OF SURRENDERED EMISSION ALLOW-
+24
+ANCES.—Once an emission allowance is surrendered to the 
+25
+18:38 May 11, 2021
+H1805
+42 
+•HR 1805 IH
+Administrator under this title, the emission allowance 
+1
+shall be disqualified from subsequent use under this title, 
+2
+including subsequent sale, exchange, or submission. 
+3
+‘‘(f) ORDERLY
+AND COMPETITIVE MARKET.—The 
+4
+regulations promulgated under section 729 shall specify 
+5
+all procedures and requirements necessary for the orderly 
+6
+and competitive functioning of any emission allowance 
+7
+market. 
+8
+‘‘SEC. 728. OVERSIGHT. 
+9
+‘‘(a) IN GENERAL.—Not later than January 1, 2023, 
+10
+and every 2 years thereafter, the Comptroller General of 
+11
+the United States shall submit to Congress a report on— 
+12
+‘‘(1) the results of implementation of this title; 
+13
+and 
+14
+‘‘(2) the progress in meeting the targets speci-
+15
+fied in section 702(a). 
+16
+‘‘(b) CONTENTS.—Each report under subsection (a) 
+17
+shall include— 
+18
+‘‘(1) a comprehensive evaluation of— 
+19
+‘‘(A) the efficiency, transparency, and 
+20
+soundness of the distribution of emission allow-
+21
+ances under this title, and the Federal thermal 
+22
+energy reporting program; 
+23
+18:38 May 11, 2021
+H1805
+43 
+•HR 1805 IH
+‘‘(B) the cost-effectiveness of this title in 
+1
+achieving the targets specified in section 
+2
+702(a); and 
+3
+‘‘(C) the effectiveness of this title in facili-
+4
+tating the deployment of additional zero-carbon 
+5
+electricity capacity and useful thermal energy 
+6
+output capacity; and 
+7
+‘‘(2) recommendations, if any, for legislative, 
+8
+regulatory, or administrative changes with respect to 
+9
+this title to improve its effectiveness and to reduce 
+10
+or eliminate any identified waste, fraud, or abuse. 
+11
+‘‘(c) ADDITIONAL CONTENTS.—Each report under 
+12
+subsection (a) shall address the effectiveness of this title 
+13
+in— 
+14
+‘‘(1) creating and preserving jobs; 
+15
+‘‘(2) ensuring a manageable transition to a 
+16
+zero-emission economy for working families and 
+17
+workers; 
+18
+‘‘(3) reducing, or enhancing sequestration of, 
+19
+greenhouse gases; 
+20
+‘‘(4) developing clean technologies; and 
+21
+‘‘(5) maintaining a liquid market for emission 
+22
+allowances. 
+23
+18:38 May 11, 2021
+H1805
+44 
+•HR 1805 IH
+‘‘SEC. 729. REGULATIONS. 
+1
+‘‘Except as otherwise specified in this title, the Ad-
+2
+ministrator shall promulgate final regulations to carry out 
+3
+this title not later than 24 months after the date of enact-
+4
+ment of this title. 
+5
+‘‘SEC. 730. SAVINGS PROVISIONS. 
+6
+‘‘Nothing in this title shall be interpreted to relieve 
+7
+any person from complying with any requirement of an-
+8
+other title of this Act.’’. 
+9
+Æ 
+18:38 May 11, 2021
+H1805

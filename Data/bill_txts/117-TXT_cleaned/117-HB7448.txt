@@ -1,0 +1,580 @@
+A BILL 
+To require a study on the resiliency of space access infra-
+structure for national security requirements, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Spaceport Tiering for 
+4
+Access Resiliency Act’’ or the ‘‘STAR Act’’. 
+5
+22:49 Jun 13, 2022
+H7448
+2 
+•HR 7448 IH
+SEC. 2. STUDY ON SPACE ACCESS INFRASTRUCTURE FOR 
+1
+NATIONAL SECURITY RESILIENCY. 
+2
+(a) REPORT.—Not later than one year after the date 
+3
+of the enactment of this Act, the Secretary of Defense, 
+4
+in coordination with the Secretary of Transportation, shall 
+5
+submit to the appropriate congressional committees a re-
+6
+port on the resiliency of space access infrastructure to 
+7
+meet national security requirements. 
+8
+(b) ELEMENTS.—The report under subsection (a) 
+9
+shall include the following: 
+10
+(1) An identification of the current and pro-
+11
+jected launch requirements for national security mis-
+12
+sions, including with respect to payload, orbit type, 
+13
+orbit longitude, and orbit inclination. 
+14
+(2) A categorization of each spaceport and 
+15
+other launch site by the capability of the spaceport 
+16
+and site— 
+17
+(A) to meet the launch requirements of all 
+18
+national security missions; 
+19
+(B) to meet the launch requirements of a 
+20
+portion of national security missions; 
+21
+(C) with respect to spaceports and sites 
+22
+not identified under subparagraph (A), to meet 
+23
+the launch requirements of all national security 
+24
+missions if the spaceport received improve-
+25
+ments; and 
+26
+22:49 Jun 13, 2022
+H7448
+3 
+•HR 7448 IH
+(D) with respect to spaceports and sites 
+1
+not identified under subparagraph (A), (B), or 
+2
+(C), to meet the launch requirements of a por-
+3
+tion of national security missions if the space-
+4
+port or site received improvements. 
+5
+(3) An assessment of the operational risks to 
+6
+each spaceport and site identified under paragraph 
+7
+(2). 
+8
+(4) An aggregation of the operational risks to 
+9
+the spaceports and sites identified under paragraph 
+10
+(2). 
+11
+(5) An assessment of the vulnerabilities and the 
+12
+overall resiliency of space access for national secu-
+13
+rity missions. 
+14
+(6) A strategy for spaceport infrastructure by 
+15
+the Federal Government, State or local government, 
+16
+or the private sector to ensure space access resil-
+17
+iency for national security missions. 
+18
+(7) Recommendations for prioritization of Fed-
+19
+eral 
+investment 
+in 
+spaceports 
+to 
+mitigate 
+20
+vulnerabilities to space access and improve resil-
+21
+iency. 
+22
+(8) Any other information as determined by the 
+23
+Secretaries specified in subsection (a). 
+24
+22:49 Jun 13, 2022
+H7448
+4 
+•HR 7448 IH
+(c) FORM.—The report under subsection (a) shall be 
+1
+submitted in an unclassified form, but may include a clas-
+2
+sified annex if necessary. The Secretary shall make the 
+3
+unclassified portions of such report publicly available pur-
+4
+suant to section 122a of title 10, United States Code. 
+5
+(d) DEFINITIONS.—In this section: 
+6
+(1) The term ‘‘appropriate congressional com-
+7
+mittees’’ means the following: 
+8
+(A) The congressional defense committees. 
+9
+(B) The Committee on Transportation and 
+10
+Infrastructure, the Committee on Science, 
+11
+Space, and Technology, and the Permanent Se-
+12
+lect Committee on Intelligence of the House of 
+13
+Representatives. 
+14
+(C) The Committee on Commerce, Science, 
+15
+and Transportation and the Select Committee 
+16
+on Intelligence of the Senate. 
+17
+(2) The term ‘‘congressional defense commit-
+18
+tees’’ has the meaning given that term in section 
+19
+101(a)(16) of title 10, United States Code. 
+20
+(3) The term ‘‘operational risk’’ includes— 
+21
+(A) a cyber attack; 
+22
+(B) a conventional military or terrorist at-
+23
+tack; 
+24
+22:49 Jun 13, 2022
+H7448
+5 
+•HR 7448 IH
+(C) an extreme weather event that could 
+1
+occur during the fifteen-year period beginning 
+2
+on the date of the enactment of this Act; 
+3
+(D) an action by an adversary to deny 
+4
+space access, including intentional creation of 
+5
+orbital debris; 
+6
+(E) a limitation due to launch vehicle de-
+7
+sign constraint; 
+8
+(F) a disruption to critical infrastructure 
+9
+necessary for launch activity; and 
+10
+(G) any other threat to space access as de-
+11
+termined by the Secretaries specified in sub-
+12
+section (a). 
+13
+(4) The term ‘‘other launch site’’ means a non- 
+14
+governmental launch and re-entry site used exclu-
+15
+sively by a private entity. 
+16
+(5) The term ‘‘spaceport’’ has the meaning 
+17
+given such term in section 80101 of title 51, United 
+18
+States Code, as added by section 3. 
+19
+SEC. 3. ESTABLISHMENT OF SPACEPORT POLICY AND 
+20
+PLANNING. 
+21
+(a) IN GENERAL.—Title 51, United States Code, is 
+22
+amended— 
+23
+(1) by adding at the end the following new sub-
+24
+title: 
+25
+22:49 Jun 13, 2022
+H7448
+6 
+•HR 7448 IH
+‘‘Subtitle VIII—Spaceports 
+1
+‘‘CHAPTER 801—SPACEPORTS 
+2
+‘‘Sec. 
+‘‘80101. Definition. 
+‘‘80102. Policy. 
+‘‘80103. Establishment of Office of Spaceports. 
+‘‘80104. Tiering. 
+‘‘80105. National plan for spaceports. 
+‘‘§ 80101. Definition 
+3
+‘‘In this subtitle, the term ‘spaceport’ means a launch 
+4
+or reentry site that is— 
+5
+‘‘(1) operated by an entity licensed by the Sec-
+6
+retary of Transportation; or 
+7
+‘‘(2) owned or operated by the Secretary of De-
+8
+fense. 
+9
+‘‘§ 80102. Policy 
+10
+‘‘(a) IN GENERAL.—It is the policy of the United 
+11
+States— 
+12
+‘‘(1) to encourage the development of space-
+13
+ports to serve efficiently and effectively private sec-
+14
+tor and United States Government access to space; 
+15
+‘‘(2) that redundant and resilient access to 
+16
+space is foundational to promoting economic devel-
+17
+opment and national security; 
+18
+‘‘(3) that access to space must be efficiently 
+19
+and fully integrated with the national airspace sys-
+20
+tem; and 
+21
+22:49 Jun 13, 2022
+H7448
+7 
+•HR 7448 IH
+‘‘(4) that safety and environmental consider-
+1
+ations are critical components of access to space. 
+2
+‘‘(b) PRIORITY POLICY.—It is the policy of the 
+3
+United States to give special emphasis to developing 
+4
+spaceports capable of satisfying national security launch 
+5
+requirements. 
+6
+‘‘§ 80104. Tiering 
+7
+‘‘(a) IN GENERAL.—The Secretary of Transportation 
+8
+shall establish a tiering system for spaceports that cat-
+9
+egorizes their operation for purposes of planning, develop-
+10
+ment, and expenditure of funds. 
+11
+‘‘(b) CONSIDERATIONS.—In establishing the tiering 
+12
+system for spaceports under subsection (a), the Secretary 
+13
+of Transportation shall consider the following: 
+14
+‘‘(1) The type of orbit which may be reached 
+15
+from the spaceport at issue, including if such space-
+16
+port is limited to suborbital launches. 
+17
+‘‘(2) The maximum payload capacity of such 
+18
+spaceport. 
+19
+‘‘(3) The annual launch capacity of such space-
+20
+port. 
+21
+‘‘(4) National security requirements. 
+22
+‘‘§ 80105. National plan for spaceports 
+23
+‘‘(a) IN GENERAL.—The Secretary of Transpor-
+24
+tation, in consultation with the Secretary of Defense, shall 
+25
+22:49 Jun 13, 2022
+H7448
+8 
+•HR 7448 IH
+develop a plan, to be known as the ‘national plan for 
+1
+spaceports’ (in this section referred to as the ‘plan’), for 
+2
+developing spaceports in the United States. 
+3
+‘‘(b) CONSIDERATIONS.—The plan shall include the 
+4
+types and estimated cost of eligible spaceport development 
+5
+the Secretary of Transportation considers necessary to 
+6
+provide redundant and resilient access to space necessary 
+7
+to carry out the policies specified in section 80102. 
+8
+‘‘(c) SPECIFIC REQUIREMENTS.—The plan shall in-
+9
+clude a categorization of spaceports pursuant to the tiers 
+10
+established under section 80104. 
+11
+‘‘(d) CONSULTATION.—In developing the plan, the 
+12
+Secretary of Transportation shall, to the extent possible 
+13
+and as appropriate, consult with— 
+14
+‘‘(1) departments, agencies, and instrumental-
+15
+ities of the United States Government; 
+16
+‘‘(2) public agencies; and 
+17
+‘‘(3) the space community. 
+18
+‘‘(e) AVAILABILITY OF DOMESTIC MILITARY SPACE-
+19
+20
+sible, the Secretary of Defense shall make domestic mili-
+21
+tary spaceports and spaceport facilities available for civil 
+22
+use. In consulting with the Secretary of Transportation 
+23
+under subsection (a), the Secretary of Defense shall indi-
+24
+22:49 Jun 13, 2022
+H7448
+9 
+•HR 7448 IH
+cate the extent to which domestic military spaceports and 
+1
+spaceport facilities are available for civil use. 
+2
+‘‘(f) PUBLICATION.—The Secretary of Transpor-
+3
+tation shall publish the plan every two years.’’; 
+4
+(2) by— 
+5
+(A) transferring section 51501 to subtitle 
+6
+VIII, as added by paragraph (1); 
+7
+(B) inserting such section 51501 after sec-
+8
+tion 80102, as so added by such paragraph; 
+9
+and 
+10
+(C) redesignating such section 51501, as 
+11
+so transferred and inserted, as section 80103; 
+12
+and 
+13
+(3) in such section 80103, as so transferred 
+14
+and redesignated— 
+15
+(A) in subsection (c)— 
+16
+(i) in the matter preceding paragraph 
+17
+(1), by striking ‘‘host’’; and 
+18
+(ii) in paragraph (1), by inserting 
+19
+‘‘host’’ before ‘‘launches’’; and 
+20
+(B) by striking subsection (e). 
+21
+(b) CLERICAL
+AMENDMENTS.—Title 51, United 
+22
+States Code, is amended— 
+23
+(1) in the table of subtitles— 
+24
+22:49 Jun 13, 2022
+H7448
+10 
+•HR 7448 IH
+(A) by adding at the end the following new 
+1
+items: 
+2
+‘‘Subtitle VIII—Spaceports 
+‘‘801. Spaceports ...................................................................................... 80101’’; 
+and 
+3
+(B) by striking the item relating to chapter 
+4
+515; and 
+5
+(2) in subtitle V, by striking the heading relat-
+6
+ing to chapter 515. 
+7
+SEC. 4. STUDY ON THE ESTABLISHMENT OF A SPACEPORT 
+8
+IMPROVEMENT PLAN. 
+9
+(a) IN GENERAL.—Not later than two years after the 
+10
+date of the enactment of this Act, the Secretary of Trans-
+11
+portation, in coordination with the Secretary of Defense 
+12
+and the Secretary of Commerce, after providing an oppor-
+13
+tunity for public comment, shall submit to the appropriate 
+14
+congressional committees a report on the implementation 
+15
+of a spaceport improvement program. 
+16
+(b) ELEMENTS.—The report under subsection (a) 
+17
+shall include the following: 
+18
+(1) An assessment of the feasibility of estab-
+19
+lishing a spaceport trust fund for the improvement 
+20
+of spaceports. 
+21
+(2) Recommendations for a fee structure to 
+22
+fund such a trust fund. 
+23
+22:49 Jun 13, 2022
+H7448
+11 
+•HR 7448 IH
+(3) Recommendations for establishing a space-
+1
+port improvement program, including a grant pro-
+2
+gram through which to distribute funds from such a 
+3
+trust fund. 
+4
+(4) Recommendations for the tiers of space-
+5
+ports under section 80104 of title 51, United States 
+6
+Code, as added by section 3, to be eligible to receive 
+7
+a grant under such spaceport improvement program. 
+8
+(5) Recommendations for the apportionment of 
+9
+funds to spaceports, including minimums, maxi-
+10
+mums, and prioritization of the distribution of such 
+11
+funds. 
+12
+(6) Recommended modifications to the national 
+13
+plan for spaceports under section 80105 of title 51, 
+14
+United States Code, as added by section 3, to incor-
+15
+porate such spaceport improvement program. 
+16
+(c) FORM.—The report under subsection (a) shall 
+17
+be— 
+18
+(1) submitted in an unclassified form; and 
+19
+(2) posted on a publicly available website of the 
+20
+Department of Transportation. 
+21
+(d) DEFINITIONS.—In this section: 
+22
+(1) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+23
+TEES.—The term ‘‘appropriate congressional com-
+24
+mittees’’ means the following: 
+25
+22:49 Jun 13, 2022
+H7448
+12 
+•HR 7448 IH
+(A) The Committee on Transportation and 
+1
+Infrastructure of the House of Representatives. 
+2
+(B) The Committee on Commerce, Science, 
+3
+and Transportation of the Senate. 
+4
+(C) The Committee on Science, Space, and 
+5
+Technology of the House of Representatives. 
+6
+(D) The congressional defense committees. 
+7
+(2) CONGRESSIONAL DEFENSE COMMITTEES.— 
+8
+The term ‘‘congressional defense committees’’ has 
+9
+the meaning given such term in section 101(a)(16) 
+10
+of title 10, United States Code. 
+11
+Æ 
+22:49 Jun 13, 2022
+H7448

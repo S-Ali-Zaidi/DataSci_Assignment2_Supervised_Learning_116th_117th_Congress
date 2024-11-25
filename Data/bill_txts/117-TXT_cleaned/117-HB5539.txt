@@ -1,0 +1,777 @@
+A BILL 
+To amend title VI of the Federal Food, Drug, and Cosmetic 
+Act to ensure the supply chain transparency needed for 
+companies to make safe cosmetics, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Cosmetic Supply Chain 
+4
+Transparency Act of 2021’’. 
+5
+SEC. 2. COSMETIC REGULATION. 
+6
+Chapter VI of the Federal Food, Drug, and Cosmetic 
+7
+Act (21 U.S.C. 361 et seq.) is amended— 
+8
+00:55 Oct 14, 2021
+H5539
+2 
+•HR 5539 IH
+(1) by inserting before section 601 the fol-
+1
+lowing: 
+2
+‘‘Subchapter A—Adulterated and Misbranded 
+3
+Cosmetics’’; 
+4
+and 
+5
+(2) by adding at the end the following: 
+6
+‘‘Subchapter B—Supply Chain Transparency 
+7
+‘‘SEC. 611. DEFINITIONS. 
+8
+‘‘In this subchapter: 
+9
+‘‘(1) BRAND OWNER.—The term ‘brand owner’ 
+10
+means the entity responsible for bringing a cosmetic 
+11
+to market. 
+12
+‘‘(2) FLAVOR OR FRAGRANCE COMPANY.—The 
+13
+term ‘flavor or fragrance company’ means an entity 
+14
+that makes or supplies fragrance or flavor ingredi-
+15
+ents or fragrance or flavor formulations. 
+16
+‘‘(3) FORMULATING
+LABORATORY.—The term 
+17
+‘formulating laboratory’ means an entity that sup-
+18
+plies a finished cosmetic product to a retailer or cos-
+19
+metic company to sell under the retailer or cosmetic 
+20
+company’s brand name. 
+21
+‘‘(4) HARMFUL TO HUMAN HEALTH OR THE 
+22
+ENVIRONMENT.—The phrase ‘harmful to human 
+23
+health or the environment’ means, with respect to a 
+24
+nonfunctional constituent— 
+25
+00:55 Oct 14, 2021
+H5539
+3 
+•HR 5539 IH
+‘‘(A) being— 
+1
+‘‘(i) a reproductive or developmental 
+2
+toxicant; 
+3
+‘‘(ii) persistent, bioaccumulative, and 
+4
+toxic; 
+5
+‘‘(iii) an allergen; or 
+6
+‘‘(iv) an endocrine disruptor, car-
+7
+cinogen, or mutagen; and 
+8
+‘‘(B) present on the most recent version in 
+9
+effect of any of the following lists: 
+10
+‘‘(i) Chapter 6.6 of the California 
+11
+Safe Drinking Water and Toxic Enforce-
+12
+ment Act of 1986 (sections 25249.5 
+13
+through 25249.14 of the California Health 
+14
+and Safety Code), List of Reproductive 
+15
+and Developmental Toxicants and Carcino-
+16
+gens. 
+17
+‘‘(ii) Chemicals classified as ‘Per-
+18
+sistent, Bioaccumulative and Toxic’ by the 
+19
+Toxics Release Inventory published by the 
+20
+Environmental Protection Agency pursuant 
+21
+to section 313 of the Emergency Planning 
+22
+and Community Right-to-Know Act of 
+23
+1986. 
+24
+00:55 Oct 14, 2021
+H5539
+4 
+•HR 5539 IH
+‘‘(iii) European Union Regulation 
+1
+1223/2009/EC on Cosmetic Products, as 
+2
+amended by Regulation (EU) 2020/1683, 
+3
+Annex II–Prohibited Substances. 
+4
+‘‘(iv) Annex III of European Union 
+5
+Cosmetics Regulation No. 1223/2009, as 
+6
+required to be disclosed pursuant to Euro-
+7
+pean Union Detergents Regulation No. 
+8
+21648/2004. 
+9
+‘‘(v) Chemicals included in the Euro-
+10
+pean Union Candidate List of Substances 
+11
+of Very High Concern in accordance with 
+12
+Article 59 of the REACH Regulation (EC) 
+13
+No. 1907/2006 on the basis of fulfilling 
+14
+the criteria defined in Article 57(f) for en-
+15
+docrine-disrupting properties. 
+16
+‘‘(vi) Substances classified as carcino-
+17
+gens, mutagens, or reproductive toxicants 
+18
+in Appendices 1–6 of Annex XVII to Regu-
+19
+lation (EC) No. 1907/2006 of the Euro-
+20
+pean Union’s Registration, Evaluation, 
+21
+Authorisation, and Restriction of Chemi-
+22
+cals (REACH) law, as revised by the Com-
+23
+mission Regulation (EU) 2020/2096 of 
+24
+December 15, 2020. 
+25
+00:55 Oct 14, 2021
+H5539
+5 
+•HR 5539 IH
+‘‘(vii) Group 1, 2A, or 2B carcinogens 
+1
+identified by the International Agency for 
+2
+Research on Cancer of the World Health 
+3
+Organization. 
+4
+‘‘(viii) Any other list the Secretary de-
+5
+termines appropriate for purposes of this 
+6
+subchapter. 
+7
+‘‘(5) 
+INGREDIENT.—The 
+term 
+‘ingredient’ 
+8
+means an intentionally added chemical in a cosmetic 
+9
+that has a technical or functional effect, including— 
+10
+‘‘(A) the breakdown products of an inten-
+11
+tionally added chemical that also have a func-
+12
+tional or technical effect in the cosmetic; 
+13
+‘‘(B) a fragrance, flavor, preservative, or 
+14
+colorant (and the components thereof); and 
+15
+‘‘(C) any individual component that the 
+16
+Secretary deems to be an ingredient for pur-
+17
+poses of this subchapter. 
+18
+‘‘(6) INCIDENTAL COMPONENT.—The term ‘in-
+19
+cidental component’ means— 
+20
+‘‘(A) a chemical added during the manu-
+21
+facturing process at any point in a cosmetic’s, 
+22
+or an ingredient’s, supply chain, but which has 
+23
+no functional or technical effect in the finished 
+24
+cosmetic; or 
+25
+00:55 Oct 14, 2021
+H5539
+6 
+•HR 5539 IH
+‘‘(B) a chemical present in the environ-
+1
+ment which was introduced into a cosmetic, or 
+2
+into an ingredient, at any point in the supply 
+3
+chain for the cosmetic or ingredient. 
+4
+‘‘(7) MANUFACTURER.—The term ‘manufac-
+5
+turer’ means any entity that— 
+6
+‘‘(A) produces an ingredient; or 
+7
+‘‘(B) combines one or more ingredients to 
+8
+produce a cosmetic. 
+9
+‘‘(8) 
+NONFUNCTIONAL
+CONSTITUENT.—The 
+10
+term ‘nonfunctional constituent’ means a chemical 
+11
+that has no functional or technical effect on the 
+12
+product or ingredient and is present— 
+13
+‘‘(A) as an incidental component of an in-
+14
+tentionally added ingredient; 
+15
+‘‘(B) as a breakdown product of an inten-
+16
+tionally added ingredient; 
+17
+‘‘(C) as a byproduct of the manufacturing 
+18
+process; 
+19
+‘‘(D) due to storage of primary substances; 
+20
+or 
+21
+‘‘(E) due to instability of the packaging. 
+22
+‘‘(9) RAW MATERIAL.—The term ‘raw material’ 
+23
+means a substance or mixture of substances that— 
+24
+00:55 Oct 14, 2021
+H5539
+7 
+•HR 5539 IH
+‘‘(A) is used in the manufacture of a cos-
+1
+metic for commercial distribution; and 
+2
+‘‘(B) is supplied to a cosmetic manufac-
+3
+turer, packer, or distributor by a cosmetic raw 
+4
+material manufacturer or supplier. 
+5
+‘‘(10) SUPPLIER.—The term ‘supplier’— 
+6
+‘‘(A) means an entity that supplies a cos-
+7
+metic, cosmetic packaging, or an ingredient or 
+8
+raw material of a cosmetic or cosmetic pack-
+9
+aging; and 
+10
+‘‘(B) includes any such entity that is a 
+11
+manufacturer, a formulating laboratory, or a 
+12
+fragrance or flavor company. 
+13
+‘‘SEC. 612. COSMETIC AND INGREDIENT SAFETY INFORMA-
+14
+TION. 
+15
+‘‘At the request of a brand owner of a cosmetic, a 
+16
+supplier of the cosmetic or any ingredient therein shall, 
+17
+not later than 90 days after receipt of such request, pro-
+18
+vide to the brand owner, with respect to the cosmetic or 
+19
+ingredient, any of the following information: 
+20
+‘‘(1)(A) Functions and uses. 
+21
+‘‘(B) The human health and environmental haz-
+22
+ards. 
+23
+‘‘(C) The physical and chemical properties. 
+24
+00:55 Oct 14, 2021
+H5539
+8 
+•HR 5539 IH
+‘‘(D) The Chemical Abstracts Services Registry 
+1
+number of any such ingredient. 
+2
+‘‘(E) Environmental exposure and fate informa-
+3
+tion. 
+4
+‘‘(F) Any other information used to substan-
+5
+tiate the safety of such ingredient. 
+6
+‘‘(2) A full and complete listing of ingredients 
+7
+in fragrance or flavor formulations, preservative sys-
+8
+tems, or other ingredient formulations, including the 
+9
+presence of any allergens. 
+10
+‘‘(3) A full and complete listing of ingredients 
+11
+in a finished cosmetic presented in descending order 
+12
+of predominance by weight, except that ingredients 
+13
+present in amounts of 1 percent or less by weight 
+14
+can be placed in any order at the end of the ingre-
+15
+dient statement. 
+16
+‘‘(4) A certificate of analysis for the ingredient. 
+17
+‘‘SEC. 613. PROCESS FOR ESTABLISHING AN FDA LIST OF 
+18
+NONFUNCTIONAL CONSTITUENTS KNOWN OR 
+19
+REASONABLY EXPECTED TO BE PRESENT IN 
+20
+COSMETICS AND INGREDIENTS. 
+21
+‘‘(a) IN GENERAL.—The Secretary shall create and 
+22
+maintain a list of nonfunctional constituents to guide test-
+23
+ing under this subchapter conducted by suppliers of cos-
+24
+metics and ingredients. 
+25
+00:55 Oct 14, 2021
+H5539
+9 
+•HR 5539 IH
+‘‘(b) CONTENTS.—The list under subsection (a) shall 
+1
+consist of nonfunctional constituents that are— 
+2
+‘‘(1) known or reasonably expected to be 
+3
+present in cosmetics or ingredients; and 
+4
+‘‘(2) subject to subsection (e)(2), harmful to 
+5
+human health or the environment. 
+6
+‘‘(c) IDENTIFICATION OF INGREDIENTS AND COS-
+7
+METICS.—For each nonfunctional constituent on the list 
+8
+under subsection (a), the Secretary shall identify the spe-
+9
+cific ingredient or cosmetic, or category of ingredients or 
+10
+cosmetics, in which the nonfunctional constituent is known 
+11
+or reasonably expected to be present. 
+12
+‘‘(d) INITIAL LIST.— 
+13
+‘‘(1) IN GENERAL.—In creating the initial list 
+14
+under subsection (a), the Secretary shall— 
+15
+‘‘(A) publish a proposed list and provide 
+16
+an opportunity for public comment on such pro-
+17
+posed list for a period of 60 days; and 
+18
+‘‘(B) not later than 18 months after the 
+19
+date of enactment of the Cosmetic Supply 
+20
+Chain Transparency Act of 2021, finalize and 
+21
+publish the list. 
+22
+‘‘(2) ADVISORY COMMITTEE.— 
+23
+‘‘(A) IN
+GENERAL.—Not later than 9 
+24
+months after the date of enactment of the Cos-
+25
+00:55 Oct 14, 2021
+H5539
+10 
+•HR 5539 IH
+metic Supply Chain Transparency Act of 2021, 
+1
+the Secretary shall convene an advisory com-
+2
+mittee to advise the Secretary on— 
+3
+‘‘(i) creating the initial list under sub-
+4
+section (a); and 
+5
+‘‘(ii) best practices related to analyt-
+6
+ical testing for nonfunctional constituents 
+7
+in cosmetics and ingredients. 
+8
+‘‘(B) MEMBERSHIP.—The membership of 
+9
+the advisory committee convened under sub-
+10
+paragraph (A) shall consist of an equal number 
+11
+of— 
+12
+‘‘(i) representatives from industry; 
+13
+‘‘(ii) representatives from the non-
+14
+profit community; 
+15
+‘‘(iii) representatives from the sci-
+16
+entific community; and 
+17
+‘‘(iv) representatives from the medical 
+18
+and public health community. 
+19
+‘‘(C) TERMINATION.—The Secretary shall 
+20
+terminate the advisory committee convened 
+21
+under this paragraph upon the finalization of 
+22
+the initial list pursuant to paragraph (1). 
+23
+‘‘(e) UPDATES.—Not less than annually after the fi-
+24
+nalization pursuant to subsection (d) of the initial list 
+25
+00:55 Oct 14, 2021
+H5539
+11 
+•HR 5539 IH
+under subsection (a), and not less than annually there-
+1
+after, the Secretary shall— 
+2
+‘‘(1) review the list under subsection (a); 
+3
+‘‘(2) after providing a period of at least 30 days 
+4
+for public comment, update the list by adding non-
+5
+functional constituents that are known or reasonably 
+6
+expected to be present in a cosmetic or ingredient as 
+7
+specified in subsection (b)(1) and— 
+8
+‘‘(A) are determined by the Secretary to 
+9
+meet 
+the 
+standard 
+specified 
+in 
+section 
+10
+611(4)(A) based on existing and emerging 
+11
+science; or 
+12
+‘‘(B) have been added to one of the lists in 
+13
+section 611(4)(B); and 
+14
+‘‘(3) update the list by adding any nonfunc-
+15
+tional constituent whose addition was approved pur-
+16
+suant to a petition under subsection (f). 
+17
+‘‘(f) PETITION PROCESS
+FOR ADDING NONFUNC-
+18
+TIONAL CONSTITUENTS OR NEW LISTS.— 
+19
+‘‘(1) IN GENERAL.—Any person may petition, 
+20
+in accordance with paragraph (3), to add— 
+21
+‘‘(A) a nonfunctional constituent to the list 
+22
+under subsection (a); or 
+23
+‘‘(B) a new list to the lists specified in sec-
+24
+tion 611(4)(B). 
+25
+00:55 Oct 14, 2021
+H5539
+12 
+•HR 5539 IH
+‘‘(2) DEVELOPMENT
+OF
+PROCESS.—The Sec-
+1
+retary— 
+2
+‘‘(A) not later than 24 months after the 
+3
+date of enactment of the Cosmetic Supply 
+4
+Chain Transparency Act of 2021, shall develop 
+5
+and publish the process for submitting a peti-
+6
+tion under this subsection; and 
+7
+‘‘(B) may periodically review and update 
+8
+such process. 
+9
+‘‘(3) REQUIREMENTS FOR PROCESS.—The proc-
+10
+ess developed and updated by the Secretary under 
+11
+paragraph (2) shall be consistent with the following: 
+12
+‘‘(A) Such process shall specify the nec-
+13
+essary scientific justification that must be in-
+14
+cluded in a petition. 
+15
+‘‘(B) The Secretary shall— 
+16
+‘‘(i) provide a 30-day period for public 
+17
+comment on a petition; and 
+18
+‘‘(ii) not later than 90 days after the 
+19
+close of such public comment period, ap-
+20
+prove or deny the petition. 
+21
+‘‘(C) If the Secretary approves a petition, 
+22
+the Secretary shall provide notice in the Federal 
+23
+Register of each addition made pursuant to 
+24
+such approval. 
+25
+00:55 Oct 14, 2021
+H5539
+13 
+•HR 5539 IH
+‘‘(D) In denying a petition, the Secretary 
+1
+shall provide a written justification to the peti-
+2
+tioner for the denial. 
+3
+‘‘(g) GUIDANCE.—The Secretary— 
+4
+‘‘(1) shall, concurrently with the publication of 
+5
+the initial list under subsection (a), and upon adding 
+6
+any nonfunctional constituent pursuant to subsection 
+7
+(e) or (f) to the list under subsection (a), issue guid-
+8
+ance for industry on best practices related to— 
+9
+‘‘(A) analytical testing for nonfunctional 
+10
+constituents in cosmetics and ingredients; and 
+11
+‘‘(B) detection limits; and 
+12
+‘‘(2) may periodically review and update such 
+13
+guidance. 
+14
+‘‘SEC. 614. TREATMENT OF NONFUNCTIONAL CONSTITU-
+15
+ENTS. 
+16
+‘‘A supplier of an ingredient or cosmetic shall— 
+17
+‘‘(1) not later than 1 year after a nonfunctional 
+18
+constituent is added to the list under section 613(a) 
+19
+pursuant to subsection (d), (e), or (f) of section 613, 
+20
+conduct testing for such nonfunctional constituent; 
+21
+and 
+22
+‘‘(2) prior to the sale of the ingredient or cos-
+23
+metic to the brand owner, provide the brand owner 
+24
+a certificate of analysis that includes— 
+25
+00:55 Oct 14, 2021
+H5539
+14 
+•HR 5539 IH
+‘‘(A) the levels of each such nonfunctional 
+1
+constituent present; 
+2
+‘‘(B) any analytical test used; and 
+3
+‘‘(C) the detection limits of any analytical 
+4
+test used to detect each such nonfunctional con-
+5
+stituent. 
+6
+‘‘SEC. 615. NOTIFICATION, NONDISTRIBUTION, AND RECALL 
+7
+OF ADULTERATED OR MISBRANDED COS-
+8
+METICS. 
+9
+‘‘(a) SUPPLY CHAIN INFORMATION.—In the case of 
+10
+a cosmetic that the Secretary has reason to believe is adul-
+11
+terated, misbranded, or otherwise in violation of this Act, 
+12
+the Secretary shall request that the brand owner named 
+13
+on the label of such cosmetic submit to the Secretary all 
+14
+of the following information: 
+15
+‘‘(1) The name and place of business of the 
+16
+manufacturer of the cosmetic and any supplier of an 
+17
+ingredient or raw material used in the manufacture 
+18
+of the cosmetic. 
+19
+‘‘(2) The name and place of business of any en-
+20
+tity (including any retailer) to which the brand 
+21
+owner provided the cosmetic. 
+22
+‘‘(b) COLLECTION OF ADDITIONAL SUPPLY CHAIN 
+23
+INFORMATION.—In the case of a cosmetic that the Sec-
+24
+retary has reason to believe is adulterated, misbranded, 
+25
+00:55 Oct 14, 2021
+H5539
+15 
+•HR 5539 IH
+or otherwise in violation of this Act, to the extent nec-
+1
+essary to protect the safety of the public, the Secretary 
+2
+may request that any entity in the supply chain of such 
+3
+cosmetic submit to the Secretary information that is simi-
+4
+lar to the information described in paragraphs (1) and (2) 
+5
+of subsection (a). 
+6
+‘‘(c) MAINTENANCE OF RECORDS.—Any entity in the 
+7
+supply chain of a cosmetic (including the brand owner 
+8
+named on the label of a cosmetic) shall— 
+9
+‘‘(1) maintain records sufficient to provide the 
+10
+information described in paragraphs (1) and (2) of 
+11
+subsection (a); and 
+12
+‘‘(2) provide such information to the Secretary 
+13
+upon the request of the Secretary. 
+14
+‘‘SEC. 616. CIVIL PENALTIES. 
+15
+‘‘Any person that violates section 612, 614, or 615 
+16
+shall be liable to the United States for a civil penalty in 
+17
+an amount not to exceed $1,500 for each day on which 
+18
+such violation continues.’’. 
+19
+Æ 
+00:55 Oct 14, 2021
+H5539

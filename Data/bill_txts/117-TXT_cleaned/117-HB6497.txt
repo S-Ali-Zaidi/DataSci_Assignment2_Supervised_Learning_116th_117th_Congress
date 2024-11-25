@@ -1,0 +1,6026 @@
+A BILL 
+To modernize Federal information security management and 
+improve Federal cybersecurity to combat persisting and 
+emerging threats, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Federal Information 
+4
+Security Modernization Act of 2022’’. 
+5
+04:39 Jan 27, 2022
+H6497
+2 
+•HR 6497 IH
+SEC. 2. TABLE OF CONTENTS. 
+1
+The table of contents for this Act is as follows: 
+2
+Sec. 1. Short title. 
+Sec. 2. Table of contents. 
+Sec. 3. Definitions. 
+TITLE I—UPDATES TO FISMA 
+Sec. 101. Title 44 amendments. 
+Sec. 102. Amendments to subtitle III of title 40. 
+Sec. 103. Actions to enhance Federal incident response. 
+Sec. 104. Additional guidance to agencies on FISMA updates. 
+Sec. 105. Agency requirements to notify private sector entities impacted by in-
+cidents. 
+TITLE II—IMPROVING FEDERAL CYBERSECURITY 
+Sec. 201. Mobile security standards. 
+Sec. 202. Data and logging retention for incident response. 
+Sec. 203. Federal penetration testing policy. 
+Sec. 204. Ongoing threat hunting program. 
+Sec. 205. Codifying vulnerability disclosure programs. 
+Sec. 206. Implementing zero trust architecture. 
+Sec. 207. GAO automation report. 
+Sec. 208. Extension of Federal Acquisition Security Council. 
+Sec. 209. Federal chief information security officer. 
+Sec. 210. Extension of Chief Data Officer Council. 
+Sec. 211. Council of the inspectors general on integrity and efficiency dash-
+board. 
+Sec. 212. Quantitative cybersecurity metrics. 
+TITLE III—PILOT PROGRAMS TO ENHANCE FEDERAL 
+CYBERSECURITY 
+Sec. 301. Risk-based budget pilot. 
+Sec. 302. Active cyber defensive study. 
+Sec. 303. Security operations center as a service pilot. 
+Sec. 304. Endpoint detection and response as a service pilot. 
+SEC. 3. DEFINITIONS. 
+3
+In this Act, unless otherwise specified: 
+4
+(1) 
+ADDITIONAL
+CYBERSECURITY
+PROCE-
+5
+DURE.—The term ‘‘additional cybersecurity proce-
+6
+dure’’ has the meaning given the term in section 
+7
+3552(b) of title 44, United States Code, as amended 
+8
+by this Act. 
+9
+04:39 Jan 27, 2022
+H6497
+3 
+•HR 6497 IH
+(2) AGENCY.—The term ‘‘agency’’ has the 
+1
+meaning given the term in section 3502 of title 44, 
+2
+United States Code. 
+3
+(3) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+4
+TEES.—The term ‘‘appropriate congressional com-
+5
+mittees’’ means— 
+6
+(A) the Committee on Homeland Security 
+7
+and Governmental Affairs of the Senate; 
+8
+(B) the Committee on Oversight and Re-
+9
+form of the House of Representatives; and 
+10
+(C) the Committee on Homeland Security 
+11
+of the House of Representatives. 
+12
+(4) DIRECTOR.—The term ‘‘Director’’ means 
+13
+the Director of the Office of Management and Budg-
+14
+et. 
+15
+(5) INCIDENT.—The term ‘‘incident’’ has the 
+16
+meaning given the term in section 3552(b) of title 
+17
+44, United States Code. 
+18
+(6) NATIONAL SECURITY SYSTEM.—The term 
+19
+‘‘national security system’’ has the meaning given 
+20
+the term in section 3552(b) of title 44, United 
+21
+States Code. 
+22
+(7) PENETRATION TEST.—The term ‘‘penetra-
+23
+tion test’’ has the meaning given the term in section 
+24
+04:39 Jan 27, 2022
+H6497
+4 
+•HR 6497 IH
+3552(b) of title 44, United States Code, as amended 
+1
+by this Act. 
+2
+(8) THREAT
+HUNTING.—The term ‘‘threat 
+3
+hunting’’ means iteratively searching systems for 
+4
+threats that evade detection by automated threat de-
+5
+tection systems. 
+6
+(9) ZERO
+TRUST
+ARCHITECTURE.—The term 
+7
+‘‘zero trust architecture’’ means a security model, a 
+8
+set of system design principles, and a coordinated 
+9
+cybersecurity and system management strategy that 
+10
+employs continuous monitoring, risk-based access 
+11
+controls, or system security automation techniques 
+12
+to address the cybersecurity principle that threats 
+13
+exist both inside and outside traditional network 
+14
+boundaries with an assumption that a breach is in-
+15
+evitable or has likely already occurred, and therefore 
+16
+employs least-privileged access for network or system 
+17
+users while monitoring for anomalous or malicious 
+18
+activity. 
+19
+TITLE I—UPDATES TO FISMA 
+20
+SEC. 101. TITLE 44 AMENDMENTS. 
+21
+(a) SUBCHAPTER I AMENDMENTS.—Subchapter I of 
+22
+chapter 35 of title 44, United States Code, is amended— 
+23
+(1) in subsection (a)(1)(B) of section 3504— 
+24
+04:39 Jan 27, 2022
+H6497
+5 
+•HR 6497 IH
+(A) by striking clause (v) and inserting the 
+1
+following: 
+2
+‘‘(v) confidentiality, privacy, disclo-
+3
+sure, and sharing of information;’’; 
+4
+(B) by redesignating clause (vi) as clause 
+5
+(vii); and 
+6
+(C) by inserting after clause (v) the fol-
+7
+lowing: 
+8
+‘‘(vi) in consultation with the National 
+9
+Cyber Director, confidentiality and security 
+10
+of information; and’’; 
+11
+(2) in section 3505— 
+12
+(A) in paragraph (2) of the first subsection 
+13
+designated as subsection (c) by adding ‘‘dis-
+14
+covery of internet-accessible information sys-
+15
+tems and assets, as well as’’ after ‘‘an inventory 
+16
+under this subsection shall include’’; 
+17
+(B) in paragraph (3) of the first subsection 
+18
+designated as subsection (c)— 
+19
+(i) in subparagraph (B)— 
+20
+(I) by inserting ‘‘the Secretary of 
+21
+Homeland Security acting through the 
+22
+Director of the Cybersecurity and In-
+23
+frastructure Security Agency, the Na-
+24
+04:39 Jan 27, 2022
+H6497
+6 
+•HR 6497 IH
+tional Cyber Director, and’’ before 
+1
+‘‘the Comptroller General’’; and 
+2
+(II) by striking ‘‘and’’ at the end; 
+3
+(ii) in subparagraph (C)(v), by strik-
+4
+ing the period at the end and inserting ‘‘; 
+5
+and’’; and 
+6
+(iii) by adding at the end the fol-
+7
+lowing: 
+8
+‘‘(D) maintained on a continual basis 
+9
+through the use of automation, machine-read-
+10
+able data, and scanning wherever practicable.’’; 
+11
+and 
+12
+(C) by striking the second subsection des-
+13
+ignated as subsection (c); 
+14
+(3) in section 3506— 
+15
+(A) in subsection (a)(3), by inserting ‘‘In 
+16
+carrying out these duties, the Chief Information 
+17
+Officer shall coordinate, as appropriate, with 
+18
+the Chief Data Officer in accordance with the 
+19
+designated functions under section 3520(c).’’ 
+20
+after ‘‘reduction of information collection bur-
+21
+dens on the public.’’; and 
+22
+(B) in subsection (b)(1)(C), by inserting ‘‘, 
+23
+availability’’ after ‘‘integrity’’; and 
+24
+(4) in section 3513— 
+25
+04:39 Jan 27, 2022
+H6497
+7 
+•HR 6497 IH
+(A) by redesignating subsection (c) as sub-
+1
+section (d); and 
+2
+(B) by inserting after subsection (b) the 
+3
+following: 
+4
+‘‘(c) Each agency providing a written plan under sub-
+5
+section (b) shall provide any portion of the written plan 
+6
+addressing information security to the National Cyber Di-
+7
+rector.’’. 
+8
+(b) SUBCHAPTER II DEFINITIONS.— 
+9
+(1) IN GENERAL.—Section 3552(b) of title 44, 
+10
+United States Code, is amended— 
+11
+(A) by redesignating paragraphs (1), (2), 
+12
+(3), (4), (5), (6), and (7) as paragraphs (2), 
+13
+(4), (5), (6), (7), (9), and (11), respectively; 
+14
+(B) by inserting before paragraph (2), as 
+15
+so redesignated, the following: 
+16
+‘‘(1) The term ‘additional cybersecurity proce-
+17
+dure’ means a process, procedure, or other activity 
+18
+that is established in excess of the information secu-
+19
+rity standards promulgated under section 11331(b) 
+20
+of title 40 to increase the security and reduce the cy-
+21
+bersecurity risk of agency systems.’’; 
+22
+(C) by inserting after paragraph (2), as so 
+23
+redesignated, the following: 
+24
+04:39 Jan 27, 2022
+H6497
+8 
+•HR 6497 IH
+‘‘(3) The term ‘high value asset’ means infor-
+1
+mation or an information system that the head of an 
+2
+agency determines, using policies, principles, stand-
+3
+ards, or guidelines issued by the Director under sec-
+4
+tion 3553(a), to be so critical to the agency that the 
+5
+loss or corruption of the information or the loss of 
+6
+access to the information system would have a seri-
+7
+ous impact on the ability of the agency to perform 
+8
+the mission of the agency or conduct business.’’; 
+9
+(D) by inserting after paragraph (7), as so 
+10
+redesignated, the following: 
+11
+‘‘(8) The term ‘major incident’ has the meaning 
+12
+given the term in guidance issued by the Director 
+13
+under section 3598(a).’’; 
+14
+(E) by inserting after paragraph (9), as so 
+15
+redesignated, the following: 
+16
+‘‘(10) The term ‘penetration test’ has the mean-
+17
+ing given the term in guidance issued by the Direc-
+18
+tor.’’; and 
+19
+(F) by inserting after paragraph (11), as 
+20
+so redesignated, the following: 
+21
+‘‘(12) The term ‘shared service’ means a cen-
+22
+tralized business or mission capability that is pro-
+23
+vided to multiple organizations within an agency or 
+24
+to multiple agencies.’’. 
+25
+04:39 Jan 27, 2022
+H6497
+9 
+•HR 6497 IH
+(2) CONFORMING AMENDMENTS.— 
+1
+(A) HOMELAND SECURITY ACT OF 2002.— 
+2
+Section 1001(c)(1)(A) of the Homeland Secu-
+3
+rity Act of 2002 (6 U.S.C. 511(1)(A)) is 
+4
+amended by striking ‘‘section 3552(b)(5)’’ and 
+5
+inserting ‘‘section 3552(b)’’. 
+6
+(B) TITLE 10.— 
+7
+(i) SECTION 2222.—Section 2222(i)(8) 
+8
+of title 10, United States Code, is amended 
+9
+by striking ‘‘section 3552(b)(6)(A)’’ and 
+10
+inserting ‘‘section 3552(b)(9)(A)’’. 
+11
+(ii) 
+SECTION
+2223.—Section 
+12
+2223(c)(3) of title 10, United States Code, 
+13
+is 
+amended 
+by 
+striking 
+‘‘section 
+14
+3552(b)(6)’’ 
+and 
+inserting 
+‘‘section 
+15
+3552(b)’’. 
+16
+(iii) SECTION 2315.—Section 2315 of 
+17
+title 10, United States Code, is amended 
+18
+by striking ‘‘section 3552(b)(6)’’ and in-
+19
+serting ‘‘section 3552(b)’’. 
+20
+(iv) 
+SECTION
+2339A.—Section 
+21
+2339a(e)(5) of title 10, United States 
+22
+Code, is amended by striking ‘‘section 
+23
+3552(b)(6)’’ 
+and 
+inserting 
+‘‘section 
+24
+3552(b)’’. 
+25
+04:39 Jan 27, 2022
+H6497
+10 
+•HR 6497 IH
+(C) HIGH-PERFORMANCE COMPUTING ACT 
+1
+OF 1991.—Section 207(a) of the High-Perform-
+2
+ance Computing Act of 1991 (15 U.S.C. 
+3
+5527(a)) is amended by striking ‘‘section 
+4
+3552(b)(6)(A)(i)’’ 
+and 
+inserting 
+‘‘section 
+5
+3552(b)(9)(A)(i)’’. 
+6
+(D) INTERNET
+OF
+THINGS
+CYBERSECU-
+7
+RITY IMPROVEMENT ACT OF 2020.—Section 3(5) 
+8
+of the Internet of Things Cybersecurity Im-
+9
+provement Act of 2020 (15 U.S.C. 278g–3a) is 
+10
+amended by striking ‘‘section 3552(b)(6)’’ and 
+11
+inserting ‘‘section 3552(b)’’. 
+12
+(E) NATIONAL DEFENSE AUTHORIZATION 
+13
+ACT
+FOR
+FISCAL
+YEAR
+2013.—Section 
+14
+933(e)(1)(B) of the National Defense Author-
+15
+ization Act for Fiscal Year 2013 (10 U.S.C. 
+16
+2224 note) is amended by striking ‘‘section 
+17
+3542(b)(2)’’ and inserting ‘‘section 3552(b)’’. 
+18
+(F) IKE SKELTON NATIONAL DEFENSE AU-
+19
+THORIZATION ACT FOR FISCAL YEAR 2011.—The 
+20
+Ike Skelton National Defense Authorization Act 
+21
+for Fiscal Year 2011 (Public Law 111–383) is 
+22
+amended— 
+23
+04:39 Jan 27, 2022
+H6497
+11 
+•HR 6497 IH
+(i) in section 806(e)(5) (10 U.S.C. 
+1
+2304 note), by striking ‘‘section 3542(b)’’ 
+2
+and inserting ‘‘section 3552(b)’’; 
+3
+(ii) in section 931(b)(3) (10 U.S.C. 
+4
+2223 
+note), 
+by 
+striking 
+‘‘section 
+5
+3542(b)(2)’’ 
+and 
+inserting 
+‘‘section 
+6
+3552(b)’’; and 
+7
+(iii) in section 932(b)(2) (10 U.S.C. 
+8
+2224 
+note), 
+by 
+striking 
+‘‘section 
+9
+3542(b)(2)’’ 
+and 
+inserting 
+‘‘section 
+10
+3552(b)’’. 
+11
+(G) E-GOVERNMENT
+ACT
+OF
+2002.—Sec-
+12
+tion 301(c)(1)(A) of the E–Government Act of 
+13
+2002 (44 U.S.C. 3501 note) is amended by 
+14
+striking ‘‘section 3542(b)(2)’’ and inserting 
+15
+‘‘section 3552(b)’’. 
+16
+(H) NATIONAL INSTITUTE OF STANDARDS 
+17
+AND TECHNOLOGY ACT.—Section 20 of the Na-
+18
+tional Institute of Standards and Technology 
+19
+Act (15 U.S.C. 278g–3) is amended— 
+20
+(i) in subsection (a)(2), by striking 
+21
+‘‘section 3552(b)(5)’’ and inserting ‘‘sec-
+22
+tion 3552(b)’’; and 
+23
+(ii) in subsection (f)— 
+24
+04:39 Jan 27, 2022
+H6497
+12 
+•HR 6497 IH
+(I) in paragraph (3), by striking 
+1
+‘‘section 3532(1)’’ and inserting ‘‘sec-
+2
+tion 3552(b)’’; and 
+3
+(II) in paragraph (5), by striking 
+4
+‘‘section 3532(b)(2)’’ and inserting 
+5
+‘‘section 3552(b)’’. 
+6
+(c) SUBCHAPTER II AMENDMENTS.—Subchapter II 
+7
+of chapter 35 of title 44, United States Code, is amend-
+8
+ed— 
+9
+(1) in section 3551— 
+10
+(A) in paragraph (4), by striking ‘‘diag-
+11
+nose and improve’’ and inserting ‘‘integrate, de-
+12
+liver, diagnose, and improve’’; 
+13
+(B) in paragraph (5), by striking ‘‘and’’ at 
+14
+the end; 
+15
+(C) in paragraph (6), by striking the pe-
+16
+riod at the end and inserting a semicolon; and 
+17
+(D) by adding at the end the following: 
+18
+‘‘(7) recognize that each agency has specific 
+19
+mission requirements and, at times, unique cyberse-
+20
+curity requirements to meet the mission of the agen-
+21
+cy; 
+22
+‘‘(8) recognize that each agency does not have 
+23
+the same resources to secure agency systems, and an 
+24
+agency should not be expected to have the capability 
+25
+04:39 Jan 27, 2022
+H6497
+13 
+•HR 6497 IH
+to secure the systems of the agency from advanced 
+1
+adversaries alone; and 
+2
+‘‘(9) recognize that a holistic Federal cybersecu-
+3
+rity model is necessary to account for differences be-
+4
+tween the missions and capabilities of agencies.’’; 
+5
+(2) in section 3553— 
+6
+(A) in subsection (a)— 
+7
+(i) in paragraph (5), by striking 
+8
+‘‘and’’ at the end; 
+9
+(ii) in paragraph (6), by striking the 
+10
+period at the end and inserting ‘‘; and’’; 
+11
+and 
+12
+(iii) by adding at the end the fol-
+13
+lowing: 
+14
+‘‘(7) promoting, in consultation with the Direc-
+15
+tor of the Cybersecurity and Infrastructure Security 
+16
+Agency, the National Cyber Director, and the Direc-
+17
+tor of the National Institute of Standards and Tech-
+18
+nology— 
+19
+‘‘(A) the use of automation to improve 
+20
+Federal cybersecurity and visibility with respect 
+21
+to the implementation of Federal cybersecurity; 
+22
+and 
+23
+04:39 Jan 27, 2022
+H6497
+14 
+•HR 6497 IH
+‘‘(B) the use of zero trust architecture to 
+1
+improve resiliency and timely response actions 
+2
+to incidents on Federal systems.’’; 
+3
+(B) in subsection (b)— 
+4
+(i) in the matter preceding paragraph 
+5
+(1), by striking ‘‘The Secretary, in con-
+6
+sultation with the Director’’ and inserting 
+7
+‘‘The Secretary of Homeland Security, act-
+8
+ing through the Director of the Cybersecu-
+9
+rity and Infrastructure Security Agency 
+10
+and in consultation with the Director and 
+11
+the National Cyber Director’’; 
+12
+(ii) in paragraph (2)(A), by inserting 
+13
+‘‘and reporting requirements under sub-
+14
+chapter IV of this chapter’’ after ‘‘section 
+15
+3556’’; 
+16
+(iii) redesignate paragraphs (8) and 
+17
+(9) as paragraphs (9) and (10); and 
+18
+(iv) insert a new paragraph (8): 
+19
+‘‘(8) expeditiously seek opportunities to reduce 
+20
+costs, administrative burdens, and other barriers to 
+21
+information technology security and modernization 
+22
+for Federal agencies, including through— 
+23
+‘‘(A) central shared services contracts for 
+24
+cybersecurity capabilities identified as optimal 
+25
+04:39 Jan 27, 2022
+H6497
+15 
+•HR 6497 IH
+by the Director, in coordination with the Sec-
+1
+retary acting through the Director of the Cy-
+2
+bersecurity and Infrastructure Security Agency 
+3
+and other agencies as appropriate; and 
+4
+‘‘(B) offering technical assistance and ex-
+5
+pertise to agencies on the selection and success-
+6
+ful engagement of highly adaptive cybersecurity 
+7
+service contracts and other relevant contracts 
+8
+provided by the U.S. General Services Adminis-
+9
+tration.’’; 
+10
+(C) in subsection (c)— 
+11
+(i) in the matter preceding paragraph 
+12
+(1), by striking ‘‘each year’’ and inserting 
+13
+‘‘each year during which agencies are re-
+14
+quired to submit reports under section 
+15
+3554(c)’’ and by striking ‘‘preceding year’’ 
+16
+and inserting ‘‘preceding two years’’; 
+17
+(ii) by striking paragraph (1); 
+18
+(iii) by redesignating paragraphs (2), 
+19
+(3), and (4) as paragraphs (1), (2), and 
+20
+(3), respectively; 
+21
+(iv) in paragraph (3), as so redesig-
+22
+nated, by striking ‘‘and’’ at the end; and 
+23
+(v) by inserting after paragraph (3), 
+24
+as so redesignated, the following: 
+25
+04:39 Jan 27, 2022
+H6497
+16 
+•HR 6497 IH
+‘‘(4) a summary of each assessment of Federal 
+1
+risk posture performed under subsection (i); and’’; 
+2
+(D) by redesignating subsections (i), (j), 
+3
+(k), and (l) as subsections (j), (k), (l), and (m) 
+4
+respectively; 
+5
+(E) in subsection (h)— 
+6
+(i) in paragraph (2), subparagraph 
+7
+(A) adding ‘‘and the National Cyber Direc-
+8
+tor’’ after ‘‘in coordination with the Direc-
+9
+tor’’; 
+10
+(ii) in paragraph (2), subparagraph 
+11
+(D) adding ‘‘, the National Cyber Direc-
+12
+tor,’’ after ‘‘notify the Director’’; and 
+13
+(iii) in paragraph (3), subparagraph 
+14
+(A), clause (iv) adding ‘‘, the National 
+15
+Cyber Director,’’ after ‘‘the Secretary pro-
+16
+vides prior notice to the Director’’; 
+17
+(F) by inserting after subsection (h) the 
+18
+following: 
+19
+‘‘(i) FEDERAL RISK ASSESSMENTS.—On an ongoing 
+20
+and continuous basis, the Director of the Cybersecurity 
+21
+and Infrastructure Security Agency shall perform assess-
+22
+ments using any available information on the cybersecu-
+23
+rity posture of agencies, and brief the Director and Na-
+24
+04:39 Jan 27, 2022
+H6497
+17 
+•HR 6497 IH
+tional Cyber Director on the findings of those assessments 
+1
+including— 
+2
+‘‘(1) the status of agency cybersecurity remedial 
+3
+actions described in section 3554(b)(7); 
+4
+‘‘(2) any vulnerability information relating to 
+5
+the systems of an agency that is known by the agen-
+6
+cy; 
+7
+‘‘(3) analysis of incident information under sec-
+8
+tion 3597; 
+9
+‘‘(4) evaluation of penetration testing per-
+10
+formed under section 3559A; 
+11
+‘‘(5) evaluation of vulnerability disclosure pro-
+12
+gram information under section 3559B; 
+13
+‘‘(6) evaluation of agency threat hunting re-
+14
+sults; 
+15
+‘‘(7) evaluation of Federal and non-Federal 
+16
+cyber threat intelligence; 
+17
+‘‘(8) data on agency compliance with standards 
+18
+issued under section 11331 of title 40; 
+19
+‘‘(9) agency system risk assessments performed 
+20
+under section 3554(a)(1)(A); and 
+21
+‘‘(10) any other information the Director of the 
+22
+Cybersecurity and Infrastructure Security Agency 
+23
+determines relevant.’’; 
+24
+(G) in subsection (j), as so redesignated— 
+25
+04:39 Jan 27, 2022
+H6497
+18 
+•HR 6497 IH
+(i) by striking ‘‘Not later than’’ and 
+1
+inserting: 
+2
+‘‘(1) IN GENERAL.—Not later than’’; 
+3
+(ii) by striking ‘‘regarding the spe-
+4
+cific’’ and inserting ‘‘that includes a sum-
+5
+mary of— 
+6
+‘‘(A) the specific’’; 
+7
+(iii) in paragraph (1), as so des-
+8
+ignated, by striking the period at the end 
+9
+and inserting ‘‘; and’’; and 
+10
+(iv) by adding at the end the fol-
+11
+lowing: 
+12
+‘‘(B) the trends identified in the Federal 
+13
+risk assessments performed under subsection 
+14
+(i). 
+15
+‘‘(2) FORM.—The report required under para-
+16
+graph (1) shall be unclassified but may include a 
+17
+classified annex.’’; and 
+18
+(H) by adding at the end the following: 
+19
+‘‘(n) BINDING OPERATIONAL DIRECTIVES.—If the 
+20
+Director of the Cybersecurity and Infrastructure Security 
+21
+Agency issues a binding operational directive or an emer-
+22
+gency directive under this section, not later than 7 days 
+23
+after the date on which the binding operational directive 
+24
+requires an agency to take an action, the Director of the 
+25
+04:39 Jan 27, 2022
+H6497
+19 
+•HR 6497 IH
+Cybersecurity and Infrastructure Security Agency shall 
+1
+provide to the Director and National Cyber Director the 
+2
+status of the implementation of the binding operational 
+3
+directive at the agency.’’; 
+4
+(3) in section 3554— 
+5
+(A) in subsection (a)— 
+6
+(i) in paragraph (1)— 
+7
+(I) by redesignating subpara-
+8
+graphs (A), (B), and (C) as subpara-
+9
+graphs (B), (C), and (D), respectively; 
+10
+(II) by inserting before subpara-
+11
+graph (B), as so redesignated, the fol-
+12
+lowing: 
+13
+‘‘(A) on an ongoing and continuous basis, 
+14
+performing an agency system risk assessment 
+15
+that— 
+16
+‘‘(i) identifies and documents the high 
+17
+value assets of the agency using guidance 
+18
+from the Director; 
+19
+‘‘(ii) evaluates the data assets inven-
+20
+toried under section 3511 for sensitivity to 
+21
+compromises in confidentiality, integrity, 
+22
+and availability; 
+23
+04:39 Jan 27, 2022
+H6497
+20 
+•HR 6497 IH
+‘‘(iii) identifies agency systems that 
+1
+have access to or hold the data assets 
+2
+inventoried under section 3511; 
+3
+‘‘(iv) evaluates the threats facing 
+4
+agency systems and data, including high 
+5
+value assets, based on Federal and non- 
+6
+Federal cyber threat intelligence products, 
+7
+where available; 
+8
+‘‘(v) evaluates the vulnerability of 
+9
+agency systems and data, including high 
+10
+value assets, including by analyzing— 
+11
+‘‘(I) the results of penetration 
+12
+testing performed by the Department 
+13
+of Homeland Security under section 
+14
+3553(b)(9); 
+15
+‘‘(II) the results of penetration 
+16
+testing 
+performed 
+under 
+section 
+17
+3559A; 
+18
+‘‘(III) information provided to 
+19
+the agency through the vulnerability 
+20
+disclosure program of the agency 
+21
+under section 3559B; 
+22
+‘‘(IV) incidents; and 
+23
+04:39 Jan 27, 2022
+H6497
+21 
+•HR 6497 IH
+‘‘(V) any other vulnerability in-
+1
+formation relating to agency systems 
+2
+that is known to the agency; 
+3
+‘‘(vi) assesses the impacts of potential 
+4
+agency incidents to agency systems, data, 
+5
+and operations based on the evaluations 
+6
+described in clauses (ii) and (iv) and the 
+7
+agency systems identified under clause 
+8
+(iii); and 
+9
+‘‘(vii) assesses the consequences of po-
+10
+tential incidents occurring on agency sys-
+11
+tems that would impact systems at other 
+12
+agencies, including due to interconnectivity 
+13
+between different agency systems or oper-
+14
+ational reliance on the operations of the 
+15
+system or data in the system;’’; 
+16
+(III) in subparagraph (B), as so 
+17
+redesignated, in the matter preceding 
+18
+clause (i), by striking ‘‘providing in-
+19
+formation’’ and inserting ‘‘using infor-
+20
+mation from the assessment con-
+21
+ducted under subparagraph (A), pro-
+22
+viding information’’; 
+23
+(IV) in subparagraph (C), as so 
+24
+redesignated— 
+25
+04:39 Jan 27, 2022
+H6497
+22 
+•HR 6497 IH
+(aa) in clause (ii) by insert-
+1
+ing 
+‘‘binding’’ 
+before 
+‘‘oper-
+2
+ational’’; and 
+3
+(bb) in clause (vi), by strik-
+4
+ing ‘‘and’’ at the end; and 
+5
+(V) by adding at the end the fol-
+6
+lowing: 
+7
+‘‘(E) providing an update on the ongoing 
+8
+and continuous assessment performed under 
+9
+subparagraph (A)— 
+10
+‘‘(i) upon request, to the inspector 
+11
+general of the agency or the Comptroller 
+12
+General of the United States; and 
+13
+‘‘(ii) on a periodic basis, as deter-
+14
+mined by guidance issued by the Director 
+15
+but not less frequently than every 2 years, 
+16
+to— 
+17
+‘‘(I) the Director; 
+18
+‘‘(II) the Director of the Cyberse-
+19
+curity and Infrastructure Security 
+20
+Agency; and 
+21
+‘‘(III) the National Cyber Direc-
+22
+tor; 
+23
+‘‘(F) in consultation with the Director of 
+24
+the Cybersecurity and Infrastructure Security 
+25
+04:39 Jan 27, 2022
+H6497
+23 
+•HR 6497 IH
+Agency and not less frequently than once every 
+1
+3 years, performing an evaluation of whether 
+2
+additional cybersecurity procedures are appro-
+3
+priate for securing a system of, or under the 
+4
+supervision of, the agency, which shall— 
+5
+‘‘(i) be completed considering the 
+6
+agency system risk assessment performed 
+7
+under subparagraph (A); and 
+8
+‘‘(ii) include a specific evaluation for 
+9
+high value assets; 
+10
+‘‘(G) not later than 30 days after com-
+11
+pleting the evaluation performed under sub-
+12
+paragraph (F), providing the evaluation and an 
+13
+implementation plan, if applicable, for using ad-
+14
+ditional cybersecurity procedures determined to 
+15
+be appropriate to— 
+16
+‘‘(i) the Director of the Cybersecurity 
+17
+and Infrastructure Security Agency; 
+18
+‘‘(ii) the Director; and 
+19
+‘‘(iii) the National Cyber Director; 
+20
+and 
+21
+‘‘(H) if the head of the agency determines 
+22
+there is need for additional cybersecurity proce-
+23
+dures, ensuring that those additional cybersecu-
+24
+04:39 Jan 27, 2022
+H6497
+24 
+•HR 6497 IH
+rity procedures are reflected in the budget re-
+1
+quest of the agency;’’; and 
+2
+(ii) in paragraph (2)— 
+3
+(I) in subparagraph (A), by in-
+4
+serting ‘‘in accordance with the agen-
+5
+cy system risk assessment performed 
+6
+under paragraph (1)(A)’’ after ‘‘infor-
+7
+mation systems’’; 
+8
+(II) in subparagraph (B)— 
+9
+(aa) by striking ‘‘in accord-
+10
+ance with standards’’ and insert-
+11
+ing ‘‘in accordance with— 
+12
+‘‘(i) standards’’; and 
+13
+(bb) by adding at the end 
+14
+the following: 
+15
+‘‘(ii) the evaluation performed under 
+16
+paragraph (1)(F); and 
+17
+‘‘(iii) the implementation plan de-
+18
+scribed in paragraph (1)(G);’’; and 
+19
+(III) in subparagraph (D), by in-
+20
+serting ‘‘, through the use of penetra-
+21
+tion testing, the vulnerability disclo-
+22
+sure program established under sec-
+23
+tion 3559B, and other means,’’ after 
+24
+‘‘periodically’’; 
+25
+04:39 Jan 27, 2022
+H6497
+25 
+•HR 6497 IH
+(B) in subsection (b)— 
+1
+(i) by striking paragraph (1) and in-
+2
+serting the following: 
+3
+‘‘(1) pursuant to subsection (a)(1)(A), per-
+4
+forming ongoing and continuous agency system risk 
+5
+assessment, which may include using automated 
+6
+tools consistent with standards and guidelines pro-
+7
+mulgated under section 11331 of title 40, as applica-
+8
+ble;’’; 
+9
+(ii) in paragraph (2)(D)— 
+10
+(I) by redesignating clauses (iii) 
+11
+and (iv) as clauses (iv) and (v), re-
+12
+spectively; 
+13
+(II) by inserting after clause (ii) 
+14
+the following: 
+15
+‘‘(iii) binding operational directives 
+16
+and emergency directives promulgated by 
+17
+the Director of the Cybersecurity and In-
+18
+frastructure Security Agency under section 
+19
+3553;’’; and 
+20
+(III) in clause (iv), as so redesig-
+21
+nated, by striking ‘‘as determined by 
+22
+the agency; and’’ and inserting ‘‘as 
+23
+determined by the agency, considering 
+24
+04:39 Jan 27, 2022
+H6497
+26 
+•HR 6497 IH
+the agency risk assessment performed 
+1
+under subsection (a)(1)(A).’’; 
+2
+(iii) in paragraph (5)(A), by inserting 
+3
+‘‘, including penetration testing, as appro-
+4
+priate,’’ after ‘‘shall include testing’’; 
+5
+(iv) by redesignating paragraphs (7) 
+6
+and (8) as paragraphs (8) and (9), respec-
+7
+tively; 
+8
+(v) by inserting after paragraph (6) 
+9
+the following: 
+10
+‘‘(7) a process for providing the status of every 
+11
+remedial action, as well as unremediated identified 
+12
+system vulnerabilities, to the Director and the Direc-
+13
+tor of the Cybersecurity and Infrastructure Security 
+14
+Agency, using automation and machine-readable 
+15
+data to the greatest extent practicable;’’; and 
+16
+(vi) in paragraph (8)(C), as so redes-
+17
+ignated— 
+18
+(I) by striking clause (ii) and in-
+19
+serting the following: 
+20
+‘‘(ii) notifying and consulting with the 
+21
+Federal information security incident cen-
+22
+ter established under section 3556 pursu-
+23
+ant to the requirements of section 3594;’’; 
+24
+04:39 Jan 27, 2022
+H6497
+27 
+•HR 6497 IH
+(II) by redesignating clause (iii) 
+1
+as clause (iv); 
+2
+(III) by inserting after clause (ii) 
+3
+the following: 
+4
+‘‘(iii) performing the notifications and 
+5
+other activities required under subchapter 
+6
+IV of this chapter; and’’; and 
+7
+(IV) in clause (iv), as so redesig-
+8
+nated— 
+9
+(aa) in subclause (II), by 
+10
+adding ‘‘and’’ at the end; 
+11
+(bb) by striking subclause 
+12
+(III); and 
+13
+(cc) by redesignating sub-
+14
+clause (IV) as subclause (III); 
+15
+and 
+16
+(C) in subsection (c)— 
+17
+(i) by redesignating paragraph (2) as 
+18
+paragraph (5); 
+19
+(ii) by striking paragraph (1) and in-
+20
+serting the following: 
+21
+‘‘(1) BIANNUAL
+REPORT.—Not later than 2 
+22
+years after the date of the enactment of the Federal 
+23
+Information Security Modernization Act of 2022 and 
+24
+not less frequently than once every 2 years there-
+25
+04:39 Jan 27, 2022
+H6497
+28 
+•HR 6497 IH
+after, using the continuous and ongoing agency sys-
+1
+tem risk assessment under subsection (a)(1)(A), the 
+2
+head of each agency shall submit to the Director, 
+3
+the Director of the Cybersecurity and Infrastructure 
+4
+Security Agency, the majority and minority leaders 
+5
+of the Senate, the Speaker and minority leader of 
+6
+the House of Representatives, the Committee on 
+7
+Homeland Security and Governmental Affairs of the 
+8
+Senate, the Committee on Oversight and Reform of 
+9
+the House of Representatives, the Committee on 
+10
+Homeland Security of the House of Representatives, 
+11
+the Committee on Commerce, Science, and Trans-
+12
+portation of the Senate, the Committee on Science, 
+13
+Space, and Technology of the House of Representa-
+14
+tives, the appropriate authorization and appropria-
+15
+tions committees of Congress, the National Cyber 
+16
+Director, and the Comptroller General of the United 
+17
+States a report that— 
+18
+‘‘(A) summarizes the agency system risk 
+19
+assessment 
+performed 
+under 
+subsection 
+20
+(a)(1)(A); 
+21
+‘‘(B) evaluates the adequacy and effective-
+22
+ness of information security policies, proce-
+23
+dures, and practices of the agency to address 
+24
+the risks identified in the agency system risk 
+25
+04:39 Jan 27, 2022
+H6497
+29 
+•HR 6497 IH
+assessment 
+performed 
+under 
+subsection 
+1
+(a)(1)(A), including an analysis of the agency’s 
+2
+cybersecurity and incident response capabilities 
+3
+using the metrics established under section 
+4
+224(c) of the Cybersecurity Act of 2015 (6 
+5
+U.S.C. 1522(c)); 
+6
+‘‘(C) summarizes the evaluation and imple-
+7
+mentation plans described in subparagraphs (F) 
+8
+and (G) of subsection (a)(1) and whether those 
+9
+evaluation and implementation plans call for 
+10
+the use of additional cybersecurity procedures 
+11
+determined to be appropriate by the agency; 
+12
+and 
+13
+‘‘(D) summarizes the status of remedial 
+14
+actions identified by inspector general of the 
+15
+agency, the Comptroller General of the United 
+16
+States, and any other source determined appro-
+17
+priate by the head of the agency. 
+18
+‘‘(2) UNCLASSIFIED
+REPORTS.—Each report 
+19
+submitted under paragraph (1)— 
+20
+‘‘(A) shall be, to the greatest extent prac-
+21
+ticable, in an unclassified and otherwise uncon-
+22
+trolled form; and 
+23
+‘‘(B) may include a classified annex. 
+24
+04:39 Jan 27, 2022
+H6497
+30 
+•HR 6497 IH
+‘‘(3) ACCESS TO INFORMATION.—The head of 
+1
+an agency shall ensure that, to the greatest extent 
+2
+practicable, information is included in the unclassi-
+3
+fied form of the report submitted by the agency 
+4
+under paragraph (2)(A). 
+5
+‘‘(4) BRIEFINGS.—During each year during 
+6
+which a report is not required to be submitted under 
+7
+paragraph (1), the Director shall provide to the con-
+8
+gressional committees described in paragraph (1) a 
+9
+briefing summarizing current cybersecurity posture 
+10
+of agencies.’’; and 
+11
+(iii) in paragraph (5), as so redesig-
+12
+nated, by inserting ‘‘, including the report-
+13
+ing procedures established under section 
+14
+11315(d) of title 40 and subsection 
+15
+(a)(3)(A)(v) of this section,’’ after ‘‘poli-
+16
+cies, procedures, and practices’’; and 
+17
+(4) in section 3555— 
+18
+(A) in the section heading, by striking 
+19
+‘‘ANNUAL
+INDEPENDENT’’ 
+and 
+inserting 
+20
+‘‘INDEPENDENT’’; 
+21
+(B) in subsection (a)— 
+22
+(i) in paragraph (1), by inserting 
+23
+‘‘during which a report is required to be 
+24
+04:39 Jan 27, 2022
+H6497
+31 
+•HR 6497 IH
+submitted under section 3553(c),’’ after 
+1
+‘‘Each year’’; 
+2
+(ii) in paragraph (2)(A), by inserting 
+3
+‘‘, including by penetration testing and 
+4
+analyzing the vulnerability disclosure pro-
+5
+gram of the agency’’ after ‘‘information 
+6
+systems’’; and 
+7
+(iii) by adding at the end the fol-
+8
+lowing: 
+9
+‘‘(3) An evaluation under this section may in-
+10
+clude recommendations for improving the cybersecu-
+11
+rity posture of the agency.’’; 
+12
+(C) in subsection (b)(1), by striking ‘‘an-
+13
+nual’’; 
+14
+(D) in subsection (e)(1), by inserting ‘‘dur-
+15
+ing which a report is required to be submitted 
+16
+under section 3553(c)’’ after ‘‘Each year’’; 
+17
+(E) by striking subsection (f) and inserting 
+18
+the following: 
+19
+‘‘(f) PROTECTION OF INFORMATION.—(1) Agencies, 
+20
+evaluators, and other recipients of information that, if dis-
+21
+closed, may cause grave harm to the efforts of Federal 
+22
+information security officers, shall take appropriate steps 
+23
+to ensure the protection of that information, including 
+24
+safeguarding the information from public disclosure. 
+25
+04:39 Jan 27, 2022
+H6497
+32 
+•HR 6497 IH
+‘‘(2) The protections required under paragraph (1) 
+1
+shall be commensurate with the risk and comply with all 
+2
+applicable laws and regulations. 
+3
+‘‘(3) With respect to information that is not related 
+4
+to national security systems, agencies and evaluators shall 
+5
+make a summary of the information unclassified and pub-
+6
+licly available, including information that does not iden-
+7
+tify— 
+8
+‘‘(A) specific information system incidents; or 
+9
+‘‘(B) 
+specific 
+information 
+system 
+10
+vulnerabilities.’’; 
+11
+(F) in subsection (g)(2)— 
+12
+(i) by striking ‘‘this subsection shall’’ 
+13
+and inserting ‘‘this subsection— 
+14
+‘‘(A) shall’’; 
+15
+(ii) in subparagraph (A), as so des-
+16
+ignated, by striking the period at the end 
+17
+and inserting ‘‘; and’’; and 
+18
+(iii) by adding at the end the fol-
+19
+lowing: 
+20
+‘‘(B) identify any entity that performs an 
+21
+independent evaluation under subsection (b).’’; 
+22
+and 
+23
+(G) striking subsection (j); and 
+24
+04:39 Jan 27, 2022
+H6497
+33 
+•HR 6497 IH
+(5) in section 3556(a)(4) by striking ‘‘3554(b)’’ 
+1
+and inserting ‘‘3554(a)(1)(A)’’. 
+2
+(d) CONFORMING AMENDMENTS.— 
+3
+(1) TABLE OF SECTIONS.—The table of sections 
+4
+for chapter 35 of title 44, United States Code, is 
+5
+amended— 
+6
+(A) by striking the item relating to section 
+7
+3553 and inserting the following: 
+8
+‘‘3553. Authority and functions of the Director and the Director of the Cyberse-
+curity and Infrastructure Security Agency.’’; 
+and 
+9
+(B) by striking the item relating to section 
+10
+3555 and inserting the following: 
+11
+‘‘3555. Independent evaluation.’’. 
+(2) OMB REPORTS.—Section 226(c) of the Cy-
+12
+bersecurity Act of 2015 (6 U.S.C. 1524(c)) is 
+13
+amended— 
+14
+(A) in paragraph (1)(B), in the matter 
+15
+preceding clause (i), by striking ‘‘annually 
+16
+thereafter’’ and inserting ‘‘thereafter during the 
+17
+years during which a report is required to be 
+18
+submitted under section 3553(c) of title 44, 
+19
+United States Code’’; and 
+20
+(B) in paragraph (2)(B), in the matter 
+21
+preceding clause (i)— 
+22
+04:39 Jan 27, 2022
+H6497
+34 
+•HR 6497 IH
+(i) by striking ‘‘annually thereafter’’ 
+1
+and inserting ‘‘thereafter during the years 
+2
+during which a report is required to be 
+3
+submitted under section 3553(c) of title 
+4
+44, United States Code’’; and 
+5
+(ii) by striking ‘‘the report required 
+6
+under section 3553(c) of title 44, United 
+7
+States Code’’ and inserting ‘‘that report’’. 
+8
+(3) 
+NIST 
+RESPONSIBILITIES.—Section 
+9
+20(d)(3)(B) of the National Institute of Standards 
+10
+and Technology Act (15 U.S.C. 278g–3(d)(3)(B)) is 
+11
+amended by striking ‘‘annual’’. 
+12
+(e) FEDERAL SYSTEM INCIDENT RESPONSE.— 
+13
+(1) IN
+GENERAL.—Chapter 35 of title 44, 
+14
+United States Code, is amended by adding at the 
+15
+end the following: 
+16
+‘‘SUBCHAPTER IV—FEDERAL SYSTEM 
+17
+INCIDENT RESPONSE 
+18
+‘‘§ 3591. Definitions 
+19
+‘‘(a) IN GENERAL.—Except as provided in subsection 
+20
+(b), the definitions under sections 3502 and 3552 shall 
+21
+apply to this subchapter. 
+22
+‘‘(b) ADDITIONAL DEFINITIONS.—As used in this 
+23
+subchapter: 
+24
+04:39 Jan 27, 2022
+H6497
+35 
+•HR 6497 IH
+‘‘(1) APPROPRIATE REPORTING ENTITIES.—The 
+1
+term ‘appropriate reporting entities’ means— 
+2
+‘‘(A) the majority and minority leaders of 
+3
+the Senate; 
+4
+‘‘(B) the Speaker and minority leader of 
+5
+the House of Representatives; 
+6
+‘‘(C) the Committee on Homeland Security 
+7
+and Governmental Affairs of the Senate; 
+8
+‘‘(D) the Committee on Oversight and Re-
+9
+form of the House of Representatives; 
+10
+‘‘(E) the Committee on Homeland Security 
+11
+of the House of Representatives; 
+12
+‘‘(F) the appropriate authorization and ap-
+13
+propriations committees of Congress; 
+14
+‘‘(G) the Director; 
+15
+‘‘(H) the Director of the Cybersecurity and 
+16
+Infrastructure Security Agency; 
+17
+‘‘(I) the National Cyber Director; 
+18
+‘‘(J) the Comptroller General of the United 
+19
+States; and 
+20
+‘‘(K) the inspector general of any impacted 
+21
+agency. 
+22
+‘‘(2) AWARDEE.—The term ‘awardee’— 
+23
+‘‘(A) means a person, business, or other 
+24
+entity that receives a grant from, or is a party 
+25
+04:39 Jan 27, 2022
+H6497
+36 
+•HR 6497 IH
+to a cooperative agreement or an other trans-
+1
+action agreement with, an agency; and 
+2
+‘‘(B) includes any subgrantee of a person, 
+3
+business, or other entity described in subpara-
+4
+graph (A). 
+5
+‘‘(3) BREACH.—The term ‘breach’ shall be de-
+6
+fined by the Director. 
+7
+‘‘(4) 
+CONTRACTOR.—The 
+term 
+‘contractor’ 
+8
+means a prime contractor of an agency or a subcon-
+9
+tractor of a prime contractor of an agency. 
+10
+‘‘(5) FEDERAL INFORMATION.—The term ‘Fed-
+11
+eral information’ means information created, col-
+12
+lected, processed, maintained, disseminated, dis-
+13
+closed, or disposed of by or for the Federal Govern-
+14
+ment in any medium or form. 
+15
+‘‘(6) FEDERAL
+INFORMATION
+SYSTEM.—The 
+16
+term ‘Federal information system’ means an infor-
+17
+mation system used or operated by an agency, a con-
+18
+tractor, or another organization on behalf of an 
+19
+agency. 
+20
+‘‘(7) INTELLIGENCE
+COMMUNITY.—The term 
+21
+‘intelligence community’ has the meaning given the 
+22
+term in section 3 of the National Security Act of 
+23
+1947 (50 U.S.C. 3003). 
+24
+04:39 Jan 27, 2022
+H6497
+37 
+•HR 6497 IH
+‘‘(8) 
+NATIONWIDE
+CONSUMER
+REPORTING 
+1
+AGENCY.—The term ‘nationwide consumer reporting 
+2
+agency’ means a consumer reporting agency de-
+3
+scribed in section 603(p) of the Fair Credit Report-
+4
+ing Act (15 U.S.C. 1681a(p)). 
+5
+‘‘(9) VULNERABILITY DISCLOSURE.—The term 
+6
+‘vulnerability disclosure’ means a vulnerability iden-
+7
+tified under section 3559B. 
+8
+‘‘§ 3592. Notification of breach 
+9
+‘‘(a) NOTIFICATION.—As expeditiously as practicable 
+10
+and without unreasonable delay, and in any case not later 
+11
+than 45 days after an agency has a reasonable basis to 
+12
+conclude that a breach has occurred, the head of the agen-
+13
+cy, in consultation with the chief privacy officer of the 
+14
+agency, shall— 
+15
+‘‘(1) determine whether notice to any individual 
+16
+potentially affected by the breach is appropriate 
+17
+based on an assessment of the risk of harm to the 
+18
+individual that considers— 
+19
+‘‘(A) the nature and sensitivity of the per-
+20
+sonally identifiable information affected by the 
+21
+breach; 
+22
+‘‘(B) the likelihood of access to and use of 
+23
+the personally identifiable information affected 
+24
+by the breach; 
+25
+04:39 Jan 27, 2022
+H6497
+38 
+•HR 6497 IH
+‘‘(C) the type of breach; and 
+1
+‘‘(D) any other factors determined by the 
+2
+Director; and 
+3
+‘‘(2) as appropriate, provide written notice in 
+4
+accordance with subsection (b) to each individual po-
+5
+tentially affected by the breach— 
+6
+‘‘(A) to the last known mailing address of 
+7
+the individual; or 
+8
+‘‘(B) through an appropriate alternative 
+9
+method of notification that the head of the 
+10
+agency or a designated senior-level individual of 
+11
+the agency selects based on factors determined 
+12
+by the Director. 
+13
+‘‘(b) CONTENTS
+OF NOTICE.—Each notice of a 
+14
+breach provided to an individual under subsection (a)(2) 
+15
+shall include— 
+16
+‘‘(1) a brief description of the breach; 
+17
+‘‘(2) if possible, a description of the types of 
+18
+personally identifiable information affected by the 
+19
+breach; 
+20
+‘‘(3) contact information of the agency that 
+21
+may be used to ask questions of the agency, which— 
+22
+‘‘(A) shall include an e-mail address or an-
+23
+other digital contact mechanism; and 
+24
+04:39 Jan 27, 2022
+H6497
+39 
+•HR 6497 IH
+‘‘(B) may include a telephone number, 
+1
+mailing address, or a website; 
+2
+‘‘(4) information on any remedy being offered 
+3
+by the agency; 
+4
+‘‘(5) any applicable educational materials relat-
+5
+ing to what individuals can do in response to a 
+6
+breach that potentially affects their personally iden-
+7
+tifiable information, including relevant contact infor-
+8
+mation for Federal law enforcement agencies and 
+9
+each nationwide consumer reporting agency; and 
+10
+‘‘(6) any other appropriate information, as de-
+11
+termined by the head of the agency or established in 
+12
+guidance by the Director. 
+13
+‘‘(c) DELAY OF NOTIFICATION.— 
+14
+‘‘(1) IN GENERAL.—The Attorney General, the 
+15
+Director of National Intelligence, or the Secretary of 
+16
+Homeland Security may delay a notification required 
+17
+under subsection (a) if the notification would— 
+18
+‘‘(A) impede a criminal investigation or a 
+19
+national security activity; 
+20
+‘‘(B) reveal sensitive sources and methods; 
+21
+‘‘(C) cause damage to national security; or 
+22
+‘‘(D) hamper security remediation actions. 
+23
+‘‘(2) DOCUMENTATION.— 
+24
+04:39 Jan 27, 2022
+H6497
+40 
+•HR 6497 IH
+‘‘(A) IN GENERAL.—Any delay under para-
+1
+graph (1) shall be reported in writing to the Di-
+2
+rector, the Attorney General, the Director of 
+3
+National Intelligence, the Secretary of Home-
+4
+land Security, the National Cyber Director, the 
+5
+Director of the Cybersecurity and Infrastruc-
+6
+ture Security Agency, and the head of the agen-
+7
+cy and the inspector general of the agency that 
+8
+experienced the breach. 
+9
+‘‘(B) CONTENTS.—A report required under 
+10
+subparagraph (A) shall include a written state-
+11
+ment from the entity that delayed the notifica-
+12
+tion explaining the need for the delay. 
+13
+‘‘(C) FORM.—The report required under 
+14
+subparagraph (A) shall be unclassified but may 
+15
+include a classified annex. 
+16
+‘‘(3) RENEWAL.—A delay under paragraph (1) 
+17
+shall be for a period of 60 days and may be renewed. 
+18
+‘‘(d) UPDATE NOTIFICATION.—If an agency deter-
+19
+mines there is a significant change in the reasonable basis 
+20
+to conclude that a breach occurred, a significant change 
+21
+to the determination made under subsection (a)(1), or that 
+22
+it is necessary to update the details of the information pro-
+23
+vided to potentially affected individuals as described in 
+24
+subsection (b), the agency shall as expeditiously as prac-
+25
+04:39 Jan 27, 2022
+H6497
+41 
+•HR 6497 IH
+ticable and without unreasonable delay, and in any case 
+1
+not later than 30 days after such a determination, notify 
+2
+each individual who received a notification pursuant to 
+3
+subsection (a) of those changes. 
+4
+‘‘(e) RULE OF CONSTRUCTION.—Nothing in this sec-
+5
+tion shall be construed to limit— 
+6
+‘‘(1) the Director from issuing guidance relat-
+7
+ing to notifications or the head of an agency from 
+8
+notifying individuals potentially affected by breaches 
+9
+that are not determined to be major incidents; or 
+10
+‘‘(2) the Director from issuing guidance relat-
+11
+ing to notifications of major incidents or the head of 
+12
+an agency from providing more information than de-
+13
+scribed in subsection (b) when notifying individuals 
+14
+potentially affected by breaches. 
+15
+‘‘§ 3593. Congressional and executive branch reports 
+16
+‘‘(a) INITIAL REPORT.— 
+17
+‘‘(1) IN GENERAL.—Not later than 72 hours 
+18
+after an agency has a reasonable basis to conclude 
+19
+that a major incident occurred, the head of the 
+20
+agency impacted by the major incident shall submit 
+21
+to the appropriate reporting entities a written re-
+22
+port. Within 7 days of a major incident determina-
+23
+tion, the head of the agency impacted shall coordi-
+24
+nate with the National Cyber Director, or their des-
+25
+04:39 Jan 27, 2022
+H6497
+42 
+•HR 6497 IH
+ignee, to provide a briefing, along with any other 
+1
+Federal entity determined appropriate by the Na-
+2
+tional Cyber Director, to the Committee on Home-
+3
+land Security and Governmental Affairs of the Sen-
+4
+ate, the Committee on Oversight and Reform of the 
+5
+House of Representatives, the Committee on Home-
+6
+land Security of the House of Representatives, and 
+7
+the appropriate authorization and appropriations 
+8
+committees of Congress, in the manner requested by 
+9
+the Congressional entities, taking into account— 
+10
+‘‘(A) the information known at the time of 
+11
+the report, including the threat having likely 
+12
+caused the major incident; 
+13
+‘‘(B) the sensitivity of the details associ-
+14
+ated with the major incident; and 
+15
+‘‘(C) the classification level of the informa-
+16
+tion contained in the report. 
+17
+‘‘(2) CONTENTS.—A report required under 
+18
+paragraph (1) shall include, in a manner that ex-
+19
+cludes or otherwise reasonably protects personally 
+20
+identifiable information and to the extent permitted 
+21
+by applicable law, including privacy and statistical 
+22
+laws— 
+23
+‘‘(A) a summary of the information avail-
+24
+able about the major incident, including how 
+25
+04:39 Jan 27, 2022
+H6497
+43 
+•HR 6497 IH
+the major incident occurred and, if applicable, 
+1
+information relating to the major incident as a 
+2
+breach, based on information available to agen-
+3
+cy officials as of the date on which the agency 
+4
+submits the report; 
+5
+‘‘(B) if applicable, whether any ransom has 
+6
+been demanded or paid, or plans to be paid, by 
+7
+any entity operating a Federal information sys-
+8
+tem or with access to a Federal information 
+9
+system, unless disclosure of such information 
+10
+may disrupt an active Federal law enforcement 
+11
+or national security operation; 
+12
+‘‘(C) if applicable, a description and any 
+13
+associated documentation of any circumstances 
+14
+necessitating a delay in notification to individ-
+15
+uals potentially affected by the major incident 
+16
+under subsection (c) of section 3592; and 
+17
+‘‘(D) if applicable, an assessment of the 
+18
+impacts to the agency, the Federal Government, 
+19
+or the security of the United States, based on 
+20
+information available to agency officials on the 
+21
+date on which the agency submits the report. 
+22
+‘‘(3) COMPONENTS OF BRIEFING.—The 7 day 
+23
+briefing required under paragraph (1)— 
+24
+04:39 Jan 27, 2022
+H6497
+44 
+•HR 6497 IH
+‘‘(A) shall, to the greatest extent prac-
+1
+ticable, include an unclassified component; and 
+2
+‘‘(B) may include a classified component. 
+3
+‘‘(b) SUPPLEMENTAL REPORT.—Within a reasonable 
+4
+amount of time, but not later than 30 days after the date 
+5
+on which an agency submits a written report under sub-
+6
+section (a), the head of the agency shall provide to the 
+7
+appropriate reporting entities written updates on the 
+8
+major incident and, to the extent practicable, provide a 
+9
+briefing to the congressional committees described in sub-
+10
+section (a)(1), including summaries of— 
+11
+‘‘(1) vulnerabilities, means by which the major 
+12
+incident occurred, and impacts to the agency relat-
+13
+ing to the major incident; 
+14
+‘‘(2) any risk assessment and subsequent risk- 
+15
+based security implementation of the affected infor-
+16
+mation system before the date on which the major 
+17
+incident occurred; 
+18
+‘‘(3) an estimate of the number of individuals 
+19
+potentially affected by the major incident based on 
+20
+information available to agency officials as of the 
+21
+date on which the agency provides the update; 
+22
+‘‘(4) an assessment of the risk of harm to indi-
+23
+viduals potentially affected by the major incident 
+24
+04:39 Jan 27, 2022
+H6497
+45 
+•HR 6497 IH
+based on information available to agency officials as 
+1
+of the date on which the agency provides the update; 
+2
+‘‘(5) an update to the assessment of the risk to 
+3
+agency operations, or to impacts on other agency or 
+4
+non-Federal entity operations, affected by the major 
+5
+incident based on information available to agency of-
+6
+ficials as of the date on which the agency provides 
+7
+the update; and 
+8
+‘‘(6) the detection, response, and remediation 
+9
+actions of the agency, including any support pro-
+10
+vided by the Cybersecurity and Infrastructure Secu-
+11
+rity Agency under section 3594(d) and status up-
+12
+dates on the notification process described in section 
+13
+3592(a), including any delay described in subsection 
+14
+(c) of section 3592, if applicable. 
+15
+‘‘(c) UPDATE REPORT.—If the agency, or the Na-
+16
+tional Cyber Director, determines that there is any signifi-
+17
+cant change in the understanding of the agency of the 
+18
+scope, scale, or consequence of a major incident for which 
+19
+an agency submitted a written report under subsection 
+20
+(a), the agency shall provide an updated report to the ap-
+21
+propriate reporting entities that includes information re-
+22
+lating to the change in understanding. 
+23
+‘‘(d) BIANNUAL REPORT.—Each agency shall submit 
+24
+as part of the biannual report required under section 
+25
+04:39 Jan 27, 2022
+H6497
+46 
+•HR 6497 IH
+3554(c)(1) of this title a description of each major inci-
+1
+dent that occurred during the 2-year period preceding the 
+2
+date on which the biannual report is submitted. 
+3
+‘‘(e) DELAY REPORT.— 
+4
+‘‘(1) IN GENERAL.—The Director shall submit 
+5
+to the appropriate reporting entities an annual re-
+6
+port on all notification delays granted pursuant to 
+7
+subsection (c) of section 3592. 
+8
+‘‘(2) COMPONENT OF OTHER REPORT.—The Di-
+9
+rector may submit the report required under para-
+10
+graph (1) as a component of the annual report sub-
+11
+mitted under section 3597(b). 
+12
+‘‘(f) REPORT AND BRIEFING CONSISTENCY.—In car-
+13
+rying out the duties under this section, and to achieve con-
+14
+sistent and understandable agency reporting to Congress, 
+15
+the National Cyber Director shall— 
+16
+‘‘(1) provide to agencies formatting guidelines 
+17
+and recommended contents of information to be in-
+18
+cluded in the reports and briefings required under 
+19
+this section, including recommendations for the use 
+20
+of plain language terminology and consistent for-
+21
+mats for presenting any associated metrics; and 
+22
+‘‘(2) maintain a historical archive and major in-
+23
+cident log of all reports and briefings provided under 
+24
+the requirements of this section, which shall include 
+25
+04:39 Jan 27, 2022
+H6497
+47 
+•HR 6497 IH
+at a minimum an archive of the full contents of any 
+1
+written report and associated documentation, the re-
+2
+porting agency, the date of submission, and a list of 
+3
+the recipient Congressional entities, which shall be 
+4
+made available upon request to the Congressional 
+5
+entities listed under subsection (a)(1) and may, to 
+6
+the extent practicable, utilize an internet accessible 
+7
+portal for appropriate Congressional staff to directly 
+8
+access the log and archived materials required to be 
+9
+maintained under this paragraph. 
+10
+‘‘(g) REPORT DELIVERY.—Any written report re-
+11
+quired to be submitted under this section may be sub-
+12
+mitted in a paper or electronic format. 
+13
+‘‘(h) RULE OF CONSTRUCTION.—Nothing in this sec-
+14
+tion shall be construed to limit— 
+15
+‘‘(1) the ability of an agency to provide addi-
+16
+tional reports or briefings to Congress; or 
+17
+‘‘(2) Congress from requesting additional infor-
+18
+mation from agencies through reports, briefings, or 
+19
+other means. 
+20
+‘‘§ 3594. Government information sharing and inci-
+21
+dent response 
+22
+‘‘(a) IN GENERAL.— 
+23
+‘‘(1) INCIDENT REPORTING.—Subject to limita-
+24
+tions in subsection (b), the head of each agency shall 
+25
+04:39 Jan 27, 2022
+H6497
+48 
+•HR 6497 IH
+provide the information described in paragraph (2) 
+1
+relating to an incident affecting the agency, whether 
+2
+the information is obtained by the Federal Govern-
+3
+ment directly or indirectly, to the Cybersecurity and 
+4
+Infrastructure Security Agency, the Office of Man-
+5
+agement and Budget, and the Office of the National 
+6
+Cyber Director in a manner specified by the Director 
+7
+under subsection (b). 
+8
+‘‘(2) CONTENTS.—A provision of information 
+9
+relating to an incident made by the head of an agen-
+10
+cy under paragraph (1) shall— 
+11
+‘‘(A) include detailed information about 
+12
+the safeguards that were in place when the inci-
+13
+dent occurred; 
+14
+‘‘(B) whether the agency implemented the 
+15
+safeguards described in subparagraph (A) cor-
+16
+rectly; 
+17
+‘‘(C) in order to protect against a similar 
+18
+incident, identify— 
+19
+‘‘(i) how the safeguards described in 
+20
+subparagraph (A) should be implemented 
+21
+differently; and 
+22
+‘‘(ii) additional necessary safeguards; 
+23
+and 
+24
+04:39 Jan 27, 2022
+H6497
+49 
+•HR 6497 IH
+‘‘(D) include information to aid in incident 
+1
+response, such as— 
+2
+‘‘(i) a description of the affected sys-
+3
+tems or networks; 
+4
+‘‘(ii) the estimated dates of when the 
+5
+incident occurred; and 
+6
+‘‘(iii) information that could reason-
+7
+ably help identify the party that conducted 
+8
+the incident, as appropriate. 
+9
+‘‘(3) INFORMATION SHARING.—To the greatest 
+10
+extent practicable, the Director of the Cybersecurity 
+11
+and Infrastructure Security Agency shall— 
+12
+‘‘(A) share information relating to an inci-
+13
+dent with any agencies that may be impacted 
+14
+by the incident, or are potentially susceptible or 
+15
+similarly targeted, as well as with appropriate 
+16
+Federal law enforcement agencies to facilitate 
+17
+any necessary threat response activities as re-
+18
+quested; and 
+19
+‘‘(B) coordinate, in consultation with the 
+20
+National Cyber Director, any necessary infor-
+21
+mation sharing efforts related to a major inci-
+22
+dent with the private sector. 
+23
+‘‘(4) NATIONAL
+SECURITY
+SYSTEMS.—Each 
+24
+agency operating or exercising control of a national 
+25
+04:39 Jan 27, 2022
+H6497
+50 
+•HR 6497 IH
+security system shall share information about inci-
+1
+dents that occur on national security systems with 
+2
+the Director of the Cybersecurity and Infrastructure 
+3
+Security Agency to the extent consistent with stand-
+4
+ards and guidelines for national security systems 
+5
+issued in accordance with law and as directed by the 
+6
+President. 
+7
+‘‘(b) COMPLIANCE.—The information provided and 
+8
+method of reporting under subsection (a) shall take into 
+9
+account the level of classification of the information and 
+10
+any information sharing limitations and protections, such 
+11
+as limitations and protections relating to law enforcement, 
+12
+national security, privacy, statistical confidentiality, or 
+13
+other factors determined by the Director in order to imple-
+14
+ment subsection (a)(1) in a manner that enables auto-
+15
+mated and consistent reporting. 
+16
+‘‘(c) INCIDENT RESPONSE.—Each agency that has a 
+17
+reasonable basis to conclude that a major incident oc-
+18
+curred involving Federal information in electronic medium 
+19
+or form, as defined by the Director and not involving a 
+20
+national security system, regardless of delays from notifi-
+21
+cation granted for a major incident, shall coordinate with 
+22
+the Cybersecurity and Infrastructure Security Agency to 
+23
+facilitate asset response activities and recommendations 
+24
+for mitigating future incidents, and with appropriate Fed-
+25
+04:39 Jan 27, 2022
+H6497
+51 
+•HR 6497 IH
+eral law enforcement agencies to facilitate threat response 
+1
+activities, consistent with relevant policies, principles, 
+2
+standards, and guidelines on information security. 
+3
+‘‘§ 3595. Responsibilities of contractors and awardees 
+4
+‘‘(a) REPORTING.— 
+5
+‘‘(1) IN GENERAL.—Unless otherwise specified 
+6
+in a contract, grant, cooperative agreement, or any 
+7
+other transaction agreement, any contractor or 
+8
+awardee of an agency shall report to the agency 
+9
+within the same amount of time such agency is re-
+10
+quired to report an incident to the Cybersecurity 
+11
+and Infrastructure Security Agency, if the con-
+12
+tractor or awardee has a reasonable basis to suspect 
+13
+or conclude that— 
+14
+‘‘(A) an incident or breach has occurred 
+15
+with respect to Federal information collected, 
+16
+used, or maintained by the contractor or award-
+17
+ee in connection with the contract, grant, coop-
+18
+erative agreement, or other transaction agree-
+19
+ment of the contractor or awardee; 
+20
+‘‘(B) an incident or breach has occurred 
+21
+with respect to a Federal information system 
+22
+used or operated by the contractor or awardee 
+23
+in connection with the contract, grant, coopera-
+24
+04:39 Jan 27, 2022
+H6497
+52 
+•HR 6497 IH
+tive agreement, or other transaction agreement 
+1
+of the contractor or awardee; 
+2
+‘‘(C) a component of any Federal informa-
+3
+tion system, or a system able to access, store, 
+4
+or process Federal information, contains a secu-
+5
+rity vulnerability, including a supply chain com-
+6
+promise or an identified software or hardware 
+7
+vulnerability; or 
+8
+‘‘(D) the contractor or awardee has re-
+9
+ceived information from the agency that the 
+10
+contractor or awardee is not authorized to re-
+11
+ceive in connection with the contract, grant, co-
+12
+operative agreement, or other transaction agree-
+13
+ment of the contractor or awardee. 
+14
+‘‘(2) PROCEDURES.— 
+15
+‘‘(A) MAJOR INCIDENT.—Following a re-
+16
+port of a breach or major incident by a con-
+17
+tractor or awardee under paragraph (1), the 
+18
+agency, in consultation with the contractor or 
+19
+awardee, shall carry out the requirements under 
+20
+sections 3592, 3593, and 3594 with respect to 
+21
+the major incident. 
+22
+‘‘(B) INCIDENT.—Following a report of an 
+23
+incident by a contractor or awardee under para-
+24
+graph (1), an agency, in consultation with the 
+25
+04:39 Jan 27, 2022
+H6497
+53 
+•HR 6497 IH
+contractor or awardee, shall carry out the re-
+1
+quirements under section 3594 with respect to 
+2
+the incident. 
+3
+‘‘(b) EFFECTIVE DATE.—This section shall apply on 
+4
+and after the date that is 1 year after the date of the 
+5
+enactment of the Federal Information Security Mod-
+6
+ernization Act of 2022 and shall apply with respect to any 
+7
+contract entered into on or after such effective date. 
+8
+‘‘§ 3596. Training 
+9
+‘‘(a) COVERED INDIVIDUAL DEFINED.—In this sec-
+10
+tion, the term ‘covered individual’ means an individual 
+11
+who obtains access to Federal information or Federal in-
+12
+formation systems because of the status of the individual 
+13
+as an employee, contractor, awardee, volunteer, or intern 
+14
+of an agency. 
+15
+‘‘(b) REQUIREMENT.—The head of each agency shall 
+16
+develop training for covered individuals on how to identify 
+17
+and respond to an incident, including— 
+18
+‘‘(1) the internal process of the agency for re-
+19
+porting an incident; and 
+20
+‘‘(2) the obligation of a covered individual to re-
+21
+port to the agency a confirmed major incident and 
+22
+any suspected incident involving information in any 
+23
+medium or form, including paper, oral, and elec-
+24
+tronic. 
+25
+04:39 Jan 27, 2022
+H6497
+54 
+•HR 6497 IH
+‘‘(c) INCLUSION IN ANNUAL TRAINING.—The train-
+1
+ing developed under subsection (b) may be included as 
+2
+part of an annual privacy or security awareness training 
+3
+of an agency. 
+4
+‘‘§ 3597. Analysis and report on Federal incidents 
+5
+‘‘(a) ANALYSIS OF FEDERAL INCIDENTS.— 
+6
+‘‘(1) QUANTITATIVE AND QUALITATIVE ANAL-
+7
+YSES.—The Director of the Cybersecurity and Infra-
+8
+structure Security Agency shall develop, in consulta-
+9
+tion with the Director and the National Cyber Direc-
+10
+tor, and perform continuous monitoring and quan-
+11
+titative and qualitative analyses of incidents at agen-
+12
+cies, including major incidents, including— 
+13
+‘‘(A) the causes of incidents, including— 
+14
+‘‘(i) attacker tactics, techniques, and 
+15
+procedures; and 
+16
+‘‘(ii) system vulnerabilities, including 
+17
+previously unknown zero day exploitations, 
+18
+unpatched systems, and information sys-
+19
+tem misconfigurations; 
+20
+‘‘(B) the scope and scale of incidents at 
+21
+agencies; 
+22
+‘‘(C) common root causes of incidents 
+23
+across multiple agencies; 
+24
+04:39 Jan 27, 2022
+H6497
+55 
+•HR 6497 IH
+‘‘(D) agency incident response, recovery, 
+1
+and remediation actions and the effectiveness of 
+2
+those actions, as applicable; 
+3
+‘‘(E) lessons learned and recommendations 
+4
+in responding to, recovering from, remediating, 
+5
+and mitigating future incidents; and 
+6
+‘‘(F) trends across multiple Federal agen-
+7
+cies to address intrusion detection and incident 
+8
+response capabilities using the metrics estab-
+9
+lished under section 224(c) of the Cybersecurity 
+10
+Act of 2015 (6 U.S.C. 1522(c)). 
+11
+‘‘(2) AUTOMATED ANALYSIS.—The analyses de-
+12
+veloped under paragraph (1) shall, to the greatest 
+13
+extent practicable, use machine readable data, auto-
+14
+mation, and machine learning processes. 
+15
+‘‘(3) SHARING OF DATA AND ANALYSIS.— 
+16
+‘‘(A) IN
+GENERAL.—The Director shall 
+17
+share on an ongoing basis the analyses required 
+18
+under this subsection with agencies and the Na-
+19
+tional Cyber Director to— 
+20
+‘‘(i) improve the understanding of cy-
+21
+bersecurity risk of agencies; and 
+22
+‘‘(ii) support the cybersecurity im-
+23
+provement efforts of agencies. 
+24
+04:39 Jan 27, 2022
+H6497
+56 
+•HR 6497 IH
+‘‘(B) FORMAT.—In carrying out subpara-
+1
+graph (A), the Director shall share the anal-
+2
+yses— 
+3
+‘‘(i) in human-readable written prod-
+4
+ucts; and 
+5
+‘‘(ii) to the greatest extent practicable, 
+6
+in machine-readable formats in order to 
+7
+enable automated intake and use by agen-
+8
+cies. 
+9
+‘‘(b) ANNUAL REPORT ON FEDERAL INCIDENTS.— 
+10
+Not later than 2 years after the date of the enactment 
+11
+of this section, and not less frequently than annually 
+12
+thereafter, the Director of the Cybersecurity and Infra-
+13
+structure Security Agency, in consultation with the Direc-
+14
+tor, the National Cyber Director, and the heads of other 
+15
+agencies as appropriate, shall submit to the appropriate 
+16
+reporting entities a report that includes— 
+17
+‘‘(1) a summary of causes of incidents from 
+18
+across the Federal Government that categorizes 
+19
+those incidents as incidents or major incidents; 
+20
+‘‘(2) the quantitative and qualitative analyses of 
+21
+incidents developed under subsection (a)(1) on an 
+22
+agency-by-agency basis and comprehensively across 
+23
+the Federal Government, including— 
+24
+‘‘(A) a specific analysis of breaches; and 
+25
+04:39 Jan 27, 2022
+H6497
+57 
+•HR 6497 IH
+‘‘(B) an analysis of the Federal Govern-
+1
+ment’s performance against the metrics estab-
+2
+lished under section 224(c) of the Cybersecurity 
+3
+Act of 2015 (6 U.S.C. 1522(c)); and 
+4
+‘‘(3) an annex for each agency that includes— 
+5
+‘‘(A) a description of each major incident; 
+6
+and 
+7
+‘‘(B) an analysis of the agency’s perform-
+8
+ance against the metrics established under sec-
+9
+tion 224(c) of the Cybersecurity Act of 2015 (6 
+10
+U.S.C. 1522(c)). 
+11
+‘‘(c) PUBLICATION.—To the extent that publication 
+12
+is consistent with national security interests, a version of 
+13
+each report submitted under subsection (b) shall be made 
+14
+publicly available on the website of the Cybersecurity and 
+15
+Infrastructure Security Agency during the year in which 
+16
+the report is submitted. 
+17
+‘‘(d) INFORMATION PROVIDED BY AGENCIES.— 
+18
+‘‘(1) IN
+GENERAL.—The analysis required 
+19
+under subsection (a) and each report submitted 
+20
+under subsection (b) shall use information provided 
+21
+by agencies under section 3594(a). 
+22
+‘‘(2) NATIONAL SECURITY SYSTEM REPORTS.— 
+23
+‘‘(A) IN GENERAL.—Annually, the head of 
+24
+an agency that operates or exercises control of 
+25
+04:39 Jan 27, 2022
+H6497
+58 
+•HR 6497 IH
+a national security system shall submit a report 
+1
+that includes the information described in sub-
+2
+section (b) with respect to the agency to the ex-
+3
+tent that the submission is consistent with 
+4
+standards and guidelines for national security 
+5
+systems issued in accordance with law and as 
+6
+directed by the President to— 
+7
+‘‘(i) the majority and minority leaders 
+8
+of the Senate; 
+9
+‘‘(ii) the Speaker and minority leader 
+10
+of the House of Representatives; 
+11
+‘‘(iii) the Committee on Homeland Se-
+12
+curity and Governmental Affairs of the 
+13
+Senate; 
+14
+‘‘(iv) the Select Committee on Intel-
+15
+ligence of the Senate; 
+16
+‘‘(v) the Committee on Armed Serv-
+17
+ices of the Senate; 
+18
+‘‘(vi) the Committee on Appropria-
+19
+tions of the Senate; 
+20
+‘‘(vii) the Committee on Oversight and 
+21
+Reform of the House of Representatives; 
+22
+‘‘(viii) the Committee on Homeland 
+23
+Security of the House of Representatives; 
+24
+04:39 Jan 27, 2022
+H6497
+59 
+•HR 6497 IH
+‘‘(ix) the Permanent Select Committee 
+1
+on Intelligence of the House of Represent-
+2
+atives; 
+3
+‘‘(x) the Committee on Armed Serv-
+4
+ices of the House of Representatives; and 
+5
+‘‘(xi) the Committee on Appropria-
+6
+tions of the House of Representatives. 
+7
+‘‘(B) CLASSIFIED
+FORM.—A report re-
+8
+quired under subparagraph (A) may be sub-
+9
+mitted in a classified form. 
+10
+‘‘(e) REQUIREMENT
+FOR
+COMPILING
+INFORMA-
+11
+TION.—In publishing the public report required under 
+12
+subsection (c), the Director of the Cybersecurity and In-
+13
+frastructure Security Agency shall sufficiently compile in-
+14
+formation such that no specific incident of an agency can 
+15
+be identified, except with the concurrence of the Director 
+16
+of the Office of Management and Budget, the National 
+17
+Cyber Director, and in consultation with the impacted 
+18
+agency. 
+19
+‘‘§ 3598. Major incident definition 
+20
+‘‘(a) IN GENERAL.—Not later than 180 days after 
+21
+the date of the enactment of the Federal Information Se-
+22
+curity Modernization Act of 2022, the Director, in coordi-
+23
+nation with the Director of the Cybersecurity and Infra-
+24
+structure Security Agency and the National Cyber Direc-
+25
+04:39 Jan 27, 2022
+H6497
+60 
+•HR 6497 IH
+tor, shall develop and promulgate guidance on the defini-
+1
+tion of the term ‘major incident’ for the purposes of sub-
+2
+chapter II and this subchapter. 
+3
+‘‘(b) REQUIREMENTS.—With respect to the guidance 
+4
+issued under subsection (a), the definition of the term 
+5
+‘major incident’ shall— 
+6
+‘‘(1) include, with respect to any information 
+7
+collected or maintained by or on behalf of an agency 
+8
+or an information system used or operated by an 
+9
+agency or by a contractor of an agency or another 
+10
+organization on behalf of an agency, any incident 
+11
+the head of the agency determines is likely to result 
+12
+in demonstrable harm to— 
+13
+‘‘(A) the national security interests, foreign 
+14
+relations, or the economy of the United States; 
+15
+‘‘(B) the public confidence, civil liberties, 
+16
+or public health and safety of the people of the 
+17
+United States; 
+18
+‘‘(C) the integrity of personally identifiable 
+19
+information, including the exfiltration, modifica-
+20
+tion, or deletion of such information; or 
+21
+‘‘(D) any other type of incident determined 
+22
+appropriate by the Director; and 
+23
+‘‘(2) stipulate that the Director, in coordination 
+24
+with the National Cyber Director, shall declare a 
+25
+04:39 Jan 27, 2022
+H6497
+61 
+•HR 6497 IH
+major incident at each agency impacted by an inci-
+1
+dent if it is determined that an incident— 
+2
+‘‘(A) occurs at not less than 2 agencies; 
+3
+‘‘(B) is enabled by— 
+4
+‘‘(i) a common technical root cause, 
+5
+such as a supply chain compromise or a 
+6
+common software or hardware vulner-
+7
+ability; or 
+8
+‘‘(ii) the related activities of a com-
+9
+mon threat actor; or 
+10
+‘‘(C) has a significant impact on the con-
+11
+fidentiality, integrity, or availability of a high 
+12
+value asset. 
+13
+‘‘(c) EVALUATION AND UPDATES.—Not later than 2 
+14
+years after the date of the enactment of the Federal Infor-
+15
+mation Security Modernization Act of 2022, and not less 
+16
+frequently than every 2 years thereafter, the Director shall 
+17
+submit to the Committee on Homeland Security and Gov-
+18
+ernmental Affairs of the Senate and the Committee on 
+19
+Oversight and Reform of the House of Representatives an 
+20
+evaluation, which shall include— 
+21
+‘‘(1) an update, if necessary, to the guidance 
+22
+issued under subsection (a); 
+23
+04:39 Jan 27, 2022
+H6497
+62 
+•HR 6497 IH
+‘‘(2) the definition of the term ‘major incident’ 
+1
+included in the guidance issued under subsection (a); 
+2
+and 
+3
+‘‘(3) an explanation of, and the analysis that 
+4
+led to, the definition described in paragraph (2).’’. 
+5
+(2) CLERICAL AMENDMENT.—The table of sec-
+6
+tions for chapter 35 of title 44, United States Code, 
+7
+is amended by adding at the end the following: 
+8
+‘‘SUBCHAPTER IV—FEDERAL SYSTEM INCIDENT RESPONSE 
+‘‘3591. Definitions. 
+‘‘3592. Notification of breach. 
+‘‘3593. Congressional and executive branch reports. 
+‘‘3594. Government information sharing and incident response. 
+‘‘3595. Responsibilities of contractors and awardees. 
+‘‘3596. Training. 
+‘‘3597. Analysis and report on Federal incidents. 
+‘‘3598. Major incident definition.’’. 
+SEC. 102. AMENDMENTS TO SUBTITLE III OF TITLE 40. 
+9
+(a) MODERNIZING GOVERNMENT TECHNOLOGY.— 
+10
+Subtitle G of title X of Division A of the National Defense 
+11
+Authorization Act for Fiscal Year 2018 (Public Law 115– 
+12
+91; 40 U.S.C. 11301 note) is amended in section 1078— 
+13
+(1) by striking subsection (a) and inserting the 
+14
+following: 
+15
+‘‘(a) DEFINITIONS.—In this section: 
+16
+‘‘(1) AGENCY.—The term ‘agency’ has the 
+17
+meaning given the term in section 551 of title 5, 
+18
+United States Code. 
+19
+04:39 Jan 27, 2022
+H6497
+63 
+•HR 6497 IH
+‘‘(2) HIGH
+VALUE
+ASSET.—The term ‘high 
+1
+value asset’ has the meaning given the term in sec-
+2
+tion 3552 of title 44, United States Code.’’; and 
+3
+(2) in subsection (c)— 
+4
+(A) in paragraph (2)(A)(i), by inserting ‘‘, 
+5
+including a consideration of the impact on high 
+6
+value assets’’ after ‘‘operational risks’’; 
+7
+(B) in paragraph (5)— 
+8
+(i) in subparagraph (A), by striking 
+9
+‘‘and’’ at the end; 
+10
+(ii) in subparagraph (B), by striking 
+11
+the period at the end and inserting ‘‘and’’; 
+12
+and 
+13
+(iii) by adding at the end the fol-
+14
+lowing: 
+15
+‘‘(C) a senior official from the Cybersecu-
+16
+rity and Infrastructure Security Agency of the 
+17
+Department of Homeland Security, appointed 
+18
+by the Director.’’; and 
+19
+(C) in paragraph (6)(A), by striking ‘‘shall 
+20
+be—’’ and all that follows through ‘‘4 employ-
+21
+ees’’ and inserting ‘‘shall be 4 employees’’. 
+22
+(b) SUBCHAPTER I.—Subchapter I of chapter 113 of 
+23
+subtitle III of title 40, United States Code, is amended— 
+24
+(1) in section 11302— 
+25
+04:39 Jan 27, 2022
+H6497
+64 
+•HR 6497 IH
+(A) in subsection (b), by striking ‘‘use, se-
+1
+curity, and disposal of’’ and inserting ‘‘use, and 
+2
+disposal of, and, in consultation with the Direc-
+3
+tor of the Cybersecurity and Infrastructure Se-
+4
+curity Agency and the National Cyber Director, 
+5
+promote and improve the security of,’’; 
+6
+(B) in subsection (c)(3)(B), by adding at 
+7
+the end the following: 
+8
+‘‘(iii) The Director may make avail-
+9
+able, upon request, to the National Cyber 
+10
+Director any cybersecurity funding infor-
+11
+mation provided to the Director under 
+12
+clause (ii) of this subparagraph.’’; 
+13
+(C) in subsection (f), by striking ‘‘The Di-
+14
+rector shall’’ and inserting ‘‘The Director 
+15
+shall— 
+16
+‘‘(1) encourage the heads of the executive agen-
+17
+cies to develop and use the best practices in the ac-
+18
+quisition of information technology, including supply 
+19
+chain risk management standards, guidelines, and 
+20
+practices developed by the National Institute of 
+21
+Standards and Technology; and 
+22
+‘‘(2) consult with the Federal Chief Information 
+23
+Security Officer appointed by the President under 
+24
+section 3607 of title 44, for the development and use 
+25
+04:39 Jan 27, 2022
+H6497
+65 
+•HR 6497 IH
+of risk management standards, guidelines, and prac-
+1
+tices developed by the National Institute of Stand-
+2
+ards and Technology.’’; and 
+3
+(D) in subsection (h), by inserting ‘‘, in-
+4
+cluding cybersecurity performances,’’ after ‘‘the 
+5
+performances’’; and 
+6
+(2) in section 11303(b), in paragraph (2)(B)— 
+7
+(A) in clause (i), by striking ‘‘or’’ at the 
+8
+end; 
+9
+(B) in clause (ii), by adding ‘‘or’’ at the 
+10
+end; and 
+11
+(C) by adding at the end the following: 
+12
+‘‘(iii) whether the function should be 
+13
+performed by a shared service offered by 
+14
+another executive agency.’’. 
+15
+(c) SUBCHAPTER II.—Subchapter II of chapter 113 
+16
+of subtitle III of title 40, United States Code, is amend-
+17
+ed— 
+18
+(1) in section 11312(a), by inserting ‘‘, includ-
+19
+ing security risks’’ after ‘‘managing the risks’’; 
+20
+(2) in section 11313(1), by striking ‘‘efficiency 
+21
+and effectiveness’’ and inserting ‘‘efficiency, security, 
+22
+and effectiveness’’; 
+23
+(3) in section 11315, by adding at the end the 
+24
+following: 
+25
+04:39 Jan 27, 2022
+H6497
+66 
+•HR 6497 IH
+‘‘(d) COMPONENT AGENCY CHIEF INFORMATION OF-
+1
+FICERS.—The Chief Information Officer or an equivalent 
+2
+official of a component agency shall report to— 
+3
+‘‘(1) the Chief Information Officer designated 
+4
+under section 3506(a)(2) of title 44 or an equivalent 
+5
+official of the agency of which the component agency 
+6
+is a component; and 
+7
+‘‘(2) the head of the component agency.’’; 
+8
+(4) in section 11317, by inserting ‘‘security,’’ 
+9
+before ‘‘or schedule’’; and 
+10
+(5) in section 11319(b)(1), in the paragraph 
+11
+heading, by striking ‘‘CIOS’’ and inserting ‘‘CHIEF 
+12
+INFORMATION OFFICERS’’. 
+13
+(d) SUBCHAPTER III.—Section 11331 of title 40, 
+14
+United States Code, is amended— 
+15
+(1) in subsection (a), by striking ‘‘section 
+16
+3532(b)(1)’’ and inserting ‘‘section 3552(b)’’; 
+17
+(2) in subsection (b)(1)(A), by striking ‘‘the 
+18
+Secretary of Homeland Security’’ and inserting ‘‘the 
+19
+Director of the Cybersecurity and Infrastructure Se-
+20
+curity Agency’’; and 
+21
+(3) by adding at the end the following: 
+22
+‘‘(e) REVIEW
+OF OFFICE
+OF MANAGEMENT
+AND 
+23
+BUDGET GUIDANCE AND POLICY.— 
+24
+‘‘(1) CONDUCT OF REVIEW.— 
+25
+04:39 Jan 27, 2022
+H6497
+67 
+•HR 6497 IH
+‘‘(A) IN
+GENERAL.—Not less frequently 
+1
+than once every 3 years, the Director of the Of-
+2
+fice of Management and Budget, in consultation 
+3
+with, as available, the Chief Information Offi-
+4
+cers Council, the Director of the Cybersecurity 
+5
+and Infrastructure Security Agency, the Na-
+6
+tional Cyber Director, the Comptroller General 
+7
+of the United States, and the Council of the In-
+8
+spectors General on Integrity and Efficiency, 
+9
+shall review the efficacy of the guidance and 
+10
+policy promulgated by the Director in reducing 
+11
+cybersecurity risks, including an assessment of 
+12
+the requirements for agencies to report infor-
+13
+mation to the Director, and determine whether 
+14
+any changes to that guidance or policy is appro-
+15
+priate. 
+16
+‘‘(B) FEDERAL
+RISK
+ASSESSMENTS.—In 
+17
+conducting the review described in subpara-
+18
+graph (A), the Director shall consider the Fed-
+19
+eral risk assessments performed under section 
+20
+3553(i) of title 44. 
+21
+‘‘(C) REQUIREMENTS BURDEN REDUCTION 
+22
+AND CLARITY.—In conducting the review de-
+23
+scribed in subparagraph (A), the Director shall 
+24
+consider the cumulative reporting and compli-
+25
+04:39 Jan 27, 2022
+H6497
+68 
+•HR 6497 IH
+ance burden to agencies as well as the clarity 
+1
+of the requirements and deadlines contained in 
+2
+guidance and policy documents. 
+3
+‘‘(2) UPDATED GUIDANCE.—Not later than 90 
+4
+days after the date on which a review is completed 
+5
+under paragraph (1), the Director of the Office of 
+6
+Management and Budget shall issue updated guid-
+7
+ance or policy to agencies determined appropriate by 
+8
+the Director, based on the results of the review. 
+9
+‘‘(3) CONGRESSIONAL
+BRIEFING.—Not later 
+10
+than 60 days after the date on which a review is 
+11
+completed under paragraph (1), the Director is ex-
+12
+pected to provide to the Committee on Homeland 
+13
+Security and Governmental Affairs of the Senate 
+14
+and the Committee on Oversight and Reform of the 
+15
+House of Representatives a briefing on the review 
+16
+and any newly issued guidance or policy, which shall 
+17
+include— 
+18
+‘‘(A) an overview of the guidance and pol-
+19
+icy promulgated under this section that is cur-
+20
+rently in effect; 
+21
+‘‘(B) the cybersecurity risk mitigation, or 
+22
+other cybersecurity benefit, offered by each 
+23
+guidance or policy document described in sub-
+24
+paragraph (A); and 
+25
+04:39 Jan 27, 2022
+H6497
+69 
+•HR 6497 IH
+‘‘(C) a summary of the guidance or policy 
+1
+to which changes were determined appropriate 
+2
+during the review and what the changes in-
+3
+clude. 
+4
+‘‘(f) 
+AUTOMATED
+STANDARD
+IMPLEMENTATION 
+5
+VERIFICATION.—When the Director of the National Insti-
+6
+tute of Standards and Technology issues a proposed 
+7
+standard pursuant to paragraphs (2) and (3) of section 
+8
+20(a) of the National Institute of Standards and Tech-
+9
+nology Act (15 U.S.C. 278g–3(a)), the Director of the Na-
+10
+tional Institute of Standards and Technology shall con-
+11
+sider developing and, if appropriate and practical, develop, 
+12
+in consultation with the Director of the Cybersecurity and 
+13
+Infrastructure Security Agency, specifications to enable 
+14
+the automated verification of the implementation of con-
+15
+trols.’’. 
+16
+SEC. 103. ACTIONS TO ENHANCE FEDERAL INCIDENT RE-
+17
+SPONSE. 
+18
+(a) RESPONSIBILITIES OF THE CYBERSECURITY AND 
+19
+INFRASTRUCTURE SECURITY AGENCY.— 
+20
+(1) IN
+GENERAL.—Not later than 180 days 
+21
+after the date of the enactment of this Act, the Di-
+22
+rector of the Cybersecurity and Infrastructure Secu-
+23
+rity Agency shall— 
+24
+04:39 Jan 27, 2022
+H6497
+70 
+•HR 6497 IH
+(A) develop a plan for the development of 
+1
+the analysis required under section 3597(a) of 
+2
+title 44, United States Code, as added by this 
+3
+Act, and the report required under subsection 
+4
+(b) of that section that includes— 
+5
+(i) a description of any challenges the 
+6
+Director anticipates encountering; and 
+7
+(ii) the use of automation and ma-
+8
+chine-readable formats for collecting, com-
+9
+piling, monitoring, and analyzing data; and 
+10
+(B) provide to the appropriate congres-
+11
+sional committees a briefing on the plan devel-
+12
+oped under subparagraph (A). 
+13
+(2) BRIEFING.—Not later than 1 year after the 
+14
+date of the enactment of this Act, the Director of 
+15
+the Cybersecurity and Infrastructure Security Agen-
+16
+cy shall provide to the appropriate congressional 
+17
+committees a briefing on— 
+18
+(A) the execution of the plan required 
+19
+under paragraph (1)(A); and 
+20
+(B) the development of the report required 
+21
+under section 3597(b) of title 44, United States 
+22
+Code, as added by this Act. 
+23
+(b) RESPONSIBILITIES OF THE DIRECTOR OF THE 
+24
+OFFICE OF MANAGEMENT AND BUDGET.— 
+25
+04:39 Jan 27, 2022
+H6497
+71 
+•HR 6497 IH
+(1) FISMA.—Section 2 of the Federal Informa-
+1
+tion Security Modernization Act of 2014 (Public 
+2
+Law 113–283; 44 U.S.C. 3554 note) is amended— 
+3
+(A) by striking subsection (b); and 
+4
+(B) 
+by 
+redesignating 
+subsections 
+(c) 
+5
+through (f) as subsections (b) through (e), re-
+6
+spectively. 
+7
+(2) IN GENERAL.—The Director shall develop 
+8
+guidance, to be updated not less frequently than 
+9
+once every 2 years, on the content, timeliness, and 
+10
+format of the information provided by agencies 
+11
+under section 3594(a) of title 44, United States 
+12
+Code, as added by this Act. 
+13
+(3) GUIDANCE ON RESPONDING TO INFORMA-
+14
+TION REQUESTS.—Not later than 1 year after the 
+15
+date of the enactment of this Act, the Director shall 
+16
+develop guidance for agencies to implement the re-
+17
+quirement under section 3594(c) of title 44, United 
+18
+States Code, as added by this Act, to provide infor-
+19
+mation to other agencies experiencing incidents. 
+20
+(4) STANDARD GUIDANCE AND TEMPLATES.— 
+21
+Not later than 1 year after the date of the enact-
+22
+ment of this Act, the Director, in consultation with 
+23
+the Director of the Cybersecurity and Infrastructure 
+24
+Security Agency, shall develop guidance and tem-
+25
+04:39 Jan 27, 2022
+H6497
+72 
+•HR 6497 IH
+plates, to be reviewed and, if necessary, updated not 
+1
+less frequently than once every 2 years, for use by 
+2
+Federal agencies in the activities required under sec-
+3
+tions 3592, 3593, and 3596 of title 44, United 
+4
+States Code, as added by this Act. 
+5
+(5) CONTRACTOR AND AWARDEE GUIDANCE.— 
+6
+(A) IN GENERAL.—Not later than 1 year 
+7
+after the date of the enactment of this Act, the 
+8
+Director, in coordination with the Secretary of 
+9
+Homeland Security, the Secretary of Defense, 
+10
+the Administrator of General Services, and the 
+11
+heads of other agencies determined appropriate 
+12
+by the Director, shall issue guidance to Federal 
+13
+agencies on how to deconflict, to the greatest 
+14
+extent practicable, existing regulations, policies, 
+15
+and procedures relating to the responsibilities of 
+16
+contractors and awardees established under sec-
+17
+tion 3595 of title 44, United States Code, as 
+18
+added by this Act. 
+19
+(B) EXISTING PROCESSES.—To the great-
+20
+est extent practicable, the guidance issued 
+21
+under subparagraph (A) shall allow contractors 
+22
+and awardees to use existing processes for noti-
+23
+fying Federal agencies of incidents involving in-
+24
+formation of the Federal Government. 
+25
+04:39 Jan 27, 2022
+H6497
+73 
+•HR 6497 IH
+(6) UPDATED BRIEFINGS.—Not less frequently 
+1
+than once every 2 years, the Director shall provide 
+2
+to the appropriate congressional committees an up-
+3
+date on the guidance and templates developed under 
+4
+paragraphs (2) through (4). 
+5
+(c) UPDATE TO THE PRIVACY ACT OF 1974.—Sec-
+6
+tion 552a(b) of title 5, United States Code (commonly 
+7
+known as the ‘‘Privacy Act of 1974’’) is amended— 
+8
+(1) in paragraph (11), by striking ‘‘or’’ at the 
+9
+end; 
+10
+(2) in paragraph (12), by striking the period at 
+11
+the end and inserting ‘‘; or’’; and 
+12
+(3) by adding at the end the following: 
+13
+‘‘(13) to another agency in furtherance of a re-
+14
+sponse to an incident (as defined in section 3552 of 
+15
+title 44) and pursuant to the information sharing re-
+16
+quirements in section 3594 of title 44, if the head 
+17
+of the requesting agency has made a written request 
+18
+to the agency that maintains the record specifying 
+19
+the particular portion desired and the activity for 
+20
+which the record is sought.’’. 
+21
+04:39 Jan 27, 2022
+H6497
+74 
+•HR 6497 IH
+SEC. 104. ADDITIONAL GUIDANCE TO AGENCIES ON FISMA 
+1
+UPDATES. 
+2
+Not later than 1 year after the date of the enactment 
+3
+of this Act, the Director shall issue guidance for agencies 
+4
+on— 
+5
+(1) performing the ongoing and continuous 
+6
+agency system risk assessment required under sec-
+7
+tion 3554(a)(1)(A) of title 44, United States Code, 
+8
+as amended by this Act; 
+9
+(2) implementing additional cybersecurity pro-
+10
+cedures, which shall include resources for shared 
+11
+services; 
+12
+(3) establishing a process for providing the sta-
+13
+tus of each remedial action under section 3554(b)(7) 
+14
+of title 44, United States Code, as amended by this 
+15
+Act, to the Director and the Director of the Cyberse-
+16
+curity and Infrastructure Security Agency using au-
+17
+tomation and machine-readable data, as practicable, 
+18
+which shall include— 
+19
+(A) specific guidance for the use of auto-
+20
+mation and machine-readable data; and 
+21
+(B) templates for providing the status of 
+22
+the remedial action; 
+23
+(4) interpreting the definition of ‘‘high value 
+24
+asset’’ under section 3552 of title 44, United States 
+25
+Code, as amended by this Act; and 
+26
+04:39 Jan 27, 2022
+H6497
+75 
+•HR 6497 IH
+(5) a requirement to coordinate with inspectors 
+1
+general of agencies to ensure consistent under-
+2
+standing and application of agency policies for the 
+3
+purpose of evaluations by inspectors general. 
+4
+SEC. 105. AGENCY REQUIREMENTS TO NOTIFY PRIVATE 
+5
+SECTOR ENTITIES IMPACTED BY INCIDENTS. 
+6
+(a) DEFINITIONS.—In this section: 
+7
+(1) REPORTING ENTITY.—The term ‘‘reporting 
+8
+entity’’ means private organization or governmental 
+9
+unit that is required by statute or regulation to sub-
+10
+mit sensitive information to an agency. 
+11
+(2) SENSITIVE INFORMATION.—The term ‘‘sen-
+12
+sitive information’’ has the meaning given the term 
+13
+by the Director in guidance issued under subsection 
+14
+(b). 
+15
+(b) GUIDANCE ON NOTIFICATION OF REPORTING EN-
+16
+TITIES.—Not later than 180 days after the date of the 
+17
+enactment of this Act, the Director shall issue guidance 
+18
+requiring the head of each agency to notify a reporting 
+19
+entity of an incident that is likely to substantially affect— 
+20
+(1) the confidentiality or integrity of sensitive 
+21
+information submitted by the reporting entity to the 
+22
+agency pursuant to a statutory or regulatory re-
+23
+quirement; or 
+24
+04:39 Jan 27, 2022
+H6497
+76 
+•HR 6497 IH
+(2) the agency information system or systems 
+1
+used in the transmission or storage of the sensitive 
+2
+information described in paragraph (1). 
+3
+TITLE II—IMPROVING FEDERAL 
+4
+CYBERSECURITY 
+5
+SEC. 201. MOBILE SECURITY STANDARDS. 
+6
+(a) IN GENERAL.—Not later than 1 year after the 
+7
+date of the enactment of this Act, the Director shall— 
+8
+(1) evaluate mobile application security guid-
+9
+ance promulgated by the Director; and 
+10
+(2) issue guidance to secure mobile devices, in-
+11
+cluding for mobile applications, for every agency. 
+12
+(b) CONTENTS.—The guidance issued under sub-
+13
+section (a)(2) shall include— 
+14
+(1) 
+a 
+requirement, 
+pursuant 
+to 
+section 
+15
+3506(b)(4) of title 44, United States Code, for every 
+16
+agency to maintain a continuous inventory of 
+17
+every— 
+18
+(A) mobile device operated by or on behalf 
+19
+of the agency; and 
+20
+(B) vulnerability identified by the agency 
+21
+associated with a mobile device; and 
+22
+(2) a requirement for every agency to perform 
+23
+continuous evaluation of the vulnerabilities described 
+24
+04:39 Jan 27, 2022
+H6497
+77 
+•HR 6497 IH
+in paragraph (1)(B) and other risks associated with 
+1
+the use of applications on mobile devices. 
+2
+(c) INFORMATION SHARING.—The Director, in co-
+3
+ordination with the Director of the Cybersecurity and In-
+4
+frastructure Security Agency, shall issue guidance to 
+5
+agencies for sharing the inventory of the agency required 
+6
+under subsection (b)(1) with the Director of the Cyberse-
+7
+curity and Infrastructure Security Agency, using automa-
+8
+tion and machine-readable data to the greatest extent 
+9
+practicable. 
+10
+(d) BRIEFING.—Not later than 60 days after the date 
+11
+on which the Director issues guidance under subsection 
+12
+(a)(2), the Director, in coordination with the Director of 
+13
+the Cybersecurity and Infrastructure Security Agency, 
+14
+shall provide to the appropriate congressional committees 
+15
+a briefing on the guidance. 
+16
+SEC. 202. DATA AND LOGGING RETENTION FOR INCIDENT 
+17
+RESPONSE. 
+18
+(a) RECOMMENDATIONS.—Not later than 2 years 
+19
+after the date of the enactment of this Act, and not less 
+20
+frequently than every 2 years thereafter, the Director of 
+21
+the Cybersecurity and Infrastructure Security Agency, in 
+22
+consultation with the Attorney General, shall submit to 
+23
+the Director recommendations on requirements for logging 
+24
+04:39 Jan 27, 2022
+H6497
+78 
+•HR 6497 IH
+events on agency systems and retaining other relevant 
+1
+data within the systems and networks of an agency. 
+2
+(b) CONTENTS.—The recommendations provided 
+3
+under subsection (a) shall include— 
+4
+(1) the types of logs to be maintained; 
+5
+(2) the duration that logs and other relevant 
+6
+data should be retained; 
+7
+(3) the time periods for agency implementation 
+8
+of recommended logging and security requirements; 
+9
+(4) how to ensure the confidentiality, integrity, 
+10
+and availability of logs; 
+11
+(5) requirements to ensure that, upon request, 
+12
+in a manner that excludes or otherwise reasonably 
+13
+protects personally identifiable information, and to 
+14
+the extent permitted by applicable law (including 
+15
+privacy and statistical laws), agencies provide logs 
+16
+to— 
+17
+(A) the Director of the Cybersecurity and 
+18
+Infrastructure Security Agency for a cybersecu-
+19
+rity purpose; and 
+20
+(B) the Director of the Federal Bureau of 
+21
+Investigation, or the appropriate Federal law 
+22
+enforcement agency, to investigate potential 
+23
+criminal activity; and 
+24
+04:39 Jan 27, 2022
+H6497
+79 
+•HR 6497 IH
+(6) requirements to ensure that, subject to com-
+1
+pliance with statistical laws and other relevant data 
+2
+protection requirements, the highest level security 
+3
+operations center of each agency has visibility into 
+4
+all agency logs. 
+5
+(c) GUIDANCE.—Not later than 90 days after receiv-
+6
+ing the recommendations submitted under subsection (a), 
+7
+the Director, in consultation with the Director of the Cy-
+8
+bersecurity and Infrastructure Security Agency and the 
+9
+Attorney General, shall, as determined to be appropriate 
+10
+by the Director, update guidance to agencies regarding re-
+11
+quirements for logging, log retention, log management, 
+12
+sharing of log data with other appropriate agencies, or any 
+13
+other logging activity determined to be appropriate by the 
+14
+Director. 
+15
+(d) SUNSET.—This section will cease to be in effect 
+16
+on the date that is 10 years after the date of the enact-
+17
+ment of this Act. 
+18
+SEC. 203. FEDERAL PENETRATION TESTING POLICY. 
+19
+(a) IN GENERAL.—Subchapter II of chapter 35 of 
+20
+title 44, United States Code, is amended by adding at the 
+21
+end the following: 
+22
+‘‘§ 3559A. Federal penetration testing 
+23
+‘‘(a) GUIDANCE.— 
+24
+04:39 Jan 27, 2022
+H6497
+80 
+•HR 6497 IH
+‘‘(1) IN GENERAL.—The Director shall, in con-
+1
+sultation with the Secretary of the Department of 
+2
+Homeland Security acting through the Director of 
+3
+the Cybersecurity and Infrastructure Security Agen-
+4
+cy, issue guidance to agencies that— 
+5
+‘‘(A) requires agencies to use, when and 
+6
+where appropriate, penetration testing on agen-
+7
+cy systems by both Federal and non-Federal en-
+8
+tities, with a focus on high value assets; 
+9
+‘‘(B) provides policies governing agency de-
+10
+velopment of an operational plan, rules of en-
+11
+gagement for utilizing penetration testing, and 
+12
+procedures to utilize the results of penetration 
+13
+testing to improve the cybersecurity and risk 
+14
+management of the agency; and 
+15
+‘‘(C) establishes a program under the Cy-
+16
+bersecurity and Infrastructure Security Agency 
+17
+to ensure that penetration testing is being per-
+18
+formed appropriately by agencies and to provide 
+19
+operational support or a shared service. 
+20
+‘‘(b) RESPONSIBILITIES OF OMB.—The Director, in 
+21
+coordination with the Director of the Cybersecurity and 
+22
+Infrastructure Security Agency, shall— 
+23
+‘‘(1) not less frequently than annually, inven-
+24
+tory all Federal penetration testing assets; and 
+25
+04:39 Jan 27, 2022
+H6497
+81 
+•HR 6497 IH
+‘‘(2) develop and maintain a standardized proc-
+1
+ess for the use of penetration testing. 
+2
+‘‘(c) EXCEPTION
+FOR NATIONAL SECURITY SYS-
+3
+TEMS.—The guidance issued under subsection (a) shall 
+4
+not apply to national security systems. 
+5
+‘‘(d) DELEGATION
+OF AUTHORITY
+FOR CERTAIN 
+6
+SYSTEMS.—The authorities of the Director described in 
+7
+subsection (a) shall be delegated— 
+8
+‘‘(1) to the Secretary of Defense in the case of 
+9
+systems described in section 3553(e)(2); and 
+10
+‘‘(2) to the Director of National Intelligence in 
+11
+the case of systems described in 3553(e)(3).’’. 
+12
+(b) DEADLINE FOR GUIDANCE.—Not later than 180 
+13
+days after the date of the enactment of this Act, the Direc-
+14
+tor shall issue the guidance required under section 
+15
+3559A(a) of title 44, United States Code, as added by sub-
+16
+section (a). 
+17
+(c) SUNSET.—This section shall sunset on the date 
+18
+that is 10 years after the date of the enactment of this 
+19
+Act. 
+20
+(d) CLERICAL AMENDMENT.—The table of sections 
+21
+for chapter 35 of title 44, United States Code, is amended 
+22
+by adding after the item relating to section 3559 the fol-
+23
+lowing: 
+24
+‘‘3559A. Federal penetration testing.’’. 
+04:39 Jan 27, 2022
+H6497
+82 
+•HR 6497 IH
+(e) PENETRATION TESTING BY THE SECRETARY OF 
+1
+HOMELAND SECURITY.—Section 3553(b) of title 44, 
+2
+United States Code, as amended by section 5121, is fur-
+3
+ther amended— 
+4
+(1) in paragraph (8)(B), by striking ‘‘and’’ at 
+5
+the end; 
+6
+(2) by redesignating paragraph (9) as para-
+7
+graph (10); and 
+8
+(3) by inserting after paragraph (8) the fol-
+9
+lowing: 
+10
+‘‘(9) performing penetration testing to identify 
+11
+vulnerabilities within Federal information systems; 
+12
+and’’. 
+13
+SEC. 204. ONGOING THREAT HUNTING PROGRAM. 
+14
+(a) THREAT HUNTING PROGRAM.— 
+15
+(1) IN
+GENERAL.—Not later than 540 days 
+16
+after the date of the enactment of this Act, the Di-
+17
+rector of the Cybersecurity and Infrastructure Secu-
+18
+rity Agency shall, in accordance with the authorities 
+19
+granted the Secretary under sections 3553(b)(7)–(8) 
+20
+and 3553(m) of title 44, United States Code (as re-
+21
+designated by this Act), establish a program to pro-
+22
+vide ongoing, hypothesis-driven threat-hunting serv-
+23
+ices on the network of each agency. 
+24
+04:39 Jan 27, 2022
+H6497
+83 
+•HR 6497 IH
+(2) PLAN.—Not later than 180 days after the 
+1
+date of the enactment of this Act, the Director of 
+2
+the Cybersecurity and Infrastructure Security Agen-
+3
+cy shall develop a plan to establish the program re-
+4
+quired under paragraph (1) that describes how the 
+5
+Director of the Cybersecurity and Infrastructure Se-
+6
+curity Agency plans to— 
+7
+(A) determine the method for collecting, 
+8
+storing, accessing, analyzing, and safeguarding 
+9
+appropriate agency data; 
+10
+(B) provide on-premises support to agen-
+11
+cies; 
+12
+(C) staff threat hunting services; 
+13
+(D) allocate available human and financial 
+14
+resources to implement the plan; and 
+15
+(E) provide input to the heads of agencies 
+16
+on the use of— 
+17
+(i) more stringent standards under 
+18
+section 11331(c)(1) of title 40, United 
+19
+States Code; and 
+20
+(ii) additional cybersecurity proce-
+21
+dures under section 3554 of title 44, 
+22
+United States Code. 
+23
+(b) REPORTS.—The Director of the Cybersecurity 
+24
+and Infrastructure Security Agency, in consultation with 
+25
+04:39 Jan 27, 2022
+H6497
+84 
+•HR 6497 IH
+the Director, shall submit to the appropriate congressional 
+1
+committees— 
+2
+(1) not later than 30 days after the date on 
+3
+which the Director of the Cybersecurity and Infra-
+4
+structure Security Agency completes the plan re-
+5
+quired under subsection (a)(2), a report on the plan 
+6
+to provide threat hunting services to agencies; 
+7
+(2) not less than 30 days before the date on 
+8
+which the Director of the Cybersecurity and Infra-
+9
+structure Security Agency begins providing threat 
+10
+hunting services under the program under sub-
+11
+section (a)(1), a report providing any updates to the 
+12
+plan developed under subsection (a)(2); and 
+13
+(3) not later than 1 year after the date on 
+14
+which the Director of the Cybersecurity and Infra-
+15
+structure Security Agency begins providing threat 
+16
+hunting services to agencies other than the Cyberse-
+17
+curity and Infrastructure Security Agency, a report 
+18
+describing lessons learned from providing those serv-
+19
+ices. 
+20
+SEC. 205. CODIFYING VULNERABILITY DISCLOSURE PRO-
+21
+GRAMS. 
+22
+(a) IN GENERAL.—Subchapter II of Chapter 35 of 
+23
+title 44, United States Code, is amended by inserting after 
+24
+section 3559A, as added by section 204, the following: 
+25
+04:39 Jan 27, 2022
+H6497
+85 
+•HR 6497 IH
+‘‘§ 3559B. Federal vulnerability disclosure programs 
+1
+‘‘(a) DEFINITIONS.—In this section: 
+2
+‘‘(1) REPORT.—The term ‘report’ means a vul-
+3
+nerability disclosure made to an agency by a re-
+4
+porter. 
+5
+‘‘(2) REPORTER.—The term ‘reporter’ means 
+6
+an individual that submits a vulnerability report 
+7
+pursuant to the vulnerability disclosure process of an 
+8
+agency. 
+9
+‘‘(b) RESPONSIBILITIES OF OMB.— 
+10
+‘‘(1) LIMITATION ON LEGAL ACTION.—The Di-
+11
+rector of the Office of Management and Budget, in 
+12
+consultation with the Attorney General, shall issue 
+13
+guidance to agencies to not recommend or pursue 
+14
+legal action against a reporter or an individual that 
+15
+conducts a security research activity that the head 
+16
+of the agency determines— 
+17
+‘‘(A) represents a good faith effort to fol-
+18
+low the vulnerability disclosure policy of the 
+19
+agency developed under subsection (d)(2); and 
+20
+‘‘(B) is authorized under the vulnerability 
+21
+disclosure policy of the agency developed under 
+22
+subsection (d)(2). 
+23
+‘‘(2) SHARING INFORMATION WITH CISA.—The 
+24
+Director of the Office of Management and Budget, 
+25
+in coordination with the Director of the Cybersecu-
+26
+04:39 Jan 27, 2022
+H6497
+86 
+•HR 6497 IH
+rity and Infrastructure Security Agency and in con-
+1
+sultation with the National Cyber Director, shall 
+2
+issue guidance to agencies on sharing relevant infor-
+3
+mation in a consistent, automated, and machine 
+4
+readable manner with the Director of the Cybersecu-
+5
+rity and Infrastructure Security Agency, including— 
+6
+‘‘(A) any valid or credible reports of newly 
+7
+discovered or not publicly known vulnerabilities 
+8
+(including misconfigurations) on Federal infor-
+9
+mation systems that use commercial software or 
+10
+services; 
+11
+‘‘(B) information relating to vulnerability 
+12
+disclosure, coordination, or remediation activi-
+13
+ties of an agency, particularly as those activities 
+14
+relate to outside organizations— 
+15
+‘‘(i) with which the head of the agency 
+16
+believes the Director of the Cybersecurity 
+17
+and Infrastructure Security Agency can as-
+18
+sist; or 
+19
+‘‘(ii) about which the head of the 
+20
+agency believes the Director of the Cyber-
+21
+security and Infrastructure Security Agen-
+22
+cy should know; and 
+23
+‘‘(C) any other information with respect to 
+24
+which the head of the agency determines helpful 
+25
+04:39 Jan 27, 2022
+H6497
+87 
+•HR 6497 IH
+or necessary to involve the Director of the Cy-
+1
+bersecurity and Infrastructure Security Agency. 
+2
+‘‘(3) AGENCY
+VULNERABILITY
+DISCLOSURE 
+3
+4
+agencies on the required minimum scope of agency 
+5
+systems covered by the vulnerability disclosure policy 
+6
+of an agency required under subsection (d)(2). 
+7
+‘‘(c) RESPONSIBILITIES OF CISA.—The Director of 
+8
+the Cybersecurity and Infrastructure Security Agency 
+9
+shall— 
+10
+‘‘(1) provide support to agencies with respect to 
+11
+the implementation of the requirements of this sec-
+12
+tion; 
+13
+‘‘(2) develop tools, processes, and other mecha-
+14
+nisms determined appropriate to offer agencies capa-
+15
+bilities to implement the requirements of this sec-
+16
+tion; and 
+17
+‘‘(3) upon a request by an agency, assist the 
+18
+agency in the disclosure to vendors of newly identi-
+19
+fied vulnerabilities in vendor products and services. 
+20
+‘‘(d) RESPONSIBILITIES OF AGENCIES.— 
+21
+‘‘(1) PUBLIC INFORMATION.—The head of each 
+22
+agency shall make publicly available, with respect to 
+23
+each internet domain under the control of the agen-
+24
+cy that is not a national security system— 
+25
+04:39 Jan 27, 2022
+H6497
+88 
+•HR 6497 IH
+‘‘(A) an appropriate security contact; and 
+1
+‘‘(B) the component of the agency that is 
+2
+responsible for the internet accessible services 
+3
+offered at the domain. 
+4
+‘‘(2) VULNERABILITY
+DISCLOSURE
+5
+The head of each agency shall develop and make 
+6
+publicly available a vulnerability disclosure policy for 
+7
+the agency, which shall— 
+8
+‘‘(A) describe— 
+9
+‘‘(i) the scope of the systems of the 
+10
+agency included in the vulnerability disclo-
+11
+sure policy; 
+12
+‘‘(ii) the type of information system 
+13
+testing that is authorized by the agency; 
+14
+‘‘(iii) the type of information system 
+15
+testing that is not authorized by the agen-
+16
+cy; and 
+17
+‘‘(iv) the disclosure policy of the agen-
+18
+cy for sensitive information; 
+19
+‘‘(B) with respect to a report to an agency, 
+20
+describe— 
+21
+‘‘(i) how the reporter should submit 
+22
+the report; and 
+23
+‘‘(ii) if the report is not anonymous, 
+24
+when the reporter should anticipate an ac-
+25
+04:39 Jan 27, 2022
+H6497
+89 
+•HR 6497 IH
+knowledgment of receipt of the report by 
+1
+the agency; 
+2
+‘‘(C) include any other relevant informa-
+3
+tion; and 
+4
+‘‘(D) be mature in scope, covering all inter-
+5
+net accessible Federal information systems used 
+6
+or operated by that agency or on behalf of that 
+7
+agency. 
+8
+‘‘(3) IDENTIFIED VULNERABILITIES.—The head 
+9
+of each agency shall incorporate any vulnerabilities 
+10
+reported under paragraph (2) into the vulnerability 
+11
+management process of the agency in order to track 
+12
+and remediate the vulnerability. 
+13
+‘‘(e) CONGRESSIONAL REPORTING.—Not later than 
+14
+90 days after the date of the enactment of the Federal 
+15
+Information Security Modernization Act of 2022, and an-
+16
+nually thereafter for a 3-year period, the Director of the 
+17
+Cybersecurity and Infrastructure Security Agency, in con-
+18
+sultation with the Director, shall provide to the Committee 
+19
+on Homeland Security and Governmental Affairs of the 
+20
+Senate and the Committee on Oversight and Reform of 
+21
+the House of Representatives a briefing on the status of 
+22
+the use of vulnerability disclosure policies under this sec-
+23
+tion at agencies, including, with respect to the guidance 
+24
+04:39 Jan 27, 2022
+H6497
+90 
+•HR 6497 IH
+issued under subsection (b)(3), an identification of the 
+1
+agencies that are compliant and not compliant. 
+2
+‘‘(f) EXEMPTIONS.—The authorities and functions of 
+3
+the Director and Director of the Cybersecurity and Infra-
+4
+structure Security Agency under this section shall not 
+5
+apply to national security systems. 
+6
+‘‘(g) DELEGATION
+OF AUTHORITY
+FOR CERTAIN 
+7
+SYSTEMS.—The authorities of the Director and the Direc-
+8
+tor of the Cybersecurity and Infrastructure Security Agen-
+9
+cy described in this section shall be delegated— 
+10
+‘‘(1) to the Secretary of Defense in the case of 
+11
+systems described in section 3553(e)(2); and 
+12
+‘‘(2) to the Director of National Intelligence in 
+13
+the 
+case 
+of 
+systems 
+described 
+in 
+section 
+14
+3553(e)(3).’’. 
+15
+(b) SUNSET.—This section shall sunset on the date 
+16
+that is 10 years after the date of the enactment of this 
+17
+Act. 
+18
+(c) CLERICAL AMENDMENT.—The table of sections 
+19
+for chapter 35 of title 44, United States Code, is amended 
+20
+by adding after the item relating to section 3559A, as 
+21
+added by this Act, the following: 
+22
+‘‘3559B. Federal vulnerability disclosure programs.’’. 
+SEC. 206. IMPLEMENTING ZERO TRUST ARCHITECTURE. 
+23
+(a) GUIDANCE.—The Director shall maintain guid-
+24
+ance on the adoption of zero trust architecture and not 
+25
+04:39 Jan 27, 2022
+H6497
+91 
+•HR 6497 IH
+later than 2 years after the date of the enactment of this 
+1
+Act, provide an update to the appropriate congressional 
+2
+committees on progress in increasing the internal defenses 
+3
+of agency systems through such adoption across the gov-
+4
+ernment, including— 
+5
+(1) shifting away from ‘‘trusted networks’’ to 
+6
+implement security controls based on a presumption 
+7
+of compromise; 
+8
+(2) implementing principles of least privilege in 
+9
+administering information security programs; 
+10
+(3) limiting the ability of entities that cause in-
+11
+cidents to move laterally through or between agency 
+12
+systems; 
+13
+(4) identifying incidents quickly; 
+14
+(5) isolating and removing unauthorized entities 
+15
+from agency systems as quickly as practicable, ac-
+16
+counting for intelligence or law enforcement pur-
+17
+poses; 
+18
+(6) otherwise increasing the resource costs for 
+19
+entities that cause incidents to be successful; and 
+20
+(7) a summary of the agency progress reports 
+21
+required under subsection (b). 
+22
+(b) AGENCY PROGRESS REPORTS.—Not later than 
+23
+270 days after the date of the enactment of this Act, the 
+24
+head of each agency shall submit to the Director a 
+25
+04:39 Jan 27, 2022
+H6497
+92 
+•HR 6497 IH
+progress report on implementing an information security 
+1
+program based on a zero trust architecture, which shall 
+2
+include— 
+3
+(1) a description of any steps the agency has 
+4
+completed, including progress toward achieving any 
+5
+requirements issued by the Director, including the 
+6
+adoption of any models or reference architecture; 
+7
+(2) an identification of activities that have not 
+8
+yet been completed and that would have the most 
+9
+immediate security impact; and 
+10
+(3) a schedule to implement any planned activi-
+11
+ties. 
+12
+SEC. 207. GAO AUTOMATION REPORT. 
+13
+Not later than 2 years after the date of the enact-
+14
+ment of this Act, the Comptroller General of the United 
+15
+States shall perform a study on the use of automation and 
+16
+machine-readable data across the Federal Government for 
+17
+cybersecurity purposes, including the automated updating 
+18
+of cybersecurity tools, sensors, or processes employed by 
+19
+agencies under paragraphs (1), (5)(C), and (8)(B) of sec-
+20
+tion 3554(b) of title 44, United States Code. 
+21
+04:39 Jan 27, 2022
+H6497
+93 
+•HR 6497 IH
+SEC. 208. EXTENSION OF FEDERAL ACQUISITION SECURITY 
+1
+COUNCIL. 
+2
+(a) EXTENSION.—Section 1328 of title 41, United 
+3
+States Code, is amended by striking ‘‘the date that’’ and 
+4
+all that follows and inserting ‘‘December 31, 2026’’. 
+5
+(b) DESIGNATION.—Section 1322(c)(1) of title 41, 
+6
+United States Code, is amended by striking ‘‘Not later 
+7
+than’’ and all that follows through the end of the para-
+8
+graph and inserting the following: ‘‘The Director of OMB 
+9
+shall designate the Federal Chief Information Security Of-
+10
+ficer appointed by the President under section 3607 of 
+11
+title 44, or an equivalent senior-level official from the Of-
+12
+fice of Management and Budget if the position is vacant, 
+13
+to serve as the Chairperson of the Council.’’. 
+14
+(c) REQUIREMENT.—Subsection 1326(b) of title 41, 
+15
+United States Code, is amended— 
+16
+(1) in paragraph (5), by striking ‘‘; and’’ and 
+17
+inserting a semicolon; 
+18
+(2) by redesignating paragraph (6) as para-
+19
+graph (7); and 
+20
+(3) by inserting after paragraph (5) the fol-
+21
+lowing new paragraph: 
+22
+‘‘(6) maintaining an up-to-date and accurate in-
+23
+ventory of software in use by the agency and, when 
+24
+available, the components of such software, including 
+25
+any available Software Bills of Materials, as applica-
+26
+04:39 Jan 27, 2022
+H6497
+94 
+•HR 6497 IH
+ble, that can be communicated when requested to 
+1
+the Federal Acquisition Security Council, the Na-
+2
+tional Cybersecurity Director, or the Secretary of 
+3
+Homeland Security acting through the Director of 
+4
+Cybersecurity and Infrastructure Security Agency.’’. 
+5
+SEC. 209. FEDERAL CHIEF INFORMATION SECURITY OFFI-
+6
+CER. 
+7
+(a) AMENDMENT.—Chapter 36 of title 44, United 
+8
+States Code, is amended by inserting at the end: 
+9
+‘‘§ 3607. Federal chief information security officer 
+10
+‘‘(a) ESTABLISHMENT.—There is established in the 
+11
+Office of the Federal Chief Information Officer of the Of-
+12
+fice of Management and Budget a Federal Chief Informa-
+13
+tion Security Officer, who shall be appointed by the Presi-
+14
+dent. 
+15
+‘‘(b) DUTIES.—The Federal Chief Information Secu-
+16
+rity Officer shall report to the Federal Chief Information 
+17
+Officer, and assist the Chief Information Officer in car-
+18
+rying out— 
+19
+‘‘(1) all functions under this chapter; 
+20
+‘‘(2) all functions assigned to the Director 
+21
+under title II of the E–Government Act of 2002; 
+22
+‘‘(3) other electronic government initiatives, 
+23
+consistent with other statutes; 
+24
+04:39 Jan 27, 2022
+H6497
+95 
+•HR 6497 IH
+‘‘(4) assisting the Director with carrying out 
+1
+budget formation duties under subtitle II of title 31 
+2
+as it pertains to the information technology, oper-
+3
+ations, and workforce resources of Federal agencies 
+4
+to fulfill cybersecurity responsibilities under section 
+5
+3554, and the duties of the Department of Home-
+6
+land Security duties designated under section 3553; 
+7
+and 
+8
+‘‘(5) other initiatives determined by the Chief 
+9
+Information Officer. 
+10
+‘‘(c) ADDITIONAL DUTIES.—The Federal Chief Infor-
+11
+mation Security Officer shall work with the Chief Informa-
+12
+tion Officer to oversee implementation of electronic Gov-
+13
+ernment under the E–Government Act of 2002, and other 
+14
+relevant statutes, in a manner consistent with law, relating 
+15
+to— 
+16
+‘‘(1) cybersecurity strategy, policy, and oper-
+17
+ations, including the performance of the duties of 
+18
+the Director under subchapter II of chapter 35; 
+19
+‘‘(2) the development of enterprise architec-
+20
+tures; 
+21
+‘‘(3) information security; 
+22
+‘‘(4) privacy; 
+23
+‘‘(5) access to, dissemination of, and preserva-
+24
+tion of Government information; and 
+25
+04:39 Jan 27, 2022
+H6497
+96 
+•HR 6497 IH
+‘‘(6) other areas of electronic Government as 
+1
+determined by the Administrator. 
+2
+‘‘(d) ASSISTANCE.—The Federal Chief Information 
+3
+Security Officer shall assist the Administrator in the per-
+4
+formance of electronic Government functions as described 
+5
+in section 3602(f).’’. 
+6
+(b) DEPUTY NATIONAL CYBER DIRECTOR.—Section 
+7
+1752 of the William M. (Mac) Thornberry National De-
+8
+fense Authorization Act for Fiscal Year 2021 (6 U.S.C. 
+9
+1500; 134 Stat. 4144) is amended by adding at the end 
+10
+the following new subsection: 
+11
+‘‘(d) DEPUTY DIRECTOR.—There shall be a Deputy 
+12
+National Cyber Director for Agency Strategy, Capabilities, 
+13
+and Budget, who shall be the Federal Chief Information 
+14
+Security Officer appointed by the President under section 
+15
+3607 of title 44, United States Code, and shall report to 
+16
+the Director and assist the office in carrying out the fol-
+17
+lowing duties as it applies to the protection of Federal in-
+18
+formation systems by the agencies— 
+19
+‘‘(1) the preparation and oversight over the im-
+20
+plementation of national cyber policy and strategy 
+21
+under subsection (c)(1)(C)(i); 
+22
+‘‘(2) the formation and issuance of rec-
+23
+ommendations to agencies on resource allocations 
+24
+and policies under subsection (c)(1)(C)(ii); 
+25
+04:39 Jan 27, 2022
+H6497
+97 
+•HR 6497 IH
+‘‘(3) reviewing annual budget proposals and 
+1
+making related recommendations under subsection 
+2
+(c)(1)(C)(iii); 
+3
+‘‘(4) the functions, as determined necessary, of 
+4
+the National Cyber Director under subchapter II of 
+5
+chapter 35 of title 44, United States Code; and 
+6
+‘‘(5) other initiatives determined by the Direc-
+7
+tor, or to be necessary to coordinate with the Office 
+8
+by the Federal Chief Information Officer.’’. 
+9
+(c) CLERICAL AMENDMENT.—The table of sections 
+10
+for chapter 36 of title 44, United States Code, is amended 
+11
+by adding after the item relating to section 3606 the fol-
+12
+lowing: 
+13
+‘‘3607. Federal chief information security officer.’’. 
+SEC. 210. EXTENSION OF CHIEF DATA OFFICER COUNCIL. 
+14
+Section 2520A(e)(2) of title 44, United States Code, 
+15
+is amended by striking ‘‘upon the expiration of the 2-year 
+16
+period that begins on the date the Comptroller General 
+17
+submits the report under paragraph (1) to Congress’’ and 
+18
+inserting ‘‘January 31, 2030’’. 
+19
+SEC. 211. COUNCIL OF THE INSPECTORS GENERAL ON IN-
+20
+TEGRITY AND EFFICIENCY DASHBOARD. 
+21
+Section 11(e)(2) of the Inspector General Act of 1978 
+22
+(5 U.S.C. App.) is amended— 
+23
+(1) in subparagraph (A), by striking ‘‘and’’ at 
+24
+the end; 
+25
+04:39 Jan 27, 2022
+H6497
+98 
+•HR 6497 IH
+(2) by redesignating subparagraph (B) as sub-
+1
+paragraph (C); and 
+2
+(3) by inserting after subparagraph (A) the fol-
+3
+lowing: 
+4
+‘‘(B) that shall include a dashboard of 
+5
+open information security recommendations 
+6
+identified in the independent evaluations re-
+7
+quired by section 3555(a) of title 44, United 
+8
+States Code; and’’. 
+9
+SEC. 212. QUANTITATIVE CYBERSECURITY METRICS. 
+10
+(a) DEFINITION OF COVERED METRICS.—In this sec-
+11
+tion, the term ‘‘covered metrics’’ means the metrics estab-
+12
+lished, reviewed, and updated under section 224(c) of the 
+13
+Cybersecurity Act of 2015 (6 U.S.C. 1522(c)). 
+14
+(b) UPDATING AND ESTABLISHING METRICS.—Not 
+15
+later than 1 year after the date of the enactment of this 
+16
+Act, the Director of the Cybersecurity and Infrastructure 
+17
+Security Agency, in coordination with the Director and 
+18
+consulting with the Director of the National Institute of 
+19
+Standards and Technology, shall— 
+20
+(1) evaluate any covered metrics established as 
+21
+of the date of the enactment of this Act; and 
+22
+(2) as appropriate and pursuant to section 
+23
+224(c) of the Cybersecurity Act of 2015 (6 U.S.C. 
+24
+1522(c))— 
+25
+04:39 Jan 27, 2022
+H6497
+99 
+•HR 6497 IH
+(A) update the covered metrics; and 
+1
+(B) establish new covered metrics. 
+2
+(c) IMPLEMENTATION.— 
+3
+(1) IN
+GENERAL.—Not later than 540 days 
+4
+after the date of the enactment of this Act, the Di-
+5
+rector, in coordination with the Director of the Cy-
+6
+bersecurity and Infrastructure Security Agency, 
+7
+shall promulgate guidance that requires each agency 
+8
+to use covered metrics to track trends in the cyber-
+9
+security and incident response capabilities of the 
+10
+agency. 
+11
+(2) 
+PERFORMANCE
+DEMONSTRATION.—The 
+12
+guidance issued under paragraph (1) and any subse-
+13
+quent guidance shall require agencies to share with 
+14
+the Director of the Cybersecurity and Infrastructure 
+15
+Security Agency data demonstrating the perform-
+16
+ance of the agency using the covered metrics in-
+17
+cluded in the guidance. 
+18
+(3) PENETRATION TESTS.—On not less than 2 
+19
+occasions during the 2-year period following the date 
+20
+on which guidance is promulgated under paragraph 
+21
+(1), the Director shall ensure that not less than 3 
+22
+agencies are subjected to substantially similar pene-
+23
+tration tests, as determined by the Director, in co-
+24
+ordination with the Director of the Cybersecurity 
+25
+04:39 Jan 27, 2022
+H6497
+100 
+•HR 6497 IH
+and Infrastructure Security Agency, in order to vali-
+1
+date the utility of the covered metrics. 
+2
+(4) ANALYSIS CAPACITY.—The Director of the 
+3
+Cybersecurity and Infrastructure Security Agency 
+4
+shall develop a capability that allows for the analysis 
+5
+of the covered metrics, including cross-agency per-
+6
+formance of agency cybersecurity and incident re-
+7
+sponse capability trends. 
+8
+(d) CONGRESSIONAL REPORTS.— 
+9
+(1) UTILITY OF METRICS.—Not later than 1 
+10
+year after the date of the enactment of this Act, the 
+11
+Director of the Cybersecurity and Infrastructure Se-
+12
+curity Agency, in coordination with the Director, 
+13
+shall submit to the appropriate congressional com-
+14
+mittees a report on the utility of the covered metrics. 
+15
+(2) USE OF METRICS.—Not later than 180 days 
+16
+after the date on which the Director promulgates 
+17
+guidance under subsection (c)(1), the Director shall 
+18
+submit to the appropriate congressional committees 
+19
+a report on the results of the use of the covered 
+20
+metrics by agencies. 
+21
+(e) FEDERAL CYBERSECURITY ENHANCEMENT ACT 
+22
+OF 2015 UPDATES.—The Federal Cybersecurity Enhance-
+23
+ment Act of 2015 (6 U.S.C. 1521 et seq.) is amended— 
+24
+04:39 Jan 27, 2022
+H6497
+101 
+•HR 6497 IH
+(1) in section 222(3)(B), by inserting ‘‘and the 
+1
+Committee on Oversight and Reform’’ before ‘‘of the 
+2
+House of Representatives’’; and 
+3
+(2) in section 224— 
+4
+(A) by amending subsection (c) to read as 
+5
+follows: 
+6
+‘‘(c) IMPROVED METRICS.—The Director of the Cy-
+7
+bersecurity and Infrastructure Security Agency, in coordi-
+8
+nation with the Director, shall establish, review, and up-
+9
+date metrics to measure the cybersecurity and incident re-
+10
+sponse capabilities of agencies in accordance with the re-
+11
+sponsibilities of agencies under section 3554 of title 44, 
+12
+United States Code.’’; 
+13
+(B) by striking subsection (e); and 
+14
+(C) by redesignating subsection (f) as sub-
+15
+section (e). 
+16
+TITLE III—PILOT PROGRAMS TO 
+17
+ENHANCE FEDERAL CYBER-
+18
+SECURITY 
+19
+SEC. 301. RISK-BASED BUDGET PILOT. 
+20
+(a) DEFINITIONS.—In this section: 
+21
+(1) APPROPRIATE
+CONGRESSIONAL
+COMMIT-
+22
+TEES.—The term ‘‘appropriate congressional com-
+23
+mittees’’ means— 
+24
+04:39 Jan 27, 2022
+H6497
+102 
+•HR 6497 IH
+(A) the Committee on Homeland Security 
+1
+and Governmental Affairs and the Committee 
+2
+on Appropriations of the Senate; and 
+3
+(B) the Committee on Homeland Security, 
+4
+the Committee on Oversight and Reform, and 
+5
+the Committee on Appropriations of the House 
+6
+of Representatives. 
+7
+(2) INFORMATION
+TECHNOLOGY.—The term 
+8
+‘‘information technology’’— 
+9
+(A) has the meaning given the term in sec-
+10
+tion 11101 of title 40, United States Code; and 
+11
+(B) includes the hardware and software 
+12
+systems of a Federal agency that monitor and 
+13
+control physical equipment and processes of the 
+14
+Federal agency. 
+15
+(3) RISK-BASED
+BUDGET.—The term ‘‘risk- 
+16
+based budget’’ means a budget— 
+17
+(A) 
+developed 
+by 
+identifying 
+and 
+18
+prioritizing 
+cybersecurity 
+risks 
+and 
+19
+vulnerabilities, including impact on agency oper-
+20
+ations in the case of a cyber attack, through 
+21
+analysis of cyber threat intelligence, incident 
+22
+data, and tactics, techniques, procedures, and 
+23
+capabilities of cyber threats; and 
+24
+04:39 Jan 27, 2022
+H6497
+103 
+•HR 6497 IH
+(B) that allocates resources based on the 
+1
+risks identified and prioritized under subpara-
+2
+graph (A). 
+3
+(b) ESTABLISHMENT
+OF
+RISK-BASED
+BUDGET 
+4
+PILOT.— 
+5
+(1) IN GENERAL.— 
+6
+(A) MODEL.—Not later than 1 year after 
+7
+the first publication of the budget submitted by 
+8
+the President under section 1105 of title 31, 
+9
+United States Code, following the date of the 
+10
+enactment of this Act, the Director, in consulta-
+11
+tion with the Director of the Cybersecurity and 
+12
+Infrastructure Security Agency and the Na-
+13
+tional Cyber Director and in coordination with 
+14
+the Director of the National Institute of Stand-
+15
+ards and Technology, shall conduct a pilot for 
+16
+creating a risk-based budget for cybersecurity 
+17
+spending. 
+18
+(B) CONTENTS OF PILOT.—The pilot re-
+19
+quired to be developed under this paragraph 
+20
+shall— 
+21
+(i) consider Federal and non-Federal 
+22
+cyber threat intelligence products, where 
+23
+available, 
+to 
+identify 
+threats, 
+24
+vulnerabilities, and risks; 
+25
+04:39 Jan 27, 2022
+H6497
+104 
+•HR 6497 IH
+(ii) consider the impact on agency op-
+1
+erations 
+of 
+incidents, 
+including 
+the 
+2
+interconnectivity to other agency systems 
+3
+and the operations of other agencies; 
+4
+(iii) indicate where resources should 
+5
+be allocated to have the greatest impact on 
+6
+mitigating current and future threats and 
+7
+current and future cybersecurity capabili-
+8
+ties; 
+9
+(iv) be used to inform acquisition and 
+10
+sustainment of— 
+11
+(I) information technology and 
+12
+cybersecurity tools; 
+13
+(II) information technology and 
+14
+cybersecurity architectures; 
+15
+(III) information technology and 
+16
+cybersecurity personnel; and 
+17
+(IV) cybersecurity and informa-
+18
+tion technology concepts of operations; 
+19
+and 
+20
+(v) be used to evaluate and inform 
+21
+government-wide cybersecurity programs of 
+22
+the Department of Homeland Security. 
+23
+(2) REPORTS.—Not later than 2 years after the 
+24
+first publication of the budget submitted by the 
+25
+04:39 Jan 27, 2022
+H6497
+105 
+•HR 6497 IH
+President under section 1105 of title 31, United 
+1
+States Code, following the date of the enactment of 
+2
+this Act, the Director shall submit a report to Con-
+3
+gress on the implementation of the pilot for risk- 
+4
+based budgeting for cybersecurity spending, an as-
+5
+sessment of agency implementation, and an evalua-
+6
+tion of whether the risk-based budget helps to miti-
+7
+gate cybersecurity vulnerabilities. 
+8
+(3) GAO REPORT.—Not later than 3 years 
+9
+after the date on which the first budget of the Presi-
+10
+dent is submitted to Congress containing the valida-
+11
+tion required under section 1105(a)(35)(A)(i)(V) of 
+12
+title 31, United States Code, as amended by sub-
+13
+section (c), the Comptroller General of the United 
+14
+States shall submit to the appropriate congressional 
+15
+committees a report that includes— 
+16
+(A) an evaluation of the success of pilot 
+17
+agencies in implementing risk-based budgets; 
+18
+(B) an evaluation of whether the risk- 
+19
+based budgets developed by pilot agencies are 
+20
+effective at informing Federal Government-wide 
+21
+cybersecurity programs; and 
+22
+(C) any other information relating to risk- 
+23
+based budgets the Comptroller General deter-
+24
+mines appropriate. 
+25
+04:39 Jan 27, 2022
+H6497
+106 
+•HR 6497 IH
+SEC. 302. ACTIVE CYBER DEFENSIVE STUDY. 
+1
+(a) DEFINITION.—In this section, the term ‘‘active 
+2
+defense technique’’ has the meaning given in guidance 
+3
+issued by the Director, in coordination with the Attorney 
+4
+General. 
+5
+(b) STUDY.—Not later than 180 days after the date 
+6
+of the enactment of this Act, the Director of the Cyberse-
+7
+curity and Infrastructure Security Agency, in coordination 
+8
+with the Director and the National Cyber Director, shall 
+9
+perform a study on the use of active defense techniques 
+10
+to enhance the security of agencies, which shall include— 
+11
+(1) a review of legal restrictions on the use of 
+12
+different active cyber defense techniques in Federal 
+13
+environments, in consultation with the Attorney 
+14
+General; 
+15
+(2) an evaluation of— 
+16
+(A) the efficacy of a selection of active de-
+17
+fense techniques determined by the Director of 
+18
+the Cybersecurity and Infrastructure Security 
+19
+Agency; and 
+20
+(B) factors that impact the efficacy of the 
+21
+active defense techniques evaluated under sub-
+22
+paragraph (A); 
+23
+(3) recommendations on safeguards and proce-
+24
+dures that shall be established to require that active 
+25
+defense techniques are adequately coordinated to en-
+26
+04:39 Jan 27, 2022
+H6497
+107 
+•HR 6497 IH
+sure that active defense techniques do not impede 
+1
+agency operations and mission delivery, threat re-
+2
+sponse efforts, criminal investigations, and national 
+3
+security activities, including intelligence collection; 
+4
+and 
+5
+(4) the development of a framework for the use 
+6
+of different active defense techniques by agencies. 
+7
+SEC. 303. SECURITY OPERATIONS CENTER AS A SERVICE 
+8
+PILOT. 
+9
+(a) PURPOSE.—The purpose of this section is for the 
+10
+Director of the Cybersecurity and Infrastructure Security 
+11
+Agency to run a security operation center on behalf of the 
+12
+head of another agency, alleviating the need to duplicate 
+13
+this function at every agency, and empowering a greater 
+14
+centralized cybersecurity capability. 
+15
+(b) PLAN.—Not later than 1 year after the date of 
+16
+the enactment of this Act, the Director of the Cybersecu-
+17
+rity and Infrastructure Security Agency shall develop a 
+18
+plan to establish a centralized Federal security operations 
+19
+center shared service offering within the Cybersecurity 
+20
+and Infrastructure Security Agency. 
+21
+(c) CONTENTS.—The plan required under subsection 
+22
+(b) shall include considerations for— 
+23
+(1) collecting, organizing, and analyzing agency 
+24
+information system data in real time; 
+25
+04:39 Jan 27, 2022
+H6497
+108 
+•HR 6497 IH
+(2) staffing and resources; and 
+1
+(3) appropriate interagency agreements, con-
+2
+cepts of operations, and governance plans. 
+3
+(d) PILOT PROGRAM.— 
+4
+(1) IN
+GENERAL.—Not later than 180 days 
+5
+after the date on which the plan required under sub-
+6
+section (b) is developed, the Director of the Cyberse-
+7
+curity and Infrastructure Security Agency, in con-
+8
+sultation with the Director of the Office of Manage-
+9
+ment and Budget, shall enter into a 1-year agree-
+10
+ment with not less than 2 agencies to offer a secu-
+11
+rity operations center as a shared service. 
+12
+(2) ADDITIONAL AGREEMENTS.—After the date 
+13
+on which the briefing required under subsection 
+14
+(e)(1) is provided, the Director of the Cybersecurity 
+15
+and Infrastructure Security Agency, in consultation 
+16
+with the Director of the Office of Management and 
+17
+Budget, may enter into additional 1-year agreements 
+18
+described in paragraph (1) with agencies. 
+19
+(e) BRIEFING AND REPORT.— 
+20
+(1) BRIEFING.—Not later than 270 days after 
+21
+the date of the enactment of this Act, the Director 
+22
+of the Cybersecurity and Infrastructure Security 
+23
+Agency shall provide to appropriate congressional 
+24
+committees a briefing on the parameters of any 1- 
+25
+04:39 Jan 27, 2022
+H6497
+109 
+•HR 6497 IH
+year agreements entered into under subsection 
+1
+(d)(1). 
+2
+(2) REPORT.—Not later than 90 days after the 
+3
+date on which the first 1-year agreement entered 
+4
+into under subsection (d) expires, the Director of the 
+5
+Cybersecurity and Infrastructure Security Agency 
+6
+shall submit to appropriate congressional committees 
+7
+a report on— 
+8
+(A) the agreement; and 
+9
+(B) any additional agreements entered into 
+10
+with agencies under subsection (d). 
+11
+SEC. 304. ENDPOINT DETECTION AND RESPONSE AS A 
+12
+SERVICE PILOT. 
+13
+(a) PURPOSE.—The Cybersecurity and Infrastruc-
+14
+ture Security Agency is directed to establish and conduct 
+15
+a pilot to determine the feasibility, value, and efficacy of 
+16
+providing endpoint detection and response capabilities as 
+17
+a shared service to Federal agencies to reduce costs, en-
+18
+hance interoperability, and continuously detect and miti-
+19
+gate threat activity on Federal networks. 
+20
+(b) PLAN.—Not later than 90 days after the date of 
+21
+the enactment of this Act, the Director of the Cybersecu-
+22
+rity and Infrastructure Security Agency shall develop a 
+23
+plan to establish a centralized endpoint detection and re-
+24
+04:39 Jan 27, 2022
+H6497
+110 
+•HR 6497 IH
+sponse shared service offering within the Cybersecurity 
+1
+and Infrastructure Security Agency. 
+2
+(c) CONTENTS.—The plan required under subsection 
+3
+(b) shall include considerations for— 
+4
+(1) understanding and assessing the full extent 
+5
+of endpoints across the Federal civilian environment; 
+6
+(2) maximizing the value of existing agency in-
+7
+vestments in endpoint detection and response tools 
+8
+and services; 
+9
+(3) aggregating the available contract vehicles 
+10
+and options that provide agencies with appropriate 
+11
+capability for their environment and architecture; 
+12
+(4) equipping all endpoints and services of pilot 
+13
+agencies with endpoint detection and response pro-
+14
+grams; 
+15
+(5) aggregating network, cloud, and endpoint 
+16
+data from both within the agency and across agen-
+17
+cies to provide enterprise-wide monitoring of the net-
+18
+work to detect abnormal network behavior and auto-
+19
+mate defensive capabilities; and 
+20
+(6) appropriate interagency agreements, con-
+21
+cepts of operations, and governance plans. 
+22
+(d) PILOT PROGRAM.— 
+23
+(1) IN
+GENERAL.—Not later than 180 days 
+24
+after the date on which the plan required under sub-
+25
+04:39 Jan 27, 2022
+H6497
+111 
+•HR 6497 IH
+section (b) is developed, the Director of the Cyberse-
+1
+curity and Infrastructure Security Agency, in con-
+2
+sultation with the Director, shall enter into a 1-year 
+3
+agreement with not less than 2 agencies to offer 
+4
+endpoint detection and response as a shared service. 
+5
+(2) ADDITIONAL AGREEMENTS.—After the date 
+6
+on which the briefing required under subsection 
+7
+(e)(1) is provided, the Director of the Cybersecurity 
+8
+and Infrastructure Security Agency, in consultation 
+9
+with the Director, may enter into additional 1-year 
+10
+agreements described in paragraph (1) with agen-
+11
+cies. 
+12
+(e) BRIEFING AND REPORT.— 
+13
+(1) BRIEFING.—Not later than 270 days after 
+14
+the date of the enactment of this Act, the Director 
+15
+of the Cybersecurity and Infrastructure Security 
+16
+Agency shall provide to the Committee on Homeland 
+17
+Security and Governmental Affairs of the Senate 
+18
+and the Committee on Homeland Security and the 
+19
+Committee on Oversight and Reform of the House 
+20
+of Representatives a briefing on the parameters of 
+21
+any 1-year agreements entered into under subsection 
+22
+(d)(1). 
+23
+(2) REPORT.—Not later than 90 days after the 
+24
+date on which the first 1-year agreement entered 
+25
+04:39 Jan 27, 2022
+H6497
+112 
+•HR 6497 IH
+into under subsection (d) expires, the Director of the 
+1
+Cybersecurity and Infrastructure Security Agency 
+2
+shall submit to the Committee on Homeland Secu-
+3
+rity and Governmental Affairs of the Senate and the 
+4
+Committee on Homeland Security and the Com-
+5
+mittee on Oversight and Reform of the House of 
+6
+Representatives a report on— 
+7
+(A) the agreement; and 
+8
+(B) any additional agreements entered into 
+9
+with agencies under subsection (d). 
+10
+Æ 
+04:39 Jan 27, 2022
+H6497

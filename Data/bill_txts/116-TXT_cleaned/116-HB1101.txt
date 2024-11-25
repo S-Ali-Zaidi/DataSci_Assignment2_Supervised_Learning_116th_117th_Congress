@@ -1,0 +1,334 @@
+A BILL 
+To amend the Communications Act of 1934 to ensure inter-
+net openness, to prohibit blocking lawful content and 
+non-harmful devices, to prohibit throttling data, to pro-
+hibit paid prioritization, to require transparency of net-
+work management practices, to provide that broadband 
+shall be considered to be an information service, and 
+to prohibit the Commission or a State commission from 
+relying on section 706 of the Telecommunications Act 
+of 1996 as a grant of authority. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+19:23 Feb 21, 2019
+H1101
+2 
+•HR 1101 IH
+SECTION 1. INTERNET OPENNESS. 
+1
+Title I of the Communications Act of 1934 (47 
+2
+U.S.C. 151 et seq.) is amended by adding at the end the 
+3
+following: 
+4
+‘‘SEC. 14. INTERNET OPENNESS. 
+5
+‘‘(a) OBLIGATIONS OF BROADBAND INTERNET AC-
+6
+CESS SERVICE PROVIDERS.—A person engaged in the pro-
+7
+vision of broadband internet access service, insofar as such 
+8
+person is so engaged— 
+9
+‘‘(1) may not block lawful content, applications, 
+10
+or services, subject to reasonable network manage-
+11
+ment; 
+12
+‘‘(2) may not prohibit the use of non-harmful 
+13
+devices, subject to reasonable network management; 
+14
+‘‘(3) may not throttle lawful traffic by selec-
+15
+tively slowing, speeding, degrading, or enhancing 
+16
+internet traffic based on source, destination, or con-
+17
+tent, subject to reasonable network management; 
+18
+‘‘(4) may not engage in paid prioritization; and 
+19
+‘‘(5) shall publicly disclose accurate and rel-
+20
+evant information in plain language regarding the 
+21
+network management practices, performance, and 
+22
+commercial terms of its broadband internet access 
+23
+services sufficient for consumers to make informed 
+24
+choices regarding use of such services and for con-
+25
+tent, application, service, and device providers to de-
+26
+19:23 Feb 21, 2019
+H1101
+3 
+•HR 1101 IH
+velop, market, and maintain internet offerings, ex-
+1
+cept that a provider is not required to publicly dis-
+2
+close competitively sensitive information or informa-
+3
+tion that could compromise network security or un-
+4
+dermine the efficacy of reasonable network manage-
+5
+ment practices. 
+6
+‘‘(b) COMMISSION AUTHORITY.— 
+7
+‘‘(1) IN GENERAL.—The Commission shall en-
+8
+force the obligations established in subsection (a) 
+9
+through adjudication of complaints alleging viola-
+10
+tions of such subsection but may not expand the 
+11
+internet openness obligations for provision of 
+12
+broadband internet access service beyond the obliga-
+13
+tions established in such subsection, whether by 
+14
+rulemaking or otherwise. 
+15
+‘‘(2) FORMAL COMPLAINT PROCEDURES.—Not 
+16
+later than 60 days after the date of the enactment 
+17
+of this section, the Commission shall adopt formal 
+18
+complaint procedures to address alleged violations of 
+19
+subsection (a). 
+20
+‘‘(c) OTHER LAWS AND CONSIDERATIONS.—Nothing 
+21
+in this section— 
+22
+‘‘(1) supersedes any obligation or authorization 
+23
+a provider of broadband internet access service may 
+24
+have to address the needs of emergency communica-
+25
+19:23 Feb 21, 2019
+H1101
+4 
+•HR 1101 IH
+tions or law enforcement, public safety, or national 
+1
+security authorities, consistent with or as permitted 
+2
+by applicable law, or limits the provider’s ability to 
+3
+do so; or 
+4
+‘‘(2) prohibits reasonable efforts by a provider 
+5
+of broadband internet access service to address copy-
+6
+right infringement or other unlawful activity. 
+7
+‘‘(d) CONSUMER CHOICE.— 
+8
+‘‘(1) IN
+GENERAL.—Nothing in this section 
+9
+shall be construed to limit consumers’ choice of serv-
+10
+ice plans or consumers’ control over their chosen 
+11
+broadband internet access service or, except as pro-
+12
+vided in paragraph (2), the ability of broadband 
+13
+internet access service providers to offer specialized 
+14
+services. 
+15
+‘‘(2) PROHIBITION ON CERTAIN PRACTICES RE-
+16
+GARDING SPECIALIZED SERVICES.—Specialized serv-
+17
+ices may not be offered or provided in ways that 
+18
+threaten the meaningful availability of broadband 
+19
+internet access service or that have been devised or 
+20
+promoted in a manner designed to evade the pur-
+21
+poses of this section. 
+22
+‘‘(e) BROADBAND TO BE CONSIDERED INFORMATION 
+23
+SERVICE.—Notwithstanding any other provision of law, 
+24
+the provision of broadband internet access service or any 
+25
+19:23 Feb 21, 2019
+H1101
+5 
+•HR 1101 IH
+other mass-market retail service providing advanced tele-
+1
+communications capability (as defined in section 706 of 
+2
+the Telecommunications Act of 1996 (47 U.S.C. 1302)) 
+3
+shall be considered to be an information service. 
+4
+‘‘(f) REASONABLE NETWORK MANAGEMENT.—For 
+5
+purposes of subsection (a), a network management prac-
+6
+tice is reasonable if it is appropriate and tailored to achiev-
+7
+ing a legitimate network management purpose, taking into 
+8
+account the particular network architecture and any tech-
+9
+nology and operational limitations of the broadband inter-
+10
+net access service provider. 
+11
+‘‘(g) DEFINITIONS.—In this section: 
+12
+‘‘(1) BROADBAND
+INTERNET
+ACCESS
+SERV-
+13
+ICE.— 
+14
+‘‘(A) IN GENERAL.—The term ‘broadband 
+15
+internet access service’ means a mass-market 
+16
+retail service by wire or radio that provides the 
+17
+capability to transmit data to and receive data 
+18
+from all or substantially all internet endpoints, 
+19
+including any capabilities that are incidental to 
+20
+and enable the operation of the communications 
+21
+service, but excluding dial-up internet access 
+22
+service. 
+23
+‘‘(B) 
+FUNCTIONAL
+EQUIVALENT; 
+EVA-
+24
+SION.—The term includes any service that— 
+25
+19:23 Feb 21, 2019
+H1101
+6 
+•HR 1101 IH
+‘‘(i) the Commission finds to be pro-
+1
+viding a functional equivalent of the service 
+2
+described in subparagraph (A); or 
+3
+‘‘(ii) is used to evade the protections 
+4
+set forth in subsection (a). 
+5
+‘‘(2) PAID
+PRIORITIZATION.—The term ‘paid 
+6
+prioritization’ means the speeding up or slowing 
+7
+down of some internet traffic in relation to other 
+8
+internet traffic over the consumer’s broadband inter-
+9
+net access service by prioritizing or deprioritizing 
+10
+packets based on compensation or lack thereof by 
+11
+the sender to the broadband internet access service 
+12
+provider. 
+13
+‘‘(3) SPECIALIZED SERVICES.—The term ‘spe-
+14
+cialized 
+services’ 
+means 
+services 
+other 
+than 
+15
+broadband internet access service that are offered 
+16
+over the same network as, and that may share net-
+17
+work capacity with, broadband internet access serv-
+18
+ice.’’. 
+19
+SEC. 2. AUTHORITY UNDER SECTION 706 OF THE TELE-
+20
+COMMUNICATIONS ACT OF 1996. 
+21
+(a) IN GENERAL.—Section 706 of the Telecommuni-
+22
+cations Act of 1996 (47 U.S.C. 1302) is amended— 
+23
+(1) by redesignating subsection (d) as sub-
+24
+section (e); and 
+25
+19:23 Feb 21, 2019
+H1101
+7 
+•HR 1101 IH
+(2) by inserting after subsection (c) the fol-
+1
+lowing: 
+2
+‘‘(d) NO GRANT OF AUTHORITY.—The Commission 
+3
+or a State commission with regulatory jurisdiction over 
+4
+telecommunications services may not rely on this section 
+5
+as a grant of authority.’’. 
+6
+(b) TECHNICAL CORRECTIONS.—Section 706 of the 
+7
+Telecommunications Act of 1996 (47 U.S.C. 1302) is fur-
+8
+ther amended— 
+9
+(1) in subsection (c), by striking ‘‘(as defined’’ 
+10
+and all that follows through ‘‘note))’’; and 
+11
+(2) in subsection (e), as redesignated, in the 
+12
+matter preceding paragraph (1), by striking ‘‘sub-
+13
+section’’ and inserting ‘‘section’’. 
+14
+Æ 
+19:23 Feb 21, 2019
+H1101

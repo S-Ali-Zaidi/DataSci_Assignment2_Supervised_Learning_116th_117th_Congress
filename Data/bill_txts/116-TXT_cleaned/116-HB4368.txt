@@ -1,0 +1,431 @@
+A BILL 
+To prohibit the use of trade secrets privileges to prevent 
+defense access to evidence in criminal proceedings, pro-
+vide for the establishment of Computational Forensic 
+Algorithm Standards, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Justice in Forensic 
+4
+Algorithms Act of 2019’’. 
+5
+04:16 Sep 19, 2019
+H4368
+2 
+•HR 4368 IH
+SEC. 2. COMPUTATIONAL FORENSIC ALGORITHM STAND-
+1
+ARDS. 
+2
+(a) IN GENERAL.—Not later than 1 year after the 
+3
+date of enactment of this Act, the Director of the National 
+4
+Institute of Standards and Technology shall establish a 
+5
+program to provide for creation and maintenance of stand-
+6
+ards for the development and use of computational foren-
+7
+sic software, to be known as the Computational Forensic 
+8
+Algorithm Standards, consistent with the following: 
+9
+(1) Standards shall include an assessment for 
+10
+the potential for disparate impact, on the basis of 
+11
+race, ethnicity, socioeconomic status, gender, and 
+12
+other demographic features, in the development and 
+13
+use of the computational forensic software. 
+14
+(2) Standards shall address— 
+15
+(A)(i) the underlying scientific principles 
+16
+and methods implemented in computational fo-
+17
+rensic software; and 
+18
+(ii) if, in the case of a particular method, 
+19
+there are insufficient studies supporting its use, 
+20
+what studies the Director has conducted to do 
+21
+so, and the results of such studies; 
+22
+(B) requirements for testing the software 
+23
+including the conditions under which it needs to 
+24
+be tested, types of testing data to be used, test-
+25
+ing environments, testing methodologies, and 
+26
+04:16 Sep 19, 2019
+H4368
+3 
+•HR 4368 IH
+system performance statistics required to be re-
+1
+ported including— 
+2
+(i) accuracy, including false positive 
+3
+and false negative error rates; 
+4
+(ii) precision; 
+5
+(iii) reproducibility; 
+6
+(iv) robustness; and 
+7
+(v) sensitivity; 
+8
+(C) requirements for publicly available doc-
+9
+umentation by developers of computational fo-
+10
+rensic software of the purpose and function of 
+11
+the software, the development process, including 
+12
+source and description of training data, and in-
+13
+ternal testing methodology and results, includ-
+14
+ing source and description of testing data; 
+15
+(D) requirements for laboratories and any 
+16
+other entities using computational forensic soft-
+17
+ware to validate it for use, including to specify 
+18
+the conditions under which the lab has vali-
+19
+dated it for their use, requirements for what in-
+20
+formation needs to be included in a public re-
+21
+port on the lab or other entity’s validation, and 
+22
+requirements for internal validation updates 
+23
+when there are material changes to the soft-
+24
+ware; and 
+25
+04:16 Sep 19, 2019
+H4368
+4 
+•HR 4368 IH
+(E) requirements for reports provided to 
+1
+defendants by prosecution produced docu-
+2
+menting the use and results of computational 
+3
+forensic software in individual cases. 
+4
+(3) Standards shall be issued as a rulemaking 
+5
+under section 553 of title 5, United States Code. 
+6
+(4) The Director shall consult with outside ex-
+7
+perts in forensic science, bioethics, algorithmic dis-
+8
+crimination, data privacy, racial justice, criminal jus-
+9
+tice reform, exonerations, and other relevant areas 
+10
+of expertise identified through public input. 
+11
+(b) PROTECTION OF TRADE SECRETS.—The Federal 
+12
+Rules of Evidence are amended by adding at the end of 
+13
+article V the following: 
+14
+‘‘Rule 503. PROTECTION OF TRADE SECRETS IN A CRIMINAL 
+15
+PROCEEDING. 
+16
+‘‘In any criminal case, trade secrets protections do 
+17
+not apply when defendants would otherwise be entitled to 
+18
+obtain evidence.’’. 
+19
+(c) REQUIREMENTS FOR FEDERAL USE OF FOREN-
+20
+SIC ALGORITHMS.—Any Federal law enforcement agency 
+21
+or crime laboratory providing services to a Federal agency 
+22
+using computational forensic software may use only soft-
+23
+ware that has been tested under the National Institute of 
+24
+Standards and Technology’s Computational Forensic Al-
+25
+04:16 Sep 19, 2019
+H4368
+5 
+•HR 4368 IH
+gorithm Testing Program and shall conduct an internal 
+1
+validation according to the requirements outlined in the 
+2
+Computational Forensic Algorithm Standards and make 
+3
+the results publicly available. The internal validation shall 
+4
+be updated when there is a material change in the soft-
+5
+ware that triggers a retesting by the Computational Fo-
+6
+rensic Algorithm Testing Program. 
+7
+(d) REQUIREMENTS FOR TESTING.—The Director of 
+8
+the National Institute of Standards and Technology shall 
+9
+establish a Computational Forensic Algorithm Testing 
+10
+Program, whose activities include the following: 
+11
+(1) Testing individual software programs using 
+12
+the testing requirements established in the Computa-
+13
+tional Forensic Algorithm Standards. 
+14
+(2) Using realistic sample testing data similar 
+15
+to what would be used by law enforcement in crimi-
+16
+nal investigations in performing such testing, includ-
+17
+ing incomplete and contaminated samples. 
+18
+(3) Using testing data that represents diversity 
+19
+of racial, ethnic, and gender identities and intersec-
+20
+tions of these identities in performing such testing. 
+21
+(4) Using testing data that tests the limits of 
+22
+the software and demonstrates the boundaries of re-
+23
+liability described in the performance measures de-
+24
+04:16 Sep 19, 2019
+H4368
+6 
+•HR 4368 IH
+fined in the Computational Forensic Algorithm 
+1
+Standards in performing such testing. 
+2
+(5) Publishing the results of testing the soft-
+3
+ware online including results under conditions speci-
+4
+fied in the standards and across diversity of racial, 
+5
+ethnic, and gender identities and intersections of 
+6
+these identities in a publicly available format. 
+7
+(e) TESTING FREQUENCY.—Retesting shall be con-
+8
+ducted when a material change is made to the software 
+9
+that impacts its performance and may affect its outputs. 
+10
+The Director shall establish requirements for determining 
+11
+whether changes are material or nonmaterial. 
+12
+(f) DISCOVERY IN CRIMINAL CASES.—Rule 16 of the 
+13
+Federal Rules of Criminal Procedure is amended— 
+14
+(1) in subdivision (a)(1), by adding at the end 
+15
+the following: 
+16
+‘‘(H) Use of Computational Forensic Soft-
+17
+ware. Any results or reports resulting from 
+18
+analysis by computational forensic software 
+19
+shall be provided to the defendant, and the de-
+20
+fendant shall be accorded access to an execut-
+21
+able copy of the version of the computational 
+22
+forensic software, as well as earlier versions of 
+23
+the software, necessary instructions for use and 
+24
+interpretation of the results, and relevant files 
+25
+04:16 Sep 19, 2019
+H4368
+7 
+•HR 4368 IH
+and data, used for analysis in the case and suit-
+1
+able for testing purposes. Such a report on the 
+2
+results shall include— 
+3
+‘‘(i) the name of the company that de-
+4
+veloped the software; 
+5
+‘‘(ii) the name of the lab where test 
+6
+was run; 
+7
+‘‘(iii) the version of the software that 
+8
+was used; 
+9
+‘‘(iv) the dates of the most recent 
+10
+changes to the software and record of 
+11
+changes made, including any bugs found in 
+12
+the software and what was done to address 
+13
+those bugs; 
+14
+‘‘(v) documentation of procedures fol-
+15
+lowed based on procedures outlined in in-
+16
+ternal validation; 
+17
+‘‘(vi) documentation of conditions 
+18
+under which software was used relative to 
+19
+the conditions under which software was 
+20
+tested; and 
+21
+‘‘(vii) any other information specified 
+22
+by the Director of the National Institute of 
+23
+Standards and Technology in the Com-
+24
+04:16 Sep 19, 2019
+H4368
+8 
+•HR 4368 IH
+putational 
+Forensic 
+Algorithm 
+Stand-
+1
+ards.’’. 
+2
+(g) INADMISSIBILITY OF CERTAIN EVIDENCE.—The 
+3
+Federal Rules of Evidence are amended by adding at the 
+4
+end of article I the following: 
+5
+‘‘Rule 107. INADMISSIBILITY OF CERTAIN EVIDENCE THAT 
+6
+IS THE RESULT OF ANALYSIS BY COMPUTA-
+7
+TIONAL FORENSIC SOFTWARE. 
+8
+‘‘In any criminal case, evidence that is the result of 
+9
+analysis by computational forensic software is admissible 
+10
+only if— 
+11
+‘‘(1) the computational forensic software used 
+12
+has been submitted to the Computational Forensic 
+13
+Algorithm Testing Program of the Director of the 
+14
+National Institute of Standards and Technology and 
+15
+there have been no material changes to that software 
+16
+since it was last tested; and 
+17
+‘‘(2) the developers and users of the computa-
+18
+tional forensic software agree to waive any and all 
+19
+legal claims against the defense or any member of 
+20
+its team for the purposes of the defense analyzing or 
+21
+testing the computational forensic software.’’. 
+22
+(h) DEFINITIONS.—In this Act: 
+23
+(1) COMPUTATIONAL
+FORENSIC
+SOFTWARE.— 
+24
+The term ‘‘computational forensic software’’ means 
+25
+04:16 Sep 19, 2019
+H4368
+9 
+•HR 4368 IH
+software that relies on an automated or semiauto-
+1
+mated computational process, including one derived 
+2
+from machine learning, statistics, or other data proc-
+3
+essing or artificial intelligence techniques, to process, 
+4
+analyze, or interpret evidence. 
+5
+(2) MATERIAL CHANGE.—The term ‘‘material 
+6
+change’’ means an update to computational forensic 
+7
+software that may affect the performance measures 
+8
+defined in the Computational Forensic Algorithm 
+9
+Standards or the use or output of the software. 
+10
+(3) NONMATERIAL CHANGE.—The term ‘‘non-
+11
+material change’’ means an update to computational 
+12
+forensic software that does not affect the perform-
+13
+ance measures, use, or output of the software. 
+14
+Æ 
+04:16 Sep 19, 2019
+H4368

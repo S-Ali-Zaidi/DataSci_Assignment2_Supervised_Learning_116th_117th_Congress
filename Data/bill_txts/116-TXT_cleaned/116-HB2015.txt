@@ -1,0 +1,812 @@
+A BILL 
+To deter criminal robocall violations and improve enforce-
+ment of section 227(b) of the Communications Act of 
+1934, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Telephone Robocall 
+4
+Abuse Criminal Enforcement and Deterrence Act’’ or the 
+5
+‘‘TRACED Act’’. 
+6
+SEC. 2. FORFEITURE. 
+7
+(a) IN GENERAL.—Section 227 of the Communica-
+8
+tions Act of 1934 (47 U.S.C. 227) is amended— 
+9
+23:21 Apr 12, 2019
+H2015
+2 
+•HR 2015 IH
+(1) in subsection (b), by adding at the end the 
+1
+following: 
+2
+‘‘(4) CIVIL FORFEITURE.— 
+3
+‘‘(A) IN GENERAL.—Any person that is de-
+4
+termined by the Commission, in accordance 
+5
+with paragraph (3) or (4) of section 503(b), to 
+6
+have violated any provision of this subsection 
+7
+shall be liable to the United States for a for-
+8
+feiture penalty pursuant to section 503(b)(1). 
+9
+The amount of the forfeiture penalty deter-
+10
+mined under this subparagraph shall be deter-
+11
+mined in accordance with subparagraphs (A) 
+12
+through (F) of section 503(b)(2). 
+13
+‘‘(B) VIOLATION WITH INTENT.—Any per-
+14
+son that is determined by the Commission, in 
+15
+accordance with paragraph (3) or (4) of section 
+16
+503(b), to have violated this subsection with the 
+17
+intent to cause such violation shall be liable to 
+18
+the United States for a forfeiture penalty. The 
+19
+amount of the forfeiture penalty determined 
+20
+under this subparagraph shall be equal to an 
+21
+amount determined in accordance with subpara-
+22
+graphs (A) through (F) of section 503(b)(2) 
+23
+plus an additional penalty not to exceed 
+24
+$10,000. 
+25
+23:21 Apr 12, 2019
+H2015
+3 
+•HR 2015 IH
+‘‘(C) RECOVERY.—Any forfeiture penalty 
+1
+determined under subparagraph (A) or (B) 
+2
+shall be recoverable under section 504(a). 
+3
+‘‘(D) PROCEDURE.—No forfeiture liability 
+4
+shall be determined under subparagraph (A) or 
+5
+(B) against any person unless such person re-
+6
+ceives the notice required by paragraph (3) or 
+7
+(4) of section 503(b). 
+8
+‘‘(E) STATUTE OF LIMITATIONS.—No for-
+9
+feiture penalty shall be determined or imposed 
+10
+against any person— 
+11
+‘‘(i) under subparagraph (A) if the 
+12
+violation charged occurred more than 1 
+13
+year prior to the date of issuance of the re-
+14
+quired notice or notice of apparent liabil-
+15
+ity; and 
+16
+‘‘(ii) under subparagraph (B) if the 
+17
+violation charged occurred more than 3 
+18
+years prior to the date of issuance of the 
+19
+required notice or notice of apparent liabil-
+20
+ity. 
+21
+‘‘(F) RULE OF CONSTRUCTION.—Notwith-
+22
+standing any law to the contrary, the Commis-
+23
+sion may not determine or impose a forfeiture 
+24
+23:21 Apr 12, 2019
+H2015
+4 
+•HR 2015 IH
+penalty on a person under both subparagraphs 
+1
+(A) and (B) based on the same conduct.’’; and 
+2
+(2) by striking subsection (h). 
+3
+(b) APPLICABILITY.—The amendments made by this 
+4
+section shall not affect any action or proceeding com-
+5
+menced before and pending on the date of enactment of 
+6
+this Act. 
+7
+(c) DEADLINE
+FOR REGULATIONS.—The Federal 
+8
+Communications Commission shall prescribe regulations 
+9
+to implement the amendments made by this section not 
+10
+later than 270 days after the date of enactment of this 
+11
+Act. 
+12
+SEC. 3. CALL AUTHENTICATION. 
+13
+(a) DEFINITIONS.—In this section: 
+14
+(1) STIR/SHAKEN AUTHENTICATION FRAME-
+15
+WORK.—The term ‘‘STIR/SHAKEN authentication 
+16
+framework’’ means the secure telephone identity re-
+17
+visited and signature-based handling of asserted in-
+18
+formation using tokens standards proposed by the 
+19
+information and communications technology industry 
+20
+to attach a certificate of authenticity to each phone 
+21
+to verify the source of each call. 
+22
+(2) VOICE
+SERVICE.—The term ‘‘voice serv-
+23
+ice’’— 
+24
+23:21 Apr 12, 2019
+H2015
+5 
+•HR 2015 IH
+(A) means any service that is inter-
+1
+connected with the public switched telephone 
+2
+network and that furnishes voice communica-
+3
+tions to an end user using resources from the 
+4
+North American Numbering Plan or any suc-
+5
+cessor to the North American Numbering Plan 
+6
+adopted by the Commission under section 
+7
+251(e)(1) of the Communications Act of 1934 
+8
+(47 U.S.C. 251(e)(1)); and 
+9
+(B) includes— 
+10
+(i) transmissions from a telephone 
+11
+facsimile machine, computer, or other de-
+12
+vice to a telephone facsimile machine; and 
+13
+(ii) without limitation, any service 
+14
+that enables real-time, two-way voice com-
+15
+munications, including any service that re-
+16
+quires internet protocol-compatible cus-
+17
+tomer 
+premises 
+equipment 
+(commonly 
+18
+known as ‘‘CPE’’) and permits out-bound 
+19
+calling, whether or not the service is one- 
+20
+way or two-way voice over internet pro-
+21
+tocol. 
+22
+(b) AUTHENTICATION FRAMEWORK.— 
+23
+(1) IN GENERAL.—Subject to paragraphs (2) 
+24
+and (3), not later than 18 months after the date of 
+25
+23:21 Apr 12, 2019
+H2015
+6 
+•HR 2015 IH
+enactment of this Act, the Federal Communications 
+1
+Commission shall require a provider of voice service 
+2
+to implement the STIR/SHAKEN authentication 
+3
+framework in the internet protocol networks of voice 
+4
+service providers. 
+5
+(2) IMPLEMENTATION.—The Federal Commu-
+6
+nications Commission shall not take the action de-
+7
+scribed in paragraph (1) if the Commission deter-
+8
+mines that a provider of voice service, not later than 
+9
+12 months after the date of enactment of this Act— 
+10
+(A) has adopted the STIR/SHAKEN au-
+11
+thentication framework for calls on the internet 
+12
+protocol networks of voice service providers; 
+13
+(B) has agreed voluntarily to participate 
+14
+with other providers of voice service in the 
+15
+STIR/SHAKEN authentication framework; 
+16
+(C) has begun to implement the STIR/ 
+17
+SHAKEN authentication framework; and 
+18
+(D) will be capable of fully implementing 
+19
+the STIR/SHAKEN authentication framework 
+20
+not later than 18 months after the date of en-
+21
+actment of this Act. 
+22
+(3) IMPLEMENTATION REPORT.—Not later than 
+23
+12 months after the date of enactment of this Act, 
+24
+the Federal Communications Commission shall sub-
+25
+23:21 Apr 12, 2019
+H2015
+7 
+•HR 2015 IH
+mit to the Committee on Commerce, Science, and 
+1
+Transportation of the Senate and the Committee on 
+2
+Energy and Commerce of the House of Representa-
+3
+tives a report on the determination required under 
+4
+paragraph (2), which shall include— 
+5
+(A) an analysis of the extent to which pro-
+6
+viders of a voice service have implemented the 
+7
+STIR/SHAKEN authentication framework; and 
+8
+(B) an assessment of the efficacy of the 
+9
+STIR/SHAKEN authentication framework, as 
+10
+being implemented under this section, in ad-
+11
+dressing all aspects of call authentication. 
+12
+(4) REVIEW
+AND
+REVISION
+OR
+REPLACE-
+13
+MENT.—Not later than 3 years after the date of en-
+14
+actment of this Act, and every 3 years thereafter, 
+15
+the Federal Communications Commission, after pub-
+16
+lic notice and an opportunity for comment, shall— 
+17
+(A) assess the efficacy of the call authen-
+18
+tication framework implemented under this sec-
+19
+tion; 
+20
+(B) based on the assessment under sub-
+21
+paragraph (A), revise or replace the call au-
+22
+thentication framework under this section if the 
+23
+Commission determines it is in the public inter-
+24
+est to do so; and 
+25
+23:21 Apr 12, 2019
+H2015
+8 
+•HR 2015 IH
+(C) submit to the Committee on Com-
+1
+merce, Science, and Transportation of the Sen-
+2
+ate and the Committee on Energy and Com-
+3
+merce of the House of Representatives a report 
+4
+on the findings of the assessment under sub-
+5
+paragraph (A) and on any actions to revise or 
+6
+replace the call authentication framework under 
+7
+subparagraph (B). 
+8
+(5) EXTENSION
+OF
+IMPLEMENTATION
+DEAD-
+9
+LINE.—The Federal Communications Commission 
+10
+may extend any deadline for the implementation of 
+11
+a call authentication framework required under this 
+12
+section by 12 months or such further amount of 
+13
+time as the Commission determines necessary if the 
+14
+Commission determines that purchasing or upgrad-
+15
+ing equipment to support call authentication would 
+16
+constitute a substantial hardship for a provider or 
+17
+category of providers. 
+18
+(c) SAFE HARBOR AND OTHER REGULATIONS.— 
+19
+(1) IN
+GENERAL.—The Federal Communica-
+20
+tions Commission shall promulgate rules— 
+21
+(A) establishing when a provider of voice 
+22
+service may block a voice call based, in whole or 
+23
+in part, on information provided by the call au-
+24
+thentication framework under subsection (b); 
+25
+23:21 Apr 12, 2019
+H2015
+9 
+•HR 2015 IH
+(B) establishing a safe harbor for a pro-
+1
+vider of voice service from liability for unin-
+2
+tended or inadvertent blocking of calls or for 
+3
+the unintended or inadvertent misidentification 
+4
+of the level of trust for individual calls based, 
+5
+in whole or in part, on information provided by 
+6
+the call authentication framework under sub-
+7
+section (b); and 
+8
+(C) establishing a process to permit a call-
+9
+ing party adversely affected by the information 
+10
+provided by the call authentication framework 
+11
+under subsection (b) to verify the authenticity 
+12
+of the calling party’s calls. 
+13
+(2) CONSIDERATIONS.—In establishing the safe 
+14
+harbor under paragraph (1), the Federal Commu-
+15
+nications Commission shall consider limiting the li-
+16
+ability of a provider based on the extent to which the 
+17
+provider— 
+18
+(A) blocks or identifies calls based, in 
+19
+whole or in part, on the information provided 
+20
+by the call authentication framework under sub-
+21
+section (b); 
+22
+(B) implemented procedures based, in 
+23
+whole or in part, on the information provided 
+24
+23:21 Apr 12, 2019
+H2015
+10 
+•HR 2015 IH
+by the call authentication framework under sub-
+1
+section (b); and 
+2
+(C) used reasonable care. 
+3
+(d) RULE OF CONSTRUCTION.—Nothing in this sec-
+4
+tion shall preclude the Federal Communications Commis-
+5
+sion from initiating a rulemaking pursuant to its existing 
+6
+statutory authority. 
+7
+SEC. 4. PROTECTIONS FROM SPOOFED CALLS. 
+8
+(a) IN GENERAL.—Not later than 1 year after the 
+9
+date of enactment of this Act, and consistent with the call 
+10
+authentication framework under section 3, the Federal 
+11
+Communications Commission shall initiate a rulemaking 
+12
+to help protect a subscriber from receiving unwanted calls 
+13
+or text messages from a caller using an unauthenticated 
+14
+number. 
+15
+(b) CONSIDERATIONS.—In promulgating rules under 
+16
+subsection (a), the Federal Communications Commission 
+17
+shall consider— 
+18
+(1) the Government Accountability Office report 
+19
+on combating the fraudulent provision of misleading 
+20
+or inaccurate caller identification required by section 
+21
+503(c) of division P of the Consolidated Appropria-
+22
+tions Act 2018 (Public Law 115–141); 
+23
+(2) the best means of ensuring that a sub-
+24
+scriber or provider has the ability to block calls from 
+25
+23:21 Apr 12, 2019
+H2015
+11 
+•HR 2015 IH
+a caller using an unauthenticated North American 
+1
+Numbering Plan number; 
+2
+(3) the impact on the privacy of a subscriber 
+3
+from unauthenticated calls; 
+4
+(4) the effectiveness in verifying the accuracy of 
+5
+caller identification information; and 
+6
+(5) the availability and cost of providing protec-
+7
+tion from the unwanted calls or text messages de-
+8
+scribed in subsection (a). 
+9
+SEC. 5. INTERAGENCY WORKING GROUP. 
+10
+(a) IN GENERAL.—The Attorney General, in con-
+11
+sultation with the Chairman of the Federal Communica-
+12
+tions Commission, shall convene an interagency working 
+13
+group to study Government prosecution of violations of 
+14
+section 227(b) of the Communications Act of 1934 (47 
+15
+U.S.C. 227(b)). 
+16
+(b) DUTIES.—In carrying out the study under sub-
+17
+section (a), the interagency working group shall— 
+18
+(1) determine whether, and if so how, any Fed-
+19
+eral laws, including regulations, policies, and prac-
+20
+tices, or budgetary or jurisdictional constraints in-
+21
+hibit the prosecution of such violations; 
+22
+(2) identify existing and potential Federal poli-
+23
+cies and programs that encourage and improve co-
+24
+ordination among Federal departments and agencies 
+25
+23:21 Apr 12, 2019
+H2015
+12 
+•HR 2015 IH
+and States, and between States, in the prevention 
+1
+and prosecution of such violations; 
+2
+(3) identify existing and potential international 
+3
+policies and programs that encourage and improve 
+4
+coordination between countries in the prevention and 
+5
+prosecution of such violations; and 
+6
+(4) consider— 
+7
+(A) the benefit and potential sources of ad-
+8
+ditional resources for the Federal prevention 
+9
+and prosecution of criminal violations of that 
+10
+section; 
+11
+(B) whether to establish memoranda of un-
+12
+derstanding regarding the prevention and pros-
+13
+ecution of such violations between— 
+14
+(i) the States; 
+15
+(ii) the States and the Federal Gov-
+16
+ernment; and 
+17
+(iii) the Federal Government and a 
+18
+foreign government; 
+19
+(C) whether to establish a process to allow 
+20
+States to request Federal subpoenas from the 
+21
+Federal Communications Commission; 
+22
+(D) whether extending civil enforcement 
+23
+authority to the States would assist in the suc-
+24
+23:21 Apr 12, 2019
+H2015
+13 
+•HR 2015 IH
+cessful prevention and prosecution of such vio-
+1
+lations; 
+2
+(E) whether increased forfeiture and im-
+3
+prisonment penalties are appropriate, such as 
+4
+extending imprisonment for such a violation to 
+5
+a term longer than 2 years; 
+6
+(F) whether regulation of any entity that 
+7
+enters into a business arrangement with a com-
+8
+mon carrier regulated under title II of the Com-
+9
+munications Act of 1934 (47 U.S.C. 201 et 
+10
+seq.) for the specific purpose of carrying, rout-
+11
+ing, or transmitting a call that constitutes such 
+12
+a violation would assist in the successful pre-
+13
+vention and prosecution of such violations; and 
+14
+(G) the extent to which, if any, Depart-
+15
+ment of Justice policies to pursue the prosecu-
+16
+tion of violations causing economic harm, phys-
+17
+ical danger, or erosion of an inhabitant’s peace 
+18
+of mind and sense of security inhibits the pre-
+19
+vention or prosecution of such violations. 
+20
+(c) MEMBERS.—The interagency working group shall 
+21
+be composed of such representatives of Federal depart-
+22
+ments and agencies as the Attorney General considers ap-
+23
+propriate, such as— 
+24
+(1) the Department of Commerce; 
+25
+23:21 Apr 12, 2019
+H2015
+14 
+•HR 2015 IH
+(2) the Department of State; 
+1
+(3) the Department of Homeland Security; 
+2
+(4) the Federal Communications Commission; 
+3
+(5) the Federal Trade Commission; and 
+4
+(6) the Bureau of Consumer Financial Protec-
+5
+tion. 
+6
+(d) NON-FEDERAL STAKEHOLDERS.—In carrying 
+7
+out the study under subsection (a), the interagency work-
+8
+ing group shall consult with such non-Federal stake-
+9
+holders as the Attorney General determines have the rel-
+10
+evant expertise, including the National Association of At-
+11
+torneys General. 
+12
+(e) REPORT TO CONGRESS.—Not later than 270 days 
+13
+after the date of enactment of this Act, the interagency 
+14
+working group shall submit to the Committee on Com-
+15
+merce, Science, and Transportation of the Senate and the 
+16
+Committee on Energy and Commerce of the House of 
+17
+Representatives a report on the findings of the study 
+18
+under subsection (a), including— 
+19
+(1) any recommendations regarding the preven-
+20
+tion and prosecution of such violations; and 
+21
+(2) a description of what progress, if any, rel-
+22
+evant Federal departments and agencies have made 
+23
+in implementing the recommendations under para-
+24
+graph (1). 
+25
+23:21 Apr 12, 2019
+H2015
+15 
+•HR 2015 IH
+SEC. 6. ACCESS TO NUMBER RESOURCES. 
+1
+(a) IN GENERAL.— 
+2
+(1) EXAMINATION OF FCC POLICIES.—Not later 
+3
+than 180 days after the date of enactment of this 
+4
+Act, the Federal Communications Commission shall 
+5
+commence a proceeding to determine whether Fed-
+6
+eral Communications Commission policies regarding 
+7
+access to number resources, including number re-
+8
+sources for toll free and non-toll free telephone num-
+9
+bers, could be modified, including by establishing 
+10
+registration and compliance obligations, to help re-
+11
+duce access to numbers by potential perpetrators of 
+12
+violations of section 227(b) of the Communications 
+13
+Act of 1934 (47 U.S.C. 227(b)). 
+14
+(2) REGULATIONS.—If the Federal Commu-
+15
+nications Commission determines under paragraph 
+16
+(1) that modifying the policies described in that 
+17
+paragraph could help achieve the goal described in 
+18
+that paragraph, the Commission shall prescribe reg-
+19
+ulations to implement those policy modifications. 
+20
+(b) 
+AUTHORITY.—Any 
+person 
+who 
+knowingly, 
+21
+through an employee, agent, officer, or otherwise, directly 
+22
+or indirectly, by or through any means or device whatso-
+23
+ever, is a party to obtaining number resources, including 
+24
+number resources for toll free and non-toll free telephone 
+25
+numbers, from a common carrier regulated under title II 
+26
+23:21 Apr 12, 2019
+H2015
+16 
+•HR 2015 IH
+of the Communications Act of 1934 (47 U.S.C. 201 et 
+1
+seq.), in violation of a regulation prescribed under sub-
+2
+section (a) of this section, shall, notwithstanding section 
+3
+503(b)(5) of the Communications Act of 1934 (47 U.S.C. 
+4
+503(b)(5)), be subject to a forfeiture penalty under section 
+5
+503 of that Act. A forfeiture penalty under this subsection 
+6
+shall be in addition to any other penalty provided for by 
+7
+law. 
+8
+Æ 
+23:21 Apr 12, 2019
+H2015

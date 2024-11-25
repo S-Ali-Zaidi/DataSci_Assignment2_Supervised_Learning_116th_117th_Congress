@@ -1,0 +1,844 @@
+A BILL 
+To prevent wasteful and abusive billing of ancillary services 
+to the Medicare program, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Promoting Integrity 
+4
+in Medicare Act of 2019’’ or ‘‘PIMA of 2019’’. 
+5
+SEC. 2. FINDINGS; PURPOSES. 
+6
+(a) FINDINGS.—Congress finds the following: 
+7
+(1) Recent studies by the Government Account-
+8
+ability Office (GAO) examining self-referral practices 
+9
+02:46 Apr 17, 2019
+H2143
+2 
+•HR 2143 IH
+in advanced diagnostic imaging and anatomic pa-
+1
+thology determined that financial incentives were the 
+2
+most likely cause of increases in self-referrals. 
+3
+(2) For advanced diagnostic imaging, GAO 
+4
+stated that ‘‘providers who self-referred made 
+5
+400,000 more referrals for advanced imaging serv-
+6
+ices than they would have if they were not self-refer-
+7
+ring’’, at a cost of ‘‘more than $100 million’’ in 
+8
+2010. 
+9
+(3) For anatomic pathology, GAO found that 
+10
+‘‘self-referring providers likely referred over 918,000 
+11
+more anatomic pathology services’’ than they would 
+12
+have if they were not self-referring, costing Medicare 
+13
+approximately $69,000,000 more in 2010 than if 
+14
+self-referral was not permitted. 
+15
+(4) For radiation oncology, GAO found that in-
+16
+tensity modulated radiation therapy (IMRT) utiliza-
+17
+tion among self-referring groups increased by 356 
+18
+percent, with overall increases in IMRT utilization 
+19
+rates and spending due entirely to services per-
+20
+formed by limited-specialty groups. The GAO con-
+21
+cluded that ‘‘the higher use of IMRT by self-refer-
+22
+ring providers results in higher costs for Medicare 
+23
+and beneficiaries. To the extent that treatment deci-
+24
+sions are driven by providers’ financial interest and 
+25
+02:46 Apr 17, 2019
+H2143
+3 
+•HR 2143 IH
+not by patient preference, these increased costs are 
+1
+difficult to justify’’. 
+2
+(5) For physical therapy, GAO found that ‘‘in 
+3
+the year a provider began to self-refer, physical ther-
+4
+apy service referrals increased at a higher rate rel-
+5
+ative to non-self-referring providers of the same spe-
+6
+cialty’’. 
+7
+(6) Noting the rapid growth of services covered 
+8
+by the in-office ancillary services (IOAS) exception 
+9
+and evidence that these services are sometimes fur-
+10
+nished inappropriately by referring physicians, the 
+11
+Medicare Payment Advisory Commission (MedPAC) 
+12
+stated that physician self-referral of ancillary serv-
+13
+ices creates incentives to increase volume under 
+14
+Medicare’s current fee-for-service payment systems 
+15
+and the rapid volume growth contributes to Medi-
+16
+care’s rising financial burden on taxpayers and bene-
+17
+ficiaries. 
+18
+(7) The President’s Fiscal Year 2017 Budget 
+19
+includes the change to remove the four services: ad-
+20
+vanced diagnostic imaging, anatomic pathology, radi-
+21
+ation oncology, and physical therapy from the IOAS 
+22
+exception to the Stark Law and cited the change as 
+23
+generating a savings score of $4,980,000,000 over 
+24
+10 years. The nonpartisan Congressional Budget Of-
+25
+02:46 Apr 17, 2019
+H2143
+4 
+•HR 2143 IH
+fice’s analysis of the President’s Fiscal Year 2017 
+1
+Budget listed the change as generating a savings of 
+2
+$3,300,000,000 over 10 years. 
+3
+(8) According to the Centers for Medicare & 
+4
+Medicaid Services, a key rationale for the IOAS ex-
+5
+ception was to permit physicians to provide ancillary 
+6
+services in their offices to better inform diagnosis 
+7
+and treatment decisions at the time of the patient’s 
+8
+initial office visit. 
+9
+(9) It is necessary, therefore, to distinguish be-
+10
+tween services and procedures that were intended to 
+11
+be covered by the IOAS exception, such as routine 
+12
+clinical laboratory services or simple x-rays that are 
+13
+provided during the patient’s initial office visit, and 
+14
+other health care services which were clearly not en-
+15
+visioned to be covered by that exception because they 
+16
+cannot be performed or completed during the pa-
+17
+tient’s initial office visit. 
+18
+(10) According to a 2010 Health Affairs study, 
+19
+less than 10 percent of CT, MRI, and Nuclear Medi-
+20
+cine scans take place on the same day as the initial 
+21
+patient office visit. 
+22
+(11) According to a 2012 Health Affairs study, 
+23
+urologists’ self-referrals for anatomic pathology serv-
+24
+ices of biopsy specimens is linked to increased use 
+25
+02:46 Apr 17, 2019
+H2143
+5 
+•HR 2143 IH
+and volume billed along with a lower detection of 
+1
+prostate cancer. 
+2
+(12) According to an October 2011 Laboratory 
+3
+Economics report, there has been an increase in the 
+4
+number of anatomic pathology specimen units billed 
+5
+to the Medicare part B program from 2006 through 
+6
+2010, specifically for CPT Code 88305, and the rate 
+7
+of increase billed by physician offices for this service 
+8
+is accelerating at a far greater pace than the rest of 
+9
+the provider segments. 
+10
+(13) According to a 2013 American Academy of 
+11
+Dermatology Pathology Billing paper, arrangements 
+12
+involving the split of the technical and professional 
+13
+components of anatomic pathology services among 
+14
+different providers may endanger patient safety and 
+15
+undermine quality of care. 
+16
+(14) In November 2012, Bloomberg News re-
+17
+leased an investigative report that scrutinized or-
+18
+deals faced by California prostate cancer patients 
+19
+treated by a urology clinic that owns radiation ther-
+20
+apy equipment. The report found that physician self- 
+21
+referral resulted in a detrimental impact on patient 
+22
+care and drove up health care costs in the Medicare 
+23
+program. The Wall Street Journal, the Washington 
+24
+Post, and the Baltimore Sun have also published in-
+25
+02:46 Apr 17, 2019
+H2143
+6 
+•HR 2143 IH
+vestigations showing that urology groups owning ra-
+1
+diation therapy machines have utilization rates that 
+2
+rise quickly and are well above national norms for 
+3
+radiation therapy treatment of prostate cancer. 
+4
+(15) According to a 2010 MedPAC report, only 
+5
+3 percent of outpatient physical therapy services 
+6
+were provided on the same day as an office visit, 
+7
+only 9 percent within 7 days of an office visit, and 
+8
+only 14 percent within 14 days of an office visit. 
+9
+These services are not integral to the physician’s ini-
+10
+tial diagnosis and do not improve patient conven-
+11
+ience because patients must return for physical ther-
+12
+apy treatments. 
+13
+(16) In an April 2018, European Urology arti-
+14
+cle authored by leading urologists about Medicare 
+15
+beneficiaries with prostate cancer diagnoses, re-
+16
+searchers found, ‘‘Urologists practicing in single-spe-
+17
+cialty groups with an ownership interest in radiation 
+18
+therapy are more likely to treat men with prostate 
+19
+cancer, including those with a high risk of noncancer 
+20
+mortality.’’. This suggests that urologists practicing 
+21
+in single-specialty groups with an ownership interest 
+22
+in radiation therapy are more likely to treat, and 
+23
+even potentially overtreat, patients with IMRT than 
+24
+02:46 Apr 17, 2019
+H2143
+7 
+•HR 2143 IH
+those affiliated with a multispecialty practice or a 
+1
+group without an ownership stake. 
+2
+(17) In a January 2019, JAMA Oncology arti-
+3
+cle, authors systematically reviewed 18 studies to as-
+4
+sess physicians’ response to reimbursement incen-
+5
+tives on cancer care delivery across various clinical 
+6
+settings. Across the studies, the authors consistently 
+7
+found that ‘‘the ability to self-refer for radiation on-
+8
+cology services was associated with increased use of 
+9
+radiation therapy’’. 
+10
+(18) Those services intended to be covered 
+11
+under the IOAS exception are not affected by this 
+12
+legislation. 
+13
+(19) The exception to the ownership or invest-
+14
+ment prohibition for rural providers in the ‘‘Stark’’ 
+15
+rule is not affected by this legislation. 
+16
+(b) PURPOSES.—The purposes of this Act are the fol-
+17
+lowing: 
+18
+(1) Maintain the in-office ancillary services ex-
+19
+ception and preserve its original intent by removing 
+20
+certain complex services from the exception—specifi-
+21
+cally, advanced imaging, anatomic pathology, radi-
+22
+ation therapy, and physical therapy. 
+23
+(2) Protect patients from misaligned provider 
+24
+financial incentives. 
+25
+02:46 Apr 17, 2019
+H2143
+8 
+•HR 2143 IH
+(3) Protect Medicare resources by saving bil-
+1
+lions of dollars. 
+2
+(4) Accomplish the purposes described in para-
+3
+graphs (1), (2), and (3) in a manner that does not 
+4
+alter the existing exception to the ownership or in-
+5
+vestment prohibition for rural providers. 
+6
+SEC. 3. LIMITATION ON APPLICATION OF PHYSICIANS’ 
+7
+SERVICES AND IN-OFFICE ANCILLARY SERV-
+8
+ICES EXCEPTIONS. 
+9
+(a) IN GENERAL.—Section 1877(b) of the Social Se-
+10
+curity Act (42 U.S.C. 1395nn(b)) is amended— 
+11
+(1) in paragraph (1), by inserting ‘‘, other than 
+12
+specified non-ancillary services,’’ after ‘‘section 
+13
+1861(q))’’; and 
+14
+(2) in paragraph (2), by inserting ‘‘, specified 
+15
+non-ancillary services,’’ after ‘‘(excluding infusion 
+16
+pumps)’’. 
+17
+(b) INCREASE OF CIVIL MONEY PENALTIES.—Sec-
+18
+tion 1877(g) of the Social Security Act (42 U.S.C. 
+19
+1395nn(g)) is amended— 
+20
+(1) in paragraph (3), by inserting ‘‘, unless 
+21
+such bill or claim included a bill or claim for a speci-
+22
+fied non-ancillary service, in which case the civil 
+23
+money penalty shall be not more than $25,000 for 
+24
+02:46 Apr 17, 2019
+H2143
+9 
+•HR 2143 IH
+each such service’’ before the period at the end of 
+1
+the first sentence; and 
+2
+(2) in paragraph (4), by inserting ‘‘(or 
+3
+$150,000 if such referrals are for specified non-an-
+4
+cillary services)’’ after ‘‘$100,000’’. 
+5
+(c) ENHANCED SCREENING
+OF CLAIMS.—Section 
+6
+1877(g) of the Social Security Act (42 U.S.C. 1395nn(g)) 
+7
+is further amended by adding at the end the following new 
+8
+paragraph: 
+9
+‘‘(7) COMPLIANCE
+REVIEW
+FOR
+SPECIFIED 
+10
+NON-ANCILLARY SERVICES.— 
+11
+‘‘(A) IN
+GENERAL.—Not later than 180 
+12
+days after the date of the enactment of this 
+13
+paragraph, the Secretary, in consultation with 
+14
+the Inspector General of the Department of 
+15
+Health and Human Services, shall review com-
+16
+pliance with subsection (a)(1) with respect to 
+17
+referrals for specified non-ancillary services in 
+18
+accordance with procedures established by the 
+19
+Secretary. 
+20
+‘‘(B) FACTORS IN COMPLIANCE REVIEW.— 
+21
+Such procedures— 
+22
+‘‘(i) shall, for purposes of targeting 
+23
+types of entities that the Secretary deter-
+24
+mines represent a high risk of noncompli-
+25
+02:46 Apr 17, 2019
+H2143
+10 
+•HR 2143 IH
+ance with subsection (a)(1) with respect to 
+1
+such billing for such specified non-ancillary 
+2
+services, apply different levels of review 
+3
+based on such type; and 
+4
+‘‘(ii) may include prepayment reviews, 
+5
+claims audits, focused medical review, and 
+6
+computer algorithms designed to identify 
+7
+payment or billing anomalies.’’. 
+8
+(d) DEFINITION
+OF
+SPECIFIED
+NON-ANCILLARY 
+9
+SERVICES.—Section 1877(h) of the Social Security Act 
+10
+(42 U.S.C. 1395nn(h)) is amended by adding at the end 
+11
+the following new paragraphs: 
+12
+‘‘(8) SPECIFIED NON-ANCILLARY SERVICES.— 
+13
+‘‘(A) Subject to subparagraph (B), the 
+14
+term ‘specified non-ancillary service’ means the 
+15
+following: 
+16
+‘‘(i) Anatomic pathology services, as 
+17
+defined by the Secretary and including the 
+18
+technical or professional component of the 
+19
+following: 
+20
+‘‘(I) Surgical pathology. 
+21
+‘‘(II) Cytopathology. 
+22
+‘‘(III) Hematology. 
+23
+‘‘(IV) Blood banking. 
+24
+02:46 Apr 17, 2019
+H2143
+11 
+•HR 2143 IH
+‘‘(V) Pathology consultation and 
+1
+clinical laboratory interpretation serv-
+2
+ices. 
+3
+‘‘(ii) Radiation therapy services and 
+4
+supplies, as defined by the Secretary. 
+5
+‘‘(iii) Advanced diagnostic imaging 
+6
+studies 
+(as 
+defined 
+in 
+section 
+7
+1834(e)(1)(B)). 
+8
+‘‘(iv) Physical therapy services (as de-
+9
+scribed in paragraph (6)(B)). 
+10
+‘‘(v) Any other service that the Sec-
+11
+retary has determined is not usually pro-
+12
+vided and completed as part of the office 
+13
+visit to a physician’s office in which the 
+14
+service is determined to be necessary. 
+15
+‘‘(B) The term ‘specified non-ancillary 
+16
+service’ does not include the following: 
+17
+‘‘(i) Any service that is furnished— 
+18
+‘‘(I) in an urban area (as defined 
+19
+in section 1886(d)(2)(D)) to an indi-
+20
+vidual who resides in a rural area (as 
+21
+defined in such section); and 
+22
+‘‘(II) to such individual in its en-
+23
+tirety on the same day as the day on 
+24
+which, with respect to the condition 
+25
+02:46 Apr 17, 2019
+H2143
+12 
+•HR 2143 IH
+for which the service is furnished, the 
+1
+initial office visit of the individual for 
+2
+such condition occurs. 
+3
+‘‘(ii) Any service that is furnished— 
+4
+‘‘(I) by a provider of services or 
+5
+supplier participating in an account-
+6
+able care organization that partici-
+7
+pates in the shared savings program 
+8
+established under section 1899; and 
+9
+‘‘(II) to a Medicare fee-for-serv-
+10
+ice beneficiary (as defined in section 
+11
+1899(h)(3)) assigned to such account-
+12
+able care organization. 
+13
+‘‘(iii) Any service that is furnished by 
+14
+a provider or supplier pursuant to the par-
+15
+ticipation of the provider or supplier in a 
+16
+payment and service delivery model se-
+17
+lected under section 1115A(a). 
+18
+‘‘(iv) Any service that is provided by 
+19
+an integrated multi-specialty group prac-
+20
+tice. 
+21
+‘‘(9) INTEGRATED
+MULTI-SPECIALTY
+GROUP 
+22
+PRACTICE.—The term ‘integrated multi-specialty 
+23
+group practice’ means a group practice, as defined 
+24
+by the Secretary, that— 
+25
+02:46 Apr 17, 2019
+H2143
+13 
+•HR 2143 IH
+‘‘(A) consists of at least— 
+1
+‘‘(i) primary care physicians who pro-
+2
+vide primary care services (as defined in 
+3
+section 1842(i)(4)); and 
+4
+‘‘(ii) seven or more different and dis-
+5
+tinct physician specialties (not including 
+6
+subspecialties) which are practiced by phy-
+7
+sicians who are board certified in the phy-
+8
+sician specialty associated with the services 
+9
+that they provide; 
+10
+‘‘(B) is governed by a governing body that 
+11
+has made a determination (and has documented 
+12
+such determination) that the system is focused 
+13
+on— 
+14
+‘‘(i) promoting accountability for the 
+15
+quality, cost, and overall care for individ-
+16
+uals entitled to benefits under part A or 
+17
+enrolled in part B, including by managing 
+18
+and coordinating care for such individuals; 
+19
+and 
+20
+‘‘(ii) encouraging investment in infra-
+21
+structure and redesigned care processes for 
+22
+high quality and efficient service delivery 
+23
+for patients, including individuals described 
+24
+in clause (i); 
+25
+02:46 Apr 17, 2019
+H2143
+14 
+•HR 2143 IH
+‘‘(C) engages in risk-based payment ar-
+1
+rangements with government and commercial 
+2
+payers, including shared savings, bundled pay-
+3
+ment arrangements, withholds, and capitated 
+4
+payment arrangements; and 
+5
+‘‘(D) meets, with respect to the program 
+6
+under this title, such cost reduction and quality 
+7
+goals as the Secretary determines appro-
+8
+priate.’’. 
+9
+(e) CONSTRUCTION.—Nothing in this section (or the 
+10
+amendments made by this section) shall be construed to 
+11
+affect the authority of the Secretary of Health and Human 
+12
+Services to waive under section 1899 of the Social Security 
+13
+Act (42 U.S.C. 1395jjj) the requirements imposed under 
+14
+the provisions of this section (or such amendments) or to 
+15
+affect the authority of the Secretary to implement the pro-
+16
+visions under section 1848(q) of such Act (42 U.S.C. 
+17
+1395w–4(q)) (relating to the eligible professionals Merit- 
+18
+Based Incentive Payment System under the Medicare pro-
+19
+gram) or section 1833(z) of such Act (42 U.S.C. 1395l(z)) 
+20
+(relating to incentive payments for participation in eligible 
+21
+alternative payment models under such program). 
+22
+(f) EFFECTIVE DATE.—The amendments made by 
+23
+this section shall apply to items and services furnished on 
+24
+or after the first day of the first month beginning more 
+25
+02:46 Apr 17, 2019
+H2143
+15 
+•HR 2143 IH
+than 12 months after the date of the enactment of this 
+1
+Act. 
+2
+SEC. 4. CLARIFICATION OF CERTAIN ENTITIES SUBJECT TO 
+3
+STARK RULE AND ANTI-MARKUP RULE. 
+4
+Section 1877(h) of the Social Security Act (42 U.S.C. 
+5
+1395nn(h)) is further amended by adding at the end the 
+6
+following new paragraph: 
+7
+‘‘(10) CLARIFICATION
+OF
+CERTAIN
+ENTITIES 
+8
+SUBJECT TO ANTI-MARKUP RULE.—In applying this 
+9
+section, the term ‘entity’ shall include a physician’s 
+10
+practice when it bills under this title for the tech-
+11
+nical component or the professional component of a 
+12
+specified non-ancillary service, including when such 
+13
+service 
+is 
+billed 
+in 
+compliance 
+with 
+section 
+14
+1842(n)(1).’’. 
+15
+SEC. 5. CLARIFICATION OF SUPERVISION OF TECHNICAL 
+16
+COMPONENT 
+OF 
+ANATOMIC 
+PATHOLOGY 
+17
+SERVICES. 
+18
+Section 1861(s)(17) of the Social Security Act (42 
+19
+U.S.C. 1395x(s)(17)) is amended— 
+20
+(1) by striking ‘‘and’’ at the end of subpara-
+21
+graph (A); 
+22
+(2) by redesignating subparagraph (B) as sub-
+23
+paragraph (C); and 
+24
+02:46 Apr 17, 2019
+H2143
+16 
+•HR 2143 IH
+(3) by inserting after subparagraph (A) the fol-
+1
+lowing new subparagraph: 
+2
+‘‘(B) with regard to the provision of the 
+3
+technical component of anatomic pathology 
+4
+services, meets the applicable supervision re-
+5
+quirements for laboratories certified in the sub-
+6
+specialty of histopathology, pursuant to section 
+7
+353 of the Public Health Service Act; and’’. 
+8
+SEC. 6. EXEMPTION FROM BUDGET NEUTRALITY UNDER 
+9
+PHYSICIAN FEE SCHEDULE. 
+10
+Section 1848(c)(2)(B)(v) of the Social Security Act 
+11
+(42 U.S.C. 1395w–4(c)(2)(B)(v)) is amended by adding 
+12
+at the end the following new subclause: 
+13
+‘‘(XII) CHANGES
+TO
+LIMITA-
+14
+TIONS ON CERTAIN PHYSICIAN REFER-
+15
+RALS.—Effective for fee schedules es-
+16
+tablished beginning with 2019, re-
+17
+duced expenditures attributable to the 
+18
+Promoting Integrity in Medicare Act 
+19
+of 2019.’’. 
+20
+Æ 
+02:46 Apr 17, 2019
+H2143

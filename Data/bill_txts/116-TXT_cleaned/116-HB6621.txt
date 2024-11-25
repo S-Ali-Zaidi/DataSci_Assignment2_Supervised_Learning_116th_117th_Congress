@@ -1,0 +1,695 @@
+A BILL 
+To amend the United States International Broadcasting Act 
+of 1994 to authorize the Open Technology Fund of the 
+United States Agency for Global Media, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Open Technology Fund 
+4
+Authorization Act’’. 
+5
+SEC. 2. FINDINGS. 
+6
+Congress finds the following: 
+7
+21:52 Apr 27, 2020
+H6621
+2 
+•HR 6621 IH
+(1) The political, economic, and social benefits 
+1
+of the internet are important to advancing democ-
+2
+racy and freedom throughout the world. 
+3
+(2) Authoritarian governments are investing bil-
+4
+lions of dollars each year to create, maintain, and 
+5
+expand repressive internet censorship and surveil-
+6
+lance systems to limit free association, control access 
+7
+to information, and prevent citizens from exercising 
+8
+their rights to free speech. 
+9
+(3) Over two-thirds of the world’s population 
+10
+lives in a country where the internet is restricted, 
+11
+and governments shut down the internet over 200 
+12
+times each year. 
+13
+(4) Internet censorship and surveillance tech-
+14
+nology is being exported rapidly around the world, 
+15
+particularly by the Chinese Government, enabling 
+16
+widespread abuses by authoritarian governments. 
+17
+SEC. 3. SENSE OF CONGRESS. 
+18
+It is the sense of Congress that it is in the interest 
+19
+of the United States to promote global internet freedom 
+20
+by countering internet censorship and repressive surveil-
+21
+lance and protect the internet as a platform for the free 
+22
+exchange of ideas, promotion of human rights and democ-
+23
+racy, and advancement of a free press and to support ef-
+24
+forts that prevent the deliberate misuse of the internet to 
+25
+21:52 Apr 27, 2020
+H6621
+3 
+•HR 6621 IH
+repress individuals from exercising their rights to free 
+1
+speech and association, including countering the use of 
+2
+such technologies by authoritarian regimes. 
+3
+SEC. 4. ESTABLISHMENT OF THE OPEN TECHNOLOGY 
+4
+FUND. 
+5
+(a) IN GENERAL.—The United States International 
+6
+Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.) is 
+7
+amended by inserting after section 309 the following new 
+8
+section: 
+9
+‘‘SEC. 309A. OPEN TECHNOLOGY FUND. 
+10
+‘‘(a) AUTHORITY.— 
+11
+‘‘(1) IN
+GENERAL.—Grants authorized under 
+12
+section 305 shall be available to make annual grants 
+13
+for the purpose of promoting, consistent with United 
+14
+States law, unrestricted access to uncensored 
+15
+sources of information via the internet to enable 
+16
+journalists, including journalists employed by or af-
+17
+filiated with the Voice of America, Radio Free Eu-
+18
+rope/Radio Liberty, Radio Free Asia, the Middle 
+19
+East Broadcasting Networks, the Office of Cuba 
+20
+Broadcasting, or any entity funded by or partnering 
+21
+with the United States Agency for Global Media, to 
+22
+create and disseminate, and for their audiences to 
+23
+receive, news and information consistent with the 
+24
+21:52 Apr 27, 2020
+H6621
+4 
+•HR 6621 IH
+purposes, standards, and principles specified in sec-
+1
+tions 302 and 303. 
+2
+‘‘(2) ESTABLISHMENT.—There is established a 
+3
+grantee entity to be known as the ‘Open Technology 
+4
+Fund’, which shall carry out the provisions of this 
+5
+section. 
+6
+‘‘(b) FUNCTIONS OF THE GRANTEE.—In furtherance 
+7
+of the mission set forth in subsection (a), the Open Tech-
+8
+nology Fund shall seek to advance freedom of the press 
+9
+and unrestricted access to the internet in repressive envi-
+10
+ronments oversees, and shall— 
+11
+‘‘(1) research, develop, implement, and main-
+12
+tain— 
+13
+‘‘(A) technologies that circumvent tech-
+14
+niques used by authoritarian governments, 
+15
+nonstate actors, and others to block or censor 
+16
+access to the internet, including circumvention 
+17
+tools that bypass internet blocking, filtering, 
+18
+and other censorship techniques used to limit or 
+19
+block legitimate access to content and informa-
+20
+tion; and 
+21
+‘‘(B) secure communication tools and other 
+22
+forms of privacy and security technology that 
+23
+facilitate the creation and distribution of news 
+24
+21:52 Apr 27, 2020
+H6621
+5 
+•HR 6621 IH
+and enable audiences to access media content 
+1
+on censored websites; 
+2
+‘‘(2) advance internet freedom by supporting 
+3
+private and public sector research, development, im-
+4
+plementation, and maintenance of technologies that 
+5
+provide secure and uncensored access to the internet 
+6
+to counter attempts by authoritarian governments, 
+7
+nonstate actors, and others to improperly restrict 
+8
+freedom online; 
+9
+‘‘(3) research and analyze emerging technical 
+10
+threats and develop innovative solutions through col-
+11
+laboration with the private and public sectors to 
+12
+maintain the technological advantage of the United 
+13
+States Government over authoritarian governments, 
+14
+nonstate actors, and others; 
+15
+‘‘(4) develop, acquire, and distribute requisite 
+16
+internet freedom technologies and techniques for the 
+17
+United States Agency for Global Media, including as 
+18
+set forth in paragraph (1), and digital security inter-
+19
+ventions, to fully enable the creation and distribution 
+20
+of digital content between and to all users and re-
+21
+gional audiences; 
+22
+‘‘(5) prioritize programs for countries the gov-
+23
+ernments of which restrict freedom of expression on 
+24
+the internet, and that are important to the national 
+25
+21:52 Apr 27, 2020
+H6621
+6 
+•HR 6621 IH
+interest of the United States, and are consistent 
+1
+with section 7050(b)(2)(C) of the Further Consoli-
+2
+dated Appropriations Act, 2020 (Public Law 116– 
+3
+94); and 
+4
+‘‘(6) carry out any other effort consistent with 
+5
+the purposes of this Act or press freedom overseas 
+6
+if requested or approved by the United States Agen-
+7
+cy for Global Media. 
+8
+‘‘(c) METHODOLOGY.—In carrying out subsection 
+9
+(b), the Open Technology Fund shall— 
+10
+‘‘(1) support fully open-source tools, code, and 
+11
+components, to the extent practicable, to ensure 
+12
+such supported tools and technologies are as secure, 
+13
+transparent, and accessible as possible, and require 
+14
+that any such tools, components, code, or technology 
+15
+supported by the Open Technology Fund remain 
+16
+fully open-source, to the extent practicable; 
+17
+‘‘(2) support technologies that undergo com-
+18
+prehensive security audits to ensure that such tech-
+19
+nologies are secure and have not been compromised 
+20
+in a manner detrimental to the interest of the 
+21
+United States or to individuals and organizations 
+22
+benefitting from programs supported by the Open 
+23
+Technology Fund; 
+24
+21:52 Apr 27, 2020
+H6621
+7 
+•HR 6621 IH
+‘‘(3) review and update periodically as nec-
+1
+essary security auditing procedures used by the 
+2
+Open Technology Fund to reflect current industry 
+3
+security standards; 
+4
+‘‘(4) establish safeguards to mitigate the use of 
+5
+such supported technologies for illicit purposes; 
+6
+‘‘(5) solicit project proposals through an open, 
+7
+transparent, and competitive application process to 
+8
+attract innovative applications and reduce barriers to 
+9
+entry; 
+10
+‘‘(6) seek input from technical, regional, and 
+11
+subject matter experts from a wide range of relevant 
+12
+disciplines, to review, provide feedback, and evaluate 
+13
+proposals to ensure the most competitive projects 
+14
+are funded; 
+15
+‘‘(7) implement an independent review process, 
+16
+through which proposals are reviewed by such ex-
+17
+perts to ensure the highest degree of technical re-
+18
+view and due diligence; 
+19
+‘‘(8) maximize cooperation with the public and 
+20
+private sectors, as well as foreign allies and partner 
+21
+countries, to maximize efficiencies and eliminate du-
+22
+plication of efforts; and 
+23
+‘‘(9) utilize any other methodology approved by 
+24
+the United States Agency for Global Media in fur-
+25
+21:52 Apr 27, 2020
+H6621
+8 
+•HR 6621 IH
+therance of the mission of the Open Technology 
+1
+Fund. 
+2
+‘‘(d) GRANT AGREEMENT.—Any grant agreement 
+3
+with or grants made to the Open Technology Fund under 
+4
+this section shall be subject to the following limitations 
+5
+and restrictions: 
+6
+‘‘(1) The headquarters of the Open Technology 
+7
+Fund and its senior administrative and managerial 
+8
+staff shall be located in a location which ensures 
+9
+economy, operational effectiveness, and account-
+10
+ability to the United States Agency for Global 
+11
+Media. 
+12
+‘‘(2) Grants awarded under this section shall be 
+13
+made pursuant to a grant agreement which requires 
+14
+that grant funds be used only for activities con-
+15
+sistent with this section, and that failure to comply 
+16
+with such requirements shall permit the grant to be 
+17
+terminated without fiscal obligation to the United 
+18
+States. 
+19
+‘‘(3) Any grant agreement under this section 
+20
+shall require that any contract entered into by the 
+21
+Open Technology Fund shall specify that all obliga-
+22
+tions are assumed by the grantee and not by the 
+23
+United States Government. 
+24
+21:52 Apr 27, 2020
+H6621
+9 
+•HR 6621 IH
+‘‘(4) Any grant agreement under this section 
+1
+shall require that any lease agreements entered into 
+2
+by the Open Technology Fund shall be, to the max-
+3
+imum extent possible, assignable to the United 
+4
+States Government. 
+5
+‘‘(5) Administrative and managerial costs for 
+6
+operation of the Open Technology Fund should be 
+7
+kept to a minimum and, to the maximum extent fea-
+8
+sible, should not exceed the costs that would have 
+9
+been incurred if the Open Technology Fund had 
+10
+been operated as a Federal entity rather than as a 
+11
+grantee. 
+12
+‘‘(6) Grant funds may not be used for any ac-
+13
+tivity the purpose of which is influencing the passage 
+14
+or defeat of legislation considered by Congress. 
+15
+‘‘(e) RELATIONSHIP TO THE UNITED STATES AGEN-
+16
+CY FOR GLOBAL MEDIA.— 
+17
+‘‘(1) IN
+GENERAL.—The Open Technology 
+18
+Fund shall be subject to the same oversight and gov-
+19
+ernance by the United States Agency for Global 
+20
+Media as other grantees of the Agency as set forth 
+21
+in section 305. 
+22
+‘‘(2) ASSISTANCE.—The United States Agency 
+23
+for Global Media, its broadcast entities, and the 
+24
+Open Technology Fund should render assistance to 
+25
+21:52 Apr 27, 2020
+H6621
+10 
+•HR 6621 IH
+each other as may be necessary to carry out the pur-
+1
+poses of this section or any other provision of this 
+2
+Act. 
+3
+‘‘(3) NOT A FEDERAL AGENCY OR INSTRUMEN-
+4
+TALITY.—Nothing in this section may be construed 
+5
+to make the Open Technology Fund a Federal agen-
+6
+cy or instrumentality. 
+7
+‘‘(4) 
+DETAILEES.—Under 
+the 
+Intergovern-
+8
+mental Personnel Act, employees of a grantee of the 
+9
+United States Agency for Global Media may be de-
+10
+tailed to the Agency, and Federal employees may be 
+11
+detailed to a grantee of the United States Agency 
+12
+for Global Media. 
+13
+‘‘(f) RELATIONSHIP
+TO OTHER UNITED STATES 
+14
+GOVERNMENT-FUNDED
+INTERNET
+FREEDOM
+PRO-
+15
+GRAMS.—The United States Agency for Global Media 
+16
+shall ensure that internet freedom research and develop-
+17
+ment projects of the Open Technology Fund are coordi-
+18
+nated with internet freedom programs of the Department 
+19
+of State and other relevant United States Government de-
+20
+partments, in order to share information and best-prac-
+21
+tices relating to the implementation of subsections (b) and 
+22
+(c). 
+23
+‘‘(g) REPORTING REQUIREMENTS.— 
+24
+21:52 Apr 27, 2020
+H6621
+11 
+•HR 6621 IH
+‘‘(1) ANNUAL REPORT.—The Open Technology 
+1
+Fund shall highlight, in its annual report, internet 
+2
+freedom activities, including a comprehensive assess-
+3
+ment of the Open Technology Fund’s activities relat-
+4
+ing to the implementation of subsections (b) and (c). 
+5
+Each such report shall include the following: 
+6
+‘‘(A) An assessment of the current state of 
+7
+global internet freedom, including trends in cen-
+8
+sorship and surveillance technologies and inter-
+9
+net shutdowns, and the threats such pose to 
+10
+journalists, citizens, and human rights and 
+11
+civil-society organizations. 
+12
+‘‘(B) A description of the technology 
+13
+projects supported by the Open Technology 
+14
+Fund and the associated impact of such 
+15
+projects in the prior year, including the coun-
+16
+tries and regions in which such technologies 
+17
+were deployed, and any associated metrics indi-
+18
+cating audience usage of such technologies, as 
+19
+well as future-year technology project initia-
+20
+tives. 
+21
+‘‘(2) ASSESSMENT OF THE EFFECTIVENESS OF 
+22
+THE OPEN TECHNOLOGY FUND.—Not later than two 
+23
+years after the date of the enactment of this section, 
+24
+the Inspector General of the Department of State 
+25
+21:52 Apr 27, 2020
+H6621
+12 
+•HR 6621 IH
+and the Foreign Service shall submit to the appro-
+1
+priate congressional committees a report on the fol-
+2
+lowing: 
+3
+‘‘(A) Whether the Open Technology Fund 
+4
+is technically sound and cost effective. 
+5
+‘‘(B) Whether the Open Technology Fund 
+6
+is satisfying the requirements of this section. 
+7
+‘‘(C) The extent to which the interests of 
+8
+the United States are being served by maintain-
+9
+ing the work of the Open Technology Fund. 
+10
+‘‘(h) AUDIT AUTHORITIES.— 
+11
+‘‘(1) IN GENERAL.—Financial transactions of 
+12
+the Open Technology Fund, as such relate to func-
+13
+tions carried out under this section, may be audited 
+14
+by the Government Accountability Office in accord-
+15
+ance with such principles and procedures and under 
+16
+such rules and regulations as may be prescribed by 
+17
+the Comptroller General of the United States. Any 
+18
+such audit shall be conducted at the place or places 
+19
+at which accounts of the Open Technology Fund are 
+20
+normally kept. 
+21
+‘‘(2) ACCESS
+BY
+GAO.—The Government Ac-
+22
+countability Office shall have access to all books, ac-
+23
+counts, records, reports, files, papers, and property 
+24
+belonging to or in use by the Open Technology Fund 
+25
+21:52 Apr 27, 2020
+H6621
+13 
+•HR 6621 IH
+pertaining to financial transactions as may be nec-
+1
+essary to facilitate an audit. The Government Ac-
+2
+countability Office shall be afforded full facilities for 
+3
+verifying transactions with any assets held by de-
+4
+positories, fiscal agents, and custodians. All such 
+5
+books, accounts, records, reports, files, papers, and 
+6
+property of the Open Technology Fund shall remain 
+7
+in the possession and custody of the Open Tech-
+8
+nology Fund. 
+9
+‘‘(3) EXERCISE
+OF
+AUTHORITIES.—Notwith-
+10
+standing any other provision of law, the Inspector 
+11
+General of the Department of State and the Foreign 
+12
+Service is authorized to exercise the authorities of 
+13
+the Inspector General Act of 1978 with respect to 
+14
+the Open Technology Fund.’’. 
+15
+(b) CONFORMING AMENDMENTS.—The United States 
+16
+International Broadcasting Act of 1994 is amended by— 
+17
+(1) in section 304(d) (22 U.S.C. 6203(d)), by 
+18
+inserting ‘‘the Open Technology Fund,’’ before ‘‘the 
+19
+Middle East Broadcasting Networks’’; 
+20
+(2) in sections 305 and 310 (22 U.S.C. 6204 
+21
+and 6209), by inserting ‘‘the Open Technology 
+22
+Fund,’’ before ‘‘or the Middle East Broadcasting 
+23
+Networks’’ each place such term appears; and 
+24
+21:52 Apr 27, 2020
+H6621
+14 
+•HR 6621 IH
+(3) in section 310 (22 U.S.C. 6209), by insert-
+1
+ing ‘‘the Open Technology Fund,’’ before ‘‘and the 
+2
+Middle East Broadcasting Networks’’ each place 
+3
+such term appears. 
+4
+(c) AUTHORIZATION OF APPROPRIATIONS.—There is 
+5
+authorized to be appropriated for the Open Technology 
+6
+Fund $20,000,000 for fiscal year 2021 and $25,000,000 
+7
+for fiscal year 2022 to carry out section 309A of the 
+8
+United States International Broadcasting Act of 1994, as 
+9
+added by subsection (a). 
+10
+Æ 
+21:52 Apr 27, 2020
+H6621

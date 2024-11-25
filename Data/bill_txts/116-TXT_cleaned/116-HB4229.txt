@@ -1,0 +1,1359 @@
+A BILL 
+To require the Federal Communications Commission to issue 
+rules relating to the collection of data with respect to 
+the availability of broadband services, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Broadband Deploy-
+4
+ment Accuracy and Technological Availability Act’’ or the 
+5
+‘‘Broadband DATA Act’’. 
+6
+SEC. 2. DEFINITIONS. 
+7
+In this Act: 
+8
+23:54 Sep 06, 2019
+H4229
+2 
+•HR 4229 IH
+(1) BROADBAND INTERNET ACCESS SERVICE.— 
+1
+The term ‘‘broadband internet access service’’ has 
+2
+the meaning given the term in section 8.1(b) of title 
+3
+47, Code of Federal Regulations, or any successor 
+4
+regulation. 
+5
+(2) BROADBAND MAP.—The term ‘‘Broadband 
+6
+Map’’ means the map created by the Commission 
+7
+under section 3(c)(1)(A). 
+8
+(3) CELL EDGE PROBABILITY.—The term ‘‘cell 
+9
+edge probability’’ means the likelihood that the min-
+10
+imum threshold download and upload speeds with 
+11
+respect to broadband internet access service will be 
+12
+met or exceeded at a distance from a base station 
+13
+that is intended to indicate the ultimate edge of the 
+14
+coverage area of a cell. 
+15
+(4) CELL LOADING.—The term ‘‘cell loading’’ 
+16
+means the percentage of the available air interface 
+17
+resources of a base station that are used by con-
+18
+sumers with respect to broadband internet access 
+19
+service. 
+20
+(5) CLUTTER.—The term ‘‘clutter’’ means a 
+21
+natural or man-made surface feature that affects the 
+22
+propagation of a signal from a base station. 
+23
+(6) COMMISSION.—The term ‘‘Commission’’ 
+24
+means the Federal Communications Commission. 
+25
+23:54 Sep 06, 2019
+H4229
+3 
+•HR 4229 IH
+(7) FABRIC.—The term ‘‘Fabric’’ means the 
+1
+Broadband Serviceable Location Fabric established 
+2
+under section 3(b)(1)(B). 
+3
+(8) FORM 477.—The term ‘‘Form 477’’ means 
+4
+Form 477 of the Commission relating to local tele-
+5
+phone competition and broadband reporting. 
+6
+(9) INDIAN TRIBE.—The term ‘‘Indian Tribe’’ 
+7
+has the meaning given the term ‘‘Indian tribe’’ in 
+8
+section 4 of the Indian Self-Determination and Edu-
+9
+cation Assistance Act (25 U.S.C. 5304). 
+10
+(10) MOBILITY
+FUND
+PHASE
+II.—The term 
+11
+‘‘Mobility Fund Phase II’’ means the second phase 
+12
+of the proceeding to provide universal service sup-
+13
+port from the Mobility Fund (WC Docket No. 10– 
+14
+90; WT Docket No. 10–208). 
+15
+(11) PROPAGATION MODEL.—The term ‘‘propa-
+16
+gation model’’ means a mathematical formulation 
+17
+for the characterization of radio wave propagation as 
+18
+a function of frequency, distance, and other condi-
+19
+tions. 
+20
+(12) PROVIDER.—The term ‘‘provider’’ means a 
+21
+provider of fixed or mobile broadband internet access 
+22
+service. 
+23
+(13) QUALITY OF SERVICE.—The term ‘‘quality 
+24
+of service’’ means information regarding offered 
+25
+23:54 Sep 06, 2019
+H4229
+4 
+•HR 4229 IH
+download and upload speeds and latency of a pro-
+1
+vider’s broadband internet access service as deter-
+2
+mined by and to the extent otherwise collected by 
+3
+the Commission. 
+4
+(14) SHAPEFILE.—The term ‘‘shapefile’’ means 
+5
+a digital storage format containing geospatial or lo-
+6
+cation-based data and attribute information— 
+7
+(A) regarding the availability of broadband 
+8
+internet access service; and 
+9
+(B) that can be viewed, edited, and 
+10
+mapped in geographic information system soft-
+11
+ware. 
+12
+(15) STANDARD BROADBAND INSTALLATION.— 
+13
+The term ‘‘standard broadband installation’’— 
+14
+(A) means the initiation by a provider of 
+15
+new fixed broadband internet access service 
+16
+with no charges or delays attributable to the ex-
+17
+tension of the network of the provider; and 
+18
+(B) 
+includes 
+the 
+initiation 
+of 
+fixed 
+19
+broadband internet access service through rou-
+20
+tine installation that can be completed not later 
+21
+than 10 business days after the date on which 
+22
+the service request is submitted. 
+23
+SEC. 3. BROADBAND MAPS. 
+24
+(a) RULES.— 
+25
+23:54 Sep 06, 2019
+H4229
+5 
+•HR 4229 IH
+(1) IN
+GENERAL.—Not later than 180 days 
+1
+after the date of enactment of this Act, the Commis-
+2
+sion shall issue final rules that shall— 
+3
+(A) in a manner that balances public ac-
+4
+cess to data with adequate protections for pri-
+5
+vacy and for confidential or competitively sen-
+6
+sitive information, require the collection and 
+7
+dissemination of granular data, as determined 
+8
+by the Commission— 
+9
+(i) relating to the availability and 
+10
+quality of service of terrestrial fixed, fixed 
+11
+wireless, satellite, and mobile broadband 
+12
+internet access service; and 
+13
+(ii) that the Commission shall use to 
+14
+compile the maps created under subsection 
+15
+(c)(1) (referred to in this section as ‘‘cov-
+16
+erage maps’’), which the Commission shall 
+17
+make publicly available; and 
+18
+(B) establish— 
+19
+(i) processes through which the Com-
+20
+mission can verify the accuracy of data 
+21
+submitted under subsection (b)(2); 
+22
+(ii) processes and procedures through 
+23
+which the Commission, and, as necessary, 
+24
+other entities or persons submitting infor-
+25
+23:54 Sep 06, 2019
+H4229
+6 
+•HR 4229 IH
+mation under this Act, can protect the se-
+1
+curity, privacy, and confidentiality of— 
+2
+(I) information contained in the 
+3
+Fabric; 
+4
+(II) the dataset created under 
+5
+subsection (b)(1) supporting the Fab-
+6
+ric; and 
+7
+(III) the data submitted under 
+8
+subsection (b)(2); 
+9
+(iii) the challenge process described in 
+10
+subsection (b)(5); and 
+11
+(iv) the process described in section 
+12
+4(b). 
+13
+(2) OTHER DATA.—In issuing the rules under 
+14
+paragraph (1), the Commission shall develop a proc-
+15
+ess through which the Commission can collect 
+16
+verified data for use in the coverage maps from— 
+17
+(A) State, local, and Tribal governmental 
+18
+entities that are primarily responsible for map-
+19
+ping or tracking broadband internet access 
+20
+service coverage for a State, unit of local gov-
+21
+ernment, or Indian Tribe, as applicable; 
+22
+(B) third parties, including industry anal-
+23
+ysis mapping or tracking broadband internet 
+24
+access service coverage and quality of service, if 
+25
+23:54 Sep 06, 2019
+H4229
+7 
+•HR 4229 IH
+the Commission determines that it is in the 
+1
+public interest to use such data in— 
+2
+(i) the development of the coverage 
+3
+maps; or 
+4
+(ii) the verification of data submitted 
+5
+under subsection (b); and 
+6
+(C) other Federal agencies. 
+7
+(3) UPDATES.—The Commission shall revise 
+8
+the rules issued under paragraph (1) to— 
+9
+(A) reflect changes in technology; 
+10
+(B) ensure the accuracy of propagation 
+11
+models, as further provided in subsection 
+12
+(b)(3); and 
+13
+(C) improve the usefulness of the coverage 
+14
+maps. 
+15
+(b) CONTENT OF RULES.— 
+16
+(1) ESTABLISHMENT OF A SERVICEABLE LOCA-
+17
+TION FABRIC REGARDING FIXED BROADBAND.— 
+18
+(A) DATASET.— 
+19
+(i) IN
+GENERAL.—The Commission 
+20
+shall create a common dataset of all loca-
+21
+tions in the United States where fixed 
+22
+broadband internet access service can be 
+23
+installed, as determined by the Commis-
+24
+sion. 
+25
+23:54 Sep 06, 2019
+H4229
+8 
+•HR 4229 IH
+(ii) CONTRACTING.— 
+1
+(I) IN
+GENERAL.—Subject to 
+2
+subclauses (II) and (III), the Commis-
+3
+sion may contract with an entity with 
+4
+expertise with respect to geographic 
+5
+information systems (referred to in 
+6
+this subsection as ‘‘GIS’’) to create 
+7
+and maintain the dataset under clause 
+8
+(i). 
+9
+(II) APPLICATION OF THE FED-
+10
+ERAL
+ACQUISITION
+REGULATION.—A 
+11
+contract into which the Commission 
+12
+enters under subclause (I) shall in all 
+13
+respects comply with applicable provi-
+14
+sions of the Federal Acquisition Regu-
+15
+lation. 
+16
+(III) 
+LIMITATIONS.—With 
+re-
+17
+spect to a contract into which the 
+18
+Commission enters under subclause 
+19
+(I)— 
+20
+(aa) the entity with which 
+21
+the Commission contracts shall 
+22
+be selected through a competitive 
+23
+bid process that is transparent 
+24
+and open; and 
+25
+23:54 Sep 06, 2019
+H4229
+9 
+•HR 4229 IH
+(bb) the contract shall be for 
+1
+a term of not longer than 5 
+2
+years, after which the Commis-
+3
+sion may enter into a new con-
+4
+tract— 
+5
+(AA) with an entity, 
+6
+and for the purposes, de-
+7
+scribed in clause (i); and 
+8
+(BB) 
+that 
+complies 
+9
+with the requirements under 
+10
+subclause (II) and this sub-
+11
+clause. 
+12
+(B) FABRIC.—The rules issued by the 
+13
+Commission under subsection (a)(1) shall estab-
+14
+lish the Broadband Serviceable Location Fab-
+15
+ric, which shall— 
+16
+(i) contain geocoded information for 
+17
+each location identified under subpara-
+18
+graph (A)(i); 
+19
+(ii) serve as the foundation upon 
+20
+which all data relating to the availability of 
+21
+fixed broadband internet access service col-
+22
+lected under paragraph (2)(A) shall be re-
+23
+ported and overlaid; 
+24
+23:54 Sep 06, 2019
+H4229
+10 
+•HR 4229 IH
+(iii) be compatible with commonly 
+1
+used GIS software; and 
+2
+(iv) at a minimum, be updated every 
+3
+6 months by the Commission. 
+4
+(C) 
+IMPLEMENTATION
+PRIORITY.—The 
+5
+Commission shall prioritize implementing the 
+6
+Fabric for rural and insular areas of the United 
+7
+States. 
+8
+(2) COLLECTION OF INFORMATION.—The rules 
+9
+issued by the Commission under subsection (a)(1) 
+10
+shall include uniform standards for the reporting of 
+11
+broadband internet access service data that the 
+12
+Commission shall collect— 
+13
+(A) from each provider of terrestrial fixed, 
+14
+fixed wireless, or satellite broadband internet 
+15
+access service, which shall include data that— 
+16
+(i) documents the areas where the 
+17
+provider— 
+18
+(I) has actually built out the 
+19
+broadband network infrastructure of 
+20
+the provider such that the provider is 
+21
+able to provide that service; and 
+22
+(II) could provide that service, as 
+23
+determined by identifying where the 
+24
+provider is capable of performing a 
+25
+23:54 Sep 06, 2019
+H4229
+11 
+•HR 4229 IH
+standard broadband installation, if ap-
+1
+plicable; 
+2
+(ii) includes information regarding 
+3
+download and upload speeds, at various 
+4
+thresholds established by the Commission, 
+5
+and if applicable, latency with respect to 
+6
+broadband internet access service that the 
+7
+provider makes available; 
+8
+(iii) can be georeferenced to the GIS 
+9
+data in the Fabric; 
+10
+(iv) the provider shall report as— 
+11
+(I) with respect to providers of 
+12
+fixed wireless broadband internet ac-
+13
+cess service— 
+14
+(aa) propagation maps and 
+15
+propagation model details that— 
+16
+(AA) satisfy standards 
+17
+that are similar to those ap-
+18
+plicable to providers of mo-
+19
+bile broadband internet ac-
+20
+cess service under subpara-
+21
+graph (B) with respect to 
+22
+propagation maps and prop-
+23
+agation model details, taking 
+24
+into account material dif-
+25
+23:54 Sep 06, 2019
+H4229
+12 
+•HR 4229 IH
+ferences between fixed wire-
+1
+less and mobile broadband 
+2
+internet access service; and 
+3
+(BB) reflect the speeds 
+4
+and latency of the service 
+5
+provided by the provider; or 
+6
+(bb) a list of addresses or lo-
+7
+cations that constitute the service 
+8
+area of the provider, except that 
+9
+the Commission— 
+10
+(AA) may only permit, 
+11
+and not require, a provider 
+12
+to report the data using that 
+13
+means of reporting; and 
+14
+(BB) 
+in 
+the 
+rules 
+15
+issued 
+under 
+subsection 
+16
+(a)(1), shall provide a meth-
+17
+od for using that means of 
+18
+reporting with respect to 
+19
+Tribal areas; and 
+20
+(II) with respect to providers of 
+21
+terrestrial 
+fixed 
+and 
+satellite 
+22
+broadband internet access service— 
+23
+(aa) polygon shapefiles; or 
+24
+23:54 Sep 06, 2019
+H4229
+13 
+•HR 4229 IH
+(bb) a list of addresses or lo-
+1
+cations that constitute the service 
+2
+area of the provider, except that 
+3
+the Commission— 
+4
+(AA) may only permit, 
+5
+and not require, a provider 
+6
+to report the data using that 
+7
+means of reporting; and 
+8
+(BB) 
+in 
+the 
+rules 
+9
+issued 
+under 
+subsection 
+10
+(a)(1), shall provide a meth-
+11
+od for using that means of 
+12
+reporting with respect to 
+13
+Tribal areas; and 
+14
+(v) the Commission determines is ap-
+15
+propriate with respect to certain tech-
+16
+nologies in order to ensure that the 
+17
+Broadband Map is granular and accurate; 
+18
+and 
+19
+(B) 
+from 
+each 
+provider 
+of 
+mobile 
+20
+broadband internet access service, which shall 
+21
+include propagation maps, and the propagation 
+22
+models on which those maps are based, that in-
+23
+dicate the current (as of the date on which the 
+24
+information is collected) fourth generation 
+25
+23:54 Sep 06, 2019
+H4229
+14 
+•HR 4229 IH
+Long-Term Evolution (commonly referred to as 
+1
+‘‘4G LTE’’) mobile broadband internet access 
+2
+service coverage of the provider, which shall— 
+3
+(i) take into consideration the effect 
+4
+of clutter; and 
+5
+(ii) satisfy— 
+6
+(I) the requirements of having— 
+7
+(aa) a download speed of 5 
+8
+megabits per second and an 
+9
+upload speed of 1 megabit per 
+10
+second with a cell edge prob-
+11
+ability of not less than 90 per-
+12
+cent; and 
+13
+(bb) cell loading of 50 per-
+14
+cent; and 
+15
+(II) any other parameter that the 
+16
+Commission determines to be nec-
+17
+essary to create a map under sub-
+18
+section (c)(1)(C) that is more precise 
+19
+than the map produced as a result of 
+20
+the submissions under the Mobility 
+21
+Fund Phase II information collection. 
+22
+(3) UPDATE OF REPORTING STANDARDS FOR 
+23
+MOBILE BROADBAND INTERNET ACCESS SERVICE.— 
+24
+For the purposes of paragraph (2)(B), if the Com-
+25
+23:54 Sep 06, 2019
+H4229
+15 
+•HR 4229 IH
+mission determines that the reporting standards 
+1
+under that paragraph are insufficient to collect accu-
+2
+rate propagation maps and propagation model de-
+3
+tails with respect to future generations of mobile 
+4
+broadband internet access service technologies, the 
+5
+Commission shall immediately commence a rule-
+6
+making to adopt new reporting standards with re-
+7
+spect to those technologies that— 
+8
+(A) shall be the functional equivalent of 
+9
+the standards required under paragraph (2)(B); 
+10
+and 
+11
+(B) allow for the collection of propagation 
+12
+maps and propagation model details that are as 
+13
+accurate and granular as, or more accurate and 
+14
+granular than, the maps and model details col-
+15
+lected by the Commission under such paragraph 
+16
+(2)(B). 
+17
+(4) CERTIFICATION AND VERIFICATION.—With 
+18
+respect to a provider that submits information to the 
+19
+Commission under paragraph (2)— 
+20
+(A) the provider shall include in each sub-
+21
+mission a certification from a corporate officer 
+22
+of the provider that the officer has examined 
+23
+the information contained in the submission 
+24
+and that, to the best of the officer’s actual 
+25
+23:54 Sep 06, 2019
+H4229
+16 
+•HR 4229 IH
+knowledge, information, and belief, all state-
+1
+ments of fact contained in the submission are 
+2
+true and correct; and 
+3
+(B) the Commission shall verify the accu-
+4
+racy and reliability of the information in ac-
+5
+cordance with measures established by the 
+6
+Commission. 
+7
+(5) CHALLENGE PROCESS.— 
+8
+(A) IN
+GENERAL.—In the rules issued 
+9
+under subsection (a), and subject to subpara-
+10
+graph (B), the Commission shall establish a 
+11
+user-friendly challenge process through which 
+12
+consumers, State, local, and Tribal govern-
+13
+mental entities, and other entities may submit 
+14
+coverage data to the Commission to challenge 
+15
+the accuracy of— 
+16
+(i) the coverage maps; 
+17
+(ii) any information submitted by a 
+18
+provider regarding the availability of 
+19
+broadband internet access service; or 
+20
+(iii) the information included in the 
+21
+Fabric. 
+22
+(B) CONSIDERATIONS; VERIFICATION; RE-
+23
+SPONSE TO CHALLENGES.—In establishing the 
+24
+23:54 Sep 06, 2019
+H4229
+17 
+•HR 4229 IH
+challenge process required under subparagraph 
+1
+(A), the Commission shall— 
+2
+(i) consider— 
+3
+(I) the types of information that 
+4
+an entity submitting a challenge 
+5
+should provide to the Commission in 
+6
+support of the challenge; 
+7
+(II) the appropriate level of gran-
+8
+ularity for the information described 
+9
+in subclause (I); 
+10
+(III) the need to mitigate the 
+11
+time and expense incurred by, and the 
+12
+administrative burdens placed on, en-
+13
+tities in— 
+14
+(aa) challenging the accu-
+15
+racy of a coverage map; and 
+16
+(bb) responding to chal-
+17
+lenges described in item (aa); and 
+18
+(IV) the costs to consumers and 
+19
+providers 
+resulting 
+from 
+a 
+20
+misallocation of funds because of a re-
+21
+liance on outdated or otherwise inac-
+22
+curate information in the coverage 
+23
+maps; 
+24
+23:54 Sep 06, 2019
+H4229
+18 
+•HR 4229 IH
+(ii) include a process for verifying the 
+1
+data submitted through the challenge proc-
+2
+ess in order to ensure the reliability of that 
+3
+data; 
+4
+(iii) allow providers to respond to 
+5
+challenges submitted through the challenge 
+6
+process; and 
+7
+(iv) develop an online mechanism, 
+8
+which— 
+9
+(I) shall be integrated into the 
+10
+coverage maps; and 
+11
+(II) allows for an entity described 
+12
+in subparagraph (A) to submit a chal-
+13
+lenge under the challenge process. 
+14
+(C) USE
+OF
+CHALLENGES.—The rules 
+15
+issued to establish the challenge process under 
+16
+subparagraph (A) shall include— 
+17
+(i) a process for the speedy resolution 
+18
+of challenges; and 
+19
+(ii) a process for the regular and ex-
+20
+peditious updating of the coverage maps 
+21
+and granular data the Commission dis-
+22
+seminates as challenges are resolved. 
+23
+(6) REFORM OF FORM 477 PROCESS.— 
+24
+23:54 Sep 06, 2019
+H4229
+19 
+•HR 4229 IH
+(A) IN
+GENERAL.—Not later than 180 
+1
+days after the date on which the rules issued 
+2
+under subsection (a) take effect, the Commis-
+3
+sion shall— 
+4
+(i) reform the Form 477 broadband 
+5
+deployment service availability collection 
+6
+process of the Commission to achieve the 
+7
+purposes of this Act and in a manner that 
+8
+enables the comparison of data and maps 
+9
+produced before the implementation of this 
+10
+Act with data and coverage maps produced 
+11
+after the implementation of this Act; and 
+12
+(ii) harmonize reporting requirements 
+13
+and procedures regarding the deployment 
+14
+of broadband internet access service that, 
+15
+as of the date on which the rules issued 
+16
+under subsection (a) take effect, are in ef-
+17
+fect. 
+18
+(B) CONTINUED
+COLLECTION
+AND
+RE-
+19
+20
+Commission carries out subparagraph (A), the 
+21
+Commission shall continue to collect and pub-
+22
+licly report subscription data that the Commis-
+23
+sion collected through the Form 477 broadband 
+24
+23:54 Sep 06, 2019
+H4229
+20 
+•HR 4229 IH
+deployment service availability process, as in ef-
+1
+fect on July 1, 2019. 
+2
+(c) MAPS.—The Commission shall— 
+3
+(1) create— 
+4
+(A) the Broadband Map, which shall de-
+5
+pict— 
+6
+(i) the extent of the availability of 
+7
+broadband internet access service in the 
+8
+United States, without regard to whether 
+9
+that service is fixed broadband internet ac-
+10
+cess service or mobile broadband internet 
+11
+access service, which shall be based on 
+12
+data collected by the Commission from all 
+13
+providers; and 
+14
+(ii) the areas of the United States 
+15
+that remain unserved by providers; 
+16
+(B) a map that depicts the availability of 
+17
+fixed broadband internet access service, which 
+18
+shall be based on data collected by the Commis-
+19
+sion from providers under subsection (b)(2)(A); 
+20
+and 
+21
+(C) a map that depicts the availability of 
+22
+mobile broadband internet access service, which 
+23
+shall be based on data collected by the Commis-
+24
+sion from providers under subsection (b)(2)(B); 
+25
+23:54 Sep 06, 2019
+H4229
+21 
+•HR 4229 IH
+(2) use the maps created under paragraph 
+1
+(1)— 
+2
+(A) to determine the areas in which terres-
+3
+trial fixed, fixed wireless, mobile, and satellite 
+4
+broadband internet access service is and is not 
+5
+available; and 
+6
+(B) when making any new award of fund-
+7
+ing 
+with 
+respect 
+to 
+the 
+deployment 
+of 
+8
+broadband internet access service; 
+9
+(3) update the maps created under paragraph 
+10
+(1) not less frequently than biannually using the 
+11
+most recent data collected from providers under sub-
+12
+section (b)(2); 
+13
+(4) establish a process requiring the Depart-
+14
+ment of Agriculture and the National Telecommuni-
+15
+cations and Information Administration to consult 
+16
+the maps created under paragraph (1) when, as of 
+17
+the date on which the process is established or on 
+18
+any future date, distributing funds relating to the 
+19
+deployment of broadband internet access service 
+20
+under any program administered by the Rural Utili-
+21
+ties Service or the Administration, respectively; 
+22
+(5) establish a process to make the data col-
+23
+lected under subsection (b)(2) available to the Na-
+24
+23:54 Sep 06, 2019
+H4229
+22 
+•HR 4229 IH
+tional Telecommunications and Information Admin-
+1
+istration; and 
+2
+(6) make public at an appropriate level of gran-
+3
+ularity— 
+4
+(A) the maps created under paragraph (1); 
+5
+and 
+6
+(B) the data collected by the Commission 
+7
+with respect to broadband internet access serv-
+8
+ice availability and quality of service. 
+9
+(d) DELAYED EFFECTIVE DATE
+OF QUALITY
+OF 
+10
+SERVICE RULES.—Any requirement of a rule relating to 
+11
+quality of service issued under subsection (a) shall take 
+12
+effect not earlier than the date that is 180 days after the 
+13
+date on which the Commission issues such rule. 
+14
+SEC. 4. IMPROVING DATA ACCURACY. 
+15
+(a) AUDITS.—The Commission shall conduct regular 
+16
+audits of information submitted to the Commission by pro-
+17
+viders under section (3)(b)(2) to ensure that the providers 
+18
+are complying with this Act. 
+19
+(b) CROWDSOURCING.— 
+20
+(1) IN GENERAL.—The Commission shall de-
+21
+velop a process through which persons in the United 
+22
+States may submit specific information about the de-
+23
+ployment and availability of broadband internet ac-
+24
+cess service in the United States so that the infor-
+25
+23:54 Sep 06, 2019
+H4229
+23 
+•HR 4229 IH
+mation may be used to verify and supplement infor-
+1
+mation provided by providers of broadband internet 
+2
+access service for inclusion in the maps created 
+3
+under section 3(c)(1). 
+4
+(2) COLLABORATION.—As part of the efforts of 
+5
+the Commission to facilitate the ability of persons to 
+6
+submit information under paragraph (1), the Com-
+7
+mission shall issue guidance and other information 
+8
+as appropriate to ensure that the information sub-
+9
+mitted is uniform and consistent with the data sub-
+10
+mitted by providers under section 3(b)(2). 
+11
+(c) TECHNICAL ASSISTANCE TO INDIAN TRIBES.— 
+12
+(1) IN GENERAL.—Subject to paragraph (2), 
+13
+the Commission shall hold workshops for Tribal gov-
+14
+ernments in each of the 12 Bureau of Indian Affairs 
+15
+regions to provide technical assistance with the col-
+16
+lection and submission of data under section 3(a)(2). 
+17
+(2) ANNUAL REVIEW.—Each year, the Commis-
+18
+sion, in consultation with Indian Tribes, shall review 
+19
+the need for continued workshops required under 
+20
+paragraph (1). 
+21
+(d) TECHNICAL ASSISTANCE
+TO SMALL SERVICE 
+22
+PROVIDERS.—The Commission shall establish a process 
+23
+through which a provider that has fewer than 100,000 ac-
+24
+tive broadband internet access service connections may re-
+25
+23:54 Sep 06, 2019
+H4229
+24 
+•HR 4229 IH
+quest and receive assistance from the Commission with re-
+1
+spect to geographic information system data processing to 
+2
+ensure that the provider is able to comply with the require-
+3
+ments under section 3(b) in a timely and accurate manner. 
+4
+SEC. 5. COST. 
+5
+(a) IN GENERAL.—Beginning with the first full fiscal 
+6
+year after the date of enactment of this Act, the Commis-
+7
+sion shall include in the budget submission of the Commis-
+8
+sion to the President under sections 1105(a) and 1108 
+9
+of title 31, United States Code, amounts sufficient to en-
+10
+sure the proper and continued functioning of the respon-
+11
+sibilities of the Commission under this Act. 
+12
+(b) COST OF FABRIC.— 
+13
+(1) USF.—The Commission may not use funds 
+14
+from the universal service programs of the Commis-
+15
+sion established under section 254 of the Commu-
+16
+nications Act of 1934 (47 U.S.C. 254), and the reg-
+17
+ulations issued under that section, to pay for any 
+18
+costs associated with this Act. 
+19
+(2) OTHER FUNDS.—The Commission may re-
+20
+cover costs associated with this Act under section 9 
+21
+of the Communications Act of 1934 (47 U.S.C. 9) 
+22
+to the extent provided for in an appropriation Act, 
+23
+as required under subsection (a) of that section. 
+24
+23:54 Sep 06, 2019
+H4229
+25 
+•HR 4229 IH
+SEC. 6. OTHER PROVISIONS. 
+1
+(a) OMB.—Notwithstanding any other provision of 
+2
+law, the initial rulemaking required under section 3(a)(1) 
+3
+shall be exempt from review by the Office of Management 
+4
+and Budget. 
+5
+(b) PRA.—Chapter 35 of title 44, United States 
+6
+Code (commonly known as the ‘‘Paperwork Reduction 
+7
+Act’’) shall not apply to the initial rulemaking required 
+8
+under section 3(a)(1). 
+9
+(c) EXECUTION OF RESPONSIBILITIES.—Except as 
+10
+provided in section 3(b)(1)(A)(ii), the Commission— 
+11
+(1) including the offices of the Commission, 
+12
+shall carry out the responsibilities assigned to the 
+13
+Commission under this Act; and 
+14
+(2) may not delegate any of the responsibilities 
+15
+assigned to the Commission under this Act to any 
+16
+third party, including the Universal Service Adminis-
+17
+trative Company. 
+18
+(d) REPORTING.—Each fiscal year, the Commission 
+19
+shall submit to the Committee on Commerce, Science, and 
+20
+Transportation of the Senate and the Committee on En-
+21
+ergy and Commerce of the House of Representatives a re-
+22
+port that summarizes the implementation of this Act and 
+23
+associated enforcement activities conducted during the 
+24
+previous fiscal year. 
+25
+Æ 
+23:54 Sep 06, 2019
+H4229

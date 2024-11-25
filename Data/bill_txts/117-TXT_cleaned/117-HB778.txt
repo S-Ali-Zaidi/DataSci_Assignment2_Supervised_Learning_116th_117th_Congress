@@ -1,0 +1,671 @@
+A BILL 
+To authorize the Director of the Centers for Disease Control 
+and Prevention to award grants to eligible State, Tribal, 
+and territorial public health agencies to develop and ad-
+minister a program for digital contact tracing for 
+COVID–19, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Secure Data and Pri-
+4
+vacy for Contact Tracing Act of 2021’’. 
+5
+20:40 Feb 23, 2021
+H778
+2 
+•HR 778 IH
+SEC. 2. GRANT PROGRAM FOR DIGITAL CONTACT TRACING 
+1
+FOR COVID–19. 
+2
+(a) IN GENERAL.—The Director of the Centers for 
+3
+Disease Control and Prevention shall award grants to eli-
+4
+gible State, Tribal, and territorial public health agencies 
+5
+to— 
+6
+(1) establish a contact tracing program that im-
+7
+plements traditional contact tracing protocols with 
+8
+the assistance of digital contact-tracing technology 
+9
+to track and prevent the spread of COVID–19; 
+10
+(2) incorporate digital contact-tracing tech-
+11
+nology into a contact tracing program that imple-
+12
+ments traditional contact tracing protocols to track 
+13
+and prevent the spread of COVID–19; and 
+14
+(3) expand or maintain an existing program as 
+15
+described in paragraph (1). 
+16
+(b) USE OF FUNDS.— 
+17
+(1) IN GENERAL.—Funds received through a 
+18
+grant under this section may be used for— 
+19
+(A) the development, maintenance, or 
+20
+staffing of digital contact tracing programs; 
+21
+(B) associated outreach and marketing; or 
+22
+(C) other activities identified by the State, 
+23
+Tribal, or territorial public health agency re-
+24
+ceiving the grant as advancing the effectiveness 
+25
+20:40 Feb 23, 2021
+H778
+3 
+•HR 778 IH
+and reach of digital contact-tracing tech-
+1
+nologies. 
+2
+(2) EDUCATION AND OUTREACH.—Of the funds 
+3
+received by a State, Tribal, or territorial public 
+4
+health agency through a grant under this section, 
+5
+the agency may use not more than 10 percent of 
+6
+such funds to integrate education and outreach re-
+7
+lated to vaccines for COVID–19 into digital contact- 
+8
+tracing programs. 
+9
+(c) FUNDING DISQUALIFICATION.—If a State, Trib-
+10
+al, or territorial public health agency develops or procures 
+11
+any digital contact-tracing technology with respect to 
+12
+COVID–19 that does not meet each of the requirements 
+13
+listed in subsection (d), such State, Tribal, or territorial 
+14
+public health agency shall be ineligible to receive or con-
+15
+tinue to receive— 
+16
+(1) any funds through a grant under this sec-
+17
+tion; and 
+18
+(2) any other Federal funds, including under 
+19
+the CARES Act (Public Law 116–136), for any dig-
+20
+ital contact-tracing technology with respect to 
+21
+COVID–19. 
+22
+(d) DIGITAL CONTACT-TRACING REQUIREMENTS.— 
+23
+A State, Tribal, or territorial public health agency may 
+24
+use a grant under this section for digital contact-tracing 
+25
+20:40 Feb 23, 2021
+H778
+4 
+•HR 778 IH
+technology, as described in subsections (a) and (b), only 
+1
+if the technology meets each of the following requirements: 
+2
+(1) The technology shall be voluntary for the 
+3
+user and provide to the user complete and clear in-
+4
+formation on the intended use and processing of 
+5
+data collected by the technology. To be voluntary for 
+6
+the user, the technology shall meet requirements in-
+7
+cluding each of the following: 
+8
+(A) Use of the technology and of contact- 
+9
+tracing data collected using the technology shall 
+10
+be predicated on the user’s affirmative express 
+11
+consent. 
+12
+(B) Use of the technology shall not be a 
+13
+condition for the reception of government bene-
+14
+fits. 
+15
+(C) Use of the technology shall not be 
+16
+made a condition of employment or employment 
+17
+status. 
+18
+(2) The technology shall limit the collection of 
+19
+data by the technology to only the data that is nec-
+20
+essary to meet contact tracing objectives, includ-
+21
+ing— 
+22
+(A) the status of any person as an infected 
+23
+or potentially infected person; and 
+24
+20:40 Feb 23, 2021
+H778
+5 
+•HR 778 IH
+(B) the proximity of a person to someone 
+1
+who is symptomatic or has tested positive. 
+2
+(3) The technology— 
+3
+(A) shall delete or de-identify any contact- 
+4
+tracing data that is individually identifiable in-
+5
+formation not later than the date that is 30 
+6
+days after the end of the COVID–19 emergency 
+7
+declaration; and 
+8
+(B) shall include notifications to prompt 
+9
+users to disable or completely remove any dig-
+10
+ital contact-tracing technology where practical. 
+11
+(4) The technology shall have robust contact 
+12
+detection specifications, including for distance and 
+13
+time, that allow for detection consistent with guid-
+14
+ance of the Centers for Disease Control and Preven-
+15
+tion on COVID–19. 
+16
+(5) The technology shall ensure that the storing 
+17
+of proximity and any contact-tracing data is 
+18
+encrypted to the maximum extent possible. 
+19
+(e) PLAN FOR INTEROPERABILITY.—As a condition 
+20
+on receipt of a grant under this section, a State, Tribal, 
+21
+or territorial public health agency shall— 
+22
+(1) develop and make publicly available a plan 
+23
+for how the digital contact-tracing technology of the 
+24
+agency with respect to COVID–19 augments— 
+25
+20:40 Feb 23, 2021
+H778
+6 
+•HR 778 IH
+(A) traditional contact tracing efforts, if 
+1
+applicable; and 
+2
+(B) statewide efforts to prevent, prepare 
+3
+for, and respond to COVID–19; and 
+4
+(2) include in such plan a description of the 
+5
+agency’s efforts to ensure that the digital contact- 
+6
+tracing technologies of the agency with respect to 
+7
+COVID–19 are interoperable with the digital con-
+8
+tact-tracing technology and public health agency 
+9
+databases of other jurisdictions with respect to 
+10
+COVID–19; and 
+11
+(3) ensure that data collected by the digital 
+12
+contact-tracing technology of the agency— 
+13
+(A) is accessed and processed only by pub-
+14
+lic health authorities (or their designees); and 
+15
+(B) is not shared with any person, or 
+16
+accessed or used by any person, for any purpose 
+17
+other than diagnosis, containment, treatment, 
+18
+or reduction of, or research into, COVID–19. 
+19
+(f) INDEPENDENT SECURITY ASSESSMENTS.— 
+20
+(1) IN GENERAL.—As a condition on receipt of 
+21
+a grant under this section, a State, Tribal, or terri-
+22
+torial public health agency shall— 
+23
+(A) establish procedures for completing or 
+24
+obtaining independent security assessments of 
+25
+20:40 Feb 23, 2021
+H778
+7 
+•HR 778 IH
+digital contact tracing infrastructure to ensure 
+1
+that physical and network security is resilient 
+2
+and secure; and 
+3
+(B) develop a process to address the miti-
+4
+gation 
+or 
+remediation 
+of 
+the 
+security 
+5
+vulnerabilities discovered during such inde-
+6
+pendent security assessments. 
+7
+(2) SOURCE CODE.—A State, Tribal, or terri-
+8
+torial public health agency should consider making 
+9
+public the source code of the digital contact-tracing 
+10
+technology used by the agency. 
+11
+(g) APPLICATION.—To seek a grant under this sec-
+12
+tion, an eligible State, Tribal, or territorial public health 
+13
+agency shall submit an application in such form, in such 
+14
+manner, and containing such information and assurances 
+15
+as the Director may require. 
+16
+(h) SECURING DIGITAL CONTACT-TRACING DATA.— 
+17
+(1) IN
+GENERAL.—The provisions of the 
+18
+HIPAA privacy and security law (as defined in sec-
+19
+tion 3009(a)(2) of the Public Health Service Act (42 
+20
+U.S.C. 300jj–19(a)(2))) shall apply to a State, Trib-
+21
+al, or territorial public health agency receiving a 
+22
+grant under subsection (a) with respect to individ-
+23
+ually identifiable health information (as defined in 
+24
+section 1171(a)(6) of the Social Security Act (42 
+25
+20:40 Feb 23, 2021
+H778
+8 
+•HR 778 IH
+U.S.C. 1320d(a)(6))) received by, maintained on, or 
+1
+transmitted through a contact tracing program de-
+2
+scribed in such subsection (a) in the same manner 
+3
+as such provisions apply with respect to such infor-
+4
+mation and a covered entity (as defined in section 
+5
+13400(3) 
+of 
+the 
+HITECH 
+Act 
+(42 
+U.S.C. 
+6
+17921(3))). 
+7
+(2) BUSINESS ASSOCIATES.— 
+8
+(A) IN GENERAL.—Any entity with a con-
+9
+tract in effect with an agency described in para-
+10
+graph (1) for the development, maintenance, or 
+11
+operation of a program described in such para-
+12
+graph shall be deemed to be a business asso-
+13
+ciate of such agency for purposes of subtitle D 
+14
+of the HITECH Act (42 U.S.C. 17921 et seq.). 
+15
+(B) REVISION OF SAMPLE AGREEMENT.— 
+16
+Not later than 180 days after the date of the 
+17
+enactment of this Act, the Secretary of Health 
+18
+and Human Services shall revise the sample 
+19
+business associate agreement provisions pub-
+20
+lished on January 25, 2013, to take account of 
+21
+the provisions of this subsection. 
+22
+(C) EFFECTIVE DATE.—The provisions of 
+23
+subparagraph (A) shall apply beginning on the 
+24
+day after the Secretary of Health and Human 
+25
+20:40 Feb 23, 2021
+H778
+9 
+•HR 778 IH
+Services revises the provisions described in sub-
+1
+paragraph (B). 
+2
+(i) LIMITATION ON USE OF DATA.—Data generated 
+3
+in connection with the operation of digital contact-tracing 
+4
+technology funded pursuant to this section may not be 
+5
+used for any punitive purpose, including law enforcement, 
+6
+immigration enforcement, or criminal prosecution. Such 
+7
+data and any information derived from it, whether in 
+8
+whole or in part, may not be received as evidence in any 
+9
+trial, hearing, or other proceeding in or before any court, 
+10
+grand jury, department, officer, agency, regulatory body, 
+11
+legislative committee, or other authority of the United 
+12
+States, a State, or a political subdivision thereof. 
+13
+(j) REPORT
+TO CONGRESS.—Not later than 24 
+14
+months after the date of enactment of this Act, the Comp-
+15
+troller General of the United States shall— 
+16
+(1) evaluate the outcome of the grants awarded 
+17
+under this section, including an assessment of the 
+18
+impact of the implementation of digital contact trac-
+19
+ing programs funded through such grants on the 
+20
+spread of COVID–19; and 
+21
+(2) submit to the Congress a report on the re-
+22
+sults of such evaluation. 
+23
+(k) DEFINITIONS.—In this section: 
+24
+20:40 Feb 23, 2021
+H778
+10 
+•HR 778 IH
+(1) AFFIRMATIVE
+EXPRESS
+CONSENT.—The 
+1
+term ‘‘affirmative express consent’’ means an affirm-
+2
+ative act by an individual that clearly and conspicu-
+3
+ously communicates the individual’s authorization 
+4
+for an act or practice, in response to a specific re-
+5
+quest that— 
+6
+(A) is provided to the individual in a clear 
+7
+and conspicuous disclosure that is separate 
+8
+from other options or acceptance of general 
+9
+terms; 
+10
+(B) includes a description of each act or 
+11
+practice for which the individual’s consent is 
+12
+sought and— 
+13
+(i) is written clearly and unmistakably 
+14
+stated; and 
+15
+(ii) includes a prominent heading that 
+16
+would enable a reasonable individual to 
+17
+identify and understand the act or prac-
+18
+tice; and 
+19
+(C) cannot be inferred from inaction. 
+20
+(2) CONTACT-TRACING DATA.—The term ‘‘con-
+21
+tact-tracing data’’ means information linked or rea-
+22
+sonably linkable to a user or device, that— 
+23
+(A) concerns the COVID–19 pandemic; 
+24
+and 
+25
+20:40 Feb 23, 2021
+H778
+11 
+•HR 778 IH
+(B) is gathered, processed, or transferred 
+1
+by digital contact-tracing technology. 
+2
+(3) COVID–19 EMERGENCY
+DECLARATION.— 
+3
+The term ‘‘COVID–19 emergency declaration’’ has 
+4
+the meaning given to such term in section 
+5
+1135(g)(1)(B) of the Social Security Act (42 U.S.C. 
+6
+1320b–5). 
+7
+(4) DE-IDENTIFY.—The term ‘‘de-identify’’ 
+8
+means to ensure that information cannot reasonably 
+9
+identify, relate to, describe, be capable of being asso-
+10
+ciated with, or be linked, directly or indirectly, to a 
+11
+particular individual. 
+12
+(5) DESIGNEE.—The term ‘‘designee’’— 
+13
+(A) subject to subparagraph (B), means 
+14
+any person or entity, other than a public health 
+15
+agency, that collects, processes, or transfers 
+16
+contact-tracing data in the course of performing 
+17
+a service or function on behalf of, for the ben-
+18
+efit of, under instruction of, and under contrac-
+19
+tual agreement with a public health authority; 
+20
+and 
+21
+(B) excludes any Federal, State, Tribal, 
+22
+territorial, or local law (including immigration 
+23
+law) enforcement personnel or entity. 
+24
+20:40 Feb 23, 2021
+H778
+12 
+•HR 778 IH
+(6) 
+DIGITAL
+CONTACT-TRACING
+TECH-
+1
+NOLOGY.— 
+2
+(A) IN GENERAL.—The term ‘‘digital con-
+3
+tact-tracing technology’’ means a website, on-
+4
+line application, mobile application, mobile oper-
+5
+ating system feature, or smart device applica-
+6
+tion that is designed, in part or in full, for the 
+7
+purpose of— 
+8
+(i) determining that a contact incident 
+9
+has occurred relating to the COVID–19 
+10
+pandemic; and 
+11
+(ii) taking consequent steps such as 
+12
+reporting the incident to a public health 
+13
+authority or user, or providing guidance or 
+14
+instructions to the user of the mobile de-
+15
+vice or the user’s household. 
+16
+(B) LIMITATIONS.—Such term does not in-
+17
+clude any technology to assist individuals to 
+18
+evaluate whether they are experiencing COVID– 
+19
+19 symptoms to the extent the technology is not 
+20
+used as described in subparagraph (A). 
+21
+(7) DIRECTOR.—The term ‘‘Director’’ means 
+22
+the Director of the Centers for Disease Control and 
+23
+Prevention. 
+24
+20:40 Feb 23, 2021
+H778
+13 
+•HR 778 IH
+(8) MOBILE APPLICATION.—The term ‘‘mobile 
+1
+application’’ means a software program that runs on 
+2
+the operating system of a mobile device. 
+3
+(9) MOBILE
+DEVICE.—The term ‘‘mobile de-
+4
+vice’’ means a smartphone, tablet computer, or simi-
+5
+lar portable computing device that transmits data 
+6
+over a wireless connection. 
+7
+(10) SOURCE CODE.—The term ‘‘source code’’ 
+8
+is the programming instruction for a computer pro-
+9
+gram in its original form and saved in a file. 
+10
+(11) TRADITIONAL
+CONTACT
+TRACING.—The 
+11
+term ‘‘traditional contact tracing’’ means contact 
+12
+tracing by traditional means prior to contemporary 
+13
+digital contact tracing. 
+14
+(12) USER.—The term ‘‘user’’ means a member 
+15
+of the public who utilizes the software or hardware 
+16
+product. 
+17
+(l) AUTHORIZATION OF APPROPRIATIONS.—To carry 
+18
+out this section, there are authorized to be appropriated 
+19
+$75,000,000, to remain available until expended. 
+20
+Æ 
+20:40 Feb 23, 2021
+H778

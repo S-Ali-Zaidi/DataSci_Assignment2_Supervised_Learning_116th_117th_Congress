@@ -1,0 +1,901 @@
+A BILL 
+To require the Centers for Disease Control and Prevention 
+to collect and report certain data concerning COVID–19. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Equitable Data Collec-
+4
+tion and Disclosure on COVID–19 Act of 2021’’. 
+5
+01:00 Mar 31, 2021
+H1370
+2 
+•HR 1370 IH
+SEC. 2. FINDINGS. 
+1
+Congress makes the following findings: 
+2
+(1) The World Health Organization (WHO) de-
+3
+clared COVID–19 a ‘‘Public Health Emergency of 
+4
+International Concern’’ on January 30, 2020. By 
+5
+late January 2021, there have been over 22,000,000 
+6
+confirmed cases of, and 383,351 deaths associated 
+7
+with, COVID–19 in the United States. 
+8
+(2) From the beginning of this pandemic, 
+9
+Black, Brown, and American Indian/Alaska Native 
+10
+(in this section referred to as ‘‘AI/AN’’) people in 
+11
+the United States have suffered the largest burden 
+12
+of illness, hospitalization, and death from COVID– 
+13
+19. The Centers for Disease Control and Prevention 
+14
+(CDC) reports that AI/AN people are 4 times as 
+15
+likely as White people to be hospitalized for COVID– 
+16
+19, and that Black and Hispanic/Latino people are 
+17
+2.8 times as likely to die of COVID–19 as White 
+18
+people. 
+19
+(3) Historically, structures and systems such as 
+20
+racism, ableism, and class oppression have rendered 
+21
+affected Black and Brown communities more vulner-
+22
+able to inequities and have prevented people from 
+23
+achieving optimal health even when there is not a 
+24
+crisis of pandemic proportions, highlighting that rac-
+25
+01:00 Mar 31, 2021
+H1370
+3 
+•HR 1370 IH
+ism and not race presents as a risk factor driving 
+1
+inequities in illness and death. 
+2
+(4) Significant differences in access to health 
+3
+care, specifically to primary health care providers, 
+4
+health care information, and greater perceived dis-
+5
+crimination in health care place Black, Brown, and 
+6
+AI/AN communities, individuals with disabilities, 
+7
+and Limited English Proficient individuals at great-
+8
+er risk of receiving delayed, and perhaps poorer, 
+9
+health care. 
+10
+(5) Stark racial inequities across the United 
+11
+States, including unequal access to stable housing, 
+12
+quality education, and decent employment, signifi-
+13
+cantly impact the ability of Black, Hispanic/Latinx, 
+14
+and AI/AN individuals to take care of their most 
+15
+basic health needs. Black and Brown communities 
+16
+are more likely to experience homelessness and 
+17
+struggle with low-paying jobs or unemployment. An 
+18
+analysis by the University of New Hampshire found 
+19
+that in every month between March and August 
+20
+2020, Black and Latino workers had significantly 
+21
+higher unemployment rates than White workers, 
+22
+even after adjusting for age and education status. 
+23
+(6) Black, Hispanic/Latinx, and AI/AN commu-
+24
+nities experience higher rates of chronic disease and 
+25
+01:00 Mar 31, 2021
+H1370
+4 
+•HR 1370 IH
+disabilities, such as diabetes, hypertension, and asth-
+1
+ma, than non-Hispanic White communities, which 
+2
+predisposes them to greater risk of complications 
+3
+and mortality should they contract COVID–19. 
+4
+(7) Research experts recognize that there are 
+5
+underlying differences in illness and death when 
+6
+each of these factors is examined through socio-
+7
+economic and racial or ethnic lenses. These socially 
+8
+determinant factors of health accelerate disease and 
+9
+degradation. 
+10
+(8) Language barriers are highly correlated 
+11
+with medication noncompliance and inconsistent en-
+12
+gagement with health systems. Without language ac-
+13
+cessibility data and research around COVID–19, 
+14
+communities with limited English proficiency are 
+15
+less likely to receive critical testing and preventive 
+16
+health services. Yet, to date, the Centers for Disease 
+17
+Control and Prevention does not disseminate 
+18
+COVID–19 messaging in critical languages, includ-
+19
+ing Mandarin Chinese, Spanish, and Korean within 
+20
+the same timeframe as information in English de-
+21
+spite requirements to ensure limited English pro-
+22
+ficient populations are not discriminated against 
+23
+under title VI of the Civil Rights Act of 1964 and 
+24
+subsequent laws and Federal policies. 
+25
+01:00 Mar 31, 2021
+H1370
+5 
+•HR 1370 IH
+(9) Further, it is critical to disaggregate data 
+1
+further by ancestry to address disparities among 
+2
+Asian American, Native Hawaiian, and Pacific Is-
+3
+lander groups. According to the National Equity 
+4
+Atlas, while 13 percent of the Asian population over-
+5
+all lived in poverty in 2015, 39 percent of Burmese 
+6
+people, 29 percent of Hmong people, and 21 percent 
+7
+of Pacific Islanders lived in poverty. 
+8
+(10) Utilizing disaggregation of enrollment in 
+9
+Affordable Care Act-sponsored health insurance, the 
+10
+Asian and Pacific Islander American Health Forum 
+11
+found that prior to the passage of the Patient Pro-
+12
+tection and Affordable Care Act (Public Law 111– 
+13
+148), Korean Americans had a high uninsured rate 
+14
+of 23 percent, compared to just 12 percent for all 
+15
+Asian Americans. Developing targeted outreach ef-
+16
+forts assisted 1,000,000 people and resulted in a 56 
+17
+percent decrease in the uninsured among the Asian, 
+18
+Native Hawaiian, and Pacific Islander population. 
+19
+Such efforts show that disaggregated data is essen-
+20
+tial to public health mobilizations efforts. 
+21
+(11) Without clear understanding of how 
+22
+COVID–19 impacts marginalized racial and ethnic 
+23
+communities, there will be exacerbated risk of en-
+24
+dangering the most historically vulnerable of our 
+25
+01:00 Mar 31, 2021
+H1370
+6 
+•HR 1370 IH
+Nation. A recent national study found that Amer-
+1
+ican Indian/Alaska Natives were 3.5 times more like-
+2
+ly to be infected with COVID–19, however that data 
+3
+excluded 27 States as they had reported less than 70 
+4
+percent of race/ethnicity data to the Centers for Dis-
+5
+ease Control and Prevention making it impossible to 
+6
+include them in the analysis thus creating a signifi-
+7
+cant data gap for understanding the impact of 
+8
+COVID–19 on this vulnerable population. 
+9
+(12) The consequences of misunderstanding the 
+10
+racial and ethnic impact of COVID–19 expound be-
+11
+yond communities of color such that it would impact 
+12
+all. 
+13
+(13) Race and ethnicity are valuable research 
+14
+and practice variables when used and interpreted ap-
+15
+propriately. Health data collected on patients by 
+16
+race and ethnicity will boost and more efficiently di-
+17
+rect critical resources and inform risk communica-
+18
+tion development in languages and at appropriate 
+19
+health literacy levels, which resonate with historically 
+20
+vulnerable communities of color. 
+21
+(14) To date, race and ethnicity data on 
+22
+COVID–19 cases, test, hospitalizations, deaths, and 
+23
+vaccinations is incomplete and lacking. The incon-
+24
+sistency of data collection by Federal, State, and 
+25
+01:00 Mar 31, 2021
+H1370
+7 
+•HR 1370 IH
+local health authorities poses a threat to analysis 
+1
+and synthesis of the pandemic impact on Black, His-
+2
+panic/Latinx, and AI/AN communities. However, re-
+3
+search and medical experts of Historically Black 
+4
+Colleges and Universities and Tribal Colleges and 
+5
+Universities, academic health care institutions which 
+6
+are historically and geographically embedded in 
+7
+minoritized and marginalized communities, generally 
+8
+also possess rapport with the communities they 
+9
+serve. They are well-positioned, as trusted thought 
+10
+leaders and health care service providers, to collect 
+11
+data and conduct research toward creating holistic 
+12
+solutions to remedy the inequitable impact of this 
+13
+and future public health crises. 
+14
+(15) Well-designed, ethically sound research 
+15
+aligns with the goals of medicine, addresses ques-
+16
+tions relevant to the population among whom the 
+17
+study will be carried out, balances the potential for 
+18
+benefit against the potential for harm, employs 
+19
+study designs that will yield scientifically valid and 
+20
+significant data, and generates useful knowledge. 
+21
+(16) The dearth of racially and ethnically 
+22
+disaggregated data reflecting the health of Black, 
+23
+Hispanic/Latinx, and AI/AN communities underlies 
+24
+01:00 Mar 31, 2021
+H1370
+8 
+•HR 1370 IH
+the challenges of a fully informed public health re-
+1
+sponse. 
+2
+(17) Without collecting race and ethnicity data 
+3
+associated with COVID–19 vaccinations, testing, 
+4
+hospitalizations, morbidities, and mortalities, as well 
+5
+as publicly disclosing it, Black, Hispanic/Latinx, and 
+6
+AI/AN communities will remain at greater risk of 
+7
+disease and death. 
+8
+SEC. 3. EMERGENCY FUNDING FOR FEDERAL DATA COL-
+9
+LECTION ON THE RACIAL, ETHNIC, AND 
+10
+OTHER 
+DEMOGRAPHIC 
+DISPARITIES 
+OF 
+11
+COVID–19. 
+12
+To conduct or support data collection on the racial, 
+13
+ethnic, and other demographic implications of COVID–19 
+14
+in the United States and its territories, including support 
+15
+to assist in the capacity building for State and local public 
+16
+health departments to collect and transmit racial, ethnic, 
+17
+and other demographic data to the relevant Department 
+18
+of Health and Human Services agencies, there is author-
+19
+ized to be appropriated— 
+20
+(1) to the Centers for Disease Control and Pre-
+21
+vention, $12,000,000; 
+22
+(2) to State and territorial public health agen-
+23
+cies, distributed proportionally based on the total 
+24
+population of their residents who are enrolled in 
+25
+01:00 Mar 31, 2021
+H1370
+9 
+•HR 1370 IH
+Medicaid or who have no health insurance, 
+1
+$15,000,000; 
+2
+(3) to the Indian Health Service, Indian Tribes 
+3
+and Tribal organizations (as defined in section 4 of 
+4
+the Indian Self-Determination and Education Assist-
+5
+ance Act), and urban Indian organizations (as de-
+6
+fined in section 4 of the Indian Health Care Im-
+7
+provement Act), $3,000,000; 
+8
+(4) to the Centers for Medicare & Medicaid 
+9
+Services, $5,000,000; 
+10
+(5) to the Food and Drug Administration, 
+11
+$5,000,000; 
+12
+(6) to the Agency for Healthcare Research and 
+13
+Quality, $5,000,000; and 
+14
+(7) to the Office of the National Coordinator 
+15
+for Health Information Technology, $5,000,000. 
+16
+SEC. 4. COVID–19 DATA COLLECTION AND DISCLOSURE. 
+17
+(a) DATA COLLECTION.—The Secretary of Health 
+18
+and Human Services (referred to in this Act as the ‘‘Sec-
+19
+retary’’), acting through the Director of the Centers for 
+20
+Disease Control and Prevention and the Administrator of 
+21
+the Centers for Medicare & Medicaid Services, shall make 
+22
+publicly available on the website of the Centers for Disease 
+23
+Control and Prevention data collected across all surveil-
+24
+lance systems relating to COVID–19, disaggregated by 
+25
+01:00 Mar 31, 2021
+H1370
+10 
+•HR 1370 IH
+race, ethnicity, sex, age, primary language, socioeconomic 
+1
+status, disability status, and county, including the fol-
+2
+lowing: 
+3
+(1) Data related to all COVID–19 testing, in-
+4
+cluding the number of individuals tested and the 
+5
+number of tests that were positive. 
+6
+(2) Data related to treatment for COVID–19, 
+7
+including hospitalizations and intensive care unit ad-
+8
+missions. 
+9
+(3) Data related to COVID–19 outcomes, in-
+10
+cluding total fatalities and case fatality rates (ex-
+11
+pressed as the proportion of individuals who were in-
+12
+fected with COVID–19 and died from the virus). 
+13
+(4) Data related to COVID–19 vaccinations, in-
+14
+cluding— 
+15
+(A) the number of vaccines administered; 
+16
+(B) the number of vaccinations offered, ac-
+17
+cepted, and refused; 
+18
+(C) the most common reasons for refusal; 
+19
+and 
+20
+(D) the percentage of vaccine doses allo-
+21
+cated and administered to each priority group. 
+22
+(b) APPLICATION OF STANDARDS.—To the extent 
+23
+practicable, data collection under this section shall follow 
+24
+standards developed by the Department of Health and 
+25
+01:00 Mar 31, 2021
+H1370
+11 
+•HR 1370 IH
+Human Services Office of Minority Health and be col-
+1
+lected, analyzed, and reported in accordance with the 
+2
+standards promulgated by the Assistant Secretary for 
+3
+Planning and Evaluation under title XXXI of the Public 
+4
+Health Service Act (42 U.S.C. 300kk et seq.). 
+5
+(c) TIMELINE.—The data made available under this 
+6
+section shall be updated on a daily basis throughout the 
+7
+public health emergency. 
+8
+(d) PRIVACY.—In publishing data under this section, 
+9
+the Secretary shall take all necessary steps to protect the 
+10
+privacy of individuals whose information is included in 
+11
+such data, including— 
+12
+(1) complying with privacy protections provided 
+13
+under the regulations promulgated under section 
+14
+264(c) of the Health Insurance Portability and Ac-
+15
+countability Act of 1996; and 
+16
+(2) protections from all inappropriate internal 
+17
+use by an entity that collects, stores, or receives the 
+18
+data, including use of such data in determinations of 
+19
+eligibility (or continued eligibility) in health plans, 
+20
+and from inappropriate uses. 
+21
+(e) INDIAN HEALTH SERVICE.—The Indian Health 
+22
+Service shall consult with Indian Tribes and confer with 
+23
+urban Indian organizations on data collection and report-
+24
+ing for purposes of this Act. 
+25
+01:00 Mar 31, 2021
+H1370
+12 
+•HR 1370 IH
+(f) SUMMARY.—Not later than 60 days after the date 
+1
+on which the Secretary certifies that the public health 
+2
+emergency related to COVID–19 has ended, the Secretary 
+3
+shall make publicly available a summary of the final statis-
+4
+tics related to COVID–19. 
+5
+(g) REPORT.—Not later than 60 days after the date 
+6
+on which the Secretary certifies that the public health 
+7
+emergency related to COVID–19 has ended, the Depart-
+8
+ment of Health and Human Services shall compile and 
+9
+submit to the Committee on Health, Education, Labor, 
+10
+and Pensions and the Committee on Finance of the Senate 
+11
+and the Committee on Energy and Commerce and the 
+12
+Committee on Ways and Means of the House of Rep-
+13
+resentatives a preliminary report— 
+14
+(1) describing the testing, hospitalization, mor-
+15
+tality rates, vaccination rates, and preferred lan-
+16
+guage of patients associated with COVID–19 by race 
+17
+and ethnicity; and 
+18
+(2) proposing evidenced-based response strate-
+19
+gies to safeguard the health of these communities in 
+20
+future pandemics. 
+21
+(h) TRIBAL EXCEPTION.—Indian Tribes may opt out 
+22
+of any of the requirements of this section. 
+23
+01:00 Mar 31, 2021
+H1370
+13 
+•HR 1370 IH
+SEC. 5. COMMISSION ON ENSURING DATA FOR HEATH EQ-
+1
+UITY. 
+2
+(a) IN GENERAL.—Not later than 30 days after the 
+3
+date of enactment of this Act, the Secretary shall establish 
+4
+a commission, to be known as the ‘‘Commission on Ensur-
+5
+ing Data for Heath Equity’’ (referred to in this section 
+6
+as the ‘‘Commission’’) to provide clear and robust guid-
+7
+ance on how to improve the collection, analysis, and use 
+8
+of demographic data in responding to future public health 
+9
+emergencies. 
+10
+(b) MEMBERSHIP AND CHAIRPERSON.— 
+11
+(1) MEMBERSHIP.—The Commission shall be 
+12
+composed of— 
+13
+(A) the Director of the Centers for Disease 
+14
+Control and Prevention; 
+15
+(B) the Director of the National Institutes 
+16
+of Health; 
+17
+(C) the Commissioner of Food and Drugs; 
+18
+(D) the Administrator of the Federal 
+19
+Emergency Management Agency; 
+20
+(E) the Director of the National Institute 
+21
+on Minority Health and Health Disparities; 
+22
+(F) the Director of the Indian Health 
+23
+Service; 
+24
+(G) the Administrator of the Centers for 
+25
+Medicare & Medicaid Services; 
+26
+01:00 Mar 31, 2021
+H1370
+14 
+•HR 1370 IH
+(H) the Director of the Agency for 
+1
+Healthcare Research and Quality; 
+2
+(I) the Surgeon General; 
+3
+(J) the Administrator of the Health Re-
+4
+sources and Services Administration; 
+5
+(K) the Director of the Office of Minority 
+6
+Health; 
+7
+(L) the Director of the Office of Women’s 
+8
+Health; 
+9
+(M) the Chairperson of the National Coun-
+10
+cil on Disability; 
+11
+(N) at least 4 State, local, territorial, and 
+12
+Tribal public health officials representing de-
+13
+partments of public health, or an urban Indian 
+14
+health representative, who shall represent juris-
+15
+dictions from different regions of the United 
+16
+States with relatively high concentrations of 
+17
+historically marginalized populations, to be ap-
+18
+pointed by the Secretary; and 
+19
+(O) at least 3 independent experts of ra-
+20
+cially and ethnically diverse representation with 
+21
+knowledge or field experience with racial and 
+22
+ethnic disparities in public health appointed by 
+23
+the Secretary. 
+24
+01:00 Mar 31, 2021
+H1370
+15 
+•HR 1370 IH
+(2) CHAIRPERSON.—The President of the Na-
+1
+tional Academies of Sciences, Engineering, and Med-
+2
+icine, or designee, shall serve as the chairperson of 
+3
+the Commission. 
+4
+(c) DUTIES.—The Commission shall— 
+5
+(1) examine barriers to collecting, analyzing, 
+6
+and using demographic data; 
+7
+(2) determine how to best use such data to pro-
+8
+mote health equity across the United States and re-
+9
+duce racial, Tribal, and other demographic dispari-
+10
+ties in health outcomes; 
+11
+(3) gather available data related to treatment of 
+12
+individuals with disabilities during the COVID–19 
+13
+pandemic and other public health emergencies, in-
+14
+cluding access to vaccinations, denial of treatment 
+15
+for pre-existing conditions, removal or denial of dis-
+16
+ability related equipment (including ventilators and 
+17
+CPAP machines), and data on completion of DNR 
+18
+orders, and identify barriers to obtaining accurate 
+19
+and timely data related to treatment of such individ-
+20
+uals; 
+21
+(4) solicit input from public health officials, 
+22
+community-connected organizations, health care pro-
+23
+viders, State and local agency officials, Tribal offi-
+24
+01:00 Mar 31, 2021
+H1370
+16 
+•HR 1370 IH
+cials, and other experts on barriers to, and best 
+1
+practices for, collecting demographic data; and 
+2
+(5) recommend policy changes that the data in-
+3
+dicates are necessary to reduce disparities. 
+4
+(d) REPORT.—Not later than 1 year after the date 
+5
+of enactment of this Act, the Commission shall submit a 
+6
+written report of its findings and recommendations to 
+7
+Congress and post such report on the website of the De-
+8
+partment of Health and Human Services. Such reports 
+9
+shall contain information concerning— 
+10
+(1) how to enhance State, local, territorial, and 
+11
+Tribal capacity to conduct public health research on 
+12
+COVID–19 and in future public health emergencies, 
+13
+with a focus on expanded capacity to analyze data 
+14
+on disparities correlated with race, ethnicity, income, 
+15
+sex, age, disability status, specific geographic areas, 
+16
+and other relevant demographic characteristics, and 
+17
+an analysis of what demographic data is currently 
+18
+being collected, the accuracy of that data and any 
+19
+gaps, how this data is currently being used to inform 
+20
+efforts to combat COVID–19, and what resources 
+21
+are needed to supplement existing public health data 
+22
+collection; 
+23
+(2) how to collect, process, and disclose to the 
+24
+public the data described in paragraph (1) in a way 
+25
+01:00 Mar 31, 2021
+H1370
+17 
+•HR 1370 IH
+that maintains individual privacy while helping di-
+1
+rect the State, local, and Tribal response to public 
+2
+health emergencies; 
+3
+(3) how to improve demographic data collection 
+4
+related to COVID–19 and other public health emer-
+5
+gencies in the short- and long-term, including how to 
+6
+continue to grow and value the Tribal sovereignty of 
+7
+data and information concerning urban and rural 
+8
+Tribal communities; 
+9
+(4) to the extent possible, an analysis of racial 
+10
+and other demographic disparities in COVID–19 
+11
+mortality, including an analysis of comorbidities and 
+12
+case fatality rates; 
+13
+(5) to the extent possible, an analysis of sex, 
+14
+gender, sexual orientation, and gender identity dis-
+15
+parities in COVID–19 treatment and mortality; 
+16
+(6) an analysis of COVID–19 treatment of indi-
+17
+viduals with disabilities, including equity of access to 
+18
+treatment and equipment and intersections of dis-
+19
+ability status with other demographic factors, includ-
+20
+ing race, and recommendations for how to improve 
+21
+transparency and equity of treatment for such indi-
+22
+viduals during the COVID–19 public health emer-
+23
+gency and future emergencies; 
+24
+01:00 Mar 31, 2021
+H1370
+18 
+•HR 1370 IH
+(7) how to support State, local, and Tribal ca-
+1
+pacity to eliminate barriers to vaccinations, testing, 
+2
+and treatment during the COVID–19 pandemic and 
+3
+future public health emergencies; and 
+4
+(8) to the extent possible, an analysis of Fed-
+5
+eral Government policies that disparately exacerbate 
+6
+the COVID–19 impact, and recommendations to im-
+7
+prove racial and other demographic disparities in 
+8
+health outcomes. 
+9
+(e) AUTHORIZATION OF APPROPRIATIONS.—There is 
+10
+authorized to be appropriated such sums as may be nec-
+11
+essary to carry out this section. 
+12
+Æ 
+01:00 Mar 31, 2021
+H1370

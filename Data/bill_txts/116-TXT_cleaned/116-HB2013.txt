@@ -1,0 +1,1062 @@
+A BILL 
+To require the Federal Trade Commission to promulgate 
+regulations related to sensitive personal information, and 
+for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Information Trans-
+4
+parency & Personal Data Control Act’’. 
+5
+SEC. 2. SENSE OF CONGRESS. 
+6
+It is the Sense of Congress that— 
+7
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+2 
+•HR 2013 IH
+(1) the United States must develop a balanced, 
+1
+high-standard digital framework that establishes 
+2
+global standards; 
+3
+(2) a key element of this framework is a strong 
+4
+national standard that combats anti-consumer prac-
+5
+tices; 
+6
+(3) it is critical that the Federal Government 
+7
+provide guidance on the collection and storage of 
+8
+sensitive data; 
+9
+(4) it is important to provide our country with 
+10
+fair and thoughtful digital consumer rights; and 
+11
+(5) it is important to ensure that our enforce-
+12
+ment authorities have the resources needed to pro-
+13
+tect consumers from bad actors in the privacy and 
+14
+security space. 
+15
+SEC. 3. REQUIREMENTS FOR SENSITIVE PERSONAL INFOR-
+16
+MATION. 
+17
+(a) REGULATIONS.—Not later than 1 year after the 
+18
+date of the enactment of this Act, the Federal Trade Com-
+19
+mission shall promulgate regulations under section 553 of 
+20
+title 5, United States Code, to require, except as provided 
+21
+in subsection (b), any controller that provides services to 
+22
+the public involving the collection, storage, processing, 
+23
+sale, sharing with third parties, or other use of sensitive 
+24
+personal information from United States persons or per-
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+3 
+•HR 2013 IH
+sons located in the United States when the data is col-
+1
+lected, to meet the following requirements: 
+2
+(1) AFFIRMATIVE, EXPRESS, AND OPT-IN CON-
+3
+SENT.—Provide users with notice through a privacy 
+4
+and data use policy of a specific request to use their 
+5
+sensitive personal information and require that users 
+6
+provide affirmative, express, and opt-in consent to 
+7
+any functionality that involves the collection, stor-
+8
+age, processing, sale, sharing, or other use of sen-
+9
+sitive personal information, including sharing sen-
+10
+sitive personal information with third parties. 
+11
+(2) PRIVACY AND DATA USE POLICY.—Provide 
+12
+users with an up-to-date, transparent privacy, secu-
+13
+rity, and data use policy that meets general require-
+14
+ments, including that such policy, presented to users 
+15
+in the context where it applies— 
+16
+(A) is concise and intelligible; 
+17
+(B) is clear and prominent in appearance; 
+18
+(C) uses clear and plain language; 
+19
+(D) uses visualizations where appropriate 
+20
+to make complex information understandable by 
+21
+the ordinary user; and 
+22
+(E) is provided free of charge. 
+23
+(3) ADDITIONAL REQUIREMENTS FOR PRIVACY 
+24
+AND DATA USE POLICY.—The privacy, security, and 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+4 
+•HR 2013 IH
+data use policy required under paragraph (2) shall 
+1
+include the following: 
+2
+(A) Identity and contact information of the 
+3
+entity collecting the sensitive personal informa-
+4
+tion. 
+5
+(B) The purpose or use for collecting, stor-
+6
+ing, processing, selling, sharing, or otherwise 
+7
+using the sensitive personal information. 
+8
+(C) Third parties with whom the sensitive 
+9
+personal information will be shared and for 
+10
+what purposes. 
+11
+(D) The storage period for how long the 
+12
+sensitive personal information will be retained 
+13
+by the controller and any third party, as appli-
+14
+cable. 
+15
+(E) How consent to collecting, storing, 
+16
+processing, selling, sharing, or otherwise using 
+17
+the sensitive personal information, including 
+18
+sharing with third parties, may be withdrawn. 
+19
+(F) How a user can view or obtain the sen-
+20
+sitive personal information that they have pro-
+21
+vided to a controller and whether it can be ex-
+22
+ported to other web-based platforms. 
+23
+(G) What kind of sensitive personal infor-
+24
+mation is collected and shared. 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+5 
+•HR 2013 IH
+(H) Whether the sensitive personal infor-
+1
+mation will be used to create profiles about 
+2
+users and whether they will be integrated across 
+3
+platforms. 
+4
+(I) How sensitive personal information is 
+5
+protected from unauthorized access or acquisi-
+6
+tion. 
+7
+(4) OPT-OUT
+CONSENT.—For any collection, 
+8
+storage, processing, selling, sharing, or other use of 
+9
+non-sensitive personal information, including sharing 
+10
+with third parties, controllers shall provide users 
+11
+with the ability to opt out at any time. 
+12
+(5) PRIVACY AUDITS.— 
+13
+(A) IN GENERAL.—Except as provided in 
+14
+subparagraphs (C) and (D), annually, each con-
+15
+troller collecting, storing, processing, selling, 
+16
+sharing, or otherwise using sensitive personal 
+17
+information shall— 
+18
+(i) obtain a privacy audit from a 
+19
+qualified, objective, independent third- 
+20
+party; and 
+21
+(ii) shall make public whether or not 
+22
+the privacy audit found the controller com-
+23
+pliant. 
+24
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+6 
+•HR 2013 IH
+(B) AUDIT
+REQUIREMENTS.—Each such 
+1
+audit shall— 
+2
+(i) set forth the privacy, security, and 
+3
+data use controls that the controller has 
+4
+implemented and maintained during the 
+5
+reporting period; 
+6
+(ii) describe whether such controls are 
+7
+appropriate to the size and complexity of 
+8
+the controller, the nature and scope of the 
+9
+activities of the controller, and the nature 
+10
+of the sensitive personal information or be-
+11
+havioral data collected by the controller; 
+12
+(iii) certify whether the privacy and 
+13
+security controls operate with sufficient ef-
+14
+fectiveness to provide reasonable assurance 
+15
+to protect the privacy and security of sen-
+16
+sitive personal information or behavioral 
+17
+data, including with respect to data shared 
+18
+with third parties, and that the controls 
+19
+have so operated throughout the reporting 
+20
+period; 
+21
+(iv) be prepared and completed within 
+22
+60 days after the end of the reporting pe-
+23
+riod to which the audit applies; and 
+24
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+7 
+•HR 2013 IH
+(v) be provided to the Federal Trade 
+1
+Commission or to the attorney general of 
+2
+a State, or other authorized State officer, 
+3
+within 10 days of notification by the Com-
+4
+mission or the attorney general of a State, 
+5
+or other authorized State officer where 
+6
+such person has presented to the controller 
+7
+allegations that a violation of this Act or 
+8
+any regulation issued under this Act has 
+9
+been committed by the controller. 
+10
+(C) SMALL
+BUSINESS
+AUDIT
+EXEMP-
+11
+TION.—The audit requirements described in 
+12
+this paragraph shall not apply to controllers 
+13
+who collect, store, process, sell, share, or other-
+14
+wise use sensitive personal information relating 
+15
+to 5,000 or fewer individuals. 
+16
+(D) NON-SENSITIVE PERSONAL INFORMA-
+17
+TION EXEMPTION.—The audit requirements set 
+18
+forth above shall not apply to controllers who 
+19
+do not collect, store, process, sell, share, or oth-
+20
+erwise use sensitive personal information. 
+21
+(b) EXEMPTIONS.— 
+22
+(1) NECESSARY
+OPERATIONS
+AND
+SECURITY 
+23
+PURPOSES.—Subsection (a) shall not apply to the 
+24
+processing, collecting, storing, sharing, selling of 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+8 
+•HR 2013 IH
+sensitive personal information for the following pur-
+1
+poses: 
+2
+(A) Preventing or detecting fraud, identity 
+3
+theft, or criminal activity. 
+4
+(B) The use of such information to identify 
+5
+errors that impair functionality or otherwise en-
+6
+hancing or maintaining the availability of the 
+7
+services or information systems of the controller 
+8
+for authorized access and use. 
+9
+(C) Protecting the vital interests of the 
+10
+consumer or another natural person. 
+11
+(D) Responding in good faith to valid legal 
+12
+process or providing information as otherwise 
+13
+required or authorized by law. 
+14
+(E) Monitoring or enforcing agreements 
+15
+between the controller and an individual, includ-
+16
+ing but not limited to, terms of service, terms 
+17
+of use, user agreements, or agreements concern-
+18
+ing monitoring criminal activity. 
+19
+(F) Protecting the property, services, or 
+20
+information systems of the controller against 
+21
+unauthorized access or use. 
+22
+(G) Advancing a substantial public inter-
+23
+est, including archival purposes, scientific or 
+24
+historical research, and public health, if such 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+9 
+•HR 2013 IH
+processing does not create a significant risk of 
+1
+harm to consumers. 
+2
+(2) REASONABLE EXPECTATION OF USERS.— 
+3
+The regulations promulgated pursuant to subsection 
+4
+(a) with respect to the requirement to provide opt- 
+5
+in consent shall not apply to the processing, storage, 
+6
+and collection of sensitive personal information or 
+7
+behavioral data in which such processing does not 
+8
+deviate from purposes consistent with a controller’s 
+9
+relationship with users as understood by the reason-
+10
+able user. 
+11
+SEC. 4. APPLICATION AND ENFORCEMENT BY THE FED-
+12
+ERAL TRADE COMMISSION. 
+13
+(a) COMMON CARRIERS.—Notwithstanding the limi-
+14
+tations in the Federal Trade Commission Act (15 U.S.C. 
+15
+41 et seq.) on Commission authority with respect to com-
+16
+mon carriers, this Act applies, according to its terms, to 
+17
+common carriers subject to the Communications Act of 
+18
+1934 (47 U.S.C. 151 et seq.) and all Acts amendatory 
+19
+thereof and supplementary thereto. 
+20
+(b) ENFORCEMENT.— 
+21
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+22
+TICES.—A violation of this Act or a regulation pro-
+23
+mulgated under this Act shall be treated as a viola-
+24
+tion of a rule under section 18(a)(1)(B) of the Fed-
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+10 
+•HR 2013 IH
+eral 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+1
+57a(a)(1)(B)) regarding unfair or deceptive acts or 
+2
+practices. 
+3
+(2) POWERS OF COMMISSION.—Except as pro-
+4
+vided in subsection (a), the Federal Trade Commis-
+5
+sion shall enforce this Act and the regulations pro-
+6
+mulgated under this Act in the same manner, by the 
+7
+same means, and with the same jurisdiction, powers, 
+8
+and duties as though all applicable terms and provi-
+9
+sions of the Federal Trade Commission Act (15 
+10
+U.S.C. 41 et seq.) were incorporated into and made 
+11
+a part of this Act. Any person who violates this Act 
+12
+or a regulation promulgated under this Act shall be 
+13
+subject to the penalties and entitled to the privileges 
+14
+and immunities provided in the Federal Trade Com-
+15
+mission Act. 
+16
+(c) CONSTRUCTION.—Nothing in this Act shall be 
+17
+construed to limit the authority of the Federal Trade 
+18
+Commission under any other provision of law. 
+19
+SEC. 5. RIGHT OF ACTION. 
+20
+(a) RIGHT OF ACTION.—Except as provided in sub-
+21
+section (e), the attorney general of a State, or other au-
+22
+thorized State officer, alleging a violation of this Act or 
+23
+any regulation issued under this Act that affects or may 
+24
+affect such State or its residents may bring an action on 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+11 
+•HR 2013 IH
+behalf of the residents of the State in any United States 
+1
+district court for the district in which the defendant is 
+2
+found, resides, or transacts business, or wherever venue 
+3
+is proper under section 1391 of title 28, to obtain appro-
+4
+priate injunctive relief. 
+5
+(b) NOTICE TO COMMISSION REQUIRED.—A State 
+6
+shall provide prior written notice to the Federal Trade 
+7
+Commission of any civil action under subsection (a) to-
+8
+gether with a copy of its complaint, except that if it is 
+9
+not feasible for the State to provide such prior notice, the 
+10
+State shall provide such notice immediately upon insti-
+11
+tuting such action. 
+12
+(c) INTERVENTION BY THE COMMISSION.—The Com-
+13
+mission may intervene in such civil action and upon inter-
+14
+vening— 
+15
+(1) be heard on all matters arising in such civil 
+16
+action; and 
+17
+(2) file petitions for appeal of a decision in such 
+18
+civil action. 
+19
+(d) CONSTRUCTION.—Nothing in this section shall be 
+20
+construed— 
+21
+(1) to prevent the attorney general of a State, 
+22
+or other authorized State officer, from exercising the 
+23
+powers conferred on the attorney general, or other 
+24
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+12 
+•HR 2013 IH
+authorized State officer, by the laws of such State; 
+1
+or 
+2
+(2) to prohibit the attorney general of a State, 
+3
+or other authorized State officer, from proceeding in 
+4
+State or Federal court on the basis of an alleged vio-
+5
+lation of any civil or criminal statute of that State. 
+6
+(e) LIMITATION.— 
+7
+(1) NO SEPARATE ACTION.—An action may not 
+8
+be brought under subsection (a) if the same alleged 
+9
+violation is the subject of a pending action by the 
+10
+Commission or the United States. 
+11
+(2) EXCLUSIVE
+PERIOD
+TO
+ACT
+BY
+COMMIS-
+12
+SION.—An action— 
+13
+(A) may not be brought under subsection 
+14
+(a) until the expiration of the 60-day period 
+15
+that begins on the date on which a violation is 
+16
+discovered by the Commission or the date on 
+17
+which the Commission is notified of the viola-
+18
+tion; and 
+19
+(B) may only be brought under subsection 
+20
+(a) if the Commission does not bring an action 
+21
+related to the violation during such period. 
+22
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+13 
+•HR 2013 IH
+SEC. 6. PRIVACY AND DATA SECURITY EMPLOYEES AND 
+1
+FUNDING FOR THE COMMISSION. 
+2
+(a) EMPLOYMENT AUTHORITY.—The Commission 
+3
+shall hire 50 new full-time employees to focus on privacy 
+4
+and data security, 15 of which shall have technology exper-
+5
+tise. 
+6
+(b) ADDITIONAL FUNDING FOR PRIVACY AND DATA 
+7
+SECURITY.—There is authorized to be appropriated to the 
+8
+Commission $35,000,000 for issues related to privacy and 
+9
+data security. 
+10
+SEC. 7. DEFINITIONS. 
+11
+In this Act: 
+12
+(1) CALL DETAIL RECORD.—The term ‘‘call de-
+13
+tail record’’— 
+14
+(A) means session-identifying information 
+15
+(including an originating or terminating tele-
+16
+phone number, an International Mobile Sub-
+17
+scriber Identity number, or an International 
+18
+Mobile Station Equipment Identity number), a 
+19
+telephone calling card number, or the time or 
+20
+duration of a call; 
+21
+(B) does not include— 
+22
+(i) the contents (as defined in section 
+23
+2510(8) of title 18, United States Code) of 
+24
+any communication; 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+14 
+•HR 2013 IH
+(ii) the name, address, or financial in-
+1
+formation of a subscriber or customer; 
+2
+(iii) cell site location or global posi-
+3
+tioning system information; or 
+4
+(iv) business customers. 
+5
+(2) CLEAR AND PROMINENT.—The term ‘‘clear 
+6
+and prominent’’ means in any communication me-
+7
+dium, the required disclosure is— 
+8
+(A) of a type, size, and location sufficiently 
+9
+noticeable for an ordinary consumer to read 
+10
+and comprehend the communication; 
+11
+(B) provided in a manner such that an or-
+12
+dinary consumer is able to read and com-
+13
+prehend the communication; 
+14
+(C) is presented in an understandable lan-
+15
+guage and syntax; 
+16
+(D) includes nothing contrary to, incon-
+17
+sistent with, or that mitigates any statement 
+18
+contained within the disclosure or within any 
+19
+document linked to or referenced therein; and 
+20
+(E) includes an option that is compliant 
+21
+with applicable obligations of the controller 
+22
+under title III of the Americans with Disabil-
+23
+ities Act of 1990 (42 U.S.C. 12181 et seq.). 
+24
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+15 
+•HR 2013 IH
+(3) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Federal Trade Commission. 
+2
+(4) 
+CONTROLLER.—The 
+term 
+‘‘controller’’ 
+3
+means a person that, on its own or jointly with other 
+4
+entities, determines the purposes and means of proc-
+5
+essing sensitive personal information. 
+6
+(5) PROCESSOR.—The term ‘‘processor’’ means 
+7
+a person that processes data on behalf of the con-
+8
+troller. 
+9
+(6) SENSITIVE PERSONAL INFORMATION.— 
+10
+(A) The term ‘‘sensitive personal informa-
+11
+tion’’ means information relating to an identi-
+12
+fied or identifiable individual, including the fol-
+13
+lowing: 
+14
+(i) Financial account information. 
+15
+(ii) Health information. 
+16
+(iii) Genetic data. 
+17
+(iv) Information pertaining to children 
+18
+under 13 years of age. 
+19
+(v) Social Security numbers. 
+20
+(vi) Unique government-issued identi-
+21
+fiers 
+22
+(vii) Authentication credentials, such 
+23
+as a username and password. 
+24
+(viii) Precise geolocation information. 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+16 
+•HR 2013 IH
+(ix) Content of a wire communication, 
+1
+oral communication, or electronic commu-
+2
+nication with respect to any entity that is 
+3
+not the intended recipient of the commu-
+4
+nication. 
+5
+(x) Call detail records. 
+6
+(xi) Web browsing history, application 
+7
+usage history, and the functional equiva-
+8
+lent of either. 
+9
+(xii) Biometric information. 
+10
+(xiii) Sexual orientation. 
+11
+(xiv) Religious beliefs. 
+12
+(B) The term ‘‘sensitive personal informa-
+13
+tion’’ does not include— 
+14
+(i) de-identified information (or the 
+15
+process of transforming personal data so 
+16
+that it is not directly relatable to an identi-
+17
+fied or identifiable consumer); 
+18
+(ii) information related to employ-
+19
+ment; or 
+20
+(iii) publicly available information. 
+21
+(7) STATE.—The term ‘‘State’’ means each 
+22
+State of the United States, the District of Columbia, 
+23
+and each commonwealth, territory, or possession of 
+24
+the United States. 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+17 
+•HR 2013 IH
+(8) THIRD
+PARTY.—The term ‘‘third party’’ 
+1
+means an individual or entity that uses or receives 
+2
+sensitive personal information or behavioral data ob-
+3
+tained by or on behalf of a controller, other than— 
+4
+(A) a service provider of a controller to 
+5
+whom the controller discloses the consumer’s 
+6
+sensitive personal information for an oper-
+7
+ational purpose pursuant to an agreement that 
+8
+prohibits the service provider receiving the sen-
+9
+sitive personal information from using or dis-
+10
+closing the sensitive personal information for 
+11
+the benefit of the provider; and 
+12
+(B) any entity that uses sensitive personal 
+13
+information only as reasonably necessary— 
+14
+(i) to comply with applicable law, reg-
+15
+ulation, or legal process; 
+16
+(ii) to enforce the terms of use of a 
+17
+controller; or 
+18
+(iii) to detect, prevent, or mitigate 
+19
+fraud or security vulnerabilities. 
+20
+SEC. 8. RULE OF CONSTRUCTION. 
+21
+Nothing in this Act may be construed to preclude the 
+22
+acquisition by the Federal Government of— 
+23
+(1) the contents of a wire or electronic commu-
+24
+nication pursuant to other lawful authorities, includ-
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+18 
+•HR 2013 IH
+ing the authorities under chapter 119 of title 18, 
+1
+United States Code (commonly known as the ‘‘Wire-
+2
+tap Act’’), the Foreign Intelligence Surveillance Act 
+3
+of 1978 (50 U.S.C. 1801 et seq.), or any other pro-
+4
+vision of Federal law not specifically amended by 
+5
+this Act; or 
+6
+(2) records or other information relating to a 
+7
+subscriber or customer of any electronic communica-
+8
+tion service or remote computing service (not includ-
+9
+ing the content of such communications) pursuant to 
+10
+the Foreign Intelligence Surveillance Act of 1978 
+11
+(50 U.S.C. 1801 et seq.), chapter 119 of title 18, 
+12
+United States Code (commonly known as the ‘‘Wire-
+13
+tap Act’’), or any other provision of Federal law not 
+14
+specifically amended by this Act. 
+15
+SEC. 9. NATIONAL STANDARD. 
+16
+(a) PREEMPTION.—For a controller that is subject 
+17
+to this Act, or any regulation promulgated pursuant to 
+18
+this Act, the provisions of this Act, or any such regulation, 
+19
+shall preempt any civil provision of the law of any State 
+20
+or political subdivision of a State to the degree the law 
+21
+is focused on the reduction of privacy risk through the 
+22
+regulation of the collection of sensitive personal informa-
+23
+tion and the collection, storage, processing, sale, sharing 
+24
+with third parties, or other use of such information. 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+19 
+•HR 2013 IH
+(b) CONSUMER PROTECTION LAWS.—Except as pro-
+1
+vided in subsection (a), this section may not be construed 
+2
+to limit the enforcement, or the bringing of a claim pursu-
+3
+ant to any State consumer protection law by an attorney 
+4
+general of a State, other than the extent to which any 
+5
+such law regulates the collection of sensitive personal in-
+6
+formation and the collection, storage, processing, sale, 
+7
+sharing with third parties, or other use of such informa-
+8
+tion. 
+9
+(c) PROTECTION OF CERTAIN STATE LAW.—Nothing 
+10
+in this Act may be construed to preempt the applicability 
+11
+of any of the following: 
+12
+(1) State constitutional, trespass, contract, data 
+13
+breach notification, or tort law, other than to the de-
+14
+gree such law is substantially intended to govern the 
+15
+collection of sensitive personal information and the 
+16
+collection, storage, processing, sale, sharing with 
+17
+third parties, or other use of such information. 
+18
+(2) Any other State law to the extent that the 
+19
+law relates to acts of fraud, wiretapping, or the pro-
+20
+tection of social security numbers. 
+21
+(3) Any State law to the extent the law pro-
+22
+vides additional provisions to specifically regulate the 
+23
+covered entities as defined for purposes of the regu-
+24
+lations promulgated pursuant to section 264(c) of 
+25
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS
+20 
+•HR 2013 IH
+the Health Insurance Portability and Accountability 
+1
+Act of 1996 (Public Law 104–191), section 444 of 
+2
+the General Education Provisions Act (commonly 
+3
+known as the Family Educational Rights and Pri-
+4
+vacy Act of 1974) (20 U.S.C. 1232g), the Fair 
+5
+Credit Reporting Act (15 U.S.C. 1681 et seq.), or 
+6
+the Gramm-Leach-Bliley Act (15 U.S.C. 6701 et 
+7
+seq.). 
+8
+(4) Any private contract based on a State law 
+9
+that requires a party to provide additional or greater 
+10
+privacy for sensitive personal information or data se-
+11
+curity protections to an individual than this Act, or 
+12
+any regulation promulgated pursuant to this Act. 
+13
+SEC. 10. EFFECTIVE DATE. 
+14
+This Act shall take effect 180 days after the date of 
+15
+the enactment of this Act. 
+16
+Æ 
+20:16 Apr 15, 2019
+H2013
+jbell on DSK3GLQ082PROD with BILLS

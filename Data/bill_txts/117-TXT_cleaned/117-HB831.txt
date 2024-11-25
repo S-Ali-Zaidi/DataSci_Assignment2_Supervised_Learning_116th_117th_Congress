@@ -1,0 +1,1050 @@
+A BILL 
+To amend the Public Health Service Act to encourage the 
+rapid development of certain public health data stand-
+ards, authorize epidemiological surveillance grants, and 
+authorize a data linkage demonstration project, and for 
+other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Health Standards To 
+4
+Advance Transparency, Integrity, Science, Technology In-
+5
+frastructure, and Confidential Statistics Act of 2021’’ or 
+6
+the ‘‘Health STATISTICS Act of 2021’’. 
+7
+22:34 Mar 03, 2021
+H831
+2 
+•HR 831 IH
+SEC. 2. IMPROVING PUBLIC HEALTH DATA. 
+1
+Title XXXI of the Public Health Service Act (42 
+2
+U.S.C. 300kk) is amended— 
+3
+(1) by inserting before section 3101 the fol-
+4
+lowing subtitle designation and heading: 
+5
+‘‘Subtitle A—In General’’; 
+6
+and 
+7
+(2) by adding at the end the following new sub-
+8
+title: 
+9
+‘‘Subtitle B—Public Health 
+10
+Common Data Standards 
+11
+‘‘SEC. 3111. TREATMENT OF PUBLIC HEALTH DATA. 
+12
+‘‘(a) STANDARDIZED REPORTING.— 
+13
+‘‘(1) IN
+GENERAL.—The Secretary, acting 
+14
+through the Director of the Centers for Disease 
+15
+Control and Prevention, shall— 
+16
+‘‘(A) adopt and update as necessary uni-
+17
+form standards for State and local health de-
+18
+partments to report data to the Centers; and 
+19
+‘‘(B) in adopting and updating standards 
+20
+under this subsection, give deference to— 
+21
+‘‘(i) corresponding standards devel-
+22
+oped by standards development organiza-
+23
+tions and voluntary consensus-based stand-
+24
+ards bodies; and 
+25
+22:34 Mar 03, 2021
+H831
+3 
+•HR 831 IH
+‘‘(ii) the recommendations of the 
+1
+working group established under para-
+2
+graph (3). 
+3
+‘‘(2) REQUIREMENTS.—The standards under 
+4
+paragraph (1) shall— 
+5
+‘‘(A) be consistent with— 
+6
+‘‘(i) standards for the interoperability 
+7
+of health information technology under 
+8
+subtitle A; 
+9
+‘‘(ii) Office of Management and Budg-
+10
+et Circular A–119 (or any successor there-
+11
+to); 
+12
+‘‘(iii) Office of Management and 
+13
+Budget standards for race and ethnicity 
+14
+and other relevant measures; and 
+15
+‘‘(iv) the data and technology stand-
+16
+ards designated under section 2823(a)(2); 
+17
+and 
+18
+‘‘(B) provide for the use of interoperable 
+19
+systems, consistent with the application pro-
+20
+gramming interface standards and associated 
+21
+implementation specifications under section 
+22
+170.215 of title 45 (or any successor regula-
+23
+tions). 
+24
+‘‘(3) WORKING GROUP.— 
+25
+22:34 Mar 03, 2021
+H831
+4 
+•HR 831 IH
+‘‘(A) 
+ESTABLISHMENT.—The 
+Secretary 
+1
+shall establish a technical working group (in 
+2
+this paragraph referred to as the ‘working 
+3
+group’) to make recommendations on an ongo-
+4
+ing basis and as needed to establish more com-
+5
+prehensive common standards across appro-
+6
+priate health care, public health, environmental, 
+7
+and public assistance data systems. 
+8
+‘‘(B) 
+DUTIES.—In 
+making 
+the 
+rec-
+9
+ommendations required by subparagraph (A), 
+10
+the working group shall— 
+11
+‘‘(i) coordinate, and consult with the 
+12
+Interagency Council on Statistical Policy 
+13
+established under section 3504 of title 44, 
+14
+United States Code, and any other relevant 
+15
+interagency or intra-agency committee; 
+16
+‘‘(ii) include recommendations for— 
+17
+‘‘(I) efficiencies to reduce redun-
+18
+dancy and the public reporting burden 
+19
+in Federal health data reporting re-
+20
+quirements and data collections; and 
+21
+‘‘(II) methods to facilitate evi-
+22
+dence-building through standardized 
+23
+local and State reporting and cross- 
+24
+agency, linkable data sharing between 
+25
+22:34 Mar 03, 2021
+H831
+5 
+•HR 831 IH
+and among local, State, and Federal 
+1
+agencies to collect, acquire, and com-
+2
+pile complete statistics; and 
+3
+‘‘(iii) build on existing efforts of pub-
+4
+lic multistakeholder initiatives seeking to 
+5
+standardize key data elements necessary 
+6
+for documenting clinical and other activi-
+7
+ties related to the social determinants of 
+8
+health in order to improve interoperability, 
+9
+exchange, and use of social determinants 
+10
+of health data across the health and 
+11
+human services sectors. 
+12
+‘‘(C) ADDITIONAL
+CONSULTATION.—The 
+13
+working group may consult with outside ex-
+14
+perts, including State, local, Tribal, and terri-
+15
+torial public health officials, public health re-
+16
+searchers, and health care providers rep-
+17
+resenting communities most affected by health 
+18
+disparities. 
+19
+‘‘(D) TIMING.—Not later than 6 months 
+20
+after the date of enactment of this subtitle, the 
+21
+working group shall provide initial recommenda-
+22
+tions under subsection (a) to the Secretary and 
+23
+the Director of the Centers for Disease Control 
+24
+and Prevention. 
+25
+22:34 Mar 03, 2021
+H831
+6 
+•HR 831 IH
+‘‘(E) COMPOSITION.— 
+1
+‘‘(i) 
+IN
+GENERAL.—The 
+working 
+2
+group shall, at a minimum, include rep-
+3
+resentation from— 
+4
+‘‘(I) all relevant Department of 
+5
+Health and Human Services units, in-
+6
+cluding— 
+7
+‘‘(aa) the National Center 
+8
+for Health Statistics; 
+9
+‘‘(bb) the Centers for Dis-
+10
+ease Control and Prevention; 
+11
+‘‘(cc) the Office of the Chief 
+12
+Technology Officer in the Office 
+13
+of the Secretary; 
+14
+‘‘(dd) the Office of the Na-
+15
+tional Coordinator for Health In-
+16
+formation Technology; and 
+17
+‘‘(ee) 
+the 
+Health 
+and 
+18
+Human Services Data Council; 
+19
+‘‘(II) the Office of Information 
+20
+and Regulatory Affairs of the Office 
+21
+of Management and Budget; 
+22
+‘‘(III) the National Institute of 
+23
+Standards and Technology; 
+24
+22:34 Mar 03, 2021
+H831
+7 
+•HR 831 IH
+‘‘(IV) the Veterans Health Ad-
+1
+ministration; 
+2
+‘‘(V) the Military Health System; 
+3
+and 
+4
+‘‘(VI) the Indian Health Service. 
+5
+‘‘(ii) CHAIR.—The chair of the work-
+6
+ing group shall be the Director of the Na-
+7
+tional Center for Health Statistics (or the 
+8
+Director’s designee). 
+9
+‘‘(b) INCREASING EFFICIENCY AND ADVANCING EVI-
+10
+DENCE BUILDING.—Consistent with the standards in ef-
+11
+fect under subsection (a), the Chief Statistician of the 
+12
+United States in the Office of Management and Budget, 
+13
+in accordance with section 3504(e) of title 44, United 
+14
+States Code, shall issue and update on an ongoing basis 
+15
+as needed, directives guiding Federal health data informa-
+16
+tion collection to reduce public reporting burden, ensure 
+17
+information quality, improve use of determinants of health 
+18
+data, and enhance access to health data for evidence-build-
+19
+ing activities. 
+20
+‘‘(c) COVID–19 HIGH-PRIORITY STANDARDS.—Not 
+21
+later than 30 days after the date of enactment of this sub-
+22
+title, the Secretary, acting through the Director of the 
+23
+Centers for Disease Control and Prevention, and in con-
+24
+22:34 Mar 03, 2021
+H831
+8 
+•HR 831 IH
+sultation with the Director of the National Institutes of 
+1
+Health, shall— 
+2
+‘‘(1) establish standards under subsection (a) 
+3
+with respect to COVID–19, including for genomic 
+4
+epidemiology, modeling outbreak preparedness and 
+5
+response, therapeutic interventions, treatment set-
+6
+tings, and associated outcomes; and 
+7
+‘‘(2) in carrying out paragraph (1), adopt or 
+8
+build upon existing standards. 
+9
+‘‘(d) SHARING DATA RELATED
+TO COVID–19.— 
+10
+Subject to applicable law on the privacy and confiden-
+11
+tiality of individually identifiable information, the Sec-
+12
+retary shall— 
+13
+‘‘(1) share real-time data related to COVID–19 
+14
+data collected by the Department of Health and 
+15
+Human Services with— 
+16
+‘‘(A) the Centers for Disease Control and 
+17
+Prevention; and 
+18
+‘‘(B) Federal, State, and local public 
+19
+health agencies outside of the Department of 
+20
+Health and Human Services; and 
+21
+‘‘(2) make such data (including metadata as de-
+22
+fined in section 3502 of title 44, United States 
+23
+Code) publicly available using standardized, ma-
+24
+chine-readable formats— 
+25
+22:34 Mar 03, 2021
+H831
+9 
+•HR 831 IH
+‘‘(A) on the website of the Department of 
+1
+Health and Human Services; and 
+2
+‘‘(B) in the Federal data catalogue main-
+3
+tained under section 3511(c) of title 44, United 
+4
+States Code. 
+5
+‘‘SEC. 3112. EPIDEMIOLOGICAL SURVEILLANCE GRANTS. 
+6
+‘‘(a) GRANT AUTHORITY.—The Secretary, in con-
+7
+sultation with the Director of the National Center for 
+8
+Health Statistics, may award grants or cooperative agree-
+9
+ments to public health reporting entities— 
+10
+‘‘(1) to establish protocols and acquire tech-
+11
+nologies to implement the standards under section 
+12
+3111 for reporting, directly or indirectly, to the Fed-
+13
+eral Government, including by— 
+14
+‘‘(A) supporting expansion and moderniza-
+15
+tion of electronic case reporting, laboratory re-
+16
+porting, and mortality reporting with an em-
+17
+phasis on modernizing and linking, where ap-
+18
+propriate, modularized medical examiner and 
+19
+coroner case management systems, electronic 
+20
+death registration systems, electronic health 
+21
+records, and supporting laboratory systems to 
+22
+improve data timeliness and quality; 
+23
+‘‘(B) making data sharing with the Na-
+24
+tional Center for Health Statistics bidirectional, 
+25
+22:34 Mar 03, 2021
+H831
+10 
+•HR 831 IH
+such that the data received by the National 
+1
+Center for Health Statistics is provided quickly 
+2
+back to State and local offices and to Federal 
+3
+partners and in a form that is quickly under-
+4
+standable and actionable; 
+5
+‘‘(C) supporting survey activities to more 
+6
+broadly measure health disparities at the na-
+7
+tional, State, and local levels; 
+8
+‘‘(D) improving interoperability standards 
+9
+and implementation specifications for industry 
+10
+use to fulfill specific clinical health information 
+11
+technology interoperability needs; 
+12
+‘‘(E) developing and implementing protec-
+13
+tions required by subsection (b); and 
+14
+‘‘(F) conducting real-world testing of data 
+15
+important for forecasting to ensure viability, 
+16
+scalability, and adaptability of data collection 
+17
+and reporting activities; and 
+18
+‘‘(2) to carry out such reporting using such pro-
+19
+tocols and technologies. 
+20
+‘‘(b) ADOPTION OF STANDARDS AND DATA PROTEC-
+21
+TIONS.—The Secretary may not award a grant or coopera-
+22
+tive agreement under subsection (a) unless the applicant 
+23
+develops an implementation plan to develop and implement 
+24
+policies, practices, procedures, and controls related to— 
+25
+22:34 Mar 03, 2021
+H831
+11 
+•HR 831 IH
+‘‘(1) improving data quality and reporting time-
+1
+liness; 
+2
+‘‘(2) data security, in accordance with the most 
+3
+recent versions of the Cybersecurity Framework and 
+4
+Privacy Framework (or successor frameworks) of the 
+5
+National Institute of Standards and Technology; and 
+6
+‘‘(3) confidentiality and privacy of any informa-
+7
+tion that pertains to an individual and from which, 
+8
+either alone or in combination with other reasonably 
+9
+available information, the individual’s identity can be 
+10
+determined, including policies, practices, procedures, 
+11
+and controls for— 
+12
+‘‘(A) minimizing collection, processing, 
+13
+maintenance, retention, and disclosure of such 
+14
+information to what is necessary, proportionate, 
+15
+and limited for a good faith public health pur-
+16
+pose that is clearly described and limited in an 
+17
+agreement between the Federal Government 
+18
+and the recipient; 
+19
+‘‘(B) prohibiting disclosure of such infor-
+20
+mation to persons, including government enti-
+21
+ties, absent legal safeguards included in Federal 
+22
+or State laws or regulations, for protecting the 
+23
+security and privacy of such information; and 
+24
+22:34 Mar 03, 2021
+H831
+12 
+•HR 831 IH
+‘‘(C) making the data available to the Na-
+1
+tional Center for Health Statistics for statistical 
+2
+purposes under subchapter III of chapter 35 of 
+3
+title 44, United States Code. 
+4
+‘‘(c) COVID–19 REPORTING.—The Secretary may 
+5
+not award a grant or cooperative agreement under sub-
+6
+section (a) unless the applicant agrees— 
+7
+‘‘(1) to use the grant for activities under sub-
+8
+section (a) with respect to COVID–19, including 
+9
+with respect to— 
+10
+‘‘(A) testing results data; 
+11
+‘‘(B) testing results turnaround time; 
+12
+‘‘(C) hospitalization and intensive care unit 
+13
+data; 
+14
+‘‘(D) new infections among health care 
+15
+workers; 
+16
+‘‘(E) new cases among quarantined con-
+17
+tacts; and 
+18
+‘‘(F) long-term care facilities, prisons, and 
+19
+other congregate settings; and 
+20
+‘‘(2) in carrying out such activities, to 
+21
+disaggregate data by age, sex, race, ethnicity, sexual 
+22
+orientation, gender identity, and Zip Code, as appro-
+23
+priate and to the extent possible. 
+24
+22:34 Mar 03, 2021
+H831
+13 
+•HR 831 IH
+‘‘(d) APPLICATION.—A public health reporting entity 
+1
+applying for a grant or cooperative agreement under this 
+2
+section shall submit an application to the Secretary at 
+3
+such time and in such manner as the Secretary may re-
+4
+quire. 
+5
+‘‘(e) DEFINITION.—In this section, the term ‘public 
+6
+health reporting entity’ means any entity that reports data 
+7
+to the Centers for Disease Control and Prevention or an-
+8
+other public health authority, including a State or local 
+9
+public health department, a public health laboratory, and 
+10
+a health care provider. 
+11
+‘‘SEC. 3113. EVIDENCE-BUILDING DEMONSTRATION PRO-
+12
+GRAM. 
+13
+‘‘(a) IN GENERAL.—The Secretary acting through 
+14
+the Director of the National Center for Health Statistics 
+15
+(in this section referred to as the ‘Secretary’) shall expand 
+16
+the data linkage program of the Department of Health 
+17
+and Human Services consisting of Federal statistical and 
+18
+programmatic datasets from specified Federal entities, as 
+19
+authorized by subchapter III of chapter 35 of title 44, 
+20
+United States Code, for the purpose of facilitating statis-
+21
+tical public health research on trends and patterns across 
+22
+specifically defined, statistically relevant populations, with 
+23
+a particular focus on linking social determinants of health 
+24
+data, including with respect to— 
+25
+22:34 Mar 03, 2021
+H831
+14 
+•HR 831 IH
+‘‘(1) food insecurity; 
+1
+‘‘(2) housing instability; 
+2
+‘‘(3) transportation access; 
+3
+‘‘(4) safety; 
+4
+‘‘(5) social connection and isolation; 
+5
+‘‘(6) financial resource strain; 
+6
+‘‘(7) stress; 
+7
+‘‘(8) race and ethnicity; and 
+8
+‘‘(9) sexual orientation and gender identity. 
+9
+‘‘(b) ACTIVITIES.—The activities of the demonstra-
+10
+tion program under this section shall include: 
+11
+‘‘(1) Assessing the availability of identified and 
+12
+deidentified data sets held by Federal, State, local, 
+13
+and non-Federal entities that may be useful for re-
+14
+search described in subsection (a). 
+15
+‘‘(2) Using existing authorities and linkages of 
+16
+data in accordance with subchapter III of chapter 35 
+17
+of title 44, United States Code, when relevant to re-
+18
+quest the submission of datasets to the National 
+19
+Center for Health Statistics for linking. 
+20
+‘‘(c) LIMITATION.—The Secretary shall limit access 
+21
+to data under the demonstration program under this sec-
+22
+tion— 
+23
+‘‘(1) to Federal statistical agencies and quali-
+24
+fied public and private researchers, as determined by 
+25
+22:34 Mar 03, 2021
+H831
+15 
+•HR 831 IH
+the Director of the National Center for Health Sta-
+1
+tistics; 
+2
+‘‘(2) for a period to be specified by the Sec-
+3
+retary; and 
+4
+‘‘(3) exclusively for the purpose described in 
+5
+subsection (a). 
+6
+‘‘(d) PROCESS FOR MAKING DATA AVAILABLE.— 
+7
+‘‘(1) IN GENERAL.—Consistent with paragraph 
+8
+(2), the Secretary shall establish a rigorous process 
+9
+for making data available and usable pursuant to 
+10
+the demonstration program under this section. 
+11
+‘‘(2) REQUIREMENTS.—Before any data is 
+12
+made available pursuant to the demonstration pro-
+13
+gram under this section by an entity described in 
+14
+subsection (b)(1) to another entity described in sub-
+15
+section (b)(1)— 
+16
+‘‘(A) the receiving entity shall submit to 
+17
+the Director of the National Center for Health 
+18
+Statistics an application for data for the pur-
+19
+pose described in subsection (a); and 
+20
+‘‘(B) the Director shall approve or deny 
+21
+such request in writing, including in the case of 
+22
+a denial an explanation of the reasons for the 
+23
+denial. 
+24
+‘‘(e) RULEMAKING.— 
+25
+22:34 Mar 03, 2021
+H831
+16 
+•HR 831 IH
+‘‘(1) NO
+DELAY
+ON
+IMPLEMENTATION.—The 
+1
+Secretary— 
+2
+‘‘(A) shall begin implementation of the 
+3
+demonstration program under this section upon 
+4
+the date of enactment of this subtitle; and 
+5
+‘‘(B) shall not delay such implementation 
+6
+for purposes of promulgating the regulations re-
+7
+quired by paragraph (2). 
+8
+‘‘(2) PROMULGATION.—The Secretary shall— 
+9
+‘‘(A) issue regulations for carrying out this 
+10
+section; and 
+11
+‘‘(B) specify in such regulations the al-
+12
+lowed and disallowed purposes for sharing and 
+13
+linking data through the program, including 
+14
+areas of potential research. 
+15
+‘‘(f) WEBSITE.—The Secretary shall maintain a pub-
+16
+licly accessible website— 
+17
+‘‘(1) providing information about a demonstra-
+18
+tion program under this section; 
+19
+‘‘(2) facilitating stakeholder participation in 
+20
+such demonstration program; 
+21
+‘‘(3) facilitating oversight of such demonstra-
+22
+tion program; 
+23
+‘‘(4) providing lists of datasets from Federal 
+24
+and non-Federal entities; 
+25
+22:34 Mar 03, 2021
+H831
+17 
+•HR 831 IH
+‘‘(5) 
+providing 
+lists 
+of 
+identified 
+and 
+1
+deidentified datasets; 
+2
+‘‘(6) identifying linked datasets; 
+3
+‘‘(7) delineating a process to protect privacy 
+4
+and confidentiality; 
+5
+‘‘(8) identifying sources of the datasets; and 
+6
+‘‘(9) delineating categories of personal data. 
+7
+‘‘(g) PROGRAM REQUIREMENTS.—The demonstration 
+8
+program under this section shall be designed to— 
+9
+‘‘(1) support data matching services for agen-
+10
+cies and researchers using the National Death 
+11
+Index; and 
+12
+‘‘(2) facilitate collaboration with States and pri-
+13
+vate entities to examine, update, and modernize the 
+14
+fee structure of the National Death Index to support 
+15
+a broad range of data queries while assuring the 
+16
+continued support of the State systems collecting 
+17
+and providing this information to the National 
+18
+Death Index. 
+19
+‘‘(h) CONTRACTED ENTITIES.— 
+20
+‘‘(1) IN GENERAL.—Subject to the availability 
+21
+of appropriations, the Secretary may enter into con-
+22
+tracts with eligible entities, as appropriate, for infra-
+23
+structure and support services in carrying out the 
+24
+demonstration program under this section. 
+25
+22:34 Mar 03, 2021
+H831
+18 
+•HR 831 IH
+‘‘(2) ELIGIBILITY.—To be eligible for a con-
+1
+tract under paragraph (1), an entity shall— 
+2
+‘‘(A) demonstrate core capabilities for data 
+3
+sharing, data linkage, and compliance with sub-
+4
+chapter III of chapter 35 of title 44, United 
+5
+States Code; and 
+6
+‘‘(B) adhere to security standards in ac-
+7
+cordance with the Federal Risk and Authoriza-
+8
+tion Management Program (or any successor 
+9
+program). 
+10
+‘‘(i) RULE OF CONSTRUCTION.—Nothing in this sec-
+11
+tion shall be construed to authorize the availability or use 
+12
+of data for— 
+13
+‘‘(1) law enforcement; or 
+14
+‘‘(2) any determination of the eligibility of an 
+15
+individual for any direct or indirect payment, ben-
+16
+efit, or service. 
+17
+‘‘(j) REPORT TO CONGRESS.—Not later than 1 year 
+18
+after the date of enactment of this Act, and annually 
+19
+thereafter, the Secretary shall submit a report to the Con-
+20
+gress on the implementation of this section, including— 
+21
+‘‘(1) identification of best States practices for— 
+22
+‘‘(A) sharing data with, and reporting data 
+23
+to, the National Death Index; and 
+24
+22:34 Mar 03, 2021
+H831
+19 
+•HR 831 IH
+‘‘(B) ensuring the quality of such data; 
+1
+and 
+2
+‘‘(2) recommendations to improve— 
+3
+‘‘(A) such sharing and reporting; and 
+4
+‘‘(B) access to the National Death Index 
+5
+by researchers. 
+6
+‘‘SEC. 3114. BUILDING STATISTICAL PUBLIC HEALTH RE-
+7
+SEARCH CAPACITY. 
+8
+‘‘(a) IN GENERAL.—The Secretary, acting through 
+9
+the Director of the Centers for Disease Control and Pre-
+10
+vention, shall provide financial assistance to research enti-
+11
+ties and public health departments to establish, expand, 
+12
+or enhance capacity for conducting statistical public health 
+13
+research— 
+14
+‘‘(1) in connection with the programs and ac-
+15
+tivities under this subtitle; and 
+16
+‘‘(2) in accordance with subchapter III of chap-
+17
+ter 35 of title 44, United States Code. 
+18
+‘‘(b) CAPACITY FOR SHARING AND LINKING.—The 
+19
+capacity referred to in subsection (a) may include sharing 
+20
+and linking information and accessing and utilizing linked 
+21
+health data files in accordance with established data use 
+22
+agreements with data holders (including electronic case re-
+23
+porting, electronic health records, and electronic test or-
+24
+ders and results) with public health agencies and related 
+25
+22:34 Mar 03, 2021
+H831
+20 
+•HR 831 IH
+systems, including the National Death Index, immuniza-
+1
+tion information systems, syndromic surveillance systems, 
+2
+laboratory information management systems, electronic 
+3
+case reporting systems, medical examiner case manage-
+4
+ment systems, and Patient Unified Look-up Systems for 
+5
+Emergencies. 
+6
+‘‘SEC. 3115. RULE OF CONSTRUCTION. 
+7
+‘‘Nothing in this subtitle shall be construed to super-
+8
+sede the authority of the Director of the Office of Manage-
+9
+ment and Budget under title 44, United States Code, to 
+10
+determine and issue relevant standards for information 
+11
+management. 
+12
+‘‘SEC. 3116. AUTHORIZATION OF APPROPRIATIONS. 
+13
+‘‘There are authorized to be appropriated— 
+14
+‘‘(1) to carry out this subtitle (other than sec-
+15
+tion 3113), $450,000,000, to remain available until 
+16
+expended; and 
+17
+‘‘(2) to carry out section 3113, $100,000,000 
+18
+for the period of fiscal years 2020 through 2025.’’. 
+19
+Æ 
+22:34 Mar 03, 2021
+H831

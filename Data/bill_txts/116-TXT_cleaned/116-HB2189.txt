@@ -1,0 +1,563 @@
+A BILL 
+To require the Secretary of Commerce, acting through the 
+Administrator of the National Oceanic and Atmospheric 
+Administration, to establish a constituent-driven program 
+to provide a digital information platform capable of effi-
+ciently integrating coastal data with decision-support 
+tools, training, and best practices and to support collec-
+tion of priority coastal geospatial data to inform and 
+improve local, State, regional, and Federal capacities to 
+manage the coastal region, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+23:31 Apr 17, 2019
+H2189
+2 
+•HR 2189 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Digital Coast Act’’. 
+2
+SEC. 2. FINDINGS. 
+3
+Congress makes the following findings: 
+4
+(1) The Digital Coast is a model approach for 
+5
+effective Federal partnerships with State and local 
+6
+government, nongovernmental organizations, and the 
+7
+private sector. 
+8
+(2) Access to current, accurate, uniform, and 
+9
+standards-based geospatial information, tools, and 
+10
+training to characterize the United States coastal re-
+11
+gion is critical for public safety and for the environ-
+12
+ment, infrastructure, and economy of the United 
+13
+States. 
+14
+(3) More than half of all people of the United 
+15
+States (153,000,000) currently live on or near a 
+16
+coast and an additional 12,000,000 are expected in 
+17
+the next decade. 
+18
+(4) Coastal counties in the United States aver-
+19
+age 300 persons per square mile, compared with the 
+20
+national average of 98. 
+21
+(5) On a typical day, more than 1,540 permits 
+22
+for construction of single-family homes are issued in 
+23
+coastal counties, combined with other commercial, 
+24
+retail, and institutional construction to support this 
+25
+population. 
+26
+23:31 Apr 17, 2019
+H2189
+3 
+•HR 2189 IH
+(6) Over half of the economic productivity of 
+1
+the United States is located within coastal regions. 
+2
+(7) Highly accurate, high-resolution remote 
+3
+sensing and other geospatial data play an increas-
+4
+ingly important role in decision making and manage-
+5
+ment of the coastal zone and economy, including 
+6
+for— 
+7
+(A) flood and coastal storm surge pre-
+8
+diction; 
+9
+(B) hazard risk and vulnerability assess-
+10
+ment; 
+11
+(C) emergency response and recovery plan-
+12
+ning; 
+13
+(D) community resilience to longer range 
+14
+coastal change; 
+15
+(E) local planning and permitting; 
+16
+(F) habitat and ecosystem health assess-
+17
+ments; and 
+18
+(G) landscape change detection. 
+19
+SEC. 3. DEFINITIONS. 
+20
+In this Act: 
+21
+(1) COASTAL REGION.—The term ‘‘coastal re-
+22
+gion’’ means the area of United States waters ex-
+23
+tending inland from the shoreline to include coastal 
+24
+watersheds and seaward to the territorial sea. 
+25
+23:31 Apr 17, 2019
+H2189
+4 
+•HR 2189 IH
+(2) 
+COASTAL
+STATE.—The 
+term 
+‘‘coastal 
+1
+State’’ has the meaning given the term ‘‘coastal 
+2
+state’’ in section 304 of the Coastal Zone Manage-
+3
+ment Act of 1972 (16 U.S.C. 1453). 
+4
+(3) 
+FEDERAL
+GEOGRAPHIC
+DATA
+COM-
+5
+MITTEE.—The term ‘‘Federal Geographic Data 
+6
+Committee’’ means the interagency committee that 
+7
+promotes the coordinated development, use, sharing, 
+8
+and dissemination of geospatial data on a national 
+9
+basis. 
+10
+(4) 
+REMOTE
+SENSING
+AND
+OTHER 
+11
+GEOSPATIAL.—The term ‘‘remote sensing and other 
+12
+geospatial’’ means collecting, storing, retrieving, or 
+13
+disseminating graphical or digital data depicting 
+14
+natural or manmade physical features, phenomena, 
+15
+or boundaries of the Earth and any information re-
+16
+lated thereto, including surveys, maps, charts, sat-
+17
+ellite and airborne remote sensing data, images, 
+18
+LiDAR, and services performed by professionals 
+19
+such as surveyors, photogrammetrists, hydrog-
+20
+raphers, geodesists, cartographers, and other such 
+21
+services. 
+22
+(5) SECRETARY.—The term ‘‘Secretary’’ means 
+23
+the Secretary of Commerce, acting through the Ad-
+24
+23:31 Apr 17, 2019
+H2189
+5 
+•HR 2189 IH
+ministrator of the National Oceanic and Atmos-
+1
+pheric Administration. 
+2
+SEC. 4. ESTABLISHMENT OF THE DIGITAL COAST. 
+3
+(a) ESTABLISHMENT.— 
+4
+(1) IN GENERAL.—The Secretary shall establish 
+5
+a program for the provision of an enabling platform 
+6
+that integrates geospatial data, decision-support 
+7
+tools, training, and best practices to address coastal 
+8
+management issues and needs. Under the program, 
+9
+the Secretary shall strive to enhance resilient com-
+10
+munities, ecosystem values, and coastal economic 
+11
+growth and development by helping communities ad-
+12
+dress their issues, needs, and challenges through 
+13
+cost-effective and participatory solutions. 
+14
+(2) DESIGNATION.—The program established 
+15
+under paragraph (1) shall be known as the ‘‘Digital 
+16
+Coast’’ (in this section referred to as the ‘‘pro-
+17
+gram’’). 
+18
+(b) PROGRAM REQUIREMENTS.—In carrying out the 
+19
+program, the Secretary shall ensure that the program pro-
+20
+vides data integration, tool development, training, docu-
+21
+mentation, dissemination, and archiving by— 
+22
+(1) making data and resulting integrated prod-
+23
+ucts developed under this section readily accessible 
+24
+via the Digital Coast Internet website of the Na-
+25
+23:31 Apr 17, 2019
+H2189
+6 
+•HR 2189 IH
+tional Oceanic and Atmospheric Administration, the 
+1
+GeoPlatform.gov and data.gov Internet websites, and 
+2
+such other information distribution technologies as 
+3
+the Secretary considers appropriate; 
+4
+(2) developing decision-support tools that use 
+5
+and display resulting integrated data and provide 
+6
+training on use of such tools; 
+7
+(3) documenting such data to Federal Geo-
+8
+graphic Data Committee standards; and 
+9
+(4) archiving all raw data acquired under this 
+10
+Act at the appropriate National Oceanic and Atmos-
+11
+pheric Administration data center or such other 
+12
+Federal data center as the Secretary considers ap-
+13
+propriate. 
+14
+(c) COORDINATION.—The Secretary shall coordinate 
+15
+the activities carried out under the program to optimize 
+16
+data collection, sharing and integration, and to minimize 
+17
+duplication by— 
+18
+(1) consulting with coastal managers and deci-
+19
+sion makers concerning coastal issues, and sharing 
+20
+information and best practices, as the Secretary con-
+21
+siders appropriate, with— 
+22
+(A) coastal States; 
+23
+(B) local governments; and 
+24
+23:31 Apr 17, 2019
+H2189
+7 
+•HR 2189 IH
+(C) representatives of academia, the pri-
+1
+vate sector, and nongovernmental organizations; 
+2
+(2) consulting with other Federal agencies, in-
+3
+cluding interagency committees, on relevant Federal 
+4
+activities, including activities carried out under the 
+5
+Ocean and Coastal Mapping Integration Act (33 
+6
+U.S.C. 3501 et seq.), the Coastal Zone Management 
+7
+Act of 1972 (16 U.S.C. 1451 et seq.), the Integrated 
+8
+Coastal and Ocean Observation System Act of 2009 
+9
+(33 U.S.C. 3601 et seq.), and the Hydrographic 
+10
+Services Improvement Act of 1998 (33 U.S.C. 892 
+11
+et seq.); 
+12
+(3) participating, pursuant to section 216 of the 
+13
+E-Government Act of 2002 (Public Law 107–347; 
+14
+44 U.S.C. 3501 note), in the establishment of such 
+15
+standards and common protocols as the Secretary 
+16
+considers necessary to assure the interoperability of 
+17
+remote sensing and other geospatial data with all 
+18
+users of such information within— 
+19
+(A) the National Oceanic and Atmospheric 
+20
+Administration; 
+21
+(B) other Federal agencies; 
+22
+(C) State and local government; and 
+23
+(D) the private sector; 
+24
+23:31 Apr 17, 2019
+H2189
+8 
+•HR 2189 IH
+(4) coordinating with, seeking assistance and 
+1
+cooperation of, and providing liaison to the Federal 
+2
+Geographic Data Committee pursuant to Office of 
+3
+Management and Budget Circular A–16 and Execu-
+4
+tive Order 12906 of April 11, 1994 (59 Fed. Reg. 
+5
+17671), as amended by Executive Order 13286 of 
+6
+February 28, 2003 (68 Fed. Reg. 10619); and 
+7
+(5) developing and maintaining a best practices 
+8
+document that sets out the best practices used by 
+9
+the Secretary in carrying out the program and pro-
+10
+viding such document to the United States Geologi-
+11
+cal Survey, the Corps of Engineers, and other rel-
+12
+evant Federal agencies. 
+13
+(d) FILLING NEEDS AND GAPS.—In carrying out the 
+14
+program, the Secretary shall— 
+15
+(1) maximize the use of remote sensing and 
+16
+other geospatial data collection activities conducted 
+17
+for other purposes and under other authorities; 
+18
+(2) focus on filling data needs and gaps for 
+19
+coastal management issues, including with respect to 
+20
+areas that, as of the date of the enactment of this 
+21
+Act, were underserved by coastal data and the areas 
+22
+of the Arctic that are under the jurisdiction of the 
+23
+United States; 
+24
+23:31 Apr 17, 2019
+H2189
+9 
+•HR 2189 IH
+(3) pursuant to the Ocean and Coastal Map-
+1
+ping Integration Act (33 U.S.C. 3501 et seq.), sup-
+2
+port continue improvement in existing efforts to co-
+3
+ordinate the acquisition and integration of key data 
+4
+sets needed for coastal management and other pur-
+5
+poses, including— 
+6
+(A) coastal elevation data; 
+7
+(B) land use and land cover data; 
+8
+(C) socioeconomic and human use data; 
+9
+(D) critical infrastructure data; 
+10
+(E) structures data; 
+11
+(F) living resources and habitat data; 
+12
+(G) cadastral data; and 
+13
+(H) aerial imagery; and 
+14
+(4) integrate the priority supporting data set 
+15
+forth under paragraph (3) with other available data 
+16
+for the benefit of the broadest measure of coastal re-
+17
+source management constituents and applications. 
+18
+(e) FINANCIAL AGREEMENTS AND CONTRACTS.— 
+19
+(1) IN GENERAL.—In carrying out the program, 
+20
+the Secretary— 
+21
+(A) may enter into financial agreements to 
+22
+carry out the program, including— 
+23
+23:31 Apr 17, 2019
+H2189
+10 
+•HR 2189 IH
+(i) support to non-Federal entities 
+1
+that participate in implementing the pro-
+2
+gram; and 
+3
+(ii) grants, cooperative agreements, 
+4
+interagency agreements, contracts, or any 
+5
+other agreement on a reimbursable or non- 
+6
+reimbursable basis, with other Federal, 
+7
+tribal, State, and local governmental and 
+8
+nongovernmental entities; and 
+9
+(B) may, to the maximum extent prac-
+10
+ticable, enter into such contracts with private 
+11
+sector entities for such products and services as 
+12
+the Secretary determines may be necessary to 
+13
+collect, process, and provide remote sensing and 
+14
+other geospatial data and products for purposes 
+15
+of the program. 
+16
+(2) FEES.— 
+17
+(A) ASSESSMENT AND COLLECTION.—The 
+18
+Secretary may assess and collect fees for the 
+19
+conduct of any training, workshop, or con-
+20
+ference that advances the purposes of the pro-
+21
+gram. 
+22
+(B) AMOUNTS.—The amount of a fee 
+23
+under this paragraph may not exceed the sum 
+24
+of costs incurred, or expected to be incurred, by 
+25
+23:31 Apr 17, 2019
+H2189
+11 
+•HR 2189 IH
+the Secretary as a direct result of the conduct 
+1
+of the training, workshop, or conference, includ-
+2
+ing for subsistence expenses incidental to the 
+3
+training, workshop, or conference, as applicable. 
+4
+(C) USE OF FEES.—Amounts collected by 
+5
+the Secretary in the form of fees under this 
+6
+paragraph may be used to pay for— 
+7
+(i) the costs incurred for conducting 
+8
+an activity described in subparagraph (A); 
+9
+or 
+10
+(ii) the expenses described in subpara-
+11
+graph (B). 
+12
+(3) SURVEY AND MAPPING.—Contracts entered 
+13
+into under paragraph (1)(B) shall be considered 
+14
+‘‘surveying and mapping’’ services as such term is 
+15
+used in and as such contracts are awarded by the 
+16
+Secretary in accordance with the selection proce-
+17
+dures in chapter 11 of title 40, United States Code. 
+18
+(f) OCEAN ECONOMY.—The Secretary may establish 
+19
+publically available tools that track ocean and Great Lakes 
+20
+economy data for each coastal State. 
+21
+(g) AUTHORIZATION OF APPROPRIATIONS.—There is 
+22
+authorized to be appropriated to the Secretary $4,000,000 
+23
+23:31 Apr 17, 2019
+H2189
+12 
+•HR 2189 IH
+for each fiscal year 2020 through 2024 to carry out the 
+1
+program. 
+2
+Æ 
+23:31 Apr 17, 2019
+H2189

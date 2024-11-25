@@ -1,0 +1,1094 @@
+A BILL 
+To require the Board of Governors of the Federal Reserve 
+System, in consultation with the heads of other relevant 
+Federal agencies, to develop financial risk analyses relat-
+ing to climate change, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Climate Change Finan-
+4
+cial Risk Act of 2019’’. 
+5
+02:31 Nov 28, 2019
+H5194
+2 
+•HR 5194 IH
+SEC. 2. SENSE OF CONGRESS. 
+1
+It is the sense of Congress that— 
+2
+(1) if current trends continue, average global 
+3
+temperatures are likely to reach 1.5 degrees Celsius 
+4
+above pre-industrial levels between 2030 and 2050; 
+5
+(2) global temperature rise has already resulted 
+6
+in an increased number of heavy rainstorms, coastal 
+7
+flooding events, heat waves, wildfires, and other ex-
+8
+treme events; 
+9
+(3) since 1980— 
+10
+(A) the number of extreme weather events 
+11
+per year that cost the people of the United 
+12
+States more than $1,000,000,000 per event, ac-
+13
+counting for inflation, has increased signifi-
+14
+cantly; and 
+15
+(B) the total cost of extreme weather 
+16
+events in the United States has exceeded 
+17
+$1,100,000,000,000; 
+18
+(4) as physical impacts from climate change are 
+19
+manifested across multiple sectors of the economy of 
+20
+the United States— 
+21
+(A) climate-related economic risks will con-
+22
+tinue to increase; 
+23
+(B) climate-related extreme weather events 
+24
+will disrupt energy and transportation systems 
+25
+in the United States, which will result in more 
+26
+02:31 Nov 28, 2019
+H5194
+3 
+•HR 5194 IH
+frequent and longer-lasting power outages, fuel 
+1
+shortages, and service disruptions in critical 
+2
+sectors across the economy of the United 
+3
+States; 
+4
+(C) projected increases in extreme heat 
+5
+conditions will lead to decreases in labor pro-
+6
+ductivity in agriculture, construction, and other 
+7
+critical economic sectors; 
+8
+(D) food and livestock production will be 
+9
+impacted in regions that experience increases in 
+10
+heat and drought and small rural communities 
+11
+will struggle to find the resources needed to 
+12
+adapt to those changes; and 
+13
+(E) sea level rise and more frequent and 
+14
+intense extreme weather events will— 
+15
+(i) increasingly disrupt and damage 
+16
+private property and critical infrastructure; 
+17
+and 
+18
+(ii) drastically increase insured and 
+19
+uninsured losses; 
+20
+(5) advances in energy efficiency and renewable 
+21
+energy technologies, as well as climate policies and 
+22
+shifting societal preferences, will— 
+23
+(A) reduce global demand for fossil fuels; 
+24
+and 
+25
+02:31 Nov 28, 2019
+H5194
+4 
+•HR 5194 IH
+(B) expose transition risks for fossil fuel 
+1
+companies and investors, which could include 
+2
+trillions of dollars of stranded assets around the 
+3
+world; 
+4
+(6) climate change poses uniquely far-reaching 
+5
+risks to the financial services industry, including 
+6
+with respect to underwriting, credit, and market 
+7
+risks, due to the number of sectors and locations im-
+8
+pacted and the potentially irreversible scale of dam-
+9
+age; 
+10
+(7) financial institutions must take a consistent 
+11
+approach to assessing climate-related financial risks 
+12
+and incorporating those risks into existing risk man-
+13
+agement practices, which should be informed by sce-
+14
+nario analysis; 
+15
+(8) the Board of Governors conducts annual as-
+16
+sessments of the capital adequacy and capital plan-
+17
+ning practices of the largest and most complex bank-
+18
+ing organizations (referred to in this section as 
+19
+‘‘stress tests’’) in order to promote a safe, sound, 
+20
+and efficient banking and financial system; 
+21
+(9) as of the date of enactment of this Act, the 
+22
+stress tests conducted by the Board of Governors are 
+23
+not designed to reflect the physical risks or transi-
+24
+tion risks posed by climate change; and 
+25
+02:31 Nov 28, 2019
+H5194
+5 
+•HR 5194 IH
+(10) the Board of Governors— 
+1
+(A) has the authority to take into account 
+2
+the potentially systemic impact of climate-re-
+3
+lated risks on the financial system; and 
+4
+(B) should develop new analytical tools 
+5
+with longer time horizons to accurately assess 
+6
+and manage the risks described in subpara-
+7
+graph (A). 
+8
+SEC. 3. DEFINITIONS. 
+9
+In this Act: 
+10
+(1) BANK
+HOLDING
+COMPANY.—The term 
+11
+‘‘bank holding company’’ has the meaning given the 
+12
+term in section 102(a) of the Financial Stability Act 
+13
+of 2010 (12 U.S.C. 5311(a)). 
+14
+(2) BOARD OF GOVERNORS.—The term ‘‘Board 
+15
+of Governors’’ means the Board of Governors of the 
+16
+Federal Reserve System. 
+17
+(3) CLIMATE SCIENCE LEADS.—The term ‘‘cli-
+18
+mate science leads’’ means— 
+19
+(A) the Administrator of the National Oce-
+20
+anic and Atmospheric Administration; 
+21
+(B) the Administrator of the Environ-
+22
+mental Protection Agency; 
+23
+(C) the Secretary of Energy; 
+24
+02:31 Nov 28, 2019
+H5194
+6 
+•HR 5194 IH
+(D) the Administrator of the National Aer-
+1
+onautics and Space Administration; 
+2
+(E) the Director of the United States Geo-
+3
+logical Survey; 
+4
+(F) the Secretary of the Interior; and 
+5
+(G) the head of any other Federal agency 
+6
+that the Board of Governors determines to be 
+7
+appropriate. 
+8
+(4) COVERED ENTITY.—The term ‘‘covered en-
+9
+tity’’ means— 
+10
+(A) a nonbank financial company or bank 
+11
+holding company that has not less than 
+12
+$250,000,000,000 in total consolidated assets; 
+13
+and 
+14
+(B) a nonbank financial company or bank 
+15
+holding company— 
+16
+(i) 
+that 
+has 
+not 
+less 
+than 
+17
+$100,000,000,000 in total consolidated as-
+18
+sets; and 
+19
+(ii) with respect to which the Board of 
+20
+Governors determines the application of 
+21
+subparagraph (C) of section 165(i)(1) of 
+22
+the Financial Stability Act of 2010 (12 
+23
+U.S.C. 5365(i)(1)), as added by section 6 
+24
+of this Act, is appropriate— 
+25
+02:31 Nov 28, 2019
+H5194
+7 
+•HR 5194 IH
+(I) to— 
+1
+(aa) prevent or mitigate 
+2
+risks to the financial stability of 
+3
+the United States; or 
+4
+(bb) promote the safety and 
+5
+soundness of the company; and 
+6
+(II) after taking into consider-
+7
+ation— 
+8
+(aa) the capital structure, 
+9
+riskiness, complexity, financial 
+10
+activities, and size of the com-
+11
+pany, including the financial ac-
+12
+tivities of any subsidiary of the 
+13
+company; and 
+14
+(bb) any other risk-related 
+15
+factor that the Board of Gov-
+16
+ernors determines to be appro-
+17
+priate. 
+18
+(5) NONBANK FINANCIAL COMPANY.—The term 
+19
+‘‘nonbank financial company’’ has the meaning given 
+20
+the term in section 102(a)(4)(C) of the Financial 
+21
+Stability Act of 2010 (12 U.S.C. 5311(a)(4)(C)). 
+22
+(6) PHYSICAL
+RISKS.—The term ‘‘physical 
+23
+risks’’ means financial risks to assets, locations, op-
+24
+02:31 Nov 28, 2019
+H5194
+8 
+•HR 5194 IH
+erations, or value chains that result from exposure 
+1
+to physical climate-related effects, including— 
+2
+(A) increased average global temperatures; 
+3
+(B) increased severity and frequency of ex-
+4
+treme weather events; 
+5
+(C) increased flooding; 
+6
+(D) sea level rise; 
+7
+(E) ocean acidification; 
+8
+(F) increased severity and frequency of 
+9
+heat waves; 
+10
+(G) increased frequency of wildfires; 
+11
+(H) decreased arability of farmland; and 
+12
+(I) decreased availability of fresh water. 
+13
+(7) TECHNICAL
+DEVELOPMENT
+GROUP.—The 
+14
+term ‘‘Technical Development Group’’ means the 
+15
+Climate Risk Scenario Technical Development Group 
+16
+established under section 4. 
+17
+(8) TRANSITION RISKS.—The term ‘‘transition 
+18
+risks’’ means financial risks that are attributable to 
+19
+climate change mitigation and adaptation, including 
+20
+efforts to reduce greenhouse gas emissions and 
+21
+strengthen resilience to the impacts of climate 
+22
+change, including— 
+23
+(A) costs relating to— 
+24
+02:31 Nov 28, 2019
+H5194
+9 
+•HR 5194 IH
+(i) international treaties and agree-
+1
+ments; 
+2
+(ii) Federal, State, and local policies; 
+3
+(iii) new technologies; 
+4
+(iv) changing markets; 
+5
+(v) reputational impacts relevant to 
+6
+changing consumer behavior; and 
+7
+(vi) litigation; and 
+8
+(B) a loss in the value, or the stranding, 
+9
+of assets due to any of the costs described in 
+10
+clauses (i) through (vi) of subparagraph (A). 
+11
+(9) VALUE CHAIN.—The term ‘‘value chain’’— 
+12
+(A) means the total lifecycle of a product 
+13
+or service, both before and after production of 
+14
+the product or service, as applicable; and 
+15
+(B) may include the sourcing of materials, 
+16
+production, and disposal with respect to the 
+17
+product or service described in subparagraph 
+18
+(A). 
+19
+SEC. 4. CLIMATE RISK SCENARIO TECHNICAL DEVELOP-
+20
+MENT GROUP. 
+21
+(a) ESTABLISHMENT.—The Board of Governors shall 
+22
+establish a technical advisory group to be known as the 
+23
+Climate Risk Scenario Technical Development Group. 
+24
+(b) MEMBERSHIP.— 
+25
+02:31 Nov 28, 2019
+H5194
+10 
+•HR 5194 IH
+(1) COMPOSITION.—The Technical Develop-
+1
+ment Group shall be composed of 10 members— 
+2
+(A) 5 of whom shall be climate scientists; 
+3
+and 
+4
+(B) 5 of whom shall be economists, with 
+5
+expertise in either the United States financial 
+6
+system or the risks posed by climate change. 
+7
+(2) SELECTION.—The Board of Governors shall 
+8
+select the members of the Technical Development 
+9
+Group after consultation with the climate science 
+10
+leads. 
+11
+(c) DUTIES.—The Technical Development Group 
+12
+shall— 
+13
+(1) provide recommendations to the Board of 
+14
+Governors regarding the development of, and up-
+15
+dates to, the climate change risk scenarios under 
+16
+section 5; 
+17
+(2) after the establishment of the climate 
+18
+change risk scenarios under section 5, determine the 
+19
+financial and economic risks resulting from those 
+20
+scenarios; 
+21
+(3) make any final work product and any data 
+22
+sets or other inputs used in the development of the 
+23
+final work product, publicly available; and 
+24
+02:31 Nov 28, 2019
+H5194
+11 
+•HR 5194 IH
+(4) provide technical assistance to covered enti-
+1
+ties on assessing physical risks or transition risks. 
+2
+(d) INAPPLICABILITY OF FEDERAL ADVISORY COM-
+3
+MITTEE ACT.—The Federal Advisory Committee Act (5 
+4
+U.S.C. App.) shall not apply with respect to the Technical 
+5
+Development Group. 
+6
+SEC. 5. DEVELOPMENT AND UPDATING OF CLIMATE 
+7
+CHANGE RISK SCENARIOS. 
+8
+(a) IN GENERAL.— 
+9
+(1) INITIAL DEVELOPMENT.—Not later than 1 
+10
+year after the date of enactment of this Act, the 
+11
+Board of Governors, in coordination with the climate 
+12
+science leads, and taking into consideration the rec-
+13
+ommendations of the Technical Development Group, 
+14
+shall develop 3 separate climate change risk sce-
+15
+narios as follows: 
+16
+(A) One scenario that assumes an average 
+17
+increase in global temperatures of 1.5 degrees 
+18
+Celsius above pre-industrial levels. 
+19
+(B) One scenario that assumes an average 
+20
+increase in global temperatures of 2 degrees 
+21
+Celsius above pre-industrial levels. 
+22
+(C) One scenario that— 
+23
+(i) assumes the likely and very likely 
+24
+average increase in global temperatures 
+25
+02:31 Nov 28, 2019
+H5194
+12 
+•HR 5194 IH
+that can be expected, taking into consider-
+1
+ation the extent to which national policies 
+2
+and actions relating to climate change have 
+3
+been implemented, as of the date on which 
+4
+the scenario is developed, or on which the 
+5
+scenario is updated under paragraph (2), 
+6
+as applicable; and 
+7
+(ii) does not take into consideration 
+8
+commitments for policies and actions relat-
+9
+ing to climate change that, as of the appli-
+10
+cable date described in clause (i), have not 
+11
+been implemented. 
+12
+(2) UPDATES.—After the initial development of 
+13
+the climate change risk scenarios under paragraph 
+14
+(1), the Board of Governors, in coordination with 
+15
+the climate science leads, and taking into consider-
+16
+ation the recommendations of the Technical Devel-
+17
+opment Group, shall update those scenarios once 
+18
+every 3 years. 
+19
+(3) INTERNATIONAL COORDINATION.—In devel-
+20
+oping and updating the 3 scenarios required under 
+21
+this subsection, the Board of Governors shall take 
+22
+into consideration analytic tools and best practices 
+23
+developed by international banking supervisors relat-
+24
+ing to climate risks and scenario analysis in an ef-
+25
+02:31 Nov 28, 2019
+H5194
+13 
+•HR 5194 IH
+fort to develop consistent and comparable data-driv-
+1
+en scenarios. 
+2
+(4) RECOMMENDATIONS.—If the Technical De-
+3
+velopment Group determines that the average in-
+4
+crease in global temperatures described in subpara-
+5
+graph (A) or (B) of paragraph (1) is no longer sci-
+6
+entifically valid, the Technical Development Group 
+7
+may recommend that the Board of Governors, in co-
+8
+ordination with the climate science leads, update the 
+9
+average increase in global temperatures described in 
+10
+the applicable subparagraph to reflect the most cur-
+11
+rent assessment of climate change science. 
+12
+(b) CONSIDERATIONS.—In developing and updating 
+13
+each of the 3 scenarios required under subsection (a), the 
+14
+Board of Governors, in coordination with the climate 
+15
+science leads, shall account for physical risks and transi-
+16
+tion risks that may disrupt business operations across the 
+17
+global economy, including through— 
+18
+(1) disruptions with respect to— 
+19
+(A) the sourcing of materials; 
+20
+(B) production; and 
+21
+(C) the disposal of products and services; 
+22
+(2) changes in the availability and prices of raw 
+23
+materials and other inputs; 
+24
+02:31 Nov 28, 2019
+H5194
+14 
+•HR 5194 IH
+(3) changes in agricultural production and with 
+1
+respect to food security; 
+2
+(4) direct damages to fixed assets; 
+3
+(5) increases in costs associated with insured or 
+4
+uninsured losses; 
+5
+(6) changes in asset values; 
+6
+(7) impacts on— 
+7
+(A) aggregate demand for products and 
+8
+services; 
+9
+(B) labor productivity; 
+10
+(C) asset liquidity; and 
+11
+(D) credit availability; 
+12
+(8) mass migration and increases in disease and 
+13
+mortality rates; 
+14
+(9) international conflict, as such conflict re-
+15
+lates to global economic activity and output; and 
+16
+(10) changes in any other microeconomic or 
+17
+macroeconomic condition that the Board of Gov-
+18
+ernors, in coordination with the climate science 
+19
+leads, determines to be relevant. 
+20
+SEC. 6. CLIMATE-RELATED ENHANCED SUPERVISION FOR 
+21
+CERTAIN NONBANK FINANCIAL COMPANIES 
+22
+AND BANK HOLDING COMPANIES. 
+23
+Section 165(i)(1) of the Financial Stability Act of 
+24
+2010 (12 U.S.C. 5365(i)(1)) is amended— 
+25
+02:31 Nov 28, 2019
+H5194
+15 
+•HR 5194 IH
+(1) in subparagraph (B)(i), by inserting ‘‘except 
+1
+as provided in subparagraph (C)(ii)(I),’’ before 
+2
+‘‘shall provide’’; and 
+3
+(2) by adding at the end the following: 
+4
+‘‘(C) BIENNIAL TESTS REQUIRED.— 
+5
+‘‘(i) DEFINITIONS.—In this subpara-
+6
+graph— 
+7
+‘‘(I) the term ‘capital distribu-
+8
+tion’ has the meaning given the term 
+9
+in section 225.8 of title 12, Code of 
+10
+Federal Regulations, as in effect on 
+11
+the date of enactment of this subpara-
+12
+graph; 
+13
+‘‘(II) the term ‘capital policy’ has 
+14
+the meaning given the term in section 
+15
+225.8(d)(8) of title 12, Code of Fed-
+16
+eral Regulations, as in effect on the 
+17
+date of enactment of this subpara-
+18
+graph; and 
+19
+‘‘(III) the terms ‘climate science 
+20
+leads’ and ‘covered entity’ have the 
+21
+meanings given those terms in section 
+22
+3 of the Climate Change Financial 
+23
+Risk Act of 2019. 
+24
+‘‘(ii) TESTS.— 
+25
+02:31 Nov 28, 2019
+H5194
+16 
+•HR 5194 IH
+‘‘(I) IN
+GENERAL.—Subject to 
+1
+the other requirements of this clause, 
+2
+the Board of Governors, in coordina-
+3
+tion with the appropriate primary fi-
+4
+nancial regulatory agencies and the 
+5
+climate science leads, shall conduct bi-
+6
+ennial analyses in which each covered 
+7
+entity is subject to evaluation, under 
+8
+an adverse set of conditions, of wheth-
+9
+er that covered entity has the capital, 
+10
+on a total consolidated basis, nec-
+11
+essary to absorb financial losses that 
+12
+would arise under each climate change 
+13
+risk scenario developed under section 
+14
+5 of the Climate Change Financial 
+15
+Risk Act of 2019. 
+16
+‘‘(II) INITIAL
+TESTS.—With re-
+17
+spect to each of the first 3 analyses 
+18
+conducted under subclause (I)— 
+19
+‘‘(aa) the covered entity to 
+20
+which such an analysis applies 
+21
+shall not be subject to any ad-
+22
+verse consequences as a result of 
+23
+the analysis; and 
+24
+02:31 Nov 28, 2019
+H5194
+17 
+•HR 5194 IH
+‘‘(bb) the Board of Gov-
+1
+ernors shall— 
+2
+‘‘(AA) not later than 60 
+3
+days after the date on which 
+4
+the 
+Board 
+of 
+Governors 
+5
+completes each such anal-
+6
+ysis, make a summary of the 
+7
+analysis publicly available; 
+8
+and 
+9
+‘‘(BB) submit a copy of 
+10
+the results of the analysis to 
+11
+the Committee on Banking, 
+12
+Housing, and Urban Affairs 
+13
+of the Senate and the Com-
+14
+mittee on Financial Services 
+15
+of the House of Representa-
+16
+tives. 
+17
+‘‘(III) CLIMATE
+RISK
+CAPITAL 
+18
+19
+‘‘(aa) IN GENERAL.—Except 
+20
+with respect to the first analysis 
+21
+conducted under subclause (I), 
+22
+each covered entity shall, before 
+23
+being subject to an analysis 
+24
+under that subclause, submit to 
+25
+02:31 Nov 28, 2019
+H5194
+18 
+•HR 5194 IH
+the Board of Governors a capital 
+1
+policy with respect to climate risk 
+2
+planning (referred to in this sub-
+3
+clause as a ‘climate risk capital 
+4
+policy’), which shall be based on 
+5
+the results of the most recently 
+6
+conducted analysis of the covered 
+7
+entity under that subclause. 
+8
+‘‘(bb) REJECTION.—Except 
+9
+as provided in subclause (II)(aa), 
+10
+the Board of Governors may ob-
+11
+ject to a climate risk capital pol-
+12
+icy submitted by a covered entity 
+13
+under item (aa) if the Board of 
+14
+Governors determines that— 
+15
+‘‘(AA) the covered enti-
+16
+ty has not demonstrated a 
+17
+reasonable plan to maintain 
+18
+capital above each minimum 
+19
+regulatory capital ratio on a 
+20
+pro forma basis under the 
+21
+adverse set of conditions de-
+22
+scribed in subclause (I); 
+23
+‘‘(BB) the climate risk 
+24
+capital policy is otherwise 
+25
+02:31 Nov 28, 2019
+H5194
+19 
+•HR 5194 IH
+not reasonable or appro-
+1
+priate; 
+2
+‘‘(CC) the assumptions 
+3
+and analysis underlying the 
+4
+climate risk capital policy, or 
+5
+the methodologies and prac-
+6
+tices that support the cli-
+7
+mate risk capital policy, are 
+8
+not reasonable or appro-
+9
+priate; or 
+10
+‘‘(DD) the climate risk 
+11
+capital policy otherwise con-
+12
+stitutes an unsafe or un-
+13
+sound practice. 
+14
+‘‘(cc) GENERAL
+DISTRIBU-
+15
+TION LIMITATION.—If the Board 
+16
+of Governors, under item (bb), 
+17
+objects to a climate risk capital 
+18
+policy submitted by a covered en-
+19
+tity under item (aa), the covered 
+20
+entity may not make any capital 
+21
+distribution, other than a capital 
+22
+distribution 
+arising 
+from 
+the 
+23
+issuance of a regulatory capital 
+24
+instrument eligible for inclusion 
+25
+02:31 Nov 28, 2019
+H5194
+20 
+•HR 5194 IH
+in the numerator of a minimum 
+1
+regulatory capital ratio.’’. 
+2
+SEC. 7. FINANCIAL STABILITY OVERSIGHT COUNCIL. 
+3
+(a) IN GENERAL.—The Financial Stability Oversight 
+4
+Council shall establish a subcommittee of the Council that 
+5
+shall support the Council in identifying risks to, and in 
+6
+responding to emerging threats to, the stability of the 
+7
+United States financial system as a result of climate 
+8
+change. 
+9
+(b) RESPONSIBILITIES.— 
+10
+(1) SUBCOMMITTEE.—The subcommittee estab-
+11
+lished under subsection (a) shall, not later than 1 
+12
+year after the completion of the first analysis re-
+13
+quired under subparagraph (C) of section 165(i)(1) 
+14
+of the Financial Stability Act of 2010 (12 U.S.C. 
+15
+5365(i)(1)), as added by section 6 of this Act, and 
+16
+in consultation with the Office of Financial Re-
+17
+search, submit to Congress an assessment of the risk 
+18
+posed by climate change to the efficiency, competi-
+19
+tiveness, and stability of the United States financial 
+20
+system as a whole. 
+21
+(2) COUNCIL.—For each year after the year in 
+22
+which the assessment required under paragraph (1) 
+23
+is submitted, the Financial Stability Oversight Coun-
+24
+cil shall include in the annual report required under 
+25
+02:31 Nov 28, 2019
+H5194
+21 
+•HR 5194 IH
+section 112(a)(2)(N) of the Financial Stability Act 
+1
+of 2010 (12 U.S.C. 5322(a)(2)(N)) an update to 
+2
+that assessment. 
+3
+(c) COMPOSITION.—The subcommittee established 
+4
+under subsection (a) shall be composed of— 
+5
+(1) the Chairman of the Board of Governors of 
+6
+the Federal Reserve System; 
+7
+(2) the Secretary of the Treasury; 
+8
+(3) the Comptroller of the Currency; 
+9
+(4) the Chairperson of the Board of Directors 
+10
+of the Federal Deposit Insurance Corporation; 
+11
+(5) the Chairman of the Securities and Ex-
+12
+change Commission; 
+13
+(6) the Chairperson of the Commodity Futures 
+14
+Trading Commission; and 
+15
+(7) any other voting or nonvoting members that 
+16
+the Financial Stability Oversight Council determines 
+17
+to be appropriate. 
+18
+Æ 
+02:31 Nov 28, 2019
+H5194

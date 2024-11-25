@@ -1,0 +1,1190 @@
+A BILL 
+To establish a new higher education data system to allow 
+for more accurate, complete, and secure data on student 
+retention, graduation, and earnings outcomes, at all lev-
+els of postsecondary enrollment, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Student Right to Know 
+4
+Before You Go Act of 2019’’. 
+5
+21:48 Mar 21, 2019
+H1565
+2 
+•HR 1565 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) AIDED
+STUDENT.—The term ‘‘aided stu-
+3
+dent’’ means a student enrolled in an institution of 
+4
+higher education who has received assistance under 
+5
+a Federal student financial aid program. 
+6
+(2) 
+COMMISSIONER.—The 
+term 
+‘‘Commis-
+7
+sioner’’ means the Commissioner for Education Sta-
+8
+tistics. 
+9
+(3) DEPARTMENT.—The term ‘‘Department’’ 
+10
+means the Department of Education. 
+11
+(4) FEDERAL STUDENT FINANCIAL AID PRO-
+12
+GRAM.—The term ‘‘Federal student financial aid 
+13
+program’’ means any of the following: 
+14
+(A) The Federal Pell Grant program under 
+15
+subpart 1 of part A of title IV of the Higher 
+16
+Education Act of 1965 (20 U.S.C. 1070a et 
+17
+seq.). 
+18
+(B) The Federal Family Education Loan 
+19
+program under part B of such title (20 U.S.C. 
+20
+1071 et seq.). 
+21
+(C) The Federal Direct Loan program 
+22
+under part D of such title (20 U.S.C. 1087a et 
+23
+seq.). 
+24
+21:48 Mar 21, 2019
+H1565
+3 
+•HR 1565 IH
+(D) The Federal Perkins Loan program 
+1
+under part E of such title (20 U.S.C. 1087aa 
+2
+et seq.). 
+3
+(5) HIGHER EDUCATION DATA SYSTEM.—The 
+4
+term ‘‘higher education data system’’ means the 
+5
+data system established under section 3(a). 
+6
+(6) INSTITUTION OF HIGHER EDUCATION.—The 
+7
+term ‘‘institution of higher education’’ has the 
+8
+meaning given the term in section 102 of the Higher 
+9
+Education Act of 1965 (20 U.S.C. 1002). 
+10
+(7) IPEDS.—The term ‘‘IPEDS’’ means the 
+11
+Integrated Postsecondary Education Data System 
+12
+administered by the Commissioner of Education Sta-
+13
+tistics. 
+14
+(8) MACHINE-READABLE
+FORMAT.—The term 
+15
+‘‘machine-readable format’’ means a format in which 
+16
+information or data can be easily processed by a 
+17
+computer without human intervention while ensuring 
+18
+no semantic meaning is lost. 
+19
+(9) 
+PERSONALLY
+IDENTIFIABLE
+INFORMA-
+20
+TION.—The term ‘‘personally identifiable informa-
+21
+tion’’ includes— 
+22
+(A) a student’s name; 
+23
+(B) the name of a student’s parent or 
+24
+other family members; 
+25
+21:48 Mar 21, 2019
+H1565
+4 
+•HR 1565 IH
+(C) the address of a student or student’s 
+1
+family; 
+2
+(D) a personal identifier, such as a stu-
+3
+dent’s social security number, student number, 
+4
+or biometric record; 
+5
+(E) other indirect identifiers, such as a 
+6
+student’s date of birth, place of birth, and 
+7
+mother’s maiden name; 
+8
+(F) other information that, alone or in 
+9
+combination, is linked or linkable to a specific 
+10
+student that would allow a reasonable person in 
+11
+the school community, who does not have per-
+12
+sonal knowledge of the relevant circumstances, 
+13
+to identify the student with reasonable cer-
+14
+tainty; or 
+15
+(G) information requested by a person who 
+16
+the educational agency or institution reasonably 
+17
+believes knows the identity of the student to 
+18
+whom the education record relates. 
+19
+(10) REPORTING ENTITY.—The term ‘‘report-
+20
+ing entity’’ means an institution of higher education, 
+21
+Federal agency, or other entity that submits data 
+22
+components for the higher education data system. 
+23
+(11) 
+SECRETARY.—The 
+term 
+‘‘Secretary’’ 
+24
+means the Secretary of Education. 
+25
+21:48 Mar 21, 2019
+H1565
+5 
+•HR 1565 IH
+(12) SECURE
+MULTI-PARTY
+COMPUTATION.— 
+1
+The term ‘‘secure multi-party computation’’ means a 
+2
+computerized system that enables different partici-
+3
+pating entities in possession of private sets of data 
+4
+to link and aggregate their data sets for the exclu-
+5
+sive purpose of performing a finite number of pre- 
+6
+approved computations without transferring or oth-
+7
+erwise revealing any private data to each other or 
+8
+anyone else. 
+9
+(13) STUDENT-FOCUSED IPEDS METRICS.—The 
+10
+term ‘‘student-focused IPEDS metrics’’ means the 
+11
+aggregate metrics required under IPEDS, as in ef-
+12
+fect on the day before the date of enactment of this 
+13
+Act, that are student-related and calculated using 
+14
+student-related data components (such as student 
+15
+enrollment rates and graduation rates). 
+16
+SEC. 3. HIGHER EDUCATION DATA SYSTEM. 
+17
+(a) ESTABLISHMENT OF NEW DATA SYSTEM.—By 
+18
+not later than October 1, 2021, the Secretary, acting 
+19
+through the Commissioner, shall establish and maintain 
+20
+a new higher education data system that meets the re-
+21
+quirements of subsection (b). 
+22
+(b) REQUIREMENTS OF DATA SYSTEM.—The higher 
+23
+education data system shall— 
+24
+21:48 Mar 21, 2019
+H1565
+6 
+•HR 1565 IH
+(1) facilitate the compilation of statistical data 
+1
+necessary to create a robust and useful higher edu-
+2
+cation data system while minimizing the privacy and 
+3
+security risks by using commercially available tech-
+4
+nology that, at a minimum, uses technical protection 
+5
+measures that reasonably ensure that— 
+6
+(A) a reporting entity’s raw data, including 
+7
+personally identifiable information, shall not be 
+8
+accessible through the system to the Depart-
+9
+ment or any party other than the reporting en-
+10
+tity; 
+11
+(B) no information about the data compo-
+12
+nents used in the system is revealed by the sys-
+13
+tem to the Department or any other party, ex-
+14
+cept as incorporated into the outcome metrics 
+15
+described in section 5; and 
+16
+(C) no data or information that can iden-
+17
+tify an individual is revealed by the system to 
+18
+the Department or any other party; 
+19
+(2)(A) permit only the Office of the Commis-
+20
+sioner, directly and not by grant or contract, to per-
+21
+form statistical queries necessary to determine the 
+22
+outcome metrics described in section 5 using the 
+23
+data components submitted by the reporting entities; 
+24
+and 
+25
+21:48 Mar 21, 2019
+H1565
+7 
+•HR 1565 IH
+(B) prohibit, using commercially available tech-
+1
+nology, any other queries by the Department or any 
+2
+other party through the system; 
+3
+(3) be resistant, to the extent possible using 
+4
+commercially available technology, to attempts by 
+5
+any party to individually identify individuals in the 
+6
+data components submitted by reporting entities; 
+7
+and 
+8
+(4) minimize, to the extent possible using com-
+9
+mercially available technology, the privacy risks to 
+10
+individuals whose data has been submitted by a re-
+11
+porting entity that could result from data breaches 
+12
+of any system operated by the reporting entity. 
+13
+(c) CONSIDERATIONS.—In designing, establishing, 
+14
+and maintaining the higher education data system, the 
+15
+Secretary, acting through the Commissioner, shall use the 
+16
+best available cybersecurity and privacy-enhancing tech-
+17
+nologies to protect the data collected under such system 
+18
+and the privacy of the underlying individuals. In designing 
+19
+the data system, the Commissioner— 
+20
+(1) shall use secure multiparty computation 
+21
+technologies; or 
+22
+(2) may utilize technology other than secure 
+23
+multiparty computation technologies if the other 
+24
+technology— 
+25
+21:48 Mar 21, 2019
+H1565
+8 
+•HR 1565 IH
+(A) fully complies with subparagraphs (A) 
+1
+through (C) of subsection (b)(1); and 
+2
+(B) delivers greater student privacy and 
+3
+security than secure multiparty computation. 
+4
+(d) RULES AND GUIDANCE.— 
+5
+(1) IN GENERAL.—By not later than 1 year 
+6
+after the date of enactment of this Act, the Sec-
+7
+retary, acting through the Commissioner, shall issue 
+8
+rules regarding how reporting entities, and other en-
+9
+tities performing the reporting duties in accordance 
+10
+with section 4(a)(2)(B), shall comply with the re-
+11
+quirements established under this Act and the 
+12
+amendments made to the Higher Education Act of 
+13
+1965 (20 U.S.C. 1001 et seq.) by this Act. Such 
+14
+rules shall— 
+15
+(A) establish common definitions for re-
+16
+porting entities to follow in submitting the data 
+17
+components required under section 4; and 
+18
+(B) establish the collection and submission 
+19
+requirements for the higher education data sys-
+20
+tem. 
+21
+(2) PROTECTION
+OF
+DATA.—The Secretary 
+22
+shall promulgate and periodically review rules or 
+23
+guidance relating to security under this Act, which 
+24
+shall govern the access, use, and disclosure of data 
+25
+21:48 Mar 21, 2019
+H1565
+9 
+•HR 1565 IH
+collected in connection with the activities authorized 
+1
+in this Act. The rules or guidance described in this 
+2
+paragraph shall— 
+3
+(A) be consistent with the need to protect 
+4
+data from unauthorized access, use, and disclo-
+5
+sure; and 
+6
+(B) include— 
+7
+(i) an audit capability and require-
+8
+ments for routine audits; 
+9
+(ii) access controls; and 
+10
+(iii) requirements to ensure sufficient 
+11
+data security, quality, validity, and reli-
+12
+ability. 
+13
+(3) REVIEW.—Every 5 years, the Secretary 
+14
+shall review, and update as appropriate, the rules 
+15
+and guidance issued under paragraphs (1) and (2). 
+16
+(e) NOTICE.—The Secretary shall provide a clear, 
+17
+prominent, comprehensible, and non-misleading notice of 
+18
+the requirements of this section that shall— 
+19
+(1) describe how the requirements of this sec-
+20
+tion are to be implemented, and how personal infor-
+21
+mation is to be collected, used, analyzed, or retained 
+22
+pursuant to this Act; and 
+23
+(2) be posted on the website of the Department 
+24
+and made available to all reporting entities. 
+25
+21:48 Mar 21, 2019
+H1565
+10 
+•HR 1565 IH
+(f) RULE OF CONSTRUCTION.—Nothing in this sec-
+1
+tion shall be construed to place requirements or restric-
+2
+tions on activity not specifically related to establishing and 
+3
+maintaining the higher education data system. 
+4
+SEC. 4. REPORTING OF DATA COMPONENTS. 
+5
+(a) DATA COMPONENTS REPORTED
+BY INSTITU-
+6
+TIONS OF HIGHER EDUCATION.— 
+7
+(1) IN GENERAL.—By not later than October 1, 
+8
+2021, each institution of higher education partici-
+9
+pating in any Federal student financial assistance 
+10
+program shall report to the higher education data 
+11
+system— 
+12
+(A) not more than the minimum student- 
+13
+level data necessary to enable the Commissioner 
+14
+to calculate the metrics described in section 5 
+15
+for each year; and 
+16
+(B) not more than the minimum student- 
+17
+level data necessary for the Commissioner to 
+18
+calculate the student-focused IPEDS metrics 
+19
+for each year. 
+20
+(2) USE
+OF
+TECHNOLOGY.—In reporting the 
+21
+data described in paragraph (1) to the higher edu-
+22
+cation data system, the institution may— 
+23
+(A) directly report the data using the tech-
+24
+nology described in section 3(b)(1) and author-
+25
+21:48 Mar 21, 2019
+H1565
+11 
+•HR 1565 IH
+ized in a rule or guidance issued under section 
+1
+3(d); or 
+2
+(B) submit such data to a third-party ser-
+3
+vicer that has demonstrated the capacity to uti-
+4
+lize such technology and agreed to conduct the 
+5
+reporting for the institution. 
+6
+(b) DATA COMPONENTS REPORTED FROM THE SO-
+7
+CIAL SECURITY ADMINISTRATION AND THE SECRETARY 
+8
+OF THE TREASURY.—Beginning October 1, 2021, the 
+9
+Commissioner of Social Security and the Secretary of the 
+10
+Treasury shall report to the higher education data system 
+11
+the earnings data components for individuals employed in 
+12
+the United States, including the self-employed, inde-
+13
+pendent contractors, and members of the military, that— 
+14
+(1) are available to the Commissioner of Social 
+15
+Security or the Secretary, respectively; and 
+16
+(2) are necessary, as determined by the Com-
+17
+missioner for Education Statistics, for the calcula-
+18
+tion of the outcome metrics described in section 5 
+19
+for each year. 
+20
+(c) MILITARY-RELATED DATA COMPONENTS RE-
+21
+22
+SECRETARY OF VETERANS AFFAIRS.—Beginning October 
+23
+1, 2021, the Secretary of Defense and the Secretary of 
+24
+Veterans Affairs shall report to the higher education data 
+25
+21:48 Mar 21, 2019
+H1565
+12 
+•HR 1565 IH
+system the data components relating to the recipients of 
+1
+educational assistance benefits provided directly to service-
+2
+members and veterans under the laws administered by the 
+3
+Secretary of Veterans Affairs and Secretary of Defense, 
+4
+that— 
+5
+(1) are available to each such Secretary; and 
+6
+(2) are necessary, as determined by the Com-
+7
+missioner, for the calculation of the outcome metrics 
+8
+described in section 5 for each year. 
+9
+(d) FINANCIAL
+ASSISTANCE
+ELIGIBILITY
+DATA 
+10
+FROM THE SECRETARY OF EDUCATION.—Beginning Oc-
+11
+tober 1, 2021, the Secretary shall provide to the higher 
+12
+education data system the data components relating to in-
+13
+dividual eligibility for, and receipt of aid from, all Federal 
+14
+student financial aid programs that are necessary for the 
+15
+calculation of the outcome metrics described in section 5 
+16
+for each year. 
+17
+SEC. 5. ESTABLISHMENT OF NEW METRICS. 
+18
+(a) METRICS.— 
+19
+(1) IN GENERAL.—Beginning not later than 4 
+20
+years after the date of enactment of this Act and an-
+21
+nually thereafter, the Secretary, acting through the 
+22
+Commissioner, shall use the higher education data 
+23
+system to calculate only the metrics described in 
+24
+subsections (b) and (c) for each institution partici-
+25
+21:48 Mar 21, 2019
+H1565
+13 
+•HR 1565 IH
+pating in the system and, wherever applicable and 
+1
+feasible, for each program of study at the institu-
+2
+tion. 
+3
+(2) PERIOD OF DATA.—The Secretary shall cal-
+4
+culate the metrics described in subsections (b) and 
+5
+(c) for the previous year. 
+6
+(b) EDUCATION AND DEBT-RELATED METRICS.— 
+7
+(1) IN GENERAL.—The education and debt-re-
+8
+lated metrics to be calculated under the higher edu-
+9
+cation data system are the following: 
+10
+(A) All student-focused IPEDS metrics. 
+11
+(B) The percentage of students who re-
+12
+ceive each of the following: 
+13
+(i) Federal grants. 
+14
+(ii) Federal loans. 
+15
+(iii) State grants. 
+16
+(iv) State loans. 
+17
+(v) Private loans. 
+18
+(vi) Private scholarships. 
+19
+(vii) Institutional grants. 
+20
+(viii) Institutional loans. 
+21
+(C) Student completion rates, calculated 
+22
+based on the percentage of students who com-
+23
+plete the program within 100 percent, 150 per-
+24
+21:48 Mar 21, 2019
+H1565
+14 
+•HR 1565 IH
+cent, and 200 percent of normal program com-
+1
+pletion time. 
+2
+(D) The mean and median amount of Fed-
+3
+eral loan debt, including accrued interest, in-
+4
+curred by aided students while enrolled in the 
+5
+institution for the most recent award year for 
+6
+which data are available. 
+7
+(E) The mean and median amount of total 
+8
+Federal loan debt, including accrued interest, 
+9
+incurred by aided students of the institution, as 
+10
+of the date of the student’s graduation or com-
+11
+pletion of the student’s program of study. 
+12
+(F) The mean and median amount of total 
+13
+Federal loan debt, including accrued interest, of 
+14
+aided students who do not complete a program, 
+15
+measured as of the day before the student’s re-
+16
+payment period for any such loans begin. 
+17
+(G) The loan repayment rates of students 
+18
+who enrolled in the institution, as of 2, 6, and 
+19
+15 years after the date of program completion 
+20
+or exit. 
+21
+(H) Student transfer rates, which shall be 
+22
+defined as the percentage of students who leave 
+23
+an institution and successfully enroll in a pro-
+24
+gram of study at another institution, by sector 
+25
+21:48 Mar 21, 2019
+H1565
+15 
+•HR 1565 IH
+of transfer, including whether the receiving pro-
+1
+gram of study is offered by a public 4-year in-
+2
+stitution, public 2-year institution, public less- 
+3
+than-2-year institution, private nonprofit 4-year 
+4
+institution, private nonprofit 2-year institution, 
+5
+private nonprofit less-than-2-year institution, 
+6
+private for-profit 4-year institution, private for- 
+7
+profit 2-year institution, or private for-profit 
+8
+less-than-2-year institution. 
+9
+(I) Transfer student completion rates, 
+10
+which shall be defined as the percentage of stu-
+11
+dents who leave an institution, successfully en-
+12
+roll in a program of study at another institu-
+13
+tion, and complete such program of study, by 
+14
+sector of transfer (as described in subparagraph 
+15
+(H)). 
+16
+(J) Rates of continuation to subsequent 
+17
+levels of education, including lateral, higher, 
+18
+and lower levels of degree or credential progres-
+19
+sion, disaggregated by credential sought (in-
+20
+cluding master’s degree, law degree, medical de-
+21
+gree, veterinary degree, and postbaccalaureate 
+22
+certificate). 
+23
+(K) The percentage of students who re-
+24
+ceive the degree level they initially sought and 
+25
+21:48 Mar 21, 2019
+H1565
+16 
+•HR 1565 IH
+the percentage of students who receive a higher 
+1
+degree level. 
+2
+(L) The percentage of students who drop 
+3
+out of the institution without receiving a degree 
+4
+or credential. 
+5
+(2) DISAGGREGATION.— 
+6
+(A) IN
+GENERAL.—The education and 
+7
+debt-related metrics described in paragraph (1) 
+8
+shall be disaggregated and separately provided, 
+9
+except as allowed under subparagraph (B), on 
+10
+the basis of the following uncombined categories 
+11
+of data: 
+12
+(i) Students who received a Federal 
+13
+Pell Grant under subpart 1 of part A of 
+14
+title IV of the Higher Education Act of 
+15
+1965 (20 U.S.C. 1070a et seq.). 
+16
+(ii) Students who received a loan 
+17
+under part B or D of such title (20 U.S.C. 
+18
+1071 et seq.; 1087 et seq.) but not a Fed-
+19
+eral Pell Grant. 
+20
+(iii) Students who received neither a 
+21
+Federal Pell Grant, nor a loan under such 
+22
+part B or D. 
+23
+(iv) Students who are recipients of 
+24
+educational assistance benefits provided di-
+25
+21:48 Mar 21, 2019
+H1565
+17 
+•HR 1565 IH
+rectly to veterans under the law. The Sec-
+1
+retary of Veterans Affairs shall coordinate 
+2
+with the Secretary to make available data 
+3
+sufficient to enable such reporting under 
+4
+this subparagraph. 
+5
+(v) Students who are servicemembers 
+6
+or veterans. 
+7
+(vi) Enrollment status, including the 
+8
+following: 
+9
+(I) First-time, full-time students. 
+10
+(II) First-time, part-time stu-
+11
+dents. 
+12
+(III) 
+Non-first-time, 
+full-time 
+13
+students. 
+14
+(IV) 
+Non-first-time, 
+part-time 
+15
+students. 
+16
+(vii) Race or ethnicity. 
+17
+(viii) Age or age intervals. 
+18
+(ix) Gender. 
+19
+(x) 
+First-generation 
+postsecondary 
+20
+education student status. 
+21
+(xi) The type of credential (including 
+22
+a baccalaureate degree, associate’s degree, 
+23
+and a certificate) sought by the student 
+24
+through the program of study. 
+25
+21:48 Mar 21, 2019
+H1565
+18 
+•HR 1565 IH
+(xii) Whether the student is college- 
+1
+ready or non-college-ready in mathematics 
+2
+and science, as determined by the institu-
+3
+tion of higher education. 
+4
+(xiii) Completion status. 
+5
+(B) EXCEPTION.—The education and debt- 
+6
+related metrics described in a category under 
+7
+any of clauses (i) through (iv), (xi), or (xiii) of 
+8
+subparagraph (A) may be derived for purposes 
+9
+of the requirements of such subparagraph by 
+10
+combining data for such category with another 
+11
+single category of data described in any of 
+12
+clauses (i) through (xiii) of such subparagraph. 
+13
+(c) EARNING METRICS.—The earning metrics shall 
+14
+be calculated in the following manner: 
+15
+(1) The earnings metrics shall consist of the 
+16
+debt-to-earnings ratio, and the annual earnings from 
+17
+employment, of students who enrolled in the institu-
+18
+tion of higher education— 
+19
+(A) calculated at the mean, median, and 
+20
+10th, 25th, 75th, and 90th percentiles of such 
+21
+students; and 
+22
+(B) further disaggregated by— 
+23
+(i) program of study and credential 
+24
+received; 
+25
+21:48 Mar 21, 2019
+H1565
+19 
+•HR 1565 IH
+(ii) the State in which the student is 
+1
+employed; and 
+2
+(iii) completion status. 
+3
+(2) The debt-to-earnings ratios and the annual 
+4
+earnings from employment calculated and disaggre-
+5
+gated under paragraph (1) shall be calculated and 
+6
+reported for students for each of the following time 
+7
+periods: 
+8
+(A) Two years after the student’s edu-
+9
+cational program completion or exit. 
+10
+(B) Six years after the student’s edu-
+11
+cational program completion or exit. 
+12
+(C) Fifteen years after the student’s edu-
+13
+cational program completion or exit. 
+14
+SEC. 6. TRANSITION. 
+15
+(a) 
+ENSURING
+COMPARABILITY
+OF
+DATA 
+16
+METRICS.—For a period of 5 years beginning on the date 
+17
+on which the new outcome metrics under this Act are first 
+18
+reported to the public under section 7(a), the Secretary 
+19
+shall be responsible for publishing all student-focused 
+20
+IPEDS metrics as required under IPEDS as of the day 
+21
+before the date of enactment of this Act. 
+22
+(b) TRANSITION.—Beginning 5 years after the date 
+23
+on which the new outcome metrics under this Act are first 
+24
+reported to the public under section 7(a), the higher edu-
+25
+21:48 Mar 21, 2019
+H1565
+20 
+•HR 1565 IH
+cation data system shall replace any separate reporting or 
+1
+data collection requirements under IPEDS involving the 
+2
+student-focused IPEDS metrics. 
+3
+SEC. 7. DISCLOSURE AND USE OF DATA. 
+4
+(a) IN GENERAL.—The Secretary shall— 
+5
+(1) make the outcome metrics described in sec-
+6
+tion 5 for each year available on the website of the 
+7
+Department and through any other appropriate 
+8
+method, in a timely and user-friendly manner; and 
+9
+(2) publish such outcome metrics in a machine- 
+10
+readable format— 
+11
+(A) on the website of the Department and 
+12
+through any other appropriate method; and 
+13
+(B) in a timely manner. 
+14
+(b) SALE OF DATA COMPONENTS PROHIBITED.—The 
+15
+Secretary shall not sell any data components collected for 
+16
+the higher education data system to any third party. 
+17
+SEC. 8. RULE OF CONSTRUCTION. 
+18
+Nothing in this Act shall be construed to affect any 
+19
+other activity related to data collection undertaken by the 
+20
+Department of Education or any other Federal agency 
+21
+that is authorized under any other Federal law, except as 
+22
+provided under section 6 with respect to the collection of 
+23
+the IPEDS student-focused metrics. 
+24
+21:48 Mar 21, 2019
+H1565
+21 
+•HR 1565 IH
+SEC. 9. AMENDMENTS TO THE HIGHER EDUCATION ACT OF 
+1
+1965. 
+2
+(a) REMOVING DUPLICATIVE REQUIREMENTS.—The 
+3
+Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) 
+4
+is amended— 
+5
+(1) in section 132(i)(4), by inserting at the end 
+6
+the following: ‘‘, subject to the requirements of the 
+7
+Student Right to Know Before You Go Act of 2019 
+8
+and until the Secretary determines that the transi-
+9
+tion to the higher education data system established 
+10
+under such Act has occurred.’’; and 
+11
+(2) in section 485, by adding at the end the fol-
+12
+lowing: 
+13
+‘‘(n) ALIGNMENT WITH INSTITUTIONAL REPORTING 
+14
+REQUIREMENTS.— 
+15
+‘‘(1) IN GENERAL.—Not later than 1 year after 
+16
+the date of enactment of the Student Right to Know 
+17
+Before You Go Act of 2019, the Secretary shall 
+18
+issue guidance outlining which data metrics required 
+19
+to be submitted by institutions of higher education 
+20
+under such Act are duplicative of institutional re-
+21
+porting requirements under this section or other re-
+22
+quirements under such Act. 
+23
+‘‘(2) LINK
+TO
+INSTITUTIONAL
+REPORTING 
+24
+WEBSITE.— 
+25
+21:48 Mar 21, 2019
+H1565
+22 
+•HR 1565 IH
+‘‘(A) IN GENERAL.—Not later than 5 years 
+1
+after the date of enactment of the Student 
+2
+Right to Know Before You Go Act of 2019, an 
+3
+institution of higher education participating in 
+4
+any program under this title shall— 
+5
+‘‘(i) notwithstanding any other provi-
+6
+sion of law, not be required to meet any 
+7
+duplicative requirements identified under 
+8
+paragraph (1); and 
+9
+‘‘(ii) provide a prominently displayed 
+10
+link on the institution’s website to the 
+11
+website of the Department that provides 
+12
+the outcome metrics of the higher edu-
+13
+cation data system established under the 
+14
+Student Right to Know Before You Go Act 
+15
+of 2019. 
+16
+‘‘(B) REQUIREMENTS OF LINK.—The link 
+17
+described in subparagraph (A)(ii) shall— 
+18
+‘‘(i) at a minimum, be included on 
+19
+any webpage for the institution with cost, 
+20
+financial aid, admissions, or other con-
+21
+sumer information; and 
+22
+‘‘(ii) be clear, conspicuous, and readily 
+23
+accessible, as determined by the Sec-
+24
+retary.’’. 
+25
+21:48 Mar 21, 2019
+H1565
+23 
+•HR 1565 IH
+SEC. 10. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There are authorized to be appropriated to carry out 
+2
+this Act such sums as may be necessary for each of fiscal 
+3
+years 2020 through 2028. 
+4
+Æ 
+21:48 Mar 21, 2019
+H1565

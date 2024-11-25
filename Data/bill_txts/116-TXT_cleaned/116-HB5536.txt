@@ -1,0 +1,319 @@
+A BILL 
+To require the National Oceanic and Atmospheric Adminis-
+tration to make certain operational models available to 
+the public, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Learning Excellence 
+4
+and Good Examples from New Developers Act of 2019’’ 
+5
+or the ‘‘LEGEND Act of 2019’’. 
+6
+SEC. 2. DEFINITIONS. 
+7
+In this Act: 
+8
+18:41 Dec 29, 2019
+H5536
+2 
+•HR 5536 IH
+(1) ADMINISTRATION.—The term ‘‘Administra-
+1
+tion’’ means the National Oceanic and Atmospheric 
+2
+Administration. 
+3
+(2) ADMINISTRATOR.—The term ‘‘Adminis-
+4
+trator’’ means the Under Secretary of Commerce for 
+5
+Oceans and Atmosphere and Administrator of the 
+6
+National Oceanic and Atmospheric Administration. 
+7
+(3) MODEL.—The term ‘‘model’’ means any nu-
+8
+merical model of the Earth’s system or its compo-
+9
+nents produced by scientists employed by the Ad-
+10
+ministration. 
+11
+(4) OPERATIONAL
+MODEL.—The term ‘‘oper-
+12
+ational model’’ means any model that has an output 
+13
+used by the Administration for operational or public 
+14
+service functions. 
+15
+(5) OPEN
+SOURCE
+CODE.—The term ‘‘open 
+16
+source code’’ means computer code or programming 
+17
+language that is available for public use or modifica-
+18
+tion. 
+19
+SEC. 3. PURPOSES. 
+20
+The purposes of this Act are— 
+21
+(1) to support innovation in modeling by allow-
+22
+ing interested stakeholders to have easy and com-
+23
+plete access to the models used by the Administra-
+24
+tion; and 
+25
+18:41 Dec 29, 2019
+H5536
+3 
+•HR 5536 IH
+(2) to use vetted innovations arising from ac-
+1
+cess provided under paragraph (1) to improve mod-
+2
+eling by the Administration. 
+3
+SEC. 4. REQUIREMENT TO MAKE CERTAIN OPERATIONAL 
+4
+MODELS AVAILABLE TO THE PUBLIC. 
+5
+(a) IN GENERAL.—The Administrator shall make 
+6
+available to the public the following: 
+7
+(1) Current and future operational models de-
+8
+veloped by the Administration, in the form of open 
+9
+source code for a period consistent with applicable 
+10
+records retention requirements. 
+11
+(2) All Government-owned data, subject to re-
+12
+distribution rights, associated with such models and 
+13
+used in operational forecasting by the Administra-
+14
+tion, including— 
+15
+(A) relevant metadata; 
+16
+(B) data used for current operational fore-
+17
+casts; and 
+18
+(C) a description of intended model out-
+19
+puts. 
+20
+(b) DISCRETION TO MAKE EXPERIMENTAL OR DE-
+21
+VELOPMENT MODELS AVAILABLE.—The Administrator 
+22
+may make experimental or developmental models associ-
+23
+ated with development projects funded by the Administra-
+24
+tion available to the public as open source code. 
+25
+18:41 Dec 29, 2019
+H5536
+4 
+•HR 5536 IH
+(c) PLATFORM.—In carrying out subsections (a) and 
+1
+(b), the Administrator may use government servers, con-
+2
+tracts or agreements with a private vendor, or any other 
+3
+platform consistent with the purpose of this Act. 
+4
+(d) TECHNICAL CORRECTION.—Section 102(b) of the 
+5
+Weather Research Forecasting and Innovation Act of 
+6
+2017 (15 U.S.C. 8512(b)) is amended by redesignating 
+7
+the second paragraph (4) (as added by section 4(a) of the 
+8
+National Integrated Drought Information System Reau-
+9
+thorization Act of 2018 (Public Law 115–423)) as para-
+10
+graph (5). 
+11
+(e) PHASED IMPLEMENTATION.— 
+12
+(1) IMMEDIATE
+EFFECT
+FOR
+CERTAIN
+MOD-
+13
+ELS.—For operational models that, as of the date of 
+14
+the enactment of this Act, meet the requirements de-
+15
+scribed in paragraph (5)(E)(ii) of section 102(b) of 
+16
+the Weather Research Forecasting and Innovation 
+17
+Act of 2017 (15 U.S.C. 8512(b)), as redesignated by 
+18
+subsection (d), the Administrator shall implement 
+19
+the requirements of subsection (a) as soon as prac-
+20
+ticable after such date of enactment. 
+21
+(2) NEW
+MODELS.—For operational models 
+22
+that meet the requirements described in paragraph 
+23
+(1) and are created or substantially updated after 
+24
+the date of the enactment of this Act, the Adminis-
+25
+18:41 Dec 29, 2019
+H5536
+5 
+•HR 5536 IH
+trator shall implement the requirements of sub-
+1
+section (a) not later than 1 year after such date of 
+2
+enactment. 
+3
+SEC. 5. REQUIREMENT TO REVIEW MODELS AND LEVER-
+4
+AGE INNOVATIONS. 
+5
+The Administrator shall— 
+6
+(1) consistent with the mission of the Earth 
+7
+Prediction Innovation Center, periodically review in-
+8
+novations and improvements made by persons out-
+9
+side the Administration to the operational models 
+10
+made available to the public under section 4 in order 
+11
+to improve the accuracy and timeliness of forecasts 
+12
+of the Administration; and 
+13
+(2) if the Administrator identifies an innovation 
+14
+for such a model the Administrator considers suit-
+15
+able, develop and implement a plan to use the inno-
+16
+vation to improve the model. 
+17
+SEC. 6. REPORT ON IMPLEMENTATION. 
+18
+(a) IN GENERAL.—Not later than 1 year after the 
+19
+date of the enactment of this Act, the Administrator shall 
+20
+submit to the appropriate congressional committees a re-
+21
+port on the implementation of this Act that includes a de-
+22
+scription of— 
+23
+(1) how operational models have been made 
+24
+publicly available as required by section 4(a); and 
+25
+18:41 Dec 29, 2019
+H5536
+6 
+•HR 5536 IH
+(2) the process of the Administration under sec-
+1
+tion 5— 
+2
+(A) for engaging with interested stake-
+3
+holders to learn what innovations those stake-
+4
+holders have found; 
+5
+(B) for reviewing those innovations; and 
+6
+(C) for operationalizing innovations the 
+7
+Administrator considers suitable. 
+8
+(b) APPROPRIATE
+CONGRESSIONAL
+COMMITTEES 
+9
+DEFINED.—In this section, the term ‘‘appropriate con-
+10
+gressional committees’’ means— 
+11
+(1) the Committee on Commerce, Science, and 
+12
+Transportation and the Committee on Appropria-
+13
+tions of the Senate; and 
+14
+(2) the Committee on Science, Space, and 
+15
+Technology and the Committee on Appropriations of 
+16
+the House of Representatives. 
+17
+SEC. 7. PROTECTION OF NATIONAL SECURITY INTERESTS. 
+18
+(a) IN GENERAL.—Notwithstanding any other provi-
+19
+sion of this Act, the Administrator may withhold models 
+20
+or data used in operational weather forecasting if the Ad-
+21
+ministrator determines doing so to be necessary to protect 
+22
+the national security interests of the United States. 
+23
+(b) RULE OF CONSTRUCTION.—Nothing in this Act 
+24
+shall be construed to supersede any other provision of law 
+25
+18:41 Dec 29, 2019
+H5536
+7 
+•HR 5536 IH
+governing the protection of the national security interests 
+1
+of the United States. 
+2
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS. 
+3
+There are authorized to be appropriated to the Ad-
+4
+ministration for each of fiscal years 2021 through 2026 
+5
+such sums as may be necessary to carry out this Act. 
+6
+Æ 
+18:41 Dec 29, 2019
+H5536

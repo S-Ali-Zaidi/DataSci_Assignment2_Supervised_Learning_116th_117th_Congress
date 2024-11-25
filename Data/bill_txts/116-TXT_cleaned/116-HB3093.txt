@@ -1,0 +1,715 @@
+A BILL 
+To establish acquisition pathways for software applications 
+and software upgrades and software development and 
+software acquisition training and management programs 
+for the Department of Defense, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Creating Opportunities 
+4
+through Defense Engineering Requirements Act of 2019’’ 
+5
+or the ‘‘CODER Act of 2019’’. 
+6
+00:32 Jun 12, 2019
+H3093
+2 
+•HR 3093 IH
+SEC. 2. ESTABLISHMENT OF ACQUISITION PATHWAYS FOR 
+1
+SOFTWARE APPLICATIONS AND SOFTWARE 
+2
+UPGRADES. 
+3
+(a) GUIDANCE REQUIRED.—Not later than March 1, 
+4
+2020, the Secretary of Defense shall establish guidance 
+5
+authorizing the use of acquisition pathways described in 
+6
+subsection (b) for the rapid acquisition of software appli-
+7
+cations and software upgrades that are intended to be 
+8
+fielded within one year. A contract awarded under this sec-
+9
+tion— 
+10
+(1) shall be in an amount equal to or less than 
+11
+$50,000,000; and 
+12
+(2) may be entered into for a period of not 
+13
+more than one year. 
+14
+(b) SOFTWARE ACQUISITION PATHWAYS.—The guid-
+15
+ance required by subsection (a) shall provide for the use 
+16
+of the following two acquisition pathways: 
+17
+(1) APPLICATIONS.—The applications pathway 
+18
+shall provide for the use of rapid development and 
+19
+implementation of software applications to be used 
+20
+with commercially available hardware. 
+21
+(2) UPGRADES.—The upgrades pathway shall 
+22
+provide for the rapid development and insertion of 
+23
+software upgrades for embedded weapon systems or 
+24
+another hardware system solely used by the Depart-
+25
+ment of Defense. 
+26
+00:32 Jun 12, 2019
+H3093
+3 
+•HR 3093 IH
+(c) GENERAL REQUIREMENTS.—The guidance re-
+1
+quired by subsection (a) shall provide for— 
+2
+(1) the use of proven technologies and solutions 
+3
+to continuously engineer, update, and deliver capa-
+4
+bilities in software; and 
+5
+(2) a streamlined and coordinated require-
+6
+ments, budget, and acquisition process that results 
+7
+in the rapid fielding of software applications and 
+8
+software upgrades. 
+9
+(d) EXPEDITED PROCESS.— 
+10
+(1) IN
+GENERAL.—An acquisition conducted 
+11
+under the guidance required by subsection (a) shall 
+12
+not be subject to the Joint Capabilities Integration 
+13
+and Development System Manual and Department 
+14
+of Defense Directive 5000.01, except to the extent 
+15
+specifically provided in such guidance. 
+16
+(2) REQUIREMENTS
+PROCESS.—The guidance 
+17
+required by subsection (a) shall provide that the re-
+18
+quirements for acquisition of software applications 
+19
+and software upgrades— 
+20
+(A) are developed, refined, and prioritized 
+21
+on an iterative basis through continuous partici-
+22
+pation and collaboration by users, testers, and 
+23
+requirements authorities; 
+24
+00:32 Jun 12, 2019
+H3093
+4 
+•HR 3093 IH
+(B) include an identification of the need 
+1
+for, and users of, the software to be acquired 
+2
+and a rationale for how the software will sup-
+3
+port increased efficiency of the Department of 
+4
+Defense; 
+5
+(C) are stated in the form of a summary- 
+6
+level list of vulnerabilities in existing software 
+7
+systems and desired features or capabilities of 
+8
+the software to be acquired; and 
+9
+(D) consider issues related to lifecycle 
+10
+costs, systems interoperability, and logistics 
+11
+support if the developer of the software to be 
+12
+acquired stops providing support. 
+13
+(3) EXECUTION OF RAPID ACQUISITIONS.—The 
+14
+Secretary shall ensure that— 
+15
+(A) an acquisition conducted under the 
+16
+guidance required by subsection (a) is sup-
+17
+ported by an entity capable of regular auto-
+18
+mated testing of the source code of the software 
+19
+to be acquired and that such entity is author-
+20
+ized to buy storage, bandwidth, and computing 
+21
+capability as necessary; 
+22
+(B) the Department of Defense can collect 
+23
+and analyze the testing data described in sub-
+24
+02:08 Jun 12, 2019
+H3093
+5 
+•HR 3093 IH
+paragraph (A) to make decisions regarding soft-
+1
+ware acquisition and oversight; 
+2
+(C) the Director of Operational Test and 
+3
+Evaluation and the project manager appointed 
+4
+under paragraph (5) design test cases to ensure 
+5
+that the entity described in subparagraph (A) 
+6
+can test the software to be acquired to ensure 
+7
+such software meets the requirements of the 
+8
+contract; 
+9
+(D) the project manager appointed under 
+10
+paragraph (5) closely monitors the progress of 
+11
+an acquisition conducted under the guidance re-
+12
+quired by subsection (a); 
+13
+(E) an independent cost estimate is con-
+14
+ducted that considers— 
+15
+(i) the iterative process of the develop-
+16
+ment of the software to be acquired; and 
+17
+(ii) the long-term value of the soft-
+18
+ware to be acquired to the Department of 
+19
+Defense, not based on the value of indi-
+20
+vidual lines of source code of the software; 
+21
+(F) the performance of fielded versions of 
+22
+the software to be acquired are demonstrated 
+23
+and evaluated in an operational environment; 
+24
+and 
+25
+00:32 Jun 12, 2019
+H3093
+6 
+•HR 3093 IH
+(G) performance metrics of the software to 
+1
+be acquired, such as metrics relating to when 
+2
+the software can be fielded, delivery capabilities 
+3
+of the software (including speed of recovery 
+4
+from outages and cybersecurity vulnerabilities), 
+5
+and assessments and estimations of the size 
+6
+and complexity of such software, are automati-
+7
+cally generated on a continuous basis and made 
+8
+available to the Department of Defense and the 
+9
+congressional defense committees. 
+10
+(4) ADMINISTRATION OF SOFTWARE ACQUISI-
+11
+TION PATHWAYS.—The guidance required by sub-
+12
+section (a) may provide for the use of any of the fol-
+13
+lowing streamlined procedures: 
+14
+(A) The service acquisition executive of the 
+15
+military department concerned shall appoint a 
+16
+project manager for each acquisition of software 
+17
+applications and software upgrades, as deter-
+18
+mined by the service acquisition executive. Such 
+19
+project manager shall be appointed from among 
+20
+civilian employees or members of the Armed 
+21
+Forces who have significant and relevant expe-
+22
+rience in current software processes. 
+23
+(B) Each project manager shall report 
+24
+with respect to such acquisition directly, and 
+25
+02:08 Jun 12, 2019
+H3093
+7 
+•HR 3093 IH
+without intervening review or approval, to the 
+1
+service acquisition executive of the military de-
+2
+partment concerned. 
+3
+(C) The service acquisition executive of the 
+4
+military department concerned shall evaluate 
+5
+the job performance of such manager on an an-
+6
+nual basis. In conducting an evaluation under 
+7
+this paragraph, a service acquisition executive 
+8
+shall consider the extent to which the manager 
+9
+has achieved the objectives of the acquisition 
+10
+for which the manager is responsible, including 
+11
+quality, timeliness, and cost objectives. 
+12
+(D) The project manager shall be author-
+13
+ized staff positions for a technical staff, includ-
+14
+ing experts in software engineering to enable 
+15
+the manager to manage the acquisition without 
+16
+the technical assistance of another organiza-
+17
+tional unit of an agency to the maximum extent 
+18
+practicable. 
+19
+(E) The project manager shall be author-
+20
+ized, in coordination with the users and testers 
+21
+of the software to be acquired, to make trade-
+22
+offs among lifecycle costs, requirements, and 
+23
+schedules to meet the goals of the acquisition. 
+24
+00:32 Jun 12, 2019
+H3093
+8 
+•HR 3093 IH
+(F) The service acquisition executive or the 
+1
+Under Secretary of Defense for Acquisition and 
+2
+Sustainment, as applicable, shall serve as the 
+3
+decision authority for the acquisition. 
+4
+(G) The project manager of a defense 
+5
+streamlined acquisition shall be provided a 
+6
+process to expeditiously seek a waiver from 
+7
+Congress from any statutory or regulatory re-
+8
+quirement that the project manager determines 
+9
+adds little or no value to the management of 
+10
+the acquisition. 
+11
+(e) CONTRACT TERMS.— 
+12
+(1) IN GENERAL.—A contract entered into pur-
+13
+suant to the guidance required by subsection (a)— 
+14
+(A) may be awarded within a 90-day pe-
+15
+riod after solicitation on the basis of— 
+16
+(i) statements of qualifications and 
+17
+past 
+performance 
+data 
+submitted 
+by 
+18
+offerors; and 
+19
+(ii) discussions with two or more 
+20
+qualified offerors without regard to price; 
+21
+(B) may be a time-and-materials contract; 
+22
+(C) shall be treated as a contract for the 
+23
+acquisition of commercial services (as defined in 
+24
+00:32 Jun 12, 2019
+H3093
+9 
+•HR 3093 IH
+section 103a of title 41, United States Code, as 
+1
+in effect on January 1, 2020); 
+2
+(D) shall identify the individuals to per-
+3
+form the work of the contract, and such individ-
+4
+uals may not be replaced without the advance 
+5
+written consent of the contracting officer; and 
+6
+(E) may allow for a contractor performing 
+7
+the work of the contract to review existing soft-
+8
+ware in consultation with the user community 
+9
+and incorporate user feedback to— 
+10
+(i) define and prioritize software re-
+11
+quirements; and 
+12
+(ii) design and implement new soft-
+13
+ware applications and software upgrades. 
+14
+(2) OPTIONS.—A contract entered into pursu-
+15
+ant to the guidance required by subsection (a) may 
+16
+contain an option to extend the contract once, for a 
+17
+period not to exceed one year, to complete the imple-
+18
+mentation of one or more specified software applica-
+19
+tions and software upgrades identified during the 
+20
+period of the initial contract. Such an option may 
+21
+not be in an amount greater than $100,000,000 
+22
+and— 
+23
+(A) if the option is a time-and-materials 
+24
+contract, it shall be treated as a contract for 
+25
+00:32 Jun 12, 2019
+H3093
+10 
+•HR 3093 IH
+the acquisition of commercial services (as de-
+1
+fined in section 103a of title 41, United States 
+2
+Code); and 
+3
+(B) if the option is a fixed-price contract, 
+4
+it shall be treated as a contract for the acquisi-
+5
+tion of commercial products (as defined in sec-
+6
+tion 103 of title 41, United States Code). 
+7
+(f) RULE OF CONSTRUCTION.—Nothing in this sec-
+8
+tion shall be deemed to prevent the use of other methods 
+9
+of acquisition to procure software applications and up-
+10
+grades. 
+11
+(g) CONFORMING AMENDMENT.—Section 2430(a)(2) 
+12
+of title 10, United States Code, is amended— 
+13
+(1) in subparagraph (A), by striking ‘‘or’’ at 
+14
+the end; 
+15
+(2) in subparagraph (B), by striking the period 
+16
+at the end and inserting ‘‘; or’’; and 
+17
+(3) by adding at the end the following new sub-
+18
+paragraph: 
+19
+‘‘(C) an acquisition program for software 
+20
+applications and software upgrades carried out 
+21
+using the acquisition guidance issued pursuant 
+22
+to the CODER Act of 2019.’’. 
+23
+00:32 Jun 12, 2019
+H3093
+11 
+•HR 3093 IH
+SEC. 3. SOFTWARE DEVELOPMENT AND SOFTWARE ACQUI-
+1
+SITION TRAINING AND MANAGEMENT PRO-
+2
+GRAMS. 
+3
+(a) ESTABLISHMENT OF SOFTWARE DEVELOPMENT 
+4
+AND SOFTWARE ACQUISITION TRAINING AND MANAGE-
+5
+MENT PROGRAMS.— 
+6
+(1) IN GENERAL.—The Secretary of Defense, 
+7
+acting through the Under Secretary of Defense for 
+8
+Acquisition and Sustainment and in consultation 
+9
+with the Under Secretary of Defense for Research 
+10
+and Engineering and the Chief Information Officer 
+11
+of the Department of Defense, shall establish soft-
+12
+ware development and software acquisition training 
+13
+and management programs for all software acquisi-
+14
+tion professionals, software developers, and other ap-
+15
+propriate individuals, as determined by the Secretary 
+16
+of Defense to earn a certification in software devel-
+17
+opment and software acquisition. 
+18
+(2) PROGRAM
+CONTENTS.—The programs es-
+19
+tablished under paragraph (1) shall— 
+20
+(A) develop and expand the use of special-
+21
+ized training programs for chief information of-
+22
+ficers of the military departments and the De-
+23
+fense Agencies, service acquisition executives, 
+24
+program executive officers, and program man-
+25
+agers to include training on and experience in— 
+26
+00:32 Jun 12, 2019
+H3093
+12 
+•HR 3093 IH
+(i) continuous software development; 
+1
+and 
+2
+(ii) acquisition pathways available to 
+3
+acquire software; 
+4
+(B) ensure program managers for major 
+5
+defense acquisition programs, defense business 
+6
+systems, and other software programs of the 
+7
+Department of Defense— 
+8
+(i) have demonstrated competency in 
+9
+current software processes; 
+10
+(ii) have the skills to lead a workforce 
+11
+that can quickly meet challenges, use soft-
+12
+ware tools that prioritize continuous or fre-
+13
+quent upgrades as such tools become avail-
+14
+able, take up opportunities provided by 
+15
+new innovations, and plan software activi-
+16
+ties in short iterations to learn from risks 
+17
+of software testing; and 
+18
+(iii) have the experience and training 
+19
+to delegate technical oversight and execu-
+20
+tion decisions; and 
+21
+(C) include continuing education courses 
+22
+and experiential training to help individuals 
+23
+maintain skills learned through the programs. 
+24
+(b) REPORTS.— 
+25
+00:32 Jun 12, 2019
+H3093
+13 
+•HR 3093 IH
+(1) REPORTS REQUIRED.—The Secretary shall 
+1
+submit to the congressional defense committees— 
+2
+(A) not later than 90 days after the date 
+3
+of the enactment of this Act, an initial report; 
+4
+and 
+5
+(B) not later than one year after the date 
+6
+of the enactment of this Act, a final report. 
+7
+(2) CONTENTS.—Each report required under 
+8
+paragraph (1) shall include— 
+9
+(A) the status of implementing the soft-
+10
+ware development and software acquisition 
+11
+training and management programs established 
+12
+under subsection (a)(1); 
+13
+(B) a description of the requirements for 
+14
+certification, including the requirements for 
+15
+competencies in current software processes; 
+16
+(C) a description of potential career paths 
+17
+in software development and software acquisi-
+18
+tion within the Department of Defense; 
+19
+(D) an independent assessment conducted 
+20
+by the Defense Innovation Board of the 
+21
+progress made on implementing the programs 
+22
+established under subsection (a)(1); and 
+23
+(E) any recommendations for changes to 
+24
+existing law to facilitate the implementation of 
+25
+00:32 Jun 12, 2019
+H3093
+14 
+•HR 3093 IH
+the programs established under subsection 
+1
+(a)(1). 
+2
+(c) DEFINITIONS.—In this section: 
+3
+(1) PROGRAM EXECUTIVE OFFICER; PROGRAM 
+4
+MANAGER.—The terms ‘‘program executive officer’’ 
+5
+and ‘‘program manager’’ have the meanings given 
+6
+those terms, respectively, in section 1737 of title 10, 
+7
+United States Code. 
+8
+(2) SERVICE
+ACQUISITION
+EXECUTIVE.—The 
+9
+terms ‘‘military department’’, ‘‘Defense Agency’’, 
+10
+and ‘‘service acquisition executive’’ have the mean-
+11
+ings given those terms, respectively, in section 101 
+12
+of title 10, United States Code. 
+13
+(3) MAJOR DEFENSE ACQUISITION PROGRAM.— 
+14
+The term ‘‘major defense acquisition program’’ has 
+15
+the meaning given in section 2430 of title 10, 
+16
+United States Code. 
+17
+(4) DEFENSE
+BUSINESS
+SYSTEM.—The term 
+18
+‘‘defense business system’’ has the meaning given in 
+19
+section 2222(i)(1) of title 10, United States Code. 
+20
+Æ 
+00:32 Jun 12, 2019
+H3093

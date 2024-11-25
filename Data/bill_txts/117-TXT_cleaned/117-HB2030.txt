@@ -1,0 +1,1817 @@
+A BILL 
+To establish a postsecondary student data system. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘College Transparency 
+4
+Act’’. 
+5
+SEC. 2. POSTSECONDARY STUDENT DATA SYSTEM. 
+6
+Section 132 of the Higher Education Act of 1965 (20 
+7
+U.S.C. 1015a) is amended— 
+8
+(1) by redesignating subsection (l) as subsection 
+9
+(m); and 
+10
+02:06 May 22, 2021
+H2030
+2 
+•HR 2030 IH
+(2) by inserting after subsection (k) the fol-
+1
+lowing: 
+2
+‘‘(l) POSTSECONDARY STUDENT DATA SYSTEM.— 
+3
+‘‘(1) IN GENERAL.— 
+4
+‘‘(A) ESTABLISHMENT
+OF
+SYSTEM.—Not 
+5
+later than 4 years after the date of enactment 
+6
+of the College Transparency Act, the Commis-
+7
+sioner of the National Center for Education 
+8
+Statistics (referred to in this subsection as the 
+9
+‘Commissioner’) shall develop and maintain a 
+10
+secure, privacy-protected postsecondary student- 
+11
+level data system in order to— 
+12
+‘‘(i) accurately evaluate student en-
+13
+rollment patterns, progression, completion, 
+14
+and postcollegiate outcomes, and higher 
+15
+education costs and financial aid; 
+16
+‘‘(ii) assist with transparency, institu-
+17
+tional improvement, and analysis of Fed-
+18
+eral aid programs; 
+19
+‘‘(iii) provide accurate, complete, and 
+20
+customizable information for students and 
+21
+families making decisions about postsec-
+22
+ondary education; and 
+23
+‘‘(iv) reduce the reporting burden on 
+24
+institutions of higher education, in accord-
+25
+02:06 May 22, 2021
+H2030
+3 
+•HR 2030 IH
+ance with section 5(b) of the College 
+1
+Transparency Act. 
+2
+‘‘(B) AVOIDING
+DUPLICATED
+REPORT-
+3
+ING.—Notwithstanding any other provision of 
+4
+this section, to the extent that another provi-
+5
+sion of this section requires the same reporting 
+6
+or collection of data that is required under this 
+7
+subsection, an institution of higher education, 
+8
+or the Secretary or Commissioner, may use the 
+9
+reporting or data required for the postsec-
+10
+ondary student data system under this sub-
+11
+section to satisfy both requirements. 
+12
+‘‘(C) DEVELOPMENT PROCESS.—In devel-
+13
+oping the postsecondary student data system 
+14
+described in this subsection, the Commissioner 
+15
+shall— 
+16
+‘‘(i) focus on the needs of— 
+17
+‘‘(I) users of the data system; 
+18
+and 
+19
+‘‘(II) entities, including institu-
+20
+tions of higher education, reporting to 
+21
+the data system; 
+22
+‘‘(ii) take into consideration, to the 
+23
+extent practicable— 
+24
+02:06 May 22, 2021
+H2030
+4 
+•HR 2030 IH
+‘‘(I) the guidelines outlined in the 
+1
+U.S. Web Design Standards main-
+2
+tained by the General Services Admin-
+3
+istration and the Digital Services 
+4
+Playbook and TechFAR Handbook for 
+5
+Procuring 
+Digital 
+Services 
+Using 
+6
+Agile Processes of the U.S. Digital 
+7
+Service; and 
+8
+‘‘(II) the relevant successor docu-
+9
+ments or recommendations of such 
+10
+guidelines; 
+11
+‘‘(iii) use modern, relevant privacy- 
+12
+and security-enhancing technology, and en-
+13
+hance and update the data system as nec-
+14
+essary to carry out the purpose of this sub-
+15
+section; 
+16
+‘‘(iv) ensure data privacy and security 
+17
+is consistent with any Federal law relating 
+18
+to privacy or data security, including— 
+19
+‘‘(I) the requirements of sub-
+20
+chapter II of chapter 35 of title 44, 
+21
+United States Code, specifying secu-
+22
+rity categorization under the Federal 
+23
+Information Processing Standards or 
+24
+02:06 May 22, 2021
+H2030
+5 
+•HR 2030 IH
+any relevant successor of such stand-
+1
+ards; 
+2
+‘‘(II) security requirements that 
+3
+are consistent with the Federal agency 
+4
+responsibilities in section 3554 of title 
+5
+44, United States Code, or any rel-
+6
+evant successor of such responsibil-
+7
+ities; and 
+8
+‘‘(III) 
+security 
+requirements, 
+9
+guidelines, and controls consistent 
+10
+with cybersecurity standards and best 
+11
+practices developed by the National 
+12
+Institute of Standards and Tech-
+13
+nology, including frameworks, con-
+14
+sistent with section 2(c) of the Na-
+15
+tional Institute of Standards and 
+16
+Technology Act (15 U.S.C. 272(c)), or 
+17
+any relevant successor of such frame-
+18
+works; 
+19
+‘‘(v) follow Federal data minimization 
+20
+practices to ensure only the minimum 
+21
+amount of data is collected to meet the 
+22
+system’s goals, in accordance with Federal 
+23
+data minimization standards and guide-
+24
+02:06 May 22, 2021
+H2030
+6 
+•HR 2030 IH
+lines developed by the National Institute of 
+1
+Standards and Technology; and 
+2
+‘‘(vi) provide notice to students out-
+3
+lining the data included in the system and 
+4
+how the data are used. 
+5
+‘‘(2) DATA ELEMENTS.— 
+6
+‘‘(A) IN GENERAL.—Not later than 4 years 
+7
+after the date of enactment of the College 
+8
+Transparency Act, the Commissioner, in con-
+9
+sultation with the Postsecondary Student Data 
+10
+System Advisory Committee established under 
+11
+subparagraph (B), shall determine— 
+12
+‘‘(i) the data elements to be included 
+13
+in the postsecondary student data system, 
+14
+in accordance with subparagraphs (C) and 
+15
+(D); and 
+16
+‘‘(ii) how to include the data elements 
+17
+required under subparagraph (C), and any 
+18
+additional data elements selected under 
+19
+subparagraph (D), in the postsecondary 
+20
+student data system. 
+21
+‘‘(B) POSTSECONDARY
+STUDENT
+DATA 
+22
+SYSTEM ADVISORY COMMITTEE.— 
+23
+‘‘(i) 
+ESTABLISHMENT.—Not 
+later 
+24
+than 2 years after the date of enactment 
+25
+02:06 May 22, 2021
+H2030
+7 
+•HR 2030 IH
+of the College Transparency Act, the Com-
+1
+missioner shall establish a Postsecondary 
+2
+Student Data System Advisory Committee 
+3
+(referred to in this subsection as the ‘Advi-
+4
+sory Committee’), whose members shall in-
+5
+clude— 
+6
+‘‘(I) the Chief Privacy Officer of 
+7
+the Department or an official of the 
+8
+Department delegated the duties of 
+9
+overseeing data privacy at the Depart-
+10
+ment; 
+11
+‘‘(II) the Chief Security Officer 
+12
+of the Department or an official of 
+13
+the Department delegated the duties 
+14
+of overseeing data security at the De-
+15
+partment; 
+16
+‘‘(III) representatives of diverse 
+17
+institutions of higher education, which 
+18
+shall include equal representation be-
+19
+tween 2-year and 4-year institutions 
+20
+of higher education, and from public, 
+21
+nonprofit, and proprietary institutions 
+22
+of higher education, including minor-
+23
+ity-serving institutions; 
+24
+02:06 May 22, 2021
+H2030
+8 
+•HR 2030 IH
+‘‘(IV) representatives from State 
+1
+higher education agencies, entities, 
+2
+bodies, or boards; 
+3
+‘‘(V) representatives of postsec-
+4
+ondary students; 
+5
+‘‘(VI) representatives from rel-
+6
+evant Federal agencies; and 
+7
+‘‘(VII) other stakeholders (in-
+8
+cluding individuals with expertise in 
+9
+data privacy and security, consumer 
+10
+protection, and postsecondary edu-
+11
+cation research). 
+12
+‘‘(ii) REQUIREMENTS.—The Commis-
+13
+sioner shall ensure that the Advisory Com-
+14
+mittee— 
+15
+‘‘(I) adheres to all requirements 
+16
+under the Federal Advisory Com-
+17
+mittee Act (5 U.S.C. App.); 
+18
+‘‘(II) establishes operating and 
+19
+meeting procedures and guidelines 
+20
+necessary to execute its advisory du-
+21
+ties; and 
+22
+‘‘(III) is provided with appro-
+23
+priate staffing and resources to exe-
+24
+cute its advisory duties. 
+25
+02:06 May 22, 2021
+H2030
+9 
+•HR 2030 IH
+‘‘(C) REQUIRED
+DATA
+ELEMENTS.—The 
+1
+data elements in the postsecondary student 
+2
+data system shall include, at a minimum, the 
+3
+following: 
+4
+‘‘(i) Student-level data elements nec-
+5
+essary to calculate the information within 
+6
+the surveys designated by the Commis-
+7
+sioner as ‘student-related surveys’ in the 
+8
+Integrated Postsecondary Education Data 
+9
+System (IPEDS), as such surveys are in 
+10
+effect on the day before the date of enact-
+11
+ment of the College Transparency Act, ex-
+12
+cept that in the case that collection of such 
+13
+elements would conflict with subparagraph 
+14
+(F), such elements in conflict with sub-
+15
+paragraph (F) shall be included in the ag-
+16
+gregate instead of at the student level. 
+17
+‘‘(ii) Student-level data elements nec-
+18
+essary to allow for reporting student en-
+19
+rollment, persistence, retention, transfer, 
+20
+and completion measures for all credential 
+21
+levels separately (including certificate, as-
+22
+sociate, baccalaureate, and advanced de-
+23
+gree levels), within and across institutions 
+24
+of higher education (including across all 
+25
+02:06 May 22, 2021
+H2030
+10 
+•HR 2030 IH
+categories of institution level, control, and 
+1
+predominant degree awarded). The data 
+2
+elements shall allow for reporting about all 
+3
+such data disaggregated by the following 
+4
+categories: 
+5
+‘‘(I) Enrollment status as a first- 
+6
+time student, recent transfer student, 
+7
+or other non-first-time student. 
+8
+‘‘(II) 
+Attendance 
+intensity, 
+9
+whether full-time or part-time. 
+10
+‘‘(III) Credential-seeking status, 
+11
+by credential level. 
+12
+‘‘(IV) Race or ethnicity, in a 
+13
+manner that captures all the racial 
+14
+groups specified in the most recent 
+15
+American Community Survey of the 
+16
+Bureau of the Census. 
+17
+‘‘(V) Age intervals. 
+18
+‘‘(VI) Gender. 
+19
+‘‘(VII) Program of study (as ap-
+20
+plicable). 
+21
+‘‘(VIII) Military or veteran ben-
+22
+efit status (as determined based on 
+23
+receipt of veteran’s education benefits, 
+24
+as defined in section 480(c)). 
+25
+02:06 May 22, 2021
+H2030
+11 
+•HR 2030 IH
+‘‘(IX) Status as a distance edu-
+1
+cation student, whether exclusively or 
+2
+partially enrolled in distance edu-
+3
+cation. 
+4
+‘‘(X) Federal Pell Grant recipient 
+5
+status under section 401 and Federal 
+6
+loan recipient status under title IV, 
+7
+provided that the collection of such in-
+8
+formation complies with paragraph 
+9
+(1)(B). 
+10
+‘‘(D) OTHER DATA ELEMENTS.— 
+11
+‘‘(i) IN GENERAL.—The Commissioner 
+12
+may, after consultation with the Advisory 
+13
+Committee and provision of a public com-
+14
+ment period, include additional data ele-
+15
+ments in the postsecondary student data 
+16
+system, such as those described in clause 
+17
+(ii), if those data elements— 
+18
+‘‘(I) are necessary to ensure that 
+19
+the postsecondary data system fulfills 
+20
+the purposes described in paragraph 
+21
+(1)(A); and 
+22
+‘‘(II) are consistent with data 
+23
+minimization principles, including the 
+24
+collection of only those additional ele-
+25
+02:06 May 22, 2021
+H2030
+12 
+•HR 2030 IH
+ments that are necessary to ensure 
+1
+such purposes. 
+2
+‘‘(ii) DATA ELEMENTS.—The data ele-
+3
+ments described in clause (i) may in-
+4
+clude— 
+5
+‘‘(I) status as a first generation 
+6
+college student, as defined in section 
+7
+402A(h); 
+8
+‘‘(II) economic status; 
+9
+‘‘(III) participation in postsec-
+10
+ondary remedial coursework or gate-
+11
+way course completion; or 
+12
+‘‘(IV) other data elements that 
+13
+are necessary in accordance with 
+14
+clause (i). 
+15
+‘‘(E) REEVALUATION.—Not less than once 
+16
+every 3 years after the implementation of the 
+17
+postsecondary student data system described in 
+18
+this subsection, the Commissioner, in consulta-
+19
+tion with the Advisory Committee described in 
+20
+subparagraph (B), shall review the data ele-
+21
+ments included in the postsecondary student 
+22
+data system and may revise the data elements 
+23
+to be included in such system. 
+24
+02:06 May 22, 2021
+H2030
+13 
+•HR 2030 IH
+‘‘(F) PROHIBITIONS.—The Commissioner 
+1
+shall not include individual health data (includ-
+2
+ing data relating to physical health or mental 
+3
+health), student discipline records or data, ele-
+4
+mentary and secondary education data, an 
+5
+exact address, citizenship status, migrant sta-
+6
+tus, or national origin status for students or 
+7
+their families, course grades, postsecondary en-
+8
+trance examination results, political affiliation, 
+9
+or religion in the postsecondary student data 
+10
+system under this subsection. 
+11
+‘‘(3) PERIODIC MATCHING WITH OTHER FED-
+12
+ERAL DATA SYSTEMS.— 
+13
+‘‘(A) DATA SHARING AGREEMENTS.— 
+14
+‘‘(i) The Commissioner shall ensure 
+15
+secure, periodic data matches by entering 
+16
+into data sharing agreements with each of 
+17
+the following Federal agencies and offices: 
+18
+‘‘(I) The Secretary of the Treas-
+19
+ury and the Commissioner of the In-
+20
+ternal Revenue Service, in order to 
+21
+calculate aggregate program- and in-
+22
+stitution-level earnings of postsec-
+23
+ondary students. 
+24
+02:06 May 22, 2021
+H2030
+14 
+•HR 2030 IH
+‘‘(II) The Secretary of Defense, 
+1
+in order to assess the use of postsec-
+2
+ondary educational benefits and the 
+3
+outcomes of servicemembers. 
+4
+‘‘(III) The Secretary of Veterans 
+5
+Affairs, in order to assess the use of 
+6
+postsecondary 
+educational 
+benefits 
+7
+and outcomes of veterans. 
+8
+‘‘(IV) The Director of the Bu-
+9
+reau of the Census, in order to assess 
+10
+the earnings outcomes of former post-
+11
+secondary education students. 
+12
+‘‘(V) The Chief Operating Officer 
+13
+of the Office of Federal Student Aid, 
+14
+in order to analyze the use of postsec-
+15
+ondary educational benefits provided 
+16
+under this Act. 
+17
+‘‘(VI) The Commissioner of the 
+18
+Social Security Administration, in 
+19
+order to evaluate labor market out-
+20
+comes of former postsecondary edu-
+21
+cation students. 
+22
+‘‘(VII) The Commissioner of the 
+23
+Bureau of Labor Statistics, in order 
+24
+02:06 May 22, 2021
+H2030
+15 
+•HR 2030 IH
+to assess the wages of former postsec-
+1
+ondary education students. 
+2
+‘‘(ii) The heads of Federal agencies 
+3
+and offices described under clause (i) shall 
+4
+enter into data sharing agreements with 
+5
+the Commissioner to ensure secure, peri-
+6
+odic data matches as described in this 
+7
+paragraph. 
+8
+‘‘(B) CATEGORIES
+OF
+DATA.—The Com-
+9
+missioner shall, at a minimum, seek to ensure 
+10
+that the secure periodic data system matches 
+11
+described in subparagraph (A) permit con-
+12
+sistent reporting of the following categories of 
+13
+data for all postsecondary students: 
+14
+‘‘(i) Enrollment, retention, transfer, 
+15
+and completion outcomes for all postsec-
+16
+ondary students. 
+17
+‘‘(ii) Financial indicators for postsec-
+18
+ondary students receiving Federal grants 
+19
+and loans, including grant and loan aid by 
+20
+source, cumulative student debt, loan re-
+21
+payment status, and repayment plan. 
+22
+‘‘(iii) Post-completion outcomes for all 
+23
+postsecondary students, including earnings, 
+24
+employment, and further education, by 
+25
+02:06 May 22, 2021
+H2030
+16 
+•HR 2030 IH
+program of study and credential level and 
+1
+as measured— 
+2
+‘‘(I) immediately after leaving 
+3
+postsecondary education; and 
+4
+‘‘(II) at time intervals appro-
+5
+priate to the credential sought and 
+6
+earned. 
+7
+‘‘(C) PERIODIC
+DATA
+MATCH
+STREAM-
+8
+LINING AND CONFIDENTIALITY.— 
+9
+‘‘(i) STREAMLINING.—In carrying out 
+10
+the secure periodic data system matches 
+11
+under this paragraph, the Commissioner 
+12
+shall— 
+13
+‘‘(I) ensure that such matches 
+14
+are not continuous, but occur only pe-
+15
+riodically at appropriate intervals, as 
+16
+determined by the Commissioner to 
+17
+meet the goals of subparagraph (A); 
+18
+and 
+19
+‘‘(II) seek to— 
+20
+‘‘(aa) streamline the data 
+21
+collection and reporting require-
+22
+ments for institutions of higher 
+23
+education; 
+24
+02:06 May 22, 2021
+H2030
+17 
+•HR 2030 IH
+‘‘(bb) minimize duplicative 
+1
+reporting across or within Fed-
+2
+eral agencies or departments, in-
+3
+cluding reporting requirements 
+4
+applicable to institutions of high-
+5
+er education under the Workforce 
+6
+Innovation and Opportunity Act 
+7
+(29 U.S.C. 3101 et seq.) and the 
+8
+Carl D. Perkins Career and 
+9
+Technical Education Act of 2006; 
+10
+‘‘(cc) protect student pri-
+11
+vacy; and 
+12
+‘‘(dd) streamline the applica-
+13
+tion process for student loan ben-
+14
+efit programs available to bor-
+15
+rowers based on data available 
+16
+from different Federal data sys-
+17
+tems. 
+18
+‘‘(ii) REVIEW.—Not less often than 
+19
+once every 3 years after the establishment 
+20
+of the postsecondary student data system 
+21
+under this subsection, the Commissioner, 
+22
+in consultation with the Advisory Com-
+23
+mittee, shall review methods for stream-
+24
+lining data collection from institutions of 
+25
+02:06 May 22, 2021
+H2030
+18 
+•HR 2030 IH
+higher education and minimizing duplica-
+1
+tive reporting within the Department and 
+2
+across Federal agencies that provide data 
+3
+for the postsecondary student data system. 
+4
+‘‘(iii) CONFIDENTIALITY.—The Com-
+5
+missioner shall ensure that any periodic 
+6
+matching or sharing of data through peri-
+7
+odic data system matches established in 
+8
+accordance with this paragraph— 
+9
+‘‘(I) complies with the security 
+10
+and privacy protections described in 
+11
+paragraph (1)(C)(iv) and other Fed-
+12
+eral data protection protocols; 
+13
+‘‘(II) follows industry best prac-
+14
+tices commensurate with the sensi-
+15
+tivity of specific data elements or 
+16
+metrics; 
+17
+‘‘(III) does not result in the cre-
+18
+ation of a single standing, linked Fed-
+19
+eral database at the Department that 
+20
+maintains the information reported 
+21
+across other Federal agencies; and 
+22
+‘‘(IV) discloses to postsecondary 
+23
+students what data are included in the 
+24
+02:06 May 22, 2021
+H2030
+19 
+•HR 2030 IH
+data system and periodically matched 
+1
+and how the data are used. 
+2
+‘‘(iv) 
+CORRECTION.—The 
+Commis-
+3
+sioner, in consultation with the Advisory 
+4
+Committee, shall establish a process for 
+5
+students to request access to only their 
+6
+personal information for inspection and re-
+7
+quest corrections to inaccuracies in a man-
+8
+ner that protects the student’s personally 
+9
+identifiable information. The Commissioner 
+10
+shall respond in writing to every request 
+11
+for a correction from a student. 
+12
+‘‘(4) PUBLICLY AVAILABLE INFORMATION.— 
+13
+‘‘(A) IN
+GENERAL.—The Commissioner 
+14
+shall make the summary aggregate information 
+15
+described in subparagraph (C), at a minimum, 
+16
+publicly available through a user-friendly con-
+17
+sumer information website and analytic tool 
+18
+that— 
+19
+‘‘(i) provides appropriate mechanisms 
+20
+for users to customize and filter informa-
+21
+tion by institutional and student character-
+22
+istics; 
+23
+‘‘(ii) allows users to build summary 
+24
+aggregate reports of information, including 
+25
+02:06 May 22, 2021
+H2030
+20 
+•HR 2030 IH
+reports that allow comparisons across mul-
+1
+tiple institutions and programs, subject to 
+2
+subparagraph (B); 
+3
+‘‘(iii) uses appropriate statistical dis-
+4
+closure limitation techniques necessary to 
+5
+ensure that the data released to the public 
+6
+cannot be used to identify specific individ-
+7
+uals; and 
+8
+‘‘(iv) provides users with appropriate 
+9
+contextual factors to make comparisons, 
+10
+which may include national median figures 
+11
+of the summary aggregate information de-
+12
+scribed in subparagraph (C). 
+13
+‘‘(B) NO PERSONALLY IDENTIFIABLE IN-
+14
+FORMATION AVAILABLE.—The summary aggre-
+15
+gate information described in this paragraph 
+16
+shall not include personally identifiable informa-
+17
+tion. 
+18
+‘‘(C) SUMMARY AGGREGATE INFORMATION 
+19
+AVAILABLE.—The summary aggregate informa-
+20
+tion described in this paragraph shall, at a min-
+21
+imum, include each of the following for each in-
+22
+stitution of higher education: 
+23
+‘‘(i) Measures of student access, in-
+24
+cluding— 
+25
+02:06 May 22, 2021
+H2030
+21 
+•HR 2030 IH
+‘‘(I) admissions selectivity and 
+1
+yield; and 
+2
+‘‘(II) enrollment, disaggregated 
+3
+by each category described in para-
+4
+graph (2)(C)(ii). 
+5
+‘‘(ii) Measures of student progression, 
+6
+including retention rates and persistence 
+7
+rates, disaggregated by each category de-
+8
+scribed in paragraph (2)(C)(ii). 
+9
+‘‘(iii) Measures of student completion, 
+10
+including— 
+11
+‘‘(I) transfer rates and comple-
+12
+tion rates, disaggregated by each cat-
+13
+egory 
+described 
+in 
+paragraph 
+14
+(2)(C)(ii); and 
+15
+‘‘(II) number of completions, 
+16
+disaggregated by each category de-
+17
+scribed in paragraph (2)(C)(ii). 
+18
+‘‘(iv) Measures of student costs, in-
+19
+cluding— 
+20
+‘‘(I) tuition, required fees, total 
+21
+cost of attendance, and net price after 
+22
+total grant aid, disaggregated by in- 
+23
+State tuition or in-district tuition sta-
+24
+tus (if applicable), program of study 
+25
+02:06 May 22, 2021
+H2030
+22 
+•HR 2030 IH
+(if applicable), and credential level; 
+1
+and 
+2
+‘‘(II) typical grant amounts and 
+3
+loan amounts received by students re-
+4
+ported separately from Federal, State, 
+5
+local, and institutional sources, and 
+6
+cumulative debt, disaggregated by 
+7
+each category described in paragraph 
+8
+(2)(C)(ii) and completion status. 
+9
+‘‘(v) Measures of postcollegiate stu-
+10
+dent 
+outcomes, 
+including 
+employment 
+11
+rates, mean and median earnings, loan re-
+12
+payment and default rates, and further 
+13
+education rates. These measures shall— 
+14
+‘‘(I) be disaggregated by each 
+15
+category 
+described 
+in 
+paragraph 
+16
+(2)(C)(ii) and completion status; and 
+17
+‘‘(II) be measured immediately 
+18
+after leaving postsecondary education 
+19
+and at time intervals appropriate to 
+20
+the credential sought or earned. 
+21
+‘‘(D) DEVELOPMENT CRITERIA.—In devel-
+22
+oping the method and format of making the in-
+23
+formation described in this paragraph publicly 
+24
+available, the Commissioner shall— 
+25
+02:06 May 22, 2021
+H2030
+23 
+•HR 2030 IH
+‘‘(i) focus on the needs of the users of 
+1
+the information, which will include stu-
+2
+dents, families of students, potential stu-
+3
+dents, researchers, and other consumers of 
+4
+education data; 
+5
+‘‘(ii) take into consideration, to the 
+6
+extent practicable, the guidelines described 
+7
+in paragraph (1)(C)(ii)(I), and relevant 
+8
+successor documents or recommendations 
+9
+of such guidelines; 
+10
+‘‘(iii) use modern, relevant technology 
+11
+and enhance and update the postsecondary 
+12
+student data system with information, as 
+13
+necessary to carry out the purpose of this 
+14
+paragraph; 
+15
+‘‘(iv) ensure data privacy and security 
+16
+in accordance with standards and guide-
+17
+lines developed by the National Institute of 
+18
+Standards and Technology, and in accord-
+19
+ance with any other Federal law relating to 
+20
+privacy or security, including complying 
+21
+with the requirements of subchapter II of 
+22
+chapter 35 of title 44, United States Code, 
+23
+specifying security categorization under the 
+24
+Federal Information Processing Standards, 
+25
+02:06 May 22, 2021
+H2030
+24 
+•HR 2030 IH
+and security requirements, and setting of 
+1
+National Institute of Standards and Tech-
+2
+nology security baseline controls at the ap-
+3
+propriate level; and 
+4
+‘‘(v) conduct consumer testing to de-
+5
+termine how to make the information as 
+6
+meaningful to users as possible. 
+7
+‘‘(5) PERMISSIBLE DISCLOSURES OF DATA.— 
+8
+‘‘(A) DATA REPORTS AND QUERIES.— 
+9
+‘‘(i) IN GENERAL.—Not later than 4 
+10
+years after the date of enactment of the 
+11
+College Transparency Act, the Commis-
+12
+sioner shall develop and implement a se-
+13
+cure process for making student-level, non- 
+14
+personally identifiable information, with di-
+15
+rect identifiers removed, from the postsec-
+16
+ondary student data system available for 
+17
+vetted research and evaluation purposes 
+18
+approved by the Commissioner in a man-
+19
+ner compatible with practices for disclosing 
+20
+National Center for Education Statistics 
+21
+restricted-use survey data as in effect on 
+22
+the day before the date of enactment of the 
+23
+College Transparency Act, or by applying 
+24
+other research and disclosure restrictions 
+25
+02:06 May 22, 2021
+H2030
+25 
+•HR 2030 IH
+to ensure data privacy and security. Such 
+1
+process shall be approved by the National 
+2
+Center for Education Statistics’ Disclosure 
+3
+Review Board (or successor body). 
+4
+‘‘(ii) PROVIDING DATA REPORTS AND 
+5
+QUERIES TO INSTITUTIONS AND STATES.— 
+6
+‘‘(I) IN GENERAL.—The Commis-
+7
+sioner shall provide feedback reports, 
+8
+at least annually, to each institution 
+9
+of higher education, each postsec-
+10
+ondary education system that fully 
+11
+participates in the postsecondary stu-
+12
+dent data system, and each State 
+13
+higher education body as designated 
+14
+by the governor. 
+15
+‘‘(II) FEEDBACK REPORTS.—The 
+16
+feedback reports provided under this 
+17
+clause shall include program-level and 
+18
+institution-level information from the 
+19
+postsecondary student data system re-
+20
+garding students who are associated 
+21
+with the institution or, for State rep-
+22
+resentatives, the institutions within 
+23
+that State, on or before the date of 
+24
+the report, on measures including stu-
+25
+02:06 May 22, 2021
+H2030
+26 
+•HR 2030 IH
+dent mobility and workforce outcomes, 
+1
+provided that the feedback aggregate 
+2
+summary reports protect the privacy 
+3
+of individuals. 
+4
+‘‘(III) DETERMINATION OF CON-
+5
+TENT.—The content of the feedback 
+6
+reports shall be determined by the 
+7
+Commissioner in consultation with the 
+8
+Advisory Committee. 
+9
+‘‘(iii) PERMITTING STATE DATA QUE-
+10
+RIES.—The Commissioner shall, in con-
+11
+sultation with the Advisory Committee and 
+12
+as soon as practicable, create a process 
+13
+through which States may submit lists of 
+14
+secondary school graduates within the 
+15
+State to receive summary aggregate out-
+16
+comes for those students who enrolled at 
+17
+an institution of higher education, includ-
+18
+ing postsecondary enrollment and college 
+19
+completion, provided that those data pro-
+20
+tect the privacy of individuals and that the 
+21
+State data submitted to the Commissioner 
+22
+are not stored in the postsecondary edu-
+23
+cation system. 
+24
+02:06 May 22, 2021
+H2030
+27 
+•HR 2030 IH
+‘‘(iv) REGULATIONS.—The Commis-
+1
+sioner shall promulgate regulations to en-
+2
+sure fair, secure, and equitable access to 
+3
+data reports and queries under this para-
+4
+graph. 
+5
+‘‘(B) DISCLOSURE LIMITATIONS.—In car-
+6
+rying out the public reporting and disclosure re-
+7
+quirements of this subsection, the Commis-
+8
+sioner shall use appropriate statistical disclo-
+9
+sure limitation techniques necessary to ensure 
+10
+that the data released to the public cannot in-
+11
+clude personally identifiable information or be 
+12
+used to identify specific individuals. 
+13
+‘‘(C) SALE OF DATA PROHIBITED.—Data 
+14
+collected under this subsection, including the 
+15
+public-use data set and data comprising the 
+16
+summary aggregate information available under 
+17
+paragraph (4), shall not be sold to any third 
+18
+party by the Commissioner, including any insti-
+19
+tution of higher education or any other entity. 
+20
+‘‘(D) LIMITATION ON USE BY OTHER FED-
+21
+ERAL AGENCIES.— 
+22
+‘‘(i) IN GENERAL.—The Commissioner 
+23
+shall not allow any other Federal agency to 
+24
+02:06 May 22, 2021
+H2030
+28 
+•HR 2030 IH
+use data collected under this subsection for 
+1
+any purpose except— 
+2
+‘‘(I) for vetted research and eval-
+3
+uation conducted by the other Federal 
+4
+agency, as described in subparagraph 
+5
+(A)(i); or 
+6
+‘‘(II) for a purpose explicitly au-
+7
+thorized by this Act. 
+8
+‘‘(ii) PROHIBITION ON LIMITATION OF 
+9
+SERVICES.—The Secretary, or the head of 
+10
+any other Federal agency, shall not use 
+11
+data collected under this subsection to 
+12
+limit services to students. 
+13
+‘‘(E) 
+LAW
+ENFORCEMENT.—Personally 
+14
+identifiable information collected under this 
+15
+subsection shall not be used for any Federal, 
+16
+State, or local law enforcement activity or any 
+17
+other activity that would result in adverse ac-
+18
+tion against any student or a student’s family, 
+19
+including debt collection activity or enforcement 
+20
+of immigration laws. 
+21
+‘‘(F) LIMITATION OF USE FOR FEDERAL 
+22
+RANKINGS OR SUMMATIVE RATING SYSTEM.— 
+23
+The comprehensive data collection and analysis 
+24
+necessary for the postsecondary student data 
+25
+02:06 May 22, 2021
+H2030
+29 
+•HR 2030 IH
+system under this subsection shall not be used 
+1
+by the Secretary or any Federal entity to estab-
+2
+lish any Federal ranking system of institutions 
+3
+of higher education or a system that results in 
+4
+a summative Federal rating of institutions of 
+5
+higher education. 
+6
+‘‘(G) RULE OF CONSTRUCTION.—Nothing 
+7
+in this paragraph shall be construed to prevent 
+8
+the use of individual categories of aggregate in-
+9
+formation to be used for accountability pur-
+10
+poses. 
+11
+‘‘(H) RULE OF CONSTRUCTION REGARDING 
+12
+COMMERCIAL USE OF DATA.—Nothing in this 
+13
+paragraph shall be construed to prohibit third- 
+14
+party entities from using publicly-available in-
+15
+formation in this data system for commercial 
+16
+use. 
+17
+‘‘(6) SUBMISSION OF DATA.— 
+18
+‘‘(A) REQUIRED SUBMISSION.—Each insti-
+19
+tution of higher education participating in a 
+20
+program under title IV, or the assigned agent 
+21
+of such institution, shall, for each eligible pro-
+22
+gram, in accordance with section 487(a)(17), 
+23
+collect, and submit to the Commissioner, the 
+24
+02:06 May 22, 2021
+H2030
+30 
+•HR 2030 IH
+data requested by the Commissioner to carry 
+1
+out this subsection. 
+2
+‘‘(B) VOLUNTARY SUBMISSION.—Any insti-
+3
+tution of higher education not participating in 
+4
+a program under title IV may voluntarily par-
+5
+ticipate in the postsecondary student data sys-
+6
+tem under this subsection by collecting and sub-
+7
+mitting data to the Commissioner, as the Com-
+8
+missioner may request to carry out this sub-
+9
+section. 
+10
+‘‘(C) PERSONALLY
+IDENTIFIABLE
+INFOR-
+11
+MATION.—In 
+accordance 
+with 
+paragraph 
+12
+(2)(C)(i), if the submission of an element of 
+13
+student-level data is prohibited under para-
+14
+graph (2)(F) (or otherwise prohibited by law), 
+15
+the institution of higher education shall submit 
+16
+that data to the Commissioner in the aggregate. 
+17
+‘‘(7) UNLAWFUL WILLFUL DISCLOSURE.— 
+18
+‘‘(A) IN GENERAL.—It shall be unlawful 
+19
+for any person who obtains or has access to 
+20
+personally identifiable information in connection 
+21
+with the postsecondary student data system de-
+22
+scribed in this subsection to willfully disclose to 
+23
+any person (except as authorized in this Act or 
+24
+02:06 May 22, 2021
+H2030
+31 
+•HR 2030 IH
+by any Federal law) such personally identifiable 
+1
+information. 
+2
+‘‘(B) PENALTY.—Any person who violates 
+3
+subparagraph (A) shall be subject to a penalty 
+4
+described under section 3572(f) of title 44, 
+5
+United States Code, and section 183(d)(6) of 
+6
+the Education Sciences Reform Act of 2002 (20 
+7
+U.S.C. 9573(d)(6)). 
+8
+‘‘(C) EMPLOYEE
+OF
+OFFICER
+OF
+THE 
+9
+UNITED
+STATES.—If a violation of subpara-
+10
+graph (A) is committed by any officer or em-
+11
+ployee of the United States, the officer or em-
+12
+ployee shall be dismissed from office or dis-
+13
+charged from employment upon conviction for 
+14
+the violation. 
+15
+‘‘(8) DATA SECURITY.—The Commissioner shall 
+16
+produce and update as needed guidance and regula-
+17
+tions relating to privacy, security, and access which 
+18
+shall govern the use and disclosure of data collected 
+19
+in connection with the activities authorized in this 
+20
+subsection. The guidance and regulations developed 
+21
+and reviewed shall protect data from unauthorized 
+22
+access, use, and disclosure, and shall include— 
+23
+‘‘(A) an audit capability, including manda-
+24
+tory and regularly conducted audits; 
+25
+02:06 May 22, 2021
+H2030
+32 
+•HR 2030 IH
+‘‘(B) access controls; 
+1
+‘‘(C) requirements to ensure sufficient data 
+2
+security, quality, validity, and reliability; 
+3
+‘‘(D) confidentiality protection in accord-
+4
+ance with the applicable provisions of sub-
+5
+chapter III of chapter 35 of title 44, United 
+6
+States Code; 
+7
+‘‘(E) appropriate and applicable privacy 
+8
+and security protection, including data retention 
+9
+and destruction protocols and data minimiza-
+10
+tion, in accordance with the most recent Fed-
+11
+eral standards developed by the National Insti-
+12
+tute of Standards and Technology; and 
+13
+‘‘(F) protocols for managing a breach, in-
+14
+cluding breach notifications, in accordance with 
+15
+the standards of National Center for Education 
+16
+Statistics. 
+17
+‘‘(9) DATA
+COLLECTION.—The Commissioner 
+18
+shall ensure that data collection, maintenance, and 
+19
+use under this subsection complies with section 552a 
+20
+of title 5, United States Code. 
+21
+‘‘(10) DEFINITIONS.—In this subsection: 
+22
+‘‘(A) 
+INSTITUTION
+OF
+HIGHER
+EDU-
+23
+CATION.—The term ‘institution of higher edu-
+24
+02:06 May 22, 2021
+H2030
+33 
+•HR 2030 IH
+cation’ has the meaning given the term in sec-
+1
+tion 102. 
+2
+‘‘(B) MINORITY-SERVING
+INSTITUTION.— 
+3
+The term ‘minority-serving institution’ means 
+4
+an institution of higher education listed in sec-
+5
+tion 371(a). 
+6
+‘‘(C) PERSONALLY
+IDENTIFIABLE
+INFOR-
+7
+MATION.—The term ‘personally identifiable in-
+8
+formation’ means personally identifiable infor-
+9
+mation within the meaning of section 444 of the 
+10
+General Education Provisions Act.’’. 
+11
+SEC. 3. REPEAL OF PROHIBITION ON STUDENT DATA SYS-
+12
+TEM. 
+13
+Section 134 of the Higher Education Act of 1965 (20 
+14
+U.S.C. 1015c) is repealed. 
+15
+SEC. 4. INSTITUTIONAL REQUIREMENTS. 
+16
+(a) IN GENERAL.—Paragraph (17) of section 487(a) 
+17
+of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) 
+18
+is amended to read as follows: 
+19
+‘‘(17) The institution or the assigned agent of 
+20
+the institution will collect and submit data to the 
+21
+Commissioner for Education Statistics in accordance 
+22
+with section 132(l), the nonstudent related surveys 
+23
+within the Integrated Postsecondary Education Data 
+24
+System (IPEDS), or any other Federal institution of 
+25
+02:06 May 22, 2021
+H2030
+34 
+•HR 2030 IH
+higher education data collection effort (as designated 
+1
+by the Secretary), in a timely manner and to the 
+2
+satisfaction of the Secretary.’’. 
+3
+(b) EFFECTIVE DATE.—The amendment made by 
+4
+subsection (a) shall take effect on the date that is 4 years 
+5
+after the date of enactment of this Act. 
+6
+SEC. 5. TRANSITION PROVISIONS. 
+7
+The Secretary of Education and the Commissioner 
+8
+for Education Statistics shall take such steps as are nec-
+9
+essary to ensure that the development and maintenance 
+10
+of the postsecondary student data system required under 
+11
+section 132(l) of the Higher Education Act of 1965, as 
+12
+added by section 2 of this Act, occurs in a manner that 
+13
+reduces the reporting burden for entities that reported 
+14
+into the Integrated Postsecondary Education Data System 
+15
+(IPEDS). 
+16
+Æ 
+02:06 May 22, 2021
+H2030

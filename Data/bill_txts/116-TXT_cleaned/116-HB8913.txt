@@ -1,0 +1,1210 @@
+A BILL 
+To report data on COVID–19 immigration detention facilities 
+and local correctional facilities that contract with U.S. 
+Immigration and Customs Enforcement, and for other 
+purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘COVID–19 in Immi-
+4
+gration Detention Data Transparency Act’’. 
+5
+23:15 Dec 21, 2020
+H8913
+2 
+•HR 8913 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) CBP DETENTION
+FACILITY.—The term 
+3
+‘‘CBP detention facility’’ means any facility used by 
+4
+U.S. Customs and Border Protection to detain non-
+5
+citizens. 
+6
+(2) CDC DIRECTOR.—The term ‘‘CDC Direc-
+7
+tor’’ means the Director of the Centers for Disease 
+8
+Control and Prevention. 
+9
+(3) CONTRACT
+DETENTION
+FACILITY.—The 
+10
+term ‘‘contract detention facility’’ means any facility 
+11
+used for the detention of noncitizens that is operated 
+12
+by a government agency or a private entity that has 
+13
+contracted with U.S. Immigration and Customs En-
+14
+forcement, U.S. Customs and Border Protection, or 
+15
+the Office of Refugee Resettlement to provide such 
+16
+detention services, including service processing cen-
+17
+ters, juvenile detention facilities, family residential 
+18
+centers, facilities holding noncitizens awaiting re-
+19
+moval, and similar facilities operating under an 
+20
+intergovernmental service agreement with any of 
+21
+such Federal agencies, including intergovernmental 
+22
+agreements with the United States Marshals Service. 
+23
+(4) 
+COVID–19.—The 
+term 
+‘‘COVID–19’’ 
+24
+means the 2019 novel coronavirus disease caused by 
+25
+the SARS–CoV–2 virus. 
+26
+23:15 Dec 21, 2020
+H8913
+3 
+•HR 8913 IH
+(5) COVID–19 DIAGNOSTIC TEST.—The term 
+1
+‘‘COVID–19 diagnostic test’’ means a test— 
+2
+(A) that is an in vitro diagnostic product 
+3
+(as defined in section 809.3 of title 21, Code of 
+4
+Federal Regulations) for the detection of 
+5
+SARS–CoV–2; and 
+6
+(B) the administration of which— 
+7
+(i) is approved, cleared, or authorized 
+8
+under section 510(k), 513, 515, or 564 of 
+9
+the Federal Food, Drug, and Cosmetic Act 
+10
+(21 U.S.C. 360(k), 360c, 360e, 360bbb–3); 
+11
+(ii) the developer has requested, or in-
+12
+tends to request, emergency use authoriza-
+13
+tion under section 564 of the Federal 
+14
+Food, Drug, and Cosmetic Act (21 U.S.C. 
+15
+360bbb–3), unless and until the emergency 
+16
+use authorization request under such sec-
+17
+tion 564 has been denied or the developer 
+18
+of such test does not submit a request 
+19
+under such section within a reasonable 
+20
+timeframe; 
+21
+(iii) is developed in and authorized by 
+22
+a State that has notified the Secretary of 
+23
+Health and Human Services of its inten-
+24
+23:15 Dec 21, 2020
+H8913
+4 
+•HR 8913 IH
+tion to review tests intended to diagnose 
+1
+COVID–19; or 
+2
+(iv) is another test that the Secretary 
+3
+determines appropriate in guidance. 
+4
+(6) COVID–19 EMERGENCY DATA COLLECTION 
+5
+PERIOD.—The term ‘‘COVID–19 emergency data 
+6
+collection period’’ means the period beginning on the 
+7
+date of enactment of this Act and ending on the 
+8
+date that is 1 year after the date on which the pub-
+9
+lic health emergency declaration under section 319 
+10
+of the Public Health Service Act (42 U.S.C. 247d), 
+11
+with respect to COVID–19, terminates. 
+12
+(7) FACILITY STAFF.—The term ‘‘facility staff’’ 
+13
+includes all individuals who work in a detention fa-
+14
+cility, including any individual who regularly reports 
+15
+for work within the detention facility, regardless of 
+16
+the actual employer of such individual. 
+17
+(8) ICE 
+DETENTION
+FACILITY.—The term 
+18
+‘‘ICE detention facility’’ means any facility used by 
+19
+U.S. Immigration and Customs Enforcement to de-
+20
+tain noncitizens, including service processing centers. 
+21
+(9) ORR 
+CONTRACTED
+FACILITY
+OR
+PRO-
+22
+GRAM.—The term ‘‘ORR contracted facility or pro-
+23
+gram’’ means any facility or program in which unac-
+24
+companied noncitizen children are in the care and 
+25
+23:15 Dec 21, 2020
+H8913
+5 
+•HR 8913 IH
+custody of the Department of Health and Human 
+1
+Services. 
+2
+(10) PUBLIC HEALTH EMERGENCY.—The term 
+3
+‘‘public health emergency’’ means— 
+4
+(A) a national emergency involving Federal 
+5
+primary responsibility determined to exist by 
+6
+the President under section 501(b) of the Rob-
+7
+ert T. Stafford Disaster Relief and Emergency 
+8
+Assistance Act (42 U.S.C. 5191(b)) with re-
+9
+spect to a communicable disease; 
+10
+(B) a national emergency declared by the 
+11
+President under sections 201 and 301 of the 
+12
+National Emergencies Act (50 U.S.C. 1621 and 
+13
+1631) with respect to a communicable disease; 
+14
+(C) a national public health emergency de-
+15
+clared by the Secretary of Health and Human 
+16
+Services under section 319 of the Public Health 
+17
+Service Act (42 U.S.C. 247d); or 
+18
+(D) a global pandemic declared by the 
+19
+World Health Organization. 
+20
+SEC. 3. COVID–19 DATA COLLECTION REQUIREMENTS. 
+21
+(a) FEDERAL DETENTION FACILITIES.—The Direc-
+22
+tor of U.S. Immigration and Customs Enforcement, the 
+23
+Commissioner of U.S. Customs and Border Protection, the 
+24
+Director of the Office of Refugee Resettlement, and any 
+25
+23:15 Dec 21, 2020
+H8913
+6 
+•HR 8913 IH
+senior official acting in, or performing the duties of, any 
+1
+such position shall, during the COVID–19 emergency data 
+2
+collection period— 
+3
+(1) post daily updates on the public website of 
+4
+the applicable agency containing the information de-
+5
+scribed in section 5 with respect to staff working at 
+6
+ICE detention facilities, CBP detention facilities, or 
+7
+ORR contracted facilities or programs, respectively, 
+8
+and noncitizens detained at such facilities or served 
+9
+by such programs; 
+10
+(2) archive, on a weekly basis, the data de-
+11
+scribed in paragraph (1) so that it remains publicly 
+12
+accessible and in a machine readable format; and 
+13
+(3) beginning not later than the earlier of the 
+14
+date that is 14 days after the date on which the 
+15
+CDC Director publishes the guidance required under 
+16
+section 4(a) or 45 days after the date of the enact-
+17
+ment of this Act, submit weekly reports to the CDC 
+18
+Director containing the information described in sec-
+19
+tion 5. 
+20
+(b) CONTRACT DETENTION FACILITIES.— 
+21
+(1) IN GENERAL.—Beginning not later than the 
+22
+earlier of the date that is 14 days after the date on 
+23
+which the CDC Director publishes the guidance re-
+24
+quired under section 4(a) or 45 days after the date 
+25
+23:15 Dec 21, 2020
+H8913
+7 
+•HR 8913 IH
+of the enactment of this Act, the head of each con-
+1
+tract detention facility shall— 
+2
+(A) submit weekly reports to the Federal 
+3
+agency with which the facility is under contract 
+4
+and the public health authority of the State in 
+5
+which the facility is located containing the data 
+6
+described in section 5 with respect to staff 
+7
+working at such facility and noncitizens de-
+8
+tained at such facility; 
+9
+(B) post weekly updates containing the 
+10
+data described in subparagraph (A) on the pub-
+11
+lic website of the facility, if the facility has a 
+12
+public website, in a machine readable format, 
+13
+and archive prior updates so that they remain 
+14
+publicly accessible; and 
+15
+(C) submit weekly reports containing the 
+16
+data referred to in subparagraph (A) to— 
+17
+(i) the Immigration Detention Om-
+18
+budsman designated pursuant to section 
+19
+405 of the Homeland Security Act of 2002 
+20
+(6 U.S.C. 205); and 
+21
+(ii) the Office for Civil Rights and 
+22
+Civil Liberties of the Department of 
+23
+Homeland Security. 
+24
+23:15 Dec 21, 2020
+H8913
+8 
+•HR 8913 IH
+(2) SUBMISSION
+OF
+INFORMATION
+TO
+THE 
+1
+CDC.—Not later than 24 hours after a Federal agen-
+2
+cy receives the data described in paragraph (1), the 
+3
+head of such agency shall— 
+4
+(A) submit such data to the CDC Director; 
+5
+and 
+6
+(B) post such data to the public website of 
+7
+the agency, which shall be archived weekly and 
+8
+shall remain publically accessible in a machine 
+9
+readable format. 
+10
+(c) USE OF EXISTING APPROPRIATIONS.— 
+11
+(1) DEPARTMENT
+OF
+HEALTH
+AND
+HUMAN 
+12
+SERVICES.—The Department of Health and Human 
+13
+Services such use amounts otherwise appropriated 
+14
+for the Office of Refugee Resettlement to carry out 
+15
+its responsibilities under this section. 
+16
+(2) U.S. IMMIGRATION AND CUSTOMS ENFORCE-
+17
+MENT.—U.S. Immigration and Customs Enforce-
+18
+ment shall use amounts otherwise appropriated to 
+19
+the Custody Operations Account to carry out its re-
+20
+sponsibilities under this section. 
+21
+(3) U.S. 
+CUSTOMS
+AND
+BORDER
+PROTEC-
+22
+TION.—U.S. Customs and Border Protection shall 
+23
+use amounts otherwise appropriated to the Procure-
+24
+23:15 Dec 21, 2020
+H8913
+9 
+•HR 8913 IH
+ment, Construction, and Improvements Account to 
+1
+carry out its responsibilities under this section. 
+2
+SEC. 4. CDC REPORTS. 
+3
+(a) GUIDANCE.—Not later than 30 days after the 
+4
+date of enactment of this Act, the CDC Director shall 
+5
+issue guidance for immigration detention facilities regard-
+6
+ing— 
+7
+(1) the categories of data required to be re-
+8
+ported under this Act; and 
+9
+(2) how the CDC Director will determine 
+10
+whether a Federal or State agency is in compliance 
+11
+with the requirements under this Act. 
+12
+(b) PUBLICATION ON WEBSITE.— 
+13
+(1) IN GENERAL.—Not later than 7 days after 
+14
+data is reported to the Centers for Disease Control 
+15
+and Prevention pursuant to section 3, the CDC Di-
+16
+rector shall make such data available to the public 
+17
+on the website of the Centers for Disease Control 
+18
+and Prevention, including all data reported by U.S. 
+19
+Immigration and Customs Enforcement, U.S. Cus-
+20
+toms and Border Protection, and the Office of Ref-
+21
+ugee Resettlement. 
+22
+(2) WEEKLY ARCHIVAL.—The data referred to 
+23
+in paragraph (1) shall be archived weekly and shall 
+24
+23:15 Dec 21, 2020
+H8913
+10 
+•HR 8913 IH
+remain publically accessible in a machine readable 
+1
+format. 
+2
+(c) REPORTS TO CONGRESS.—Not later than 60 days 
+3
+after the date of the enactment of this Act, and monthly 
+4
+thereafter during the COVID–19 emergency data collec-
+5
+tion period, the CDC Director shall submit a report to 
+6
+Committee on Health, Education, Labor, and Pensions of 
+7
+the Senate, the Committee on the Judiciary of the Senate, 
+8
+the Committee on Homeland Security of the House of 
+9
+Representatives, and the Committee on the Judiciary of 
+10
+the House of Representatives that— 
+11
+(1) summarizes the information submitted by 
+12
+U.S. Immigration and Customs Enforcement, U.S. 
+13
+Customs and Border Protection, the Office of Ref-
+14
+ugee Resettlement, and State public health authori-
+15
+ties pursuant to section 3; and 
+16
+(2) analyzes the trends and patterns of the dis-
+17
+ease outbreak and the care provided in immigration 
+18
+detention facilities and contracted facilities. 
+19
+SEC. 5. COVID–19 DATA. 
+20
+(a) IN GENERAL.—The data described in this section 
+21
+is the following data with respect to each ICE, CBP, ORR, 
+22
+and contract detention facility: 
+23
+(1) TESTING
+NUMBERS.—Data related to 
+24
+COVID–19 diagnostic testing by such facilities, in-
+25
+23:15 Dec 21, 2020
+H8913
+11 
+•HR 8913 IH
+cluding cumulative and new (since the previous 
+1
+weekly report) counts of— 
+2
+(A) the number of detained noncitizens 
+3
+tested for COVID–19, including the dates on 
+4
+which 
+such 
+tests 
+were 
+administered, 
+5
+disaggregated by— 
+6
+(i) first-time COVID–19 diagnostic 
+7
+tests and retests; and 
+8
+(ii) symptomatic and asymptomatic; 
+9
+(B) the number of detained noncitizens 
+10
+who have requested COVID–19 testing, includ-
+11
+ing the number of such requests that were de-
+12
+nied and the reasons for such denials; 
+13
+(C) the number of facility staff tested for 
+14
+COVID–19, 
+disaggregated 
+by 
+first-time 
+15
+COVID–19 diagnostic tests and retests; and 
+16
+(D) the COVID–19 diagnostic test devel-
+17
+oper and test name for each COVID–19 diag-
+18
+nostic test conducted. 
+19
+(2) TEST RESULTS.—Data related to COVID– 
+20
+19 diagnostic testing outcomes, including cumulative 
+21
+and new (since the previous weekly report) counts 
+22
+of— 
+23
+23:15 Dec 21, 2020
+H8913
+12 
+•HR 8913 IH
+(A) the number of confirmed active cases 
+1
+of COVID–19 among detained noncitizens, 
+2
+disaggregated by— 
+3
+(i) first-time COVID–19 diagnostic 
+4
+tests and retests; and 
+5
+(ii) the COVID–19 diagnostic test de-
+6
+veloper and test name for each COVID–19 
+7
+diagnostic test used to confirm each active 
+8
+case; 
+9
+(B) the number of confirmed negative 
+10
+cases of COVID–19 among detained nonciti-
+11
+zens, disaggregated— 
+12
+(i) by first-time COVID–19 diagnostic 
+13
+tests and retests; and 
+14
+(ii) the COVID–19 diagnostic test de-
+15
+veloper and test name for each COVID–19 
+16
+diagnostic test used to confirm each nega-
+17
+tive case; 
+18
+(C) the number of confirmed active cases 
+19
+of COVID–19 among detention facility staff, 
+20
+disaggregated by— 
+21
+(i) first-time COVID–19 diagnostic 
+22
+tests and retests; and 
+23
+(ii) the COVID–19 diagnostic test de-
+24
+veloper and test name for each COVID–19 
+25
+23:15 Dec 21, 2020
+H8913
+13 
+•HR 8913 IH
+diagnostic test used to confirm each active 
+1
+case; 
+2
+(D) the number of confirmed negative 
+3
+cases of COVID–19 among detention facility 
+4
+staff, disaggregated by— 
+5
+(i) first-time COVID–19 diagnostic 
+6
+tests and retests; and 
+7
+(ii) the COVID–19 diagnostic test de-
+8
+veloper and test name for each COVID–19 
+9
+diagnostic test used to confirm each nega-
+10
+tive case; 
+11
+(E) the number of COVID–19 diagnostic 
+12
+tests pending results, disaggregated by detained 
+13
+noncitizens and detention facility staff; 
+14
+(F) the average time between testing a de-
+15
+tained person for COVID–19 and receiving the 
+16
+results of the COVID–19 diagnostic test; and 
+17
+(G) the average time between testing a de-
+18
+tention facility employee for COVID–19 and re-
+19
+ceiving the results of the COVID–19 diagnostic 
+20
+test. 
+21
+(3) CASE
+OUTCOMES.—COVID–19 case out-
+22
+comes, including cumulative and new (since the pre-
+23
+vious report) counts of— 
+24
+23:15 Dec 21, 2020
+H8913
+14 
+•HR 8913 IH
+(A) the number of detained noncitizens 
+1
+hospitalized for a case of COVID–19, including 
+2
+the locations of the hospitals at which the non-
+3
+citizens are receiving treatment; 
+4
+(B) the number of detained noncitizens 
+5
+who have recovered from COVID–19; 
+6
+(C) the number of detained noncitizens 
+7
+currently in quarantine and the number of de-
+8
+tained noncitizens in medical isolation for infec-
+9
+tion with or exposure to COVID–19; 
+10
+(D) the number of detained noncitizens 
+11
+who have completed quarantine and the number 
+12
+of detained noncitizens who have been released 
+13
+from medical isolation; 
+14
+(E) the number of detained noncitizens 
+15
+identified as having 1 or more COVID–19 risk 
+16
+factors; 
+17
+(F) the number of noncitizens who have 
+18
+been released from detention because of 1 or 
+19
+more COVID–19 risk factors, disaggregated by 
+20
+their applicable risk factor; 
+21
+(G) the number of detained noncitizens 
+22
+with active COVID–19 cases in the previous 
+23
+weekly report who are not included in the 
+24
+present report, disaggregated by the specific 
+25
+23:15 Dec 21, 2020
+H8913
+15 
+•HR 8913 IH
+reason for such exclusion, including release, 
+1
+negative COVID–19 test, transfer, and absence 
+2
+of COVID–19 symptoms; 
+3
+(H) the number of detained noncitizens 
+4
+who have died from COVID–19; 
+5
+(I) the number of detained noncitizens who 
+6
+died after testing positive for COVID–19, but 
+7
+the official cause of death was not COVID–19; 
+8
+(J) the number of detention facility staff 
+9
+hospitalized for a case of COVID–19; 
+10
+(K) the number of detention facility staff 
+11
+who have recovered from COVID–19; and 
+12
+(L) the number of detention facility staff 
+13
+who have died from a case of COVID–19. 
+14
+(4) GENERAL MEDICAL ATTENTION.—The num-
+15
+ber of detained noncitizens who have requested gen-
+16
+eral medical attention, including the number of such 
+17
+requests that were denied and the reasons for such 
+18
+denials. 
+19
+(5) DAILY POPULATION.—Average daily popu-
+20
+lation of detained noncitizens for the week preceding 
+21
+the COVID–19 emergency data collection period and 
+22
+for all weeks during such period. 
+23
+(6) TRANSFERRED
+NONCITIZENS.—Data re-
+24
+lated to the COVID–19 testing, results, and case 
+25
+23:15 Dec 21, 2020
+H8913
+16 
+•HR 8913 IH
+outcomes (at the time of release) of noncitizens who 
+1
+were transferred between detention facilities during 
+2
+the reporting period, including— 
+3
+(A) the number of all individuals who were 
+4
+transferred, including— 
+5
+(i) the dates on which such transfers 
+6
+occurred; 
+7
+(ii) the number of such noncitizens 
+8
+who were tested and received a result be-
+9
+fore their transfer; and 
+10
+(iii) the number of such noncitizens 
+11
+who were not tested or did not receive a 
+12
+result before their transfer; 
+13
+(B) the purposes of such transfers; 
+14
+(C) the dates on which COVID–19 testing 
+15
+occurred during the transfer process; 
+16
+(D) the number of transferees who tested 
+17
+positive at any point during the transfer proc-
+18
+ess; and 
+19
+(E) the number of positive COVID–19 
+20
+cases in the transferring facility and in the ar-
+21
+riving facility at the time of each such transfer. 
+22
+(7) RELEASED NONCITIZENS.—Data related to 
+23
+the COVID–19 testing, results, and case outcomes 
+24
+(at the time of release) of noncitizens who were re-
+25
+23:15 Dec 21, 2020
+H8913
+17 
+•HR 8913 IH
+leased from detention, and juvenile noncitizens who 
+1
+were released from the custody of the Department of 
+2
+Health and Human Services, during the reporting 
+3
+period, disaggregated by the type of release, and in-
+4
+cluding— 
+5
+(A) individuals released to alternatives to 
+6
+detention programs as a result of the COVID– 
+7
+19 public health emergency; and 
+8
+(B) any recent positive COVID–19 tests 
+9
+and referrals to external medical care. 
+10
+(8) REMOVED NONCITIZENS.—Data related to 
+11
+the COVID–19 testing, results, and case outcomes 
+12
+(at the time of removal or expulsion) of noncitizens 
+13
+who were deported from an ICE, CBP, ORR, or 
+14
+contract detention facility during the reporting pe-
+15
+riod, including— 
+16
+(A) any recent positive COVID–19 tests 
+17
+and referrals to external medical care; 
+18
+(B) the number of noncitizens removed or 
+19
+expelled from the United States; 
+20
+(C) the number of such noncitizens who 
+21
+were tested and received a result before their 
+22
+removal or expulsion; and 
+23
+23:15 Dec 21, 2020
+H8913
+18 
+•HR 8913 IH
+(D) the number of such noncitizens who 
+1
+were not tested or did not receive a result be-
+2
+fore their removal or expulsion. 
+3
+(b) DISAGGREGATION OF DATA.— 
+4
+(1) IN GENERAL.—The data described in sub-
+5
+section (a) shall be disaggregated by sex, sexual ori-
+6
+entation, gender identity, age, race, ethnicity, dis-
+7
+ability, last known place of residence, location at 
+8
+which the individual is being detained, nationality, 
+9
+and statutory authority for detention. 
+10
+(2) EXCLUSION
+OF
+INDIVIDUALS
+INCARCER-
+11
+ATED FOR NONIMMIGRATION REASONS AT CONTRACT 
+12
+DETENTION
+FACILITIES.—Data regarding individ-
+13
+uals incarcerated at contract detention facilities for 
+14
+nonimmigration reasons shall be excluded from the 
+15
+data described in subsection (a). 
+16
+(c) DETENTION PERIOD.—The data described in sub-
+17
+section (a) with respect to detained noncitizens who are 
+18
+infected with COVID–19 shall include, to the extent prac-
+19
+ticable, the period of their detention. 
+20
+SEC. 6. PRIVACY PROTECTIONS. 
+21
+(a) IN GENERAL.—Any data collected, stored, re-
+22
+ceived, or published under this Act— 
+23
+23:15 Dec 21, 2020
+H8913
+19 
+•HR 8913 IH
+(1) shall be collected, stored, received, or pub-
+1
+lished in a manner that protects the privacy of indi-
+2
+viduals whose information is included in such data; 
+3
+(2) shall be de-identified or anonymized in a 
+4
+manner that protects the identity of all individuals 
+5
+whose information is included in such data; 
+6
+(3) shall comply with privacy protections pro-
+7
+vided under the regulations promulgated under sec-
+8
+tion 264(c) of the Health Insurance Portability and 
+9
+Accountability Act of 1996 (42 U.S.C. 1320d–2 
+10
+note); and 
+11
+(4) shall be limited in use for the purpose of 
+12
+public health and be protected from all other inter-
+13
+nal use by any entity that collects, stores, or receives 
+14
+the data, including use of such data in determina-
+15
+tions of eligibility (or continued eligibility) in health 
+16
+plans, and from any other inappropriate uses. 
+17
+(b) RESTRICTION ON USE OF COVID–19 STATUS IN 
+18
+IMMIGRATION PROCEEDINGS.—The Government may not 
+19
+use an noncitizen’s positive COVID–19 test, an nonciti-
+20
+zen’s treatment for COVID–19 symptoms, or the state of 
+21
+the COVID–19 pandemic in the noncitizen’s country of 
+22
+origin as evidence against the noncitizen in any immigra-
+23
+tion proceeding, including— 
+24
+23:15 Dec 21, 2020
+H8913
+20 
+•HR 8913 IH
+(1) a proceeding to determine if the noncitizen 
+1
+is a public charge; and 
+2
+(2) proceedings involving asylum, withholding of 
+3
+removal, and protection under the Convention 
+4
+against Torture and Other Cruel, Inhuman or De-
+5
+grading Treatment or Punishment, done at New 
+6
+York December 10, 1984. 
+7
+SEC. 7. COVID–19 SAFETY PROTOCOLS AND PRACTICES. 
+8
+(a) IN GENERAL.—Not later than 30 days after the 
+9
+date of the enactment of this Act, the Director of U.S. 
+10
+Immigration and Customs Enforcement, the Commis-
+11
+sioner of U.S. Customs and Border Protection, the Direc-
+12
+tor of the Office of Refugee Resettlement, and any senior 
+13
+official acting in, or performing the duties of, any such 
+14
+position shall submit a report to the congressional commit-
+15
+tees referred to in section 4(c) that identifies, for each 
+16
+detention facility under the jurisdiction of the applicable 
+17
+agency head, including contract detention facilities, the 
+18
+protocols and practices for protecting detainees from expo-
+19
+sure to the novel coronavirus (SARS–CoV–2), including— 
+20
+(1) the health standards at the facility, includ-
+21
+ing— 
+22
+(A) the standards for transfer to hospital 
+23
+or other specialized care; 
+24
+23:15 Dec 21, 2020
+H8913
+21 
+•HR 8913 IH
+(B) the procedure for the detained person 
+1
+to request and obtain a COVID–19 test and as-
+2
+sociated results; and 
+3
+(C) detainee access to information about 
+4
+the facility’s COVID–19 plans and protocols; 
+5
+(2) the medical care provided to detainees, in-
+6
+cluding— 
+7
+(A) the specific efforts to cohort smaller 
+8
+groups of detained people; 
+9
+(B) the specific efforts to provide humane 
+10
+medical isolation to symptomatic people, and 
+11
+separately, people who have tested positive for 
+12
+COVID–19; and 
+13
+(C) the standards for clinical monitoring of 
+14
+symptomatic and COVID–19 positive detained 
+15
+persons; and 
+16
+(3) the sanitation practices at the facility, in-
+17
+cluding the frequency and amount of detainees’ ac-
+18
+cess to soap and masks. 
+19
+(b) NOTIFICATION OF OUTBREAK OR EXPOSURE.— 
+20
+Each detention facility shall create, share, and enforce a 
+21
+process for notifying anyone who has recently entered or 
+22
+visited such facility of any COVID–19 outbreak or expo-
+23
+sure at such facility. 
+24
+23:15 Dec 21, 2020
+H8913
+22 
+•HR 8913 IH
+SEC. 8. ACCESS TO LEGAL COUNSEL. 
+1
+Not later than 30 days after the date of the enact-
+2
+ment of this Act, and monthly thereafter, the Director of 
+3
+U.S. Immigration and Customs Enforcement, the Com-
+4
+missioner of U.S. Customs and Border Protection, the Di-
+5
+rector of the Office of Refugee Resettlement, the head of 
+6
+each contract detention facility, and any senior official act-
+7
+ing in, or performing the duties of, any such position shall 
+8
+submit a report to the congressional committees referred 
+9
+to in section 4(c) that identifies, for each detention facility 
+10
+for which he or she is responsible— 
+11
+(1) the efforts made to ensure that each noncit-
+12
+izen detained in such facility has access to legal 
+13
+counsel; 
+14
+(2) if any detained noncitizen does not have ac-
+15
+cess to legal counsel, the changes being made to en-
+16
+sure universal access to legal counsel; 
+17
+(3) the number of telephones are available to 
+18
+detainees; 
+19
+(4) the number of detainees who have used the 
+20
+free telephone call minutes available to them; 
+21
+(5) the number of detainees who have access to 
+22
+video conference technology with their lawyers and 
+23
+the number of detainees have used video conference 
+24
+technology to communicate with their lawyers; 
+25
+23:15 Dec 21, 2020
+H8913
+23 
+•HR 8913 IH
+(6) the number of computers or internet-en-
+1
+abled portable electronic devices available to detain-
+2
+ees; and 
+3
+(7) the process for notifying the public when 
+4
+the facility is locked down because of an outbreak, 
+5
+including the accommodations made during such 
+6
+lockdowns to provide detainees with increased access 
+7
+to telephones or videoconferencing. 
+8
+SEC. 9. RIGHT OF DETAINED NONCITIZENS TO ACCESS 
+9
+TEST RESULTS. 
+10
+The Director of U.S. Immigration and Customs En-
+11
+forcement, the Commissioner of U.S. Customs and Border 
+12
+Protection, the Director of the Office of Refugee Resettle-
+13
+ment, the head of each contract detention facility, and any 
+14
+senior official acting in, or performing the duties of, any 
+15
+such position shall ensure that each detained noncitizen 
+16
+receives the results of, and any medical records related 
+17
+to, any COVID–19 diagnostic test administered to the 
+18
+noncitizen, in the noncitizen’s preferred language, and in 
+19
+a private and confidential manner, not later than 24 hours 
+20
+after such results become available. 
+21
+Æ 
+23:15 Dec 21, 2020
+H8913

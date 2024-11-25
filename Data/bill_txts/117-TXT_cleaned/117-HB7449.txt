@@ -1,0 +1,495 @@
+A BILL 
+To establish prohibitions on the use of automated systems 
+in a discriminatory manner, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Digital Civil and 
+4
+Human Rights Act of 2022’’. 
+5
+22:51 Jun 13, 2022
+H7449
+2 
+•HR 7449 IH
+SEC. 2. PROHIBITION OF DISCRIMINATORY USE OF AUTO-
+1
+MATED SYSTEMS. 
+2
+(a) IN GENERAL.—No Federal agency, court of the 
+3
+United States, State government, local government, or 
+4
+tribal government may use any automated decision system 
+5
+that has a disparate impact on the basis of race, national 
+6
+origin, color, religion, disability, or sex. 
+7
+(b) PUBLICLY AVAILABLE REPOSITORY.—The head 
+8
+of each Federal agency shall maintain a site on the public 
+9
+website of the Federal agency that contains a bias 
+10
+datasheet for each automated decision system used by 
+11
+such Federal agency with the potential for a disparate im-
+12
+pact on the bases established under subsection (a). 
+13
+(c) DEFINITION.—In this section the term ‘‘bias 
+14
+datasheet’’ means a datasheet conforming to the standard 
+15
+published pursuant to section 22B of the National Insti-
+16
+tute of Standards and Technology Act. 
+17
+(d) PROHIBITION AGAINST DISCRIMINATION OR SEG-
+18
+REGATION IN PLACES OF PUBLIC ACCOMMODATION.— 
+19
+Section 201 of the Civil Rights Act of 1964 (42 U.S.C. 
+20
+2000a) is amended by adding at the end the following: 
+21
+‘‘(f) It shall be an unlawful practice for a place of 
+22
+public accommodation to use in its operations affecting 
+23
+commerce any automated decision system (as such term 
+24
+is defined in section 701) that has a disparate impact on 
+25
+the basis of race, color, religion, sex, or national origin.’’. 
+26
+22:51 Jun 13, 2022
+H7449
+3 
+•HR 7449 IH
+(e) UNLAWFUL EMPLOYMENT PRACTICES.—Section 
+1
+703 of the Civil Rights Act of 1964 (42 U.S.C. 2000e– 
+2
+2) is amended by adding at the end the following: 
+3
+‘‘(o) It shall be an unlawful employment practice for 
+4
+a respondent, in connection with the selection or referral 
+5
+of applicants or candidates for employment or promotion, 
+6
+to use any automated decision system that has a disparate 
+7
+impact on the basis of race, color, religion, sex, or national 
+8
+origin.’’. 
+9
+(f) DEFINITIONS IN CIVIL RIGHTS ACT OF 1964.— 
+10
+Section 701 of the Civil Rights Act of 1964 (42 U.S.C. 
+11
+2000e–2) is amended by adding at the end the following: 
+12
+‘‘(o) The term ‘automated decision system’ means 
+13
+any system, software, or process (including one derived 
+14
+from machine learning, statistics, or other data processing 
+15
+or artificial intelligence techniques and excluding passive 
+16
+computing infrastructure) that uses computation, the re-
+17
+sult of which serves as a basis for a decision or judgment. 
+18
+‘‘(p) The term ‘court of the United States’ has the 
+19
+meaning given such term in section 451 of title 28, United 
+20
+States Code.’’. 
+21
+(g) RULEMAKING.—Not later than 1 year after the 
+22
+date of enactment of this Act, the head of each Federal 
+23
+agency, in coordination with the Director of the Office of 
+24
+22:51 Jun 13, 2022
+H7449
+4 
+•HR 7449 IH
+Management and Budget, shall make rules to carry out 
+1
+this section and the amendments made by this section. 
+2
+SEC. 3. PROHIBITION OF BIAS IN USE OF AUTOMATED SYS-
+3
+TEMS BY THE DEPARTMENT OF DEFENSE. 
+4
+(a) IN GENERAL.—Chapter 3 of title 10, United 
+5
+States Code, is amended by adding at the end the fol-
+6
+lowing new section: 
+7
+‘‘§ 130l. Prohibition of use of automated systems with 
+8
+bias 
+9
+‘‘(a) IN GENERAL.—None of the funds authorized to 
+10
+be appropriated or otherwise made available for any fiscal 
+11
+year for the Department of Defense may be used for the 
+12
+use of any automated decision system with any adverse 
+13
+distinction based on race, religion, sex, health, age, or any 
+14
+other similar criteria. 
+15
+‘‘(b) PUBLICLY AVAILABLE REPOSITORY.—Not later 
+16
+than one year after the effective date of this section, the 
+17
+Secretary of Defense shall maintain a site on the public 
+18
+website of the Department of Defense that contains a bias 
+19
+datasheet for each automated decision system used by the 
+20
+Department of Defense with the potential for an adverse 
+21
+distinction on the bases established under subsection (a). 
+22
+‘‘(c) DEFINITIONS.—In this section: 
+23
+22:51 Jun 13, 2022
+H7449
+5 
+•HR 7449 IH
+‘‘(1) The term ‘automated decision system’ has 
+1
+the meaning given such term in section 701 of the 
+2
+Civil Rights Act of 1964. 
+3
+‘‘(2) The term ‘adverse distinction’ has the 
+4
+meaning given such term through the application of 
+5
+the Geneva Conventions and customary international 
+6
+law. 
+7
+‘‘(3) The term ‘bias datasheet’ means a 
+8
+datasheet conforming to the standard published pur-
+9
+suant to section 22B of the National Institute of 
+10
+Standards and Technology Act and includes an ad-
+11
+dendum related to international law.’’. 
+12
+(b) REPORT REQUIRED.— 
+13
+(1) IN GENERAL.—Not later than 1 year after 
+14
+the date of the enactment of this Act, the Secretary 
+15
+of Defense, in coordination with the Secretary of 
+16
+State, shall submit to the appropriate congressional 
+17
+committees a report on the implementation of the 
+18
+amendments made by this section. 
+19
+(2) ELEMENTS.—The report required by sub-
+20
+section (b) shall include the following: 
+21
+(A) An accounting of regulations pre-
+22
+scribed, revised, or withdrawn in the implemen-
+23
+tation of the prohibition created under sub-
+24
+section (a). 
+25
+22:51 Jun 13, 2022
+H7449
+6 
+•HR 7449 IH
+(B) An identification and assessment of 
+1
+any automated decision systems used by the 
+2
+Department of Defense prior to the enactment 
+3
+of this Act which had an adverse distinction 
+4
+based on race, religion, sex, health, age, or any 
+5
+other similar criteria. 
+6
+(C) Recommendations for actions to affirm 
+7
+the same prohibition for all parties to the Gene-
+8
+va Conventions. 
+9
+(3) FORM.—The report under paragraph (1) 
+10
+shall be submitted in unclassified form, but may 
+11
+contain a classified annex. The unclassified portion 
+12
+of the report shall be posted on a publicly available 
+13
+website of the Department of Defense. 
+14
+(c) DEFINITION.—In this section the term ‘‘appro-
+15
+priate congressional committees’’ means— 
+16
+(1) the congressional defense committees; 
+17
+(2) the Committee on Foreign Relations and 
+18
+the Select Committee on Intelligence of the Senate; 
+19
+and 
+20
+(3) the Committee on Foreign Affairs and the 
+21
+Permanent Select Committee on Intelligence of the 
+22
+House of Representatives. 
+23
+(d) CLERICAL AMENDMENT.—The table of sections 
+24
+at the beginning of such chapter is amended by inserting 
+25
+22:51 Jun 13, 2022
+H7449
+7 
+•HR 7449 IH
+after the item relating to section 130k the following new 
+1
+item: 
+2
+‘‘130l. Prohibition of use of automated systems with bias.’’. 
+(e) EFFECTIVE DATE.—The amendments made by 
+3
+this section shall take effect on the date that is one year 
+4
+after the date of the enactment of this Act. 
+5
+SEC. 4. REPORT ON INTELLIGENCE COMMUNITY USE OF 
+6
+AUTOMATED DECISION SYSTEMS WITH BIAS. 
+7
+(a) IN GENERAL.—Not later than 180 days after the 
+8
+date of the enactment of this Act, the Director of National 
+9
+Intelligence shall submit to the appropriate congressional 
+10
+committees a report on the use within the intelligence 
+11
+community of automated decision systems with an adverse 
+12
+distinction based on race, religion, sex, health, age, or any 
+13
+other similar criteria. 
+14
+(b) ELEMENTS.—The report required by subsection 
+15
+(a) shall include the following: 
+16
+(1) An accounting of the automated decision 
+17
+systems used by the intelligence community, exclud-
+18
+ing cyberspace operations, with the potential for an 
+19
+adverse distinction based on race, religion, sex, 
+20
+health, age, or any other similar criteria. 
+21
+(2) An assessment of any adverse distinctions 
+22
+based on race, religion, sex, health, age, or any other 
+23
+similar criteria. 
+24
+22:51 Jun 13, 2022
+H7449
+8 
+•HR 7449 IH
+(3) An assessment of the impact of a prohibi-
+1
+tion within the intelligence community on automated 
+2
+decision systems with an adverse distinction based 
+3
+on race, religion, sex, health, age, or any other simi-
+4
+lar criteria. 
+5
+(4) An assessment of the programs and funding 
+6
+required to replace within the intelligence commu-
+7
+nity any automated decision systems with an adverse 
+8
+distinction based on race, religion, sex, health, age, 
+9
+or any other similar criteria. 
+10
+(c) FORM.—The report under subsection (a) may be 
+11
+submitted in classified form, but if so submitted shall in-
+12
+clude an unclassified executive summary. The unclassified 
+13
+portion of the report shall be posted on a publicly available 
+14
+website of the Office of the Director of National Intel-
+15
+ligence. 
+16
+(d) DEFINITION.—In this section: 
+17
+(1) The term ‘‘appropriate congressional com-
+18
+mittees’’ means— 
+19
+(A) the congressional defense committees; 
+20
+(B) the Committee on Foreign Relations 
+21
+and the Select Committee on Intelligence of the 
+22
+Senate; and 
+23
+22:51 Jun 13, 2022
+H7449
+9 
+•HR 7449 IH
+(C) the Committee on Foreign Affairs and 
+1
+the Permanent Select Committee on Intelligence 
+2
+of the House of Representatives. 
+3
+(2) The term ‘‘intelligence community’’ has the 
+4
+meaning given such term in section 3003(4) of title 
+5
+50, United States Code. 
+6
+(3) The term ‘‘automated decision system’’ has 
+7
+the meaning given such term in section 701 of the 
+8
+Civil Rights Act of 1964. 
+9
+(4) The term ‘‘adverse distinction’’ has the 
+10
+meaning given such term through the application of 
+11
+the Geneva Conventions and customary international 
+12
+law. 
+13
+SEC. 5. ESTABLISHMENT OF DATASHEET STANDARDS ON 
+14
+AUTOMATED DECISION SYSTEM BIAS. 
+15
+(a) IN GENERAL.—The National Institute of Stand-
+16
+ards and Technology Act (15 U.S.C. 271 et seq.) is 
+17
+amended by inserting after section 22A the following new 
+18
+section: 
+19
+‘‘SEC. 
+22B. 
+AUTOMATED 
+DECISION 
+SYSTEM 
+BIAS 
+20
+DATASHEETS. 
+21
+‘‘(a) IN GENERAL.—The Director of the Institute, in 
+22
+consultation with such researchers, private sector industry 
+23
+experts, legal experts, and civil rights experts as the Direc-
+24
+tor considers appropriate, shall develop, publish, and 
+25
+22:51 Jun 13, 2022
+H7449
+10 
+•HR 7449 IH
+maintain standards for reporting bias in an automated de-
+1
+cision system. 
+2
+‘‘(b) ELEMENTS.—The standards described in sub-
+3
+section (a) shall require the following: 
+4
+‘‘(1) An assessment of bias on the basis of race, 
+5
+national origin, color, religion, disability, sex, sexual 
+6
+orientation, or gender identity. 
+7
+‘‘(2) The source, size, and characteristics of any 
+8
+dataset used as the basis for the automated decision 
+9
+system. 
+10
+‘‘(3) The content is accessible and machine 
+11
+readable in accordance with the 21st Century Inte-
+12
+grated Digital Experience Act (44 U.S.C. 3501 
+13
+note). 
+14
+‘‘(4) Any other requirements as determined by 
+15
+the Director. 
+16
+‘‘(c) DEFINITIONS.—In this section the term ‘auto-
+17
+mated decision system’ has the meaning given such term 
+18
+in section 701 of the Civil Rights Act of 1964.’’. 
+19
+(b) DEADLINE
+FOR IMPLEMENTATION.—Not later 
+20
+than 18 months after the date of the enactment of this 
+21
+Act, the Director shall initially publish the standards re-
+22
+quired under subsection (a). 
+23
+Æ 
+22:51 Jun 13, 2022
+H7449

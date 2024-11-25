@@ -1,0 +1,548 @@
+A BILL 
+To amend titles XVIII and XIX of the Social Security Act 
+to promote the ability of individuals entitled to benefits 
+under part A or enrolled under part B of the Medicare 
+program and individuals enrolled under a State plan 
+under the Medicaid program to access their personal 
+medical claim data, including their providers, prescrip-
+tions, tests, and diagnoses, through a mobile health 
+record application of the individual’s choosing, and for 
+other purposes. 
+00:29 Mar 08, 2019
+H1390
+2 
+•HR 1390 IH
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Mobile Health Record 
+4
+Act of 2019’’. 
+5
+SEC. 2. FINDINGS; SENSE OF CONGRESS. 
+6
+(a) FINDINGS.—Congress finds the following: 
+7
+(1) The Centers for Medicare & Medicaid Serv-
+8
+ices’ (CMS) Blue Button 2.0 Program was an-
+9
+nounced in April 2018 to build upon CMS’s Blue 
+10
+Button Program. 
+11
+(2) The Blue Button 2.0 Program provides 4 
+12
+years of Medicare part A, B, and D data for 53 mil-
+13
+lion Medicare beneficiaries through an Application 
+14
+Programming Interface (API). The data contains a 
+15
+variety of information including, but not limited to, 
+16
+a list of a patient’s providers, prescriptions, tests, 
+17
+and diagnoses. The Blue Button 2.0 Program re-
+18
+quires the use of CMS-approved applications to 
+19
+allow beneficiaries to download coded data. 
+20
+(3) Mobile applications currently exist that have 
+21
+the power to decode the Medicare Blue Button data 
+22
+and present it in a user-friendly, easy-to-read and 
+23
+understand format. Prior to Blue Button 2.0, the 
+24
+Blue Button Program allowed beneficiaries to 
+25
+00:29 Mar 08, 2019
+H1390
+3 
+•HR 1390 IH
+download such data, but the information was not de-
+1
+coded into the easy-to-read and understand format 
+2
+that a mobile application provides. 
+3
+(4) The Blue Button 2.0 Program was created 
+4
+to empower patients with the use of these applica-
+5
+tions, but additional steps need to be taken in order 
+6
+to ensure the program reaches its intended purpose 
+7
+of providing patients with their personal medical 
+8
+claim information to prevent harmful medical errors 
+9
+and reducing redundant spending. 
+10
+(5) According to a study published by Johns 
+11
+Hopkins University in 2016, more than 250,000 
+12
+deaths per year are due to medical error, making it 
+13
+the third leading cause of death in the United 
+14
+States. Further, millions of dollars are wasted on 
+15
+duplicative or unnecessary tests and procedures. 
+16
+(b) SENSE OF CONGRESS.—It is the sense of Con-
+17
+gress that the Centers for Medicare & Medicaid Services’ 
+18
+Blue Button 2.0 Program has the potential to positively 
+19
+influence patient behavior, improve patient safety and 
+20
+health outcomes, and help reduce unnecessary health care 
+21
+expenditures, but action needs to be taken to help the ini-
+22
+tiative meet the program’s goals. 
+23
+00:29 Mar 08, 2019
+H1390
+4 
+•HR 1390 IH
+SEC. 3. PROMOTING PATIENT ACCESS TO PERSONAL MED-
+1
+ICAL CLAIM INFORMATION, INCLUDING A PA-
+2
+TIENT’S PROVIDERS, PRESCRIPTIONS, TESTS, 
+3
+AND DIAGNOSES, THROUGH THE USE OF MO-
+4
+BILE HEALTH RECORD APPLICATIONS. 
+5
+(a) MEDICARE.—Title XVIII of the Social Security 
+6
+Act (42 U.S.C. 1395 et seq.) is amended by adding at 
+7
+the end the following new section: 
+8
+‘‘SEC. 1899C. MOBILE ACCESS TO PERSONAL MEDICAL IN-
+9
+FORMATION PROGRAM. 
+10
+‘‘(a) ESTABLISHMENT.— 
+11
+‘‘(1) IN GENERAL.—Not later than January 1, 
+12
+2020, the Secretary shall establish a program to be 
+13
+known as the ‘Mobile Access to Personal Medical In-
+14
+formation Program’ (in this section referred to as 
+15
+the ‘Program’) for purposes of creating a developer- 
+16
+friendly, standards-based API that enables individ-
+17
+uals entitled to benefits under part A or enrolled 
+18
+under part B to connect their claims data to the ap-
+19
+plications, services, and research programs they 
+20
+trust while allowing such individuals to retain full 
+21
+control over how the copy of the data they receive 
+22
+can be used and by whom. The Program shall pro-
+23
+vide such an individual access to the personal med-
+24
+ical claim information of the individual through a 
+25
+mobile health record application of the individual’s 
+26
+00:29 Mar 08, 2019
+H1390
+5 
+•HR 1390 IH
+choice approved by the Secretary under subsection 
+1
+(b). Such information shall be made available 
+2
+through such application in a manner similar to how 
+3
+such information is made available under the Blue 
+4
+Button 2.0 program (or a successor program). 
+5
+‘‘(2) ENCOURAGING USE OF PROGRAM.—In car-
+6
+rying out the Program, the Secretary shall consider 
+7
+establishing methods for encouraging individuals de-
+8
+scribed in paragraph (1) to access their personal 
+9
+medical claim information under the Program. Such 
+10
+methods may include— 
+11
+‘‘(A) providing individuals described in 
+12
+paragraph (1) access to a one-time financial in-
+13
+centive to download for free or at a discounted 
+14
+price a CMS-approved mobile health record ap-
+15
+plication of their choice that can be used to ac-
+16
+cess their personal medical claim information 
+17
+under the Program; 
+18
+‘‘(B) paying a reasonable fee per download 
+19
+to the application developer to be capped at a 
+20
+fair market value; or 
+21
+‘‘(C) other methods determined appro-
+22
+priate by the Secretary. 
+23
+For purposes of the previous sentence, the Secretary 
+24
+shall consult with application developers, insurers, 
+25
+00:29 Mar 08, 2019
+H1390
+6 
+•HR 1390 IH
+and other appropriate entities determined by the 
+1
+Secretary, to establish appropriate methods of finan-
+2
+cial incentive payment for applications approved to 
+3
+participate in the program. 
+4
+‘‘(b) MOBILE HEALTH RECORD APPLICATIONS.— 
+5
+‘‘(1) APPROVAL.—The Secretary shall establish 
+6
+a process under which the Secretary, in consultation 
+7
+with staff with appropriate technical expertise, ap-
+8
+proves mobile health record applications for use 
+9
+under the Program. Such process shall include re-
+10
+quirements providing that such application— 
+11
+‘‘(A) demonstrates the capacity to provide 
+12
+the personal medical claim information of an in-
+13
+dividual described in subsection (a) to such in-
+14
+dividual in an easily accessible format; 
+15
+‘‘(B) utilizes a machine-readable, struc-
+16
+tured, coded format conforming to a data con-
+17
+tent standard approved by the Secretary; 
+18
+‘‘(C) has the ability to aggregate data from 
+19
+multiple sources; 
+20
+‘‘(D) is encrypted (or contains other data 
+21
+security safeguards determined appropriate by 
+22
+the Secretary) and conforms to other cybersecu-
+23
+rity standards and best practices determined 
+24
+appropriate by the Secretary; 
+25
+00:29 Mar 08, 2019
+H1390
+7 
+•HR 1390 IH
+‘‘(E) provides for a mechanism through 
+1
+which the Secretary may track the number of 
+2
+times and frequency with which such individual 
+3
+accesses the personal medical claim information 
+4
+of such individual; 
+5
+‘‘(F) does not use a third-party service for 
+6
+ad revenue or for any other means; and 
+7
+‘‘(G) meets such other requirements as 
+8
+may be specified by the Secretary. 
+9
+‘‘(2) ANNUAL
+REVIEW
+OF
+APPROVAL.—The 
+10
+Secretary shall, not less than annually and in con-
+11
+sultation with staff with appropriate technical exper-
+12
+tise, review each mobile health record application ap-
+13
+proved under paragraph (1) to determine whether 
+14
+such application continues to meet the requirements 
+15
+specified in such paragraph. The Secretary shall re-
+16
+voke the approval of any such application that fails 
+17
+to meet such requirements. 
+18
+‘‘(c) INFORMATION
+ON PROGRAM.—The Secretary 
+19
+shall, through the public website of the Centers for Medi-
+20
+care & Medicaid Services, mailed notices, through a notice 
+21
+at the time of enrollment of an individual in part A or 
+22
+part B, public awareness campaigns, the notice described 
+23
+in section 1804(a), the provision of personalized preven-
+24
+tion plan services (as defined in section 1861(hhh)), or 
+25
+00:29 Mar 08, 2019
+H1390
+8 
+•HR 1390 IH
+otherwise (as determined appropriate by the Secretary), 
+1
+ensure that individuals described in subsection (a) receive 
+2
+information not less than twice each year regarding the 
+3
+Program, including a list of mobile health record applica-
+4
+tions approved under subsection (b)(1). 
+5
+‘‘(d) CYBERSECURITY AND DATA PRIVACY.— 
+6
+‘‘(1) CONSULTATION.—In carrying out the Pro-
+7
+gram, the Secretary shall consult with the National 
+8
+Coordinator for Health Information Technology and 
+9
+other Federal agencies determined appropriate by 
+10
+the Secretary to ensure the compliance of entities 
+11
+participating in the Program with all applicable pro-
+12
+visions of the regulations promulgated by the Sec-
+13
+retary under part C of title XI and section 264 of 
+14
+the Health Insurance Portability and Accountability 
+15
+Act of 1996. 
+16
+‘‘(2) ADDITIONAL
+CYBERSECURITY
+PROTEC-
+17
+TIONS.—In carrying out the Program, the Secretary 
+18
+shall consult with appropriate Federal agencies, in-
+19
+cluding the National Institute for Standards and 
+20
+Technology, and appropriate public-private partner-
+21
+ships (such as the Sector Coordinating Councils), in-
+22
+cluding the Healthcare and Public Health Sector Co-
+23
+ordinating Council, to ensure that relevant and ap-
+24
+plicable cybersecurity guidelines are followed when 
+25
+00:29 Mar 08, 2019
+H1390
+9 
+•HR 1390 IH
+establishing the Program (including when estab-
+1
+lishing standards and best practices under sub-
+2
+section (b)(1)(D) and standards and criteria under 
+3
+subsection (e)(1)(C)). 
+4
+‘‘(e) DEFINITIONS.—In this section: 
+5
+‘‘(1) MOBILE HEALTH RECORD APPLICATION.— 
+6
+The term ‘mobile health record application’ means a 
+7
+software application that— 
+8
+‘‘(A) runs on a mobile device (such as a 
+9
+mobile phone or handheld computing platform); 
+10
+‘‘(B) allows an individual to access the in-
+11
+dividual’s personal medical claim information; 
+12
+and 
+13
+‘‘(C) meets such cybersecurity and data se-
+14
+curity standards and criteria as the Secretary 
+15
+may specify, which may be similar to such 
+16
+standards and criteria used under the Blue 
+17
+Button 2.0 program (or a successor program). 
+18
+‘‘(2) PERSONAL
+MEDICAL
+CLAIM
+INFORMA-
+19
+TION.—The term ‘personal medical claim informa-
+20
+tion’ means, with respect to an individual— 
+21
+‘‘(A) a list of claims for items and services 
+22
+furnished to such individual payable under part 
+23
+A or part B, including any prescriptions or 
+24
+tests; 
+25
+00:29 Mar 08, 2019
+H1390
+10 
+•HR 1390 IH
+‘‘(B) a list of providers and suppliers who 
+1
+furnished such items and services; 
+2
+‘‘(C) any diagnoses made by such providers 
+3
+and suppliers; 
+4
+‘‘(D) Medicare Advantage encounter data 
+5
+from an MA or MA–PD plan under part C; and 
+6
+‘‘(E) prescription drug event data.’’. 
+7
+(b) MEDICAID.—Section 1903 of the Social Security 
+8
+Act (42 U.S.C. 1396b) is amended by adding at the end 
+9
+the following new subsection: 
+10
+‘‘(aa) PAYMENTS FOR MOBILE ACCESS TO PERSONAL 
+11
+MEDICAL CLAIM INFORMATION.— 
+12
+‘‘(1) PAYMENTS.—In addition to payments oth-
+13
+erwise provided under subsection (a), in the case of 
+14
+a State that elects to develop, or purchase from a 
+15
+private entity, a mobile health record application 
+16
+through which an individual enrolled under the State 
+17
+plan (or a waiver of such plan) may access the per-
+18
+sonal medical claim information of such individual, 
+19
+the Secretary shall pay to such State, for each quar-
+20
+ter beginning on or after the date of the enactment 
+21
+of the Mobile Health Record Act of 2019, an 
+22
+amount equal to 90 percent of so much of the sums 
+23
+expended during such quarter as are attributable to 
+24
+00:29 Mar 08, 2019
+H1390
+11 
+•HR 1390 IH
+the development, or purchase, of such mobile health 
+1
+record application. 
+2
+‘‘(2) DEFINITIONS.—In this subsection: 
+3
+‘‘(A) MOBILE HEALTH RECORD APPLICA-
+4
+TION.—The term ‘mobile health record applica-
+5
+tion’ has the meaning given such term in sec-
+6
+tion 1899C(e). 
+7
+‘‘(B) PERSONAL MEDICAL CLAIM INFORMA-
+8
+TION.—The term ‘personal medical claim infor-
+9
+mation’ means, with respect to a State and an 
+10
+individual enrolled under the State plan (or a 
+11
+waiver of such plan)— 
+12
+‘‘(i) a list of claims for items and 
+13
+services furnished to such individual under 
+14
+the State plan (or waiver), including any 
+15
+prescriptions or tests; 
+16
+‘‘(ii) a list of providers and suppliers 
+17
+who furnished such items and services; and 
+18
+‘‘(iii) any diagnoses made by such 
+19
+providers and suppliers.’’. 
+20
+Æ 
+00:29 Mar 08, 2019
+H1390

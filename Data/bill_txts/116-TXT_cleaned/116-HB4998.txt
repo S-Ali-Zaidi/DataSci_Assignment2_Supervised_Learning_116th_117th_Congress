@@ -1,0 +1,1472 @@
+A BILL 
+To prohibit certain Federal loans, grants, and subsidies from 
+being used to purchase communications equipment or 
+services posing national security risks, to provide for 
+the establishment of a reimbursement program for the 
+replacement of communications equipment or services 
+posing such risks, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Secure and Trusted 
+4
+Communications Networks Act of 2019’’. 
+5
+03:26 Nov 16, 2019
+H4998
+2 
+•HR 4998 IH
+SEC. 2. DETERMINATION OF COMMUNICATIONS EQUIP-
+1
+MENT OR SERVICES POSING NATIONAL SECU-
+2
+RITY RISKS. 
+3
+(a) PUBLICATION
+OF COVERED COMMUNICATIONS 
+4
+EQUIPMENT OR SERVICES LIST.—Not later than 1 year 
+5
+after the date of the enactment of this Act, the Commis-
+6
+sion shall publish on its website a list of covered commu-
+7
+nications equipment or services. 
+8
+(b) DETERMINATION BY COMMISSION.—The Com-
+9
+mission shall place on the list published under subsection 
+10
+(a) any communications equipment or service, if and only 
+11
+if the Commission determines that such equipment or 
+12
+service— 
+13
+(1) is produced or provided by— 
+14
+(A) Huawei Technologies Co. Limited, 
+15
+Zhongxing 
+Telecommunications 
+Equipment 
+16
+Corporation, or any subsidiary or affiliate of ei-
+17
+ther such entity; 
+18
+(B) any successor to any entity described 
+19
+in subparagraph (A); or 
+20
+(C) any other entity, if the Commission de-
+21
+termines, based exclusively on the determina-
+22
+tions described in paragraphs (1) through (3) 
+23
+of subsection (c), that such equipment or serv-
+24
+ice produced or provided by such entity poses 
+25
+an unacceptable risk to the national security of 
+26
+03:26 Nov 16, 2019
+H4998
+3 
+•HR 4998 IH
+the United States or the security and safety of 
+1
+United States persons; and 
+2
+(2) is capable of— 
+3
+(A) routing or redirecting user data traffic 
+4
+or permitting visibility into any user data or 
+5
+packets that such equipment or service trans-
+6
+mits or otherwise handles; or 
+7
+(B) causing the network of a provider of 
+8
+advanced communications service to be dis-
+9
+rupted remotely. 
+10
+(c) RELIANCE
+ON CERTAIN OTHER DETERMINA-
+11
+TIONS.—In making a determination under subsection 
+12
+(b)(1)(C), the Commission shall rely solely on one or more 
+13
+of the following determinations: 
+14
+(1) A specific determination made by any exec-
+15
+utive branch interagency body with appropriate na-
+16
+tional security expertise, including the Federal Ac-
+17
+quisition Security Council established under section 
+18
+1322(a) of title 41, United States Code. 
+19
+(2) A specific determination made by the De-
+20
+partment of Commerce pursuant to Executive Order 
+21
+13873 (84 Fed. Reg. 22689; relating to securing the 
+22
+information and communications technology and 
+23
+services supply chain). 
+24
+03:26 Nov 16, 2019
+H4998
+4 
+•HR 4998 IH
+(3) The communications equipment or service 
+1
+being covered telecommunications equipment or serv-
+2
+ices, as defined in section 889(f)(3) of the John S. 
+3
+McCain National Defense Authorization Act for Fis-
+4
+cal Year 2019 (Public Law 115–232; 132 Stat. 
+5
+1918). 
+6
+(d) UPDATING OF LIST.— 
+7
+(1) IN GENERAL.—The Commission shall peri-
+8
+odically update the list published under subsection 
+9
+(a), as necessary to protect national security and to 
+10
+address changes in the determinations described in 
+11
+paragraphs (1) through (3) of subsection (c). 
+12
+(2) MONITORING
+OF
+DETERMINATIONS.—The 
+13
+Commission shall monitor the making or reversing 
+14
+of the determinations described in paragraphs (1) 
+15
+through (3) of subsection (c) in order to determine 
+16
+whether to place communications equipment or serv-
+17
+ices on the list published under subsection (a) or to 
+18
+remove communications equipment or services from 
+19
+such list. If a determination described in any such 
+20
+paragraph that provided the basis for a determina-
+21
+tion by the Commission under subsection (b)(1)(C) 
+22
+with respect to any communications equipment or 
+23
+service is reversed, the Commission shall remove 
+24
+such equipment or service from such list, except that 
+25
+03:26 Nov 16, 2019
+H4998
+5 
+•HR 4998 IH
+the Commission may not remove such equipment or 
+1
+service from such list if any other determination de-
+2
+scribed in any such paragraph provides a basis for 
+3
+a determination by the Commission under subsection 
+4
+(b)(1)(C) with respect to such equipment or service. 
+5
+(3) PUBLIC
+NOTIFICATION.—For each 12- 
+6
+month period during which the list published under 
+7
+subsection (a) is not updated, the Commission shall 
+8
+notify the public that no updates were necessary 
+9
+during such period to protect national security or to 
+10
+address changes in the determinations described in 
+11
+paragraphs (1) through (3) of subsection (c). 
+12
+SEC. 3. PROHIBITION ON USE OF CERTAIN FEDERAL 
+13
+LOANS, GRANTS, AND SUBSIDIES. 
+14
+(a) IN GENERAL.— 
+15
+(1) PROHIBITION.—A Federal loan, grant, or 
+16
+subsidy that is made available through a program 
+17
+administered by the Commission and that provides 
+18
+funds to be used for the capital expenditures nec-
+19
+essary for the provision of advanced communications 
+20
+service may not be used to— 
+21
+(A) purchase, rent, lease, or otherwise ob-
+22
+tain any covered communications equipment or 
+23
+service; or 
+24
+03:26 Nov 16, 2019
+H4998
+6 
+•HR 4998 IH
+(B) maintain any covered communications 
+1
+equipment or service previously purchased, 
+2
+rented, leased, or otherwise obtained. 
+3
+(2) TIMING.—Paragraph (1) shall apply with 
+4
+respect to any covered communications equipment or 
+5
+service beginning on the date that is 60 days after 
+6
+the date on which the Commission places such 
+7
+equipment or service on the list required by section 
+8
+2(a). In the case of any covered communications 
+9
+equipment or service that is on the initial list pub-
+10
+lished under such section, such equipment or service 
+11
+shall be treated as being placed on the list on the 
+12
+date on which such list is published. 
+13
+(b) COMPLETION OF PROCEEDING.—Not later than 
+14
+90 days after the date of the enactment of this Act, the 
+15
+Commission shall adopt a Report and Order in the matter 
+16
+of Protecting Against National Security Threats to the 
+17
+Communications Supply Chain Through FCC Programs 
+18
+(WC Docket No. 18–89) that implements subsection (a). 
+19
+(c) RULE OF CONSTRUCTION.—Nothing in this sec-
+20
+tion may be construed to limit a Federal agency from pro-
+21
+curing goods or services. 
+22
+03:26 Nov 16, 2019
+H4998
+7 
+•HR 4998 IH
+SEC. 4. SECURE AND TRUSTED COMMUNICATIONS NET-
+1
+WORKS REIMBURSEMENT PROGRAM. 
+2
+(a) IN GENERAL.—The Commission shall establish a 
+3
+reimbursement program, to be known as the ‘‘Secure and 
+4
+Trusted Communications Networks Reimbursement Pro-
+5
+gram’’, to make reimbursements to providers of advanced 
+6
+communications service to replace covered communica-
+7
+tions equipment or services. 
+8
+(b) ELIGIBILITY.—The Commission may not make a 
+9
+reimbursement under the Program to a provider of ad-
+10
+vanced communications service unless the provider— 
+11
+(1) has 2,000,000 or fewer customers; and 
+12
+(2) makes all of the certifications required by 
+13
+subsection (d)(5). 
+14
+(c) USE OF FUNDS.— 
+15
+(1) IN GENERAL.—A recipient of a reimburse-
+16
+ment under the Program shall use reimbursement 
+17
+funds solely for the purposes of— 
+18
+(A) permanently removing covered commu-
+19
+nications equipment or services purchased, 
+20
+rented, leased, or otherwise obtained before— 
+21
+(i) in the case of any covered commu-
+22
+nications equipment or services that are on 
+23
+the initial list published under section 2(a), 
+24
+August 14, 2018; or 
+25
+03:26 Nov 16, 2019
+H4998
+8 
+•HR 4998 IH
+(ii) in the case of any covered commu-
+1
+nications equipment or services that are 
+2
+not on the initial list published under sec-
+3
+tion 2(a), the date that is 60 days after 
+4
+the date on which the Commission places 
+5
+such equipment or services on the list re-
+6
+quired by such section; 
+7
+(B) replacing the covered communications 
+8
+equipment or services removed as described in 
+9
+subparagraph (A) with communications equip-
+10
+ment or services that are not covered commu-
+11
+nications equipment or services; and 
+12
+(C) disposing of the covered communica-
+13
+tions equipment or services removed as de-
+14
+scribed in subparagraph (A) in accordance with 
+15
+the requirements under subsection (d)(8). 
+16
+(2) LIMITATIONS.—A recipient of a reimburse-
+17
+ment under the Program may not— 
+18
+(A) use reimbursement funds to remove, 
+19
+replace, or dispose of any covered communica-
+20
+tions equipment or service purchased, rented, 
+21
+leased, or otherwise obtained on or after— 
+22
+(i) in the case of any covered commu-
+23
+nications equipment or service that is on 
+24
+03:26 Nov 16, 2019
+H4998
+9 
+•HR 4998 IH
+the initial list published under section 2(a), 
+1
+August 14, 2018; or 
+2
+(ii) in the case of any covered commu-
+3
+nications equipment or service that is not 
+4
+on the initial list published under section 
+5
+2(a), the date that is 60 days after the 
+6
+date on which the Commission places such 
+7
+equipment or service on the list required 
+8
+by such section; or 
+9
+(B) purchase, rent, lease, or otherwise ob-
+10
+tain any covered communications equipment or 
+11
+service, using reimbursement funds or any 
+12
+other funds (including funds derived from pri-
+13
+vate sources). 
+14
+(d) IMPLEMENTATION.— 
+15
+(1) REGULATIONS.—Not later than 270 days 
+16
+after the date of the enactment of this Act, the 
+17
+Commission shall promulgate regulations to imple-
+18
+ment the Program. 
+19
+(2) SUGGESTED REPLACEMENTS.— 
+20
+(A) DEVELOPMENT OF LIST.—The Com-
+21
+mission shall develop a list of suggested replace-
+22
+ments of both physical and virtual communica-
+23
+tions equipment, application and management 
+24
+software, and services. 
+25
+03:26 Nov 16, 2019
+H4998
+10 
+•HR 4998 IH
+(B) NEUTRALITY.—The list developed 
+1
+under subparagraph (A) shall be technology 
+2
+neutral and may not advantage the use of reim-
+3
+bursement funds for capital expenditures over 
+4
+operational expenditures, to the extent that the 
+5
+Commission determines that communications 
+6
+services can serve as an adequate substitute for 
+7
+the installation of communications equipment. 
+8
+(3) APPLICATION PROCESS.— 
+9
+(A) IN GENERAL.—The Commission shall 
+10
+develop an application process and related 
+11
+forms and materials for the Program. 
+12
+(B) COST ESTIMATE.— 
+13
+(i) INITIAL ESTIMATE.—The Commis-
+14
+sion shall require an applicant to provide 
+15
+an initial reimbursement cost estimate at 
+16
+the time of application, with supporting 
+17
+materials substantiating the costs. 
+18
+(ii) UPDATES.—During and after the 
+19
+application review process, the Commission 
+20
+may require an applicant to— 
+21
+(I) update the initial reimburse-
+22
+ment cost estimate submitted under 
+23
+clause (i); and 
+24
+03:26 Nov 16, 2019
+H4998
+11 
+•HR 4998 IH
+(II) submit additional supporting 
+1
+materials substantiating an updated 
+2
+cost estimate submitted under sub-
+3
+clause (I). 
+4
+(C) MITIGATION
+OF
+BURDEN.—In devel-
+5
+oping the application process under this para-
+6
+graph, the Commission shall take reasonable 
+7
+steps to mitigate the administrative burdens 
+8
+and costs associated with the application proc-
+9
+ess, while taking into account the need to avoid 
+10
+waste, fraud, and abuse in the Program. 
+11
+(4) APPLICATION REVIEW PROCESS.— 
+12
+(A) DEADLINE.— 
+13
+(i) IN GENERAL.—Except as provided 
+14
+in clause (ii) and subparagraph (B), the 
+15
+Commission shall approve or deny an ap-
+16
+plication for a reimbursement under the 
+17
+Program not later than 90 days after the 
+18
+date of the submission of the application. 
+19
+(ii) ADDITIONAL
+TIME
+NEEDED
+BY 
+20
+COMMISSION.—If the Commission deter-
+21
+mines that, because an excessive number of 
+22
+applications have been filed at one time, 
+23
+the Commission needs additional time for 
+24
+employees of the Commission to process 
+25
+03:26 Nov 16, 2019
+H4998
+12 
+•HR 4998 IH
+the applications, the Commission may ex-
+1
+tend the deadline described in clause (i) for 
+2
+not more than 45 days. 
+3
+(B) OPPORTUNITY
+FOR
+APPLICANT
+TO 
+4
+CURE DEFICIENCY.—If the Commission deter-
+5
+mines that an application is materially deficient 
+6
+(including by lacking an adequate cost estimate 
+7
+or adequate supporting materials), the Commis-
+8
+sion shall provide the applicant a 15-day period 
+9
+to cure the defect before denying the applica-
+10
+tion. If such period would extend beyond the 
+11
+deadline under subparagraph (A) for approving 
+12
+or denying the application, such deadline shall 
+13
+be extended through the end of such period. 
+14
+(C) EFFECT OF DENIAL.—Denial of an ap-
+15
+plication for a reimbursement under the Pro-
+16
+gram shall not preclude the applicant from re-
+17
+submitting the application or submitting a new 
+18
+application for a reimbursement under the Pro-
+19
+gram at a later date. 
+20
+(5) CERTIFICATIONS.—An applicant for a reim-
+21
+bursement under the Program shall, in the applica-
+22
+tion of the applicant, certify to the Commission 
+23
+that— 
+24
+03:26 Nov 16, 2019
+H4998
+13 
+•HR 4998 IH
+(A) as of the date of the submission of the 
+1
+application, the applicant— 
+2
+(i) has developed a plan for— 
+3
+(I) the permanent removal and 
+4
+replacement of any covered commu-
+5
+nications equipment or services that 
+6
+are in the communications network of 
+7
+the applicant as of such date; and 
+8
+(II) the disposal of the equip-
+9
+ment or services removed as described 
+10
+in subclause (I) in accordance with 
+11
+the requirements under paragraph 
+12
+(8); and 
+13
+(ii) has developed a specific timeline 
+14
+(subject to paragraph (7)) for the perma-
+15
+nent removal, replacement, and disposal of 
+16
+the covered communications equipment or 
+17
+services identified under clause (i), which 
+18
+timeline shall be submitted to the Commis-
+19
+sion as part of the application; and 
+20
+(B) beginning on the date of the approval 
+21
+of the application, the applicant— 
+22
+(i) will not purchase, rent, lease, or 
+23
+otherwise obtain covered communications 
+24
+equipment or services, using reimburse-
+25
+03:26 Nov 16, 2019
+H4998
+14 
+•HR 4998 IH
+ment funds or any other funds (including 
+1
+funds derived from private sources); and 
+2
+(ii) in developing and tailoring the 
+3
+risk management practices of the appli-
+4
+cant, will consult and consider the stand-
+5
+ards, guidelines, and best practices set 
+6
+forth in the cybersecurity framework devel-
+7
+oped by the National Institute of Stand-
+8
+ards and Technology. 
+9
+(6) 
+DISTRIBUTION
+OF
+REIMBURSEMENT 
+10
+FUNDS.— 
+11
+(A) IN GENERAL.—The Commission shall 
+12
+make reasonable efforts to ensure that reim-
+13
+bursement funds are distributed equitably 
+14
+among all applicants for reimbursements under 
+15
+the Program according to the needs of the ap-
+16
+plicants, as identified by the applications of the 
+17
+applicants. 
+18
+(B) NOTIFICATION.—If, at any time dur-
+19
+ing the implementation of the Program, the 
+20
+Commission determines that the funds made 
+21
+available to the Commission to carry out the 
+22
+Program will not be sufficient to fully fund all 
+23
+approved applications for reimbursements under 
+24
+03:26 Nov 16, 2019
+H4998
+15 
+•HR 4998 IH
+the Program, the Commission shall immediately 
+1
+notify— 
+2
+(i) the Committee on Energy and 
+3
+Commerce and the Committee on Appro-
+4
+priations of the House of Representatives; 
+5
+and 
+6
+(ii) the Committee on Commerce, 
+7
+Science, and Transportation and the Com-
+8
+mittee on Appropriations of the Senate. 
+9
+(7) REMOVAL, REPLACEMENT, AND DISPOSAL 
+10
+TERM.— 
+11
+(A) DEADLINE.—The permanent removal, 
+12
+replacement, and disposal of any covered com-
+13
+munications equipment or services identified 
+14
+under paragraph (5)(A)(i) shall be completed 
+15
+not later than 1 year after the date on which 
+16
+the Commission approves the application. 
+17
+(B) GENERAL EXTENSION.—The Commis-
+18
+sion may grant an extension of the deadline de-
+19
+scribed in subparagraph (A) for 6 months to all 
+20
+recipients of reimbursements under the Pro-
+21
+gram if the Commission— 
+22
+(i) finds that the supply of replace-
+23
+ment communications equipment or serv-
+24
+ices needed by the recipients to achieve the 
+25
+03:26 Nov 16, 2019
+H4998
+16 
+•HR 4998 IH
+purposes of the Program is inadequate to 
+1
+meet the needs of the recipients; and 
+2
+(ii) provides notice and a detailed jus-
+3
+tification for granting the extension to— 
+4
+(I) the Committee on Energy and 
+5
+Commerce of the House of Represent-
+6
+atives; and 
+7
+(II) the Committee on Com-
+8
+merce, Science, and Transportation of 
+9
+the Senate. 
+10
+(C) INDIVIDUAL EXTENSION.— 
+11
+(i) PETITION.—A recipient of a reim-
+12
+bursement under the Program may peti-
+13
+tion the Commission for an extension for 
+14
+such recipient of the deadline described in 
+15
+subparagraph (A) or, if the Commission 
+16
+has granted an extension of such deadline 
+17
+under subparagraph (B), such deadline as 
+18
+so extended. 
+19
+(ii) GRANT.—The Commission may 
+20
+grant a petition filed under clause (i) by 
+21
+extending, for the recipient that filed the 
+22
+petition, the deadline described in subpara-
+23
+graph (A) or, if the Commission has grant-
+24
+ed an extension of such deadline under 
+25
+03:26 Nov 16, 2019
+H4998
+17 
+•HR 4998 IH
+subparagraph (B), such deadline as so ex-
+1
+tended, for a period of not more than 6 
+2
+months if the Commission finds that, due 
+3
+to no fault of such recipient, such recipient 
+4
+is unable to complete the permanent re-
+5
+moval, replacement, and disposal described 
+6
+in subparagraph (A). 
+7
+(8) DISPOSAL OF COVERED COMMUNICATIONS 
+8
+EQUIPMENT OR SERVICES.—The Commission shall 
+9
+include in the regulations promulgated under para-
+10
+graph (1) requirements for the disposal by a recipi-
+11
+ent of a reimbursement under the Program of cov-
+12
+ered communications equipment or services identi-
+13
+fied under paragraph (5)(A)(i) and removed from 
+14
+the network of the recipient in order to prevent such 
+15
+equipment or services from being used in the net-
+16
+works of providers of advanced communications serv-
+17
+ice. 
+18
+(9) STATUS UPDATES.— 
+19
+(A) IN
+GENERAL.—Not less frequently 
+20
+than once every 90 days beginning on the date 
+21
+on which the Commission approves an applica-
+22
+tion for a reimbursement under the Program, 
+23
+the recipient of the reimbursement shall submit 
+24
+to the Commission a status update on the work 
+25
+03:26 Nov 16, 2019
+H4998
+18 
+•HR 4998 IH
+of the recipient to permanently remove, replace, 
+1
+and dispose of the covered communications 
+2
+equipment or services identified under para-
+3
+graph (5)(A)(i). 
+4
+(B) PUBLIC
+5
+30 days after the date on which the Commis-
+6
+sion receives a status update under subpara-
+7
+graph (A), the Commission shall make such sta-
+8
+tus update public on the website of the Com-
+9
+mission. 
+10
+(C) REPORTS TO CONGRESS.—Not less fre-
+11
+quently than once every 180 days beginning on 
+12
+the date on which the Commission first makes 
+13
+funds available to a recipient of a reimburse-
+14
+ment under the Program, the Commission shall 
+15
+prepare and submit to the Committee on En-
+16
+ergy and Commerce of the House of Represent-
+17
+atives and the Committee on Commerce, 
+18
+Science, and Transportation of the Senate a re-
+19
+port on— 
+20
+(i) the implementation of the Program 
+21
+by the Commission; and 
+22
+(ii) the work by recipients of reim-
+23
+bursements under the Program to perma-
+24
+nently remove, replace, and dispose of cov-
+25
+03:26 Nov 16, 2019
+H4998
+19 
+•HR 4998 IH
+ered communications equipment or services 
+1
+identified under paragraph (5)(A)(i). 
+2
+(e) MEASURES TO AVOID WASTE, FRAUD, AND 
+3
+ABUSE.— 
+4
+(1) IN GENERAL.—The Commission shall take 
+5
+all necessary steps to avoid waste, fraud, and abuse 
+6
+with respect to the Program. 
+7
+(2) SPENDING
+REPORTS.—The Commission 
+8
+shall require recipients of reimbursements under the 
+9
+Program to submit to the Commission on a regular 
+10
+basis reports regarding how reimbursement funds 
+11
+have been spent, including detailed accounting of the 
+12
+covered communications equipment or services per-
+13
+manently removed and disposed of, and the replace-
+14
+ment equipment or services purchased, rented, 
+15
+leased, or otherwise obtained, using reimbursement 
+16
+funds. 
+17
+(3) AUDITS, REVIEWS, AND FIELD INVESTIGA-
+18
+TIONS.—The Commission shall conduct— 
+19
+(A) regular audits and reviews of reim-
+20
+bursements under the Program to confirm that 
+21
+recipients of such reimbursements are com-
+22
+plying with this Act; and 
+23
+(B) random field investigations to ensure 
+24
+that recipients of reimbursements under the 
+25
+03:26 Nov 16, 2019
+H4998
+20 
+•HR 4998 IH
+Program are performing the work such recipi-
+1
+ents are required to perform under the commit-
+2
+ments made in the applications of such recipi-
+3
+ents for reimbursements under the Program, in-
+4
+cluding the permanent removal, replacement, 
+5
+and disposal of the covered communications 
+6
+equipment or services identified under sub-
+7
+section (d)(5)(A)(i). 
+8
+(4) FINAL CERTIFICATION.— 
+9
+(A) IN GENERAL.—The Commission shall 
+10
+require a recipient of a reimbursement under 
+11
+the Program to submit to the Commission, in 
+12
+a form and at an appropriate time to be deter-
+13
+mined by the Commission, a certification stat-
+14
+ing that the recipient— 
+15
+(i) has fully complied with (or is in 
+16
+the process of complying with) all terms 
+17
+and conditions of the Program; 
+18
+(ii) has fully complied with (or is in 
+19
+the process of complying with) the commit-
+20
+ments made in the application of the re-
+21
+cipient for the reimbursement; 
+22
+(iii) has permanently removed from 
+23
+the communications network of the recipi-
+24
+ent, replaced, and disposed of (or is in the 
+25
+03:26 Nov 16, 2019
+H4998
+21 
+•HR 4998 IH
+process of permanently removing, replac-
+1
+ing, and disposing of) all covered commu-
+2
+nications equipment or services that were 
+3
+in the network of the recipient as of the 
+4
+date of the submission of the application of 
+5
+the recipient for the reimbursement; and 
+6
+(iv) has fully complied with (or is in 
+7
+the process of complying with) the timeline 
+8
+submitted by the recipient under subpara-
+9
+graph (A)(ii) of paragraph (5) of sub-
+10
+section (d) and the other requirements of 
+11
+such paragraph. 
+12
+(B) UPDATED CERTIFICATION.—If, at the 
+13
+time when a recipient of a reimbursement under 
+14
+the Program submits a certification under sub-
+15
+paragraph (A), the recipient has not fully com-
+16
+plied as described in clause (i), (ii), or (iv) of 
+17
+such subparagraph or has not completed the 
+18
+permanent removal, replacement, and disposal 
+19
+described in clause (iii) of such subparagraph, 
+20
+the Commission shall require the recipient to 
+21
+file an updated certification when the recipient 
+22
+has fully complied as described in such clause 
+23
+(i), (ii), or (iv) or completed such permanent re-
+24
+moval, replacement, and disposal. 
+25
+03:26 Nov 16, 2019
+H4998
+22 
+•HR 4998 IH
+(f) EFFECT OF REMOVAL OF EQUIPMENT OR SERV-
+1
+ICE FROM LIST.— 
+2
+(1) IN GENERAL.—If, after the date on which 
+3
+a recipient of a reimbursement under the Program 
+4
+submits the application for the reimbursement, any 
+5
+covered communications equipment or service that is 
+6
+in the network of the recipient as of such date is re-
+7
+moved from the list published under section 2(a), 
+8
+the recipient may— 
+9
+(A) return to the Commission any reim-
+10
+bursement funds received for the removal, re-
+11
+placement, and disposal of such equipment or 
+12
+service and be released from any requirement 
+13
+under this section to remove, replace, or dispose 
+14
+of such equipment or service; or 
+15
+(B) retain any reimbursement funds re-
+16
+ceived for the removal, replacement, and dis-
+17
+posal of such equipment or service and remain 
+18
+subject to the requirements of this section to 
+19
+remove, replace, and dispose of such equipment 
+20
+or service as if such equipment or service con-
+21
+tinued to be on the list published under section 
+22
+2(a). 
+23
+(2) ASSURANCES.—In the case of an assurance 
+24
+relating to the removal, replacement, or disposal of 
+25
+03:26 Nov 16, 2019
+H4998
+23 
+•HR 4998 IH
+any equipment or service with respect to which the 
+1
+recipient returns to the Commission reimbursement 
+2
+funds under paragraph (1)(A), such assurance may 
+3
+be satisfied by making an assurance that such funds 
+4
+have been returned. 
+5
+(g) RULE OF CONSTRUCTION REGARDING TIMING OF 
+6
+REIMBURSEMENT.—Nothing in this section shall be con-
+7
+strued to prohibit the Commission from making a reim-
+8
+bursement under the Program to a provider of advanced 
+9
+communications service before the provider incurs the cost 
+10
+of the permanent removal, replacement, and disposal of 
+11
+the covered communications equipment or service for 
+12
+which the application of the provider has been approved 
+13
+under this section. 
+14
+(h) EDUCATION EFFORTS.—The Commission shall 
+15
+engage in education efforts with providers of advanced 
+16
+communications service to— 
+17
+(1) encourage such providers to participate in 
+18
+the Program; and 
+19
+(2) assist such providers in submitting applica-
+20
+tions for the Program. 
+21
+(i) SEPARATE FROM FEDERAL UNIVERSAL SERVICE 
+22
+PROGRAMS.—The Program shall be separate from any 
+23
+Federal universal service program established under sec-
+24
+03:26 Nov 16, 2019
+H4998
+24 
+•HR 4998 IH
+tion 254 of the Communications Act of 1934 (47 U.S.C. 
+1
+254). 
+2
+(j) AUTHORIZATION OF APPROPRIATIONS.—There is 
+3
+authorized to be appropriated to the Commission 
+4
+$1,000,000,000 for fiscal year 2020 to carry out the Pro-
+5
+gram. Such amount is authorized to remain available 
+6
+through fiscal year 2029. 
+7
+SEC. 5. HOLD HARMLESS. 
+8
+In the case of a person who is a winner of the Con-
+9
+nect America Fund Phase II auction, has not yet been 
+10
+authorized to receive Connect America Fund Phase II sup-
+11
+port, and demonstrates an inability to reasonably meet the 
+12
+build-out and service obligations of such person under 
+13
+Connect America Fund Phase II without using equipment 
+14
+or services prohibited under this Act, such person may 
+15
+withdraw the application of such person for Connect 
+16
+America Fund Phase II support without being found in 
+17
+default or subject to forfeiture. 
+18
+SEC. 6. ENFORCEMENT. 
+19
+(a) VIOLATIONS.—A violation of this Act or a regula-
+20
+tion promulgated under this Act shall be treated as a vio-
+21
+lation of the Communications Act of 1934 (47 U.S.C. 151 
+22
+et seq.) or a regulation promulgated under such Act, re-
+23
+spectively. The Commission shall enforce this Act and the 
+24
+regulations promulgated under this Act in the same man-
+25
+03:26 Nov 16, 2019
+H4998
+25 
+•HR 4998 IH
+ner, by the same means, and with the same jurisdiction, 
+1
+powers, and duties as though all applicable terms and pro-
+2
+visions of the Communications Act of 1934 were incor-
+3
+porated into and made a part of this Act. 
+4
+(b) ADDITIONAL PENALTIES.— 
+5
+(1) IN GENERAL.—Except as provided in para-
+6
+graph (2), in addition to penalties under the Com-
+7
+munications Act of 1934, a recipient of a reimburse-
+8
+ment under the Program found to have violated sec-
+9
+tion 4, the regulations promulgated under such sec-
+10
+tion, or the commitments made by the recipient in 
+11
+the application for the reimbursement— 
+12
+(A) shall repay to the Commission all reim-
+13
+bursement funds provided to the recipient 
+14
+under the Program; 
+15
+(B) shall be barred from further participa-
+16
+tion in the Program; 
+17
+(C) shall be referred to all appropriate law 
+18
+enforcement agencies or officials for further ac-
+19
+tion under applicable criminal and civil laws; 
+20
+and 
+21
+(D) may be barred by the Commission 
+22
+from participation in other programs of the 
+23
+Commission, including the Federal universal 
+24
+service support programs established under sec-
+25
+03:26 Nov 16, 2019
+H4998
+26 
+•HR 4998 IH
+tion 254 of the Communications Act of 1934 
+1
+(47 U.S.C. 254). 
+2
+(2) NOTICE AND OPPORTUNITY TO CURE.—The 
+3
+penalties described in paragraph (1) shall not apply 
+4
+to a recipient of a reimbursement under the Pro-
+5
+gram unless— 
+6
+(A) the Commission provides the recipient 
+7
+with notice of the violation; and 
+8
+(B) the recipient fails to cure the violation 
+9
+within 180 days after the Commission provides 
+10
+such notice. 
+11
+(c) RECOVERY OF FUNDS.—The Commission shall 
+12
+immediately take action to recover all reimbursement 
+13
+funds awarded to a recipient of a reimbursement under 
+14
+the Program in any case in which such recipient is re-
+15
+quired to repay reimbursement funds under subsection 
+16
+(b)(1)(A). 
+17
+SEC. 7. DEFINITIONS. 
+18
+In this Act: 
+19
+(1) ADVANCED
+COMMUNICATIONS
+SERVICE.— 
+20
+The term ‘‘advanced communications service’’ has 
+21
+the meaning given the term ‘‘advanced telecommuni-
+22
+cations capability’’ in section 706 of the Tele-
+23
+communications Act of 1996 (47 U.S.C. 1302). 
+24
+03:26 Nov 16, 2019
+H4998
+27 
+•HR 4998 IH
+(2) COMMISSION.—The term ‘‘Commission’’ 
+1
+means the Federal Communications Commission. 
+2
+(3) COVERED COMMUNICATIONS EQUIPMENT OR 
+3
+SERVICE.—The 
+term 
+‘‘covered 
+communications 
+4
+equipment or service’’ means any communications 
+5
+equipment or service that is on the list published by 
+6
+the Commission under section 2(a). 
+7
+(4) 
+CUSTOMERS.—The 
+term 
+‘‘customers’’ 
+8
+means, with respect to a provider of advanced com-
+9
+munications service— 
+10
+(A) the customers of such provider; and 
+11
+(B) the customers of any affiliate (as de-
+12
+fined in section 3 of the Communications Act of 
+13
+1934 (47 U.S.C. 153)) of such provider. 
+14
+(5) 
+EXECUTIVE
+BRANCH
+INTERAGENCY 
+15
+BODY.—The term ‘‘executive branch interagency 
+16
+body’’ means an interagency body established in the 
+17
+executive branch. 
+18
+(6) FEDERAL
+AGENCY.—The term ‘‘Federal 
+19
+agency’’ has the meaning given the term ‘‘agency’’ 
+20
+in section 551 of title 5, United States Code. 
+21
+(7) PERSON.—The term ‘‘person’’ means an in-
+22
+dividual or entity. 
+23
+(8) PROGRAM.—The term ‘‘Program’’ means 
+24
+the Secure and Trusted Communications Networks 
+25
+03:26 Nov 16, 2019
+H4998
+28 
+•HR 4998 IH
+Reimbursement Program established under section 
+1
+4(a). 
+2
+(9) PROVIDER OF ADVANCED COMMUNICATIONS 
+3
+SERVICE.—The term ‘‘provider of advanced commu-
+4
+nications service’’ means a person who provides ad-
+5
+vanced communications service to United States cus-
+6
+tomers. 
+7
+(10) RECIPIENT.—The term ‘‘recipient’’ means 
+8
+any provider of advanced communications service the 
+9
+application of which for a reimbursement under the 
+10
+Program has been approved by the Commission, re-
+11
+gardless of whether the provider has received reim-
+12
+bursement funds. 
+13
+(11) REIMBURSEMENT FUNDS.—The term ‘‘re-
+14
+imbursement funds’’ means any reimbursement re-
+15
+ceived under the Program. 
+16
+Æ 
+03:26 Nov 16, 2019
+H4998

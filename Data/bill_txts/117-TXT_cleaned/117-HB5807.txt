@@ -1,0 +1,1504 @@
+A BILL 
+To establish national data privacy standards in the United 
+States, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Digital Accountability 
+4
+and Transparency to Advance Privacy Act’’ or the ‘‘DATA 
+5
+Privacy Act’’. 
+6
+SEC. 2. DEFINITIONS. 
+7
+(a) IN GENERAL.—In this Act: 
+8
+22:34 Nov 04, 2021
+H5807
+2 
+•HR 5807 IH
+(1) COLLECT.—The term ‘‘collect’’ means tak-
+1
+ing any operation or set of operations to obtain cov-
+2
+ered data, including by automated means, including 
+3
+purchasing, leasing, assembling, recording, gath-
+4
+ering, acquiring, or procuring. 
+5
+(2) COMMISSION.—The term ‘‘Commission’’ 
+6
+means the Federal Trade Commission. 
+7
+(3) 
+COVERED
+DATA.—The 
+term 
+‘‘covered 
+8
+data’’— 
+9
+(A) means any information that is— 
+10
+(i) collected, processed, stored, or dis-
+11
+closed by a covered entity; 
+12
+(ii) collected over the internet or other 
+13
+digital network; and 
+14
+(iii)(I) linked to an individual or de-
+15
+vice associated with an individual; or 
+16
+(II) practicably linkable to an indi-
+17
+vidual or device associated with an indi-
+18
+vidual, including by combination with sepa-
+19
+rate information, by the covered entity or 
+20
+any potential recipient of the data; and 
+21
+(B) does not include data that is— 
+22
+(i) collected, processed, stored, or dis-
+23
+closed solely for the purpose of employ-
+24
+ment of an individual; or 
+25
+22:34 Nov 04, 2021
+H5807
+3 
+•HR 5807 IH
+(ii) lawfully made available to the 
+1
+public from Federal, State, or local govern-
+2
+ment records. 
+3
+(4) COVERED ENTITY.—The term ‘‘covered en-
+4
+tity’’— 
+5
+(A) means any entity that collects, proc-
+6
+esses, stores, or discloses covered data; and 
+7
+(B) does not include any entity that col-
+8
+lects, processes, stores, or discloses covered data 
+9
+relating to fewer than 50,000 individuals and 
+10
+devices during any 12-month period. 
+11
+(5) DISCLOSE.—The term ‘‘disclose’’ means 
+12
+taking any action with respect to covered data, in-
+13
+cluding by automated means, to sell, share, provide, 
+14
+or otherwise transfer covered data to another entity, 
+15
+person, or the general public. 
+16
+(6) PRIVACY
+ENHANCING
+TECHNOLOGY.—The 
+17
+term ‘‘privacy enhancing technology’’— 
+18
+(A) means any software solution, technical 
+19
+processes, or other technological means of en-
+20
+hancing the privacy and confidentiality of an in-
+21
+dividual’s covered data in data or sets of data; 
+22
+and 
+23
+(B) includes anonymization and pseudony-
+24
+mization techniques, filtering tools, anti-track-
+25
+22:34 Nov 04, 2021
+H5807
+4 
+•HR 5807 IH
+ing technology, differential privacy tools, syn-
+1
+thetic data, and secure multi-party computa-
+2
+tion. 
+3
+(7) PRIVACY RISK.—The term ‘‘privacy risk’’ 
+4
+means potential harm to an individual resulting 
+5
+from the collection, processing, storage, or disclosure 
+6
+of covered data, including— 
+7
+(A) direct or indirect financial loss; 
+8
+(B) stigmatization or reputational harm; 
+9
+(C) anxiety, embarrassment, fear, and 
+10
+other severe emotional trauma; 
+11
+(D) loss of economic opportunity; or 
+12
+(E) physical harm. 
+13
+(8) PROCESS.—The term ‘‘process’’ means any 
+14
+operation or set of operations that is performed on 
+15
+covered data or on sets of covered data, including by 
+16
+automated means, including organizing, combining, 
+17
+adapting, altering, using, or transforming. 
+18
+(9) PROTECTED
+CHARACTERISTIC.—The term 
+19
+‘‘protected characteristic’’ means an individual’s 
+20
+race, sex, gender, sexual orientation, nationality, re-
+21
+ligious belief, age, or disability status. 
+22
+(10) PSEUDONYMOUS DATA.—The term ‘‘pseu-
+23
+donymous data’’ means covered data that may only 
+24
+be linked to the identity of an individual or the iden-
+25
+22:34 Nov 04, 2021
+H5807
+5 
+•HR 5807 IH
+tity of a device associated with an individual if com-
+1
+bined with separate information. 
+2
+(11) REASONABLE INTEREST.—The term ‘‘rea-
+3
+sonable interest’’ means— 
+4
+(A) a compelling business, operational, ad-
+5
+ministrative, legal, or educational justification 
+6
+for the collection, processing, storage, or disclo-
+7
+sure of covered data exists; and 
+8
+(B) the interest does not subject the indi-
+9
+vidual linked to the covered data to an unrea-
+10
+sonable privacy risk. 
+11
+(12) SENSITIVE
+DATA.—The term ‘‘sensitive 
+12
+data’’ means any covered data relating to— 
+13
+(A) the health, biologic, physiologic, bio-
+14
+metric, sexual life, or genetic information of an 
+15
+individual; or 
+16
+(B) the precise geolocation information of 
+17
+a device associated with an individual. 
+18
+(13) STORE.—The term ‘‘store’’ means any op-
+19
+eration or set of operations to continue possession of 
+20
+covered data, including by automated means. 
+21
+(14) THIRD PARTY SERVICE PROVIDER.—The 
+22
+term ‘‘third party service provider’’ means any cov-
+23
+ered entity that collects, processes, stores, or dis-
+24
+closes covered data at the direction of, and for the 
+25
+22:34 Nov 04, 2021
+H5807
+6 
+•HR 5807 IH
+sole benefit of, another covered entity under a con-
+1
+tract. 
+2
+(b) MODIFIED DEFINITION BY RULEMAKING.—If the 
+3
+Commission determines that a term defined in paragraph 
+4
+(10) or (12) is not sufficient to protect an individual’s 
+5
+data privacy, the Commission may promulgated regula-
+6
+tions under section 553 of title 5, United States Code, 
+7
+to modify the definition as the Commission considers ap-
+8
+propriate. 
+9
+SEC. 3. REQUIRED PRIVACY NOTICE. 
+10
+(a) PRIVACY NOTICE.—Each covered entity shall post 
+11
+in an accessible location a notice that is concise, in con-
+12
+text, in easily understandable language, accurate, clear, 
+13
+timely, updated, uses visualizations where appropriate, 
+14
+conspicuous, and free of charge regarding the covered en-
+15
+tity’s privacy practices. 
+16
+(b) CONTENTS OF NOTICE.—The notice required by 
+17
+subsection (a) shall include— 
+18
+(1) a description of the covered data that the 
+19
+entity collects, processes, stores, and discloses, in-
+20
+cluding the sources that provided the covered data if 
+21
+the covered entity did not collect the covered data 
+22
+from the individual; 
+23
+22:34 Nov 04, 2021
+H5807
+7 
+•HR 5807 IH
+(2) the purposes for and means by which the 
+1
+entity collects, processes, and stores the covered 
+2
+data; 
+3
+(3) the persons and entities to whom, and pur-
+4
+poses for which, the covered entity discloses the cov-
+5
+ered data; and 
+6
+(4) a conspicuous, clear, and understandable 
+7
+means for individuals to access the methods nec-
+8
+essary to exercise their rights under sections 4 and 
+9
+5. 
+10
+SEC. 4. REQUIRED DATA PRACTICES. 
+11
+(a) REGULATIONS.—Not later than 1 year after the 
+12
+date of the enactment of this Act, the Commission shall 
+13
+promulgate regulations under section 553 of title 5, 
+14
+United States Code, that require covered entities to imple-
+15
+ment, practice, and maintain certain data procedures and 
+16
+processes that meet the following requirements: 
+17
+(1) MINIMUM
+DATA
+PROCESSING
+REQUIRE-
+18
+MENTS.—Except as provided in subsection (b), re-
+19
+quire covered entities to meet all of the following re-
+20
+quirements regarding the means by and purposes for 
+21
+which covered data is collected, processed, stored, 
+22
+and disclosed: 
+23
+(A) REASONABLE.— 
+24
+22:34 Nov 04, 2021
+H5807
+8 
+•HR 5807 IH
+(i) IN GENERAL.—Except as provided 
+1
+in paragraph (3), covered data collection, 
+2
+processing, storage, and disclosure prac-
+3
+tices must meet a reasonable interest of 
+4
+the covered entity, including— 
+5
+(I) business, educational, and ad-
+6
+ministrative operations that are rel-
+7
+evant and appropriate to the context 
+8
+of the relationship between the cov-
+9
+ered entity and the individual linked 
+10
+to the covered data; 
+11
+(II) relevant and appropriate 
+12
+product and service development and 
+13
+enhancement; 
+14
+(III) preventing and detecting 
+15
+abuse, fraud, and other criminal activ-
+16
+ity; 
+17
+(IV) reasonable communications 
+18
+and marketing practices that follow 
+19
+best practices, rules, and ethical 
+20
+standards; 
+21
+(V) engaging in scientific, med-
+22
+ical, or statistical research that fol-
+23
+lows commonly accepted ethical stand-
+24
+ards; or 
+25
+22:34 Nov 04, 2021
+H5807
+9 
+•HR 5807 IH
+(VI) any other purpose for which 
+1
+the Commission considers to be rea-
+2
+sonable. 
+3
+(ii) 
+CONSIDERATIONS.—In 
+promul-
+4
+gating regulations in accordance with this 
+5
+subparagraph, the Commission shall con-
+6
+sider— 
+7
+(I) the role of impact assess-
+8
+ments in determining the privacy risk 
+9
+for high-risk processing; 
+10
+(II) the sensitivity of the covered 
+11
+data; and 
+12
+(III) the impact of such regula-
+13
+tions on small business. 
+14
+(B) EQUITABLE.— 
+15
+(i) IN GENERAL.—Covered data col-
+16
+lection, processing, storage, and disclosure 
+17
+practices may not be for purposes that re-
+18
+sult in discrimination against a protected 
+19
+characteristic, including— 
+20
+(I) discriminatory targeted adver-
+21
+tising practices; 
+22
+(II) price, service, or employment 
+23
+opportunity discrimination; or 
+24
+01:11 Nov 06, 2021
+H5807
+10 
+•HR 5807 IH
+(III) any other practice the Com-
+1
+mission considers likely to result in 
+2
+discrimination against a protected 
+3
+characteristic. 
+4
+(ii) 
+CONSIDERATIONS.—In 
+promul-
+5
+gating regulations in accordance with this 
+6
+subparagraph, the Commission shall con-
+7
+sider— 
+8
+(I) established civil rights laws, 
+9
+common law, and existing relevant 
+10
+consent decrees; 
+11
+(II) the existing economic models 
+12
+and technology available in the digital 
+13
+advertising system; 
+14
+(III) the role of algorithms and 
+15
+impact assessments; and 
+16
+(IV) the impact of such regula-
+17
+tions on small businesses. 
+18
+(C) FORTHRIGHT.— 
+19
+(i) IN GENERAL.—Covered data col-
+20
+lection, processing, storage, and disclosure 
+21
+practices may not be accomplished with 
+22
+means or for purposes that are deceptive, 
+23
+including— 
+24
+22:34 Nov 04, 2021
+H5807
+11 
+•HR 5807 IH
+(I) the use of inconspicuous re-
+1
+cording or tracking devices and meth-
+2
+ods; 
+3
+(II) the disclosure of covered 
+4
+data that a reasonable individual be-
+5
+lieves to be the content of a private 
+6
+communication with another party or 
+7
+parties; 
+8
+(III) notices, interfaces, or other 
+9
+representations likely to mislead con-
+10
+sumers; or 
+11
+(IV) any other practice that the 
+12
+Commission considers likely to mis-
+13
+lead individuals regarding the pur-
+14
+poses for and means by which covered 
+15
+data is collected, processed, stored, or 
+16
+disclosed. 
+17
+(ii) 
+CONSIDERATIONS.—In 
+promul-
+18
+gating regulations in accordance with this 
+19
+subparagraph, the Commission shall con-
+20
+sider— 
+21
+(I) existing relevant consent de-
+22
+crees; 
+23
+(II) the reasonable expectations 
+24
+of consumers; 
+25
+22:34 Nov 04, 2021
+H5807
+12 
+•HR 5807 IH
+(III) research on deceptive prac-
+1
+tices; 
+2
+(IV) the role of deceptive user 
+3
+interfaces; and 
+4
+(V) the impact of such regula-
+5
+tions on small businesses. 
+6
+(2) REQUIREMENTS FOR OPT-OUT CONSENT.— 
+7
+Except as provided in subsection (b), require covered 
+8
+entities to provide individuals with conspicuous ac-
+9
+cess to a method that is in easily understandable 
+10
+language, concise, accurate, clear, to opt out of any 
+11
+collection, processing, storage, or disclosure of cov-
+12
+ered data linked to the individual. 
+13
+(3) REQUIREMENTS
+FOR
+AFFIRMATIVE
+CON-
+14
+SENT.—Except as provided in subsection (b), require 
+15
+covered entities to provide individuals with a notice 
+16
+that is concise, in easily understandable language, 
+17
+accurate, clear, timely, and conspicuous to express 
+18
+affirmative, opt in consent— 
+19
+(A) before the covered entity collects or 
+20
+discloses sensitive data linked to the individual; 
+21
+or 
+22
+(B) before the covered entity collects, proc-
+23
+esses, stores, or discloses data for purposes 
+24
+which are outside the context of the relationship 
+25
+01:11 Nov 06, 2021
+H5807
+13 
+•HR 5807 IH
+of the covered entity with the individual linked 
+1
+to the data, including— 
+2
+(i) the use of covered data beyond 
+3
+what is necessary to provide, improve, or 
+4
+market a good or service that the indi-
+5
+vidual requests; 
+6
+(ii) the processing or disclosure of 
+7
+covered data differs in material ways from 
+8
+the purposes described in the privacy pol-
+9
+icy that was in effect when the data was 
+10
+collected; or 
+11
+(iii) any other purpose that Commis-
+12
+sion considers outside of context. 
+13
+(4) DATA MINIMIZATION REQUIREMENTS.—Ex-
+14
+cept as provided in subsection (b), require covered 
+15
+entities to— 
+16
+(A) take reasonable measures to limit the 
+17
+collection, processing, storage, and disclosure of 
+18
+covered data to the amount that is necessary to 
+19
+carry out the purposes for which the data is col-
+20
+lected; and 
+21
+(B) store covered data only as long as is 
+22
+reasonably necessary to carry out the purposes 
+23
+for which the data was collected. 
+24
+22:34 Nov 04, 2021
+H5807
+14 
+•HR 5807 IH
+(b) EXEMPTIONS.—Subsection (a) shall not apply if 
+1
+the limitations on the collection, processing, storage, or 
+2
+disclosure of covered data would— 
+3
+(1) inhibit detection or prevention of a security 
+4
+risk or incident; 
+5
+(2) risk the health, safety, or property of the 
+6
+covered entity or individual; or 
+7
+(3) prevent compliance with an applicable law 
+8
+(including regulations) or legal process. 
+9
+SEC. 5. INDIVIDUAL CONTROL OVER DATA USE. 
+10
+(a) REGULATIONS.—Not later than 1 year after the 
+11
+date of the enactment of this Act, the Commission shall 
+12
+promulgate regulations under section 553 of title 5, 
+13
+United States Code, to require covered entities to provide 
+14
+conspicuous, understandable, clear, and free of charge 
+15
+method to— 
+16
+(1) upon the request of an individual, provide 
+17
+the individual with access to, or an accurate rep-
+18
+resentation of, covered data linked to with the indi-
+19
+vidual or the individual’s device stored by the cov-
+20
+ered entity; 
+21
+(2) upon the request of an individual, provide 
+22
+the individual with a means to dispute and resolve 
+23
+the accuracy or completeness of the covered data 
+24
+22:34 Nov 04, 2021
+H5807
+15 
+•HR 5807 IH
+linked to the individual or the individual’s device 
+1
+stored by the entity; 
+2
+(3) upon the request of an individual, delete 
+3
+any covered data that the covered entity stores 
+4
+linked to the individual or the individual’s device; 
+5
+and 
+6
+(4) when technically feasible, upon the request 
+7
+of an individual, allow the individual to transmit or 
+8
+transfer covered data linked to the individual or the 
+9
+individual’s device that is maintained by the entity 
+10
+to the individual in a format that is standardized 
+11
+and interoperable. 
+12
+(b) PSEUDONYMOUS DATA.—If the covered data that 
+13
+an individual has requested processed under subsection (a) 
+14
+is pseudonymous data, a covered entity may decline the 
+15
+request if processing the request is not technically feasible. 
+16
+(c) TIMELINESS OF REQUESTS.—In fulfilling any re-
+17
+quests made by the individual under subsection (a) the 
+18
+covered entity shall act in as timely a manner as is reason-
+19
+ably possible. 
+20
+(d) ACCESS TO SAME SERVICE.—A covered entity 
+21
+shall not discriminate against an individual because of any 
+22
+action the individual took under their rights described in 
+23
+subsection (a), including— 
+24
+(1) denying goods or services to the individual; 
+25
+22:34 Nov 04, 2021
+H5807
+16 
+•HR 5807 IH
+(2) charging, or advertising, different prices or 
+1
+rates for goods or services; or 
+2
+(3) providing different quality of goods or serv-
+3
+ices. 
+4
+(e) CONSIDERATION.—The Commission shall allow a 
+5
+covered entity, by contract, to provide relevant obligations 
+6
+to the individual under subsection (a) on behalf of a third 
+7
+party service provider that collects, processes, stores, or 
+8
+discloses covered data only on behalf of the covered entity. 
+9
+SEC. 6. INFORMATION SECURITY STANDARDS. 
+10
+(a) REQUIRED DATA SECURITY PRACTICES.— 
+11
+(1) REGULATIONS.—Not later than 1 year after 
+12
+the date of enactment of this Act, the Commission 
+13
+shall promulgate regulations under section 553 of 
+14
+title 5, United States Code, to require covered enti-
+15
+ties to establish and implement policies and proce-
+16
+dures regarding information security practices for 
+17
+the treatment and protection of covered data taking 
+18
+into consideration— 
+19
+(A) the level of identifiability of the cov-
+20
+ered data and the associated privacy risk; 
+21
+(B) the sensitivity of the covered data col-
+22
+lected, processed, and stored and the associated 
+23
+privacy risk; 
+24
+22:34 Nov 04, 2021
+H5807
+17 
+•HR 5807 IH
+(C) the currently available and widely ac-
+1
+cepted technological, administrative, and phys-
+2
+ical means to protect covered data under the 
+3
+control of the covered entity; 
+4
+(D) the cost associated with implementing, 
+5
+maintaining, and regularly reviewing the safe-
+6
+guards; and 
+7
+(E) the impact of these requirements on 
+8
+small- and medium-sized businesses. 
+9
+(2) LIMITATIONS.—In promulgating the regula-
+10
+tions required under this section, the Commission 
+11
+shall consider a covered entity who is in compliance 
+12
+with existing information security laws that the 
+13
+Commission determines are sufficiently rigorous to 
+14
+be in compliance with this section with respect to 
+15
+particular types of covered data to the extent those 
+16
+types of covered data are covered by such law, in-
+17
+cluding the following: 
+18
+(A) Title V of the Gramm-Leach-Bliley Act 
+19
+(15 U.S.C. 6801 et seq.). 
+20
+(B) The Health Information Technology 
+21
+for Economic and Clinical Health Act (42 
+22
+U.S.C. 17931). 
+23
+22:34 Nov 04, 2021
+H5807
+18 
+•HR 5807 IH
+(C) The Health Insurance Portability and 
+1
+Accountability Act of 1996 Security Rule (45 
+2
+CFR 160.103 and part 164). 
+3
+(D) Any other existing law requiring a cov-
+4
+ered entity to implement and maintain informa-
+5
+tion security practices and procedures that the 
+6
+Commission determines to be sufficiently rig-
+7
+orous. 
+8
+SEC. 7. PRIVACY PROTECTION OFFICERS. 
+9
+(a) APPOINTMENT OF A PRIVACY PROTECTION OFFI-
+10
+CER.—Each covered entity with annual revenue in excess 
+11
+of $50,000,000 the prior year shall designate at least 1 
+12
+appropriately qualified employee as a privacy protection 
+13
+officer who shall— 
+14
+(1) educate employees about compliance re-
+15
+quirements; 
+16
+(2) train employees involved in data processing; 
+17
+(3) conduct regular, comprehensive audits to 
+18
+ensure compliance and make records of the audits 
+19
+available to enforcement authorities upon request; 
+20
+(4) maintain updated, clear, and understand-
+21
+able records of all data security practices undertaken 
+22
+by the covered entity; 
+23
+(5) serve as the point of contact between the 
+24
+covered entity and enforcement authorities; and 
+25
+22:34 Nov 04, 2021
+H5807
+19 
+•HR 5807 IH
+(6) advocate for policies and practices within 
+1
+the covered entity that promote individual privacy. 
+2
+(b) PROTECTIONS.—The privacy protection officer 
+3
+shall not be dismissed or otherwise penalized by the cov-
+4
+ered entity for performing any of the tasks assigned to 
+5
+the person under this section. 
+6
+SEC. 8. RESEARCH INTO PRIVACY ENHANCING TECH-
+7
+NOLOGY. 
+8
+(a) NATIONAL SCIENCE FOUNDATION SUPPORT OF 
+9
+RESEARCH ON PRIVACY ENHANCING TECHNOLOGY.—The 
+10
+Director of the National Science Foundation, in consulta-
+11
+tion with other relevant Federal agencies (as determined 
+12
+by the Director), shall support merit-reviewed and com-
+13
+petitively awarded research on privacy enhancing tech-
+14
+nologies, which may include— 
+15
+(1) fundamental research on technologies for 
+16
+de-identification, pseudonymization, anonymization, 
+17
+or obfuscation of covered data in data sets while 
+18
+maintaining fairness, accuracy, and efficiency; 
+19
+(2) fundamental research on algorithms and 
+20
+other similar mathematical tools used to protect in-
+21
+dividual privacy when collecting, storing, sharing, or 
+22
+aggregating data; 
+23
+22:34 Nov 04, 2021
+H5807
+20 
+•HR 5807 IH
+(3) fundamental research on technologies that 
+1
+promote data minimization principles in data collec-
+2
+tion, sharing, and analytics; and 
+3
+(4) research awards on privacy enhancing tech-
+4
+nologies coordinated with other relevant Federal 
+5
+agencies and programs. 
+6
+(b) INTEGRATION INTO THE COMPUTER AND NET-
+7
+WORK SECURITY PROGRAM.—Subparagraph (D) of sec-
+8
+tion 4(a)(1) of the Cyber Security Research and Develop-
+9
+ment Act (15 U.S.C. 7403(a)(1)(D)) is amended to read 
+10
+as follows: 
+11
+‘‘(D) privacy enhancing technologies and 
+12
+confidentiality;’’. 
+13
+(c) COORDINATION WITH THE NATIONAL INSTITUTE 
+14
+OF STANDARDS AND TECHNOLOGY AND OTHER STAKE-
+15
+HOLDERS.— 
+16
+(1) IN GENERAL.—The Director of the Office of 
+17
+Science and Technology Policy, acting through the 
+18
+Networking and Information Technology Research 
+19
+and Development Program, shall coordinate with the 
+20
+Director of the National Science Foundation, the Di-
+21
+rector of the National Institute of Standards and 
+22
+Technology, and the Commission to accelerate the 
+23
+development and use of privacy enhancing tech-
+24
+nologies. 
+25
+22:34 Nov 04, 2021
+H5807
+21 
+•HR 5807 IH
+(2) OUTREACH.—The Director of the National 
+1
+Institute of Standards and Technology shall conduct 
+2
+outreach to— 
+3
+(A) receive input from private, public, and 
+4
+academic stakeholders, including the National 
+5
+Institutes of Health and the Centers for Dis-
+6
+ease Control and Prevention, for the purpose of 
+7
+facilitating public health research, on the devel-
+8
+opment of privacy enhancing technologies; and 
+9
+(B) develop ongoing public and private sec-
+10
+tor engagement to create and disseminate vol-
+11
+untary, consensus-based resources to increase 
+12
+the integration of privacy enhancing tech-
+13
+nologies in data collection, sharing, and ana-
+14
+lytics by the public and private sectors. 
+15
+(d) REPORT ON RESEARCH AND STANDARDS DEVEL-
+16
+OPMENT.—Not later than 2 years after the date of enact-
+17
+ment of this Act, the Director of the Office of Science and 
+18
+Technology Policy, acting through the Networking and In-
+19
+formation Technology Research and Development Pro-
+20
+gram, shall, in coordination with the Director of the Na-
+21
+tional Science Foundation and the Director of the Na-
+22
+tional Institute of Standards and Technology, submit to 
+23
+the Committee on Commerce, Science, and Transportation 
+24
+of the Senate, the Subcommittee on Commerce, Justice, 
+25
+22:34 Nov 04, 2021
+H5807
+22 
+•HR 5807 IH
+Science, and Related Agencies of the Committee on Appro-
+1
+priations of the Senate, the Committee on Science, Space, 
+2
+and Technology of the House of Representatives, and the 
+3
+Subcommittee on Commerce, Justice, Science, and Re-
+4
+lated Agencies of the Committee on Appropriations of the 
+5
+House of Representatives, a report containing— 
+6
+(1) the progress of research on privacy enhanc-
+7
+ing technologies; 
+8
+(2) the progress of the development of vol-
+9
+untary 
+resources 
+described 
+under 
+subsection 
+10
+(c)(2)(B); and 
+11
+(3) any policy recommendations of the Direc-
+12
+tors that could facilitate and improve communication 
+13
+and coordination between the private sector, the Na-
+14
+tional Science Foundation, and relevant Federal 
+15
+agencies through the implementation of privacy en-
+16
+hancing technologies. 
+17
+SEC. 9. ENFORCEMENT. 
+18
+(a) ENFORCEMENT BY THE COMMISSION.— 
+19
+(1) IN GENERAL.—This Act and the regulations 
+20
+prescribed under this Act, other than the provisions 
+21
+of and amendments made by section 8, shall be en-
+22
+forced by the Commission under the Federal Trade 
+23
+Commission Act (15 U.S.C. 41 et seq.). 
+24
+22:34 Nov 04, 2021
+H5807
+23 
+•HR 5807 IH
+(2) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+1
+TICES.—A violation of this Act or a regulation pre-
+2
+scribed under this Act shall be treated as a violation 
+3
+of a rule defining an unfair or deceptive act or prac-
+4
+tice prescribed under section 18(a)(1)(B) of the Fed-
+5
+eral 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+6
+57a(a)(1)(B)). 
+7
+(3) ACTIONS BY THE COMMISSION.—Subject to 
+8
+paragraph (4), the Commission shall prevent any 
+9
+person from violating this Act or a regulation pre-
+10
+scribed under this Act in the same manner, by the 
+11
+same means, and with the same jurisdiction, powers, 
+12
+and duties as though all applicable terms and provi-
+13
+sions of the Federal Trade Commission Act (15 
+14
+U.S.C. 41 et seq.) were incorporated into and made 
+15
+a part of this Act, and any person who violates this 
+16
+Act or such regulation shall be subject to the pen-
+17
+alties and entitled to the privileges and immunities 
+18
+provided in the Federal Trade Commission Act (15 
+19
+U.S.C. 41 et seq.). 
+20
+(4) COMMON CARRIERS.—Notwithstanding sec-
+21
+tion 4, 5(a)(2), or 6 of the Federal Trade Commis-
+22
+sion Act (15 U.S.C. 44, 45(a)(2), and 46) or any ju-
+23
+risdictional limitation of the Commission, the Com-
+24
+mission shall also enforce this Act, in the same man-
+25
+22:34 Nov 04, 2021
+H5807
+24 
+•HR 5807 IH
+ner provided in paragraphs (1), (2), and (3) with re-
+1
+spect to common carriers subject to the Communica-
+2
+tions Act of 1934 (47 U.S.C. 151 et seq.) and Acts 
+3
+amendatory thereof and supplementary thereto. 
+4
+(b) ENFORCEMENT
+BY STATE ATTORNEYS GEN-
+5
+ERAL.— 
+6
+(1) IN GENERAL.— 
+7
+(A) CIVIL ACTIONS.—In any case in which 
+8
+the attorney general of a State has reason to 
+9
+believe that an interest of the residents of that 
+10
+State has been or is threatened or adversely af-
+11
+fected by the engagement of any person in a 
+12
+practice that violates this Act or a regulation 
+13
+prescribed under this Act, the State, as parens 
+14
+patriae, may bring a civil action on behalf of 
+15
+the residents of the State in a district court of 
+16
+the United States of appropriate jurisdiction 
+17
+to— 
+18
+(i) enjoin that practice; 
+19
+(ii) enforce compliance with this Act 
+20
+or such regulation; 
+21
+(iii) obtain damages, restitution, or 
+22
+other compensation on behalf of residents 
+23
+of the State; 
+24
+22:34 Nov 04, 2021
+H5807
+25 
+•HR 5807 IH
+(iv) impose a civil penalty in an 
+1
+amount that is not greater than the prod-
+2
+uct of the number of individuals whose in-
+3
+formation was affected by a violation and 
+4
+$40,000; or 
+5
+(v) obtain such other relief as the 
+6
+court may consider to be appropriate. 
+7
+(B) ADJUSTMENT
+FOR
+INFLATION.—Be-
+8
+ginning on the date that the Consumer Price 
+9
+Index is first published by the Bureau of Labor 
+10
+Statistics that is after 1 year after the date of 
+11
+enactment of this Act, and each year thereafter, 
+12
+the amounts specified in subparagraph (A)(iv) 
+13
+shall be increased by the percentage increase in 
+14
+the Consumer Price Index published on that 
+15
+date from the Consumer Price Index published 
+16
+the previous year. 
+17
+(C) NOTICE.— 
+18
+(i) IN GENERAL.—Before filing an ac-
+19
+tion under subparagraph (A), the attorney 
+20
+general of the State involved shall provide 
+21
+to the Commission— 
+22
+(I) written notice of that action; 
+23
+and 
+24
+22:34 Nov 04, 2021
+H5807
+26 
+•HR 5807 IH
+(II) a copy of the complaint for 
+1
+that action. 
+2
+(ii) EXEMPTION.— 
+3
+(I) IN
+GENERAL.—Clause (i) 
+4
+shall not apply with respect to the fil-
+5
+ing of an action by an attorney gen-
+6
+eral of a State under this paragraph 
+7
+if the attorney general determines 
+8
+that it is not feasible to provide the 
+9
+notice described in that clause before 
+10
+the filing of the action. 
+11
+(II) NOTIFICATION.—In an ac-
+12
+tion described in subclause (I), the at-
+13
+torney general of a State shall provide 
+14
+notice and a copy of the complaint to 
+15
+the Commission at the same time as 
+16
+the attorney general files the action. 
+17
+(c) RIGHTS OF THE COMMISSION.— 
+18
+(1) INTERVENTION BY THE COMMISSION.—The 
+19
+Commission may intervene in any civil action 
+20
+brought by the attorney general of a State under 
+21
+subsection (b) and upon intervening— 
+22
+(A) be heard on all matters arising in the 
+23
+civil action; and 
+24
+22:34 Nov 04, 2021
+H5807
+27 
+•HR 5807 IH
+(B) file petitions for appeal of a decision in 
+1
+the civil action. 
+2
+(2) POWERS.—Nothing in this subsection may 
+3
+be construed to prevent the attorney general of a 
+4
+State from exercising the powers conferred on the 
+5
+attorney general by the laws of the State to conduct 
+6
+investigations, to administer oaths or affirmations, 
+7
+or to compel the attendance of witnesses or the pro-
+8
+duction of documentary or other evidence. 
+9
+(3) ACTION BY THE COMMISSION.—If the Com-
+10
+mission institutes a civil action for violation of this 
+11
+title or a regulation promulgated under this title, no 
+12
+attorney general of a State may bring a civil action 
+13
+under subsection (b) against any defendant named 
+14
+in the complaint of the Commission for violation of 
+15
+this Act or a regulation promulgated under this Act 
+16
+that is alleged in the complaint. 
+17
+(d) VENUE AND SERVICE OF PROCESS.— 
+18
+(1) VENUE.—Any action brought under sub-
+19
+section (b) may be brought in— 
+20
+(A) the district court of the United States 
+21
+that meets applicable requirements relating to 
+22
+venue under section 1391 of title 28, United 
+23
+States Code; or 
+24
+22:34 Nov 04, 2021
+H5807
+28 
+•HR 5807 IH
+(B) another court of competent jurisdic-
+1
+tion. 
+2
+(2) SERVICE
+OF
+PROCESS.—In an action 
+3
+brought under subsection (b), process may be served 
+4
+in any district in which the defendant— 
+5
+(A) is an inhabitant; or 
+6
+(B) may be found. 
+7
+(e) ACTION OF OTHER STATE OFFICIALS.— 
+8
+(1) IN GENERAL.—In addition to civil actions 
+9
+brought by attorneys general under subsection (b), 
+10
+any other officer of a State who is authorized by the 
+11
+State to do so may bring a civil action under sub-
+12
+section (b), subject to the same requirements and 
+13
+limitations that apply under this subsection to civil 
+14
+actions brought by attorneys general. 
+15
+(2) SAVINGS PROVISION.—Nothing in this sub-
+16
+section may be construed to prohibit an authorized 
+17
+official of a State from initiating or continuing any 
+18
+proceeding in a court of the State for a violation of 
+19
+any civil or criminal law of the State. 
+20
+(f) PRESERVATION OF AUTHORITY.—Nothing in this 
+21
+Act shall be construed to limit the authority of the Federal 
+22
+Trade Commission under any other provision of law. 
+23
+22:34 Nov 04, 2021
+H5807
+29 
+•HR 5807 IH
+SEC. 10. ADDITIONAL ENFORCEMENT RESOURCES. 
+1
+(a) IN GENERAL.—Notwithstanding any other provi-
+2
+sion of law the Commission may, without regard to the 
+3
+civil service laws (including regulations), appoint not more 
+4
+than 300 additional personnel for the purposes of enforc-
+5
+ing privacy and data security laws and regulations. 
+6
+(b) AUTHORIZATION OF APPROPRIATIONS.—There is 
+7
+authorized to be appropriated to the Commission such 
+8
+sums as may be necessary to carry out this section. 
+9
+Æ 
+22:34 Nov 04, 2021
+H5807

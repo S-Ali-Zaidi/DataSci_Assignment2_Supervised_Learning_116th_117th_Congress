@@ -1,0 +1,1144 @@
+A BILL 
+To establish Election Security Enhancement Units in the 
+Cybersecurity and Infrastructure Agency of the Depart-
+ment of Homeland Security, to direct the Election Assist-
+ance Commission to make a grant to each State which 
+certifies that it has implemented certain steps to ensure 
+the integrity of voter registration, the casting of ballots, 
+and the tabulation of ballots in elections for Federal 
+office in the State, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+02:44 Jun 08, 2021
+H2844
+2 
+•HR 2844 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Election Protection 
+2
+Act of 2021’’. 
+3
+SEC. 2. STRENGTHENING ELECTION SECURITY MEASURES. 
+4
+(a) ESTABLISHMENT OF ELECTION SECURITY EN-
+5
+HANCEMENT UNITS
+IN CYBERSECURITY
+AND INFRA-
+6
+STRUCTURE AGENCY.— 
+7
+(1) IN GENERAL.—Subtitle A of title XXII of 
+8
+the Homeland Security Act of 2002 (6 U.S.C. 651 
+9
+et seq.) is amended by adding at the end the fol-
+10
+lowing new section: 
+11
+‘‘SEC. 2218. ELECTION SECURITY ENHANCEMENT UNITS. 
+12
+‘‘(a) ESTABLISHMENT.—There are established in the 
+13
+Agency units to be known as Election Security Enhance-
+14
+ment Units (hereafter in this section referred to as 
+15
+‘Units’). 
+16
+‘‘(b) DUTIES.—The Units shall provide State and 
+17
+local election officials in various geographic regions of the 
+18
+United States access to risk-management, resiliency, and 
+19
+technical support services provided by election administra-
+20
+tion and cybersecurity experts who shall be based in such 
+21
+regions and who may provide such services in person, by 
+22
+telephone, or online.’’. 
+23
+(2) CLERICAL AMENDMENT.—The table of con-
+24
+tents in section 1(b) of the Homeland Security Act 
+25
+02:44 Jun 08, 2021
+H2844
+3 
+•HR 2844 IH
+of 2002 is amended by inserting after the item relat-
+1
+ing to section 2217 the following new item: 
+2
+‘‘Sec. 2218. Election Security Enhancement Units.’’. 
+(b) DUTY OF SECRETARY OF HOMELAND SECURITY 
+3
+TO NOTIFY STATE AND LOCAL OFFICIALS OF THREATS 
+4
+TO SECURITY OF ELECTIONS.— 
+5
+(1) DUTY TO SHARE INFORMATION WITH DE-
+6
+PARTMENT OF HOMELAND SECURITY.—If a Federal 
+7
+entity receives information about an incident which 
+8
+threatens the security of a Federal election, the Fed-
+9
+eral entity shall promptly share that information 
+10
+with the Department of Homeland Security, unless 
+11
+the head of the entity (or a Senate-confirmed official 
+12
+designated by the head) makes a specific determina-
+13
+tion in writing that there is good cause to withhold 
+14
+the particular information. 
+15
+(2) RESPONSE TO RECEIPT OF INFORMATION 
+16
+BY SECRETARY OF HOMELAND SECURITY.— 
+17
+(A) IN GENERAL.—Upon receiving infor-
+18
+mation about an incident under paragraph (1), 
+19
+the Secretary, in consultation with the Attorney 
+20
+General, the Director of the Federal Bureau of 
+21
+Investigation, and the Director of National In-
+22
+telligence, shall promptly (but in no case later 
+23
+than 96 hours after receiving the information) 
+24
+02:44 Jun 08, 2021
+H2844
+4 
+•HR 2844 IH
+review the information and make a determina-
+1
+tion whether each of the following apply: 
+2
+(i) There is credible evidence that the 
+3
+incident occurred. 
+4
+(ii) There is a basis to believe that the 
+5
+incident resulted, could have resulted, or 
+6
+could result in the alteration of the results 
+7
+of the election. 
+8
+(B) DUTY TO NOTIFY STATE AND LOCAL 
+9
+OFFICIALS.— 
+10
+(i) DUTY
+DESCRIBED.—If the Sec-
+11
+retary makes a determination under sub-
+12
+paragraph (A) that clauses (i) and (ii) of 
+13
+such subparagraph apply with respect to 
+14
+an incident, not later than 96 hours after 
+15
+making the determination, the Secretary 
+16
+shall provide a notification of the incident 
+17
+to each of the following: 
+18
+(I) The chief executive of the 
+19
+State involved. 
+20
+(II) The State election official of 
+21
+the State involved. 
+22
+(III) The local election official of 
+23
+the election agency involved. 
+24
+02:44 Jun 08, 2021
+H2844
+5 
+•HR 2844 IH
+(ii) TREATMENT OF CLASSIFIED IN-
+1
+FORMATION.— 
+2
+(I) EFFORTS
+TO
+AVOID
+INCLU-
+3
+SION OF CLASSIFIED INFORMATION.— 
+4
+In preparing a notification provided 
+5
+under this paragraph to an individual 
+6
+described in subclause (I), (II), or 
+7
+(III) of clause (i), the Secretary shall 
+8
+attempt to avoid the inclusion of clas-
+9
+sified information. 
+10
+(II) PROVIDING
+GUIDANCE
+TO 
+11
+STATE
+AND
+LOCAL
+OFFICIALS.—To 
+12
+the extent that a notification provided 
+13
+under this paragraph to an individual 
+14
+described in subclause (I), (II), or 
+15
+(III) of clause (i) includes classified 
+16
+information, the Secretary (in con-
+17
+sultation with the Attorney General 
+18
+and the Director of National Intel-
+19
+ligence) shall indicate in the notifica-
+20
+tion which information is classified. 
+21
+(C) EXCEPTION.— 
+22
+(i) IN GENERAL.—If the Secretary, in 
+23
+consultation with the Attorney General and 
+24
+the Director of National Intelligence, 
+25
+02:44 Jun 08, 2021
+H2844
+6 
+•HR 2844 IH
+makes a determination that it is not pos-
+1
+sible to provide a notification under sub-
+2
+paragraph (A) with respect to an incident 
+3
+without compromising intelligence methods 
+4
+or sources or interfering with an ongoing 
+5
+investigation, the Secretary shall not pro-
+6
+vide the notification under such paragraph. 
+7
+(ii) ONGOING
+REVIEW.—Not later 
+8
+than 30 days after making a determination 
+9
+under clause (i) and every 30 days there-
+10
+after, the Secretary shall review the deter-
+11
+mination. If, after reviewing the deter-
+12
+mination, the Secretary makes a revised 
+13
+determination that it is possible to provide 
+14
+a notification under subparagraph (B) 
+15
+without compromising intelligence methods 
+16
+or sources or interfering with an ongoing 
+17
+investigation, the Secretary shall provide 
+18
+the notification under subparagraph (B) 
+19
+not later than 96 hours after making such 
+20
+revised determination. 
+21
+(3) DEFINITIONS.—In this subsection, the fol-
+22
+lowing definitions apply: 
+23
+(A) ELECTION AGENCY.—The term ‘‘elec-
+24
+tion agency’’ means any component of a State, 
+25
+02:44 Jun 08, 2021
+H2844
+7 
+•HR 2844 IH
+or any component of a unit of local government 
+1
+in a State, which is responsible for the adminis-
+2
+tration of elections for Federal office in the 
+3
+State. 
+4
+(B) 
+FEDERAL
+ELECTION.—The 
+term 
+5
+‘‘Federal election’’ means any election (as de-
+6
+fined in section 301(1) of the Federal Election 
+7
+Campaign Act of 1971 (52 U.S.C. 30101(1))) 
+8
+for Federal office (as defined in section 301(3) 
+9
+of the Federal Election Campaign Act of 1971 
+10
+(52 U.S.C. 30101(3))). 
+11
+(C) FEDERAL ENTITY.—The term ‘‘Fed-
+12
+eral entity’’ means any agency (as defined in 
+13
+section 551 of title 5, United States Code). 
+14
+(D) LOCAL
+ELECTION
+OFFICIAL.—The 
+15
+term ‘‘local election official’’ means the chief 
+16
+election official of a component of a unit of 
+17
+local government of a State that is responsible 
+18
+for administering Federal elections. 
+19
+(E) SECRETARY.—The term ‘‘Secretary’’ 
+20
+means the Secretary of Homeland Security. 
+21
+(F) STATE.—The term ‘‘State’’ means 
+22
+each of the several States, the District of Co-
+23
+lumbia, the Commonwealth of Puerto Rico, 
+24
+Guam, American Samoa, the Commonwealth of 
+25
+02:44 Jun 08, 2021
+H2844
+8 
+•HR 2844 IH
+Northern Mariana Islands, and the United 
+1
+States Virgin Islands. 
+2
+(G) STATE
+ELECTION
+OFFICIAL.—The 
+3
+term ‘‘State election official’’ means— 
+4
+(i) the chief State election official of a 
+5
+State designated under section 10 of the 
+6
+National Voter Registration Act of 1993 
+7
+(52 U.S.C. 20509); or 
+8
+(ii) in the case of Puerto Rico, Guam, 
+9
+American Samoa, the Northern Mariana 
+10
+Islands, and the United States Virgin Is-
+11
+lands, a chief State election official des-
+12
+ignated by the State for purposes of this 
+13
+Act. 
+14
+(4) EFFECTIVE
+DATE.—This subsection shall 
+15
+apply with respect to information about an incident 
+16
+which threatens the security of a Federal election 
+17
+which is received on or after the date of the enact-
+18
+ment of this Act. 
+19
+SEC. 3. GRANTS TO STATES CERTIFYING INTEGRITY OF 
+20
+ELECTIONS. 
+21
+(a) GRANTS.—The Election Assistance Commission 
+22
+(hereafter referred to as the ‘‘Commission’’) shall make 
+23
+a grant to each eligible State. 
+24
+02:44 Jun 08, 2021
+H2844
+9 
+•HR 2844 IH
+(b) USE OF FUNDS.—A State shall use the funds 
+1
+provided by a grant made under this section to carry out 
+2
+the administration of elections for Federal office in the 
+3
+State. 
+4
+(c) ELIGIBILITY.—A State is eligible to receive a 
+5
+grant under this section if the State submits to the Com-
+6
+mission, at such time and in such form as the Commission 
+7
+may require, an application containing— 
+8
+(1) each of the certifications described in para-
+9
+graphs (1), (2), and (3) of subsection (e); and 
+10
+(2) such other information and assurances as 
+11
+the Commission may require. 
+12
+(d) AMOUNT OF GRANT.— 
+13
+(1) IN GENERAL.—The amount of the grant 
+14
+made to an eligible State under this section shall be 
+15
+the minimum payment amount described in para-
+16
+graph (2) plus the voting age population proportion 
+17
+amount described in paragraph (3). 
+18
+(2) MINIMUM
+PAYMENT
+AMOUNT.—The min-
+19
+imum payment amount described in this paragraph 
+20
+is— 
+21
+(A) in the case of any of the several States 
+22
+or the District of Columbia, one-half of 1 per-
+23
+cent of the aggregate amount made available 
+24
+for payments under this section; and 
+25
+02:44 Jun 08, 2021
+H2844
+10 
+•HR 2844 IH
+(B) in the case of the Commonwealth of 
+1
+Puerto Rico, Guam, American Samoa, the 
+2
+United States Virgin Islands, or the Common-
+3
+wealth of the Northern Mariana Islands, one- 
+4
+tenth of 1 percent of such aggregate amount. 
+5
+(3) VOTING
+AGE
+PROPORTION 
+6
+AMOUNT.—The voting age population proportion 
+7
+amount described in this paragraph is the product 
+8
+of— 
+9
+(A) the aggregate amount made available 
+10
+for payments under this section minus the total 
+11
+of all of the minimum payment amounts deter-
+12
+mined under paragraph (2); and 
+13
+(B) the voting age population proportion 
+14
+for the State (as defined in paragraph (4)). 
+15
+(4) VOTING AGE POPULATION PROPORTION DE-
+16
+FINED.—The term ‘‘voting age population propor-
+17
+tion’’ means, with respect to a State, the amount 
+18
+equal to the quotient of— 
+19
+(A) the voting age population of the State 
+20
+(as reported in the most recent decennial cen-
+21
+sus); and 
+22
+(B) the total voting age population of all 
+23
+States (as reported in the most recent decennial 
+24
+census). 
+25
+02:44 Jun 08, 2021
+H2844
+11 
+•HR 2844 IH
+(e) CERTIFICATIONS DESCRIBED.— 
+1
+(1) CERTIFICATION
+OF
+COMPLIANCE
+WITH 
+2
+VOTER REGISTRATION LIST MAINTENANCE REQUIRE-
+3
+MENTS.—The certification described in this para-
+4
+graph is a certification that the State completed a 
+5
+program to systematically remove the names of ineli-
+6
+gible voters from the official lists of eligible voters 
+7
+with respect to the most recent regularly scheduled 
+8
+general election for Federal office held in the State, 
+9
+as required under section 8(c)(2) of the National 
+10
+Voter Registration Act of 1993 (52 U.S.C. 
+11
+20507(c)(2)). 
+12
+(2) CERTIFICATIONS RELATING TO INTEGRITY 
+13
+IN
+CASTING
+OF
+BALLOTS.—The certifications de-
+14
+scribed in this paragraph are as follows: 
+15
+(A) REQUIRING PROVISION OF IDENTIFICA-
+16
+TION AS CONDITION OF VOTING.— 
+17
+(i) INDIVIDUALS
+VOTING
+IN
+PER-
+18
+SON.—A certification that, notwithstanding 
+19
+any other provision of law, the appropriate 
+20
+State or local election official does not pro-
+21
+vide a ballot for an election for Federal of-
+22
+fice to an individual who desires to vote in 
+23
+person unless the individual presents to the 
+24
+official a current and valid identification. 
+25
+02:44 Jun 08, 2021
+H2844
+12 
+•HR 2844 IH
+(ii) 
+INDIVIDUALS
+VOTING
+OTHER 
+1
+THAN
+IN
+PERSON.—A certification that, 
+2
+notwithstanding any other provision of law, 
+3
+the appropriate State or local election offi-
+4
+cial does not accept any ballot for an elec-
+5
+tion for Federal office provided by an indi-
+6
+vidual who votes other than in person un-
+7
+less the individual submits with the ballot 
+8
+a copy of a current and valid identification. 
+9
+(iii) CURRENT
+AND
+VALID
+IDENTI-
+10
+FICATION
+DEFINED.—In this subpara-
+11
+graph, a ‘‘current and valid identification’’ 
+12
+means a current and valid version of any 
+13
+of the following: 
+14
+(I) An identification issued by a 
+15
+State or a unit of local government in 
+16
+a State. 
+17
+(II) A United States passport. 
+18
+(III) A military identification 
+19
+card. 
+20
+(IV) An identification issued by a 
+21
+tribal government. 
+22
+(B) PROHIBITING DELIVERY OF BALLOTS 
+23
+BY MAIL UNLESS REQUESTED.—A certification 
+24
+that the State does not deliver a ballot in an 
+25
+02:44 Jun 08, 2021
+H2844
+13 
+•HR 2844 IH
+election for Federal office to an individual by 
+1
+mail unless the individual requests that the 
+2
+State deliver the ballot to the individual by 
+3
+mail. 
+4
+(C) RESTRICTIONS
+ON
+DELIVERY
+OF 
+5
+VOTED BALLOTS BY THIRD PARTIES.— 
+6
+(i) 
+RESTRICTIONS.—A 
+certification 
+7
+that the State does not accept a voted ab-
+8
+sentee ballot in an election for Federal of-
+9
+fice which is delivered in person to an elec-
+10
+tion official by any individual other than 
+11
+the voter to whom the ballot was trans-
+12
+mitted, other than an individual described 
+13
+as follows: 
+14
+(I) An election official while en-
+15
+gaged in official duties as authorized 
+16
+by law. 
+17
+(II) An employee of the United 
+18
+States Postal Service while engaged in 
+19
+official duties as authorized by law. 
+20
+(III) Any other individual who is 
+21
+allowed by law to collect and transmit 
+22
+United States mail, while engaged in 
+23
+official duties as authorized by law. 
+24
+02:44 Jun 08, 2021
+H2844
+14 
+•HR 2844 IH
+(IV) A family member of the 
+1
+voter to whom the ballot was trans-
+2
+mitted. 
+3
+(ii) FAMILY
+MEMBER
+DEFINED.—In 
+4
+clause (i), the term ‘‘family member’’ 
+5
+means, with respect to a voter to whom a 
+6
+ballot is transmitted, an individual who is 
+7
+related to the voter by blood, marriage, 
+8
+adoption, or legal guardianship. 
+9
+(D) PROHIBITING ACCEPTANCE OF ABSEN-
+10
+TEE BALLOTS RECEIVED AFTER DATE OF ELEC-
+11
+TION.—A certification that the State does not 
+12
+accept a voted absentee ballot in an election for 
+13
+Federal office which is not received by the ap-
+14
+propriate State or local election official prior to 
+15
+the time at which the polls in the election close 
+16
+on the date of the election. 
+17
+(E) EXCEPTION
+FOR
+ABSENT
+MILITARY 
+18
+AND OVERSEAS VOTERS.—A certification that 
+19
+the certifications described in subparagraphs 
+20
+(A) through (E) do not apply with respect to 
+21
+any individual who is entitled to vote by absen-
+22
+tee ballot under the Uniformed and Overseas 
+23
+Citizens Absentee Voting Act (52 U.S.C. 20301 
+24
+et seq.). 
+25
+02:44 Jun 08, 2021
+H2844
+15 
+•HR 2844 IH
+(3) CERTIFICATIONS RELATING TO INTEGRITY 
+1
+IN TABULATION OF BALLOTS.—The certifications de-
+2
+scribed in this paragraph are as follows: 
+3
+(A) MINIMUM PRESENCE OF ELECTION OB-
+4
+SERVERS.—A certification that the appropriate 
+5
+State or local election official permits at least 2 
+6
+representatives of each candidate appearing on 
+7
+the ballot in a general election for Federal of-
+8
+fice to observe the tabulation of the ballots in 
+9
+the election. 
+10
+(B) PERMITTING
+PROCESSING
+AND
+TAB-
+11
+ULATION OF BALLOTS UPON RECEIPT.—A cer-
+12
+tification that the State may process and tab-
+13
+ulate ballots received prior to the date of the 
+14
+election upon receipt, except that nothing in 
+15
+this subparagraph shall be construed to require 
+16
+the State to certify that a State or local election 
+17
+official is required to publish the results of any 
+18
+tabulation of ballots in an election prior to the 
+19
+time at which the polls in the election close on 
+20
+the date of the election. 
+21
+(C) POST-ELECTION
+AUDIT.—A certifi-
+22
+cation that, not later than 30 days after each 
+23
+election for Federal office held in the State, the 
+24
+State conducts and publishes an audit of the ef-
+25
+02:44 Jun 08, 2021
+H2844
+16 
+•HR 2844 IH
+fectiveness and accuracy of the voting systems 
+1
+used to carry out the election and the perform-
+2
+ance of the State and local election officials who 
+3
+carried out the election. 
+4
+(f) STATE DEFINED.—In this section, the term 
+5
+‘‘State’’ means each of the several States, the District of 
+6
+Columbia, the Commonwealth of Puerto Rico, Guam, 
+7
+American Samoa, the United States Virgin Islands, and 
+8
+the Commonwealth of the Northern Mariana Islands. 
+9
+(g) AUTHORIZATION OF APPROPRIATIONS.— 
+10
+(1) AUTHORIZATION.—There are authorized to 
+11
+be appropriated such sums as may be necessary for 
+12
+grants under this section. 
+13
+(2) CONTINUING
+AVAILABILITY
+OF
+FUNDS.— 
+14
+Funds appropriated pursuant to the authorization 
+15
+under this subsection shall remain available until ex-
+16
+pended. 
+17
+SEC. 4. STUDY AND REPORT BY BIPARTISAN ELECTION AD-
+18
+VISORY COMMISSION. 
+19
+(a) ESTABLISHMENT.—There is established in the 
+20
+legislative branch the Bipartisan Election Advisory Com-
+21
+mission (referred to in this section as the ‘‘Advisory Com-
+22
+mission’’). 
+23
+(b) MEMBERSHIP.— 
+24
+02:44 Jun 08, 2021
+H2844
+17 
+•HR 2844 IH
+(1) COMPOSITION.—The Advisory Commission 
+1
+shall be composed of 12 members, of whom— 
+2
+(A) 6 shall be appointed by the leader of 
+3
+the Republican party in the House of Rep-
+4
+resentatives (in consultation with the leader of 
+5
+the Republican caucus in the Senate), one of 
+6
+which shall be appointed as a Co-Chairperson of 
+7
+the Advisory Commission; and 
+8
+(B) 6 shall be appointed by the leader of 
+9
+the Democratic caucus in the Senate (in con-
+10
+sultation with the leader of the Democratic 
+11
+party in the House of Representatives), one of 
+12
+which shall be appointed as a Co-Chairperson of 
+13
+the Advisory Commission. 
+14
+(2) REPRESENTATION.—Individuals appointed 
+15
+to the Advisory Commission under paragraph (1) 
+16
+shall be geographically balanced and shall include 
+17
+representatives of Federal, State, and local govern-
+18
+ments and of the legal, cybersecurity, and election 
+19
+administration and technology communities, except 
+20
+that no elected official may serve on the Advisory 
+21
+Commission. 
+22
+(3) POLITICAL PARTY AFFILIATION.—Not more 
+23
+than 6 members of the Advisory Commission may be 
+24
+members of the same political party. 
+25
+02:44 Jun 08, 2021
+H2844
+18 
+•HR 2844 IH
+(4) DATE.—The appointments of the members 
+1
+of the Advisory Commission shall be made not later 
+2
+than 90 days after the date of enactment of this 
+3
+Act. 
+4
+(c) PERIOD OF APPOINTMENT; VACANCIES.— 
+5
+(1) IN GENERAL.—Except as provided in para-
+6
+graph (2), a member of the Advisory Commission 
+7
+shall be appointed for the duration of the Advisory 
+8
+Commission. 
+9
+(2) REMOVAL.—A member may be removed 
+10
+from the Advisory Commission at any time at the 
+11
+upon concurrence of both of the Co-Chairpersons of 
+12
+the Advisory Commission. 
+13
+(3) VACANCIES.—A vacancy in the Advisory 
+14
+Commission— 
+15
+(A) shall not affect the powers of the Com-
+16
+mission; and 
+17
+(B) shall be filled in the same manner as 
+18
+the original appointment. 
+19
+(d) COMMISSION PERSONNEL MATTERS.— 
+20
+(1) PROHIBITION ON COMPENSATION OF MEM-
+21
+BERS.—The members of the Advisory Commission 
+22
+may not receive pay or benefits from the United 
+23
+States Government by reason of their service on the 
+24
+Advisory Commission, but may receive travel ex-
+25
+02:44 Jun 08, 2021
+H2844
+19 
+•HR 2844 IH
+penses, including per diem in lieu of subsistence, in 
+1
+accordance with applicable provisions under sub-
+2
+chapter I of chapter 57 of title 5, United States 
+3
+Code. 
+4
+(2) STAFF.—The Co-Chairpersons of the Advi-
+5
+sory Commission may appoint and fix the compensa-
+6
+tion of staff of the Advisor Committee without re-
+7
+gard to chapter 51 and subchapter III of chapter 53 
+8
+of title 5, United States Code, relating to classifica-
+9
+tion of positions and General Schedule pay rates, ex-
+10
+cept that the rate of pay for the staff may not ex-
+11
+ceed the rate payable for level V of the Executive 
+12
+Schedule under section 5316 of that title. 
+13
+(e) POWERS.— 
+14
+(1) HEARINGS AND SESSIONS.—The Advisory 
+15
+Commission may, for the purpose of carrying out 
+16
+this section, hold hearings, sit and act at times and 
+17
+places, take testimony, and receive evidence as the 
+18
+Commission considers appropriate. The Advisory 
+19
+Commission may administer oaths or affirmations to 
+20
+witnesses appearing before it. 
+21
+(2) OBTAINING OFFICIAL DATA.—The Advisory 
+22
+Commission may secure directly from any depart-
+23
+ment or agency of the United States information 
+24
+necessary to enable it to carry out this section. 
+25
+02:44 Jun 08, 2021
+H2844
+20 
+•HR 2844 IH
+(3) ADMINISTRATIVE
+SUPPORT
+SERVICES.— 
+1
+Upon the request of the Advisory Commission, the 
+2
+Architect of the Capitol shall provide to the Commis-
+3
+sion, on a reimbursable basis, the administrative 
+4
+support services necessary for the Commission to 
+5
+carry out its responsibilities under this section. 
+6
+(f) DUTIES.— 
+7
+(1) STUDY.—The Advisory Commission shall 
+8
+conduct a study of the following: 
+9
+(A) The effects of COVID–19 on the ad-
+10
+ministration and security of elections. 
+11
+(B) The impact of election administration 
+12
+procedures implemented to address the effects 
+13
+of COVID–19 on the effective administration 
+14
+and security of elections. 
+15
+(C) The extent of security shortfalls and 
+16
+fraud during the 2020 general elections for 
+17
+Federal office and during previous general elec-
+18
+tions for Federal office. 
+19
+(D) The feasibility and desirability of im-
+20
+plementing uniform requirements for States to 
+21
+carry out absentee ballot tracking programs. 
+22
+(2) REPORT.—Not later than one year after the 
+23
+date of the enactment of this Act, the Advisory 
+24
+Commission shall submit a report to Congress on 
+25
+02:44 Jun 08, 2021
+H2844
+21 
+•HR 2844 IH
+the study conducted under paragraph (1), together 
+1
+with recommendations for improving the administra-
+2
+tion of elections and enhancing the security of elec-
+3
+tions. 
+4
+(g) TERMINATION.—The Advisory Commission shall 
+5
+terminate 60 days after the date on which the Advisory 
+6
+Commission submits the report required under subsection 
+7
+(f). 
+8
+SEC. 5. SENSE OF CONGRESS ON CONFIDENCE IN ELEC-
+9
+TION PROCESS. 
+10
+It is the sense of Congress that— 
+11
+(1) the United States is a beacon of hope that 
+12
+sets the standard of democracy around the world; 
+13
+(2) the people of the United States should have 
+14
+full faith in their electoral process; 
+15
+(3) the United States must ensure that elec-
+16
+tions are free, fair, and secure; 
+17
+(4) transparency is at the core of the demo-
+18
+cratic process, and the 2020 election raised concerns 
+19
+of election irregularities; and 
+20
+(5) at the very least, Congress must provide the 
+21
+American people with the confidence that their elec-
+22
+tions are secure. 
+23
+Æ 
+02:44 Jun 08, 2021
+H2844

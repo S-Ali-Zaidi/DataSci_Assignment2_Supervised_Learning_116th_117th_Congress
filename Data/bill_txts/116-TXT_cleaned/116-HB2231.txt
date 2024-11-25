@@ -1,0 +1,746 @@
+A BILL 
+To direct the Federal Trade Commission to require entities 
+that use, store, or share personal information to conduct 
+automated decision system impact assessments and data 
+protection impact assessments. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Algorithmic Account-
+4
+ability Act of 2019’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+21:43 Apr 19, 2019
+H2231
+2 
+•HR 2231 IH
+(1) AUTOMATED DECISION SYSTEM.—The term 
+1
+‘‘automated decision system’’ means a computational 
+2
+process, including one derived from machine learn-
+3
+ing, statistics, or other data processing or artificial 
+4
+intelligence techniques, that makes a decision or fa-
+5
+cilitates human decision making, that impacts con-
+6
+sumers. 
+7
+(2) AUTOMATED DECISION SYSTEM IMPACT AS-
+8
+SESSMENT.—The term ‘‘automated decision system 
+9
+impact assessment’’ means a study evaluating an 
+10
+automated decision system and the automated deci-
+11
+sion system’s development process, including the de-
+12
+sign and training data of the automated decision 
+13
+system, for impacts on accuracy, fairness, bias, dis-
+14
+crimination, privacy, and security that includes, at a 
+15
+minimum— 
+16
+(A) a detailed description of the automated 
+17
+decision system, its design, its training, data, 
+18
+and its purpose; 
+19
+(B) an assessment of the relative benefits 
+20
+and costs of the automated decision system in 
+21
+light of its purpose, taking into account rel-
+22
+evant factors, including— 
+23
+(i) data minimization practices; 
+24
+21:43 Apr 19, 2019
+H2231
+3 
+•HR 2231 IH
+(ii) the duration for which personal 
+1
+information and the results of the auto-
+2
+mated decision system are stored; 
+3
+(iii) what information about the auto-
+4
+mated decision system is available to con-
+5
+sumers; 
+6
+(iv) the extent to which consumers 
+7
+have access to the results of the automated 
+8
+decision system and may correct or object 
+9
+to its results; and 
+10
+(v) the recipients of the results of the 
+11
+automated decision system; 
+12
+(C) an assessment of the risks posed by 
+13
+the automated decision system to the privacy or 
+14
+security of personal information of consumers 
+15
+and the risks that the automated decision sys-
+16
+tem may result in or contribute to inaccurate, 
+17
+unfair, biased, or discriminatory decisions im-
+18
+pacting consumers; and 
+19
+(D) the measures the covered entity will 
+20
+employ to minimize the risks described in sub-
+21
+paragraph (C), including technological and 
+22
+physical safeguards. 
+23
+(3) COMMISSION.—The term ‘‘Commission’’ 
+24
+means the Federal Trade Commission. 
+25
+21:43 Apr 19, 2019
+H2231
+4 
+•HR 2231 IH
+(4) CONSUMER.—The term ‘‘consumer’’ means 
+1
+an individual. 
+2
+(5) COVERED ENTITY.—The term ‘‘covered en-
+3
+tity’’ means any person, partnership, or corporation 
+4
+over which the Commission has jurisdiction under 
+5
+section 5(a)(2) of the Federal Trade Commission 
+6
+Act (15 U.S.C. 45(a)(2)) that— 
+7
+(A) had greater than $50,000,000 in aver-
+8
+age annual gross receipts for the 3-taxable-year 
+9
+period preceding the most recent fiscal year, as 
+10
+determined in accordance with paragraphs (2) 
+11
+and (3) of section 448(c) of the Internal Rev-
+12
+enue Code of 1986; 
+13
+(B) possesses or controls personal informa-
+14
+tion on more than— 
+15
+(i) 1,000,000 consumers; or 
+16
+(ii) 1,000,000 consumer devices; 
+17
+(C) is substantially owned, operated, or 
+18
+controlled by a person, partnership, or corpora-
+19
+tion that meets the requirements under sub-
+20
+paragraph (A) or (B); or 
+21
+(D) is a data broker or other commercial 
+22
+entity that, as a substantial part of its business, 
+23
+collects, assembles, or maintains personal infor-
+24
+mation concerning an individual who is not a 
+25
+21:43 Apr 19, 2019
+H2231
+5 
+•HR 2231 IH
+customer or an employee of that entity in order 
+1
+to sell or trade the information or provide third- 
+2
+party access to the information. 
+3
+(6) DATA PROTECTION IMPACT ASSESSMENT.— 
+4
+The term ‘‘data protection impact assessment’’ 
+5
+means a study evaluating the extent to which an in-
+6
+formation system protects the privacy and security 
+7
+of personal information the system processes. 
+8
+(7) HIGH-RISK
+AUTOMATED
+DECISION
+SYS-
+9
+TEM.—The term ‘‘high-risk automated decision sys-
+10
+tem’’ means an automated decision system that— 
+11
+(A) taking into account the novelty of the 
+12
+technology used and the nature, scope, context, 
+13
+and purpose of the automated decision system, 
+14
+poses a significant risk— 
+15
+(i) to the privacy or security of per-
+16
+sonal information of consumers; or 
+17
+(ii) of resulting in or contributing to 
+18
+inaccurate, unfair, biased, or discrimina-
+19
+tory decisions impacting consumers; 
+20
+(B) makes decisions, or facilitates human 
+21
+decision making, based on systematic and ex-
+22
+tensive evaluations of consumers, including at-
+23
+tempts to analyze or predict sensitive aspects of 
+24
+their lives, such as their work performance, eco-
+25
+21:43 Apr 19, 2019
+H2231
+6 
+•HR 2231 IH
+nomic situation, health, personal preferences, 
+1
+interests, behavior, location, or movements, 
+2
+that— 
+3
+(i) alter legal rights of consumers; or 
+4
+(ii) otherwise significantly impact con-
+5
+sumers; 
+6
+(C) involves the personal information of a 
+7
+significant number of consumers regarding 
+8
+race, color, national origin, political opinions, 
+9
+religion, trade union membership, genetic data, 
+10
+biometric data, health, gender, gender identity, 
+11
+sexuality, sexual orientation, criminal convic-
+12
+tions, or arrests; 
+13
+(D) systematically monitors a large, pub-
+14
+licly accessible physical place; or 
+15
+(E) meets any other criteria established by 
+16
+the Commission in regulations issued under sec-
+17
+tion 3(b)(1). 
+18
+(8) HIGH-RISK
+INFORMATION
+SYSTEM.—The 
+19
+term ‘‘high-risk information system’’ means an in-
+20
+formation system that— 
+21
+(A) taking into account the novelty of the 
+22
+technology used and the nature, scope, context, 
+23
+and purpose of the information system, poses a 
+24
+21:43 Apr 19, 2019
+H2231
+7 
+•HR 2231 IH
+significant risk to the privacy or security of per-
+1
+sonal information of consumers; 
+2
+(B) involves the personal information of a 
+3
+significant number of consumers regarding 
+4
+race, color, national origin, political opinions, 
+5
+religion, trade union membership, genetic data, 
+6
+biometric data, health, gender, gender identity, 
+7
+sexuality, sexual orientation, criminal convic-
+8
+tions, or arrests; 
+9
+(C) systematically monitors a large, pub-
+10
+licly accessible physical place; or 
+11
+(D) meets any other criteria established by 
+12
+the Commission in regulations issued under sec-
+13
+tion 3(b)(1). 
+14
+(9) INFORMATION SYSTEM.—The term ‘‘infor-
+15
+mation system’’— 
+16
+(A) means a process, automated or not, 
+17
+that involves personal information, such as the 
+18
+collection, recording, organization, structuring, 
+19
+storage, alteration, retrieval, consultation, use, 
+20
+sharing, disclosure, dissemination, combination, 
+21
+restriction, erasure, or destruction of personal 
+22
+information; and 
+23
+(B) does not include automated decision 
+24
+systems. 
+25
+21:43 Apr 19, 2019
+H2231
+8 
+•HR 2231 IH
+(10) 
+PERSONAL
+INFORMATION.—The 
+term 
+1
+‘‘personal information’’ means any information, re-
+2
+gardless of how the information is collected, in-
+3
+ferred, or obtained that is reasonably linkable to a 
+4
+specific consumer or consumer device. 
+5
+(11) STORE.—The term ‘‘store’’— 
+6
+(A) means the actions of a person, part-
+7
+nership, or corporation to retain information; 
+8
+and 
+9
+(B) includes actions to store, collect, as-
+10
+semble, possess, control, or maintain informa-
+11
+tion. 
+12
+(12) USE.—The term ‘‘use’’ means the actions 
+13
+of a person, partnership, or corporation in using in-
+14
+formation, including actions to use, process, or ac-
+15
+cess information. 
+16
+SEC. 3. DATA PROTECTION AUTHORITY. 
+17
+(a) ACTS PROHIBITED.—It is unlawful for any cov-
+18
+ered entity to— 
+19
+(1) violate a regulation promulgated under sub-
+20
+section (b); or 
+21
+(2) knowingly provide substantial assistance to 
+22
+any person, partnership, or corporation whose ac-
+23
+tions violate subsection (b). 
+24
+(b) REGULATIONS.— 
+25
+21:43 Apr 19, 2019
+H2231
+9 
+•HR 2231 IH
+(1) IN GENERAL.—Not later than 2 years after 
+1
+the date of enactment of this section, the Commis-
+2
+sion shall promulgate regulations, in accordance with 
+3
+section 553 of title 5, United States Code, that— 
+4
+(A) require each covered entity to conduct 
+5
+automated decision system impact assessments 
+6
+of— 
+7
+(i) existing high-risk automated deci-
+8
+sion systems, as frequently as the Commis-
+9
+sion determines is necessary; and 
+10
+(ii) new high-risk automated decision 
+11
+systems, prior to implementation; 
+12
+provided that a covered entity may evaluate 
+13
+similar high-risk automated decision systems 
+14
+that present similar risks in a single assess-
+15
+ment; 
+16
+(B) require each covered entity to conduct 
+17
+data protection impact assessments of— 
+18
+(i) existing high-risk information sys-
+19
+tems, as frequently as the Commission de-
+20
+termines is necessary; and 
+21
+(ii) new high-risk information sys-
+22
+tems, prior to implementation; 
+23
+21:43 Apr 19, 2019
+H2231
+10 
+•HR 2231 IH
+provided that a covered entity may evaluate 
+1
+similar high-risk information systems that 
+2
+present similar risks in a single assessment; 
+3
+(C) require each covered entity to conduct 
+4
+the impact assessments under subparagraphs 
+5
+(A) and (B), if reasonably possible, in consulta-
+6
+tion with external third parties, including inde-
+7
+pendent auditors and independent technology 
+8
+experts; and 
+9
+(D) require each covered entity to reason-
+10
+ably address in a timely manner the results of 
+11
+the impact assessments under subparagraphs 
+12
+(A) and (B). 
+13
+(2) OPTIONAL
+PUBLICATION
+OF
+IMPACT
+AS-
+14
+SESSMENTS.—The impact assessments under sub-
+15
+paragraphs (A) and (B) may be made public by the 
+16
+covered entity at its sole discretion. 
+17
+(c) PREEMPTION OF PRIVATE CONTRACTS.—It shall 
+18
+be unlawful for any covered entity to commit the acts pro-
+19
+hibited in subsection (a), regardless of specific agreements 
+20
+between entities or consumers. 
+21
+(d) ENFORCEMENT BY THE COMMISSION.— 
+22
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+23
+TICES.—A violation of subsection (a) shall be treated 
+24
+as a violation of a rule defining an unfair or decep-
+25
+21:43 Apr 19, 2019
+H2231
+11 
+•HR 2231 IH
+tive act or practice under section 18(a)(1)(B) of the 
+1
+Federal 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+2
+57a(a)(1)(B)). 
+3
+(2) POWERS OF THE COMMISSION.— 
+4
+(A) IN GENERAL.—The Commission shall 
+5
+enforce this section in the same manner, by the 
+6
+same means, and with the same jurisdiction, 
+7
+powers, and duties as though all applicable 
+8
+terms and provisions of the Federal Trade 
+9
+Commission Act (15 U.S.C. 41 et seq.) were in-
+10
+corporated into and made a part of this section. 
+11
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+12
+person who violates subsection (a) shall be sub-
+13
+ject to the penalties and entitled to the privi-
+14
+leges and immunities provided in the Federal 
+15
+Trade Commission Act (15 U.S.C. 41 et seq.). 
+16
+(C) AUTHORITY PRESERVED.—Nothing in 
+17
+this section shall be construed to limit the au-
+18
+thority of the Commission under any other pro-
+19
+vision of law. 
+20
+(e) ENFORCEMENT BY STATES.— 
+21
+(1) IN GENERAL.—If the attorney general of a 
+22
+State has reason to believe that an interest of the 
+23
+residents of the State has been or is being threat-
+24
+ened or adversely affected by a practice that violates 
+25
+21:43 Apr 19, 2019
+H2231
+12 
+•HR 2231 IH
+subsection (a), the attorney general of the State 
+1
+may, as parens patriae, bring a civil action on behalf 
+2
+of the residents of the State in an appropriate dis-
+3
+trict court of the United States to obtain appro-
+4
+priate relief. 
+5
+(2) RIGHTS OF COMMISSION.— 
+6
+(A) NOTICE TO COMMISSION.— 
+7
+(i) IN GENERAL.—Except as provided 
+8
+in clause (iii), the attorney general of a 
+9
+State, before initiating a civil action under 
+10
+paragraph (1), shall provide written notifi-
+11
+cation to the Commission that the attorney 
+12
+general intends to bring such civil action. 
+13
+(ii) CONTENTS.—The notification re-
+14
+quired under clause (i) shall include a copy 
+15
+of the complaint to be filed to initiate the 
+16
+civil action. 
+17
+(iii) EXCEPTION.—If it is not feasible 
+18
+for the attorney general of a State to pro-
+19
+vide the notification required under clause 
+20
+(i) before initiating a civil action under 
+21
+paragraph (1), the attorney general shall 
+22
+notify the Commission immediately upon 
+23
+instituting the civil action. 
+24
+21:43 Apr 19, 2019
+H2231
+13 
+•HR 2231 IH
+(B) INTERVENTION BY COMMISSION.—The 
+1
+Commission may— 
+2
+(i) intervene in any civil action 
+3
+brought by the attorney general of a State 
+4
+under paragraph (1); and 
+5
+(ii) upon intervening— 
+6
+(I) be heard on all matters aris-
+7
+ing in the civil action; and 
+8
+(II) file petitions for appeal of a 
+9
+decision in the civil action. 
+10
+(3) INVESTIGATORY POWERS.—Nothing in this 
+11
+subsection may be construed to prevent the attorney 
+12
+general of a State from exercising the powers con-
+13
+ferred on the attorney general by the laws of the 
+14
+State to conduct investigations, to administer oaths 
+15
+or affirmations, or to compel the attendance of wit-
+16
+nesses or the production of documentary or other 
+17
+evidence. 
+18
+(4) VENUE; SERVICE OF PROCESS.— 
+19
+(A) VENUE.—Any action brought under 
+20
+paragraph (1) may be brought in— 
+21
+(i) the district court of the United 
+22
+States that meets applicable requirements 
+23
+relating to venue under section 1391 of 
+24
+title 28, United States Code; or 
+25
+21:43 Apr 19, 2019
+H2231
+14 
+•HR 2231 IH
+(ii) another court of competent juris-
+1
+diction. 
+2
+(B) SERVICE OF PROCESS.—In an action 
+3
+brought under paragraph (1), process may be 
+4
+served in any district in which— 
+5
+(i) the defendant is an inhabitant, 
+6
+may be found, or transacts business; or 
+7
+(ii) venue is proper under section 
+8
+1391 of title 28, United States Code. 
+9
+(5) ACTIONS BY OTHER STATE OFFICIALS.— 
+10
+(A) IN GENERAL.—In addition to a civil 
+11
+action brought by an attorney general under 
+12
+paragraph (1), any other officer of a State who 
+13
+is authorized by the State to do so may bring 
+14
+a civil action under paragraph (1), subject to 
+15
+the same requirements and limitations that 
+16
+apply under this subsection to civil actions 
+17
+brought by attorneys general. 
+18
+(B) SAVINGS PROVISION.—Nothing in this 
+19
+subsection may be construed to prohibit an au-
+20
+thorized official of a State from initiating or 
+21
+continuing any proceeding in a court of the 
+22
+State for a violation of any civil or criminal law 
+23
+of the State. 
+24
+21:43 Apr 19, 2019
+H2231
+15 
+•HR 2231 IH
+SEC. 4. NO PREEMPTION. 
+1
+Nothing in this Act may be construed to preempt any 
+2
+State law. 
+3
+Æ 
+21:43 Apr 19, 2019
+H2231

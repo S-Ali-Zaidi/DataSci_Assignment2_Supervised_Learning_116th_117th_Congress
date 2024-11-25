@@ -1,0 +1,583 @@
+A BILL 
+To provide for certain requirements for the collection, trans-
+mission, processing, or disclosure of camera or micro-
+phone data by the manufacturer of an internet-connected 
+device or developer of an application installed on such 
+a device, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Prevent Recording of 
+4
+Individuals with Video and Audio Technologies when not 
+5
+Enabled Act’’ or the ‘‘PRIVATE Act’’. 
+6
+01:31 Oct 28, 2021
+H5696
+2 
+•HR 5696 IH
+SEC. 2. TREATMENT OF CAMERA AND MICROPHONE DATA 
+1
+BY INTERNET-CONNECTED DEVICES AND AP-
+2
+PLICATIONS. 
+3
+(a) PROHIBITION.— 
+4
+(1) IN GENERAL.—A covered entity may not 
+5
+collect any data using the camera or microphone of 
+6
+a covered device of an individual, cause any data so 
+7
+collected to be transmitted from the device, or proc-
+8
+ess or disclose to another person any data so col-
+9
+lected, unless— 
+10
+(A) the collection, transmission, proc-
+11
+essing, or disclosure is consistent with reason-
+12
+able consumer expectations within the context 
+13
+of the interaction between the covered entity 
+14
+and the individual; or 
+15
+(B) the covered entity obtains the express, 
+16
+affirmative consent of the individual to the col-
+17
+lection, transmission, processing, or disclosure 
+18
+in the manner required by subsection (b). 
+19
+(2) REASONABLE CONSUMER EXPECTATIONS.— 
+20
+For purposes of paragraph (1)(A), the collection, 
+21
+transmission, processing, or disclosure of data is not 
+22
+consistent with reasonable consumer expectations 
+23
+if— 
+24
+(A) the collection, transmission, proc-
+25
+essing, or disclosure is not reasonably required 
+26
+01:31 Oct 28, 2021
+H5696
+3 
+•HR 5696 IH
+for the functionality of the covered device man-
+1
+ufactured by the covered entity or the covered 
+2
+application developed by the covered entity (as 
+3
+the case may be); or 
+4
+(B) the data is collected, transmitted, or 
+5
+processed (regardless of whether the processing 
+6
+occurs on the covered device or on the systems 
+7
+of the covered entity) when the individual is not 
+8
+actively using the covered device or covered ap-
+9
+plication (as the case may be). 
+10
+(b) REQUIREMENTS FOR OBTAINING EXPRESS, AF-
+11
+FIRMATIVE CONSENT.— 
+12
+(1) IN GENERAL.—To obtain the express, af-
+13
+firmative consent of an individual to the collection of 
+14
+data using the camera or microphone of a covered 
+15
+device of the individual, the causing of any data so 
+16
+collected to be transmitted from the device, or the 
+17
+processing or disclosure to another person of any 
+18
+data so collected, a covered entity shall— 
+19
+(A) provide to the individual a brief notice 
+20
+of the collection, transmission, processing, or 
+21
+disclosure that meets the requirements of para-
+22
+graph (2); and 
+23
+(B) obtain an affirmative response from 
+24
+the individual indicating that the individual 
+25
+01:31 Oct 28, 2021
+H5696
+4 
+•HR 5696 IH
+consents to the collection, transmission, proc-
+1
+essing, or disclosure. 
+2
+(2) BRIEF NOTICE.—The brief notice required 
+3
+by paragraph (1)(A) shall— 
+4
+(A) briefly describe the collection, trans-
+5
+mission, processing, or disclosure for which con-
+6
+sent is sought; 
+7
+(B) be provided in a conspicuous manner; 
+8
+(C) be separate from any other privacy 
+9
+policy or terms or conditions relating to the cov-
+10
+ered device or covered application; 
+11
+(D) be in plain language; 
+12
+(E) be provided— 
+13
+(i) in the case of a covered device that 
+14
+has a screen (or a covered application in-
+15
+stalled on a covered device that has a 
+16
+screen)— 
+17
+(I) in the form of text displayed 
+18
+on the screen; and 
+19
+(II) if the individual so chooses, 
+20
+in spoken form; and 
+21
+(ii) in the case of a covered device 
+22
+that does not have a screen (or a covered 
+23
+application installed on a covered device 
+24
+that does not have a screen)— 
+25
+01:31 Oct 28, 2021
+H5696
+5 
+•HR 5696 IH
+(I) in spoken form; and 
+1
+(II) if the individual so chooses, 
+2
+in an alternative form that is acces-
+3
+sible to individuals with a hearing im-
+4
+pairment; and 
+5
+(F) clearly and conspicuously direct the in-
+6
+dividual to a website on which the individual 
+7
+may access the privacy policy required by para-
+8
+graph (3). 
+9
+(3) PRIVACY POLICY FOR CAMERA AND MICRO-
+10
+PHONE DATA.—A covered entity that collects any 
+11
+data using the camera or microphone of a covered 
+12
+device of an individual, causes any data so collected 
+13
+to be transmitted from the device, or processes or 
+14
+discloses to another person any data so collected, 
+15
+shall maintain on a publicly available website a pri-
+16
+vacy policy that describes in detail, but using plain 
+17
+language, the collection, transmission, processing, or 
+18
+disclosure, including the purposes of the collection, 
+19
+transmission, processing, or disclosure. The privacy 
+20
+policy shall be separate from any other privacy pol-
+21
+icy or terms or conditions relating to the covered de-
+22
+vice or covered application and shall be displayed in 
+23
+a conspicuous manner on the website. 
+24
+(c) VOICE-ACTIVATED FUNCTIONALITY.— 
+25
+01:31 Oct 28, 2021
+H5696
+6 
+•HR 5696 IH
+(1) IN GENERAL.—Notwithstanding subsection 
+1
+(a)(1)(A)— 
+2
+(A) if the covered device of an individual 
+3
+has voice-activated functionality, the covered 
+4
+entity that manufactured the covered device 
+5
+may not, in connection with such functionality, 
+6
+collect any data using the camera or micro-
+7
+phone of the covered device, cause any data so 
+8
+collected to be transmitted from the device, or 
+9
+process or disclose to another person any data 
+10
+so collected, unless, before such functionality is 
+11
+activated, the covered entity obtains the ex-
+12
+press, affirmative consent of the individual to 
+13
+the collection, transmission, processing, or dis-
+14
+closure; and 
+15
+(B) if a covered application installed on 
+16
+the covered device of an individual has voice-ac-
+17
+tivated functionality, the covered entity that de-
+18
+veloped the covered application may not, in con-
+19
+nection with such functionality, collect any data 
+20
+using the camera or microphone of the covered 
+21
+device, cause any data so collected to be trans-
+22
+mitted from the device, or process or disclose to 
+23
+another person any data so collected, unless, be-
+24
+fore such functionality is activated, the covered 
+25
+01:31 Oct 28, 2021
+H5696
+7 
+•HR 5696 IH
+entity obtains the express, affirmative consent 
+1
+of the individual to the collection, transmission, 
+2
+processing, or disclosure. 
+3
+(2) REQUIREMENTS.—The express, affirmative 
+4
+consent required by paragraph (1) shall be obtained 
+5
+in the manner required by subsection (b), except 
+6
+that the brief notice required by subparagraph (A) 
+7
+of paragraph (1) of such subsection and the affirma-
+8
+tive response required by subparagraph (B) of such 
+9
+paragraph shall be specific to the collection, trans-
+10
+mission, processing, or disclosure of data in connec-
+11
+tion with the voice-activated functionality and sepa-
+12
+rate from the notice provided and response obtained 
+13
+under such subparagraphs with respect to the collec-
+14
+tion, transmission, processing, or disclosure of data 
+15
+not in connection with such functionality. 
+16
+(d) STATUS OF CONSENT; REVOCATION.—A covered 
+17
+entity shall provide a convenient means, on the covered 
+18
+device manufactured by the covered entity or within the 
+19
+covered application developed by the covered entity (as the 
+20
+case may be), for an individual— 
+21
+(1) to revoke any consent provided under this 
+22
+section to the collection, transmission, processing, or 
+23
+disclosure of data; and 
+24
+01:31 Oct 28, 2021
+H5696
+8 
+•HR 5696 IH
+(2) to view whether the individual has provided 
+1
+or revoked any such consent. 
+2
+(e) FEDERAL TRADE COMMISSION GUIDANCE; SAFE 
+3
+HARBOR.— 
+4
+(1) GUIDANCE.—The Commission shall issue 
+5
+guidance containing examples of language for the 
+6
+brief notice required by subsection (b)(1)(A) (includ-
+7
+ing text and spoken versions) and the privacy policy 
+8
+required by subsection (b)(3). 
+9
+(2) SAFE HARBOR.— 
+10
+(A) SUBMISSION OF BRIEF NOTICE OR PRI-
+11
+VACY POLICY TO COMMISSION.—A covered enti-
+12
+ty may submit to the Commission for approval 
+13
+a brief notice that the covered entity intends to 
+14
+use to comply with subsection (b)(1)(A) or a 
+15
+privacy policy that the covered entity intends to 
+16
+use to comply with subsection (b)(3) with re-
+17
+spect to the collection, transmission, processing, 
+18
+or disclosure of data. The covered entity shall 
+19
+include with the submission such information as 
+20
+the Commission may require about the collec-
+21
+tion, transmission, processing, or disclosure, as 
+22
+the Commission considers necessary to evaluate 
+23
+the adequacy of the brief notice or privacy pol-
+24
+icy. 
+25
+01:31 Oct 28, 2021
+H5696
+9 
+•HR 5696 IH
+(B) APPROVAL OR REJECTION.—Not later 
+1
+than 120 days after receiving a brief notice or 
+2
+privacy policy from a covered entity under sub-
+3
+paragraph (A), the Commission shall approve or 
+4
+reject the brief notice or privacy policy and in-
+5
+form the covered entity of the approval or rejec-
+6
+tion. 
+7
+(C) EFFECT.—If the Commission approves 
+8
+a brief notice or privacy policy under subpara-
+9
+graph (B), the brief notice or privacy policy 
+10
+shall be considered to meet the requirements of 
+11
+subsection (b)(1)(A) or (b)(3), respectively, with 
+12
+respect to the collection, transmission, proc-
+13
+essing, or disclosure of data to which the brief 
+14
+notice or privacy policy relates, to the extent 
+15
+the covered entity conducts the collection, 
+16
+transmission, processing, or disclosure in a 
+17
+manner that is consistent in all material re-
+18
+spects with the information provided to the 
+19
+Commission under subparagraph (A). 
+20
+(f) ENFORCEMENT BY FEDERAL TRADE COMMIS-
+21
+SION.— 
+22
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+23
+TICES.—A violation of this section or a regulation 
+24
+promulgated under this section shall be treated as a 
+25
+01:31 Oct 28, 2021
+H5696
+10 
+•HR 5696 IH
+violation of a regulation under section 18(a)(1)(B) 
+1
+of the Federal Trade Commission Act (15 U.S.C. 
+2
+57a(a)(1)(B)) regarding unfair or deceptive acts or 
+3
+practices. 
+4
+(2) POWERS
+OF
+COMMISSION.—The Commis-
+5
+sion shall enforce this section and the regulations 
+6
+promulgated under this section in the same manner, 
+7
+by the same means, and with the same jurisdiction, 
+8
+powers, and duties as though all applicable terms 
+9
+and provisions of the Federal Trade Commission Act 
+10
+(15 U.S.C. 41 et seq.) were incorporated into and 
+11
+made a part of this section. Any person who violates 
+12
+this section or a regulation promulgated under this 
+13
+section shall be subject to the penalties and entitled 
+14
+to the privileges and immunities provided in the 
+15
+Federal Trade Commission Act. 
+16
+(g) RULEMAKING.—The Commission may promul-
+17
+gate regulations under section 553 of title 5, United 
+18
+States Code, to implement this section. 
+19
+(h) DEFINITIONS.—In this section: 
+20
+(1) COMMISSION.—The term ‘‘Commission’’ 
+21
+means the Federal Trade Commission. 
+22
+(2) COVERED APPLICATION.—The term ‘‘cov-
+23
+ered application’’ means a software application that 
+24
+is designed to be installed on a covered device. 
+25
+01:31 Oct 28, 2021
+H5696
+11 
+•HR 5696 IH
+(3) COVERED DEVICE.—The term ‘‘covered de-
+1
+vice’’ means a device that— 
+2
+(A) is capable of connecting to the inter-
+3
+net, either directly or indirectly through a net-
+4
+work; 
+5
+(B) has computer processing capabilities 
+6
+for collecting, transmitting, or otherwise proc-
+7
+essing data; and 
+8
+(C) has a camera or microphone. 
+9
+(4) COVERED ENTITY.—The term ‘‘covered en-
+10
+tity’’ means— 
+11
+(A) a manufacturer of a covered device; 
+12
+and 
+13
+(B) a developer of a covered application. 
+14
+(5) VOICE-ACTIVATED
+FUNCTIONALITY.—The 
+15
+term 
+‘‘voice-activated 
+functionality’’ 
+means 
+a 
+16
+functionality of a covered device or covered applica-
+17
+tion that— 
+18
+(A) allows an individual to control the cov-
+19
+ered device or covered application using voice 
+20
+commands; and 
+21
+(B) uses the microphone of the covered de-
+22
+vice being controlled, or the microphone of the 
+23
+covered device on which the covered application 
+24
+being controlled is installed, to listen for such 
+25
+01:31 Oct 28, 2021
+H5696
+12 
+•HR 5696 IH
+commands when the individual is not actively 
+1
+using the covered device or covered application, 
+2
+respectively. 
+3
+Æ 
+01:31 Oct 28, 2021
+H5696

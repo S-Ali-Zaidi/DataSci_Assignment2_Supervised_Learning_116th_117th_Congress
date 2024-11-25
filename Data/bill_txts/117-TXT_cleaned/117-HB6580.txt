@@ -1,0 +1,2645 @@
+A BILL 
+To direct the Federal Trade Commission to require impact 
+assessments of automated decision systems and aug-
+mented critical decision processes, and for other pur-
+poses. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Algorithmic Account-
+4
+ability Act of 2022’’. 
+5
+17:34 Feb 04, 2022
+H6580
+2 
+•HR 6580 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) AUGMENTED
+CRITICAL
+DECISION
+PROC-
+3
+ESS.—The term ‘‘augmented critical decision proc-
+4
+ess’’ means a process, procedure, or other activity 
+5
+that employs an automated decision system to make 
+6
+a critical decision. 
+7
+(2) AUTOMATED DECISION SYSTEM.—The term 
+8
+‘‘automated decision system’’ means any system, 
+9
+software, or process (including one derived from ma-
+10
+chine learning, statistics, or other data processing or 
+11
+artificial intelligence techniques and excluding pas-
+12
+sive computing infrastructure) that uses computa-
+13
+tion, the result of which serves as a basis for a deci-
+14
+sion or judgment. 
+15
+(3) 
+BIOMETRICS.—The 
+term 
+‘‘biometrics’’ 
+16
+means any information that represents a biological, 
+17
+physiological, or behavioral attribute or feature of a 
+18
+consumer. 
+19
+(4) CHAIR.—The term ‘‘Chair’’ means the 
+20
+Chair of the Commission. 
+21
+(5) COMMISSION.—The term ‘‘Commission’’ 
+22
+means the Federal Trade Commission. 
+23
+(6) CONSUMER.—The term ‘‘consumer’’ means 
+24
+an individual. 
+25
+(7) COVERED ENTITY.— 
+26
+17:34 Feb 04, 2022
+H6580
+3 
+•HR 6580 IH
+(A) IN GENERAL.—The term ‘‘covered en-
+1
+tity’’ means any person, partnership, or cor-
+2
+poration over which the Commission has juris-
+3
+diction under section 5(a)(2) of the Federal 
+4
+Trade Commission Act (15 U.S.C. 45(a)(2))— 
+5
+(i) that deploys any augmented crit-
+6
+ical decision process; and 
+7
+(I) had greater than $50,000,000 
+8
+in average annual gross receipts or is 
+9
+deemed 
+to 
+have 
+greater 
+than 
+10
+$250,000,000 in equity value for the 
+11
+3-taxable-year period (or for the pe-
+12
+riod during which the person, partner-
+13
+ship, or corporation has been in exist-
+14
+ence, if such period is less than 3 
+15
+years) preceding the most recent fiscal 
+16
+year, as determined in accordance 
+17
+with paragraphs (2) and (3) of section 
+18
+448(c) of the Internal Revenue Code 
+19
+of 1986; 
+20
+(II) possesses, manages, modi-
+21
+fies, handles, analyzes, controls, or 
+22
+otherwise uses identifying information 
+23
+about more than 1,000,000 con-
+24
+sumers, households, or consumer de-
+25
+17:34 Feb 04, 2022
+H6580
+4 
+•HR 6580 IH
+vices for the purpose of developing or 
+1
+deploying any automated decision sys-
+2
+tem or augmented critical decision 
+3
+process; or 
+4
+(III) is substantially owned, oper-
+5
+ated, or controlled by a person, part-
+6
+nership, or corporation that meets the 
+7
+requirements under subclause (I) or 
+8
+(II); 
+9
+(ii) that— 
+10
+(I) had greater than $5,000,000 
+11
+in average annual gross receipts or is 
+12
+deemed 
+to 
+have 
+greater 
+than 
+13
+$25,000,000 in equity value for the 3- 
+14
+taxable-year period (or for the period 
+15
+during which the person, partnership, 
+16
+or corporation has been in existence, 
+17
+if such period is less than 3 years) 
+18
+preceding the most recent fiscal year, 
+19
+as determined in accordance with 
+20
+paragraphs (2) and (3) of section 
+21
+448(c) of the Internal Revenue Code 
+22
+of 1986; and 
+23
+(II) deploys any automated deci-
+24
+sion system that is developed for im-
+25
+17:34 Feb 04, 2022
+H6580
+5 
+•HR 6580 IH
+plementation or use, or that the per-
+1
+son, partnership, or corporation rea-
+2
+sonably expects to be implemented or 
+3
+used, in an augmented critical deci-
+4
+sion process by any person, partner-
+5
+ship, or corporation if such person, 
+6
+partnership, or corporation meets the 
+7
+requirements described in clause (i); 
+8
+or 
+9
+(iii) that met the criteria described in 
+10
+clause (i) or (ii) within the previous 3 
+11
+years. 
+12
+(B) INFLATION
+ADJUSTMENT.—For pur-
+13
+poses of applying this paragraph in any fiscal 
+14
+year after the first fiscal year that begins on or 
+15
+after the date of enactment of this Act, each of 
+16
+the dollar amounts specified in subparagraph 
+17
+(A) shall be increased by the percentage in-
+18
+crease (if any) in the consumer price index for 
+19
+all urban consumers (U.S. city average) from 
+20
+such first fiscal year that begins after such date 
+21
+of enactment to the fiscal year involved. 
+22
+(8) CRITICAL
+DECISION.—The term ‘‘critical 
+23
+decision’’ means a decision or judgment that has any 
+24
+legal, material, or similarly significant effect on a 
+25
+17:34 Feb 04, 2022
+H6580
+6 
+•HR 6580 IH
+consumer’s life relating to access to or the cost, 
+1
+terms, or availability of— 
+2
+(A) education and vocational training, in-
+3
+cluding assessment, accreditation, or certifi-
+4
+cation; 
+5
+(B) employment, workers management, or 
+6
+self-employment; 
+7
+(C) essential utilities, such as electricity, 
+8
+heat, water, internet or telecommunications ac-
+9
+cess, or transportation; 
+10
+(D) family planning, including adoption 
+11
+services or reproductive services; 
+12
+(E) financial services, including any finan-
+13
+cial service provided by a mortgage company, 
+14
+mortgage broker, or creditor; 
+15
+(F) 
+healthcare, 
+including 
+mental 
+16
+healthcare, dental, or vision; 
+17
+(G) housing or lodging, including any rent-
+18
+al or short-term housing or lodging; 
+19
+(H) legal services, including private arbi-
+20
+tration or mediation; or 
+21
+(I) any other service, program, or oppor-
+22
+tunity decisions about which have a comparably 
+23
+legal, material, or similarly significant effect on 
+24
+17:34 Feb 04, 2022
+H6580
+7 
+•HR 6580 IH
+a consumer’s life as determined by the Commis-
+1
+sion through rulemaking. 
+2
+(9) DEPLOY.—The term ‘‘deploy’’ means to im-
+3
+plement, use, or make available for sale, license, or 
+4
+other commercial relationship. 
+5
+(10) DEVELOP.—The term ‘‘develop’’ means to 
+6
+design, code, produce, customize, or otherwise create 
+7
+or modify. 
+8
+(11) IDENTIFYING
+INFORMATION.—The term 
+9
+‘‘identifying information’’ means any information, 
+10
+regardless of how the information is collected, in-
+11
+ferred, predicted, or obtained that identifies or rep-
+12
+resents a consumer, household, or consumer device 
+13
+through data elements or attributes, such as name, 
+14
+postal address, telephone number, biometrics, email 
+15
+address, internet protocol address, social security 
+16
+number, or any other identifying number, identifier, 
+17
+or code. 
+18
+(12) IMPACT ASSESSMENT.—The term ‘‘impact 
+19
+assessment’’ means the ongoing study and evalua-
+20
+tion of an automated decision system or augmented 
+21
+critical decision process and its impact on con-
+22
+sumers. 
+23
+(13) PASSIVE COMPUTING INFRASTRUCTURE.— 
+24
+The term ‘‘passive computing infrastructure’’ means 
+25
+17:34 Feb 04, 2022
+H6580
+8 
+•HR 6580 IH
+any intermediary technology that does not influence 
+1
+or determine the outcome of a decision, including— 
+2
+(A) web hosting; 
+3
+(B) domain registration; 
+4
+(C) networking; 
+5
+(D) caching; 
+6
+(E) data storage; or 
+7
+(F) cybersecurity. 
+8
+(14) STATE.—The term ‘‘State’’ means each of 
+9
+the 50 States, the District of Columbia, and any ter-
+10
+ritory or possession of the United States. 
+11
+(15) SUMMARY REPORT.—The term ‘‘summary 
+12
+report’’ means documentation of a subset of infor-
+13
+mation required to be addressed by the impact as-
+14
+sessment as described in this Act or determined ap-
+15
+propriate by the Commission. 
+16
+(16) THIRD-PARTY DECISION RECIPIENT.—The 
+17
+term ‘‘third-party decision recipient’’ means any per-
+18
+son, partnership, or corporation (beyond the con-
+19
+sumer and the covered entity) that receives a copy 
+20
+of or has access to the results of any decision or 
+21
+judgment that results from a covered entity’s deploy-
+22
+ment of an automated decision system or augmented 
+23
+critical decision process. 
+24
+17:34 Feb 04, 2022
+H6580
+9 
+•HR 6580 IH
+SEC. 3. ASSESSING THE IMPACT OF AUTOMATED DECISION 
+1
+SYSTEMS AND AUGMENTED CRITICAL DECI-
+2
+SION PROCESSES. 
+3
+(a) ACTS PROHIBITED.— 
+4
+(1) IN GENERAL.—It is unlawful for— 
+5
+(A) any covered entity to violate a regula-
+6
+tion promulgated under subsection (b); or 
+7
+(B) any person to knowingly provide sub-
+8
+stantial assistance to any covered entity in vio-
+9
+lating subsection (b). 
+10
+(2) PREEMPTION OF PRIVATE CONTRACTS.—It 
+11
+shall be unlawful for any covered entity to commit 
+12
+the acts prohibited in paragraph (1), regardless of 
+13
+specific agreements between entities or consumers. 
+14
+(b) REGULATIONS.— 
+15
+(1) IN GENERAL.—Subject to paragraph (2), 
+16
+not later than 2 years after the date of enactment 
+17
+of this Act, the Commission shall, in consultation 
+18
+with the Director of the National Institute of Stand-
+19
+ards and Technology, the Director of the National 
+20
+Artificial Intelligence Initiative, the Director of the 
+21
+Office of Science and Technology Policy, and other 
+22
+relevant stakeholders, including standards bodies, 
+23
+private industry, academia, technology experts, and 
+24
+advocates for civil rights, consumers, and impacted 
+25
+communities, promulgate regulations, in accordance 
+26
+17:34 Feb 04, 2022
+H6580
+10 
+•HR 6580 IH
+with section 553 of title 5, United States Code, 
+1
+that— 
+2
+(A) require each covered entity to perform 
+3
+impact assessment of any— 
+4
+(i) deployed automated decision sys-
+5
+tem that was developed for implementation 
+6
+or use, or that the covered entity reason-
+7
+ably expects to be implemented or used, in 
+8
+an augmented critical decision process by 
+9
+any person, partnership, or corporation 
+10
+that meets the requirements described in 
+11
+section 2(7)(A)(i); and 
+12
+(ii) augmented critical decision proc-
+13
+ess, both prior to and after deployment by 
+14
+the covered entity; 
+15
+(B) require each covered entity to maintain 
+16
+documentation of any impact assessment per-
+17
+formed under subparagraph (A), including the 
+18
+applicable information described in section 4(a) 
+19
+for 3 years longer than the duration of time for 
+20
+which the automated decision system or aug-
+21
+mented critical decision process is deployed; 
+22
+(C) require each person, partnership, or 
+23
+corporation that meets the requirements de-
+24
+scribed in section 2(7)(A)(i) to disclose their 
+25
+17:34 Feb 04, 2022
+H6580
+11 
+•HR 6580 IH
+status as a covered entity to any person, part-
+1
+nership, or corporation that sells, licenses, or 
+2
+otherwise provides through a commercial rela-
+3
+tionship any automated decision system de-
+4
+ployed by the covered entity in an automated 
+5
+decision system or augmented critical decision 
+6
+process; 
+7
+(D) require each covered entity to submit 
+8
+to the Commission, on an annual basis, a sum-
+9
+mary report for ongoing impact assessment of 
+10
+any deployed automated decision system or aug-
+11
+mented critical decision process; 
+12
+(E) require each covered entity to submit 
+13
+an initial summary report to the Commission 
+14
+for any new automated decision system or aug-
+15
+mented critical decision process prior to its de-
+16
+ployment by the covered entity; 
+17
+(F) allow any person, partnership, or cor-
+18
+poration over which the Commission has juris-
+19
+diction under section 5(a)(2) of the Federal 
+20
+Trade Commission Act (15 U.S.C. 45(a)(2)) 
+21
+that deploys any automated decision system or 
+22
+augmented critical decision process, but is not 
+23
+a covered entity, to submit to the Commission 
+24
+a summary report for any impact assessment 
+25
+17:34 Feb 04, 2022
+H6580
+12 
+•HR 6580 IH
+performed with respect to such system or proc-
+1
+ess; 
+2
+(G) require each covered entity, in per-
+3
+forming the impact assessment described in 
+4
+subparagraph (A), to the extent possible, to 
+5
+meaningfully 
+consult 
+(including 
+through 
+6
+participatory design, independent auditing, or 
+7
+soliciting or incorporating feedback) with rel-
+8
+evant internal stakeholders (such as employees, 
+9
+ethics teams, and responsible technology teams) 
+10
+and independent external stakeholders (such as 
+11
+representatives of and advocates for impacted 
+12
+groups, civil society and advocates, and tech-
+13
+nology experts) as frequently as necessary; 
+14
+(H) require each covered entity to attempt 
+15
+to eliminate or mitigate, in a timely manner, 
+16
+any impact made by an augmented critical deci-
+17
+sion process that demonstrates a likely material 
+18
+negative impact that has legal or similarly sig-
+19
+nificant effects on a consumer’s life; 
+20
+(I) establish definitions for— 
+21
+(i) what constitutes ‘‘access to or the 
+22
+cost, terms, or availability of’’ with respect 
+23
+to a critical decision; 
+24
+17:34 Feb 04, 2022
+H6580
+13 
+•HR 6580 IH
+(ii) what constitutes ‘‘possession’’, 
+1
+‘‘management’’, ‘‘modification’’, and ‘‘con-
+2
+trol’’ with respect to identifying informa-
+3
+tion; 
+4
+(iii) the different categories of third- 
+5
+party decision recipients that a covered en-
+6
+tity must document under section 5(1)(H); 
+7
+and 
+8
+(iv) any of the services, programs, or 
+9
+opportunities described in subparagraphs 
+10
+(A) through (I) of section 2(8) for the pur-
+11
+pose of informing consumers, covered enti-
+12
+ties, and regulators, as the Commission 
+13
+deems necessary; 
+14
+(J) establish guidelines for any person, 
+15
+partnership, or corporation to calculate the 
+16
+number of consumers, households, or consumer 
+17
+devices for which the person, partnership, or 
+18
+corporation possesses, manages, modifies, or 
+19
+controls identifying information for the purpose 
+20
+of determining covered entity status; 
+21
+(K) establish guidelines for a covered enti-
+22
+ty to prioritize different automated decision sys-
+23
+tems and augmented critical decision processes 
+24
+17:34 Feb 04, 2022
+H6580
+14 
+•HR 6580 IH
+deployed by the covered entity for performing 
+1
+impact assessment; and 
+2
+(L) establish a required format for any 
+3
+summary report, as described in subparagraphs 
+4
+(D), (E), and (F), to ensure that such reports 
+5
+are submitted in an accessible and machine- 
+6
+readable format. 
+7
+(2) CONSIDERATIONS.—In promulgating the 
+8
+regulations under paragraph (1), the Commission— 
+9
+(A) shall take into consideration— 
+10
+(i) that certain assessment or docu-
+11
+mentation of an automated decision system 
+12
+or augmented critical decision process may 
+13
+only be possible at particular stages of the 
+14
+development and deployment of such sys-
+15
+tem or process or may be limited or not 
+16
+possible based on the availability of certain 
+17
+types of information or data or the nature 
+18
+of the relationship between the covered en-
+19
+tity and consumers; 
+20
+(ii) the duration of time between sum-
+21
+mary report submissions and the timeliness 
+22
+of the reported information; 
+23
+(iii) the administrative burden placed 
+24
+on the Commission and the covered entity; 
+25
+17:34 Feb 04, 2022
+H6580
+15 
+•HR 6580 IH
+(iv) the benefits of standardizing and 
+1
+structuring summary reports for compara-
+2
+tive analysis compared with the benefits of 
+3
+less-structured narrative reports to provide 
+4
+detail and flexibility in reporting; 
+5
+(v) that summary reports submitted 
+6
+by different covered entities may contain 
+7
+different fields according to the require-
+8
+ments established by the Commission, and 
+9
+the Commission may allow or require sub-
+10
+mission of incomplete reports; 
+11
+(vi) that existing data privacy and 
+12
+other regulations may inhibit a covered en-
+13
+tity from storing or sharing certain infor-
+14
+mation; and 
+15
+(vii) that a covered entity may require 
+16
+information from other persons, partner-
+17
+ships, or corporations that develop any 
+18
+automated decision system deployed in an 
+19
+automated decision system or augmented 
+20
+critical decision process by the covered en-
+21
+tity for the purpose of performing impact 
+22
+assessment; and 
+23
+17:34 Feb 04, 2022
+H6580
+16 
+•HR 6580 IH
+(B) may develop specific requirements for 
+1
+impact assessments and summary reports for 
+2
+particular— 
+3
+(i) categories of critical decisions, as 
+4
+described in subparagraphs (A) through (I) 
+5
+of section 2(8) or any subcategory devel-
+6
+oped by the Commission; and 
+7
+(ii) stages of development and deploy-
+8
+ment of an automated decision system or 
+9
+augmented critical decision process. 
+10
+(3) EFFECTIVE
+DATE.—The regulations de-
+11
+scribed in paragraph (1) shall take effect on the 
+12
+date that is 2 years after such regulations are pro-
+13
+mulgated. 
+14
+SEC. 4. REQUIREMENTS FOR COVERED ENTITY IMPACT AS-
+15
+SESSMENT. 
+16
+(a) REQUIREMENTS FOR IMPACT ASSESSMENT.—In 
+17
+performing any impact assessment required under section 
+18
+3(b)(1) for an automated decision system or augmented 
+19
+critical decision process, a covered entity shall do the fol-
+20
+lowing, to the extent possible, as applicable to such cov-
+21
+ered entity as determined by the Commission: 
+22
+(1) In the case of a new augmented critical de-
+23
+cision process, evaluate any previously existing crit-
+24
+ical decision-making process used for the same crit-
+25
+17:34 Feb 04, 2022
+H6580
+17 
+•HR 6580 IH
+ical decision prior to the deployment of the new aug-
+1
+mented critical decision process, along with any re-
+2
+lated documentation or information, such as— 
+3
+(A) a description of the baseline process 
+4
+being enhanced or replaced by the augmented 
+5
+critical decision process; 
+6
+(B) any known harm, shortcoming, failure 
+7
+case, or material negative impact on consumers 
+8
+of the previously existing process used to make 
+9
+the critical decision; 
+10
+(C) the intended benefits of and need for 
+11
+the augmented critical decision process; and 
+12
+(D) the intended purpose of the automated 
+13
+decision system or augmented critical decision 
+14
+process. 
+15
+(2) Identify and describe any consultation with 
+16
+relevant 
+stakeholders 
+as 
+required 
+by 
+section 
+17
+3(b)(1)(G), including by documenting— 
+18
+(A) the points of contact for the stake-
+19
+holders who were consulted; 
+20
+(B) the date of any such consultation; and 
+21
+(C) information about the terms and proc-
+22
+ess of the consultation, such as— 
+23
+17:34 Feb 04, 2022
+H6580
+18 
+•HR 6580 IH
+(i) the existence and nature of any 
+1
+legal or financial agreement between the 
+2
+stakeholders and the covered entity; 
+3
+(ii) any data, system, design, scenario, 
+4
+or other document or material the stake-
+5
+holder interacted with; and 
+6
+(iii) any recommendations made by 
+7
+the stakeholders that were used to modify 
+8
+the development or deployment of the auto-
+9
+mated decision system or augmented crit-
+10
+ical decision process, as well as any rec-
+11
+ommendations not used and the rationale 
+12
+for such nonuse. 
+13
+(3) In accordance with any relevant National 
+14
+Institute of Standards and Technology or other Fed-
+15
+eral Government best practices and standards, per-
+16
+form ongoing testing and evaluation of the privacy 
+17
+risks and privacy-enhancing measures of the auto-
+18
+mated decision system or augmented critical decision 
+19
+process, such as— 
+20
+(A) assessing and documenting the data 
+21
+minimization practices of such system or proc-
+22
+ess and the duration for which the relevant 
+23
+identifying information and any resulting crit-
+24
+ical decision is stored; 
+25
+17:34 Feb 04, 2022
+H6580
+19 
+•HR 6580 IH
+(B) assessing the information security 
+1
+measures in place with respect to such system 
+2
+or process, including any use of privacy-enhanc-
+3
+ing technology such as federated learning, dif-
+4
+ferential privacy, secure multi-party computa-
+5
+tion, de-identification, or secure data enclaves 
+6
+based on the level of risk; and 
+7
+(C) assessing and documenting the current 
+8
+and potential future or downstream positive and 
+9
+negative impacts of such system or process on 
+10
+the privacy, safety, or security of consumers 
+11
+and their identifying information. 
+12
+(4) Perform ongoing testing and evaluation of 
+13
+the current and historical performance of the auto-
+14
+mated decision system or augmented critical decision 
+15
+process using measures such as benchmarking 
+16
+datasets, representative examples from the covered 
+17
+entity’s historical data, and other standards, includ-
+18
+ing by documenting— 
+19
+(A) a description of what is deemed suc-
+20
+cessful performance and the methods and tech-
+21
+nical and business metrics used by the covered 
+22
+entity to assess performance; 
+23
+(B) a review of the performance of such 
+24
+system or process under test conditions or an 
+25
+17:34 Feb 04, 2022
+H6580
+20 
+•HR 6580 IH
+explanation of why such performance testing 
+1
+was not conducted; 
+2
+(C) a review of the performance of such 
+3
+system or process under deployed conditions or 
+4
+an explanation of why performance was not re-
+5
+viewed under deployed conditions; 
+6
+(D) a comparison of the performance of 
+7
+such system or process under deployed condi-
+8
+tions to test conditions or an explanation of 
+9
+why such a comparison was not possible; 
+10
+(E) an evaluation of any differential per-
+11
+formance associated with consumers’ race, 
+12
+color, sex, gender, age, disability, religion, fam-
+13
+ily status, socioeconomic status, or veteran sta-
+14
+tus, and any other characteristics the Commis-
+15
+sion deems appropriate (including any combina-
+16
+tion of such characteristics) for which the cov-
+17
+ered entity has information, including a descrip-
+18
+tion of the methodology for such evaluation and 
+19
+information about and documentation of the 
+20
+methods used to identify such characteristics in 
+21
+the data (such as through the use of proxy 
+22
+data, including zip codes); and 
+23
+(F) if any subpopulations were used for 
+24
+testing and evaluation, a description of which 
+25
+17:34 Feb 04, 2022
+H6580
+21 
+•HR 6580 IH
+subpopulations were used and how and why 
+1
+such subpopulations were determined to be of 
+2
+relevance for the testing and evaluation. 
+3
+(5) Support and perform ongoing training and 
+4
+education for all relevant employees, contractors, or 
+5
+other agents regarding any documented material 
+6
+negative impacts on consumers from similar auto-
+7
+mated decision systems or augmented critical deci-
+8
+sion processes and any improved methods of devel-
+9
+oping or performing an impact assessment for such 
+10
+system or process based on industry best practices 
+11
+and relevant proposals and publications from ex-
+12
+perts, such as advocates, journalists, and academics. 
+13
+(6) Assess the need for and possible develop-
+14
+ment of any guard rail for or limitation on certain 
+15
+uses or applications of the automated decision sys-
+16
+tem or augmented critical decision process, including 
+17
+whether such uses or applications ought to be pro-
+18
+hibited or otherwise limited through any terms of 
+19
+use, licensing agreement, or other legal agreement 
+20
+between entities. 
+21
+(7) Maintain and keep updated documentation 
+22
+of any data or other input information used to de-
+23
+velop, test, maintain, or update the automated deci-
+24
+17:34 Feb 04, 2022
+H6580
+22 
+•HR 6580 IH
+sion system or augmented critical decision process, 
+1
+including— 
+2
+(A) how and when such data or other 
+3
+input information was sourced and, if applica-
+4
+ble, licensed, including information such as— 
+5
+(i) metadata and information about 
+6
+the structure and type of data or other 
+7
+input information, such as the file type, 
+8
+the date of the file creation or modifica-
+9
+tion, and a description of data fields; 
+10
+(ii) an explanation of the methodology 
+11
+by which the covered entity collected, in-
+12
+ferred, or obtained the data or other input 
+13
+information and, if applicable, labeled, cat-
+14
+egorized, sorted, or clustered such data or 
+15
+other input information, including whether 
+16
+such data or other input information was 
+17
+labeled, categorized, sorted, or clustered 
+18
+prior to being collected, inferred, or ob-
+19
+tained by the covered entity; and 
+20
+(iii) whether and how consumers pro-
+21
+vided informed consent for the inclusion 
+22
+and further use of data or other input in-
+23
+formation about themselves and any limita-
+24
+17:34 Feb 04, 2022
+H6580
+23 
+•HR 6580 IH
+tions stipulated on such inclusion or fur-
+1
+ther use; 
+2
+(B) why such data or other input informa-
+3
+tion was used and what alternatives were ex-
+4
+plored; and 
+5
+(C) other information about the data or 
+6
+other input information, such as— 
+7
+(i) the representativeness of the 
+8
+dataset and how this factor was measured, 
+9
+including any assumption about the dis-
+10
+tribution of the population on which the 
+11
+augmented critical decision process is de-
+12
+ployed; and 
+13
+(ii) the quality of the data, how the 
+14
+quality was evaluated, and any measure 
+15
+taken to normalize, correct, or clean the 
+16
+data. 
+17
+(8) Evaluate the rights of consumers, such as— 
+18
+(A) by assessing the extent to which the 
+19
+covered entity provides consumers with— 
+20
+(i) clear notice that such system or 
+21
+process will be used; and 
+22
+(ii) a mechanism for opting out of 
+23
+such use; 
+24
+17:34 Feb 04, 2022
+H6580
+24 
+•HR 6580 IH
+(B) by assessing the transparency and 
+1
+explainability of such system or process and the 
+2
+degree to which a consumer may contest, cor-
+3
+rect, or appeal a decision or opt out of such 
+4
+system or process, including— 
+5
+(i) the information available to con-
+6
+sumers or representatives or agents of con-
+7
+sumers about the system or process, such 
+8
+as any relevant factors that contribute to 
+9
+a particular decision, including an expla-
+10
+nation of which contributing factors, if 
+11
+changed, would cause the system or proc-
+12
+ess to reach a different decision, and how 
+13
+such consumer, representative, or agent 
+14
+can access such information; 
+15
+(ii) documentation of any complaint, 
+16
+dispute, correction, appeal, or opt-out re-
+17
+quest submitted to the covered entity by a 
+18
+consumer with respect to such system or 
+19
+process; and 
+20
+(iii) the process and outcome of any 
+21
+remediation measure taken by the covered 
+22
+entity to address the concerns of or harms 
+23
+to consumers; and 
+24
+17:34 Feb 04, 2022
+H6580
+25 
+•HR 6580 IH
+(C) by describing the extent to which any 
+1
+third-party decision recipient receives a copy of 
+2
+or has access to the results of such system or 
+3
+process and the category of such third-party de-
+4
+cision recipient, as defined by the Commission 
+5
+in section 3(b)(1)(I)(iii). 
+6
+(9) Identify any likely material negative impact 
+7
+of the automated decision system or augmented crit-
+8
+ical decision process on consumers and assess any 
+9
+applicable mitigation strategy, such as by— 
+10
+(A) identifying and measuring any likely 
+11
+material negative impact of the system or proc-
+12
+ess on consumers, including documentation of 
+13
+the steps taken to identify and measure such 
+14
+impact; 
+15
+(B) documenting any steps taken to elimi-
+16
+nate or reasonably mitigate any likely material 
+17
+negative impact identified, including steps such 
+18
+as removing the system or process from the 
+19
+market or terminating its development; 
+20
+(C) with respect to the likely material neg-
+21
+ative impacts identified, documenting which 
+22
+such impacts were left unmitigated and the ra-
+23
+tionale for the inaction, including details about 
+24
+the justifying non-discriminatory, compelling in-
+25
+17:34 Feb 04, 2022
+H6580
+26 
+•HR 6580 IH
+terest and why such interest cannot be satisfied 
+1
+by other means (such as where there is an 
+2
+equal, zero-sum trade-off between impacts on 2 
+3
+or more consumers or where the required miti-
+4
+gating action would violate civil rights or other 
+5
+laws); and 
+6
+(D) documenting standard protocols or 
+7
+practices used to identify, measure, mitigate, or 
+8
+eliminate any likely material negative impact on 
+9
+consumers and how relevant teams or staff are 
+10
+informed of and trained about such protocols or 
+11
+practices. 
+12
+(10) Describe any ongoing documentation of 
+13
+the development and deployment process with re-
+14
+spect to the automated decision system or aug-
+15
+mented critical decision process, including informa-
+16
+tion such as— 
+17
+(A) the date of any testing, deployment, li-
+18
+censure, or other significant milestones; and 
+19
+(B) points of contact for any team, busi-
+20
+ness unit, or similar internal stakeholder that 
+21
+was involved. 
+22
+(11) Identify any capabilities, tools, standards, 
+23
+datasets, security protocols, improvements to stake-
+24
+holder engagement, or other resources that may be 
+25
+17:34 Feb 04, 2022
+H6580
+27 
+•HR 6580 IH
+necessary or beneficial to improving the automated 
+1
+decision system, augmented critical decision process, 
+2
+or the impact assessment of such system or process, 
+3
+in areas such as— 
+4
+(A) 
+performance, 
+including 
+accuracy, 
+5
+robustness, and reliability; 
+6
+(B) fairness, including bias and non-
+7
+discrimination; 
+8
+(C) 
+transparency, 
+explainability, 
+9
+contestability, and opportunity for recourse; 
+10
+(D) privacy and security; 
+11
+(E) personal and public safety; 
+12
+(F) efficiency and timeliness; 
+13
+(G) cost; or 
+14
+(H) any other area determined appropriate 
+15
+by the Commission. 
+16
+(12) Document any of the impact assessment 
+17
+requirements described in paragraphs (1) through 
+18
+(11) that were attempted but were not possible to 
+19
+comply with because they were infeasible, as well as 
+20
+the corresponding rationale for not being able to 
+21
+comply with such requirements, which may in-
+22
+clude— 
+23
+(A) the absence of certain information 
+24
+about an automated decision system developed 
+25
+17:34 Feb 04, 2022
+H6580
+28 
+•HR 6580 IH
+by other persons, partnerships, and corpora-
+1
+tions; 
+2
+(B) the absence of certain information 
+3
+about how clients, customers, licensees, part-
+4
+ners, and other persons, partnerships, or cor-
+5
+porations are deploying an automated decision 
+6
+system in their augmented critical decision 
+7
+processes; 
+8
+(C) a lack of demographic or other data 
+9
+required to assess differential performance be-
+10
+cause such data is too sensitive to collect, infer, 
+11
+or store; or 
+12
+(D) a lack of certain capabilities, including 
+13
+technological innovations, that would be nec-
+14
+essary to conduct such requirements. 
+15
+(13) Perform and document any other ongoing 
+16
+study or evaluation determined appropriate by the 
+17
+Commission. 
+18
+(b) RULE OF CONSTRUCTION.—Nothing in this Act 
+19
+should be construed to limit any covered entity from add-
+20
+ing other criteria, procedures, or technologies to improve 
+21
+the performance of an impact assessment of their auto-
+22
+mated decision system or augmented critical decision proc-
+23
+ess. 
+24
+17:34 Feb 04, 2022
+H6580
+29 
+•HR 6580 IH
+(c) NONDISCLOSURE
+OF IMPACT ASSESSMENT.— 
+1
+Nothing in this Act should be construed to require a cov-
+2
+ered entity to share with or otherwise disclose to the Com-
+3
+mission or the public any information contained in an im-
+4
+pact assessment performed in accordance with this Act, 
+5
+except for any information contained in the summary re-
+6
+port required under subparagraph (D) or (E) of section 
+7
+3(b)(1). 
+8
+SEC. 5. REQUIREMENTS FOR SUMMARY REPORTS TO THE 
+9
+COMMISSION. 
+10
+The summary report that a covered entity is required 
+11
+to submit under subparagraph (D) or (E) of section 
+12
+3(b)(1) for any automated decision system or augmented 
+13
+critical decision process shall, to the extent possible— 
+14
+(1) contain information from the impact assess-
+15
+ment of such system or process, as applicable, in-
+16
+cluding— 
+17
+(A) the name, website, and point of con-
+18
+tact for the covered entity; 
+19
+(B) a detailed description of the specific 
+20
+critical decision that the augmented critical de-
+21
+cision process is intended to make, including 
+22
+the category of critical decision as described in 
+23
+subparagraphs (A) through (I) of section 2(8); 
+24
+17:34 Feb 04, 2022
+H6580
+30 
+•HR 6580 IH
+(C) the covered entity’s intended purpose 
+1
+for the automated decision system or aug-
+2
+mented critical decision process; 
+3
+(D) an identification of any stakeholders 
+4
+consulted by the covered entity as required by 
+5
+section 3(b)(1)(G) and documentation of the ex-
+6
+istence and nature of any legal agreements be-
+7
+tween the stakeholders and the covered entity; 
+8
+(E) documentation of the testing and eval-
+9
+uation of the automated decision system or aug-
+10
+mented critical decision process, including— 
+11
+(i) the methods and technical and 
+12
+business metrics used to assess the per-
+13
+formance of such system or process and a 
+14
+description of what metrics are deemed 
+15
+successful performance; 
+16
+(ii) the results of any assessment of 
+17
+the performance of such system or process 
+18
+and a comparison of the results of any as-
+19
+sessment under test and deployed condi-
+20
+tions; and 
+21
+(iii) an evaluation of any differential 
+22
+performance of such system or process as-
+23
+sessed during the impact assessment; 
+24
+17:34 Feb 04, 2022
+H6580
+31 
+•HR 6580 IH
+(F) any publicly stated guard rail for or 
+1
+limitation on certain uses or applications of the 
+2
+automated decision system or augmented crit-
+3
+ical decision process, including whether such 
+4
+uses or applications ought to be prohibited or 
+5
+otherwise limited through any terms of use, li-
+6
+censing agreement, or other legal agreement be-
+7
+tween entities; 
+8
+(G) documentation about the data or other 
+9
+input information used to develop, test, main-
+10
+tain, or update the automated decision system 
+11
+or augmented critical decision process includ-
+12
+ing— 
+13
+(i) how and when the covered entity 
+14
+sourced such data or other input informa-
+15
+tion; and 
+16
+(ii) why such data or other input in-
+17
+formation was used and what alternatives 
+18
+were explored; 
+19
+(H) documentation of whether and how the 
+20
+covered entity implements any transparency or 
+21
+explainability measures, including— 
+22
+(i) which categories of third-party de-
+23
+cision recipients receive a copy of or have 
+24
+access to the results of any decision or 
+25
+17:34 Feb 04, 2022
+H6580
+32 
+•HR 6580 IH
+judgment that results from such system or 
+1
+process; and 
+2
+(ii) any mechanism by which a con-
+3
+sumer may contest, correct, or appeal a de-
+4
+cision or opt out of such system or process, 
+5
+including the corresponding website for 
+6
+such mechanism, where applicable; 
+7
+(I) any likely material negative impact on 
+8
+consumers identified by the covered entity and 
+9
+a description of the steps taken to remediate or 
+10
+mitigate such impact; 
+11
+(J) a list of any impact assessment re-
+12
+quirements that were attempted but were not 
+13
+possible to comply with because they were infea-
+14
+sible, as well as the corresponding rationale for 
+15
+not being able to comply with such require-
+16
+ments; and 
+17
+(K) any additional capabilities, tools, 
+18
+standards, datasets, security protocols, improve-
+19
+ments to stakeholder engagement, or other re-
+20
+sources identified by an impact assessment as 
+21
+necessary or beneficial to improve the perform-
+22
+ance of impact assessment or the development 
+23
+and deployment of any automated decision sys-
+24
+tem or augmented critical decision process that 
+25
+17:34 Feb 04, 2022
+H6580
+33 
+•HR 6580 IH
+the covered entity determines appropriate to 
+1
+share with the Commission; 
+2
+(2) include, in addition to the information re-
+3
+quired under paragraph (1), any relevant additional 
+4
+information from section 4(a) the covered entity 
+5
+wishes to share with the Commission; 
+6
+(3) follow any format or structure requirements 
+7
+specified by the Commission; and 
+8
+(4) include additional criteria that are essential 
+9
+for the purpose of consumer protection, as deter-
+10
+mined by the Commission. 
+11
+SEC. 6. REPORTING; PUBLICLY ACCESSIBLE REPOSITORY. 
+12
+(a) ANNUAL REPORT.—Not later than 1 year after 
+13
+the effective date described in section 3(b)(3), and annu-
+14
+ally thereafter, the Commission shall publish publicly on 
+15
+the website of the Commission a report describing and 
+16
+summarizing the information from the summary reports 
+17
+submitted under subparagraph (D), (E), or (F) of section 
+18
+3(b)(1) that— 
+19
+(1) is accessible and machine readable in ac-
+20
+cordance with the 21st Century Integrated Digital 
+21
+Experience Act (44 U.S.C. 3501 note); and 
+22
+(2) describes broad trends, aggregated statis-
+23
+tics, and anonymized lessons learned about per-
+24
+forming impact assessments of automated decision 
+25
+17:34 Feb 04, 2022
+H6580
+34 
+•HR 6580 IH
+systems or augmented critical decision processes, for 
+1
+the purposes of updating guidance related to impact 
+2
+assessments and summary reporting, oversight, and 
+3
+making recommendations to other regulatory agen-
+4
+cies. 
+5
+(b) PUBLICLY ACCESSIBLE REPOSITORY.— 
+6
+(1) IN GENERAL.— 
+7
+(A) ESTABLISHMENT.— 
+8
+(i) DEVELOPMENT.—Not later than 
+9
+180 days after the Commission promul-
+10
+gates the regulations required under sec-
+11
+tion 3(b)(1), the Commission shall develop 
+12
+a publicly accessible repository designed to 
+13
+publish a limited subset of the information 
+14
+about each automated decision system and 
+15
+augmented critical decision process for 
+16
+which the Commission received a summary 
+17
+report under subparagraph (D), (E), or 
+18
+(F) of section 3(b)(1) in order to facilitate 
+19
+consumer protection. 
+20
+(ii) PUBLICATION.—Not later than 
+21
+180 days after the effective date described 
+22
+in section 3(b)(3), the Commission shall 
+23
+make the repository publicly accessible. 
+24
+17:34 Feb 04, 2022
+H6580
+35 
+•HR 6580 IH
+(iii) 
+UPDATES.—The 
+Commission 
+1
+shall update the repository on a quarterly 
+2
+basis. 
+3
+(B) PURPOSE.—The purposes of the repos-
+4
+itory established under subparagraph (A) are— 
+5
+(i) to inform consumers about the use 
+6
+of automated decision systems and aug-
+7
+mented critical decision processes; 
+8
+(ii) to allow researchers and advocates 
+9
+to study the use of automated decision sys-
+10
+tems and augmented critical decision proc-
+11
+esses; and 
+12
+(iii) to ensure compliance with the re-
+13
+quirements of this Act. 
+14
+(C) CONSIDERATIONS.—In establishing the 
+15
+repository under subparagraph (A), the Com-
+16
+mission shall consider— 
+17
+(i) how to provide consumers with 
+18
+pertinent information regarding augmented 
+19
+critical decision processes while minimizing 
+20
+any potential commercial risk to any cov-
+21
+ered entity of providing such information; 
+22
+(ii) what information, if any, to in-
+23
+clude regarding the specific automated de-
+24
+17:34 Feb 04, 2022
+H6580
+36 
+•HR 6580 IH
+cision systems deployed in the augmented 
+1
+critical decision processes; 
+2
+(iii) how to document information, 
+3
+when applicable, about how to contest or 
+4
+seek recourse for a critical decision in a 
+5
+manner that is readily accessible by the 
+6
+consumer; and 
+7
+(iv) how to streamline the submission 
+8
+of summary reports under subparagraph 
+9
+(D), (E), or (F) of section 3(b)(1) to allow 
+10
+the Commission to efficiently populate in-
+11
+formation into the repository to minimize 
+12
+or eliminate any burden on the Commis-
+13
+sion. 
+14
+(D) REQUIREMENTS.—The Commission 
+15
+shall design the repository established under 
+16
+subparagraph (A) to— 
+17
+(i) be publicly available and easily dis-
+18
+coverable on the website of the Commis-
+19
+sion; 
+20
+(ii) allow users to sort and search the 
+21
+repository by multiple characteristics (such 
+22
+as by covered entity, date reported, or cat-
+23
+egory of critical decision) simultaneously; 
+24
+17:34 Feb 04, 2022
+H6580
+37 
+•HR 6580 IH
+(iii) allow users to make a copy of or 
+1
+download the information obtained from 
+2
+the repository, including any subsets of in-
+3
+formation obtained by sorting or searching 
+4
+as described in clause (ii), in accordance 
+5
+with current guidance from the Office of 
+6
+Management and Budget, such as the 
+7
+Open, Public, Electronic, and Necessary 
+8
+Government Data Act (44 U.S.C. 101 
+9
+note); 
+10
+(iv) be in accordance with user experi-
+11
+ence and accessibility best practices such 
+12
+as those described in the 21st Century In-
+13
+tegrated Digital Experience Act (44 U.S.C. 
+14
+3501 note); 
+15
+(v) include a limited subset of infor-
+16
+mation from the summary reports, as ap-
+17
+plicable, under subparagraph (D), (E), or 
+18
+(F) of section 3(b)(1) that includes— 
+19
+(I) the identity of the covered en-
+20
+tity that submitted such summary re-
+21
+port, including any link to the website 
+22
+of the covered entity; 
+23
+(II) the specific critical decision 
+24
+that the augmented critical decision 
+25
+17:34 Feb 04, 2022
+H6580
+38 
+•HR 6580 IH
+process makes, along with the cat-
+1
+egory of the critical decision; 
+2
+(III) any publicly stated prohib-
+3
+ited applications of the automated de-
+4
+cision system or augmented critical 
+5
+decision process, including whether 
+6
+such prohibition is enforced through 
+7
+any terms of use, licensing agreement, 
+8
+or other legal agreement between enti-
+9
+ties; 
+10
+(IV) to the extent possible, the 
+11
+sources of any data used to develop, 
+12
+test, maintain, or update the auto-
+13
+mated decision system or augmented 
+14
+critical decision process; 
+15
+(V) to the extent possible, the 
+16
+type of technical and business metrics 
+17
+used to assess the performance of the 
+18
+augmented critical decision process 
+19
+when deployed; and 
+20
+(VI) the link to any web page 
+21
+with instructions or other information 
+22
+related to a mechanism by which a 
+23
+consumer may contest, correct, or ap-
+24
+peal a decision or opt out of the auto-
+25
+17:34 Feb 04, 2022
+H6580
+39 
+•HR 6580 IH
+mated decision system or augmented 
+1
+critical decision process; and 
+2
+(vi) include information about design, 
+3
+use, and maintenance of the repository, in-
+4
+cluding— 
+5
+(I) how frequently the repository 
+6
+is updated; 
+7
+(II) the date of the most recent 
+8
+such update; 
+9
+(III) the types of information 
+10
+from the summary reports submitted 
+11
+under subparagraph (D), (E), or (F) 
+12
+of section 3(b)(1) that are and are not 
+13
+included in the repository; and 
+14
+(IV) any other information about 
+15
+the design, use, and maintenance the 
+16
+Commission determines is— 
+17
+(aa) relevant to consumers 
+18
+and researchers; or 
+19
+(bb) essential for consumer 
+20
+education and recourse. 
+21
+(2) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+22
+There are authorized to be appropriated to the Com-
+23
+mission such sums as are necessary to carry out this 
+24
+subsection. 
+25
+17:34 Feb 04, 2022
+H6580
+40 
+•HR 6580 IH
+SEC. 7. GUIDANCE AND TECHNICAL ASSISTANCE; OTHER 
+1
+REQUIREMENTS. 
+2
+(a) GUIDANCE AND TECHNICAL ASSISTANCE FROM 
+3
+THE COMMISSION.— 
+4
+(1) IN GENERAL.—The Commission shall pub-
+5
+lish guidance on how to meet the requirements of 
+6
+sections 4 and 5, including resources such as docu-
+7
+mentation templates and guides for meaningful con-
+8
+sultation, that is developed by the Commission after 
+9
+consultation with the Director of the National Insti-
+10
+tute of Standards and Technology, the Director of 
+11
+the National Artificial Intelligence Initiative, the Di-
+12
+rector of the Office of Science and Technology Pol-
+13
+icy, and other relevant stakeholders, including stand-
+14
+ards bodies, private industry, academia, technology 
+15
+experts, and advocates for civil rights, consumers, 
+16
+and impacted communities. 
+17
+(2) ASSISTANCE
+IN
+DETERMINING
+COVERED 
+18
+ENTITY STATUS.—In addition to the guidance re-
+19
+quired under paragraph (1), the Commission shall— 
+20
+(A) issue guidance and training materials 
+21
+to assist persons, partnerships, and corpora-
+22
+tions in evaluating whether they are a covered 
+23
+entity; and 
+24
+(B) regularly update such guidance and 
+25
+training materials in accordance with any feed-
+26
+17:34 Feb 04, 2022
+H6580
+41 
+•HR 6580 IH
+back or questions from covered entities, experts, 
+1
+or other relevant stakeholders. 
+2
+(b) OTHER REQUIREMENTS.— 
+3
+(1) PUBLICATION.—Nothing in this Act shall 
+4
+be construed to limit a covered entity from publi-
+5
+cizing any documentation of the impact assessment 
+6
+maintained under section 3(b)(1)(B), including in-
+7
+formation beyond what is required to be submitted 
+8
+in a summary report under subparagraph (D) or (E) 
+9
+of section 3(b)(1), unless such publication would vio-
+10
+late the privacy of any consumer. 
+11
+(2) PERIODIC REVIEW OF REGULATIONS.—The 
+12
+Commission shall review the regulations promul-
+13
+gated under section 3(b) not less than once every 5 
+14
+years and update such regulations as appropriate. 
+15
+(3) REVIEW BY NIST AND OSTP.—The Commis-
+16
+sion shall make available, in a private and secure 
+17
+manner, to the Director of the National Institute of 
+18
+Standards and Technology, the Director of the Of-
+19
+fice of Science and Technology Policy, and the head 
+20
+of any Federal agency with relevant regulatory juris-
+21
+diction over an augmented critical decision process 
+22
+any summary report submitted under subparagraph 
+23
+(D), (E), or (F) of section 3(b)(1) for review in 
+24
+order to develop future standards or regulations. 
+25
+17:34 Feb 04, 2022
+H6580
+42 
+•HR 6580 IH
+SEC. 8. RESOURCES AND AUTHORITIES. 
+1
+(a) BUREAU OF TECHNOLOGY.— 
+2
+(1) ESTABLISHMENT.— 
+3
+(A) IN
+GENERAL.—There is established 
+4
+within the Commission the Bureau of Tech-
+5
+nology (in this subsection referred to as the 
+6
+‘‘Bureau’’). 
+7
+(B) DUTIES.—The Bureau shall engage in 
+8
+activities that include: 
+9
+(i) Aiding or advising the Commission 
+10
+with respect to the technological aspects of 
+11
+the functions of the Commission, includ-
+12
+ing— 
+13
+(I) preparing, conducting, facili-
+14
+tating, managing, or otherwise ena-
+15
+bling studies, workshops, audits, com-
+16
+munity participation opportunities, or 
+17
+other similar activities; and 
+18
+(II) any other assistance deemed 
+19
+appropriate by the Commission or 
+20
+Chair. 
+21
+(ii) Aiding or advising the Commis-
+22
+sion with respect to the enforcement of this 
+23
+Act. 
+24
+(iii) Providing technical assistance to 
+25
+any enforcement bureau within the Com-
+26
+17:34 Feb 04, 2022
+H6580
+43 
+•HR 6580 IH
+mission with respect to the investigation 
+1
+and trial of cases. 
+2
+(2) CHIEF TECHNOLOGIST.—The Bureau shall 
+3
+be headed by a Chief Technologist. 
+4
+(3) STAFF.— 
+5
+(A) APPOINTMENTS.— 
+6
+(i) IN GENERAL.—Subject to subpara-
+7
+graph (B), the Chair may, without regard 
+8
+to the civil service laws (including regula-
+9
+tions), appoint personnel with experience 
+10
+in fields such as management, technology, 
+11
+digital and product design, user experience, 
+12
+information security, civil rights, tech-
+13
+nology policy, privacy policy, humanities 
+14
+and social sciences, product management, 
+15
+software engineering, machine learning, 
+16
+statistics, or other related fields to enable 
+17
+the Bureau to perform its duties. 
+18
+(ii) MINIMUM
+APPOINTMENTS.—Not 
+19
+later than 2 years after the date of enact-
+20
+ment of this Act, the Chair shall appoint 
+21
+not less than 50 personnel. 
+22
+(B) EXCEPTED SERVICE.—The personnel 
+23
+appointed in accordance with subparagraph (A) 
+24
+may be appointed to positions described in sec-
+25
+17:34 Feb 04, 2022
+H6580
+44 
+•HR 6580 IH
+tion 213.3102(r) of title 5, Code of Federal 
+1
+Regulations. 
+2
+(4) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+3
+There are authorized to be appropriated to the Com-
+4
+mission such sums as are necessary to carry out this 
+5
+subsection. 
+6
+(b) ADDITIONAL PERSONNEL IN THE BUREAU OF 
+7
+CONSUMER PROTECTION.— 
+8
+(1) 
+ADDITIONAL
+PERSONNEL.—Notwith-
+9
+standing any other provision of law, the Chair may, 
+10
+without regard to the civil service laws (including 
+11
+regulations), appoint 25 additional personnel to the 
+12
+Division of Enforcement of the Bureau of Consumer 
+13
+Protection. 
+14
+(2) AUTHORIZATION
+OF
+APPROPRIATIONS.— 
+15
+There are authorized to be appropriated to the Com-
+16
+mission such sums as are necessary to carry out this 
+17
+subsection. 
+18
+(c) ESTABLISHMENT OF AGREEMENTS OF COOPERA-
+19
+TION.—The Commission shall negotiate agreements of co-
+20
+operation, as needed, with any relevant Federal agency 
+21
+with respect to information sharing and enforcement ac-
+22
+tions taken regarding the development or deployment of 
+23
+an automated decision system to make a critical decision 
+24
+or of an augmented critical decision process. Such agree-
+25
+17:34 Feb 04, 2022
+H6580
+45 
+•HR 6580 IH
+ments shall include procedures for determining which 
+1
+agency shall file an action and providing notice to the non- 
+2
+filing agency, where feasible, prior to initiating a civil ac-
+3
+tion to enforce any Federal law within such agencies’ ju-
+4
+risdictions regarding the development or deployment of an 
+5
+automated decision system to make a critical decision or 
+6
+of an augmented critical decision process by a covered en-
+7
+tity. 
+8
+SEC. 9. ENFORCEMENT. 
+9
+(a) ENFORCEMENT BY THE COMMISSION.— 
+10
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+11
+TICES.—A violation of this Act or a regulation pro-
+12
+mulgated thereunder shall be treated as a violation 
+13
+of a rule defining an unfair or deceptive act or prac-
+14
+tice under section 18(a)(1)(B) of the Federal Trade 
+15
+Commission Act (15 U.S.C. 57a(a)(1)(B)). 
+16
+(2) POWERS OF THE COMMISSION.— 
+17
+(A) IN GENERAL.—The Commission shall 
+18
+enforce this Act and the regulations promul-
+19
+gated under this Act in the same manner, by 
+20
+the same means, and with the same jurisdic-
+21
+tion, powers, and duties as though all applicable 
+22
+terms and provisions of the Federal Trade 
+23
+Commission Act (15 U.S.C. 41 et seq.) were in-
+24
+corporated into and made a part of this Act. 
+25
+17:34 Feb 04, 2022
+H6580
+46 
+•HR 6580 IH
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+1
+person who violates this Act or a regulation 
+2
+promulgated thereunder shall be subject to the 
+3
+penalties and entitled to the privileges and im-
+4
+munities provided in the Federal Trade Com-
+5
+mission Act (15 U.S.C. 41 et seq.). 
+6
+(C) AUTHORITY PRESERVED.—Nothing in 
+7
+this Act shall be construed to limit the author-
+8
+ity of the Commission under any other provi-
+9
+sion of law. 
+10
+(D) RULEMAKING.—The Commission shall 
+11
+promulgate in accordance with section 553 of 
+12
+title 5, United States Code, such additional 
+13
+rules as may be necessary to carry out this Act. 
+14
+(b) ENFORCEMENT BY STATES.— 
+15
+(1) IN GENERAL.—If the attorney general of a 
+16
+State has reason to believe that an interest of the 
+17
+residents of the State has been or is being threat-
+18
+ened or adversely affected by a practice that violates 
+19
+this Act or a regulation promulgated thereunder, the 
+20
+attorney general of the State may, as parens patriae, 
+21
+bring a civil action on behalf of the residents of the 
+22
+State in an appropriate district court of the United 
+23
+States to obtain appropriate relief. 
+24
+(2) RIGHTS OF COMMISSION.— 
+25
+17:34 Feb 04, 2022
+H6580
+47 
+•HR 6580 IH
+(A) NOTICE TO COMMISSION.— 
+1
+(i) IN GENERAL.—Except as provided 
+2
+in clause (iii), the attorney general of a 
+3
+State, before initiating a civil action under 
+4
+paragraph (1), shall provide written notifi-
+5
+cation to the Commission that the attorney 
+6
+general intends to bring such civil action. 
+7
+(ii) CONTENTS.—The notification re-
+8
+quired under clause (i) shall include a copy 
+9
+of the complaint to be filed to initiate the 
+10
+civil action. 
+11
+(iii) EXCEPTION.—If it is not feasible 
+12
+for the attorney general of a State to pro-
+13
+vide the notification required under clause 
+14
+(i) before initiating a civil action under 
+15
+paragraph (1), the attorney general shall 
+16
+notify the Commission immediately upon 
+17
+instituting the civil action. 
+18
+(B) INTERVENTION BY COMMISSION.—The 
+19
+Commission may— 
+20
+(i) intervene in any civil action 
+21
+brought by the attorney general of a State 
+22
+under paragraph (1); and 
+23
+(ii) upon intervening— 
+24
+17:34 Feb 04, 2022
+H6580
+48 
+•HR 6580 IH
+(I) be heard on all matters aris-
+1
+ing in the civil action; and 
+2
+(II) file petitions for appeal of a 
+3
+decision in the civil action. 
+4
+(3) INVESTIGATORY POWERS.—Nothing in this 
+5
+subsection may be construed to prevent the attorney 
+6
+general of a State from exercising the powers con-
+7
+ferred on the attorney general by the laws of the 
+8
+State to conduct investigations, to administer oaths 
+9
+or affirmations, or to compel the attendance of wit-
+10
+nesses or the production of documentary or other 
+11
+evidence. 
+12
+(4) VENUE; SERVICE OF PROCESS.— 
+13
+(A) VENUE.—Any action brought under 
+14
+paragraph (1) may be brought in— 
+15
+(i) the district court of the United 
+16
+States that meets applicable requirements 
+17
+relating to venue under section 1391 of 
+18
+title 28, United States Code; or 
+19
+(ii) another court of competent juris-
+20
+diction. 
+21
+(B) SERVICE OF PROCESS.—In an action 
+22
+brought under paragraph (1), process may be 
+23
+served in any district in which— 
+24
+17:34 Feb 04, 2022
+H6580
+49 
+•HR 6580 IH
+(i) the defendant is an inhabitant, 
+1
+may be found, or transacts business; or 
+2
+(ii) venue is proper under section 
+3
+1391 of title 28, United States Code. 
+4
+(5) ACTIONS BY OTHER STATE OFFICIALS.— 
+5
+(A) IN GENERAL.—In addition to a civil 
+6
+action brought by an attorney general under 
+7
+paragraph (1), any other officer of a State who 
+8
+is authorized by the State to do so may bring 
+9
+a civil action under paragraph (1), subject to 
+10
+the same requirements and limitations that 
+11
+apply under this subsection to civil actions 
+12
+brought by attorneys general. 
+13
+(B) SAVINGS PROVISION.—Nothing in this 
+14
+subsection may be construed to prohibit an au-
+15
+thorized official of a State from initiating or 
+16
+continuing any proceeding in a court of the 
+17
+State for a violation of any civil or criminal law 
+18
+of the State. 
+19
+SEC. 10. COORDINATION. 
+20
+In carrying out this Act, the Commission shall coordi-
+21
+nate with any appropriate Federal agency or State regu-
+22
+lator to promote consistent regulatory treatment of auto-
+23
+mated decision systems and augmented critical decision 
+24
+processes. 
+25
+17:34 Feb 04, 2022
+H6580
+50 
+•HR 6580 IH
+SEC. 11. NO PREEMPTION. 
+1
+Nothing in this Act may be construed to preempt any 
+2
+State, tribal, city, or local law, regulation, or ordinance. 
+3
+Æ 
+17:34 Feb 04, 2022
+H6580

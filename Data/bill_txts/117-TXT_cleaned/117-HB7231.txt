@@ -1,0 +1,1469 @@
+A BILL 
+To direct the Secretary of the Treasury to develop and 
+pilot digital dollar technologies that replicate the privacy- 
+respecting features of physical cash. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Electronic Currency 
+4
+And Secure Hardware Act’’ or the ‘‘ECASH Act’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+In this Act: 
+7
+16:57 Apr 12, 2022
+H7231
+2 
+•HR 7231 IH
+(1) ECIP.—The term ‘‘ECIP’’ means the Elec-
+1
+tronic Currency Innovation Program established 
+2
+under section 4. 
+3
+(2) SECRETARY.—The term ‘‘Secretary’’ means 
+4
+the Secretary of the Treasury. 
+5
+SEC. 3. ELECTRONIC DOLLAR. 
+6
+(a) ESTABLISHMENT.—The Secretary of the Treas-
+7
+ury shall promote and facilitate the development and de-
+8
+ployment of an electronic version of the United States dol-
+9
+lar for use by the general public that replicates and pre-
+10
+serves the privacy, anonymity-respecting, and minimal 
+11
+transactional data-generating properties of physical cur-
+12
+rency instruments such as coins and notes to the greatest 
+13
+extent technically and practically possible. 
+14
+(b) ELECTRONIC
+DOLLAR
+REQUIREMENTS.—The 
+15
+electronic dollar described under subsection (a) shall be— 
+16
+(1) known as ‘‘e-cash’’; 
+17
+(2) payable to bearer; 
+18
+(3) legal tender, as described in section 5103 of 
+19
+title 31, United States Code; 
+20
+(4) an obligation of the United States, as de-
+21
+scribed in section 8 of title 18, United States Code; 
+22
+(5) created and issued into circulation by the 
+23
+Department of the Treasury, in such quantities, de-
+24
+nominations, and technical forms as the Secretary, 
+25
+16:57 Apr 12, 2022
+H7231
+3 
+•HR 7231 IH
+in the Secretary’s discretion, determines to be appro-
+1
+priate; 
+2
+(6) distributed directly to, and capable of being 
+3
+owned, held, and used directly by, the general public; 
+4
+(7) capable of instantaneous, final, direct, peer- 
+5
+to-peer, offline transactions using secured hardware 
+6
+devices that do not involve or require subsequent or 
+7
+final settlement on or via a common or distributed 
+8
+ledger, or any other additional approval or validation 
+9
+by the United States Government or any other third- 
+10
+party payments processing intermediary; 
+11
+(8) inter-operable with all existing financial in-
+12
+stitution and payment provider systems and gen-
+13
+erally accepted payments standards and network 
+14
+protocols, as well as other public payments pro-
+15
+grams, including the U.S. Debit Card and Digital 
+16
+Pay Program and the EagleCash card program of 
+17
+the Department of the Treasury and any other dig-
+18
+ital dollar or public banking products; 
+19
+(9) classified and regulated in a manner similar 
+20
+to physical currency for the purposes of anti-money 
+21
+laundering, know-your-customer, counter-terrorism, 
+22
+and transaction reporting laws, and thus not subject 
+23
+to third-party exemptions to a reasonable expecta-
+24
+tion of privacy; 
+25
+16:57 Apr 12, 2022
+H7231
+4 
+•HR 7231 IH
+(10) designed, issued, and administered to be 
+1
+consistent with— 
+2
+(A) the statutory objectives articulated in 
+3
+subsection (c), as well as any rules, standards, 
+4
+and criteria enacted to further those objectives; 
+5
+(B) the consumer protections articulated in 
+6
+subsection (d), as well as any rules, standards, 
+7
+and criteria enacted to further those protec-
+8
+tions; and 
+9
+(C) any and all other technical and policy 
+10
+criteria established by this Act or by the Sec-
+11
+retary or Director under the authority granted 
+12
+to them under this Act; 
+13
+(11) distinguishable from other forms of elec-
+14
+tronic currency issued by or on behalf of the United 
+15
+States Government, including any such forms that— 
+16
+(A) are issued by a department, branch, 
+17
+agency, or instrumentality of the United States 
+18
+Government other than the Department of the 
+19
+Treasury, including such forms of ‘‘central 
+20
+bank digital currency’’ as may be issued by the 
+21
+Board of Governors of the Federal Reserve Sys-
+22
+tem or its designated agents; 
+23
+(B) are legally classified as an account bal-
+24
+ance or any other kind of financial instrument 
+25
+16:57 Apr 12, 2022
+H7231
+5 
+•HR 7231 IH
+not payable to bearer or that otherwise require 
+1
+identification and account or device registration 
+2
+to hold, access, or use; 
+3
+(C) are not distributed directly to, or oth-
+4
+erwise capable of being owned, held, or used di-
+5
+rectly by, the general public; 
+6
+(D) fail to replicate and preserve the pri-
+7
+vacy, anonymity-respecting, and minimal trans-
+8
+actional data-generating properties of physical 
+9
+currency instruments such as coins and paper 
+10
+notes to the greatest extent technically and 
+11
+practically possible; and 
+12
+(12) not included in calculations of public debt 
+13
+subject to limit under section 3101 of title 31, 
+14
+United States Code. 
+15
+(c) STATUTORY OBJECTIVES.—The Secretary shall 
+16
+promulgate and enforce rules, standards, and criteria per-
+17
+taining to the development and implementation of e-cash 
+18
+instruments, devices, technologies, platforms, and sup-
+19
+porting and enabling infrastructure, as well as the 
+20
+issuance, dissemination, circulation, storage, and use of e- 
+21
+cash balances, including use in transactions, in such a 
+22
+manner and to such an extent as the Secretary determines 
+23
+to be necessary or appropriate to achieve the objectives 
+24
+of this Act, subject to the following conditions: 
+25
+16:57 Apr 12, 2022
+H7231
+6 
+•HR 7231 IH
+(1) OWNERSHIP.—The Secretary shall require 
+1
+that any and all e-cash instruments are capable of 
+2
+being owned, held, and used directly by the general 
+3
+public via widely available hardware devices, without 
+4
+the necessary involvement of third-party custodial or 
+5
+payment processing intermediaries. 
+6
+(2) PRIVACY.—The Secretary shall require that 
+7
+any hardware device authorized to hold or otherwise 
+8
+facilitate transactions involving e-cash shall be se-
+9
+cured locally via cryptographic encryption and other 
+10
+appropriate technologies, and shall not contain or be 
+11
+subject to any surveillance, personal identification or 
+12
+transactional data-gathering, or censorship-enabling 
+13
+backdoor features. 
+14
+(3) 
+UNIVERSALITY.—The 
+Secretary 
+shall 
+15
+prioritize wherever possible technologies, practices, 
+16
+and programs that promote universal access and 
+17
+usability, particularly for— 
+18
+(A) individuals with disabilities, including 
+19
+visual impairment; 
+20
+(B) low-income individuals; and 
+21
+(C) communities with limited access to the 
+22
+internet or telecommunications networks. 
+23
+(4) INCLUSION.—The Secretary shall take into 
+24
+consideration the unique needs and circumstances of 
+25
+16:57 Apr 12, 2022
+H7231
+7 
+•HR 7231 IH
+marginalized communities and populations that have 
+1
+historically been excluded from or otherwise pre-
+2
+vented from taking full advantage of traditional and 
+3
+current financial institutions and payment services. 
+4
+(5) TRANSPARENCY.—The Secretary shall seek 
+5
+out and prioritize wherever practically feasible the 
+6
+use of hardware and software technologies issued 
+7
+under open-source licenses, and shall further require 
+8
+that all publicly funded research and technology be 
+9
+released under a suitable open-source license and 
+10
+made available for study and review by the scientific 
+11
+community and the general public, except to the ex-
+12
+tent that doing so would undermine or impair the 
+13
+security and integrity of e-cash devices or instru-
+14
+ments. 
+15
+(d) CONSUMER PROTECTIONS.— 
+16
+(1) FEES.—The Government may charge rea-
+17
+sonable prices when selling e-cash-compatible hard-
+18
+ware (henceforth ‘‘e-cash devices’’) directly to the 
+19
+public, provided such prices are proportionate to, 
+20
+and not unduly in excess of, actual production and 
+21
+administration costs, but may in no instance impose 
+22
+fees or other charges for holding, receiving, sending, 
+23
+or otherwise transacting with e-cash balances using 
+24
+such devices. 
+25
+16:57 Apr 12, 2022
+H7231
+8 
+•HR 7231 IH
+(2) SOLICITED
+ISSUANCE
+OF
+E-CASH
+HARD-
+1
+WARE DEVICES.—The Government or an authorized 
+2
+e-cash distributor may issue an e-cash device to a 
+3
+member of the public only in response to an oral or 
+4
+written request for such device. 
+5
+(3) SOLICITED
+ISSUANCE
+OF
+E-CASH
+BAL-
+6
+ANCES.—The Government or an authorized e-cash 
+7
+distributor may issue e-cash instruments to a user 
+8
+only in response to an oral or written request to re-
+9
+ceive funds in the form of e-cash, and any such re-
+10
+quested funds shall be capable of being— 
+11
+(A) received in the form of an increase in 
+12
+the available balance of an existing e-cash de-
+13
+vice or as a balance on a newly issued e-cash 
+14
+device; and 
+15
+(B) paid for, to the extent such instru-
+16
+ments shall be paid for, through delivery of 
+17
+physical currency or demand deposits at an 
+18
+interoperable exchange terminal. 
+19
+(4) DISCLOSURES BY E-CASH DISTRIBUTORS.— 
+20
+(A) IN
+GENERAL.—Disclosures by the 
+21
+United States Government and any third-party 
+22
+authorized to distribute e-cash devices or bal-
+23
+ances regarding usage, fees, interoperability, se-
+24
+curity, privacy, data collection, error resolution, 
+25
+16:57 Apr 12, 2022
+H7231
+9 
+•HR 7231 IH
+and any other terms considered relevant by the 
+1
+Bureau of Consumer Financial Protection shall 
+2
+be clear and readily understandable, in writing, 
+3
+and in a form the e-cash instrument bearer can 
+4
+reasonably maintain. 
+5
+(B) FORM OF DISCLOSURES.—Disclosures 
+6
+described under subparagraph (A) may be pro-
+7
+vided to the consumer in offline electronic form, 
+8
+subject to compliance with the consumer-con-
+9
+sent and other applicable provisions of the Elec-
+10
+tronic Signatures in Global and National Com-
+11
+merce Act (15 U.S.C. 7001 et seq.). 
+12
+(5) LIABILITY OF ISSUERS FOR UNAUTHORIZED 
+13
+TRANSFERS.—Neither the issuing entity nor any 
+14
+other Government agencies or approved e-cash dis-
+15
+tributors shall be held liable for unauthorized trans-
+16
+fer of e-cash balances, so long as the appropriate 
+17
+disclosures and protections described in this Act are 
+18
+made. 
+19
+(6) FEES BY MERCHANTS.—It shall be unlawful 
+20
+for the United States Government, authorized e-cash 
+21
+distributors, or any other person to impose a service 
+22
+fee or an interchange fee, or other processing fee or 
+23
+surcharge, for the use of e-cash in payments or pur-
+24
+chases. 
+25
+16:57 Apr 12, 2022
+H7231
+10 
+•HR 7231 IH
+(7) BANKRUPTCY.—E-cash instruments and 
+1
+balances shall be considered exempt property equiva-
+2
+lent to physical currency for the purposes of Chapter 
+3
+7 Bankruptcy proceedings. 
+4
+(8) TRANSACTIONAL
+REPORTING.—Under no 
+5
+circumstance, regardless of the particular technology 
+6
+involved, shall any transaction data generated by e- 
+7
+cash payments be collected, monitored, or retained 
+8
+by the United States Government, an authorized e- 
+9
+cash distributor, or any other counterparty except 
+10
+via the exemptions provided by this Act. 
+11
+(9) PREEMPTION
+OF
+INCONSISTENT
+STATE 
+12
+LAWS.—State consumer laws are pre-empted unless 
+13
+the Director of the Bureau of Consumer Financial 
+14
+Protection determines, upon the Director’s own mo-
+15
+tion or upon the request of a State government, but 
+16
+ultimately in the Director’s sole discretion, that a 
+17
+State’s consumer protection laws are not pre- 
+18
+empted. 
+19
+(e) REQUIREMENT TO ACCEPT E-CASH.— 
+20
+(1) FEDERAL
+GOVERNMENT.—The Federal 
+21
+Government shall— 
+22
+(A) accept e-cash for any payment to the 
+23
+Federal Government, including payments for 
+24
+taxes, fines, and fees; and 
+25
+16:57 Apr 12, 2022
+H7231
+11 
+•HR 7231 IH
+(B) upon request, provide any Federal 
+1
+Government benefit in the form of e-cash. 
+2
+(2) PRODUCTS
+AND
+SERVICES.—Any person 
+3
+selling products or services that accepts physical cur-
+4
+rency as a form of payment shall also accept e-cash 
+5
+as a form of payment to the extent it is practically 
+6
+feasible and reasonable to do so. 
+7
+(f) ILLICIT FLOWS.— 
+8
+(1) PRESUMPTION
+OF
+LEGITIMATE
+USE.— 
+9
+Under no condition shall the acquisition, possession, 
+10
+or use of e-cash devices, instruments, and balances 
+11
+under the parameters established by this Act be 
+12
+treated as prima facie or intrinsic evidence of crimi-
+13
+nal activity or intent, nor be established as a predi-
+14
+cate offense or factor in crimes not specified in or 
+15
+under the authority established by this Act. 
+16
+(2) INCLUDING
+UNDER
+THE
+BANK
+SECRECY 
+17
+ACT.— 
+18
+(A) IN GENERAL.—Section 5312(a)(3) of 
+19
+title 31, United States Code, is amended— 
+20
+(i) in subparagraph (C), by striking 
+21
+‘‘and’’ at the end; 
+22
+(ii) by redesignating subparagraph 
+23
+(D) as subparagraph (E); 
+24
+16:57 Apr 12, 2022
+H7231
+12 
+•HR 7231 IH
+(iii) by inserting after subparagraph 
+1
+(C) the following: 
+2
+‘‘(D) e-cash, as defined under section 3 of 
+3
+the ECASH Act; and’’; and 
+4
+(iv) in subparagraph (E), as so redes-
+5
+ignated, by striking ‘‘subparagraph (A), 
+6
+(B), or (C)’’ and inserting ‘‘subparagraph 
+7
+(A), (B), (C), or (D)’’. 
+8
+(B) AMENDMENTS
+TO
+DOLLAR
+THRESH-
+9
+OLDS.—At any time, the Director of ECIP may 
+10
+increase the value thresholds applicable to e- 
+11
+cash for any reporting requirement under sub-
+12
+chapter II of chapter 53 of title 31, United 
+13
+States Code, but may at no time decrease such 
+14
+value thresholds. 
+15
+(g) SYSTEMIC LIQUIDITY.—The Board of Governors 
+16
+of the Federal Reserve System shall take appropriate 
+17
+measures to ensure that the implementation and adoption 
+18
+of e-cash does not disrupt or substantially impact the gen-
+19
+eral availability or cost of liquidity for depository institu-
+20
+tions, credit unions, or community development financial 
+21
+institutions, or their capacity to extend credit and other 
+22
+financial services to underserved populations, as described 
+23
+under the Community Reinvestment Act of 1977, and any 
+24
+other applicable Federal and State laws, however such 
+25
+16:57 Apr 12, 2022
+H7231
+13 
+•HR 7231 IH
+measures may in no way impair, restrict, or otherwise 
+1
+limit the ability of the public to access, hold, and use e- 
+2
+cash. 
+3
+SEC. 4. ELECTRONIC CURRENCY INNOVATION PROGRAM. 
+4
+(a) IN GENERAL.—The Secretary shall establish the 
+5
+Electronic Currency Innovation Program to direct, over-
+6
+see, coordinate, and harmonize the development, imple-
+7
+mentation, maintenance, and regulation of e-cash instru-
+8
+ments, devices, technologies, platforms, and supporting 
+9
+and enabling infrastructure in accordance with the tech-
+10
+nical and policy criteria established by this Act. 
+11
+(b) DIRECTOR.— 
+12
+(1) APPOINTMENT.— 
+13
+(A) IN GENERAL.—The head of the ECIP 
+14
+shall be the Director, who shall be appointed by 
+15
+the President, by and with the advice and con-
+16
+sent of the Senate. 
+17
+(B) TERM.—The term of the Director is 5 
+18
+years. 
+19
+(C) REMOVAL.—The President may re-
+20
+move the Director from office. On removal, the 
+21
+President shall send a message to the Senate 
+22
+giving the reasons for removal. 
+23
+(D) INTERIM DIRECTOR.—When a Direc-
+24
+tor has not yet been confirmed or appointed, 
+25
+16:57 Apr 12, 2022
+H7231
+14 
+•HR 7231 IH
+the Secretary may, subject to the consent of the 
+1
+President, appoint an Interim Director, who 
+2
+shall enjoy the full powers and privileges of the 
+3
+Director as established under this Act until 
+4
+such time as a permanent Director is confirmed 
+5
+and appointed. In the event neither a Director 
+6
+or Interim Director is appointed, all responsibil-
+7
+ities and duties assigned to the Director under 
+8
+this Act shall be assumed by the Secretary. 
+9
+(2) DUTIES
+AND
+10
+powers of the Director are as follows: 
+11
+(A) Promote innovation in, and ensure the 
+12
+successful 
+implementation 
+and 
+widespread 
+13
+adoption of, e-cash instruments, devices, tech-
+14
+nologies, platforms, and supporting and ena-
+15
+bling infrastructure in accordance with this Act, 
+16
+by— 
+17
+(i) directing, conducting, sponsoring, 
+18
+and publishing research; 
+19
+(ii) generating, collecting, analyzing, 
+20
+and publishing data; 
+21
+(iii) acquiring, developing, dissemi-
+22
+nating, and sharing open-access tech-
+23
+nologies and technical knowledge; 
+24
+16:57 Apr 12, 2022
+H7231
+15 
+•HR 7231 IH
+(iv) developing and administering e- 
+1
+cash pilot programs, both individually and 
+2
+in partnership with other actors and enti-
+3
+ties that the Secretary determines appro-
+4
+priate; 
+5
+(v) promulgating, and enforcing rules, 
+6
+objectives, standards, and criteria per-
+7
+taining to the development and implemen-
+8
+tation of e-cash instruments, devices, tech-
+9
+nologies, platforms, and supporting and 
+10
+enabling infrastructure, as well as the 
+11
+issuance, dissemination, circulation, stor-
+12
+age, and use of e-cash, including its use in 
+13
+transactions; 
+14
+(vi) coordinating with other actors, in-
+15
+cluding other departments, branches, agen-
+16
+cies, and instrumentalities of the United 
+17
+States Government, as well as State, local, 
+18
+and foreign governments and international 
+19
+regulatory bodies, in furtherance of the 
+20
+general goals of this Act; and 
+21
+(vii) developing and disseminating 
+22
+public educational materials and con-
+23
+ducting public educational campaigns to 
+24
+foster awareness and understanding of e- 
+25
+16:57 Apr 12, 2022
+H7231
+16 
+•HR 7231 IH
+cash and its economic and social signifi-
+1
+cance in the broader monetary system. 
+2
+(B) Such other duties and powers as the 
+3
+Secretary may delegate or prescribe. 
+4
+(c) STAFF, EQUIPMENT, AND FACILITIES.—The Di-
+5
+rector shall be authorized to hire staff, purchase equip-
+6
+ment, and rent or acquire facilities as the Director deter-
+7
+mines to be appropriate to achieve the goals and objectives 
+8
+established under this Act, subject to the approval of the 
+9
+Secretary. 
+10
+(d) PILOT PROGRAMS.— 
+11
+(1) ESTABLISHMENT.— 
+12
+(A) IN GENERAL.—Not later than 90 days 
+13
+after the enactment of this Act, the Director 
+14
+shall initiate a two-phase e-cash pilot program 
+15
+in anticipation of general deployment of e-cash 
+16
+to the public not later than forty-eight months 
+17
+after the date of enactment of this Act. 
+18
+(B) PHASE 1.—Phase 1 of the pilot pro-
+19
+gram shall consist of not less than three dis-
+20
+tinct pilots (in this section referred to as 
+21
+‘‘Proof-of-Concept Pilots’’), each of which shall 
+22
+launch no later than 180 days after the date of 
+23
+enactment of this Act, and run for no longer 
+24
+than 360 days thereafter. 
+25
+16:57 Apr 12, 2022
+H7231
+17 
+•HR 7231 IH
+(C) PHASE 2.—Phase 2 of the pilot pro-
+1
+gram shall consist of at least one large-scale de-
+2
+ployment to a segment of the public (in this 
+3
+section referred to as ‘‘Field Test Pilots’’), 
+4
+which shall launch no later than 2 years after 
+5
+the enactment of this Act, and run for no 
+6
+longer than 2 years thereafter. 
+7
+(D) EXTENSION OF TIMELINES FOR PILOT 
+8
+PROGRAMS.—The timelines for the implementa-
+9
+tion of the two phases of the e-cash pilot pro-
+10
+gram described in this paragraph may be ex-
+11
+tended upon a determination by the Director 
+12
+that such an extension is necessary to ensure 
+13
+the security and integrity of the technologies to 
+14
+be piloted in the program. 
+15
+(2) ADMINISTRATION.— 
+16
+(A) IN
+GENERAL.—The pilot programs 
+17
+shall be administered by the Director, in coordi-
+18
+nation with the Digital Dollar Council, and sub-
+19
+ject to the ongoing oversight and review of the 
+20
+Monetary Privacy Board. 
+21
+(B) PROOF-OF-CONCEPT
+PILOTS.—Proof- 
+22
+of-Concept Pilots may be conducted— 
+23
+(i) in partnership with one or more 
+24
+universities, non-profit entities, insured fi-
+25
+16:57 Apr 12, 2022
+H7231
+18 
+•HR 7231 IH
+nancial institutions, non-bank payment 
+1
+providers aimed at promoting financial in-
+2
+clusion, technology-focused financial firms 
+3
+and companies, financial technology com-
+4
+panies, or foreign central banks; and 
+5
+(ii) through, or in partnership with, 
+6
+any existing Federal, State, or local gov-
+7
+ernment fund disbursement and payments 
+8
+program, including those that rely on the 
+9
+U.S. Debit Card and Digital Pay Program, 
+10
+the EagleCash Card program, or any other 
+11
+payments technology offered by or in part-
+12
+nership with the Bureau of the Fiscal 
+13
+Service of the Department of the Treasury. 
+14
+(C) FIELD TEST PILOTS.—Field Test Pi-
+15
+lots may be conducted in partnership with any 
+16
+entity capable of partnering for a Proof-of-Con-
+17
+cept Pilot, as well as other departments, 
+18
+branches, agencies, and instrumentalities of the 
+19
+United States Government, or State, local, and 
+20
+foreign governments and international regu-
+21
+latory bodies. 
+22
+(3) OBJECTIVES.—The objectives of the pilot 
+23
+programs are to test the viability and capacity of 
+24
+various forms of e-cash technologies to— 
+25
+16:57 Apr 12, 2022
+H7231
+19 
+•HR 7231 IH
+(A) preserve the privacy, anonymity-re-
+1
+specting, and minimal transactional data-gener-
+2
+ating properties of physical currency instru-
+3
+ments such as coins and notes to the greatest 
+4
+extent technically and practically possible; 
+5
+(B) enforce total balance and transactional 
+6
+activity limits on a per-device basis without ren-
+7
+dering such devices vulnerable to surveillance or 
+8
+censorship by third parties including the United 
+9
+States Government; 
+10
+(C) deploy rapidly, securely, and efficiently 
+11
+on a mass scale; and 
+12
+(D) maintain ease of use and interoper-
+13
+ability with existing financial institution and 
+14
+payment provider systems, as well as any other 
+15
+digital dollar products. 
+16
+(4) PARAMETERS AND CONSTRAINTS.— 
+17
+(A) All technologies selected for Proof-of- 
+18
+Concept Pilots and Field Test Pilots shall be— 
+19
+(i) designed as bearer instruments; 
+20
+(ii) capable of instantaneous, final, di-
+21
+rect, peer-to-peer, offline transactions; and 
+22
+(iii) capable of being distributed di-
+23
+rectly to, and owned, held, and used di-
+24
+rectly by, the general public. 
+25
+16:57 Apr 12, 2022
+H7231
+20 
+•HR 7231 IH
+(B) At least two technologies selected for 
+1
+Proof-of-Concept Pilots shall be based on se-
+2
+cured hardware-based architectures for the pur-
+3
+poses of creation, distribution, holding, and 
+4
+payment that do not involve any common or 
+5
+distributed ledger. 
+6
+(C) At least one technology selected for 
+7
+Proof-of-Concept Pilots shall include a stored- 
+8
+value or pin card option for storage and pay-
+9
+ment of e-cash. 
+10
+(D) At least one technology selected for 
+11
+Proof-of-Concept Pilots shall include a cell 
+12
+phone or SIM card option for storage and pay-
+13
+ment of e-cash. 
+14
+(E) All technologies selected for Field Test 
+15
+Pilots shall have or at a minimum be capable 
+16
+of incorporating stored-value card functionality. 
+17
+(5) SPECIAL TENDER AUTHORITY.—In order to 
+18
+facilitate and promote the effectiveness of the pilot 
+19
+programs, the Secretary may grant special recogni-
+20
+tion of prototypical e-cash instruments issued under 
+21
+a pilot program as legal tender, and direct the 
+22
+Board of Governors of the Federal Reserve System, 
+23
+other departments, branches, agencies, and instru-
+24
+mentalities of the United States Government, any 
+25
+16:57 Apr 12, 2022
+H7231
+21 
+•HR 7231 IH
+other federally regulated financial institution to ac-
+1
+cept such prototypical e-cash instruments in settle-
+2
+ment of outstanding obligations on an at-par basis. 
+3
+(6) REPORTING.—Not later than 180 days after 
+4
+the date on which each phase of the pilot programs 
+5
+terminates, the Secretary shall submit to Congress a 
+6
+report regarding that phase of the pilot programs, 
+7
+which shall— 
+8
+(A) include— 
+9
+(i) a description of which elements of 
+10
+the pilot programs were successful and 
+11
+which were unsuccessful; 
+12
+(ii) recommendations regarding legis-
+13
+lative changes to the pilot programs and 
+14
+related authority under this Act and else-
+15
+where; and 
+16
+(iii) recommendations for additional 
+17
+pilots and revisions to the pilot program; 
+18
+and 
+19
+(B) make the nonsensitive analytical data 
+20
+available for public review and comment. 
+21
+SEC. 5. DIGITAL DOLLAR COUNCIL. 
+22
+(a) IN GENERAL.—The Secretary shall establish the 
+23
+Digital Dollar Council (in this section referred to as ‘‘the 
+24
+Council’’) to coordinate the Secretary’s ECIP-related ac-
+25
+16:57 Apr 12, 2022
+H7231
+22 
+•HR 7231 IH
+tivities with the efforts of other bureaus of the Depart-
+1
+ment of the Treasury and other departments, branches, 
+2
+agencies, and instrumentalities of the United States Gov-
+3
+ernment, including the Board of Governors of the Federal 
+4
+Reserve System and the United States Postal Service. 
+5
+(b) MEMBERSHIP.—The Council shall be comprised 
+6
+of the Secretary, the Director of ECIP, the Chairman of 
+7
+the Board of Governors of the Federal Reserve System, 
+8
+the Postmaster General of the United States Postal Serv-
+9
+ice, the Director of the Office of Science and Technology 
+10
+Policy, the Chief Technology Officer of the United States, 
+11
+and the Director of the National Institute of Standards 
+12
+and Technology, and any other Federal employees or rep-
+13
+resentatives of Federal agencies as the Secretary, in the 
+14
+Secretary’s discretion, determines to be appropriate. 
+15
+(c) LEADERSHIP.—The head of the Council shall be 
+16
+the Secretary, however, the Secretary may, at the Sec-
+17
+retary’s discretion, delegate administrative and decision- 
+18
+making responsibility to the Director. 
+19
+(d) AUTHORITY.—The Council shall have the power 
+20
+to redeploy personnel and resources among the various 
+21
+participating agencies, as well as establish or amend any 
+22
+rules and regulations promulgated by any participating 
+23
+agencies to the extent the Council determines such actions 
+24
+16:57 Apr 12, 2022
+H7231
+23 
+•HR 7231 IH
+to be necessary to achieve the goals and objectives estab-
+1
+lished under this Act. 
+2
+(e) JURISDICTION.—Nothing in this section shall be 
+3
+construed as taking away any powers heretofore or other-
+4
+wise vested by law in the Secretary, and wherever any 
+5
+power vested in the Council appears to conflict with the 
+6
+powers vested in the Secretary under this Act, such powers 
+7
+shall be exercised subject to the supervision and control 
+8
+of the Secretary. 
+9
+(f) JOINT REPORT.—Beginning 180 days after the 
+10
+date of enactment of this Act, and each 180 days there-
+11
+after, the Council and the National Institute for Stand-
+12
+ards and Technology shall issue a joint report to the Con-
+13
+gress detailing a plan to achieve full interoperability with 
+14
+existing public and private payments systems within 1 
+15
+year. 
+16
+SEC. 6. MONETARY PRIVACY BOARD. 
+17
+(a) IN GENERAL.—There is established a Monetary 
+18
+Privacy Board (in this section referred to as ‘‘the Board’’). 
+19
+(b) MEMBERSHIP.— 
+20
+(1) IN
+GENERAL.—The Board shall be com-
+21
+prised of 5 members, appointed by the President, by 
+22
+and with the advice and consent of the Senate. 
+23
+(2) CHAIR.—The President shall appoint one 
+24
+member of the Board as the Chair of the Board. Ex-
+25
+16:57 Apr 12, 2022
+H7231
+24 
+•HR 7231 IH
+cept as provided under subsections (c) and (e), the 
+1
+Chair shall— 
+2
+(A) make all decisions of the Board with 
+3
+respect to staffing, hiring, and budget alloca-
+4
+tion; and 
+5
+(B) conduct the meetings of the Board. 
+6
+(3) TERM.—The term of each member of the 
+7
+Board is 3 years. 
+8
+(4) REMOVAL.—The President may remove a 
+9
+member of the Board from office. On removal, the 
+10
+President shall send a message to the Senate giving 
+11
+the reasons for removal. 
+12
+(5) INTERIM MEMBERS.—When a vacancy on 
+13
+the Board remains open for more than three 
+14
+months, the President may appoint an interim mem-
+15
+ber to fill that vacancy. Interim members shall enjoy 
+16
+the full powers and privileges of a full member until 
+17
+such time as a permanent member is appointed and 
+18
+confirmed. 
+19
+(c) MEMBER OFFICES.—Each member of the Board 
+20
+shall be entitled to spend 5 percent of the budget of the 
+21
+Board on the personal office and staff of the member. 
+22
+(d) DUTIES AND POWERS.— 
+23
+(1) IN GENERAL.—The Board shall review the 
+24
+actions and decisions of the Secretary, the Director 
+25
+16:57 Apr 12, 2022
+H7231
+25 
+•HR 7231 IH
+of ECIP, and ECIP generally on an ongoing basis 
+1
+to evaluate the extent to which their decisions are 
+2
+consistent with their statutory responsibilities under 
+3
+this Act, and more broadly, a general commitment 
+4
+to preserving the privacy interests of individuals and 
+5
+actors that use e-cash and other forms of digital dol-
+6
+lar technologies issued or administered by the 
+7
+United States Government. 
+8
+(2) SEMI-ANNUAL REPORT.—The Board shall 
+9
+issue a report to Congress no less than twice per 
+10
+year— 
+11
+(A) detailing its findings from its ongoing 
+12
+review process; 
+13
+(B) providing an assessment of the general 
+14
+state of monetary privacy in the United States; 
+15
+and 
+16
+(C) offering recommendations for how to 
+17
+better protect civil liberties and individual pri-
+18
+vacy interests through legislative and regulatory 
+19
+reform. 
+20
+(3) INTERIM REPORTS.—The Board, or one or 
+21
+more members thereof, may publish interim reports 
+22
+or any other communication at any time at their dis-
+23
+cretion, provided such reports and communications 
+24
+are clearly distinguished from the reports required 
+25
+16:57 Apr 12, 2022
+H7231
+26 
+•HR 7231 IH
+under paragraph (2), and the particular authors and 
+1
+co-signatories are clearly indicated. 
+2
+(e) FUNDING AUTHORITY.—The Board shall submit 
+3
+an annual budget request to the Secretary, and the Sec-
+4
+retary shall transfer the requested amount to the Board, 
+5
+using the authorities provided under section 7(b), unless 
+6
+the Secretary determines that the amount is unreasonable 
+7
+in light of the Board’s duties and powers under this Act. 
+8
+SEC. 7. ENABLING AUTHORITY. 
+9
+(a) AUTHORIZATION
+OF APPROPRIATIONS.—There 
+10
+are authorized to be appropriated such sums as may be 
+11
+necessary to carry out this Act. 
+12
+(b) FINANCING.— 
+13
+(1) FUND
+ACCOUNT.—The Federal Reserve 
+14
+Bank of New York shall establish a new account on 
+15
+behalf of the Secretary, called the ‘‘Treasury Elec-
+16
+tronic Currency Innovation Fund Account’’ (in this 
+17
+section referred to as the ‘‘Fund Account’’). 
+18
+(2) USE OF FUND ACCOUNT.—The Secretary 
+19
+shall effectuate any and all spending under this Act 
+20
+by drawing an overdraft on the Fund Account, 
+21
+which shall be accommodated and facilitated auto-
+22
+matically, on an indefinite basis, and without the im-
+23
+position of any interest charge or other form of 
+24
+maintenance or overdraft fees by the Federal Re-
+25
+16:57 Apr 12, 2022
+H7231
+27 
+•HR 7231 IH
+serve Bank of New York and the Board of Gov-
+1
+ernors of the Federal Reserve System. 
+2
+(3) OVERDRAFT TREATMENT.—The Fund Ac-
+3
+count shall be exempt from any overdraft prohibi-
+4
+tions that currently apply to other accounts adminis-
+5
+tered on behalf of the Department of the Treasury 
+6
+Department by the Federal Reserve System or a 
+7
+Federal reserve bank, and any overdraft liability in-
+8
+curred by the Department of the Treasury shall not 
+9
+be included in calculations of public debt subject to 
+10
+limit under section 3101 of title 31, United States 
+11
+Code. 
+12
+(4) TREATMENT OF LOSSES.—The Federal Re-
+13
+serve Bank of New York shall record any losses in-
+14
+curred as a result of spending undertaken on behalf 
+15
+of the Secretary from the Fund Account as a de-
+16
+ferred asset (as described in section 11.96 of the Fi-
+17
+nancial Accounting Manual for Federal Reserve 
+18
+Banks, as in effect on the date of the enactment of 
+19
+this Act) and shall be excluded from calculations of 
+20
+the net operating position or consolidated balance 
+21
+sheet of the Federal Reserve Bank of New York or 
+22
+the Federal Reserve System, so as to not reduce or 
+23
+impact the calculation of total income or revenue 
+24
+generated by the Federal Reserve System, or other-
+25
+16:57 Apr 12, 2022
+H7231
+28 
+•HR 7231 IH
+wise reduce the total amount of net operating profits 
+1
+to be made available for remittance to the Treasury 
+2
+on an ongoing basis. 
+3
+Æ 
+16:57 Apr 12, 2022
+H7231

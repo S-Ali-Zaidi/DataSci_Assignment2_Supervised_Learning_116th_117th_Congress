@@ -1,0 +1,6436 @@
+A BILL 
+To provide consumers with foundational data privacy rights, 
+create strong oversight mechanisms, and establish mean-
+ingful enforcement. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘American Data Privacy and Protection Act’’. 
+5
+(b) TABLE OF CONTENTS.—The table of contents of 
+6
+this Act is as follows: 
+7
+Sec. 1. Short title; table of contents. 
+Sec. 2. Definitions. 
+TITLE I—DUTY OF LOYALTY 
+00:49 Jul 22, 2022
+H8152
+2 
+•HR 8152 IH
+Sec. 101. Data minimization. 
+Sec. 102. Loyalty duties. 
+Sec. 103. Privacy by design. 
+Sec. 104. Loyalty to individuals with respect to pricing. 
+TITLE II—CONSUMER DATA RIGHTS 
+Sec. 201. Consumer awareness. 
+Sec. 202. Transparency. 
+Sec. 203. Individual data ownership and control. 
+Sec. 204. Right to consent and object. 
+Sec. 205. Data protections for children and minors. 
+Sec. 206. Third-party collecting entities. 
+Sec. 207. Civil rights and algorithms. 
+Sec. 208. Data security and protection of covered data. 
+Sec. 209. Small business protections. 
+Sec. 210. Unified opt-out mechanisms. 
+TITLE III—CORPORATE ACCOUNTABILITY 
+Sec. 301. Executive responsibility. 
+Sec. 302. Service providers and third parties. 
+Sec. 303. Technical compliance programs. 
+Sec. 304. Commission approved compliance guidelines. 
+Sec. 305. Digital content forgeries. 
+TITLE IV—ENFORCEMENT, APPLICABILITY, AND MISCELLANEOUS 
+Sec. 401. Enforcement by the Federal Trade Commission. 
+Sec. 402. Enforcement by State attorneys general. 
+Sec. 403. Enforcement by individuals. 
+Sec. 404. Relationship to Federal and State laws. 
+Sec. 405. Severability. 
+Sec. 406. COPPA. 
+Sec. 407. Authorization of appropriations. 
+Sec. 408. Effective date. 
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) AFFIRMATIVE EXPRESS CONSENT.— 
+3
+(A) IN GENERAL.—The term ‘‘affirmative 
+4
+express consent’’ means an affirmative act by 
+5
+an individual that clearly communicates the in-
+6
+dividual’s freely given, specific, informed, and 
+7
+unambiguous authorization for an act or prac-
+8
+tice, in response to a specific request from a 
+9
+00:49 Jul 22, 2022
+H8152
+3 
+•HR 8152 IH
+covered entity that meets the requirements of 
+1
+subparagraph (B). 
+2
+(B) REQUEST
+REQUIREMENTS.—The re-
+3
+quirements of this subparagraph with respect to 
+4
+a request from a covered entity to an individual 
+5
+are the following: 
+6
+(i) The request is provided to the indi-
+7
+vidual in a clear and conspicuous stand-
+8
+alone disclosure made through the primary 
+9
+medium used to offer the covered entity’s 
+10
+product or service. 
+11
+(ii) The request includes a description 
+12
+of the act or practice for which the individ-
+13
+ual’s consent is sought and— 
+14
+(I) clearly states the specific cat-
+15
+egories of covered data that the cov-
+16
+ered entity shall collect, process, and 
+17
+transfer for each act or practice; 
+18
+(II) clearly distinguishes between 
+19
+any act or practice which is necessary 
+20
+to fulfill a request of the individual 
+21
+and any act or practice which is for 
+22
+another purpose; and 
+23
+(III) includes a prominent head-
+24
+ing and is written in easy-to-under-
+25
+00:49 Jul 22, 2022
+H8152
+4 
+•HR 8152 IH
+stand language that would enable a 
+1
+reasonable individual to identify and 
+2
+understand the processing purpose for 
+3
+which consent is sought and the cov-
+4
+ered data to be collected, processed, or 
+5
+transferred by the covered entity for 
+6
+such processing purpose. 
+7
+(iii) The request clearly explains the 
+8
+individual’s applicable rights related to 
+9
+consent. 
+10
+(iv) The request shall be made in a 
+11
+manner readily accessible to and usable by 
+12
+individuals with disabilities. 
+13
+(v) The request shall be made avail-
+14
+able to the public in each language in 
+15
+which the covered entity provides a product 
+16
+or service for which authorization is sought 
+17
+or in which the covered entity carries out 
+18
+any activity related to any product or serv-
+19
+ice for which the covered data of the indi-
+20
+vidual may be collected, processed, or 
+21
+transferred. 
+22
+(C) EXPRESS
+CONSENT
+REQUIRED.—A 
+23
+covered entity shall not infer that an individual 
+24
+has provided affirmative express consent to an 
+25
+00:49 Jul 22, 2022
+H8152
+5 
+•HR 8152 IH
+act or practice from the inaction of the indi-
+1
+vidual or the individual’s continued use of a 
+2
+service or product provided by the covered enti-
+3
+ty. 
+4
+(D) 
+PRETEXTUAL
+CONSENT
+PROHIB-
+5
+ITED.—A covered entity shall not obtain or at-
+6
+tempt to obtain the affirmative express consent 
+7
+of an individual through— 
+8
+(i) the use of any false, fictitious, 
+9
+fraudulent, or materially misleading state-
+10
+ment or representation; or 
+11
+(ii) the design, modification, or ma-
+12
+nipulation of any user interface with the 
+13
+purpose or substantial effect of obscuring, 
+14
+subverting, or impairing a reasonable indi-
+15
+vidual’s autonomy, decision making, or 
+16
+choice to provide such consent or any cov-
+17
+ered data. 
+18
+(2) ALGORITHM.—The term ‘‘algorithm’’ means 
+19
+a computational process that uses machine learning, 
+20
+natural language processing, artificial intelligence 
+21
+techniques, or other computational processing tech-
+22
+niques of similar or greater complexity that makes 
+23
+a decision or facilitate human decision making with 
+24
+respect to covered data, including to determine the 
+25
+00:49 Jul 22, 2022
+H8152
+6 
+•HR 8152 IH
+provision of products or services or to rank, order, 
+1
+promote, recommend, amplify, or similarly determine 
+2
+the delivery or display of information to an indi-
+3
+vidual. 
+4
+(3) BIOMETRIC INFORMATION.— 
+5
+(A) IN
+GENERAL.—The term ‘‘biometric 
+6
+information’’ means any covered data generated 
+7
+from the technological processing of an individ-
+8
+ual’s unique biological, physical, or physiological 
+9
+characteristics that is linked or reasonably 
+10
+linkable to an individual including— 
+11
+(i) fingerprints; 
+12
+(ii) voice prints; 
+13
+(iii) iris or retina scans; 
+14
+(iv) facial mapping or hand mapping, 
+15
+geometry, or templates; or 
+16
+(v) gait or personally identifying phys-
+17
+ical movements. 
+18
+(B) EXCLUSION.—The term ‘‘biometric in-
+19
+formation’’ does not include— 
+20
+(i) a digital or physical photograph; 
+21
+(ii) an audio or video recording; or 
+22
+(iii) data generated from a digital or 
+23
+physical photograph, or an audio or video 
+24
+00:49 Jul 22, 2022
+H8152
+7 
+•HR 8152 IH
+recording that cannot be used to identify 
+1
+an individual. 
+2
+(4) COLLECT; COLLECTION.—The terms ‘‘col-
+3
+lect’’ and ‘‘collection’’ mean buying, renting, gath-
+4
+ering, obtaining, receiving, accessing, or otherwise 
+5
+acquiring covered data by any means. 
+6
+(5) COMMISSION.—The term ‘‘Commission’’ 
+7
+means the Federal Trade Commission. 
+8
+(6) COMMON BRANDING.—The term ‘‘common 
+9
+branding’’ means a name, service mark, or trade-
+10
+mark that is shared by 2 or more entities. 
+11
+(7) CONTROL.—The term ‘‘control’’ means, 
+12
+with respect to an entity— 
+13
+(A) ownership of, or the power to vote, 
+14
+more than 50 percent of the outstanding shares 
+15
+of any class of voting security of the entity; 
+16
+(B) control over the election of a majority 
+17
+of the directors of the entity (or of individuals 
+18
+exercising similar functions); or 
+19
+(C) the power to exercise a controlling in-
+20
+fluence over the management of the entity. 
+21
+(8) COVERED DATA.— 
+22
+(A) IN
+GENERAL.—The term ‘‘covered 
+23
+data’’ means information that identifies or is 
+24
+linked or reasonably linkable, alone or in com-
+25
+00:49 Jul 22, 2022
+H8152
+8 
+•HR 8152 IH
+bination with other information, to an indi-
+1
+vidual or a device that identifies or is linked or 
+2
+reasonably linkable to an individual, and may 
+3
+include derived data and unique identifiers. 
+4
+(B) EXCLUSIONS.—The term ‘‘covered 
+5
+data’’ does not include— 
+6
+(i) de-identified data; 
+7
+(ii) employee data; 
+8
+(iii) publicly available information; or 
+9
+(iv) inferences made exclusively from 
+10
+multiple independent sources of publicly 
+11
+available information that do not reveal 
+12
+sensitive covered data with respect to an 
+13
+individual. 
+14
+(C) EMPLOYEE DATA DEFINED.—For pur-
+15
+poses of subparagraph (B), the term ‘‘employee 
+16
+data’’ means— 
+17
+(i) information relating to a job appli-
+18
+cant collected by a covered entity acting as 
+19
+a prospective employer of such job appli-
+20
+cant in the course of the application, or 
+21
+hiring process, provided that such informa-
+22
+tion is collected, processed, or transferred 
+23
+by the prospective employer solely for pur-
+24
+poses related to the employee’s status as a 
+25
+00:49 Jul 22, 2022
+H8152
+9 
+•HR 8152 IH
+current or former job applicant of such 
+1
+employer; 
+2
+(ii) the business contact information 
+3
+of an employee, including the employee’s 
+4
+name, position or title, business telephone 
+5
+number, business address, or business 
+6
+email address that is provided to an em-
+7
+ployer by an employee who is acting in a 
+8
+professional capacity, provided that such 
+9
+information is collected, processed, or 
+10
+transferred solely for purposes related to 
+11
+such employee’s professional activities; 
+12
+(iii) emergency contact information 
+13
+collected by an employer that relates to an 
+14
+employee of that employer, provided that 
+15
+such information is collected, processed, or 
+16
+transferred solely for the purpose of having 
+17
+an emergency contact on file for the em-
+18
+ployee; or 
+19
+(iv) information relating to an em-
+20
+ployee (or a spouse, dependent, other cov-
+21
+ered family member, or beneficiary of such 
+22
+employee) that is necessary for the em-
+23
+ployer to collect, process, or transfer solely 
+24
+for the purpose of administering benefits 
+25
+00:49 Jul 22, 2022
+H8152
+10 
+•HR 8152 IH
+to which such employee (or spouse, de-
+1
+pendent, other covered family member, or 
+2
+beneficiary of such employee) is entitled on 
+3
+the basis of the employee’s position with 
+4
+that employer. 
+5
+(9) COVERED ENTITY.— 
+6
+(A) The term ‘‘covered entity’’— 
+7
+(i) means any entity or any person, 
+8
+other than an individual acting in a non- 
+9
+commercial context, that alone or jointly 
+10
+with others determines the purposes and 
+11
+means of collecting, processing, or trans-
+12
+ferring covered data and— 
+13
+(I) is subject to the Federal 
+14
+Trade Commission Act (15 U.S.C. 41 
+15
+et seq.); 
+16
+(II) is a common carrier subject 
+17
+to the Communications Act of 1934 
+18
+(47 U.S.C. 151 et seq.) and all Acts 
+19
+amendatory 
+thereof 
+and 
+supple-
+20
+mentary thereto title II of the Com-
+21
+munications Act of 1934 (47 U.S.C. 
+22
+201–231) as currently enacted or sub-
+23
+sequently amended; or 
+24
+00:49 Jul 22, 2022
+H8152
+11 
+•HR 8152 IH
+(III) is an organization not orga-
+1
+nized to carry on business for their 
+2
+own profit or that of their members; 
+3
+and 
+4
+(ii) includes any entity or person that 
+5
+controls, is controlled by, or is under com-
+6
+mon control with another covered entity. 
+7
+(B) EXCLUSIONS.—The term ‘‘covered en-
+8
+tity’’ does not include— 
+9
+(i) a governmental entity such as a 
+10
+body, authority, board, bureau, commis-
+11
+sion, district, agency, or political subdivi-
+12
+sion of the Federal, State, or local govern-
+13
+ment; or 
+14
+(ii) a person or an entity that is col-
+15
+lecting, processing, or transferring covered 
+16
+data on behalf of or a Federal, State, Trib-
+17
+al, territorial, or local government entity. 
+18
+(10) DE-IDENTIFIED
+DATA.—The term ‘‘de- 
+19
+identified data’’ means information that does not 
+20
+identify and is not linked or reasonably linkable to 
+21
+an individual or an individual’s device, regardless of 
+22
+whether the information is aggregated, provided that 
+23
+the covered entity— 
+24
+00:49 Jul 22, 2022
+H8152
+12 
+•HR 8152 IH
+(A) takes reasonable technical, administra-
+1
+tive, and physical measures to ensure that the 
+2
+information cannot, at any point, be used to re- 
+3
+identify any individual or device; 
+4
+(B) publicly commits in a clear and con-
+5
+spicuous manner— 
+6
+(i) to process and transfer the infor-
+7
+mation solely in a de-identified form with-
+8
+out any reasonable means for re-identifica-
+9
+tion; and 
+10
+(ii) to not attempt to re-identify the 
+11
+information with any individual or device; 
+12
+and 
+13
+(C) contractually obligates any person or 
+14
+entity that receives the information from the 
+15
+covered entity to comply with all of the provi-
+16
+sions of this paragraph. 
+17
+(11) DERIVED DATA.—The term ‘‘derived data’’ 
+18
+means covered data that is created by the derivation 
+19
+of information, data, assumptions, correlations, in-
+20
+ferences, predictions, or conclusions from facts, evi-
+21
+dence, or another source of information or data 
+22
+about an individual or an individual’s device. 
+23
+(12) DEVICE.—The term ‘‘device’’ means any 
+24
+electronic equipment capable of transmitting or re-
+25
+00:49 Jul 22, 2022
+H8152
+13 
+•HR 8152 IH
+ceiving covered data that is designed for use by one 
+1
+or more individuals. 
+2
+(13) EMPLOYEE.—The term ‘‘employee’’ means 
+3
+(regardless of whether such employee is paid, un-
+4
+paid, or employed on a temporary basis) an em-
+5
+ployee, director, officer, staff member, an individual 
+6
+working as a contractor, trainee, volunteer, or intern 
+7
+of an employer. 
+8
+(14) EXECUTIVE
+AGENCY.—The ‘‘Executive 
+9
+agency’’ has the meaning set forth in section 105 of 
+10
+title 5, United States Code. 
+11
+(15) GENETIC INFORMATION.—The term ‘‘ge-
+12
+netic information’’ means any covered data, regard-
+13
+less of its format, that concerns an individual’s ge-
+14
+netic characteristics, including— 
+15
+(A) raw sequence data that results from 
+16
+the sequencing of an individual’s complete ex-
+17
+tracted 
+or 
+a 
+portion 
+of 
+the 
+extracted 
+18
+deoxyribonucleic acid (DNA); or 
+19
+(B) genotypic and phenotypic information 
+20
+that results from analyzing the raw sequence 
+21
+data. 
+22
+(16) 
+INDIVIDUAL.—The 
+term 
+‘‘individual’’ 
+23
+means a natural person residing in the United 
+24
+States. 
+25
+00:49 Jul 22, 2022
+H8152
+14 
+•HR 8152 IH
+(17) LARGE DATA HOLDER.—The term ‘‘large 
+1
+data holder’’ means a covered entity or service pro-
+2
+vider that, in the most recent calendar year— 
+3
+(A) 
+had 
+annual 
+gross 
+revenues 
+of 
+4
+$250,000,000 or more; and 
+5
+(B) collected, processed, or transferred— 
+6
+(i) the covered data of more than 
+7
+5,000,000 individuals or devices that iden-
+8
+tify or are linked or reasonably linkable to 
+9
+1 or more individuals; and 
+10
+(ii) the sensitive covered data of more 
+11
+than 200,000 individuals or devices that 
+12
+identify or are linked or reasonably 
+13
+linkable to 1 or more individuals. 
+14
+(C) EXCLUSIONS.—The term ‘‘large data 
+15
+holder’’ does not include any instance where the 
+16
+covered entity or service provider would qualify 
+17
+as a large data holder solely on account of col-
+18
+lecting, or processing— 
+19
+(i) personal email addresses; 
+20
+(ii) personal telephone numbers; or 
+21
+(iii) log-in information of an indi-
+22
+vidual or device to allow the individual or 
+23
+device to log in to an account administered 
+24
+by the covered entity or service provider. 
+25
+00:49 Jul 22, 2022
+H8152
+15 
+•HR 8152 IH
+(D) REVENUE.—For purposes of this de-
+1
+termining whether any covered entity or service 
+2
+provider is a large data holder, the term ‘‘rev-
+3
+enue’’ as it relates to any covered entity or 
+4
+service provider that is not organized to carry 
+5
+on business for its own profit or that of its 
+6
+members, means the gross receipts the covered 
+7
+entity or service provider received in whatever 
+8
+form from all sources without subtracting any 
+9
+costs or expenses, and includes contributions, 
+10
+gifts, grants, dues or other assessments, income 
+11
+from investments, or proceeds from the sale of 
+12
+real or personal property. 
+13
+(18) MARKET RESEARCH.—The term ‘‘market 
+14
+research’’ means the collection, processing, or trans-
+15
+fer of covered data as reasonably necessary and pro-
+16
+portionate to investigate the market for or mar-
+17
+keting of products, services, or ideas, where the cov-
+18
+ered data is not— 
+19
+(A) integrated into any product or service; 
+20
+(B) otherwise used to contact any indi-
+21
+vidual or individual’s device; or 
+22
+(C) used to advertise or market to any in-
+23
+dividual or individual’s device. 
+24
+00:49 Jul 22, 2022
+H8152
+16 
+•HR 8152 IH
+(19) MATERIAL.—The term ‘‘material’’ means 
+1
+with respect to an act, practice, or representation of 
+2
+a covered entity (including a representation made by 
+3
+the covered entity in a privacy policy or similar dis-
+4
+closure to individuals), involving the collection, proc-
+5
+essing, or transfer of covered data that such act, 
+6
+practice, or representation is likely to affect an indi-
+7
+vidual’s decision or conduct regarding a product or 
+8
+service. 
+9
+(20) PRECISE GEOLOCATION INFORMATION.— 
+10
+(A) IN
+GENERAL.—The term ‘‘precise 
+11
+geolocation information’’ means information 
+12
+that reveals the past or present physical loca-
+13
+tion of an individual, or device that identifies or 
+14
+is linked or reasonably linkable to 1 or more in-
+15
+dividuals, with sufficient precision to identify 
+16
+street level location information or an individ-
+17
+ual’s location within a range of 1,000 feet or 
+18
+less. 
+19
+(B) 
+EXCLUSION.—The 
+term 
+‘‘precise 
+20
+geolocation 
+information’’ 
+does 
+not 
+mean 
+21
+geolocation information identifiable solely from 
+22
+the visual content of an image. 
+23
+(21) PROCESS.—The term ‘‘process’’ means to 
+24
+conduct or direct any operation or set of operations 
+25
+00:49 Jul 22, 2022
+H8152
+17 
+•HR 8152 IH
+performed on covered data including analyzing, or-
+1
+ganizing, structuring, retaining, storing, using, or 
+2
+otherwise handling covered data. 
+3
+(22) PROCESSING PURPOSE.—The term ‘‘proc-
+4
+essing purpose’’ means a reason for which a covered 
+5
+entity collects, processes, or transfers covered data 
+6
+that is specific and granular enough for a reasonable 
+7
+individual to understand the material facts of how 
+8
+and why the covered entity collects, processes, or 
+9
+transfers the covered data. 
+10
+(23) PUBLICLY AVAILABLE INFORMATION.— 
+11
+(A) IN
+GENERAL.—The term ‘‘publicly 
+12
+available information’’ means any information 
+13
+that a covered entity has a reasonable basis to 
+14
+believe has been lawfully made available to the 
+15
+general public from— 
+16
+(i) Federal, State, or local government 
+17
+records provided that the covered entity 
+18
+collects, processes, and transfers such in-
+19
+formation in accordance with any restric-
+20
+tions or terms of use placed on the infor-
+21
+mation by the relevant government entity; 
+22
+(ii) widely distributed media; 
+23
+(iii) a website or online service made 
+24
+available to all members of the public, for 
+25
+00:49 Jul 22, 2022
+H8152
+18 
+•HR 8152 IH
+free or for a fee, including where all mem-
+1
+bers of the public can log-in to the website 
+2
+or online service; 
+3
+(iv) a disclosure that has been made 
+4
+to the general public as required by Fed-
+5
+eral, State, or local law; or 
+6
+(v) a visual observation of an individ-
+7
+ual’s physical presence in a public place by 
+8
+another person, not including data col-
+9
+lected by a device in the individual’s pos-
+10
+session. 
+11
+(B) CLARIFICATIONS; LIMITATIONS.— 
+12
+(i) AVAILABLE TO ALL MEMBERS OF 
+13
+THE PUBLIC.—For purposes of this para-
+14
+graph, information from a website or on-
+15
+line service is not available to all members 
+16
+of the public if the individual who made 
+17
+the information available via the website or 
+18
+online service has restricted the informa-
+19
+tion to a specific audience. 
+20
+(ii) OTHER LIMITATIONS.—The term 
+21
+‘‘publicly available information’’ does not 
+22
+include— 
+23
+00:49 Jul 22, 2022
+H8152
+19 
+•HR 8152 IH
+(I) any obscene visual depiction 
+1
+(as defined for purposes of section 
+2
+1460 of title 18, United States Code); 
+3
+(II) inferences made exclusively 
+4
+from multiple independent sources of 
+5
+publicly available information that do 
+6
+not reveal sensitive covered data with 
+7
+respect to an individual; 
+8
+(III) biometric information; 
+9
+(IV) publicly available informa-
+10
+tion that has been combined with cov-
+11
+ered data; 
+12
+(V) genetic information; or 
+13
+(VI) known nonconsensual inti-
+14
+mate images. 
+15
+(24) SENSITIVE COVERED DATA.— 
+16
+(A) IN
+GENERAL.—The term ‘‘sensitive 
+17
+covered data’’ means the following forms of cov-
+18
+ered data: 
+19
+(i) A government-issued identifier, 
+20
+such as a social security number, passport 
+21
+number, or driver’s license number, that is 
+22
+not required by law to be displayed in pub-
+23
+lic. 
+24
+00:49 Jul 22, 2022
+H8152
+20 
+•HR 8152 IH
+(ii) Any information that describes or 
+1
+reveals the past, present, or future physical 
+2
+health, mental health, disability, diagnosis, 
+3
+or healthcare condition or treatment of an 
+4
+individual. 
+5
+(iii) A financial account number, debit 
+6
+card number, credit card number, or infor-
+7
+mation about income level or bank account 
+8
+balances. 
+9
+(iv) Biometric information. 
+10
+(v) Genetic information. 
+11
+(vi) Precise geolocation information. 
+12
+(vii) An individual’s private commu-
+13
+nications such as voicemails, emails, texts, 
+14
+direct messages, or mail, or information 
+15
+identifying the parties to such communica-
+16
+tions, voice communications, and any infor-
+17
+mation that pertains to the transmission of 
+18
+such communications, including telephone 
+19
+numbers called, telephone numbers from 
+20
+which calls were placed, the time calls were 
+21
+made, call duration, and location informa-
+22
+tion of the parties to the call, unless the 
+23
+covered entity is the sender or an intended 
+24
+recipient of the communication. Commu-
+25
+00:49 Jul 22, 2022
+H8152
+21 
+•HR 8152 IH
+nications are not private for purposes of 
+1
+this paragraph if such communications are 
+2
+made from or to a device provided by an 
+3
+employer to an employee insofar as such 
+4
+employer provides conspicuous notice that 
+5
+it may access such communications. 
+6
+(viii) Account or device log-in creden-
+7
+tials, or security or access codes for an ac-
+8
+count or device. 
+9
+(ix) Information identifying the sexual 
+10
+orientation or sexual behavior of an indi-
+11
+vidual in a manner inconsistent with the 
+12
+individual’s reasonable expectation regard-
+13
+ing disclosure of such information. 
+14
+(x) Calendar information, address 
+15
+book information, phone or text logs, 
+16
+photos, audio recordings, or videos main-
+17
+tained for private use by an individual, re-
+18
+gardless of whether such information is 
+19
+stored on the individual’s device or in a 
+20
+separate location on an individual’s device, 
+21
+regardless of whether such information is 
+22
+backed up in a separate location. 
+23
+(xi) A photograph, film, video record-
+24
+ing, or other similar medium that shows 
+25
+00:49 Jul 22, 2022
+H8152
+22 
+•HR 8152 IH
+the naked or undergarment-clad private 
+1
+area of an individual. 
+2
+(xii) Information that reveals the 
+3
+video content or services requested or se-
+4
+lected by an individual from a provider of 
+5
+broadcast television service, cable service, 
+6
+satellite service or streaming media service. 
+7
+(xiii) Information about an individual 
+8
+when the covered entity knows that the in-
+9
+dividual is under the age of 17. 
+10
+(xiv) Any other covered data collected, 
+11
+processed, or transferred for the purpose 
+12
+of identifying the above data types. 
+13
+(B) RULEMAKING.—The Commission may 
+14
+commence a rulemaking pursuant to section 
+15
+553 of title 5, United States Code, to include 
+16
+any additional category of covered data under 
+17
+this definition that may require a similar level 
+18
+of protection as the data listed in clauses (i) 
+19
+through (xvi) of subparagraph (A) as a result 
+20
+of any new method of collecting, processing, or 
+21
+transferring covered data. 
+22
+(25) SERVICE PROVIDER.—The term ‘‘service 
+23
+provider’’ means a person or entity that collects, 
+24
+processes, or transfers covered data on behalf of, 
+25
+00:49 Jul 22, 2022
+H8152
+23 
+•HR 8152 IH
+and at the direction of, a covered entity and which 
+1
+receives covered data from or on behalf of a covered 
+2
+entity pursuant to a written contract, provided that 
+3
+the contract meets the requirements of section 302. 
+4
+(26) SERVICE
+PROVIDER
+DATA.—The term 
+5
+‘‘service provider data’’ means covered data that is 
+6
+collected or processed by or has been transferred to 
+7
+a service provider by a covered entity for the pur-
+8
+pose of allowing the service provider to perform a 
+9
+service or function on behalf of, and at the direction 
+10
+of, such covered entity. 
+11
+(27) STATE.—The term ‘‘State’’ means any of 
+12
+the 50 States, the District of Columbia, the Com-
+13
+monwealth of Puerto Rico, the Virgin Islands, 
+14
+Guam, American Samoa, the Northern Mariana Is-
+15
+lands, or the Trust Territory of the Pacific Islands. 
+16
+(28) STATE PRIVACY AUTHORITY.— 
+17
+(A) IN GENERAL.—The term ‘‘State Pri-
+18
+vacy Authority’’ means— 
+19
+(i) the chief consumer protection offi-
+20
+cer of a State; or 
+21
+(ii) a State consumer protection agen-
+22
+cy with expertise in data protection. 
+23
+(29) SUBSTANTIAL PRIVACY RISK.—The term 
+24
+‘‘substantial privacy risk’’ means the collection, 
+25
+00:49 Jul 22, 2022
+H8152
+24 
+•HR 8152 IH
+processing, or transfer of covered data in a manner 
+1
+that may result in any reasonably foreseeable mate-
+2
+rial physical injury, economic injury, highly offensive 
+3
+intrusion into the reasonable privacy expectations of 
+4
+an individual under the circumstances, or discrimi-
+5
+nation on the basis of race, color, religion, national 
+6
+origin, sex, or disability. 
+7
+(30) TARGETED ADVERTISING.—The term ‘‘tar-
+8
+geted advertising’’— 
+9
+(A) means displaying to an individual or 
+10
+device identified by a unique identifier an online 
+11
+advertisement or content that is selected based 
+12
+on known or predicted preferences, characteris-
+13
+tics, or interests associated with the individual 
+14
+or a device identified by a unique identifier; and 
+15
+(B) does not include— 
+16
+(i) advertising or marketing to an in-
+17
+dividual or an individual’s device in re-
+18
+sponse to the individual’s specific request 
+19
+for information or feedback; 
+20
+(ii) contextual advertising, which is 
+21
+when an advertisement is displayed based 
+22
+on the content or location in which the ad-
+23
+vertisement appears and does not vary 
+24
+00:49 Jul 22, 2022
+H8152
+25 
+•HR 8152 IH
+based on who is viewing the advertisement; 
+1
+or 
+2
+(iii) processing covered data solely for 
+3
+measuring or reporting advertising or con-
+4
+tent, performance, reach, or frequency, in-
+5
+cluding independent measurement. 
+6
+(31) THIRD PARTY.—The term ‘‘third party’’— 
+7
+(A) means any person or entity that— 
+8
+(i) collects, processes, or transfers 
+9
+third-party data; and 
+10
+(ii) is not a service provider with re-
+11
+spect to such data; and 
+12
+(B) does not include a person or entity 
+13
+that collects covered data from another entity if 
+14
+the 2 entities are related by common ownership 
+15
+or corporate control and share common brand-
+16
+ing, unless one of those is a large data holder 
+17
+or those entities are each related to a large data 
+18
+holder through common ownership or corporate 
+19
+control. 
+20
+(32) THIRD-PARTY COLLECTING ENTITY.— 
+21
+(A) IN GENERAL.—The term ‘‘third-party 
+22
+collecting entity’’— 
+23
+(i) means a covered entity whose prin-
+24
+cipal source of revenue is derived from 
+25
+00:49 Jul 22, 2022
+H8152
+26 
+•HR 8152 IH
+processing or transferring the covered data 
+1
+that the covered entity did not collect di-
+2
+rectly from the individuals linked or 
+3
+linkable to the covered data; and 
+4
+(ii) does not include a covered entity 
+5
+in so far as such entity processes employee 
+6
+data collected by and received from a third 
+7
+party concerning any individual who is an 
+8
+employee of the third party for the sole 
+9
+purpose of such third party providing ben-
+10
+efits to the employee. 
+11
+(B) PRINCIPAL SOURCE OF REVENUE DE-
+12
+FINED.—For purposes of this paragraph, ‘‘prin-
+13
+cipal source of revenue’’ means, for the prior 
+14
+12-month period, either— 
+15
+(i) more than 50 percent of all rev-
+16
+enue of the covered entity; or 
+17
+(ii) obtaining revenue from processing 
+18
+or transferring the covered data of more 
+19
+than 5,000,000 individuals that the cov-
+20
+ered entity did not collect directly from the 
+21
+individuals to which the covered data per-
+22
+tains. 
+23
+(C) NON-APPLICATION
+TO
+SERVICE
+PRO-
+24
+VIDERS.—An entity shall not be considered to 
+25
+00:49 Jul 22, 2022
+H8152
+27 
+•HR 8152 IH
+be a third-party collecting entity for purposes of 
+1
+this Act if the entity is acting as a service pro-
+2
+vider (as defined in this section). 
+3
+(33) THIRD-PARTY
+DATA.—The term ‘‘third- 
+4
+party data’’ means covered data that has been trans-
+5
+ferred to a third party by a covered entity. 
+6
+(34) TRANSFER.—The term ‘‘transfer’’ means 
+7
+to disclose, release, share, disseminate, make avail-
+8
+able, or license in writing, electronically, or by any 
+9
+other means. 
+10
+(35) UNIQUE IDENTIFIER.—The term ‘‘unique 
+11
+identifier’’ means an identifier to the extent that 
+12
+such identifier is reasonably linkable to an individual 
+13
+or device that identifies or is linked or reasonably 
+14
+linkable to 1 or more individuals, including a device 
+15
+identifier, an Internet Protocol address, cookies, bea-
+16
+cons, pixel tags, mobile ad identifiers, or similar 
+17
+technology, customer number, unique pseudonym, or 
+18
+user alias, telephone numbers, or other forms of per-
+19
+sistent or probabilistic identifiers that are linked or 
+20
+reasonably linkable to an individual or device. 
+21
+(36) WIDELY DISTRIBUTED MEDIA.—The term 
+22
+‘‘widely distributed media’’ means information that 
+23
+is available to the general public, including informa-
+24
+tion from a telephone book or online directory, a tel-
+25
+00:49 Jul 22, 2022
+H8152
+28 
+•HR 8152 IH
+evision, internet, or radio program, the news media, 
+1
+or an internet site that is available to the general 
+2
+public on an unrestricted basis, but does not include 
+3
+an obscene visual depiction (as defined in section 
+4
+1460 of title 18, United States Code). 
+5
+TITLE I—DUTY OF LOYALTY 
+6
+SEC. 101. DATA MINIMIZATION. 
+7
+(a) IN GENERAL.—A covered entity shall not collect, 
+8
+process, or transfer covered data unless the collection, 
+9
+processing, or transfer is limited to what is reasonably 
+10
+necessary and proportionate to— 
+11
+(1) provide, or maintain a specific product or 
+12
+service requested by the individual to whom the data 
+13
+pertains; 
+14
+(2) deliver a communication that is reasonably 
+15
+anticipated by the individual recipient within the 
+16
+context of the individual’s interactions with the cov-
+17
+ered entity; or 
+18
+(3) effect a purpose expressly permitted under 
+19
+subsection (b). 
+20
+(b) PERMISSIBLE PURPOSES.—A covered entity or 
+21
+service provider may collect, process, or transfer covered 
+22
+data for any of the following purposes provided that the 
+23
+covered entity or service provider can demonstrate that 
+24
+collection, processing, or transfer complies with all other 
+25
+00:49 Jul 22, 2022
+H8152
+29 
+•HR 8152 IH
+applicable laws not preempted in section 404 and provi-
+1
+sions of this Act and is limited to what is reasonably nec-
+2
+essary and proportionate to such purpose: 
+3
+(1) To initiate or complete a transaction or ful-
+4
+fill an order or service specifically requested by an 
+5
+individual, including any associated routine adminis-
+6
+trative activity such as billing, shipping, delivery, 
+7
+and accounting, including the collection, processing, 
+8
+or transferring of the last four digits of a credit card 
+9
+number. 
+10
+(2) With respect to covered data previously col-
+11
+lected in accordance with this Act, notwithstanding 
+12
+this exception, to process such data as necessary to 
+13
+perform system maintenance or diagnostics, to main-
+14
+tain a product or service for which such data was 
+15
+collected, to conduct internal research or analytics, 
+16
+to improve a product or service for which such data 
+17
+was collected and to perform inventory management 
+18
+or reasonable network management, to protect 
+19
+against spam, or to debug or repair errors that im-
+20
+pair the functionality of a service or product for 
+21
+which such data was collected. 
+22
+(3) To authenticate users of a product or serv-
+23
+ice. 
+24
+00:49 Jul 22, 2022
+H8152
+30 
+•HR 8152 IH
+(4) To prevent, detect, protect against, or re-
+1
+spond to a security incident, or fulfill a product or 
+2
+service warranty. For purposes of this paragraph, 
+3
+security is defined as network security as well as in-
+4
+trusion, medical alerts, fire alarms, and access con-
+5
+trol security. 
+6
+(5) To prevent, detect, protect against or re-
+7
+spond to fraud, harassment, or illegal activity. For 
+8
+the purposes of this paragraph, illegal activity means 
+9
+a violation of a Federal, State, or local law punish-
+10
+able as a felony or misdemeanor that can directly 
+11
+harm another person. 
+12
+(6) To comply with a legal obligation imposed 
+13
+by Federal, Tribal, Local, or State law, or to estab-
+14
+lish, exercise, or defend legal claims. 
+15
+(7) To prevent an individual, or groups of indi-
+16
+viduals, from suffering harm where the covered enti-
+17
+ty or service provider believes in good faith that the 
+18
+individual, or groups of individuals, is at risk of 
+19
+death, serious physical injury, or other serious 
+20
+health risk. 
+21
+(8) To effectuate a product recall pursuant to 
+22
+Federal or State law. 
+23
+00:49 Jul 22, 2022
+H8152
+31 
+•HR 8152 IH
+(9)(A) To conduct a public or peer-reviewed sci-
+1
+entific, historical, or statistical research project 
+2
+that— 
+3
+(i) is in the public interest; 
+4
+(ii) adheres to all relevant laws governing 
+5
+such research; and 
+6
+(iii) adheres to the regulations for human 
+7
+subject research established under part 46 of 
+8
+title 45, Code of Federal Regulations (or a suc-
+9
+cessor regulations). 
+10
+(B) The Commission should set forth within 18 
+11
+months of the enactment of this Act guidelines to 
+12
+help covered entities ensure the privacy of affected 
+13
+users and the security of covered data, particularly 
+14
+as data is being transferred to and stored by re-
+15
+searchers. 
+16
+(10) To deliver a communication at the direc-
+17
+tion of an individual between the communicating in-
+18
+dividual and one or more individuals or entities. 
+19
+(11) With respect to covered data previously 
+20
+collected in accordance with this Act, notwith-
+21
+standing this exception, to process such data as nec-
+22
+essary to provide first party marketing or adver-
+23
+tising of products or services provided by the covered 
+24
+entity. 
+25
+00:49 Jul 22, 2022
+H8152
+32 
+•HR 8152 IH
+(12) Otherwise complies with the requirements 
+1
+of this Act, including section 204(c), to provide a 
+2
+targeted advertisement. 
+3
+(c) GUIDANCE.—The Commission shall issue guid-
+4
+ance regarding what is reasonably necessary and propor-
+5
+tionate to comply with this section. Such guidance shall 
+6
+take into consideration— 
+7
+(1) the size of, and the nature, scope, and com-
+8
+plexity of the activities engaged in by the covered en-
+9
+tity, including whether the covered entity is a large 
+10
+data holder, nonprofit organization, covered entities 
+11
+meeting the requirements of section 209, service pro-
+12
+vider, third party, or third-party collecting entity; 
+13
+(2) the sensitivity of covered data collected, 
+14
+processed, or transferred by the covered entity; 
+15
+(3) the volume of covered data collected, proc-
+16
+essed, or transferred by the covered entity; and 
+17
+(4) the number of individuals and devices to 
+18
+which the covered data collected, processed, or trans-
+19
+ferred by the covered entity relates. 
+20
+(d) DECEPTIVE MARKETING
+OF
+A PRODUCT
+OR 
+21
+SERVICE.—A covered entity, service provider, or third 
+22
+party is prohibited from engaging in deceptive advertising 
+23
+or marketing with respect to a product or service provided 
+24
+to an individual. 
+25
+00:49 Jul 22, 2022
+H8152
+33 
+•HR 8152 IH
+SEC. 102. LOYALTY DUTIES. 
+1
+(a) 
+RESTRICTED
+DATA
+PRACTICES.—Notwith-
+2
+standing section 101 and unless an exception applies, with 
+3
+respect to covered data, a covered entity shall not— 
+4
+(1) collect, process, or transfer a social security 
+5
+number, except when necessary to facilitate exten-
+6
+sions of credit, authentication, the payment and col-
+7
+lection of taxes, the enforcement of a contract be-
+8
+tween parties, or the prevention, investigation, and 
+9
+prosecution of fraud or illegal activity; 
+10
+(2) collect or process sensitive covered data, ex-
+11
+cept where such collection or processing is strictly 
+12
+necessary to provide or maintain a specific product 
+13
+or service requested by the individual to whom the 
+14
+covered data pertains, or to effect a purpose enu-
+15
+merated in section 101(b)(1) through (10); 
+16
+(3) transfer an individual’s sensitive covered 
+17
+data to a third party, unless— 
+18
+(A) the transfer is made pursuant to the 
+19
+affirmative express consent of the individual; 
+20
+(B) the transfer is necessary to comply 
+21
+with a legal obligation imposed by Federal, 
+22
+State, or local law, or to establish, exercise, or 
+23
+defend legal claims; 
+24
+(C) the transfer is necessary to prevent an 
+25
+individual from imminent injury where the cov-
+26
+00:49 Jul 22, 2022
+H8152
+34 
+•HR 8152 IH
+ered entity believes in good faith that the indi-
+1
+vidual is at risk of death or serious physical in-
+2
+jury; 
+3
+(D) the transfer of biometric information 
+4
+is necessary to facilitate data security or au-
+5
+thentication; 
+6
+(E) the transfer of a password is necessary 
+7
+to use a designated password manager or is to 
+8
+a covered entity for the exclusive purpose of 
+9
+identifying passwords that are being re-used 
+10
+across sites or accounts; or 
+11
+(F) the transfer of genetic information is 
+12
+necessary to perform a medical diagnosis or 
+13
+medical treatment specifically requested by an 
+14
+individual, or to conduct medical research in ac-
+15
+cordance with conditions of section 101(b)(9); 
+16
+or 
+17
+(4) collect, process, or transfer an individual’s 
+18
+aggregated internet search or browsing history, ex-
+19
+cept with the affirmative express consent of the indi-
+20
+vidual or pursuant to one of the permissible pur-
+21
+poses enumerated in section 101(b)(1) through (10). 
+22
+SEC. 103. PRIVACY BY DESIGN. 
+23
+(a) POLICIES, PRACTICES, AND PROCEDURES.—A 
+24
+covered entity and a service provider shall establish, imple-
+25
+00:49 Jul 22, 2022
+H8152
+35 
+•HR 8152 IH
+ment, and maintain reasonable policies, practices, and pro-
+1
+cedures regarding the collection, processing, and transfer 
+2
+of covered data to— 
+3
+(1) consider Federal laws, rules, or regulations 
+4
+related to covered data the covered entity or service 
+5
+provider collects, processes, or transfers; 
+6
+(2) identify, assess, and mitigate privacy risks 
+7
+related to individuals under the age of 17, if applica-
+8
+ble; 
+9
+(3) mitigate privacy risks, including substantial 
+10
+privacy risks, related to the products and services of 
+11
+the covered entity or the service provider, including 
+12
+their design, development, and implementation; and 
+13
+(4) implement reasonable training and safe-
+14
+guards within the covered entity and service provider 
+15
+to promote compliance with all privacy laws applica-
+16
+ble to covered data the covered entity collects, proc-
+17
+esses, or transfers or covered data the service pro-
+18
+vider collects, processes, or transfers on behalf of the 
+19
+covered entity and mitigate privacy risks, including 
+20
+substantial privacy risks. 
+21
+(b) FACTORS TO CONSIDER.—The policies, practices, 
+22
+and procedures established by a covered entity and a serv-
+23
+ice provider under subsection (a), shall correspond with— 
+24
+00:49 Jul 22, 2022
+H8152
+36 
+•HR 8152 IH
+(1) the size of the covered entity or the service 
+1
+provider and the nature, scope, and complexity of 
+2
+the activities engaged in by the covered entity, in-
+3
+cluding whether the covered entity is a large data 
+4
+holder, nonprofit organization, covered entities meet-
+5
+ing the requirements of section 209, third party, or 
+6
+third-party collecting entity; 
+7
+(2) the sensitivity of the covered data collected, 
+8
+processed, or transferred by the covered entity or 
+9
+service provider; 
+10
+(3) the volume of covered data collected, proc-
+11
+essed, or transferred by the covered entity or service 
+12
+provider; 
+13
+(4) the number of individuals and devices to 
+14
+which the covered data collected, processed, or trans-
+15
+ferred by the covered entity or service provider re-
+16
+lates; and 
+17
+(5) the cost of implementing such policies, prac-
+18
+tices, and procedures in relation to the risks and na-
+19
+ture of the covered data. 
+20
+(c) COMMISSION GUIDANCE.—Not later than 1 year 
+21
+after the date of enactment of this Act, the Commission 
+22
+shall issue guidance as to what constitutes reasonable poli-
+23
+cies, practices, and procedures as required by this section. 
+24
+The Commission shall consider unique circumstances ap-
+25
+00:49 Jul 22, 2022
+H8152
+37 
+•HR 8152 IH
+plicable to nonprofit organizations and covered entities 
+1
+meeting the requirements of section 209. 
+2
+SEC. 104. LOYALTY TO INDIVIDUALS WITH RESPECT TO 
+3
+PRICING. 
+4
+(a) CONDITIONAL SERVICE
+OR PRICING PROHIB-
+5
+ITED.—A covered entity shall not deny or condition or ef-
+6
+fectively condition the provision of a service or product to 
+7
+an individual based on the individual’s agreement to waive 
+8
+(or refusal to waive) any requirements under this Act or 
+9
+any regulations promulgated under this Act or terminate 
+10
+a service or otherwise refuse to provide a service or prod-
+11
+uct to an individual as a consequence of the individual’s 
+12
+refusal to provide such a waiver. 
+13
+(b) RULES
+OF CONSTRUCTION.—Nothing in sub-
+14
+section (a) shall be construed to— 
+15
+(1) prohibit the relation of the price of a service 
+16
+or the level of service provided to an individual to 
+17
+the provision, by the individual, of financial informa-
+18
+tion that is necessarily collected and processed only 
+19
+for the purpose of initiating, rendering, billing for, 
+20
+or collecting payment for a service or product re-
+21
+quested by the individual; 
+22
+(2) prohibit a covered entity from offering a 
+23
+loyalty program that provides discounted or free 
+24
+products or services, or other consideration, in ex-
+25
+00:49 Jul 22, 2022
+H8152
+38 
+•HR 8152 IH
+change for an individual’s continued business with 
+1
+the covered entity, provided that such program oth-
+2
+erwise complies with the requirements of this Act 
+3
+and any regulations promulgated under this Act; 
+4
+(3) require a covered entity to provide a loyalty 
+5
+program that would require the covered entity to col-
+6
+lect, process, or transfer covered data that it other-
+7
+wise would not; 
+8
+(4) prohibit a covered entity from offering a fi-
+9
+nancial incentive or other consideration to an indi-
+10
+vidual for participation in market research; or 
+11
+(5) prohibit a covered entity from offering dif-
+12
+ferent types of pricing or functionalities with respect 
+13
+to a product or service based on an individual’s exer-
+14
+cise of a right in section 203(a)(3). 
+15
+TITLE II—CONSUMER DATA 
+16
+RIGHTS 
+17
+SEC. 201. CONSUMER AWARENESS. 
+18
+(a) IN GENERAL.—Not later than 90 days after the 
+19
+date of enactment of this Act, the Commission shall pub-
+20
+lish, on the public website of the Commission, a web page 
+21
+that describes each provision, right, obligation, and re-
+22
+quirement of this Act, listed separately for individuals and 
+23
+for covered entities and service providers, and the rem-
+24
+edies, exemptions, and protections associated with this Act 
+25
+00:49 Jul 22, 2022
+H8152
+39 
+•HR 8152 IH
+in plain and concise language and in an easy-to-under-
+1
+stand manner. 
+2
+(b) UPDATES.—The Commission shall update the in-
+3
+formation published under subsection (a) on a quarterly 
+4
+basis as necessitated by any change in law, regulation, 
+5
+guidance, or judicial decisions. 
+6
+(c) ACCESSIBILITY.—The Commission shall publish 
+7
+materials disclosed pursuant to subsection (a) in the ten 
+8
+languages with the most users in the United States, ac-
+9
+cording to the most recent U.S. Census. The Commission 
+10
+shall ensure the website is readily accessible to and usable 
+11
+by individuals with disabilities. 
+12
+SEC. 202. TRANSPARENCY. 
+13
+(a) IN GENERAL.—Each covered entity and service 
+14
+provider shall make publicly available, in a clear, con-
+15
+spicuous, not misleading, and readily accessible manner, 
+16
+a privacy policy that provides a detailed and accurate rep-
+17
+resentation of the entity’s data collection, processing, and 
+18
+transfer activities. 
+19
+(b) CONTENT OF PRIVACY POLICY.—The privacy pol-
+20
+icy required under subsection (a) shall include, at a min-
+21
+imum, the following: 
+22
+(1) The identity and the contact information 
+23
+of— 
+24
+00:49 Jul 22, 2022
+H8152
+40 
+•HR 8152 IH
+(A) the covered entity or service provider 
+1
+(including the covered entity’s or service pro-
+2
+vider’s points of contact, generic electronic mail 
+3
+addresses, and phone numbers of the covered 
+4
+entity, as applicable for privacy and data secu-
+5
+rity inquiries); and 
+6
+(B) any other entity within the same cor-
+7
+porate structure as, and under common brand-
+8
+ing with, the covered entity or service provider 
+9
+to which covered data is transferred by the cov-
+10
+ered entity. 
+11
+(2) The categories of covered data the covered 
+12
+entity or service provider collects or processes. 
+13
+(3) The processing purposes for each category 
+14
+of covered data the covered entity or service provider 
+15
+collects or processes. 
+16
+(4) Whether the covered entity or service pro-
+17
+vider transfers covered data and, if so, each category 
+18
+of service provider and third party to which the cov-
+19
+ered entity or service provider transfers covered 
+20
+data, the name of each third-party collecting entity 
+21
+to which the covered entity or service provider trans-
+22
+fers covered data, and the purposes for which such 
+23
+data is transferred to such categories of service pro-
+24
+viders and third parties or third-party collecting en-
+25
+00:49 Jul 22, 2022
+H8152
+41 
+•HR 8152 IH
+tities, except for transfers to governmental entities 
+1
+pursuant to a court order or law that prohibits the 
+2
+covered entity from disclosing such transfer. 
+3
+(5) The length of time the covered entity or 
+4
+service provider intends to retain each category of 
+5
+covered data, including sensitive covered data, or, if 
+6
+it is not possible to identify that time frame, the cri-
+7
+teria used to determine the length of time the cov-
+8
+ered entity intends to retain categories of covered 
+9
+data. 
+10
+(6) A prominent description of how an indi-
+11
+vidual can exercise the rights described in this Act. 
+12
+(7) A general description of the covered entity’s 
+13
+or service provider’s data security practices. 
+14
+(8) The effective date of the privacy policy. 
+15
+(9) Whether or not any covered data collected 
+16
+by the covered entity or service provider is trans-
+17
+ferred to, processed in, stored in or otherwise acces-
+18
+sible to the People’s Republic of China, Russia, Iran, 
+19
+or North Korea. 
+20
+(c) LANGUAGES.—The privacy policy required under 
+21
+subsection (a) shall be made available to the public in each 
+22
+language in which the covered entity or service provider— 
+23
+(1) provides a product or service that is subject 
+24
+to the privacy policy; or 
+25
+00:49 Jul 22, 2022
+H8152
+42 
+•HR 8152 IH
+(2) carries out activities related to such product 
+1
+or service. 
+2
+(d) ACCESSIBILITY.—The covered entity or service 
+3
+provider shall also provide the disclosures under this sec-
+4
+tion in a manner that is readily accessible to and usable 
+5
+by individuals with disabilities. 
+6
+(e) MATERIAL CHANGES.— 
+7
+(1) AFFIRMATIVE
+EXPRESS
+CONSENT.—If a 
+8
+covered entity makes a material change to its pri-
+9
+vacy policy or practices, the covered entity shall no-
+10
+tify each individual affected by such material change 
+11
+before implementing the material change with re-
+12
+spect to any previously collected covered data and, 
+13
+except as provided in section 101(b), provide a rea-
+14
+sonable opportunity for each individual to withdraw 
+15
+consent to any further materially different collection, 
+16
+processing, or transferring of covered data under the 
+17
+changed policy. 
+18
+(2) NOTIFICATION.—The covered entity shall 
+19
+take all reasonable measures to provide direct notifi-
+20
+cation regarding material changes to the privacy pol-
+21
+icy to each affected individual, in each language that 
+22
+the privacy policy is made available, and taking into 
+23
+account available technology and the nature of the 
+24
+relationship. 
+25
+00:49 Jul 22, 2022
+H8152
+43 
+•HR 8152 IH
+(3) CLARIFICATION.—Nothing in this section 
+1
+shall be construed to affect the requirements for cov-
+2
+ered entities under section 102 or 204. 
+3
+(4) LOG OF MATERIAL CHANGES.—Each large 
+4
+data holder shall retain copies of previous versions 
+5
+of its privacy policy for at least 10 years and publish 
+6
+them on its website. It shall make publicly available, 
+7
+in a clear, conspicuous, and readily accessible man-
+8
+ner, a log describing the data and nature of each 
+9
+material change over the past 10 years. The descrip-
+10
+tions shall be sufficient for a reasonable individual 
+11
+to understand the material effect of each material 
+12
+change. 
+13
+(f) SHORT-FORM NOTICE TO CONSUMERS BY LARGE 
+14
+DATA HOLDERS.— 
+15
+(1) IN GENERAL.—In addition to the privacy 
+16
+policy required under subsection (a), a large data 
+17
+holder must provide a short-form notice of its cov-
+18
+ered data practices in a manner that is— 
+19
+(A) concise, clear, and conspicuous; 
+20
+(B) readily accessible, based on the way an 
+21
+individual interacts with the large data holder 
+22
+and its products or services and what is reason-
+23
+ably anticipated within the context of the rela-
+24
+tionship; 
+25
+00:49 Jul 22, 2022
+H8152
+44 
+•HR 8152 IH
+(C) inclusive of an overview of individual 
+1
+rights and disclosures to reasonably draw atten-
+2
+tion to data practices that may reasonably be 
+3
+unexpected or that involve sensitive covered 
+4
+data; and 
+5
+(D) no more than 500 words in length. 
+6
+(2) RULEMAKING.—The Commission shall issue 
+7
+a rule pursuant to section 553 of title 5, United 
+8
+States Code, establishing the minimum data disclo-
+9
+sures necessary for the short-form notice which shall 
+10
+not exceed the content requirements in subsection 
+11
+(b) and shall include templates and/or models of 
+12
+short-form notices. 
+13
+SEC. 203. INDIVIDUAL DATA OWNERSHIP AND CONTROL. 
+14
+(a) ACCESS TO, AND CORRECTION, DELETION, AND 
+15
+OF, COVERED DATA.—Subject to sub-
+16
+sections (b) and (c), a covered entity shall provide an indi-
+17
+vidual, after receiving a verified request from the indi-
+18
+vidual, with the right to— 
+19
+(1) access— 
+20
+(A) the covered data, except covered data 
+21
+in back-up or archival systems, of the individual 
+22
+in a human-readable format that a reasonable 
+23
+individual can understand and download from 
+24
+the internet, that is collected, processed, or 
+25
+00:49 Jul 22, 2022
+H8152
+45 
+•HR 8152 IH
+transferred by the covered entity or any service 
+1
+provider of the covered entity within the 24 
+2
+months preceding the request; 
+3
+(B) the name of any third party and the 
+4
+categories of any service providers to whom the 
+5
+covered entity has transferred for consideration 
+6
+the covered data of the individual, as well as 
+7
+the categories of sources from which the cov-
+8
+ered data was collected; and 
+9
+(C) a description of the purpose for which 
+10
+the covered entity transferred the covered data 
+11
+of the individual to a third party or service pro-
+12
+vider; 
+13
+(2) correct any verifiably material inaccuracy or 
+14
+materially incomplete information with respect to the 
+15
+covered data of the individual that is processed by 
+16
+the covered entity and instruct the covered entity to 
+17
+notify any third party, or service provider to which 
+18
+the covered entity transferred such covered data of 
+19
+the corrected information; 
+20
+(3) delete covered data of the individual that is 
+21
+processed by the covered entity and instruct the cov-
+22
+ered entity to notify any third party, or service pro-
+23
+vider to which the covered entity transferred such 
+24
+covered data of the individual’s deletion request; and 
+25
+00:49 Jul 22, 2022
+H8152
+46 
+•HR 8152 IH
+(4) to the extent technically feasible, export cov-
+1
+ered data to the individual or directly to another en-
+2
+tity, except for derived data, of the individual that 
+3
+is processed by the covered entity without licensing 
+4
+restrictions that limit such transfers, in— 
+5
+(A) a human-readable format that a rea-
+6
+sonable 
+individual 
+can 
+understand 
+and 
+7
+download from the internet; and 
+8
+(B) a portable, structured, interoperable, 
+9
+and machine-readable format. 
+10
+(b) INDIVIDUAL AUTONOMY.—A covered entity shall 
+11
+not condition, effectively condition, attempt to condition, 
+12
+or attempt to effectively condition the exercise of any indi-
+13
+vidual rights under this section through— 
+14
+(1) through the use of any false, fictitious, 
+15
+fraudulent, or materially misleading statement or 
+16
+representation; or 
+17
+(2) the design, modification, or manipulation of 
+18
+any user interface with the purpose or substantial 
+19
+effect of obscuring, subverting, or impairing a rea-
+20
+sonable individual’s autonomy, decision making, or 
+21
+choice to exercise any such rights. 
+22
+(c) TIMING.— 
+23
+(1) Subject to subsections (d) and (e)(1) each 
+24
+request shall be completed by any— 
+25
+00:49 Jul 22, 2022
+H8152
+47 
+•HR 8152 IH
+(A) large data holder within 45 days of 
+1
+verification of such request from an individual; 
+2
+(B) covered entity that is not considered a 
+3
+large data holder or a covered entity described 
+4
+in section 209 within 60 days of verification of 
+5
+such request from an individual; or 
+6
+(C) covered entity as described in section 
+7
+209 within 90 days of verification of such re-
+8
+quest from an individual. 
+9
+(2) A response period set forth in this sub-
+10
+section may be extended once by 45 additional days 
+11
+when reasonably necessary, considering the com-
+12
+plexity and number of the individual’s requests, so 
+13
+long as the covered entity informs the individual of 
+14
+any such extension within the initial 45-day response 
+15
+period, together with the reason for the extension. 
+16
+(d) FREQUENCY AND COST OF ACCESS.—A covered 
+17
+entity— 
+18
+(1) shall provide an individual with the oppor-
+19
+tunity to exercise each of the rights described in 
+20
+subsection (a); and 
+21
+(2) with respect to— 
+22
+(A) the first 2 times that an individual ex-
+23
+ercises any right described in subsection (a) in 
+24
+00:49 Jul 22, 2022
+H8152
+48 
+•HR 8152 IH
+any 12-month period, shall allow the individual 
+1
+to exercise such right free of charge; and 
+2
+(B) any time beyond the initial 2 times de-
+3
+scribed in subparagraph (A), may allow the in-
+4
+dividual to exercise such right for a reasonable 
+5
+fee for each request. 
+6
+(e) VERIFICATION AND EXCEPTIONS.— 
+7
+(1) REQUIRED EXCEPTIONS.—A covered entity 
+8
+shall not permit an individual to exercise a right de-
+9
+scribed in subsection (a), in whole or in part, if the 
+10
+covered entity— 
+11
+(A) cannot reasonably verify that the indi-
+12
+vidual making the request to exercise the right 
+13
+is the individual whose covered data is the sub-
+14
+ject of the request or an individual authorized 
+15
+to make such a request on the individual’s be-
+16
+half; 
+17
+(B) reasonably believes that the request is 
+18
+made to interfere with a contract between the 
+19
+covered entity and another individual; 
+20
+(C) determines that the exercise of the 
+21
+right would require access to or correction of 
+22
+another individual’s sensitive covered data; or 
+23
+(D) reasonably believes that the exercise of 
+24
+the right would require the covered entity to en-
+25
+00:49 Jul 22, 2022
+H8152
+49 
+•HR 8152 IH
+gage in an unfair or deceptive practice under 
+1
+section 5 of the Federal Trade Commission Act 
+2
+(15 U.S.C. 45). 
+3
+(2) ADDITIONAL INFORMATION.—If a covered 
+4
+entity cannot reasonably verify that a request to ex-
+5
+ercise a right described in subsection (a) is made by 
+6
+the individual whose covered data is the subject of 
+7
+the request (or an individual authorized to make 
+8
+such a request on the individual’s behalf), the cov-
+9
+ered entity— 
+10
+(A) may request that the individual mak-
+11
+ing the request to exercise the right provide any 
+12
+additional information necessary for the sole 
+13
+purpose of verifying the identity of the indi-
+14
+vidual; and 
+15
+(B) shall not process or transfer such addi-
+16
+tional information for any other purpose. 
+17
+(3) PERMISSIVE EXCEPTIONS.— 
+18
+(A) IN GENERAL.—A covered entity may 
+19
+decline to comply with a request to exercise a 
+20
+right described in subsection (a), in whole or in 
+21
+part, that would— 
+22
+(i) require the covered entity to retain 
+23
+any covered data collected for a single, 
+24
+one-time transaction, if such covered data 
+25
+00:49 Jul 22, 2022
+H8152
+50 
+•HR 8152 IH
+is not processed or transferred by the cov-
+1
+ered entity for any purpose other than 
+2
+completing such transaction; 
+3
+(ii) be impossible or demonstrably im-
+4
+practicable to comply with, and the covered 
+5
+entity shall provide a description to the re-
+6
+questor detailing the inability to comply 
+7
+with the request; 
+8
+(iii) require the covered entity to at-
+9
+tempt to re-identify de-identified data; 
+10
+(iv) result in the release of trade se-
+11
+crets, or other privileged, or confidential 
+12
+business information; 
+13
+(v) require the covered entity to cor-
+14
+rect any covered data that cannot be rea-
+15
+sonably verified as being inaccurate or in-
+16
+complete; 
+17
+(vi) interfere with law enforcement, 
+18
+judicial proceedings, investigations, or rea-
+19
+sonable efforts to guard against, detect, or 
+20
+investigate malicious or unlawful activity, 
+21
+or enforce valid contracts; 
+22
+(vii) violate Federal or State law or 
+23
+the rights and freedoms of another indi-
+24
+00:49 Jul 22, 2022
+H8152
+51 
+•HR 8152 IH
+vidual, including under the Constitution of 
+1
+the United States; 
+2
+(viii) prevent a covered entity from 
+3
+being able to maintain a confidential 
+4
+record of deletion requests, maintained 
+5
+solely for the purpose of preventing cov-
+6
+ered data of an individual who has sub-
+7
+mitted a deletion request and requests that 
+8
+the covered entity no longer collect, proc-
+9
+ess, or transfer such data; 
+10
+(ix) fall within an exception enumer-
+11
+ated in the regulations promulgated by the 
+12
+Commission pursuant to paragraph (D); or 
+13
+(x) with respect to requests for dele-
+14
+tion— 
+15
+(I) unreasonably interfere with 
+16
+the provision of products or services 
+17
+by the covered entity to another per-
+18
+son it currently serves; 
+19
+(II) delete covered data that re-
+20
+lates to a public figure and for which 
+21
+the requesting individual has no rea-
+22
+sonable expectation of privacy; 
+23
+(III) delete covered data reason-
+24
+ably necessary to perform a contract 
+25
+00:49 Jul 22, 2022
+H8152
+52 
+•HR 8152 IH
+between the covered entity and the in-
+1
+dividual; 
+2
+(IV) delete covered data that the 
+3
+covered entity needs to retain in order 
+4
+to comply with professional ethical ob-
+5
+ligations; or 
+6
+(V) delete covered data that the 
+7
+covered entity reasonably believes may 
+8
+be evidence of unlawful activity or an 
+9
+abuse of the covered entity’s products 
+10
+or services. 
+11
+(B) PARTIAL
+COMPLIANCE.—In a cir-
+12
+cumstance that would allow a denial pursuant 
+13
+to paragraph (A), a covered entity shall par-
+14
+tially comply with the remainder of the request 
+15
+if it is possible and not unduly burdensome to 
+16
+do so. 
+17
+(C) NUMBER
+OF
+REQUESTS.—For pur-
+18
+poses of this paragraph, the receipt of a large 
+19
+number of verified requests, on its own, shall 
+20
+not be considered to render compliance with a 
+21
+request demonstrably impossible. 
+22
+(D) FURTHER
+EXCEPTIONS.—The Com-
+23
+mission may, by regulation as described in sub-
+24
+section (f), establish additional permissive ex-
+25
+00:49 Jul 22, 2022
+H8152
+53 
+•HR 8152 IH
+ceptions necessary to protect the rights of indi-
+1
+viduals, alleviate undue burdens on covered en-
+2
+tities, prevent unjust or unreasonable outcomes 
+3
+from the exercise of access, correction, deletion, 
+4
+or portability rights, or as otherwise necessary 
+5
+to fulfill the purposes of this section. In cre-
+6
+ating such exceptions, the Commission should 
+7
+consider any relevant changes in technology, 
+8
+means for protecting privacy and other rights, 
+9
+and beneficial uses of covered data by covered 
+10
+entities. 
+11
+(f) REGULATIONS.—Within two years of the date of 
+12
+enactment of this Act, the Commission may promulgate 
+13
+regulations, pursuant to section 553 of title 5, United 
+14
+States Code (5 U.S.C. 553), as necessary to establish 
+15
+processes by which covered entities are to comply with the 
+16
+provisions of this section. Such regulations shall take into 
+17
+consideration— 
+18
+(1) the size of, and the nature, scope, and com-
+19
+plexity of the activities engaged in by the covered en-
+20
+tity, including whether the covered entity is a large 
+21
+data holder, nonprofit organization, covered entities 
+22
+meeting the requirements of section 209, service pro-
+23
+vider, third party, or third-party collecting entity; 
+24
+00:49 Jul 22, 2022
+H8152
+54 
+•HR 8152 IH
+(2) the sensitivity of covered data collected, 
+1
+processed, or transferred by the covered entity; 
+2
+(3) the volume of covered data collected, proc-
+3
+essed, or transferred by the covered entity; and 
+4
+(4) the number of individuals and devices to 
+5
+which the covered data collected, processed, or trans-
+6
+ferred by the covered entity relates. 
+7
+(g) ACCESSIBILITY.—A covered entity shall facilitate 
+8
+the ability for individuals to make requests under this sec-
+9
+tion in any of the ten languages with the most users in 
+10
+the United States, according to the most recent U.S. Cen-
+11
+sus, if the covered entity provides service in such language. 
+12
+The mechanisms by which a covered entity enables individ-
+13
+uals to make requests under this section shall be readily 
+14
+accessible and usable by with disabilities. 
+15
+SEC. 204. RIGHT TO CONSENT AND OBJECT. 
+16
+(a) WITHDRAWAL OF CONSENT.—A covered entity 
+17
+shall provide an individual with a clear and conspicuous, 
+18
+easy-to-execute means to withdraw any affirmative express 
+19
+consent previously provided by the individual that is as 
+20
+easy to execute by a reasonable individual as the means 
+21
+to provide consent, with respect to the processing or trans-
+22
+fer of the covered data of the individual. 
+23
+(b) RIGHT TO OPT OUT OF COVERED DATA TRANS-
+24
+FERS.— 
+25
+00:49 Jul 22, 2022
+H8152
+55 
+•HR 8152 IH
+(1) IN GENERAL.—A covered entity— 
+1
+(A) shall not transfer the covered data of 
+2
+an individual to a third party if the individual 
+3
+objects to the transfer; and 
+4
+(B) shall allow an individual to object to 
+5
+such transfer through an opt-out mechanism, as 
+6
+described in section 210, if applicable. 
+7
+(2) EXCEPTION.—An individual may not opt 
+8
+out of the collection, processing, and transfer of cov-
+9
+ered data made pursuant to the exceptions in sec-
+10
+tions 101(b)(1) through (11) of this Act. 
+11
+(c) RIGHT TO OPT OUT
+OF TARGETED ADVER-
+12
+TISING.—A covered entity that engages in targeted adver-
+13
+tising shall— 
+14
+(1) prior to engaging in such targeted adver-
+15
+tising and at all times thereafter, provide an indi-
+16
+vidual with a clear and conspicuous means to opt 
+17
+out of targeted advertising; 
+18
+(2) abide by such opt-out designations by an in-
+19
+dividual; and 
+20
+(3) allow an individual to prohibit such targeted 
+21
+advertising through an opt-out mechanism, as de-
+22
+scribed in section 210, if applicable. 
+23
+(d) INDIVIDUAL AUTONOMY.—A covered entity shall 
+24
+not condition, effectively condition, attempt to condition, 
+25
+00:49 Jul 22, 2022
+H8152
+56 
+•HR 8152 IH
+or attempt to effectively condition the exercise of any indi-
+1
+vidual rights under this section through— 
+2
+(1) through the use of any false, fictitious, 
+3
+fraudulent, or materially misleading statement or 
+4
+representation; or 
+5
+(2) the design, modification, or manipulation of 
+6
+any user interface with the purpose or substantial 
+7
+effect of obscuring, subverting, or impairing a rea-
+8
+sonable individual’s autonomy, decision making, or 
+9
+choice to exercise any such rights. 
+10
+SEC. 205. DATA PROTECTIONS FOR CHILDREN AND MI-
+11
+NORS. 
+12
+(a) PROHIBITION ON TARGETED ADVERTISING TO 
+13
+CHILDREN AND MINORS.—A covered entity shall not en-
+14
+gage in targeted advertising to any individual under the 
+15
+age of 17 if the covered entity knows that the individual 
+16
+is under the age of 17. 
+17
+(b) DATA TRANSFER REQUIREMENTS RELATED TO 
+18
+MINORS.—A covered entity shall not transfer the covered 
+19
+data of an individual to a third party without affirmative 
+20
+express consent from the individual or the individual’s par-
+21
+ent or guardian if the covered entity knows that the indi-
+22
+vidual under the age of 17. 
+23
+(c) KNOWLEDGE.—The knowledge requirement in 
+24
+subsections (a) and (b), shall not be construed to require 
+25
+00:49 Jul 22, 2022
+H8152
+57 
+•HR 8152 IH
+the affirmative collection or processing of any data with 
+1
+respect to the age of an individual or a proxy thereof, or 
+2
+to require that a covered entity implement an age gating 
+3
+regime. Rather, the determination of whether an indi-
+4
+vidual is under 17 shall be based on the covered data col-
+5
+lected directly from an individual or a proxy thereof that 
+6
+the covered entity would otherwise collect in the normal 
+7
+course of business. 
+8
+(d) YOUTH PRIVACY AND MARKETING DIVISION.— 
+9
+(1) ESTABLISHMENT.—There is established 
+10
+within the Commission a division to be known as the 
+11
+‘‘Youth Privacy and Marketing Division’’ (in this 
+12
+section referred to as the ‘‘Division’’). 
+13
+(2) DIRECTOR.—The Division shall be headed 
+14
+by a Director, who shall be appointed by the Chair 
+15
+of the Commission. 
+16
+(3) DUTIES.—The Division shall be responsible 
+17
+for assisting the Commission in addressing, as it re-
+18
+lates to this Act— 
+19
+(A) the privacy of children and minors; 
+20
+and 
+21
+(B) marketing directed at children and mi-
+22
+nors. 
+23
+(4) STAFF.—The Director of the Division shall 
+24
+hire adequate staff to carry out the duties described 
+25
+00:49 Jul 22, 2022
+H8152
+58 
+•HR 8152 IH
+in paragraph (3), including by hiring individuals who 
+1
+are experts in data protection, digital advertising, 
+2
+data analytics, and youth development. 
+3
+(5) REPORTS.—Not later than 1 year after the 
+4
+date of enactment of this Act, and annually there-
+5
+after, the Commission shall submit to the Committee 
+6
+on Commerce, Science, and Transportation of the 
+7
+Senate and the Committee on Energy and Com-
+8
+merce of the House of Representatives a report that 
+9
+includes— 
+10
+(A) a description of the work of the Divi-
+11
+sion regarding emerging concerns relating to 
+12
+youth privacy and marketing practices; and 
+13
+(B) an assessment of how effectively the 
+14
+Division has, during the period for which the 
+15
+report is submitted, assisting the Commission 
+16
+to address youth privacy and marketing prac-
+17
+tices. 
+18
+(6) PUBLICATION.—Not later than 10 days 
+19
+after the date on which a report is submitted under 
+20
+paragraph (5), the Commission shall publish the re-
+21
+port on its website. 
+22
+(e) REPORT BY THE INSPECTOR GENERAL.— 
+23
+(1) IN GENERAL.—Not later than 2 years after 
+24
+the date of enactment of this Act, and biennially 
+25
+00:49 Jul 22, 2022
+H8152
+59 
+•HR 8152 IH
+thereafter, the Inspector General of the Commission 
+1
+shall submit to the Commission and to the Com-
+2
+mittee on Commerce, Science, and Transportation of 
+3
+the Senate and the Committee on Energy and Com-
+4
+merce of the House of Representatives a report re-
+5
+garding the safe harbor provisions in section 1307 of 
+6
+the Children’s Online Privacy Protection Act of 
+7
+1998 (15 U.S.C. 6503), which shall include— 
+8
+(A) an analysis of whether the safe harbor 
+9
+provisions are— 
+10
+(i) operating fairly and effectively; 
+11
+and 
+12
+(ii) effectively protecting the interests 
+13
+of children and minors; and 
+14
+(B) any proposal or recommendation for 
+15
+policy changes that would improve the effective-
+16
+ness of the safe harbor provisions. 
+17
+(2) PUBLICATION.—Not later than 10 days 
+18
+after the date on which a report is submitted under 
+19
+paragraph (1), the Commission shall publish the re-
+20
+port on the website of the Commission. 
+21
+SEC. 206. THIRD-PARTY COLLECTING ENTITIES. 
+22
+(a) NOTICE.—Each third-party collecting entity shall 
+23
+place a clear and conspicuous notice on the website or mo-
+24
+bile application of the third-party collecting entity (if the 
+25
+00:49 Jul 22, 2022
+H8152
+60 
+•HR 8152 IH
+third-party collecting entity maintains such a website or 
+1
+mobile application) that— 
+2
+(1) notifies individuals that the entity is a 
+3
+third-party collecting entity using specific language 
+4
+that the Commission shall develop through rule-
+5
+making under section 553 of title 5, United States 
+6
+Code; and 
+7
+(2) includes a link to the website established 
+8
+under subsection (b)(3). 
+9
+(b) THIRD-PARTY COLLECTING ENTITY REGISTRA-
+10
+TION.— 
+11
+(1) IN GENERAL.—Not later than January 31 
+12
+of each calendar year that follows a calendar year 
+13
+during which a covered entity acted as a third-party 
+14
+collecting entity and processed covered data per-
+15
+taining to more than 5,000 individuals or devices 
+16
+that identify or are linked or reasonably linkable to 
+17
+an individual, such covered entity shall register with 
+18
+the Commission in accordance with this subsection. 
+19
+(2) REGISTRATION
+REQUIREMENTS.—In reg-
+20
+istering with the Commission as required under 
+21
+paragraph (1), a third-party collecting entity shall 
+22
+do the following: 
+23
+(A) Pay to the Commission a registration 
+24
+fee of $100. 
+25
+00:49 Jul 22, 2022
+H8152
+61 
+•HR 8152 IH
+(B) Provide the Commission with the fol-
+1
+lowing information: 
+2
+(i) The legal name and primary phys-
+3
+ical, email, and internet addresses of the 
+4
+third-party collecting entity. 
+5
+(ii) A description of the categories of 
+6
+data the third-party collecting entity proc-
+7
+esses and transfers. 
+8
+(iii) The contact information of the 
+9
+third-party collecting entity, including a 
+10
+contact person, telephone number, an e- 
+11
+mail address, a website, and a physical 
+12
+mailing address. 
+13
+(iv) Link to a website through which 
+14
+an individual may easily exercise the rights 
+15
+provided under this subsection. 
+16
+(3) THIRD-PARTY
+COLLECTING
+ENTITY
+REG-
+17
+ISTRY.—The Commission shall establish and main-
+18
+tain on a website a searchable, publicly available, 
+19
+central registry of third-party collecting entities that 
+20
+are registered with the Commission under this sub-
+21
+section that includes the following: 
+22
+(A) A listing of all registered third-party 
+23
+collecting entities and a search feature that al-
+24
+00:49 Jul 22, 2022
+H8152
+62 
+•HR 8152 IH
+lows members of the public to identify indi-
+1
+vidual third-party collecting entities. 
+2
+(B) For each registered third-party col-
+3
+lecting entity, the information described in 
+4
+paragraph (2). 
+5
+(C) A ‘‘Do Not Collect’’ registry link and 
+6
+mechanism by which an individual may, after 
+7
+the Commission has verified the identity of the 
+8
+individual or individual’s parent or guardian, 
+9
+which may include tokenization, easily submit a 
+10
+request to all registered third-party collecting 
+11
+entities that are not consumer reporting agen-
+12
+cies, and to the extent they are not acting as 
+13
+consumer reporting agencies, as defined in sec-
+14
+tion 603(f) of the Fair Credit Reporting Act 
+15
+(15 U.S.C. 1681a(f)) to— 
+16
+(i) delete all covered data related to 
+17
+such individual that the third-party col-
+18
+lecting entity did not collect from the indi-
+19
+vidual directly or when acting as a service 
+20
+provider; and 
+21
+(ii) ensure that any third-party col-
+22
+lecting entity no longer collects covered 
+23
+data related to such individual without the 
+24
+affirmative express consent of such indi-
+25
+00:49 Jul 22, 2022
+H8152
+63 
+•HR 8152 IH
+vidual, except insofar as such covered enti-
+1
+ty is acting as a service provider. Each 
+2
+third-party collecting entity that receives 
+3
+such a request from an individual shall de-
+4
+lete all the covered data of the individual 
+5
+not later than 30 days after the request is 
+6
+received by the third-party collecting enti-
+7
+ty. 
+8
+(c) PENALTIES.—A third-party collecting entity that 
+9
+fails to register or provide the notice as required under 
+10
+this section shall be liable for— 
+11
+(1) a civil penalty of $50 for each day it fails 
+12
+to register or provide notice as required under this 
+13
+subsection, not to exceed a total of $10,000 for any 
+14
+year; and 
+15
+(2) an amount equal to the registration fees 
+16
+due under paragraph (2) of subsection (b) for each 
+17
+year that it failed to register as required under para-
+18
+graph (1) of such subsection. 
+19
+SEC. 207. CIVIL RIGHTS AND ALGORITHMS. 
+20
+(a) CIVIL RIGHTS PROTECTIONS.— 
+21
+(1) IN GENERAL.—A covered entity or a service 
+22
+provider may not collect, process, or transfer covered 
+23
+data in a manner that discriminates in or otherwise 
+24
+makes unavailable the equal enjoyment of goods or 
+25
+00:49 Jul 22, 2022
+H8152
+64 
+•HR 8152 IH
+services on the basis of race, color, religion, national 
+1
+origin, sex, or disability. 
+2
+(2) EXCEPTIONS.—This subsection shall not 
+3
+apply to— 
+4
+(A) the collection, processing, or transfer 
+5
+of covered data for the purpose of— 
+6
+(i) a covered entity’s or a service pro-
+7
+vider’s self-testing to prevent or mitigate 
+8
+unlawful discrimination; or 
+9
+(ii) diversifying an applicant, partici-
+10
+pant, or customer pool; or 
+11
+(B) any private club or group not open to 
+12
+the public, as described in section 201(e) of the 
+13
+Civil Rights Act of 1964 (42 U.S.C. 2000a(e)). 
+14
+(b) FTC ENFORCEMENT ASSISTANCE.— 
+15
+(1) IN GENERAL.—Whenever the Commission 
+16
+obtains information that a covered entity or service 
+17
+provider may have collected, processed, or trans-
+18
+ferred covered data in violation of subsection (a), the 
+19
+Commission shall transmit such information as al-
+20
+lowable under Federal law to any Executive agency 
+21
+with authority to initiate enforcement actions or pro-
+22
+ceedings relating to such violation. 
+23
+(2) ANNUAL REPORT.—Not later than 3 years 
+24
+after the date of enactment of this Act, and annually 
+25
+00:49 Jul 22, 2022
+H8152
+65 
+•HR 8152 IH
+thereafter, the Commission shall submit to Congress 
+1
+a report that includes a summary of— 
+2
+(A) the types of information the Commis-
+3
+sion transmitted to Federal agencies under 
+4
+paragraph (1) during the previous 1-year pe-
+5
+riod; and 
+6
+(B) how such information relates to Fed-
+7
+eral civil rights laws. 
+8
+(3) TECHNICAL ASSISTANCE.—In transmitting 
+9
+information under paragraph (1), the Commission 
+10
+may consult and coordinate with, and provide tech-
+11
+nical and investigative assistance, as appropriate, to 
+12
+such Executive agency. 
+13
+(4) COOPERATION
+WITH
+OTHER
+AGENCIES.— 
+14
+The Commission may implement this subsection by 
+15
+executing agreements or memoranda of under-
+16
+standing with the appropriate Federal agencies. 
+17
+(c) ALGORITHM IMPACT AND EVALUATION.— 
+18
+(1) ALGORITHM IMPACT ASSESSMENT.— 
+19
+(A) 
+IMPACT
+ASSESSMENT.—Notwith-
+20
+standing any other provision of law, not later 
+21
+than 2 years after the date of enactment of this 
+22
+Act, and annually thereafter, a large data hold-
+23
+er that uses an algorithm that may cause po-
+24
+tential harm to an individual, and uses such al-
+25
+00:49 Jul 22, 2022
+H8152
+66 
+•HR 8152 IH
+gorithm solely or in part, to collect, process, or 
+1
+transfer covered data must conduct an impact 
+2
+assessment of such algorithm in accordance 
+3
+with subparagraph (B). 
+4
+(B) IMPACT ASSESSMENT SCOPE.—The im-
+5
+pact assessment required under subparagraph 
+6
+(A) shall provide the following: 
+7
+(i) A detailed description of the design 
+8
+process and methodologies of the algo-
+9
+rithm. 
+10
+(ii) A statement of the purpose, pro-
+11
+posed uses, and foreseeable capabilities 
+12
+outside of the articulated proposed use of 
+13
+the algorithm. 
+14
+(iii) A detailed description of the data 
+15
+used by the algorithm, including the spe-
+16
+cific categories of data that will be proc-
+17
+essed as input and any data used to train 
+18
+the model that the algorithm relies on. 
+19
+(iv) A description of the outputs pro-
+20
+duced by the algorithm. 
+21
+(v) An assessment of the necessity 
+22
+and proportionality of the algorithm in re-
+23
+lation to its stated purpose, including rea-
+24
+sons for the superiority of the algorithm 
+25
+00:49 Jul 22, 2022
+H8152
+67 
+•HR 8152 IH
+over nonautomated decision-making meth-
+1
+ods. 
+2
+(vi) A detailed description of steps the 
+3
+large data holder has taken or will take to 
+4
+mitigate potential harms to individuals, in-
+5
+cluding potential harms related to— 
+6
+(I) any individual under the age 
+7
+of 17; 
+8
+(II) making or facilitating adver-
+9
+tising for, or determining access to, or 
+10
+restrictions on the use of housing, 
+11
+education, employment, healthcare, in-
+12
+surance, or credit opportunities; 
+13
+(III) determining access to, or re-
+14
+strictions on the use of, any place of 
+15
+public accommodation, particularly as 
+16
+such harms relate to the protected 
+17
+characteristics of individuals, includ-
+18
+ing race, color, religion, national ori-
+19
+gin, sex, or disability; or 
+20
+(IV) disparate impact on the 
+21
+basis of individuals’ race, color, reli-
+22
+gion, national origin, sex, or disability 
+23
+status. 
+24
+00:49 Jul 22, 2022
+H8152
+68 
+•HR 8152 IH
+(2) ALGORITHM
+DESIGN
+EVALUATION.—Not-
+1
+withstanding any other provision of law, not later 
+2
+than 2 years after the date of enactment of this Act, 
+3
+a covered entity or service provider that knowingly 
+4
+develops an algorithm, solely or in part, to collect, 
+5
+process, or transfer covered data or publicly avail-
+6
+able information shall prior to deploying the algo-
+7
+rithm in interstate commerce evaluate the design, 
+8
+structure, and inputs of the algorithm, including any 
+9
+training data used to develop the algorithm, to re-
+10
+duce the risk of the potential harms identified under 
+11
+paragraph (1)(B). 
+12
+(3) OTHER CONSIDERATIONS.— 
+13
+(A) FOCUS.—In complying with paragraph 
+14
+(1) or (2), a covered entity and a service pro-
+15
+vider may focus the impact assessment or eval-
+16
+uation on any algorithm, or portions of an algo-
+17
+rithm, that may reasonably contribute to the 
+18
+risk of the potential harms identified under 
+19
+paragraph (1)(B). 
+20
+(B) EXTERNAL, INDEPENDENT
+AUDITOR 
+21
+OR
+RESEARCHER.—To the extent possible, a 
+22
+covered entity and a service provider shall uti-
+23
+lize an external, independent auditor or re-
+24
+searcher to conduct an impact assessment 
+25
+00:49 Jul 22, 2022
+H8152
+69 
+•HR 8152 IH
+under paragraph (1) or an evaluation under 
+1
+paragraph (2). 
+2
+(C) AVAILABILITY.— 
+3
+(i) IN
+GENERAL.—A covered entity 
+4
+and a service provider— 
+5
+(I) shall, not later than 30 days 
+6
+after completing an impact assess-
+7
+ment or evaluation, submit the impact 
+8
+assessment and evaluation conducted 
+9
+under paragraphs (1) and (2) to the 
+10
+Commission; 
+11
+(II) shall, upon request, make 
+12
+such impact assessment and evalua-
+13
+tion available to Congress; and 
+14
+(III) may make a summary of 
+15
+such impact assessment and evalua-
+16
+tion publicly available in a place that 
+17
+is easily accessible to individuals. 
+18
+(ii) TRADE SECRETS.—Covered enti-
+19
+ties and service providers must make all 
+20
+submissions under this section to the Com-
+21
+mission in unredacted form, but a covered 
+22
+entity and a service provider may redact 
+23
+and segregate any trade secrets (as defined 
+24
+in section 1839 of title 18, United States 
+25
+00:49 Jul 22, 2022
+H8152
+70 
+•HR 8152 IH
+Code) from public disclosure under this 
+1
+subparagraph. 
+2
+(D) 
+ENFORCEMENT.—The 
+Commission 
+3
+may not use any information obtained solely 
+4
+and exclusively through a covered entity or a 
+5
+service provider’s disclosure of information to 
+6
+the Commission in compliance with this section 
+7
+for any purpose other than enforcing this Act, 
+8
+including the study and report provisions in 
+9
+paragraph 6 of this section. This provision shall 
+10
+not preclude the Commission from providing 
+11
+this information to Congress in response to a 
+12
+subpoena or official Congressional request. 
+13
+(4) GUIDANCE.—Not later than 2 years after 
+14
+the date of enactment of this Act, the Commission 
+15
+shall, in consultation with the Secretary of Com-
+16
+merce, or their respective designees, publish guid-
+17
+ance regarding compliance with this section. 
+18
+(5) RULEMAKING AND EXEMPTION.—The Com-
+19
+mission shall have authority under section 553 of 
+20
+title 5, United States Code, to promulgate regula-
+21
+tions as necessary to establish processes by which a 
+22
+large data holder— 
+23
+00:49 Jul 22, 2022
+H8152
+71 
+•HR 8152 IH
+(A) shall submit an impact assessment to 
+1
+the Commission under paragraph (3)(C)(i)(I); 
+2
+and 
+3
+(B) may exclude from this subsection any 
+4
+algorithm that presents low or minimal risk for 
+5
+potential for harms to individuals (as identified 
+6
+under paragraph (1)(B)). 
+7
+(6) STUDY AND REPORT.— 
+8
+(A) STUDY.—The Commission, in con-
+9
+sultation with the Secretary of Commerce or 
+10
+the Secretary’s designee, shall conduct a study, 
+11
+to review any impact assessment or evaluation 
+12
+submitted under this paragraph. Such study 
+13
+shall include an examination of— 
+14
+(i) best practices for the assessment 
+15
+and evaluation of algorithms; and 
+16
+(ii) methods to reduce the risk of 
+17
+harm to individuals that may be related to 
+18
+the use of algorithms. 
+19
+(B) REPORT.— 
+20
+(i) INITIAL REPORT.—Not later than 
+21
+3 years after the date of enactment of this 
+22
+Act, the Commission, in consultation with 
+23
+the Secretary of Commerce or the Sec-
+24
+retary’s designee, shall submit to Congress 
+25
+00:49 Jul 22, 2022
+H8152
+72 
+•HR 8152 IH
+a report containing the results of the study 
+1
+conducted under subsection (a), together 
+2
+with recommendations for such legislation 
+3
+and administrative action as the Commis-
+4
+sion determines appropriate. 
+5
+(ii) ADDITIONAL REPORTS.—Not later 
+6
+than 3 years after submission of the initial 
+7
+report under clause (i), and as the Com-
+8
+mission determines necessary thereafter, 
+9
+the Commission shall submit to Congress 
+10
+an updated version of such report. 
+11
+SEC. 208. DATA SECURITY AND PROTECTION OF COVERED 
+12
+DATA. 
+13
+(a) ESTABLISHMENT
+OF DATA SECURITY PRAC-
+14
+TICES.— 
+15
+(1) IN GENERAL.—A covered entity or service 
+16
+provider shall establish, implement, and maintain 
+17
+reasonable administrative, technical, and physical 
+18
+data security practices and procedures to protect 
+19
+and secure covered data against unauthorized access 
+20
+and acquisition. 
+21
+(2) CONSIDERATIONS.—The reasonable admin-
+22
+istrative, technical, and physical data security prac-
+23
+tices required under paragraph (1) shall be appro-
+24
+priate to— 
+25
+00:49 Jul 22, 2022
+H8152
+73 
+•HR 8152 IH
+(A) the size and complexity of the covered 
+1
+entity or service provider; 
+2
+(B) the nature and scope of the covered 
+3
+entity or the service provider’s collecting, proc-
+4
+essing, or transferring of covered data; 
+5
+(C) the volume and nature of the covered 
+6
+data collected, processed, or transferred by the 
+7
+covered entity or service provider; 
+8
+(D) the sensitivity of the covered data col-
+9
+lected, processed, or transferred; 
+10
+(E) the current state of the art in adminis-
+11
+trative, technical, and physical safeguards for 
+12
+protecting such covered data; and 
+13
+(F) the cost of available tools to improve 
+14
+security and reduce vulnerabilities to unauthor-
+15
+ized access and acquisition of such covered data 
+16
+in relation to the risks and nature of the cov-
+17
+ered data. 
+18
+(b) SPECIFIC REQUIREMENTS.—The data security 
+19
+practices required under subsection (a) shall include, at 
+20
+a minimum, the following practices: 
+21
+(1) 
+ASSESS
+VULNERABILITIES.—Identifying 
+22
+and assessing any material internal and external 
+23
+risk to, and vulnerability in, the security of each sys-
+24
+tem maintained by the covered entity that collects, 
+25
+00:49 Jul 22, 2022
+H8152
+74 
+•HR 8152 IH
+processes, or transfers covered data, or service pro-
+1
+vider that collects, processes, or transfers covered 
+2
+data on behalf of the covered entity, including unau-
+3
+thorized access to or risks to such covered data, 
+4
+human vulnerabilities, access rights, and the use of 
+5
+service providers. With respect to large data holders, 
+6
+such activities shall include a plan to receive and re-
+7
+spond to unsolicited reports of vulnerabilities by any 
+8
+entity or individual. 
+9
+(2) PREVENTIVE AND CORRECTIVE ACTION.— 
+10
+Taking preventive and corrective action designed to 
+11
+mitigate 
+any 
+reasonably 
+foreseeable 
+risks 
+or 
+12
+vulnerabilities to covered data identified by the cov-
+13
+ered entity or service provider, consistent with the 
+14
+nature of such risk or vulnerability, which may in-
+15
+clude implementing administrative, technical, or 
+16
+physical safeguards or changes to data security prac-
+17
+tices or the architecture, installation, or implementa-
+18
+tion of network or operating software, among other 
+19
+actions. 
+20
+(3) EVALUATION OF PREVENTIVE AND CORREC-
+21
+TIVE ACTION.—Evaluating and making reasonable 
+22
+adjustments to the safeguards described in para-
+23
+graph (2) in light of any material changes in tech-
+24
+nology, internal or external threats to covered data, 
+25
+00:49 Jul 22, 2022
+H8152
+75 
+•HR 8152 IH
+and the covered entity or service provider’s own 
+1
+changing business arrangements or operations. 
+2
+(4) 
+INFORMATION
+RETENTION
+AND
+DIS-
+3
+4
+to be deleted by law or is no longer necessary for the 
+5
+purpose for which the data was collected, processed, 
+6
+or transferred, unless an individual has provided af-
+7
+firmative express consent to such retention. Such 
+8
+disposal shall include destroying, permanently eras-
+9
+ing, or otherwise modifying the covered data to 
+10
+make such data permanently unreadable or indeci-
+11
+pherable and unrecoverable to ensure ongoing com-
+12
+pliance with this section. 
+13
+(5) TRAINING.—Training each employee with 
+14
+access to covered data on how to safeguard covered 
+15
+data and updating such training as necessary. 
+16
+(6) DESIGNATION.—Designating an officer, em-
+17
+ployee, or employees to maintain and implement 
+18
+such practices. 
+19
+(7) INCIDENT RESPONSE.—Implementing pro-
+20
+cedures to detect, respond to, or recover from secu-
+21
+rity incidents or breaches. 
+22
+(c) REGULATIONS.—The Commission may promul-
+23
+gate in accordance with section 553 of title 5, United 
+24
+00:49 Jul 22, 2022
+H8152
+76 
+•HR 8152 IH
+States Code, technology-neutral regulations to establish 
+1
+processes for complying with this section. 
+2
+(d) APPLICABILITY OF OTHER INFORMATION SECU-
+3
+RITY LAWS.—A covered entity that is required to comply 
+4
+with title V of the Gramm-Leach-Bliley Act (15 U.S.C. 
+5
+6801 et seq.) or the Health Information Technology for 
+6
+Economic and Clinical Health Act (42 U.S.C. 17931 et 
+7
+seq.), and is in compliance with the information security 
+8
+requirements of such Act as determined by the enforce-
+9
+ment authority in such Act, shall be deemed to be in com-
+10
+pliance with the requirements of this section with respect 
+11
+to any data covered by such information security require-
+12
+ments. 
+13
+SEC. 209. SMALL BUSINESS PROTECTIONS. 
+14
+(a) IN GENERAL.— 
+15
+(1) Any covered entity or service provider that 
+16
+can establish that it met the requirements described 
+17
+in paragraph (2) for the period of the 3 preceding 
+18
+calendar years (or for the period during which the 
+19
+covered entity has been in existence if such period 
+20
+is less than 3 years) shall— 
+21
+(A) be exempt from compliance with sec-
+22
+tions 203(a)(4), 208(b)(1)–(3), (5)–(7), and 
+23
+301(c); and 
+24
+00:49 Jul 22, 2022
+H8152
+77 
+•HR 8152 IH
+(B) at the covered entity’s sole discretion, 
+1
+have the option of complying with section 
+2
+203(a)(2) by, after receiving a verified request 
+3
+from an individual to correct covered data of 
+4
+the individual under such section, deleting such 
+5
+covered data in its entirety instead of making 
+6
+the requested correction. 
+7
+(2) EXEMPTION REQUIREMENTS.—The require-
+8
+ments of this paragraph are, with respect to a cov-
+9
+ered entity or a service provider and a period, the 
+10
+following: 
+11
+(A) The covered entity or service provider’s 
+12
+average annual gross revenues during the pe-
+13
+riod did not exceed $41,000,000. 
+14
+(B) The covered entity or service provider, 
+15
+on average, did not annually collect or process 
+16
+the covered data of more than 200,000 individ-
+17
+uals during the period beyond the purpose of 
+18
+initiating, rendering, billing for, finalizing, com-
+19
+pleting, or otherwise collecting payment for a 
+20
+requested service or product, so long as all cov-
+21
+ered data for such purpose is deleted or de- 
+22
+identified within 90 days. 
+23
+(C) The covered entity or service provider 
+24
+did not derive more than 50 percent of its rev-
+25
+00:49 Jul 22, 2022
+H8152
+78 
+•HR 8152 IH
+enue from transferring covered data during any 
+1
+year (or part of a year if the covered entity has 
+2
+been in existence for less than 1 year) that oc-
+3
+curs during the period. 
+4
+(3) DEFINITION.—For purposes of this section, 
+5
+the term ‘‘revenue’’ as it relates to any covered enti-
+6
+ty that is not organized to carry on business for its 
+7
+own profit or that of their members, means the 
+8
+gross receipts the covered entity received in whatever 
+9
+form from all sources without subtracting any costs 
+10
+or expenses, and includes contributions, gifts, 
+11
+grants, dues or other assessments, income from in-
+12
+vestments, or proceeds from the sale of real or per-
+13
+sonal property. 
+14
+(4) JOURNALISM.—Nothing in this Act shall be 
+15
+construed to limit or diminish First Amendment 
+16
+freedoms to gather and publish information guaran-
+17
+teed under the Constitution. 
+18
+SEC. 210. UNIFIED OPT-OUT MECHANISMS. 
+19
+For the rights established under sections 204(b) and 
+20
+(c), and section 206(c)(3)(D) not later than 18 months 
+21
+after the date of enactment of this Act, the Commission 
+22
+shall establish one or more acceptable privacy protective, 
+23
+centralized mechanisms, including global privacy signals 
+24
+such as browser or device privacy settings, for individuals 
+25
+00:49 Jul 22, 2022
+H8152
+79 
+•HR 8152 IH
+to exercise all such rights through a single interface for 
+1
+a covered entity to utilize to allow an individual to make 
+2
+such opt out designations with respect to covered data re-
+3
+lated to such individual. 
+4
+TITLE III—CORPORATE 
+5
+ACCOUNTABILITY 
+6
+SEC. 301. EXECUTIVE RESPONSIBILITY. 
+7
+(a) IN GENERAL.—Beginning 1 year after the date 
+8
+of enactment of this Act, an executive officer of a large 
+9
+data holder shall annually certify, in good faith, to the 
+10
+Commission, in a manner specified by the Commission by 
+11
+regulation under section 553 of title 5, United States 
+12
+Code, that the entity maintains— 
+13
+(1) internal controls reasonably designed to 
+14
+comply with this Act; and 
+15
+(2) reporting structures to ensure that such 
+16
+certifying officers are involved in, and are respon-
+17
+sible for, decisions that impact the entity’s compli-
+18
+ance with this Act. 
+19
+(b) 
+REQUIREMENTS.—A 
+certification 
+submitted 
+20
+under subsection (a) shall be based on a review of the ef-
+21
+fectiveness of a large data holder’s internal controls and 
+22
+reporting structures that is conducted by the certifying of-
+23
+ficers not more than 90 days before the submission of the 
+24
+certification. 
+25
+00:49 Jul 22, 2022
+H8152
+80 
+•HR 8152 IH
+(c) DESIGNATION OF PRIVACY AND DATA SECURITY 
+1
+OFFICER.— 
+2
+(1) IN GENERAL.—A covered entity and a serv-
+3
+ice provider shall designate— 
+4
+(A) 1 or more qualified employees as pri-
+5
+vacy officers; and 
+6
+(B) 1 or more qualified employees (in addi-
+7
+tion to any employee designated under subpara-
+8
+graph (A)) as data security officers. 
+9
+(2) REQUIREMENTS
+FOR
+OFFICERS.—An em-
+10
+ployee who is designated by a covered entity or a 
+11
+service provider as a privacy officer or a data secu-
+12
+rity officer shall, at a minimum— 
+13
+(A) implement a data privacy program and 
+14
+data security program to safeguard the privacy 
+15
+and security of covered data in compliance with 
+16
+the requirements of this Act; and 
+17
+(B) facilitate the covered entity or service 
+18
+provider’s ongoing compliance with this Act. 
+19
+(3) ADDITIONAL
+REQUIREMENTS
+FOR
+LARGE 
+20
+DATA
+HOLDERS.—A large data holder shall des-
+21
+ignate at least 1 of the officers described in para-
+22
+graph (1) of this subsection to report directly to the 
+23
+highest official at the large data holder as a privacy 
+24
+protection officer who shall, in addition to the re-
+25
+00:49 Jul 22, 2022
+H8152
+81 
+•HR 8152 IH
+quirements in paragraph (2), either directly or 
+1
+through a supervised designee or designees— 
+2
+(A) establish processes to periodically re-
+3
+view and update the privacy and security poli-
+4
+cies, practices, and procedures of the large data 
+5
+holder, as necessary; 
+6
+(B) conduct biennial and comprehensive 
+7
+audits to ensure the policies, practices, and pro-
+8
+cedures of the large data holder work to ensure 
+9
+the company is in compliance with all applicable 
+10
+laws and ensure such audits are accessible to 
+11
+the Commission upon such request; 
+12
+(C) develop a program to educate and 
+13
+train employees about compliance requirements; 
+14
+(D) maintain updated, accurate, clear, and 
+15
+understandable records of all privacy and data 
+16
+security practices undertaken by the large data 
+17
+holder; and 
+18
+(E) serve as the point of contact between 
+19
+the large data holder and enforcement authori-
+20
+ties. 
+21
+(d) LARGE DATA HOLDER PRIVACY IMPACT ASSESS-
+22
+MENTS.— 
+23
+(1) IN GENERAL.—Not later than 1 year after 
+24
+the date of enactment of this Act or 1 year after the 
+25
+00:49 Jul 22, 2022
+H8152
+82 
+•HR 8152 IH
+date that a covered entity or service provider first 
+1
+meets the definition of large data holder, whichever 
+2
+is earlier, and biennially thereafter, each large data 
+3
+holder shall conduct a privacy impact assessment 
+4
+that weighs the benefits of the large data holder’s 
+5
+covered data collecting, processing, and transfer 
+6
+practices against the potential adverse consequences 
+7
+of such practices to individual privacy. 
+8
+(2) ASSESSMENT
+REQUIREMENTS.—A privacy 
+9
+impact assessment required under paragraph (1) 
+10
+shall be— 
+11
+(A) reasonable and appropriate in scope 
+12
+given— 
+13
+(i) the nature of the covered data col-
+14
+lected, processed, and transferred by the 
+15
+large data holder; 
+16
+(ii) the volume of the covered data 
+17
+collected, processed, and transferred by the 
+18
+large data holder; and 
+19
+(iii) the potential risks posed to the 
+20
+privacy of individuals by the collecting, 
+21
+processing, and transfer of covered data by 
+22
+the large data holder; 
+23
+(B) documented in written form and main-
+24
+tained by the large data holder unless rendered 
+25
+00:49 Jul 22, 2022
+H8152
+83 
+•HR 8152 IH
+out of date by a subsequent assessment con-
+1
+ducted under paragraph (1); and 
+2
+(C) approved by the privacy protection offi-
+3
+cer designated in subsection (c)(3) of the large 
+4
+data holder. 
+5
+(3) ADDITIONAL FACTORS TO INCLUDE IN AS-
+6
+SESSMENT.—In assessing the privacy risks, includ-
+7
+ing substantial privacy risks, the large data holder 
+8
+may include reviews of the means by which tech-
+9
+nologies, including blockchain and distributed ledger 
+10
+technologies and other emerging technologies, are 
+11
+used to secure covered data. 
+12
+SEC. 302. SERVICE PROVIDERS AND THIRD PARTIES. 
+13
+(a) SERVICE PROVIDERS.—A service provider— 
+14
+(1) shall only collect, process, and transfer serv-
+15
+ice provider data to the extent strictly necessary and 
+16
+proportionate to provide a service requested by the 
+17
+covered entity. This paragraph shall not require a 
+18
+service provider to collect or process covered data if 
+19
+the service provider would not otherwise do so; 
+20
+(2) shall not collect, process, or transfer service 
+21
+provider data if the service provider has actual 
+22
+knowledge that the covered entity violated this Act 
+23
+with respect to such data; 
+24
+00:49 Jul 22, 2022
+H8152
+84 
+•HR 8152 IH
+(3) shall assist a covered entity in fulfilling the 
+1
+covered entity’s obligation to respond to individual 
+2
+rights requests pursuant to section 203, by appro-
+3
+priate technical and organizational measures, taking 
+4
+into account the nature of the processing and the in-
+5
+formation reasonably available to the service pro-
+6
+vider; 
+7
+(4) may engage another service provider for 
+8
+purposes of processing service provider data on be-
+9
+half of a covered entity only after providing the cov-
+10
+ered entity that is directing the services or functions 
+11
+of the service provider with respect to such service 
+12
+provider data with notice, and pursuant to a written 
+13
+contract that requires such other service provider to 
+14
+satisfy the obligations of the service provider with 
+15
+respect to such service provider data; 
+16
+(5) shall upon the reasonable request of the 
+17
+covered entity, make available to the covered entity 
+18
+information necessary to demonstrate the service 
+19
+provider’s compliance with the obligations in this 
+20
+Act, which may include making available a report of 
+21
+an independent assessment arranged by the service 
+22
+provider on terms agreed to by the parties and mak-
+23
+ing the report required under section 207(c)(2) as 
+24
+applicable; 
+25
+00:49 Jul 22, 2022
+H8152
+85 
+•HR 8152 IH
+(6) shall, at the covered entity’s direction, de-
+1
+lete or return all covered data to the covered entity 
+2
+as requested at the end of the provision of services, 
+3
+unless retention of the covered data is required by 
+4
+law; 
+5
+(7) shall not transfer service provider data to 
+6
+any person with the exception of another service pro-
+7
+vider without the affirmative express consent, ob-
+8
+tained by the covered entity with the direct relation-
+9
+ship to the individual that is directing the services 
+10
+or functions of the service provider with respect to 
+11
+the service provider data, of the individual to whom 
+12
+the service provider data is linked or reasonably 
+13
+linkable; 
+14
+(8) shall develop, implement, and maintain rea-
+15
+sonable administrative, technical, and physical safe-
+16
+guards that are designed to protect the security and 
+17
+confidentiality of covered data it processes consistent 
+18
+with section 208; and 
+19
+(9) shall be exempt from the requirements of 
+20
+section 202(d) with respect to service provider data 
+21
+but shall provide direct notification regarding mate-
+22
+rial changes to its privacy policy to each covered en-
+23
+tity with which it provides services or functions as 
+24
+a service provider, in each language that the privacy 
+25
+00:49 Jul 22, 2022
+H8152
+86 
+•HR 8152 IH
+policy is made available. Compliance with this provi-
+1
+sion does not alleviate any obligations the service 
+2
+provider has to the covered entity to which it pro-
+3
+vides services or functions as a service provider. 
+4
+(b) CONTRACTS BETWEEN COVERED ENTITIES AND 
+5
+SERVICE PROVIDERS.—A person or entity may act as a 
+6
+service provider pursuant to a written contract between 
+7
+the covered entity and the service provider, or a written 
+8
+contract between one service provider and a second service 
+9
+provider as permitted in section 302(a)(4), provided that 
+10
+the contract— 
+11
+(1) governs the service provider’s data proc-
+12
+essing procedures with respect to processing or 
+13
+transfer performed on behalf of the covered entity or 
+14
+service provider; 
+15
+(2) clearly sets forth— 
+16
+(A) instructions for processing data; 
+17
+(B) the nature and purpose of processing; 
+18
+(C) the type of data subject to processing; 
+19
+(D) the duration of processing; and 
+20
+(E) the rights and obligations of both par-
+21
+ties; 
+22
+(3) does not relieve a covered entity or a service 
+23
+provider of an obligation under this Act; and 
+24
+(4) prohibits— 
+25
+00:49 Jul 22, 2022
+H8152
+87 
+•HR 8152 IH
+(A) collecting, processing, or transferring 
+1
+covered data in contravention to subsection (a); 
+2
+and 
+3
+(B) combining service provider data with 
+4
+covered data which the service provider receives 
+5
+from or on behalf of another person or persons 
+6
+or collects from its own interaction with an in-
+7
+dividual. The contract may, subject to agree-
+8
+ment with the service provider, permit a covered 
+9
+entity to monitor the service provider’s compli-
+10
+ance with the contract through measures in-
+11
+cluding, but not limited to, ongoing manual re-
+12
+views and automated scans, and regular assess-
+13
+ments, audits, or other technical and oper-
+14
+ational testing at least once every 12 months. 
+15
+(c) RELATIONSHIP BETWEEN COVERED ENTITIES 
+16
+AND SERVICE PROVIDERS.— 
+17
+(1) Determining whether a person is acting as 
+18
+a covered entity or service provider with respect to 
+19
+a specific processing of data is a fact-based deter-
+20
+mination that depends upon the context in which 
+21
+such data is processed. 
+22
+(2) A covered entity or service provider that 
+23
+transfers covered data to a service provider, in com-
+24
+pliance with the requirements of this Act, is not lia-
+25
+00:49 Jul 22, 2022
+H8152
+88 
+•HR 8152 IH
+ble for a violation of this Act by the service provider 
+1
+to whom such covered data was transferred, this Act 
+2
+provided that, at the time of transferring such cov-
+3
+ered data, the covered entity or service provider did 
+4
+not know or have reason to know that the service 
+5
+provider would likely commit a violation of this Act. 
+6
+(3) A covered entity or service provider that re-
+7
+ceives covered data in compliance with the require-
+8
+ments of this Act is not in violation of this Act as 
+9
+a result of a violation by a covered entity or service 
+10
+provider from which it receives such covered data. 
+11
+(d) THIRD PARTIES.—A third party— 
+12
+(1) shall not process third-party data for a 
+13
+processing purpose other than, in the case of sen-
+14
+sitive covered data, the processing purpose for which 
+15
+the individual gave affirmative express consent and, 
+16
+in the case of non-sensitive data, the processing pur-
+17
+pose for which the covered entity made a disclosure 
+18
+pursuant to section 204(b)(4); 
+19
+(2) for purposes of paragraph (1), may reason-
+20
+ably rely on representations made by the covered en-
+21
+tity that transferred the third-party data, provided 
+22
+that the third party conducts reasonable due dili-
+23
+gence on the representations of the covered entity 
+24
+and finds those representations to be credible; and 
+25
+00:49 Jul 22, 2022
+H8152
+89 
+•HR 8152 IH
+(3) shall be exempt from the requirements of 
+1
+section 204 with respect to third-party data, but 
+2
+shall otherwise have the same responsibilities and 
+3
+obligations as a covered entity with respect to such 
+4
+data under all other provisions of this Act. 
+5
+(e) ADDITIONAL OBLIGATIONS ON COVERED ENTI-
+6
+TIES.— 
+7
+(1) IN GENERAL.—A covered entity or service 
+8
+provider shall exercise reasonable due diligence in— 
+9
+(A) selecting a service provider; and 
+10
+(B) deciding to transfer covered data to a 
+11
+third party. 
+12
+(2) GUIDANCE.—Not later than 2 years after 
+13
+the date of enactment of this Act, the Commission 
+14
+shall publish guidance regarding compliance with 
+15
+this subsection, taking into consideration the bur-
+16
+dens on small- and medium-sized covered entities. 
+17
+SEC. 303. TECHNICAL COMPLIANCE PROGRAMS. 
+18
+(a) IN GENERAL.—Not later than 1 year after the 
+19
+date of the enactment of this Act, the Commission shall 
+20
+promulgate regulations under section 553 of title 5, 
+21
+United States Code, to establish a process for the proposal 
+22
+and approval of technical compliance programs under this 
+23
+section specific to any technology, product, service, or 
+24
+00:49 Jul 22, 2022
+H8152
+90 
+•HR 8152 IH
+method used by a covered entity to collect, process, or 
+1
+transfer covered data. 
+2
+(b) SCOPE OF PROGRAMS.—The technical compliance 
+3
+programs established under this section shall, with respect 
+4
+to a technology, product, service, or method used by a cov-
+5
+ered entity to collect, process, or transfer covered data— 
+6
+(1) establish guidelines for compliance with this 
+7
+Act; 
+8
+(2) meet or exceed the requirements of this Act; 
+9
+and 
+10
+(3) be made publicly available to any individual 
+11
+whose covered data is collected, processed, or trans-
+12
+ferred using such technology, product, service, or 
+13
+method. 
+14
+(c) APPROVAL PROCESS.— 
+15
+(1) IN GENERAL.—Any request for approval, 
+16
+amendment, or repeal of a technical compliance pro-
+17
+gram may be submitted to the Commission by any 
+18
+person, including a covered entity, a representative 
+19
+of a covered entity, an association of covered enti-
+20
+ties, or a public interest group or organization. 
+21
+Within 90 days, the Commission shall publish the 
+22
+request and provide an opportunity for public com-
+23
+ment on the proposal. 
+24
+00:49 Jul 22, 2022
+H8152
+91 
+•HR 8152 IH
+(2) EXPEDITED RESPONSE TO REQUESTS.—Be-
+1
+ginning 1 year after the date of enactment of this 
+2
+Act, the Commission shall act upon a request for the 
+3
+proposal and approval of a technical compliance pro-
+4
+gram not later than 180 days after the filing of the 
+5
+request, and shall set forth publicly in writing its 
+6
+conclusions with regard to such request. 
+7
+(d) RIGHT TO APPEAL.—Final action by the Com-
+8
+mission on a request for approval, amendment, or repeal 
+9
+of a technical compliance program, or the failure to act 
+10
+within the 180 day period after a request for approval, 
+11
+amendment, or repeal of a technical compliance program 
+12
+is made under subsection (c), may be appealed to a Fed-
+13
+eral district court of the United States of appropriate ju-
+14
+risdiction as provided for in section 702 of title 5, United 
+15
+States Code. 
+16
+(e) EFFECT ON ENFORCEMENT.— 
+17
+(1) IN GENERAL.—Prior to commencing an in-
+18
+vestigation or enforcement action against any cov-
+19
+ered entity under this Act, the Commission and 
+20
+State attorney general shall consider the covered en-
+21
+tity’s history of compliance with any technical com-
+22
+pliance program approved under this section and 
+23
+any action taken by the covered entity to remedy 
+24
+noncompliance with such program. If such enforce-
+25
+00:49 Jul 22, 2022
+H8152
+92 
+•HR 8152 IH
+ment action described in Sec. 403 is commenced, the 
+1
+covered entity’s history of compliance with any tech-
+2
+nical compliance program approved under this sec-
+3
+tion and any action taken by the covered entity to 
+4
+remedy noncompliance with such program shall be 
+5
+taken into consideration when determining liability 
+6
+or a penalty. The covered entity’s history of compli-
+7
+ance with any technical compliance program shall 
+8
+not affect any burden of proof or the weight given 
+9
+to evidence in an enforcement or judicial proceeding. 
+10
+(2) COMMISSION
+AUTHORITY.—Approval of a 
+11
+technical compliance program shall not limit the au-
+12
+thority of the Commission, including the Commis-
+13
+sion’s authority to commence an investigation or en-
+14
+forcement action against any covered entity under 
+15
+this Act or any other Act. 
+16
+(3) RULE OF CONSTRUCTION.—Nothing in this 
+17
+subsection shall provide any individual, class of indi-
+18
+viduals, or person with any right to seek discovery 
+19
+of any non-public Commission deliberations or activi-
+20
+ties or impose any pleading requirement on the 
+21
+Commission should it bring an enforcement action of 
+22
+any kind. 
+23
+00:49 Jul 22, 2022
+H8152
+93 
+•HR 8152 IH
+SEC. 304. COMMISSION APPROVED COMPLIANCE GUIDE-
+1
+LINES. 
+2
+(a) APPLICATION FOR COMPLIANCE GUIDELINE AP-
+3
+PROVAL.— 
+4
+(1) IN GENERAL.—A covered entity that is not 
+5
+a third-party collecting entity and meets the require-
+6
+ments of section 209, or a group of such covered en-
+7
+tities, may apply to the Commission for approval of 
+8
+1 or more sets of compliance guidelines governing 
+9
+the collection, processing, and transfer of covered 
+10
+data by the covered entity or group of covered enti-
+11
+ties. 
+12
+(2) APPLICATION REQUIREMENTS.—Such appli-
+13
+cation shall include— 
+14
+(A) a description of how the proposed 
+15
+guidelines will meet or exceed the requirements 
+16
+of this Act; 
+17
+(B) a description of the entities or activi-
+18
+ties the proposed set of compliance guidelines is 
+19
+designed to cover; 
+20
+(C) a list of the covered entities that meet 
+21
+the requirements of section 209 and are not 
+22
+third-party collecting entities, if any are known 
+23
+at the time of application, that intend to adhere 
+24
+to the compliance guidelines; and 
+25
+00:49 Jul 22, 2022
+H8152
+94 
+•HR 8152 IH
+(D) a description of how such covered enti-
+1
+ties will be independently assessed for adher-
+2
+ence to such compliance guidelines, including 
+3
+the independent organization not associated 
+4
+with any of the covered entities that may par-
+5
+ticipate in guidelines that will administer such 
+6
+guidelines. 
+7
+(3) COMMISSION REVIEW.— 
+8
+(A) INITIAL APPROVAL.— 
+9
+(i) PUBLIC COMMENT PERIOD.—With-
+10
+in 90 days after the receipt of proposed 
+11
+guidelines submitted pursuant to para-
+12
+graph (2), the Commission shall publish 
+13
+the proposal and provide an opportunity 
+14
+for public comment on such compliance 
+15
+guidelines. 
+16
+(ii) 
+APPROVAL.—The 
+Commission 
+17
+shall approve an application regarding pro-
+18
+posed guidelines under paragraph (2) if 
+19
+the applicant demonstrates that the com-
+20
+pliance guidelines— 
+21
+(I) meet or exceed requirements 
+22
+of this Act; 
+23
+(II) provide for the regular re-
+24
+view and validation by an independent 
+25
+00:49 Jul 22, 2022
+H8152
+95 
+•HR 8152 IH
+organization not associated with any 
+1
+of the covered entities that may par-
+2
+ticipate in the guidelines and that is 
+3
+approved by the Commission to con-
+4
+duct such reviews of the compliance 
+5
+guidelines of the covered entity or en-
+6
+tities to ensure that the covered entity 
+7
+or entities continue to meet or exceed 
+8
+the requirements of this Act; and 
+9
+(III) include a means of enforce-
+10
+ment if a covered entity does not meet 
+11
+or exceed the requirements in the 
+12
+guidelines, which may include referral 
+13
+to the Commission for enforcement 
+14
+consistent with section 401 or referral 
+15
+to the appropriate State attorney gen-
+16
+eral for enforcement consistent with 
+17
+section 402. 
+18
+(iii) TIMELINE.—Within 1 year of re-
+19
+ceiving an application regarding proposed 
+20
+guidelines under paragraph (2), the Com-
+21
+mission shall issue a determination approv-
+22
+ing or denying the application and pro-
+23
+viding its reasons for approving or denying 
+24
+such application. 
+25
+00:49 Jul 22, 2022
+H8152
+96 
+•HR 8152 IH
+(B) APPROVAL OF MODIFICATIONS.— 
+1
+(i) IN GENERAL.—If the independent 
+2
+organization administering a set of guide-
+3
+lines makes material changes to guidelines 
+4
+previously approved by the Commission, 
+5
+the independent organization must submit 
+6
+the updated guidelines to the Commission 
+7
+for approval. As soon as feasible, the Com-
+8
+mission shall publish the updated guide-
+9
+lines and provide an opportunity for public 
+10
+comment. 
+11
+(ii) 
+TIMELINE.—The 
+Commission 
+12
+shall approve or deny any material change 
+13
+to the guidelines within 180 days after re-
+14
+ceipt of the submission for approval. 
+15
+(b) WITHDRAWAL OF APPROVAL.—If at any time the 
+16
+Commission determines that the guidelines previously ap-
+17
+proved no longer meet the requirements of this Act or a 
+18
+regulation promulgated under this Act or that compliance 
+19
+with the approved guidelines is insufficiently enforced by 
+20
+the independent organization administering the guidelines, 
+21
+the Commission shall notify the covered entities or group 
+22
+of such entities and the independent organization of its 
+23
+determination to withdraw approval of such guidelines and 
+24
+the basis for doing so. Upon receipt of such notice, the 
+25
+00:49 Jul 22, 2022
+H8152
+97 
+•HR 8152 IH
+covered entity or group of such entities and the inde-
+1
+pendent organization may cure any alleged deficiency with 
+2
+the guidelines or the enforcement of such guidelines within 
+3
+180 days and submit the proposed cure or cures to the 
+4
+Commission. If the Commission determines that such 
+5
+cures eliminate the alleged deficiency in the guidelines, 
+6
+then the Commission may not withdraw approval of such 
+7
+guidelines on the basis of such determination. 
+8
+(c) DEEMED COMPLIANCE.—A covered entity that is 
+9
+eligible to participate under subsection (a)(1), and partici-
+10
+pates, in guidelines approved under this section shall be 
+11
+deemed in compliance with the relevant provisions of this 
+12
+Act if it is in compliance with such guidelines. 
+13
+SEC. 305. DIGITAL CONTENT FORGERIES. 
+14
+(a) REPORTS.—Not later than 1 year after the date 
+15
+of enactment of this Act, and annually thereafter, the Sec-
+16
+retary of Commerce or the Secretary’s designee shall pub-
+17
+lish a report regarding digital content forgeries. 
+18
+(b) REQUIREMENTS.—Each report under subsection 
+19
+(a) shall include the following: 
+20
+(1) A definition of digital content forgeries 
+21
+along with accompanying explanatory materials, ex-
+22
+cept that the definition developed pursuant to this 
+23
+section shall not supersede any other provision of 
+24
+00:49 Jul 22, 2022
+H8152
+98 
+•HR 8152 IH
+law or be construed to limit the authority of any Ex-
+1
+ecutive agency related to digital content forgeries. 
+2
+(2) A description of the common sources of dig-
+3
+ital content forgeries in the United States and com-
+4
+mercial sources of digital content forgery tech-
+5
+nologies. 
+6
+(3) An assessment of the uses, applications, and 
+7
+harms of digital content forgeries. 
+8
+(4) An analysis of the methods and standards 
+9
+available to identify digital content forgeries as well 
+10
+as a description of the commercial technological 
+11
+counter-measures that are, or could be, used to ad-
+12
+dress concerns with digital content forgeries, which 
+13
+may include the provision of warnings to viewers of 
+14
+suspect content. 
+15
+(5) A description of the types of digital content 
+16
+forgeries, including those used to commit fraud, 
+17
+cause harm, or violate any provision of law. 
+18
+(6) Any other information determined appro-
+19
+priate by the Secretary of Commerce or the Sec-
+20
+retary’s designee. 
+21
+00:49 Jul 22, 2022
+H8152
+99 
+•HR 8152 IH
+TITLE IV—ENFORCEMENT, AP-
+1
+PLICABILITY, AND MISCELLA-
+2
+NEOUS 
+3
+SEC. 401. ENFORCEMENT BY THE FEDERAL TRADE COM-
+4
+MISSION. 
+5
+(a) NEW BUREAU.— 
+6
+(1) IN GENERAL.—The Commission shall estab-
+7
+lish within the Commission a new bureau, the Bu-
+8
+reau of Privacy, which shall be comparable in struc-
+9
+ture, size, organization, and authority to the existing 
+10
+Bureaus within the Commission related to consumer 
+11
+protection and competition. 
+12
+(2) MISSION.—The mission of the bureau es-
+13
+tablished under this subsection shall be to assist the 
+14
+Commission in exercising the Commission’s author-
+15
+ity under this Act and related authorities. 
+16
+(3) TIMELINE.—The bureau shall be estab-
+17
+lished, staffed, and fully operational not later than 
+18
+1 year after the date of enactment of this Act. 
+19
+(b) OFFICE OF BUSINESS MENTORSHIP.—The Direc-
+20
+tor of the Bureau established under subsection (a) shall 
+21
+establish within the Bureau an Office of Business 
+22
+Mentorship to provide guidance and education to covered 
+23
+entities regarding compliance with this Act. Covered enti-
+24
+ties may request advice from the Commission or this office 
+25
+00:49 Jul 22, 2022
+H8152
+100 
+•HR 8152 IH
+with respect to a course of action which the covered entity 
+1
+proposes to pursue and which may relate to the require-
+2
+ments of this Act. 
+3
+(c) ENFORCEMENT BY THE FEDERAL TRADE COM-
+4
+MISSION.— 
+5
+(1) UNFAIR
+OR
+DECEPTIVE
+ACTS
+OR
+PRAC-
+6
+TICES.—A violation of this Act or a regulation pro-
+7
+mulgated under this Act shall be treated as a viola-
+8
+tion of a rule defining an unfair or deceptive act or 
+9
+practice prescribed under section 18(a)(1)(B) of the 
+10
+Federal 
+Trade 
+Commission 
+Act 
+(15 
+U.S.C. 
+11
+57a(a)(1)(B)). 
+12
+(2) POWERS OF THE COMMISSION.— 
+13
+(A) IN GENERAL.—Except as provided in 
+14
+paragraphs (3), (4), and (5), the Commission 
+15
+shall enforce this Act and the regulations pro-
+16
+mulgated under this Act in the same manner, 
+17
+by the same means, and with the same jurisdic-
+18
+tion, powers, and duties as though all applicable 
+19
+terms and provisions of the Federal Trade 
+20
+Commission Act (15 U.S.C. 41 et seq.) were in-
+21
+corporated into and made a part of this Act. 
+22
+(B) PRIVILEGES
+AND
+IMMUNITIES.—Any 
+23
+person who violates this Act or a regulation 
+24
+promulgated under this Act shall be subject to 
+25
+00:49 Jul 22, 2022
+H8152
+101 
+•HR 8152 IH
+the penalties and entitled to the privileges and 
+1
+immunities provided in the Federal Trade Com-
+2
+mission Act (15 U.S.C. 41 et seq.). 
+3
+(3) LIMITING
+CERTAIN
+ACTIONS
+UNRELATED 
+4
+TO THIS ACT.—If the Commission brings a civil ac-
+5
+tion under this Act alleging that an act or practice 
+6
+violates this Act or a regulation promulgated under 
+7
+this Act, the Commission may not seek a cease and 
+8
+desist order against the same defendant under sec-
+9
+tion 5(b) of the Federal Trade Commission Act (15 
+10
+U.S.C. 45(b)) to stop that same act or practice on 
+11
+the grounds that such act or practice constitutes an 
+12
+unfair or deceptive act or practice. 
+13
+(4) COMMON
+CARRIERS
+AND
+NONPROFITS.— 
+14
+Notwithstanding any jurisdictional limitation of the 
+15
+Commission with respect to consumer protection or 
+16
+privacy, the Commission shall enforce this Act and 
+17
+the regulations promulgated under this Act, in the 
+18
+same manner provided in subsections (1), (2), (3), 
+19
+and (5) of this subsection, with respect to common 
+20
+carriers subject to the Communications Act of 1934 
+21
+(47 U.S.C. 151 et seq.) and All Acts amendatory 
+22
+thereof and supplementary thereto; and organiza-
+23
+tions not organized to carry on business for their 
+24
+own profit or that of their members. 
+25
+00:49 Jul 22, 2022
+H8152
+102 
+•HR 8152 IH
+(5) DATA PRIVACY AND SECURITY VICTIMS RE-
+1
+LIEF FUND.— 
+2
+(A) ESTABLISHMENT OF VICTIMS RELIEF 
+3
+FUND.—There is established in the Treasury of 
+4
+the United States a separate fund to be known 
+5
+as the ‘‘Privacy and Security Victims Relief 
+6
+Fund’’ (referred to in this paragraph as the 
+7
+‘‘Victims Relief Fund’’). 
+8
+(B) DEPOSITS.—The amount of any civil 
+9
+penalty obtained against any covered entity or 
+10
+service provider or any other relief ordered to 
+11
+provide redress, payments or compensation, or 
+12
+other monetary relief to individuals that cannot 
+13
+be located or the payment of which would other-
+14
+wise not be practicable in any judicial or admin-
+15
+istrative action to enforce this Act or a regula-
+16
+tion promulgated under this Act shall be depos-
+17
+ited into the Victims Relief Fund. 
+18
+(C) USE OF FUND AMOUNTS.— 
+19
+(i) AVAILABILITY
+TO
+THE
+COMMIS-
+20
+SION.—Notwithstanding section 3302 of 
+21
+title 31, United States Code, amounts in 
+22
+the Victims Relief Fund shall be available 
+23
+to the Commission, without fiscal year lim-
+24
+itation, to provide redress, payments or 
+25
+00:49 Jul 22, 2022
+H8152
+103 
+•HR 8152 IH
+compensation, or other monetary relief to 
+1
+individuals affected by an act or practice 
+2
+for which relief has been obtained under 
+3
+this Act. 
+4
+(ii) OTHER PERMISSIBLE USES.—To 
+5
+the extent that individuals cannot be lo-
+6
+cated or such redress, payments or com-
+7
+pensation, or other monetary relief are oth-
+8
+erwise not practicable, the Commission 
+9
+may use such funds for the purpose of— 
+10
+(I) funding the activities of the 
+11
+Office of Business Mentorship estab-
+12
+lished under subsection (b); or 
+13
+(II) engaging in technological re-
+14
+search that the Commission considers 
+15
+necessary to enforce or administer 
+16
+this Act. 
+17
+SEC. 402. ENFORCEMENT BY STATE ATTORNEYS GENERAL. 
+18
+(a) CIVIL ACTION.—In any case in which the attor-
+19
+ney general of a State or State Privacy Authority has rea-
+20
+son to believe that an interest of the residents of that 
+21
+State has been, may be, or is adversely affected by the 
+22
+engagement of any a covered entity or service provider in 
+23
+an act or practice that has violated this Act or a regulation 
+24
+promulgated under this Act, the attorney general of the 
+25
+00:49 Jul 22, 2022
+H8152
+104 
+•HR 8152 IH
+State, or State Privacy Authority, may bring a civil action 
+1
+in the name of the State, or as parens patriae on behalf 
+2
+of the residents of the State. Any such action shall be 
+3
+brought exclusively in an appropriate Federal district 
+4
+court of the United States to— 
+5
+(1) enjoin that act or practice; 
+6
+(2) enforce compliance with this Act or the reg-
+7
+ulation; 
+8
+(3) obtain damages, civil penalties, restitution, 
+9
+or other compensation on behalf of the residents of 
+10
+the State; or 
+11
+(4) reasonable attorneys’ fees and other litiga-
+12
+tion costs reasonably incurred. 
+13
+(b) RIGHTS OF THE COMMISSION.— 
+14
+(1) IN GENERAL.—Except where not feasible, 
+15
+the attorney general of a State or State Privacy Au-
+16
+thority shall notify the Commission in writing prior 
+17
+to initiating a civil action under subsection (a). Such 
+18
+notice shall include a copy of the complaint to be 
+19
+filed to initiate such action. Upon receiving such no-
+20
+tice, the Commission may intervene in such action as 
+21
+of right pursuant to the Federal Rules of Civil Pro-
+22
+cedure. 
+23
+(2) NOTIFICATION TIMELINE.—Where it is not 
+24
+feasible for the attorney general of a State or State 
+25
+00:49 Jul 22, 2022
+H8152
+105 
+•HR 8152 IH
+Privacy Authority to provide the notification re-
+1
+quired by paragraph (1) before initiating a civil ac-
+2
+tion under subsection (a), the attorney general of a 
+3
+State or State Privacy Authority shall notify the 
+4
+Commission immediately after initiating the civil ac-
+5
+tion. 
+6
+(c) ACTIONS BY THE COMMISSION.—In any case in 
+7
+which a civil action is instituted by or on behalf of the 
+8
+Commission for violation of this Act or a regulation pro-
+9
+mulgated under this Act, no attorney general or State Pri-
+10
+vacy Authority may, during the pendency of such action, 
+11
+institute a civil action against any defendant named in the 
+12
+complaint in the action instituted by or on behalf of the 
+13
+Commission for violation of this Act or a regulation pro-
+14
+mulgated under this Act that is alleged in such complaint, 
+15
+if the Commission’s complaint alleges such violations af-
+16
+fected the residents of the relevant State or individuals 
+17
+nationwide. In a case brought by the Commission that af-
+18
+fects the interests of a State, an attorney general of such 
+19
+State or State Privacy Authority may intervene as of right 
+20
+pursuant to the Federal Rules of Civil Procedure. 
+21
+(d) RULE OF CONSTRUCTION.—Nothing in this sec-
+22
+tion shall be construed to prevent the attorney general of 
+23
+a State or State Privacy Authority from exercising the 
+24
+powers conferred on the attorney general or State Privacy 
+25
+00:49 Jul 22, 2022
+H8152
+106 
+•HR 8152 IH
+Authority to conduct investigations, to administer oaths 
+1
+or affirmations, or to compel the attendance of witnesses 
+2
+or the production of documentary or other evidence. 
+3
+(e) PRESERVATION OF STATE POWERS.—Except as 
+4
+provided in subsection (c), no provision of this section 
+5
+shall be construed as altering, limiting, or affecting the 
+6
+authority of a State attorney general or State Privacy Au-
+7
+thority to— 
+8
+(1) bring an action or other regulatory pro-
+9
+ceeding arising solely under the laws in effect in that 
+10
+State; or 
+11
+(2) exercise the powers conferred on the attor-
+12
+ney general or State Privacy Authority by the laws 
+13
+of the State, including the ability to conduct inves-
+14
+tigations, administer oaths or affirmations, or com-
+15
+pel the attendance of witnesses or the production of 
+16
+documentary or other evidence. 
+17
+SEC. 403. ENFORCEMENT BY INDIVIDUALS. 
+18
+(a) ENFORCEMENT BY INDIVIDUALS.— 
+19
+(1) IN GENERAL.—Beginning 4 years after the 
+20
+date on which this Act takes effect, any individual 
+21
+who suffers an injury that could be addressed by the 
+22
+relief permitted in paragraph (2) for a violation of 
+23
+this Act or a regulation promulgated under this Act 
+24
+by a covered entity may bring a civil action against 
+25
+00:49 Jul 22, 2022
+H8152
+107 
+•HR 8152 IH
+such entity in any Federal court of competent juris-
+1
+diction. 
+2
+(2) RELIEF.—In a civil action brought under 
+3
+paragraph (1) in which the plaintiff prevails, the 
+4
+court may award the plaintiff— 
+5
+(A) an amount equal to the sum of any ac-
+6
+tual damages sustained; 
+7
+(B) injunctive relief; and 
+8
+(C) reasonable attorney’s fees and litiga-
+9
+tion costs. 
+10
+(3) RIGHTS OF THE COMMISSION AND STATE 
+11
+ATTORNEYS GENERAL.— 
+12
+(A) IN GENERAL.—Prior to an individual 
+13
+bringing a civil action under paragraph (1), 
+14
+such individual must first notify the Commis-
+15
+sion and the attorney general of the State of 
+16
+the individuals residence in writing outlining 
+17
+their desire to commence a civil action. Upon 
+18
+receiving such notice, the Commission and 
+19
+State attorney general shall make a determina-
+20
+tion, not later than 60 days after receiving such 
+21
+notice, as to whether they will independently 
+22
+seek to intervene in such action, and upon in-
+23
+tervening— 
+24
+00:49 Jul 22, 2022
+H8152
+108 
+•HR 8152 IH
+(i) be heard on all matters arising in 
+1
+such action; and 
+2
+(ii) file petitions for appeal of a deci-
+3
+sion in such action. 
+4
+(B) BAD FAITH.—Any written communica-
+5
+tion requesting a monetary payment that is 
+6
+sent to a covered entity shall be considered to 
+7
+have been sent in bad faith and shall be unlaw-
+8
+ful as defined in this Act, if the written commu-
+9
+nication was sent: 
+10
+(i) Prior to the date that is 60 days 
+11
+after either a State attorney general or the 
+12
+Commission has received the notice re-
+13
+quired under subparagraph (A). 
+14
+(ii) After the Commission or attorney 
+15
+general of a State made the determination 
+16
+to independently seek civil actions against 
+17
+such entity as outlined in subparagraph 
+18
+(A). 
+19
+(4) FTC STUDY.—Beginning on the date that 
+20
+is 5 years after the date of enactment of this Act, 
+21
+the Commission’s Bureau of Economics shall con-
+22
+duct an annual study to determine the economic im-
+23
+pacts in the United States of demand letters and the 
+24
+scope of the rights of an individual to bring forth 
+25
+00:49 Jul 22, 2022
+H8152
+109 
+•HR 8152 IH
+civil actions against covered entities. Such study 
+1
+shall include, but not be limited to include the fol-
+2
+lowing: 
+3
+(A) The impact on increasing insurance 
+4
+rates in the United States. 
+5
+(B) The impact on the ability of covered 
+6
+entities to offer new products or services. 
+7
+(C) The impact on the creation and growth 
+8
+of startup companies, including tech startup 
+9
+companies. 
+10
+(D) Any emerging risks and long-term 
+11
+trends in relevant marketplaces, supply chains, 
+12
+and labor availability. 
+13
+(5) REPORT TO CONGRESS.—Not later than 1 
+14
+year after the first day on which individuals are able 
+15
+to bring civil actions under this subsection, and an-
+16
+nually thereafter, the Commission shall submit to 
+17
+the Committee on Energy and Commerce of the 
+18
+House of Representatives and the Committee on 
+19
+Commerce, Science, and Transportation of the Sen-
+20
+ate a report that contains the results of the study 
+21
+conducted under paragraph (4). 
+22
+(b) PRE-DISPUTE ARBITRATION AGREEMENTS AND 
+23
+PRE-DISPUTE JOINT-ACTION WAIVERS RELATED TO IN-
+24
+DIVIDUALS UNDER THE AGE OF 18.— 
+25
+00:49 Jul 22, 2022
+H8152
+110 
+•HR 8152 IH
+(1) ARBITRATION.—Except as provided in sec-
+1
+tion 303(d), and notwithstanding any other provi-
+2
+sion of law, no agreement for pre-dispute arbitration 
+3
+with respect to an individual under the age of 18 
+4
+may limit any of the rights provided in this Act. 
+5
+(2) JOINT-ACTION WAIVERS.—Notwithstanding 
+6
+any other provision of law, no agreement for pre-dis-
+7
+pute joint-action waiver with respect to an individual 
+8
+under the age of 18 may limit any of the rights pro-
+9
+vided in this Act. 
+10
+(3) DEFINITIONS.—For purposes of this sub-
+11
+section: 
+12
+(A) PRE-DISPUTE
+ARBITRATION
+AGREE-
+13
+MENT.—The 
+term 
+‘‘pre-dispute 
+arbitration 
+14
+agreement’’ means any agreement to arbitrate a 
+15
+dispute that has not arisen at the time of the 
+16
+making of the agreement. 
+17
+(B) PRE-DISPUTE
+JOINT-ACTION
+WAIV-
+18
+ER.—The term ‘‘pre-dispute joint-action waiv-
+19
+er’’ means an agreement, whether or not part 
+20
+of a pre-dispute arbitration agreement, that 
+21
+would prohibit or waive the right of 1 of the 
+22
+parties to the agreement to participate in a 
+23
+joint, class, or collective action in a judicial, ar-
+24
+bitral, administrative, or other forum, con-
+25
+00:49 Jul 22, 2022
+H8152
+111 
+•HR 8152 IH
+cerning a dispute that has not yet arisen at the 
+1
+time of the making of the agreement. 
+2
+(c) RIGHT TO CURE.— 
+3
+(1) NOTICE.—Subject to paragraph (3), any ac-
+4
+tion under this section may be brought by an indi-
+5
+vidual if, prior to initiating such action against a 
+6
+covered entity for injunctive relief or against a cov-
+7
+ered entity that meets the requirements of section 
+8
+210(c) for any form of relief the individual provides 
+9
+to the covered entity 45 days’ written notice identi-
+10
+fying the specific provisions of this Act the indi-
+11
+vidual alleges have been or are being violated. 
+12
+(2) EFFECT OF CURE.—In the event a cure is 
+13
+possible, if within the 45 days the covered entity 
+14
+cures the noticed violation and provides the indi-
+15
+vidual an express written statement that the viola-
+16
+tion has been cured and that no further violations 
+17
+shall occur, an action for injunctive relief may be 
+18
+reasonably dismissed. 
+19
+(d) DEMAND LETTER.—If an individual or a class 
+20
+of individuals sends correspondence to a covered entity al-
+21
+leging a violation of the provisions of this Act and request-
+22
+ing a monetary payment, such correspondence shall in-
+23
+clude the following language: ‘‘Please visit the website of 
+24
+the Federal Trade Commission to understand your rights 
+25
+00:49 Jul 22, 2022
+H8152
+112 
+•HR 8152 IH
+pursuant to this letter’’ followed by a hyperlink to the web 
+1
+page of the Commission required under section 201. If 
+2
+such correspondence does not include such language and 
+3
+hyperlink, the individual or joint class of individuals shall 
+4
+forfeit their rights under this section. 
+5
+(e) APPLICABILITY.—This section shall only apply to 
+6
+any claim alleging a violation of section 102, 104, 202, 
+7
+203, 204, 205(a), 205(b), 206(c)(3)(D), 207(a), 208(a), 
+8
+or 302 for which relief described in subsection (a)(2) may 
+9
+be granted. 
+10
+SEC. 404. RELATIONSHIP TO FEDERAL AND STATE LAWS. 
+11
+(a) FEDERAL LAW PRESERVATION.— 
+12
+(1) IN GENERAL.—Nothing in this Act or a reg-
+13
+ulation promulgated under this Act shall be con-
+14
+strued to limit— 
+15
+(A) the authority of the Commission, or 
+16
+any other Executive agency, under any other 
+17
+provision of law; 
+18
+(B) any requirement for a common carrier 
+19
+subject to section 64.2011 of title 47, Code of 
+20
+Federal Regulations, regarding information se-
+21
+curity breaches; or 
+22
+(C) any other provision of Federal law un-
+23
+less specifically authorized by this Act. 
+24
+00:49 Jul 22, 2022
+H8152
+113 
+•HR 8152 IH
+(2) APPLICABILITY
+OF
+OTHER
+PRIVACY
+RE-
+1
+QUIREMENTS.—A covered entity that is required to 
+2
+comply with title V of the Gramm-Leach-Bliley Act 
+3
+(15 U.S.C. 6801 et seq.), the Health Information 
+4
+Technology for Economic and Clinical Health Act 
+5
+(42 U.S.C. 17931 et seq.), part C of title XI of the 
+6
+Social Security Act (42 U.S.C. 1320d et seq.), the 
+7
+Fair Credit Reporting Act (15 U.S.C. 1681 et seq.), 
+8
+the Family Educational Rights and Privacy Act (20 
+9
+U.S.C. 1232g; part 99 of title 34, Code of Federal 
+10
+Regulations), or the regulations promulgated pursu-
+11
+ant to section 264(c) of the Health Insurance Port-
+12
+ability and Accountability Act of 1996 (42 U.S.C. 
+13
+1320d–2 note), and is in compliance with the data 
+14
+privacy requirements of such regulations, part, title, 
+15
+or Act (as applicable), shall be deemed to be in com-
+16
+pliance with the related requirements of this title, 
+17
+except for section 208, with respect to data subject 
+18
+to the requirements of such regulations, part, title, 
+19
+or Act. Not later than 1 year after the date of enact-
+20
+ment of this Act, the Commission shall issue guid-
+21
+ance describing the implementation of this para-
+22
+graph. 
+23
+(3) APPLICABILITY OF OTHER DATA SECURITY 
+24
+REQUIREMENTS.—A covered entity that is required 
+25
+00:49 Jul 22, 2022
+H8152
+114 
+•HR 8152 IH
+to comply with title V of the Gramm-Leach-Bliley 
+1
+Act (15 U.S.C. 6801 et seq.), the Health Informa-
+2
+tion Technology for Economic and Clinical Health 
+3
+Act (42 U.S.C. 17931 et seq.), part C of title XI of 
+4
+the Social Security Act (42 U.S.C. 1320d et seq.), 
+5
+or the regulations promulgated pursuant to section 
+6
+264(c) of the Health Insurance Portability and Ac-
+7
+countability Act of 1996 (42 U.S.C. 1320d–2 note), 
+8
+and is in compliance with the information security 
+9
+requirements of such regulations, part, title, or Act 
+10
+(as applicable), shall be deemed to be in compliance 
+11
+with the requirements of section 208 with respect to 
+12
+data subject to the requirements of such regulations, 
+13
+part, title, or Act. Not later than 1 year after the 
+14
+date of enactment of this Act, the Commission shall 
+15
+issue guidance describing the implementation of this 
+16
+paragraph. 
+17
+(b) PREEMPTION OF STATE LAWS.— 
+18
+(1) IN GENERAL.—No State or political subdivi-
+19
+sion of a State may adopt, maintain, enforce, or con-
+20
+tinue in effect any law, regulation, rule, standard, 
+21
+requirement, or other provision having the force and 
+22
+effect of law of any State, or political subdivision of 
+23
+a State, covered by the provisions of this Act, or a 
+24
+00:49 Jul 22, 2022
+H8152
+115 
+•HR 8152 IH
+rule, regulation, or requirement promulgated under 
+1
+this Act. 
+2
+(2) STATE
+LAW
+PRESERVATION.—Paragraph 
+3
+(1) shall not be construed to preempt, displace, or 
+4
+supplant the following State laws, rules, regulations, 
+5
+or requirements: 
+6
+(A) Consumer protection laws of general 
+7
+applicability such as laws regulating deceptive, 
+8
+unfair, or unconscionable practices. 
+9
+(B) Civil rights laws. 
+10
+(C) Laws that govern the privacy rights or 
+11
+other protections of employees, employee infor-
+12
+mation, students, or student information. 
+13
+(D) Laws that address notification require-
+14
+ments in the event of a data breach. 
+15
+(E) Contract or tort law. 
+16
+(F) Criminal laws governing fraud, theft, 
+17
+including identity theft, unauthorized access to 
+18
+information or electronic devices, or unauthor-
+19
+ized use of information, malicious behavior, or 
+20
+similar provisions, or laws of criminal proce-
+21
+dure. 
+22
+(G) Criminal or civil laws regarding 
+23
+cyberstalking, cyberbullying, nonconsensual por-
+24
+nography, or sexual harassment. 
+25
+00:49 Jul 22, 2022
+H8152
+116 
+•HR 8152 IH
+(H) Public safety or sector specific laws 
+1
+unrelated to privacy or security. 
+2
+(I) Laws that address public records, 
+3
+criminal justice information systems, arrest 
+4
+records, mug shots, conviction records, or non- 
+5
+conviction records. 
+6
+(J) Laws that address banking records, fi-
+7
+nancial records, tax records, Social Security 
+8
+numbers, credit cards, credit reporting and in-
+9
+vestigations, credit repair, credit clinics, or 
+10
+check-cashing services. 
+11
+(K) Laws that solely address facial rec-
+12
+ognition or facial recognition technologies, elec-
+13
+tronic surveillance, wiretapping, or telephone 
+14
+monitoring. 
+15
+(L) The Biometric Information Privacy 
+16
+Act (740 ICLS 14 et seq.) and the Genetic In-
+17
+formation Privacy Act (410 ILCS et seq.). 
+18
+(M) Laws to address unsolicited email 
+19
+messages, telephone solicitation, or caller ID. 
+20
+(N) Laws that address health information, 
+21
+medical information, medical records, HIV sta-
+22
+tus, or HIV testing. 
+23
+(O) Laws that address the confidentiality 
+24
+of library records. 
+25
+00:49 Jul 22, 2022
+H8152
+117 
+•HR 8152 IH
+(P) Section 1798.150 of the California 
+1
+Civil Code (as amended on November 3, 2020, 
+2
+by initiative Proposition 24, section 16). 
+3
+(3) NONAPPLICATION
+OF
+FCC
+PRIVACY
+LAWS 
+4
+AND
+REGULATIONS
+TO
+COVERED
+ENTITIES.—Not-
+5
+withstanding any other provision of law, sections 
+6
+222, 338(i), and 631 of the Communications Act of 
+7
+1934, as amended (47 U.S.C. 222, 338(i), and 551), 
+8
+and any regulation promulgated by the Federal 
+9
+Communications Commission under such sections, 
+10
+shall not apply to any covered entity with respect to 
+11
+the collecting, processing, or transferring of covered 
+12
+data under this Act. 
+13
+(c) PRESERVATION OF COMMON LAW OR STATUTORY 
+14
+CAUSES OF ACTION FOR CIVIL RELIEF.—Nothing in this 
+15
+Act, nor any amendment, standard, rule, requirement, as-
+16
+sessment, law, or regulation promulgated under this Act, 
+17
+shall be construed to preempt, displace, or supplant any 
+18
+Federal or State common law rights or remedies, or any 
+19
+statute creating a remedy for civil relief, including any 
+20
+cause of action for personal injury, wrongful death, prop-
+21
+erty damage, or other financial, physical, reputational, or 
+22
+psychological injury based in negligence, strict liability, 
+23
+products liability, failure to warn, an objectively offensive 
+24
+intrusion into the private affairs or concerns of the indi-
+25
+00:49 Jul 22, 2022
+H8152
+118 
+•HR 8152 IH
+vidual, or any other legal theory of liability under any Fed-
+1
+eral or State common law, or any State statutory law, ex-
+2
+cept that the fact of a violation of this Act shall not be 
+3
+pleaded as an element of any such cause of action. 
+4
+SEC. 405. SEVERABILITY. 
+5
+If any provision of this Act, or the application thereof 
+6
+to any person or circumstance, is held invalid, the remain-
+7
+der of this Act and the application of such provision to 
+8
+other persons not similarly situated or to other cir-
+9
+cumstances shall not be affected by the invalidation. 
+10
+SEC. 406. COPPA. 
+11
+(a) IN GENERAL.—Nothing in this Act shall be con-
+12
+strued to relieve or change any obligations that a covered 
+13
+entity or another person may have under the Children’s 
+14
+Online Privacy Protection Act of 1998 (15 U.S.C. 6501 
+15
+et seq.). 
+16
+(b) UPDATED REGULATIONS.—Not later than 180 
+17
+days after the enactment of this Act, the Commission shall 
+18
+amend its rules issued pursuant to the Children’s Online 
+19
+Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) 
+20
+to make reference to the additional requirements placed 
+21
+on covered entities under this Act, in addition to those 
+22
+already enacted under the Children’s Online Privacy Pro-
+23
+tection Act of 1998 that may already apply to some of 
+24
+such covered entities. 
+25
+00:49 Jul 22, 2022
+H8152
+119 
+•HR 8152 IH
+SEC. 407. AUTHORIZATION OF APPROPRIATIONS. 
+1
+There are authorized to be appropriated to the Com-
+2
+mission such sums as necessary to carry out this Act. 
+3
+SEC. 408. EFFECTIVE DATE. 
+4
+Except as otherwise provided, this Act shall take ef-
+5
+fect on the date that is 180 days after the date of enact-
+6
+ment of this Act. 
+7
+Æ 
+00:49 Jul 22, 2022
+H8152

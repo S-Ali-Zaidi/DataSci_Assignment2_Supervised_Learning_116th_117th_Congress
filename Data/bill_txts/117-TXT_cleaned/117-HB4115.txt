@@ -1,0 +1,3428 @@
+A BILL 
+To amend the Fair Credit Reporting act to restore the im-
+paired credit of victims of predatory activities and unfair 
+consumer reporting practices, to expand access to tools 
+to protect vulnerable consumers from identity theft, 
+fraud, or a related crime, and protect victims from fur-
+ther harm, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS. 
+3
+(a) SHORT TITLE.—This Act may be cited as the 
+4
+‘‘Restoring Unfairly Impaired Credit and Protecting Con-
+5
+sumers Act’’. 
+6
+21:57 Jul 26, 2021
+H4115
+2 
+•HR 4115 IH
+(b) TABLE OF CONTENTS.—The table of contents for 
+1
+this Act is as follows: 
+2
+Sec. 1. Short title; table of contents. 
+Sec. 2. Findings. 
+Sec. 3. Effective date. 
+Sec. 4. General Bureau rulemaking. 
+TITLE I—RESTORING THE IMPAIRED CREDIT OF VICTIMS OF 
+PREDATORY ACTIVITIES AND UNFAIR CONSUMER REPORTING 
+PRACTICES 
+Sec. 101. Shortens the time period that most adverse credit information stays 
+on consumer reports. 
+Sec. 102. Mandates the expedited removal of fully paid or settled debt from 
+consumer reports. 
+Sec. 103. Imposes restrictions on the appearance of medical collections on con-
+sumer reports and requires the expedited removal of fully paid 
+or settled medical collections from consumer reports. 
+Sec. 104. Provides credit restoration for victims of predatory mortgage lending 
+and servicing. 
+Sec. 105. Provides credit relief for private education loans borrowers who were 
+defrauded or mislead by proprietary education institution or 
+career education programs. 
+Sec. 106. Establishes right for victims of financial abuse to have adverse infor-
+mation associated with an abuser’s fraudulent activity removed 
+from their consumer reports. 
+Sec. 107. Prohibits treatment of credit restoration or rehabilitation as adverse 
+information. 
+TITLE II—EXPANDING ACCESS TO TOOLS TO PROTECT VULNER-
+ABLE CONSUMERS FROM IDENTITY THEFT, FRAUD, OR A RE-
+LATED CRIME, AND PROTECT VICTIMS FROM FURTHER HARM 
+Sec. 201. Identity theft report definition. 
+Sec. 202. Amendment to protection for files and credit records of protected 
+consumers. 
+Sec. 203. Enhances fraud alert protections. 
+Sec. 204. Amendment to security freezes for consumer reports. 
+Sec. 205. Clarification of information to be included with agency disclosures. 
+Sec. 206. Provides access to fraud records for victims. 
+Sec. 207. Required Bureau to set procedures for reporting identity theft, fraud, 
+and other related crime. 
+Sec. 208. Establishes the right to free credit monitoring and identity theft pro-
+tection services for certain consumers. 
+Sec. 209. Ensures removal of inquiries resulting from identity theft, fraud, or 
+other related crime from consumer reports. 
+TITLE III—MISCELLANEOUS 
+Sec. 301. Definitions. 
+Sec. 302. Technical correction related to risk-based pricing notices. 
+Sec. 303. FCRA findings and purpose; voids certain contracts not in the public 
+interest. 
+21:57 Jul 26, 2021
+H4115
+3 
+•HR 4115 IH
+SEC. 2. FINDINGS. 
+1
+Congress finds the following: 
+2
+(1) GENERAL FINDINGS.— 
+3
+(A) 
+Consumer 
+reporting 
+agencies 
+4
+(‘‘CRAs’’) are companies that collect, compile, 
+5
+and provide information about consumers in the 
+6
+form of consumer reports for certain permis-
+7
+sible statutory purposes under the Fair Credit 
+8
+Reporting Act (15 U.S.C. 1681 et seq.) 
+9
+(‘‘FCRA’’). The three largest CRAs in this 
+10
+country 
+are 
+Equifax, 
+TransUnion, 
+and 
+11
+Experian. These CRAs are referred to as na-
+12
+tionwide CRAs and the reports that they pre-
+13
+pare are commonly referred to as credit reports. 
+14
+Furnishers, such as creditors, lenders, and debt 
+15
+collection agencies, voluntarily submit informa-
+16
+tion to CRAs about their accounts such as the 
+17
+total amount for each loan or credit limit for 
+18
+each credit card and the consumer’s payment 
+19
+history on these products. Reports also include 
+20
+identifying information about a consumer, such 
+21
+as their birthdate, previous mailing addresses, 
+22
+and current and previous employers. 
+23
+(B) In a December 2012 paper, ‘‘Key Di-
+24
+mensions and Processes in the U.S. Credit Re-
+25
+porting System: A review for how the nation’s 
+26
+21:57 Jul 26, 2021
+H4115
+4 
+•HR 4115 IH
+largest credit bureaus manage consumer data’’, 
+1
+the Bureau of Consumer Financial Protection 
+2
+(‘‘Consumer Bureau’’) noted that the three na-
+3
+tionwide CRAs maintain credit files on approxi-
+4
+mately 200 million adults and receive informa-
+5
+tion from about 10,000 furnishers. On a 
+6
+monthly basis, these furnishers provide infor-
+7
+mation on over 1.3 billion consumer credit ac-
+8
+counts or other trade lines. 
+9
+(C) The 10 largest institutions furnishing 
+10
+credit information to each of the nationwide 
+11
+CRAs account for more than half of all ac-
+12
+counts reflected in consumers’ credit files. 
+13
+(D) Consumer reports play an increasingly 
+14
+important role in the lives of American con-
+15
+sumers. Most creditors, for example, review 
+16
+these reports to make decisions about whether 
+17
+to extend credit to consumers and what terms 
+18
+and conditions to offer them. As such, informa-
+19
+tion contained in these reports affects whether 
+20
+a person is able to get a private education loan 
+21
+to pay for college costs, to secure a mortgage 
+22
+loan to buy a home, or to obtain a credit card, 
+23
+as well as the terms and conditions under which 
+24
+21:57 Jul 26, 2021
+H4115
+5 
+•HR 4115 IH
+consumer credit products or services are offered 
+1
+to them. 
+2
+(E) Credit reports are also increasingly 
+3
+used for many noncredit decisions, including by 
+4
+landlords to determine whether to rent an 
+5
+apartment to a prospective tenant and by em-
+6
+ployers to decide whether to hire potential job 
+7
+applicants or to offer a promotion to existing 
+8
+employees. 
+9
+(F) CRAs have a statutory obligation to 
+10
+verify independently the accuracy and complete-
+11
+ness of information included on the reports that 
+12
+they provide. 
+13
+(G) The nationwide CRAs have failed to 
+14
+establish and follow reasonable procedures, as 
+15
+required by existing law, to establish the max-
+16
+imum level of accuracy of information contained 
+17
+on consumer reports. Given the repeated fail-
+18
+ures of these CRAs to comply with accuracy re-
+19
+quirements on their own, legislation is intended 
+20
+to provide them with detailed guidance improv-
+21
+ing the accuracy and completeness of informa-
+22
+tion contained in consumer reports, including 
+23
+procedures, policies, and practices that these 
+24
+21:57 Jul 26, 2021
+H4115
+6 
+•HR 4115 IH
+CRAs should already be following to ensure full 
+1
+compliance with their existing obligations. 
+2
+(H) The presence of inaccurate or incom-
+3
+plete information on these reports can result in 
+4
+substantial financial and emotional harm to 
+5
+consumers. Credit reporting errors can lead to 
+6
+the loss of a new employment opportunity or a 
+7
+denial of a promotion in an existing job, stop 
+8
+someone from being able to access credit on fa-
+9
+vorable terms, prevent a person from obtaining 
+10
+rental housing, or even trigger mental distress. 
+11
+(I) Current industry practices impose an 
+12
+unfair burden of proof on consumers trying to 
+13
+fix errors on their reports. 
+14
+(J) Consumer reports containing inac-
+15
+curate or incomplete credit information also un-
+16
+dermine the ability of creditors and lenders to 
+17
+effectively and accurately underwrite and price 
+18
+credit. 
+19
+(K) Recognizing that credit reporting af-
+20
+fects the lives of almost all consumers in this 
+21
+country and that the consequences of errors on 
+22
+a consumer report can be catastrophic for a 
+23
+consumer, the Consumer Bureau began accept-
+24
+21:57 Jul 26, 2021
+H4115
+7 
+•HR 4115 IH
+ing consumer complaints about credit reporting 
+1
+in October 2012. 
+2
+(L) As of February 2017, the Consumer 
+3
+Bureau has handled approximately 185,717 
+4
+credit reporting complaints, making credit re-
+5
+porting consistently the third most-complained- 
+6
+about subject matter on which the Consumer 
+7
+Bureau accepts consumer complaints. 
+8
+(M) In the ‘‘Monthly Complaint Report 
+9
+Volume 20’’, released in February 2017, the 
+10
+Consumer Bureau noted that 76 percent of 
+11
+credit reporting complaints involved incorrect 
+12
+information on reports, with consumers fre-
+13
+quently expressing their frustrations about the 
+14
+burdensome and time-consuming process to dis-
+15
+puting items. 
+16
+(N) Other common types of credit report-
+17
+ing complaints submitted to the Consumer Bu-
+18
+reau related to the improper use of a report, 
+19
+trouble obtaining a report or credit score, 
+20
+CRAs’ investigations, and credit monitoring or 
+21
+identity protection. 
+22
+(O) In the summer 2015 ‘‘Supervisory 
+23
+Highlights’’, the Consumer Bureau noted that 
+24
+one or more of the largest CRAs failed to ade-
+25
+21:57 Jul 26, 2021
+H4115
+8 
+•HR 4115 IH
+quately oversee furnishers to ensure that they 
+1
+were adhering to the CRA’s vetting policies and 
+2
+to establish proper procedures to verify public 
+3
+record information. 
+4
+(P) According to the fall 2016 ‘‘Super-
+5
+visory Highlights’’, Consumer Bureau exam-
+6
+iners determined that one or more debt collec-
+7
+tors never investigated indirect disputes that 
+8
+lacked detail or were not accompanied by at-
+9
+tachments with relevant information from the 
+10
+consumer. Examiners also found that notifica-
+11
+tions sent to consumers about disputes consid-
+12
+ered frivolous failed to identify for the con-
+13
+sumers the type of material that they could pro-
+14
+vide in order for the debt collector to complete 
+15
+the investigation of the disputed item. 
+16
+(Q) A February 2014 Consumer Bureau 
+17
+report titled ‘‘Credit Reporting Complaint 
+18
+Snapshot’’ found that consumers are confused 
+19
+about the extent to which the nationwide CRAs 
+20
+are required to provide them with validation 
+21
+and documentation of a debt that appears on 
+22
+their credit report. 
+23
+(R) As evidence that the current system 
+24
+lacks sufficient market incentives for CRAs to 
+25
+21:57 Jul 26, 2021
+H4115
+9 
+•HR 4115 IH
+develop more robust procedures to increase the 
+1
+accuracy and completeness of information on 
+2
+credit reports, litigation discovery documented 
+3
+by 
+the 
+National 
+Consumer 
+Law 
+Center 
+4
+(‘‘NCLC’’), as part of a January 2009 report 
+5
+titled, ‘‘Automated Injustice: How a Mecha-
+6
+nized Dispute System Frustrates Consumers 
+7
+Seeking to Fix Errors in Their Credit Re-
+8
+ports’’, showed that at least two of the three 
+9
+largest CRAs use quota systems to force em-
+10
+ployees to process disputes hastily and without 
+11
+the opportunity for conducting meaningful in-
+12
+vestigations. At least one nationwide CRA only 
+13
+allowed dispute resolution staff five minutes to 
+14
+handle a consumer’s call. Furthermore, these 
+15
+CRAs were found to have awarded bonuses for 
+16
+meeting quotas and punished those who didn’t 
+17
+meet production numbers with probation. 
+18
+(S) Unlike most other business relation-
+19
+ships, where consumers can register their satis-
+20
+faction or unhappiness with a particular credit 
+21
+product or service simply by taking their busi-
+22
+ness elsewhere, consumers have no say in 
+23
+whether their information is included in the 
+24
+CRAs databases and limited legal remedies to 
+25
+21:57 Jul 26, 2021
+H4115
+10 
+•HR 4115 IH
+hold the CRAs accountable for inaccuracies or 
+1
+poor service. 
+2
+(T) Accordingly, despite the existing statu-
+3
+tory mandate for CRAs to follow reasonable 
+4
+procedures to assure the maximum possible ac-
+5
+curacy of the information whenever they pre-
+6
+pare consumer reports, numerous studies, the 
+7
+high volume of consumer complaints submitted 
+8
+to the Consumer Bureau about incorrect infor-
+9
+mation on consumer reports, and supervisory 
+10
+activities by the Consumer Bureau demonstrate 
+11
+that CRAs continue to skirt their obligations 
+12
+under the law. 
+13
+(2) PRIVATE EDUCATION LOANS.— 
+14
+(A) The Consumer Bureau’s October 2014 
+15
+report titled ‘‘Annual Report of the CFPB Stu-
+16
+dent Loan Ombudsman’’ noted many private 
+17
+education loan borrowers, who sought to nego-
+18
+tiate a modified repayment plan when they were 
+19
+experiencing a period of financial distress, were 
+20
+unable to get assistance from their loan holders, 
+21
+which often resulting in them defaulting on 
+22
+their loans. This pattern resembles the dif-
+23
+ficulty that a significant number of mortgage 
+24
+loan borrowers experienced when they sought to 
+25
+21:57 Jul 26, 2021
+H4115
+11 
+•HR 4115 IH
+take responsible steps to work with their mort-
+1
+gage loan servicer to avoid foreclosure during 
+2
+the Great Recession. 
+3
+(B) Although private student loan holders 
+4
+may allow a borrower to postpone payments 
+5
+while enrolled in school full-time, many limit 
+6
+this option to a certain time period, usually 48 
+7
+to 66 months. This limited time period may not 
+8
+be sufficient for those who need additional time 
+9
+to obtain their degree or who want to continue 
+10
+their education by pursing a graduate or profes-
+11
+sional degree. The Consumer Bureau found 
+12
+that borrowers who were unable to make pay-
+13
+ments often defaulted or had their accounts 
+14
+sent to collections before they were even able to 
+15
+graduate. 
+16
+(3) DECEPTIVE PRACTICES AT CERTAIN PRO-
+17
+PRIETARY EDUCATION INSTITUTIONS AND CAREER 
+18
+EDUCATION PROGRAMS.— 
+19
+(A) NCLC cited the proliferation of law 
+20
+enforcement actions against many for-profit 
+21
+schools in its June 2014 report, titled ‘‘Ensur-
+22
+ing Educational Integrity: 10 Steps to Improve 
+23
+State Oversight of For-profit Schools’’, to dem-
+24
+onstrate the pervasive problem in this sector of 
+25
+21:57 Jul 26, 2021
+H4115
+12 
+•HR 4115 IH
+targeting low-income students with deceptive 
+1
+high-pressure sales techniques involving inflated 
+2
+job placement rates and misleading data on 
+3
+graduate wages, and false representations about 
+4
+the transferability of credits and the employ-
+5
+ability of graduates in occupations that require 
+6
+licensure. Student loan borrowers at these 
+7
+schools may be left with nothing but worthless 
+8
+credentials and large debt. Those who default 
+9
+on their student loans face years with damaged 
+10
+credit that will adversely impact their ability to 
+11
+rent or buy homes, purchase cars, and find em-
+12
+ployment. 
+13
+(B) The closure and bankruptcy of Corin-
+14
+thian Colleges, which was found to have de-
+15
+ceived students by steering them into high-in-
+16
+terest student loans based on misleading grad-
+17
+uation rates and employment data, is a good 
+18
+example of the problem. Even after its closure, 
+19
+many Corinthian students remained saddled 
+20
+with student loan debt, worthless degrees, and 
+21
+few prospects for employment. 
+22
+(C) Attending a two-year, for-profit college 
+23
+costs, on average, four times as much as at-
+24
+tending a community college. Students at for- 
+25
+21:57 Jul 26, 2021
+H4115
+13 
+•HR 4115 IH
+profit colleges represent only about 11 percent 
+1
+of the total higher education population but a 
+2
+startling 44 percent of all Federal student loan 
+3
+defaults, according to the United States De-
+4
+partment of Education (‘‘DOE’’). 
+5
+(D) According to NCLC, a dispropor-
+6
+tionate number of for-profit students are low-in-
+7
+come and people of color. These schools target 
+8
+veterans, working parents, first-generation stu-
+9
+dents, and non-English speaking students, who 
+10
+may be more likely than their public or private 
+11
+nonprofit school counterparts to drop out, incur 
+12
+enormous student debt, and default on this 
+13
+debt. In the 2011–2012 school year, 28 percent 
+14
+of African Americans and 15 percent of Latinos 
+15
+attending four-year institutions were enrolled in 
+16
+a for-profit school, compared to 10 percent of 
+17
+Whites. 
+18
+(E) As highlighted in a press release titled 
+19
+‘‘Obama Administration Announces Final Rules 
+20
+to Protect Students from Poor-Performing Ca-
+21
+reer College Programs’’, that was issued by the 
+22
+DOE on October 30, 2014, ‘‘øt¿oo often, stu-
+23
+dents at career colleges—including thousands of 
+24
+veterans—are charged excessive costs, but don’t 
+25
+21:57 Jul 26, 2021
+H4115
+14 
+•HR 4115 IH
+get the education they paid for. Instead, stu-
+1
+dents in such programs are provided with poor 
+2
+quality training, often for low-wage jobs or in 
+3
+occupations where there are simply no job op-
+4
+portunities. They find themselves with large 
+5
+amounts of debt and, too often, end up in de-
+6
+fault. In many cases, students are drawn into 
+7
+these programs with confusing or misleading in-
+8
+formation.’’. 
+9
+(4) MEDICAL DEBT.— 
+10
+(A) Research by the Consumer Bureau has 
+11
+found that the inclusion of medical collections 
+12
+on consumer reports has unfairly reduced con-
+13
+sumers’ credit scores. 
+14
+(B) The Consumer Bureau’s review of 5 
+15
+million anonymized credit files from September 
+16
+2011 to September 2013, for example, found 
+17
+that credit scores may underestimate a person’s 
+18
+creditworthiness by up to 10 points for those 
+19
+who owe medical debt, and may underestimate 
+20
+a person’s creditworthiness by up to 22 points 
+21
+after the medical debt has been paid. For con-
+22
+sumers with lower credit scores, especially those 
+23
+on the brink of what is considered subprime, a 
+24
+10 to 22 point decrease in their credit scores 
+25
+21:57 Jul 26, 2021
+H4115
+15 
+•HR 4115 IH
+can have a significant impact on their lives, in-
+1
+cluding by affecting whether they are able to 
+2
+qualify for credit and, if so, the terms and con-
+3
+ditions under which it is extended to them. 
+4
+(C) The Consumer Bureau found that half 
+5
+of all collections trade lines that appear on con-
+6
+sumer reports are related to medical bills 
+7
+claimed to be owed to hospitals and other med-
+8
+ical providers. These trade lines affect the re-
+9
+ports of nearly 1/5 of all consumers in the cred-
+10
+it reporting system. 
+11
+(D) The Consumer Bureau has found that 
+12
+there are no objective or enforceable standards 
+13
+that determine when a debt can or should be 
+14
+reported as a collection trade line. Because debt 
+15
+buyers and collectors determine whether, when, 
+16
+and for how long to report a collection account, 
+17
+there is only a limited relationship between the 
+18
+time period reported, the severity of a delin-
+19
+quency, and when or whether a collection trade 
+20
+line appears on a consumer’s credit report. 
+21
+(E) Medical bills can be complex and con-
+22
+fusing for many consumers, which results in 
+23
+consumers’ uncertainty about what they owe, to 
+24
+whom, when, or for what, that may cause some 
+25
+21:57 Jul 26, 2021
+H4115
+16 
+•HR 4115 IH
+people, who ordinarily pay their bills on time, to 
+1
+delay or withhold payments on their medical 
+2
+debts. This uncertainty can also result in med-
+3
+ical collections appearing on consumer reports. 
+4
+In a December 2014 report titled ‘‘Consumer 
+5
+Credit Reports: A Study of Medical and Non- 
+6
+Medical Collections’’, the Consumer Bureau 
+7
+found that a large portion of consumers with 
+8
+medical collections show no other evidence of fi-
+9
+nancial distress and are consumers who ordi-
+10
+narily pay their other financial obligations on 
+11
+time. Unlike with most credit products or serv-
+12
+ices, such as credit cards, installment loans, 
+13
+utilities, or wireless or cable services that have 
+14
+contractual account disclosures describing the 
+15
+terms and conditions of use, most consumers 
+16
+are not told what their out-of-pocket medical 
+17
+costs will be in advance. Consumers needing ur-
+18
+gent or emergency care rarely know, or are pro-
+19
+vided, the cost of a medical treatment or proce-
+20
+dure before the service is rendered. 
+21
+(F) The Consumer Bureau concluded that 
+22
+the presence of medical collections is less pre-
+23
+dictive of future defaults or serious delin-
+24
+quencies than the presence of a nonmedical col-
+25
+21:57 Jul 26, 2021
+H4115
+17 
+•HR 4115 IH
+lection in a study titled ‘‘Data Point: Medical 
+1
+Debt and Credit Scores’’, issued in May 2014. 
+2
+(G) FICO’s latest credit scoring model, 
+3
+‘‘FICO 9’’, changes the treatment of paid col-
+4
+lections to disregard any collection matters that 
+5
+the consumer has paid in full. FICO 9, how-
+6
+ever, is not yet widely used by lenders. 
+7
+(H) VantageScore’s latest credit scoring 
+8
+model, ‘‘VantageScore 4.0’’, will be available in 
+9
+the fall of 2017. This model will penalize med-
+10
+ical collections less than non-medical ones. 
+11
+(I) The three nationwide CRAs entered 
+12
+into a settlement agreement with the New York 
+13
+State attorney general in 2015 to address defi-
+14
+ciencies in their dispute resolution process and 
+15
+enhance the accuracy of items on reports. These 
+16
+policy changes will be implemented in a three- 
+17
+phrased rollout, culminating by June 2018. 
+18
+Subsequently, these CRAs entered into a coop-
+19
+erative agreement with 31 State Attorneys Gen-
+20
+eral, which was the basis of the creation of the 
+21
+National Consumer Assistance Plan (‘‘NCAP’’) 
+22
+to change some of their business practices. 
+23
+(J) While the CRAs appear to be volun-
+24
+tarily adopting policy changes on a nationwide 
+25
+21:57 Jul 26, 2021
+H4115
+18 
+•HR 4115 IH
+basis, they are not obligated to do so for con-
+1
+sumers who reside in States that are not party 
+2
+to any of the consent orders. 
+3
+(K) As a result of the settlement agree-
+4
+ments, the three nationwide CRAs will set a 
+5
+180-day waiting period before including medical 
+6
+collections on a report and will remove a med-
+7
+ical collection from a report once it is paid by 
+8
+an insurance company. While this change will 
+9
+benefit many, once a medical collection appears 
+10
+on a report, it will only be deleted or suppressed 
+11
+if it is found to have been the insurance com-
+12
+pany’s obligation to pay and the insurer pays it. 
+13
+Given the research showing there is little pre-
+14
+dictive value in medical debt information, med-
+15
+ical collections that are paid or settled should 
+16
+quickly be removed from a report, regardless of 
+17
+who pays or settles this debt. 
+18
+(5) FINANCIAL ABUSE BY KNOWN PERSONS.— 
+19
+(A) Financial abuse and exploitation are 
+20
+frequently associated with domestic violence. 
+21
+This type of abuse may result in fraudulent 
+22
+charges to a credit card or having fraudulent 
+23
+accounts created by the abuser in the survivor’s 
+24
+name. Financial abuse may also result in the 
+25
+21:57 Jul 26, 2021
+H4115
+19 
+•HR 4115 IH
+survivor’s inability to make timely payments on 
+1
+their valid obligations due to loss or changes in 
+2
+income that can occur when their abuser steals 
+3
+from or coerces the survivor to relinquish their 
+4
+paychecks or savings. 
+5
+(B) By racking up substantial debts in the 
+6
+survivor’s name, abusers are able to exercise fi-
+7
+nancial control over their survivors to make it 
+8
+economically difficult for the survivor, whose 
+9
+credit is often destroyed, to escape the situa-
+10
+tion. 
+11
+(C) Domestic abuse survivors with poor 
+12
+credit are likely to face significant obstacles in 
+13
+establishing financial independence from their 
+14
+abusers. This can be due, in part, because con-
+15
+sumer reports may be used when a person at-
+16
+tempts to obtain a checking account, housing, 
+17
+insurance, utilities, employment, and even a se-
+18
+curity clearance as required for certain jobs. 
+19
+(D) Providing documentation of identity 
+20
+(‘‘ID’’) theft in order to dispute information on 
+21
+one’s consumer report can be particularly chal-
+22
+lenging for those who know their financial 
+23
+abuser. 
+24
+21:57 Jul 26, 2021
+H4115
+20 
+•HR 4115 IH
+(E) While it is easier for consumers who 
+1
+obtain a police report to remove fraudulent in-
+2
+formation from their consumer report and pre-
+3
+vent it from reappearing in the future, accord-
+4
+ing to the Empire Justice Center, safety and 
+5
+other noncredit concerns may impact the capac-
+6
+ity of a survivor of financial abuse committed 
+7
+by a known person to turn to law enforcement 
+8
+to get a police report. 
+9
+(F) According to the Legal Aid Society in 
+10
+New York, domestic abuse survivors, seeking to 
+11
+remove adverse information stemming from fi-
+12
+nancial abuse by contacting their furnishers di-
+13
+rectly, are likely to face skepticism about claims 
+14
+of ID theft perpetrated by a partner because of 
+15
+an assumption that they are aware of, and may 
+16
+have been complicit in, the activity which the 
+17
+survivor alleges stems from financial abuse. 
+18
+(6) DECEPTIVE AND MISLEADING MARKETING 
+19
+PRACTICES.— 
+20
+(A) The Consumer Bureau’s February 
+21
+2015 report titled ‘‘Consumer Voices on Credit 
+22
+Reports and Scores’’ found that some con-
+23
+sumers did not obtain a copy of their consumer 
+24
+report due to concerns about security or of 
+25
+21:57 Jul 26, 2021
+H4115
+21 
+•HR 4115 IH
+being trapped into purchasing unwanted prod-
+1
+ucts like an additional report or a credit moni-
+2
+toring service. 
+3
+(B) In January 2017, the Consumer Bu-
+4
+reau fined TransUnion and Equifax for decep-
+5
+tively marketing credit scores for purchase by 
+6
+consumers as the same credit scores typically 
+7
+used by lenders to determine creditworthiness 
+8
+and for luring consumers into costly subscrip-
+9
+tion services that were advertised as ‘‘free’’ or 
+10
+‘‘$1’’ that automatically charged recurring fees 
+11
+unless cancelled by consumers. The Consumer 
+12
+Bureau also found that Equifax was illegally 
+13
+advertising its products on webpages that con-
+14
+sumers 
+accessed 
+through 
+15
+AnnualCreditReport.com before consumers ob-
+16
+tained their free disclosures. Because of these 
+17
+troubling practices, TransUnion was ordered to 
+18
+pay $13.9 million in restitution to harmed con-
+19
+sumers and a civil penalty of $3 million to the 
+20
+Consumer Bureau. Equifax was ordered to pay 
+21
+more than $3.7 million to affected consumers 
+22
+as well as a civil money penalty of $2.5 million 
+23
+to the Consumer Bureau. As part of the con-
+24
+sent orders, the CRAs are also supposed to 
+25
+21:57 Jul 26, 2021
+H4115
+22 
+•HR 4115 IH
+change the way that they sell their products to 
+1
+consumers. The CRAs must also obtain con-
+2
+sumers’ express consent before enrolling them 
+3
+into subscription services as well as make it 
+4
+easer for consumers to cancel these programs. 
+5
+(C) The Consumer Bureau fined the other 
+6
+nationwide CRA—Experian—in March 2017 
+7
+for deceiving consumers about the use of credit 
+8
+scores that it marketed and sold to consumers 
+9
+as credit scores that were used by lenders and 
+10
+for illegally advertising its products on web 
+11
+pages 
+that 
+consumers 
+accessed 
+through 
+12
+AnnualCreditReport.com before they obtained 
+13
+their free annual disclosures. Experian was or-
+14
+dered to pay more than $3.7 million in restitu-
+15
+tion to harmed consumers and a civil monetary 
+16
+penalty of $2.5 million to the Consumer Bu-
+17
+reau. 
+18
+(D) The Consumer Bureau’s January and 
+19
+March 2017 consent orders with the three na-
+20
+tionwide CRAs show that these CRAs have en-
+21
+ticed consumers into purchasing products and 
+22
+services that they may not want or need, in 
+23
+some instances by advertising products or serv-
+24
+ices ‘‘free’’ that automatically converted into an 
+25
+21:57 Jul 26, 2021
+H4115
+23 
+•HR 4115 IH
+ongoing subscription service at the regular price 
+1
+unless cancelled by the consumer. Although 
+2
+these CRAs must now change their deceptive 
+3
+marketing practices, codifying these duties is an 
+4
+appropriate way to ensure that these companies 
+5
+never revert back to such misleading tactics. 
+6
+(E) Given the ubiquitous use of consumer 
+7
+reports in consumers’ lives and the fact that 
+8
+consumers’ participation in the credit reporting 
+9
+system is involuntary, CRAs should also 
+10
+prioritize providing consumers with the effective 
+11
+means to safeguard their personal and financial 
+12
+information and improve their credit standing, 
+13
+rather than seeking to exploit consumers’ con-
+14
+cerns and confusion about credit reporting and 
+15
+scoring, to boost their companies’ profits. 
+16
+(F) Vulnerable consumers, who have legiti-
+17
+mate concerns about the security of their per-
+18
+sonal and financial information, deserve clear, 
+19
+accurate, and transparent information about 
+20
+the credit reporting tools that may be available 
+21
+to them, such as fraud alerts and freezes. 
+22
+(7) PROTECTIONS FOR CONSUMERS’ CREDIT IN-
+23
+FORMATION.— 
+24
+21:57 Jul 26, 2021
+H4115
+24 
+•HR 4115 IH
+(A) Despite heightened awareness, inci-
+1
+dents of ID theft continue to rise. In February 
+2
+2015, the FTC reported that ID theft was the 
+3
+top consumer complaint that it received for the 
+4
+15th consecutive year. As these incidents in-
+5
+crease, consumers experience significant finan-
+6
+cial loss and emotional distress from the inabil-
+7
+ity to safeguard effectively and inexpensively 
+8
+their credit information from bad actors. 
+9
+(B) According to a Carnegie Mellon study, 
+10
+children are 50 times more likely than adults to 
+11
+have their identities stolen. Child identities are 
+12
+valuable to thieves because most children do not 
+13
+have existing files, and their parents may not 
+14
+notice fraudulent activity until their child ap-
+15
+plies for a student loan, a job, or a credit card. 
+16
+As a result, the fraudulent activity of the bad 
+17
+actors may go undetected for years. 
+18
+(C) Despite the increasing incidents of 
+19
+children’s ID theft, parents who want to 
+20
+proactively prevent their children from having 
+21
+their identity stolen, may not be able to do so. 
+22
+Only one of the three nationwide CRAs cur-
+23
+rently allows parents from any State to set up 
+24
+a freeze for a minor child. At the other two na-
+25
+21:57 Jul 26, 2021
+H4115
+25 
+•HR 4115 IH
+tionwide CRAs, parents can only obtain a freeze 
+1
+after a child has become an ID theft victim be-
+2
+cause, it is only at this point, that these CRAs 
+3
+have an existing credit file for the child. While 
+4
+many States have enacted laws to address this 
+5
+problem, there is no existing Federal law. 
+6
+(D) According to Javelin Strategy & 
+7
+Research’s 2015 Identity Fraud study, $16 bil-
+8
+lion was stolen by fraudsters from 12.7 million 
+9
+American consumers in 2014. Similarly, the 
+10
+United States Department of Justice found an 
+11
+estimated 7 percent of all residents age 16 or 
+12
+older (about 17.6 million persons) in this coun-
+13
+try were victims of one or more incidents of ID 
+14
+theft in 2014, and the number of elderly victims 
+15
+age 65 or older (about 86 percent) increased 
+16
+from 2.1 million in 2012 to 2.6 million in 2014. 
+17
+(E) Consumers frequently express concern 
+18
+about the security of their financial informa-
+19
+tion. According to a 2015 MasterCard survey, 
+20
+a majority of consumers (77 percent) have anx-
+21
+iety about the possibility that their financial in-
+22
+formation and Social Security numbers may be 
+23
+stolen or compromised, with about 55 percent 
+24
+of consumers indicating that they would rather 
+25
+21:57 Jul 26, 2021
+H4115
+26 
+•HR 4115 IH
+have naked pictures of themselves leaked online 
+1
+than have their financial information stolen. 
+2
+(F) That survey also revealed that con-
+3
+sumers’ fears about the online security of their 
+4
+financial information even outweighed con-
+5
+sumers’ worries about other physical security 
+6
+dangers such as having their houses robbed (59 
+7
+percent) or being pickpocketed (46 percent). 
+8
+(G) According to Consumer Reports, 
+9
+roughly 50 million American consumers spent 
+10
+about $3.5 billion in 2010 to purchase products 
+11
+aimed at protecting their identity, with the an-
+12
+nual cost of these services ranging from $120 
+13
+to $300. As risks to consumers’ personal and fi-
+14
+nancial information continue to grow, con-
+15
+sumers need additional protections to ensure 
+16
+that they have fair and reasonable access to the 
+17
+full suite of ID theft and fraud prevention 
+18
+measures that may be right for them. 
+19
+SEC. 3. EFFECTIVE DATE. 
+20
+Except as otherwise specified, the amendments made 
+21
+by this Act shall take effect 2 years after the date of the 
+22
+enactment of this Act. 
+23
+21:57 Jul 26, 2021
+H4115
+27 
+•HR 4115 IH
+SEC. 4. GENERAL BUREAU RULEMAKING. 
+1
+Except as otherwise provided, not later than the end 
+2
+of the 2-year period beginning on the date of the enact-
+3
+ment of this Act, the Bureau of Consumer Financial Pro-
+4
+tection shall issue final rules to implement the amend-
+5
+ments made by this Act. 
+6
+TITLE I—RESTORING THE IM-
+7
+PAIRED CREDIT OF VICTIMS 
+8
+OF PREDATORY ACTIVITIES 
+9
+AND UNFAIR CONSUMER RE-
+10
+11
+SEC. 101. SHORTENS THE TIME PERIOD THAT MOST AD-
+12
+VERSE CREDIT INFORMATION STAYS ON CON-
+13
+SUMER REPORTS. 
+14
+(a) IN GENERAL.—Section 605 of the Fair Credit 
+15
+Reporting Act (15 U.S.C. 1681c) is amended— 
+16
+(1) in subsection (a)— 
+17
+(A) by striking ‘‘Except as authorized 
+18
+under subsection (b), no’’ and inserting ‘‘No’’; 
+19
+(B) in paragraph (1), by striking ‘‘10 
+20
+years’’ and inserting ‘‘7 years’’; 
+21
+(C) in paragraph (2), by striking ‘‘Civil 
+22
+suits, civil judgments, and records’’ and insert-
+23
+ing ‘‘Records’’; 
+24
+(D) in paragraph (3), by striking ‘‘seven 
+25
+years’’ and inserting ‘‘4 years’’; 
+26
+21:57 Jul 26, 2021
+H4115
+28 
+•HR 4115 IH
+(E) in paragraph (4), by striking ‘‘seven 
+1
+years’’ and inserting ‘‘4 years, except as pro-
+2
+vided in paragraph (8), (10), (11), (12), or 
+3
+(13), or as required by section 605C, 605D, 
+4
+605E, or 605F’’; 
+5
+(F) in paragraph (5)— 
+6
+(i) by striking ‘‘, other than records of 
+7
+convictions of crimes’’; and 
+8
+(ii) by striking ‘‘seven years’’ and in-
+9
+serting ‘‘4 years, except as required by sec-
+10
+tion 605C, 605D, 605E, or 605F’’; and 
+11
+(G) by adding at the end the following new 
+12
+paragraphs: 
+13
+‘‘(9) Civil suits and civil judgments (except as 
+14
+provided in paragraph (8)) that, from date of entry, 
+15
+antedate the report by more than 4 years or until 
+16
+the governing statute of limitations has expired, 
+17
+whichever is the longer period. 
+18
+‘‘(10) A civil suit or civil judgment— 
+19
+‘‘(A) brought by a private education loan 
+20
+holder that, from the date of successful comple-
+21
+tion of credit restoration or rehabilitation in ac-
+22
+cordance with the requirements of section 605D 
+23
+or 605E, antedates the report by 45 calendar 
+24
+days; or 
+25
+21:57 Jul 26, 2021
+H4115
+29 
+•HR 4115 IH
+‘‘(B) brought by a lender with respect to 
+1
+a covered residential mortgage loan that ante-
+2
+dates the report by 45 calendar days. 
+3
+‘‘(11) Records of convictions of crimes which 
+4
+antedate the report by more than 7 years. 
+5
+‘‘(12) Any other adverse item of information re-
+6
+lating to the collection of debt that did not arise 
+7
+from a contract or an agreement to pay by a con-
+8
+sumer, including fines, tickets, and other assess-
+9
+ments, as determined by the Bureau, excluding tax 
+10
+liability.’’; 
+11
+(2) by striking subsection (b) and redesignating 
+12
+subsections (c) through (h) as subsections (b) 
+13
+through (g), respectively; and 
+14
+(3) in subsection (b) (as so redesignated), by 
+15
+striking ‘‘7-year period referred to in paragraphs (4) 
+16
+and (6)’’ and inserting ‘‘4-year period referred to in 
+17
+paragraphs (4) and (5)’’. 
+18
+(b) CONFORMING AMENDMENTS.—The Fair Credit 
+19
+Reporting Act (15 U.S.C. 1681) is amended— 
+20
+(1) in section 616(d), by striking ‘‘section 
+21
+605(g)’’ each place that term appears and inserting 
+22
+‘‘section 605(f)’’; and 
+23
+(2) in section 625(b)(5)(A), by striking ‘‘section 
+24
+605(g)’’ and inserting ‘‘section 605(f)’’. 
+25
+21:57 Jul 26, 2021
+H4115
+30 
+•HR 4115 IH
+SEC. 102. MANDATES THE EXPEDITED REMOVAL OF FULLY 
+1
+PAID OR SETTLED DEBT FROM CONSUMER 
+2
+REPORTS. 
+3
+Section 605(a) of the Fair Credit Reporting Act (15 
+4
+U.S.C. 1681c(a)), as amended by section 101(a)(1), is fur-
+5
+ther amended by adding at the end the following new para-
+6
+graph: 
+7
+‘‘(13) Any other adverse item of information re-
+8
+lated to a fully paid or settled debt that had been 
+9
+characterized as delinquent, charged off, or in collec-
+10
+tion which, from the date of payment or settlement, 
+11
+antedates the report by more than 45 calendar 
+12
+days.’’. 
+13
+SEC. 103. IMPOSES RESTRICTIONS ON THE APPEARANCE 
+14
+OF MEDICAL COLLECTIONS ON CONSUMER 
+15
+REPORTS AND REQUIRES THE EXPEDITED 
+16
+REMOVAL OF FULLY PAID OR SETTLED MED-
+17
+ICAL COLLECTIONS FROM CONSUMER RE-
+18
+19
+(a) REMOVAL OF FULLY PAID OR SETTLED MED-
+20
+ICAL DEBT FROM CONSUMER REPORTS.—Section 605(a) 
+21
+of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)), 
+22
+as amended by section 102, is further amended by adding 
+23
+at the end the following new paragraph: 
+24
+‘‘(14) Any other adverse item of information re-
+25
+lated to a fully paid or settled debt arising from the 
+26
+21:57 Jul 26, 2021
+H4115
+31 
+•HR 4115 IH
+receipt of medical services, products, or devices that 
+1
+had been characterized as delinquent, charged off, or 
+2
+in collection which, from the date of payment or set-
+3
+tlement, antedates the report by more than 45 cal-
+4
+endar days.’’. 
+5
+(b) ESTABLISHING AN EXTENDED TIME PERIOD BE-
+6
+FORE CERTAIN MEDICAL DEBT INFORMATION MAY BE 
+7
+REPORTED.—Section 605(a) of such Act is further 
+8
+amended by adding at the end the following new para-
+9
+graph: 
+10
+‘‘(15) Any information related to a debt arising 
+11
+from the receipt of medical services, products, or de-
+12
+vices, if the date on which such debt was placed for 
+13
+collection, charged to profit or loss, or subjected to 
+14
+any similar action antedates the report by less than 
+15
+365 calendar days.’’. 
+16
+(c) PROHIBITION ON REPORTING MEDICALLY NEC-
+17
+ESSARY PROCEDURES.—Section 605(a) of such Act is fur-
+18
+ther amended by adding at the end the following new para-
+19
+graph: 
+20
+‘‘(16) Any information related to a debt arising 
+21
+from a medically necessary procedure.’’. 
+22
+(d) TECHNICAL AMENDMENT.—Section 604(g)(1)(C) 
+23
+of 
+the 
+Fair 
+Credit 
+Reporting 
+Act 
+(15 
+U.S.C. 
+24
+21:57 Jul 26, 2021
+H4115
+32 
+•HR 4115 IH
+1681b(g)(1)(C)) is further amended by striking ‘‘devises’’ 
+1
+and inserting ‘‘devices’’. 
+2
+SEC. 104. PROVIDES CREDIT RESTORATION FOR VICTIMS 
+3
+OF PREDATORY MORTGAGE LENDING AND 
+4
+SERVICING. 
+5
+(a) IN GENERAL.—The Fair Credit Reporting Act 
+6
+(15 U.S.C. 1681 et seq.) is amended by inserting after 
+7
+section 605B the following new section: 
+8
+‘‘§ 605C. Credit restoration for victims of predatory 
+9
+mortgage lending 
+10
+‘‘(a) IN GENERAL.—A consumer reporting agency 
+11
+may not furnish any consumer report containing any ad-
+12
+verse item of information relating to a covered residential 
+13
+mortgage loan (including the origination and servicing of 
+14
+such a loan, any loss mitigation activities related to such 
+15
+a loan, and any foreclosure, deed in lieu of foreclosure, 
+16
+or short sale related to such a loan), if the action or inac-
+17
+tion to which the item of information relates— 
+18
+‘‘(1) resulted from an unfair, deceptive, or abu-
+19
+sive act or practice, or a fraudulent, discriminatory, 
+20
+or illegal activity of a financial institution, as deter-
+21
+mined by the Bureau or a court of competent juris-
+22
+diction; or 
+23
+‘‘(2) is related to an unfair, deceptive, or abu-
+24
+sive act, practice, or a fraudulent, discriminatory, or 
+25
+21:57 Jul 26, 2021
+H4115
+33 
+•HR 4115 IH
+illegal activity of a financial institution that is the 
+1
+subject of a settlement agreement initiated on behalf 
+2
+of a consumer or consumers and that is between the 
+3
+financial institution and an agency or department of 
+4
+a local, State, or Federal Government, regardless of 
+5
+whether such settlement includes an admission of 
+6
+wrongdoing. 
+7
+‘‘(b) COVERED RESIDENTIAL MORTGAGE LOAN DE-
+8
+FINED.—In this section, the term ‘covered residential 
+9
+mortgage loan’ means any loan primarily for personal, 
+10
+family, or household use that is secured by a mortgage, 
+11
+deed of trust, or other equivalent consensual security in-
+12
+terest on a dwelling (as defined in section 103(w) of the 
+13
+Truth in Lending Act), including a loan in which the pro-
+14
+ceeds will be used for— 
+15
+‘‘(1) a manufactured home (as defined in sec-
+16
+tion 603 of the Housing and Community Develop-
+17
+ment Act of 1974 (42 U.S.C. 5402)); 
+18
+‘‘(2) any installment sales contract, land con-
+19
+tract, or contract for deed on a residential property; 
+20
+or 
+21
+‘‘(3) a reverse mortgage transaction (as defined 
+22
+in section 103 of the Truth in Lending Act).’’. 
+23
+(b) TABLE OF CONTENTS AMENDMENT.—The table 
+24
+of contents of the Fair Credit Reporting Act is amended 
+25
+21:57 Jul 26, 2021
+H4115
+34 
+•HR 4115 IH
+by inserting after the item relating to section 605B the 
+1
+following new item: 
+2
+‘‘605C. Credit restoration for victims of predatory mortgage lending.’’. 
+(c) EFFECTIVE DATE.—The amendments made by 
+3
+this section shall take effect at the end of the 18-month 
+4
+period beginning on the date of the enactment of this Act. 
+5
+SEC. 105. PROVIDES CREDIT RELIEF FOR PRIVATE EDU-
+6
+CATION LOANS BORROWERS WHO WERE DE-
+7
+FRAUDED OR MISLEAD BY PROPRIETARY 
+8
+EDUCATION INSTITUTION OR CAREER EDU-
+9
+CATION PROGRAMS. 
+10
+(a) IN GENERAL.—The Fair Credit Reporting Act 
+11
+(15 U.S.C. 1681 et seq.), as amended by section 104, is 
+12
+further amended by inserting after section 605C the fol-
+13
+lowing new section: 
+14
+‘‘§ 605D. Private education loan credit restoration for 
+15
+defrauded student borrowers who attend 
+16
+certain proprietary educational institu-
+17
+tion or career education programs 
+18
+‘‘(a) PROCESS FOR CERTIFICATION AS A QUALIFYING 
+19
+PRIVATE EDUCATION LOAN BORROWER.— 
+20
+‘‘(1) IN GENERAL.—A consumer may submit a 
+21
+request to the Bureau, along with a defraudment 
+22
+claim, to be certified as a qualifying private edu-
+23
+cation loan borrower with respect to a private edu-
+24
+cation loan. 
+25
+21:57 Jul 26, 2021
+H4115
+35 
+•HR 4115 IH
+‘‘(2) CERTIFICATION.—The Bureau shall certify 
+1
+a consumer described in paragraph (1) as a quali-
+2
+fying private education loan borrower with respect to 
+3
+a private education loan if the Bureau or a court of 
+4
+competent jurisdiction determines that the consumer 
+5
+has a valid defraudment claim with respect to such 
+6
+loan. 
+7
+‘‘(b) REMOVAL OF ADVERSE INFORMATION.—Upon 
+8
+receipt of a notice described in subsection (d)(5), a con-
+9
+sumer reporting agency shall remove any adverse informa-
+10
+tion relating to any private education loan with respect 
+11
+to which a consumer is a qualifying private education loan 
+12
+borrower from any consumer report within 45 calendar 
+13
+days of receipt of such notification. 
+14
+‘‘(c) DISCLOSURE.—The Bureau shall disclose the re-
+15
+sults of a certification determination in writing to the con-
+16
+sumer that provides a clear and concise explanation of the 
+17
+basis for the determination of whether such consumer is 
+18
+a qualifying private education loan borrower with respect 
+19
+to a private education loan and, as applicable, an expla-
+20
+nation of the consumer’s right to have adverse information 
+21
+relating to such loan removed from their consumer report 
+22
+by a consumer reporting agency. 
+23
+‘‘(d) PROCEDURES.—The Bureau shall— 
+24
+21:57 Jul 26, 2021
+H4115
+36 
+•HR 4115 IH
+‘‘(1) establish procedures for a consumer to 
+1
+submit a request described in subsection (a); 
+2
+‘‘(2) establish procedures to efficiently review, 
+3
+accept, and process such a request; 
+4
+‘‘(3) develop ongoing outreach initiatives and 
+5
+education programs to inform consumers of the cir-
+6
+cumstances under which such consumer may be eli-
+7
+gible to be certified as a qualifying private education 
+8
+loan borrower with respect to a private education 
+9
+loan; 
+10
+‘‘(4) establish procedures, including the man-
+11
+ner, form, and content of the notice informing a pri-
+12
+vate educational loan holder of the prohibition on re-
+13
+porting any adverse information relating to a private 
+14
+education loan with respect to which a consumer is 
+15
+a qualifying private education loan borrower; and 
+16
+‘‘(5) establish procedures, including the man-
+17
+ner, form, and content of the notice informing a con-
+18
+sumer reporting agency of the obligation to remove 
+19
+any adverse information as described in subsection 
+20
+(c). 
+21
+‘‘(e) STANDARDIZED REPORTING CODES.—A con-
+22
+sumer reporting agency shall develop standardized report-
+23
+ing codes for use by private education loan holders to iden-
+24
+tify and report a qualifying private education loan bor-
+25
+21:57 Jul 26, 2021
+H4115
+37 
+•HR 4115 IH
+rower’s status of a request to remove any adverse informa-
+1
+tion relating to any private education loan with respect 
+2
+to which such consumer is a qualifying private education 
+3
+loan borrower. A consumer report in which a person fur-
+4
+nishes such codes shall be deemed to comply with the re-
+5
+quirements for accuracy and completeness required under 
+6
+sections 623(a)(1) and 630. Such codes shall not appear 
+7
+on any report provided to a third party, and shall be re-
+8
+moved from the consumer’s credit report upon the success-
+9
+ful restoration of the consumer’s credit under this section. 
+10
+‘‘(f) DEFRAUDMENT CLAIM DEFINED.—For pur-
+11
+poses of this section, the term ‘defraudment claim’ means 
+12
+a claim made with respect to a consumer who is a bor-
+13
+rower of a private education loan with respect to a propri-
+14
+etary educational institution or career education program 
+15
+in which the consumer alleges that— 
+16
+‘‘(1) the proprietary educational institution or 
+17
+career education program— 
+18
+‘‘(A) engaged in an unfair, deceptive, or 
+19
+abusive act or practice, or a fraudulent, dis-
+20
+criminatory, or illegal activity— 
+21
+‘‘(i) as defined by State law of the 
+22
+State in which the proprietary educational 
+23
+institution or career education program is 
+24
+21:57 Jul 26, 2021
+H4115
+38 
+•HR 4115 IH
+headquartered or maintains or maintained 
+1
+significant operations; or 
+2
+‘‘(ii) under Federal law; 
+3
+‘‘(B) is the subject of an enforcement 
+4
+order, a settlement agreement, a memorandum 
+5
+of understanding, a suspension of tuition assist-
+6
+ance, or any other action relating to an unfair, 
+7
+deceptive, or abusive act or practice that is be-
+8
+tween the proprietary educational institution or 
+9
+career education program and an agency or de-
+10
+partment of a local, State, or Federal Govern-
+11
+ment; or 
+12
+‘‘(C) misrepresented facts to students or 
+13
+accrediting agencies or associations about grad-
+14
+uation or gainful employment rates in recog-
+15
+nized occupations or failed to provide the 
+16
+coursework necessary for students to success-
+17
+fully obtain a professional certification or de-
+18
+gree from the proprietary educational institu-
+19
+tion or career education program; or 
+20
+‘‘(2) the consumer has submitted a valid de-
+21
+fense to repayment claim with respect to such loan, 
+22
+as determined by the Secretary of Education.’’. 
+23
+(b) TABLE OF CONTENTS AMENDMENT.—The table 
+24
+of contents of the Fair Credit Reporting Act is amended 
+25
+21:57 Jul 26, 2021
+H4115
+39 
+•HR 4115 IH
+by inserting after the item relating to section 605C (as 
+1
+added by section 104) the following new item: 
+2
+‘‘605D. Private education loan credit restoration for defrauded student bor-
+rowers who attend certain proprietary educational institution 
+or career education programs.’’. 
+SEC. 106. ESTABLISHES RIGHT FOR VICTIMS OF FINANCIAL 
+3
+ABUSE TO HAVE ADVERSE INFORMATION AS-
+4
+SOCIATED WITH AN ABUSER’S FRAUDULENT 
+5
+ACTIVITY REMOVED FROM THEIR CONSUMER 
+6
+REPORTS. 
+7
+(a) IN GENERAL.—The Fair Credit Reporting Act 
+8
+(15 U.S.C. 1681 et seq.), as amended by section 105, is 
+9
+further amended by inserting after section 605D the fol-
+10
+lowing new section: 
+11
+‘‘§ 605E. Financial abuse prevention 
+12
+‘‘For a consumer who is the victim of intentionally 
+13
+abusive or harmful financial behavior, including severe 
+14
+forms of trafficking in persons or sex trafficking, as such 
+15
+terms are defined in the Trafficking Victims Protection 
+16
+Act of 2000, as determined by a court of competent juris-
+17
+diction including a family court, juvenile court, or other 
+18
+court with personal jurisdiction, that was conducted by a 
+19
+spouse, family or household member, caregiver, or person 
+20
+with whom such consumer had a dating relationship in 
+21
+a manner which resulted in the inclusion of an adverse 
+22
+item of information on the consumer report of the con-
+23
+sumer, and the consumer did not participate in or consent 
+24
+21:57 Jul 26, 2021
+H4115
+40 
+•HR 4115 IH
+to such behavior, the consumer may apply to a court of 
+1
+competent jurisdiction, including a family court, juvenile 
+2
+court, or other court with personal jurisdiction, for an 
+3
+order to require the removal of such adverse information 
+4
+from the consumer’s file maintained by any consumer re-
+5
+porting agency.’’. 
+6
+(b) TABLE OF CONTENTS AMENDMENT.—The table 
+7
+of contents of the Fair Credit Reporting Act is amended 
+8
+by inserting after the item relating to section 605D the 
+9
+following new item: 
+10
+‘‘605E. Financial abuse prevention.’’. 
+SEC. 107. PROHIBITS TREATMENT OF CREDIT RESTORA-
+11
+TION OR REHABILITATION AS ADVERSE IN-
+12
+FORMATION. 
+13
+The Fair Credit Reporting Act (15 U.S.C. 1681 et 
+14
+seq.) is amended— 
+15
+(1) by adding at the end the following new sec-
+16
+tion: 
+17
+‘‘§ 630. Prohibition of certain factors related to Fed-
+18
+eral credit restoration or rehabilitation 
+19
+‘‘(a) RESTRICTION ON CREDIT SCORING MODELS.— 
+20
+A credit scoring model may not— 
+21
+‘‘(1) take into consideration, in a manner ad-
+22
+verse to a consumer’s credit score or educational 
+23
+credit score, any information in a consumer report 
+24
+concerning the consumer’s participation in credit 
+25
+21:57 Jul 26, 2021
+H4115
+41 
+•HR 4115 IH
+restoration or rehabilitation under section 605C, 
+1
+605D, or 605E; or 
+2
+‘‘(2) treat negatively, in a manner adverse to a 
+3
+consumer’s credit score or educational credit score, 
+4
+the absence of payment history data for an existing 
+5
+account, whether the account is open or closed, 
+6
+where the absence of such information is the result 
+7
+of a consumer’s participation in credit restoration or 
+8
+rehabilitation under section 605C, 605D, or 605E. 
+9
+‘‘(b) RESTRICTION ON PERSONS OBTAINING CON-
+10
+SUMER REPORTS.—A person who obtains a consumer re-
+11
+port may not— 
+12
+‘‘(1) take into consideration, in a manner ad-
+13
+verse to a consumer, any information in a consumer 
+14
+report concerning the consumer’s participation in 
+15
+credit restoration or rehabilitation under section 
+16
+605C, 605D, or 605E; or 
+17
+‘‘(2) treat negatively the absence of payment 
+18
+history data for an existing account, whether the ac-
+19
+count is open or closed, where the absence of such 
+20
+information is the result of a consumer’s participa-
+21
+tion in credit restoration or rehabilitation under sec-
+22
+tion 605C, 605D, or 605E. 
+23
+‘‘(c) ACCURACY AND COMPLETENESS.—If a person 
+24
+who furnishes information to a consumer reporting agency 
+25
+21:57 Jul 26, 2021
+H4115
+42 
+•HR 4115 IH
+requests the removal of information from a consumer re-
+1
+port or a consumer reporting agency removes information 
+2
+from a consumer report in compliance with the require-
+3
+ments under section 605C, 605D, or 605E, or such infor-
+4
+mation was removed pursuant at section 605(a)(11), such 
+5
+report shall be deemed to satisfy the requirements for ac-
+6
+curacy and completeness with respect to such information. 
+7
+‘‘(d) PROHIBITION RELATED TO ADVERSE ACTIONS 
+8
+AND RISK-BASED PRICING DECISIONS.—No person shall 
+9
+use information related to a consumer’s participation in 
+10
+credit restoration or rehabilitation under section 605C, 
+11
+605D, or 605E in connection with any determination of— 
+12
+‘‘(1) the consumer’s eligibility or continued eli-
+13
+gibility for an extension of credit; 
+14
+‘‘(2) the terms and conditions offered to a con-
+15
+sumer regarding an extension of credit; or 
+16
+‘‘(3) an adverse action made for employment 
+17
+purposes.’’; and 
+18
+(2) in the table of contents for such Act, by 
+19
+adding at the end the following new item: 
+20
+‘‘630. Prohibition of certain factors related to Federal credit restoration or reha-
+bilitation.’’. 
+21:57 Jul 26, 2021
+H4115
+43 
+•HR 4115 IH
+TITLE 
+II—EXPANDING 
+ACCESS 
+1
+TO TOOLS TO PROTECT VUL-
+2
+NERABLE CONSUMERS FROM 
+3
+IDENTITY THEFT, FRAUD, OR 
+4
+A RELATED CRIME, AND PRO-
+5
+TECT 
+VICTIMS 
+FROM 
+FUR-
+6
+THER HARM 
+7
+SEC. 201. IDENTITY THEFT REPORT DEFINITION. 
+8
+Paragraph (4) of section 603(q) of the Fair Credit 
+9
+Reporting Act (15 U.S.C. 1681a(q)(4)) is amended to 
+10
+read as follows: 
+11
+‘‘(4) IDENTITY
+THEFT
+REPORT.—The term 
+12
+‘identity theft report’ has the meaning given that 
+13
+term by rule of the Bureau, and means, at a min-
+14
+imum, a report— 
+15
+‘‘(A) that is a standardized affidavit that 
+16
+alleges that a consumer has been a victim of 
+17
+identity theft, fraud, or a related crime, or has 
+18
+been harmed by the unauthorized disclosure of 
+19
+the consumer’s financial or personally identifi-
+20
+able information, that was developed and made 
+21
+available by the Bureau; or 
+22
+‘‘(B)(i) that alleges an identity theft, 
+23
+fraud, or a related crime, or alleges harm from 
+24
+21:57 Jul 26, 2021
+H4115
+44 
+•HR 4115 IH
+the unauthorized disclosure of the consumer’s 
+1
+financial or personally identifiable information; 
+2
+‘‘(ii) that is a copy of an official, valid re-
+3
+port filed by a consumer with an appropriate 
+4
+Federal, State, or local law enforcement agency, 
+5
+including the United States Postal Inspection 
+6
+Service, or such other government agency 
+7
+deemed appropriate by the Bureau; and 
+8
+‘‘(iii) the filing of which subjects the per-
+9
+son filing the report to criminal penalties relat-
+10
+ing to the filing of false information if, in fact, 
+11
+the information in the report is false.’’. 
+12
+SEC. 202. AMENDMENT TO PROTECTION FOR FILES AND 
+13
+CREDIT 
+RECORDS 
+OF 
+PROTECTED 
+CON-
+14
+SUMERS. 
+15
+(a) AMENDMENT TO DEFINITION OF ‘‘FILE’’.—Sec-
+16
+tion 603(g) of the Fair Credit Reporting Act (15 U.S.C. 
+17
+1681a(g)) is amended by inserting ‘‘, except that such 
+18
+term excludes a record created pursuant to section 
+19
+605A(j)’’ after ‘‘stored’’. 
+20
+(b) AMENDMENT TO PROTECTION FOR FILES AND 
+21
+CREDIT RECORDS.—Section 605A(j) of the Fair Credit 
+22
+Reporting Act (15 U.S.C. 1681c–1(j)) is amended— 
+23
+(1) in paragraph (1)— 
+24
+21:57 Jul 26, 2021
+H4115
+45 
+•HR 4115 IH
+(A) in subparagraph (B)(ii), by striking 
+1
+‘‘an incapacitated person or a protected person’’ 
+2
+and inserting ‘‘a person’’; and 
+3
+(B) by amending subparagraph (E) to read 
+4
+as follows: 
+5
+‘‘(E) The term ‘security freeze’— 
+6
+‘‘(i) has the meaning given in sub-
+7
+section (i)(1)(C); and 
+8
+‘‘(ii) with respect to a protected con-
+9
+sumer for whom the consumer reporting 
+10
+agency does not have a file, means a 
+11
+record that is subject to a security freeze 
+12
+that a consumer reporting agency is pro-
+13
+hibited from disclosing to any person re-
+14
+questing the consumer report for the pur-
+15
+pose of opening a new account involving 
+16
+the extension of credit.’’; and 
+17
+(2) in paragraph (4)(D), by striking ‘‘a pro-
+18
+tected consumer or a protected consumer’s rep-
+19
+resentative under subparagraph (A)(i)’’ and insert-
+20
+ing ‘‘a protected consumer described under subpara-
+21
+graph (A)(ii) or a protected consumer’s representa-
+22
+tive’’. 
+23
+21:57 Jul 26, 2021
+H4115
+46 
+•HR 4115 IH
+SEC. 203. ENHANCES FRAUD ALERT PROTECTIONS. 
+1
+Section 605A of the Fair Credit Reporting Act (15 
+2
+U.S.C. 1681c–1) is amended— 
+3
+(1) in subsection (a)— 
+4
+(A) in the subsection heading, by striking 
+5
+‘‘ONE-CALL’’ and inserting ‘‘ONE-YEAR’’; 
+6
+(B) in paragraph (1)— 
+7
+(i) in the paragraph heading, by strik-
+8
+ing ‘‘INITIAL ALERTS’’ and inserting ‘‘IN 
+9
+GENERAL’’; 
+10
+(ii) by inserting ‘‘or harmed by the 
+11
+unauthorized disclosure of the consumer’s 
+12
+financial or personally identifiable informa-
+13
+tion,’’ after ‘‘identity theft,’’; 
+14
+(iii) in subparagraph (A), by striking 
+15
+‘‘and’’ at the end; 
+16
+(iv) in subparagraph (B)— 
+17
+(I) by inserting ‘‘1-year’’ before 
+18
+‘‘fraud alert’’; and 
+19
+(II) by striking the period at the 
+20
+end and inserting ‘‘; and’’; and 
+21
+(v) by adding at the end the following 
+22
+new subparagraph: 
+23
+‘‘(C) upon the expiration of the 1-year pe-
+24
+riod described in subparagraph (A) or a subse-
+25
+quent 1-year period, and in response to a direct 
+26
+21:57 Jul 26, 2021
+H4115
+47 
+•HR 4115 IH
+request by the consumer or such representative, 
+1
+continue the fraud alert for a period of 1 addi-
+2
+tional year if the information asserted in this 
+3
+paragraph remains applicable.’’; and 
+4
+(C) in paragraph (2)— 
+5
+(i) in the paragraph heading, by in-
+6
+serting ‘‘AND
+CREDIT
+OR
+EDUCATIONAL 
+7
+CREDIT SCORES’’ after ‘‘REPORTS’’; 
+8
+(ii) by inserting ‘‘1-year’’ before 
+9
+‘‘fraud alert’’; 
+10
+(iii) in subparagraph (A), by inserting 
+11
+‘‘and credit score or educational credit 
+12
+score’’ after ‘‘file’’; and 
+13
+(iv) in subparagraph (B), by striking 
+14
+‘‘any request described in subparagraph 
+15
+(A)’’ and inserting ‘‘the consumer report-
+16
+ing agency includes the 1-year fraud alert 
+17
+in the file of a consumer’’; 
+18
+(2) in subsection (b)— 
+19
+(A) in the subsection heading, by striking 
+20
+‘‘EXTENDED’’ and inserting ‘‘SEVEN-YEAR’’; 
+21
+(B) in paragraph (1)— 
+22
+(i) in subparagraph (B)— 
+23
+(I) by striking ‘‘5-year period be-
+24
+ginning on the date of such request’’ 
+25
+21:57 Jul 26, 2021
+H4115
+48 
+•HR 4115 IH
+and inserting ‘‘such 7-year period’’; 
+1
+and 
+2
+(II) by striking ‘‘and’’ at the end; 
+3
+(ii) in subparagraph (C)— 
+4
+(I) by striking ‘‘extended’’ and 
+5
+inserting ‘‘7-year’’; and 
+6
+(II) by striking the period at the 
+7
+end and inserting ‘‘; and’’; and 
+8
+(iii) by adding at the end the fol-
+9
+lowing new subparagraph: 
+10
+‘‘(D) upon the expiration of such 7-year 
+11
+period or a subsequent 7-year period, and in re-
+12
+sponse to a direct request by the consumer or 
+13
+such representative, continue the fraud alert for 
+14
+a period of 7 additional years if the consumer 
+15
+or such representative submits an updated iden-
+16
+tity theft report.’’; and 
+17
+(C) in paragraph (2)— 
+18
+(i) in the paragraph heading, by in-
+19
+serting ‘‘AND
+CREDIT
+OR
+EDUCATIONAL 
+20
+CREDIT SCORES’’ after ‘‘REPORTS’’; and 
+21
+(ii) by amending subparagraph (A) to 
+22
+read as follows: 
+23
+‘‘(A) disclose to the consumer that the con-
+24
+sumer may request a free copy of the file and 
+25
+21:57 Jul 26, 2021
+H4115
+49 
+•HR 4115 IH
+credit score or educational credit score of the 
+1
+consumer pursuant to section 612(d) during 
+2
+each 12-month period beginning on the date on 
+3
+which the 7-year fraud alert was included in the 
+4
+file and ending on the date of the last day that 
+5
+the 7-year fraud alert applies to the consumer’s 
+6
+file; and’’; 
+7
+(3) in subsection (c)— 
+8
+(A) in paragraph (1), by inserting ‘‘or edu-
+9
+cational credit score’’ after ‘‘credit score’’; 
+10
+(B) by redesignating paragraphs (1), (2), 
+11
+and (3), as subparagraphs (A), (B), and (C), 
+12
+respectively (and conforming the margins ac-
+13
+cordingly); 
+14
+(C) by striking ‘‘Upon the direct request’’ 
+15
+and inserting: 
+16
+‘‘(1) IN GENERAL.—Upon the direct request’’; 
+17
+and 
+18
+(D) by adding at the end the following new 
+19
+paragraph: 
+20
+‘‘(2) ACCESS TO FREE REPORTS AND CREDIT 
+21
+OR EDUCATIONAL CREDIT SCORES.—If a consumer 
+22
+reporting agency includes an active duty alert in the 
+23
+file of an active duty military consumer, the con-
+24
+sumer reporting agency shall— 
+25
+21:57 Jul 26, 2021
+H4115
+50 
+•HR 4115 IH
+‘‘(A) disclose to the active duty military 
+1
+consumer that the active duty military con-
+2
+sumer may request a free copy of the file and 
+3
+credit score or educational credit score of the 
+4
+active duty military consumer pursuant to sec-
+5
+tion 612(d), during each 12-month period be-
+6
+ginning on the date that the activity duty mili-
+7
+tary alert is requested and ending on the date 
+8
+of the last day the active duty alert applies to 
+9
+the file of the active duty military consumer; 
+10
+and 
+11
+‘‘(B) provide to the active duty military 
+12
+consumer all disclosures required to be made 
+13
+under section 609, without charge to the con-
+14
+sumer, not later than 3 business days after any 
+15
+request described in subparagraph (A).’’; 
+16
+(4) by amending subsection (d) to read as fol-
+17
+lows: 
+18
+‘‘(d) PROCEDURES.—Each consumer reporting agen-
+19
+cy described in section 603(p) shall include on the 
+20
+webpage required under subsection (i) policies and proce-
+21
+dures to comply with this section, including policies and 
+22
+procedures— 
+23
+21:57 Jul 26, 2021
+H4115
+51 
+•HR 4115 IH
+‘‘(1) that inform consumers of the availability 
+1
+of 1-year fraud alerts, 7-year fraud alerts, active 
+2
+duty alerts, and security freezes (as applicable); 
+3
+‘‘(2) that allow consumers to request 1-year 
+4
+fraud alerts, 7-year fraud alerts, and active duty 
+5
+alerts (as applicable) and to place, temporarily lift, 
+6
+or fully remove a security freeze in a simple and 
+7
+easy manner; and 
+8
+‘‘(3) for asserting in good faith a suspicion that 
+9
+the consumer has been or is about to become a vic-
+10
+tim of identity theft, fraud, or a related crime, or 
+11
+harmed by the unauthorized disclosure of the con-
+12
+sumer’s financial or personally identifiable informa-
+13
+tion, for a consumer seeking a 1-year fraud alert or 
+14
+security freeze.’’; 
+15
+(5) in subsection (e), by inserting ‘‘1-year or 7- 
+16
+year’’ before ‘‘fraud alert’’; 
+17
+(6) in subsection (f), by striking ‘‘or active duty 
+18
+alert’’ and inserting ‘‘active duty alert, or security 
+19
+freeze (as applicable)’’; 
+20
+(7) in subsection (g)— 
+21
+(A) by inserting ‘‘or has been harmed by 
+22
+the unauthorized disclosure of the consumer’s 
+23
+financial or personally identifiable information, 
+24
+or to inform such agency of the consumer’s par-
+25
+21:57 Jul 26, 2021
+H4115
+52 
+•HR 4115 IH
+ticipation in credit restoration or rehabilitation 
+1
+under section 605C, 605D, or 605E,’’ after 
+2
+‘‘identity theft,’’; and 
+3
+(B) by inserting ‘‘or security freezes’’ after 
+4
+‘‘request alerts’’; 
+5
+(8) in subsection (h)— 
+6
+(A) in paragraph (1)— 
+7
+(i) in the paragraph heading, by strik-
+8
+ing ‘‘INITIAL’’ and inserting ‘‘1-YEAR’’; and 
+9
+(ii) by striking ‘‘initial’’ and inserting 
+10
+‘‘1-year’’ each place such term appears; 
+11
+and 
+12
+(B) in paragraph (2)— 
+13
+(i) in the paragraph heading, by strik-
+14
+ing ‘‘EXTENDED’’ and inserting ‘‘7-YEAR’’; 
+15
+and 
+16
+(ii) by striking ‘‘extended’’ and insert-
+17
+ing ‘‘7-year’’ each place such term appears; 
+18
+and 
+19
+(9) in subsection (i)(4)— 
+20
+(A) by striking subparagraphs (E) and (I); 
+21
+and 
+22
+(B) by redesignating subparagraphs (F), 
+23
+(G), (H), and (J) as subparagraphs (E), (F), 
+24
+(G), and (H), respectively. 
+25
+21:57 Jul 26, 2021
+H4115
+53 
+•HR 4115 IH
+SEC. 204. AMENDMENT TO SECURITY FREEZES FOR CON-
+1
+SUMER REPORTS. 
+2
+(a) IN GENERAL.—Section 605A(i) of the Fair Credit 
+3
+Reporting Act (15 U.S.C. 1681c–1(i)) is amended— 
+4
+(1) by amending the subsection heading to read 
+5
+as follows: ‘‘SECURITY FREEZES
+FOR CONSUMER 
+6
+REPORTS’’; 
+7
+(2) in paragraph (3)(E), by striking ‘‘Upon re-
+8
+ceiving’’ and all that follows through ‘‘subparagraph 
+9
+(C),’’ and inserting ‘‘Upon receiving a direct request 
+10
+from a consumer for a temporary removal of a secu-
+11
+rity freeze, a consumer reporting agency shall’’; and 
+12
+(3) by adding at the end the following: 
+13
+‘‘(7) RELATION
+TO
+STATE
+LAW.—This sub-
+14
+section does not modify or supersede the laws of any 
+15
+State relating to security freezes or other similar ac-
+16
+tions, except to the extent those laws are incon-
+17
+sistent with any provision of this title, and then only 
+18
+to the extent of the inconsistency. For purposes of 
+19
+this subsection, a term or provision of a State law 
+20
+is not inconsistent with the provisions of this sub-
+21
+section if the term or provision affords greater pro-
+22
+tection to the consumer than the protection provided 
+23
+under this subsection as determined by the Bu-
+24
+reau.’’. 
+25
+21:57 Jul 26, 2021
+H4115
+54 
+•HR 4115 IH
+(b) AMENDMENT TO WEBPAGE REQUIREMENTS.— 
+1
+Section 605A(i)(6)(A) of the Fair Credit Reporting Act 
+2
+(15 U.S.C. 1681c–1(i)(6)(A)) is amended— 
+3
+(1) in clause (ii), by striking ‘‘initial fraud 
+4
+alert’’ and inserting ‘‘1-year fraud alert’’; 
+5
+(2) in clause (iii), by striking ‘‘extended fraud 
+6
+alert’’ and inserting ‘‘7-year fraud alert’’; and 
+7
+(3) in clause (iv), by striking ‘‘fraud’’. 
+8
+(c) AMENDMENT
+TO EXCEPTIONS
+FOR CERTAIN 
+9
+PERSONS.—Section 605A(i)(4)(A) of the Consumer Cred-
+10
+it Protection Act (15 U.S.C. 1681c–1(i)(4)(A)) is amend-
+11
+ed to read as follows: 
+12
+‘‘(A) A person, or the person’s subsidiary, 
+13
+affiliate, agent, subcontractor, or assignee with 
+14
+whom the consumer has, or prior to assignment 
+15
+had, an authorized account, contract, or debtor- 
+16
+creditor relationship for the purposes of review-
+17
+ing the active account or collecting the financial 
+18
+obligation owed on the account, contract, or 
+19
+debt.’’. 
+20
+(d) EFFECTIVE DATE.—The amendments made by 
+21
+subsection (a) shall take effect on the date of the enact-
+22
+ment of this Act. 
+23
+21:57 Jul 26, 2021
+H4115
+55 
+•HR 4115 IH
+SEC. 205. CLARIFICATION OF INFORMATION TO BE IN-
+1
+CLUDED WITH AGENCY DISCLOSURES. 
+2
+Section 
+609(c)(2) 
+of 
+such 
+Act 
+(15 
+U.S.C. 
+3
+1681g(c)(2)) is amended— 
+4
+(1) in subparagraph (B)— 
+5
+(A) by striking ‘‘consumer reporting agen-
+6
+cy described in section 603(p)’’ and inserting 
+7
+‘‘consumer reporting agency described in sub-
+8
+section (p) or (x) of section 603’’; 
+9
+(B) by striking ‘‘the agency’’ and inserting 
+10
+‘‘such an agency’’; and 
+11
+(C) by inserting ‘‘and an Internet website 
+12
+address’’ after ‘‘hours’’; and 
+13
+(2) in subparagraph (E), by striking ‘‘outdated 
+14
+under section 605 or’’ and inserting ‘‘outdated, re-
+15
+quired to be removed, or’’. 
+16
+SEC. 206. PROVIDES ACCESS TO FRAUD RECORDS FOR VIC-
+17
+TIMS. 
+18
+Section 609(e) of the Fair Credit Reporting Act (15 
+19
+U.S.C. 1681g(e)) is amended— 
+20
+(1) in paragraph (1)— 
+21
+(A) by striking ‘‘resulting from identity 
+22
+theft’’; 
+23
+(B) by striking ‘‘claim of identity theft’’ 
+24
+and inserting ‘‘claim of fraudulent activity’’; 
+25
+and 
+26
+21:57 Jul 26, 2021
+H4115
+56 
+•HR 4115 IH
+(C) by striking ‘‘any transaction alleged to 
+1
+be a result of identity theft’’ and inserting ‘‘any 
+2
+fraudulent transaction’’; 
+3
+(2) in paragraph (2)(B)— 
+4
+(A) by striking ‘‘identity theft, at the elec-
+5
+tion of the business entity’’ and inserting 
+6
+‘‘fraudulent activity’’; 
+7
+(B) by amending clause (i) to read as fol-
+8
+lows: 
+9
+‘‘(i) a copy of an identity theft report; 
+10
+or’’; and 
+11
+(C) by amending clause (ii) to read as fol-
+12
+lows: 
+13
+‘‘(ii) an affidavit of fact that is ac-
+14
+ceptable to the business entity for that 
+15
+purpose.’’; 
+16
+(3) in paragraph (3)(C), by striking ‘‘identity 
+17
+theft’’ and inserting ‘‘fraudulent activity’’; 
+18
+(4) by striking paragraph (8) and redesignating 
+19
+paragraphs (9) through (13) as paragraphs (8) 
+20
+through (12), respectively; and 
+21
+(5) in paragraph (10) (as so redesignated), by 
+22
+striking ‘‘or a similar crime’’ and inserting ‘‘, fraud, 
+23
+or a related crime’’. 
+24
+21:57 Jul 26, 2021
+H4115
+57 
+•HR 4115 IH
+SEC. 207. REQUIRED BUREAU TO SET PROCEDURES FOR 
+1
+REPORTING IDENTITY THEFT, FRAUD, AND 
+2
+OTHER RELATED CRIME. 
+3
+Section 621(f)(2) of the Fair Credit Reporting Act 
+4
+(15 U.S.C. 1681s(f)(2)) is amended— 
+5
+(1) in the paragraph heading, by striking 
+6
+‘‘MODEL FORM’’ and inserting ‘‘STANDARDIZED AF-
+7
+FIDAVIT’’; 
+8
+(2) by striking ‘‘The Commission’’ and insert-
+9
+ing ‘‘The Bureau’’; 
+10
+(3) by striking ‘‘model form’’ and inserting 
+11
+‘‘standardized affidavit’’; 
+12
+(4) by inserting after ‘‘identity theft’’ the fol-
+13
+lowing: ‘‘, fraud, or a related crime, or otherwise are 
+14
+harmed by the unauthorized disclosure of the con-
+15
+sumer’s financial or personally identifiable informa-
+16
+tion,’’; and 
+17
+(5) by striking ‘‘fraud.’’ and inserting ‘‘identity 
+18
+theft, fraud, or other related crime. Such standard-
+19
+ized affidavit and procedures shall not include a re-
+20
+quirement that a consumer obtain a police report.’’. 
+21
+SEC. 208. ESTABLISHES THE RIGHT TO FREE CREDIT MONI-
+22
+TORING AND IDENTITY THEFT PROTECTION 
+23
+SERVICES FOR CERTAIN CONSUMERS. 
+24
+(a) ENFORCEMENT
+OF CREDIT MONITORING
+FOR 
+25
+SERVICEMEMBERS.— 
+26
+21:57 Jul 26, 2021
+H4115
+58 
+•HR 4115 IH
+(1) IN
+GENERAL.—Subsection (k) of section 
+1
+605A (15 U.S.C. 1681c–1(a)) is amended by strik-
+2
+ing paragraph (4). 
+3
+(2) EFFECTIVE DATE.—This subsection and the 
+4
+amendments made by this subsection shall take ef-
+5
+fect on the date of the enactment of this Act. 
+6
+(b) FREE
+CREDIT
+MONITORING
+AND
+IDENTITY 
+7
+THEFT
+PROTECTION
+SERVICES
+FOR
+CERTAIN
+CON-
+8
+SUMERS.—Subsection (k) of section 605A (15 U.S.C. 
+9
+1681c–1), is amended to read as follows: 
+10
+‘‘(k) CREDIT MONITORING AND IDENTITY THEFT 
+11
+PROTECTION SERVICES.— 
+12
+‘‘(1) IN GENERAL.—Upon the direct request of 
+13
+a consumer, a consumer reporting agency described 
+14
+in section 603(p) that maintains a file on the con-
+15
+sumer and has received appropriate proof of the 
+16
+identity of the requester (as described in section 
+17
+1022.123 of title 12, Code of Federal Regulations) 
+18
+shall provide the consumer with credit monitoring 
+19
+and identity theft protection services not later than 
+20
+1 business day after receiving such request sent by 
+21
+postal mail, toll-free telephone, or secure electronic 
+22
+means as established by the agency. 
+23
+‘‘(2) FEES.— 
+24
+21:57 Jul 26, 2021
+H4115
+59 
+•HR 4115 IH
+‘‘(A) CLASSES OF CONSUMERS.—The Bu-
+1
+reau may establish classes of consumers eligible 
+2
+to receive credit monitoring and identity theft 
+3
+protection services free of charge. 
+4
+‘‘(B) NO
+FEE.—A consumer reporting 
+5
+agency described in section 603(p) may not 
+6
+charge a consumer a fee to receive credit moni-
+7
+toring and identity theft protection services if 
+8
+the consumer or a representative of the con-
+9
+sumer— 
+10
+‘‘(i) asserts in good faith a suspicion 
+11
+that the consumer has been or is about to 
+12
+become a victim of identity theft, fraud, or 
+13
+a related crime, or harmed by the unau-
+14
+thorized disclosure of the consumer’s fi-
+15
+nancial or personally identifiable informa-
+16
+tion; 
+17
+‘‘(ii) is unemployed and intends to 
+18
+apply for employment in the 60-day period 
+19
+beginning on the date on which the request 
+20
+is made; 
+21
+‘‘(iii) is a recipient of public welfare 
+22
+assistance; 
+23
+‘‘(iv) is an active duty military con-
+24
+sumer or a member of the National Guard 
+25
+21:57 Jul 26, 2021
+H4115
+60 
+•HR 4115 IH
+(as defined in section 101(c) of title 10, 
+1
+United States Code); 
+2
+‘‘(v) is 65 years of age or older; or 
+3
+‘‘(vi) is a member of a class estab-
+4
+lished by the Bureau under subparagraph 
+5
+(A). 
+6
+‘‘(3) BUREAU RULEMAKING.—The Bureau shall 
+7
+issue regulations— 
+8
+‘‘(A) to define the scope of credit moni-
+9
+toring and identity theft protection services re-
+10
+quired under this subsection; and 
+11
+‘‘(B) to set a fair and reasonable fee that 
+12
+a consumer reporting agency may charge a con-
+13
+sumer (other than a consumer described under 
+14
+paragraph (2)(B)) for such credit monitoring 
+15
+and identity theft protection services. 
+16
+‘‘(4) RELATION
+TO
+STATE
+LAW.—This sub-
+17
+section does not modify or supersede the laws of any 
+18
+State relating to credit monitoring and identity theft 
+19
+protection services or other similar actions, except to 
+20
+the extent those laws are inconsistent with any pro-
+21
+vision of this title, and then only to the extent of the 
+22
+inconsistency. For purposes of this subsection, a 
+23
+term or provision of a State law is not inconsistent 
+24
+with the provisions of this subsection if the term or 
+25
+21:57 Jul 26, 2021
+H4115
+61 
+•HR 4115 IH
+provision affords greater protection to the consumer 
+1
+than the protection provided under this subsection 
+2
+as determined by the Bureau.’’. 
+3
+SEC. 209. ENSURES REMOVAL OF INQUIRIES RESULTING 
+4
+FROM IDENTITY THEFT, FRAUD, OR OTHER 
+5
+RELATED CRIME FROM CONSUMER REPORTS. 
+6
+Section 605(a) of the Fair Credit Reporting Act (15 
+7
+U.S.C. 1681c(a)), as amended by section 103, is further 
+8
+amended by adding at the end the following: 
+9
+‘‘(17) Information about inquiries made for a 
+10
+credit report based on requests that the consumer 
+11
+reporting agency verifies were initiated as the result 
+12
+of identity theft, fraud, or other related crime.’’. 
+13
+TITLE III—MISCELLANEOUS 
+14
+SEC. 301. DEFINITIONS. 
+15
+Section 603 of the Fair Credit Reporting Act (15 
+16
+U.S.C. 1681a) is further amended by adding at the end 
+17
+the following: 
+18
+‘‘(bb) DEFINITIONS RELATED TO DAYS.— 
+19
+‘‘(1) CALENDAR DAY; DAY.—The term ‘calendar 
+20
+day’ or ‘day’ means a calendar day, excluding any 
+21
+federally recognized holiday. 
+22
+‘‘(2) BUSINESS DAY.—The term ‘business day’ 
+23
+means a day between and including Monday to Fri-
+24
+21:57 Jul 26, 2021
+H4115
+62 
+•HR 4115 IH
+day, and excluding any federally recognized holi-
+1
+day.’’. 
+2
+SEC. 302. TECHNICAL CORRECTION RELATED TO RISK- 
+3
+BASED PRICING NOTICES. 
+4
+Section 615(h)(8) of the Fair Credit Reporting Act 
+5
+(15 U.S.C. 1681m) is amended— 
+6
+(1) in subparagraph (A), by striking ‘‘this sec-
+7
+tion’’ and inserting ‘‘this subsection’’; and 
+8
+(2) in subparagraph (B), by striking ‘‘This sec-
+9
+tion’’ and inserting ‘‘This subsection’’. 
+10
+SEC. 303. FCRA FINDINGS AND PURPOSE; VOIDS CERTAIN 
+11
+CONTRACTS NOT IN THE PUBLIC INTEREST. 
+12
+(a) FCRA FINDINGS AND PURPOSE.—Section 602 of 
+13
+the Fair Credit Reporting Act (15 U.S.C. 1681(a)) is 
+14
+amended— 
+15
+(1) in subsection (a)— 
+16
+(A) by amending paragraph (1) to read as 
+17
+follows: 
+18
+‘‘(1) Many financial and non-financial decisions af-
+19
+fecting consumers’ lives depend upon fair, complete, and 
+20
+accurate credit reporting. Inaccurate and incomplete cred-
+21
+it reports directly impair the efficiency of the financial sys-
+22
+tem and undermine the integrity of using credit reports 
+23
+in other circumstances, and unfair credit reporting and 
+24
+credit scoring methods undermine the public confidence 
+25
+21:57 Jul 26, 2021
+H4115
+63 
+•HR 4115 IH
+which is essential to the continued functioning of the fi-
+1
+nancial services system and the provision of many other 
+2
+consumer products and services.’’; and 
+3
+(B) in paragraph (4), by inserting after 
+4
+‘‘agencies’’ the following: ‘‘, furnishers, and 
+5
+credit scoring developers’’; and 
+6
+(2) in subsection (b)— 
+7
+(A) by striking ‘‘It is the purpose of this 
+8
+title to require’’ and inserting the following: 
+9
+‘‘The purpose of this title is the following: 
+10
+‘‘(1) To require’’; and 
+11
+(B) by adding at the end the following: 
+12
+‘‘(2) To prohibit any practices and procedures 
+13
+with respect to credit reports and credit scores that 
+14
+are not in the public interest.’’. 
+15
+(b) VOIDING OF CERTAIN CONTRACTS NOT IN THE 
+16
+PUBLIC INTEREST.— 
+17
+The Fair Credit Reporting Act (15 U.S.C. 1681 
+18
+et seq.), as amended by section 107, is further 
+19
+amended— 
+20
+(1) by adding at the end the following new sec-
+21
+tion: 
+22
+21:57 Jul 26, 2021
+H4115
+64 
+•HR 4115 IH
+‘‘§ 631. Voiding of certain contracts not in the public 
+1
+interest 
+2
+‘‘(a) IN GENERAL.—Any provision contained in a 
+3
+contract that requires a person to not follow a provision 
+4
+of this title, that is against the public interest, or that 
+5
+otherwise circumvents the purposes of this title shall be 
+6
+null and void. 
+7
+‘‘(b) RULE
+OF CONSTRUCTION.—Nothing in sub-
+8
+section (a) shall be construed as affecting other provisions 
+9
+of a contract that are not described under subsection 
+10
+(a).’’; and 
+11
+(2) in the table of contents for such Act, by 
+12
+adding at the end the following new item: 
+13
+‘‘631. Voiding of certain contracts not in the public interest.’’. 
+Æ 
+21:57 Jul 26, 2021
+H4115

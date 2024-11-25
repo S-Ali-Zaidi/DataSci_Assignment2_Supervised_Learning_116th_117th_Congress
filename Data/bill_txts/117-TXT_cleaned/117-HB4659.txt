@@ -1,0 +1,641 @@
+A BILL 
+To require providers of broadband internet access service 
+and edge services to clearly and conspicuously notify 
+users of the privacy policies of those providers, to give 
+users opt-in or opt-out approval rights with respect to 
+the use of, disclosure of, and access to user information 
+collected by those providers based on the level of sensi-
+tivity of the information, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+04:14 Aug 05, 2021
+H4659
+2 
+•HR 4659 IH
+SECTION 1. SHORT TITLE. 
+1
+This Act may be cited as the ‘‘Balancing the Rights 
+2
+Of Web Surfers Equally and Responsibly Act of 2021’’ 
+3
+or the ‘‘BROWSER Act of 2021’’. 
+4
+SEC. 2. DEFINITIONS. 
+5
+In this Act: 
+6
+(1) BROADBAND INTERNET ACCESS SERVICE.— 
+7
+(A) IN GENERAL.—The term ‘‘broadband 
+8
+internet access service’’ means a mass-market 
+9
+retail service by wire or radio that provides the 
+10
+capability to transmit data to and receive data 
+11
+from all or substantially all internet endpoints, 
+12
+including any capabilities that are incidental to 
+13
+and enable the operation of the communications 
+14
+service, but excluding dial-up internet access 
+15
+service. 
+16
+(B) 
+FUNCTIONAL
+EQUIVALENT; 
+EVA-
+17
+SION.—The term ‘‘broadband internet access 
+18
+service’’ includes any service that— 
+19
+(i) the Commission finds to be pro-
+20
+viding a functional equivalent of the service 
+21
+described in subparagraph (A); or 
+22
+(ii) is used to evade the protections 
+23
+set forth in this Act. 
+24
+(2) COMMISSION.—The term ‘‘Commission’’ 
+25
+means the Federal Trade Commission. 
+26
+04:14 Aug 05, 2021
+H4659
+3 
+•HR 4659 IH
+(3) COVERED
+SERVICE.—The term ‘‘covered 
+1
+service’’ means— 
+2
+(A) broadband internet access service; or 
+3
+(B) an edge service. 
+4
+(4) EDGE
+SERVICE.—The term ‘‘edge serv-
+5
+ice’’— 
+6
+(A) means a service provided over the 
+7
+internet— 
+8
+(i) for which the provider requires the 
+9
+user to subscribe or establish an account in 
+10
+order to use the service; 
+11
+(ii) that the user purchases from the 
+12
+provider of the service without a subscrip-
+13
+tion or account; 
+14
+(iii) by which a program searches for 
+15
+and identifies items in a database that cor-
+16
+respond to keywords or characters speci-
+17
+fied by the user, used especially for finding 
+18
+particular sites on the world wide web; or 
+19
+(iv) by which the user divulges sen-
+20
+sitive user information; and 
+21
+(B) includes a service described in sub-
+22
+paragraph (A) that is provided through a soft-
+23
+ware program, including a mobile application. 
+24
+04:14 Aug 05, 2021
+H4659
+4 
+•HR 4659 IH
+(5) EMERGENCY SERVICES.—The term ‘‘emer-
+1
+gency services’’ has the meaning given the term in 
+2
+section 222 of the Communications Act of 1934 (47 
+3
+U.S.C. 222). 
+4
+(6) MATERIAL.—The term ‘‘material’’ means, 
+5
+with respect to a change in a privacy policy of a pro-
+6
+vider of a covered service, any change in the policy 
+7
+that a user of the service, acting reasonably under 
+8
+the circumstances, would consider important to the 
+9
+decisions of the user regarding the privacy of the 
+10
+user, including any change to information required 
+11
+to be included in a privacy notice under section 3. 
+12
+(7) MOBILE APPLICATION.—The term ‘‘mobile 
+13
+application’’ means a software program that runs on 
+14
+the operating system of a mobile device. 
+15
+(8) NON-SENSITIVE USER INFORMATION.—The 
+16
+term ‘‘non-sensitive user information’’ means any 
+17
+user information that is not sensitive user informa-
+18
+tion. 
+19
+(9) OPT-IN APPROVAL.—The term ‘‘opt-in ap-
+20
+proval’’ means a method for obtaining from a user 
+21
+of a covered service consent to use, disclose, or per-
+22
+mit access to sensitive user information under which 
+23
+the provider of the service obtains express consent 
+24
+04:14 Aug 05, 2021
+H4659
+5 
+•HR 4659 IH
+allowing the requested usage of, disclosure of, or ac-
+1
+cess to the sensitive user information. 
+2
+(10) OPT-OUT APPROVAL.—The term ‘‘opt-out 
+3
+approval’’ means a method for obtaining from a user 
+4
+of a covered service consent to use, disclose, or per-
+5
+mit access to non-sensitive user information under 
+6
+which the user is deemed to have consented to the 
+7
+use of, disclosure of, or access to the non-sensitive 
+8
+user information if the user has failed to object to 
+9
+the use, disclosure, or access. 
+10
+(11) PUBLIC SAFETY ANSWERING POINT.—The 
+11
+term ‘‘public safety answering point’’ has the mean-
+12
+ing given the term in section 222 of the Communica-
+13
+tions Act of 1934 (47 U.S.C. 222). 
+14
+(12) SENSITIVE
+USER
+INFORMATION.—The 
+15
+term ‘‘sensitive user information’’ includes any of 
+16
+the following: 
+17
+(A) Financial information. 
+18
+(B) Health information. 
+19
+(C) Information pertaining to children 
+20
+under the age of 13. 
+21
+(D) Social Security number. 
+22
+(E) Precise geolocation information. 
+23
+(F) Content of communications. 
+24
+04:14 Aug 05, 2021
+H4659
+6 
+•HR 4659 IH
+(G) Web browsing history, history of usage 
+1
+of a software program (including a mobile ap-
+2
+plication), and the functional equivalents of ei-
+3
+ther. 
+4
+(13) STATE.—The term ‘‘State’’ means each of 
+5
+the several States, the District of Columbia, the 
+6
+Commonwealth of Puerto Rico, Guam, American 
+7
+Samoa, the United States Virgin Islands, the Com-
+8
+monwealth of the Northern Mariana Islands, any 
+9
+other territory or possession of the United States, 
+10
+and each federally recognized Indian Tribe. 
+11
+(14) USER.—The term ‘‘user’’ means, with re-
+12
+spect to a covered service, a person who— 
+13
+(A) is a current or former— 
+14
+(i) subscriber to the service; or 
+15
+(ii) holder of an account for the serv-
+16
+ice; 
+17
+(B) purchases the service without a sub-
+18
+scription or account; 
+19
+(C) is an applicant for the service; or 
+20
+(D) in the case of a service described in 
+21
+clause (iii) or (iv) of paragraph (4)(A), uses the 
+22
+service. 
+23
+(15) USER INFORMATION.—The term ‘‘user in-
+24
+formation’’ means any information that— 
+25
+04:14 Aug 05, 2021
+H4659
+7 
+•HR 4659 IH
+(A) a provider of a covered service acquires 
+1
+in connection with the provision of the service; 
+2
+and 
+3
+(B) is linked or reasonably linkable to an 
+4
+individual. 
+5
+SEC. 3. NOTICE OF PRIVACY POLICIES. 
+6
+(a) IN GENERAL.—A provider of a covered service 
+7
+shall provide a user of the service with clear and con-
+8
+spicuous notice of the privacy policies of the provider with 
+9
+respect to the service. 
+10
+(b) AVAILABILITY
+TO PROSPECTIVE USERS.—The 
+11
+notice required by subsection (a) shall be made available 
+12
+to a prospective user of a covered service— 
+13
+(1) at the point of sale of, subscription to, or 
+14
+establishment of an account for the covered service, 
+15
+prior to that sale, subscription, or establishment, 
+16
+without regard to whether the point of sale, sub-
+17
+scription, or establishment is in person, online, over 
+18
+the telephone, or through another means; or 
+19
+(2) if there is no such sale, subscription, or es-
+20
+tablishment, before the user uses the service. 
+21
+(c) PERSISTENT AVAILABILITY.—The notice required 
+22
+by subsection (a) shall be made persistently available. 
+23
+(d) MATERIAL CHANGES.—A provider of a covered 
+24
+service shall provide a user of the service with clear and 
+25
+04:14 Aug 05, 2021
+H4659
+8 
+•HR 4659 IH
+conspicuous advance notice of any material change to the 
+1
+privacy policies of the provider with respect to the service. 
+2
+SEC. 4. USER OPT-IN OR OPT-OUT APPROVAL RIGHTS 
+3
+BASED ON SENSITIVITY OF INFORMATION. 
+4
+(a) OPT-IN APPROVAL REQUIRED FOR SENSITIVE 
+5
+USER INFORMATION.—Except as provided in subsection 
+6
+(c), a provider of a covered service shall obtain opt-in ap-
+7
+proval from a user to use, disclose, or permit access to 
+8
+the sensitive user information of the user. 
+9
+(b) OPT-OUT APPROVAL REQUIRED FOR NON-SEN-
+10
+SITIVE USER INFORMATION.—Except as provided in sub-
+11
+section (c), a provider of a covered service— 
+12
+(1) shall obtain opt-out approval from a user to 
+13
+use, disclose, or permit access to any of the non-sen-
+14
+sitive user information of the user; or 
+15
+(2) if the provider so chooses, may comply with 
+16
+the requirement of paragraph (1) by obtaining opt- 
+17
+in approval from the user to use, disclose, or permit 
+18
+access to any of the non-sensitive user information 
+19
+of the user. 
+20
+(c) LIMITATIONS AND EXCEPTIONS.—A provider of 
+21
+a covered service may use, disclose, or permit access to 
+22
+user information without user approval for the following 
+23
+purposes: 
+24
+04:14 Aug 05, 2021
+H4659
+9 
+•HR 4659 IH
+(1) In providing the covered service from which 
+1
+the information is derived, or in providing services 
+2
+necessary to, or used in, the provision of the service. 
+3
+(2) To initiate, render, bill for, and collect for 
+4
+the covered service. 
+5
+(3) To protect the rights or property of the pro-
+6
+vider, or to protect users of the covered service and 
+7
+other service providers from fraudulent, abusive, or 
+8
+unlawful use of the service. 
+9
+(4) To provide location information or non-sen-
+10
+sitive user information— 
+11
+(A) to a public safety answering point, 
+12
+emergency medical service provider or emer-
+13
+gency dispatch provider, public safety, fire serv-
+14
+ice, or law enforcement official, or hospital 
+15
+emergency or trauma care facility, in order to 
+16
+respond to the request of the user for emer-
+17
+gency services; 
+18
+(B) to inform the legal guardian of the 
+19
+user, or members of the immediate family of 
+20
+the user, of the location of the user in an emer-
+21
+gency situation that involves the risk of death 
+22
+or serious physical harm; or 
+23
+(C) to providers of information or database 
+24
+management services solely for purposes of as-
+25
+04:14 Aug 05, 2021
+H4659
+10 
+•HR 4659 IH
+sisting in the delivery of emergency services in 
+1
+response to an emergency. 
+2
+(5) As otherwise required or authorized by law. 
+3
+(d) MECHANISM
+FOR
+EXERCISING
+USER
+AP-
+4
+PROVAL.— 
+5
+(1) IN GENERAL.—A provider of a covered serv-
+6
+ice shall make available a simple, easy-to-use mecha-
+7
+nism for a user to grant, deny, or withdraw opt-in 
+8
+approval or opt-out approval at any time. 
+9
+(2) FORM AND MANNER.—The mechanism re-
+10
+quired by paragraph (1) shall be— 
+11
+(A) clear and conspicuous; and 
+12
+(B) made available— 
+13
+(i) at no additional cost to the user; 
+14
+and 
+15
+(ii) in a language other than English, 
+16
+if the provider transacts business with the 
+17
+user in that other language. 
+18
+(3) EFFECT.—The grant, denial, or withdrawal 
+19
+of opt-in approval or opt-out approval by a user 
+20
+shall— 
+21
+(A) be given effect promptly; and 
+22
+(B) remain in effect until the user revokes 
+23
+or limits the grant, denial, or withdrawal of ap-
+24
+proval. 
+25
+04:14 Aug 05, 2021
+H4659
+11 
+•HR 4659 IH
+SEC. 5. SERVICE OFFERS CONDITIONED ON WAIVERS OF 
+1
+PRIVACY RIGHTS. 
+2
+A provider of a covered service may not— 
+3
+(1) condition, or effectively condition, provision 
+4
+of the service on agreement by a user to waive pri-
+5
+vacy rights guaranteed by law or regulation, includ-
+6
+ing this Act; or 
+7
+(2) terminate the service or otherwise refuse to 
+8
+provide the service as a direct or indirect con-
+9
+sequence of the refusal of a user to waive any pri-
+10
+vacy rights described in paragraph (1). 
+11
+SEC. 6. ENFORCEMENT BY FEDERAL TRADE COMMISSION. 
+12
+(a) GENERAL APPLICATION.—The requirements of 
+13
+this Act apply, according to their terms, to— 
+14
+(1) those persons, partnerships, and corpora-
+15
+tions over which the Commission has authority pur-
+16
+suant to section 5(a)(2) of the Federal Trade Com-
+17
+mission Act (15 U.S.C. 45(a)(2)); and 
+18
+(2) providers of broadband internet access serv-
+19
+ice, notwithstanding the exception in such section 
+20
+5(a)(2) for common carriers subject to the Commu-
+21
+nications Act of 1934 (47 U.S.C. 151 et seq.). 
+22
+(b) UNFAIR OR DECEPTIVE ACTS OR PRACTICES.— 
+23
+A violation of this Act shall be treated as an unfair or 
+24
+deceptive act or practice in or affecting commerce for pur-
+25
+04:14 Aug 05, 2021
+H4659
+12 
+•HR 4659 IH
+poses of section 5(a)(2) of the Federal Trade Commission 
+1
+Act (15 U.S.C. 45(a)(2)). 
+2
+(c) POWERS OF COMMISSION.—Except as provided in 
+3
+subsection (a)(2) of this section— 
+4
+(1) the Commission shall enforce this Act in the 
+5
+same manner, by the same means, and with the 
+6
+same jurisdiction, powers, and duties as though all 
+7
+applicable terms and provisions of the Federal Trade 
+8
+Commission Act (15 U.S.C. 41 et seq.) were incor-
+9
+porated into and made a part of this Act; and 
+10
+(2) any person who violates this Act shall be 
+11
+subject to the penalties and entitled to the privileges 
+12
+and immunities provided in the Federal Trade Com-
+13
+mission Act. 
+14
+SEC. 7. RELATIONSHIP TO OTHER LAW. 
+15
+(a) PREEMPTION OF STATE LAW.—No State or polit-
+16
+ical subdivision of a State shall, with respect to a provider 
+17
+of a covered service subject to this Act, adopt, maintain, 
+18
+enforce, or impose or continue in effect any law, rule, reg-
+19
+ulation, duty, requirement, standard, or other provision 
+20
+having the force and effect of law relating to or with re-
+21
+spect to the privacy of user information. 
+22
+(b) OTHER FEDERAL LAW.— 
+23
+(1) IN GENERAL.—Except as provided in para-
+24
+graph (2), nothing in this Act shall be construed to 
+25
+04:14 Aug 05, 2021
+H4659
+13 
+•HR 4659 IH
+supersede any Federal statute or regulation relating 
+1
+to information privacy. 
+2
+(2) COMMUNICATIONS ACT OF 1934.—Insofar as 
+3
+any provision of the Communications Act of 1934 
+4
+(47 U.S.C. 151 et seq.) or any regulations promul-
+5
+gated under that Act apply to any person, partner-
+6
+ship, or corporation subject to this Act with respect 
+7
+to privacy policies, terms of service, and practices 
+8
+covered by this Act, the provision or regulations 
+9
+shall have no force or effect, unless the regulations 
+10
+pertain to emergency services. 
+11
+Æ 
+04:14 Aug 05, 2021
+H4659

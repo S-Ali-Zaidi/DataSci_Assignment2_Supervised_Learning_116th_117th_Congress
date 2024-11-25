@@ -1,0 +1,434 @@
+A BILL 
+To clarify which Federal agencies regulate digital assets, 
+to require those agencies to notify the public of any 
+Federal licences, certifications, or registrations required 
+to create or trade in such assets, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Crypto-Currency Act 
+4
+of 2020’’. 
+5
+02:48 Mar 14, 2020
+H6154
+2 
+•HR 6154 IH
+SEC. 2. DEFINITIONS. 
+1
+In this Act: 
+2
+(1) CRYPTO-COMMODITY.—The term ‘‘crypto- 
+3
+commodity’’ means economic goods or services, in-
+4
+cluding derivatives, that— 
+5
+(A) have full or substantial fungibility; 
+6
+(B) the markets treat with no regard as to 
+7
+who produced the goods or services; and 
+8
+(C) rest on a blockchain or decentralized 
+9
+cryptographic ledger. 
+10
+(2) CRYPTO-CURRENCY.—The term ‘‘crypto- 
+11
+currency’’ means representations of United States 
+12
+currency or synthetic derivatives resting on a 
+13
+blockchain or decentralized cryptographic ledger, in-
+14
+cluding— 
+15
+(A) such representations or synthetic de-
+16
+rivatives that are reserve-backed digital assets 
+17
+that are fully collateralized in a correspondent 
+18
+banking account, such as stablecoins; and 
+19
+(B) synthetic derivatives that are— 
+20
+(i) determined by decentralized oracles 
+21
+or smart contracts; and 
+22
+(ii) collateralized by crypto-commod-
+23
+ities, other crypto-currencies, or crypto-se-
+24
+curities. 
+25
+(3) CRYPTO-SECURITY.— 
+26
+02:48 Mar 14, 2020
+H6154
+3 
+•HR 6154 IH
+(A) IN GENERAL.—The term ‘‘crypto-secu-
+1
+rity’’ means all debt and equity that rest on a 
+2
+blockchain or decentralized cryptographic ledg-
+3
+er. 
+4
+(B) EXCEPTION.—The term ‘‘crypto-secu-
+5
+rity’’ does not include a synthetic derivative 
+6
+that— 
+7
+(i) is operated as, and is registered 
+8
+with the Department of the Treasury as, a 
+9
+money services business (as defined under 
+10
+section 1010.100 of title 31, Code of Fed-
+11
+eral Regulations); and 
+12
+(ii) is operated in compliance with all 
+13
+applicable requirements of subchapter II of 
+14
+chapter 53 of title 31, United States Code 
+15
+(commonly referred to as the ‘‘Bank Se-
+16
+crecy Act’’) and all other Federal anti- 
+17
+money 
+laundering, 
+anti-terrorism, 
+and 
+18
+screening requirements of the Office of 
+19
+Foreign Assets Control and the Financial 
+20
+Crimes Enforcement Network. 
+21
+(4) DECENTRALIZED
+CRYPTOGRAPHIC
+LEDG-
+22
+ER.—The term ‘‘decentralized cryptographic ledger’’ 
+23
+means a ledger that— 
+24
+02:48 Mar 14, 2020
+H6154
+4 
+•HR 6154 IH
+(A) runs as a stand-alone blockchain that 
+1
+is secured through a minting mechanism such 
+2
+as proof-of-work, proof-of-stake, or otherwise; 
+3
+(B) runs as a cryptographic asset or 
+4
+smart-contract on an existing stand-alone 
+5
+blockchain and is secured through the issuing 
+6
+blockchain minting mechanism; 
+7
+(C) is immutable and can not be overwrit-
+8
+ten without controlling a majority stake of the 
+9
+associated network; 
+10
+(D) requires a cryptographic link between 
+11
+blocks of transactional data; 
+12
+(E) is permissionless, requiring no third 
+13
+party to transact, only a connection to the 
+14
+internet; 
+15
+(F) is an irreversible bearer commodity, 
+16
+with all transactions being final; 
+17
+(G) is not controllable by any one single 
+18
+entity (defined as having less than half of all 
+19
+nodes controlled by one single entity); and 
+20
+(H) is not directly issued by a nation-state 
+21
+or private entity. 
+22
+(5) DECENTRALIZED ORACLE.—The term ‘‘de-
+23
+centralized oracle’’ means a service that sends and 
+24
+verifies real world data from external sources outside 
+25
+02:48 Mar 14, 2020
+H6154
+5 
+•HR 6154 IH
+of a blockchain and submits such information to 
+1
+smart contracts that rest on the blockchain, thus 
+2
+triggering the execution of predefined functions of 
+3
+the smart contract. 
+4
+(6) DIGITAL ASSET.—The term ‘‘digital asset’’ 
+5
+means a crypto-commodity, crypto-currency, or 
+6
+crypto-security. 
+7
+(7) INSURED DEPOSITORY INSTITUTION.—The 
+8
+term ‘‘insured depository institution’’ has the mean-
+9
+ing given such term under section 3 of the Federal 
+10
+Deposit Insurance Act. 
+11
+(8) PRIMARY FEDERAL DIGITAL ASSET REGU-
+12
+LATOR.—The term ‘‘primary Federal digital asset 
+13
+regulator’’ means— 
+14
+(A) the Commodity Futures Trading Com-
+15
+mission, with respect to crypto-commodities; 
+16
+(B) the Secretary of the Treasury, acting 
+17
+through the Financial Crimes Enforcement 
+18
+Network, and the Comptroller of the Currency 
+19
+with respect to crypto-currencies; and 
+20
+(C) the Securities and Exchange Commis-
+21
+sion, with respect to crypto-securities. 
+22
+(9) RESERVE-BACKED STABLECOIN.—The term 
+23
+‘‘reserve-backed stablecoin’’ means a digital asset 
+24
+that— 
+25
+02:48 Mar 14, 2020
+H6154
+6 
+•HR 6154 IH
+(A) is a representation of currency issued 
+1
+by the United States or a foreign government; 
+2
+(B) rests on a blockchain or decentralized 
+3
+cryptographic ledger; and 
+4
+(C) is collateralized on a one-to-one basis 
+5
+by such currency, and such currency is depos-
+6
+ited in an insured depository institution. 
+7
+(10) SMART CONTRACT.—The term ‘‘smart con-
+8
+tract’’ means a computer protocol intended— 
+9
+(A) to digitally facilitate, verify, or enforce 
+10
+the negotiation or performance of a contract; 
+11
+and 
+12
+(B) to allow the performance of credible 
+13
+transactions without third parties. 
+14
+(11) SYNTHETIC STABLECOIN.—The term ‘‘syn-
+15
+thetic stablecoin’’ means a digital asset, other than 
+16
+a reserve-backed stablecoin, that— 
+17
+(A) is stabilized against the value of a cur-
+18
+rency or other asset; and 
+19
+(B) rests on a blockchain or decentralized 
+20
+cryptographic ledger. 
+21
+SEC. 3. ESTABLISHING AREAS OF PRIMARY REGULATORY 
+22
+OVERSIGHT FOR DIGITAL ASSETS. 
+23
+(a) CRYPTO-COMMODITIES.—The Commodity Fu-
+24
+tures Trading Commission shall be the primary Govern-
+25
+02:48 Mar 14, 2020
+H6154
+7 
+•HR 6154 IH
+ment agency with the authority to regulate crypto-com-
+1
+modities. 
+2
+(b) CRYPTO-CURRENCIES.—The Secretary of the 
+3
+Treasury, acting through the Financial Crimes Enforce-
+4
+ment Network, and the Comptroller of the Currency shall 
+5
+be the primary Government agencies with the authority 
+6
+to regulate crypto-currencies (other than synthetic 
+7
+stablecoins). 
+8
+(c) CRYPTO-SECURITIES.—The Securities and Ex-
+9
+change Commission shall be the primary Government 
+10
+agency with the authority to regulate crypto-securities and 
+11
+synthetic stablecoins. 
+12
+SEC. 4. REGISTRATION AND PUBLIC LISTS OF DIGITAL 
+13
+ASSET EXCHANGES. 
+14
+(a) CRYPTO-COMMODITIES.—The Commodity Fu-
+15
+tures Trading Commission shall require any exchange 
+16
+trading in crypto-commodities to register with the Com-
+17
+mission, and shall maintain a public list of all such ex-
+18
+changes. 
+19
+(b) CRYPTO-CURRENCIES.—The Secretary of the 
+20
+Treasury, acting through the Financial Crimes Enforce-
+21
+ment Network, shall require any exchange trading in 
+22
+crypto-currencies (other than synthetic stablecoins) to reg-
+23
+ister with the Secretary, and shall maintain a public list 
+24
+of all such exchanges. 
+25
+02:48 Mar 14, 2020
+H6154
+8 
+•HR 6154 IH
+(c) CRYPTO-SECURITIES.—The Securities and Ex-
+1
+change Commission shall maintain a public list of all reg-
+2
+istered national securities exchanges trading in crypto-se-
+3
+curities or synthetic stablecoins. 
+4
+SEC. 5. AVAILABILITY OF INFORMATION TO THE PUBLIC 
+5
+ON REQUIREMENTS TO CREATE OR TRADE IN 
+6
+DIGITAL ASSETS. 
+7
+Each primary Federal digital asset regulator shall, 
+8
+with respect to digital assets over which it is the primary 
+9
+Federal digital asset regulator, make available to the pub-
+10
+lic (and keep current) a list of all Federal licenses, certifi-
+11
+cations, or registrations required to create or trade in dig-
+12
+ital assets. 
+13
+SEC. 
+6. 
+REQUIREMENTS 
+RELATED 
+TO 
+CRYPTO-CUR-
+14
+RENCIES. 
+15
+(a) TRACING OF TRANSACTIONS.—Notwithstanding 
+16
+section 3(c), the Secretary of the Treasury, acting through 
+17
+the Financial Crimes Enforcement Network, shall issue 
+18
+rules to require each crypto-currency (including synthetic 
+19
+stablecoins) to allow for the tracing of transactions in the 
+20
+crypto-currency and persons engaging in such transactions 
+21
+in a manner similar to that required of financial institu-
+22
+tions with respect to currency transactions under sub-
+23
+chapter II of chapter 53 of title 31, United States Code. 
+24
+02:48 Mar 14, 2020
+H6154
+9 
+•HR 6154 IH
+(b) RESERVE-BACKED STABLECOIN AUDITS.—The 
+1
+Secretary of the Treasury, acting through the Financial 
+2
+Crimes Enforcement Network, shall carry out audits of 
+3
+each reserve-backed stablecoin to ensure that such 
+4
+stablecoin is fully backed by currency issued by the United 
+5
+States or a foreign government. 
+6
+(c) TRANSITION RULE FOR STABLECOINS.—If an 
+7
+event (including a dilution event, technical hack, or con-
+8
+certed choice) causes a reserve-backed stablecoin to be-
+9
+come a synthetic stablecoin or for a synthetic stable to 
+10
+become a reserve-backed stablecoin, the primary Federal 
+11
+digital asset regulator of the stablecoin shall notify the 
+12
+issuer of the stablecoin and the public of such transition. 
+13
+Æ 
+02:48 Mar 14, 2020
+H6154

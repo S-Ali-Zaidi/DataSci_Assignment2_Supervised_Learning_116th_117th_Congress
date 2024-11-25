@@ -1,0 +1,1730 @@
+A BILL 
+To regulate law enforcement use of facial recognition 
+technology, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Facial Recognition Act 
+4
+of 2022’’. 
+5
+SEC. 2. INELIGIBILITY FOR CERTAIN FUNDS. 
+6
+In the case of a State or unit of local government 
+7
+that received a grant award under subpart 1 of part E 
+8
+04:25 Oct 18, 2022
+H9061
+2 
+•HR 9061 IH
+of title I of the Omnibus Crime Control and Safe Streets 
+1
+Act of 1968 (42 U.S.C. 3750 et seq.), if the State or unit 
+2
+of local government fails to substantially to comply with 
+3
+the requirements under this Act for a fiscal year, the At-
+4
+torney General shall reduce the amount that would other-
+5
+wise be awarded to that State or unit of local government 
+6
+under such grant program in the following fiscal year by 
+7
+15 percent. 
+8
+SEC. 3. DEFINITIONS. 
+9
+In this Act: 
+10
+(1) ARREST PHOTO DATABASE.—The term ‘‘ar-
+11
+rest photo database’’ means a database populated 
+12
+primarily by booking or arrest photographs or photo-
+13
+graphs of persons encountered by an investigative or 
+14
+law enforcement officer. 
+15
+(2) CANDIDATE
+LIST.—The term ‘‘candidate 
+16
+list’’ means the top images that a facial recognition 
+17
+system determines to most closely match a probe 
+18
+image. 
+19
+(3) DERIVED.—The term ‘‘derived’’ means that 
+20
+a Federal or State government would not have pos-
+21
+sessed the information or evidence but for the use of 
+22
+facial recognition, regardless of any claim that the 
+23
+information or evidence is attenuated from such rec-
+24
+ognition, and would inevitably have been discovered 
+25
+04:25 Oct 18, 2022
+H9061
+3 
+•HR 9061 IH
+or obtained the information or evidence through 
+1
+other means. 
+2
+(4) FACIAL
+RECOGNITION.—The term ‘‘facial 
+3
+recognition’’ means an automated or semi-automated 
+4
+process that assists in identifying or verifying an in-
+5
+dividual or captures information about an individual 
+6
+based on the physical characteristics of an individ-
+7
+ual’s face, head or body, or that uses characteristics 
+8
+of an individual’s face, head or body, to infer emo-
+9
+tion, associations, activities, or the location of an in-
+10
+dividual. 
+11
+(5) FACE SURVEILLANCE.—The term ‘‘face sur-
+12
+veillance’’ means the use of facial recognition with 
+13
+real-time or stored video footage to track, observe, 
+14
+or analyze the movements, behavior, data, or actions 
+15
+of an individual or groups of individuals. 
+16
+(6) 
+ILLEGITIMATELY
+OBTAINED
+INFORMA-
+17
+TION.—The term ‘‘illegitimately obtained informa-
+18
+tion’’ means personal data or information that was 
+19
+obtained— 
+20
+(A) in a manner that violates Federal, 
+21
+State, or Tribal law; 
+22
+(B) in a manner that violates a service 
+23
+agreement between a provider of an electronic 
+24
+communication service to the public or a pro-
+25
+04:25 Oct 18, 2022
+H9061
+4 
+•HR 9061 IH
+vider of a remote computing service and cus-
+1
+tomers or subscribers of that provider; 
+2
+(C) in a manner that is inconsistent with 
+3
+the privacy policy of a provider described in 
+4
+subparagraph (B), if applicable; 
+5
+(D) by deceiving a person whose informa-
+6
+tion was obtained; 
+7
+(E) through the unauthorized access of an 
+8
+electronic device or online account; 
+9
+(F) in violation of a contract, court settle-
+10
+ment, or other binding legal agreement; or 
+11
+(G) from unlawful or unconstitutional 
+12
+practices by any government official or entity. 
+13
+(7) INVESTIGATIVE OR LAW ENFORCEMENT OF-
+14
+FICER.—The term ‘‘investigative or law enforcement 
+15
+officer’’ means— 
+16
+(A) any officer of a State or a political 
+17
+subdivision thereof, or of the United States, 
+18
+who is empowered by law to conduct investiga-
+19
+tions of or to make arrests for civil or criminal 
+20
+offenses or violations of Federal or State law 
+21
+and any attorney authorized by law to pros-
+22
+ecute or participate in the prosecution of such 
+23
+offenses; and 
+24
+04:25 Oct 18, 2022
+H9061
+5 
+•HR 9061 IH
+(B) does not include any officer, employee, 
+1
+or contractor of a State department of motor 
+2
+vehicles. 
+3
+(8) LAW
+ENFORCEMENT
+AGENCY.—The term 
+4
+‘‘law enforcement agency’’ means any agency of the 
+5
+United States authorized to engage in or supervise 
+6
+the prevention, detection, investigation, or prosecu-
+7
+tion of any violation of civil or criminal law. 
+8
+(9) PROBE IMAGE.—The term ‘‘probe image’’ 
+9
+means an image of a person that is searched against 
+10
+a database of known, identified persons or an un-
+11
+solved photo file. 
+12
+(10) PROSECUTOR.—The term ‘‘prosecutor’’ 
+13
+means the principal prosecuting attorney of a State 
+14
+or any political subdivision thereof and any attorney 
+15
+for the Government (as such term is defined for the 
+16
+purposes of the Federal Rules of Criminal Proce-
+17
+dure). 
+18
+(11) OPERATIONAL TESTING.—The term ‘‘oper-
+19
+ational testing’’ means testing that evaluates a com-
+20
+plete facial recognition system as it is used in the 
+21
+field, including measuring false positive and false 
+22
+negative error rates for field uses of the system on 
+23
+operational or operationally representative data and 
+24
+under the environmental conditions and technical 
+25
+04:25 Oct 18, 2022
+H9061
+6 
+•HR 9061 IH
+product settings and configurations typically used, 
+1
+as well as assessing the variability of system use by 
+2
+different users. 
+3
+(12) 
+REFERENCE
+PHOTO
+DATABASE.—The 
+4
+term ‘‘reference photo database’’ means a database 
+5
+populated with photos of individuals that have been 
+6
+identified, including databases composed of driver’s 
+7
+licenses, passports, or other documents made or 
+8
+issued by or under the authority of the United 
+9
+States Government, a State, a political subdivision 
+10
+thereof, databases operated by third parties, and ar-
+11
+rest photo databases. 
+12
+(13) STATE.—The term ‘‘State’’ means each 
+13
+State of the United States, the District of Columbia, 
+14
+the Commonwealth of Puerto Rico, the Virgin Is-
+15
+lands, American Samoa, Guam, and the Northern 
+16
+Mariana Islands. 
+17
+TITLE I—USE OF FACIAL REC-
+18
+OGNITION BY LAW ENFORCE-
+19
+MENT 
+20
+SEC. 101. FACIAL RECOGNITION. 
+21
+(a) REFERENCE PHOTO DATABASES.— 
+22
+(1) IN GENERAL.—An investigative or law en-
+23
+forcement officer may only use or request facial rec-
+24
+ognition in conjunction with a reference photo data-
+25
+04:25 Oct 18, 2022
+H9061
+7 
+•HR 9061 IH
+base pursuant to an order issued under subsection 
+1
+(b) and the emergencies and exceptions under sub-
+2
+section (c). 
+3
+(2) MAINTENANCE.— 
+4
+(A) IN GENERAL.—Beginning on 180 days 
+5
+after the date of the enactment of this Act, and 
+6
+every six months thereafter, with respect to an 
+7
+arrest photo database used in conjunction with 
+8
+facial recognition, the custodian of such arrest 
+9
+photo database shall remove from such data-
+10
+base all photos of each person who— 
+11
+(i) has not attained 18 years of age; 
+12
+(ii) has been released without a 
+13
+charge; 
+14
+(iii) has been released after charges 
+15
+are dropped or dismissed; or 
+16
+(iv) was acquitted of the charged of-
+17
+fense. 
+18
+(B) RULE OF CONSTRUCTION.—Nothing in 
+19
+this paragraph shall be construed to prohibit an 
+20
+investigative or law enforcement officer from 
+21
+using a database for other investigative proce-
+22
+dures, such as finger printing, and shall only 
+23
+apply to the use of a reference photo database 
+24
+for the use of facial recognition. 
+25
+04:25 Oct 18, 2022
+H9061
+8 
+•HR 9061 IH
+(3) PROCEDURES.—Any agency responsible for 
+1
+maintaining and operating an arrest photo database 
+2
+shall establish procedures to ensure compliance with 
+3
+paragraph (3). 
+4
+(b) ORDERS.— 
+5
+(1) APPROVAL.—An application for a warrant 
+6
+to use a reference photo database may not be sub-
+7
+mitted for consideration by a court unless the head 
+8
+of a law enforcement agency (or a designee) ap-
+9
+proves such an application. 
+10
+(2) AUTHORITY.—Except as provided by sub-
+11
+section (d), the principal prosecutor of a State or 
+12
+any political subdivision thereof and any attorney for 
+13
+the Government (as such term is defined for the 
+14
+purposes of the Federal Rules of Criminal Proce-
+15
+dure), may make an application to a court of com-
+16
+petent jurisdiction for, in conformity with paragraph 
+17
+(3), an order authorizing the use of facial recogni-
+18
+tion in conjunction with a reference photo database 
+19
+within the jurisdiction of that judge. 
+20
+(3) APPLICATION.—Except as provided in sub-
+21
+section (c), a court of competent jurisdiction may 
+22
+issue an order authorizing the use of facial recogni-
+23
+tion in conjunction with a reference photo database 
+24
+04:25 Oct 18, 2022
+H9061
+9 
+•HR 9061 IH
+if a prosecutor submits an application to that court 
+1
+that establishes the following: 
+2
+(A) The identity of the investigative or law 
+3
+enforcement officer making the application, and 
+4
+the officer authorizing the application. 
+5
+(B) As full and complete a description as 
+6
+possible of the person that the officer seeks to 
+7
+identify. 
+8
+(C) The photos or video portraying the 
+9
+person that will be used to search the reference 
+10
+photo database. 
+11
+(D) Any details regarding other investiga-
+12
+tive measures taken to identify such person and 
+13
+an explanation for why such measures failed or 
+14
+are reasonably unlikely to succeed. 
+15
+(E) Any other investigative procedures to 
+16
+identify such person have been tried and failed 
+17
+or are reasonably unlikely to succeed. 
+18
+(F) Probable cause to believe that such 
+19
+person has committed or is committing a par-
+20
+ticular offense or offenses enumerated in sec-
+21
+tion 3559(c)(2)(F) of title 18, United States 
+22
+Code. 
+23
+(4) CONTENTS
+OF
+ORDER.—The order de-
+24
+scribed in this paragraph shall include the following: 
+25
+04:25 Oct 18, 2022
+H9061
+10 
+•HR 9061 IH
+(A) All information required to be included 
+1
+in the application pursuant to such paragraph 
+2
+(3). 
+3
+(B) A prohibition on the use, for purposes 
+4
+of a search of a reference photo database, other 
+5
+than pursuant to another order under this Act, 
+6
+of any photo or video not specifically listed in 
+7
+the order. 
+8
+(C) A time period within which the search 
+9
+shall be made not more than 7 days, and after 
+10
+which no such search may be made, except pur-
+11
+suant to another order under this Act. 
+12
+(D) The authority under which the search 
+13
+is to be made. 
+14
+(5) NOTICE TO THE PUBLIC.— 
+15
+(A) IN GENERAL.—Each State department 
+16
+of motor vehicles shall post notices in con-
+17
+spicuous locations at each department office, 
+18
+make written information available to all appli-
+19
+cants at each office, and provide information on 
+20
+the department website regarding State inves-
+21
+tigative or law enforcement officers’ searches of 
+22
+driver’s license and ID photos through facial 
+23
+recognition. The notices, written information, 
+24
+and online information must describe how offi-
+25
+04:25 Oct 18, 2022
+H9061
+11 
+•HR 9061 IH
+cers use and access facial recognition in crimi-
+1
+nal investigations. 
+2
+(B) LANGUAGE
+REQUIREMENT.—Notices 
+3
+required under subparagraph (A) shall be post-
+4
+ed, as necessary and reasonable, in Spanish or 
+5
+any language common to a significant portion 
+6
+of the department’s customers, if they are not 
+7
+fluent in English. The department shall provide 
+8
+translations of the poster and an electronic link 
+9
+that leads to the department’s website upon re-
+10
+quest. 
+11
+(6) CONFORMING AMENDMENTS.—Section 2721 
+12
+of title 18, United States Code, is amended— 
+13
+(A) in subsection (a)— 
+14
+(i) in paragraph (1), by striking the 
+15
+‘‘or’’ at the end; 
+16
+(ii) in paragraph (2), by striking the 
+17
+period at the end and inserting ‘‘; or’’; and 
+18
+(iii) by inserting after paragraph (2) 
+19
+the following: 
+20
+‘‘(3) a department operated facial recognition 
+21
+system, except as provided in subsection (e) of this 
+22
+section.’’; 
+23
+(B) in subsection (b)(1), by inserting be-
+24
+fore the period at the end the following: ‘‘but if 
+25
+04:25 Oct 18, 2022
+H9061
+12 
+•HR 9061 IH
+the personal information or highly restricted 
+1
+personal information to be disclosed is a per-
+2
+son’s photograph to be used or enrolled in a law 
+3
+enforcement facial recognition system, only on a 
+4
+case-by-case basis that does not involve the bulk 
+5
+transfer of persons’ photographs to a State or 
+6
+Federal law enforcement agency or a qualified 
+7
+third party entity that will allow law enforce-
+8
+ment to access those photographs for the pur-
+9
+poses of facial recognition’’; and 
+10
+(C) by adding at the end the following: 
+11
+‘‘(e) LAW ENFORCEMENT ACCESS TO FACIAL REC-
+12
+OGNITION SYSTEMS.—A State department of motor vehi-
+13
+cles, and any officer, employee, or contractor thereof, may 
+14
+make available a department-operated facial recognition 
+15
+system to a State or Federal law enforcement agency, or 
+16
+perform searches of such a system on behalf of the agency, 
+17
+only pursuant to an order issued under section 101 of the 
+18
+‘facial recognition Act of 2022’.’’. 
+19
+(c) EMERGENCIES AND EXCEPTIONS.— 
+20
+(1) INITIAL USE.—Notwithstanding subsections 
+21
+(a) and (b), an investigative or law enforcement offi-
+22
+cer may use or request facial recognition in conjunc-
+23
+tion with a reference photo database— 
+24
+04:25 Oct 18, 2022
+H9061
+13 
+•HR 9061 IH
+(A) to assist in identifying any person who 
+1
+is deceased, incapacitated or otherwise phys-
+2
+ically unable of identifying himself, or the vic-
+3
+tim of a crime, whom the officer determines, in 
+4
+good faith, cannot be identified through other 
+5
+means; 
+6
+(B) to assist in identifying a person whom 
+7
+the officer believes, in good faith, is the subject 
+8
+of an alert through an AMBER Alert commu-
+9
+nications network, as that term is used in sec-
+10
+tion 301 of the Prosecutorial Remedies and 
+11
+Other Tools to end the Exploitation of Children 
+12
+Today Act of 2003 (34 U.S.C. 20501); 
+13
+(C) to assist in identifying any person who 
+14
+has been lawfully arrested, during the process 
+15
+of booking that person after an arrest or during 
+16
+that person’s custodial detention; or 
+17
+(D) to assist in identifying any person— 
+18
+(i) if the appropriate prosecutor deter-
+19
+mines that an emergency situation exists— 
+20
+(I) that involves immediate dan-
+21
+ger of death or serious physical injury 
+22
+to any person; or 
+23
+(II) that requires the use of fa-
+24
+cial recognition in conjunction with a 
+25
+04:25 Oct 18, 2022
+H9061
+14 
+•HR 9061 IH
+reference photo database to occur be-
+1
+fore an order authorizing such use 
+2
+can, with due diligence, be obtained; 
+3
+and 
+4
+(ii) there are grounds upon which an 
+5
+order could be entered under this section 
+6
+to authorize such use. 
+7
+(2) SUBSEQUENT AUTHORIZATION.—If an in-
+8
+vestigative or law enforcement officer uses facial rec-
+9
+ognition pursuant to paragraph (1)(D), the pros-
+10
+ecutor shall apply for an order approving the use 
+11
+under subsection (b) within 12 hours after the use 
+12
+occurred. The use shall immediately terminate when 
+13
+the application for approval is denied, or in the ab-
+14
+sence of an application, within 12 hours. In cases 
+15
+where an order is not obtained or denied, the officer 
+16
+shall destroy all information obtained as a result of 
+17
+the search. 
+18
+(3) AFFIDAVIT REQUIRED.—With respect to use 
+19
+of facial recognition pursuant to paragraph (1)(D), 
+20
+an appropriate prosecutor shall submit an affidavit 
+21
+to the court identifying specific details on why they 
+22
+believe that an emergency situation under clause (i) 
+23
+exists. 
+24
+04:25 Oct 18, 2022
+H9061
+15 
+•HR 9061 IH
+(d) STATE LAW PRESERVED.—The authorities pro-
+1
+vided by subsections (b) and (c) do not authorize access 
+2
+reference photo databases maintained by a State, or a po-
+3
+litical subdivision of a State, unless State law expressly 
+4
+and unambiguously authorizes an investigative or law en-
+5
+forcement officer to— 
+6
+(1) access driver’s license and identification 
+7
+document photos; and 
+8
+(2) use facial recognition to conduct searches of 
+9
+those photos. 
+10
+SEC. 102. CIVIL RIGHTS AND CIVIL LIBERTIES. 
+11
+(a) IN GENERAL.—An investigative or law enforce-
+12
+ment officer may not— 
+13
+(1) use facial recognition to create a record de-
+14
+scribing how any individual exercises rights guaran-
+15
+teed by the Constitution, including free assembly, as-
+16
+sociation, and speech; 
+17
+(2) rely on actual or perceived race, ethnicity, 
+18
+national origin, religion, disability, gender, gender 
+19
+identity, or sexual orientation in selecting which per-
+20
+son to subject to facial recognition, except when 
+21
+there is trustworthy information, relevant to the lo-
+22
+cality and time frame, in the context of a particular 
+23
+area and for a particular period of time, that links 
+24
+a person with a particular characteristic described in 
+25
+04:25 Oct 18, 2022
+H9061
+16 
+•HR 9061 IH
+this subsection to an identified criminal incident or 
+1
+scheme; or 
+2
+(3) use facial recognition to enforce the immi-
+3
+gration laws of the United States or share facial rec-
+4
+ognition data with other agencies for the purposes of 
+5
+enforcing the immigration laws of the United States. 
+6
+(b) PROHIBITION ON USE WITH BODY CAMERAS.— 
+7
+Any investigative or law enforcement officer may not use 
+8
+or request facial recognition in conjunction with any image 
+9
+obtained from a body camera worn by that or any other 
+10
+officer, dashboard camera, or any aircraft camera, includ-
+11
+ing a drone. 
+12
+(c) PROHIBITION
+ON CERTAIN FACIAL RECOGNI-
+13
+TION.—Any investigative or law enforcement officer may 
+14
+not use or request facial recognition for the purpose of 
+15
+face surveillance. 
+16
+(d) ENSURING CORROBORATION AND PREVENTING 
+17
+OVER RELIANCE
+ON MATCHES.—A facial recognition 
+18
+match may not be the sole basis upon which probable 
+19
+cause is established for a search, arrest, or other law en-
+20
+forcement action. Any investigative and law enforcement 
+21
+officers using information obtained from the use of facial 
+22
+recognition shall examine results with care and consider 
+23
+the possibility that matches could be inaccurate. 
+24
+04:25 Oct 18, 2022
+H9061
+17 
+•HR 9061 IH
+(e) PROHIBITION ON ILLEGITIMATELY OBTAINED IN-
+1
+FORMATION.—An investigative or law enforcement office 
+2
+may not use facial recognition in conjunction with a data-
+3
+base that contains illegitimately obtained information. 
+4
+SEC. 103. LOGGING OF SEARCHES. 
+5
+A law enforcement agency whose investigative or law 
+6
+enforcement officers use facial recognition shall log its use 
+7
+of the facial recognition to the extent necessary to comply 
+8
+with the public reporting and audit requirements of sec-
+9
+tions 104 and 105 of this Act. 
+10
+SEC. 104. REPORTING. 
+11
+(a) STATE REPORTING REQUIRED.— 
+12
+(1) STATE JUDICIARY.—Not later than the last 
+13
+day of the first January after the date of the enact-
+14
+ment of this Act, and each January thereafter, each 
+15
+State judge who has issued a court order authorizing 
+16
+or approving facial recognition in conjunction with a 
+17
+reference photo database shall report to a State 
+18
+agency (as determined by the chief executive of the 
+19
+State) the following information: 
+20
+(A) The number of orders or extensions 
+21
+was applied for. 
+22
+(B) Whether the order or extension was 
+23
+issued pursuant to section 101(b) or section 
+24
+102(c). 
+25
+04:25 Oct 18, 2022
+H9061
+18 
+•HR 9061 IH
+(C) Whether the order or extension was 
+1
+granted as applied for, was modified, or was de-
+2
+nied. 
+3
+(D) The offense specified in the order or 
+4
+application, or extension of an order. 
+5
+(E) The identity of the applying investiga-
+6
+tive or law enforcement officer and agency mak-
+7
+ing the application and the person authorizing 
+8
+the application. 
+9
+(F) For orders issued pursuant to section 
+10
+101(c), the reference photo database that was 
+11
+searched. 
+12
+(2) PROSECUTORS.—Not later than the last day 
+13
+of the first January after the date of the enactment 
+14
+of this Act, and each January thereafter, each State 
+15
+prosecutor, or a prosecutor of a political subdivision 
+16
+thereof, who has requested a court order authorizing 
+17
+or approving facial recognition in conjunction with a 
+18
+reference photo database shall report to a State 
+19
+agency (as determined by the chief executive of the 
+20
+State) the following information with respect to the 
+21
+use of facial recognition in conjunction with an ref-
+22
+erence photo database: 
+23
+(A) The number of such searches run. 
+24
+04:25 Oct 18, 2022
+H9061
+19 
+•HR 9061 IH
+(B) The offenses that those searches were 
+1
+used to investigate, and for each offense, the 
+2
+number of searches run. 
+3
+(C) The arrests that such searches contrib-
+4
+uted to, and the offenses for which the arrests 
+5
+were made, disaggregated by race, ethnicity, 
+6
+gender, and age. 
+7
+(D) The number of convictions that such 
+8
+searches contributed to and the offenses for 
+9
+which 
+the 
+convictions 
+were 
+obtained, 
+10
+disaggregated by race, ethnicity, gender, and 
+11
+age. 
+12
+(E) The number of motions to suppress 
+13
+made with respect to those searches, and the 
+14
+number granted or denied. 
+15
+(F) The types and names of databases that 
+16
+were used and the number of photos removed 
+17
+with respect to arrest photo databases that 
+18
+were confirmed to have been removed in accord-
+19
+ance with this section. 
+20
+(3) REPORT TO BUREAU OF JUSTICE ASSIST-
+21
+ANCE.—Not later than 90 days after such report is 
+22
+submitted under paragraph (1), and annually there-
+23
+after, the State agency shall report the information 
+24
+04:25 Oct 18, 2022
+H9061
+20 
+•HR 9061 IH
+collected under paragraph (1) to the Director of the 
+1
+Bureau of Justice Assistance. 
+2
+(4) REPORT
+TO
+ADMINISTRATIVE
+OFFICE
+OF 
+3
+THE UNITED STATES COURTS.—Not later than 90 
+4
+days after such report is submitted under paragraph 
+5
+(2), and annually thereafter, the State agency shall 
+6
+report the information collected under paragraph (2) 
+7
+to the Director of the Administrative Office of the 
+8
+United States Courts. 
+9
+(b) FEDERAL REPORTING REQUIRED.—Not later 
+10
+than the last day of the first January after the date of 
+11
+the enactment of this Act, and each January thereafter— 
+12
+(1) each Federal judge who has issued a court 
+13
+order authorizing or approving facial recognition in 
+14
+conjunction with a reference photo database shall 
+15
+submit to the Director of the Administrative Office 
+16
+of the United States Courts a report including the 
+17
+information under subparagraphs (A) through (F) of 
+18
+subsection (a)(1); and 
+19
+(2) and a Federal prosecutor who requested 
+20
+such order, shall submit to the Director of the Ad-
+21
+ministrative Office of the United States Courts a re-
+22
+port including the information under subparagraphs 
+23
+(A) through (G) of subsection (a)(2). 
+24
+04:25 Oct 18, 2022
+H9061
+21 
+•HR 9061 IH
+(c) PUBLIC REPORTING.—In June of each year the 
+1
+Director of the Administrative Office of the United States 
+2
+Courts shall release to the public, post online, and trans-
+3
+mit to the Congress a full and complete report concerning 
+4
+the use of facial recognition in conjunction with reference 
+5
+photo databases, including the information reported to the 
+6
+Director pursuant to subsections (a) and (b). 
+7
+(d) RULES.—The Director of the Bureau of Justice 
+8
+Assistance and the Director of the Administrative Office 
+9
+of the United States Courts shall issue rules with respect 
+10
+to the content and form of the reports required to be filed 
+11
+under subsections (a) through (c) of this section and sec-
+12
+tions 105 and 106 of this Act. 
+13
+SEC. 105. AUDITS. 
+14
+(a) FEDERAL LEVEL AUDIT.— 
+15
+(1) IN
+GENERAL.—Any Federal law enforce-
+16
+ment agency whose investigative or law enforcement 
+17
+officers use facial recognition, regardless of whether 
+18
+they use a system operated by that agency or an-
+19
+other agency, shall annually submit data with re-
+20
+spect to their use of facial recognition for audit by 
+21
+the Government Accountability Office to prevent and 
+22
+identify misuse and to ensure compliance with sec-
+23
+tions 101, 102, and 103 of this Act, including— 
+24
+04:25 Oct 18, 2022
+H9061
+22 
+•HR 9061 IH
+(A) a summary of the findings of the 
+1
+audit, including the number and nature of vio-
+2
+lations identified; and 
+3
+(B) information about the procedures used 
+4
+by the law enforcement agency to remove arrest 
+5
+photos from databases in accordance with this 
+6
+Act. 
+7
+(2) SUSPENSION.— 
+8
+(A) IN GENERAL.—If a violation is uncov-
+9
+ered by the audit conducted under paragraph 
+10
+(1), the Federal law enforcement agency shall 
+11
+cease using facial recognition until such time 
+12
+that all violations have been corrected. 
+13
+(B) PUBLIC NOTICE.—If use of facial rec-
+14
+ognition is suspended pursuant to subparagraph 
+15
+(A), the Federal law enforcement agency shall 
+16
+notify the public of such suspension. 
+17
+(b) STATE LEVEL AUDIT.— 
+18
+(1) IN GENERAL.—Any State or local law en-
+19
+forcement agency whose investigative or law enforce-
+20
+ment officers use facial recognition, regardless of 
+21
+whether they use a system operated by that agency 
+22
+or another agency, shall annually submit data with 
+23
+respect to their use of facial recognition to an inde-
+24
+pendent State agency (as determined by the chief ex-
+25
+04:25 Oct 18, 2022
+H9061
+23 
+•HR 9061 IH
+ecutive of the State) to prevent and identify misuse 
+1
+and to ensure compliance with sections 101, 102, 
+2
+and 103 of this Act. Such independent State agency 
+3
+shall report— 
+4
+(A) a summary of the findings of the 
+5
+audit, including the number and nature of vio-
+6
+lations identified, to Director of the Administra-
+7
+tive Office of the United States Courts, and 
+8
+subsequently release that information to the 
+9
+public and post it online; 
+10
+(B) information about the procedures used 
+11
+by the law enforcement agency to remove arrest 
+12
+photos from databases in accordance with this 
+13
+section; and 
+14
+(C) any violations identified by the inde-
+15
+pendent State agency. 
+16
+(2) SUSPENSION.— 
+17
+(A) IN GENERAL.—If a violation is uncov-
+18
+ered by the audit conducted under paragraph 
+19
+(1), the State or local law enforcement agency 
+20
+shall cease using facial recognition until such 
+21
+time that all violations have been corrected. 
+22
+(B) PUBLIC NOTICE.—If use of facial rec-
+23
+ognition is suspended pursuant to subparagraph 
+24
+04:25 Oct 18, 2022
+H9061
+24 
+•HR 9061 IH
+(A), the State or local law enforcement agency 
+1
+shall notify the public of such suspension. 
+2
+(c) DISAGGREGATED DATA.—Data collected pursu-
+3
+ant to subsection (a) or (b) shall, when feasible, be col-
+4
+lected in a manner that allows such data to be 
+5
+disaggregated by race, ethnicity, gender, and age. 
+6
+SEC. 106. ACCURACY AND BIAS TESTING. 
+7
+(a) BENCHMARK TESTING.—No investigative or law 
+8
+enforcement officers may use a facial recognition system 
+9
+or information derived from it unless that system is annu-
+10
+ally submitted to the National Institute of Standards and 
+11
+Technology’s benchmark facial recognition test for law en-
+12
+forcement to determine— 
+13
+(1) the accuracy of the system; and 
+14
+(2) whether the accuracy of the system varies 
+15
+significantly on the basis of race, ethnicity, gender 
+16
+or age. 
+17
+(b) BENCHMARK TESTING FOR NEW SYSTEMS.—No 
+18
+investigative or law enforcement officers may begin using 
+19
+a new facial recognition system or information derived 
+20
+from it unless that system is first submitted to inde-
+21
+pendent testing to determine— 
+22
+(1) the accuracy of the system; and 
+23
+04:25 Oct 18, 2022
+H9061
+25 
+•HR 9061 IH
+(2) whether the accuracy of the system varies 
+1
+significantly on the basis of race, ethnicity, gender, 
+2
+or age. 
+3
+(c) PROHIBITION.—Any investigative or law enforce-
+4
+ment officer may not use facial recognition that has not 
+5
+achieved a sufficiently high level of accuracy, including in 
+6
+terms of overall accuracy and variance on the basis of 
+7
+race, ethnicity, gender, or age, as determined by the Na-
+8
+tional Institute of Standards and Technology, on its an-
+9
+nual benchmark test for law enforcement use. 
+10
+(d) OPERATIONAL TESTING.—No investigative or law 
+11
+enforcement agencies may use a facial recognition system 
+12
+or information derived from it unless that system is annu-
+13
+ally submitted to operational testing conducted by an inde-
+14
+pendent entity, in accordance with National Institute of 
+15
+Standards and Technology’s training protocol for oper-
+16
+ational testing, to determine— 
+17
+(1) the accuracy of the system; 
+18
+(2) the impact of human reviewers on system 
+19
+accuracy; and 
+20
+(3) whether the accuracy of the system varies 
+21
+significantly on the basis of race, ethnicity, gender, 
+22
+or age. 
+23
+(e) REPORTING.—A summary of the findings of the 
+24
+tests required by subsection (a) or (d) shall be submitted 
+25
+04:25 Oct 18, 2022
+H9061
+26 
+•HR 9061 IH
+to the Director of the Administrative Office of the United 
+1
+States Courts and posted on the internet website of the 
+2
+Administrative Office of the United States Courts. 
+3
+(f) RULEMAKING REQUIRED.—The Assistant Attor-
+4
+ney General of the Department of Justice Civil Rights Di-
+5
+vision shall issue a rule that establishes what is a suffi-
+6
+ciently high level of accuracy for a facial recognition sys-
+7
+tem used by law enforcement, including in terms of overall 
+8
+accuracy and variance on the basis of race, ethnicity, gen-
+9
+der, and age. The Assistant Attorney General of the De-
+10
+partment of Justice Civil Rights Division shall consult 
+11
+with outside experts in civil rights, civil liberties, racial 
+12
+justice, data privacy, bioethics, law enforcement, public de-
+13
+fense, and forensic science and other relevant areas of ex-
+14
+pertise in drafting the proposed rule. 
+15
+(g) EFFECTIVE DATE.—This section shall take effect 
+16
+18 months after the date of enactment of this Act. 
+17
+SEC. 107. ENFORCEMENT. 
+18
+(a) SUPPRESSION.—In the case that the use of facial 
+19
+recognition has occurred, no results from the use and no 
+20
+evidence derived therefrom may be received in evidence in 
+21
+any trial, hearing, or other proceeding in or before any 
+22
+court, grand jury, department, officer, agency, regulatory 
+23
+body, legislative committee, or other authority of the 
+24
+United States, a State, or a political subdivision thereof 
+25
+04:25 Oct 18, 2022
+H9061
+27 
+•HR 9061 IH
+if the use of facial recognition violated this Act or if the 
+1
+use was conducted in an emergency under section 101 and 
+2
+the officer or agency did not subsequently obtain an order 
+3
+for that use as required under such section. 
+4
+(b) ADMINISTRATIVE DISCIPLINE.—If a court or law 
+5
+enforcement agency determines that an investigative or 
+6
+law enforcement officer has violated any provision of this 
+7
+Act, and the court or agency finds that the circumstances 
+8
+surrounding the violation raise serious questions about 
+9
+whether or not the officer acted intentionally with respect 
+10
+to the violation, the agency shall promptly initiate a pro-
+11
+ceeding to determine whether disciplinary action against 
+12
+the officer is warranted. 
+13
+(c) CIVIL ACTION.— 
+14
+(1) IN GENERAL.—Any person who is subject to 
+15
+identification or attempted identification through fa-
+16
+cial recognition in violation of this Act may bring a 
+17
+civil action in the appropriate court to recover such 
+18
+relief as may be appropriate from the investigative 
+19
+or law enforcement officer or the State or Federal 
+20
+law enforcement agency which engaged in that viola-
+21
+tion. 
+22
+(2) RELIEF.—In an action under this sub-
+23
+section, appropriate relief includes— 
+24
+04:25 Oct 18, 2022
+H9061
+28 
+•HR 9061 IH
+(A) such preliminary and other equitable 
+1
+or declaratory relief as may be appropriate; 
+2
+(B) damages under paragraph (3) and pu-
+3
+nitive damages in appropriate cases; and 
+4
+(C) a reasonable attorney’s fee and other 
+5
+litigation costs reasonably incurred. 
+6
+(3) COMPUTATION
+OF
+DAMAGES.—The court 
+7
+may assess as damages whichever is the greater of— 
+8
+(A) any profits made with respect to the 
+9
+violation suffered by the plaintiff; or 
+10
+(B) $50,000 for each violation. 
+11
+(4) DEFENSE.—A good faith reliance on— 
+12
+(A) a court warrant or order, a grand jury 
+13
+subpoena, a legislative authorization, or a statu-
+14
+tory authorization; or 
+15
+(B) a good faith determination that section 
+16
+101 permitted the conduct complained of, 
+17
+is a complete defense against any civil action 
+18
+brought under this Act. 
+19
+(5) LIMITATION.—A civil action under this sec-
+20
+tion may not be commenced later than two years 
+21
+after the date upon which the claimant first has a 
+22
+reasonable opportunity to discover the violation. 
+23
+(d) CIVIL ACTION FOR DISPARATE IMPACT.—An in-
+24
+dividual may bring a civil action when use of facial rec-
+25
+04:25 Oct 18, 2022
+H9061
+29 
+•HR 9061 IH
+ognition or face surveillance by a law enforcement agency, 
+1
+or any technological element, criteria, method, or design 
+2
+feature thereof acting individually or in concert, results 
+3
+in disparate treatment or adverse impact against an indi-
+4
+vidual or class of individuals on the basis of race, ethnicity, 
+5
+gender, or age. 
+6
+SEC. 108. NOTICE REQUIREMENT. 
+7
+(a) NOTICE REQUIREMENT.—A law enforcement 
+8
+agency that uses facial recognition to attempt to identify 
+9
+an individual who is arrested shall, at minimum, provide 
+10
+to the individual— 
+11
+(1) a notice of— 
+12
+(A) the name the law enforcement agency 
+13
+that operated the facial recognition system 
+14
+used; and 
+15
+(B) the name of the database, if any, that 
+16
+was used to identify the individual; and 
+17
+(2) a copy of— 
+18
+(A) the order that authorized the use of fa-
+19
+cial recognition; 
+20
+(B) accuracy or bias reports required 
+21
+under this Act; 
+22
+(C) each probe image that was used by the 
+23
+agency; 
+24
+04:25 Oct 18, 2022
+H9061
+30 
+•HR 9061 IH
+(D) any modifications made to the probe 
+1
+image; 
+2
+(E) the candidate list, in rank order, pro-
+3
+duced by the facial recognition system; and 
+4
+(F) any other police documentation related 
+5
+to the use of facial recognition in the law en-
+6
+forcement investigation. 
+7
+(b) LANGUAGE REQUIREMENT.—The information re-
+8
+quired under subsection (a) shall be provided to such indi-
+9
+vidual in an appropriate language for such individual if 
+10
+the individual is not fluent or literate in English. 
+11
+TITLE 
+II—CERTAIN 
+REQUIRE-
+12
+MENTS AND LIMITATIONS ON 
+13
+FACIAL 
+RECOGNITION 
+SYS-
+14
+TEMS AND RESEARCH 
+15
+SEC. 201. NATIONAL INSTITUTE FOR STANDARDS AND 
+16
+TECHNOLOGY ASSISTANCE. 
+17
+(a) IN GENERAL.—The National Institute of Stand-
+18
+ards and Technology (hereinafter in this section referred 
+19
+to as ‘‘NIST’’) shall— 
+20
+(1) develop best practices for law enforcement 
+21
+agencies to evaluate the accuracy and fairness of 
+22
+their facial recognition systems; 
+23
+(2) develop and offer an ongoing benchmark fa-
+24
+cial recognition test for law enforcement that— 
+25
+04:25 Oct 18, 2022
+H9061
+31 
+•HR 9061 IH
+(A) conducts evaluations of actual algo-
+1
+rithms used by law enforcement agencies; 
+2
+(B) uses the types of probe images, includ-
+3
+ing in terms of quality, actually used by law en-
+4
+forcement agencies in its testing; 
+5
+(C) evaluates algorithms on larger data-
+6
+bases that reflect the size of databases actually 
+7
+used by law enforcement; and 
+8
+(D) evaluates whether the accuracy of a fa-
+9
+cial recognition algorithm varies on the basis of 
+10
+race, ethnicity, gender, or age and assessments 
+11
+of bias in facial recognition systems; 
+12
+(3) develop an operational testing protocol that 
+13
+independent testers and law enforcement agencies 
+14
+may implement for annual operational testing to de-
+15
+termine— 
+16
+(A) the accuracy of the facial recognition 
+17
+system; 
+18
+(B) the impact of human reviewers on fa-
+19
+cial recognition system accuracy; and 
+20
+(C) whether the accuracy of the facial rec-
+21
+ognition system varies significantly on the basis 
+22
+of race, ethnicity, gender, or age; and 
+23
+(4) study and develop training standards for 
+24
+human operators reviewing the results of facial rec-
+25
+04:25 Oct 18, 2022
+H9061
+32 
+•HR 9061 IH
+ognition searches to ensure accuracy and prevent 
+1
+bias. 
+2
+(b) AUTHORIZATION OF APPROPRIATIONS.—There is 
+3
+authorized to be appropriated to the National Institute of 
+4
+Standards and Technology to carry out subsection (a) 
+5
+$5,000,000 for each of the fiscal years 2023 through 
+6
+2026. 
+7
+SEC. 202. RULE OF CONSTRUCTION WITH RESPECT TO 
+8
+STATE AND LOCAL PRIVACY PROTECTIONS. 
+9
+(a) RULE OF CONSTRUCTION.—Nothing in this Act 
+10
+shall be construed to preempt concurrent or more strin-
+11
+gent limitations on the use of facial recognition, or any 
+12
+other privacy, civil rights, and civil liberties laws and rules, 
+13
+by the Federal Government, a State, or a political subdivi-
+14
+sion of a State. 
+15
+(b) USE OF FACIAL RECOGNITION.—Nothing in this 
+16
+Act shall be construed to authorize the use of facial rec-
+17
+ognition by a State, or a political subdivision of a State, 
+18
+unless the laws of that State or political subdivision ex-
+19
+pressly and unambiguously authorizes such use. 
+20
+SEC. 203. POLICY ON USE OF FACIAL RECOGNITION SYS-
+21
+TEMS REQUIRED. 
+22
+Not later than 90 days after the date of the enact-
+23
+ment of this Act, each agency covered by this statute shall 
+24
+establish and make publicly available on the internet 
+25
+04:25 Oct 18, 2022
+H9061
+33 
+•HR 9061 IH
+website of such agency a policy governing the agency’s use 
+1
+of facial recognition systems to ensure investigative or law 
+2
+enforcement officer compliance with the requirements of 
+3
+this Act. 
+4
+SEC. 204. LIMITATION ON LIABILITY. 
+5
+A State shall not be immune under the eleventh 
+6
+amendment to the Constitution of the United States from 
+7
+an action in Federal or State court of competent jurisdic-
+8
+tion for a violation of this Act. In any action against a 
+9
+State for a violation of the requirements of this Act, rem-
+10
+edies (including remedies both at law and in equity) are 
+11
+available for such a violation to the same extent as such 
+12
+remedies are available for such a violation in an action 
+13
+against any public or private entity other than a State. 
+14
+Æ 
+04:25 Oct 18, 2022
+H9061

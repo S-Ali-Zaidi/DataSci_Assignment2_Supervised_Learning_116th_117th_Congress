@@ -1,0 +1,2050 @@
+A BILL 
+To amend the Homeland Security Act of 2002 to authorize 
+a grant program relating to the cybersecurity of State 
+and local governments, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘State and Local Cyber-
+4
+security Improvement Act’’. 
+5
+23:57 May 13, 2021
+H3138
+2 
+•HR 3138 IH
+SEC. 2. STATE AND LOCAL CYBERSECURITY GRANT PRO-
+1
+GRAM. 
+2
+(a) IN GENERAL.—Subtitle A of title XXII of the 
+3
+Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) 
+4
+is amended by adding at the end the following new sec-
+5
+tions: 
+6
+‘‘SEC. 2220A. STATE AND LOCAL CYBERSECURITY GRANT 
+7
+PROGRAM. 
+8
+‘‘(a) DEFINITIONS.—In this section: 
+9
+‘‘(1) CYBER
+THREAT
+INDICATOR.—The term 
+10
+‘cyber threat indicator’ has the meaning given the 
+11
+term in section 102 of the Cybersecurity Act of 2015 
+12
+(6 U.S.C. 1501). 
+13
+‘‘(2) CYBERSECURITY PLAN.—The term ‘Cyber-
+14
+security Plan’ means a plan submitted by a State 
+15
+under subsection (e)(1). 
+16
+‘‘(3) ELIGIBLE ENTITY.—The term ‘eligible en-
+17
+tity’ means— 
+18
+‘‘(A) a State; or 
+19
+‘‘(B) a federally recognized Indian Tribe 
+20
+that, not later than 120 days after the date of 
+21
+the enactment of this section or not later than 
+22
+120 days before the start of any fiscal year in 
+23
+which a grant under this section is awarded— 
+24
+23:57 May 13, 2021
+H3138
+3 
+•HR 3138 IH
+‘‘(i) notifies the Secretary that the In-
+1
+dian Tribe intends to develop a Cybersecu-
+2
+rity Plan; and 
+3
+‘‘(ii) agrees to forfeit any distribution 
+4
+under subsection (n)(2). 
+5
+‘‘(4) INCIDENT.—The term ‘incident’ has the 
+6
+meaning given the term in section 2209. 
+7
+‘‘(5) INFORMATION SHARING AND ANALYSIS OR-
+8
+GANIZATION.—The term ‘information sharing and 
+9
+analysis organization’ has the meaning given the 
+10
+term in section 2222. 
+11
+‘‘(6) INFORMATION SYSTEM.—The term ‘infor-
+12
+mation system’ has the meaning given the term in 
+13
+section 102 of the Cybersecurity Act of 2015 (6 
+14
+U.S.C. 1501). 
+15
+‘‘(8) ONLINE SERVICE.—The term ‘online serv-
+16
+ice’ means any internet-facing service, including a 
+17
+website, email, virtual private network, or custom 
+18
+application. 
+19
+‘‘(9) STATE.—The term ‘State’ means each of 
+20
+the several States, the District of Columbia, and the 
+21
+territories and possessions of the United States. 
+22
+‘‘(10) STATE
+AND
+LOCAL
+CYBERSECURITY 
+23
+GRANT PROGRAM.—The term ‘State and Local Cy-
+24
+23:57 May 13, 2021
+H3138
+4 
+•HR 3138 IH
+bersecurity Grant Program’ means the program es-
+1
+tablished under subsection (b). 
+2
+‘‘(11) STATE AND LOCAL CYBERSECURITY RE-
+3
+SILIENCY COMMITTEE.—The term ‘State and Local 
+4
+Cybersecurity Resiliency Committee’ means the com-
+5
+mittee established under subsection (o)(1). 
+6
+‘‘(b) ESTABLISHMENT.— 
+7
+‘‘(1) IN
+GENERAL.—The Secretary, acting 
+8
+through the Director, shall establish a program, to 
+9
+be known as the ‘the State and Local Cybersecurity 
+10
+Grant Program’, to award grants to eligible entities 
+11
+to address cybersecurity risks and cybersecurity 
+12
+threats to information systems of State, local, or 
+13
+Tribal governments. 
+14
+‘‘(2) APPLICATION.—An eligible entity desiring 
+15
+a grant under the State and Local Cybersecurity 
+16
+Grant Program shall submit to the Secretary an ap-
+17
+plication at such time, in such manner, and con-
+18
+taining such information as the Secretary may re-
+19
+quire. 
+20
+‘‘(c) BASELINE REQUIREMENTS.—An eligible entity 
+21
+or multistate group that receives a grant under this sec-
+22
+tion shall use the grant in compliance with— 
+23
+23:57 May 13, 2021
+H3138
+5 
+•HR 3138 IH
+‘‘(1) the Cybersecurity Plan of the eligible enti-
+1
+ty or the Cybersecurity Plans of the eligible entities 
+2
+that comprise the multistate group; and 
+3
+‘‘(2) the Homeland Security Strategy to Im-
+4
+prove the Cybersecurity of State, Local, Tribal, and 
+5
+Territorial Governments developed under section 
+6
+2210(e)(1). 
+7
+‘‘(d) ADMINISTRATION.—The State and Local Cyber-
+8
+security Grant Program shall be administered in the same 
+9
+office of the Department that administers grants made 
+10
+under sections 2003 and 2004. 
+11
+‘‘(e) CYBERSECURITY PLANS.— 
+12
+‘‘(1) IN GENERAL.—An eligible entity applying 
+13
+for a grant under this section shall submit to the 
+14
+Secretary a Cybersecurity Plan for approval. 
+15
+‘‘(2) REQUIRED ELEMENTS.—A Cybersecurity 
+16
+Plan of an eligible entity shall— 
+17
+‘‘(A) incorporate, to the extent practicable, 
+18
+any existing plans of the eligible entity to pro-
+19
+tect against cybersecurity risks and cybersecu-
+20
+rity threats to information systems of State, 
+21
+local, or Tribal governments; 
+22
+‘‘(B) describe, to the extent practicable, 
+23
+how the eligible entity will— 
+24
+23:57 May 13, 2021
+H3138
+6 
+•HR 3138 IH
+‘‘(i) manage, monitor, and track infor-
+1
+mation systems owned or operated by the 
+2
+eligible entity or by local or Tribal govern-
+3
+ments within the jurisdiction of the eligible 
+4
+entity and the information technology de-
+5
+ployed on those information systems, in-
+6
+cluding legacy information systems and in-
+7
+formation technology that are no longer 
+8
+supported by the manufacturer of the sys-
+9
+tems or technology; 
+10
+‘‘(ii) monitor activity between infor-
+11
+mation systems owned or operated by the 
+12
+eligible entity or by local or Tribal govern-
+13
+ments within the jurisdiction of the eligible 
+14
+entity and between those information sys-
+15
+tems and information systems not owned 
+16
+or operated by the eligible entity or by 
+17
+local or Tribal governments within the ju-
+18
+risdiction of the eligible entity; 
+19
+‘‘(iii) enhance the preparation, re-
+20
+sponse, and resiliency of information sys-
+21
+tems owned or operated by the eligible en-
+22
+tity or local or Tribal governments against 
+23
+cybersecurity 
+risks 
+and 
+cybersecurity 
+24
+threats; 
+25
+23:57 May 13, 2021
+H3138
+7 
+•HR 3138 IH
+‘‘(iv) implement a process of contin-
+1
+uous cybersecurity vulnerability assess-
+2
+ments and threat mitigation practices 
+3
+prioritized by degree of risk to address cy-
+4
+bersecurity risks and cybersecurity threats 
+5
+on information systems of the eligible enti-
+6
+ty or local or Tribal governments; 
+7
+‘‘(v) ensure that State, local, and 
+8
+Tribal governments that own or operate in-
+9
+formation systems that are located within 
+10
+the jurisdiction of the eligible entity adopt 
+11
+best practices and methodologies to en-
+12
+hance cybersecurity, such as the practices 
+13
+set forth in the cybersecurity framework 
+14
+developed by, and the cyber supply chain 
+15
+risk management best practices identified 
+16
+by, the National Institute of Standards 
+17
+and Technology; 
+18
+‘‘(vi) promote the delivery of safe, rec-
+19
+ognizable, and trustworthy online services 
+20
+by State, local, and Tribal governments, 
+21
+including through the use of the .gov inter-
+22
+net domain; 
+23
+‘‘(vii) ensure continuity of operations 
+24
+of the eligible entity and local, and Tribal 
+25
+23:57 May 13, 2021
+H3138
+8 
+•HR 3138 IH
+governments in the event of a cybersecu-
+1
+rity incident, including by conducting exer-
+2
+cises to practice responding to an incident; 
+3
+‘‘(viii) use the National Initiative for 
+4
+Cybersecurity 
+Education 
+Cybersecurity 
+5
+Workforce Framework developed by the 
+6
+National Institute of Standards and Tech-
+7
+nology to identify and mitigate any gaps in 
+8
+the cybersecurity workforces of State, 
+9
+local, or Tribal governments, enhance re-
+10
+cruitment and retention efforts for such 
+11
+workforces, and bolster the knowledge, 
+12
+skills, and abilities of State, local, and 
+13
+Tribal government personnel to address cy-
+14
+bersecurity risks and cybersecurity threats, 
+15
+such as through cybersecurity hygiene 
+16
+training; 
+17
+‘‘(ix) ensure continuity of communica-
+18
+tions and data networks within the juris-
+19
+diction of the eligible entity between the el-
+20
+igible entity and local and Tribal govern-
+21
+ments that own or operate information sys-
+22
+tems within the jurisdiction of the eligible 
+23
+entity in the event of an incident involving 
+24
+23:57 May 13, 2021
+H3138
+9 
+•HR 3138 IH
+such communications or data networks 
+1
+within the jurisdiction of the eligible entity; 
+2
+‘‘(x) assess and mitigate, to the great-
+3
+est degree possible, cybersecurity risks and 
+4
+cybersecurity threats related to critical in-
+5
+frastructure and key resources, the deg-
+6
+radation of which may impact the perform-
+7
+ance of information systems within the ju-
+8
+risdiction of the eligible entity; 
+9
+‘‘(xi) enhance capabilities to share 
+10
+cyber threat indicators and related infor-
+11
+mation between the eligible entity and local 
+12
+and Tribal governments that own or oper-
+13
+ate information systems within the juris-
+14
+diction of the eligible entity; 
+15
+‘‘(xii) enhance the capability of the el-
+16
+igible entity to share cyber threat indictors 
+17
+and related information with the Depart-
+18
+ment; 
+19
+‘‘(xiii) leverage cybersecurity services 
+20
+offered by the Department; and 
+21
+‘‘(xiv) develop and coordinate strate-
+22
+gies to address cybersecurity risks and cy-
+23
+bersecurity threats to information systems 
+24
+of the eligible entity in consultation with— 
+25
+23:57 May 13, 2021
+H3138
+10 
+•HR 3138 IH
+‘‘(I) local and Tribal govern-
+1
+ments within the jurisdiction of the el-
+2
+igible entity; and 
+3
+‘‘(II) as applicable— 
+4
+‘‘(aa) States that neighbor 
+5
+the jurisdiction of the eligible en-
+6
+tity or, as appropriate, members 
+7
+of an information sharing and 
+8
+analysis organization; and 
+9
+‘‘(bb) countries that neigh-
+10
+bor the jurisdiction of the eligible 
+11
+entity; 
+12
+‘‘(C) describe, to the extent practicable, the 
+13
+individual responsibilities of the eligible entity 
+14
+and local and Tribal governments within the ju-
+15
+risdiction of the eligible entity in implementing 
+16
+the plan; 
+17
+‘‘(D) outline, to the extent practicable, the 
+18
+necessary resources and a timeline for imple-
+19
+menting the plan; and 
+20
+‘‘(E) describe how the eligible entity will 
+21
+measure progress towards implementing the 
+22
+plan. 
+23
+23:57 May 13, 2021
+H3138
+11 
+•HR 3138 IH
+‘‘(3) DISCRETIONARY ELEMENTS.—A Cyberse-
+1
+curity Plan of an eligible entity may include a de-
+2
+scription of— 
+3
+‘‘(A) cooperative programs developed by 
+4
+groups of local and Tribal governments within 
+5
+the jurisdiction of the eligible entity to address 
+6
+cybersecurity risks and cybersecurity threats; 
+7
+and 
+8
+‘‘(B) programs provided by the eligible en-
+9
+tity to support local and Tribal governments 
+10
+and owners and operators of critical infrastruc-
+11
+ture to address cybersecurity risks and cyberse-
+12
+curity threats. 
+13
+‘‘(4) MANAGEMENT OF FUNDS.—An eligible en-
+14
+tity applying for a grant under this section shall 
+15
+agree to designate the Chief Information Officer, the 
+16
+Chief Information Security Officer, or an equivalent 
+17
+official of the eligible entity as the primary official 
+18
+for the management and allocation of funds awarded 
+19
+under this section. 
+20
+‘‘(f) MULTISTATE GRANTS.— 
+21
+‘‘(1) IN
+GENERAL.—The Secretary, acting 
+22
+through the Director, may award grants under this 
+23
+section to a group of two or more eligible entities to 
+24
+support multistate efforts to address cybersecurity 
+25
+23:57 May 13, 2021
+H3138
+12 
+•HR 3138 IH
+risks and cybersecurity threats to information sys-
+1
+tems within the jurisdictions of the eligible entities. 
+2
+‘‘(2) 
+SATISFACTION
+OF
+OTHER
+REQUIRE-
+3
+MENTS.—In order to be eligible for a multistate 
+4
+grant under this subsection, each eligible entity that 
+5
+comprises a multistate group shall— 
+6
+‘‘(A) submit to the Secretary a Cybersecu-
+7
+rity Plan for approval in accordance with sub-
+8
+section (i); and 
+9
+‘‘(B) establish a cybersecurity planning 
+10
+committee under subsection (g). 
+11
+‘‘(3) APPLICATION.— 
+12
+‘‘(A) IN
+GENERAL.—A multistate group 
+13
+applying for a multistate grant under para-
+14
+graph (1) shall submit to the Secretary an ap-
+15
+plication at such time, in such manner, and 
+16
+containing such information as the Secretary 
+17
+may require. 
+18
+‘‘(B) JOINT
+CYBERSECURITY
+PLAN.—An 
+19
+application of a multistate group under sub-
+20
+paragraph (A) shall include a plan describing— 
+21
+‘‘(i) the division of responsibilities 
+22
+among the eligible entities that comprise 
+23
+the multistate group for administering the 
+24
+grant for which application is being made; 
+25
+23:57 May 13, 2021
+H3138
+13 
+•HR 3138 IH
+‘‘(ii) the distribution of funding from 
+1
+such a grant among the eligible entities 
+2
+that comprise the multistate group; and 
+3
+‘‘(iii) how the eligible entities that 
+4
+comprise the multistate group will work to-
+5
+gether to implement the Cybersecurity 
+6
+Plan of each of those eligible entities. 
+7
+‘‘(g) PLANNING COMMITTEES.— 
+8
+‘‘(1) IN GENERAL.—An eligible entity applying 
+9
+for a grant under this section shall establish a cyber-
+10
+security planning committee to— 
+11
+‘‘(A) assist in the development, implemen-
+12
+tation, and revision of the Cybersecurity Plan of 
+13
+the eligible entity; 
+14
+‘‘(B) approve the Cybersecurity Plan of the 
+15
+eligible entity; and 
+16
+‘‘(C) assist in the determination of effec-
+17
+tive funding priorities for a grant under this 
+18
+section in accordance with subsection (h). 
+19
+‘‘(2) COMPOSITION.—A committee of an eligible 
+20
+entity established under paragraph (1) shall— 
+21
+‘‘(A) be comprised of representatives from 
+22
+the eligible entity and counties, cities, towns, 
+23
+and Tribes within the jurisdiction of the eligible 
+24
+entity; and 
+25
+23:57 May 13, 2021
+H3138
+14 
+•HR 3138 IH
+‘‘(B) include, as appropriate, representa-
+1
+tives of rural, suburban, and high-population 
+2
+jurisdictions. 
+3
+‘‘(3) CYBERSECURITY
+EXPERTISE.—Not less 
+4
+than 1⁄2 of the representatives of a committee estab-
+5
+lished under paragraph (1) shall have professional 
+6
+experience relating to cybersecurity or information 
+7
+technology. 
+8
+‘‘(4) RULE OF CONSTRUCTION REGARDING EX-
+9
+ISTING
+PLANNING
+COMMITTEES.—Nothing in this 
+10
+subsection may be construed to require an eligible 
+11
+entity to establish a cybersecurity planning com-
+12
+mittee if the eligible entity has established and uses 
+13
+a multijurisdictional planning committee or commis-
+14
+sion that meets the requirements of this subsection. 
+15
+‘‘(h) USE OF FUNDS.—An eligible entity that receives 
+16
+a grant under this section shall use the grant to— 
+17
+‘‘(1) implement the Cybersecurity Plan of the 
+18
+eligible entity; 
+19
+‘‘(2) develop or revise the Cybersecurity Plan of 
+20
+the eligible entity; or 
+21
+‘‘(3) assist with activities that address immi-
+22
+nent cybersecurity risks or cybersecurity threats to 
+23
+the information systems of the eligible entity or a 
+24
+23:57 May 13, 2021
+H3138
+15 
+•HR 3138 IH
+local or Tribal government within the jurisdiction of 
+1
+the eligible entity. 
+2
+‘‘(i) APPROVAL OF PLANS.— 
+3
+‘‘(1) APPROVAL AS CONDITION OF GRANT.—Be-
+4
+fore an eligible entity may receive a grant under this 
+5
+section, the Secretary, acting through the Director, 
+6
+shall review the Cybersecurity Plan, or any revisions 
+7
+thereto, of the eligible entity and approve such plan, 
+8
+or revised plan, if it satisfies the requirements speci-
+9
+fied in paragraph (2). 
+10
+‘‘(2) PLAN
+REQUIREMENTS.—In approving a 
+11
+Cybersecurity Plan of an eligible entity under this 
+12
+subsection, the Director shall ensure that the Cyber-
+13
+security Plan— 
+14
+‘‘(A) satisfies the requirements of sub-
+15
+section (e)(2); 
+16
+‘‘(B) upon the issuance of the Homeland 
+17
+Security Strategy to Improve the Cybersecurity 
+18
+of State, Local, Tribal, and Territorial Govern-
+19
+ments authorized pursuant to section 2210(e), 
+20
+complies, as appropriate, with the goals and ob-
+21
+jectives of the strategy; and 
+22
+‘‘(C) has been approved by the cybersecu-
+23
+rity planning committee of the eligible entity es-
+24
+tablished under subsection (g). 
+25
+23:57 May 13, 2021
+H3138
+16 
+•HR 3138 IH
+‘‘(3) APPROVAL OF REVISIONS.—The Secretary, 
+1
+acting through the Director, may approve revisions 
+2
+to a Cybersecurity Plan as the Director determines 
+3
+appropriate. 
+4
+‘‘(4) EXCEPTION.—Notwithstanding subsection 
+5
+(e) and paragraph (1) of this subsection, the Sec-
+6
+retary may award a grant under this section to an 
+7
+eligible entity that does not submit a Cybersecurity 
+8
+Plan to the Secretary if— 
+9
+‘‘(A) the eligible entity certifies to the Sec-
+10
+retary that— 
+11
+‘‘(i) the activities that will be sup-
+12
+ported by the grant are integral to the de-
+13
+velopment of the Cybersecurity Plan of the 
+14
+eligible entity; and 
+15
+‘‘(ii) the eligible entity will submit by 
+16
+September 30, 2023, to the Secretary a 
+17
+Cybersecurity Plan for review, and if ap-
+18
+propriate, approval; or 
+19
+‘‘(B) the eligible entity certifies to the Sec-
+20
+retary, and the Director confirms, that the eli-
+21
+gible entity will use funds from the grant to as-
+22
+sist with the activities described in subsection 
+23
+(h)(3). 
+24
+‘‘(j) LIMITATIONS ON USES OF FUNDS.— 
+25
+23:57 May 13, 2021
+H3138
+17 
+•HR 3138 IH
+‘‘(1) IN GENERAL.—An eligible entity that re-
+1
+ceives a grant under this section may not use the 
+2
+grant— 
+3
+‘‘(A) to supplant State, local, or Tribal 
+4
+funds; 
+5
+‘‘(B) for any recipient cost-sharing con-
+6
+tribution; 
+7
+‘‘(C) to pay a demand for ransom in an at-
+8
+tempt to regain access to information or an in-
+9
+formation system of the eligible entity or of a 
+10
+local or Tribal government within the jurisdic-
+11
+tion of the eligible entity; 
+12
+‘‘(D) for recreational or social purposes; or 
+13
+‘‘(E) for any purpose that does not address 
+14
+cybersecurity risks or cybersecurity threats on 
+15
+information systems of the eligible entity or of 
+16
+a local or Tribal government within the jurisdic-
+17
+tion of the eligible entity. 
+18
+‘‘(2) PENALTIES.—In addition to any other 
+19
+remedy available, the Secretary may take such ac-
+20
+tions as are necessary to ensure that a recipient of 
+21
+a grant under this section uses the grant for the 
+22
+purposes for which the grant is awarded. 
+23
+‘‘(k) OPPORTUNITY TO AMEND APPLICATIONS.—In 
+24
+considering applications for grants under this section, the 
+25
+00:15 May 14, 2021
+H3138
+18 
+•HR 3138 IH
+Secretary shall provide applicants with a reasonable op-
+1
+portunity to correct defects, if any, in such applications 
+2
+before making final awards. 
+3
+‘‘(l) APPORTIONMENT.—For fiscal year 2022 and 
+4
+each fiscal year thereafter, the Secretary shall apportion 
+5
+amounts appropriated to carry out this section among 
+6
+States as follows: 
+7
+‘‘(1) BASELINE AMOUNT.—The Secretary shall 
+8
+first apportion 0.25 percent of such amounts to each 
+9
+of American Samoa, the Commonwealth of the 
+10
+Northern Mariana Islands, Guam, the Virgin Is-
+11
+lands,, and 0.75 percent of such amounts to each of 
+12
+the remaining States. 
+13
+‘‘(2) REMAINDER.—The Secretary shall appor-
+14
+tion the remainder of such amounts in the ratio 
+15
+that— 
+16
+‘‘(A) the population of each eligible entity, 
+17
+bears to 
+18
+‘‘(B) the population of all eligible entities. 
+19
+‘‘(m) FEDERAL SHARE.— 
+20
+‘‘(1) IN GENERAL.—The Federal share of the 
+21
+cost of an activity carried out using funds made 
+22
+available with a grant under this section may not ex-
+23
+ceed— 
+24
+23:57 May 13, 2021
+H3138
+19 
+•HR 3138 IH
+‘‘(A) in the case of a grant to an eligible 
+1
+entity— 
+2
+‘‘(i) for fiscal year 2022, 90 percent; 
+3
+‘‘(ii) for fiscal year 2023, 80 percent; 
+4
+‘‘(iii) for fiscal year 2024, 70 percent; 
+5
+‘‘(iv) for fiscal year 2025, 60 percent; 
+6
+and 
+7
+‘‘(v) for fiscal year 2026 and each 
+8
+subsequent fiscal year, 50 percent; and 
+9
+‘‘(B) in the case of a grant to a multistate 
+10
+group— 
+11
+‘‘(i) for fiscal year 2022, 95 percent; 
+12
+‘‘(ii) for fiscal year 2023, 85 percent; 
+13
+‘‘(iii) for fiscal year 2024, 75 percent; 
+14
+‘‘(iv) for fiscal year 2025, 65 percent; 
+15
+and 
+16
+‘‘(v) for fiscal year 2026 and each 
+17
+subsequent fiscal year, 55 percent. 
+18
+‘‘(n) RESPONSIBILITIES OF GRANTEES.— 
+19
+‘‘(1) CERTIFICATION.—Each eligible entity or 
+20
+multistate group that receives a grant under this 
+21
+section shall certify to the Secretary that the grant 
+22
+will be used— 
+23
+‘‘(A) for the purpose for which the grant 
+24
+is awarded; and 
+25
+23:57 May 13, 2021
+H3138
+20 
+•HR 3138 IH
+‘‘(B) in compliance with, as the case may 
+1
+be— 
+2
+‘‘(i) the Cybersecurity Plan of the eli-
+3
+gible entity; 
+4
+‘‘(ii) the Cybersecurity Plans of the el-
+5
+igible entities that comprise the multistate 
+6
+group; or 
+7
+‘‘(iii) a purpose approved by the Sec-
+8
+retary under subsection (h). 
+9
+‘‘(2) AVAILABILITY OF FUNDS TO LOCAL AND 
+10
+TRIBAL
+GOVERNMENTS.—Not later than 45 days 
+11
+after the date on which an eligible entity or 
+12
+multistate group receives a grant under this section, 
+13
+the eligible entity or multistate group shall, without 
+14
+imposing unreasonable or unduly burdensome re-
+15
+quirements as a condition of receipt, obligate or oth-
+16
+erwise make available to local and Tribal govern-
+17
+ments within the jurisdiction of the eligible entity or 
+18
+the eligible entities that comprise the multistate 
+19
+group, consistent with the Cybersecurity Plan of the 
+20
+eligible entity or the Cybersecurity Plans of the eligi-
+21
+ble entities that comprise the multistate group— 
+22
+‘‘(A) not less than 80 percent of funds 
+23
+available under the grant; 
+24
+23:57 May 13, 2021
+H3138
+21 
+•HR 3138 IH
+‘‘(B) with the consent of the local and 
+1
+Tribal governments, items, services, capabilities, 
+2
+or activities having a value of not less than 80 
+3
+percent of the amount of the grant; or 
+4
+‘‘(C) with the consent of the local and 
+5
+Tribal governments, grant funds combined with 
+6
+other items, services, capabilities, or activities 
+7
+having the total value of not less than 80 per-
+8
+cent of the amount of the grant. 
+9
+‘‘(3) CERTIFICATIONS
+REGARDING
+DISTRIBU-
+10
+TION OF GRANT FUNDS TO LOCAL AND TRIBAL GOV-
+11
+ERNMENTS.—An eligible entity or multistate group 
+12
+shall certify to the Secretary that the eligible entity 
+13
+or multistate group has made the distribution to 
+14
+local, Tribal, and territorial governments required 
+15
+under paragraph (2). 
+16
+‘‘(4) EXTENSION OF PERIOD.— 
+17
+‘‘(A) IN GENERAL.—An eligible entity or 
+18
+multistate group may request in writing that 
+19
+the Secretary extend the period of time speci-
+20
+fied in paragraph (2) for an additional period 
+21
+of time. 
+22
+‘‘(B) APPROVAL.—The Secretary may ap-
+23
+prove a request for an extension under subpara-
+24
+graph (A) if the Secretary determines the ex-
+25
+23:57 May 13, 2021
+H3138
+22 
+•HR 3138 IH
+tension is necessary to ensure that the obliga-
+1
+tion and expenditure of grant funds align with 
+2
+the purpose of the State and Local Cybersecu-
+3
+rity Grant Program. 
+4
+‘‘(5) EXCEPTION.—Paragraph (2) shall not 
+5
+apply to the District of Columbia, the Common-
+6
+wealth of Puerto Rico, American Samoa, the Com-
+7
+monwealth of the Northern Mariana Islands, Guam, 
+8
+the Virgin Islands, or a Federally recognized Indian 
+9
+Tribe. 
+10
+‘‘(6) DIRECT FUNDING.—If an eligible entity 
+11
+does not make a distribution to a local or Tribal 
+12
+government required in accordance with paragraph 
+13
+(2), the local or Tribal government may petition the 
+14
+Secretary. 
+15
+‘‘(7) PENALTIES.—In addition to other rem-
+16
+edies available to the Secretary, the Secretary may 
+17
+terminate or reduce the amount of a grant awarded 
+18
+under this section to an eligible entity or transfer 
+19
+grant funds previously awarded to such eligible enti-
+20
+ty directly to the appropriate local or Tribal govern-
+21
+ment if such eligible entity violates a requirement of 
+22
+this subsection. 
+23
+‘‘(o) ADVISORY COMMITTEE.— 
+24
+23:57 May 13, 2021
+H3138
+23 
+•HR 3138 IH
+‘‘(1) ESTABLISHMENT.—Not later than 120 
+1
+days after the date of enactment of this section, the 
+2
+Director shall establish a State and Local Cyberse-
+3
+curity Resiliency Committee to provide State, local, 
+4
+and Tribal stakeholder expertise, situational aware-
+5
+ness, and recommendations to the Director, as ap-
+6
+propriate, regarding how to— 
+7
+‘‘(A) address cybersecurity risks and cyber-
+8
+security threats to information systems of 
+9
+State, local, or Tribal governments; and 
+10
+‘‘(B) improve the ability of State, local, 
+11
+and Tribal governments to prevent, protect 
+12
+against, respond to, mitigate, and recover from 
+13
+such cybersecurity risks and cybersecurity 
+14
+threats. 
+15
+‘‘(2) 
+DUTIES.—The 
+committee 
+established 
+16
+under paragraph (1) shall— 
+17
+‘‘(A) submit to the Director recommenda-
+18
+tions that may inform guidance for applicants 
+19
+for grants under this section; 
+20
+‘‘(B) upon the request of the Director, pro-
+21
+vide to the Director technical assistance to in-
+22
+form the review of Cybersecurity Plans sub-
+23
+mitted by applicants for grants under this sec-
+24
+tion, and, as appropriate, submit to the Direc-
+25
+23:57 May 13, 2021
+H3138
+24 
+•HR 3138 IH
+tor recommendations to improve those plans 
+1
+prior to the approval of the plans under sub-
+2
+section (i); 
+3
+‘‘(C) advise and provide to the Director 
+4
+input regarding the Homeland Security Strat-
+5
+egy to Improve Cybersecurity for State, Local, 
+6
+Tribal, and Territorial Governments required 
+7
+under section 2210; and 
+8
+‘‘(D) upon the request of the Director, pro-
+9
+vide to the Director recommendations, as ap-
+10
+propriate, regarding how to— 
+11
+‘‘(i) address cybersecurity risks and 
+12
+cybersecurity threats on information sys-
+13
+tems of State, local, or Tribal govern-
+14
+ments; and 
+15
+‘‘(ii) improve the cybersecurity resil-
+16
+ience of State, local, or Tribal govern-
+17
+ments. 
+18
+‘‘(3) MEMBERSHIP.— 
+19
+‘‘(A) NUMBER
+AND
+APPOINTMENT.—The 
+20
+State and Local Cybersecurity Resiliency Com-
+21
+mittee established pursuant to paragraph (1) 
+22
+shall be composed of 15 members appointed by 
+23
+the Director, as follows: 
+24
+23:57 May 13, 2021
+H3138
+25 
+•HR 3138 IH
+‘‘(i) Two individuals recommended to 
+1
+the Director by the National Governors As-
+2
+sociation. 
+3
+‘‘(ii) Two individuals recommended to 
+4
+the Director by the National Association of 
+5
+State Chief Information Officers. 
+6
+‘‘(iii) One individual recommended to 
+7
+the Director by the National Guard Bu-
+8
+reau. 
+9
+‘‘(iv) Two individuals recommended to 
+10
+the Director by the National Association of 
+11
+Counties. 
+12
+‘‘(v) One individual recommended to 
+13
+the Director by the National League of 
+14
+Cities. 
+15
+‘‘(vi) One individual recommended to 
+16
+the Director by the United States Con-
+17
+ference of Mayors. 
+18
+‘‘(vii) One individual recommended to 
+19
+the Director by the Multi-State Informa-
+20
+tion Sharing and Analysis Center. 
+21
+‘‘(viii) One individual recommended to 
+22
+the Director by the National Congress of 
+23
+American Indians. 
+24
+23:57 May 13, 2021
+H3138
+26 
+•HR 3138 IH
+‘‘(viii) Four individuals who have edu-
+1
+cational and professional experience relat-
+2
+ing to cybersecurity work or cybersecurity 
+3
+policy. 
+4
+‘‘(B) TERMS.— 
+5
+‘‘(i) IN GENERAL.—Subject to clause 
+6
+(ii), each member of the State and Local 
+7
+Cybersecurity Resiliency Committee shall 
+8
+be appointed for a term of two years. 
+9
+‘‘(ii) EXCEPTION.—A term of a mem-
+10
+ber of the State and Local Cybersecurity 
+11
+Resiliency Committee shall be three years 
+12
+if the member is appointed initially to the 
+13
+Committee upon the establishment of the 
+14
+Committee. 
+15
+‘‘(iii) TERM REMAINDERS.—Any mem-
+16
+ber of the State and Local Cybersecurity 
+17
+Resiliency Committee appointed to fill a 
+18
+vacancy occurring before the expiration of 
+19
+the term for which the member’s prede-
+20
+cessor was appointed shall be appointed 
+21
+only for the remainder of such term. A 
+22
+member may serve after the expiration of 
+23
+such member’s term until a successor has 
+24
+taken office. 
+25
+23:57 May 13, 2021
+H3138
+27 
+•HR 3138 IH
+‘‘(iv) VACANCIES.—A vacancy in State 
+1
+and Local Cybersecurity Resiliency Com-
+2
+mittee shall be filled in the manner in 
+3
+which the original appointment was made. 
+4
+‘‘(C) PAY.—Members of the State and 
+5
+Local Cybersecurity Resiliency Committee shall 
+6
+serve without pay. 
+7
+‘‘(4) CHAIRPERSON; VICE CHAIRPERSON.—The 
+8
+members of the State and Local Cybersecurity Resil-
+9
+iency Committee shall select a chairperson and vice 
+10
+chairperson from among members of the committee. 
+11
+‘‘(5) 
+PERMANENT
+AUTHORITY.—Notwith-
+12
+standing section 14 of the Federal Advisory Com-
+13
+mittee Act (5 U.S.C. App.), the State and Local Cy-
+14
+bersecurity Resiliency Committee shall be a perma-
+15
+nent authority. 
+16
+‘‘(p) REPORTS.— 
+17
+‘‘(1) ANNUAL
+REPORTS
+BY
+GRANT
+RECIPI-
+18
+ENTS.— 
+19
+‘‘(A) IN
+GENERAL.—Not later than 30 
+20
+days after the end of a fiscal year during which 
+21
+an eligible entity or multistate group receives 
+22
+funds under this section, the eligible entity or 
+23
+multistate group shall submit to the Secretary 
+24
+a report on the progress of the eligible entity or 
+25
+23:57 May 13, 2021
+H3138
+28 
+•HR 3138 IH
+multistate group in implementing the Cyberse-
+1
+curity Plan of the eligible entity or Cybersecu-
+2
+rity Plans of the eligible entities that comprise 
+3
+the multistate group, as the case may be. 
+4
+‘‘(B) ABSENCE OF PLAN.—Not later than 
+5
+30 days after the end of a fiscal year during 
+6
+which an eligible entity that does not have a 
+7
+Cybersecurity Plan receives funds under this 
+8
+section, the eligible entity shall submit to the 
+9
+Secretary a report describing how the eligible 
+10
+entity obligated and expended grant funds dur-
+11
+ing the fiscal year to— 
+12
+‘‘(i) develop a Cybersecurity Plan; or 
+13
+‘‘(ii) assist with the activities de-
+14
+scribed in subsection (h)(3). 
+15
+‘‘(C) PUBLIC
+AVAILABILITY.—The Sec-
+16
+retary, acting through the Director, shall make 
+17
+each report submitted under subparagraphs (A) 
+18
+and (B) publicly available, including by making 
+19
+each such report available on the internet 
+20
+website of the Agency, subject to any redactions 
+21
+the Director determines necessary to protect 
+22
+classified or other sensitive information. 
+23
+‘‘(2) ANNUAL
+REPORTS
+TO
+CONGRESS.—Not 
+24
+less than frequently than once per year, the Sec-
+25
+23:57 May 13, 2021
+H3138
+29 
+•HR 3138 IH
+retary, acting through the Director, shall submit to 
+1
+Congress a report on the use of grants awarded 
+2
+under this section and any progress made toward 
+3
+the following: 
+4
+‘‘(A) Achieving the objectives set forth in 
+5
+the Homeland Security Strategy to Improve the 
+6
+Cybersecurity of State, Local, Tribal, and Ter-
+7
+ritorial Governments, upon the date on which 
+8
+the strategy is issued under section 2210. 
+9
+‘‘(B) Developing, implementing, or revising 
+10
+Cybersecurity Plans. 
+11
+‘‘(C) Reducing cybersecurity risks and cy-
+12
+bersecurity threats to information systems 
+13
+owned or operated by State, local, and Tribal 
+14
+governments as a result of the award of such 
+15
+grants. 
+16
+‘‘(q) AUTHORIZATION OF APPROPRIATIONS.—There 
+17
+are authorized to be appropriated for grants under this 
+18
+section— 
+19
+‘‘(1) for each of fiscal years 2022 through 
+20
+2026, $500,000,000; and 
+21
+‘‘(2) for each subsequent fiscal year, such sums 
+22
+as may be necessary. 
+23
+23:57 May 13, 2021
+H3138
+30 
+•HR 3138 IH
+‘‘SEC. 2220B. CYBERSECURITY RESOURCE GUIDE DEVELOP-
+1
+MENT FOR STATE, LOCAL, TRIBAL, AND TER-
+2
+RITORIAL GOVERNMENT OFFICIALS. 
+3
+‘‘The Secretary, acting through the Director, shall 
+4
+develop, regularly update, and maintain a resource guide 
+5
+for use by State, local, Tribal, and territorial government 
+6
+officials, including law enforcement officers, to help such 
+7
+officials identify, prepare for, detect, protect against, re-
+8
+spond to, and recover from cybersecurity risks (as such 
+9
+term is defined in section 2209), cybersecurity threats, 
+10
+and incidents (as such term is defined in section 2209).’’. 
+11
+(b) CLERICAL AMENDMENT.—The table of contents 
+12
+in section 1(b) of the Homeland Security Act of 2002, as 
+13
+amended by section 4, is further amended by inserting 
+14
+after the item relating to section 2220 the following new 
+15
+items: 
+16
+‘‘Sec. 2220A. State and Local Cybersecurity Grant Program. 
+‘‘Sec. 2220B. Cybersecurity resource guide development for State, local, Tribal, 
+and territorial government officials.’’. 
+SEC. 3. STRATEGY. 
+17
+(a) HOMELAND SECURITY STRATEGY TO IMPROVE 
+18
+THE CYBERSECURITY OF STATE, LOCAL, TRIBAL, AND 
+19
+TERRITORIAL
+GOVERNMENTS.—Section 2210 of the 
+20
+Homeland Security Act of 2002 (6 U.S.C. 660) is amend-
+21
+ed by adding at the end the following new subsection: 
+22
+23:57 May 13, 2021
+H3138
+31 
+•HR 3138 IH
+‘‘(e) HOMELAND SECURITY STRATEGY TO IMPROVE 
+1
+THE CYBERSECURITY OF STATE, LOCAL, TRIBAL, AND 
+2
+TERRITORIAL GOVERNMENTS.— 
+3
+‘‘(1) IN GENERAL.— 
+4
+‘‘(A) REQUIREMENT.—Not later than 270 
+5
+days after the date of the enactment of this 
+6
+subsection, the Secretary, acting through the 
+7
+Director, shall, in coordination with the heads 
+8
+of appropriate Federal agencies, State, local, 
+9
+Tribal, and territorial governments, the State 
+10
+and Local Cybersecurity Resilience Committee 
+11
+established under section 2220A, and other 
+12
+stakeholders, as appropriate, develop and make 
+13
+publicly available a Homeland Security Strategy 
+14
+to Improve the Cybersecurity of State, Local, 
+15
+Tribal, and Territorial Governments. 
+16
+‘‘(B) RECOMMENDATIONS
+AND
+REQUIRE-
+17
+MENTS.—The strategy required under subpara-
+18
+graph (A) shall— 
+19
+‘‘(i) provide recommendations relating 
+20
+to the ways in which the Federal Govern-
+21
+ment should support and promote the abil-
+22
+ity of State, local, Tribal, and territorial 
+23
+governments to identify, protect against, 
+24
+detect, respond to, and recover from cyber-
+25
+23:57 May 13, 2021
+H3138
+32 
+•HR 3138 IH
+security risks (as such term is defined in 
+1
+section 2209), cybersecurity threats, and 
+2
+incidents (as such term is defined in sec-
+3
+tion 2209); and 
+4
+‘‘(ii) establish baseline requirements 
+5
+for cybersecurity plans under this section 
+6
+and principles with which such plans shall 
+7
+align. 
+8
+‘‘(2) CONTENTS.—The strategy required under 
+9
+paragraph (1) shall— 
+10
+‘‘(A) identify capability gaps in the ability 
+11
+of State, local, Tribal, and territorial govern-
+12
+ments to identify, protect against, detect, re-
+13
+spond to, and recover from cybersecurity risks, 
+14
+cybersecurity threats, and incidents; 
+15
+‘‘(B) identify Federal resources and capa-
+16
+bilities that are available or could be made 
+17
+available to State, local, Tribal, and territorial 
+18
+governments to help those governments identify, 
+19
+protect against, detect, respond to, and recover 
+20
+from cybersecurity risks, cybersecurity threats, 
+21
+and incidents; 
+22
+‘‘(C) identify and assess the limitations of 
+23
+Federal resources and capabilities available to 
+24
+State, local, Tribal, and territorial governments 
+25
+23:57 May 13, 2021
+H3138
+33 
+•HR 3138 IH
+to help those governments identify, protect 
+1
+against, detect, respond to, and recover from 
+2
+cybersecurity risks, cybersecurity threats, and 
+3
+incidents, and make recommendations to ad-
+4
+dress such limitations; 
+5
+‘‘(D) identify opportunities to improve the 
+6
+coordination of the Agency with Federal and 
+7
+non-Federal entities, such as the Multi-State 
+8
+Information Sharing and Analysis Center, to 
+9
+improve— 
+10
+‘‘(i) incident exercises, information 
+11
+sharing and incident notification proce-
+12
+dures; 
+13
+‘‘(ii) the ability for State, local, Trib-
+14
+al, and territorial governments to volun-
+15
+tarily adapt and implement guidance in 
+16
+Federal binding operational directives; and 
+17
+‘‘(iii) opportunities to leverage Federal 
+18
+schedules for cybersecurity investments 
+19
+under section 502 of title 40, United 
+20
+States Code; 
+21
+‘‘(E) recommend new initiatives the Fed-
+22
+eral Government should undertake to improve 
+23
+the ability of State, local, Tribal, and territorial 
+24
+governments to identify, protect against, detect, 
+25
+23:57 May 13, 2021
+H3138
+34 
+•HR 3138 IH
+respond to, and recover from cybersecurity 
+1
+risks, cybersecurity threats, and incidents; 
+2
+‘‘(F) set short-term and long-term goals 
+3
+that will improve the ability of State, local, 
+4
+Tribal, and territorial governments to identify, 
+5
+protect against, detect, respond to, and recover 
+6
+from cybersecurity risks, cybersecurity threats, 
+7
+and incidents; and 
+8
+‘‘(G) set dates, including interim bench-
+9
+marks, as appropriate for State, local, Tribal, 
+10
+and territorial governments to establish baseline 
+11
+capabilities to identify, protect against, detect, 
+12
+respond to, and recover from cybersecurity 
+13
+risks, cybersecurity threats, and incidents. 
+14
+‘‘(3) 
+CONSIDERATIONS.—In 
+developing 
+the 
+15
+strategy required under paragraph (1), the Director, 
+16
+in coordination with the heads of appropriate Fed-
+17
+eral agencies, State, local, Tribal, and territorial 
+18
+governments, the State and Local Cybersecurity Re-
+19
+silience Committee established under section 2220A, 
+20
+and other stakeholders, as appropriate, shall con-
+21
+sider— 
+22
+‘‘(A) lessons learned from incidents that 
+23
+have affected State, local, Tribal, and territorial 
+24
+23:57 May 13, 2021
+H3138
+35 
+•HR 3138 IH
+governments, and exercises with Federal and 
+1
+non-Federal entities; 
+2
+‘‘(B) the impact of incidents that have af-
+3
+fected State, local, Tribal, and territorial gov-
+4
+ernments, including the resulting costs to such 
+5
+governments; 
+6
+‘‘(C) the information related to the interest 
+7
+and ability of state and non-state threat actors 
+8
+to compromise information systems (as such 
+9
+term is defined in section 102 of the Cybersecu-
+10
+rity Act of 2015 (6 U.S.C. 1501)) owned or op-
+11
+erated by State, local, Tribal, and territorial 
+12
+governments; 
+13
+‘‘(D) emerging cybersecurity risks and cy-
+14
+bersecurity threats to State, local, Tribal, and 
+15
+territorial governments resulting from the de-
+16
+ployment of new technologies; and 
+17
+‘‘(E) recommendations made by the State 
+18
+and Local Cybersecurity Resilience Committee 
+19
+established under section 2220A.’’. 
+20
+(b) RESPONSIBILITIES OF THE DIRECTOR OF THE 
+21
+CYBERSECURITY AND INFRASTRUCTURE SECURITY AGEN-
+22
+CY.—Section 2202(c) of the Homeland Security Act of 
+23
+2002 (6 U.S.C. 652(c)) is amended— 
+24
+23:57 May 13, 2021
+H3138
+36 
+•HR 3138 IH
+(1) by redesignating paragraphs (6), (7), (8), 
+1
+(9), (10), and (11) as paragraphs (10), (11), (12), 
+2
+(13), (14), and (15), respectively; and 
+3
+(2) by inserting after paragraph (5) the fol-
+4
+lowing new paragraphs: 
+5
+‘‘(6) develop program guidance, in consultation 
+6
+with the State and Local Government Cybersecurity 
+7
+Resiliency Committee established under section 
+8
+2220A, for the State and Local Cybersecurity Grant 
+9
+Program under such section or any other homeland 
+10
+security assistance administered by the Department 
+11
+to improve cybersecurity; 
+12
+‘‘(7) review, in consultation with the State and 
+13
+Local Cybersecurity Resiliency Committee, all cyber-
+14
+security plans of State, local, Tribal, and territorial 
+15
+governments developed pursuant to any homeland 
+16
+security assistance administered by the Department 
+17
+to improve cybersecurity; 
+18
+‘‘(8) provide expertise and technical assistance 
+19
+to State, local, Tribal, and territorial government of-
+20
+ficials with respect to cybersecurity; 
+21
+‘‘(9) provide education, training, and capacity 
+22
+development to enhance the security and resilience 
+23
+of cybersecurity and infrastructure security;’’. 
+24
+23:57 May 13, 2021
+H3138
+37 
+•HR 3138 IH
+(c) FEASIBILITY STUDY.—Not later than 180 days 
+1
+after the date of the enactment of this Act, the Director 
+2
+of the Cybersecurity and Infrastructure Security of the 
+3
+Department of Homeland Security shall conduct a study 
+4
+to assess the feasibility of implementing a short-term rota-
+5
+tional program for the detail to the Agency of approved 
+6
+State, local, Tribal, and territorial government employees 
+7
+in cyber workforce positions. 
+8
+SEC. 4. TITLE XXII TECHNICAL AND CLERICAL AMEND-
+9
+MENTS. 
+10
+(a) TECHNICAL AMENDMENTS.— 
+11
+(1) HOMELAND SECURITY ACT OF 2002.—Sub-
+12
+title A of title XXII of the Homeland Security Act 
+13
+of 2002 (6 U.S.C. 651 et seq.) is amended— 
+14
+(A) in the first section 2215 (6 U.S.C. 
+15
+665; relating to the duties and authorities relat-
+16
+ing to .gov internet domain), by amending the 
+17
+section enumerator and heading to read as fol-
+18
+lows: 
+19
+‘‘SEC. 2215. DUTIES AND AUTHORITIES RELATING TO .GOV 
+20
+INTERNET DOMAIN.’’; 
+21
+(B) in the second section 2215 (6 U.S.C. 
+22
+665b; relating to the joint cyber planning of-
+23
+fice), by amending the section enumerator and 
+24
+heading to read as follows: 
+25
+23:57 May 13, 2021
+H3138
+38 
+•HR 3138 IH
+‘‘SEC. 2216. JOINT CYBER PLANNING OFFICE.’’; 
+1
+(C) in the third section 2215 (6 U.S.C. 
+2
+665c; relating to the Cybersecurity State Coor-
+3
+dinator), by amending the section enumerator 
+4
+and heading to read as follows: 
+5
+‘‘SEC. 2217. CYBERSECURITY STATE COORDINATOR.’’; 
+6
+(D) in the fourth section 2215 (6 U.S.C. 
+7
+665d; relating to Sector Risk Management 
+8
+Agencies), by amending the section enumerator 
+9
+and heading to read as follows: 
+10
+‘‘SEC. 2218. SECTOR RISK MANAGEMENT AGENCIES.’’; 
+11
+(E) in section 2216 (6 U.S.C. 665e; relat-
+12
+ing to the Cybersecurity Advisory Committee), 
+13
+by amending the section enumerator and head-
+14
+ing to read as follows: 
+15
+‘‘SEC. 2219. CYBERSECURITY ADVISORY COMMITTEE.’’; and 
+16
+(F) in section 2217 (6 U.S.C. 665f; relat-
+17
+ing to Cybersecurity Education and Training 
+18
+Programs), by amending the section enu-
+19
+merator and heading to read as follows: 
+20
+‘‘SEC. 2220. CYBERSECURITY EDUCATION AND TRAINING 
+21
+PROGRAMS.’’. 
+22
+(2) 
+CONSOLIDATED
+APPROPRIATIONS
+ACT, 
+23
+2021.—Paragraph (1) of section 904(b) of division U 
+24
+of the Consolidated Appropriations Act, 2021 (Pub-
+25
+lic Law 116–260) is amended, in the matter pre-
+26
+23:57 May 13, 2021
+H3138
+39 
+•HR 3138 IH
+ceding subparagraph (A), by inserting ‘‘of 2002’’ 
+1
+after ‘‘Homeland Security Act’’. 
+2
+(b) CLERICAL AMENDMENT.—The table of contents 
+3
+in section 1(b) of the Homeland Security Act of 2002 is 
+4
+amended by striking the items relating to sections 2214 
+5
+through 2217 and inserting the following new items: 
+6
+‘‘Sec. 2214. National Asset Database. 
+‘‘Sec. 2215. Duties and authorities relating to .gov internet domain. 
+‘‘Sec. 2216. Joint cyber planning office. 
+‘‘Sec. 2217. Cybersecurity State Coordinator. 
+‘‘Sec. 2218. Sector Risk Management Agencies. 
+‘‘Sec. 2219. Cybersecurity Advisory Committee. 
+‘‘Sec. 2220. Cybersecurity Education and Training Programs.’’. 
+Æ 
+23:57 May 13, 2021
+H3138

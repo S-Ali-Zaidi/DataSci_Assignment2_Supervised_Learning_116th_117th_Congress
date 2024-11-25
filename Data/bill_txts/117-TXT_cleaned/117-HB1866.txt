@@ -1,0 +1,317 @@
+A BILL 
+To establish and support a quantum network infrastructure 
+research and development program at the Department 
+of Energy, and for other purposes. 
+Be it enacted by the Senate and House of Representa-
+1
+tives of the United States of America in Congress assembled, 
+2
+SECTION 1. SHORT TITLE. 
+3
+This Act may be cited as the ‘‘Quantum Network In-
+4
+frastructure Act of 2021’’. 
+5
+SEC. 2. DEFINITIONS. 
+6
+Section 2 of the National Quantum Initiative Act (15 
+7
+U.S.C. 8801) is amended— 
+8
+02:29 Jun 26, 2021
+H1866
+2 
+•HR 1866 IH
+(1) by redesignating paragraph (7) as para-
+1
+graph (8); and 
+2
+(2) by inserting after paragraph (6) the fol-
+3
+lowing: 
+4
+‘‘(7) QUANTUM NETWORK INFRASTRUCTURE.— 
+5
+The term ‘quantum network infrastructure’ means 
+6
+any facility, expertise, or capability that is necessary 
+7
+to enable the development and deployment of scal-
+8
+able and diverse quantum network technologies.’’. 
+9
+SEC. 3. DEPARTMENT OF ENERGY QUANTUM NETWORK IN-
+10
+FRASTRUCTURE RESEARCH AND DEVELOP-
+11
+MENT PROGRAM. 
+12
+Title IV of the National Quantum Initiative Act (15 
+13
+U.S.C. 8851 et seq.) is amended by adding at the end 
+14
+the following: 
+15
+‘‘SEC. 403. DEPARTMENT OF ENERGY QUANTUM NETWORK 
+16
+INFRASTRUCTURE RESEARCH AND DEVELOP-
+17
+MENT PROGRAM. 
+18
+‘‘(a) IN GENERAL.—The Secretary of Energy (re-
+19
+ferred to in this section as the ‘Secretary’) shall carry out 
+20
+a research, development, and demonstration program to 
+21
+accelerate innovation in quantum network infrastructure 
+22
+in order to— 
+23
+02:29 Jun 26, 2021
+H1866
+3 
+•HR 1866 IH
+‘‘(1) facilitate the advancement of distributed 
+1
+quantum computing systems through the internet 
+2
+and intranet; 
+3
+‘‘(2) improve the precision of measurements of 
+4
+scientific phenomena and physical imaging tech-
+5
+nologies; and 
+6
+‘‘(3) develop secure national quantum commu-
+7
+nications technologies and strategies. 
+8
+‘‘(b) PROGRAM.—In carrying out this section, the 
+9
+Secretary shall— 
+10
+‘‘(1) coordinate with— 
+11
+‘‘(A) the Director of the National Science 
+12
+Foundation; 
+13
+‘‘(B) the Director of the National Institute 
+14
+of Standards and Technology; 
+15
+‘‘(C) the Chair of the subcommittee on 
+16
+Quantum Information Science of the National 
+17
+Science and Technology Council established 
+18
+under section 103(a); and 
+19
+‘‘(D) the Chair of the subcommittee on the 
+20
+Economic and Security Implications of Quan-
+21
+tum Science; 
+22
+‘‘(2) conduct cooperative research with indus-
+23
+try, National Laboratories, institutions of higher 
+24
+education, and other research institutions to facili-
+25
+02:29 Jun 26, 2021
+H1866
+4 
+•HR 1866 IH
+tate new quantum infrastructure methods and tech-
+1
+nologies, including— 
+2
+‘‘(A) quantum-limited detectors, ultra-low 
+3
+loss optical channels, space-to-ground connec-
+4
+tions, and classical networking and cybersecu-
+5
+rity protocols; 
+6
+‘‘(B) entanglement and hyper-entangled 
+7
+state sources and transmission, control, and 
+8
+measurement of quantum states; 
+9
+‘‘(C) quantum interconnects that allow 
+10
+short range local connections between quantum 
+11
+processors; 
+12
+‘‘(D) transducers for quantum sources and 
+13
+signals between optical and telecommunications 
+14
+regimes and quantum computer-relevant do-
+15
+mains, including microwaves; 
+16
+‘‘(E) development of quantum memory 
+17
+buffers and small-scale quantum computers 
+18
+that are compatible with photon-based quantum 
+19
+bits in the optical or telecommunications wave-
+20
+lengths; 
+21
+‘‘(F) long-range entanglement distribution 
+22
+at both the terrestrial and space-based level 
+23
+using quantum repeaters, allowing entangle-
+24
+02:29 Jun 26, 2021
+H1866
+5 
+•HR 1866 IH
+ment-based protocols between small- and large- 
+1
+scale quantum processors; 
+2
+‘‘(G) quantum routers, multiplexers, re-
+3
+peaters, and related technologies necessary to 
+4
+create secure long-distance quantum commu-
+5
+nication; and 
+6
+‘‘(H) integration of systems across the 
+7
+quantum technology stack into traditional com-
+8
+puting networks, including the development of 
+9
+remote controlled, high performance, and reli-
+10
+able implementations of key quantum network 
+11
+components; 
+12
+‘‘(3) engage with the Quantum Economic De-
+13
+velopment Consortium (QED–C) to transition com-
+14
+ponent technologies to help facilitate as appropriate 
+15
+the development of a quantum supply chain for 
+16
+quantum network technologies; 
+17
+‘‘(4) advance basic research in advanced sci-
+18
+entific computing and material science to enhance 
+19
+the understanding, prediction, and manipulation of 
+20
+materials and processes relevant to quantum net-
+21
+work infrastructure; 
+22
+‘‘(5) develop experimental tools and testbeds 
+23
+necessary to support cross-cutting fundamental re-
+24
+search and development activities with diverse stake-
+25
+02:29 Jun 26, 2021
+H1866
+6 
+•HR 1866 IH
+holders from industry and institutions of higher edu-
+1
+cation; and 
+2
+‘‘(6) consider quantum network infrastructure 
+3
+applications that span the Department of Energy’s 
+4
+missions in energy, environment, and national secu-
+5
+rity. 
+6
+‘‘(c) LEVERAGING.—In carrying out this section, the 
+7
+Secretary shall leverage resources, infrastructure, and ex-
+8
+pertise across the Department of Energy and from— 
+9
+‘‘(1) the National Institute of Standards and 
+10
+Technology; 
+11
+‘‘(2) the National Science Foundation; 
+12
+‘‘(3) the National Aeronautics and Space Ad-
+13
+ministration; 
+14
+‘‘(4) other relevant Federal agencies; 
+15
+‘‘(5) the National Laboratories; 
+16
+‘‘(6) industry stakeholders; 
+17
+‘‘(7) institutions of higher education; and 
+18
+‘‘(8) 
+the 
+National 
+Quantum 
+Information 
+19
+Science Research Centers. 
+20
+‘‘(d) RESEARCH PLAN.—Not later than 180 days 
+21
+after the date of the enactment of the Quantum Network 
+22
+Infrastructure Act of 2021, the Secretary shall submit to 
+23
+the Committee on Science, Space, and Technology of the 
+24
+House of Representatives and the Committee on Energy 
+25
+02:29 Jun 26, 2021
+H1866
+7 
+•HR 1866 IH
+and Natural Resources of the Senate, a 4-year research 
+1
+plan that identifies and prioritizes basic research needs re-
+2
+lating to quantum network infrastructure. 
+3
+‘‘(e) STANDARD OF REVIEW.—The Secretary shall 
+4
+review activities carried out under this section to deter-
+5
+mine the achievement of technical milestones. 
+6
+‘‘(f) FUNDING.—Funds authorized to be appro-
+7
+priated for the Department of Energy’s Office of Science, 
+8
+there shall be made available to the Secretary to carry out 
+9
+the activities under this section, $100,000,000 for each 
+10
+of fiscal years 2022 through 2026.’’. 
+11
+Æ 
+02:29 Jun 26, 2021
+H1866
